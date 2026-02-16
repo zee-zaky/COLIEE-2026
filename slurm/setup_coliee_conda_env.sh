@@ -9,7 +9,7 @@ ENV_NAME=coliee
 NOBACKUP=/nesi/nobackup/uoa04665/mzak071
 
 echo "🗑️   Deleting old env & caches…"
-rm -rf ~/.conda/envs/$ENV_NAME
+rm -rf "$NOBACKUP/conda_envs/$ENV_NAME"
 rm -rf "$NOBACKUP/conda_pkgs" "$NOBACKUP/tmp" "$NOBACKUP/hf_home"
 mkdir -p "$NOBACKUP/conda_pkgs" "$NOBACKUP/tmp" "$NOBACKUP/hf_home"
 
@@ -40,12 +40,27 @@ module load Miniforge3/25.3.1-0
 source "$(conda info --base)/etc/profile.d/conda.sh"
 export PYTHONNOUSERSITE=1
 
+# ---- Keep ALL conda state off $HOME ----
+export CONDARC="$NOBACKUP/condarc"
+export CONDA_ENVS_PATH="$NOBACKUP/conda_envs"
+mkdir -p "$CONDA_ENVS_PATH"
 
 
-echo "⚙️   Configuring conda pkgs_dirs → $CONDA_PKGS_DIRS"
-conda config --set env_prompt '({name})'
-conda config --remove-key pkgs_dirs 2>/dev/null || true
-conda config --add pkgs_dirs "$CONDA_PKGS_DIRS"
+# Write a minimal condarc in nobackup (idempotent)
+cat > "$CONDARC" <<EOF
+env_prompt: '({name})'
+pkgs_dirs:
+  - $CONDA_PKGS_DIRS
+channels:
+  - conda-forge
+channel_priority: strict
+EOF
+
+echo "⚙️   Using CONDARC=$CONDARC"
+echo "⚙️   Using CONDA_ENVS_PATH=$CONDA_ENVS_PATH"
+echo "⚙️   Using CONDA_PKGS_DIRS=$CONDA_PKGS_DIRS"
+
+
 
 ##############################
 # 3. Create minimal env
