@@ -30,22 +30,16 @@ mkdir -p "$HUGGINGFACE_HUB_CACHE"
 echo "📦  Loading Miniforge3 (recommended by NeSI)…"
 module --force purge
 
-# Try to discover an available Miniforge3 module and load it.
-# This avoids hardcoding a version that isn't on this cluster/software stack.
-MF_LINE="$(module -t avail Miniforge3 2>&1 | grep -E '^Miniforge3/' | head -n 1 || true)"
+# Often required on NeSI; harmless if not needed on your node:
+module load NeSI/zen3 2>/dev/null || true
 
-if [[ -z "$MF_LINE" ]]; then
-  echo "❌  No Miniforge3 module found via 'module avail Miniforge3'."
-  echo "    Run: module spider Miniforge3"
-  exit 1
-fi
-
-echo "✅  Loading: $MF_LINE"
-module load "$MF_LINE"
+# Load newest available Miniforge3 explicitly
+module load Miniforge3/25.3.1-0
 
 # Initialize conda
 source "$(conda info --base)/etc/profile.d/conda.sh"
 export PYTHONNOUSERSITE=1
+
 
 
 echo "⚙️   Configuring conda pkgs_dirs → $CONDA_PKGS_DIRS"
