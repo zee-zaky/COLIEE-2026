@@ -8,12 +8,12 @@ echo "🔄  START: full clean-rebuild of Conda env 'coliee'"
 # 0. Purge old stuff
 ##############################
 ENV_NAME=coliee
-NOBACKUP=/nesi/nobackup/uoa04341/mzak071
+NOBACKUP=/nesi/nobackup/uoa04665/mzak071
 
 #echo "🗑️   Deleting old env & caches…"
-#rm -rf ~/.conda/envs/$ENV_NAME
-#rm -rf $NOBACKUP/{conda_pkgs,tmp,hf_cache}
-#mkdir -p $NOBACKUP/{conda_pkgs,tmp,hf_cache}
+rm -rf ~/.conda/envs/$ENV_NAME
+rm -rf $NOBACKUP/{conda_pkgs,tmp,hf_cache}
+mkdir -p $NOBACKUP/{conda_pkgs,tmp,hf_cache}
 
 ##############################
 # 1. Set cache variables
@@ -21,7 +21,11 @@ NOBACKUP=/nesi/nobackup/uoa04341/mzak071
 echo "📁  Setting cache locations under $NOBACKUP"
 export TMPDIR="$NOBACKUP/tmp"
 export CONDA_PKGS_DIRS="$NOBACKUP/conda_pkgs"
-export TRANSFORMERS_CACHE="$NOBACKUP/hf_cache"
+export HF_HOME="$NOBACKUP/hf_home"
+export HUGGINGFACE_HUB_CACHE="$HF_HOME/hub"
+export TRANSFORMERS_CACHE="$HUGGINGFACE_HUB_CACHE"
+mkdir -p "$HUGGINGFACE_HUB_CACHE"
+
 
 ##############################
 # 2. Load Conda/Mamba modules
@@ -33,7 +37,9 @@ module load Mamba/23.1.0-1
 
 echo "⚙️   Configuring conda pkgs_dirs → $CONDA_PKGS_DIRS"
 conda config --set env_prompt '({name})'
+conda config --remove-key pkgs_dirs 2>/dev/null || true
 conda config --add pkgs_dirs "$CONDA_PKGS_DIRS"
+
 
 ##############################
 # 3. Create minimal env
