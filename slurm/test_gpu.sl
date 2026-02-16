@@ -3,7 +3,6 @@
 #SBATCH --account        uoa04665  # account to charge
 #SBATCH --time=00-00:10:00  # Walltime (DD-HH:MM:SS)
 
-#SBATCH --partition genoa       # partition (queue) to submit to
 #SBATCH --cpus-per-task=2   # number of CPUs per task (1 by default)
 #SBATCH --gpus-per-node=A100:1
 
