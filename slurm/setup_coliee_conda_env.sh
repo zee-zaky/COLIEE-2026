@@ -1,23 +1,15 @@
 #!/bin/bash
-# slurm/setup_coliee_conda_env.sh   — clean rebuild with progress echoes
-
 set -euo pipefail
 echo "🔄  START: full clean-rebuild of Conda env 'coliee'"
 
-##############################
-# 0. Purge old stuff
-##############################
 ENV_NAME=coliee
 NOBACKUP=/nesi/nobackup/uoa04665/mzak071
 
-#echo "🗑️   Deleting old env & caches…"
+echo "🗑️   Deleting old env & caches…"
 rm -rf ~/.conda/envs/$ENV_NAME
-rm -rf $NOBACKUP/{conda_pkgs,tmp,hf_cache}
-mkdir -p $NOBACKUP/{conda_pkgs,tmp,hf_cache}
+rm -rf "$NOBACKUP/conda_pkgs" "$NOBACKUP/tmp" "$NOBACKUP/hf_home"
+mkdir -p "$NOBACKUP/conda_pkgs" "$NOBACKUP/tmp" "$NOBACKUP/hf_home"
 
-##############################
-# 1. Set cache variables
-##############################
 echo "📁  Setting cache locations under $NOBACKUP"
 export TMPDIR="$NOBACKUP/tmp"
 export CONDA_PKGS_DIRS="$NOBACKUP/conda_pkgs"
@@ -26,25 +18,18 @@ export HUGGINGFACE_HUB_CACHE="$HF_HOME/hub"
 export TRANSFORMERS_CACHE="$HUGGINGFACE_HUB_CACHE"
 mkdir -p "$HUGGINGFACE_HUB_CACHE"
 
-
-##############################
-# 2. Load Conda/Mamba modules
-##############################
-echo "📦  Loading Miniconda & Mamba modules…"
-module purge
-module load Miniconda3/23.10.0-1
-module load Mamba/23.1.0-1
+echo "📦  Loading Miniforge3 (recommended by NeSI)…"
+module --force purge
+module load Miniforge3/25.3.1-0   # adjust if needed
+source "$(conda info --base)/etc/profile.d/conda.sh"
+export PYTHONNOUSERSITE=1
 
 echo "⚙️   Configuring conda pkgs_dirs → $CONDA_PKGS_DIRS"
 conda config --set env_prompt '({name})'
 conda config --remove-key pkgs_dirs 2>/dev/null || true
 conda config --add pkgs_dirs "$CONDA_PKGS_DIRS"
 
-
-##############################
-# 3. Create minimal env
-##############################
-YAML=$TMPDIR/env.yml
+YAML="$TMPDIR/env.yml"
 echo "📝  Writing YAML spec → $YAML"
 cat > "$YAML" <<EOF
 name: $ENV_NAME
@@ -58,28 +43,24 @@ dependencies:
   - safetensors
 EOF
 
-echo "🚀  mamba env create (this can take a minute)…"
-mamba env create -f "$YAML"
+echo "🚀  Creating env…"
+# Prefer mamba if present; otherwise conda works (slower).
+if command -v mamba >/dev/null 2>&1; then
+  mamba env create -f "$YAML"
+else
+  conda env create -f "$YAML"
+fi
 
-##############################
-# 4. Quick sanity check
-##############################
 echo "🔍  Activating env & printing versions…"
-source "$(conda info --base)/etc/profile.d/conda.sh"
 conda activate "$ENV_NAME"
 
 python - <<'PY'
 import transformers, os, sys, platform
-print("✅  Env OK — CPU-only build")
+print("✅  Env OK")
 print("   Python        :", platform.python_version())
 print("   Transformers  :", transformers.__version__)
-print("   HF cache      :", os.environ["TRANSFORMERS_CACHE"])
+print("   HF cache      :", os.environ.get("TRANSFORMERS_CACHE"))
 print("   Env location  :", sys.prefix)
 PY
 
 echo "🎉  DONE: Conda environment '$ENV_NAME' rebuilt."
-echo "   * Environment folder : ~/.conda/envs/$ENV_NAME"
-echo "   * Conda pkgs cache   : $CONDA_PKGS_DIRS"
-echo "   * HF model cache     : $TRANSFORMERS_CACHE"
-echo "   * Temp build dir     : $TMPDIR"
-
