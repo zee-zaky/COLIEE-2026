@@ -1,0 +1,716 @@
+1.
+Introduction
+[1]
+Blanchard, J.
+: Pfizer Canada Inc. and Pfizer Inc. seek an order to prohibit the Minister of Health from issuing a notice of compliance to Novopharm Limited (Novopharm) in respect of its tablets for oral administration comprising azithromycin monohydrate in a strength equivalent to 250 mg azithromycin until after the expiry of Canadian Patent 2,148,071 (the '071 Patent). Azithromycinis manufactured and sold by the Applicants under the brand name ZITHROMAX. Novopharm alleges that claim 23 of the '071 Patent is invalid for anticipation, obviousness, overbroad claiming and indefiniteness. Novopharm further asserts that its version of the drug will not infringe claims 1, 2, 9, 10, 17, 18 and 24 to 28 (the tablet claims) of the '071 Patent on the basis that it does not make its tablets by wet granulation. The issue to be determined in this application is whether Novopharm's allegations of invalidity and non-infringement of the patent are justified.
+2.
+Background
+[2]
+The Applicants, Pfizer Canada Inc. and Pfizer Inc. (collectively Pfizer), are brand-name drug manufacturers. The Respondent Novopharm Ltd. (Novopharm) is a generic drug manufacturer. The Respondent Minister of Health (Minister) is charged with the administration of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the
+Regulations
+).
+[3]
+Azithromycin dihydrate (azithromycin) is an antibiotic used in the treatment of various infections. It was first patented in the United States in 1984 as U.S. patent no. 4,474,768.
+[4]
+The shortcoming associated with azithromycin was its "adverse food effect" when taken in capsule form. When dosed orally, a drug may be affected by the presence of food in the gastrointestinal tract. A key feature of any drug administered orally is its bioavailability. Bioavailability is the percentage of the drug's active ingredient that enters the body's system for therapeutic effect. If the bioavailability of a drug is affected beyond a certain point by the presence of food in the gastrointestinal tract, a drug is said to exhibit an adverse food effect.
+[5]
+To counter this adverse food effect, azithromycin was prescribed with instructions to be taken in a fasted state, i.e. more than one hour before eating or more than two hours after a meal. This requirement had the potential to reduce patient compliance and clinical effectiveness of azithromycin.
+[6]
+Pfizer claims to have found a way of addressing the adverse food effect so that azithromycin could be administered effectively to patients that have eaten. It applied for patent protection of this breakthrough. On April 27, 1995, the Applicants filed an application in Canada claiming priority from the U.S. patent application filed on April 29, 1994. The '071 Patent was issued on October 17, 2000. On August 13, 2003, the '071 Patent was listed with the Minister on the patent register.
+[7]
+On November 4, 2003, Novopharm sent a notice of allegation and detailed statement to Pfizer stating that it intended to "make, construct, use and/or sell an azithromycin monohydrate 250 mg strength tablet for oral administration".
+[8]
+Pfizer filed the present application asking this Court to prohibit the Minister from issuing a notice of compliance which would permit Novopharm to produce its tablets, which activity, according to Pfizer, would infringe its patent.
+3.
+The Legislative Framework
+[9]
+Subsection 55.2(4) of the
+Patent Act
+, R.S.C. 1985, c. P-4, provides for the making of the
+Regulations
+.
+[10]
+In the present case, Pfizer is the first person and Novopharm is the second person as defined in section 2 of the
+Regulations
+.
+[11]
+Pursuant to the
+Regulations
+, the second person must, in the notice of allegation, allege either that the first person is not the patentee, that the patent has expired, that the patent is invalid, or that the patent would not be infringed by the second person if the notice of compliance issued. The notice of allegation is sent to the Minister and served on the first person.
+[12]
+Subsection 6(1) of the
+Regulations
+provides that, after a notice of allegation is sent, the first person may apply, within 45 days, to a court for an order prohibiting the Minister from issuing a notice of compliance until after the expiration of the patent, on the grounds that the allegations are unjustified. Pursuant to subsection 6(2) of the
+Regulations
+, the Court shall issue the prohibition order if it is satisfied that "none" of the allegations is justified.
+[13]
+Subsection 6(6) of the
+Regulations
+, which deals with "product-by-process" claims, sets out a presumption that the proposed medicine, absent proof of the contrary, is made in accordance with the patented process.
+[14]
+Once a first person has applied for a prohibition order under section 6, paragraph 7(1)(e) of the
+Regulations
+is triggered, and provides that the Minister shall not issue a notice of compliance until the expiration of 24 months after the section 6 application.
+[15]
+In this application, Pfizer is asking this Court to prohibit the Minister from issuing a notice of compliance to Novopharm. Pfizer filed and served its objection to the notice of allegation on December 23, 2003. The 24-month period for what is essentially a presumptive injunction will therefore expire on December 23, 2005.
+4.
+The Nature of Section 6 Proceedings
+[16]
+Section 6 proceedings are not actions for determining the validity or infringement of a patent:
+ <FRAGMENT_SUPPRESSED> . They are proceedings in judicial review, to be held expeditiously, which aim at determining whether the Minister is free to issue the requested notice of compliance. The scope of these proceedings is confined to administrative purposes:
+ <FRAGMENT_SUPPRESSED> ; 219 N.R. 151; 76 C.P.R.(3d) 1 (F.C.A.).
+[17]
+The determination must turn on whether there are allegations, by the second person, sufficiently substantiated to support a conclusion for administrative purposes, i.e. the issuance of a notice of compliance, that the first person's patent would not be infringed if the second person's product is put on the market:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 209 (F.C.A.).
+[18]
+The
+Regulations
+require the Court to determine summarily, on the basis of the evidence adduced, whether the allegations are justified. Section 6 proceedings are not adjudicative and cannot be treated as res judicata:
+ <FRAGMENT_SUPPRESSED> . The first person, or patentee, is in no way deprived of all the recourses normally available to enable it to enforce its rights. If a full trial of validity or infringement issues is required, this can be obtained in the usual way by commencing an action:
+ <FRAGMENT_SUPPRESSED> ; 266 N.R. 371; 11 C.P.R.(4th) 245 (F.C.A.).
+[19]
+The legal burden in section 6 proceedings is well established in the jurisprudence. The allegations of non-infringement and invalidity are presumed to be true and the applicant must prove on a balance of probabilities that the allegations made in the NOA were unjustified. Left unchallenged, the allegations would allow the Minister to issue a notice of compliance:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 368;
+ <FRAGMENT_SUPPRESSED> .
+5.
+The Evidence
+[20]
+Both parties have submitted affidavits from experts and corporate officials.
+[21]
+Pfizer relies on the evidence of four witnesses:
+(1) Madeleine Pesant, who swore her affidavit on February 19, 2004, is employed by the Applicant Pfizer Canada Inc. as Associate Director, Regulatory Intelligence and Information, Drug Regulatory Affairs and Safety - Canada. Ms. Pesant attested to the procedural history of the file, to the general history of Pfizer's production of azithromycin, and to the commercial success of Zithromax. Exhibits were also attached to her affidavit, notably the notice of allegation and the '071 Patent.
+(2) Dr. Vincent Andriole, who swore his affidavit on February 12, 2004, is professor of medicine at Yale University School of Medicine and attending physician at the Yale-New Haven Hospital. He was certified by the American Board of Internal Medicine in 1964 and certified in the sub-specialty of infectious diseases in 1976. He obtained a Bachelor of Science degree from the College of the Holy Cross, in Worcester, Massachussets, in 1953 and a medical degree from the Yale University School of Medicine in 1957. In addition to his academic teaching, research and service activities, Dr. Andriole is a member of numerous professional societies, national committees, scientific advisory committees and editorial boards of specialized publications. He has conducted extensive research in the field of infectious diseases and has published approximately 100 research and review papers, chapters and texts on a variety of topics such as infectious diseases and drugs for their treatment, and more specifically on azithromycin itself. He attests to his experience with azithromycin, azithromycin's characteristics and use in treatment for infectious diseases and Pfizer's clinical investigation and improvement of azithromycin. Dr Andriole also attests to his review of the '071 Patent and the notice of allegation. He was asked by the Applicant to give his opinion on three issues: (1) whether the subject matter of claim 23 of the '071 Patent is anticipated by the literature references cited by Novopharm in its notice of allegation; (2) whether a person skilled in the art would be led directly and without difficulty to the subject matter of claim 23, based on the state of the art set out  <FRAGMENT_SUPPRESSED> 's notice of allegation; and (3) whether there is any merit to Novopharm's complaint that claim 23 is indefinite and broader than any invention disclosed in the '071 Patent. Dr. Andriole is offered as a witness expert.
+(3) Dr. Robert Rapp, who swore his affidavit on February 19, 2004, is a professor of pharmacy in the College of Pharmacy and professor of surgery in the College of Medicine at the University of Kentucky. He also serves as manager of clinical services at the Department of Pharmacy Services at the University Hospital. Professor Rapp earned a Bachelor of science in pharmacy from the University of Kentucky in 1963. In 1970, he received a doctorate in pharmacy at the University of Kentucky College of Pharmacy. In addition to his academic teaching and research activities, he is a member of various societies, served on the editorial boards of specialized publications, acts as a consultant to the pharmaceutical industry. He has published in excess of 200 papers in professional and scientific literature, particularly in the field of pharmacology. He attests to his experience with azithromycin and his study of food-drug interactions. He reviewed the '071 Patent and the notice of allegation and was asked by Pfizer to give his opinion on two issues: (1) whether a person skilled in the art would be led directly and without difficulty to the subject matter of claim 23, based on the state of the art in April 1994; and (2) whether the subject matter of claim 23 is anticipated by the literature references cited by Novopharm in the notice of allegation. Professor Rapp also comments on infectious diseases and the use of azithromycin to treat infections, as well as the general state of knowledge among clinicians and researchers. He is offered as an expert witness.
+(4) Rose Lombardi, a law clerk for Pfizer's counsel, swore a confidential affidavit on February 23, 2004. She attests that counsel for Novopharm delivered two binders of information containing portions of Novopharm's abbreviated new drug submission (ANDS) for Novo-Azithromycin. She attaches pages 18 to 47 of that portion of the submission entitled Quality Overall Summary-Chemical Entities to her affidavit.
+[22]
+Madeleine Pesant, Dr. Andriole, Dr. Rapp and Rose Lombardi were cross-examined on their affidavits.
+[23]
+Annexed to Dr. Rapp's affidavit are copies of the literature references or prior art relied on by Novopharm in its notice of allegation, which are filed as exhibits "D" through "R" of Dr. Rapp's affidavit. Pfizer also annexed its own evidence to Dr. Rapp's affidavit as exhibits "S" through "FF".
+[24]
+This additional evidence annexed to Dr. Rapp's affidavit pertains to the properties of azithromycin, studies of the pharmacokinetics of azithromycin, studies of its disposition in humans, the effects of food on drug absorption, studies of clarithromycin and food effect, the clinical toleration of azithromycin, the drug interaction profiles for approved macrolide and azalide antimicrobials, the pharmacokinetics and pharmacodynamics of intravenous and oral azithromycin. The evidence also contains an article by Foulds et al, entitled
+The absence of an effect of food on the bioavailability of azithromycin administered as tablets, sachet or suspension
+, which Pfizer contends is the "pivotal study (...) upon which the '071 patent is based, that informed the medical community that azithromycin tablets, unlike capsules, could be taken by a patient in the fed state."
+[25]
+Novopharm relied on the evidence of four witnesses:
+(1) Dr. Jeffrey Rudolph, a pharmaceutical consultant, swore his affidavit on May 21, 2004. He holds a Bachelor of science degree from the University of Illinois and a Master of science and Ph.D. in industrial pharmaceutical science from Purdue University. He is registered as a pharmacist in Illinois and Florida. He has published articles and chapters and has been involved in national and international pharmaceutical organizations. He attests that he has reviewed the '071 Patent, the notice of allegation and the affidavits of Dr. Andriole, Professor Rapp, Ms. Pesant and Ms. Lombardi. He was asked by Novopharm to give his opinion on the following issues: (1) what is the invention of the '071 Patent; (2) what would claim 23 of the '071 Patent mean to a person skilled in the art; (3) would the subject matter of claim 23 have been obvious to a person skilled in the art in view of the prior art and the common general knowledge. He was also asked to provide his opinion of the affidavits of Dr. Andriole and Professor Rapp. He is offered as an expert witness.
+(2) Dr. Isadore Kanfer, who is Dean and Head of the Faculty of Pharmacy of Rhodes University in Grahamstown, South Africa, swore his affidavit on May 22, 2004. He holds a Bachelor of science in Pharmacy and an Honours Bachelor of science from Rhodes University which he respectively obtained in 1967 and 1968. He obtained his Ph.D. in pharmacy in 1975. In addition to his academic teaching and research, he is a member of numerous national and international professional bodies, he has published extensively in the field of biopharmaceutics. He attests that he reviewed the '071 Patent, the notice of allegation, the affidavits of Ms. Lombardi, Ms. Pesant, Dr. Andriole and Professor Rapp. He was asked by Novopharm to give his opinion on the same issues submitted to Dr. Rudolph. He is offered as an expert witness.
+(3) Gregory Bell, Ph.D. is a Group Vice President and Director of the Pharmaceuticals and Intellectual Property practices at Charles River Associates, an economics and management consulting firm. He swore his confidential affidavit on May 20, 2004. He holds a master of business administration and a doctorate in business economics from Harvard University. He is also a chartered accountant in Canada. In his capacity as director of the pharmaceuticals practice, he has worked on product pricing, contracting strategy for managed care organizations and hospitals, influences on physician prescribing behaviour, product launch strategy, and the impact of competing launches within a therapeutic category. He was asked by Novopharm to provide an opinion regarding the extent to which the commercial success of Zithromax in Canada was causally related to the introduction of Zithromax 250 mg tablets. He has been asked, in this regard, to respond to the affidavit of Madeleine Pesant. He reviewed the notice of allegation, the '071 Patent and product monographs.
+(4) Timothy Butler, who swore an affidavit on May 18, 2004, is an information specialist at the law firm of Kenyon & Kenyon, in New York, who attests and provides a copy of U.S. Patent application no. 08/235069.
+[26]
+Dr. Rudolph and Dr. Kanfer were cross-examined on their affidavits.
+6.
+Person Skilled in the Art
+[27]
+Novopharm argues that its experts are better qualified to address matters relating to the '071 Patent. Novopharm contends that since the '071 Patent relates to how azithromycin should be formulated to overcome adverse food effects, the evidence of its experts should be preferred since they both have extensive knowledge and experience in the formulation of pharmaceutical dosage forms. It is Novopharm's contention that Pfizer's experts are not formulators and therefore do not have expertise relevant to the invention of the '071 Patent.
+[28]
+Novopharm argues that the person skilled in the art of the '071 Patent is a person with knowledge and experience in physical pharmacy, the science of formulating pharmaceutical dosage forms. Dr. Rudolph, expert witness for Novopharm, attests that the person skilled in the art, in the present case, is the individual with a background in industrial pharmaceutical science/product development, which involves the design, development and quality assessment of pharmaceutical dosage forms, the physical, chemical and biological aspects of active pharmaceutical ingredients and pharmaceutical excipients, and the physics, micrometrics, unit operations and a variety of engineering disciplines. Novopharm's other expert witness, Dr. Kanfer, suggests that the subject matter of the '071 Patent is directed to a person with a background in pharmaceutical science and formulation or pharmaceutical dosage forms as well as exposure to the concepts of basic physical pharmacy.
+[29]
+Pfizer argues that a person skilled in the art for the purpose of the '071 Patent is a person of ordinary skill familiar with the clinical application of azithromycin and not pharmaceutical formulation or physical pharmacy. According to Dr. Rapp, for Pfizer, a person of ordinary skill in the art is a person with a Pharm. D. or a Ph.D. in pharmacology or chemistry or the equivalent, or with a Masters or Bachelors degree in the pharmaceutical arts with several years of experience in the pharmaceutical industry.
+[30]
+I do not accept Novopharm's contention that only a pharmaceutical formulator can assist the Court in construing the '071 Patent. While a pharmaceutical formulator may be versed in the common knowledge of the worker skilled in the art to which the patent relates, in my view, so too, would a person with a degree in the pharmaceutical arts with several years of experience in the pharmaceutical industry. In the context of the '071 Patent it may also be helpful and of assistance to the Court to have expertise in respect to the study of food-drug interactions, the effects of food on drug absorption and drug interaction profiles for approved azalide anti-microbials. Pfizer's experts are qualified to address such issues. Consequently, I find that the evidence of the four expert witnesses is admissible for the purposes of this proceeding. Weight to be afforded the expert evidence will depend on opinions proffered by the experts on the issues raised.
+7.
+The Prior Art
+[31]
+I have carefully reviewed the prior art tendered in evidence by the parties including the prior art annexed to the notice of allegation.
+8.
+The Patent in Suit
+[32]
+The '071 Patent was issued on October 17, 2000, on the basis of the application filed on April 27, 1995. The application claimed priority from U.S. Patent Application no. 08/235,069 filed April 29, 1994. The '071 Patent contains 33 claims. Since the application for the patent was filed in Canada after October 1, 1989, and before October 1, 1996, the
+Patent Act
+applicable to applications filed in that time period is applicable here.
+[33]
+The '071 Patent pertains to various forms of azithromycin: tablets, unit dose packets, suspension, powder, oral suspension. The '071 Patent does not, however, pertain to capsules which are explicitly excluded from the patent. The specification provides as follows at page 4 of the summary of the Invention: "Capsules as a dosage form do not form a part of the invention."
+[34]
+The '071 Patent discloses, inter alia, the invention of a tablet composed of azithromycin, a disintegrant and optional excipients such as binders, flavours, fillers, diluents, lubricants, glidants or colours which do not exhibit an adverse food effect when administered to a fed patient.
+9.
+The Notice of Allegation
+[35]
+Novopharm sent Pfizer its notice of allegation dated November 4, 2003. It informed Pfizer that it intended to make, construct, use and/or sell an azithromycin monohydrate 250 mg strength tablet for oral administration. The notice of allegation contains the following two allegations:
+(1) The first allegation made pursuant to subparagraph 5(1)(b)(iii) of the
+Regulations
+states that a claim in the '071 Patent, more specifically claim 23, is invalid on the grounds of anticipation, obviousness, over breadth and indefiniteness. Novopharm frames the allegations as follows:
+"Claim 23 of the '071 Patent is not valid. Claim 23 is relevant to the Novopharm Tablet and is invalid for the following reasons:
+a) the claim is anticipated;
+b) the claim is obvious;
+c) the claim is broader than the invention made and disclosed; and
+d) the claim is indefinite under subsection 27(4)."
+(2) The second allegation, made pursuant to subparagraph 5(1)(b)(iv) of the
+Regulations
+, states that the tablet claims will not be infringed. Novopharm frames this allegation as follows:
+"Claims 1, 2, 9, 10, 17, 18, 24-28 of the '071 Patent will not be infringed by the making, constructing, using or selling by Novopharm of the Novopharm Tablet."
+[36]
+The Court notes that the adequacy of these allegations is not contested by Pfizer. Consequently, the adequacy of the notice of allegation is not an issue for the Court to consider in the present proceeding.
+10.
+The Issues
+[37]
+The fundamental question that must be answered is whether the Court should grant an order prohibiting the Minister from issuing Novopharm a notice of compliance until after the expiration of Pfizer's '071 Patent.
+[38]
+For this determination to be made, the following issues arise and must be answered:
+1) Whether the allegations of non-infringement raised  <FRAGMENT_SUPPRESSED> 's notice of allegation are justified?
+2) Whether the allegations of invalidity raised  <FRAGMENT_SUPPRESSED> 's notice of allegation are justified?
+11.
+The Analysis
+A.
+Claims Construction
+(1)
+Principles of Patent Claims Construction
+[39]
+The first step before reaching a determination with respect to Novopharm's allegations of non-infringement and invalidity is to construe the relevant claims of the '071 Patent in order to identify "what the inventor considered to be the 'essential' elements of his invention":
+ <FRAGMENT_SUPPRESSED> .
+[40]
+Subsection 27(3) of the
+Patent Act
+provides what must be found in the specification of an invention.
+"27.
+Specification
+"(3) The specification of an invention must
+(a) correctly and fully describe the invention and its operation or use as contemplated by the inventor;
+(b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct, compound or use it;
+(c) in the case of a machine, explain the principle of the machine and the best mode in which the inventor has contemplated the application of that principle; and
+(d) in the case of a process, explain the necessary sequence, if any, of the various steps, so as to distinguish the invention from other inventions."
+"27.
+Mémoire descriptif
+"(3) Le mémoire descriptif doit:
+a) décrire d'une façon exacte et complète l'invention et son application ou exploitation, telles que les a conçues son inventeur;
+b) exposer clairement les diverses phases d'un procédé, ou le mode de construction, de confection, de composition ou d'utilisation d'une machine, d'un objet manufacturé ou d'un composé de matières, dans des termes complets, clairs, concis et exacts qui permettent à toute personne versée dans l'art ou la science don't relève l'invention, ou dans l'art ou la science qui s'en rapproche le plus, de confectionner, construire, composer ou utiliser l'invention;
+c) s'il s'agit d'une machine, en expliquer clairement le principe et la meilleure manière don't son inventeur en a conçu l'application;
+d) s'il s'agit d'un procédé, expliquer la suite nécessaire, le cas échéant, des diverses phases du procédé, de façon à distinguer l'invention en cause d'autres inventions."
+[41]
+Subsection 27(4) of the
+Patent Act
+explains the role of the claims, which are found at the end of the specification.
+"27.
+Claims
+"(4) The specification must end with a claim or claims defining distinctly and in explicit terms the subject-matter of the invention for which an exclusive privilege or property is claimed."
+"27.
+Revendications
+"(4) Le mémoire descriptif se termine par une ou plusieurs revendications définissant distinctement et en des termes explicites l'objet de l'invention don't le demandeur revendique la propriété ou le privilège exclusif."
+[42]
+The patent specification is made up of the disclosure and the claims. The patent disclosure may include the title of the invention, a full description of the invention to enable a person reasonably skilled in the art to put the invention into practice, drawings, and at the end, the claims which are a distinct and explicit statement of the invention claimed. The disclosure must also set forth a detailed description of the preferred embodiments of an invention. The disclosure must describe the characteristics of the invention defined in the claims. The claim or claims must define distinctly and in explicit terms the subject matter of the invention for which an exclusive property or privilege is claimed. In essence, the disclosure describes the invention and the claims define its scope.
+[43]
+Patent construction aims at defining the purpose of the invention; it is a "purposive construction":
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150. The objective of the purposive construction of the claims is to reach an interpretation of the patent claims that is "reasonable and fair to both patentee and public", as set out by Dickson J. in
+ <FRAGMENT_SUPPRESSED> ), being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. There is no occasion for being too astute or technical in the matter of objections to either title or specification for, as Duff, C.J.C., said, given the judgment of the Court in
+Western Electric Company, Incorporated, and  <FRAGMENT_SUPPRESSED>  at p. 574, 'where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction.'"
+[44]
+The Supreme Court of Canada in
+Whirlpool
+, supra, and
+Free World Trust
+, supra, established that, in adopting a purposive approach to interpret a claim, the Court should stay within the four corners of the specification and limit itself to the words of the claim interpreted in the context of the specification as a whole, avoiding the use of extrinsic evidence of intent:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 114 (T.D.). Expert evidence is admissible, but only to assist the Court so it is able to interpret the patent claims in a knowledgeable way:
+Whirlpool
+, supra.
+[45]
+The claims are the starting point of patent construction and are directed to the person skilled in the art and are to be purposively construed based on the whole specification at the date of the publication of the application of the patent. Purposive construction of the claims requires that they be interpreted in light of the whole of the disclosure, including the specifications:
+ <FRAGMENT_SUPPRESSED> , at paragraph 18. Recourse to the rest of the specification is not necessary where the words to be construed in the claim are plain and unambiguous. It will also be improper where it is used to vary the scope of the claim:
+ <FRAGMENT_SUPPRESSED> ; 317 N.R. 91; 2004 FCA 63.
+[46]
+The underlying objective of claims' construction, is to determine the purpose of the invention in order to give the inventor protection for what he actually invented:
+ <FRAGMENT_SUPPRESSED>  at page 574. In accomplishing this task, the Court must distinguish the essential and the non-essential elements of the invention. For an element to be considered non-essential, it must be shown either that it was clearly not intended to be essential or that, at the date of publication of the patent, the skilled addressee would have appreciated that a particular element could be substituted or omitted without affecting the working of the invention:
+Free World Trust
+, supra, at paragraph 55. Perhaps the simplest expression of the way to determine what constitutes a non-essential element was established by Justice Denault in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (T.D.), when he wrote:
+"In short, each component of a claim will be regarded as essential unless it is clear to one skilled in the art that the inventor knew that the failure to comply with this specific component would have no effect on the way the invention worked."
+[47]
+Claims construction is a task lying in the exclusive domain of the judge:
+Fournier  <FRAGMENT_SUPPRESSED> . Claims will receive one and the same interpretation for all purposes, i.e. invalidity and infringement allegations:
+Whirlpool
+, supra.
+[48]
+In
+Free World Trust
+, supra, at paragraph 31, Justice Binnie, for the Supreme Court of Canada, provided a list of principles that guide the purposive approach to the construction of a claim:
+"1) The
+Patent Act
+promotes adherence to the language of the claims.
+2) Adherence to the language of the claims in turn promotes both fairness and predictability.
+3) The claims must be construed in an informed and purposive way.
+4) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+5) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. This allocation will be made in the following manner:
+a) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+b) what constitutes an 'essential' element is to be interpreted in light of the knowledge of the art at the date of the publication of the patent specification;
+c) regard is to be had to whether it was obvious at the time the patent was published that substitution of a different variant would make a difference to the way in which the invention works;
+d) according to the intent of the inventor expressed or inferred from the claims of the patent;
+e) without, however, resort to extrinsic evidence of the inventor's intention."
+(2)
+Claims at Issue
+[49]
+There are 33 claims in the '071 Patent. The claims at issue in the present case are claim 23 and the "tablet claims".
+[50]
+Claim 23 reads as follows:
+"Use of a therapeutically effective amount of azithromycin for the preparation of a pharmaceutical dosage form which does not exhibit an adverse food effect for administration, in the treatment of antimicrobial infection, to a patient that has eaten"
+[51]
+The tablet claims read as follows:
+"1. An oral dosage form of azithromycin in the form of a tablet made by wet granulation and administrable to a mammal that has eaten, which comprises azithromycin and a disintegrant and which exhibits substantially no adverse food effect, the dosage form effecting at least about 90% dissolution of azithromycin within about 90 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+"2. A dosage form as defined in claim 1, wherein the mammal is a human.
+"9. An oral dosage form of azithromycin in the form of a tablet made by wet granulation and administrable to a mammal that has eaten, which comprises azithromycin and a disintegrant and which exhibits substantially no adverse food effect, the dosage form exhibiting a value of (AUC fed) / (AUC fst) of at least 0.80 with a lower 90% confidence limit of at least 0.75, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+"10. A dosage form as defined in claim 9, wherein the mammal is a human.
+"17. A therapeutic package, comprising a container, an oral dosage form of azithromycin which is defined in any one of claims 1 to 16 contained therein, and, associated with the package, written matter non-limited as to whether the dosage form can be taken with or without food.
+"18. A therapeutic package as defined in claim 17, wherein the dosage form is in the form of a tablet.
+"24. A tablet of azithromycin for administration to a human patient that has or has not eaten food, which comprises:
+azithromycin in an amount of from 25 mg to 3 g,
+a disintegrant in an amount of from 1 to 25% by weight based on the total tablet, and
+at least one pharmaceutically acceptable excipient,
+provided that the tablet contains no or less than a taste-masking amount of an alkaline earth metal or hydroxide,
+wherein the tablet exhibits substantially no adverse food effect and exhibits a value of (AUC fed) / (AUC fst) of 0.80 to 1.25 with a lower 90% confidence limit of 0.75 to 1.40 and is made by wet granulation.
+"25. A tablet defined in claim 24, which contains at least one member selected from the group consisting of sodium croscarmellose, sodium starch glycolate, microcrystalline cellulose and cross-linked polyvinylpyrrolidone in an amount of 3 to 15% by weight based on the total weight of the tablet as the disintegrant.
+"26. A tablet as defined in claim 25, which contains sodium croscarmellose and pregelatinized starch as the disintegrants.
+"27. A tablet as defined in any one of claims 22 to 26, which is coated with a film of hydroxypropylmethylcellulose, hydroxypropylcellulose or acrylate-methacrylate copolymer.
+"28. A therapeutic package for commercial sale, comprising a container, the table as defined in any one of claims 24 to 27, contained therein, and, associated with the package, a written message that the tablet can be taken with or without food."
+(3)
+Parties' Proposed Construction
+[52]
+The parties' submissions in respect of the essential elements of the invention are made only in respect of claim 23 of the '071 Patent. The Applicants argue that claim 23 "reflects the use aspect of the invention embodied in the '071 Patent". They maintain that claim 23 provides a new use, namely the use of orally administered azithromycin that does not exhibit an adverse food effect to treat a microbial infection in a patient that has eaten. Pfizer's expert, Dr. Rapp, at paragraph 46 of his affidavit attests "... that claim 23 relates to pharmaceutical formulation that does not exhibit a food effect, or, more particularly, the use of a dosage form of azithromycin to treat a microbial infection in a patient that has eaten". At paragraph 37 of his affidavit, Dr. Andriole, also Pfizer's expert, reads claim 23 "... as claiming the use of a preparation of azithromycin that is not affected by food in the treatment of a microbial infection to a patient that has eaten." The Applicant therefore contends that the essential elements of claim 23 are the following: (1) the oral administration of a dosage form of azithromycin; (2) to treat a microbial infection; (3) where the oral dosage form does not exhibit a food effect in a patient who has eaten.
+[53]
+The Respondent states that the invention encompassed in the '071 Patent, and of which claim 23 represents but one aspect, is to administer a rapidly disintegrating dosage form of azithromycin in order to overcome the adverse food effect observed with capsules. Both of the Respondent's experts attest that the terms "adverse food effect" and "a patient that has eaten" are defined in the patent. Both experts agree that "pharmaceutical dosage form" should be read to encompass all dosage forms, not only oral dosage forms. The Respondent therefore contends that the essential elements of claim 23 are the following: (1) use of a therapeutically effective amount of azithromycin; (2) to make a pharmaceutical dosage form that does not exhibit an adverse food effect; (3) for administration to a patient that has eaten; and (4) to treat a microbial infection.
+(4)
+Court's Construction
+[54]
+As a preliminary matter, it is noted that claim 23 erroneously refers to an "antimicrobial" infection. Both parties accept that the intended reference in claim 23 is to a "microbial" infection. It is agreed that the error is of no consequence to the within application.
+[55]
+With respect to the purpose of the invention disclosed in the '071 Patent, the background of the invention and detailed summary explain, as Pfizer suggests, that the adverse food effect encountered with azithromycin capsules posed a problem in the treatment of patients due to the fact that it had to be taken in the fasted state. Accordingly, the '071 Patent states that it would be useful if azithromycin could be administered to patients that have eaten. The solution to this problem is taught by the '071 Patent.
+[56]
+After reviewing the claims and the whole of the disclosure, and after considering the expert evidence in order to assist the Court to interpret the patent in a knowledgeable way, I find that the essential elements of the invention disclosed by the claims at issue of the '071 Patent include at least the following:
+(1) an oral pharmaceutical dosage form;
+(2) containing a therapeutically effective amount of azithromycin;
+(3) which will not exhibit an adverse food effect when administered, in the treatment of a microbial infection, to a patient that has eaten;
+(4) if it effects at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+[57]
+Two of the above mentioned essential elements are not contested by the parties. First, the '071 Patent pertains to a therapeutically effective amount of azithromycin and second, the meaning of "adverse food effect" and "patient that has eaten" are also not contested. This is clear from the affidavit evidence adduced by both parties. Dr. Andriole and Dr. Rapp both rely on the definition of these terms provided by the inventors in the '071 Patent. Novopharm's experts, Dr. Rudolph and Dr. Kanfer also attest and accept that the terms "adverse food effect" and "patient that has eaten" are defined in the '071 Patent.
+[58]
+The '071 Patent defines the terms "adverse food effect" as:
+"In general, it is known that the absorption and bioavailability of any particular therapeutic agent can be affected by numerous factors when dosed orally. Such factors include the presence of food in the gastrointestinal (GI) tract because, in general, the gastric residence time of a drug is usually significantly longer in the presence of food than in the fasted state. If the bioavailability of drug is affected beyond a certain point due to the presence of food in the GI tract, the drug is said to exhibit a 'food effect'. Food effects are important inasmuch as, when a drug exhibits an adverse food effect, there is risk associated with administering it to a patient who has eaten recently. The risk derives from the potential that absorption into the bloodstream may be adversely affected to the point that the patient risks insufficient absorption to remediate the condition for which the drug was administered."
+[59]
+The '071 Patent defines the terms "patient that has eaten" as:
+"Reference herein and in the claims to a mammal (including humans) that has 'eaten' means that the mammal has eaten food of any sort within one hour prior to dosing up to two hours after dosing."
+[60]
+The phrase "pharmaceutical dosage form", frequently used in the patent, notably in claim 23, is, however, a point of contention among the parties. More specifically, the parties dispute whether, within the four corners of the '071 Patent, the words "pharmaceutical dosage form" encompass all pharmaceutical dosage forms, as submitted by Novopharm, or whether they are limited to oral pharmaceutical dosage forms, as contended by Pfizer. I consider all experts to be qualified to offer an opinion on this issue. In my view, they are all persons skilled in the art who can assist the Court in determining the meaning of "pharmaceutical dosage form" within the context of the '071 Patent.
+[61]
+I begin by considering the claims of the '071 Patent to determine if they contain clues to help the Court interpret the meaning of "pharmaceutical dosage form" in the context of the '071 Patent. Claims 1, 3, 6, 9, 11, 14 and 17 all refer to an "oral dosage form of azithromycin". Claims 1, 9, 18, 24, 25, 26, 27, 28 pertain to tablets. Claims 3, 11, 19, 20, 29, 30, 31 relate to a powder. Claims 6, 14, 21, 22, 32 and 33 deal with a unit dose packet. Claims 2, 4, 5, 7, 8, 10, 12, 13, 15, 16 are all dependent claims, referring to a dosage form defined in previous claims which, as mentioned earlier, only detail oral pharmaceutical dosage forms. Only in claim 23 is there no mention of an "oral dosage form", rather the inventors refer to "pharmaceutical dosage form" which does not exhibit an adverse food effect in a patient that has eaten.
+[62]
+From the definitions of "adverse food effect" and "patient that has eaten" in the '071 Patent, I find strong indicators that claim 23 is also directed to oral dosage forms. For instance, "gastric residence time of a drug," which can only apply to a drug that has been ingested, is an element within the definition of "adverse food effect" and leaves little doubt that non oral dosage forms were not intended to be covered by claim 23. Given the definitions and the language of claim 23, I am satisfied that claim 23 refers to oral pharmaceutical dosage forms.
+[63]
+My finding is supported by the specification and the expert evidence. In the application, the oral dosage form is clearly stipulated in the following excerpt from the summary of the invention:
+"In a further aspect, this invention provides a specific
+oral azithromycin dosage form
+which does not exhibit an adverse food effect. [...] The dosage form is in the form of a tablet (including both swallowable-only and chewable forms), in the form of a unit dose packet (sometimes referred to in the art as a 'sachet'), in the form of a suspension made from a unit dose packet, in the form of a powder for oral suspension, and in the form of an oral suspension per se." (My emphasis)
+[64]
+The following excerpts from the '071 Patent specification also make it clear that the invenion is directed towards an oral dosage form of azithromycin. I reproduce below certain excerpts from the disclosure statement:
+"In general, it is known that the absorption and bioavailability of any particular therapeutic agent can be affected by numerous factors
+when dosed orally.
+[...]
+"In a further aspect, this invention provides a method for treating a microbial infection in a mammal which comprises administering, to a mammal that has eaten in need of such treatment, an antimicrobially effective amount of azithromycin in an
+oral dosage form
+which exhibits substantially no adverse food effect.
+[...]
+"A population of 'fed' subjects, for purposes of definition and for measuring AUC fed is one made up of subjects each of whom has eaten a Food and Drug Administration (FDA) recommended standard high fat breakfast within a period of twenty minutes, and then
+ingested (i.e., swallowed) the test dosage form
+essentially immediately thereafter.
+[...]
+"As stated,
+the oral azithromycin dosage forms
+disclosed and described above can be administered to a mammal, including man, in need of such treatment when the mammal has eaten, regardless of how recently and of the nature and quantity of food, without exhibiting an adverse food effect." (My emphasis)
+[65]
+Although the expert evidence tendered by Novopharm suggests that "pharmaceutical dosage form" encompasses, within the confines of the '071 Patent, all dosage forms, including non-oral dosage forms, the contrary was admitted by these same experts during cross-examination on their affidavit. As Pfizer points out, both Dr. Rudolph and Dr. Kanfer acknowledged on cross-examination that claim 23, the sole claim construed by the parties, is intended to refer to dosage forms administered orally. I reproduce a portion of their testimony:
+Dr. Rudolph, at page 1696 of Volume 7 of the Applicants' Record:
+"Q. And you understood that the inventors were describing their invention which relates to oral dosage forms, correct?
+A. Yes"
+Dr. Kanfer, at page 1910 of Volume 8 of the Applicants' Record:
+"Q. But the inventors have not disclosed or described anywhere, in the '071 patent, an I.V. dosage form of azithromycin?
+A. They have not.
+Q. In fact, they are talking about oral dosage forms that are swallowed, correct.
+A. Correct."
+[66]
+Dr. Andriole, Pfizer's expert, during cross-examination on his affidavit at pages 1126 and 1127 of the Applicants' record, states that the focus of the patent was oral therapy:
+"Q. Claim 23 says 'a pharmaceutical dosage form'. To put it clear, it means any pharmaceutical dosage form known as of April 1994?
+A. It covers all the pharmaceutical dosage forms.
+Q. The patent does exclude capsules specifically?
+A. Yes, it does.
+Q. Then, it is any other form. Does it include any dosage form, no matter how it is made and formulated?
+A.
+Yes, but the concept is oral therapy; it is not intravenous, or any other type. That is the focus of the patent.
+" (My emphasis)
+[67]
+In construing claim 23 in a purposive manner, I am guided by the principles set out earlier in these reasons and, as a result, conclude that "pharmaceutical dosage form" as expressed in claim 23 relates, in the context of the '071 Patent, to oral pharmaceutical dosage forms. I base this construction on the claims interpreted in the context of the specification as a whole. As seen above, this interpretation is confirmed by all of the expert witnesses.
+[68]
+To accept Novopharm's submission that "pharmaceutical dosage form" should include all non-oral dosage forms such as transdermal patches, IVs, suppositories, etc, would lead to an unintended construction of claim 23. These non-oral dosage forms cannot relate to an adverse food effect since they are not ingested. Solving the adverse food effect is the underlying purpose of the inventors in the '071 Patent. Consequently, such a construction could not have been intended by the inventors.
+[69]
+I will now turn to the fourth essential element of the invention, namely:
+"(4) if it effects at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide."
+[70]
+As stated, the '071 Patent provides a solution to the problem observed by Pfizer, that azithromycin in capsule form exhibits an adverse food effect. The oral pharmaceutical dosage forms described in the '071 Patent, (tablets, powders, unit dosage packets, suspensions made from a unit dosage packet and oral suspension made with powder), and made according to the formulation disclosed in the '071 Patent, do not exhibit such an adverse food effect when administered to a patient who has eaten. The inventors, in the summary of the invention, state that the "dosage form comprises azithromycin and a pharmaceutically acceptable carrier, as hereinafter further detailed and described."
+[71]
+The claims serve the public notice function of the patent and define the scope of the invention. When carefully reviewed, claims 1, 3 and 6 of the '071 Patent disclose dissolution and absorption thresholds to be met by different oral pharmaceutical dosage forms of azithromycin which exhibit substantially no adverse food effect. Put differently, the basic pharmaceutical dosage forms of azithromycin disclosed by the '071 Patent (tablets, powders and unit dose packets), which are comprised of a therapeutically effective azithromycin and a carrier, as taught by the summary of the invention, have to be formulated in such a way that they meet the dissolution and absorption criterion set out in claims 1, 3 and 6 in order to exhibit no adverse food effect when taken by a patient that has eaten. This element cannot be substituted or omitted without affecting the working of the invention. Without the specific teaching of this element, one could not produce the patented dosage form to overcome the adverse food effect. In my view, this is an essential element of the invention. This essential element is reproduced in the following claims:
+"claim 1. An oral dosage form of azithromycin in the form of a tablet made by wet granulation and administrable to a mammal that has eaten, which comprises azithromycin and a disintegrant and which exhibits substantially no adverse food effect,
+the dosage form effecting at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+"
+"claim 3. An oral dosage form of azithromycin in the form of a powder for oral suspension and administrable to a mammal that has eaten, which comprises azithromycin, one or more thickening agents and an anhydrous buffer and which exhibits substantially no adverse food effect,
+the dosage form effecting at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+"
+"claim 6. An oral dosage form of azithromycin in the form of a unit dose packet and administrable to a mammal that has eaten, which comprises azithromycin and a dispersing agent and which exhibits substantially no adverse food effect,
+the dosage form effecting at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+" (My emphasis)
+[72]
+Moreover, this criterion is also set out and explained in the disclosure. At page 7 of the '071 Patent, the inventors state the following:
+"A non-capsule dosage form comprising azithromycin is also considered to fall within the scope of the appended claims if it satisfies the in vitro dissolution testing requirements enumerated herein. An azithromycin dosage form according to the invention exhibits at least about 90% dissolution of azithromycin within about 30 minutes, preferably within 15 minutes, when an amount of the dosage form equivalent to 220 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900ml approx. 0.1M dibasic sodium phosphate buffer, pH 6.0, 37o C with paddles turning at 100 rpm. This test is described in US Pharmacopaea XXII, pp. 1578-1579. Dosage forms which pass this test under more stringent conditions (lower volume of buffer, greater amount of dosage form, lower temperature, higher pH, lower paddle speed) are also included under the above definition. Any modifications to this test are also described herein. The time required for dissolution of a particular azithromycin dosage form in this in vitro test is believed to be an indicator of the time required for dissolution of the dosage form in the GI environment."
+[73]
+In summary, for the purposes of this application and considering the claims at issue, the '071 Patent discloses the following essential elements: (1) an oral pharmaceutical dosage form, (2) containing a therapeutically effective amount of azithromycin, (3) which will not exhibit an adverse food effect when administered, in the treatment of a microbial infection, to a patient that has eaten if, (4) it effects at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide.
+12.
+Tablet Claims - Wet Granulation
+[74]
+The tablet claims provide for a tablet "made by wet granulation". The Respondent's main contention in this application is that it will not infringe the tablet claims of the '071 Patent since it proposes to manufacture its tablets by a different process, namely "dry granulation" as opposed to "wet granulation." For the following reasons, I am of the view that the "wet granulation process" is not an essential element of the invention.
+[75]
+Construction of the patent claims enables the Court to separate essential elements from non-essential elements. In
+Free World Trust
+, supra, the Supreme Court of Canada held that the allocation of the essential and non-essential elements will be made in the following manner:
+(1) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(2) what constitutes an "essential" element is to be interpreted in light of the knowledge of the art at the date of the publication;
+(3) regard is to be had to whether it was obvious at the time the patent was published that substitution of a different variant would make a difference to the way in which the invention works;
+(4) according to the intent of the inventor expressed or inferred from the claims of the patent;
+(5) based on the patent specification itself without resort to extrinsic evidence.
+By applying these principles, I am unable to conclude that "wet granulation", set out in claims 1, 9 and 24, constitutes an essential element of the invention disclosed in the '071 Patent. The person skilled in the art at the date of the publication of the patent would have known that this particular element could be substituted without affecting the working of the invention. Following are my reasons for this finding.
+[76]
+The tablet claims at issue, specifically claims 1, 9 and 24, refer to "an oral dosage form of azithromycin in the form of a tablet made by wet granulation". None of the 33 claims in the '071 Patent explain the process of wet granulation, a process specific to tablets. Wet granulation is a tableting process which is not used to make powders or unit dose packets, the other basic pharmaceutical dosage forms covered by the patent at issue. Accordingly, I am satisfied that it is possible to infer from the patent claims that the inventors did not intend for "wet granulation", or any specific tableting process for that matter, to be an essential element of the invention.
+[77]
+The specification of the '071 Patent is also useful. The words of the disclosure manifestly indicate that the tableting process, by dry or wet granulation or direct compression, was known in the art and that it was a substitutable element. The inventors clearly stated in the detailed description, at pages 10 and 11 of the patent disclosure, that a tablet is made, for the purposes of the invention set out in the '071 Patent, by following the methods known in the art, i.e. dry granulation, wet granulation or direct compression. The following excerpts are from the detailed description of the disclosure statement:
+"As known in the art, tablet blends may be dry-granulated or wet granulated before tableting. Alternatively, tablet blends may be directly compressed. The choice of processing approach depends upon the properties of the drug and chosen excipients, for example particle size, blending compatibility, density and flowability. For azithromycin tablets, granulation is preferred, with wet granulation being most preferred. Azithromycin may be wet-granulated, and then other excipients may be added extragranularly. Alternatively, azithromycin and one or more excipients may be wet-granulated. In addition, tablets may also be coated, with a coating that exhibits little or no effect on or interference with tablet dissolution, to assure ease of swallowing or to provide an elegant appearance.
+"The tableting process itself is otherwise standard and readily practiced by forming a tablet from a desired blend or mixture of ingredients into the appropriate shape using a conventional tablet press. Tablet formulation and conventional processing techniques have been widely described, for example in
+Pharmaceutical Dosage Forms: Tablets
+, Edited by Lieberman, Lachman, and Schwartz; Published by Marcel Dekker, Inc., 2d Edition, Copyright 1989." (Underlined in the patent)
+[78]
+The inventors specifically state in the disclosure that tablet blends may be dry granulated, wet granulated or directly compressed as known in the art. Such a statement in the patent that something is prior art is binding on the patentee:
+Whirlpool
+, supra.
+[79]
+In assisting the Court with the interpretation of the patent claims, the affidavit evidence of Dr. Andriole, who consulted the whole specification, supports this conclusion. At paragraph 83 of his affidavit, he attests:
+"However, the inventors disclose that tablets can be made by wet granulation, dry granulation or direct compression, with wet granulation being most preferred."
+[80]
+During cross-examination on his affidavit, Dr. Rudolph recognized that the previously-cited portion of the disclosure of the '071 Patent is indicative of the inventors' intention to leave a certain amount of skill to be practised in the tableting process by a person skilled in the art. See page 1713 of the Applicants' record where the following exchange is recorded:
+"Q. And you understood that the inventors intended for a certain amount of skill to be practiced in the tableting process itself, correct?
+A. Yes.
+Q. Put another way, not everything about making the tablets is set out on Pages 8 to 11, but the inventors intended that a certain amount of skill of a person in the art capable of making the tablets would be employed, correct?
+A. Yes."
+[81]
+In light of these considerations, I conclude that the term "wet granulation" found in the tablet claims is not an essential element to the invention disclosed in the '071 Patent. Wet granulation was known to be a tableting process by the person skilled in the art at the date of publication. The person skilled in the art would have known that substituting wet granulation for another tableting process would not make a difference in the way the invention worked, indeed the '071 Patent expressly recognizes this. The inventors clearly did not intend for it to be an essential element in light of the claims or the specification, and I so find.
+13.
+Claim 23 - Over Breadth
+[82]
+Novopharm contends that claim 23 is over reaching. I accept Novopharm's argument. It is appropriate to consider this issue in the context of claims construction. I now turn to my reasons for this finding.
+[83]
+The function of patent claims has been appropriately described in
+ <FRAGMENT_SUPPRESSED>  monopoly and warns the public against trespassing on his property. His fences must be clearly placed in order to give the necessary warning and must not fence in any property that is not his own. The terms of a claim must be free from avoidable ambiguity or obscurity and must not be flexible; they must be clear and precise so that the public will be able to know not only where it must not trespass but also where it may safely go. If a claim does not satisfy these requirements it cannot stand.
+"[...]
+The inventor may make his claims as narrow as he pleases within the limits of his invention but he must not make them too broad. He must not claim what he has not invented for thereby he would be fencing off property which does not belong to him.
+" (My emphasis)
+[84]
+Although each claim must be considered against the background of the specification as a whole, the question to determine when dealing with the argument that a claim is covetous is whether the claim at issue exceeds the scope of the disclosure on which this claim is based:
+ <FRAGMENT_SUPPRESSED> ; 260 F.T.R. 276; 2004 FC 1349.
+[85]
+Pfizer argues that claim 23 is carefully tailored to embody the invention of the '071 Patent and wholly within the bounds of what can be considered fair reward for overcoming the adverse food effects associated with azithromycin capsules. Pfizer argues that claim 23 would clearly be understood by a person skilled in the art to cover a new use for an old compound, namely the oral administration of azithromycin, without adverse food effect to a patient that has eaten. Pfizer further submits that azithromycin for the treatment, without adverse food effects, of a patient that has eaten need not be limited to particular dosage form. Pfizer maintains that the precise nature of the dosage form that can be so administered is readily discernable from the patent by a person of ordinary skill in the art.
+[86]
+Novopharm argues that claim 23 is simply a rewording of the desired result sought by the inventors. It does not claim a particular way of achieving that result, but rather claims all ways to do so. Novopharm contends that claim 23 is an attempt by Pfizer to stretch its monopoly to cover anything that achieves the desired result.
+[87]
+I agree with Novopharm's submission that the invention of the '071 Patent relates to how azithromycin should be formulated to overcome adverse food effects. Even Dr. Rapp, Pfizer's expert, acknowledged while being cross-examined on his affidavit, that this is what the inventors of the '071 Patent did. (See question 6 at page 1183 of Volume 5 of the Applicants' record).
+[88]
+In my view, the formulation of the oral pharmaceutical dosage form, in keeping with the essential elements of the claims at issue, is the essence of the invention described in the '071 Patent. Examples of such specifically described dosage forms can be found in claims 1, 3 and 6 of the '071 Patent. Claim 23 does not claim a particular formulation of a dosage form, it claims any "preparation" of an oral dosage form that may exhibit no adverse food effects. In other words, claim 23 is claiming the desired result. This is the same desired result expressed differently by the inventors in the "Background of the Invention" in the disclosure, where it is stated: "It would accordingly be useful if azithromycin could be administered to patients that have eaten recently and
+also if a dosage form for azithromycin were available which could be administered to patients that have eaten, as well as patients in a fasted state
+" (My emphasis). Both of Novopharm's experts agree with this construction of claim 23. Their evidence is helpful since both are persons skilled in formulation of pharmaceutical dosage forms. It is useful to reproduce their evidence.
+[89]
+Dr. Rudolph, beginning at paragraph 32 of his affidavit, attests as follows:
+"32. In my opinion, claim 23 is a statement of a generally desirable attributed/result for azithromycin. That is, claim 23 does not tell me how the problem of an adverse food effect encountered with capsules was solved. It merely says that the dosage form does not exhibit an adverse food effect. Claim 23, therefore, covers all kinds of pharmaceutical dosage forms that do not exhibit an adverse food effect.
+"33. A person skilled in the art in April 1994 would have known that it was desirable for 1 pharmaceutical dosage forms to have the following characteristics:
+(a) Possess a therapeutically effective amount of the drug;
+(b) Have little or no adverse food effect in the case of an oral dosage form;
+(c) Be capable of being administered to a patient at any time, regardless when they last ate in the case of an oral dosage form; and
+(d) Be capable of treating the disease.
+"34. Claim 23 simply mirrors the following statement in the '071 Patent which summarizes the problem the inventors were attempting to overcome:
+'It would accordingly be useful if azithromycin could be administered to patients that have eaten recently and also if a dosage form for azithromycin were available which could be administered to patients that have eaten, as well as patients in a fasted state.'
+"35. I am of the opinion that claim 23 is merely a restatement of the desired result that the inventors were trying to achieve. Claim 23 does not tell us how to achieve the result, it merely restates the quote above. As a result, claim 23 does not cover ways to obtain the desired attributes/results in a pharmaceutical dosage form for azythromycin. For example, claim 23 is devoid of any teaching that the dosage form must be formulated with a rapid disintegration/dissolution rate in order to alleviate the adverse food effect. Claim 23 does not say how to achieve the result of alleviating the food effect."
+[90]
+Dr. Kanfer, beginning at paragraph 30 of his affidavit, attests to the following:
+"30. In my opinion, claim 23 is merely a statement of a desired result for azithromycin. It was obvious as at April 1994 that is [sic] was desirable to formulate an azithromycin dosage form which possessed a therapeutically effective amount of the drug and did not exhibit an adverse food effect.
+"31. Claim 23 does no more than simply summarize this desired result. No direction is given in claim 23 as to how one is to achieve this result.
+"32. There is no distinction between claim 23 and the following statement in the '071 Patent which summarizes the problem the inventors were attempting to overcome:
+'It would accordingly be useful if azithromycin could be administered to patients that have eaten recently and also if a dosage form for azithromycin were aviable which could be administered to patients that have eaten, as well as patients in a fasted state.'
+"33. Claim 23 therefore does not give the person skilled in the art any direction as to how to overcome the problem which the inventors of the '071 Patent have identified."
+[91]
+At paragraph 32 of his reasons in
+Free World Trust
+, supra, Mr. Justice Binnie held that "... the ingenuity of the patent lies not in the identification of a desirable result but in teaching one particular means to achieve it. The claims cannot be stretched to allow the patentee to monopolize anything that achieves the desirable result."
+[92]
+While I agree that the precise nature of the dosage form taught in the '071 Patent is readily discernable from the patent by a person of ordinary skill in the art, the detailed description of the invention beginning at page 6 of the patent teaches the disintegration and dissolution parameters of the formulation. At page 7, it is stated that "... A non-capsule dosage form comprising azithromycin is also considered to fall within the scope of the appended claims if it satisfies the in vitro dissolution testing requirements enumerated herein." These requirements are essentially reproduced in claims 1, 3 and 6 of the '071 Patent but not in claim 23. There is no language in the specification, or in claim 23, that would allow one to limit the scope of claim 23 to the "preparation" of oral pharmaceutical dosage forms described in the detailed description. The language of claim 23 is clear: use of an effective amount of azithromycin for the preparation of an oral pharmaceutical dosage form to overcome the adverse food effects in patients that have eaten, essentially in my view, to achieve the desired result. Claim 23 is overreaching. It claims beyond the scope of the patent. Upon considering the whole of the specification, I find "preparation of a pharmaceutical dosage form" in claim 23 cannot be limited to read only that formulation described in the disclosure. To do so would be to read into claim 23 a limitation that cannot be implied from the clear language of the claim.
+[93]
+In summary, I find that claim 23 of the '071 Patent claims a desirable result. I also find that claim 23 overreaches the scope of the patent in that it claims too broadly, covering any "preparation" that would achieve the result of producing an oral pharmaceutical dosage form containing a therapeutically effective amount of azithromycin which does not exhibit an adverse food effect. In my view, claim 23 is an attempt by the inventor to claim a monopoly on any "preparation" that achieves the desirable result. This is covetous and overreaching and, in consequence, the allegation that claim 23 is invalid, is justified.
+14.
+Issue 1
+: Whether the allegations of non-infringement raised  <FRAGMENT_SUPPRESSED> 's notice of allegation are justified?
+[94]
+The dispute between the parties with respect to the allegation of non-infringement is centred on the element of "wet granulation". Novopharm alleged, in its notice of allegation, that the tablet claims would not be infringed by the making, constructing, using or selling of the Novopharm tablet since, unlike Pfizer, the Respondent proposed to make its tablets by "dry granulation". Pfizer contends that Novopharm has not led any evidence in support of this allegation.
+[95]
+Allegations of non-infringement are presumed to be true and Pfizer must disprove, on a balance of probabilities, all of the allegations made which, if left unchallenged, would allow the Minister to issue a notice of compliance:
+ <FRAGMENT_SUPPRESSED> ; 169 N.R. 342 (F.C.A.). However, subsection 6(6) of the
+Regulations
+sets out a statutory presumption to the effect that, absent evidence to the contrary, the second person's proposed medicine is presumed to be prepared or produced by the patented process.
+[96]
+In construing the claims at issue and for reasons set out earlier, I identified the four essential elements of the invention. I found that the term "wet granulation" mentioned in the tablet claims, more precisely claims 1, 9 and 24, was not an essential element of the invention disclosed by the '071 Patent. I found that a person skilled in the art at the date of the publication of the patent would have known that this particular element could be substituted without affecting the working of the invention. I also found any specific tableting process not to be an essential element of the invention. Since "wet granulation" is not an essential element of the invention, and Novopharm's allegation of non-infringement is based solely on the making of its tablets using a different tableting process, namely "dry granulation", it follows that Novopharm's allegation of non-infringement cannot be justified. Even if it were established in the evidence that the "dry granulation " proposed to be used by Novopharm is indeed a different process than that used by Pfizer in making its tablets, the allegation would nevertheless not be justified since it is founded on an element which is not essential to the invention. In the circumstances, it matters not that Novopharm proposes to make its tablets by "dry granulation". The proposed process is not an essential element of the '071 Patent.
+[97]
+Although my above finding is dispositive of Novopharm's allegation of non-infringement, I will nevertheless deal with Pfiser's contention that Novopharm led no evidence in support of its allegation of non-infringement.
+[98]
+Pfizer contends that provisions of subsection 6(6) of the
+Regulations
+find application in this case. Pfizer argues that since Novopharm has not led any evidence to prove that it does not make its tablets by wet granulation, it is therefore presumed to be making its product by the patented process.
+[99]
+Novopharm argues that the presumption set out in subsection 6(6) of the
+Regulations
+cannot apply in the circumstances of this case. It argues that it is severely prejudiced by this new argument not raised by Pfizer in its notice of application and contends the argument was raised for the first time  <FRAGMENT_SUPPRESSED> 's memorandum of argument, contrary to Rule 301(e) of the
+Federal Court Rules, 1998
+, SOR/98-106 (
+Federal Courts Rules
+, SOR/2004-283, s. 2) which requires that the applicant set out, in its notice of application, a complete and concise statement of the grounds intended to be argued. I reject Novopharm's argument. I find that Pfizer did raise, in its notice of application, the argument that there was no evidence to support Novopharm's allegation of non-infringement and did refer to the
+Regulations
+. On this point, I have difficulty in accepting Novopharm's contention that it was taken by surprise and severely prejudiced by the fact that Pfizer invoked subsection 6(6), when the Applicants expressly stated, in their notice of application, that they would refer to the
+Regulations
+and that they would argue that Novopharm had led no evidence on the allegation of non-infringement.
+[100]
+I do, however, find that the presumption set out in subsection 6(6) of the
+Regulations
+cannot apply in the circumstances of this case for the reasons that follow, which are different than those advanced by Novopharm.
+[101]
+The language of subsection 6(6) of the
+Regulations
+is clear. For the presumption to apply, it must relate to an allegation "in respect of a patent and where
+that patent was granted for the medicine itself
+... " (My emphasis.) Further, "medicine" is defined in s. 2 of the
+Act
+as:
+"'medicine' means a substance intended or capable of being used for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof;"
+"'médicament' Substance destinée à servir ou pouvant servir au diagnostic, au traitement, à l'atténuation ou à la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes"
+[102]
+In the instant case, the patent was not granted for the medicine "azithromycin". Rather, the patent was granted for a "drug" which contains the "medecine" azithromycin. It is the drug in its different formulations and not the medecine which is the invention claimed in the '071 Patent. I agree with the finding of Madam Justice Dawson in
+ <FRAGMENT_SUPPRESSED>  where she stated at paragraph 26, "I accept the submission of the Minister that the
+Regulations
+show that a 'drug' is not equivalent to a 'medecine.' Rather, a 'drug' contains, among other things, a 'medecine'."
+[103]
+Since the presumption in subsection 6(6) of the
+Regulations
+does not relate to a drug, it can find no application to the '071 Patent. It follows from my above determination that Pfizer cannot rely on the subsection 6(6) presumption to make its case on the allegation of non-infringement.
+[104]
+I will now deal with the arguments of the parties in respect of the evidence on the allegation of non-infringement.
+[105]
+Novopharm argues that its notice of allegation and detailed statement clearly establish that it will use a "dry granulation" method to produce its tablets. It also contends there is further evidence of this fact contained in the Abbreviated New Drug Submission (ANDS) attached to the Lombardi affidavit, indicating that the Novopharm tablets will be prepared according to the "dry granulation" method.
+[106]
+Pfizer contends that no evidence was led by Novopharm to establish that its proposed process is different than Pfizer's patented process. Pfizer submits that Novopharm cannot rely on the document it produced through the Lombardi affidavit to establish its process. The document is purported to be a part of Novopharm's ANDS. The Applicants submit that this document is inadmissible because it is hearsay since it constitutes a written out of court statement made by someone other than a witness able to authenticate the ANDS. Further, Pfizer contends that the document does not constitute an exception to the hearsay rule for the following reasons. The document is not necessary in that Novopharm could have adduced its ANDS in evidence and it is not reliable in that it cannot be tested by cross-examination, it is not authenticated by a Novopharm witness as its own ANDS, and it is self-serving evidence. I am satisfied, essentially for the reasons advanced by Pfizer, that the document at issue is inadmissible in evidence, and I so find.
+[107]
+Notwithstanding the above finding in respect to Novopharm's evidence, the allegation of non-infringement is presumed to be true and the legal burden is on the Applicant to prove, on a balance of probabilities, that the allegation made in the NOA is unjustified. Since the presumption set out in subsection 6(6) of the
+Regulations
+, relied on by Pfizer, finds no application in the instant case, I find, on the evidence, that the Applicant has failed to discharge its burden. Therefore, had I found "wet granulation" to be an essential element of the invention, which I did not, I would have found, alternatively, that the Applicant had failed to discharge its burden of showing, on a balance of probabilities, that the allegation of non-infringement in respect of the tablet claims is unjustified.
+[108]
+However, having determined that Novopharm's allegation of non-infringement of the Tablet claims is not justified, by reason of "wet granulation" not being an essential element, and where the validity of the Tablet claims is not at issue, Pfizer will consequently be successful on the application and, in the result, a prohibition order will issue. I will now proceed to deal with the second issue raised.
+15.
+Issue 2
+: Whether the allegations of invalidity raised  <FRAGMENT_SUPPRESSED> 's notice of allegation are justified?
+[109]
+Subsection 43(2) of the
+Patent Act
+establishes the principle that the patent is prima facie valid once it is issued.
+[110]
+ <FRAGMENT_SUPPRESSED> ; 258 N.R. 238 (F.C.A.), the Federal Court of Appeal clarified the evidentiary burden applicable in the context of an application for prohibition under the
+Regulations
+.
+"An application for prohibition order under the
+Patented Medicines (Notice of Compliance) Regulations
+is like any other application for judicial review in the sense that the applicant has the burden of establishing its entitlement to the order sought. Bayer, in other words, had the burden of proving that the allegation of invalidity made by Apotex was not justified. [...]
+"In seeking to discharge its burden of proving the allegation to be unjustified, Bayer relied on the statutory presumption of the validity of its patent. Because that presumption exists, it may be said that Apotex, as the party responding to the application for a prohibition order, has a burden of proof in this sense: if Apotex had adduced no evidence that was capable of establishing the invalidity of the patent, Bayer could have succeeded on the basis of the statutory presumption alone. [...]
+"However, in this case Apotex did adduce evidence, in the form of an affidavit, that the Motions Judge correctly accepted as going to the question of validity.
+"The operation of the statutory presumption in the face of evidence of invalidity depends upon the strength of the evidence. If the evidence proves on a balance of probabilities that the patent is invalid, the presumption is rebutted and is no longer relevant:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) at 359."
+[111]
+In the present case, I am satisfied that sufficient evidence has been led by Novopharm, in the form of expert opinions and prior art references on the grounds included in the notice of allegation, to allow the Court to make appropriate factual findings with respect to the invalidity allegations.
+[112]
+I disagree with Pfizer's argument that Novopharm is asking the Court to review the Commissioner of Patent's decision to issue claim 23, a decision to be reviewed on the standard of reasonableness. Section 6 proceedings are not an attack on the Commissioner of Patent's decision. Rather, the Court has to decide, on a balance of probabilities, whether the allegations in the notice of allegation are justified and, if not, grant an order prohibiting the Minister from issuing a notice of compliance:
+ <FRAGMENT_SUPPRESSED> .
+A.
+Whether claim 23 is invalid on the ground of obviousness?
+[113]
+Section 28.3 of the
+Patent Act
+establishes that a patent claim must not have been obvious on the claim date. The test for obviousness is set out as follows by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.); 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.):
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[114]
+For an invention to be obvious, it must occur directly to the skilled person without undue thought, research or experiment:
+Apotex Inc. and  <FRAGMENT_SUPPRESSED> ; 262 N.R. 137 (F.C.A.), affd. [2002] 4 S.C.R. 153; 296 N.R. 130.
+[115]
+In considering the issue, I recognize the usefulness of the expert opinion evidence. I am also mindful of the Federal Court of Appeal's statement in <FRAGMENT_SUPPRESSED> , supra, to the effect that expert opinion on the question of obviousness must be treated with extreme care. More specifically, the Court must be cautious against employing a hindsight analysis, particularly in the view of the tendency of experts to employ such an analysis:
+ <FRAGMENT_SUPPRESSED>  Court must also consider the question "why didn't you?": <FRAGMENT_SUPPRESSED> , supra. In the present case, I am of the view that the evidence from all experts is admissible. They are all qualified to opine on whether the prior art submitted by Novopharm in support of its obviousness allegation is adequate, to assist the Court in interpreting it and to attest as to whether a skilled person, in April 1994, would have "come directly and without difficulty to the solution taught by the patent".
+[116]
+It is agreed that the relevant date for assessing obviousness in the present case is April 29, 1994.
+[117]
+Obviousness can be based on anything from a single disclosure to a "mosaic" of the prior art:
+ <FRAGMENT_SUPPRESSED> . In the present case, Novopharm's allegation of obviousness is based on a "mosaic" of the prior art in that it relies, not on a single source, but on a number of different patents and literature references to amalgamate seven propositions which were known to the person skilled in the art in April 1994, thereby confirming the obviousness of the invention. Novopharm contends that it was known in the prior art that azithromycin capsules exhibited an adverse food effect and that a dosage form which disintegrates/dissolves more quickly in the stomach, is absorbed more rapidly in the small intestine, thereby countering food effect. It was therefore obvious that, to solve the problem of adverse food effect exhibited by azithromycin capsules, a person skilled in the art would formulate azithromycin in the form of a tablet, suspension or solution, which disintegrates or dissolves more quickly, to optimize absorption.
+[118]
+Pfizer contends that Novopharm's allegations cannot be supported by the evidence for two reasons. First, most of the propositions it advances in its notice of allegation are general principles. Second, even if those principles were known to be true for azithromycin, there is no evidence indicating that a person of ordinary skill in the art would ever consider them. Pfizer contends that the pervasive view in the art in 1994 was that azithromycin capsules exhibited an adverse food effect. A skilled person would not have thought, in 1994, of turning to general principles of pharmaceutical formulation to remedy the problem associated with azithromycin capsules. Although the general propositions put forth by Novopharm in its notice of allegation were known in the prior art, it does not deprive the '071 Patent of novelty.
+[119]
+Upon assessing the expert evidence, consulted the prior art and considered the parties' submissions, I find that, although it might have been scientifically obvious to explore the path of oral pharmaceutical dosage forms which would not exhibit an adverse food effect, it was not obvious, in the legal sense of the word. The idea of producing an oral dosage form of azithromycin which would not exhibit an adverse food effect, prior to April 29, 1994, was undoubtedly a stated objective but the solution to achieve it was not known. In my view, Novopharm has failed to establish, by its evidence, that a person skilled in the art could have known, based on the prior art, how to achieve the invention protected by the '071 Patent. Consequently, I find that claim 23 is not invalid for obviousness. The following are my reasons supporting this finding.
+[120]
+As a preliminary remark, with respect to Novopharm's assertions that the problem of adverse food effect exhibited by azithromycin capsules could have obviously been solved by administering non-oral dosage forms of the drug, I reiterate my finding with respect to the construction of the phrase "pharmaceutical dosage form" in the context of the '071 Patent. For reasons set out earlier, I cannot accept the allegation that this phrase can be construed to include non-oral pharmaceutical dosage forms. For this reason, I lend no weight to the evidence presented by Novopharm which discusses non-oral dosage forms of azithromycin.
+[121]
+I will now consider in turn the propositions put forth by Novopharm in its notice of allegation which, in the Respondent's view, were known to those skilled in the art as of April 29, 1994, and indicate that claim 23 is obvious.
+(1)
+Azithromycin is stable at an acidic pH and would undergo little degradation in the stomach environment.
+[122]
+I accept that there is no controversy on this point. The literature references indeed discuss this principle and Pfizer's experts, in their affidavit evidence, accepts this statement (see paragraph 43 of Dr. Andriole's affidavit and paragraph 52 of Dr. Rapp's affidavit).
+(2)
+The absorption of azithromycin from capsules is adversely affected by food.
+[123]
+I accept that there is no controversy on this point. Pfizer's experts, in their affidavit evidence, accept this statement (see paragraphs 45 and 46 of Dr. Andriole's affidavit and paragraph 61 of Dr. Rapp's affidavit).
+(3)
+Suspensions or solutions of drugs are less susceptible to food effects than are capsules and tablets.
+[124]
+Pfizer does not dispute the correctness of this proposition. However, Pfizer contends that the evidence establishes that the proposition to be one of general application, but not true in every instance. Toothaker and Welling, in their text "The Effect of Food on Drug Bioavailability", clearly state that this principle is one of general application. It is not an absolute (See page 714 of the Applicants' Record).
+"Suspensions and solutions are
+generally considered
+to be less susceptible to the action of food than other dosage forms because of their diffuse nature, greater motility within the GI tract, and the relative ease with which they can diffuse from the stomach into the small intestine. With capsule and tablet dosage forms, not only is dissolution
+likely
+to be affected by the presence of food, but also the delay in gastric emptying due to the food is
+likely
+to have a greater effect when the drug is contained in a single dosage unit." (My emphasis)
+[125]
+This fact was also recognized by Novopharm's expert, Dr. Rudolph in the context of his cross-examination on affidavit, at page 1760 of the Applicants' Record.
+"Q. Is the absorption of a drug - is the delay in the absorption of a drug because of the presence of food an adverse food effect?
+A. Yes.
+Q. So that means that it you had a formulation whose absorption was delayed by food, you would wish to avoid that if you could, correct?
+A. It depends on the drug. Some drugs, it wouldn't make any difference.
+Q. And so your statement in Paragraph (b) of your affidavit on Page 41, section 48(b), when you say 'suspensions and solutions are generally considered to be less susceptible', that's why you used the word generally, correct, because that proposition is not true in every instance, is it?
+A. Not in every instance, no."
+Based on the above evidence I accept that the proposition is a statement of general principle but not necessarily applicable in every instance. Consequently, the person skilled in the art could not have relied on it to conclude that it would necessarily follow that azithromycin in a particular dosage form would necessarily be less susceptible to food effects.
+(4)
+For drugs administered as solid dosage forms, the rate of absorption of the drug may be increased by increasing the rate of dissolution/disintegration of the dosage form.
+[126]
+The expert evidence adduced by both parties, and the literature references, indicate that this proposition is generally correct. The evidence establishes that a number of factors may affect the rate of absorption of a drug. In their text "Remington's Pharmaceutical Sciences", Osol and others, review various factors which may affect the absorption of a drug. At page 770 of the Applicants' Record, the authors state that, in addition to "the physiochemical properties of drug molecules and biological membranes, various factors affect the rate of absorption and determine, in part, the choice of route of administration." Among those factors are concentration, physical state of formulation and dissolution rate, area of absorbing surface, vascularity and blood flow, movement, gastric motility and emptying, Donnan Effect and vehicles of absorption adjuvants. With respect to formulation and the rate of dissolution, the authors write:
+"When drugs are administered in solid dosage forms (capsules, tablets, powders, suspensions, etc.), the rate at which the drug is released into solution may often be slower than other processes involved in the absorption, so that dissolution becomes the rate-limiting factor on absorption.
+"The rate of dissolution depends upon the surface area of the solid, which, in turn, depends upon how finely the drug is subdivided (or comminuted). It also depends upon energy and energy states within the crystals of drug. The Noyes-Whitney equation incorporations the major factors involved in the rate of dissolution, dc / dt:
+'dc / dt = KS (Cs - Ct)'
+"where S is the surface area of the particles, K is a constant unique to the chemical substance and incorporates energy and entropy factors, Cs is the concentration at saturation, and Ct is concentration at time t.
+K varies widely from drug to drug, and some drugs may have a slow rate of dissolution even despite a fine state of subdivision. Some drugs may exist in more than one crystal form, so that there may be more than one K. For example, some preparations of aluminum hydroxide completely dissolve in gastric juice within 30 min, while others show no appreciable dissolution within 1 hour.
+" (My emphasis)
+[127]
+While the literature recognizes that the rate of dissolution/disintegration of drugs administered as solids may affect absorption, there is also evidence that this is not always the case. On this point, Dr. Rapp's affidavit reveals, at paragraph 68, that absorption sites of phenytoin sodium, a different drug, are susceptible to saturation which means that rapid dissolution may lead to a net decrease in absorption. This evidence supports Pfizer's contention that exceptions exist to the above general proposition put forth by Novopharm.
+[128]
+I have carefully reviewed Novopharm's evidence in support of this proposition. While I accept that the proposition is generally correct, I also accept the evidence which suggest that the rate of absorption may vary from drug to drug depending on a number of factors and, further that there are exceptions to the general proposition. In my view these exceptions would not allow a person skilled in the art, without further testing, to conclude from the prior art that the rate of absorption of azithromycin may necessarily be increased by increasing the rate of dissolution/disintegration of the solid dosage form.
+(5)
+By increasing the dissolution/disintegration rate of the tablet, so that it dissolves or disintegrates more completely while in the stomach, the absorption of azithromycin will be increased.
+[129]
+In respect to this proposition, Novopharm's expert, Dr. Rudolph in his affidavit deals in general terms with the relationship between the rate of dissolution and absorption. He attests at paragraph 41 of his affidavit that it "... generally follows that the faster the disintegration/dissolution process, the more optimized is the rate and extent of the absorption of the dosage form." He fails, however, to discuss how this general principle applies to azithromycin and how it would have been obvious for a person skilled in the art, in April 1994, to apply this proposition to counter the adverse food effect exhibited by azithromycin capsules, specifically.
+[130]
+In my view, this is precisely the type of hindsight evidence which this Court must be careful to accept:
+ <FRAGMENT_SUPPRESSED>  that", I find that he provides no answer to the question "why didn't they?": <FRAGMENT_SUPPRESSED> , supra. Without evidence to answer this question, I accept Pfizer's evidence that proposition (5) is not supported by the literature since there is no specific reference to azithromycin. Indeed certain articles in the literatures submitted by Novopharm in support of the proposition deal with different drugs, not azithromycin. Novopharm's proposition is based on generalities found in the literature, and upon which it draws specific conclusions about the pharmacology, pharmacokinetics and pharmacodynamics of azithromycin which could not have been known to the skilled person in April 1994, to necessarily apply to azithromycin at that time, without further specific testing. This determination is supported by the Pfizer's experts, which evidence I accept. Novopharm's expert evidence is limited to the applicability of the proposition on drugs generally and do not deal with azithromycin specifically. (See paragraphs 58, 59 and 61 of Dr. Andriole's affidavit and paragraphs 73, 74 and 77 of Dr. Rapp's affidavit).
+(6)
+Studies with related chemical compounds (i.e. erythromycin derivatives which like azithromycin are macrolide antibiotics), demonstrated that suspensions overcame the adverse food effects observed with tablets and capsules. The absorption of erythromycin estolate (which like azithromycin is acid-stable) is unaffected by food when administered in a suspension, but not in a capsule form.
+[131]
+Novopharm contends with proposition (6), that the conclusion of studies pertaining to related chemical compounds would have been applicable, de facto, to azithromycin in April 1994. On this point, I accept the evidence tendered by Pfizer which suggests that it is not possible to apply results extrapolated from studies in respect to erythromycin, a different drug, to azithromycin due to their considerable differences (see paragraph 68 of Dr. Andriole's affidavit). I accept that a person skilled in the art would have known not to apply results drawn from studies of one compound and apply the same results to another compound. As Dr. Andriole attests at paragraph 69 of his affidavit: "The person of ordinary skill in the art would not make any bold conclusions about a food effect in azithromycin based on studies in erythromycin." Novopharm has adduced no evidence to counter this evidence, which I find to be most logical.
+[132]
+Moreover, although structurally analogous, erythromycin and azithromycin differ widely. This is recognized in the prior art and supports my finding that proposition (6) cannot be a ground upon which to base an obviousness conclusion. The comparative studies of Whitman et al., Amsden, Zuckerman et al. and Rapp show that, not only do erythromycin and azithromycin differ in their structure and pharmacokinetics, they also differ with respect to bioavailability, half-life, tissue concentrations, gastrointestinal adverse effects and antimicrobial activity (See exhibits "Y", "Z", "AA" and "DD" annexed to Dr. Rapp's affidavit).
+[133]
+I am consequently satisfied that Novopharm's allegation was not shown to have been obvious to a person skilled in the art in April 1994 seeking to solve the problem of the adverse food effect exhibited by azithromycin capsules.
+(7)
+Suspension and tablet dosage forms, including chewable tablet dosage forms, were known and it was known that azithromycin could be administered as either a tablet or suspension.
+[134]
+Novopharm contends that the proposition was known to a person skilled in the art on April, 1994, by the teaching of two existing Patents, namely U.S. Patent No. 4,963,531 and Canadian Patent No. 2,101,466. Upon review of these patents, I find that neither U.S. Patent No. 4,963,531 nor Canadian Patent No. 2,101,466 render the '071 Patent obvious. I will discuss these patents in greater detail in the section of this analysis pertaining to anticipation, however, for the purpose of proposition (7), I am of the view that though these patents address the formulation of azithromycin in tablet and suspension dosage forms, they do teach how such formulation addresses the issue of the adverse food effect, which is the essential purpose of the '071 invention. I therefore find that these two patents could not render claim 23 obvious. No other prior art is referenced by Novopharm in its notice of allegation in respect to this proposition.
+[135]
+In summary, I find that Novopharm's propositions on which it based its allegation of invalidity for obviousness, are too general to support a finding of invalidity with respect to claim 23. I accept Pfizer's evidence which establishes that these general principles are not absolutes. Extensive testing and experimenting was still required in order to confirm the desired result taught by the '071 Patent. This is illustrated by the answers of Dr. Rapp given on cross-examination of his affidavit, at page 1257 of the Applicants' Record:
+"Q. In paragraph 67 you are referring to another statement made by Novopharm, and in paragraph 69 you say that this proposition is generally true.
+A. Yes.
+Q. Again, more likely than not?
+A. Right.
+Q. You would expect this to be true, again going back to the word 'expect'. If it is generally true -
+A. Give me the data.
+Q. To be 100 per cent certain.
+A. Absolutely.
+Q. Otherwise, you would expect it?
+A. Again, we get back to the 'generally true' statement. You do things in formulation that you hope will help, but you sure as heck can't guarantee it.
+Q. There is always an exception.
+A. Right, many exceptions.
+Q. But you do certain things that you expect will work?
+A. Best guess.
+Q. Looking at paragraph 61 of your affidavit, Dr. Rapp, in the last part of the paragraph you say that because that statement is generally true, it does not permit a person skilled in the art to predict how different formulations would work.
+A. Absolutely true.
+Q. But it gives you an expectation of how they might.
+A. A best guess."
+[136]
+The evidence adduced by Novopharm failed to show that a person skilled in the art could have known how to make an oral dosage form of azithromycin which exhibited no adverse food effect. A person skilled in the art would not, in light of the prior art, have been led directly and without difficulty to formulate an oral pharmaceutical dosage form of azithromycin which exhibits no adverse food effect when administered to a fed patient. For the above reasons, and based on the evidence, I am satisfied, on a balance of probabilities, that the allegation that claim 23 of the '071 Patent is invalid for obviousness is not justified
+B.
+Whether claim 23 is invalid on the ground of anticipation?
+[137]
+The
+Patent Act
+stipulates that a patent will only be valid where it describes a novel invention that has not previously been anticipated by a prior invention. Pursuant to paragraph 28.2(1)(a) of the
+Patent Act
+, for a patent to be valid, the invention it claims must not have been disclosed by the applicant or by a person who obtained knowledge from the applicant, directly or indirectly, more than one year before the filing date.
+[138]
+An invention is said to be anticipated if its essential features are disclosed in a single piece of prior art: <FRAGMENT_SUPPRESSED> , supra, at page 297  <FRAGMENT_SUPPRESSED> :
+"[...] One must, in effect be able to look at a prior single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[139]
+With respect to the relevant date for assessing anticipation, it is agreed that the '071 Patent has a priority date of April 29, 1994, based on a filing in the United States. In order to support an allegation of anticipation of the '071 Patent, a document must therefore have been published prior to April 29, 1994.
+[140]
+In the present case, Novopharm alleges that claim 23 is anticipated on the basis of either U.S. Patent No. 4,963,531 entitled "Azithromycin and Derivatives as Antiprotozoal Agents" (the '531 Patent) also known as the Remington Patent, which issued on October 16, 1990, or Canadian Patent No. 2,101,466 entitled "Taste-Masking Composition of Bitter Pharmaceutical Agents" (the '466 Patent) also known as the Catania Patent, which was opened to public inspection on January 31, 1994.
+[141]
+Novopharm claims that the '531 Patent comprises all elements of claim 23 of the '071 Patent and consequently anticipates this claim. The '531 Patent pertains to a method of using azithromycin to treat an infection caused by taxoplasma gondii by using powder and tablet formulations. Novopharm argues that the '531 Patent anticipates claim 23 of the '071 Patent since it discloses all of its elements, namely (1) the use of a therapeutically effective amount of azithromycin, (2) for the preparation of a pharmaceutical dosage form which does not exhibit an adverse food effect, (3) for administration, in the treatment of an antimicrobial infection, (4) to a patient that has eaten.
+[142]
+Novopharm also alleges that the '466 Patent anticipates claim 23 of the '071 Patent because it comprises all of the elements of claim 23. The '466 Patent discloses pharmaceutical compositions of azithromycin that have reduced bitterness because they comprise a taste-masking component. Powder and chewable tablets are provided as examples.
+[143]
+I disagree with Novopharm's contention. Pfizer's evidence establishes that neither the '531 Patent nor the '466 Patent address the issue of adverse food effect (See paragraphs 72 and 73 of Dr. Andriole's affidavit and paragraphs 85 and 87 of Dr. Rapp's affidavit). Even Novopharm's expert witnesses attest that the '531 Patent does not indicate that the dosage form could exhibit an adverse food effect if taken by a patient that has eaten (paragraph 52 of Dr. Rudolph's affidavit and paragraph 63 of Dr. Kanfer's affidavit). At paragraph 61 of his affidavit, Dr. Rudolph states:
+"Further, Remington [531 patent] and Catania [466 patent] Patents disclose everything mentioned in claim 23.
+They, however, do not specifically state that the dosage forms do not exhibit an adverse food effect
+. Nevertheless, a person skilled in the art knew that the IV solution in Example 5 of the Remington Patent would not exhibit a food effect whatsoever." (My emphasis)
+[144]
+Upon reviewing the '531 Patent and the '466 Patent, I accept the above expert evidence. Neither patent purports to address the issue of adverse food effect. It follows that neither the '531 Patent nor the '466 Patent is a single prior publication which discloses the invention taught by the '071 Patent. In my view, the person skilled in the art, reading and following either of the said patents, would not in every case, without possibility of error be led to the claimed invention. In the result, the allegation that claim 23 of the '071 Patent is invalid for anticipation because of either the '531 Patent or the '466 Patent is not justified.
+[145]
+I find it unnecessary to deal with the allegation of invalidity for indefiniteness raised by Novopharm in its notice of allegation. Novopharm has tendered no evidence nor advanced any submission on this issue in its memorandum of fact and law.
+16.
+Conclusion
+[146]
+I determined earlier in these reasons, the essential elements of the invention disclosed by the claims at issue of the '071 Patent include an oral pharmaceutical dosage form containing a therapeutically effective amount of azithromycin which will not exhibit an adverse food effect when administered, in the treatment of a microbial infection, to a patient that has eaten, if it effects at least about 90% dissolution of azithromycin within about 30 minutes when an amount of the dosage form equivalent to 200 mg of azithromycin is tested as set forth in USP test < 711 > in a USP-2 dissolution apparatus under conditions at least as stringent as the following: 900 ml sodium phosphate buffer, pH 6.0, 37
+o
+C, with paddles turning at 100 rpm, provided that the dosage form contains less than a taste-masking amount of an alkaline earth metal oxide or hydroxide. I am also of the view that the term "wet granulation" is not an essential element of the invention.
+[147]
+I determined, on a balance of probabilities, that Novopharm's allegations of invalidity for obviousness and anticipation are not justified. In construing the patent claims, however, I determined that claim 23 is covetous in that it claims a desirable result. I found that Claim 23 of the '071 Patent is invalid. It follows therefore that Novopharm's allegation of invalidity for over breadth is justified.
+[148]
+Novopharm based its allegation of non-infringement solely on the allegation that it would make its tablets with a different tableting process, namely "dry granulation". I found the tableting process, whether "wet" or "dry" not to be an essential element of the invention. It follows, necessarily that Novopharm's allegation of non-infringement must fail. The allegation of non-infringement is therefore not justified.
+[149]
+In keeping with my finding that Novopharm's allegation of non-infringement is not justified, I am of the view that the order for prohibition sought by the Applicants is warranted. In consequence an order will issue prohibiting the minister from issuing a notice of compliance to the Respondent in respect of its tablets for oral administration comprising azithromycin monohydrate in a strength equivalent to 250 mg azithromycin until after the expiry of the '071 Patent.
+17.
+Costs
+[150]
+In response to my direction relating to Novopharm's letter of June 24, 2005, Pfizer seeks an order for its costs of responding to the surreply on the highest scale permitted in Column V of Tariff B. In the circumstances and in the exercise of my discretion I award costs on the application including the costs to responding to the surreply to the Applicant to be assessed in accordance with the middle of Column III of Tariff B of the
+Federal Courts Rules
+, SOR/2004-283, s. 2.
+ORDER
+[151]
+THIS COURT ORDERS that:
+1. The application is granted.
+2. The Minister of Health is prohibited from issuing a notice of compliance to the Respondent in respect of its tablets for oral administration comprising azithromycin monohydrate in a strength equivalent to 250 mg azithromycin until after the expiry of the '071 Patent.
+3. Costs are awarded on the application including the costs to responding to the surreply to the Applicant to be assessed in accordance with the middle of Column III of Tariff B of the
+Federal Courts Rules
+, SOR/2004-283, s. 2.
+Application granted.
+Editor: Elizabeth M.A. Turgeon/vnh
+[End of document]

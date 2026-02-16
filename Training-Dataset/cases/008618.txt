@@ -1,0 +1,270 @@
+Introduction
+[1]
+Rothstein, J.
+: This is an application for prohibition brought under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the "
+Regulations
+"). The medicine is norfloxacin, an antibiotic. The determination to be made is whether the allegation of noninfringement by Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) respecting the process by which it will have norfloxacin produced is justified. If so, the order of prohibition against the Minister of Health ("Minister") will be refused. If not, the application will be granted.
+[2]
+The applicants, Merck & Co. Inc. and Merck Frosst Canada Inc. (collectively  <FRAGMENT_SUPPRESSED> ), are licensee and sub-licensee respectively of Patent No. 1,178,961 (the "961 patent") granted to the respondent Kyorin Pharmaceutical Co. Ltd., which covers the process of manufacturing norfloxacin. Merck Frosst Canada Inc. obtained a notice of compliance for norfloxacin on July 2, 1986. On April 6, 1993, Merck Frosst Canada Inc. filed a patent list under s. 4 of the
+Regulations
+respecting the 400 milligram tablets of norfloxacin and listing the 961 patent.
+[3]
+Pursuant to s. 5(1)(b)(iv) of the
+Regulations
+, Apotex served a notice of allegation on Merck Frosst Canada Inc. on February 13, 1995, alleging that Apotex had available to it norfloxacin made by a process that did not infringe the 961 patent. [see footnote 1] Merck brought this application to prohibit the Minister from issuing a notice of compliance in respect of the norfloxacin to be marketed by Apotex [see footnote 2] on March 29, 1995. [see footnote 3]
+[4]
+The process under the 961 patent combines the reagent chloroquinoline carboxylic acid (the "chloroquinoline compound") with the reagent piperazine to produce norfloxacin. This process, called nucleophilic substitution, involves the reaction of the chloroquinoline compound with the piperazine in such a way that a chlorine atom in the chloroquinoline compound will be displaced by one of the amino functions of the piperazine, as seen in the following illustration:
+[5]
+The norfloxacin to be marketed by Apotex is to be acquired from Torcan Chemical Ltd. ( <FRAGMENT_SUPPRESSED> ) and is produced by a process combining the chloroquinoline compound with
+protected
+piperazine to produce norfloxacin (the "Torcan process"). This process also involves nucleophilic substitution.
+2.  <FRAGMENT_SUPPRESSED>  Equivalent
+Of The 961 Process?
+[6]
+The issue of whether the use of protected piperazine in the production of ciprofloxacin, an antibiotic in the same family as norfloxacin, would infringe a patent for a process to produce ciprofloxacin by using "unprotected" piperazine was dealt with by MacKay, J., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 203 (T.D.). Based on the evidence before him, MacKay, J., found at 211  <FRAGMENT_SUPPRESSED> :
+"The third and final difference relied upon by Apotex is the use in its process of a protected piperazine compound. The Bayer process uses piperazine directly to react with the intermediate at step 4, whereas the Apotex process uses a protecting group (EtOOC) on the piperazine. I am not persuaded by the evidence of Dr. McClelland that the protecting group adds any particular advantage to the Apotex process. Protection of the reagent seems unnecessary, in the opinions of Drs. Corey and Wuest, in light of the Bayer process reacting directly with unprotected piperazine to produce good yield of ciprofloxacin, without the additional and time-consuming step of 'deprotecting' the piperazine which is required by the Apotex process. Moreover, I am persuaded on the evidence before me that it is commonplace in organic chemistry, and a known and obvious practice for one skilled in the art of synthetic organic chemistry to add a protective group to a particular part of a molecule for purposes of temporary protection during a chemical reaction, and to remove the protection when no longer needed. That is set out in the affidavits of Drs. Corey and Wuest, confirmed in their cross-examination, and also in the cross-examination of Dr. McClelland."
+[7]
+At page 215  <FRAGMENT_SUPPRESSED>  MacKay, J., stated:
+"That conclusion rests upon my opinion, on the evidence adduced, that while the Apotex process for preparing ciprofloxacin differs from the processes specifically described and claimed in the Bayer '067 patent, those differences are not significant. The differences, whether in the starting compound or in the procedures followed, in my opinion, are obvious chemical equivalents of the Bayer processes within the meaning of that term in the product by process claims of the patent and within the meaning of that term in the
+Regulations
+."
+[8]
+MacKay, J., found that while the process using protected piperazine differed from the process using unprotected piperazine, that difference was not significant and therefore the Apotex process amounted to an obvious chemical equivalent of the patented process. He did so for two reasons: (1) using protected piperazine seemed unnecessary in that it involved an additional step for no apparent purpose; and (2) it was a known and obvious practice to add protection and then remove it in a chemical reaction.
+[9]
+In the case at bar, Apotex argues that the evidence should lead to a different conclusion for norfloxacin. One reason advanced is that in this case there is evidence that demonstrates that using protected piperazine materially improves the yield and purity of the final product, norfloxacin, and that such evidence was not before MacKay, J., when he was dealing with the case involving ciprofloxacin. Of particular significance, Patent No. 1,326,239 (the "239 patent"), issued to Torcan, claiming the procedure for making ciprofloxacin [see footnote 4] using protected piperazine, is before the court in this case and was not before McKay, J., in <FRAGMENT_SUPPRESSED> .
+[10]
+In considering this evidence the court must bear in mind that it is the applicant that bears the initial burden of proving that the respondent's allegation of noninfringement is not justified (see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 (F.C.A.), at 316  <FRAGMENT_SUPPRESSED> ).
+[11]
+Evidence on behalf of Apotex was submitted in the form of affidavits of Dr. Robert McClelland, Professor of Chemistry, University of Toronto, who also gave evidence in the <FRAGMENT_SUPPRESSED> case, and Dr. James B. Hendrickson, Professor of Chemistry, Brandeis University. Evidence on behalf of Merck was submitted in the form of affidavits of Dr. George Just, Professor of Organic Chemistry, McGill University, and Dr. Normand Beaulieu, Associate Director of Quality Control of Merck Frosst Canada Ltd.
+[12]
+Drs. McClelland and Hendrickson testified that use of protected piperazine will result in norfloxacin of high yield and purity as compared to producing norfloxacin using unprotected piperazine. Dr. Hendrickson states:
+"11. The claimed process in the '961 patent by using piperazine unprotected:
+(i) allows for a second molecule of 1-ethyl-6-fluoro-7-chloro-1, 4-dihydro-4-oxyquinoline-3-carboxylic acid (II) to react with the unprotected aminonitrogen of piperazine leading to a disubstituted piperazine as a by-product; and
+[diagram omitted]
+(ii) will require a huge excess of piperazine which will inevitably lead to more by-products.
+"12. Accordingly the product so obtained will be a mixture of several compounds, which must then be separated and will therefore decrease the yield of the final product i.e., norfloxacin to around 50% as disclosed in the examples of the '961 patent.
+"13. By contrast the Torcan process which is better disclosed in the '239 patent results in high yield in the range of 90%."
+Dr. McClelland states:
+"15. The disubstituted piperazine so obtained will:
+a. have a deleterious effect on the yield of the target molecule, i.e., norfloxacin, which is a monosubstituted piperazine; and
+b. be difficult to separate from the monosubstituted piperazine due to the similarity of these di- and mono-substituted compounds.
+"16. The use and advantages of a protected piperazine is provided in the disclosure and claims of Canadian Patent 1,326,239 shown as Exhibit 'C' ...
+. . . . .
+"19. The use of a protecting group enabling the final product to be obtained in very pure form was found to be an invention in Canadian Patent 1,326,239."
+[13]
+The 239 patent refers to yields in excess of 90% being readily obtained for ciprofloxacin. This is in contrast to a yield of 72% for ciprofloxacin which the 239 patent says was obtained under prior art. Apotex's witnesses, Drs. McClelland and Hendrickson compare the yields in excess of 90% for ciprofloxacin to yields of 54% to 64% referred to in the 961 patent for norfloxacin. Drs. McClelland and Hendrickson conclude that the Torcan process has advantages over the 961 process.
+[14]
+Drs. McClelland and Hendrickson took the yield and purity calculations set out in the 239 patent at face value. They did no experiments and did not verify the results claimed in the 239 patent.
+[15]
+By contrast, Merck's experts, Drs. Just and Beaulieu independently analyzed the yield and purity data in the examples in the 239 patent. They concluded that the actual yield in the 239 examples was 65% to 69% for ciprofloxacin using protected piperazine (rather than in excess of 90% as alleged therein) as compared to 72% in the prior art and 54% to 64% for norfloxacin in the 961 examples. There were also large components of impurities in the 239 examples. Dr. Just states:
+"17. In view of the fact that this patent deals with yield improvement, I verified the yields and data relating to the purity of the products obtained. I therefore proceed to an analysis of the three examples provided, which describe experimental conditions used for transforming product 1a to product 6, product 6 to product 7 and product 7 to product 8 respectively.
+"18.
+Example 1:
+Example 1 describes the transformation of 12.0 g of product 1a (MW=281.5) to product 6 (MW-403), obtained in various runs in yields of 13.2-14.0 g. This corresponds to a yield of 76.8-81.5%.
+"19. It is stated that this product is very pure and showed on TLC (thin layer chromatography) only one spot (besides a very fine base spot). Removal of the latter or of traces of starting material, should that be necessary, can be carried out by a simple process, the recovery yield of which is 91%. The pure compound is then obtained in (76.8-81.5) x 91% = 69.89-74.16% yield. The only criterion of purity used was TLC, which normally does not allow for the detection of inorganic impurities, and certainly not any water of hydration. In conclusion, the reaction of products 1 and 5 to give product 6 proceeds in a yield not exceeding 70-74%. Should product 6 have precipitated out as a pentahydrate, or as a methanol adduct, the yields would be lower.
+"20.
+Example 2
+: Example 2 describes the transformation of 6.0 g of product 6 (MW=403) to the hydrolysis product ciprofloxacin 7 (MW=331), of which 5.8 g was obtained. This product was deemed pure enough to be used as such in the next final reaction. A calculation shows that the yield for this reaction is 117.69%. This indicates clearly that this product contains a very large impurity, or is wrongly identified, or both, since no reaction can proceed in a yield higher than 100%.
+"21. By analogy with norfloxacin, this material may have precipitated out as a pentahydrate. The MW of the pentahydrate of product 7 being 421, the yield of the reaction would be 92.53%. If this were the case, the overall yield for the two reactions described in examples 1 and 2 would therefore be 92.53 x (69.89-74.16) = 64.67-68.62%. This is to be compared with an unoptimized yield of 64%, obtained for a one-step reaction in Kyorin Patent 961 rather than a two-step reaction  <FRAGMENT_SUPPRESSED>  Patent 239.
+"22.
+Example 3
+: This example illustrated the conversion of ciprofloxacin 7 obtained in example 2 to its hydrochloride product 8. The yield of this conversion is 94.5%. There not being any characterization of this final product, we must assume that it was obtained as described. The overall yield of the two reactions described in examples 2 and 3 being 111.31%, we must assume that the product contains at least a 10% of unidentified component(s). Since it is unlikely that either the hydrolysis reaction (example 2) or the salt formation (example 3) proceeds in a yield higher than 95%, the final product must contain at least a 20% of unidentified component(s)."
+Drs. Beaulieu and Just were cross-examined and those cross-examinations did not detract from their findings with respect to the yields and purity of the 239 examples.
+[16]
+The inference to be drawn from the evidence of Drs. Just and Beaulieu is the same inference drawn by MacKay, J., on the evidence before him in <FRAGMENT_SUPPRESSED> ; that the Torcan process using protected piperazine does not add any particular advantage and is an obvious chemical equivalent of the 961 process. However, it is also necessary to consider the fact that the Torcan process has been patented under the 239 patent, which the court is obliged to presume is valid. The legal basis for this presumption is s. 45 of the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended, [see footnote 5] which provides:
+"45. Every patent granted under this Act shall be issued under the signature of the Commissioner and the seal of the Patent Office, shall bear on its face the date on which it is granted and issued and shall thereafter,
+in the absence of any evidence to the contrary, be valid
+and avail the grantee and his legal representatives for the term mentioned therein." (underlining added)
+[17]
+Counsel for Apotex argues that as the 239 patent must be presumed to be valid, the Torcan process cannot be found to be an obvious chemical equivalent of the process disclosed in the 961 patent, i.e., if it was an obvious chemical equivalent it would infringe the 961 patent and the 239 patent never would have issued. Counsel for Merck, also relying on s. 45 of the
+Patent Act
+, argued that the Just and Beaulieu evidence is "evidence to the contrary" in respect of the validity of the 239 patent.
+[18]
+To conclude from the Just and Beaulieu evidence that the process under the 239 patent produces essentially the same yield and purity as under the 961 patent and therefore is an obvious chemical equivalent of the process under the 961 patent would be to treat the 239 patent as invalid. However, the validity of the 239 patent, which is called into question by the Just and Beaulieu evidence, is not in issue in these proceedings. The sole question for the court under the
+Regulations
+is whether Apotex's allegation of noninfringement of the 961 patent is justified.
+[19]
+The reference to "evidence to the contrary" in s. 45 has to mean evidence in a proceeding brought for the purposes of impeaching the 239 patent (and perhaps other purposes) in which the patent holder, Torcan, is named as a defendant with the full opportunity to defend its patent. [see footnote 6] The phrase cannot refer to evidence in a summary proceeding such as this, where the validity of the 239 patent is collateral to the issue of whether Apotex's notice of allegation is justified and Torcan is not even a party. Although Merck has succeeded in raising considerable doubt in my mind with respect to the claims of improved yield in the 239 patent, this is not the proper forum to impeach the 239 patent. Accordingly, for the purposes of this hearing, the court's inquiry must proceed on the assumption that the 239 patent claiming the use of the Torcan process to achieve improved yield and purity is valid. As a result, it is not possible to conclude that the Torcan process is an obvious chemical equivalent of the 961 process as would be possible in the absence of the 239 patent.
+[20]
+Counsel for Apotex raised a number of other arguments respecting the evidence of Drs. Just and Beaulieu, and the manner in which their evidence challenging the 90% yields claimed in the 239 patent was introduced. I did not find these arguments persuasive for a number of reasons. However, because the court must treat the 239 patent as valid for the purposes of this proceeding it is unnecessary to make any findings on the basis of these arguments.
+3. The Implication Of The Torcan
+Process Being Patented
+[21]
+Counsel for Merck next argues that even if the Torcan process produces a new and useful improvement over the process disclosed in the 961 patent, it still infringes the 961 patent. He still asserts that it is an obvious chemical equivalent of the 961 process. Responding to this argument, counsel for Apotex says that a valid patent cannot issue for an obvious chemical equivalent of a known process. In order for a patent to issue for an improvement on an existing process, the improvement must be new and useful. A patented improvement on an invention is an invention itself and cannot, by definition, be an obvious equivalent of the original invention. Apotex submits that because the 239 patent has issued for the process by which Apotex intends to make norfloxacin tablets, the court must conclude that the Torcan process that is described in the 239 patent is not an obvious chemical equivalent of the 961 process and that Apotex's allegation of noninfringement is therefore justified.
+[22]
+I agree with counsel for Apotex that a patented improvement cannot be an obvious chemical equivalent of the original invention. However, this is not an answer to the question of whether Apotex's allegation of noninfringement is justified. In this respect, s. 32 of the
+Patent Act
+is relevant:
+"32. Any person who has invented any improvement on any patented invention may obtain a patent for the improvement, but he does not thereby obtain the right of making, vending or using the original invention, nor does the patent for the original invention confer the right of making, vending or using the patented improvement."
+Harold G. Fox, in
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th Ed.) (Toronto: Carswells, 1969) makes the following comments in respect of patents for improvements at page 58:
+"... The inventor of any improvement on a patented invention may obtain a patent for such improvement, but the obtaining of the patent does not give to him the right of making, vending or using the original invention, nor does the patent for the original invention confer the right of making, vending, or using the patented improvement. This provision of the statute is in harmony with the view of the common law that
+it was no objection to an improvement patent that it could only be used by obtaining a licence to use a former invention upon which the patent was an improvement. This may preclude the patentee of the improvement from manufacturing under his patent.
+Under these circumstances the only recourse for the improvement patentee is to obtain a licence from the earlier patentee, or, if the first patentee has abused his exclusive rights as provided in the statute, to make application to the Commissioner for the grant of a compulsory licence." (footnotes omitted, emphasis added)
+[23]
+The question under s. 32 is not whether a patented
+improvement
+infringes an original patent. A patented
+improvement
+itself will not infringe because it is, by definition, a new invention. However, an improvement, as an invention which builds upon an original invention, may not be useful without the original invention. The court must look to the
+overall process
+, which includes but is not limited to the improvement, and determine whether using that process infringes the original patent. This may require the court to conceptually distinguish between that aspect of the process that is an improvement over the previously patented process, and any other aspect that may appropriate that which is claimed in the original patent. Therefore, the question is not whether the improvement itself is an obvious chemical equivalent of the original process, but whether, notwithstanding the improvement, the new process as a whole incorporates using the original patented process or an obvious chemical equivalent of that original process.
+[24]
+This distinction can be seen in
+ <FRAGMENT_SUPPRESSED>  differs from Hartley, may represent an improvement on the specific arrangement of Hartley, and conceivably it might afford subject matter for letters patent, if it has not already been anticipated. Nevertheless, the general principle of Hartley, which has not been attacked by the defendants, is I think embodied in the defendant's circuit.
+Assuming for the moment that the defendant's circuit contains component parts and arrangements distinguishing it from the specific circuit disclosed by Hartley, and that they are not the mere substitution of equivalents, and further assuming that they are improvements
+, yet I conceive it to be law that where an invention is shown to be new and useful, as was Hartley,
+the fact that it is much more useful with a subsequent improvement affords no ground for infringing the original invention by using it with the subsequent patent
+." (underlining added)
+Even if the fact that the 239 patent has issued compels the conclusion that the
+invention claimed
+in the 239 patent is not an obvious chemical equivalent of the 961 process but is an improvement over that process, Apotex's allegation of noninfringement will still not be justified if using the Torcan process to make norfloxacin incorporates using either the process claimed in the 961 patent or an obvious chemical equivalent of that process. [see footnote 7]
+[25]
+In determining whether the Torcan process would infringe the 961 patent the court must first construe the relevant claims in the 961 patent. In construing a patent the court must give the language of the claims a purposive interpretation, bearing in mind that they are meant to be read and understood by a person skilled in the art, so as to identify those features that the inventor considers to be essential and constitute the "pith and marrow" of the claim (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.), at 10  <FRAGMENT_SUPPRESSED> ).
+[26]
+The relevant claims in the 961 patent, specifically claims 1 and 11, provide as follows:
+"1. The process which comprises reacting piperazine with a compound of the formula:
+[the chloroquinoline compound] to produce a compound having the formula:
+[norfloxacin,] the hydrates, and the acid addition salts.
+. . . . .
+"11. A compound having the formula:
+[norfloxacin,] the hydrates, and the acid addition salts thereof, whenever produced by the process of claims 1, 2 or 3 or its obvious chemical equivalents."
+Under claim 11, if norfloxacin is produced by the process of claim 1 (or claims 2 or 3) or their obvious chemical equivalents, it is covered by the 961 patent.
+[27]
+I have also had regard to the evidence of the experts for both Merck and Apotex. Dr. Just, in his affidavit, describes the process disclosed in the 961 patent as follows:
+"8. Kyorin Patent 961 discloses an invention of new antibacterial agents, which belong to the class of quinoline carboxylic acids. These new antibacterial agents are prepared by reacting a chloroquinoline carboxylic acid of formula 1 with piperazine (2) to provide a novel compound 3 (norfloxacin), which is converted to its hydrochloride salt 4.
+[diagram omitted]
+"9. ... The reaction of the chloroquinoline 1 with piperazine involves the displacement of a chlorine in 1 by one of the amine functions of piperazine."
+Dr. Beaulieu characterizes the 961 process in his affidavit as follows:
+"15. La réaction du procédé de fabrication de la norfloxacine dans le brevet Kyorin en est une de substitution nucleophilique agissant entre un des groupes aminés de la pipérazine et le chlore sur le composé II pour obtenir un produit dérivé mono-pipérazine ou norfloxacine, selon la nature du produit de départ."
+[28]
+Drs. McClelland and Hendrickson both agreed with these characterizations of the process disclosed in the 961 patent. The relevant excerpt from Dr. McClelland's cross-examination provides:
+"134. Q. Okay. In paragraph 8 you disclose the reaction that takes place in the '961 patent. Okay? And that -- are we in agreement that there is a reaction there illustrated as reacting the chlorine and substituting it on one amino function as the reaction is illustrated?
+A. Yes.
+135. Okay. And could we characterize that as a nucleophilic substitution?
+A. Yes."
+Finally, Dr. Hendrickson expressed the same view when he was under cross-examination:
+"489. Q. Okay? Good. Now, what I simply want to ask you is when I react product A with piperazine, do you agree that I have a nucleophilic substitution which makes product B, which is norfloxacin, by the substitution of the chlorine on A?
+A. Yes."
+[29]
+Having regard to the language of the relevant claims in the 961 patent, and the opinions of the expert witnesses, I conclude that the 961 patent includes a claim for the medicine norfloxacin when prepared by a process that is described by all of the expert witnesses to be a nucleophilic substitution in which one hydrogen atom on one of the amine functions of the piperazine gives way and the remaining portion of the piperazine replaces the chlorine atom on the chloroquinoline.
+[30]
+Furthermore, Drs. Just, Beaulieu and McClelland all stated that the compound norfloxacin was a new drug when the 961 patent application was filed. Dr. Hendrickson neither confirmed nor denied this, stating that he was not asked to consider the 961 patent and did not know whether this was the case. I accept the uncontradicted evidence of Drs. Just, Beaulieu and McClelland on this point and find that the 961 patent discloses a process for producing a previously unknown compound and that the patent should therefore be given a sufficiently broad interpretation to protect the inventor against relatively simple emulations of the original patented process (see
+ <FRAGMENT_SUPPRESSED> , at 1115-1116  <FRAGMENT_SUPPRESSED> , per Pigeon, J.).
+[31]
+The next step is to determine whether making norfloxacin using the Torcan process incorporates using the process claimed in the 961 patent. The Torcan process uses protected piperazine instead of the "unprotected" piperazine used in the 961 process. The difference between piperazine and protected piperazine is illustrated as follows:
+As can be seen from this illustration, one of the amine functions (NH) of the piperazine is "protected". This protection (described in the illustration as "EtOOC") [see footnote 8] ensures that only one of the amine functions reacts with the chloroquinoline compound, thereby avoiding the problem of a disubstituted piperazine by-product arising where both amine functions (NH) of the "unprotected" piperazine react with the chloroquinoline compound.
+[32]
+The protected piperazine is then used in a reaction with chloroquinoline. This part of the process is illustrated as follows:
+In this step there is a nucleophilic substitution of the free amine function of the protected piperazine for the chlorine atom of the chloroquinoline compound. The difference between the intermediary compound obtained at this stage in the Torcan process and the final product obtained in the 961 process is that the "protection" (EtOOC) that was put on the piperazine before the nucleophilic substitution remains on the intermediary compound.
+[33]
+The next step in the Torcan process subjects the intermediary compound obtained in the preceding step to hydrolysis, removing the "protection" (EtOOC) from the compound. This step of the process can be illustrated as follows:
+[34]
+The expert witnesses all agreed that apart from using protected piperazine and then removing the protection after the nucleophilic substitution takes place, the Torcan process uses the same process as that disclosed in the 961 patent. Dr. Just states in his affidavit:
+"15. ... The Torcan process utilizes a simple derivative of piperazine 2, namely N-carboethoxypiperazine 5, to form N-ethoxycarbonylated ciprofloxacin 6. This reaction is also a displacement of a chlorine 1a with an amino group of piperazine derivative 5."
+Dr. Beaulieu states in his affidavit:
+"17. Relativement au procédé divulgué dans le brevet Torcan, la réaction de base est la même réaction de substitution nucléophilique que celle qui se produit dans le procédé Kyorin. La seule différence est qu'un des groupes aminés de la pipérazine a été bloqué préalablement à la réaction avec le groupe II. Une fois le produit dérivé obtenu, nous avons l'étape additionnelle d'hydrolyse pour libérer la fonction aminée bloquée préalablement à la réaction. Il s'agit de la même réaction à laquelle Torcan a ajouté une étape préliminaire de blocage et par conséquent a ajouté une étape additionnelle de libération du groupe aminé."
+To paraphrase the evidence of Dr. Beaulieu, in the process disclosed in the Torcan 239 patent the base reaction is the same nucleophilic substitution reaction as that used in the Kyorin 961 process. The only difference is that one of the amino groups of the piperazine has been protected prior to the reaction with the chloroquinoline compound. Once the product of this reaction has been obtained, there is the additional step of hydrolysis to deprotect the amino function that was protected prior to the reaction. The Torcan process consists of the same reaction as that disclosed in the 961 patent to which Torcan has added a preliminary step of protection and by consequence has added an additional step of deprotecting the amino group.
+[35]
+This characterization of the Torcan process is supported by Drs. McClelland and Hendrickson. The transcript of Dr. McClelland's cross-examination provides as follows:
+"136 Q. When we look at paragraph 9 of your Affidavit, and the reaction that is illustrated therein, is it not true that there is in this reaction the reaction of one free amino group on the protected piperazine III to substitute the chlorine of compound II and therefore have a nucleophilic substitution?
+A. Yes"
+Finally, in Dr. Hendrickson's cross-examination it was stated:
+"491 Q. Okay. When I look at the Torcan process, I start with the product A and I use a protected piperazine, carboethoxy piperazine?
+A. A different compound, that's right.
+492. Yes. I use this protected piperazine, and when I react this protected piperazine with A, I again have a nucleophilic substitution of the chlorine on product A to obtain C?
+A. Certainly. Yes.
+493 Q. Thank you. And after that, from C to B I have the hydrolysis that will remove the protecting group on the other amino function of the piperazine?
+A. Yes, that's its function.
+494 Q. And that -- that roll [sic] of the hydrolysis, as you say its function, is there by reason of the fact that we've used carboethoxy piperazine instead of the normal piperazine unprotected?
+A. Yes."
+[36]
+The Torcan process involves two steps [see footnote 9] not found in the process disclosed in the 961 patent: (1) prior to the nucleophilic substitution reaction, reacting the piperazine with ethylchloroformate to produce protected piperazine; and (2) removing the protection by hydrolysis after the nucleophilic substitution is completed. According to Drs. McClelland and Hendrickson, and according to the disclosure in the 239 patent, these additional steps result in higher yields of a final product and/or a final product of greater purity. Apart from the two extra steps and the improvement in yield and purity, all of the expert witnesses agreed, and indeed it appears indisputable, that the Torcan process also obtains norfloxacin by a nucleophilic substitution of one of the amine functions of the piperazine for the chlorine atom on the chloroquinoline, i.e., the Torcan process employs the very process to make norfloxacin that is claimed in the 961 patent.
+[37]
+Counsel for Apotex, without reference to the undisputed expert opinions, described the difference between the 961 and 239 processes as "A+B=C" as compared to "A+D=C" where "A" was chloroquinoline, "B" piperazine, "D" protected piperazine and "C" norfloxacin. However, while describing piperazine and protected piperazine as "C" and "D" reflects the fact that the two compounds are not identical, it disregards the chemical relationship between the two and the crucial observation that what makes protected piperazine different from "unprotected" piperazine, i.e., the protection (EtOOC), is precisely what is removed at the end of the process to derive the final product norfloxacin. Therefore, a more accurate description would begin by representing the protection (EtOOC) that is added to the piperazine and then removed after the nucleophilic substitution as "X". The Torcan process would then be described as "A+(B+X)=(C+X)-X=C". Viewed in this way, apart from achieving improved yield and purity by adding "X" before the base reaction takes place, and then removing "X" once the base reaction is completed, the Torcan process for making norfloxacin uses a process identical to that disclosed in the 961 patent.
+[38]
+I therefore conclude that although the 239 patent may give Torcan the exclusive right to the use of protected piperazine to obtain higher yields and purity in producing norfloxacin, making norfloxacin using the Torcan process still incorporates using the process claimed in the 961 patent.
+4.  <FRAGMENT_SUPPRESSED>  allegation of noninfringement of the 961 patent is not justified because protected piperazine plays a role in the reaction that is substantially different from that of piperazine. Counsel relies on the leading decision of the United  <FRAGMENT_SUPPRESSED> , where Thomas, J., concludes that the doctrine of equivalents must not take on a life of its own unbounded by the patent. Thomas, J., states, at 1871 and 1875:
+"... Each element contained in a patent claim is deemed material to defining the scope of the patented invention, and thus the doctrine of equivalents must be applied to individual elements of the claim, not to the invention as a whole. It is important to ensure that the application of the doctrine, even as to an individual element, is not allowed such broad play as to effectively eliminate that element in its entirety. So long as the doctrine of equivalents does not encroach beyond the limits just described, or beyond related limits to be discussed ... we are confident that the doctrine will not vitiate the central functions of the patent claims themselves.
+. . . . .
+"... An analysis of the role played by each element in the context of the specific patent claim will thus inform the inquiry as to whether a substitute element matches the function, way, and result of the claimed element, or whether the substitute element plays a role substantially different from the claimed element."
+Counsel submits that having regard to the function served by protected piperazine in the Torcan process, the way it serves that function and the result achieved by the Torcan process, protected piperazine plays a substantially different role than does "unprotected" piperazine in that it obtains improved yield and purity and therefore is not a chemical equivalent of piperazine.
+[40]
+I doubt that this decision of the United States Supreme Court respecting the equivalency of elements informs the approach to be taken in this proceeding under the
+Regulations
+where the issue before the court is whether the Torcan
+process
+for making norfloxacin infringes the
+process
+claimed in the 961 patent. Nevertheless, the application of the
+Warner Jenkinson
+approach would not change the outcome of this case. I disagree with counsel for Apotex that due to the improvement in yield and purity achieved, protected piperazine ipso facto cannot be a chemical equivalent of piperazine. The
+Warner Jenkinson
+approach cannot be applied in a way that would eliminate the role of s. 32 of the
+Patent Act
+which provides that an improvement patent does not grant the patentee rights to the original invention. Again it is necessary to distinguish between the improvement, i.e.,
+protecting
+piperazine to improve yield and purity, and the overall function served by
+the compound protected piperazine
+, the way protected piperazine serves that function and the result achieved by its use in the Torcan process. While protecting the piperazine improves yield and purity, protected piperazine also serves the same function in the same way to derive the same result as "unprotected" piperazine in the 961 process, i.e., both are used in nucleophilic substitution in which an amine function of the piperazine, or the free amine function of the protected piperazine, replaces the chlorine atom on the chloroquinoline to produce norfloxacin. While the protection that is added to the piperazine is an invention for which a patent has issued, the role played by protected piperazine in the Torcan process, when examined comprehensively to include its role in the underlying nucleophilic substitution, is not substantially different from the role played by "unprotected" piperazine in the 961 process. Indeed its underlying role is exactly the same as that of "unprotected" piperazine.
+5. Other Arguments
+[41]
+The preceding reasons make it unnecessary to consider in detail Merck's argument that the use of a protected compound has been obvious and known since 1929. Since I must accept the validity of the 239 patent I must also accept that using protected piperazine to achieve improved yields and/or purity is a patentable invention and therefore was not obvious and known. However, this does not change the analysis under s. 32 of the
+Patent Act
+. The question for the court is still whether using the Torcan process to make norfloxacin involves using the process claimed in the 961 patent, and I have found that it does.
+[42]
+Apotex also relied on the 466 patent granted to Kyorin which discloses a process which, like the Torcan process, appears to be intended for the purpose of obtaining improved yield and purity not achievable using the 961 process. Counsel submits that because the 466 patent discloses a process to achieve improved yield by protecting the chloroquinoline compound, the words in the claims of the 961 patent "obvious chemical equivalent" must not include the 466 process. By analogy, he argues that because the Torcan process involves a process for producing norfloxacin by protecting the piperazine compound to obtain improved purity and yield, this process also would not be included in the words "obvious chemical equivalent" in the 961 patent.
+[43]
+I doubt that the court should be referring to the 466 patent in order to construe the claims of the 961 patent more narrowly than they would be construed if the 466 patent was not before the court (see
+Procter and  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.), at 27-28  <FRAGMENT_SUPPRESSED> ). As well, counsel has advanced no evidence in support of the factual assertion that the 466 and 239 patents each represent "in the same manner and to the same effect" a material change and improvement over the 961 process. However, I need not consider counsel's submission in detail because this argument must fail for the same reason that Apotex's argument based on the 239 patent has failed. If the 466 patent was relevant to this proceeding, the issue would not be whether the invention claimed in the 466 patent is an obvious chemical equivalent of the 961 process, but whether making norfloxacin using the 466 process incorporates using the process claimed in the 961 patent. The 466 patent claims an improvement over the process claimed in the 961 patent. While the 466 process may be a patentable improvement over the 961 process, the issuing of the 466 patent still would not entitle the 466 patentee to make use of the original invention claimed in the 961 patent. [see footnote 10] The analogy to the 466 patent does not assist Apotex.
+6. Conclusion
+[44]
+For these reasons I am satisfied that Apotex's allegations of noninfringement are not justified. The application for an order prohibiting the Minister from issuing a notice of compliance to Apotex with respect to norfloxacin until after the expiration of the 961 patent is granted.
+[45]
+Merck's application for costs of the present application is reserved. If Merck wishes to seek costs it should notify the court within 14 days of the date of the order in respect of this application and have regard to the requirement of demonstrating special circumstances warranting an award of costs.
+Application allowed.
+Editor: David Weir/pdk
+Footnotes
+1.	There have been other proceedings between Merck and Apotex in this court relating to norfloxacin — see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 483 (T.D.) (court file T-1306-93) in which the court granted a prohibition application made by Merck. However, this earlier proceeding is not relevant for the purposes of the present one. The fact that a prohibition order issues does not preclude a competitor from making further allegations of noninfringement based on different processes (see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 11-12 [original decision]).
+2.	Merck originally sought an order prohibiting the Minister from issuing to Apotex a notice of compliance in respect of norfloxacin until after the expiration of both the 961 patent and Canadian Patent No. 1,214,466 (the "466 patent"), also issued to Kyorin. However, the application with respect to the 466 patent was withdrawn.
+3.	Paragraph 7(1)(e) of the
+Regulations
+requires that a prohibition order be made within 30 months of an application being made under s. 6(1). Section 7(5) permits a court to shorten or extend this time period. In this case the court, by Order dated September 11, 1997, extended the 30 month time period until judgment has been rendered in this application.
+4.	The specification in the 239 patent only makes express reference to the production of ciprofloxacin. However the parties agreed that the claims encompass norfloxacin.
+5.	The 239 patent application was filed on January 12, 1988 and the patent was issued to Torcan on January 18, 1994. Matters arising on or after October 1, 1989 in respect of a patent issued on or after that date on the basis of an application filed before that date are to be dealt with in accordance with the provisions of the
+Patent Act
+as they read immediately before October 1, 1989. Section 45 has undergone certain amendments since that time and is now s. 43 of the
+Patent Act
+, as amended by R.S.C. 1985, c. 33 (3rd Supp.), as amended by S.C. 1993, c. 15. For the purposes of the analysis in this case it makes no difference whether the applicable provision is s. 45 of the
+Patent Act
+as it read before October 1, 1989, or s. 43 of the
+Act
+as it read after that date.
+6.	It may also refer to evidence in procedures other than those brought before the court. For example, it might apply to evidence in a request for re-examination before the Commissioner of Patents pursuant to s. 48.1 of the
+Patent Act
+.
+7.	Counsel for Apotex argued that s. 32 only applies to
+literal
+infringement of a patent, and would not apply where an improvement process incorporates using an obvious chemical equivalent of the underlying original process. This argument is inconsistent with the generally accepted approach to patent interpretation (see:
+ <FRAGMENT_SUPPRESSED>  (H.L.), at 65-66). It also contradicts
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1993), 72 F.T.R. 196; 53 C.P.R.(3d) 259 (T.D.), at 270  <FRAGMENT_SUPPRESSED> , affd. (1997), 220 N.R. 58 (F.C.A.), where Dubé, J., states that "... although a defendant has applied for and obtained a patent for an 'improvement' it may have appropriated the pith and substance of the patent alleged to be infringed ..." Nevertheless, for the reasons that follow I would conclude that making norfloxacin using the Torcan process incorporates the precise process claimed in the 961 patent and would therefore amount to literal infringement if such a finding was necessary.
+8.	The 239 patent actually refers to three variations of protected piperazine: N-methoxy carbonyl piperazine, N-ethoxy carbonyl piperazine and N-propoxy carbonyl piperazine, with the ethoxy derivative being most preferred. For the purposes of this analysis it does not matter which protecting group is used.
+9.	It is not entirely clear whether the use of protected piperazine is considered to involve one or two additional steps not found in the 961 process. In describing the Torcan process the expert witnesses often refer to using protected piperazine and then the "extra step" of removing the protection. The 239 patent speaks of protected piperazine being both "readily prepared" and commercially available, and Dr. Just in his affidavit refers to a paper entitled
+N-Substituted
+Derivatives of Piperazine and Ethylenediamine
+.
+Part I: The Preparation of N-Monosubstituted Derivatives,
+by T.S. Moore, M. Boyle and V.M. Thorn, published in the Journal of the Chemical Society (Great Britain) in 1929, at page 39 which speaks of a relatively easy way to prepare N-carboethoxy piperazine, which is a type of protected piperazine. As well, Dr. Beaulieu, in paragraph 17 of his affidavit refers to two additional steps. Finally, Jan Oudenes, the President of Torcan Chemical Ltd., testified that Torcan makes its own protected piperazine when making norfloxacin. The evidence before the court demonstrates that the Torcan process for producing norfloxacin involves two additional steps not found in the 961 process, i.e., protecting piperazine and then removing that protection once the reaction is complete. However, in the final analysis nothing turns on whether one or two additional steps are involved.
+10.	In practical terms this question will not arise with because Kyorin holds both the 961 and 466 patents and obviously would not bring an infringement action or prohibition application against itself.
+[End of document]

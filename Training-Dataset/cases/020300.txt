@@ -1,0 +1,988 @@
+-
+Para.
+I. Introduction
+1
+II. Background
+7
+III. The Statutory and Jurisprudential Framework
+30
+--A. The Canada Elections Act
+30
+--B. Part 20 of the Act - CONTESTED ELECTIONS
+46
+---(1) The Act contemplates parallel criminal and civil processes
+49
+---(2) The test, burden and standard of proof for invalidity
+51
+---(3) The meaning of "fraud" in s. 524(1)
+61
+---(4) "... that affected the result of the Election"
+71
+---(5) When Must an Application to Annul be Made?
+84
+---(6) Section 527, "knew of should have known"
+91
+IV. Analysis
+95
+--A. Preliminary motions
+95
+---(1) Was there maintenance and champerty by the Council of Canadians?
+95
+----(a) Is Mr. Henein's affidavit admissible?
+101
+----(b) Conclusion on maintenance and champerty
+108
+---(2) Are the Applications Statute-Barred?
+116
+---(3) Should the opinion evidence of Mr. Graves be struck?
+128
+--B. Admissibility and weight of the evidence
+148
+---(1) Evidence of the applicants
+149
+---(2) The ITO evidence
+152
+---(3) Mr. Penner's evidence
+179
+---(4) The evidence of Ms. Desgagné and Mr. Langhorne
+185
+---(5) The EKOS Survey Evidence
+196
+---(6) Dr. Corbin's evidence
+218
+---(7) Dr. Nevitte's evidence
+230
+---(8) Evidence of the respondent MP's campaign managers
+239
+V. Conclusion on the Merits
+240
+--A. Has "fraud" under Section 524(1)(b) been made out?
+240
+--B. Did the fraud affect the results of the election in the six subject ridings?
+247
+--C. Did the fraud call into question the integrity of the elections?
+252
+--D. Should the Court exercise its discretion to annul the elections?
+258
+VI. Costs
+259
+I. Introduction
+"...very serious matters that strike at the integrity of our democratic process."
+[1]
+Mosley, J.
+: In his remarks to the Standing Committee on Procedure and House Affairs of the House of Commons on March 29, 2012, Mr. Marc Mayrand, Chief Electoral Officer of Canada, made the following comments about the allegations that are at the heart of these applications:
+These are very serious matters that strike at the integrity of our democratic process. If they are not addressed and responded to, they risk undermining an essential ingredient of a healthy democracy, namely the trust that electors have in the electoral process.
+[2]
+The applicants, eight Canadian citizen voters residing in six electoral districts, brought these proceedings to annul the results of the 2011 General Election in their ridings because of efforts to suppress votes that occurred during that election. Those efforts involved telephone calls purporting to be from Elections Canada. In the calls, voters were told that the locations of polling stations in their districts had been moved from the places specified in the printed information provided by Elections Canada prior to the day of the vote. The information was false and Elections Canada neither made nor authorized those calls.
+[3]
+The calls struck at the integrity of the electoral process by attempting to dissuade voters from casting ballots for their preferred candidates. This form of "voter suppression", was, until the 41st General Election, largely unknown in this country.
+[4]
+The evidence presented in these applications points to a concerted campaign by persons who had access to a database of voter information maintained by a political party. It was not alleged that any of the candidates of that party, including those who were successful in the six ridings at issue, were responsible for this campaign but that others took it upon themselves to attempt to influence the election results in their favour.
+[5]
+As a result of these actions, the applicants seek to set aside the 2011 Election results in the six ridings under Part 20 of the
+Canada Elections Act
+, SC 2000, c 9 [the Act].
+[6]
+The central issue to be determined in these proceedings was the effect the calls had, if any, on the election results in the six subject ridings. If satisfied that the calls affected the result in one or more of the ridings or called into question the integrity of the electoral process, the Court may annul the outcome in that riding or ridings. For the reasons that follow, I find that electoral fraud occurred during the 41st General Election but I am not satisfied that it has been established that the fraud affected the outcomes in the subject ridings and I decline to exercise my discretion to annul the results in those districts.
+II. Background
+[7]
+These applications were brought ten months after the election. Complaints about misleading and harassing calls had been made to Elections Canada both before and during the election day on May 2, 2011 but the matter did not attract much public attention until, in late February 2012, journalists found in an Edmonton court file an "Information to Obtain a Production Order Pursuant to Section 487.012 of the
+Criminal Code
+" ("ITO") sworn by Allan Mathews, an Elections Canada investigator. The Mathews ITO became a public document after a return was made to the court on the execution of the production order. The media then began to report widely that Elections Canada officials were actively investigating complaints made during and after the election.
+[8]
+The Mathews ITO was filed to obtain records from an Edmonton-based company called RackNine Inc., in relation to complaints by voters that there had been efforts to suppress votes in the electoral district of Guelph, Ontario. Mr. Mathews described the nature of the complaints as follows:
+Individual electors have described to me receiving telephone calls around 10:00 hours of the morning of May 2, 2011. The caller was usually described as a recorded female voice giving a bilingual message, who claimed to be calling on behalf of Elections Canada.
+The English message received by electors is as follows:
+This is an automated message from Elections Canada. Due to the projected increase in poll turnout your voting location has been changed. Your new voting location is at ... Once again your new poll location is at ... If you have any questions please call our hotline at 1-800-434-4456. We apologize for any inconvenience that this may cause.
+[9]
+Mr. Mathews further deposed that Elections Canada does not telephone individual electors and did not make the calls in question. The assertion that the polling stations had been changed was untrue. The making of these calls by a person or persons unknown, in Mr. Mathews' belief, wilfully prevented or endeavoured to prevent an elector from voting contrary to paragraph 281(
+g
+) of the Act. As a result, he alleged, offences had been committed contrary to s 491(3)(
+d
+) and s 482(
+b
+) of the Act.
+[10]
+Media accounts subsequent to the publication of the Mathews ITO reported that similar illicit telephone calls had been reported in other ridings. On March 15, 2012 the Chief Electoral Officer, Marc Mayrand, issued a statement: "Chief Electoral Officer of Canada Addresses Allegations of Wrongdoing During the 41st General Election". Mr Mayrand's statement indicated that Elections Canada had, as of that date, received over 700 complaints from Canadians describing specific circumstances where they believed that wrongdoing had occurred during the 41st General Election. As of the date of Mr. Mayrand's appearance before the Standing Committee on Procedure and House Affairs two weeks later, on March 29, 2012, close to 40,000 Canadians had contacted Elections Canada to express their concerns in response to the media reports.
+[11]
+This was the context in which these applications were filed with the Court. They contest the results of the election in the six electoral districts of Elmwood-Transcona, Nipissing-Timiskaming, Saskatoon-Rosetown-Biggar, Vancouver Island North, Winnipeg South Centre and Yukon.
+[12]
+The respondents are the Attorney-General of Canada, the Chief Electoral Officer of Canada, the Returning Officers for the electoral districts, the six elected Conservative Party of Canada Members of Parliament (MPs), three unsuccessful Liberal candidates (Nipissing-Timiskaming, Winnipeg South Centre, and Yukon), the six unsuccessful New Democratic Party candidates, and Matt Henderson, an unsuccessful Independent candidate in Winnipeg South Centre.
+[13]
+Notices of appearance were filed by each of the respondents. The respondent Conservative MPs filed written representations and made oral submissions opposing the applications at the hearing. The New Democratic Party candidates filed written representations and made oral submissions in support of the applicants. The Liberal Party candidates, the Attorney General of Canada, the Returning Officers and Mr. Henderson filed no submissions and took no active part at the hearing. Other candidates in the several ridings did not file notices of appearance. The Chief Electoral Officer provided written representations and oral submissions to assist the Court with respect to the interpretation of the Act.
+[14]
+There were originally seven applications, but the seventh, in Court file  <FRAGMENT_SUPPRESSED>  to a misleading call, had mistaken her riding and resided in an adjacent one and not that which was the subject of her application. A motion initiated by one of the respondents  <FRAGMENT_SUPPRESSED> -12 and the evidence filed in that application were deemed continued in the other six applications.
+[15]
+The Notices of Application were filed on March 23 and March 26, 2012. Pursuant to s 525(3) of the Act, such applications are to be "dealt with without delay and in a summary way". As discussed by Mr. Justice Lederer in
+ <FRAGMENT_SUPPRESSED>  [2012] OJ No 2308 (QL) [" <FRAGMENT_SUPPRESSED> "] at paragraphs 32-33, this means that they are to be dealt with without all of the customary legal formalities. To proceed in "a summary way" imposes limits on the evidence that may be gathered and heard. An additional limitation in this particular context is the fact that the vote is secret.
+[16]
+That the applications are to be dealt with expeditiously did not prevent the parties, particularly the respondent MPs, from bringing a considerable number of interlocutory motions. It is, I think, helpful to provide an overview of the preliminary proceedings to explain why this case has taken so long to be completed and to provide some background to the issues dealt with in these reasons.
+[17]
+On May 22, 2012, two months after the applications were filed, the respondent MPs moved to have them dismissed as frivolous and vexatious, an abuse of process and not brought within the time required under s 527 of the Act. The motions to strike were dismissed on all grounds, save that of timeliness, on July 19, 2012 following a hearing before Prothonotary Milczynski.
+[18]
+Recognizing that the Act provided a mechanism to prevent abusive objections to election results from interfering with the democratic process, Prothonotary Milczynski found that such a situation had not been established on the record before her:
+Far from being frivolous or vexatious, or an obvious abuse, the applications raise serious issues about the integrity of the democratic process in Canada and identify practices that if proven, point to a campaign of activities that would seek to deny eligible voters their right to vote and/or manipulate or interfere with that right being exercised freely - all of which if permitted to escape even the prospect of judicial scrutiny, could shake public confidence and trust in the electoral process and in those who in good faith stand for public office.
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 971 (QL) at para 11 [ <FRAGMENT_SUPPRESSED> ].
+[19]
+Prothonotary Milczynski concluded that the issues would be best raised and argued on a full record. The question of whether the applications were brought within the statutory limitation period could not be resolved without the applicants' evidence and any possible cross-examinations on their evidence by the respondents.
+[20]
+Also on May 22, 2012, the respondent MPs initiated a motion to have the applications dismissed on the ground that they were the product of maintenance and champerty by an organization not party to the proceedings, the Council of Canadians (the "Council"). This motion was supported by an affidavit sworn by Peter Henein, a member of the law firm acting on behalf of the respondent MPs. The applicants moved shortly thereafter to strike the affidavit on the ground that it was contrary to Rule 82 of the
+Federal Courts Rules
+, SOR/98-106 [the Rules] and the principle that counsel may not be a witness in the same case in which they represent a party.
+[21]
+Following a case conference in August, the applicants agreed to withdraw the Rule 82 motion without prejudice to their right to impugn the evidence at the hearing of the applications. In exchange, counsel for the respondent MPs agreed not to cross-examine affiants representing the Council with respect to the motion to dismiss for maintenance and champerty.
+[22]
+The respondent MPs moved in August 2012 to have an increased security for costs, totalling $260,409.00, paid into court by the applicants. This was denied by Prothonotary Aronovitch on the basis that the "respondent MPs have failed to raise grounds or bring to bear evidence that would justify any further payment of security for costs, let alone in the amount requested." (
+ <FRAGMENT_SUPPRESSED> ). Finding that the seven motions (one in each application) had unnecessarily delayed and encumbered the proceedings, she ordered that the costs of the motions be paid by the respondent MPs in any event of the cause.
+[23]
+Another series of preliminary motions concerned the expert opinion evidence filed by the parties. The respondent MPs moved in August 2012 for leave to file a sur-reply affidavit by their expert, Dr. Ruth Corbin. In September, the applicants moved for leave to file their own expert reply and the respondent MPs moved to strike the evidence of the applicants' expert, Mr. Frank Graves, invoking an alleged lack of independence and impartiality. On October 10, 2012, the Court issued a consent order allowing both parties to file reply and sur-reply affidavits, without prejudice to their rights to make representations on the weight and probative value of the evidence during the hearing, but with agreement that neither the applicants nor the respondent MPs would seek to serve and or file any additional affidavits from experts.
+[24]
+In October 2012, the applicants moved for leave to file affidavit evidence introducing records from the Commissioner of Elections. Leave was granted, with the hearing judge to decide on the weight and probative value of this evidence.
+[25]
+In late November 2012, additional ITO information having been brought to light by the press, the applicants moved for leave to examine three investigators for the Commissioner of Elections, Mr. Mathews, Mr. Dickson, and Mr. Thouin, or to file an affidavit containing information about their investigations. A redacted affidavit with redacted exhibits was allowed on December 6, 2012. The Chief Electoral Officer moved to have investigation evidence admitted to the record, asking for an order permitting the filing of a collection of documents brought to light through Access to Information and Privacy (ATIP) requests as exhibits to an affidavit. This was also granted on December 6, 2012.
+[26]
+Finally, on December 5, 2012, the applicants asked for relief from the October 10 consent order under which they could file no more expert opinion evidence, having belatedly discovered a factual error in the respondent MPs' reply evidence addressing Mr. Graves' affidavits. This motion was granted subject to the production of Mr. Graves for cross-examination at the hearing, as contemplated by s 525(3) of the Act and by the Rules.
+[27]
+The hearing began as scheduled on Monday, December 10, 2012 and was concluded on Monday, December 17, 2012. In addition to the substantive merits of the applications and the procedural issue relating to timeliness, two of the motions brought by the respondents during the interlocutory proceedings remained to be determined by the Court: the maintenance and champerty motion and the motion by the respondent MP in the Don Valley East riding to strike the Graves evidence. As noted above, the motion to strike the Graves evidence had been deemed to be continued on behalf of the other respondent MPs when the Don Valley East application was dismissed.
+[28]
+On January 24, 2013 the applicants moved to be granted leave pursuant to Rule 312(
+a
+) of the Rules to adduce further affidavit evidence concerning another ITO sworn by John B. Dickson in the course of his investigations on behalf of the Office of the Commissioner of Canada Elections, which had just become public. The respondent MPs opposed the motion. None of the other parties filed a response. By Order dated February 22, 2013 the Court granted the motion on the same terms as those under which the evidence of the other ITOs was introduced and subject to the same objections on admissibility, weight, and relevance.
+[29]
+I will now turn to the legislative and jurisprudential framework governing my determination of the issues raised in these proceedings.
+III. The Statutory and Jurisprudential Framework
+A. The
+Canada Elections Act
+[30]
+As noted at the outset, these proceedings were brought by applications under the
+Canada Elections Act.
+The present version of this statute was enacted by Parliament in 2000 to implement the recommendations of a series of reports, including that of a Royal Commission on Electoral Reform and Party Financing tabled in 1992, five reports produced by a Special Committee of the House of Commons during 1992 and 1993 and others submitted to Parliament by the Chief Electoral Officer, notably that following the 36th General Election in 1997.
+[31]
+These reports called for the repeal of the existing legislation, the former
+Canada Elections Act
+dating from 1970, the
+Dominion Controverted Elections Act
+, RSC 1985, c C-39, the
+Disenfranchising Act
+RSC 1985, c D-3, originally enacted in 1894, and the
+Corrupt Practices Inquiries Act
+RSC 1985, c C-45,
+adopted in 1876. They also called for consolidation of the administrative framework for federal elections, the offences and penalties for violations and the procedures for contesting or controverting electoral results into one comprehensive code.
+[32]
+One of the effects of the adoption of these recommendations in the 2000 Act is that the jurisprudence under the former legislation may be of limited value in interpreting the new enactments.
+[33]
+In considering the relevant provisions of the 2000 Act, I have had the benefit of the views expressed by Justice Lederer in
+ <FRAGMENT_SUPPRESSED> , and those of the majority and minority opinions of the Supreme Court of Canada on appeal from that decision in
+ <FRAGMENT_SUPPRESSED>  [2012] SCJ No 55 (QL) [ <FRAGMENT_SUPPRESSED> ].
+[34]
+As stated by the majority in <FRAGMENT_SUPPRESSED> at paragraph 1, section 3 of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11 [
+Charter
+], and the provisions of the
+Canada Elections Act
+have the clear and historic purposes of enfranchising Canadian citizens and of protecting the integrity of our electoral process.
+[35]
+Canadian citizens are guaranteed the right to vote for the candidate of their choice to serve as the Member of Parliament for the electoral district in which the citizen resides. Section 3 of the
+Charter
+provides:
+3.
+Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.
+3.
+Tout citoyen canadien a le droit de vote et est éligible aux élections législatives fédérales ou provinciales.
+[36]
+Section 6 of the
+Canada Elections Act
+gives practical effect to that guarantee by providing that persons who are qualified as electors are entitled to have their names included in the list of electors for the electoral division in which they are ordinarily resident and to vote at the polling station for that electoral division at federal elections.
+[37]
+The procedure for determining the lists of electors for each polling division is set out in Part 7 of the Act. Preparation for the vote is governed by Part 8. It is the responsibility of the returning officer to establish one polling station for each polling division (s 120(1)). Additional stations may be established if justified by the number of electors in the district, with the prior approval of the Chief Electoral Officer (s 120(2)). Additional provisions in Part 8 specify the nature of the locations that may serve as polling stations, with regard to such considerations as accessibility and privacy, and the appointment of officials to manage and secure the premises. Part 9 contains the method for setting the voting hours.
+[38]
+The selection of the location of each polling station is among the responsibilities of the returning officers for each district with the approval of the Chief Electoral Officer. That would include any relocation of a polling station. The scheme of the legislation suggests that any notification to electors of such a change would also be the responsibility of the returning officers and Chief Electoral Officer.
+[39]
+Section 281 prohibits anyone from interfering with an elector when marking a ballot, from making false statements or from preventing an elector from voting. Interference with an elector would include the type of conduct complained of in this proceeding; that is, deliberately providing false information about a change in the location of a polling station.
+[40]
+Part 19 of the Act, containing sections 479-521.1, deals with enforcement issues. Section 480 creates a general offence of obstructing the electoral process. Other specific offences are set out in sections 481 to 499. These include the offence of electoral fraud under s 482(
+b
+) (inducing a person to refrain from voting or refrain from voting for a particular candidate "by any pretence or contrivance") and that set out in paragraph 491(3)(
+d
+) (wilfully preventing or endeavouring to prevent an elector from voting at an election). These are the offences, according to the ITOs, which are being investigated by the Commissioner of Canada Elections in regard to the 2011 elections.
+[41]
+Section 500 contains the general punishment provisions for the offences created by the preceding sections. The maximum penalties range from a fine of not more than $1,000 or three months' imprisonment, or both, in most cases and a fine of $25,000 in one case, on summary conviction, to a fine of $5,000 or five years' imprisonment on conviction by indictment. Corrupt and illegal practices by candidates and their official agents are dealt with in s 502, which carries a five year maximum penalty and proscription from holding electoral or appointed office for up to seven years from the date of conviction.
+[42]
+The office of Commissioner of Canada Elections is provided for in sections 509 to 515 of Part 19. The Commissioner is appointed by the Chief Electoral Officer and is responsible for ensuring that the Act is complied with and enforced. The Chief Electoral Officer can direct the Commissioner to conduct an inquiry and the Commissioner can initiate an inquiry and receive complaints. Section 511 authorizes the Commissioner to refer a matter to the Director of Public Prosecutions if he or she believes on reasonable grounds that an offence has been committed. The Director of Public Prosecutions shall decide whether to initiate a prosecution (s 511(1)).
+[43]
+The respondent MPs contend that one of the options open to the applicants would have been to initiate a private prosecution, as the Act permits. Had they done so, it was submitted, the applicants, if successful in securing a conviction, could have taken advantage of the provision in s 515 permitting the criminal court to make an award of costs to the prosecuting party. This argument was advanced in the context of the champerty motion in response to the contention that private citizens would not have the resources to bring annulment applications without the support of third parties.
+[44]
+However, private prosecutions may be initiated only with the prior written consent of the Director of Public Prosecutions save for the instance where an elections officer has to take steps to maintain order at a polling place while the vote is ongoing (s 512; s 479(3)). Section 512 reads as follows:
+512. (1) No prosecution for an offence under this Act may be instituted by a person other than the Director of Public Prosecutions without the Director's prior written consent.
+(2) Subsection (1) does not apply to an offence in relation to which an election officer has taken measures under subsection 479(3).
+(3) Every document purporting to be the Director's consent under subsection (1) is deemed to be that consent unless it is called into question by the Director or by someone acting for the Director or for Her Majesty.
+512. (1) L'autorisation écrite du directeur des poursuites pénales doit être préalablement obtenue avant que soient engagées les poursuites pour infraction à la présente loi.
+(2) L'autorisation n'est pas requise pour les infractions pour lesquelles un fonctionnaire électoral a pris des mesures dans le cadre du paragraphe 479(3).
+(3) L'autorisation fait foi de son contenu, sous réserve de sa contestation par le directeur des poursuites pénales ou quiconque agit pour son compte ou celui de Sa Majesté.
+[45]
+While it is theoretically possible, I find it difficult to conceive of any situation in which the Director of Public Prosecutions would consent to a private prosecution in relation to electoral fraud, a matter of great public interest. Thus the recovery of costs by a private prosecutor is possible but unlikely in this context.
+B.
+Part 20 of the Act - CONTESTED ELECTIONS
+[46]
+Prior to the enactment of the 2000 Act, procedures to overturn election results were governed by the above mentioned
+Dominion Controverted Elections Act
+, a 19th century statute. In applications under that legislation the presiding Court could exercise both criminal and civil jurisdiction. In the various studies and reports on the former legislative regime, these procedures, requiring a finding of criminal liability, were considered to be cumbersome, costly and time-consuming and were, for those reasons, rarely employed. The two jurisdictions, civil and criminal, were, therefore, treated separately in the 2000 Act.
+[47]
+The criminal process is now left to the Commissioner and the Director of Public Prosecutions who may initiate investigations and prosecutions under Part 19, where justified by the evidence and the public interest. The prosecutions may result in penal sanctions against an individual or individuals.
+[48]
+Part 20 of the Act now provides for civil applications to overturn an election. It is a complete code for the validity of an election to be challenged by a candidate or an elector and the result will touch upon the election outcome, not provide sanctions against individuals. The election of a candidate may not be contested otherwise than in accordance with Part 20, and the making of an application to contest an election does not affect any right or obligation of a candidate in that election (s 522).
+(1) The Act contemplates parallel criminal and civil processes
+[49]
+The respondent MPs contended initially that criminal investigations and controverted validity applications in relation to an election should proceed sequentially, with Part 19 procedures being completed first and then Part 20 procedures begun. Parliament intended, they argued, that annulment under Part 20 should be a last resort when there has been wrongdoing in the course of an election. To address the strict time limitation on the bringing of an annulment application imposed by the statute, they suggested that the Court could impose a stay pending the outcome of the investigation and the prosecution, if any, that might follow within the statutory limitation period set out in s 514. That is 5 years from the day on which the Commissioner became aware of the facts giving rise to the prosecution but, in any case, not later than 10 years after the day on which the offence was committed.
+[50]
+I agree with the Chief Electoral Officer that the Act contemplates that applications to annul an election may be brought at the same time as an investigation into possible violations of the Act is conducted by the Commissioner. This conclusion is supported by the time limit imposed for bringing a civil application, the requirement, in s 525(3), that such applications shall be dealt with summarily and without delay and the lengthy limitation period for prosecutions provided for in s 514. It is also consistent with the objective of ensuring the integrity of the electoral process when the results are found to have been affected by the conduct described in s 524. At the conclusion of the hearing, the respondent MPs conceded that this interpretation was correct.
+(2) The test, burden and standard of proof for invalidity
+[51]
+Section 524 allows an elector or candidate to make an application to a court contesting an election on the grounds that the elected candidate was not eligible or that irregularities, fraud, or corrupt or illegal practices had affected the result of the election. An election cannot be contested on the same grounds as those for which a recount may be requested.
+[52]
+Section 524 reads as follows:
+524.
+(1) Any elector who was eligible to vote in an electoral district, and any candidate in an electoral district, may, by application to a competent court, contest the election in that electoral district on the grounds that
+(
+a
+) under section 65 the elected candidate was not eligible to be a candidate; or
+(
+b
+) there were irregularities, fraud or corrupt or illegal practices that affected the result of the election.
+(2) An application may not be made on the grounds for which a recount may be requested under subsection 301(2).
+524.
+(1) Tout électeur qui était habile à voter dans une circonscription et tout candidat dans celle-ci peuvent, par requête, contester devant le tribunal compétent l'élection qui y a été tenue pour les motifs suivants:
+a) inéligibilité du candidat élu au titre de l'article 65;
+b) irrégularité, fraude, manoeuvre frauduleuse ou acte illégal ayant influé sur le résultat de l'élection.
+(2) La contestation ne peut être fondée sur les motifs prévus au paragraphe 301(2) pour un dépouillement judiciaire.
+[53]
+The remedy the court may provide is in s 531(2):
+(2) After hearing the application, the court may dismiss it if the grounds referred to in paragraph 524(1)(a) or (b), as the case may be, are not established and, where they are established, shall declare the election null and void or may annul the election,
+respectively
+. [My emphasis]
+(2) Au terme de l'audition, il peut rejeter la requête; si les motifs sont établis et
+selon qu'il s'agit
+d'une requête fondée sur les alinéas 524(1)a) ou b), il doit constater la nullité de l'élection du candidat ou il peut prononcer son annulation. [Je souligne]
+[54]
+The Supreme Court determined, at paras 20-22 of <FRAGMENT_SUPPRESSED> , that the use of the word "respectively" means that where the grounds in s 524(1)(
+a
+) are established, a court
+must
+declare the election null and void; where the grounds in s. 524(1)(
+b
+) are established, a court
+may
+annul the election. Under the latter circumstances, the court must decide whether the election held was compromised in such a way as to justify its annulment.
+[55]
+The use of "established" in s 531(2) places the burden on the applicant throughout. The applicable standard of proof is the civil standard of proof on a balance of probabilities. The applicants must establish that electoral fraud occurred and that the results of the election were affected ( <FRAGMENT_SUPPRESSED> paras 52-53). In the present case, the applicants must establish that in each of the subject ridings there was at least one elector in each riding who did not vote as a result of the fraud.
+[56]
+Among the other principles that I must keep in mind in assessing the degree of compromise to an election result are the following: annulling an election would disenfranchise every elector who voted in the riding; the reparative measure that voters will have the opportunity to vote in a by-election is not a perfect answer for a number of reasons; permitting elections to be lightly overturned would increase the likelihood of post-election litigation; and a declaration that an election is annulled may be considered the ultimate public consequence of violating provisions of the Act and accordingly should be reserved for serious cases ( <FRAGMENT_SUPPRESSED> paras 48, 49 and 70).
+[57]
+This is not a case about "irregularities" in the electoral process impugning some of the votes cast, as addressed in <FRAGMENT_SUPPRESSED> . The objection to the election of the respondent MPs in this instance is based on allegations of "fraud or corrupt or illegal practices that affected the result of the election" made against a person or persons unknown. As the Supreme Court noted in raising the bar for irregularities by analogy to the other language used in s 524, these are very serious matters. Where they occur, the electoral process will be corroded ( <FRAGMENT_SUPPRESSED> , para 43).
+[58]
+Examples of "corrupt practices" and "illegal practices" are given in the statute but no formal definition of these terms or of "fraud" is provided. There are a number of Part 19 provisions dealing with offences that would constitute fraud or corrupt or illegal practices, such as wilfully preventing or endeavouring to prevent an elector from voting (ss 281(
+g
+) and 491(3)(
+d
+)), and inducing a person by pretence of contrivance to vote or refrain from voting or to vote or refrain from voting for a particular candidate in an election (s 482(
+b
+)). The Act also creates offences that may apply to the actions of candidates and their official agents under the heading of "illegal and corrupt practices" in s 502, which may also fall within the scope of s 524.
+[59]
+While the commission of these Part 19 offences may constitute electoral fraud or corrupt or illegal practices for the purposes of s 524, the construction of those terms in s 524 is not limited to the scope of those offences. There is no indication in the Act that such was the intent of Parliament.
+[60]
+As stated at paragraph 36 of the majority's reasons in <FRAGMENT_SUPPRESSED> , "the words of an Act are to be read in their "entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of  <FRAGMENT_SUPPRESSED> , at para. 26, citing E. A. Driedger, Construction of Statutes (2nd ed. 1983), at p. 87. Protecting the integrity of the democratic process is a central purpose of the Act in order to ensure the constitutional right to vote and the enfranchising purpose of the statute. In the context of s 524, "fraud", "corrupt practices" or "illegal practices" should therefore be defined in their ordinary and grammatical sense employing the dictionary definitions of the words to serve that purpose.
+(3) The meaning of "fraud" in s 524(1)
+[61]
+In the course of argument, counsel drew my attention to statements by an official before the Senate Committee on Legal and Constitutional Affairs when Bill C-2, the proposed new
+Canada Evidence Act
+, was before Parliament in April 2000. The statement was to the effect that the intent of the Government was to adopt a meaning of "fraud" which corresponded to the meaning in the criminal context: testimony of Mr. Michael Peirce, Counsel, Director, Legal Operations, Legislation and House Planning, Privy Council Office, in Senate of Canada, Proceedings of the Standing Senate Committee on Legal and Constitutional Affairs (5 April 2000).
+[62]
+While such statements are of assistance in understanding the intent of the proponents of a legislative measure, they do not determine the parliamentary intent. Applying the ordinary dictionary definition of the word, fraud is 1) the action or an instance of deceiving someone in order to make money or obtain an advantage illegally, 2) a person or thing that is not what it is claimed or expected to be, 3) a dishonest trick or stratagem:
+Concise
+Canadian Oxford Dictionary
+, 2005 ed,
+sub verbo
+"fraud".
+[63]
+The concept of fraud invalidating transactions of a civil nature has a long history in the common law. In civil law, fraud is a knowing misrepresentation of the truth or concealment of a material fact giving rise to a claim of damages for the loss sustained or the avoidance of a contract: Bryan A Garner, ed,
+Black's Law Dictionary
+, 7th ed (St Paul, Minnesota: West Group, 1999).
+[64]
+As discussed by Justice Lederer at para 47 of
+ <FRAGMENT_SUPPRESSED> :
+Fraud is proved when it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false." (see:
+ <FRAGMENT_SUPPRESSED>  at para. 18 (Gen. Div.) (QL); and,
+ <FRAGMENT_SUPPRESSED>  at para. 15 (C.A.) (QL); as quoted in
+ <FRAGMENT_SUPPRESSED>  whole, the object of the Act and the ordinary and gramatical meaning of fraud, it is sufficient to show that a false representation has been made in an attempt to prevent electors from exercising their right to vote for the candidate of their choice:
+ <FRAGMENT_SUPPRESSED> .
+[66]
+The respondent MPs contend that if the acts alleged to be contrary to s 524 also constitute offences under the Act, they must be proven to the standard of beyond a reasonable doubt. In making that argument counsel for the respondent MPs relied upon jurisprudence under the old
+Dominion Controverted Elections Act
+. That statute, as I noted above, is of little assistance in interpreting the modern legislation as the civil consequences of a violation, such as annulment, flowed from the conviction of the perpetrator. It was, therefore, necessary to first establish the guilt of an individual on the criminal law standard. That is no longer the case as I read s 524 and the related provisions in Part 20. Authorship of the fraud and the guilt of any person or persons are not material. What is relevant is the fact of the fraud and the effect it had on the outcome.
+[67]
+As discussed by Justice Lederer at para 53 of <FRAGMENT_SUPPRESSED> :
+In the present case, there is no charge; no one is at risk of any penalty being imposed as a result of any finding that may be made, nor has anyone been convicted of any offence under the Canada Elections Act. [...]  <FRAGMENT_SUPPRESSED>  The finding of guilt was "... the most important point ..." ... [...] Under s. 51 of the legislation applicable in that case, a candidate's election would be void if it was found that any corrupt or illegal practice had been committed by the candidate and/or his agent. The offences charged would have to be proven beyond a reasonable doubt, but the voiding of the election flowed automatically from the convictions.
+[68]
+A finding of guilt is no longer "the most important point". The Québec Court of Appeal reached a similar conclusion in interpreting the provisions of the Québec
+Election Act
+,  <FRAGMENT_SUPPRESSED>  (CA), the appellant challenged the constitutionality of s 465 of that
+Election Act
+, which stipulates that the standard of proof in civil matters applies in an application to oppose an election. The appellant contended that a declaration of annulment of an election could result in the suspension of his political rights, a sanction he characterized as penal and thus requiring proof beyond a reasonable doubt. The Court of Appeal disagreed, holding at paragraphs 118-119 that the two aspects of control over elections are distinct and require the application of different substantive principles and rules of evidence. In particular, the fact that a breach of the statute might result in the invalidity of an election did not require the application of the criminal standard of proof.
+[69]
+I agree with the submission of the Chief Electoral Officer that any action or instance meeting the dictionary definition of fraud would constitute electoral fraud where it was done in contravention of a provision of the
+Canada Elections Act
+or where it served to defeat a process provided for in that Act. It seems to me to be clear that deliberately misinforming electors about their polling location would thus be fraud within the meaning of s 524 and is provable on the civil standard.
+[70]
+I also accept the submissions of the applicants and the Chief Electoral Officer that in considering whether the integrity of the electoral process has been compromised, the Court may take into account admissible evidence which shows that the fraud was of a broader scope than the manifestations of it which occurred in a single district that is the subject of an application. That is of relevance in these proceedings because of the evidence of fraud occurring in the Guelph district.
+(4) "...that affected the result of the Election."
+[71]
+This phrase speaks to the election results as a whole in each district. It is not necessary that the fraud or corrupt or illegal practice affected the vote of the elector or candidate who brings an annulment application. But it does require that one or more votes were improperly cast or denied in the district where the application is brought
+and
+that this had an effect on the outcome in that riding.
+[72]
+As the majority in <FRAGMENT_SUPPRESSED> observed at paragraph 25, "affected the result" includes a situation where a person entitled to vote was improperly prevented from doing so. In an election marred by procedural irregularities or electoral fraud, even one invalid or suppressed vote could in principle affect the result. But would it justify annulment?
+[73]
+In <FRAGMENT_SUPPRESSED> , at paragraph 61, the Supreme Court noted that an applicant who has led evidence from which an irregularity could be found will have met his or her
+prima facie
+evidentiary burden. At that point, the respondent runs the risk of having the votes in issue set aside, unless he or she can adduce or point to evidence from which it may reasonably be inferred that no irregularity occurred, or that despite the irregularity, the votes in question were nevertheless valid. The applicants rely on this to assert that they need only raise a
+prima facie
+case of fraud from which an inference may be drawn that the results were affected and that, having done so, the burden of proof then shifts to the respondents.
+[74]
+The Supreme Court's reference to a
+prima facie
+case arose in the specific context where the applicant could not directly prove that a non-entitled person voted. The Court recognized that
+prima facie
+proof that an irregularity occurred may be sufficient to permit the necessary factual inferences to be drawn to meet the civil standard of proof. In those circumstances, the respondent bears the risk of annulment if it can not be established that an ineligible vote was not cast or that it did not affect the results. Absent a statutory direction to the contrary, which is not present here, the burden of proof never shifts to the responding party and the standard remains that of the balance of probabilities:
+ <FRAGMENT_SUPPRESSED> .
+[75]
+In <FRAGMENT_SUPPRESSED> , the Supreme Court used the "magic number" test to determine whether the application judge should have annulled the result. The test was explained at paras 71-73:
+71
+To date, the only approach taken by Canadian courts in assessing contested election applications has been the "magic number" test referred to in
+O'Brien
+(p. 93). On this test, the election must be annulled if the rejected votes are equal to or outnumber the winner's plurality (
+Blanchard
+, at p. 320).
+72
+The "magic number" test is simple. However, it inherently favours the challenger. It assumes that all of the rejected votes were cast for the successful candidate. In reality, this is highly improbable. However, no alternative test has been developed. No evidence has been presented in this case to support any form of statistical test that would be reliable and that would not compromise the secrecy of the ballot.
+73
+Accordingly, for the purposes of this application, we would utilize the magic number test. The election should be annulled when the number of rejected votes is equal to or greater than the successful candidate's margin of victory. However, we do not rule out the possibility that another, more realistic method for assessing contested election applications might be adopted by a court in a future case.
+[76]
+The majority acknowledged, at para 73, "...that another, more realistic method for assessing contested election applications might be adopted by a court in a future case." The Supreme Court thus left open the question of whether irregularities could be such as to call into question the integrity of the electoral process. That conclusion may be reached more easily, I expect, where the ground cited for annulment is not irregularities at the ballot box but electoral fraud, corruption or illegality.
+[77]
+The Chief Electoral Officer submitted that the Court might consider what it termed a "reverse magic number test" - where the number of individuals who were prevented from voting as a result of the fraud exceeds the margin of victory of the successful candidate - to determine whether the results of the vote was affected in each riding. The "reverse magic number test" has the same inherent bias described by the Supreme Court at para 74 of <FRAGMENT_SUPPRESSED> ; it assumes that the individuals who did not vote would all have voted identically, which in the reverse test would mean not voting for the successful candidate. In this context it bears the added complication that the suppressed votes may have been cast for several unsuccessful candidates. There is no assurance that the second-place finisher would have been successful.
+[78]
+The applicants contend that the Court may annul the election either where the number of impugned votes is sufficient to cast doubt upon the true winner or where the fraudulent activities are such as to call into question the integrity of the electoral process. They argue that the election may be annulled if fraud casts doubt on its integrity even if the fraud does not raise doubts as to the true winner, relying on the Supreme Court's comments at paragraph 43 of <FRAGMENT_SUPPRESSED> :
+The common thread between the words "irregularities, fraud or corrupt or illegal practices" is the seriousness of the conduct and its impact on the integrity of the electoral process. Fraud, corruption and illegal practices are serious. Where they occur, the electoral process will be corroded. In associating the word "irregularity" with those words, Parliament must have contemplated mistakes and administrative errors that are serious and capable of undermining the integrity of the electoral process. ( <FRAGMENT_SUPPRESSED>  O.A.C. 355, at para. 62.)
+[79]
+The assessment of whether the impact of fraud affecting the result of the election is sufficient to warrant annulling the election result falls within the application of the judge's discretion under s 531. If the number of suppressed votes is sufficient to cast doubt on the true winner, the Court has an easier task. Absent a clear finding to that effect, the more difficult question is whether the fraud, corrupt or illegal practice, if proven, was sufficiently serious to call the integrity of the election process into question.
+[80]
+The applicants cite American jurisprudence for the notion that election results may be overturned where fraud has affected the integrity of the election regardless of whether there is evidence of the number of votes affected. The American cases point to the difficulty in each instance of establishing how votes would have been cast if the election had not been overshadowed by irregularities or electoral fraud. But in each case it was found to matter whether doubt had been cast on the outcome even if the contestants could not prove that they would have been elected but for the fraud or irregularity:
+ <FRAGMENT_SUPPRESSED>  corrosive effect on the integrity of the electoral process will depend on the facts of each case. I do not read the comments of the majority in paragraph 43 of <FRAGMENT_SUPPRESSED> as providing authority for the proposition that the Court may overturn election results in every case in which electoral fraud, corruption or illegal practices have been demonstrated. In that paragraph, the Supreme Court cited
+ <FRAGMENT_SUPPRESSED>  [2011] OJ No 5986 (QL) at para 62: "An election will only be set aside where the irregularity either violates a fundamental democratic principle or calls into question whether the tabulated vote actually reflects the will of the electorate."
+[82]
+At paragraph 48 of <FRAGMENT_SUPPRESSED> , the majority cautioned that annulling an election would disenfranchise not only those persons whose votes were disqualified (in the context of an irregularities case) but every elector who voted in the riding. That suggests, in my view, that the Court should only exercise its discretion to annul when there is serious reason to believe that the results would have been different but for the fraud or when an electoral candidate or agent is directly involved in the fraud.
+[83]
+In summary, there are three steps required to annul under the Act in the context of the vote suppression allegations before the Court. The applicants must first demonstrate one of the four circumstances in s 524(1)(
+b
+): irregularities, fraud, corrupt practices, or illegal practices. Once the first step has been achieved, if even a single vote is shown to not have been cast due to one of the four above circumstances in a subject riding, the Court acquires the discretionary power to annul the results in that district under 531(2). The third step is for the Court to consider either the "magic number" test (explained in <FRAGMENT_SUPPRESSED> at paras 71-72) or another appropriate test (envisaged by <FRAGMENT_SUPPRESSED> at para 73) and decide whether to exercise its discretionary power.
+(5) When Must an Application to Annul be Made?
+[84]
+The time limit for making an application is set out in s 527;
+527. An application based on a ground set out in paragraph 524(1)(b) must be filed within 30 days after the later of
+(a) the day on which the result of the contested election is published in the
+Canada Gazette
+, and
+(b) the day on which the applicant first
+knew or should have known
+of the occurrence of the alleged irregularity, fraud, corrupt practice or illegal practice. [Emphasis added]
+527. La requête en contestation fondée sur l'alinéa 524(1)b) doit être présentée dans les trente jours suivant la date de la publication dans la
+Gazette du Canada
+du résultat de l'élection contestée ou, si elle est postérieure, la date à laquelle le requérant
+a appris, ou aurait dû savoir
+, que les irrégularité, fraude, manoeuvre frauduleuse ou acte illégal allégués ont été commis. [Je souligne]
+[85]
+Pursuant to s 526 (1) of the Act, applications must be accompanied by security for costs in the amount of $1,000, and must be served on the Attorney General of Canada, the Chief Electoral Officer, the returning officer of the electoral district in question and all the candidates in that electoral district. The Act is silent as to whether service must be effected prior to filing but the usual practice is for originating notices to be filed first and served later. Rule 304 of the
+Federal Courts Rules
+provides that an originating notice of application must be served on the respondents and proof of service filed within ten days of issuance of the notice.
+[86]
+There does not appear to be any jurisprudence on the meaning and effect of the requirement under this Act that security for costs accompany the application. It was in the predecessor legislation and dates back for many years. The object of a similar provision, of equal long-standing, in s 60 of the
+Patent Act
+, is to deter irresponsible invalidation actions:
+ <FRAGMENT_SUPPRESSED>  at para 28. The amount, $1000, was no doubt a significant deterrent in 1900 but is clearly inadequate to serve that purpose to-day. Where the plaintiff has failed to make payment in proceedings under the
+Patent Act
+, the Court has been prepared to relieve against the infraction:
+ <FRAGMENT_SUPPRESSED>  (QL) at para 21. Similarly, I find that a defect under this Act may be cured by payment into court subsequent to the filing of the application. It is not a ground for dismissing the application at this stage of the proceeding.
+[87]
+The time-limit in s 527 is mandatory. The Act does not allow for the exercise of discretion by the Court to extend the time within which an application may be brought. This was also the rule for the similar provision in the predecessor legislation, s 12 of the
+Dominion Controverted Elections Act
+:
+ <FRAGMENT_SUPPRESSED>  (QL) (HCJ) at paras 9-10.
+[88]
+Parliament's intent appears to be that such applications should be brought and dealt with without delay. The respondent MPs and the Chief Electoral Officer observe that the Act contemplates the filing of applications on the basis of mere allegations before they can be substantiated, in order to meet the limitation period. This may have the undesirable effect of encouraging litigation that is not well-founded but such applications may, of course, be withdrawn if evidence to support them is not uncovered.
+[89]
+Where 527(
+a
+) does not apply, as here, the thirty day limit begins to run only when the occurrence was discovered or was reasonably discoverable in the circumstances. There is no outside time-limit in the Act for bringing an application on freshly discovered grounds, other than that presumably imposed by the Parliamentary term as the matter would then become moot when another election was convened.
+[90]
+In interpreting s 527(
+b
+), the Court should seek to find a balance between the objective of discouraging untimely applications that have no prospect of success and those that address serious concerns with the integrity of the electoral process.
+(6) Section 527, "knew or should have known"
+[91]
+The legislation leaves the door open for an application that is brought within thirty days of the day when the elector or candidate "knew or should have known" of the occurrence (in French, "a appris, ou aurait dû savoir"). The language "knew or should have known" allows for some flexibility in determining on the evidence when the applicant had actual or imputed knowledge of the occurrence sufficient to start the 30 day deadline running.
+[92]
+The first part of the phrase "knew or should have known" refers to actual knowledge on the part of the applicant. The words "or should have known" impose an objective standard. Prothonotary Milczynski described that aspect of the test in <FRAGMENT_SUPPRESSED> ,
+supra
+, at para 22:
+What an applicant "should have known" is a factual inquiry, guided by the principles developed in the case law with respect to discoverability and the reasonable inferences that can be drawn from the facts and surrounding circumstances of a particular case. It is not a determination based on the subjective or individual perception or experience, but what is reasonable to conclude regarding what a person ought to have known in the circumstances.
+[93]
+It is a question of fact for the court to determine whether an applicant knew or should have known of the event earlier and brought the application in a more timely manner.
+[94]
+Having set out the legal framework that governs this decision, I will now turn to the issues in this case beginning with the motions that remained outstanding at the start of the hearing.
+IV. Analysis
+A.
+Preliminary motions
+(1) Was there maintenance and champerty by the Council of Canadians?
+[95]
+At common law, maintenance is the promotion or support of contentious legal proceedings by a stranger who has no direct concern in the proceedings. It consists, usually, in financial assistance to bear the whole or part of the cost of the action or in saving a litigant expenses that might otherwise be incurred. Champerty is an aggravated form of maintenance in unlawfully maintaining an action in consideration of an agreement to receive part of anything that may be gained as a result of the proceedings, or some other profit:
+ <FRAGMENT_SUPPRESSED>  (QL) (SCO) at para 9, citing Fleming, Law of Torts, 3rd ed., pp. 592-3.
+[96]
+The concept of maintenance and champerty has been preserved in some provincial legislation (
+An Act respecting Champerty
+, RSO 1897, c 327) and remains an active common law doctrine in some provinces and in Federal Court practice: see for example,
+ <FRAGMENT_SUPPRESSED> .
+[97]
+Where the concept remains alive, two requirements are necessary. The first is that the party must have an "improper motive" in maintaining the action. The second is that the plaintiff must be otherwise not disposed to enforce its legal rights against the defendant, but for the "officious intermeddling" of the maintainer:
+ <FRAGMENT_SUPPRESSED>  (QL) (SCJ).
+[98]
+The respondent MPs' motion alleged that the applicants in this case were enlisted to serve as surrogates for the Council, an organization said to have a long-standing animus against the Conservative Party of Canada. They asserted that the Council was profiting by these applications in that it was conducting fund-raising activities in support of the applicants and benefited from the increased profile that it had gained from this case.
+[99]
+The respondent MPs claim that the Council has an advantage as it is not subject to the rules on political party financing. While that may be true, the applicants reply, the Council is not a registered charity and contributions in its hands are fully taxed whereas contributions to the Conservative Party, which may be used to pay the respondent MPs' costs for this litigation, are subsidized by as much as 75% by the taxpayer (
+Income Tax Act
+, RSC 1985, c 1 (5th Supp), s 127(3);
+Canada Elections Act
+, s 438(3)).
+[100]
+In support of the motion, the respondent MPs filed the affidavit of Peter J. Henein, a lawyer with the firm that is counsel to the respondent MPs in these proceedings, to which were attached 84 exhibits consisting of some 700 pages of documentary material taken from the Council's website, news reports, press releases and other sources. Much of the content of the 118 paragraphs of the affidavit consists of statements alleging political motivations on the part of Maude Barlow, the Council's National Chairperson, and Steven Shrybman, counsel for the applicants in these proceedings and of record for the Council in other proceedings. It is alleged, among other things, that the litigation in this case was motivated by animus against Prime Minister Stephen Harper and the Conservative Party of Canada and that the Council was closely associated with the New Democratic Party and labour unions.
+(a) Is Mr. Henein's affidavit admissible?
+[101]
+As noted above, a motion was brought by the applicants to strike the Henein affidavit on the ground that it was contrary to Rule 82 of the
+Federal Courts Rules
+. The motion to strike was withdrawn without prejudice to the applicants' right to impugn the evidence at the hearing.
+[102]
+Rule 82 provides as follows:
+82. Except with leave of the Court, a solicitor shall not both depose to an affidavit and present argument to the Court based on that affidavit.
+82. Sauf avec l'autorisation de la Cour, un avocat ne peut à la fois être l'auteur d'un affidavit et présenter à la Cour des arguments fondés sur cet affidavit.
+[103]
+The Rule has been applied not just to counsel of record but also to members of the same law firm that represents one of the parties before the  <FRAGMENT_SUPPRESSED> .
+[104]
+In applying the Rule, the Court may accept an affidavit from a member of the firm of solicitors representing a party on a motion where the affidavit is restricted to non-controversial matters such as the furnishing of undisputed documents or the recitation of undisputed facts. However, where such affidavits go further and include matters that are disputed or controversial or are expressions of opinion or state of mind, the Court will be reluctant to accept or give weight to such evidence:
+ <FRAGMENT_SUPPRESSED> .
+[105]
+As discussed by Stratas JA in
+ <FRAGMENT_SUPPRESSED> to 13, the purpose of Rule 82 is to prevent, as much as possible, "the invidious circumstances that can arise when lawyers act as both witnesses and advocates in the same matter" (para 3). In that case, the affidavit was admitted given the uncontroversial nature of the exhibits and their minimal importance to the motion. That is not the case here. Mr. Henein's affidavit goes directly to the substance of the motion and to the merits of the applications.
+[106]
+The Court may have been inclined to overlook the Rule 82 difficulty with Mr. Henein's affidavit had it been confined to the facts supporting the motion. The purpose of an affidavit is to adduce facts relevant to the dispute without gloss or explanation:
+ <FRAGMENT_SUPPRESSED> . However, the Henein affidavit is replete with statements of opinion, argumentation, allegations against opposing counsel and conclusions of law on the very issues which are before the Court for determination.
+[107]
+The usual remedy for an affidavit that contains portions that are tendentious, opinionated and argumentative is to strike out those portions upon a motion prior to the hearing:
+ <FRAGMENT_SUPPRESSED> . That was not done in this case due to the pre-hearing arrangement between the parties not to cross-examine each others' deponents and withdrawal of the motion to strike the Henein affidavit. But in my view the content of the affidavit, other than as a vehicle to introduce the exhibits, was improper and I will exercise my discretion to give it no weight or probative value. The exhibits remain part of the record.
+(b) Conclusion on maintenance and champerty
+[108]
+There is no maintenance if the alleged maintainer had a legitimate motive and was not acting maliciously:
+ <FRAGMENT_SUPPRESSED> . The respondents allege that the Council's motive in providing financial assistance to the applicants is to attack the Conservative Party of Canada and the Government of Prime Minister Stephen Harper.
+[109]
+It appears from the record, including certain of the exhibits attached to the Henein affidavit, that throughout its existence, the Council has been a consistent critic of government actions whatever party was in office. I was taken to several examples where the Council had unkind things to say about the former Liberal Government. I was not therefore, convinced that the Council's motivations in indemnifying the applicants against costs in this case were driven by a particular animus against the current Prime Minister and his party, as opposed to the broader public interest in clean elections.
+[110]
+Even if the Council's motives in supporting the applications were politically partisan they would not be grounds for dismissal of these applications. At best, while I consider it doubtful, the allegations might support an independent cause of action against the Council by the respondent  <FRAGMENT_SUPPRESSED>  at p 326 (CA). They do not constitute eligible grounds under s 531(1) of the Act ("vexatious, frivolous, or not made in good faith") which refer to the motives of the applicants themselves. Their motives have not been impugned in these proceedings. Therefore, even if the conduct of the Council was seen to be "officious intermeddling" to the degree that it may be actionable, the Court would have no jurisdiction to dismiss these applications.
+[111]
+As a general rule, the Courts will not concern themselves with how a lawsuit is funded:
+ <FRAGMENT_SUPPRESSED>  (QB) (QL). Maintenance and champerty may still have some relevance to-day in the context of disputes between private parties over contractual arrangements and property rights. The concepts are inconsistent, in my view, with the recognition in modern society of the role of non-governmental organizations in facilitating access to justice and the validity of alternative arrangements for funding litigation, such as contingency fees:
+McIntyre Estate
+, above. The costs of litigating, particularly when facing well-resourced respondents, are formidable.
+[112]
+Here, the applicants have no prospect of financial reward from these proceedings and there are issues of broad public interest at stake. It is doubtful that they would have had the financial ability to bring these applications on their own without support from some agency. The ability of citizens to bring matters before the courts in the public interest should not be deterred:
+Re Lavigne and Ontario Public Service Employees Union et al (No. 2)
+, [1987] OJ No 653 (QL) (HCJ) [
+Lavigne
+] at para 106, rev'd but aff'd as to costs [1989] OJ No 95 (CA) (QL) at paras 100-107, appeal judgment aff'd [1991] 2 SCR 211.
+[113]
+There is no evidence that the applicants acted for any reason other than to assert their rights to a fair election as Canadian citizens and electors.
+[114]
+The fundamental aim of the law of champerty has always been to protect the administration of justice from abuse. It is not an abuse of the Court's process for an elector, with or without the support of a non-governmental organization, to bring an application to contest an election where there is evidence of an attempt to affect the results of that election through fraud. This is particularly true where the right to bring the application arises by statute and does not find its basis in any agreement with the third party:
+S v K
+(1986), 55 OR (2d) 111 (Ont District Ct).
+[115]
+Thus, even had I accepted the Henein affidavit as admissible and of probative value, I would dismiss the motion to strike the applications on the ground of champerty. The motion was, in my view, an attempt to derail these applications before they could be heard and determined on the merits and was brought without justification.
+(2) Are the Applications Statute-Barred?
+[116]
+The Election was held on May 2, 2011. The Election results for the ridings in question were published in the
+Canada Gazette
+between May 17, 2011 and May 26, 2011.
+[117]
+The applications were filed on March 23, 2012 [Burkhart (Saskatoon-Rosetown-Biggar), Reid (Elmwood-Transcona), McEwing and Kerr (Winnipeg South Centre), and Ferance and Walsh Craig (Nipissing-Timiskaming)] and March 26, 2012 [Kafka (Vancouver Island North), and Parlee (Yukon)]. The respondent MPs submit that they are out of time as they were not filed within 30 days of the date on which the applicants knew or ought to have known of the occurrence of the fraud or the corrupt or illegal practice relating to the telephone calls. Even if the applicants did not know of these until the media reports appeared in February 2012, by the respondent MPs' calculation they still missed the 30 day limitation period, in part because 2012 was a leap year.
+[118]
+The respondent MPs argue also that because the applications were not initially accompanied by the security for costs required by the statute they did not become complete until those sums were paid, after the 30 days were up, and thus were not "filed" within time. As noted above, I find that the Court can relieve against any such failure to make payment and in the present case I consider any delay in that respect to have been cured.
+[119]
+The applicants' evidence is that while they knew of the calls they had received on or before May 2, 2011, they did not suspect that the calls were attempts to mislead them until the story of the investigation broke in the national media on and after February 22, 2012. There is evidence that the CBC reported that Elections Canada was warning voters to ignore false information about polling station changes before the polls opened on May 2, 2011 and evidence of several media reports after the Election. The evidence does not establish how widely those reports were disseminated, how often they were repeated by media outlets or whether they were published by local news media. There is no evidence that the applicants saw or heard any of these early news reports.
+[120]
+The applicants say that they did not know that the calls they received were not from Elections Canada or candidates at the time they were received. They did not discover that the calls were false and maliciously motivated until: in the case of the applicants Ferance, Walsh Craig, Kafka, and McEwing, late February 2012, and for Parlee, Reid, and Kerr, early March 2012. Kay Burkhart, applicant in the district of Saskatoon-Rosetown-Biggar, is silent on when she became aware of the occurrence. Supporting affidavits from Gail Nardi (Yukon) and Christopher Lanctot (Saskatoon-Rosetown-Biggar) also state that they became aware of the occurrence in early March. As none of the applicants and supporting electors were cross-examined on their affidavits this evidence remains uncontroverted.
+[121]
+The Supreme Court expressed the concern  <FRAGMENT_SUPPRESSED> ,
+at para 56, that Part 20 of the Act "... should not be taken by losing candidates as an invitation to examine the election records ... in the hopes of getting a second chance". This is not such a case. These applications do not constitute an abuse of s 524. They are brought out of legitimate concerns that the electoral process was violated by persons seeking to suppress the applicants' votes.
+[122]
+The respondent MPs rely on
+ <FRAGMENT_SUPPRESSED>  (QL) (SC). In that case, several town council members sought the disqualification of the mayor on conflict of interest grounds. The council members had been aware of the grounds for the application for some considerable time but delayed in bringing their application until they had obtained legal advice that they had sufficient information to proceed. That situation bears little resemblance to the facts of this matter.
+[123]
+In this instance, the applicants were not put on notice of the fraud by their awareness of the calls that they had received. Nor were they aware of the fact that those calls were part of an orchestrated campaign of misdirection. That fact was not readily discoverable by them with a reasonable exercise of diligence within thirty days of the occurrence. The applicants bore no individual responsibility to make in-depth inquiries about the calls they had received.
+[124]
+The Court is unable to make a finding that the applicants knew or ought to have known of the fraudulent occurrences prior to the media reports that began on or about February 22, 2012. It would have taken some time for those reports to be disseminated widely in Canada. There is no evidence before me that the applicants knew of the complaints that were reported in the immediate aftermath of the election. It is not reasonable to expect that the average Canadian elector would have understood that the calls received on or before May 2, 2011 were not from Elections Canada until they saw the national media reports and made the connection between the calls they received and the investigations.
+[125]
+The evidence is not clear as to precisely when the applicants became aware of the misrepresentations. Several of them took steps to obtain or to attempt to obtain their phone records and contacted Elections Canada to make complaints after they learned of the news stories. This was, I infer, the result of a dawning awareness that there had been a fraudulent attempt to divert them from their proper polling station. It was only in the latter stages of this process that they realized what had occurred.
+[126]
+I accept that strict compliance with the time limitations is required to ensure that frivolous applications to annul elections are not made as a form of entertainment. That is a concern that I think carries more weight when the grounds of invalidity are "irregularities". This is not such a case. Where electoral fraud is alleged and substantiated, the Court should be reluctant to deny the applicants a hearing on what may appear to be a technical, procedural ground advanced by a party that has an interest in preserving the result.
+[127]
+If I am wrong in my assessment, I would prefer to err on the side of the applicants given the resources invested to date and the importance of the public interest in this case. In the circumstances, I am not prepared to find that the applicants are out of time to bring these applications.
+(3) Should the opinion evidence of Mr. Graves be struck?
+[128]
+Mr. Graves is the founder and President of EKOS Research Associates Inc., a public policy, survey and research firm. Mr. Graves' evidence (the EKOS Survey) was presented as that of an expert in research methodology and design, and applied statistical analysis. He was asked to investigate three questions:
+a. to what extent may certain voter suppression techniques have been used to influence the outcome of the 2011 election in the six ridings in question?
+b. did any voter suppression activities found to have taken place deliberately target electors who were supporters of a particular political party or parties?
+c. were any such voter suppression techniques and activities effective in discouraging those who would have otherwise voted from casting a ballot?
+[129]
+EKOS conducted a survey between April 13 and 19, 2012 using Interactive Voice Response (IVR) technology, which selects respondents through random digit dialing (RDD) and allows respondents to enter their responses through the use of the keypad on their telephones rather than speaking with an interviewer. The results of the survey, analysis and conclusions were presented in a report, completed on April 23, 2012 and revised on October 24, 2012, which was attached as an exhibit to Mr. Graves' affidavit and tendered as expert opinion evidence.
+[130]
+To be admissible, expert opinion evidence must meet the four part test set out in
+R v Mohan
+[1994] 2 SCR 9, [1994] SCJ No 36 (QL) [
+Mohan
+], at para 17:
+Admission of expert evidence depends on the application of the following criteria:
+(a) relevance;
+(b) necessity in assisting the trier of fact;
+(c) the absence of any exclusionary rule;
+(d) a properly qualified expert.
+[131]
+The relevance and necessity of this evidence was clear from the outset. If admitted and given probative weight, it was capable of supporting the annulment applications. Without it, it would have been very difficult to determine the truth of the allegations. No applicable exclusionary rule that would prohibit reception of the evidence was drawn to my attention. The respondent MPs's challenge was directed, rather, at the fourth point: Mr. Graves' qualifications as an expert and their allegations of partiality or bias.
+[132]
+The respondent MPs contested Mr. Graves' qualifications for five reasons. They contended that: he misrepresented his expertise; he and his company are documented supporters of the Liberal Party; he has a significant adverse relationship with the respondent MPs' party; he has acted as an advocate for one of the parties in the case; and he failed to disclose important facts.
+[133]
+On the merits of the opinion, the respondent MPs retained the services of Dr. Ruth Corbin to provide a critical analysis of the EKOS Survey and Mr. Graves' evidence.
+[134]
+In reply, the applicants asked Mr. Michael Adams of Environics, a competitor company to EKOS, and Dr. Maria Barrados, former President of the Public Service Commission and Assistant Auditor General of Canada to comment on Graves' reputation in his field. Mr. Adams deposed that Graves had "always abided by the highest professional standards" and to his knowledge never "allowed any personal motives or predilections to have interfered." He further commented that "It is not common in our industry for competitors to offer testimonials to the quality of the work of other polling companies, but I find the attack on Mr Graves' [
+sic
+] so unfounded and irrelevant, in my view, to the substantive matters at hand that I am compelled to offer a very different view of his professional integrity." Dr Barrados stated that Graves has always, to her knowledge, acted "with the utmost care, integrity and professionalism", never allowing his personal views to find their way into his work.
+[135]
+Evidence is not normally admissible merely to bolster the credibility or professionalism of an expert witness. In this case, however, I found it admissible in light of the concerted attack on Mr. Graves' character which I ultimately concluded was unfair.
+[136]
+Among other things, the respondent MPs argue that Mr. Graves represented himself as having a PhD, when he does not, while at the same time referring dismissively to Dr. Corbin, who does have a PhD, as Ms. Corbin in his reply affidavits. I am satisfied that Graves did not misrepresent his credentials and that any errors in that respect were those of the applicants' counsel in preparing Graves' evidence for filing. In any event, this complaint was inconsequential and the errors were immaterial.
+[137]
+The respondent MPs allege that Mr. Graves has made negative public comments about the Conservative Party. He is, of course, entitled to do so as a private citizen. Some comments appear to have been taken out of context, such as a remark about extremists in Europe that had nothing to do with the Conservative Party. The record also shows donations by Graves to Liberal Party candidates, which, again, was within his democratic rights. The respondent MPs devoted a great deal of their cross-examination of Mr. Graves on his affidavit evidence to exploring these matters. In my view, they did not speak directly to the question of his impartiality as a witness.
+[138]
+When given an opportunity at the hearing to cross-examine on the substance of Graves' sur-rebuttal affidavit, the MPs counsel persisted in focusing on the details of the modest contributions he had given to Liberal Party candidates. They did not dwell on the contribution he had given to a Conservative candidate. In any event, this added nothing of value to the record that was already before the Court. I note that Graves is not alleged to have had any relationship with the Liberal candidates in the subject ridings and he does not carry out polling for political campaigns.
+[139]
+The respondent MPs also alleged that Graves has a strong financial interest in the outcome of these proceedings, in that government funding for polling by his firm was cut by more than 80% when the Conservative Party formed the government. That appears, at first impression, to be significant but this work, he stated, was never a major part of his business and that assertion was not rebutted.
+[140]
+The Supreme Court has stressed the role of trial judges in excluding unsuitable expert witnesses:
+Mohan
+, above;
+R v J (J-L)
+, 2000 SCC 51 at paras 28, 47;
+ <FRAGMENT_SUPPRESSED>  (SCJ) at para 9; The
+Federal Courts Rules
+, SOR/98-106, Rule 52.2, Schedule,
+Code of Conduct for Expert Witnesses
+and jurisprudence also speak to the importance of impartiality.
+[141]
+The courts have drawn a distinction between the impartiality of the expert's testimony and the question of independence. It is not essential that the expert be independent of the party that calls the witness so long as the opinion given is impartial:
+ <FRAGMENT_SUPPRESSED> . The cases cited by the respondents all deal with the objectivity of the expert's opinion, not activities outside the retainer such as those they have complained of in this instance: see for example
+ <FRAGMENT_SUPPRESSED>  (SCJ) (QL), where the expert explicitly told the Court that "in every matter of litigation, I always take the position of advocate for my client" (para 6).
+[142]
+ <FRAGMENT_SUPPRESSED> the Federal Court of Appeal expressed grave concerns about the objectivity of the opinion presented because of the author's editorial comments which were found therein - "editorial comments [...] using language that is gratuitous, intemperate and ideological". The type of blatant ideological bias that the Court found offensive in that opinion is not found in the present matter. Rather, Graves' opinion is expressed in cautious terms with recognition of the limitations of the technology employed in the survey.
+[143]
+The respondents assert that Mr. Graves claims to be an expert in fourteen different areas, too many for true expertise, and that his comments about the lawfulness of the telephone calls usurp the role of the Court. I agree with the applicants that the number of areas of expertise claimed is not a concern; what matters is expertise or lack of it in the area in question. It is trite law that expert witnesses should not give opinion evidence on matters for which they possess no special skill, knowledge or training, nor on matters that are commonplace, for which no special skill, knowledge or training is required:
+ <FRAGMENT_SUPPRESSED> .
+[144]
+The "ultimate issue" rule no longer applies to exclude opinion evidence:
+Cooper v R
+, [1980], 1 SCR 1149;
+ <FRAGMENT_SUPPRESSED> . Graves' remarks about the lawfulness of the calls are irrelevant to his findings. They did not interfere in any way with the Court's ability to assess his methodology and decide whether his data, analysis and opinions satisfied the applicable legal test.
+[145]
+Comments Graves had made on his Twitter account could, at first impression, be construed as supporting a finding that he had decided on his conclusion before beginning the study. On a closer examination, I find that they show him discussing whether analysis of the data would show a voter suppression effect, then progressing towards hoping to find such an effect. Some of the tweets, in sequence, say for instance: "That is why I don't know if it is testable and I am agnostic as to impacts."; "From what I understand so far I think the hypothesis of effects is testable. I am not sure what the results would be."; "I think one could actually design a statistical test that would give some guidance on this. I am agnostic as to answers."; "Damn! maybe it wasn't the polls that were off after all. Maybe it was the election." They gave me some concern but I was ultimately satisfied on his evidence as a whole, particularly his acknowledgement of the weaknesses of the methodology that he had validly arrived at his conclusion through a genuine analysis of the data.
+[146]
+In arriving at a conclusion on the admissibility of this evidence, I have not overlooked the fact that Graves demonstrated a lack of common sense and respect for the Court when he testified. When asked to step outside during a discussion which the Court had with counsel, he chose to follow the live report of that discussion by journalists in the courtroom. I have reviewed the transcript of what was said during that discussion and am satisfied that it did not have a material effect on his testimony. As noted above, I was not persuaded that the line of cross-examination being pursued by counsel was relevant. I also recognize that Mr. Graves was given no instruction not to access the reporters' live transmission from the courtroom nor were the journalists instructed not to report what was said in his absence. Nonetheless, this showed poor judgment on Mr. Graves' part for which he subsequently apologized to the Court.
+[147]
+Having reviewed the arguments and the lengthy cross-examination of Mr. Graves in the record I was not persuaded that the respondent MPs had made out a case that he was not qualified to carry out the survey he was retained to conduct or that his opinion reflected partiality. The respondents have not attacked Mr. Graves's professional opinions but his personal views and motivation in accepting the retainer. I was satisfied that he had objectively presented the challenges and limitations of the survey methodology in his report. I find that his opinion evidence meets the standard for admissibility set out in
+Mohan
+, above. For that reason, I dismiss the motion to disqualify Mr. Graves and strike his evidence. I will have more to say about the weight I have given his evidence below.
+B.
+Admissibility and weight of the evidence
+[148]
+As the applicants acknowledge at the outset of their argument, these applications raise difficult questions concerning how they might establish, and how the court is to determine, the effect of the activities carried out by those who are responsible for making the misleading telephone calls. The applicants were constrained by a number of factors including time, resources and the secrecy of the ballot.
+(1) Evidence of the applicants
+[149]
+The affidavit evidence of each of the applicants themselves is similar. In most cases, the applicants or their spouses received a telephone call prior to the election from someone purporting to be calling from the Conservative Party of Canada. They were asked whether the Conservative Party could rely on their support in the election. The applicants or their spouses told the callers that they would not be voting for the Conservative Party. Just before or on the election day, all but one of the applicants received a second telephone call, either live or recorded, purporting to be from Elections Canada, in which they were advised that their polling station had changed.
+[150]
+The calls identified an incorrect polling station location. Some of the calls were made after the applicants had already voted. In the other cases, the applicants checked the information or knew that it was incorrect. Similar evidence is provided by several other individual electors who have sworn affidavits in these proceedings.
+[151]
+Collectively, the applicants' uncontradicted evidence is that they regarded the misdirecting calls as erroneous and only learned from the media coverage in February and March of 2012 that the calls were likely part of an orchestrated campaign to suppress their votes. In no case did the calls "affect the result" for the current applicants in the sense that they were prevented from actually voting. Ms. Bielli, the applicant in the seventh and withdrawn application, had deposed that this was the effect of the call she received.
+(2) The ITO evidence
+[152]
+As noted above, public disclosure of Mathews' Information to Obtain production orders in relation to the investigation into the electoral offences in Guelph is largely responsible for having alerted the applicants to the significance of the calls that they received. Subsequently, another nine ITOs were disclosed as the Commissioner of Canada Elections continued his investigation into the allegations of violations of the Act across the country.
+[153]
+Efforts by the applicants to obtain evidence from the Commissioner and his staff with regard to their inquiries were met with a certificate under s 37(1) of the
+Canada Evidence Act
+asserting public interest privilege in the protection of the information on the ground, among others, that non-disclosure was necessary to protect the integrity of the ongoing investigations. The ITOs became public records, with redactions, following issuance and execution of the production orders.
+[154]
+Copies of the production orders and supporting ITOs that are in the public record of the issuing courts were made part of the record in these proceedings as exhibits to affidavits. The respondent MPs agreed to their filing as a matter of expediency but reserved their right to object to the relevance, admissibility and weight of the content if the records were admitted. Additional evidence of the complaints received by Elections Canada and subject to the
+Access to Information Act
+, RSC 1985, c A-1, was introduced through the record of the Chief Electoral Officer (the Babin Affidavit).
+[155]
+At the hearing the respondent MPs objected to any consideration being given to the content of the ITO's on the ground that much of it was irrelevant, the information was inherently untrustworthy, it constituted double hearsay and was therefore presumptively inadmissible, and the necessity of relying upon it had not been established.
+[156]
+The information is double hearsay because much of the content of the ITOs consists of statements made by complainants and other persons interviewed to the investigators. The ITOs were attached as exhibits to the affidavits of persons with no personal knowledge of the content and neither the complainants nor the investigators were available for cross-examination. As a general principle, affidavits (e.g., here the sworn ITOs) produced as attachments to the affidavits of others are not given the same weight:
+594872  <FRAGMENT_SUPPRESSED> .
+[157]
+The traditional formulation of the hearsay rule is that evidence of a statement made to the recipient by a declarant who is not a witness in the proceedings is inadmissible hearsay when the purpose of the evidence is to establish the truth of the contents of the statement. It is not hearsay, and hence not inadmissible, where the purpose of the evidence is not to establish the truth of the contents of the statement, but only to prove that the statement was made. Thus much of the content of the ITOs and the Babin Affidavit would be admissible at common law under the traditional hearsay rule at least for the limited purpose of establishing the fact that complaints were made to Elections Canada that misleading calls had been received on election day.
+[158]
+In
+R v Khan
+, [1990] 2 SCR 531, [1990] SCJ No 81 (QL),
+R v Smith
+, [1992] 2 SCR 915
+,
+[1992] SCJ No 74 (QL), and
+R v Khelawon
+, 2006 SCC 57, [2006] 2 SCR 787, the Supreme Court has simplified the law of hearsay. If hearsay evidence does not fall under one of the established exceptions to the rule, it may still be admitted if the indicia of reliability and necessity are established.
+[159]
+In my view, necessity is not an obstacle to admissibility in this case given the limited sources of evidence available to the applicants and the objection raised by the Commissioner of Elections to the examination of his investigators. The evidence would not otherwise be available to the Court. I am also satisfied that the information collected by Public Officers employed to conduct investigations into electoral fraud and contained in their sworn statements is reliable. I consider that the evidence is, therefore, admissible under the principled exception to the hearsay rule.
+[160]
+The ITOs contain references to information received from telecommunications service providers in response to the production orders. This is information maintained in the ordinary course of the business of these corporations. The information became part of court records when produced and filed in the form of returns in response to the production orders. There was no suggestion in these proceedings, that the information set out in the ITOs was inaccurate or unreliable.
+[161]
+The ITOs are also admissible, in my view, under the public documents exception to the hearsay rule. At common law, documents may be admissible on two bases, the principled exception to the hearsay rule (
+Khan
+, above), and by reason that the document is a public document. The principles of necessity and reliability underlie both:
+R v WBC
+, [2000] OJ No 397 (QL) (CA) at paragraph 30;
+R v Semigak
+, 2007 NLTD 34 at paragraph 14. Section 24 of the
+Canada Evidence Act
+permits the introduction of copies of public documents but is not an exclusive code with respect to their admissibility.
+[162]
+As stated by Laskin J.A. in
+R v AP
+, [1996] OJ No 2986 (QL) (CA) at para 14:
+At common law statements made in public documents are admissible as an exception to the rule against hearsay evidence. This exception is "founded upon the belief that public officers will perform their tasks properly, carefully, and honestly." Sopinka et al. The Law of Evidence in Canada (1992), p. 231. Public documents are admissible without proof because of their inherent reliability or trustworthiness and because of the inconvenience of requiring public officials to be present in court to prove them. Rand J. commented on the rationale for the public documents exception to the hearsay rule in
+ <FRAGMENT_SUPPRESSED>  at 95 (S.C.C.):
+The grounds for this exception to the hearsay rule are the inconvenience of the ordinary modes of proof and the trustworthiness of the entry arising from the duty, and that they apply much more forcefully in the complex governmental functions of today is beyond controversy.
+[163]
+The sworn statements of the Public Officers conducting investigations on behalf of the Commissioner, filed in court in support of applications for production records, satisfy the criteria for the admissibility of public documents recognized in the jurisprudence. They were made by a public official, in the discharge of a public duty with the intention that it serve as a permanent record, and are available for public inspection:
+R v Semigak
+, 2007 NLTD 34 at paragraph 14. The attachments to the Babin Affidavit, consisting of information maintained by Elections Canada, are admissible under either the public documents exception or the business records exception to the hearsay rule.
+[164]
+The initial ITOs refer predominantly to information received from electors in Guelph and several other Ontario cities. In the ITO to obtain the 7th, 8th and 9th production orders relating to the records of three telecommunications service providers, Investigator Mathews describes the trail that he had pursued in the Guelph inquiry from his first interviews with complainant electors following the election in May 2011 through to identifying the source of the calls and the purchase of the automated call services. The automated messages received followed the pattern below which was retained as an audio file by one of the Guelph complainants:
+This is an automated message from Elections Canada. Due to a projected increase in poll turnout your voting location has been changed. Your new voting location is at the Old Quebec Street mall at 55 Wyndham Street North. Once again, your new poll location is at the Old Quebec Street mall at 55 Wyndham Street North. If you have any questions please call our hotline at 1-800-434-4456. We apologize for any inconvenience that this may cause.
+[165]
+The message was repeated in French. The Old Quebec Street Mall location was a polling station for voters living within walking distance in the immediate area. It was a considerable distance from the complainants' homes, whereas their correct polling station was, generally, within 1,000 metres.
+[166]
+There was an immediate reaction to the misleading telephone calls from electors who had already voted at their local polling stations and from others who had taken the message at face value and made their way to the Old Quebec Street Mall location. The local Returning Officer's office was inundated with calls from voters who had received the misleading messages.
+[167]
+An estimated 150 and 200 voters were misdirected to the Old Quebec Street Mall. Among this number were elderly or disabled voters and others with children in strollers. Some of the misdirected electors tore up their voter identification cards when they found that they could not vote there. Others, who were determined to vote, had difficulty getting to their correct poll in time.
+[168]
+The complainants interviewed by Mathews had received previous calls from the Conservative campaign inquiring about their voting intentions and had indicated that it would not be the Conservative candidate.
+[169]
+The ITO explains that Mathews' investigation traced the source of the Guelph calls to a pre-paid mobile phone used to engage the services of RackNine, Inc. to transmit the misleading polling station messages to 6,737 telephone numbers in the Guelph area early on May 2, 2011. Instructions to transmit a similar message purporting to come from the Liberal party candidate, between 2 a.m. and 4:45 a.m. on election day, to the same numbers, were deleted before they could be acted upon.
+[170]
+RackNine is a voice broadcasting vendor providing digital Voice over Internet Protocol (VOIP) calling technology. During the election campaign in 2011, RackNine was under contract to the Conservative Party not to provide its services to any other political party. RackNine also did voice broadcasts for the campaign of the CPC candidate in Guelph.
+[171]
+The individual originating the misleading calls used a false name and address in communicating with RackNine and used anonymous proxy servers based in Saskatchewan and the United States to pay for the service through the online payment service PayPal. The pre-paid mobile phone was registered with a false name and address and the subscriber paid for the RackNine service through Paypal using non-reloadable Visa and Mastercard pre-paid cards bought anonymously at drug stores in Guelph. There was no suggestion made before me that RackNine was aware that its automated call services were being used for an improper purpose. Once the account was established, instructions, including the messages to be transmitted, were communicated to the RackNine servers via the Internet.
+[172]
+Mr Mathews ascertained that the Internet Protocol (IP) or computer address used by the originator of the misleading messages was associated with a second IP address in RackNine records used for voice broadcast orders from the Deputy Campaign Manager for the Conservative candidate in Guelph. CPC records indicate that the same IP address was used to access the CPC Constituency Information Management System ("CIMS") database by 5 volunteers supporting the Conservative candidate in Guelph. Access to CIMS was limited to those who had been approved to have access by the CPC and who had been issued unique passwords. According to a witness interviewed by Mr. Mathews, certain participants in the Guelph Conservative campaign were overheard discussing making misleading or improper calls to electors during the campaign and setting up an auto dial arrangement for this purpose that could not be tracked back to the campaign.
+[173]
+The ITO states that CIMS records indicate that a volunteer with the Guelph campaign accessed the database on April 30, 2011 for what appeared to be three "Demon dialler" reports for the area. A "Demon dialler" report is a list of phone numbers which can be configured with the names of supporters and non-supporters. The CIMS record indicated that the volunteer downloaded the reports to the local computer he was using. The list used by a RackNine automated server to make the misleading calls appeared to a CPC official to be a list of identified non-Conservative supporters that was updated in CIMS on April 27, 2011.
+[174]
+In the tenth ITO sworn on November 2012 and made public on January 15, 2013, seeking the production of records from Rogers Communications, Investigator John Dickson stated that he has reasonable grounds to believe that offences contrary to s 491(3)(
+d
+) of the Act had been committed in Newfoundland, New Brunswick, Ontario, Alberta and British Columbia. The ITO refers to the several other ITOs sworn by himself and Investigators John Mathews and André Thouin in relation to records maintained by other service providers such as Bell and Shaw and Vidéotron in Québec and to similar complaints of misdirection and/or annoyance telephone calls during the election period.
+[175]
+Mr. Dickson states that as of October 11, 2012, 1,399 complaints had been received pertaining to 247 electoral districts, alleging specific occurrences of alleged improper telephone calls relating to the 2011 general election. 1,048 of those complaints were received following the release of what has become known as the "robocalls" story in the media on February 23, 2012. Of the total 1,399 complaints, 625 were reports of having been called by either a live or recorded message claiming to emanate from Elections Canada. The remainder could not be sure or did not know where the caller claimed to be from. A total of 837 complaints (the numbers overlap) were reports of harassing telephone calls purportedly from or on behalf of candidates. Mr. Dickson's November ITO pertained to 45 complainants known to be Rogers subscribers in 28 different Electoral Districts. He sets out the nature of the complaints regarding the calls received in each case and describes the steps taken in investigating them.
+[176]
+The content of the ITOs, for the most part, is not seriously contested by the respondent MPs. There is no suggestion, for example, that Elections Canada contacted electors by telephone to change their polling station. It is uncontroverted that if a change in polling station were necessary, as happened at one station in one of the six subject ridings, that change would be communicated by reprinting and sending new voter information cards to electors or, for last-minute changes, through media broadcasts and personally by Elections Canada staff posted at the closed polling station. The complaints and the facts unearthed in the course of the investigations were not challenged.
+[177]
+The ITO evidence confirms that there was a deliberate attempt at voter suppression during the 2011 election. However, the object of the Commissioner's investigations is not to determine whether the election results in any specific riding were affected. While the informants swear that they believe that a person or persons unknown did wilfully prevent or endeavour to prevent an elector from voting, the purpose of the ITOs is to obtain evidence to establish that an offence has been committed, not to determine whether the commission of the offence changed the outcome in any riding. And, in most of the interviews conducted, complainants told the investigators that they had either voted earlier or disregarded the calls and voted at their usual polling stations relying on the information on their voter cards.
+[178]
+There is some evidence in the ITOs that individual electors were discouraged from voting. The clearest example is in Guelph where poll staff reported that voters tore up their identification cards when told that they had been misdirected to the wrong location. A complainant in the Rivière-du-Nord district stated that he had not exercised his right to vote because of a misdirecting phone call. However, while complainants were interviewed in four of the six ridings that are the subject of these proceedings (Winnipeg South Centre, Vancouver Island North, Nipissing, Yukon), none of them indicated that they had failed to vote as a result of the calls.
+(3) Mr. Penner's evidence
+[179]
+In an effort to explain how political parties organize and use telephone calls to potential electors, the applicants tendered the opinion evidence of Robert Penner, President and Chief Executive Officer of Strategic Communications Inc. Mr. Penner described himself as a political consultant with 20 years of experience in developing and implementing voter contact programs and other tools for federal provincial and municipal election campaigns.
+[180]
+The respondent MPs objected to Mr. Penner's evidence as unfounded and inadmissible lay opinion. I am satisfied that in the context of these proceedings, Mr. Penner qualifies as an expert and that his evidence meets the standard for the admission of opinion evidence. The evidence is helpful with respect to matters with which the Court has no experience.
+[181]
+Mr. Penner explained how telephone calls were used to identify supporters and to ensure that they got to the polls. In this regard, his evidence was similar to that of Mr. Andrew Langhorne, the Chief Operating Officer of Responsive Marketing Group Inc., ("RMG") who gave evidence for the respondent MPs. Both described the process of voter identification (Voter ID) during the campaign and the "Get-Out-The-Vote" (GOTV) calls on election day.
+[182]
+Mr. Penner observed that the use of harassing and misleading phone calls involving misinformation about voter registration requirements or polling locations had become increasingly common in the United States, which had a long history of such tactics. To his knowledge, however, voter suppression and harassment had not been reported to be features of Canadian political campaigns until the 2011 election.
+[183]
+In his opinion, a live or recorded call advising an elector that Elections Canada has made a last-minute change to the elector's polling station location is almost certain to have been intended to suppress the vote of that elector if the call was made to a supporter of another party. Calls that arrive early in the morning or late at night or that are harassing in nature are more likely to be made by a competing party seeking to discourage support for the party falsely presented as having made the call. Access to a party's central database is carefully controlled. The calls at issue in these proceedings are most likely to have been organized by a person or persons with: i) access to the central information system of a political party that included contact information about non-supporters; ii) the financial resources to contract voice and automated service providers to make such calls; and iii) the authority to make such decisions.
+[184]
+I found the evidence of Mr. Penner helpful in that it was consistent with the picture that has emerged from the evidence as a whole; that there was an orchestrated effort to suppress votes during the 2011 election campaign by a person or persons with access to the CIMS database.
+(4) The evidence of Ms. Desgagné and Mr. Langhorne
+[185]
+Ms. Desgagné was employed by RMG at a call centre in Thunder Bay, Ontario, prior to and during the 2011 election, making Voter ID and GOTV calls on behalf of the CPC. Upon hearing media reports about misleading information concerning polling station locations being conveyed to electors by telephone calls, Ms. Desgagné brought concerns about the involvement of her call centre to the attention of the RCMP and Elections Canada. As a result, she ultimately provided an affidavit in April 2012 which was filed by the applicants in these proceedings. She was cross-examined by the respondent MPs on that and on a supplementary affidavit filed later.
+[186]
+Ms. Desgagné deposed that about 3 days before the election, the RMG scripts changed. This is consistent with the evidence of Mr. Langhorne that the Voter ID calls ended and they began the GOTV calls. The new text mentioned revised polling station locations. According to Ms. Desgagné, the script did not instruct staff to say that they were calling on behalf of the CPC or the local Conservative candidate. Her recollection, in April 2012, was that the accuracy of the information provided regarding polling station locations was questioned by herself and other callers. She says she overheard another caller saying "I am calling from Elections Canada".
+[187]
+Ms. Desgagné's evidence was flatly contradicted by Mr. Langhorne of RMG. He denies that his firm was either knowingly or unknowingly involved in conveying false information to electors. Mr. Langhorne acknowledged that during the Voter ID process, information about non-CPC supporters is collected and provided to the CPC. Apart from Mr. Ferance, none of the applicants and supporting affiants received a Voter ID call from RMG in the three days prior to polling day according to the company's records. Four of the applicants received no calls from RMG in 2011. Two had been called earlier in 2011 but were not reached.
+[188]
+As the calls were completed, the Voter ID data was sent back to the CPC and deleted from RMG's systems. It was in a different format and could not be used for the GOTV calls. The data used for the GOTV calls was provided by the CPC on or about April 29, 2011.
+[189]
+During the three day period prior to Election Day, RMG's calls were directed only at those voters who had previously self-identified as CPC supporters in order to remind, motivate, and, if necessary, assist, them to vote. Langhorne says that it is ineffective to contact someone again who has been identified as a non-supportive and that RMG, for ethical reasons, would have refused to participate in any effort to mislead voters about the locations at which they were to vote. Based on his extensive experience in election campaigns, it would be counter-productive to contact non-supporters at the GOTV stage.
+[190]
+Mr. Langhorne confirmed that the RMG "GOTV script" used on the three day period including election day to communicate with previously identified CPC supporters included a statement that Elections Canada had changed some voting locations at the last moment and invited the elector to confirm the address where he or she would be voting. But the RMG callers were instructed to say that they were calling on behalf of the CPC. If the voter's information about their assigned voting location did not match the address on their screen displayed from the GOTV Data, the callers were instructed to provide the local CPC campaign office phone number for the supporter to call and get clarification.
+[191]
+Mr. Langhorne provided the text of a "GOTV Script" which he states Ms. Desgagné was directed to use on such calls. RMG determined that Ms. Desgagné made only 20 GOTV calls to persons residing in one of the subject ridings. It has no record of any GOTV calls to any of the applicants in these proceedings or to the other persons who have sworn supporting affidavits. Recordings of the 20 GOTV calls made by Ms. Desgagné to persons in the subject ridings contain no reference to calling on behalf of Elections Canada. The accuracy of the polling station information provided was questioned in only two of the calls. Both were to CPC supporters in the Elmwood-Transcona riding and the information in the script was shown to be correct.
+[192]
+Apart from the calls made by Ms. Desgagné, RMG did not produce records of the calls that they made into the subject ridings, as requested by the applicants, on the ground that this would be unduly burdensome. This was not pursued by the applicants. All of the RMG calls were made by live callers, according to Mr. Langhorne. The data for Voter ID calls was provided by the CPC and returned to the CPC following the election with the additional inputs regarding supporters and non-supporters recorded by the callers.
+[193]
+In her supplementary affidavit, Ms. Desgagné deposed that she believed that the text Mr. Langhorne provided was an amalgam of at least two other scripts she was directed to use, one of which referred to last minute changes of voting locations by Elections Canada. She believed that she was directed to use both types of script at various times during the days leading up to the May 2011 election. According to Langhorne, there would have been no overlap between the Voter ID and GOTV scripts except possibly on April 29, 2011.
+[194]
+At the hearing, counsel for the applicants advised the Court that they were not relying upon Ms. Desgagné's affidavits as evidence of the source of the misleading calls. The respondent MPs vigorously contested the accuracy of her evidence but relied upon it to the limited extent that it was inconsistent with the evidence of the applicants and their supporting affiants regarding the calls that they had received.
+[195]
+Ms. Desgagné's evidence is based solely upon her recollection which, as she acknowledged in an interview conducted on CBC radio on February 28, 2012, was unclear. Mr. Langhorne's evidence is supported by the RMG records and is consistent with the industry practices described by both himself and Mr. Penner.
+(5) The EKOS Survey Evidence
+[196]
+As survey evidence consists of an aggregate of statements by the persons surveyed and these persons are not made available for cross-examination, such evidence was long considered to be inadmissible. Survey evidence was also considered inadmissible if the results purported to answer the ultimate question before the Court, as that was considered to be the exclusive domain of the trier of fact. At common law, the evidence was admissible solely to provide the foundation for an expert's opinion evidence:
+R v Times Square Cinema Ltd
+, [1971] OJ No 1697 (QL) (CA) at para 35.
+[197]
+The modern practice is to admit survey evidence, presented through a qualified expert, provided its findings are relevant to the issues and the survey was properly designed and conducted in an impartial manner:
+Mattel Inc v 3894207 Canada Inc
+, 2006 SCC 22
+,
+[2006] 1 SCR 772 [
+Mattel
+] at para 43. The weight it is to be given is then determined by the Court.
+[198]
+In Canada, survey evidence has been used to determine the effect of voter registration rules on vulnerable populations:
+ <FRAGMENT_SUPPRESSED>  [
+Henry
+] at paras 411-450. Survey evidence has been admitted in a number of other contexts involving other public policy issues:
+ <FRAGMENT_SUPPRESSED> .
+[199]
+The respondent MPs contend that the EKOS Survey is inadmissible hearsay as it is tendered for the purpose of establishing contested facts, namely the proof that actual voters were prevented from voting. The applicants, they argue, do not merely use it as evidence that there was a program of voter suppression, but as evidence that this program was effective and did suppress voters.
+[200]
+The applicants submit that in dealing with fraud preventing voting, there is no readily available way to count the electors who did not vote other than through such a survey. They rely on the statements by the Supreme Court in <FRAGMENT_SUPPRESSED> at paragraphs 23 and 72 that the assessment under s 524 cannot involve an investigation into voters' actual choices and that the evidence must not compromise the secrecy of the ballot. The only reasonable alternative, they submit, was for a qualified professional to conduct a survey.
+[201]
+In my view, there was no question that the survey evidence was relevant. I concluded that it was admissible in support of Mr. Graves' opinion subject to the principles set out in
+Mattel
+, above, that it was properly designed and conducted in an impartial manner. I found that the survey was "both reliable (in the sense that if the survey were repeated it would likely produce the same results) and valid (in the sense that the right questions have been put to the right pool of respondents in the right way, in the right circumstances to provide the information sought)":
+Mattel
+, para 45. The weight to be given to it remained to be determined.
+[202]
+In reaching a conclusion on admissibility, I had regard to some of the factors discussed by Justice Smith in
+Henry
+, above, at para 279: the particular circumstances of this case and the opportunities the respondent MPs had to cross-examine Mr. Graves on his qualifications, to review the underlying data and methodology, and to call evidence in rebuttal; the lack of resources of the applicants and other means to establish cause and effect. I note that while the respondent MPs contend that court proceedings should not be turned into a battle of experts, their arguments about the reliability of the survey results all draw on Dr. Corbin's critique. In assessing the weight of the evidence, I took into account the content of the report and the evidence of Mr. Graves, Dr. Corbin and Dr. Nevitte, an expert in survey research and electoral behaviour retained by the applicants to assess the evidence of both Dr. Corbin and Mr. Graves.
+[203]
+The EKOS Survey gathered responses from a sample of Canadian adults across the six ridings under dispute. The findings were updated after the application regarding the seventh riding was withdrawn, resulting in a sample size of 2,872. One substantive effect of the removal of the Don Valley East survey respondents was to reduce the significance of the measurable impact on electors of receiving harassing phone calls during the election and that factor was removed.
+[204]
+According to Mr. Graves, a sample of this size for the six subject ridings provides a margin of error of +/- 1.8 percentage points, 19 times out of 20. The margin of error increases when the results are subdivided by riding, varying from 4.0% to 5.6%, 19 times out of 20.
+[205]
+For comparison purposes, the survey also gathered responses from 1,500 adult Canadians across 106 other ridings where there were few or no known complaints of voter suppression activity. The margin of error for the comparison groups is said to be 2.5 percentage points, 19 times out of 20.
+[206]
+The survey consisted of a series of automated questions asking the respondents whether they had received a telephone call asking how they intended to vote and a subsequent call telling them that their polling station had changed, if so whether that second call was said to be from Elections Canada, whether the location of the polling station was correctly identified and whether the call caused them not to vote on May 2, 2011. Additional questions addressed whether the respondent had received harassing telephone calls.
+[207]
+Mr. Graves' interpretation of the survey is that in the subject ridings in total, 16.7% of respondents indicated that they had received a call near the end of the election campaign informing them of the location of their polling station. Of those 16.7%, 24.6% of respondents indicated that they had received a call telling them that the location of the polling station had changed. This represents 4.1% of the survey sample of 2,872 from the subject ridings, or 117 electors. Extrapolated as a proportion of the total number of electors in the six ridings, which was 352,645, 4.1% of the eligible electorate represents 14,458 voters.
+[208]
+Acknowledging the limitations of the study, the EKOS Survey concludes, among other things, that:
+a. The evidence strongly suggests that there was a targeted program of voter suppression in place in the subject ridings. Based on the survey samples, it appears that tens of thousands of voters were targeted.
+b. These activities were clearly targeted at non-CPC voters in a manner that is highly improbable to have happened by chance. They included false reports of polling station changes and faux calls claiming to be from Elections Canada. In fact, Elections Canada made no such calls and there were virtually no voting station changes, yet many thousands of voters in the six ridings claim to have received these calls.
+c. Exposure to these calls clearly had a dampening effect on propensity for non-CPC supporters to vote. EKOS estimated the effect in the range of 1.0%. Applying a margin of error to those estimates would produce a band of 0.8% to 1.8%. In other words if these actions had not been in place, the CPC advantage would have been reduced by this amount on average in these six ridings.
+[209]
+The report found that residents of the subject ridings were significantly more likely to have received a call informing them of polling station change than those in the comparison ridings. Mr. Graves concluded that in the subject ridings voter suppression activities took place that were targeted at non-CPC voters. He found that the response rates for CPC voters were the same in both comparison and subject ridings.
+[210]
+These findings, the applicants submit, are consistent with the evidence of Mr. Langhorne that RMG, at the direction of the CPC, called hundreds of thousands of electors and read a message stating that: "Elections Canada has changed some voting locations at the last minute". This included calls to electors in five of the six subject ridings. The information was factually wrong in that there had been only one polling station change in all of the six subject ridings in which RMG made such calls. While GOTV calls were made by the other parties to their supporters, there is no suggestion that they included similar misleading information about polling station locations.
+[211]
+As discussed above, under s 120 of the Act it is the responsibility of returning officers to establish polling stations, with the approval of the Chief Electoral Officer if more than one location is required in a polling division. This responsibility would include any relocation of a polling station and any notification to electors of such a change. It was therefore improper for the CPC and RMG to deliver the message they did, and this should not recur.
+[212]
+However, the fact that the RMG calls were made may account, in part, for the recollection of persons who responded to the EKOS survey nearly a year later that they had received misleading phone calls.
+[213]
+The EKOS Survey acknowledged the difficulty of estimating the actual number of electors deterred from voting in consequence of receiving such a call. It states:
+Assessing causal impacts is an exceedingly complex problem and this research cannot provide definitive estimates of the size of the causal impacts. It does, however, provide a reasonable basis for estimating these impacts.
+[214]
+The survey asked respondents to report whether they failed to vote as a result of getting such a call. The results indicated that more respondents from the comparison group reported being deterred from voting as a result of receiving a call indicating that the polling station location had been changed. Mr. Graves' opinion was that this made sense because eligible voters in "swing" ridings have more incentive to vote and are thus less easily dissuaded from voting than voters in party strongholds, which were better represented in the comparison group.
+[215]
+One of the difficulties with the survey evidence, however, is that some of those who reported having been discouraged from going to the polls had previously indicated that they had in fact voted. This inherent conflict in the results was never explained to my satisfaction.
+[216]
+As I read the results of the survey broken down by the subject ridings, with the percentages rounded out to avoid counting fractional people, the findings are as follows:
+Winnipeg South Centre
+:
+There were no polling station changes in this riding. The margin of victory for the Conservative respondent was 722 votes (out of 40,093 cast for all candidates). The survey contacted 606 people in the riding. Of those, 5.3% said that they had been called and told that their polling station had been changed. Of those receiving such calls, 5.7% (i.e. 1.0 percent of the 606 or 6 persons) said that they then did not vote. Extrapolating that 1 % to the total 40,093 votes indicates that the reverse magic number (more votes presumed to oppose the winner than the margin of victory) would not have been reached.
+Saskatoon-Rosetown-Biggar
+:
+No polling station changes. The margin of victory was 538 votes out of 30,220 cast. The survey contacted 303 people. Of those, 4.0% (or 12 people) said that they had been called and told that their station had been changed. Of those, 8.1% (2% of the 303 or 6 people) said that they did not vote. Extrapolated to the total number of votes cast, 2% would exceed the reverse magic number required.
+Elmwood-Transcona
+:
+No polling station changes. A margin of victory of 300 votes of 33,085 total cast. The survey contacted 487 people in the riding. Of those, 4.9%, or 24 people, said that they had been contacted about a change in their polling station. Eight people (or 1.6% of the 487) said that they then did not vote. Calculated as a percentage of the total (1.6% of 33,085), this would indicate that 529 voters did not vote, well in excess of the magic number.
+Nipissing-Timiskaming
+:
+No polling station changes. Margin of victory for the Conservative candidate was just 18 votes out of 42,496 cast. The survey contacted 487 people in this riding. Of those, 1.8% (or 9 people) said that they had been called with the misleading information. 12.1 % (i.e.,1.8% of the 487, 7 people) of those said they then did not vote. Extrapolated to the total votes cast, this would indicate that 595 voters did not vote, well in excess of the magic number.
+Vancouver Island North
+:
+One polling station location was changed in this riding. The margin of victory was 1,827 out of 59,190 votes cast. 523 people were contacted by the survey. Of those, 2.7 % said that they had been called and told that their polling station had been changed. Of those 14 people, 5.7% or 4 people (i.e., 0.8% of the 523) said that they then did not vote - this would translate to 473 votes. The magic number would not have been reached in this riding.
+Yukon
+:
+No polling station changes. The margin of victory was 132 votes out of 16,124 total cast. The survey contacted 466 people, of whom 36% said that they had been called and told that their polling station had changed or 168 people. Of those, 10.7%, approximately 8 people or 1.7 % of the 466, said they then did not vote. As 1.7% of 16,124 is 274 voters, the magic number would have been reached.
+[217]
+If the survey evidence is accepted, it demonstrates that 39 voters in total and at least one voter in each of the six ridings reported not casting a vote due to the fraud. Extrapolating the percentage of those who said they did not vote because of the calls from the survey samples to the total number of votes cast in each riding, the reverse magic number is reached in only four of the six ridings, assuming that none of those who did not vote in those four ridings would have voted for the Conservative respondents.
+(6) Dr. Corbin's evidence
+[218]
+Dr. Corbin holds a doctoral degree in psychology, among other degrees. She is the managing partner of CorbinPartners Inc., a marketing science company which conducts survey research and provides market analysis for business and policy decisions. Previously, she was the Chief Operating Officer of the Angus Reid Group responsible for national election polling operations and was at one time a polling advisor to the Privy Council Office and the Canadian Unity Information Office of the Government of Canada.
+[219]
+Dr. Corbin has been personally involved with numerous survey research studies and has published on the use of survey evidence in court. She has been previously qualified as an expert in the design and interpretation of survey evidence in an electoral context (
+Henry
+, above, at para 292) and her qualifications were not contested in those proceedings.
+[220]
+Dr. Corbin's expertise in market research was not questioned by the applicants. They questioned whether the consumer orientation of her expertise was of value in this context and questioned the limited scope of her retainer. She was not asked to consider the evidence as a whole but rather to focus on the Graves affidavits and survey evidence. The applicants content that as a result she was unaware of the effect of the RMG calls on the comparison ridings, for example, and proceeded on the incorrect assumption that the reports by survey respondents of having received misleading calls were the product of false memory. They also contend that she brought a hyper-adversarial approach to her task which diminishes the weight that should be accorded her opinion.
+[221]
+Dr. Corbin conceded that the self-reported non-voting activity disclosed by the EKOS Survey, if taken at face value, establishes that some voters were deterred from voting. However, the survey failed to address essential standards of statistical reliability, in her view, and the results could not, therefore, be generalized to any conclusions about the population at large. She asserts that nothing could be concluded from the survey with respect to the incidence of voter suppression phone calls or any cause-effect relationship between such phone calls and any outcomes of the 2011 federal election.
+[222]
+The IVR polling technology may be useful for some specific applications, Dr. Corbin acknowledges. But it is a highly impersonal survey technique with very low response rates and remains controversial within the industry. In the manner used in the EKOS Survey, Dr. Corbin states, it permits no verifiable control over who answers the survey. She criticized its use in this instance on a number of grounds including the following:
+• Survey results require validation, normally through a 10% call-back to confirm responses; this was not done. There was no live follow-up.
+• The survey was performed 11 months after the election when people's memories had faded. Memories are suggestible and the respondents may have accidentally filled in details from media reporting after the fact.
+• There were numerous sampling errors in the survey; for instance, cell phone users were not surveyed, because according to Mr. Graves' hypothesis, cell phones were not targeted for misleading calls.
+• The youngest age category offered was "under 25", which did not screen out people under 18 who were not eligible to vote. There was over-representation of women and under-representation of Conservatives.
+• A ticket in a $500 prize draw was offered for completing the survey, so people may have just pushed random buttons to get through and get their chance at the prize.
+• Finally, the survey questions were confusing.
+[223]
+I note that call-backs to verify the information received would run counter to the concern expressed by the Supreme Court that efforts to establish causal effects must not breach ballot secrecy. One of the features of the IVR approach was that the respondents were assured anonymity. While there were multiple call backs to obtain a response, EKOS did not thereafter attempt to verify the responses received from those reporting non-voting behaviour. Dr. Corbin views this as a weakness but it is a point that would be problematic in any live survey that could not assure anonymity.
+[224]
+Dr. Corbin challenges Mr. Graves' assertions that the survey provides a reasonable basis for estimating the impact of the calls. She states that there is no scientifically defensible basis for estimating or inferring causal impacts from the report. Following a detailed analysis of the discussion of the results in the EKOS Survey, she found the explanations "subjective, predisposed to a hypothesis of voter suppression, and inconsistent with rigorous statistical reasoning for determining cause-and-effect."
+[225]
+Dr. Corbin's analysis of the data led her to conclude that at least two ridings, Saskatoon-Rosetown-Biggar and Nipissing-Timiskaming, could immediately be eliminated from consideration as targets of suspicious phone calls, because there were fewer complaints about such calls than in the comparison ridings. Her analysis of the remaining ridings indicates that overall, there was not enough difference between voters in the comparison group and voters in the subject ridings to demonstrate that suspicious calls had made any difference. She points out that in Winnipeg South Centre and Vancouver Island North, the magic number is not reached even if Mr. Graves' findings are accepted.
+[226]
+Dr. Corbin would eliminate more than half of the survey respondents as lying or mistaken based on a comparison of tables of survey respondents who reported receiving calls which caused them not to vote, and tables of survey respondents who said they had actually voted. Excluding those she concluded had lied from the data and adjusting the data to compensate for under-age voters, cell-phone owners, ineligible voters and other concerns such as faulty memory, the remaining alleged voter suppression effect is reduced to zero. In the result, Dr. Corbin found no statistical difference between the subject ridings and the comparison group ridings. In her analysis, the EKOS Survey is, overall, methodologically unsound and could have a margin of error of between 8% and 20%.
+[227]
+A sur-reply affidavit by Dr. Corbin was tendered on October 29, 2012 in response to the revised report by Graves and EKOS calculated without the data from the seventh riding. In the revised report, some of the numbers had changed but not to the extent that the results were dramatically altered. Changes from the original report were indicated with strike-throughs and side-bars describing the adjustments made.
+[228]
+Dr. Corbin added the following arguments, among others:
+• There is now stronger evidence of no material voter suppression in the collection of six subject ridings.
+• There is new unequivocal evidence that if non-voters had been targeted by illegitimate phone calls, those most likely to be targeted were people with Conservative Party leanings, rather than non-Conservative Party leanings. That is, if targeted non-voters had actually voted, it appears more likely they would have voted for the Conservative candidate.
+• One can go further than concluding that there is no material voter suppression demonstrated for any of the Subject Ridings. A statistical analysis based on Mr. Graves's own data shows that there is less likelihood that alleged "voter suppression" took place in the Subject Ridings altogether, compared to anywhere else in Canada.
+[229]
+I found Dr. Corbin's evidence to be overly argumentative. In her critique of Mr. Graves' use of the IVR technology and his opinion evidence, she appeared to enter the arena as an advocate. I agree with the respondent MPs that election annulment proceedings should not be a "battle of the experts" but it seems to me that they encouraged Dr. Corbin to engage in just such a battle.
+(7) Dr. Nevitte's evidence
+[230]
+The applicants retained Dr. Neil Nevitte, an expert in survey research and electoral behaviour, to assess the evidence of both Dr. Corbin and Mr. Graves. Dr. Nevitte is a professor of political science at the University of Toronto and a researcher in the areas of public opinion, voting, value change, and the problems associated with transitional elections. He was a co-investigator of the Canadian Election Studies (1993-2009), serves as a Senior Election Advisor with the National Democratic Institute for International Affairs and is a technical advisor to international non-governmental organizations on the prevention and detection of election fraud and conditions for free and fair elections. He was tendered as an expert in survey research and electoral behaviour.
+[231]
+The respondent MPs objected to Dr. Nevitte's evidence on the grounds that it was not independent and objective. They argued that he was retained for the sole purpose of bolstering the EKOS Survey, and that the admission of his evidence would split the applicants' case. They questioned his qualifications in expressing an opinion on voter suppression as he acknowledged not being an expert in that field.
+[232]
+Because of the novel use of survey evidence in this case, I considered that it was appropriate for the applicants to seek a second opinion on the validity of the methodology and conclusions in the EKOS Survey. I found Dr. Nevitte's evidence to come within the
+Mohan
+criteria. In the context of the open conflict between Graves and Corbin, I found it to be impartial and helpful.
+[233]
+Dr. Nevitte deposed that he had been involved in large-scale survey research dealing with electoral data and public opinion data for 30 years. He had never seen a survey research project that was completely free of problems. It is not unusual for survey experts to have honest differences of opinion about the best way to conduct the research. He considered many of the concerns raised by Dr. Corbin to be common to this kind of exchange and not requirements observed by the industry.
+[234]
+He described her general approach, however, as "cross[ing] the boundary that separates honest disagreement from strenuous, and not so credible, disagreement." In his view:
+The Corbin report lists a litany of claims concerning the reliability, validity, and scientific reporting which render the data as invalid, unreliable and so not a foundation from which useful inferences can be drawn. My view is that this is too harsh a judgment. Many of the claims upon which those sources of unreliability and invalidity are based are factually incorrect. Others, as it turns out, have been addressed.
+[235]
+Dr. Nevitte concluded that the EKOS Survey "for the most part, makes relatively modest claims that are advanced, usually, with related caveats and proper caution", and criticized the initial Corbin report on the ground that it had not squarely addressed the central question of whether voters for different parties had different probabilities of receiving deceptive calls.
+[236]
+Dr. Nevitte acknowledged that some of Dr. Corbin's criticisms raised valid issues, notably: (a) memory lapse over time; (b) the suitability of IVR technology; (c) the randomness of the survey sample; (d) the nature and suitability of the comparison group; (e) the question of causation; and (f) the issue of data disclosure.
+[237]
+Memory unreliability could be a problem but a call related to a general election would be more memorable, in Dr. Nevitte's view, than most daily events. He notes that it would not be logical that supporters of one political party would have consistently less accurate memories than others. IVR interviewing is automated and impersonal but he did not see that as a problem and considered that the methodology used was standard for the industry. The fact that the sample was random was not an issue so long as the normal precautions were taken. While the comparison group consisted of 106 ridings in which few complaints were filed, rather than ridings in which no complaints were filed, this was the best that could be done in the real world, whatever the ideal might have been. The comparison group revealed significant statistical differences, in his view.
+[238]
+With respect to causation, Dr. Nevitte concurred with EKOS' assessment of the extent and targeting of the calls. He noted, however, that "it is difficult to draw firm conclusions about what effect those calls might have had on overall rates of voter turnout." Overall I assessed Dr. Nevitte's evidence as supporting the use of the IVR methodology but not necessarily the results in this instance.
+(8) Evidence of the respondent MPs' campaign managers
+[239]
+The respondent MPs adduced the evidence of their local campaign managers. Each of them denies having engaged in voter suppression. This is consistent with the results of the Mathews investigation in Guelph which appears to point to the involvement of volunteers in the local CPC campaign but does not implicate either the CPC candidate in that riding or his campaign manager.
+V. Conclusion on the Merits
+A.
+Has "fraud" under Section 524(1)(b) been made out?
+[240]
+As noted above, the respondent MPs contend that the meaning of fraud within s 524(1)(
+b
+) must be derived from the
+Criminal Code
+offence or the elements of the offence set out in s 482(
+b
+), which would require proof of both a factual and a mental element. These elements would be, they submit, 1) the utterance of a pretence or contrivance, and 2) the intent to cause an elector to refrain from voting. They argue that the applicants have failed to make out the elements of either offence or those of any other electoral offence by failing to identify a perpetrator with a guilty mind or establish that they were actually prevented from voting.
+[241]
+The applicants submit that they have presented evidence demonstrating a
+prima facie
+case of fraud. Telephone calls were received; these did not come from any authorized body such as Elections Canada; they directed electors to the wrong polling stations; thousands of complaints have been received by Elections Canada from across Canada, reflecting a country-wide pattern of conduct. The conduct was aimed at "swing ridings" such as the six that are the subject of these proceedings, as the margin of victory in those was likely to be narrow.
+[242]
+As I discussed above, the meaning of "fraud" in s 524(1)(
+b
+) is not limited to the definition of any of the offences in Part 19 of the Act. It is not necessary, in my view, for an applicant to satisfy the elements of the criminal offences in order to establish that "fraud" within the meaning of the enactment has been made out. It is sufficient to show false representations depriving, or creating a risk of depriving, a voter of the right to vote.
+[243]
+I have considered whether the complainants outside Guelph conflated the calls by RMG and media reporting and came to a mistaken conclusion that they had received deliberately misleading calls, but this is inconsistent with the RMG evidence, which clearly shows that the company did not make calls to non-supporters, who were identified as such in the CIMS database. GOTV calls on election day were only made to identified CPC supporters which did not include the applicants.
+[244]
+I am satisfied that is has been established that misleading calls about the locations of polling stations were made to electors in ridings across the country, including the subject ridings, and that the purpose of those calls was to suppress the votes of electors who had indicated their voting preference in response to earlier voter identification calls.
+[245]
+In reaching this conclusion, I make no finding that the CPC, any CPC candidates, or RMG and RackNine Inc., were directly involved in the campaign to mislead voters. To require the applicants to identify the perpetrators of the misleading calls would impose an impossibly high standard of proof. I am satisfied, however, that the most likely source of the information used to make the misleading calls was the CIMS database maintained and controlled by the CPC, accessed for that purpose by a person or persons currently unknown to this Court. There is no evidence to indicate that the use of the CIMS database in this manner was approved or condoned by the CPC. Rather the evidence points to elaborate efforts to conceal the identity of those accessing the database and arranging for the calls to be made.
+[246]
+I find that the threshold to establish that fraud occurred has been met by the applicants. The questions remaining are whether the fraud affected the results of the election, and if so, whether the Court should exercise its discretion to annul the results in the subject ridings.
+B.
+Did the fraud affect the results of the election in the six subject ridings?
+[247]
+The applicants had a difficult obstacle to overcome in these proceedings. They had no direct evidence that the voter suppression efforts had been successful. They themselves had not been prevented from voting by the misleading telephone calls that they received. As they point out, however, to require direct evidence of the effects of voter suppression measures may make it much more difficult to bring such challenges under s 524 of the Act. There is no readily available means to count the number of electors who were not able to vote by virtue of the fraudulent activity unless they all come forward and self-identify, which is highly improbable.
+[248]
+The applicants reasonably turned to a random interactive telephone survey as an alternative means to collect the data. They ask the Court to extrapolate, from the survey samples, an estimate of the total number of persons who did not vote in the six ridings as a result of the misleading calls and to draw the necessary inference as to the effect on the outcome in each riding. It would be easier to draw those inferences if, as the respondent MPs argued, at least some of the supporters of the losing candidates in the six ridings who did not vote because of the misdirecting phone calls would have come forward to make that known at the time of the election or when the story broke in the national media ten months later. That this did not occur has raised questions that have not been answered in this proceeding.
+[249]
+Apart from the survey, there is no evidence that the election results in the six ridings would have turned out differently. This is not a case of disappearing ballots or tampering with voting machines as in some of the American cases in which survey evidence has been accepted. Here, the survey is offered to establish that some voters, a sufficient number in each riding to overcome the margin of victory, would have voted but for the effect of a telephone call directing them to the wrong polling location. None of those voters have come forward to confirm the results. The survey evidence, in this case, does not provide firm ground on which the Court could have confidence in finding that the fraud affected the results in any of the six ridings. I am, therefore, not satisfied that the survey is a reliable evidentiary basis upon which to cast doubt on the winner in each contest even where the margin of victory was close.
+[250]
+That conclusion is not intended to preclude the use of such evidence in a future case should it be possible to address the concerns raised in this proceeding about the survey methodology and interpretation of the data.
+[251]
+Absent a clear finding that the election results could have been different but for the voter suppression efforts, the Court must turn to the alternative basis advanced by the applicants for annulling the elections. It must consider whether the corrosive effect of the fraud was sufficiently serious to call the integrity of the election process into question requiring new votes in those six ridings.
+C.
+Did the fraud call into question the integrity of the elections?
+[252]
+This case was problematic from the outset, as the applicants acknowledged, because of the challenges they faced in collecting evidence to support what they rightly identified as a widespread attempt at voter suppression. The evidence of fraud was most clearly demonstrated in the Guelph investigation. As the investigations continued, the Commissioner's officers uncovered evidence that the Guelph experience was not unique and that similar attempts were made across the country including in the six subject ridings. The applicants' own experience on Election Day supports those findings.
+[253]
+Canadians have confidence in the integrity of our electoral procedures. The sanctity of the poll and the ballot box in this country is reflected in the frequent invitations Canada receives to provide independent observers to supervise foreign elections. There may have been isolated instances of electoral misbehaviour in the past but, as noted above, incidents of voter suppression of the nature discussed in these reasons have not been known in this country prior to the 41st General Election. For that reason, I don't doubt that the confidence rightfully held by Canadians has been shaken by the disclosures of widespread fraudulent activities that have resulted from the Commissioner's investigations and the complaints to Elections Canada.
+[254]
+Had I found that any of the successful electoral candidates or their agents were implicated in any way in the fraudulent activity, I would not have hesitated to exercise my discretion to annul the result even if the reverse magic number had not been shown to have been reached in the riding in question. No such evidence was led.
+[255]
+The scale of the fraud has to be kept in perspective. According to the Report of the Chief Electoral Officer of Canada on the 41st general election of May 2, 2011, found on the website of Elections Canada, a total of 66,146 polls at which 14,823,408 electors cast their ballots were set up and operated across Canada on polling day. The number and location of the complaints received by Elections Canada from across Canada indicates that the voter suppression effort was geographically widespread but, apart from Guelph, thinly scattered.
+[256]
+While they appear to have been targeted towards voters who had previously expressed a preference for an opposition party (or anyone other than the government party), the evidence in this proceeding does not support the conclusion that the voter suppression efforts had a major impact on the credibility of the vote.
+[257]
+Elections Canada has responded to the complaints received and they continue to be actively investigated. At the time of writing, the press reported that the Director of Public Prosecutions had authorized the Commissioner to commence a prosecution under Part 19 of the Act. These institutions and the Courts have the capacity to address this effort to strike at the integrity of our democratic process.
+D.
+Should the Court exercise its discretion to annul the elections?
+[258]
+Having considered the matter very carefully and with a full appreciation for the concerns about the integrity of the electoral process that have motivated these applications, I am unable to conclude that I should exercise my discretion to annul the 2011 election results in any of the subject ridings because of the fraud that occurred.
+VI. Costs
+[259]
+The right of citizen electors to seek to annul election results that they reasonably believe to be tainted by fraud is, in my view, a matter of high public interest and analogous to
+Charter
+litigation. A concern that has frequently been raised is that such litigation should not be beyond the reach of the ordinary citizen. The courts have gone so far as to require that a portion of the costs of such cases be paid by the opposing successful parties:
+M v H
+, [1996] OJ No 2597 (QL) (Ct J (Gen Div)) at paras 17, 30;
+Lavigne,
+above, at para 106.
+[260]
+I am mindful of the fact that in this instance the applicants have received guarantees of indemnification by a non-governmental organization which has been raising funds for that purpose. But it is also apparent that the respondent MPs are supported by the resources of the party to which they belong, resources which are underwritten by taxpayers.
+[261]
+These proceedings have had partisan overtones from the outset. That was particularly evident in the submissions of the respondent MPs. In reviewing the procedural history and the evidence and considering the arguments advanced by the parties at the hearing, it has seemed to me that the applicants sought to achieve and hold the high ground of promoting the integrity of the electoral process while the respondent MPs engaged in trench warfare in an effort to prevent this case from coming to a hearing on the merits.
+[262]
+Despite the obvious public interest in getting to the bottom of the allegations, the CPC made little effort to assist with the investigation at the outset despite early requests. I note that counsel for the CPC was informed while the election was taking place that the calls about polling station changes were improper. While it was begrudgingly conceded during oral argument that what occurred was "absolutely outrageous", the record indicates that the stance taken by the respondent MPs from the outset was to block these proceedings by any means.
+[263]
+The preliminary stages were marked by numerous objections to the evidence adduced by the applicants. The respondent MPs sought to strike the applications on the ground that they were frivolous and vexatious, to have them dismissed as champertous and to require excessive security for costs, in transparent attempts to derail this case.
+[264]
+There have been interlocutory decisions made by the case management prothonotaries during the proceedings with related costs awards. The applicants are, in my view, entitled to be awarded costs on each of the pre-hearing motions in which they have been successful on a solicitor and client basis to be paid jointly and severally by the respondent MPs. This applies also to the champerty motion and the motion to exclude the Graves evidence which was brought initially in relation to the Don Valley East application and then deemed to apply to each of the other applications.
+[265]
+Apart from the motion costs, and with the above considerations in mind, I am inclined to order a modest fixed amount for the costs of the hearing. Absent an agreement as to the amount, the respondent MPs may make written submissions limited to ten pages within thirty days of the date of this judgment. The applicants will then have fifteen days in which to respond and the respondent MPs another five days to reply. I will then award a fixed sum in an amount I consider appropriate given the foregoing comments. The other respondents will bear their own costs.
+JUDGMENT
+[266]
+THIS COURT'S JUDGMENT is that
+1. the applications are dismissed;
+2. the respondent Members of Parliament are awarded costs for the hearing in an amount to be fixed in accordance with the directions given in the reasons for judgment;
+3. the applicants are awarded costs for the motions in which they were successful on a solicitor and client basis; and
+4. the other responding parties shall bear their own costs.
+Applications dismissed.
+Editor: E. Joanne Oley/vnh

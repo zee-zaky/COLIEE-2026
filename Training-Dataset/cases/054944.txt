@@ -1,0 +1,1252 @@
+TABLE OF CONTENTS
+-
+Para. No.
+I. Overview
+1
+II. Introduction
+6
+III. Background
+7
+--The patent at issue
+7
+--Levofloxacin and Ofloxacin
+10
+--The inventive story
+24
+---(a) Research Activities
+24
+---(b) The Invention Date
+30
+--Earlier litigation of this '080 patent
+31
+IV. Issues
+37
+V. Analysis
+38
+--Burden of Proof
+38
+---A. Abuse of Process Consideration
+40
+---The witnesses
+49
+----Janssen's Witnesses
+49
+----Apotex' Witnesses
+52
+---The '080 patent
+55
+----Laws of construction
+55
+----Construction of claim 4 of the '080 patent
+62
+----Claim 4 of the '080 patent covers levofloxacin hemihydrate
+65
+---B. Is Apotex' allegation of infringement justified?
+71
+----Infringement of the '080 patent
+71
+-----Legal principles
+71
+-----Application to the facts
+72
+------The specification of the '080 patent is sufficient
+72
+-----Conclusion
+83
+---C. Are Apotex' Allegations of Invalidity justified?
+84
+----i) Anticipation
+87
+-----Legal principles
+88
+-----Application to the facts
+97
+------The '840 patent:
+97
+-----Conclusion
+103
+----ii) Obviousness
+105
+-----Legal principles
+105
+-----Application to the facts
+110
+-----Prior Art
+112
+------(a) The Gerster Papers:
+114
+------(b) Ofloxacin References
+121
+------(c) Other References
+124
+-----Climate in the relevant field and motivation at the time of the alleged invention
+126
+------(a) Racemic fluoroquinolnes were not resolved
+126
+------(b) A skilled person would not expect chirality of methyl group to affect activity
+131
+------(c) Properties of flumequine not predictive of ofloxacin
+133
+------(d) Other compounds teach away from importance of methyl group
+137
+-----Beneficial properties of levofloxacin are surprising and unexpected
+143
+------(a) Levofloxacin's improved antimicrobial activity was unexpected
+146
+------(b) Levofloxacin's lower toxicity was unexpected and not predictable
+149
+------(c) Levofloxacin's increased solubility was unexpected
+161
+------(d) Levofloxacin's Combination of the Three Beneficial Properties was Unexpected
+169
+-----Conclusion
+170
+------Levofloxacin is inventive
+170
+----iii) Claims broader than the invention made and lack of sound prediction
+177
+-----Legal principles
+177
+-----Application to the facts
+185
+-----Conclusion
+187
+----D. Is the '080 Patent Void Pursuant To Paragraphs 40(1)(a) and (c) of the
+Patent Act
+?
+188
+-----The relevant legislation and its interpretation
+190
+------(a) There was no breach of paragraph 40(1)(c) of the
+Patent Rules
+193
+------(b) There was no breach of paragraph 40(1)(a) of the
+Patent Rules
+193
+------(c) The Applicant and its agents acted in good faith
+200
+-----Conclusion
+202
+VI. Conclusion
+203
+VII. Abuse of Process Analysis and Conclusion
+205
+--Legal Principles
+205
+--Construction
+211
+--Infringement
+215
+--Anticipation
+216
+--Sufficiency of Disclosure
+222
+--Obviousness
+228
+---(a) No attention was given to enantiomers in the quinolone field
+230
+---(b) No better evidence that competitors were motivated to obtain levofloxacin
+232
+---(c) The properties of levofloxacin were not expected
+236
+VIII. Costs
+248
+Judgment
+251
+I. Overview
+[1]
+Shore, J.
+: Claims, in regard to a patent, are neither to be construed too broadly nor too restrictively to ensure the patent's potential viability. To prevent a viable patent from being relegated to a straitjacket, it requires breath in order to live out its exceptional privilege, the monopoly, it has been granted.
+[2]
+"Slight alterations or improvements may produce important results ..." and the "... patient searcher is as much entitled to the benefits of a monopoly as someone who hits upon an invention by some lucky chance or inspiration."
+(
+ <FRAGMENT_SUPPRESSED>  (P.C.), at 88-89;
+ <FRAGMENT_SUPPRESSED>  at para. 24 (
+ <FRAGMENT_SUPPRESSED>  date of the patent. This exercise is conducted in a purposive and not overly literal manner that is fair and reasonable to the patentee and the public. Patent construction should be approached "with a judicial anxiety to support a really useful invention".
+(
+ <FRAGMENT_SUPPRESSED>  at para. 54;
+ <FRAGMENT_SUPPRESSED>  at 1089-1091 [ <FRAGMENT_SUPPRESSED>  concurred with Justice Hughes' findings in the Federal Court that the patent was valid, that levofloxacin clearly demonstrated a special advantage and that Daiichi's work was more than mere verification. It was ultimately found that the patent was not obvious and that the Applicants had established utility. (
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> Appeal) and
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> Trial).)
+II. Introduction
+[6]
+This is a proceeding pursuant to subsection 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 as amended (
+NOC Regulations
+). Janssen-Ortho Inc. (Janssen) and Daiichi Sankyo Company Limited (Daiichi) have applied to the Federal Court seeking an Order prohibiting the Minister of Health from issuing a Notice of Compliance (NOC) under C.08.004 of the
+Food and Drug Regulations
+, C.R.C., c. 870, to Apotex Inc. (Apotex) relating to an antimicrobial drug, known as levofloxacin, in the form of 250, 500 and 700 mg tablet strengths, until after expiry of Canadian Patent No. 1,304,080 ('080 patent).
+III. Background
+The patent at issue
+[7]
+The patent at issue, Canadian Patent No. 1,304,080 ('080 patent), was issued to the Applicant, Daiichi, on June 23, 1992, which discloses and claims the antibiotic levofloxacin, known in North America as LEVAQUIN. The Canadian filing date of the '080 patent is June 19, 1986, and unless held to be invalid, the '080 patent will expire on June 23, 2009. The patent claims priority from three separate patent applications filed in Japan; the first on June 20, 1985 (Application No. 134712/85); the second on October 11, 1985 (Application No. 226499/85); and the third on January 28, 1986 (Application No. 16496/86).
+[8]
+Daiichi is also the owner of Canadian Patent 1,157,840 ('840 patent), issued on May 22, 1984, which disclosed and claimed an antibiotic known as "ofloxacin". Janssen was licensed by Daiichi to market ofloxacin in Canada, which it did under the brand name FLOXIN. The '840 ofloxacin patent expired on May 22, 2001.
+[9]
+On July 18, 2005, the Respondent, Apotex, served on Janssen, a purported Notice of Allegation (NOA) concerning the '080 patent. The Respondent alleges that the '080 patent is invalid as it does not meet the test for a selection patent. They argue that levofloxacin does not possess unexpected, special advantages over ofloxacin. Further, the selection of levofloxacin from the ofloxacin mixture did not require any inventive ingenuity. The Applicants submit that the issues in this application are substantially similar to the issues and evidence on obviousness and anticipation as previously submitted to this Court in earlier litigations (Court File Nos. T-214-03; T-2175-04 and A-500-06).
+Levofloxacin and Ofloxacin
+[10]
+This case involves the related compounds ofloxacin and levofloxacin.
+[11]
+Ofloxacin is an old substance. A skilled chemist would know its chemical structure and would be aware that it contains a feature known as a "chiral centre". This feature is important to the present case as a molecule with a chiral centre can exist in one of two possible three-dimensional forms. The word "enantiomers" is used to describe the relationship between the two possible three-dimensional forms. Enantiomers are mirror images of each other and can be likened to the right and left hand version of the same compound. While enantiomers are similar in many respects, they have different chemical properties and often very different biological effects when administered as medicines.
+[12]
+Chemists distinguish between the two enantiomers of a given compound by assigning labels to each one. One convention involves assigning the prefixes "R" or "S" to each enantiomer. A chemist can tell by looking at a chemical diagram whether a particular enantiomer is the R enantiomer or the S enantiomer. A different convention uses the prefixes (+) or (-) to distinguish between enantiomers. These prefixes are assigned depending on whether the enantiomer rotates plane-polarized light to the right (+) or to the left (-). One enantiomer will always be (+) while the other enantiomer will always be (-).
+[13]
+In the case of ofloxacin, one enantiomer is referred to as (+)-ofloxacin (or alternatively as R-ofloxacin or R(+)-ofloxacin). The other enantiomer is referred to as (-)-ofloxacin (or alternatively as S-ofloxacin or S(-)-ofloxacin). For the purposes of this case, it is important to note that the S or (-) enantiomer of ofloxacin is called levofloxacin.
+[14]
+The term "ofloxacin", as it is used in the literature and described in the prior art, is generally used to refer to a specific type of mixture of that compound called a "racemic mixture" or a "racemate". A racemic mixture is a mixture containing 50% of each enantiomer of a compound. Thus, a sample of ofloxacin racemate will contain equal amounts of S(-)-ofloxacin (levofloxacin) and R(+)-ofloxacin.
+[15]
+The '840 patent discloses a process to make ofloxacin. A chemist following that process would obtain a racemic mixture of ofloxacin.
+[16]
+Although racemic mixtures can be used for a variety of purposes including pharmaceuticals, it is often desirable to obtain a very pure sample of only one of the enantiomers. One means of obtaining a sample containing only one enantiomer is to start with a racemic mixture and separate it into its two constituent enantiomers. Generally, enantiomers cannot be separated mechanically and thus chemists must devise or apply chemical techniques to perform the separation. Different techniques may be used to perform the same separation; however, the purity of the products may differ, as may the cost or time involved in the separation.
+[17]
+The two enantiomers of ofloxacin were disclosed in Japanese patent application No. 134712/85, published on June 20, 1985. This was the first disclosed isolation of the substantially pure enantiomers of levofloxacin achieved using a chemical technique called HPLC. The parties refer to this process as "Process A". It is important to note that, although Daiichi had separated ofloxacin into two enantiomers, it did not yet know which enantiomer was "R" and which was "S". In technical language, a chemist would say that Daiichi did not yet know "the absolute configuration" of each enantiomer.
+[18]
+A second separation process, "Process B", or the "enzymatic process" for separation, followed. A second Japanese patent application No. 226499/85 was filed, on October 11, 1985, disclosing a notable separation.
+[19]
+Acute toxicity tests and X-ray diffraction analysis conducted on levofloxacin led to the final process, "Process C", disclosed in the third Japanese patent application No. 016496/96. This application disclosed that the absolute configuration of levofloxacin was "S", and also referred to its "higher ... solubility and weaker toxicity". (Applicant's Application Record (AR), Hayakawa Affidavit at paras. 43-48, v. 4, Tab 6, pp. 720-721; Klibanov Affidavit, Exhibit I, v. 13, Tab 18, p. 3783.)
+[20]
+The isolation of levofloxacin (that is, the (-)-or (S)- enantiomer of ofloxacin) is described within the '080 patent. The patent explicitly teaches that levofloxacin is twice as potent, less toxic, and ten times more soluble than ofloxacin, the racemic containing both levofloxacin and (+)-ofloxacin.
+[Diagram omitted - see printed version]
+[21]
+The means by which the isolation of levofloxacin and the determination of not only the S configuration, but, more particularly, of the superior properties it exhibited, are disclosed in the '080 patent. At issue, in this application, is whether claim 4 includes within its scope both anhydrous levofloxacin and hemihydrate levofloxacin.
+[22]
+The term anhydrous (or anhydrate) is used to describe a specific form of a compound that is completely free of water. A sample of anhydrous levofloxacin will not contain any water molecules.
+[23]
+It is noted, however, that levofloxacin may also exist in a form where the individual levofloxacin molecules are very closely associated with water molecules. Different names are assigned to these forms depending on the number of water molecules that are associated with each individual molecule of levofloxacin. A hemihydrate will have two molecules of levofloxacin for each molecule of water.
+The inventive story
+(a) Research Activities
+[24]
+Daiichi began trying to separate the enantiomers of ofloxacin, in April 1981. They had a series of failures until April 1984 when work began on what would eventually become known as processes A and B. (Hayakawa Affidavit at paras. 17-25, AR, v. 4, Tab 6, pp. 711-714.)
+[25]
+Daiichi first isolated levofloxacin and the (+)-enantiomer of ofloxacin, in April 1985, using Process A. In April 1985, antimicrobial testing revealed that levofloxacin had about twice the activity of ofloxacin. In comparison the (+)-isomer had only between 1/8th to 1/100th the activity of levofloxacin.
+[26]
+Daiichi completed Process B in September 1985, and on or about September 20, 1985, measured levofloxacin's solubility to be 22,500 µg/ml. (Hayakawa Affidavit at paras. 41-42, 55-56, AR, v. 4, Tab 6, pp. 719-720, 723.)
+[27]
+In mid October, 1985, Dr. Kazuhisa Furuhama (a Daiichi toxicologist) conducted head to head acute toxicity tests and found that, for a group of five male mice intravenously injected at the 200mg/kg dose, for levofloxacin, there were no deaths, for ofloxacin, there were two, and for the (+)-enantiomer, there were three. At that time, Dr. Furuhama conducted further acute toxicity testing and determined the intravenous LD
+50
+value for levofloxacin in male mice to be 243.8 mg/kg. This was higher than the established LD
+50
+value for ofloxacin of 208 mg/kg, indicating levofloxacin to be less acutely toxic than ofloxacin. (Hayakawa Affidavit at paras. 59, 65-66, AR, v. 4, Tab 6, pp. 724-727; Kato Affidavit at paras. 15-17, AR, v. 10, Tab 14, pp. 2801-2802.)
+[28]
+Later, on or about December of 1985, Daiichi determined the absolute configuration of the levofloxacin molecule to be "S". (Hayakawa Affidavit, Ex. BB, p. DAI-0024054, AR, v. 5, Tab 7, p. 1324; <FRAGMENT_SUPPRESSED> Trial, above at para. 48.)
+[29]
+Work on process C began in the fall of 1985. This application disclosed that the absolute configuration of levofloxacin was "S", and also referred to its "higher ... solubility and weaker toxicity". (Hayakawa Affidavit at paras. 43-48, AR, v. 4, Tab 6, pp. 720-721; Klibanov Affidavit Ex: I p. 2, AR, v. 13, Tab 18, p. 3783.)
+(b) The Invention Date
+[30]
+At the <FRAGMENT_SUPPRESSED> Trial, Justice Roger Hughes, held that the date of invention was December 1985:
+"[50] It can be seen through this course of development that the final element of claim 4, determination of the S configuration, had been made by December 1985. I find therefore, that December 1985 is the relevant date of invention for consideration of issues as to inventive ingenuity and obviousness with respect to claim 4."
+( <FRAGMENT_SUPPRESSED> Trial, above at paras. 48-50.)
+Earlier litigation of this '080 patent
+[31]
+The Court has previously considered the validity of the '080 patent in an application brought by
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ). Apotex was not a party to this litigation.
+[32]
+In <FRAGMENT_SUPPRESSED> , above, Justice Richard Mosley of the Federal Court considered the '080 patent in the context of an application for prohibition brought by Janssen in response to an NOA filed by Novopharm. Novopharm sought to market a generic levofloxacin drug product in Canada and alleged, in the NOA, that the '080 patent was invalid for lack of novelty, obviousness, ambiguity, overbreadth and lack of sufficiency.
+[33]
+Justice Mosley dismissed this application. While he found that the previous patents did not provide all of the information a person of ordinary skill in the art would have required to come to the patent in question and that the patent was not ambiguous nor was the specification insufficient, he concluded that "beneficial properties discovered and set out in the '080 patent were not unknown." Furthermore, he concluded that the "knowledge of the existence of and the possibility of separating the two enantiomers of ofloxacin was common to the ordinary chemist, and the determination of which enantiomer possessed a greater amount of the same benefits of the previously known racemic antibiotic was not surprising or inventive." ( <FRAGMENT_SUPPRESSED> , above at para. 53.)
+[34]
+In the <FRAGMENT_SUPPRESSED> Trial, above, the Federal Court considered the proper construction of claim 4 of the '080 patent in the context of an action for patent infringement and validity.
+[35]
+Justice Hughes found that claim 4 of the '080 patent was valid and infringed as the defendant had failed to establish that the said claim was invalid on the basis of obviousness or lack of inventive ingenuity. Despite the fact that the claim does not address medical properties or uses, Justice Hughes found, at paragraph 96, that, where the compound is new, it is sufficient that its utility be set out in the specification. He also found that the prior art did not contain any direction that the enantiomers of ofloxacin would be more active than the racemate nor did it instruct the skilled person as to how to separate or produce an enantiomer; therefore, claim 4 of the patent was not anticipated. Moreover, Justice Hughes determined that levofloxacin was of sufficient "inventive ingenuity" to merit valid patent protection as set out in claim 4. Recognizing that his finding was different than that of Justice Mosley, Justice Hughes explains that he benefited from extensive evidence that was not previously presented and determined that Novopharm failed to establish that claim 4 was invalid on the basis of obviousness or lack of inventive ingenuity. ( <FRAGMENT_SUPPRESSED> Trial, above at paras. 96, 104, 115 and 116.)
+[36]
+The Federal Court of Appeal upheld Justice Hughes' decision. ( <FRAGMENT_SUPPRESSED> Appeal, above.)
+IV. Issues
+[37]
+This application raises the following issues:
+A.
+Is this application an abuse of process?
+B.
+Would Apotex' marketing of its levofloxacin tablets for oral administration in a dosage strength of 250mg, 500mg and 750mg infringe claim 4 of Janssen's '080 patent?
+C.
+If infringement is the case, are any of Apotex' allegations that the '080 patent is invalid, justified on the following bases:
+i) Anticipation
+ii) Obviousness;
+iii) Claims broader than the invention made and lack of sound prediction.
+D.
+Is Apotex' allegation that the '080 patent is void pursuant to paragraphs 40(1)(a) and (c) of the
+Patent
+Act
+, justified?
+V. Analysis
+Burden of Proof
+[38]
+In a proceeding under the Patented Medicines
+NOC Regulations
+, the first person has the burden of establishing that the allegations of infringement and invalidity contained in the NOA are not justified; however, because of the presumption of validity set out in subsection 43(2) of the
+Patent Act
+, R.S.C. 1985, c. P-4, the first person can meet the initial burden in respect of invalidity merely by proving the existence of the patent. (
+ <FRAGMENT_SUPPRESSED>  at para. 109, reving. (2005), 279 F.T.R. 164; 2005 FC 1205 (
+ <FRAGMENT_SUPPRESSED>  allegations of invalidity contained in its NOA "in play". To do so, the second person must adduce evidence which is not clearly incapable of establishing its allegations of invalidity. Hence, not only must the second person's NOA contain sufficient factual and legal basis for its allegations, but it must also adduce evidence of invalidity. Only once the second person has adduced sufficient evidence, on a balance of probabilities, does the first person have to establish on a balance of probabilities that allegations of invalidity are not justified. (
+ <FRAGMENT_SUPPRESSED>  patent that has previously been upheld in a prohibition proceeding, under section 6 of the
+NOC Regulations
+, must establish that it has provided either "better evidence or a more appropriate legal argument" than existed in the previous case. (
+ <FRAGMENT_SUPPRESSED>  at paras. 37-38, 50 (
+ <FRAGMENT_SUPPRESSED> ; 322 F.T.R. 86; 2008 FC 11 (
+ <FRAGMENT_SUPPRESSED>  legal argument, based solely on the reasons for judgment in a prior proceeding.
+[41]
+Better evidence:
+Apotex submits that the present case is distinguishable from the <FRAGMENT_SUPPRESSED> Trial in that the evidence in the present proceeding is different than the evidentiary record before Justice Hughes; however, it is for the evidence itself to be recognized and acknowledged for its inherent validity. It must be shown to be so, not simply told that it is so.
+[42]
+They submit that the evidentiary record at bar (unlike the evidentiary record in the <FRAGMENT_SUPPRESSED> Trial and <FRAGMENT_SUPPRESSED> cases) is that (1) Gerster's method was not only used as a model by Dr. Hayakawa, but that the same technique was used, including the use of the same reagents; (2) Gerster's method was not "inventive" as many other resolution techniques had been applied with success at the relevant time. For example, Justice Hughes recognized that Process A resulted in 100% optical purity, but this was a commercial chiral HPLC column bought from Sumitomo; (4) the '080 patent contemplated resolution and obvious equivalents; (5) no resolution method was claimed within the '080 patent; (6) Dr. Gerster provided evidence in this case that he only disclosed materials that were already considered routine and commonly known; (7) Daiichi was able to obtain levofloxacin at 83% optical purity, which may be considered to be in a "reasonably pure state" and capable of doing "its job for instance as an antimicrobial agent"; (8) the properties of increased activity, reduced toxicity and increased solubility were known and described in the prior art; (9) the Gerster 1985 disclosed the twofold increase in antimicrobial activity of the S(-)-compound over the racemate; (10) the activity/toxicity/solubility properties were expected and the "overall combination" of these properties does not exist for levofloxacin, because, with increased solubility, toxicity increases; (11) the Applicants assert that the invention relates only to antimicrobial activity; and (12) the Gerster 1982 is properly established as being prior art.
+( <FRAGMENT_SUPPRESSED> Trial, above at paras. 39, 43, 53, 95, 119 affd. <FRAGMENT_SUPPRESSED> Appeal, above at paras. 19-20;
+ <FRAGMENT_SUPPRESSED>  Partridge Cross Examination, AR, v. 23, Tab 33, q. 52, p. 7086.)
+[43]
+In response, the Applicants argue that Apotex has not provided better evidence as they raise substantially similar issues and evidence on obviousness and anticipation while asserting the same prior art.
+[44]
+More appropriate legal argument
+: Apotex submits that it has raised novel legal arguments that were not previously before the Court; however, the arguments may be based on different evidence but that does not necessarily make of "novel" arguments, better evidence, of itself. It contends that, contrary to the evidence that was previously before this Court (1) attention was given to enantiomers; (2) competitors were motivated to obtain levofloxacin; (3) properties of levofloxacin were expected; (4) there were many techniques to isolate or synthesize the enantiomers of ofloxacin; and (5) efforts of Daiichi were not extraordinary.
+[45]
+In response, the Applicants argue that the Federal Court of Appeal has already made a determination that the '080 patent is a valid patent, and Apotex is simply attempting to recontest the validity of the patent as a selection patent by recasting its argument under different headings.
+[46]
+Apotex argues that the Court has not previously considered the argument that levofloxacin itself is an anhydrate and, therefore, in producing a hemihydrate tablet, they will not infringe the '080 patent.
+[47]
+On appeal, the Federal Court of Appeal expressly found the '080 patent to be valid. It concurred with Justice Hughes' findings in the Federal Court that the patent was valid, that levofloxacin clearly demonstrated a special advantage and that Daiichi's work was more than mere verification. It was ultimately found that the patent was not obvious and that the Applicants had established utility. ( <FRAGMENT_SUPPRESSED> Appeal, and <FRAGMENT_SUPPRESSED> Trial, above.)
+[48]
+The Applicants submit that many, if not all, of Apotex' arguments have been considered by the Court in prior proceedings. In particular, it is apparent that the Court has previously considered whether the patent disclosure provides adequate information to support a finding that levofloxacin has an unexpected advantage over the prior art. Thus, it will be difficult for Apotex to assert that it has a "more appropriate legal argument". It will also be difficult for Apotex to argue it has better evidence on this point.
+The witnesses
+Janssen's Witnesses
+[49]
+Janssen tendered the affidavit of seven expert witnesses, all of whom were cross-examined:
+(a)
+Frank A. Bucci
+is an ophthalmologist specializing in ocular diseases including surgery of the eye. Dr. Bucci is the director of an eye surgery centre and has done thousands of surgical and other procedures related to the eye. Dr. Bucci has also lectured, given presentations and written extensively in the area of ophthalmology.
+(b)
+Alexander M. Klibanov
+is a professor of Chemistry and Bioengineering at Massachusetts Institute of Technology. He has researched, lectured and written extensively in the area of synthesis and evaluation of optically active compounds using enzymes.
+(c)
+Anne Langley
+is Associate Librarian and Adjunct Associate Professor of Chemistry at the Duke University Chemistry Library. She has extensive experience in researching information using a variety of resources and has written books, articles and reports on a range of library and information science topics including electronic resources from the scientific and engineering perspective.
+(d)
+Dr. Allan S. Myerson
+is the Provost and Senior Vice President and Philip Danforth Armour Professor of Engineering at the Illinois Institute of Technology, Chicago. He specializes in the area of crystallization and solubility and has written and taught extensively on the subject.
+(e)
+John J. Partridge
+has worked for the past 37 years in organic chemistry dealing with pharmaceuticals. He has extensive experience in drug discovery and development in the area of anti-infectives, including in the areas of antivirals, antibacterials such as cephalosporins and fluoroquinolones as well as antifungals.
+(f)
+Dr. Joseph V. Rodricks
+is a consultant in toxicology with focus in safety and human health risk assessment and a visiting professor at Johns Hopkins University, Baltimore, where he teaches courses in toxicology and risk analysis. He has lectured and written extensively in the area of toxicology.
+(g)
+Dr. Mark Philip Wentland
+is a Professor of chemistry and organic chemistry at Rensselaer Polytechnic Institution, Troy, N.Y. Dr. Wentland specializes in quinolones, a class of compounds that include those at issue. He was active in quinolones in the 1980's, a period in which the subject matter of the '080 patent was developed. Dr. Wentland was actively working as a medicinal chemist in the quinolone area at the relevant time in the early 1980's.
+[50]
+Janssen also filed the evidence of six fact witnesses. Dr. Furuhama and Hiroyoshi Kinpara were the only two that were not cross-examined:
+(a)
+Dr. Isao Hayakawa
+is one of the named inventors of the patent in suit. He joined Daiichi in 1969 and, in 1972, became involved in researching anti-infectives. In 1985, he became the Senior Researcher and the Pre-clinical Coordinator with respect to levofloxacin's product development.
+(b)
+Dr. Kazuhisa Furuhama
+is employed as a toxicologist at Daiichi Pharmaceutical Co. Dr. Furuhama was the scientist who conducted the toxicity screening tests for levofloxacin, which is the subject matter of Canadian Patent No. 1,304,080.
+(c)
+Paul Herbert
+is a senior partner at the law firm of Riches, McKenzie & Herbert LLP where he practices intellectual property. A qualified barrister and solicitor and registered patent agent in Canada, he is responsible for prosecuting the Canadian Patent Application Serial No. 512,000, filed on June 19, 1986, which issued on June 23, 1992 as Canadian Patent No. 1,304,080.
+(d)
+Dr. Michiyuki Kato
+is employed as a toxicological pathologist at Daiichi Sankyo Company, Limited. Dr. Kato worked in the Drug Safety Research Center of Daiichi Pharmaceutical Co. Ltd. at the time levofloxacin was developed, and is familiar with the toxicity screening tests for levofloxacin.
+(e)
+Hiroyoshi Kinpara
+is Group Manager, Supervising and Operation Group, Intellectual Property Department of Daiichi Pharmaceutical Co., formerly Daiichi Seiyaku Co. Mr. Kinpara had previously been the Assistant Manager of Daïchi of Seiyaku Company's legal department.
+(f)
+Michael I. Stewart
+is a senior partner at Sim & McBurney, a partnership of patent and trade-mark agents engaged in the preparation, filing and prosecution of patent, trade-mark, industrial design, integrated circuit and copyright applications in Canada and the Unites States of America. He is also a registered patent agent in Canada and the United States where he has gained extensive experience in obtaining patents in a wide range of technologies.
+[51]
+Janssen also provided the affidavits of
+Fumi Ishikawa
+and
+Phillip Schnell
+, Managers of TransPerfect Translation, mandated to review the translation of documents by linguists employed by TransPerfect Translation.
+Apotex' Witnesses
+[52]
+Apotex tendered the evidence of six expert witnesses, all of whom were cross-examined:
+(a)
+Dr. Neal Castagnoli
+is the Peters Professor of Chemistry Emeritus at Virginia Polytechnic Institute and State University. A principal focus of his research during the past 30 years has been concerned with the analysis of the relationship between chemical structure and biological activity, including toxicity.
+(b)
+Dr. Paul Erhardt
+is the Director of the Center for Drug Design and Development and Professor of Medicinal and Biological Chemistry at the University of Toledo. Dr. Erhardt's research in medicinal chemistry focuses on small molecular therapeutics, drug and formulation design. Dr. Erhardt's evidence addresses whether the '080 patent provides sufficient information to justify the selection of levofloxacin over ofloxacin on the basis of its unexpected properties.
+(c)
+Dr. Richard Kellogg
+is the former Dean of Chemistry at the University of Groningen, and is currently the Director of Syncom BV, a company he co-founded in 1988 that specializes in all aspects of organic synthesis. Dr. Kellogg has published widely in the fields of chiral compounds, their synthesis and separation.
+(d)
+Dr. Howard Leibowitz
+is the Sherwook J. and H. Lerene Tarlow Professor of Ophthamology at the Boston University School of Medicine. Dr. Leibowitz is a recognized expert in infectious disease of the eye and antimicrobial ocular medications. Dr. Leibowitz' evidence addresses the use of ofloxacin and levofloxacin in ophthalmic treatments.
+(e)
+Dr. Kurt Martin Mislow
+is the Hugh Stott Taylor Professor Emeritus Chemistry at Princeton University. Throughout his career, the dominant theme of his research has been the development of stereochemical theory with an emphasis on the study of molecular chirality in organic, inorganic and biochemical systems, including pharmaceutical agents.
+(f)
+Mr. Gerald O.S. Oyen
+is a partner of the firm Oyen Wiggs Green & Mutala LLP and has practiced in the area of patent law and other areas of intellectual property since 1967. Mr. Oyen provides evidence on the issues relating to deemed abandonment and patent prosecution practice.
+[53]
+Apotex also filed the affidavit of four fact witnesses. Dr. John F. Gerster was the only one to be cross-examined.
+(a)
+Ines Ferreira
+is an employee for Apotex' counsel's law firm. Her affidavit introduces a copy of the following: Notice of Allegation from Apotex Inc; Canadian Letters Patent No. 1,304,080; schedules A, B and C of the Notice of Allegation, the Notice of Application in the Court File No. T-214-03 dated February 7, 2003; the Notice of Application filed in Court File No. T-214-03 dated February 11, 2005; the Notice of Application filed in the Court File No. T-1029-05 dated June 13, 2005; pages 91 and 93 of the
+Canadian Law and Practice Relating to Letters Patent for Invention
+; page 30 of
+ <FRAGMENT_SUPPRESSED>  obtained from Health Canada as well as a copy of Zbinden, G. et al. Significance of LD
+50
+test for the toxicological evaluation of chemical substance.
+(b)
+Dr. John F. Gerster
+is a retired corporate scientist with 3M Pharmaceuticals (Riker Laboratories). Dr. Gerster's evidence relates to his poster presentation at the 1982 North American Medicinal Chemistry Symposium.
+(c)
+Michele S. Katz
+is an Associate with Welsh & Katz Ltd. Her affidavit introduces documents from the United States District Court of New Jersey and West Virginia for Civil Action No. 3:02-cv-02794-GEB-JJH and Civil Action 1:02-cv-00032-IMK-JSK inclusively.
+(d)
+Jordana Richmon
+is a law clerk  <FRAGMENT_SUPPRESSED> ' counsel's law firm. Her affidavit introduces as exhibits the Civil Docket Report for case 1:02-cv-00032-IMK-JSK in the U.S. District Court, as well as a copy of Document No. 541 to the Civil Docket Report with attachment.
+[54]
+Apotex also provided the affidavits of Huber, Iida, Liu, and Trippany.
+(a)
+Marie-Luise Huber
+is an employee of Babel Translations. She holds a Bachelor of Science (Honours), and a Registered Australian and New Zealand Trade Mark Attorney. Her affidavit introduces an English translation of European Patent Application EP 0,078,362 A2 and German Patent Application DE 3,543,513 A1.
+(b)
+Kazuhiko Iida
+is an employee of H. IIDA & Co., a chartered patent attorney's office in Japan. Kazuhiko Iida was asked to provide English translations of the three Japanese Patent Applications.
+(c)
+Xin Min Liu
+is an employee of Mornginside Translations and a former translator with the United Nations Chinese Translation Service and a contract translator of the US State Department. Xin Min Liu was asked to translate
+Synthesis and Structure
+Act
+ivities Relationship of Levofloxacin Analogues
+, Acta Pharmaceutica Sinica 34(3).
+(d)
+Jennifer Trippany
+is a manager at LinguaLinx Inc, a full service translation agency where she is responsible for coordinating translation projects.
+The '080 patent
+Laws of construction
+[55]
+A patent is construed from the perspective of the person skilled in the art to which the invention relates. The skilled person possesses the ordinary amount of knowledge incidental to that particular trade. ( <FRAGMENT_SUPPRESSED> , above at 523  <FRAGMENT_SUPPRESSED> .)
+[56]
+Person skilled in the art:
+The Applicants submit that the person skilled in the art of the '080 patent would be familiar with the principles and nomenclature of stereochemistry and would be aware that the '080 patent is directed toward the invention of a drug for use in humans to treat diseases.
+[57]
+In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes found that the person of ordinary skill would be "a person with at least a first level university education, and at least a few years of experience concerned with chemical compounds and deriving optically active compounds therefrom particularly in the area of compounds having medicinal uses." ( <FRAGMENT_SUPPRESSED> Trial, above at para. 90.)
+[58]
+Such a person would be familiar with the principles and nomenclature of stereochemistry and would be aware that the '080 patent is directed toward the invention of a drug for use in humans to treat diseases. The '080 patent specifically states that levofloxacin is "expected to be a very useful pharmaceutical agent as compared with the (±)-compound." (Wentland Afidavit at para. 45, AR, v. 31, Tab 45, p. 9866; Klibanov Affidavit at para. 24, AR, v. 12, Tab 17, pp. 3403-3404; '080 Patent p.2 In. 9-10; Hayakawa Affidavit Ex. A, AR, v. 4, Tab 6, p. 736.)
+[59]
+Claim Construction:
+The Applicants assert only claim 4 of the '080 patent against Apotex in this proceeding. As such, the first task of the Court is to construe claim 4 of the '080 patent from the perspective of the skilled addressee.
+[60]
+Claim construction precedes an assessment of infringement or validity. Claim construction is to be conducted purposively, in light of the patent as a whole, and not with excessive literalism. A patent is to be read through the eyes of a person of ordinary skill in the art, in an attempt to discern what the inventors of the patent intended. It must be read with a mind willing to understand, trying to achieve success and not looking for difficulties or seeking failure. (
+Whirlpool
+, above;
+Free
+World Trust
+, above at 1050.)
+[61]
+A person of ordinary skill in the art (POSITA) conducts the exercise as of the publication date of the patent. This exercise is conducted in a purposive and not overly literal manner that is fair and reasonable to the patentee and the public. Patent construction should be approached "with a judicial anxiety to support a really useful invention". (
+Free World Trust
+, above at para. 54;
+Whirlpool
+, above at 1089-1091  <FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> , above at 521  <FRAGMENT_SUPPRESSED> ; reference is also made to
+ <FRAGMENT_SUPPRESSED>  has already been construed by Justice Hughes, by Justice Mosley in a proceeding under the Patented Medicines
+NOC Regulations
+; and by Justice Irene M. Keeley in a United States action involving the U.S. 407 patent counterpart to the '080 patent (in which claim 2 corresponds to '080 claim 4). The Court, in each case, construed claim 4 (or its equivalent) to mean levofloxacin (or S(-) ofloxacin) in a way consistent with Justice Hughes' construction. ( <FRAGMENT_SUPPRESSED> , above at paras. 29-31;
+ <FRAGMENT_SUPPRESSED> d 713 (N.D. W. Va.), at 730.)
+[63]
+Claim construction is a matter of law. In the recent case of
+ <FRAGMENT_SUPPRESSED>  Court, it would require strong argument for a subsequent Court to come to a different result. (
+Procter &  <FRAGMENT_SUPPRESSED> ; 328 N.R. 149; 2004 FCA 393.)
+[64]
+In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes, has noted, turning to the construction of claim 4:
+"[94] ... S(-) Ofloxacin is what is clearly stated. It is different from that which is in racemic (±) Ofloxacin. Claim 4 addresses that which has been obtained from the racemic compound or through a process beginning not with Ofloxacin, but rather an intermediate compound. Purity is not stipulated, nor does it need to be. The S(-) compound is something which has been produced by techniques expected to give reasonably pure S(-) compound. We are told that the S(-) compound is expected to be a useful antimicrobial agent having greater antimicrobial properties than the racemic mixture while being less toxic and markedly more soluble.
+"[95] Thus, claim 4 is properly construed as:
+S(-) Ofloxacin, different from that contained in the racemate, obtained in a reasonably pure state.
+"[96] The claim does not address medical properties or uses, nor does it need to. Where the compound is new, it is sufficient that its utility is set out in the specification it need not be included in the claim. (
+ <FRAGMENT_SUPPRESSED>  (F.C.), at para. 82, affd. (2006), 46 C.P.R.(4th) 401 (F.C.A.))
+"[97] With this construction in mind, the issues as to validity must be addressed. They are those of anticipation, obviousness and ambiguity. It must be kept in mind that section 45 of the 'old'
+Patent
+Act
+provides that a patent is presumed to be valid in the absence of evidence to the contrary. The onus is on the Defendant to lead such evidence and persuade the Court on the balance of probability that claim 4 is invalid."
+Claim 4 of the '080 patent covers levofloxacin hemihydrate
+[65]
+In this case, Apotex contends that the active ingredient in their product is "levofloxacin hemihydrate" for which it claims to be a different chemical substance than that which is found in levofloxacin and which is not covered by claim 4; therefore, whether Apotex infringes claim 4 of the '080 patent depends entirely on the construction of claim 4 and more precisely if claim 4 includes within its scope both anhydrous levofloxacin and levofloxacin hemihydrate.
+[66]
+Dr. Klibanov states, at paragraph 51 of his affidavit, that "a POSITA would purposively construe Claim 4 of the '080 Patent to encompass both anhydrous levofloxacin (Example 11) and levofloxacin hemihydrate (Example 7). In other words, from inclusion of Examples 11 and 7 in the '080 Patent, a POSITA would clearly understand the intent of the inventors that Claim 4 should encompass both anhydrous levofloxacin and levofloxacin hemihydrate." Consequently, he explained that levofloxacin hemihydrate falls within claim 4 of the '080 patent, and, therefore, Apotex' proposed tablets will infringe these claims. Claim 4 is not restricted to a hydrated or non-hydrated form. The principal disclosure of the '080 patent explicitly teaches the production of levofloxacin hemihydrate at Example 7. (Klibanov Affidavit at paras. 43-51, 58-63, AR, v. 12, Tab 17, pp. 3411-3413, 3415-3416.)
+[67]
+As Dr. Klibanov further points out in his affidavit, Apotex explicitly acknowledges in its NOA, that Example 7 teaches levofloxacin hemihydrate:
+"Example 7 of European Patent Application No. 206,283 A2 describes the preparation and characterization of levofloxacin hemihydrate."
+European Patent Application No. 206,283 A2 ("EPA 283") is a foreign equivalent to the '080 patent (i.e., they share a common priority document). Further, Example 7 in the EPA 283 is identical to Example 7 in the '080 patent; both originate from an example in the first Japanese priority application. (Klibanov Affidavit at para. 50, AR, v. 12, Tab 17, p. 3413; NOA p. 8; Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, p. 3496; Klibanov Affidavit Ex. F p. 2-3, AR, v. 12, Tab 1,7 pp. 3712-3713.)
+[68]
+This Court finds that claim 4 includes within its scope both anhydrous levofloxacin and levofloxacin hemihydrate. This fact is supported by the '080 patent's disclosure, including the examples. Example 7 teaches levofloxacin hemihydrate, while Example 6 teaches anhydrous levofloxacin. The descriptions in the titles of Examples 6, 7 and 16 match the nomenclature and chemical name for the compound named in claim 4. Claim 17 includes the hemihydrate of all compounds of claim 2, including levofloxacin. Hence, claim 4, the compound claim for levofloxacin, would be understood in this context to include the hemihydrate. (Klibanov Affidavit at paras. 48-51, AR, v. 12, Tab 17, pp. 3412-3413; Castagnoli Cross at qq. 401-403, AR, v. 34, Tab 51, p. 10799; <FRAGMENT_SUPPRESSED> , above at paras. 128-129.)
+[69]
+After very careful consideration of the evidence given by both Dr. Klibanov and Dr. Richard M. Kellogg in construing claim 4 as they did, this Court finds that Apotex did not seriously consider the disclosure made within the '080 patent, although they took note of it, for all intents and purposes, they ignored it in interpreting the claim.
+[70]
+Recognizing the decision of Justice Hughes and the subsequent agreement of that decision voiced in the Federal Court of Appeal judgment, presided by Justice Karen Sharlow, claim 4 is construed as not placing any limitations on whether the compound is hydrated and to what degree:
+S(-) Ofloxacin, different from that contained in the racemate, obtained in a reasonably pure state.
+B. Is Apotex' allegation of infringement justified?
+Infringement of the '080 patent
+Legal principles
+[71]
+"There is no infringement if an essential element is different or omitted in the allegedly infringing device, but there may still be infringement if non-essential elements are substituted or omitted. For an element to be considered non-essential and thus substitutable, it must be shown either that on a purposive construction of the words of the claim it was clearly not intended to be essential, or that at the date of publication of the patent, the skilled addressee would have appreciated that a particular element could be substituted or omitted without affecting the working of the invention." (
+Free World Trust
+, above.)
+Application to the facts
+The specification of the '080 patent is sufficient
+[72]
+Apotex alleges that claims 2, 4, 6, 7, 8, 9, 12, 13, 14, 15, 16, 18 and 19 do not include within their scope the compound levofloxacin hemihydrate - the active ingredient contained within Apotex' tablets. Moreover, it contends that levofloxacin hemihydrate is a different chemical substance from levofloxacin. (NOA, p. 3495 AR.)
+[73]
+It further alleges, with respect to claim 2, that this claim does not include within its scope salts and hydrates of the class of compounds defined by general formula (VI). Additionally, the principal disclosure does not disclose salts or hydrates of the class of compounds defined by general formula (VI). As such, claim 2 and any claim dependent on it, namely, claims 7, 8 and 9 do not include within their scope the compound levofloxacin hemihydrate. (NOA, p. 3495 AR.)
+[74]
+Apotex alleges that claim 4 addresses the specific compound levofloxacin which does not include within its scope its hydrated forms, including the hemihydrate form, or its salt forms. In support of their construction, Apotex relies on Justice Mosley's decision in <FRAGMENT_SUPPRESSED> , above, wherein claim 4 was not construed as including within its scope the compound levofloxacin hemihydrate. (NOA, p. 3495 AR.)
+[75]
+Apotex does, however, admit in its NOA that the active ingredient in its tablets is levofloxacin hemihydrate. Apotex' allegation of non-infringement is, therefore, based solely on its submission that the hemihydrate form of levofloxacin is not covered by the claims of the '080 patent. (NOA at pp. 2, 7, Klibanov Ex. B, AR, v. 12, Tab 17, p. 3490-3495)
+[76]
+Dr. Kellogg admitted that if the Court construes claims 2 and 4 to cover levofloxacin hemihydrate, then Apotex will infringe those claims. This is the only basis for Apotex' allegation of non-infringement; therefore, if the Applicants' proposed construction of claim 4 is accepted by the Court, Apotex' allegation of non-infringement cannot be justified. (Kellogg cross at qq. 204, 210, AR, v. 47, Tab 70, p. 15203.)
+[77]
+Apotex' experts variously misconstrued claim 4: they improperly concluded that it does not cover levofloxacin hemihydrate. Dr. Neil Castagnoli did so as only claim 17 has the word hydrate in it; Dr. Erhardt considered that hydrates are not important since only a single claim (claim 17) mentions hydrates specifically; and Dr. Kellogg, did so as claims other than claim 17, as exemplified by claim 2, do not specifically mention the hydrate form and, thus, without considering the disclosure. (Castagnoli Cross at qq. 661-662, AR, v. 34, Tab 51, p. 10816; Erhardt Affidavit, paras. 36-37, AR, v. 34, Tab 52, p. 10861; Kellogg cross at qq. 195-200, AR, v. 47, Tab 70, p. 15202.)
+[78]
+A similar situation arose in
+ <FRAGMENT_SUPPRESSED> ; 326 F.T.R. 88; 2008 FC 500 (
+ <FRAGMENT_SUPPRESSED>  claims 11, 12 and 13 of the patent at issue depended on the construction of these claims, in particular, whether they covered the hydrated forms of the besylate salt of amlodipine. Justice Hughes found as follows:
+"[14] Here claims 11, 12 and 13 represent the claims at issue:
+11. The besylate salt of amlodipine.
+12. A pharmaceutical composition for use as an anti-ischaemic or anti-hypertensive agent, comprising a therapeutically effective amount of the besylate salt of amlodipine together with a pharmaceutically acceptable diluent or carrier.
+13. A tablet formulation for use as an anti-ischaemic or anti-hypertensive agent, comprising a therapeutically effective amount of besylate salt of amlodipine in admixture with excipients.
+"[15] These claims are simple and clear on their face and need no further analysis save for one issue raised by Pharmascience, that of hydration.
+. . . . .
+"[17] The claims, exemplified by 11, 12 and 13 and all others make no distinction as to whether the amlodipine besylate exists as an anhydrate, monohydrate or other hydrate form. The specification is of no assistance. Pfizer's expert Dr. McGinity, at pages 69-70 of his cross-examination said that he would understand that all forms of amlodipine besylate would be included. I so find as well, all forms of amlodipine besylate, anhydrous and hydrated are included in the claims."
+[79]
+Similarly, the construction proposed by Apotex' witnesses in this case - namely, that claim 4 does not cover levofloxacin hemihydrate - leads to the conclusion that the '080 Patent specifically teaches a skilled person how to avoid infringing claim 4 by explicitly teaching, by way of Example 7, a process to produce levofloxacin hemihydrate. To adopt the language of Justice Marc Nadon, this "view cannot be characterized as one ensuring the attainment of the inventor's intention, nor can it be viewed as a construction arrived at by a mind willing to understand and attempting to achieve success." (
+ <FRAGMENT_SUPPRESSED>  "Gillette Defence" arising out of the decision in <FRAGMENT_SUPPRESSED> . The classic statement of the defence is as follows:
+"... The defence that 'the alleged infringement was not novel at the date of the plaintiff's Letters Patent' is a good defence in law, and it would sometimes obviate the great length and expense of Patent cases if the defendant could and would put forth his case in this form, and thus spare himself the trouble of demonstrating on which horn of the well-known dilemma the plaintiff had impaled himself, invalidity or non-infringement."
+(
+ <FRAGMENT_SUPPRESSED>  (H.L.), at pp. 480 and 481.)
+[81]
+On this basis, Apotex argues that if the patent was to be read so widely as to encompass levofloxacin's hemihydrate, it would be invalid since the '840 patent not only disclosed levofloxacin but had already disclosed that its compounds achieved "more excellent antibacterial activity" and "low toxicity". In addition, the '840 patent had disclosed that the compounds of its invention had a high degree of water solubility as it states that these compounds could be administered by injection.
+[82]
+Justice Hughes concluded in the <FRAGMENT_SUPPRESSED> Trial that
+the '840 patent did not contain any direction that the enantiomers of ofloxacin would be more active than the racemate nor does it instruct the reader as to how to effect such separation or to produce an enantiomer
+. ( <FRAGMENT_SUPPRESSED> Trial, above as described in para. 104.)
+Conclusion
+[83]
+The Court concludes that Apotex' 250mg, 500mg and 750mg tablets would infringe Janssen's '080 patent.
+C. Are Apotex' allegations of invalidity justified?
+[84]
+Apotex contends that in the '080 patent, the Applicants have not disclosed any new property that was not previously known or disclosed in the prior art, especially in view of the '840 patent. They submit that the Applicants have merely repeated the same testing to verify the expected properties of levofloxacin. (Erhardt Affidavit, para. 92, AR, v. 34, Tab 52, p. 10876; Castagnoli Affidavit, para. 124, AR, v. 33, Tab 49, p. 10633.)
+[85]
+The Applicants argue that the invention of the '080 patent is "the S(-) enantiomer of ofloxacin and its analogues having excellent antimicrobial activity". While also asserting that the '080 patent is directed to the combination of higher activity, lower toxicity and higher solubility of levofloxacin.
+[86]
+To respond to Apotex' selection patent argument, it is significant to note that Dr. Klibanov has addressed in his affidavit:
+"94. ... There is no statement in the '080 Patent which indicates that it is a selection patent. Accordingly, this appears to be nothing more than a categorization of the '080 Patent by Apotex.
+"95. I am advised by counsel for the Applicants that a selection patent presumes there is aprior, enabling disclosure of a genus of compounds and that the selection patent relates to a selection of sub-group of the genus. As stated above, the '840 Patent
+would not enable a POSITA to directly extract or otherwise isolate either of the enantiomers from ofloxacin
+. Accordingly, it is my opinion that the '840 Patent does not provide an enabling disclosure of the S(-) enantiomer of ofloxacin. In the circumstances, the '080 Patent is not a selection patent, and all of the statements made on pages 20 and 21 of the NOA relating to selection patents are without foundation."
+(Klibanov Affidavit, paras. 94-95, AR, v. 12, p. 3430.)
+i) Anticipation
+[87]
+Apotex alleges that each claim of the '080 patent is anticipated by the prior disclosure of ofloxacin. Justice Hughes rejected a similar argument in the <FRAGMENT_SUPPRESSED> Trial and was upheld by the Federal Court of Appeal. Apotex relies only on the '840 Patent for this assertion. The relevant date for assessing anticipation is June 19, 1984, two years prior to the Canadian filing date. (NOA at p. 31; Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, p. 3519;
+Patent Act
+, s. 27(1), <FRAGMENT_SUPPRESSED> Trial, above at para. 108.)
+Legal principles
+The alleged anticipatory disclosure must, on its own, provide directions that would inevitably result in the invention claimed
+[88]
+The
+Patent Act
+requires that inventions be novel. A patent claim lacks novelty if its subject matter was disclosed to the public before the claim date and the skilled person was able to construct the invention on the basis of the disclosure and the then common knowledge.
+(
+Patent
+Act
+, ss. 2, 28.2(l)(b);
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145 ( <FRAGMENT_SUPPRESSED> ; 291 N.R. 168; 2002 FCA 216, at paras. 3, 4, 11-14, 17, 19-21;
+ <FRAGMENT_SUPPRESSED>  at paras. 146-160 (
+ <FRAGMENT_SUPPRESSED>  at paras. 14-17, 19-33, 48-49;
+ <FRAGMENT_SUPPRESSED>  at paras. 18-26 (
+ <FRAGMENT_SUPPRESSED>  at paras. 115-126;
+ <FRAGMENT_SUPPRESSED>  at paras. 14-22 (
+ <FRAGMENT_SUPPRESSED> , at paras. 47-50, affd. (1965), 46 C.P.R. 192 ( <FRAGMENT_SUPPRESSED> ; 2 A.C.W.S. 387 (F.C.T.D.), at para. 68.)
+[89]
+If practicing any aspect of the anticipating document would infringe the impugned claim, there is anticipation.
+(
+ <FRAGMENT_SUPPRESSED>  at paras. 20-23;
+ <FRAGMENT_SUPPRESSED>  at paras. 34, 50-53, 82-83, 87;
+Eli Lilly
+(2008), above at paras. 135-149, above;
+ <FRAGMENT_SUPPRESSED> , at 1378;
+Synthon BV
+, above, at paras. 19-33.)
+[90]
+There is no requirement that an anticipating document disclose only the invention in issue, and no other. In the chemical arts, a group of chemical compounds may be described individually, or with reference to a general formula and permitted substitutions.
+(
+ <FRAGMENT_SUPPRESSED>  at 304 (
+ <FRAGMENT_SUPPRESSED>  (H.L.), at 310;
+ <FRAGMENT_SUPPRESSED>  Trust
+, above, outlined the test for anticipation in Canada:
+"[26] The Solov'eva article was drawn to the respondents' attention by the appellant who cited it as prior art in the specification of the '361 patent itself. The legal question is whether the Solov'eva article contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, 'the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill' (H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th Ed. 1969), at pp. 126-27). In other words, was the information given by Solov'eva 'for [the] purpose of practical utility, equal to that given in the patents in suit'? (
+ <FRAGMENT_SUPPRESSED>  (Eng. C.A.), at p. 486:
+'A signpost, however clear, upon the road to the patentee's invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.'
+"The test for anticipation is difficult to meet:
+'One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.'
+(
+ <FRAGMENT_SUPPRESSED>  therefore, has two requirements, disclosure and enablement. The assessment of enablement allows the skilled addressee to use common general knowledge and routine experimentation, including "trial and error experiments to get it to work". "The person skilled in the art can correct obvious errors and is allowed to use common general knowledge and routine skills to achieve the invention".
+(
+ <FRAGMENT_SUPPRESSED> ; 375 N.R. 381; 2008 FCA 44;
+Synthon BV
+, above at paras. 14, 30-31, 38, 42, 64.)
+[93]
+Apotex alleges that the '840 patent should, in light of what the person skilled in the art at the time with respect to the known methods for separating racemates into enantiomers, and considering the 1985 Gerster poster , assist this Court to arrive at a finding of anticipation. Similarly, in the <FRAGMENT_SUPPRESSED> Trial, Novopharm argued an anticipation analysis should be based on the '840 patent in light of these teachings.
+Justice Hughes rejected this assertion, relying on the Supreme Court of Canada decision in
+Free World Trust
+, above:
+"[107] The Defendant argues that the phrases 'purely by mechanical skill' and 'produce the claimed invention without the exercise of any inventive skill' mean that if an ordinary person skilled in the art could bring to bear on the publication the understanding of the day and routine techniques of the day, from which the invention as claimed would result, there is anticipation. This is not the correct interpretation of the test for anticipation as set out by the Supreme Court of Canada.
+"[108] The Supreme Court test requires that the 'flag' be planted at the point of the claimed invention and that the direction as to how to arrive at that point must be so clear such
+that an ordinary person skilled in the art would in every case, without possibility of error, be led to that point. No such flag is planted and no such direction is given in either the '840 patent or the Daiichi publication. There is no anticipation of what is claimed in claim 4 of the Patent
+." (Emphasis added)
+(NOA p. 31; Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, p. 3519; reference is also made to
+Free World Trust
+, above at paras. 25-26, <FRAGMENT_SUPPRESSED> , above at 297  <FRAGMENT_SUPPRESSED> ,
+General Tire
+, above.)
+[94]
+The Federal Court of Appeal has emphasized that anticipation is a difficult test to meet. The recent
+ <FRAGMENT_SUPPRESSED>  In holding that the enantiomer patent was not anticipated by the earlier disclosure of the racemate, Justice Nadon, stated:
+"[83] The allegation of anticipation, in my view, is not justified. A claim to a specific chemical compound cannot be anticipated by a prior art reference which only teaches a broad class of genus of compounds into which the compound falls because the prior art reference does not give directions which inevitably result in the specific compound (see
+ <FRAGMENT_SUPPRESSED> ; [2006] F.C.J. No. 894) ..."
+(
+ <FRAGMENT_SUPPRESSED> ; 377 N.R. 9; 2008 FCA 108, at paras. 81-83 (
+ <FRAGMENT_SUPPRESSED>  clopidogrel (Plavix). The patent at issue claimed an enantiomer. Although the racemate had been previously disclosed, the prior art patent "did not specifically lead to the claimed invention. The processes disclosed only resulted in a racemate ..." (
+ <FRAGMENT_SUPPRESSED>  at para. 28 (
+ <FRAGMENT_SUPPRESSED>  SCC heard in April 2008 and currently under reserve)
+[96]
+ <FRAGMENT_SUPPRESSED>  European patent application that disclosed amlodipine and its pharmaceutically acceptable salts (including besylate). The Court agreed with the Applications Judge and held that the patent in issue was not anticipated:
+"[36] This is a difficult test to meet. The Applications Judge held that a person skilled in the art would not know why to select Besylate as one of the initial choices of salt, would not know whether it would form a salt of amlodipine in the solid state and would not know the particular properties of Besylate or their advantage for pharmaceutical formulation. As a result of these facts, he found that a person skilled in the art would not in every case and without possibility of error be led to the claimed invention. ..."
+(
+ <FRAGMENT_SUPPRESSED>  provide directions to produce levofloxacin
+[97]
+Apotex alleges in their NOA that each of the claims in issue of the '080 patent is anticipated, having been described in the Canadian Patent No. 1,167,840 more than two years before the filing of the '080 patent.
+[98]
+Apotex further asserts that the '840 patent, in disclosing ofloxacin, necessarily disclosed its enantiomers, including levofloxaxin.
+( <FRAGMENT_SUPPRESSED> Trial, above at para. 33, affd. <FRAGMENT_SUPPRESSED> Appeal, at para. 10; <FRAGMENT_SUPPRESSED> , above at paras. 97-98;
+ <FRAGMENT_SUPPRESSED>  N.R. 364 (H.L.), at 89-90; Castagnoli Aff. para. 50, AR, vol. 33, Tab 49, pp. 10613-10614; Klibanov Affidavit at para. 69, AR, v. 12, Tab 17, p. 3418; Mislow Affidavit at para. 24, AR, v. 48, Tab 77, pp. 15695-15696.)
+[99]
+The Applicants submit that the '840 patent discloses and claims racemic ofloxacin. It does not disclose the S(-) enantiomer (levofloxacin), its unexpectedly superior properties, or a process to produce levofloxacin. The production processes taught by the '840 patent necessarily result in only the racemate (ofloxacin). A skilled person, following the teachings of the '840 patent, would be able to produce the racemate, but not an enantiomer. (Klibanov Affidavit, paras. 69-74, AR, v. 12, Tab 17, pp. 3418-3421.)
+[100]
+The '840 patent does not mention stereochemistry. It discusses the racemic compound ofloxacin. Sophisticated chemical techniques are necessary to separate (i.e., resolve) ofloxacin into its enantiomers and it is impossible to manually separate ofloxacin into its S(-) and R(+) enantiomers. The '080 patent teaches that levofloxacin is not produced from racemic ofloxacin, but always from an intermediate. A skilled person following the teaching in the '840 patent and producing racemic ofloxacin would have gone too far and could not obtain levofloxacin. Dr. Kellogg, Apotex' witness, agreed that the '840 patent only deals with racemates. In his opinion, based on the '840 patent, a person of skill would attempt direct resolution of ofloxacin, as opposed to working with intermediate compounds. Such attempts were made by the inventors but proved unsuccessful. (Klibanov Affidavit, paras. 69-74, AR, v. 12, Tab 17, pp. 3418-3421; Kellogg Cross at qq. 250-251, 295-297, AR, v. 47, Tab 70, pp. 15205-15206, 15208.)
+[101]
+Dr. Kellogg agreed, on cross-examination, that the '840 patent only discloses processes to produce the racemate and that the details for the synthesis of a racemate will not produce a pure enantiomer. Dr. Kellogg also admitted that there are no instructions in the '840 patent that will lead a skilled person to the enantiomers. (Kellogg cross at qq. 234-238, 241-244, 252-254, 258-266, AR, v. 47, Tab 70, pp. 15204-15206.)
+[102]
+The Applicants submit that, when considering anticipation, one cannot "bring to bear" on the '840 patent the techniques and skills of the day; however, even if the common general knowledge on how to resolve enantiomers is permitted in an anticipation analysis, there were no routine techniques available in 1984 (or for that matter, 1985) that would enable a person of skill to resolve ofloxacin into its enantiomers. While there were techniques available to separate enantiomers generally, these techniques offered no assurance that a substantially optically pure enantiomer of a new racemate itself could be obtained, or even a substantially optically pure enantiomer of an intermediate. Dr. Kellogg admitted that he did not locate the three processes disclosed in the '080 patent to produce levofloxacin (Processes A, B and C) in any prior art reference. Even the Daiichi inventors took four years to obtain levofloxacin after first using these recognized techniques. (Kellogg cross at qq. 258.-266, AR, v. 47, Tab 70, p. 15206; Hayakawa Affidavit at para. 37, AR, v. 4, Tab 6, pp. 718-719; Klibanov Affidavit at paras. 83, 90-91, 98, AR, v. 12, Tab 17, pp. 3425-3426, 3429, 3431.)
+Conclusion
+[103]
+Justice Hughes determined, in the <FRAGMENT_SUPPRESSED> Trial:
+"[104] Neither the '840 patent nor the publication contain any direction that the optical isomers of Ofloxacin would be more active than the racemate nor do either instruct the reader as to how to effect such separation or to produce an [enantiomer].
+. . . . .
+"[108] The Supreme Court test requires that the 'flag' be planted at the point of the claimed invention and that the direction as to how to arrive at that point must be so clear such that an ordinary person skilled in the art would in every case, without possibility of error, be led to that point. No such flag is planted and no such direction is given in either the '840 patent or the Daiichi publication. There is no anticipation of what is claimed in claim 4 of the Patent."
+[104]
+Apotex has not provided this Court with any evidence that would justify a deviation from Justice Hughes' determination on this issue. Consequently, there is no anticipation of what is claimed in claim 4 of the '080 patent.
+ii) Obviousness
+Legal principles
+[105]
+To assess obviousness, the Court must consider the purported invention, keeping in mind that the skilled person is not a dullard but is rather a paragon of deduction and dexterity. The obviousness standard seeks to distinguish an inventive spark from the triumph of method.
+(
+Patent
+Act
+, ss. 2 & 3; <FRAGMENT_SUPPRESSED> , above at paras. 34-39, 45-46;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241 (F.C.A.), at 256 [ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 129 (T.D.), at paras. 87-93, affd. (2000), 253 N.R. 297; 7 C.P.R.(4th) 330 ( <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.); <FRAGMENT_SUPPRESSED> , above;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 368 (T.D.), at paras. 38-39;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 217 (T.D.), at 231-232, affd. (1989), 99 N.R. 198; 24 C.P.R.(3d) 289 (F.C.A.);
+Patent
+Act
+, s. 28.3;
+Whirlpool
+, above.)
+[106]
+The classic test for obviousness was set out by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , above:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[107]
+The Supreme Court of Canada has warned about setting too high a bar of inventive ingenuity. In <FRAGMENT_SUPPRESSED> , above, the claim in issue covered a process for the production of isohalothane, the inventive aspect of which was to react a monomer in a liquid phase rather than a gaseous phase. The Federal Court of Appeal held that the claim was invalid for obviousness, and stated: "I would not hazard a definition of what is involved in the requirement of 'inventive ingenuity' but, as it seems to me, the requirement of 'inventive ingenuity' is not met in the circumstances of the claim in question where the 'state of the art' points to a process and all that the alleged inventor has done is ascertain whether or not the process will work successfully." The Supreme Court of Canada disagreed and held the claim valid. In this respect, the Court held:
+"In my view this statement of the requirement of inventive ingenuity puts it much too high. Very few inventions are unexpected discoveries. Practically all research work is done by looking in directions where the 'state of the art' points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed the way ..."
+"Slight alterations or improvements may produce important results ..." and the "... patient searcher is as much entitled to the benefits of a monopoly as someone who hits upon an invention by some lucky chance or inspiration." ( <FRAGMENT_SUPPRESSED> , above; reference is also made to
+Canadian General Electric
+and
+American  <FRAGMENT_SUPPRESSED> .)
+[108]
+In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes set out a number of factors that he found were relevant to an obviousness assessment of claim 4 and which the Federal Court of Appeal found was a useful tool. ( <FRAGMENT_SUPPRESSED> Trial, at paras. 113-114; <FRAGMENT_SUPPRESSED> Appeal, at paras. 27, 41)
+[109]
+Applying the factors to be considered, as of the date of the invention which can be considered as December 1985, Justice Hughes held that the invention covered by claim 4 of the '080 Patent is not obvious. After considering all of the evidence, after a month-long trial, he determined:
+(a) The climate in the quinolone field at 1985 was to develop new drugs by substituting molecules onto core compounds. Chirality was only on the cusp of coming into serious contention and, at the time, little attention was given to enantiomers.
+(b) Only Daiichi was motivated to obtain the enantiomers of ofloxacin in its search for a better antibiotic (this, in itself, being motivated by a desire to secure broader patent protection for its ofloxacin invention). The evidence established that competitors and those in the scientific and academic communities showed no interest in this pursuit.
+(c) The properties of the individual enantiomers would not be predictable, particularly in 1985. One would have to produce the individual enantiomer and test it to determine whether it had one or more enhanced properties, and whether these outweighed the detrimental properties.
+(d) There was no obvious way to obtain the enantiomers of ofloxacin. Knowledge regarding the means for separating the enantiomers from the racemate was still in its infancy in 1985. The techniques were not yet considered mainstream or common.
+(e) The efforts Daiichi undertook to produce the enantiomers of ofloxacin were challenging.
+( <FRAGMENT_SUPPRESSED> Trial, above, at paras. 113-115; <FRAGMENT_SUPPRESSED> Appeal, above, at paras. 27, 41.)
+Application to the facts
+[110]
+Apotex' central argument in the present case is that the inventors were merely verifying predictable qualities of known compounds. They contend that an invention does not subsist in discovering the properties of a known composition or in applying routine methods to determine the characteristics of known compounds.
+(
+Patent
+Act
+, s. 2;
+Hughes & Woodley on Patents
+(2nd Ed. 2005), § 7 at 128;
+Fox Canadian Patent Law and Practice
+(4th Ed. 1969), at 90;
+Astrazeneca AB
+, above;
+Sharpe
+, above;
+ <FRAGMENT_SUPPRESSED>  at paras. 128-131,150-156;
+ <FRAGMENT_SUPPRESSED>  at paras. 72-79).)
+[111]
+This argument must fail because verification means
+confirming
+predicted or predictable qualities of
+known
+compounds that have
+already been discovered and made;
+therefore, one cannot "verify" unexpected and unpredictable properties of new compounds.
+(
+ <FRAGMENT_SUPPRESSED>  at para. 51, affd. (2004), 329 N.R. 374; 2004 FCA 413 (
+ <FRAGMENT_SUPPRESSED> ; 53 A.C.W.S.(3d) 163 (Gen. Div.), at 81, affd. (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.) (
+Bayer Aktiengesellschaft
+).)
+Prior Art
+[112]
+Before considering the question of obviousness, the Court must determine what can be considered as prior art. By definition prior art must have been publicly available before the invention date. There are two requirements that alleged prior art must meet to be considered "publicly available":
+(a) the art must be in the public domain; a publication that is private or restricted, for example, is not admissible as prior art for the purpose of an obviousness analysis; and
+(b) a skilled person conducting a reasonably diligent search must have been able to locate the art.
+[113]
+An obscure reference, even if publicly available, is not admissible as prior art if a skilled person would not have been able to locate it.
+(
+General Tire
+, above at 499-500;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (T.D.), at 47  <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> , above at 50.)
+(a) The Gerster Papers:
+[114]
+Apotex claims that Dr. John Gerster's 1982 poster publicly disclosed the fact that the (-)-enantiomer of flumequine is the more antimicrobially active of the two enantiomers, and, thus, more active than its racemate. Futhermore, the poster presentation at the North American Medicinal Chemistry Symposium between June 20 and 24, 1982, disclosed both a method for separating the enantiomers of racemic flumequine, which involved the use of an optically-active tosyl-proline intermediate (which is identified by the patentee as Process C of the '080 patent), and that the differential antimicrobial activity of the (-)-enantiomer was about 2 times greater than that of racemic flumequine and between 10 and 100 times greater than the (+)-enantiomer. (NOA, pp. 3511-3512 of AR.)
+[115]
+Moreover, Apotex alleges that the prior art also evidences the fact that, by May of 1985, the importance of the stereochemical configuration requirements for the same chiral centre present in flumequine and ofloxacin was established in the field. Additionally, by September 30, 1985, the person skilled in the art would have also been aware of the fact that the (S)(-)-enantiomer of yet another tricyclic fluoroquinolone antibiotic, S-25930, exhibited higher antimicrobial activity relative to its (+)-enantiomer or racemate. (NOA, p. 3512 of AR)
+[116]
+Apotex notes that, by the end of September of 1985, there had been a publication of an abstract and paper distributed at the posterboard presentation by Dr. Gerster at the 25th Interscience Conference on Antimicrobial Agents and Chemotherapy on the Stereochemical Aspects of the Antibacterial Activity of S-25930. The process disclosed by Dr. Gerster in this publication involved the use of an optically-active tosyl-proline intermediate, to resolve the enantiomers of ofloxacin. It further disclosed that the (S)(-)-enantiomer of a flumequine derivative, another tricyclic fluoroquinolone which is structurally similar to oflocaxin, was approximately twice as active as an antibacterial as the racemate (NOA, pp. 3511-3513 of AR.)
+[117]
+The legal question is whether the Gerster papers contain sufficient information to enable a person of ordinary skill and knowledge in the field to understand the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill. (
+Free World Trust
+, above at para. 26.)
+[118]
+At the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes found that the 1982 Gerster poster was not prior art for the purposes of an obviousness analysis:
+"[57] ... The evidence satisfies me that the poster was not published by way of distribution and could not have been found using a reasonably diligent search as of 1985. A public display for three hours at a scientific meeting does not mean that the poster has entered into the body of prior art of which a person skilled in the art could be said to possess or of which they could make themselves aware through a reasonably diligent search."
+( <FRAGMENT_SUPPRESSED> Trial, above at paras. 57-58.)
+[119]
+Nowhere did Dr. Gerster testify that, in fact, people stopped by to discuss his poster presentation, or that he distributed copies of the poster to any attendee, or indeed anyone. Dr. Gerster testified on cross-examination that the 1982 poster does not appear anywhere in the book of materials that was distributed to all conference attendees. He does not recall ever being asked by anyone outside his company for a copy of the 1982 poster. While he initially testified that later published papers referred to the 1982 poster, on cross-examination he admitted that all such papers referenced the abstract in the conference proceedings, not the Poster. (Gerster Cross pp. 9-10, 17, 22-28, AR, v. 45, Tab 66, pp. 14587-14689, 14691-14692; Gerster Affidavit para. 16, AR, v. 45, Tab 65, pp. 14460-14461; Partridge Affidavit at paras. 9-25, AR, v. 23, Tab 32, pp. 6816-6821.)
+[120]
+Recognizing that the 1985 paper was particularly relevant, "since Dr. Hayakawa saw it and copied it down with a view to trying out for himself the procedure disclosed before he determined that the (-) enantiomer of Ofloxacin had the S configuration", Justice Hughes concluded that "Hayakawa was the first to have recognized its utility and used it to his advantage. There is no evidence to suggest that Gerster or anyone else at the time applied that technique to Ofloxacin." ( <FRAGMENT_SUPPRESSED> Trial, above, para. 114)
+(b) Ofloxacin References
+[121]
+Apotex relies on the following Ofloxacin References for obviousness: the '840 patent, the '892 patent and the Osada article. The invention claimed in the '080 Patent is not obvious in light of the Ofloxacin references. The Ofloxacin references disclose only the racemate ofloxacin. That an enantiomer's molecular structure is similar to its racemate does not obviate the enantiomer compound. (
+ <FRAGMENT_SUPPRESSED>  testified on cross-examination that the enantiomers of ofloxacin are distinct from racemic ofloxacin. This is consistent with the Federal Court of Appeal's finding in the <FRAGMENT_SUPPRESSED> Appeal: "Each of the two enantiomers of a racemate is a different compound than the racemate, and may have different properties, including different medicinal properties." (Mislow Cross, q. 69, AR, v. 48, Tab 79, p. 15842; <FRAGMENT_SUPPRESSED> Appeal, above at para. 12.)
+[123]
+Levofloxacin is a fundamentally different compound from ofloxacin with superior properties. Levofloxacin is twice as potent, less toxic and ten times more water soluble than ofloxacin. Furthermore, as will be discussed below, levofloxacin could not be made by following prior art references - a new process to make levofloxacin had to be developed.
+(c) Other References
+[124]
+There are a number of other alleged prior art references that Apotex relies on as rendering the invention of the '080 patent obvious (collectively the "Other references"). As Dr. Klibanov states in his affidavit, the compounds disclosed in the Other references are even more structurally dissimilar from ofloxacin than flumequine. The information that is disclosed in the Other references would not allow a skilled person to reasonably expect that levofloxacin would have superior pharmacological properties as compared to the racemate. (Klibanov Affidavit at para. 129, AR, v. 12, Tab 17, pp. 3444-3445.)
+[125]
+The prior art references relied upon by Apotex demonstrate the limited knowledge available to a skilled person in June 1985 about the chirality of quinolones. None of the Ofloxacin references, Flumequine references or Other references, either alone or in combination, would have led a skilled person directly and without difficulty to the invention disclosed in the '080 patent, thus, levofloxacin and its unexpected beneficial properties.
+Climate in the relevant field and motivation at the time of the alleged invention
+(a) Racemic fluoroquinolones were not resolved
+[126]
+Quinolone Research was a highly competitive field
+: In the 1981-1985 time frame, quinolone research was a highly competitive field. A large number of pharmaceutical companies and researchers were devoting a substantial degree of effort to the development of fluoroquinolones. This was particularly fuelled by the development of norfloxacin, ciprofloxacin and ofloxacin, which demonstrated improved antibacterial properties, and attracted the attention of many prominent pharmaceutical companies in the world. (Wentland Affidavit at paras. 29, 36-41, AR, v. 31, Tab 45, pp. 9850, 9855-9865.)
+[127]
+No Generalized Expectation
+: There is no generalized expectation that the bulk of the activity of a racemic quinolone would reside in one enantiomer. Dr. Castagnoli stated emphatically that there
+will
+be a difference in biological outcome as a result of chirality; however, on cross-examination, he stated that the difference could be so small that it could not be measured. (Castagnoli Affidavit at paras. 100-102, v. 33, Tab 49, pp. 10626-10627; Castagnoli Cross at qq. 494-499, AR, v. 34, Tab 41, pp. 10805-10806.)
+[128]
+Dr. Wentland, the sole quinolone medicinal chemist in these proceedings, provided evidence that medicinal chemists did not follow a strategy of seeking enantiomers of racemic fluoroquinolones as of
+1985
+. Pharmaceutical companies during this time period focussed on identifying new appendages at various positions on the quinolone core. When asked, Apotex' experts deferred to Dr. Wentland on the views of a practising quinolone medicinal chemist in the relevant time period. (Wentland Affidavit at paras. 25, 29,43, AR, v. 31, Tab 45, pp. 9848-9850, 9865; Mislow Cross at qq. 189-192, AR, v. 48, Tab 79, p. 15849; Erhard Cross, q. 296, AR, v. 34, Tab 54, p. 10924.)
+[129]
+There are no reports of any of the numerous racemic quinolones being resolved into their enantiomers up until the priority date of June of 1985, with the exception of the Gerster 1982 abstract and two additional Gerster references, which both taught enantiomers of quinolones were not worthwhile. The Gerster 1982 abstract reported the resolution of flumequine by its inventor some ten years after the compound had been discovered. (Wentland Affidavit at para. 25, AR, v. 31, Tab 45, pp. 9848-9849; Wentland Cross at qq. 224-227, AR, v. 33, Tab 48, p. 10528; Klibanov Affidavit at paras. 114-117, AR, v. 12, Tab 17, pp. 3438-3439.)
+[130]
+Ofloxacin was disclosed in a Daiichi publication in October 1982
+.
+Despite the highly competitive field, no other researcher had obtained the enantiomers of any other racemic fluoroquinolone in this 32-month period between October 1982 and June 1985. (Wentland Affidavit at para. 44, Ex. V, AR, v. 31, Tab 45, pp. 9865-9866,10024-10031; <FRAGMENT_SUPPRESSED> , above.)
+(b) A skilled person would not expect chirality of methyl group to affect activity
+[131]
+The importance of the orientation of ofloxacin's chiral methyl group would not have been apparent to a POSITA, yet its orientation results in the dramatic and beneficial advantages of levofloxacin over ofloxacin. (Wentland Affidavit at paras. 61-66, AR, v. 31, Tab 45, pp. 9891-9895.)
+[132]
+Dr. Wentland's evidence is that a medicinal chemist working in the quinolone field subscribed to the induced-fit theory (over the lock and key theory), where the bacterial DNA gyrase target site would be flexible and able to recognize drugs of very diverse shapes. The practical result is that a medicinal chemist in the quinolone field did not believe a particular special orientation such as that of the methyl group to be so important. This is evident from the ability of the DNA gyrase enzyme
+target
+site to accommodate quinolones with substituents of different sizes, shapes and properties. (Wentland Affidavit at paras. 54-58, AR, v. 31, Tab 45, pp. 9876-9878.)
+(c) Properties of flumequine not predictive of ofloxacin
+[133]
+A skilled person, knowing the relationship between stereochemistry and antimicrobial activity in flumequine, would not have any expectation that these properties would apply to ofloxacin due to the highly unpredictable nature of quinolone structure-activity relationships. (Wentland Affidavit at paras. 45, 48-49, AR, v. 31, Tab 45, pp. 9866-9868.)
+[134]
+Flumequine and ofloxacin are structurally distinct
+: Flumequine and ofloxacin are structurally distinct compounds:
+[Diagram omitted - see printed version]
+[135]
+Dr. Klibanov highlighted major differences between these two compounds:
+(a)
+Substituent on the fluorinated ring
+: The difference in size of the hydrogen atom when compared with the methyl-piperazine substituent will cause flumequine and ofloxacin to interact in distinct ways with their intended biological targets, including that the N-methylated piperazine is an amine group that significantly changes the reactivity of the molecule. It would be expected that flumequine and ofloxacin would behave in unique ways and would have distinct properties.
+(b)
+Different core structures
+: Ofloxacin has an oxygen atom in the ring containing the chiral carbon atom. At the same position in flumequine is a carbon atom (in the form of a methylene group). Based on this substitution, one would expect the nature and properties of the two compounds to be fundamentally different.
+(Klibanov Affidavit at paras. 109-113, AR, v. 12, Tab 17, pp. 3435-3438.)
+[136]
+Dr. Wentland's evidence is that quinolones have a long-standing reputation for being unpredictable if modified. A medicinal chemist in the 1982-85 time frame would know that one cannot make predictions with reasonable certainty where there are changes either to (1) the core structure or (2) the substitution pattern. Flumequine has
+both
+a different core structure and substitution pattern than ofloxacin. As a result, a skilled person in 1985 could not have predicted that the effects observed with flumequine would also be seen with ofloxacin.
+"Despite all attempts to correlate the chemical structure of the new fluoroquinolones with activity and/or side effects, it seems likely that the optimum fluoroquinolone agent cannot be theoretically designed but has to be identified experimentally."
+(Wentland Affidavit at para. 52 (quoting
+Segev
+p. 35) and Ex. GG, AR, v. 31, Tab 45, pp. 9871-9875 and AR, v. 32, Tab 46, pp. 10219-10240.)
+(d) Other compounds teach away from importance of methyl group
+[137]
+The achiral (non-chiral) exo-methylene (or "3-Methylene") ofloxacin derivative synthesized by Daiichi showed comparable activity to ofloxacin. A skilled person would understand from these references that if a methyl group was present it would be difficult to predict what its optimal orientation would be, but that its orientation would not be critical. (Wentland Affidavit at para. 64, AR, v. 31, Tab 45, p. 9894; Hayakawa Affidavit at para. 51, AR, v. 4, Tab 6, p. 722.)
+[138]
+The Flumequine (Gerster) References did not encourage resolving enantiomers:
+Dr. Klibanov testified that the earlier Gerster references taught that it was not worthwhile to resolve quinolone racemates. "[T]he mixture of stereoisomers is generally conveniently used to obtain antibacterial action". Dr. Gerster's 1976 United States Patent No. 3,976,651 ("'651 Patent") states:
+"... Although it has been found that in
+some cases,
+one isomer
+may
+have more antimicrobial activity than another, sufficient activity is obtained with a compound containing a mixture of isomers so as to make isolation of the individual isomers unnecessary." (Emphasis added)
+(Klibanov Affidavit at paras. 115-117, AR, v. 12, Tab 17, pp. 3438-3439)
+[139]
+Dr. Gerster is a named inventor of both the '609 Patent and the '651 Patent. Both of these patents are listed among the Flumequine references relied upon by Apotex in support of its obviousness argument. Yet neither the '609 patent nor the '651 patent directs a skilled person to the invention in the '080 Patent As Dr. Klibanov has testified, these patents, in fact, teach a skilled person that it is not worthwhile to resolve a quinolone racemate into its individual enantiomers in search of a better antimicrobial. (Klibanov Affidavit at para. 117, AR, v. 12, Tab 17, p. 3439.)
+[140]
+The 1985 article co-authored by Dr. Stephen R. Rohlfing and Dr. Gerster (Rohlfing Article) compares various quinolones, including flumequine, ofloxacin and ciprofloxacin, against a specific bacterial strain, and discusses the 5-position and its relationship to potency (the 5-position is the location of the chiral carbon in flumequine, corresponding to the 3-position in ofloxacin). As ciprofloxacin is achiral, a skilled person would view this article as teaching away from quinolone enantiomeric resolution and instead to focus on substituents at that position as opposed to stereoconfiguration. Furthermore, the authors tested racemic compounds only; the authors did not obtain the enantiomers of flumequine and test them. (Klibanov Affidavit at paras. 118-120, AR, v. 12, Tab 17, pp. 3439-3441.)
+[141]
+As Dr. Wentland stated in cross-examination, the discussion about the 5-position in the Rolfing article is not in relation to the difference in potency between the enantiomers of flumequine. Rather, when the article speaks of the importance of the 5-position, it is referring to the fact that the various compounds under discussion share the common structural feature of having two additional carbon atoms attached at a certain place in the molecule. (Wentland Cross at qq. 162-163, AR, v. 33, Tab 48, p. 10524.)
+[142]
+In this context, a skilled person, seeing the 1982 Gerster abstract (or poster) would not say "I can apply this to ofloxacin!" and obtain the same increase in activity. In the absence of such an exclamation, a skilled person would not have an endpoint in mind (i.e., levofloxacin), and would not attempt to experiment with existing processes, including the Gerster 1982 process, to resolve ofloxacin into its enantiomers, disregarding the extent of experimentation required to adapt such processes to ofloxacin.
+Beneficial properties of levofloxacin are surprising and unexpected
+[143]
+As compared to ofloxacin, levofloxacin has improved solubility, higher activity, and lower toxicity. The superior properties of levofloxacin are inherent in the invention disclosed by the '080 patent. When assessing obviousness, a court must ask whether the
+invention is
+obvious to a skilled person in light of the prior art and common general knowledge. In this case, it is, therefore, necessary to ask whether levofloxacin
+and
+its unexpected properties would have been obvious to a skilled person, in June 1985. (
+ <FRAGMENT_SUPPRESSED>  at para. 124.)
+[144]
+It was not possible for Dr. Hayakawa's research team at Daiichi to directly resolve ofloxacin to isolate therefrom the S(-) enantiomer and the R(+) enantiomer:
+[Diagram omitted - see printed version]
+It was necessary for Dr. Hayakawa and his co-inventors to develop synthetic techniques for producing the S(-) enantiomer of ofloxacin - i.e., Processes A, B and C. (Klibanov Affidavit at para. 72, AR, v. 12, Tab 17, p. 3419; Klibanov Affidavit, Exhibit S, v. 13, Tab 18(S), p. 4013.)
+[Diagram omitted - see printed version]
+[145]
+Process A is a method for producing levofloxacin that involves optical resolution of a (±)-3,5-dinitrobenzoate compound into two optically active compounds using an appropriate method such as high performance liquid chromatography (HPLC). ('080 patent, p. 1, 1.1-8; Hayakawa Affidavit, Exhibit A, AR, v. 4, Tab 6(A), p. 741; Hayakawa Affidavit at paras. 29-40, v. 4, Tab 6, pp. 715-716.) Process B is a method for producing levofloxacin that involves using specific enzymes to asymmetrically hydrolyze racemic intermediates to obtain optically active intermediates that can be separated using an appropriate method such as high performance liquid chromatography (HPLC). ('080 patent, p. 12, 1.1-16, Hayakawa Affidavit, Exhibit A, AR, v. 4, Tab 6(a), p. 746; Hayakawa Affidavit at paras. 26-28, 41, 42, v. 6, pp. 714-715, 719-720.) Process C is a method for producing levofloxacin that involves using a compound known as N-tosyl-l-proline to obtain an intermediate that can be separated in optically active intermediates, using an appropriate method such as chromatography. ('080 patent, pp. 17, 1.7-18, 1.23; Hayakawa Affidavit, Exhibit A, AR, v. 4, tab 6(A), pp. 751-752; Hayakawa Affidavit at paras. 43-48, v. 4, Tab 6, pp. 720-721.)
+(a) Levofloxacin's improved antimicrobial activity was unexpected
+[146]
+As discussed above, a skilled person, having regard to the state of the art, including ofloxacin and flumequine, would not have known that the substantially optically pure S(-) enantiomer of ofloxacin would be significantly more active than the racemate or R(+) enantiomer.
+[147]
+A skilled person would not have been able to make predictions on the activity of the enantiomers of ofloxacin based on flumequine and other prior art. The skilled person would not have associated the chiral centre with any significant effect on activity. Instead, the '080 patent teaches that the chiral centre is critical to activity. (Wentland Affidavit at paras. 50-58, 60, AR, v. 31, Tab 45, pp. 9868-9878, 9890-9891.)
+[148]
+A skilled person would not know without testing whether levofloxacin had the same or different activity than the R(+) enantiomer and the racemate; nor without testing, would a skilled person be able to predict the magnitude of any difference in activity. (Klibanov Affidavit at para. 125, AR, v. 12, Tab 17, p. 3443.)
+(b) Levofloxacin's lower toxicity was unexpected and not predictable
+[149]
+Apotex alleges that the toxicity results described within the '080 patent are "not at all of practical significance for pharmaceutical formulation purposes." Apotex also suggests that the testing provided in the '080 patent was "inappropriate and/or did not demonstrate any significant difference between ofloxacin and levofloxacin." These allegations are not supported by the evidence and cannot be justified. (NOA p. 26, Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, p. 3514.)
+[150]
+In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes made the following statement in respect of toxicity:
+"[16] Consideration must be given to the risks of toxicity in the administration of antimicrobial substances. Much evidence was presented at trial as to the measurement of antimicrobial activity and of toxicity and the balancing of antimicrobial activity on the one hand and toxic effects on the other in administering various dosage levels of these substances. A drug must be effective, it must also be safe."
+[151]
+There was no expectation that the enantiomer having higher activity would also have lower toxicity
+: Dr. Rodricks, an expert in toxicology and safety evaluations, provided evidence that there was no expectation that one enantiomer of a racemic drug would be less toxic than the racemate. Indeed, no Apotex witness suggested that such an expectation existed. (Rodricks Affidavit at paras. 3-5, 57-58, AR, v. 24, Tab 34, pp. 7109-7110, 7128.)
+[152]
+Dr. Gerster's prior art references contain no information relating to the toxicity of flumequine's enantiomers relative to the racemate. In fact, a paper later published by Dr. Gerster in 1989 showed that the antimicrobial activity and toxicity of enantiomers of flumequine related compounds increased in parallel. As Dr. Rodricks testified, this finding is consistent with the common general knowledge at the date of invention that the relative toxicity of racemates and their enantiomers cannot be predicted. Another of Apotex's references, the
+Haley
+article from 1976, also showed that the more active enantiomer (of a racemic anesthetic compound), also had the highest toxicity. (Rodricks Affidavit at paras. 59-60, AR, v. 24, Tab 34, pp. 7128-7130.)
+[153]
+Dr. Hayakawa testified that he was surprised when he received the results of the mortality tests for levofloxacin because in his experience there was a trend that together with high antimicrobial activity came high toxicity. (Hayakawa Affidavit at para. 60, AR, v. 4, Tab 6, p. 725.)
+[154]
+Levofloxacin is in fact less toxic than ofloxacin
+: Once levofloxacin was finally made and available for testing, toxicity testing showed that levofloxacin was more active and
+less
+toxic than ofloxacin. In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes so found, based on substantially the same evidence of Dr. Rodricks now before the Court on this application. (Rodricks Affidavit at paras. 87-88, 93-94, 113-115, AR, v. 24, Tab 34, pp. 7140-7143, 7150-7151; <FRAGMENT_SUPPRESSED> Trial, above at para. 126.)
+[155]
+Dr. Rodricks' conclusion that it is 99.4% certain that the LD
+50
+'s of 208 mg/kg and 244 mg/kg for ofloxacin and levofloxacin are different and distinguishable, despite marginal overlap in the 95% confidence intervals, is based on the "likelihood ratio test", a statistical test specifically for this purpose. Confidence intervals are not for use in determining whether two different values are statistically, significantly different. (Rodricks Affidavit at para. 49, AR, v. 24, Tab 34, p. 7126; Rodricks Cross at q. 141, AR, v. 29, Tab 40, p. 9012.)
+[156]
+Confidence intervals for the LD
+50
+values are not reported in the '080 patent; however, it is not unusual for toxicologists to report LD
+50
+values without reference to confidence intervals, particularly in studies with small sample sizes. A POSITA would not have been surprised or confused to see a slight overlap in the confidence intervals of the LD
+50
+values given the size of Daiichi's levofloxacin study reported in the '080 patent (5 mice at each of the 4 doses). (Rodricks Affidavit at para. 33, AR, v. 24, Tab 34, pp. 7120-7121.)
+[157]
+Dr. Rodricks also conducted a "meta" analysis using all the acute toxicity studies done for levofloxacin, including data that was generated after the filing of the patent application, in comparison to ofloxacin (with the exception of a 380 value that was not comparable to the other data). The results showed that the meta LD
+50
+value for levofloxacin (254 mg/kg) is significantly
+different from
+ofloxacin (208 mg/kg) at the 95% confidence level (and that the confidence intervals of the two values do not overlap). (Rodricks Affidavit at paras. 85-87, AR, v. 24, Tab 34, pp. 7139-7141.)
+[158]
+Acute intravenous toxicity tests are relevant
+: Apotex alleges that the acute toxicity data in the '080 patent is not significant because pharmaceuticals are formulated at concentrations substantially lower than those used to test acute toxicity levels. According to Dr. Rodricks, however, this does not negate the importance of acute toxicity testing for screening compounds for pharmaceutical use. (Rodricks Affidavit at para. 14, AR, v. 24, Tab 34, p. 7114.)
+[159]
+Acute toxicity testing is frequently relied upon in the drug development process. Dr. Rodricks testified that a skilled person would understand that the data in the '080 patent is a positive indication that levofloxacin, as compared to ofloxacin, will be less toxic in humans; however, clinical trials are necessary to confirm toxicity in humans. (Rodricks Affidavit at para. 45, AR, v. 24, Tab 34, p. 7124.)
+[160]
+Acute i.v. toxicity studies are preferred over oral
+: Dr. Rodricks testified that the results of the acute oral one-dose lethality studies performed by Daiichi were confounded by absorption due to differing solubilities. Levofloxacin has a much greater solubility than ofloxacin. At lower doses - Daiichi did a range of studies looking at central nervous system toxicity - where both drugs would be in solution and readily absorbed, regardless of whether oral or i.v. administration is used; levofloxacin consistently demonstrated reduced toxicity. (Rodricks Affidavit at paras. 64-65, AR, v. 24, Tab 34, pp. 7131-7132.)
+(c) Levofloxacin's increased solubility was unexpected
+[161]
+Solubility is a significant property for a pharmaceutical. The evidence is that levofloxacin demonstrated a remarkable and highly unexpected tenfold increase in solubility over that of ofloxacin. (Bucci Affidavit at paras. 37, 43, AR, v. 1, Tab 2, pp. 41, 43-44; Myerson Affidavit at para. 34, AR, v. 22, Tab 30, p. 6592.)
+[162]
+When levofloxacin was obtained, the results of solubility testing were surprising. As of about September 20 1985, Daiichi had measured its solubility. Daiichi found that the solubility of levofloxacin was 22,500 g/ml, approximately ten times the solubility of ofloxacin. Daiichi's surprise was documented in contemporaneous research reports describing levofloxacin's increased solubility as "extraordinary". (Hayakawa Affidavit at paras. 55-56, AR, v. 4, Tab 6, p. 723; Hayakawa Affidavit Ex. Y at DAI-0024068, AR, v. 5, Tab 7, p. 1283.)
+[163]
+Levofloxacin's tenfold increase in solubility was surprising and unexpected
+: Dr. Myerson's evidence is that the differences in the relative solubility of levofloxacin and ofloxacin would have been unexpected, in June 1985, to a skilled person. Dr. Myerson explained that, in order to determine the relative solubilities of levofloxacin and ofloxacin, a skilled person would first have to determine (1) the stable form of ofloxacin (racemic crystal, conglomerate or solid solution), and (2) whether it was a monotropic system (in which one polymorph is the stable form at all temperatures) or enantiotropic system (in which the stability of the polymorphic forms changes with temperature). Without this information, it would be impossible to determine whether ofloxacin or levofloxacin would be more water soluble at a given temperature. (Myerson Affidavit at para. 32, AR, v. 22, Tab 30, pp. 6591-6592.)
+[164]
+Dr. Myerson further explained that this information still would not allow a skilled person to know the quantitative aspect of the relative solubility of ofloxacin and levofloxacin. Therefore, once a skilled person knew that levofloxacin was more soluble than ofloxacin, the skilled person would not know, and could not reasonably expect, that levofloxacin would be ten times more soluble than ofloxacin. (Myerson Affidavit at para. 33, AR, v. 22, Tab 30, p. 6592.)
+[165]
+The 1976 Repta article referred to by Apotex reported that an enantiomer, completely unrelated to levofloxacin, exhibited a fivefold difference in relative water solubility as compared to its racemate. The compound disclosed in Repta is not a quinolone and has no relationship to either ofloxacin or levofloxacin. The Repta article is not valid support for an expectation of a tenfold (or even a fivefold) increase in the solubility of levofloxacin as compared to ofloxacin. (Myerson Affidavit at paras. 36-38, AR, v. 22, Tab 30, pp. 6593-6594.)
+[166]
+The 1978 Liu and Hurwitz article similarly establishes a fivefold difference in relative water solubility between an enantiomer and its racemate. That compound, too, was completely unrelated to ofloxacin or levofloxacin. Importantly, this article noted that a fivefold difference in relative water solubility was at the upper boundary of what had been observed. As such, a tenfold difference in relative water solubility would be highly unexpected. (Myerson Affidavit, AR, v. 22, Tab 30.)
+[167]
+Dr. Myerson conducted a survey of the literature reporting the relative solubility of enantiomers and racemates available in 1985 that revealed only a very small number of enantiomers had even a 5-times increase in solubility over their corresponding racemates. Dr. Myerson's expectation was that a usual increase in solubility for an enantiomer compared with its racemate would be much less than tenfold. The Liu and Hurwitz article, relied on by Apotex, surveys the literature and gives a 5-times increase as its upper limit of observed results. (Myerson Affidavit at paras. 34, 38-39, AR, v. 22, Tab 30, pp. 6592-6594.)
+[168]
+Dr. Bucci, the Applicants' witness, testified that, in comparison to ofloxacin, levofloxacin's increased solubility had the double benefit of allowing the drug to be formulated at a higher concentration at the required neutral pH and of allowing it to better penetrate the corneal tissue. He further provided that levofloxacin's greater solubility and improved activity over ofloxacin is of great practical usefulness and significance for ophthalmic purposes, arising from levofloxacin's ability to better penetrate into ocular tissues and fluid. (Bucci Affidavit at paras. 37, 43, AR, v. 1, Tab 2, pp. 41, 43-44.)
+(d) Levofloxacin's Combination of the Three Beneficial Properties was Unexpected
+[169]
+The overall combination of the properties of levofloxacin
+, of
+increased activity
+,
+reduced toxicity
+, and
+increased solubility, in a single enantiomer could not be predicted
+.
+Apotex' expert Dr. Erhardt admitted this
+. As restated by Justice Hughes in the <FRAGMENT_SUPPRESSED> Trial:
+"[126] ... The S(-) form of Ofloxacin has increased antimicrobial activity, reduced toxicity and markedly high water solubility, giving it an expectation to be a very useful pharmaceutical agent. This statement is correct.
+To even find this distribution of attributes, namely, more of the beneficial properties and at least no more of the detrimental, was itself remarkable
+." (Emphasis added)
+(Wentland Affidavit at paras. 67-68, AR, v. 31, Tab 45, pp. 9895-9896; Klibanov Affidavit at para. 133, AR, v. 12, Tab 17, p. 3446; Erhardt Cross at qq. 67-69, AR, v. 34, Tab 54, pp. 10909-10910.)
+Conclusion
+Levofloxacin is inventive
+[170]
+In the <FRAGMENT_SUPPRESSED> Trial, Justice Hughes held that claim 4 of the '080 patent was inventive and a valid claim. His decision was upheld on appeal. In this application, the same issue is being raised along with the same prior art references and substantially the same evidence.
+( <FRAGMENT_SUPPRESSED> Trial, above at paras. 109-115; <FRAGMENT_SUPPRESSED> Appeal, above at paras. 23-45;
+ <FRAGMENT_SUPPRESSED>  above at 238-239  <FRAGMENT_SUPPRESSED> .)
+[171]
+The '080 patent's claim 4 is a compound claim, and encompasses all its properties, including those discovered after the filing of the patent. The case at bar is analogous to the amlodipine
+(Pfizer)
+case and the
+Bayer Cipro
+cases, wherein the besylate salt of amlodipine (claim 11), and ciprofloxacin (Claim 14, as produced by a particular process), were at issue.
+(
+ <FRAGMENT_SUPPRESSED> .)
+[172]
+Apotex' central argument is that the inventors were merely verifying predictable qualities of known compounds. This argument fails because verification means
+confirming
+predicted or predictable qualities of
+known
+compounds that have
+already been discovered and made; therefore, one cannot "verify" unexpected and unpredictable properties of new compounds.
+(
+ <FRAGMENT_SUPPRESSED>  new processes to produce levofloxacin because they were unable to obtain it from the racemate using the standard techniques of the day. The common general knowledge was, therefore, of no assistance in obtaining levofloxacin when applied to the teachings of the Ofloxacin references. (Hayakawa Affidavit at paras. 24-25, AR, v. 4, Tab 6, pp. 713-714.)
+[174]
+A skilled person who produced ofloxacin by following the teachings of the Ofloxacin references, would have been unable to directly extract or otherwise isolate levofloxacin. (Klibanov Affidavit at paras. 74, 90-91, 98-101, AR, v. 12, Tab 17, pp. 3421, 3429, 3431-3432.)
+[175]
+The test for obviousness is strictly applied and difficult to meet. Apotex' allegation that a skilled person would have been led
+directly and without difficulty
+from ofloxacin to levofloxacin cannot be justified. The test for obviousness is not whether it was "worth a try". It is significant to note that in the recent decision of the <FRAGMENT_SUPPRESSED> Appeal, the Federal Court of Appeal restated the test for obviousness in the following passage:
+"[28] I would also repeat the caution of Justice Hughes that catchphrases derived from this list or from the jurisprudence are not to be treated as though they are rules of law. I agree with the following comment of Justice Hughes from paragraph 113 of his reasons:
+'In this regard phrases such as "worth a try" and "directly and without difficulty" and "routine testing" have been used by the courts. It is not useful to use such phrases as they tend to work their way into expressions of law or statements of expert witnesses. Sachs, L.J., deprecated the coining of such phrases in
+ <FRAGMENT_SUPPRESSED>  at pages 211-12.'"
+(
+ <FRAGMENT_SUPPRESSED>  above.)
+[176]
+Based on the foregoing, this Court finds that the Respondent has failed to establish that claim 4 is invalid on the basis of obviousness or lack of inventive ingenuity. Consequently, the '080 patent was not obvious.
+iii) Claims broader than the invention made and lack of sound prediction.
+Legal principles
+[177]
+Patent claims may not exceed the invention that was made and must not exceed the invention described in the specification. The assessment of whether the claims exceed the invention made or disclosed is a question of fact, and requires the Court to construe both the disclosure and the claims based on the knowledge of a person of ordinary skill in the art. (
+ <FRAGMENT_SUPPRESSED>  49.)
+[178]
+The soundness of a prediction is a question of fact and is to be assessed based upon information and expertise available at the relevant time (i.e.: date of the patent application) (
+ <FRAGMENT_SUPPRESSED>  at para. 29; reference is also made to
+ <FRAGMENT_SUPPRESSED>  at paras. 98, 102, 103). To establish sound prediction, it is necessary to show: (a) a factual basis for the prediction, (b) an articulable and "sound" line of reasoning from which the desired result can be inferred from the factual basis, and (c) a proper disclosure. (
+ <FRAGMENT_SUPPRESSED>  deficient for failing to disclose any substantial advantage of any of its compounds (Kellogg Affidavit at paras. 38, 107, AR, vol. 47, Tab 69, pp. 15133, 15154.)
+[180]
+It contends that the '080 patent states that "compounds having the formula (X) are useful as intermediates for synthesizing an isomer of ofloxacin as well as other isomers of pyridobenzoxazine derivatives having excellent antimicrobial activity;" however, this statement does not teach an advantage of levofloxacin over ofloxacin ('080 patent, pp. 2, 1, 20-23, Ferreira Affidavit Ex. B, AR, vol. 35, Tab 55(B), p. 11031.)
+[181]
+Furthermore, Apotex asserts that the '080 patent does not describe the selected members of the invention as having substantial advantages in antimicrobial activity, toxicity or solubility properties. In particular, the specification does not state that the compounds of the general formula (VI) possess any advantageous properties. (Kellogg Affidavit at paras. 93-94, 105, AR, v. 47, Tab 69, pp. 15149-15150, 15153.)
+[182]
+Moreover, it notes that the '840 patent had already disclosed that its compounds achieved "more excellent antibacterial activity" and "low toxicity". In addition, the '840 patent compounds of its invention have a high degree of water solubility as it states that these compounds could be administered by injection. ('840 patent, p. 3, l. 5-8, p. 27, l. 2-3, Apotex Doc. 75, AR, v. 39, Tab 59(75), p. 12398, l. 5-8, p. 12422, l. 2-3; Kellogg Affidavit at para. 106, AR, v. 47, Tab 69, pp. 15153-15154.)
+[183]
+As such, Apotex submits that the '080 patent fails to teach the invention to which it purportedly relates. In addition, Apotex alleges that the inventors had not demonstrated the actual utility of levofloxacin as a special or substantially advantageous antimicrobial pharmaceutical agent relative to ofloxacin as of June 20, 1985, the date of the first priority application.
+[184]
+Whereas, it should be duly specified and continuously acknowledged that, on the basis of trial evidence, Justice Hughes held the invention date to be December 1985, recognizing that all three beneficial properties of levofloxacin
+were ascertained and the absolute configuration of levofloxacin ("S") determined
+. ( <FRAGMENT_SUPPRESSED> Trial, above at paras. 48-50.)
+Application to the facts
+[185]
+As of December 1985, the inventors had tested levofloxacin, obtained data establishing the beneficial properties, and determined its absolute configuration to be "S". (Hayakawa Affidavit at paras. 39, 55-56, 59 and Ex. BB, at DAI-0024054, AR, v. 4, Tab 6, pp. 719, 723-725 and AR, v. 5, Tab 7, p. 1324.)
+[186]
+The Federal Court of Appeal has held twice that the material date for determining sound prediction is not the priority date; rather it is the Canadian filing date, which here is June 19, 1986. (
+ <FRAGMENT_SUPPRESSED>  patent and the utility of the invention. Apotex states in its NOA that the "reported in vitro antimicrobial testing was but a single test relied upon in an attempt to predict levofloxacin's utility - that it would be a very useful pharmaceutical agent as compared with ofloxacin"; however, the '080 patent merely states that it is "expected" that levofloxacin will be a very useful pharmaceutical agent as compared to ofloxacin. Justice Hughes eloquently summarized the utility of claim 4 in the <FRAGMENT_SUPPRESSED> Trial:
+"[126] ... What the Patent asserts, at the end of the day, is set out at page 2. The S(-) form of Ofloxacin has increased antimicrobial activity, reduced toxicity and markedly high water solubility, giving it an expectation to be a very useful pharmaceutical agent. This statement is correct. To even find this distribution of attributes, namely, more of the beneficial properties and at least no more of the detrimental, was itself remarkable."
+D. Is the '080 patent void pursuant to paragraphs 40(1)(a) and (c) of the Patent
+Act
+?
+[188]
+Apotex alleges that the '080 patent is void pursuant to paragraph 40(1)(c) on the basis that: (1) the Applicant's agent failed to respond to an office action requesting particulars of interference proceedings involving the equivalent United States patent resulting in abandonment of the application; and (2) by so doing the Applicants breached their duty of candour with the Commissioner of Patents. (NOA p. 33-34, Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, pp. 3521-3522.)
+[189]
+Apotex also alleges that the '080 patent is void pursuant to paragraph 40(1)(a) on the basis that: (1) the Applicant's agent failed to provide complete particulars of the prior art cited in the corresponding United States and European Patent Office applications resulting in abandonment of the application; and (2) by so doing the Applicant breached its duty of candour with the Commissioner of Patents. (NOA p. 34-36, Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, pp. 3522-3524.)
+The relevant legislation and its interpretation
+[190]
+Subsection 30(1) of the
+Patent
+Act
+is relevant to Apotex' allegations at pages 33 to 36 of its NOA. That section states:
+"Each application for a patent shall be completed within twelve months after the filing of the application, and in default thereof, or
+on failure of the applicant to prosecute the application within six months after any examiner,
+appointed pursuant to section 6,
+has taken action thereon on which notice has been given to the applicant, the
+application shall be deemed to have been abandoned
+." (Emphasis added)
+"Chaque demande de brevet doit être complétée dans un délai de douze mois à compter du dépôt de la demande, à défaut de quoi,
+ou sur manquement du demandeur de poursuivre sa demande dans les six mois qui suivent toute action que l'examinateur
+, nommé conformément à l'article 6,
+a prise concernant la demande et dont avis a été donné au demandeur, une telle demande est tenue pour avoir été abandonnée
+."
+[191]
+The meaning of "action" and "prosecute the application" are important to understanding section 30(1). Section 45 of the
+Patent Rules
+, C.R.C., 1978, vol. XIII, c. 1250 reads:
+"(1) In this section and in sections 46 to 49,
+'action' means a report of an examiner making a requirement upon the applicant.
+"(2) The Commissioner shall give written notice to the applicant of the grounds of an action taken by the examiner, which notice and action may be withdrawn by the Commissioner by giving written notice to the applicant of such withdrawal.
+"(3) An application shall be deemed to be prosecuted after an action thereon by an examiner only when, in
+answer to the action, the applicant makes a bona fide attempt to advance the application to allowance.
+" (Emphasis added.)
+"(1) Dans le présent article et dans les articles 46 à 69, le mot
+'décisions' signifie le rapport d'un examinateur qui impose une exigence au demandeur
+.
+"(2) Le commissaire doit aviser le demandeur par écrit des motifs qui ont inspiré la décision de l'examinateur, et le commissaire peut se désister de cet avis et de cette décision en donnant avis par écrit au demandeur d'un tel désistement.
+"(3) Après qu'une demande a fait l'objet d'une décision de l'examinateur, ladite demande n'est censée être poursuivie que lorsque, en réponse à la décision rendue, le demandeur tente de bonne foi de faire accepter sa demande."
+[192]
+The requirements of a patentee during prosecution are d' errant under the current
+Patent
+Act
+: Apotex' witness, Mr. Oyen, conflates the obligations required of a patentee or agent during patent prosecution under the old and current
+Patent
+Act
+s
+. The two
+Acts
+contain different rules in this respect, as Mr. Oyen admitted on cross-examination. While the current
+Act
+obligates an applicant to reply in good faith to every requisition made by an examiner, the old
+Act
+merely required an applicant to make a bona fide attempt to advance a patent application to allowance as a whole. These requirements are clearly different and should be interpreted as such. Under the old
+Act
+, provided that the applicant made a genuine attempt to advance the application as a whole to allowance - not necessarily in response to any specific requirement - the application is deemed to be prosecuted, and there is no abandonment. (Stewart Affidavit at paras. 14-16, AR, v. 29, Tab 42, p. 9065; Oyen Cross at qq. 113-120, AR, v. 51, Tab 82, p. 16849;
+Patent
+Act
+, s. 30(1);
+Patent Rules
+, Rule 45;
+Patent
+Act
+, s. 73.)
+(a) There was no breach of paragraph 40(1)(c) of the Patent Rules
+Rule 40(1)(c) of the Patent Rules
+[193]
+The examiner's July 14, 1989 Official Action made 8 requirements of the Applicant. There is no issue that the Applicant fully answered 7 of these requirements within the required time. This in itself constitutes a bona fide attempt to advance the application to allowance. (Stewart Affidavit at paras. 20-28, AR, v. 30, Tab 43, pp. 9066-9068.)
+[194]
+The Applicant's patent agent, Mr. Herbert, innocently and inadvertently failed to answer the examiner's eighth requirement - to advise of the existence of any US interference proceeding - within the time to respond to the Office Action; however, the bona fides of his response is shown by the fact that he did notify the examiner of the interference by telephone prior to the examiner issuing the notice of allowance. Mr. Oyen agreed that there was nothing wrong with Mr. Herbert's practice of notifying the examiner by telephone rather than by letter. While Mr. Oyen initially opined that failure to disclose the interference changed the course of the Canadian application, he later admitted on cross-examination that this was based on his own speculation and not on any fact. (Herbert Affidavit at paras. 26-29, AR, v. 6, Tab 9, pp. 1528-1529; Oyen Cross qq. 204-207, AR, v. 51, Tab 82, p. 16854)
+[195]
+Mr. Oyen admitted that his opinion that the application was abandoned is based solely on personal practice and he cannot reference any guidelines, practice directions, rules, regulations or the Manual of Patent Office Practice to support his opinion. There is nothing in the
+Patent
+Act
+or
+Patent Rules
+that supports his opinion that every requirement in an office action must be responded to in order to constitute a bona fide attempt to advance the application to allowance. There is also nothing in the
+Patent
+Act
+or
+Patent Rules
+that supports his exercise of prescribing weight to each requirement raised by an examiner in an Office Action. (Oyen Cross at qq. 99-112, 125-127, 153, AR, v. 51, Tab 82, pp. 15848-16849, 16851.)
+[196]
+Mr. Oyen agreed on cross-examination that, where several requirements are included in an Office Action and one of those requirements is not answered, it could still be considered a bona fide attempt to advance the application. He agreed that if an inadvertent failure to respond to an Office Action necessitated a finding of no bona fide attempt to advance the application, the effect would be to the eviscerate all meaning from the "bona fide" element of the requirement. This is exactly the circumstance at issue in this application: an agent inadvertently did not respond to one of eight requirements in an Office Action within the time period prescribed, but did so later. Mr. Oyen also agreed that it is the examiner who makes a subjective decision on the bona fides of a response to an Office Action. (Oyen Cross at qq. 131-134, 176-179, AR, v. 51, Tab 82, pp. 16849-16850, 16852; Herbert Affidavit at para. 26, v. 6, Tab 9, p. 1528.)
+(b) There was no breach of paragraph 40(1)(a) of the Patent Rules
+[197]
+Rule 40(1)(a) of the
+Patent Rules
+, then in force, provided:
+"An examiner may require an applicant of any Canadian application to furnish any of the following information relating to any corresponding application that may have been filed, in any country specified by the examiner, on behalf of the applicant or on behalf of any other person claiming under the inventor named in the Canadian application:
+(a) prior art cited
+against
+the applications;" (Emphasis added)
+"Un examinateur peut exiger d'un demandeur qui présente une demande au Canada de fournir l'un ou l'autre des renseignements suivants ayant trait à toute demande correspondante pouvant avoir été déposée, dans tout pays spécifié par l'examinateur, au non du demandeur ou de toute autre personne revendiquant au nom de l'inventeur désignée dans la demande au Canada:
+a) les antériorités citées en opposition auxdites demandes;"
+Here, "cited against" was understood to mean at the relevant time, that the reference was applied by another Patent Office against the subject matter of a claim in that application. (Stewart Affidavit at paras. 47-48, AR, v. 29, Tab 42, pp. 9074-9075; Herbert Cross at qq. 129-132, AR, v. 6, Tab 10, pp. 1740-1741.)
+[198]
+At the time, the Applicant filed its June 8, 1989 response, there were only five prior art references cited against the corresponding US application and three cited against the European application. Mr. Herbert disclosed all of these to the examiner in his June 8, 1989 response. (Stewart Affidavit at paras. 50-56, AR, v. 29, Tab 42, pp. 9075-9078.)
+[199]
+Mr. Oyen agreed on cross-examination that it was sufficient to provide the examiner with citations to requests for prior art; it was unnecessary to provide the documents themselves. While his opinion in his affidavit was that providing particulars of an abstract of a cited article is not tantamount to providing particulars of the cited article, he admitted on cross-examination that the citations for the full articles had in fact been provided to the examiner. Mr. Oyen further agreed that the Gerster 1987 article that had been cited in the US application was not prior art in respect of the eight claims pending before the Canadian examiner when he issued the February 23, 1989 Office Action (and was, therefore, not citable against these eight claims). Mr. Oyen, therefore, agreed that the response of the patentee, dated June 8, 1989, was correct and complete.
+"Q. So on June 8, the June 8, '89 response filed by the applicant, was complete insofar as setting out prior art that was citable against the claims pending before the Examiner when the Official Action was issued, correct?
+A. Yes."
+(Oyen Cross at qq. 226-241, 251-254, AR, v. 51, Tab 82, pp. 16855-16857.)
+(c) The Applicant and its agents acted in good faith
+[200]
+Apotex states that as a result of alleged breaches of paragraphs 40(1)(a) and 40(1)(c) of the
+Patent Rules
+, the Applicant breached a duty of candour which renders the '080 patent void. (NOA at pp. 33-36; Klibanov Affidavit, Ex. B, AR, v. 12, Tab 17, pp. 3521-3524.)
+[201]
+It is clear that there is no express duty of candour contained in the
+Patent
+Act
+or the
+Patent Rules
+and that the word "candour" does not even appear in this legislation. While a duty of candour and good faith exists during the prosecution of patent applications in the United States Patent Office, a similar duty does not exist in Canada. The facts alleged by Apotex in its NOA are addressed by subsection 30(1) of the
+Patent
+Act
+and paragraphs 40(l)(a), 40(1)(c) and section 45 of the
+Patent Rules
+. There is no basis in Canadian law for the separate allegation of breach of candour put forth by Apotex. As the Federal Court of Appeal stated in
+ <FRAGMENT_SUPPRESSED>  jurisprudence already require. Furthermore, even if the duty of disclosure had been extended as suggested by counsel, the impact of the extension would be felt not at the level of the validity of the patent but at the level of the remedies where equitable considerations might come into play." (Stewart Affidavit paras. 68-70, AR, v. 29, Tab 42, p. 9081;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 221 (F.C.A.), at 231-232  <FRAGMENT_SUPPRESSED> , affing. (1998), 141 F.T.R. 268; 80 C.P.R.(3d) 1; 78 A.C.W.S.(3d) 373 (T.D.).)
+Conclusion
+[202]
+Even if such a duty were to be implied, there is nothing in the prosecution of the '080 patent to suggest that the Applicant failed to act with candour and in good faith. The agent acting on behalf of the Applicant during prosecution of the '080 patent, Mr. Herbert, provided evidence that it was his standard practice to respond in full to examiner's reports and requests made from CIPO. Mr. Herbert described his omission as "unintentional" and "inadvertent". In the circumstances, his actions cannot be described as lacking candour or good faith. (Stewart Affidavit at para. 70, AR, v. 29, Tab 42, p. 9081; Herbert Affidavit at para. 26, AR, v. 6, Tab 9, p. 1528.)
+"An examiner may require an applicant of any Canadian application to furnish any of the following information relating to any corresponding application that may have been filed, in any country specified by the examiner, on behalf of the applicant or on behalf of any other person claiming under the inventor named in the Canadian application:
+(a) prior art cited
+against
+the applications;" (Emphasis added.)
+"Un examinateur peut exiger d'un demandeur qui présente une demande au Canada de fournir l'un ou l'autre des renseignements suivants ayant trait à toute demande correspondante pouvant avoir été déposée, dans tout pays spécifié par l'examinateur, au non du demandeur ou de toute autre personne revendiquant au nom de l'inventeur désignée dans la demande au Canada:
+a) les antériorités citées en opposition auxdites demandes;"
+VI. Conclusion
+[203]
+Subsequent to all considerations, on every issue raised, in this NOC proceeding, no demonstration has been made as to invalidity nor infringement. Recognition is given to the previous Federal Court Trial and Federal Court of Appeal proceedings that had, in effect, exhausted all analysis of the asserted '080 patent claims. No better evidence, nor more appropriate legal argument, has been submitted in the present proceeding.
+[204]
+The Applicants are thus granted the prohibition order for which they applied.
+VII. Abuse of Process Analysis and Conclusion
+Legal Principles
+[205]
+When all has been said and done on the basis of the entire record, although counsel for the Respondent could not have worked more arduously and creatively, on behalf of their client, one issue still remains, that of abuse of process as raised by the Applicants. Subsequent to all of the above analysis, the Court does agree with the Applicants' argument on the abuse of process. Although a balance must be struck in recognition that a patent is an exceptional privilege to hold a monopoly in a climate of competition; due to that privilege, an abuse of process in such matters is rarely raised to ensure that valid arguments against a monopoly are not silenced.
+[206]
+A key concern, nevertheless, remains to preserve the integrity of the adjudicative process in a context where a party attempts to relitigate issues already determined. Relitigation does not render a more accurate result if, in fact, it appears obvious and anticipated; it simply becomes a waste of resources of the Court and of the parties in addition to creating a hardship for certain witnesses. (
+ <FRAGMENT_SUPPRESSED>  argument, "conclusively impeaches" the original result. That is where the "better evidence" in the second case can be capable of different interpretations. In such a case, "it would be far preferable to observe the witness at trial". (
+ <FRAGMENT_SUPPRESSED>  recognize that the generic is not without remedy - it can always initiate specific proceedings, in the appropriate circumstances, to challenge a patent. (
+ <FRAGMENT_SUPPRESSED>  basis is to ask whether the second proceeding has any "additional evidence" or "more appropriate legal argument". (
+ <FRAGMENT_SUPPRESSED>  matter
+in direct regard
+, the resulting precedent from the Court of higher instance concludes the matter for this Court.
+Construction
+[211]
+Claim 4 has already been construed to include levofloxacin hemihydrate. In the application under the Regulations in T-2l4-03, Justice Mosley specifically rejected the argument that "the S(-) optical isomer of ofloxacin in a substantially pure form -- means water cannot exist in the compound form", and found that levofloxacin hemihydrate would infringe claims 2 and 17. ( <FRAGMENT_SUPPRESSED> , above at paras. 127-128.)
+[212]
+Justice Mosley's construction of claim 2 which includes the hemihydrate form also applies to claim 4. (Reference is made to paragraphs 65-70 above.)
+[213]
+Apotex' only argument to overcome this construction is that claim 4 is unambiguous and hence no recourse should be made to the rest of the patent where information is provided (in example 7, claims 17, 2) to inform that levofloxacin includes levofloxacin hemihydrate. The Court of Appeal in regard to this patent, however, has found that "construction ... must be based on the whole of the disclosure and the claim" ( <FRAGMENT_SUPPRESSED> Appeal, above at para. 4.)
+[214]
+This Court, when considering abuse principles, has found that - regarding construction, particularly if the Federal Court of Appeal has construed the patent, it would require better evidence and more appropriate legal argument for a lower Court to come to a different result. (
+Pfizer  <FRAGMENT_SUPPRESSED>  at para. 16.)
+Infringement
+[215]
+Apotex' compound, like Novopharm's, is levofloxacin hemihydrate. Novopharm was found to infringe claims to levofloxacin hemihydrate. Claim 4 is such a claim. ( <FRAGMENT_SUPPRESSED> , above at paras. 128-129; Apotex's written representations at paras. 25-36.)
+Anticipation
+[216]
+Apotex alleges claim 4 of the '080 patent is anticipated by the prior disclosure of levofloxacin in the '840 patent.
+[217]
+The '840 patent discloses and claims racemic ofloxacin. It does not disclose the S(-) enantiomers (levofioxacin), its unexpectedly superior properties, or a process to produce levofioxacin. This specific finding has been made not once but twice in this Court as the basis to dismiss an attack of invalidity by anticipation. ( <FRAGMENT_SUPPRESSED> , above at paras. 107-108; <FRAGMENT_SUPPRESSED> Trial, at para. 104.)
+[218]
+Apotex seeks to overcome these findings by asserting "new evidence". The following points asserted  <FRAGMENT_SUPPRESSED> ' written argument (paragraphs 111-120) (
+all of which exceed the factual allegations contained within its notice of allegation
+(page 31)):
+(a) Janssen has asserted, admitted and/or conceded through its actions that the '840 patent contains a claim for levofloxacin;
+(b) Form IV patents lists in respect of levofloxacin;
+(c) Ortho-McNeil is a company related to Janssen (nor was this fact established in the evidence);
+(d) Ortho-McNeil made submissions to the United States Food and Drug Administration that the U.S. counterpart to the '840 patent covered "[levofloxacin] regardless of stereochemistry" (nor was this fact established in the evidence);
+(e) Daiichi purported to licence the U.S. counterpart to the '840 patent to Santen Inc.
+[219]
+This "new evidence" is extrinsic evidence which is not permitted in the context of considering whether the '840 patent anticipates the '080 patent. (Reference is made to paras. 71-78 above; <FRAGMENT_SUPPRESSED> , above at para. 113; <FRAGMENT_SUPPRESSED> Appeal, above at para. 25.)
+[220]
+Apotex also argues that it has "better argument" concerning the law of anticipation, namely that the '840 patent's teachings can be combined with "trial and error experiments to get it to work", relying on the U.K. <FRAGMENT_SUPPRESSED> case. (Apotex's written representations at para. 115.)
+[221]
+This argument was rejected in the <FRAGMENT_SUPPRESSED> Trial, and has also been rejected by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> .)
+Sufficiency of Disclosure
+[222]
+Apotex alleges that '080 patent does not describe levofloxacin as having substantial advantages in antimicrobial activity, toxicity or solubility. (Apotex's written representations at para. 108.)
+[223]
+Novopharm had made the same attack in the <FRAGMENT_SUPPRESSED> Trial and it was dismissed by Justice Hughes who held that the patent was not so insufficient as to warrant invalidation ( <FRAGMENT_SUPPRESSED> , above at paras. 123, 126.)
+[224]
+Apotex asserts weaknesses in the toxicity, activity and solubility data in the '080 patent as "better evidence". (Apotex's written representations at paras. 106-110.)
+[225]
+No requirement exists for a patentee to explain in the disclosure why and how his invention is useful. An inventor is not required to describe in what respect his invention is new or useful, nor is he obliged to "extol the effect or advantage of his discovery, if he describes his invention so as to produce it." ( <FRAGMENT_SUPPRESSED> , above at p. 526 [ <FRAGMENT_SUPPRESSED>  works in comparison to other inventions. (
+ <FRAGMENT_SUPPRESSED>  invention is an irrelevant consideration with respect to the issue of sufficiency of disclosure. (
+ <FRAGMENT_SUPPRESSED>  finding of nonobviousness made by Justice Hughes in the <FRAGMENT_SUPPRESSED> Trial, namely:
+རྭ attention was given to enantiomers;
+རྭ competitors were motivated to obtain levofloxacin;
+རྭ the properties of levofloxacin were expected;
+རྭ there were many techniques to isolate or synthesize the optical isomers of ofloxacin; and
+རྭ the efforts of Daiichi were not extraordinary.
+(Apotex' written representations at paras. 95-105.)
+[229]
+Each of the matters below presents no better evidence than was before Justice Hughes.
+(a) No attention was given to enantiomers in the quinolone field
+[230]
+Dr. Wentland, the sole quinolone medicinal chemist in these proceedings, stated that medicinal chemists did not follow a strategy of seeking enantiomers of racemic fluoroquinolones as of 1985. Pharmaceutical companies during this time period focussed on identifying new appendages at various positions on the quinolone core.
+(Wentland Affidavit at paras. 25, 29, 43, AR, v. 31, Tab 45, pp. 9848-9849, 9850, 9865; Kellogg Cross-examination at q. 308, AR, v. 47, Tab 70, p. 15209; Erhardt Cross-examination at q. 296, v. 34, Tab 54, p. 10924; Mislow Cross at q. 192, AR, v. 48, Tab 79, p. 15849.)
+[231]
+There are no reports of any racemic quinolones being resolved into their enantiomers up until the priority date of June of 1985, with the exception of the Gerster 1982 abstract and two additional Gerster references. The Gerster references taught enantiomers of quinolones were not worthwhile. The Gerster 1982 abstract reported the resolution of flumequine by its inventor some ten years after the compound had been discovered.
+(Wentland Affidavit at para. 25, AR, v. 31, Tab 45, pp. 9848-9849; Wentland Cross at qq. 224-227, AR, v. 33, Tab 48, p. 10528; Klibanov Affidavit at paras. 114-117, AR, v. 12, Tab 17, pp. 3438-3439; Mislow Cross at qq. 104-108, 133-135, 161, 215-222, 274-276, AR, v. 48, Tab 79, pp. 15844, 15846, 15847, 15851, 15854; Kellogg Cross at qq. 325 -368, 380-381, AR, v. 47, Tab 7, pp. 15210-15211, 15212.)
+(b) No better evidence that competitors were motivated to obtain levofloxacin
+[232]
+Apotex seeks to reweigh the various factors in the obviousness test. The motivation evidence is no different than that in the <FRAGMENT_SUPPRESSED> Trial. Apotex, like Novopharm, relies on the evidence that in 1985 four competitors came to levofloxacin shortly after Daiichi. Justice Hughes considered this same evidence and held that there was no evidence that any competitor chose to exploit ofloxacin. ( <FRAGMENT_SUPPRESSED> Trial, above at paras. 67, 114(5).)
+[233]
+In the <FRAGMENT_SUPPRESSED> Appeal, Justice Sharlow found:
+"[40] The motivation of Daiichi to obtain the enantiomers of ofloxacin explains the activities of Dr. Hayakawa during the relevant period ... The interests and focus of other researchers in the field during the same period were not on ofloxacin at all, indicating that others skilled in the art were not motivated to work on the same problem that was occupying Dr. Hayakawa. Justice Hughes found as a fact that, during the relevant period, Daiichi was motivated to obtain levofloxacin from ofloxacin, and no one else was. That was a factual conclusion that was reasonably open to him on the record."
+( <FRAGMENT_SUPPRESSED> Appeal, above at paras. 39, 40.)
+[234]
+Justice Sharlow made this finding despite Novopharm arguing the same point that Apotex now advances, namely, that after Daiichi filed its levofloxacin patent application, at least four other competitors hit upon the same invention. This point was raised  <FRAGMENT_SUPPRESSED> 's Notice of Appeal:
+"The Trial Judge further made a palpable and overriding error in paragraph 114(5) of the Reasons in finding that '[o]nly Daiichi was motivated to pursue these matters' and '[t]here appears to be no motivation exhibited by any outside persons to explore Ofloxacin enantiomers'."
+[235]
+This is inconsistent with Justice Hughes' own finding in paragraph 67 of the Reasons that "shortly after Daiichi had filed its Japanese patent applications at least four competitor groups announced that they had used identical methods to derive the same enantiomer". (Novopharm Notice of Appeal.)
+(c) The properties of levofloxacin were not expected
+[236]
+As compared to ofloxacin, levofloxacin has improved solubility, higher activity and lower toxicity. The overall combination of these properties of levofloxacin in a single enantiomers could not be predicted.
+(Wentland Affidavit at paras. 67-68, AR, v. 31, Tab 45, pp. 9895-9896; Klibanov Affidavit at para. 133, AR, v. 12, Tab 17, p. 3446; Erhardt Cross at qq. 69-72, AR, v. 34, Tab 54, pp. 10909-10910; <FRAGMENT_SUPPRESSED> Trial, above at para. 126.)
+[237]
+Activity Evidence:
+There is no generalized expectation that the bulk of the activity of a racemic quinolone would reside in one enantiomer. Apotex' Dr. Castagnoli admitted on cross- examination that any difference in biological outcome as a result of chirality could be so small that it could not be measured. (Castagnoli Cross at qq. 494-499, AR, v. 34, Tab 41, pp. 10805-10806.)
+[238]
+A person of skill would not know without testing whether levofloxacin had the same or different activity, nor the magnitude of any difference, as compared to ofloxacin and the R(+) enantiomers.
+(Wentland Affidavit at paras. 45, 48-49, 50-66 and 52 (quoting
+Segev
+at p. 35) and Ex GG, AR, v. 31, Tab 45, pp. 9866-9895, 10220-10240; Klibanov Affidavit at paras. 109-113, 125, 129, AR, v. 12, Tab 17, p. 3435; Erhardt Cross at qq. 41-42, 239, v. 34, Tab 54, pp. 10907, 10921.)
+[239]
+Activity and Toxicity combined:
+There was no expectation that the enantiomer having higher activity would also have lower toxicity. Dr. Rodricks' evidence is that the relative toxicity of racemates to their enantiomers cannot be predicted. No Apotex witness contradicted Dr. Rodricks' evidence in this regard. (Rodricks Affidavit at paras. 3-5, 57-58, 59-60, AR, v. 24, Tab 34, pp. 7109-7110, 7128-7130; Erhardt Cross at q. 56, AR, v. 34, Tab 54, p. 10908.)
+[240]
+Acute intravenous toxicity tests are relevant and is frequently relied upon in the drug development process. (Rodricks Affidavit at paras. 14, 16, 35, 37, 40, 45, AR, v. 24, Tab 34, pp. 7114, 7115, 7121-7124.)
+[241]
+Acute intravenous toxicity studies are preferred over oral one-dose lethality studies as the latter performed by Daiichi were confounded by absorption due to differing solubilities. Levofloxacin has a much greater solubility than ofloxacin. (Rodricks Affidavit at paras. 64-65, AR, v. 24, Tab 34, p. 7131.)
+[242]
+A person of skill would understand from the activity and toxicity tests in the '080 patent that levofloxacin could have a lower toxicity and a higher therapeutic index (a measure of safety as assessed by examining the relationship between the toxic dose and the dose necessary for effectiveness) than ofloxacin in humans. This "expectation" of being a better pharmaceutical than ofloxacin is the promise made on page 2 of the patent. (Rodricks Affidavit at paras. 16, 17, 37, v. 24, Tab 34, pp. 7115, 7122; Rodricks Cross at qq. 81-83, 239, AR, v. 29, Tab 40, pp. 9008-9009, 9020.)
+[243]
+Solubility Evidence:
+The differences in the relative solubility of levofloxacin and ofloxacin would have been unpredictable in June 1985 to a skilled person. A skilled person would not know the quantitative aspect of the relative solubility of ofloxacin and levofloxacin. (Myerson Affidavit at paras. 32-33, AR, v. 22, Tab 30, pp. 6591-6592.)
+[244]
+The prior art cited by Apotex (1976 Repta and 1978 Liu & Hurwitz) report that an enantiomer exhibited a fivefold difference in relative water solubility as compared to its racemate. The compounds were not quinolones and were unrelated to ofloxacin or levofloxacin. Liu & Hurwitz note that a fivefold is the upper boundary of difference observed. (Myerson Affidavit at paras. 36-39, AR, v. 22, Tab 30, pp. 6593-6594; Erhardt Cross at qq. 477-479, AR, v. 34, Tab 54, p. 10936; Myerson Affidavit at paras. 34, 38-39, AR, v. 22, Tab 30, pp. 6592, 6594.)
+[245]
+Additionally, levofloxacin's increased solubility is of practical significance for ophthalmic purposes, arising from levofloxacin's ability to better penetrate into ocular tissues and fluid. (Bucci Affidavit at paras. 37, 43, AR, v. 1, Tab 2, pp. 41, 43-44.)
+[246]
+Apotex argues that ophthalmic purposes are not spelled out in the patent and are therefore "after discovered" and can't be used to rebut an obviousness allegation. It is the solubility and not its applicability that is the property. Page 2 of the patent simply promises an expectation that levofloxacin will be a useful pharmaceutical product as compared to ofloxacin as a result of the properties disclosed.
+[247]
+Viewed as a whole, the "new evidence" concerning inventive ingenuity is no more than conflicting evidence or a repetition of the evidence before Justice Hughes. As stated above, where the "better evidence" in the second case can be capable of different interpretations, it does not meet the standard set for when a second case can be considered in the face of opposite findings in the first case. The Apotex evidence, at its highest, is capable of different interpretations. In such a case "it would be far preferable to observe the witness at trial". (
+ <FRAGMENT_SUPPRESSED>  and will be awarded costs at the upper end of Column IV due to the circumstances and context discussed in the reasons.
+[249]
+In addition, as discussed in
+Eli Lilly
+(2008), above, section 53 raises an implication of fraud which if raised and not pursued should bear a cost penalty.
+[250]
+Due to the seriousness of the fraud allegation originally raised, costs and disbursements taxed and allowed to the respective Applicants shall be increased by five percent; thus, although serious, nevertheless, it is acknowledged that the withdrawal of the fraud allegation was at a very early stage prior to extensive work undertaken by the Applicants in its regard.
+JUDGMENT
+[251]
+THIS COURT ORDERS that
+(1) The Applicants be granted the prohibition order for which they applied;
+(2) The Applicants are entitled to costs to be taxed in accordance with these Reasons.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/pdk
+[End of document]

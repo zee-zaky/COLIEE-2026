@@ -1,0 +1,212 @@
+[1]
+Hughes, J.
+: This is an application for review of an Order which I issued ex parte on November 6, 2006, in Court file No. T-1868-06 under the provisions of s. 231.2 of the
+Income Tax Act
+, R.S.C. 1985, c. C-1 (5th Supp.). That Order was directed against the Applicants eBay Canada Limited and eBay CS Vancouver Inc. and required, inter alia, that they provide to the Respondent Minister of National Revenue:
+"... the following information and documents for any person having a Canadian address according to your records (including individual, corporation and joint venture) who qualified for the PowerSeller status under eBay's PowerSeller program in Canada at any time during the two calendar years 2004 and 2005:
+a) account information - full name, user id, mailing address, billing address, telephone number, fax number and email address; and
+b) merchandise sales information - gross annual sales
+"Original documents in their original forms are required. Photocopies of information or documents will not be sufficient. Where these records exist in electronic format, I require that the records be provided in electronically readable format."
+[2]
+Subsection 231.2(5) of the
+Income Tax
+Act
+provides that the Applicants may apply to the Judge who granted the Order, for a review of that Order, which they have done. Subsection 231.2(6) provides that I may, on this review, amend or vary that Order. I am assisted in this review with further evidence provided by the parties.
+eBay
+[3]
+The Applicants eBay Canada Limited (eBay Canada) and eBay CS Vancouver Limited (eBay Vancouver) against whom the ex parte Order was directed are part of a larger eBay organization. eBay Inc., a United States corporation with facilities including computer servers located in that country, is apparently the ultimate parent organization. eBay AG, a Swiss entity with its operations located in that country, is a wholly owned subsidiary of eBay Inc. eBay Canada is a wholly owned subsidiary of eBay AG. eBay Vancouver is a wholly owned subsidiary of eBay Inc.
+[4]
+The eBay community as it sometimes describes itself in its Memorandum of Argument (and I will refer to this community generally as just eBay), claims to be the world's largest online marketplace which includes hundreds of millions of registered members around the world. An individual member who wishes to sell an item through eBay posts information respecting that item on one of eBay's websites whereby other members place bids to purchase that item over a fixed period of time or buy the item immediately. The sale and transfer occurs between buyer and seller directly. eBay does not enter the transaction. eBay's activities appear to be limited to providing a marketplace for such transactions and to the advertisement and promotion of such marketplace. eBay receives fees based on initial placement of the item, the value of the final sale and an optional promotion fee.
+[5]
+Outside the United States, eBay's activities are largely conducted by eBay AG. With respect to Canada, eBay AG provides among other things a website platform directed at the Canada market and a website identified by the domain name eBay.ca. Members may conduct transactions including advertising items for sale and purchasing those items through that website. The exact "ownership" the domain name "eBay.ca" is not clear on the record, however it is clear that eBay Canada is a lawful user of that domain name though a scheme administered by the Canadian Internet Registration Authority (CIRA).
+[6]
+The physical location of the computer servers that host the eBay.ca website is outside Canada. No computer server is located in Canada.
+[7]
+It appears that the principal and perhaps only function of eBay Canada is to provide marketing assistance, market research and administrative services to eBay AG. All billing and banking operations respecting those using the eBay.ca website is done by eBay AG. eBay Canada apparently does not involve itself in receipt of payments from users, nor in billing or debt collection.
+[8]
+Any information respecting users' sales transactions and the like is stored on the computer servers located in the United States apparently under the control of eBay Inc. That information is not "owned" or controlled by eBay Canada, however eBay Canada appears to have had the ability to access and avail itself of at least some of that information.
+Power Sellers
+[9]
+eBay, as part of its promotional activities respecting its marketplace, has instituted a concept of "PowerSellers". Persons who have, over a certain period of time, sold items totalling in value an amount over a certain level and are essentially free from complaints, are recognized by eBay as "PowerSellers". There are apparently five levels of such "PowerSellers" depending on levels of sales from US $1,000 to US $150,000 per month. Certain benefits are afforded to PowerSellers by eBay. The PowerSeller program is displayed with pertinent information on the eBay.ca website. Reference is made to "the Canadian program" as well as a "US program" and to "eBay's international sites (which) have PowerSeller programs".
+[10]
+There is in evidence a printout from the eBay.ca website which addresses PowerSellers. Under "Frequently Asked Questions", there is the following question posed:
+"12. The country where I live does not have an eBay site. Can I join the Canadian Program?"
+to which the following answer is given:
+"No. However, the users who reside in countries that do not have an eBay site should be able to join the US program. However, some benefits may not apply to you due to geographic restrictions. When your country has its own PowerSeller Program, you will be automatically transferred to that program."
+COMPUTERS AND INFORMATION
+[11]
+eBay Canada and eBay Vancouver take the position that they do not own or possess in Canada any information as to PowerSellers whether Canadian or otherwise. They assert that such information resides in computer data banks located outside Canada, largely in San Jose, California. The ownership of that information is said to reside in eBay Inc. or eBay AG but not in eBay Canada or eBay Vancouver. The Minister does not take issue with the assertion that neither eBay Canada nor eBay Vancouver "own" the information.
+[12]
+The more important issue in the circumstances of this case is the ability, particularly of eBay Canada, to access and use the information such as that in respect of PowerSellers. It is conceded by eBay's counsel that eBay Canada can, as a technological matter, access that information regardless where the servers are located. More importantly the evidence, through the cross-examination of Banks, Country Manager of eBay Canada, is that eBay Canada in fact does access that information and use it in the course of its business operations in Canada. To quote from part of that cross-examination:
+"31. Q. Now, for eBay Canada, is eBay Canada concerned mainly with the Canadian users?
+A. Yeah.
+32. Q. They deal with users outside of Canada, as well, or just the Canadian users?
+A. No, in our office just Canadian users.
+33. Q. Okay. Could you go through the procedure with me as to how a person, resident in Canada, becomes, I guess, an eBay seller?
+A. eBay seller?
+34. Q. Let's say they go onto your website, let's just say they go on eBay.com, to begin with, so what happens from there?
+A. Well, if they go onto eBay, you need to register as a buyer before you can register as a seller. You're automatically defaulted to a Canadian registration page.
+35. Q. Is that eBay.ca
+A. It's eBay.ca web page.
+36. Q. Okay.
+A. Where you need to enter into a User Agreement with eBay AG agreeing to a bunch of different things.
+At that point in time if you want to become a seller, you need to do a few more things, we need some more information from you, we need a credit card on file, and that would probably be about it.
+. . . . .
+40. Q. Okay. So all this information that you then get from the person that was signing up to be a seller, where would this information be stored?
+A. It's stored on a server.
+41. Q. Yes? Where is the server located?
+A. I think the servers are located in San Jose.
+42. Q. Now, but eBay Canada would have access to that information?
+A. We do have access to it.
+43. Q. Now, I just want to make sure I'm clear in my question, though, when you say you have access to information, you mean you would have access to the name, the address, whatever credit card information is there? The number of sales, perhaps, that a person has done for the year, or the month, or however it is that you break it down?
+A. Yes, we would have access to that.
+44. Q. Okay. Now, with respect to sending out of emails, it is eBay Canada that sends out targeted e-mails to the Canadian community, the Canadian users?
+A. When you say it is eBay Canada that sends, what do you mean?
+45. Q. Well, let's say you need to communicate with the Canadians who have registered with you on your website---
+A. Mm-humm
+46. Q. --- how do you do that?
+A. Well, we would decide what the appropriate message is for the segment that we're targeting.
+47. Q. Yes?
+A. We would formulate that content, and an email would be sent to that list.
+Q. Now would you send different emails, I guess, to different segments that you're trying to target?
+A. Yeah.
+48. Q. So, i.e., you may have a particular type of email to your power sellers and a different type of email to, I guess, your regular users, if I can call it that?
+A. We target - like, literally hundreds of different segments.
+. . . . .
+148. Q. So, you would have statistics, then, in eBay Canada as to users who are exceeding a certain sales volume, for example?
+A. We have access to the information."
+[13]
+From the evidence and concessions from counsel I am satisfied that:
+1. eBay Canada and eBay Vancouver do not "own" information in respect of PowerSellers;
+2. The information respecting "PowerSellers" is stored electronically on computer servers located outside Canada which servers are owned or controlled by others;
+3. eBay Canada can access this information and does so as part of its business conducted in Canada.
+ISSUES
+[14]
+The fundamental issue before me is whether I should set aside or vary my ex parte Order of November 6, 2006. The Minister proposes, and the Applicants do not object that, if I do not set aside the Order, then it should be varied to replace the words:
+"... having a Canadian address according to your records ..."
+with the words:
+"... registered as having a Canadian address ..."
+[15]
+The Applicants raised in oral argument but not in their written memorandum, an argument as to the sufficiency of the evidence on the record directed to whether the Minister was conducting a genuine and serious inquiry into the group identified namely PowerSellers. The Applicants rely on a decision of Justice Gauthier of this Court in
+ <FRAGMENT_SUPPRESSED> . I am advised by Counsel that this decision is under appeal and is scheduled to be argued in the next two months. Counsel for both sets of parties agree that I should issue my decision in the present case while holding any further argument on this point in reserve for argument and determination later. Given the agreement of Counsel on this point, I will give partial judgment based on the issues argued before me, reserving on the issue as to the sufficiency of evidence as to a genuine and serious inquiry, but not reserving forever. I will reserve until the later of sixty (60) days following final determination whether judicially or otherwise, of the matter in the Federal Court of Appeal or ninety (90) days from the date of the issuing of these Reasons whichever is earlier. At or before that time the Applicants will be required to make an application for a fixing of the time and place for the hearing of argument on this issue or to advise that this reserved issue has been abandoned or settled. I will also reserve as to costs until Judgment has been given on all issues or the remaining issue has been abandoned or settled.
+[16]
+The issue before me is, therefore, whether s. 231.2 of the
+Income Tax
+Act
+permits an Order that will require a Canadian resident to provide information to which it has access in Canada but is stored in data facilities owned by another party located outside Canada. I find that in respect of that issue the answer is, at least in the circumstances of this case, yes, for the following reasons.
+REASONING
+[17]
+The old maxim that taxing statutes are to be strictly construed must give way to the modern approach in interpretation of statutes generally which is to construe legislation reasonably, having regard to its object and purpose. To quote from Justice Dickson in
+ <FRAGMENT_SUPPRESSED>  N.S.R.(2d) 181; 76 A.P.R. 181, at 806 and 807:
+"In all Courts the appellants advanced a number of propositions regarding principles of statutory construction of fiscal legislation that require comment. It is said taxing statutes are to be strictly construed. The Court, it is contended, can only look to the express words of the statute and cannot explore and give effect to the intention or purpose of the
+Act
+. A passage from the judgment of Lord Halsbury in
+ <FRAGMENT_SUPPRESSED> ], in which Collins, M.R., adopted this principle, at p. 396:
+'If the person sought to be taxed comes within the letter of the law he must be taxed, however great the hardship may appear to the judicial mind to be. On the other hand, if the Crown, seeking to recover the tax, cannot bring the subject within the letter of the law, the subject is free, however apparently within the spirit of the law the case might otherwise appear to be.'
+. . . . ..
+"Fiscal legislation does not stand in a category by itself. Persons whose conduct a statute seeks to regulate should know in advance what it is that the statute prescribes. A court should ask--what would the words of the statute be reasonably understood to mean by those governed by the statute? Unnatural or artificial constructions are to be avoided.
+"The correct approach, applicable to statutory construction generally, is to construe the legislation with reasonable regard to its object and purpose and to give it such interpretation as best ensures the attainment of such object and purpose. The primary object of a succession duty statute, such as the legislation under consideration, is to capture such amounts for the fiscal coffers as the words of the statutory net can catch. No legislative intention can be assumed other than to collect such tax as the statute imposes, no more and no less."
+[18]
+I appreciate that Justice Dickson was speaking for the minority however; these are words of general import and instruction.
+[19]
+Section 231.2 of the
+Income Tax
+Act
+is directed to permitting the Minister to engage in what amounts to some sort of fishing expedition. The wording of subsection 231.2(1) is very broad; it enables the Minister to require "any person" to provide "any information". The only constraint is that the request must be made "for any purpose related to the administration or enforcement of this
+Act
+". It is common ground between Counsel that s. 231.2 was enacted following the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , which held that the previous legislation was only available to the Minister to obtain information relevant to the tax liability of some specific person or persons if the tax liability of such person or persons was the subject of a genuine and serious inquiry.
+[20]
+Counsel for the Applicants concedes that under the provisions of s. 231.2 of the
+Income Tax
+Act
+as they now stand, if the information at issue in the present case was located in the electronic memory of computer servers located in Canada, the Applicants would be required to divulge that information. Illustrative of this circumstance is the case of
+ <FRAGMENT_SUPPRESSED>  O.A.C. 207; 21 C.C.C.(3d) 385, where a bank manager located in Canada had in his memory recollection of certain transactions conducted by a Canadian taxpayer in the Bahamas. The bank manager was required to divulge that information lodged in his memory.
+[21]
+The decision of the Prince Edward Island Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (P.E.I.T.D.), affd. [1994] 1 C.T.C. 134; 106 Nfld. & P.E.I.R. 119; 334 A.P.R. 119 (P.E.I.C.A.), provides a little illumination in these matters. In that case, the taxpayer had inherited a good sum of money from Belgian sources. He claimed that the inheritance was not subject to tax. He was required to provide "...
+information that he has
+". The Court commented that either the provisions of s. 231.6 or s. 231.2 of the
+Income Tax
+Act
+could have been used for that purpose.
+[22]
+The Applicants argue that since s. 231.6 makes express provision whereby the Minister can seek information from foreign sources, s. 231.2 must be read such that it contemplates only information resident in Canada. Counsel for the Minister argues that s. 231.6 is more restrictive than s. 231.2 in that s. 231.6 pertains only to information as to a particular taxpayer in question whereas s. 231.2 pertains to "any information" and to "any person" so long as the purposes are genuinely those contemplated by the
+Income Tax
+Act
+.
+[23]
+The issue as to the reach of s. 231.2 when information, though stored electronically outside Canada, is available to and used by those in Canada, must be approached from the point of view of the realities of today's world. Such information cannot truly be said to "reside" only in one place or be "owned" by only one person. The reality is that the information is readily and instantaneously available to those within the group of eBay entities in a variety of places. It is irrelevant where the electronically-stored information is located or who as among those entities, if any, by agreement or otherwise asserts "ownership" of the information. It is "
+both here and there
+" to use the words of Justice Binnie in
+Society of Composers, Authors and  <FRAGMENT_SUPPRESSED> . It is instructive to review his reasons, for the Court, at paragraphs 57 to 63 in dealing with whether jurisdiction may be exercised in Canada respecting certain Internet communications, including an important reference to
+ <FRAGMENT_SUPPRESSED>  O.A.C. 33; 21 C.C.C.(3d) 206, and the concept of a "real and substantial link".
+"57 The applicability of our
+Copyright Act
+to communications that have international participants will depend on whether there is a sufficient connection between this country and the communication in question for Canada to apply its law consistent with the 'principles of order and fairness ... that ensure security of [cross-border] transactions with justice'; see
+Morguard Investments
+, supra, at p. 1097; see also
+ <FRAGMENT_SUPPRESSED> 
+, at para. 56; Sullivan and Driedger [page 455] on the
+Construction of Statutes
+(4th Ed. 2002), at pp. 601-2.
+"58 Helpful guidance on the jurisdictional point is offered by La Forest, J., in
+ <FRAGMENT_SUPPRESSED> 
+. That case involved a fraudulent stock scheme. U.S. purchasers were solicited by telephone from Toronto, and their investment monies (which the Toronto accused caused to be routed through Central America) wound up in Canada. The accused contended that the crime, if any, had occurred in the United States, but La Forest, J., took the view that '[t]his kind of thinking has, perhaps not altogether fairly, given rise to the reproach that a lawyer is a person who can look at a thing connected with another as not being so connected. For
+everyone knows that the transaction in the present case is both here and there
+' (p. 208 (emphasis added)). Speaking for the Court, he stated the relevant territorial principle as follows (at pp. 212-13):
+'I might summarize my approach to the limits of territoriality in this way. As I see it, all that is necessary to make an offence subject to the jurisdiction of our courts is that a
+significant portion of the activities constituting that offence
+took place in Canada. As it is put by modern academics, it is sufficient that there be a "real and substantial link" between an offence and this country ...' [Emphasis added.]
+"59 So also, in my view, a telecommunication from a foreign state to Canada, or a telecommunication from Canada to a foreign state, 'is both here and there'. Receipt may be no less 'significant' a connecting factor than the point of origin (not to mention the physical location of the host server, which may be in a third country). To the same effect, see  <FRAGMENT_SUPPRESSED> 
+(QL) (Gen. Div.). In the factual situation at issue in
+ <FRAGMENT_SUPPRESSED>  conclusive in a situation where both the content provider (Zundel) and a major part of his target audience were located in Canada. The <FRAGMENT_SUPPRESSED> case was [page 456] decided on grounds related to the provisions of the
+Canadian Human Rights
+Act
+, but for present purposes the object lesson of those facts is nevertheless instructive.
+"60 The 'real and substantial connection' test was adopted and developed by this Court in
+Morguard Investments
+, supra, at pp. 1108-9;
+ <FRAGMENT_SUPPRESSED>  at para. 71;
+ <FRAGMENT_SUPPRESSED> 
+; <FRAGMENT_SUPPRESSED> , supra, at para. 54; and
+ <FRAGMENT_SUPPRESSED> 
+. From the outset, the real and substantial connection test has been viewed as an appropriate way to 'prevent overreaching ... and [to restrict] the exercise of jurisdiction over extraterritorial and transnational transactions' (La Forest, J., in <FRAGMENT_SUPPRESSED> , supra, at p. 1049). The test reflects the underlying reality of 'the territorial limits of law under the international legal order' and respect for the legitimate actions of other states inherent in the principle of international comity ( <FRAGMENT_SUPPRESSED> , at p. 1047). A real and substantial connection to Canada is sufficient to support the application of our
+Copyright Act
+to international Internet transmissions in a way that will accord with international comity and be consistent with the objectives of order and fairness.
+"61 In terms of the Internet, relevant connecting factors would include the situs of the content provider, the host server, the intermediaries and the end user. The weight to be given to any particular factor will vary with the circumstances and the nature of the dispute.
+"62 Canada clearly has a significant interest in the flow of information in and out of the country. Canada regulates the reception of broadcasting signals in Canada wherever originated; see
+ <FRAGMENT_SUPPRESSED> 
+. Our courts and tribunals regularly take jurisdiction in matters of civil liability arising out of foreign transmissions which are received and [page 457] have their impact here; see
+ <FRAGMENT_SUPPRESSED>  658.
+"63 Generally speaking, this Court has recognized, as a sufficient 'connection' for taking jurisdiction, situations where Canada is the country of transmission ( <FRAGMENT_SUPPRESSED> , supra) or the country of reception (
+Liberty Net
+, supra). This jurisdictional posture is consistent with international copyright practice."
+[24]
+In the present case, eBay Canada has access to and uses information respecting PowerSellers. It is not determinative of the issue that the electronic apparatus storing the information which eBay Canada accesses is outside Canada. The information can be summoned up in Canada and for the usual business purposes of eBay Canada. The situation may be different if the information never had been used in Canada.
+[25]
+To analogize to
+ <FRAGMENT_SUPPRESSED>  in his memory through transactions he witnessed in the Bahamas. Nonetheless, he was required to summon up the information in Canada. Here eBay Canada has access to and uses information stored in a computer for the very purpose of dealing with Canadian PowerSellers. For perhaps corporate efficiency the information is stored elsewhere, but its purpose is in respect of Canadian business. The information is not foreign but within Canada for the purposes of s. 231.2 of the
+Income Tax
+Act
+.
+[26]
+Therefore, I affirm my Order of November 6, 2006 amended as requested by the Minister. As indicated other issues will be dealt with later.
+PARTIAL JUDGMENT
+[27]
+For the Reasons provided:
+THIS COURT ADJUDGES that
+:
+1. The Order of this Court dated November 6, 2006 in Court File No. T-1868-06 is affirmed except that the following words:
+"...
+having a Canadian address according to your records
+..."
+are varied to read:
+"...
+registered as having a Canadian address
+..."
+2. The issue as to whether the Minister has provided sufficient evidence to demonstrate that there is a genuine and serious inquiry will be dealt with by this Court at a time and place to be applied for and set down no later than sixty (60) days following the final disposition by the Federal Court of Appeal of the appeal from the decision of this Court reported at 2006 FC 1069 or other termination of that appeal or ninety (90) days from the issuing of the Reasons in this matter, T-2124-06 whichever is the earlier. At or before said earlier time, the Applicants shall make such application to fix a time and place to fix such hearing.
+3. Costs are reserved until the final Judgment in this proceeding.
+Order accordingly.
+Editor: Rodney A. Jordan/klf
+[End of document]

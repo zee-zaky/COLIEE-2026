@@ -1,0 +1,500 @@
+[1]
+Campbell, J.
+: In the decision under review, the Minister rejected a novel argument presented by Pfizer with respect to the interpretation of s. 4(2)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133 ("the
+NOC Regulations
+"). The result of the Minister's rejection pursuant to s. 3 of the
+NOC Regulations
+is that, since Canadian Patent 2,296, 726 ("the '726 Patent") does not meet the requirements of s. 4(2)(b), it is ineligible for listing on the Patent Register.
+[2]
+It is agreed that the standard of review of the Minister's rejection is correctness. Therefore, the issue for determination in the present Application is whether the Minister's interpretation of s. 4(2)(b) is correct.
+[3]
+Section 4(2)(b) is part of a comprehensive regulatory scheme which incorporates the
+Food and Drug Regulations
+, C.R.C., c. 870 and the
+NOC Regulations
+.  <FRAGMENT_SUPPRESSED> ; 176 F.T.R. 21 (T.D.), at paragraphs 36 to 46, Justice McGillis provides an overview of the scheme which is quoted in the Appendix to these reasons. Of particular importance in the present Application are s. 3 and s. 4, as well as certain definitions in s. 2, of the
+NOC Regulations
+. For ease of reference, these provisions are also quoted in the Appendix, together with the "Notice to Industry, June 3, 2004" which is referred to by the expert witnesses for both Pfizer and the Minister as described below.
+I. The nature of the present dispute
+[4]
+Three considerations are in play with respect to the decision-making under review in the present Application: NORVASC, CADUET, and the '726 Patent, each of which concerns a common feature: amlodipine besylate.
+[5]
+On June 26, 1992, Pfizer obtained a Notice of Compliance for the drug NORVASC which is approved for use in the treatment of mild to moderate essential hypertension: the medicine in NORVASC is amlodipine, in the form of amlodipine besylate. On December 9, 2003, Pfizer filed a New Drug Submission for the drug CADUET which is a cardiovascular agent for use by patients at risk due to hypertension: the medicine in CADUET is amlodipine besylate in combination with atorvastatin calcium. The '726 Patent protects pharmaceutical combination therapy compositions consisting of the active ingredient amlodipine besylate and a second active ingredient, a statin, where the statin is chosen from a group consisting of fluvastatin, rivastatin or simvastatin and a pharmaceutically acceptable carrier or diluent. It is important to note that, as set out in the Minister's rejection letter quoted below, the '726 Patent specifically states that it does not extend to include a combination of amlodipine and atorvastatin calcium.
+[6]
+The dispute between Pfizer and the Minister arises as a result of Pfizer's attempt to add the '726 Patent to the patent list with respect to each of NORVASC and CADUET pursuant to s. 4(1) of the
+NOC Regulations
+.
+A. Pfizer's argument
+[7]
+By letter dated October 7, 2004, Pfizer made the following argument in support of its position that the '726 Patent should be included on the Patent Register with respect to each of NORVASC and CADUET:
+"1.
+The '726 Patent is eligible for listing on the Patent Register according to the case law in the Federal Court
+"Section 4(2) of the
+Regulations
+sets out the criteria for a patent to be properly included on a patent list submitted in respect of a drug that is the subject of a regulatory submission. According to section 4(2)(b), the patent must contain a claim 'for the medicine itself or a claim for the use of the medicine'. The meaning of this provision was clarified by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  ('
+Eli Lilly
+').
+"
+Eli Lilly
+concerned the inclusion of a patent on the Patent Register in respect of Tazidime, a drug for which a notice of compliance had been granted and whose active ingredient is ceftazidime. The patent in issue claimed ceftazidime pentahydrate in combination with certain non-medicinal ingredients that prevented product degradation. The Minister of Health removed the patent from the Patent Register on the ground that Tazidime did not contain these non-medicinal ingredients. The Federal Court of Appeal ordered the Minister to reinstate the patent to the Patent Register.
+"The key issue in
+Eli Lilly
+was whether or not the patent in issue could be said to include a claim for the medicine, itself. The Court held that any patent that contained a claim for ceftazidime itself or a formulation in which ceftazidime is the active medicinal ingredient is within the scope of section 4(2)(b). Since the patent in issue contained claims to a formulation in which ceftazidime was an active ingredient, the patent was eligible for inclusion on the Patent Register. The Minister's argument that the invention disclosed in the patent must be somehow included or embodied in Tazidime was rejected.
+"The reasoning in
+Eli Lilly
+was followed in
+ <FRAGMENT_SUPPRESSED>  (' <FRAGMENT_SUPPRESSED> '). In <FRAGMENT_SUPPRESSED> , at issue was whether or not patents that claimed the medicine paroxetine hydrochloride in anhydrous form and its uses could be included on the Patent Register in respect of PAXIL, a drug for which an NOC had been granted and whose active ingredient is paroxetine hydrochloride hemihydrate. GlaxoSmithKline argued that the patents should be included on the Register on the ground that paroxetine hydrochloride hemihydrate is equivalent to the anhydrous form. The court accepted GlaxoSmithKline's reasoning and held that the patents were eligible for inclusion on the Patent Register despite the differences in the active ingredients. Apotex' arguments that the patents pertained to a different medicine were rejected.
+"In light of the reasoning in
+Eli Lilly
+and <FRAGMENT_SUPPRESSED> , Pfizer respectfully submits that the '726 Patent is eligible for inclusion on the Patent Register in respect of NORVASC. The patent contains claims for formulations in which amlodipine besylate is an active ingredient, as well as the claims for the use of such formulations in treating certain conditions. Whether the invention disclosed in the '726 patent, relating to a combination therapy, is embodied in NORVASC is, with respect, immaterial to the decision whether or not to include the patent on the Patent Register in respect of this drug.
+"2.
+A generic drug manufacturer may seek approval of an ANDS for a combination product using NORVASC as the reference product
+.
+"Pfizer is concerned that a manufacturer may file an abbreviated new drug submission ('A/NDS') for a combination product that contains amlodipine besylate and seek to cross-reference some or all of the safety and efficacy data contained in the NORVASC drug submission. If the '726 patent in [sic] not included on the Patent Register, the manufacturer will not be required to address the patent prior to receiving regulatory approval as contemplated by the
+Regulations
+.
+"In an A/NDS, the manufacturer compares its generic drug with a Canadian reference product (i.e. the innovator's drug) and must establish that its drug is bioequivalent to the innovator's drug. The bioavailability studies and bioequivalence studies that would be required to approve a combination product are studies where pharmacokinetics of each of the medicines contained in The Health Canada 'Notice to Industry: Bioequivalence Requirements for Combination Drug Products' dated June 3, 2004 makes clear that such comparisons are to be made. According to this Notice, for combination drug products '... the pharmacokinetic parameters to be reported and assessed are those which would normally be required of each drug if it were in the formulation
+as a single entity
+...' [Emphasis added]
+"As a result, Pfizer maintains that the '726 Patent is properly listed, because a manufacturer may file an A/NDS for a combination product that includes amlodipine besylate that seeks to cross-reference some or all of the safety and efficacy data contained in the NORVASC drug submission.
+"3.
+The purpose of the Regulations is to prevent direct or indirect patent infringement, which is served by listing the '726 Patent
+"In
+Eli Lilly
+, the Court acknowledged that the purpose of the
+Regulations
+is to minimize the potential for patent infringement. The Court held that listing the patent in issue 'has at least the
+potential for preventing infringement of the '969 patent
+, while the Minister's interpretation cannot possibly have that result [our emphasis]'.
+"By 'potential for preventing infringement', the Court was referring to the possibility that a manufacturer could obtain approval for a bioequivalent version of an approved formulation that infringes the subject patent. In making its decision, the Court accepted the argument put forward by Eli Lilly:
+'the Minister's interpretation would tend to defeat the objectives of the
+PM(NOC) Regulations
+. It is theoretically possible that a generic drug manufacturer could produce a drug consisting of a formulation of ceftazidime and amorphous lactose that is bioequivalent to Tazidime (even though it would not be exactly the same as Tazidime because Tazidime does not contain amorphous lactose). Such a product could infringe the '969 patent. If the '969 patent is not permitted to stay on the patent lists for Tazidime,
+Eli Lilly
+will be deprived of its right to apply to stop the issuance of a notice of compliance for the new drug until after the expiry of the '969 patent. If that happens, the
+PM(NOC) Regulations
+will not have been permitted to operate as intended.'
+"As outlined above, it is conceivable that a manufacturer might compare its combination product to NORVASC, where the product would infringe the '726 Patent. Failure to list the '726 Patent would thwart the purpose of the
+Regulations
+, which is to prevent patent infringement and notify third parties of the existence of patents covering the product. As long as such a scenario is 'theoretically possible', the '726 Patent should be eligible for listing in order to protect Pfizer against patent infringement.  ..." (Emphasis in the original) (Pfizer's Record, Vol. 2, Tab 3, pp. 44-46)
+B. The Minister's rejection
+[8]
+In a letter dated January 17, 2005, the Minister rejected Pfizer's argument as follows:
+"
+Re: Patent lists - Canadian Patent 2,296,726
+NORVASC - Amlodipine besylate
+2.5, 5 and 10 mg tablets
+Submissions 093100 & 093913
+CADUET - Amlodipine besylate/atorvastatin calcium
+5/10, 5/20, 5/40, 5/80, 10/10, 10/20, 10/40 & 10/80 mg tablets
+Submission 088557
+. . . . .
+In your representations, you advanced a number of arguments in support of the position that Canadian Patent 2,296,726 (the ''726 patent') is eligible for listing on the Patent Register in connection with each of the above-noted drug submissions. Having considered your arguments, I regret to inform you that the Therapeutic Products Directorate ('TPD') remains of the view that the '726 patent is ineligible for listing on the Patent Register in the matter at hand.
+The '726 patent, entitled 'Combination Therapy', contains claims to a pharmaceutical composition comprising a combination of the medicines amlodipine (or an acid addition salt thereof) and a single
+statin
+selected from the group consisting of
+fluvastatin, rivastatin and simvastatin
+. In contrast, the medicinal ingredient in the drug NORVASC is amlodipine besylate alone. As for the drug CADUET, the TPD considers the medicinal ingredient to be a combination consisting of amlodipine besylate and atorvastatin calcium. Despite these differences, you have advanced the view that he requirements of subsection 4(2)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+are nonetheless met with respect to the '726 patent in that the patent contains claims to a composition of which amlodipine besylate is a component. As amlodipine besylate is the medicinal ingredient in NORVASC, and a component of the medicinal ingredient in CADUET, you suggest that the inclusion of the '726 patent on the Patent Register is warranted in respect of both drugs.
+You have supported your arguments in favour of listing the '726 patent on the Patent Register rely by reference to the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> . In your view, the Court of Appeal's interpretation of the term 'claim to the medicine' in the
+Eli Lilly
+case can be relied upon in support of the proposition that a patent which contains a claim to a combination of medicinal ingredients is eligible for listing on the Patent Register against a product which contains only one component of the patented combination.
+With respect to your reliance on the
+Eli Lilly
+case, it is the view of the TPD that the matter before the court in
+Eli Lilly
+differs from the matter at hand in at least two important respects. First, in the
+Eli Lilly
+case there was no debate that the medicine in the claimed formulation (i.e., ceftazidime) corresponded precisely with the medicine in the drug against which Eli Lilly wished to list to its patent. In the matter at hand, the same cannot be said. As was set out in my previous correspondence, it is the principal objection of the PTD that the medicine claimed in the '726 patent does not correspond with either the medicine in the drug CADUET, or that of the drug NORVASC.
+Secondly, the Court of Appeal in
+Eli Lilly
+also came to the conclusion that it would be possible for a generic manufacturer to develop a product using the formulation claimed in the patent at issue and to then seek approval for that formulation based on a demonstration of bioequivalence with the formulation of the drug marketed by Eli Lilly. That this was theoretically possible appears to have been a significant factor in the court's ultimate determination that the patent at issue was eligible for listing in connection with the marketed product. However, the reasoning of the Court of Appeal on this point cannot be applied to the matter at hand. The TPD would not permit a generic manufacturer with a product containing amlodipine besylate combined with fluvastatin, rivastatin or simvastatin to use either CADUET or NORVASC as a Canadian reference product for the purposes of an abbreviated new drug submission. The differences between the medicine claimed in the '726 patent and that of either CADUET or NORVASC are such that the two products would not be considered pharmaceutically equivalent in the sense intended by C.08.001.1 of the
+Food and Drug Regulations
+.
+With respect to CADUET, I note also that there are numerous references within the disclosure of the '726 patent indicating that the scope of the '726 patent does not extend to include a combination of amlodipine besylate and atorvastatin calcium. For example, on page 25 of the 'Detailed Description of the Invention' section of the disclosure, the following statement appears:
+'However, it is to be noted that atorvastatin or a pharmaceutically acceptable salt therefore is not within the scope of this disclosure.'
+This statement appears to align with the position of the TPD that the pharmaceutical compositions claimed in the '726 patent are properly considered to be different medicines than the combination of amlodipine besylate and atorbastatin calcium present in CADUET.
+To conclude, for these reasons, and those set out in my earlier letter, the TPD remains of the view that the '726 patent does not contain a claim to either the medicine amlodipine besylate/atorvastatin calcium, or its use, nor to the medicine amlodipine besylate, or its use, as required by section 4(2)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+. Therefore, pursuant to subsection 3(1) of the
+Regulations
+, the '726 patent will not be added to the Patent Register for any of the above-noted drug submissions.  ..." (Pfizer's Record, Vol. 2, Tab 3, pp. 49-51)
+II. Is the Minister's interpretation of s. 4(2)(b)correct?
+[9]
+The provision reads as follows:
+"
+PATENT LIST
+. . . . .
+"4(2) A patent list submitted in respect of a drug must
+. . . . .
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that contains a claim for the medicine itself or a claim for the use of the medicine and that the person wishes to have included on the register;"
+"
+LISTE DE BREVETS
+. . . . .
+"4(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+. . . . .
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste, qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament, et qu'elle souhaite voir inscrit au registre;"
+[10]
+The central element of Pfizer's attack on the Minister's interpretation of s. 4(2)(b) is its interpretation of the majority decision in
+ <FRAGMENT_SUPPRESSED> . Relying on
+Eli Lilly
+, Pfizer argues that a patent claiming a composition that contains two active ingredients can be listed on the Patent Register against a product that contains just one of those active ingredients.
+[11]
+That is, Pfizer argues that, even though the '726 Patent claims protection for a combination of two medicines, amlodipine besylate, and a single statin selected from the group consisting of fluvastatin, rivastatin and simvastatin, it can be registered against the drug NORVASC which contains only one medicine, amlodipine besylate. Following the same rationale, Pfizer also argues that the '726 Patent can be registered against the drug CADUET, which contains a combination of two medicines, amlodipine besylate and atorvastatin calcium. Thus, amlodipine besylate is the common factor which grounds the argument with respect to registration against both drugs.
+[12]
+As cited in the rejection, the Minister takes the position that the situation in
+Eli Lilly
+makes the decision distinguishable from the situation in the present case. For the reasons which follow, I agree.
+[13]
+Pfizer's interpretation of
+Eli Lilly
+is stated in the following paragraph in the application letter quoted above:
+"The key issue in
+Eli Lilly
+was whether or not the patent in issue could be said to include a claim for the medicine, itself. The Court held that any patent that contained a claim for ceftazidime itself or a formulation in which ceftazidime is the active medicinal ingredient is within the scope of section 4(2)(b). Since the patent in issue contained claims to a formulation in which ceftazidime was
+an
+active ingredient, the patent was eligible for inclusion on the Patent Register. The Minister's argument that the invention disclosed in the patent must be somehow included or embodied in Tazidime was rejected." (Emphasis added)
+[14]
+The following paragraphs of
+Eli Lilly
+are most relevant to Pfizer's argument, and, in particular, paragraph 27:
+"¶ 2 All of the claims of the '969 patent are for ceftazidime pentahydrate in combination with amorphous lactose. Ceftazidime is an antibiotic. According to the disclosure in the '969 patent, ceftazidime pentahydrate is a useful form of ceftazidime for pharmaceutical formulations. Prior to the disclosure in the '969 patent, the known formulations of ceftazidime pentahydrate tended to degrade, leading to the formation of high molecular weight polymers, which results in toxicity. The invention disclosed by the '969 patent provides a formulation of ceftazidime pentahydrate with amorphous lactose. The incorporation of amorphous lactose avoids the toxicity problem by suppressing the formation of polymers.
+"¶ 3 Eli Lilly has found an alternative solution to the toxicity problem presented by the degradation of ceftazidime pentahydrate. Its alternative solution is not the subject of a patent. Rather, Eli Lilly is guarding it as a trade secret. Using that alternative solution, Eli Lilly developed six ceftazidime drugs. In 1990 and 1992, Eli Lilly obtained notices of compliance for those six drugs pursuant to the
+Food and Drug Regulations
+, C.R.C., c. 870. Four of the drugs are sold in various dosages under the trade-name Tazidime and two are sold in various dosages under the trade-name Tazidime Add-Vantage (collectively, 'Tazidime'). All of these products are soluble powders, intended to be reconstituted as a solution to be administered by injection.
+"¶ 4 On April 8, 1993, Eli Lilly submitted a patent list under subsection 4(1) of the
+PM(NOC) Regulations
+for each of its Tazidime products. Each patent list names several patents, including the '969 patent. The '969 patent was included on the patent register when the patent lists were filed. However, it was removed on July 6, 2000 pursuant to a decision of the Minister recorded in a letter to Eli Lilly dated June 8, 2000. The appellant sought judicial review of the Minister's decision. Its application was dismissed, and the appellant now appeals to this Court.
+. . . . .
+"¶ 24 The evidence is that ceftazidime is an antibiotic. Amorphous lactose has no medicinal qualities but prevents ceftazidime from degrading to toxicity. A formulation of ceftazidime and amorphous lactose that is the subject of one of the claims of the '969 patent would be considered to be a 'medicine' as that term is defined in section 2 of the
+PM(NOC) Regulations
+:
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.); affirmed (1996), 67 C.P.R.(3d) 25 (F.C.A.). However, it seems to me that ceftazidime alone also meets the definition of 'medicine'.
+"¶ 25 The Judge reasoned that, because ceftazidime by itself is toxic, it is not intended to be used for the treatment of a disease or disorder, and is not capable of being so used. I must respectfully disagree with that conclusion. An antibiotic does not cease to be an antibiotic merely because it cannot function safely in the human body until it is combined with a substance that prevents it from degrading to toxicity. It would follow that for the purposes of the
+PM(NOC) Regulations
+, ceftazidime is a medicine whether or not it is formulated with amorphous lactose.
+"¶ 26 It would also follow, paraphrasing the words of subsection 4(1), that because Eli Lilly has been issued a notice of compliance in respect of a drug, Tazidime, that contains a medicine, ceftazidime, Eli Lilly is permitted to submit a patent list in respect of the drug Tazidime. However, subsection 4(1) does not specify what patents Eli Lilly is entitled to include on the patent list. That question is determined on the basis of paragraphs 4(2)(b) and 4(7)(b).
+"¶ 27 Pursuant to paragraph 4(2)(b), the patent list submitted in respect of Tazidime may include any patent that contains 'a claim for the medicine itself'. The word 'medicine' in paragraph 4(2)(b) must have the same meaning in that provision as it does in subsection 4(1). If that is so, then in the case of a patent list submitted for Tazidime, any patent that contains a claim for ceftazidime itself, or that contains a claim for a formulation in which ceftazidime is
+the
+active medicinal ingredient, is within the scope of paragraph 4(2)(b). [Emphasis added]
+"¶ 28 I need not analyse the requirements of paragraph 4(7)(b) in any detail. I understand that counsel for the Minister has not taken the position that the '969 patent is not 'relevant to the dosage form, strength and route of administration' of Tazidime.
+"¶ 29 Based on the foregoing ordinary and grammatical reading of the
+PM(NOC) Regulations
+, the '969 patent should be eligible for inclusion on the patent lists for Tazidime. That is the interpretation that should be adopted unless the words of the
+PM(NOC) Regulations
+can reasonably bear a different meaning that would accord better with the purpose of the
+PM(NOC) Regulations
+.
+"¶ 30 Counsel for the Minister argued that the
+PM(NOC) Regulations
+require a relationship, which he referred to as 'relevance', between the drug named in the notice of compliance and the patent sought to be included in the patent register. He submitted that the requisite relationship does not exist if the invention disclosed in the patent is not somehow included or embodied in the drug. In this case, for example, it is undisputed that Tazidime makes no use of the invention disclosed in the '969 patent. It is in this sense that counsel for the Minister argues that the '969 patent is not 'relevant' to the notice of compliance for Tazidime.
+. . . . .
+"¶ 34 I am unable to read those words as the Minister argues they should be read. Subsection 4(1) addresses the question of who may submit a patent list, not the permitted contents of the patent list. Similarly, the emphasized words in paragraph 4(7)(b) do not describe any relationship between the drug named in the notice of compliance and the patents that may be included on the patent list. Rather, 'the drug in respect of which the submission for a notice of compliance has been filed' is, simply, Tazidime.
+"¶ 35 According to Eli Lilly, the Minister's interpretation would tend to defeat the objectives of the
+PM(NOC) Regulations
+. It is theoretically possible that a generic drug manufacturer could produce a drug consisting of a formulation of ceftazidime and amorphous lactose that is bioequivalent to Tazidime (even though it would not be exactly the same as Tazidime because Tazidime does not contain amorphous lactose). Such a product could infringe the '969 patent. If the '969 patent is not permitted to stay on the patent lists for Tazidime, Eli Lilly will be deprived of its right to apply to stop the issuance of a notice of compliance for the new drug until after the expiry of the '969 patent. [page 159] If that happens, the
+PM(NOC)Regulations
+will not have been permitted to operate as intended. I note that a similar argument was accepted in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), but only in obiter dicta, in the context of the
+PM(NOC)Regulations
+before the 1998 amendments.
+"¶ 36 On balance, it seems to me that the interpretation propounded by Eli Lilly should be favoured over the interpretation propounded by the Minister, for two reasons. First, it is more consistent with the words of the
+PM(NOC)Regulations
+. Second, it has at least the potential of preventing infringement of the '969 patent, while the Minister's interpretation cannot possibly have that result."
+[15]
+In my opinion,
+Eli Lilly
+is relevant to the decision under review but only because it supports the Minister's argument on the correct interpretation of s. 4(2)(b).
+[16]
+In the present case, the precedential use of the decision in
+Eli Lilly
+turns on what Justice Sharlow meant by the words used in paragraphs 27 and 35. Justice Sharlow's analysis acknowledges that the formulation of ceftazidime and amorphous lactose is considered a "medicine", but, nevertheless, on my reading of the decision, proceeds to conclusion on the basis that the medicine in the drug Tazidime is ceftazidime pentahydrate, and the medicine claimed in the '969 Patent is ceftazidime pentahydrate, and the amorphous lactose ingredient in the formulation claimed in the '969 Patent, as an inactive excipient, is irrelevant.
+[17]
+Therefore, I conclude that Justice Sharlow considered the medicine in the drug, and compared it to the medicine claimed in the '969 Patent and, knowing that s. 4(2)(b) requires them to be one and the same in order to have the '969 Patent placed on the Patent Register, came to the conclusion that the medicine in the drug and the medicine claimed in the '969 Patent are one and the same: ceftazidime pentahydrate. According to this analysis, as the inactive excipient is considered to be irrelevant, it is of no consequence that it is part of the formulation claimed in the '969 Patent when it comes to the eligibility of the '969 Patent to be placed on the Patent Register. Therefore, as Justice Sharlow says in paragraph 27, "any patent that contains a claim for ceftazidime itself, or that contains a claim for a formulation in which ceftazidime is
+the
+active medicinal ingredient, is within the scope of para. 4(2)(b)". (Emphasis added)
+[18]
+Pfizer's interpretation argument attempts to extend the application of
+Eli Lilly
+by use of different language than that used by Justice Sharlow. I find that Justice Sharlow's use of the word "the" in paragraph 27 limits the application of her decision to a situation in which a medicine in a drug is compared to the same medicine in a formulation claimed in a patent, where the medicine in the patent is in a formulation with an excipient or excipients; that is, in a situation where the claim is for a formulation in which the medicine is
+the
+active ingredient. However, as emphasized in the interpretation element of Pfizer's application letter, the word "the" is replaced by the word "an". As a result, Pfizer reads paragraph 27 to apply to a situation in which a medicine in a drug is compared to the same medicine in a formulation claimed in a patent, where the medicine in the patent is in a formulation with another medicine: that is, in a situation where the claim is for a formulation in which the medicine is
+an
+active ingredient.
+[19]
+Therefore, I do not agree with Pfizer's interpretation of
+Eli Lilly
+and, as a result, dismiss Pfizer's argument with respect to the correct interpretation of s. 4(2)(b).
+[20]
+As reflected in the following statement made in the present Application with respect to the '726 Patent, I find that the Minister is correct in the interpretation of s. 4(2)(b) made in the rejection letter of January 17, 2005:
+"On its face, the patent clearly contains no claims for either amlodipine besylate alone, or for the combination of amlodipine besylate and atorvastatin calcium. The patent makes it very plain that the 'invention' relates to combinations and their uses, so it excludes amlodipine besylate alone. Further, the combinations in question explicitly exclude atorvastatin. The patent, on the basis of the clear wording of the legislation alone, is not eligible for inclusion on the Register." (Minister's Record, p. 14, para. 37)
+III. Pfizer's hypothetical concern
+[21]
+Pfizer advances a second feature to its argument for the registration of the '726 Patent as stated in the October 7, 2004 letter as follows:
+"Pfizer is concerned that a manufacturer may file an abbreviated new drug submission ('A/NDS') for a combination product that contains amlodipine besylate and seek to cross-reference some or all of the safety and efficacy data contained in the NORVASC drug submission. If the '726 patent in [sic] not included on the Patent Register, the manufacturer will not be required to address the patent prior to receiving regulatory approval as contemplated by the
+Regulations
+."
+[22]
+In the rejection letter, the Minister gave the following assurance:
+"The TPD [Therapeutic Products Directorate] would not permit a generic manufacturer with a product containing amlodipine besylate combined with fluvastatin, rivastatin or simvastatin to use either CADUET or NORVASC as a Canadian reference product for the purposes of an abbreviated new drug submission. The differences between the medicine claimed in the '726 patent and that of either CADUET or NORVASC are such that the two products would not be considered pharmaceutically equivalent in the sense intended by C.08.001.1 of the
+Food and Drug Regulations
+."
+However, despite receiving the assurance that there is no basis for concern, Pfizer challenges the Minister by producing expert evidence to prove that, indeed, if faced with Pfizer's hypothetical situation, the Minister would not act according to the assurance.
+[23]
+The Minister's assurance is based on an interpretation of the
+Food and Drug Regulations
+. Pfizer's challenge to this interpretation is based on expert evidence with respect to the Minister's established practice for the purpose of proving that the Minister's established practice is contrary to the interpretation provided. Pfizer's experts are: Ms. Sue Wehner, a Consultant with over 30 years of experience on matters relating to regulatory affairs in the pharmaceutical industry, who has been involved in the preparation and filing of New Drug Submissions and Abbreviated New Drug Submissions for drugs in many different areas of pharmaceutical research since 1972; and Ms. Myriam Antoun, Manager, Drug Regulatory Affairs at Pfizer Canada Inc., who was responsible for the filing of the New Drug Submission for CADUET.
+[24]
+Two features of the Minister's practice are the focus of Ms. Wehner's and Ms. Antoun's affidavit evidence: a "Notice to Industry" issued on June 3, 2004 ("the Notice"), quoted in the Appendix to these reasons; and the approval process for the drug CADUET.
+[25]
+With respect to the first feature, Pfizer relies on the evidence of Ms. Wehner, supported by that of Ms. Antoun. The following paragraphs from Ms.Wehner's affidavit are particularly important:
+"
+Combination Drug Products
+"16. A combination drug product is a product containing two or more active ingredients. CADUET is a drug product that combines the active ingredients amlodipine besylate and atorvastatin calcium.
+"17. With respect to combination products, Health Canada states in a Notice to the Industry that: '... for all combination products requiring comparative bioavailability studies, the pharmacokinetic parameters to be reported and assessed are those which would normally be required of each drug if it were in the formulation as a single entity ...'. A copy of this Notice is attached as Exhibit 'B'.
+"18. Since Health Canada assesses each active ingredient in the combination product separately, it requires comparative bioavailability (or bioequivalence) data for each active ingredient in the product against the relevant data for each of the approved Canadian reference products contained in the combination product.
+"
+Opinion
+"19. In my opinion, based on my experience and my understanding of the regulatory process, if a company wished to sell a combination drug product containing amlodipine besylate and simvastatin and filed a drug submission for this product, Health Canada would require that the company demonstrate bioequivalence to the reference product NORVASC (amlodipine besylate) and to refer to and rely on the safety and efficacy data already provided by Pfizer for NORVASC. Health Canada would also require that the company demonstrate bioequivalence to the reference product ZOCOR (simvastatin) and to refer to and rely on the safety and efficacy data already provided by Merck for ZOCOR. If I were preparing a submission for a combination product containing amlodipine besylate and simvastatin, I would base the submission on the two Canadian reference products NORVASC and ZOCOR.
+"20. Any submission for a combination product containing amlodipine besylate and simvastatin must be based on Pfizer's NORVASC and Merck's ZOCOR submissions, the two relevant Canadian reference products. By referring to and relying on Pfizer's NORVASC submission for a combination product, the subsequent manufacturer would gain an advantage equivalent to the advantage obtained by a generic company when filing an A/NDS for a generic amlodipine besylate product that refers to and relies on NORVASC." (Pfizer's Record, Vol. 1, Tab 2, pp. 13-14)
+Therefore, as stated in paragraphs 17 and 18, Ms. Wehner's opinion is based on her understanding of the Notice.
+[26]
+In the present Application, the Minister has clarified the meaning to be put to the Notice, and, indeed, the regulatory reasons for the rejection of Pfizer's hypothetical argument. This clarification is provided by the affidavit evidence of Ms. Elizabeth Bowes, Manager, Patents and Liaison, Office of Patented Medicines and Liaison, Therapeutic Products Directorate, who makes the following statements:
+"
+Filing of an ANDS for a combination drug
+"33. Should a generic file an ANDS for a drug containing two medicinal ingredients, it would be required, pursuant to C.08.002.1(1)(a) of the
+Food and Drug Regulations
+, to demonstrate that the generic drug is 'the pharmaceutical equivalent of the Canadian reference product'. 'Pharmaceutical equivalent' is defined in C.08.002 as 'a new drug that, in comparison with another drug, contains identical amounts of the identical medicinal ingredients, in comparable dosage forms, but that does not necessarily contain the same non-medicinal ingredients'. Therefore, a generic company must use a Canadian reference product that contains the same two medicinal ingredients, when the product is a combination.
+"34. The TPD Notice to Industry dated June 3, 2004, attached as Exhibit 'P', is an update to 1992 guidelines on bioavailability and bioequivalence for combination products. Report C is such a guideline and is attached as Exhibit 'Q'. It should be noted that the 1992 guidelines predate the abbreviated new drug submission provisions of the
+Food and Drug Regulations
+(August 16, 1995). The Notice states that Type 2 combinations, that is those with a synergistic effect, should meet the same bioavailability parameters as Type 1 non-synergistic combinations.
+"35. As stated in the Notice, each medicinal ingredient in the combination must meet the pharmacokinetic parameters. These parameters are outlined on page 9 of Report C. The Notice does not provide guidance on the choice of reference product and does not allow a generic manufacturer to combine two single drugs to form a combination drug to apply for an NOC through an abbreviated new drug submission.
+"36. Therefore the hypothesis of the applicant that a generic company could copy amlodipine and another statin where that combination has not been previously approved for use is not permitted by regulation or any other Health Canada policy." (Pfizer's Record, Vol. 2, Tab 4, pp. 64-65)
+[27]
+Based on Ms. Bowes' evidence, I give no weight to Pfizer's expert evidence with respect to this first feature of the Minister's practice because I find it is based on an erroneous understanding of the Notice.
+[28]
+With respect to the second feature, being the Minister's approval process of the drug CADUET, Pfizer relies on the following evidence of Ms. Antoun:
+"
+SUBMISSION FOR COMBINATION PRODUCT
+"17. Based on our experience with the CADUET submission and the Notice to Industry,
+it is my understanding
+that if a manufacturer wished to file a submission for a combination product containing amlodipine besylate and simvastatin, for example, that manufacturer would compare its product to and refer and rely on the data contained in the submissions for NORVASC (amlodipine besylate) and Merck's product ZOCOR (simvastatin).
+It is my understanding
+that similar information that was cross-referenced in the CADUET submission would be cross-referenced in the submission for the amlodipine besylate/simvastatin combination product. In particular,
+it is my understanding
+that the submission for the combination product would include a comparison and reference to the NORVASC and ZOCOR submissions for the purpose of demonstrating bioequivalence on the basis of pharmaceutical characteristics.
+"18. As a result, the manufacturer filing such a submission would gain a great benefit both in the time and in money spent developing a submission for the combination product." (Emphasis added) (Pfizer's Record, Vol. 2, Tab 3, p. 25)
+[29]
+I give no weight to Ms. Antoun's evidence as I accept Counsel for the Minister's argument, stated during the course of the oral hearing, that Ms. Antoun's reliance on the "CADUET submission" is not relevant; the Minister's dealings with that submission were on a New Drug Submission, and not an Abbreviated New Drug Submission which is the hypothetical consideration advanced by Pfizer. To describe the distinction, Counsel for the Minister said the following:
+"[In the '726 Patent] we are not dealing with the same kind of submission at all that a generic company makes. We are not dealing with an Abbreviated New Drug Submission. What we are dealing [...] [with in the case of Caduet is] a New Drug Submission. [...] So, the question of whether the two products were pharmaceutical equivalent did not arise. The question of whether the two products contained identical amounts of identical medicinal ingredients did not arise because they were not making an Abbreviated New Drug Submission.
+"Had they been doing what an ordinary generic would do, and try to use Norvasc as a Canadian reference product in an Abbreviated New Drug Submission, they would not have been permitted to do so. But what they were doing was providing a New Drug Submission in which they were on their own showing safety and efficacy of the drug Caduet.
+"They were permitted to use some of the same studies that were used in respect of the amlodipine in Norvasc, and in respect of the atorvastatin in Lipitor. They were permitted by the companies that owned those drugs to use the same studies to show the safety and efficacy of their drug.
+"But that's much different than using a drug as a Canadian reference product. And it's much different from saying that one drug has identical amounts of the identical medicinal ingredients as the other drug." (Transcript, pp. 124-125)
+[30]
+As a result, I agree with the Minister that Pfizer's hypothetical concern is unfounded.
+ORDER
+[31]
+Accordingly, the present Application is dismissed.
+[32]
+I award costs to the Minister to be paid by Pfizer in Column III of Tariff B.
+Application dismissed.
+Editor: Angela E. McKay/klf
+APPENDIX
+I. Patented Medicines (Notice of Compliance) Regulations, S.O.R./93-133
+INTERPRETATION
+2. In these Regulations,
+"claim for the medicine itself" includes a claim in the patent for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents; (revendication pour le médicament en soi)
+"claim for the use of the medicine" means a claim for the use of the medicine for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof; (revendication pour l'utilisation du médicament)
+. . . . .
+"medicine" means a substance intended or capable of being used for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof; (médicament)
+. . . . .
+REGISTER
+3(1) The Minister shall maintain a register of any information submitted under section 4. To maintain it, the Minister may refuse to add or may delete any information that does not meet the requirements of that section.
+(2) The register shall be open to public inspection during business hours.
+(3) No information submitted pursuant to section 4 shall be included on the register until after the issuance of the notice of compliance in respect of which the information was submitted.
+(4) For the purpose of deciding whether information submitted under section 4 should be added to or deleted from the register, the Minister may consult with officers or employees of the Patent Office.
+PATENT LIST
+4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+(2) A patent list submitted in respect of a drug must
+(a) indicate the dosage form, strength and route of administration of the drug;
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that contains a claim for the medicine itself or a claim for the use of the medicine and that the person wishes to have included on the register;
+(c) contain a statement that, in respect of each patent, the person applying for a notice of compliance is the owner, has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list;
+(d) set out the date on which the term limited for the duration of each patent will expire pursuant to section 44 or 45 of the Patent Act; and
+(e) set out the address in Canada for service on the person of any notice of an allegation referred to in paragraph 5(3)(b) or (c), or the name and address in Canada of another person on whom service may be made, with the same effect as if service had been made on the person.
+(3) Subject to subsection (4), a person who submits a patent list must do so at the time the person files a submission for a notice of compliance.
+(4) A first person may, after the date of filing of a submission for a notice of compliance and within 30 days after the issuance of a patent that was issued on the basis of an application that has a filing date that precedes the date of filing of the submission, submit a patent list, or an amendment to an existing patent list, that includes the information referred to in subsection (2).
+(5) When a first person submits a patent list or an amendment to an existing patent list in accordance with subsection (4), the first person must identify the submission to which the patent list or the amendment relates, including the date on which the submission was filed.
+(6) A person who submits a patent list must keep the list up to date but may not add a patent to an existing patent list except in accordance with subsection (4).
+(7) A person who submits a patent list or an amendment to an existing patent list under subsection (1) or (4) must certify that
+(a) the information submitted is accurate; and
+(b) the patents set out on the patent list or in the amendment are eligible for inclusion on the register and are relevant to the dosage form, strength and route of administration of the drug in respect of which the submission for a notice of compliance has been filed.
+DÉFINITIONS
+2. Les définitions qui suivent s'appliquent au présent règlement.
+. . . . .
+"médicament" Substance destinée à servir ou pouvant servir au diagnostic, au traitement, à l'atténuation ou à la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes. (medicine)
+. . . . .
+"revendication pour le médicament en soi" S'entend notamment d'une revendication, dans le brevet, pour le médicament en soi préparé ou produit selon les modes du procédé de fabrication décrits en détail et revendiqués ou selon leurs équivalents chimiques manifestes. (claim for the medicine itself)
+"revendication pour l'utilisation du médicament" Revendication pour l'utilisation du médicament aux fins du diagnostic, du traitement, de l'atténuation ou de la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes. (claim for the use of the medicine)
+. . . . .
+REGISTRE
+3(1) Le ministre tient un registre des renseignements fournis aux termes de l'article 4. À cette fin, il peut refuser d'y ajouter ou en supprimer tout renseignement qui n'est pas conforme aux exigences de cet article.
+(2) Le registre est ouvert à l'inspection publique durant les heures de bureau.
+(3) Aucun renseignement soumis aux termes de l'article 4 n'est consigné au registre avant la délivrance de l'avis de conformité à l'égard duquel il a été soumis.
+(4) Pour décider si tout renseignement fourni aux termes de l'article 4 doit être ajouté au registre ou en être supprimé, le ministre peut consulter le personnel du Bureau des brevets.
+LISTE DE BREVETS
+4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+a) la forme posologique, la concentration et la voie d'administration de la drogue;
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste, qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament, et qu'elle souhaite voir inscrit au registre;
+c) une déclaration portant, à l'égard de chaque brevet, que la personne qui demande l'avis de conformité en est le propriétaire, en détient la licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste;
+d) la date d'expiration de la durée de chaque brevet aux termes des articles 44 ou 45 de la Loi sur les brevets;
+e) l'adresse de la personne au Canada aux fins de signification de tout avis d'allégation visé aux alinéas 5(3)b) ou c), ou les nom et adresse au Canada d'une autre personne qui peut en recevoir signification avec le même effet que s'il s'agissait de la personne elle-même.
+(3) Sous réserve du paragraphe (4), la personne qui soumet une liste de brevets doit le faire au moment du dépôt de la demande d'avis de conformité.
+(4) La première personne peut, après la date de dépôt de la demande d'avis de conformité et dans les 30 jours suivant la délivrance d'un brevet qui est fondée sur une demande de brevet dont la date de dépôt est antérieure à celle de la demande d'avis de conformité, soumettre une liste de brevets, ou toute modification apportée à une liste de brevets, qui contient les renseignements visés au paragraphe (2).
+(5) Lorsque la première personne soumet, conformément au paragraphe (4), une liste de brevets ou une modification apportée à une liste de brevets, elle doit indiquer la demande d'avis de conformité à laquelle se rapporte la liste ou la modification, en précisant notamment la date de dépôt de la demande.
+(6) La personne qui soumet une liste de brevets doit la tenir à jour mais ne peut ajouter de brevets à une liste que si elle le fait en conformité avec le paragraphe (4).
+(7) La personne qui soumet une liste de brevets ou une modification apportée à une liste de brevets aux termes des paragraphes (1) ou (4) doit remettre une attestation portant que:
+a) les renseignements fournis sont exacts;
+b) les brevets mentionnés dans la liste ou dans la modification sont admissibles à l'inscription au registre et sont pertinents quant à la forme posologique, la concentration et la voie d'administration de la drogue visée par la demande d'avis de conformité.
+ <FRAGMENT_SUPPRESSED> 
+[36] Under the scheme in the
+Food and Drug Regulations
+, a drug manufacturer must satisfy the Minister of the safety and effectiveness of a new drug before selling it in Canada. In Part C, Division 8 of the
+Food and Drug Regulations
+, entitled "New Drugs", various obligations are imposed on a drug manufacturer seeking approval to sell a new drug in Canada in order to ensure that the Minister has sufficient information to assess the overriding requirements of safety and effectiveness.[see footnote 1]
+[37] Under subsection C.08.002(1) of the
+Food and Drug Regulations
+, a person is prohibited from selling or advertising a new drug unless, among other things, the manufacturer of the new drug has filed a new drug submission or an abbreviated new drug submission that is satisfactory to the Minister, and a notice of compliance has issued in respect of it. Subsection C.08.002(2) specifies the information and material to be included in a new drug submission to enable the Minister to assess the safety and effectiveness of the new drug. By virtue of subsection C.08.002(3), the Minister has the discretion to require the manufacturer of a new drug to provide additional information and material where he considers it necessary to assess the safety and effectiveness of the new drug.
+[38] Subsection C.08.002.1(1) specifies the requirements to be met for the filing of an abbreviated new drug submission. In particular, an abbreviated new drug submission may be filed by a manufacturer where the new drug is the pharmaceutical equivalent of and bioequivalent with the Canadian reference product, the route of administration is the same, and the conditions of use fall within the conditions of use for the Canadian reference product. Subsections C.08.002.1(2) and (3) follow the same general scheme as section C.08.002 dealing with a new drug submission, and respectively provide for the filing of mandatory information and material, as well as information and material required in the Minister's discretion, in order to permit the Minister to assess the safety and effectiveness of the new drug. The terms "Canadian reference product" and "pharmaceutical equivalent", as referred to in section C.08.002.1, are defined in section C.08.001.1 as follows:
+"C.08.001.1 For the purposes of this Division,
+'Canadian reference product' means
+(a) a drug in respect of which a notice of compliance is issued pursuant to section C.08.004 and which is marketed in Canada by the innovator of the drug,
+(b) a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, where a drug in respect of which a notice of compliance has been issued pursuant to section C.08.004 cannot be used for that purpose because it is no longer marketed in Canada, or
+(c) a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, in comparison to a drug referred to in paragraph (a); (produit de référence canadien)
+'pharmaceutical equivalent' means a new drug that, in comparison with another drug, contains identical amounts of the identical medicinal ingredients, in comparable dosage forms, but that does not necessarily contain the same non-medicinal ingredients; ..."
+"C.08.001.1 Les définitions qui suivent s'appliquent au présent titre.
+'équivalent pharmaceutique' S'entend d'une drogue nouvelle qui, par comparaison à une autre drogue, contient les mêmes quantités d'ingrédients médicinaux identiques, sous des formes posologiques comparables, mais pas nécessairement les mêmes ingrédients non médicinaux. (pharmaceutical equivalent )
+'produit de référence canadien' Selon le cas:
+a) une drogue pour laquelle un avis de conformité a été délivré aux termes de l'article C.08.004 et qui est commercialisée au Canada par son innovateur;
+b) une drogue jugée acceptable par le ministre qui peut être utilisée pour la détermination de la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas
+échéant, les caractéristiques en matière de biodisponibilité, lorsqu'une drogue pour laquelle un avis de conformité a été délivré aux termes de l'article C.08.004 ne peut être utilisée à cette fin parce qu'elle n'est plus commercialisée au Canada;
+c) une drogue jugée acceptable par le ministre qui peut être utilisée pour la détermination de la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas
+échéant, les caractéristiques en matière de biodisponibilité, par comparaison à une drogue visée à l'alinéa a). (Canadian reference product) ..."
+[39] Following the filing of the requisite information by the manufacturer, subsection C.08.004(1) requires the Minister to issue a notice of compliance where a new drug submission, an abbreviated new drug submission or a supplement to either submission meets the requirements of the corresponding section of the
+Food and Drug Regulations
+.
+[40] However, before issuing a notice of compliance under subsection C.08.004(1) of the
+Food and Drug Regulations
+, the Minister must determine whether section 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+prevents its issuance.
+[41] At the outset, it is important to note that section 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+defines "notice of compliance" as follows:
+"2. In these Regulations, ...
+'notice of compliance' means a notice issued under section C.08.004 of the Foods and Drug Regulations; (avis de conformité) ..."
+"2. Les définitions qui suivent s'appliquent au présent règlement. ...
+'avis de conformité' Avis délivré au titre de l'article C.08.004 du Règlement sur les aliments et drogues. (notice of compliance) ..."
+[42] The definition of "notice of compliance" in section 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+therefore incorporates by reference section C.08.004 of the
+Food and Drug Regulations
+, which requires the Minister to issue a notice of compliance in response to a new drug submission, an abbreviated new drug submission or a supplement to either submission where the manufacturer of the new drug has complied with certain prescribed circumstances.
+[43] In
+Eli Lilly & Co.v. Novopharm Ltd.
+, [1998] 2 S.C.R. 129, at 144, Iacobucci, J., writing for the Court, approved the following general summary of the legislative scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+:
+"The new NOC regime is lucidly summarized in the following excerpt from the judgment of Teitelbaum, J., in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at pp. 131-32:
+'A NOC, which formally authorizes a drug to be sold, is issued by the Minister after a drug manufacturer has complied on two fronts. The first element of compliance concerns the overall safety and efficacy of the drug: (see regulation C.08.004 of the
+Food and Drug Regulations
+, C.R.C. 1978, c. 870). The second element of compliance figures on the drug manufacturer's non-infringement of certain patents embodied in the drug. This second, rather more unexpected, patent-related requirement came into existence after changes to the compulsory licensing regime. Formerly, under a compulsory license, a generic drug manufacturer could obtain a licensed supply of a patented drug from the patent owner. The NOC process did not then concern itself with questions of patent infringement. However, with the abolition of compulsory licenses under the
+Patent Act Amendment Act
+, 1992, ... (the "
+Patent Act
+") the regime for obtaining NOCs also changed. Generic drug manufacturers now seeking NOCs must file what is called a Notice of Allegation under section 5 of the
+Regulations
+.'
+. . . . .
+"In effect, under Subsection 5(3) of the
+Regulations
+, in a 'Notice of Allegation', the generic drug manufacturer, the second person, signals its compliance with the patents embodied in a medicine. Under section 4 of the
+Regulations
+, the patent owner or licensee, usually a brand name drug manufacturer like the applicants, submits a list of the patents that contain claims for the medicine itself or the use of the medicine. Under section 3 of the
+Regulations
+, the Minister compiles the patent lists into a public document called the 'Patent Register'."
+[44] In section 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+, a "first person" is defined as "the person referred to in subsection 4(1)". That provision reads as follows:
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug."
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7)."
+Section 2 defines a "second person" as "the person referred to in subsection 5(1)".
+[45] Subsection 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+contains the requirements that must be met in order to trigger the application of the regulations. Subsection 5(1) provides as follows:
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and wishes to compare that drug with, or make reference to, another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed."
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et souhaite en faire la comparaison, ou faire renvoi, à une autre drogue qui a été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité."
+[46] By virtue of section 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+, the Minister is prohibited from issuing a notice of compliance to a second person in certain prescribed circumstances. In particular, for the purposes of the present proceeding, paragraph 7(1)(b) prohibits the Minister from issuing a notice of compliance until "the day on which the second person complies with section 5". In other words, where the provisions of subsection 5(1) apply, an express statutory prohibition prevents the Minister from issuing a notice of compliance until the second person (usually the generic manufacturer) has complied with the requirements of subsection 5(1). Subsection 7(1) provides as follows:
+"7(1) The Minister shall not issue a notice of compliance to a second person before the latest of
+(a) [Repealed, SOR/98-166, s. 6]
+(b) the day on which the second person complies with section 5,
+(c) subject to subsection (3), the expiration of any patent on the register that is not the subject of an allegation,
+(d) subject to subsection (3), the expiration of 45 days after the receipt of proof of service of a notice of any allegation pursuant to paragraph 5(3)(b) or (c) in respect of any patent on the register,
+(e) subject to subsections (2), (3) and (4), the expiration of 24 months after the receipt of proof of the making of any application under subsection 6(1), and
+(f) the expiration of any patent that is the subject of an order pursuant to subsection 6(1). ..."
+"7(1) Le ministre ne peut délivrer un avis de conformité à la seconde personne avant la plus tardive des dates suivantes:
+a) [Abrogé, DORS/98-166, art. 6]
+b) la date à laquelle la seconde personne se conforme à l'article 5;
+c) sous réserve du paragraphe (3), la date d'expiration de tout brevet inscrit au registre qui ne fait pas l'objet d'une allégation;
+d) sous réserve du paragraphe (3), la date qui suit de 45 jours la date de réception de la preuve de signification de l'avis d'allégation visé aux alinéas 5(3)b) ou c) à l'égard de tout brevet inscrit au registre;
+e) sous réserve des paragraphes (2), (3) et (4), la date qui suit de 24 mois la date de réception de la preuve de présentation de la demande visée au paragraphe 6(1);
+f) la date d'expiration de tout brevet faisant l'objet d'une ordonnance rendue aux termes du paragraphe 6(1) ..."
+The remaining portions of section 7 are not relevant in the present proceeding.
+__________________________________
+Note 1: The meaning of "new drug" is determined by reference to the definition of the term "new drug" in section C.08.001 of the
+Food and Drug Regulations
+and the definition of the term "drug" in section 2 of the
+Food and Drugs Act
+. For the purposes of the present proceeding, it is unnecessary to refer to those provisions.
+III. "Notice to Industry"
+Bioequivalence Requirements for Combination Drug Products
+June 3, 2004
+Our file number: 04-111053-848
+This notice is the second in a series of notices which the Therapeutic Products Directorate (TPD) is issuing to update its guidelines on the assessment of bioavailability and bioequivalence (Conduct and Analysis of Bioavailability and Bioequivalence Studies - Part A: Oral Dosage Formulations used for Systemic Effects, 1992 (Guideline A); and Part B: Oral Modified Release Formulations, 1996 (Guideline B)). Some of the issues identified in Expert Advisory Committee on Bioavailability Report C: Report on Bioavailability of Oral Dosage Formulations, not in Modified Release Form, of Drugs used for Systemic Effects, having Complicated or Variable Pharmacokinetics December 1992 (Report C) which have not been finalised will also be handled this way.
+The purpose of this communication is to state the TPD's bioequivalence requirements specific to
+combination drug products
+.
+Section 1.3 of Guideline A mentions combination products as one of several possible exceptions that require modification to the guideline.
+Report C defined a combination drug product as a product containing two or more active ingredients. It differentiated between products in which the drugs were intended to act independently (Type 1) and those that were intended to act synergistically (Type 2).
+For Type 1 combinations, the recommended standards to be met were those which would normally be required of each drug if it were in the formulation as a single entity.
+For Type 2 combinations, additional criteria were recommended, based on ratios of the concentrations of each drug and on ratios of AUC of the drugs.
+This notice serves to clarify that for all combination products requiring comparative bioavailability studies, the pharmacokinetic parameters to be reported and assessed are those which would normally be required of each drug if it were in the formulation as a single entity, as described in current TPD guidelines and policy statements
+.
+We reiterate that this notice applies to comparative bioavailability (bioequivalence) studies involving combination products. Further work is being done on requirements for fixed dose combinations, particularly in New Drug Submissions.
+Should you have any questions or require further clarification relating to this Notice, please contact:
+Policy Bureau Enquiries
+E-mail: policy_bureau_enquiries@hc-sc.gc.ca
+Telephone: (613) 946-9491
+Fax: (613) 941-1812
+http://www.hc-sc.gc.ca/dhp-mps/prodpharma/applic-demande/guide-ld/bio/index_e.html
+[End of document]

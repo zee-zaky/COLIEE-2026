@@ -1,0 +1,235 @@
+[1]
+Barnes, J.
+: This application was brought by Janssen Inc. and Janssen Pharmaceutica N.V. (collectively Janssen unless otherwise indicated) against Mylan Pharmaceuticals ULC [see footnote 1] (Mylan) and the Minister of Health (Minister) under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR 93-133 (
+NOC Regulations
+). Janssen seeks an order prohibiting the Minister from issuing a Notice of Compliance (NOC) to Mylan until the expiry of Canadian Letters Patent No. 2,310,950 ('950 Patent). Janssen Pharmaceutica N.V. is the owner of the '950 Patent which it has licensed to Janssen Inc.
+[2]
+The '950 Patent was filed on June 27, 2000 and it is listed on the Minister's Patent Register in respect of Janssen's galantamine product, Reminyl, in strengths of 8 mg, 16 mg and 24 mg extended release capsules. A NOC for Reminyl ER was issued to Janssen by the Minister on April 8, 2005.
+[3]
+On December 27, 2008 Janssen received Mylan's Notice of Allegation (NOA) challenging the validity of the '950 Patent on several grounds including obviousness, insufficient disclosure, non-utility, ambiguity and non-patentability (as a method of medical treatment).
+The Patent Claims
+[4]
+The '950 Patent concerns the use of the cholinesterase inhibitor galantamine to treat Alzheimer's disease, but the patent claims in issue are limited to Janssen's discovery of an optimal dosage regimen for the compound. As the '950 Patent acknowledges, galantamine was a known compound that had been previously used and patented for the treatment of Alzheimer's disease. Accordingly, the inventive concept of the '950 Patent is limited to Janssen's claimed discovery that the slow titration of galantamine improved patient tolerability for the drug, by reducing side-effects and resulted in the ability to use a lower maintenance dose than had previously been shown to be effective.
+[5]
+The only claims that are in issue in this proceeding are claims 3, 5, 6, 7 and 8 (the relevant claims):
+"3. A use of galantamine from a first dosage of about 8 mg/day to a final dosage of about 16 mg/day to 24 mg/day for treating Alzheimer's Disease wherein said first dosage is for use for a period from about two weeks to about ten weeks; and wherein the use of the first dosage from about two weeks to ten weeks results in a lower final dosage.
+. . . . .
+"5. The use of any one of Claims 1 to 4 wherein the galantamine is for use at a first dosage of about 8 mg/day, a second dosage of about 16 mg/day, and a final dosage of about 24 mg/day; wherein said first dosage is for use for a period from about two weeks to about four weeks, said second dosage is for use for a period from about two weeks to about four weeks and said final dosage is for use thereafter.
+"6. The use of Claim 5 wherein the first dosage is for use for about four weeks and said second dosage is for use for about four weeks.
+"7. The use of any one of Claims 1 to 4 wherein the galantamine is for use at a first dosage of about 8 mg/day and a final dosage of about 16 mg/day; wherein the first said dosage is for use from about two weeks to about four weeks and said final dosage is for use thereafter.
+"8. The use of Claim 7 wherein said first dosage is for use for about four weeks."
+Claim 3 has the following elements:
+1. the use of galantamine to treat Alzheimer's disease;
+2. in a first dosage of about 8 mg per day for about 2-10 weeks;
+3. followed by a final dosage of about 16-24 mg per day thereafter; and
+4. wherein the use of such a slow-dose regimen results in a lower final dosage.
+Claims 5 and 6 are dependant on claim 3. They both describe a dosing regimen starting with 8 mg per day of galantamine working up to 16 mg per day, and ending with 24 mg per day. The proposed titration schedule in these claims is somewhat variable with the administration of galantamine in each of the initial stages having a duration of two to four weeks. Claims 7 and 8 are also dependant on claim 3 and differ only to the extent that the final dose of 16 mg per day is achieved after the completion of the first titration stage having a duration of two to four weeks.
+Clinical Studies
+[6]
+The evidence establishes that leading up to the '950 Patent, galantamine had been the subject of a modest number of clinical trials which focussed on its efficacy as an Alzheimer's drug. During the trials, galantamine was administered by titration in varying doses to patients with Alzheimer's disease. Those studies demonstrated that daily doses of galantamine of 24 mg and higher were efficacious but problems with patient tolerability and compliance were quite common.
+[7]
+It was during a further Phase III clinical trial (the Patent Study) that Janssen established that the use of a slower titration rate could reduce the frequency and severity of side-effects from galantamine. This finding was the foundation for Janssen's inventive assertion in the '950 Patent that its method of slow titration effectively reduced the adverse side-effects that would otherwise be experienced from galantamine.
+[8]
+The Patent Study also demonstrated that galantamine was almost equally efficacious at daily dosages of 16 mg and 24 mg. Notwithstanding the absence of any stated finding in the Patent Study that the efficacy of 16 mg of galantamine was caused by the titration method employed, Janssen drew that conclusion by comparing the results of the Patent Study to an earlier study by Wilkinson and Murray (the Prior Study). In the Prior Study it had been found that an 18 mg daily dose of galantamine was, in terms of efficacy, sub-optimal. The Prior Study discussed the significance of its data in the following passage:
+"Galantamine is an effective and well-tolerated symptomatic treatment for AD. Over a period of 12 weeks, galantamine produced an improvement in cognitive performance, as assessed by the primary efficacy variable, ADAS-cog. The largest treatment effect was seen for galantamine 24 mg/day (4.2 points on the PP analysis and 3 points on the more conservative ITT analysis). Both the 18 and 36 mg/day doses of galantamine produced significant benefits on cognitive function on PP analysis. Although not powered to detect changes in secondary outcome measures, galantamine produced a significantly better outcome than placebo on quality of life and global response to treatment."
+[9]
+In an interim version of the Prior Study report, the authors also discussed the value of slower titration as a means of achieving higher levels of patient compliance:
+"The interim results obtained from this ongoing Phase II study confirm and extend earlier reports that galanthamine hydrobromide holds promise as an effective and well-tolerated treatment for cognitive impairment in patients with SDAT. The data presented indicate that galanthamine (30 mg/day) administered over a period of 12 weeks to patients with SDAT effects a statistically highly significant improvement in cognitive performance. Excellent overall tolerability to the drug with a low withdrawal rate was observed in this study. Although final conclusions must await completion and full statistical analysis of the study, it appears that optimal patient benefit has been achieved at a daily dose of 30 mg. Dosage adjustment during initial exposure to the drug, i.e. a more gradual dose escalation and the permitted use of anti-nauseants, may be expected to further improve compliance, and a four-week titration period has been incorporated in the current Phase III studies. These interim findings demonstrate a very promising potential for galanthamine in the treatment of Alzheimer's disease."
+I.
+Issues
+[10]
+Burden of proof?
+[11]
+Obviousness, utility and claims construction?
+[12]
+What is a method of medical treatment?
+[13]
+Are the relevant claims a method of medical treatment and, if so, can that subject matter be patented?
+[14]
+Costs?
+II.
+Analysis
+Burden of Proof
+[15]
+The parties are in agreement and it is well established that the ultimate burden of proof on this application rests with Janssen to establish on a balance of probabilities that Mylan's allegations of invalidity are not justified.
+Obviousness, Utility and Claims Construction
+[16]
+The issue that is determinative of this application is whether the relevant claims constitute a method of medical treatment and are, on that basis, unpatentable. Because I have concluded that the relevant claims constitute unpatentable subject matter, it is unnecessary for me to resolve the other substantive issues that were raised by Mylan's NOA and addressed in the evidence. Suffice it to say that I have no doubt whatsoever that Janssen's claim to have discovered that the slow titration of galantamine reduced patient side-effects was well-known in the prior art and therefore would have been obvious to a person of skill at the relevant time.
+[17]
+I also do not accept Janssen's other inventive premise that the proposed method of slowly titrating galantamine can lead to a lower maintenance dose (16 mg) than would otherwise be required. This is an unwarranted and unsound conclusion that cannot be drawn or predicted by comparing the clinical study underlying the '950 Patent with the results of an earlier non-comparative clinical study which, according to the '950 Patent, found a dose of 18 mg of galantamine to be "sub-optimal".
+[18]
+In the field of pharmaceutical research, it is common that the results of one clinical study are not replicated in another, even where the study designs are equivalent. In the absence of a well-designed head-to-head study of galantamine comparing different approaches to titration, no one could reasonably conclude that these marginally different study outcomes were caused by the slowed titration of galantamine and not for some other reason.
+[19]
+I am satisfied that the relevant claims are open to being construed and that they are not invalid on the basis of ambiguity. Because the determinative issue of whether the claims cover a method of medical treatment does not turn on the meaning of the disputed language, it is unnecessary for me to precisely resolve that point.
+What is a Method of Medical Treatment?
+[20]
+On at least two occasions the Supreme Court of Canada has addressed the issue of subject matter patentability in relation to an asserted method of medical treatment.
+[21]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 202 the Court considered the question in relation to the use of a compound with known essential qualities (an adhesive) for a novel and practical medical use (the closure of surgical incisions). The question before the Court was whether the proposed method of use fell within the definition of an "invention" in s. 2 of the
+Patent
+Act
+, R.S.C. 1952, c. 203 (now R.S. 1985, c. P-4) (
+Act
+) and, in particular, whether it was a patentable "art" or "process". The Court further refined the question before it to "whether a new use for surgical purposes of a known substance can be claimed as an invention" (para. 11). In holding that this adaptation of the adhesive product to a surgical use was not a patentable invention, the Court considered the problem in the context of the administration of medicinal substances:
+"It is clear that a new substance that is useful in the medical or surgical treatment of humans or of animals is an 'invention'. It is equally clear that a process for making such a substance also is an 'invention'. In fact, the substance can be claimed as an invention only 'when prepared or produced by' such a process. But what of the method of medical or surgical treatment using the new substance? Can it too be claimed as an invention? In order to establish the utility of the substance this has to be defined to a certain extent. In the case of a drug, the desirable effects must be ascertained as well as the undesirable side effects. The proper doses have to be found as well as methods of administration and any counter-indications. May these therapeutic data be claimed in themselves as a separate invention consisting in a method of treatment embodying the use of the new drug? I do not think so, and it appears to me that s. 41 definitely indicates that it is not so."
+The Court concluded by holding that a method of surgical treatment was also excluded from the term "process" found in s. 2 of the
+Act
+. This was a conclusion that was based in part on s. 41 of the
+Act
+(repealed in 1987) which prohibited the patenting of "inventions relating to substances prepared or produced by chemical processes and intended for food or medicine".
+[22]
+In
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  (hereinafter referred to as
+AZT
+) the Supreme Court of Canada distinguished its decision  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , holding that the discovery of a wholly new use for a medicinal compound was patentable. Nevertheless, the decision did not cast doubt upon the essential point from
+Tennesse Eastman
+that monopolies over methods of medical treatment are not permitted, pointing out that "[h]ow and when, if at all,
+AZT
+is employed is left to the professional skill and judgment of the medical profession" (para. 50).
+[23]
+ <FRAGMENT_SUPPRESSED>  Justice Jean-Eudes Dubé considered the method of medical treatment issue in connection with a patent over a medical device used for performing eye surgery. He held that an apparatus used to assist a surgeon in the exercise of professional skill is patentable. This is consistent with a number of authorities which have held that patent claims directed at vendible products are recognized: see the discussion by Justice Roger Hughes in
+ <FRAGMENT_SUPPRESSED>  at paras. 109 to 114.
+[24]
+More recently, in
+ <FRAGMENT_SUPPRESSED>  Justice Sean Harrington considered the problem in the context of a patent claim for a dosage range for a medicinal compound. After reviewing the relevant prior authorities, including
+Tennessee  <FRAGMENT_SUPPRESSED> , Justice Harrington held that a patent claim over a dosage range is not a vendible product and, therefore, not patentable. Justice Harrington went on to find that, notwithstanding the intervening repeal of s. 41 of the
+Act
+,
+Tennessee  <FRAGMENT_SUPPRESSED> , was still good law in Canada.
+[25]
+To the same effect is the decision by Justice Hughes in
+ <FRAGMENT_SUPPRESSED>  exclude the exercise of medical professional skill or judgment was not patentable in Canada, although a claim to a fixed dosage amount may be patentable: see para. 114.
+[26]
+What I take from the above authorities is that a patent claim over a method of medical treatment that, by its nature, covers an area for which a physician's skill or judgment is expected to be exercised is not patentable in Canada. This would include the administration of a drug whereby the physician, while relying upon the dosage advice of the patentee, would still be expected to be alert and responsive to a patient's profile and to the patient's reaction to the compound.
+The Witnesses
+[27]
+Dr. Joel Sadavoy is a professor of psychiatry at the University of Toronto and Head of the Geriatric Psychiatry Programs and Community Psychiatry Programs at Mount Sinai Hospital in Toronto. He has an active clinical practice in geriatric medicine, which includes the treatment of patients with Alzheimer's disease. Dr. Sadavoy has published widely in the area of geriatric psychiatry and he is the author of the 2004 textbook
+Psychotropic Drugs and the Elderly: Fast Facts
+.
+[28]
+Dr. Murray Raskind is the Director of the Alzheimer's Disease Research Centre at the University of Washington. His medical practice includes the treatment of 200 to 300 patients with Alzheimer's disease. He also has considerable experience in the management of clinical trials that evaluate treatments for Alzheimer's disease, including a clinical trial of galantamine. He has an lengthy curriculum vitae which includes contributions to over 240 publications. He also has had a professional consulting relationship with Janssen and has previously testified on its behalf in American patent litigation.
+[29]
+Dr. Serge Gauthier is a neurologist. He teaches in the Departments of Psychiatry, Neurology and Neurosurgery at McGill University. He is also the Director of the Alzheimer's Disease and Related Disorders Unit at the McGill Centre for Studies in Aging. Dr. Gauthier has worked in the field of Alzheimer's disease for over 31 years as a treating physician, an investigator and scientific advisor and is widely published in this area of medicine. He has considerable experience working with galantamine.
+[30]
+Dr. Edward Sellers is a Professor Emeritus of Medicine, Pharmacology and Psychiatry in the faculty of Medicine at the University of Toronto. He has a Ph.D. in Pharmacology from Harvard University and he is widely published in that field.
+[31]
+Dr. Peter Lin is a primary care physician practising in two Toronto family practice groups. He is involved extensively in developing and delivering continuing medical education programs to other primary care physicians, albeit Alzheimer's disease is the topic of only a small portion of that work. It is in the context of his clinical practice that Dr. Lin has had experience in treating Alzheimer's disease with galantamine. He purports in his affidavit to offer an opinion with respect to "
+most
+primary care physicians who prescribe ... galantamine".
+The Evidence
+[32]
+As to whether the relevant claims constitute a method of medical treatment, Janssen relied principally on the evidence of Drs. Lin and Gauthier. Nevertheless, this issue was also addressed by Drs. Sellers and Raskind both in their affidavits and in their testimony. I have, therefore, considered all of their evidence on the point without distinction. Mylan's only witness on this issue was Dr. Sadavoy.
+[33]
+Dr. Sadavoy was asked to provide an opinion as to whether the relevant claims in the '950 Patent are distinguishable from the work of a physician. He concluded that the '950 Patent "severally encroaches on the skill of a clinician" because it overlaps with areas of clinical judgment bearing on individualized treatment. This point is expressed at paras. 261, 262, 263 and 264 of his affidavit:
+"261. The Relevant C1aims of the 950 Patent cover the first two components of care: they dictate the amount of drug to be given each day, and the speed at which the drug dose is titrated upwards.
+"262. In my opinion this severely encroaches on the skill of a clinician, as set out throughout this affidavit, treatment with galantamine must be individualized, based on interacting factors made up of patient characteristics (including the health of the patient and his or her tolerance for negative side effects), together with drug characteristics (including the anticipated and actual effects of the drag, both positive and negative).
+"263. Armed with this evaluation, the clinician then plans the best starting dose, titration rate and final dose. During treatment, it is the clinician's responsibility to monitor the patient, evaluate his or her response to the drug and manage any side effects. Based on these ongoing evaluations, the clinician will adjust the dosage amount and titration rate.
+"264. The dosage amount that I prescribe to my patients is determined in part based on the dosages available, and in part on the patient's tolerance of the drug and his or her response to treatment."
+[34]
+Dr. Sadavoy was examined on this evidence and the following passages provide a useful summary of his position:
+"387 Q. So 'start low and go slow' is not enough information to treat a patient?
+A. As I said, 'start low and go slow' is a principle. It has to be applied in the specifics to a given patient.
+388 Q. And some of those factors that you've just identified are: Pharmacokinetics and pharmacodynamics of the drug, correct?
+A. That and the known effect of the drug at a clinical level. So pharmacokinetics and pharmacodynamics are very detailed analyzes of a drug's action and the effect of the body on the drug and the drug on the body.
+From a clinical perspective, knowledge of how the individual reacts to the drug as a result of those pharmacokinetics and pharmacodynamics is also important information.
+So, for a given drug, the side effect profile, for example, the way in which that side effect profile emerges will be critical information. And then integrating that knowledge with the understanding of how the patient may be modifying the response to the drug because of their physical condition is equally crucial information for any physician. [p. 1051 to 1052]
+All of that is taken into consideration in evaluating the 'start low, go slow' principle.
+. . . . .
+393 Q. So if we imagine a circumstance where a person skilled in the art is in his clinic and is given a bottle of geriatric medicine, without more description, if I said to the doctor: 'Please administer this to the patient according to the cornerstone principle of geriatric psychiatry, namely, "start low and go slow,'' would you have enough information'?
+A. You would have the initial guidance. As I said before, the essential information for implementing 'start low and go slow' is, who is this patient? What is their ability to metabolize this particular drug at this particular time?
+What are the competing factors that may interfere with the - - with this drug or enhance it? What are the - - what are the qualities of this drug which may be particularly beneficial or toxic or noxious to this particular patient?
+And what is the dosage range for the drug? What are the recommended starting dosages? What are the prudent starting dosages? What is the range of options available for thinking about how to initiate a drug? And so on.
+So, as I said before, practitioners are highly trained and they're highly trained for a reason, because this is a complex process.
+So 'start low and go slow' is the headline. The content of the article, so to speak, under that headline is a complex mix of all of those things and is individualized to every patient." (p. 1053 to 1055)
+[35]
+The affidavit evidence from Dr. Gauthier and Dr. Raskind is that the '950 Patent does not interfere with the exercise of a physician's judgment because it provides helpful information to the physician that will routinely be used in prescribing galantamine.
+[36]
+This was explained in para. 45 of Dr. Gauthier's affidavit:
+"45. The '950 Patent does not interfere with a physician's ability to treat patients; rather, it helps clinicians use galantamine in the most effective manner. The ability to provide patients with a cholinesterase treatment that is proven effective at a lower dose with less side-effects results in improved patient compliance and lessens the burden on care-givers."
+Dr. Gauthier's affidavit must be assessed in the context of his testimony under examination. There, he willingly acknowledged that an individual approach to treatment with galantamine was recommended. This included considerations such as body weight, prior history, tolerability to drugs generally and patient reaction. Dr. Gauthier accepted that dosage adjustments may be required in the face of adverse reactions:
+"A. Yes, that's what's written. I just may want to qualify that. Sometimes the titration that has been recommended in the monograph does not apply to an individual patient. So there may be side effects at a dose that you would expect would be well-tolerated so you may, for that individual patient, extend the time of titration by going back to the previously well-tolerated lower dose and then try again later the minimum effective dose." (p. 1742)
+[37]
+Dr. Sellers had a slightly different take on this issue. His evidence was that the '950 Patent claims are not directed at a method of medical treatment because they set out specific dosing regimens for the use of galantamine to treat Alzheimer's disease. According to Dr. Sellers, the claimed dosages and titration periods are "immutably linked" and do not call upon the exercise of a physician's professional judgment in consultation with the patient. Dr. Sellers went on to dispute Dr. Sadavoy's view that dosing regimens are devised by physicians to treat individual patients. This criticism was based on the notion that physicians do not "experiment" on their patients and instead rely upon guidelines or instructions for appropriate dosing based on clinical research. Dr. Sellers went so far as to describe Dr. Sadavoy's approach as "a form of therapeutic anarchy" (p. 3886).
+[38]
+Dr. Lin provided an affidavit similar to that of Dr. Sellers. He, too, deposed that
+most
+physicians treating Alzheimer's disease with galantamine do not design individual dosage regimens and rely instead on the product monograph. He criticised Dr. Sadavoy for supposedly ignoring the evidence-based data. This point is captured at para. 28 ad 29 of Dr. Lin's affidavit:
+"28. At paragraph 265 of his Affidavit, Dr. Sadavoy states '[w]hen considering the rate of titration, I rely on the drug manufacturer's suggestions for titrating the drug, my clinical experience with common patient responses and reactions, and my observations of the specific patient's response and tolerance of each dose level.'
+"29. I disagree that Dr. Sadavoy's clinical experience is better than the evidence-based data that resulted in the Patented Dose Regimen. Dr. Sadavoy is not conducting systematic experiments on his patients capable of establishing the degree of results required to establish the Patented Dose Regimen. When there is no clinical data on a dosing regimen, then a physician's clinical experience would be appropriate. However, once a trial has been conducted on several hundred patients, the evidence-based results from this trial take precedence over a physician's experience."
+[39]
+Both Dr. Lin and Dr. Sellers suggest that the exercise of professional judgment is absent from the treatment protocol outlined in the '950 Patent because no prudent physician would ever deviate from it. According to Dr. Lin, in prescribing galantamine a physician's clinical experience is only ever brought to bear when there is no available clinical data. This was his explanation for the presence of several patient-specific cautions found in Janssen's product monograph directed to physicians who are treating patients with Reminyl (eg. weight, co-morbidity, side-effects, drug interactions). According to Dr. Lin these areas of professional judgment are all addressed to patient populations that had yet to be studied. Accordingly, it was only for such patients that professional judgment needed to be applied to dosing decisions. This distinction is perhaps medically interesting but it does not apply to the '950 Patent which is not limited to any particular patient group or profile. It claims a monopoly for the administration of galantamine to patients suffering from Alzheimer's disease, whether or not they have been the subject of clinical study.
+[40]
+Some parts of Dr. Lin's affidavit evidence are inconsistent with his own practices in treating patients with Alzheimer's disease. Under examination he acknowledged that the dosing information provided by the product monograph was the "starting point" and provided "helpful information to guide our practice" (p. 2412). He also testified that doctors are "used to following guidelines because they sort of summarized things for us" (p. 2414) [see footnote 2]. Dr. Lin went on to acknowledge that Janssen's product monograph guidance to physicians to remain flexible in the titration of galantamine applied but only to a small percentage of patients who had more extreme adverse reactions. Nonetheless and whatever the numbers may be, Dr. Lin conceded that a physician is required to be vigilant and to make individual dosing decisions as required based on a patient's response to the drug. This is clearly an exercise involving professional judgment.
+[41]
+Dr. Sellers similarly conceded that "[t]here may be individual patients where you might want to make such an adjustment ..." (p. 3878).
+[42]
+Both Dr. Sellers and Dr. Lin mischaracterize Dr. Sadavoy's evidence about the role of physicians in prescribing medicine. Dr. Sadavoy did not suggest that a physician would design a dosing regimen mindless to the dosing guidelines of the manufacturer. What he did say was that, in designing a dosing regimen for a patient, a treating physician would be alert to many factors including the product monograph but also to patient profile and response. The fact that some physicians like Dr. Lin may be more heavily dependant upon the product monograph for dosing advice does not mean that physicians like Dr. Sadavoy who may be more attentive to other factors are not practising good medicine. Dr. Sellers' description of Dr. Sadavoy's approach as "a form of therapeutic anarchy" is unfair and it reflects a profound lack of objectivity. It is simply not a valid argument that, in the face of a manufacturer's dosing recommendation, the exercise of all professional judgment by treating physicians goes out the window. To the extent that Drs. Lin and Sellers suggest otherwise, I reject their evidence.
+[43]
+My overall assessment of Dr. Raskind's evidence is that he repeatedly sidestepped the question of individualized care by retreating to the idea that, in the clinical setting, the therapeutic value of galantamine is almost impossible to assess. While that may be the case, it does not detract from the common-sense approach adopted by Dr. Sadavoy, which maintains that adjustments to dosing might still be justified because of the patient's profile, or tolerance to the drug. Dr. Raskind exhibited a troubling dogmatism on this issue. This was coupled with occasional use of injudicious language in the criticism of Dr. Sadavoy that he was forced to withdraw under cross-examination.
+[44]
+I do not accept Dr. Raskind's evidence on this issue for another reason. During Dr. Raskind's examination, he was confronted with evidence he gave in an earlier U.S. proceeding that concerned a patent for galantamine. In the American proceeding, Dr. Raskind was asked about the ability of a physician to effectively use galantamine in the absence of precise dosing information in the patent. In testifying on behalf of Janssen and in support of the assertion of enablement he gave evidence that a physician would be able to work the invention through the application of professional judgment [see footnote 3]. He also testified that the titration "mantra" that would be brought to bear by a physician was "start low, go slow" - in other words, through a titration method generally similar to the process described in the '950 Patent. The specific exchange in the U.S. proceeding was as follows:
+"Q. 'Question: The dosing from the patent? Answer, yes. Question: Have you looked at the dosing of the patent? Answer: Yes, I have. Questions: In your opinion would a person of ordinary skill in the art be able to administer galantamine in a therapeutically-effective dose in 1986, a person of ordinary skill in the art' - - let me start the question over. I think it reiterates about three times.
+"Would a person of ordinary skill in the art in 1986 reading the patent be able to administer galantamine in a therapeutic dose? Answer, Yes, they would. Question: How would he or she do so? Answer: Well, they would start at a low dose, as described in the patent, and then they would gradually titrate the dose upward to a point where they either saw therapeutic effects or the patient developed adverse effects which were troublesome enough to stop any further increase of the medication. Question: And was that technique of titration, was that well-known to a person of ordinary skill in the art in 1986? Answer: Yes. In geriatric medicine, the mantra is start low and go slow but go, so we often make a mistake in geriatric medicine because we are so worried about the side effects starting with a low dose and forgetting to titrate. That's one of the things that we constantly have to keep in mind, you know, it's always a balance between therapeutic effects and adverse effects, but you have to remember that you are trying to get therapeutic effects." (p. 1997-1999)
+[45]
+The above testimony is in marked contrast to what Dr. Raskind said initially under cross-examination in this proceeding. When asked whether in 1996 there was "a mantra" in geriatric medicine "start low and go slow" he stated:
+"I don't accept that mantra. What do you mean by 'mantra'. What is a mantra?"
+Then after being impeached by his United States testimony Dr. Raskind retreated from his Canadian evidence in the following exchange:
+"Q. Now, were you asked those questions and did you give those answers?
+A. I did, and I did.
+Q. So going back to the word 'mantra', this is a word that you used in the answer to a question about whether a person skilled in the art - - whether the technique of titration was well-known to a person of ordinary skill in the art in 1986, and you used it in the context of that answer.
+So I'm suggesting to you that the answer indicates that it was a well-known practice in geriatric medicine to use this technique of start low and go slow.
+Do you agree with me?
+A. I agree.
+Q. And specifically in relation to galantamine?
+A. I agree." (p. 1999-2000)
+[46]
+What is very clear from Dr. Raskind's United States testimony is that he accepted the importance of a physician exercising judgment in the administration of galantamine to ensure that a balance be maintained between therapeutic and adverse effects. I do not accept his later evidence in this proceeding that this area of professional judgment was wholly eclipsed by the inventive promise of the '950 Patent.
+[47]
+Dr. Raskind went on to retract his description of Dr. Sadavoy's approach as "seat of one's pants" and he acknowledged, albeit reluctantly, that some professional judgment was needed in prescribing galantamine, at least for assessing adverse reactions to the drug (p. 2010).
+[48]
+Considering the material and stark nature of the contradictions between Dr. Raskind's testimony in the two proceedings involving galantamine, his testimonial evasiveness in this proceeding and his close association with Janssen, I reject his testimony on this issue.
+[49]
+I have no difficulty with Dr. Gauthier's testimony concerning method of medical treatment. Under examination he was willing to concede the obvious and his testimony did not substantially differ from that provided by Dr. Sadavoy. In the end, though, Dr. Gauthier did not support Janssen's position that, in the face of the clinical study underlying the '950 Patent, no room remained for the exercise of clinical judgment in the administration of galantamine to Alzheimer's patients.
+[50]
+What is clear from the evidence is that prudent physicians like Dr. Sadavoy who are attempting to manage the administration of drugs carrying side effects in the treatment of geriatric patients do so by considering a number of individualized factors. Contrary to the affidavit evidence put forward by Janssen's witnesses, this does not begin and end with the manufacturer's dosing advice. In this context, the titration regimen claimed by Janssen can only be seen as a recommendation to physicians. Effective patient management may require on-going individualized surveillance and concomitant dosing adjustments.
+[51]
+The argument by Janssen and its witnesses that the '950 Patent is helpful to physicians and therefore does not interfere with their skill and judgment misses the point of concern in the authorities. The concern with the patenting of a dosage regimen is that the physician may be prevented from exercising skill and judgment in using a known compound for an established purpose absent a license from the patentee. It is surprising to me that the Janssen witnesses failed to address the problem of imposing a monopoly over the prescribing practices of the medical profession. When Dr. Gauthier was asked about this, it was evident that he had no idea that the enforcement of the '950 Patent might impose practice limitations on physicians attempting to prescribe galantamine. When counsel for Mylan pressed Dr. Gauthier on this point, Janssen's counsel responded that this was really a question of law that the witness was not qualified to answer. While there is undoubtedly a legal aspect to this question, all of Janssen's witnesses could have been asked to comment on how the '950 Patent's proposed monopoly over a medicinal dosing regimen using an old drug for an established purpose might affect the ability of physicians to appropriately treat their patients. It is only within that framework that the question of whether the '950 Patent covers a method of medical treatment could be fairly and properly addressed - and here the Janssen witnesses failed to squarely speak to it.
+[52]
+In conclusion, I have no doubt whatsoever that the '950 Patent relevant claims cover a method of medical treatment. By attempting to monopolize an effective titration regimen for galantamine, the '950 Patent interferes with the ability of physicians to exercise their judgment in the administration of generic versions of the drug. This is because, absent a license from Janssen, any physician attempting to administer a generic version of galantamine to treat Alzheimer's disease by the method claimed by the '950 Patent would infringe. Indeed, in theory, any physician who attempted to prescribe Reminyl to a patient without Janssen's permission in the manner claimed by the '950 Patent would also infringe.
+Should the Ratio  <FRAGMENT_SUPPRESSED>  Eastman Be Reconsidered in Light of The Repeal of s. 41 of the Act and Having Regard to the Decision in  <FRAGMENT_SUPPRESSED> ?
+[53]
+Janssen argues that the ratio of
+Tennessee  <FRAGMENT_SUPPRESSED> , should be revisited in light of the subsequent repeal of s. 41 of the
+Act
+- a provision which Janssen says was the foundation for the decision. As noted above, this is an argument that has been raised before and consistently rejected in this Court. Notwithstanding the intervening repeal of s. 41,
+Tennessee  <FRAGMENT_SUPPRESSED> , remains good law in Canada because the policy concerns it recognized continue to be valid. Quite apart from the problem of "evergreening", the rationale for excluding such patents is that, for ethical and public health reasons, physicians should not be prevented or restricted from applying their best skill and judgment for fear of infringing a patent covering a pure form of medical treatment (as distinct from a vendible medical or pharmaceutical product). This is a particularly obvious concern in a case like this where the '950 Patent effectively blocks the use of a known compound (galantamine) for an established purpose (treating Alzheimer's disease) using a well-known treatment methodology (titration). Indeed, the '950 Patent claims a monopoly over a method of treatment that, in the United States patent proceeding, Dr. Raskind and Janssen maintained was available and workable by any practicing physician who wanted use galantamine to treat Alzheimer's disease.
+[54]
+This situation is closely analogous to the circumstances addressed by the United States Court of Appeals for the Federal Circuit in
+ <FRAGMENT_SUPPRESSED>  administration of a known drug (metaxalone) for a known use (muscle relaxant) and the "unexpected" finding that its bioavailability was enhanced when taken with food. The prior art had recommended that the drug be taken with food but only as a means of reducing nausea. The Court held that a patent was not available for the discovery of a previously unknown benefit that was inherent in the already known and practised use of the drug. The Court stated that "[t]o hold otherwise would remove from the public a method of treating muscle pain that has been performed for decades". I appreciate that the principles of patent law in the United States are different from those applicable here, but that does not make the Court's policy concern any less compelling.
+[55]
+Janssen maintains that the recent decision by my colleague Justice Michael Phelan  <FRAGMENT_SUPPRESSED> , Inc.
+, above, concerning the patentability of business methods ought to inform my approach to the '950 Patent. While I have no difficulty with Justice Phelan's analysis in that case, it does not present a helpful legal analogy. Indeed, Justice Phelan recognized that there are areas of discovery that, on grounds of public policy, cannot be monopolized. The extension of patent protection over some business methodologies involves issues largely of a commercial nature and does not raise the kinds of public policy concerns that apply to the provision of medical care to patients whose lives or wellbeing may be dependent upon it.
+III.
+Conclusion
+[56]
+The relevant claims cover a method of medical treatment that cannot be monopolized under a Canadian patent. Janssen's application for prohibition is, therefore, dismissed with costs payable to Mylan. I will accept written submissions from the parties concerning costs. Mylan will have 30 days to outline its claim to costs and Janssen will have 15 days to respond. Mylan may reply within a further 7 days. The primary submissions shall not exceed 10 pages in length and Mylan's reply shall not exceed 3 pages.
+JUDGMENT
+[57]
+THIS COURT ADJUDGES that
+this application for prohibition is dismissed with costs payable to Mylan Pharmaceuticals ULC in an amount to be determined upon further submissions from the parties.
+[58]
+THIS COURT FURTHER ADJUDGES that
+the style of cause in this proceeding is amended to reflect the Respondent's name change from Genpharm ULC to Mylan Pharmaceuticals ULC and the Applicant's name change from Janssen-Ortho Inc. to Janssen Inc.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+Footnotes
+1. As requested by the parties, I have amended to style of cause in this proceeding to reflect the Respondent's name change from Genpharm ULC to Mylan Pharmaceuticals ULC and the Applicant's name change from Janssen-Ortho Inc. to Janssen Inc.
+2. His affidavit indicated that this information "gives physicians the necessary information to exercise their
+discretion
+in an informed manner" (para. 12).
+3. Dr. Raskind's evidence was summarized in the United States District Court for the District of Delaware trial decision (In
+'318 Patent Infringement Litigation, Re
+(2008), 578 F. Supp.2d 711 (D. Del.) as: "Additionally, Dr. Raskind testified that the standard clinical practice of dose titration could be used to find a therapeutically effective dose of galanthamine" (para. 83).
+[End of document]

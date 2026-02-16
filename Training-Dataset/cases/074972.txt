@@ -1,0 +1,242 @@
+[1]
+Mosley, J.
+: This is an appeal, pursuant to section 48.5 of the
+Patent Act
+, RSC 1985, c P-4 [the Patent Act], of the decision of a Re-examination Board on October 29, 2012, cancelling claims 12, 13, and 14 [the Claims] of Canadian patent no. 2,421,384. The appellant seeks an order cancelling the Certificate dated October 29, 2012, and confirming the patentability of the Claims, or in the alternative an order returning the patent to the Board for a new decision made while applying the correct principles to determine obviousness.
+BACKGROUND
+:
+[2]
+The applicant Newco Tank Corp. owns Canadian patent no. 2,421,384, filed on March 7, 2003 and issued December 15, 2009 after several rounds of discussion with the examiner. It is a patent for a Method and Apparatus for Heating a Liquid Storage Tank which contains 14 claims. The abstract describes it as:
+A method and apparatus for heating a liquid storage tank includes a liquid storage tank having an interior and a peripheral sidewall. An engine compartment is appended to the peripheral sidewall in front of the heat tube. An engine is disposed in the engine compartment. Heat given off from the engine during operation heats the engine compartment and such heat is transferred through peripheral sidewall to the interior of the liquid storage tank. An exhaust conduit extends into the interior of the liquid storage tank. Heat from hot exhaust gases passing through the exhaust conduit heats the interior of the liquid storage tank.
+[3]
+The patent describes the prior art method as being the use of a propane burner to heat the production tanks. It is noted that most oil wells in Alberta are set up similarly, with a production flow line running some distance from the well head to a liquid storage tank. An engine in a wooden shack beside the well head powers the drive head. Propane tanks sit beside the liquid storage tank and provide fuel for both the drive head engine and a propane burner which shoots flame into a fire tube in the liquid storage tank, warming up the contents and keeping them 'flowable' in winter.
+[4]
+The invention provides a more efficient method of warming the storage tank contents by repositioning the drive head engine into a compartment beside the tank and sending the waste heat which it already produces through tubing in the tank, thus eliminating one fuel source. There is a secondary benefit of noise reduction from the engine. The patentee notes that marine engines are a good choice for this system as they generate more waste heat.
+[5]
+The record includes a company presentation declaring that the patented tank design reduced greenhouse gas emissions by up to 60%, reduced noise pollution by 60-70%, reduced operating costs by up to 50%, and provided built-in engine containment and security. Tests with a prototype over the winter of 2008-2009 during outside temperatures in the minus twenties and thirties (Celsius) were apparently very successful.
+[6]
+Claim 1 of the patent is for an apparatus for heating an oil well production storage tank by insetting a portion of a drive head engine compartment into the tank compartment and transferring heat from the engine through the sidewall into the tank. The dependent claims 2-7 are for transferring heat via exhaust and engine coolant conduits extending into the tank and via hydraulic lines along the production flow line between the well head and the tank. Claim 8 is for an apparatus insetting the engine compartment and also for selecting the engine based on the amount of heat it gives off, with the dependent Claim 9 being for an exhaust conduit with interior baffles. Claim 10 is for a method of insetting the engine compartment and the dependent Claim 11 is for a method of passing hot engine fluids through the tank in a conduit.
+[7]
+Claims 12-14 are, after amendment during the examination process:
+12. An apparatus for heating a liquid storage tank, comprising:
+an oil well production storage tank having a peripheral sidewall that defines an interior; an engine used to operate a drive head on a well head of an oil well; and at least one conduit extending from the engine, into the interior of the tank and back to the engine to circulate hot fluid from the engine through the conduit to thereby heat the interior of the tank.
+13. The apparatus of claim 12, wherein the hot fluid comprises at least one of engine coolant and hydraulic oil.
+14. The apparatus of claim 13, comprising more than one conduit extending from the engine to circulate more than one hot fluid.
+[8]
+On October 4, 2011, the Commissioner of Patents' office wrote to the patentee to inform it that a re-examination of the patent had been requested in August 2011. The requester brought to the Board's attention eleven U.S. patents (termed D1- D11 by the Board) and asked that Claims 12-14 of Newco's patent be disallowed. The prior art was said to demonstrate that waste heat from an engine had long been recognized as a heating source during oil production and that substituting engine coolant for exhaust gases as the hot fluid was not an invention. The requester submitted that Newco had stated that the prior art did not teach an inset compartment for the engine but that the use of the same power source to perform two functions (drive head engine and tank heater) was already well-known.
+[9]
+On December 6, 2011, the Board found that Claims 12-14 were novel pursuant to section 28.2(1)(
+b
+) of the
+Patent Act
+, but rejected them as being obvious in view of six of the U.S. patents (D1, D2, D4, D5, D10, and D11) and thus not compliant with section 28.3 of the
+Patent Act
+. It described the prior art references briefly:
+D1 (Finley): teaches the use of engine exhaust waste heat to separate petroleum wellstream fluids in an oil vessel in oil field operations. Exhaust is introduced into the heater tube.
+D2 (Albert): discloses the use of engine exhaust waste heat to heat pumped oil in a heat exchanger core. The heated oil recirculates back in the borehole to dissolve casing scale.
+D3 (Kofahl) teaches the use of a combustion engine in a well to power a pump. Exhaust waste heat is directed to a heat exchanger tube in the well to heat the oil.
+D4 (Gayaut et al.) teaches the use of engine waste heat from exhaust gases, cooling fluid and transmission fluid to heat a fluid via a heat exchanger to treat well casings.
+D5 (Crawford et al.) discloses the use of engine waste heat from exhaust gases, cooling fluid and transmission fluid to heat a treating compound for well tubing.
+D6 (Yewell) teaches use of the waste heat from engine cooling water for heating a well head assembly to prevent freeze ups.
+D7 (Dyer et al.) teaches an engine used to power a pump section to move oil in a pipeline. Part of the pipeline oil is converted to fuel to power the engine. Waste engine exhaust heat is used to heat the oil in the pipeline via a bypass loop to obtain a usable fuel fraction.
+D8 (Williams) teaches use of waste heat from a well head engine to heat up oil in the internal tank of a gas generator to cause separation of the gas and obtain fuel for the engine.
+D9 (Wells) discloses the use of waste heat from engine exhaust to heat oil from a well for separation of water-paraffin emulsions.
+D10 (Immler et al.) teaches the use of waste heat from an engine powering a generator, via the engine's exhaust and cooling systems, to heat up water in a storage tank.
+D11 (King) teaches the use of waste heat from an engine cooling system to heat up water in a tank of a portable washing station.
+[10]
+The December 6, 2011 decision found that the alleged inventive concept of Claim 12 was heating the storage tank oil via a conduit through which passed at least one hot fluid from the engine used to drive the well head. The difference between the claim and the state of the art was the heat source used to heat the liquid in the storage tank. The use of the well known principle of using engine waste heat to heat a liquid in a vessel was obvious in light of the inefficient use of a separate heat source.
+[11]
+Following several requests for reconsideration and further submissions from the patentee, the Board issued its final decision on October 29, 2012, the currently contested Certificate of Re-Examination, rejecting Claims 12-14.
+DECISION UNDER APPEAL
+[12]
+In the October 29, 2012 decision, the Board stated that Claims 12-14 were not patentable in view of the prior art.
+[13]
+Following the approach to obviousness proposed by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at para 67, the Board stated that it considered the person of ordinary skill in the art (POSITA) to be "a technician skilled in the art of oil production." It took the applicable common general knowledge of that person to be the information presented as background knowledge in the patent and found that the problem as disclosed in the patent was "to come up with a more efficient method and apparatus for heating a liquid storage tank at a well site." The Board commented that "as conceded by the Patentee in the letter of March 6, 2012, it was also generally known to use the heat generated by an engine to heat fluids."
+[14]
+The Board examined Claim 12 in light of the six U.S. patents. It considered that the difference between the state of the art and the subject matter of the claim was the heat source used to heat the liquid in the storage tank and said that "the question becomes "Would it have been obvious to substitute the use of waste heat from the known well head engine for that conventionally supplied by a separate propane burner?"".
+[15]
+The Board found that D1, D2, D4, and D5 showed the use of waste heat from an engine to heat liquid in a vessel, in relation to oil field operations. D10 and D11 showed the use of waste heat to heat liquid in a tank and showed the extension of a conduit from the engine into the tank and back. "These references illustrate that it was a well known principle to use the waste heat from an internal combustion engine to heat a liquid in a vessel, both in the field of oil well operations and outside of it. The vessel to which the waste heat is applied may not be an oil well production storage tank; however the question is whether it would have been obvious to use the engine waste heat in such an environment."
+[16]
+The Board concluded that given its findings, it would have been obvious to do what the Patentee did. Novelty was not at issue. The question was whether the inventive concept would have been obvious to a person skilled in the art or whether it required any degree of invention. In the Board's view, the skilled person in the present case would probably look first to disclosures in the field of oil well operations, but would not limit the search to this environment given the more general concern of improving the efficiency of a system in which a liquid is heated in a vessel. D1, D2, D4, and D5 related particularly to oil field operations. D10 and D11 showed that the idea of using engine waste heat on a fluid in a vessel was well known outside of oil field operations. Even without these two references, the Board would still consider the invention to have been obvious in view of the other prior art references and the common general knowledge.
+[17]
+The Board determined that Claim 13 was obvious in light of D1, D2, D4, D10 and D11 even with the reference to "exhaust gases" deleted from the original claim language. There was nothing inventive in choosing one of the known engine fluid heat sources (engine coolant or hydraulic oil) over another (exhaust gas) in the Board's view. Claim 14 was also obvious, the Board found, because, in light of D4 and D5, it was well known to use the heat from more than one engine fluid at the same time to heat a liquid in a vessel.
+ISSUES
+:
+[18]
+The issues initially posed by the parties on this appeal can be framed as follows:
+1. Was the Board's selection of a POSITA reasonable?
+2. Was the Board's identification of the POSITA's skill level reasonable?
+3. Did the Board unreasonably base the decision on its perspective and not that of the POSITA?
+4. Did the Board unreasonably conclude that the problem of inefficient heating formed part of the common general knowledge and prior art?
+5. Did the Board act unreasonably in applying the "obvious to try" test?
+[19]
+At the hearing, questions arose as to the interpretation of the reference to "evidence to the contrary" in s 43(2) of the
+Patent Act
+. As a result, the parties were permitted to make post-hearing submissions as to whether a re-examination request constituted "evidence to the contrary" and whether the Board bears any onus to search for and consider countervailing evidence. Having received and considered those submissions, in my view there is no need to address the first additional question as there is no dispute between the parties that the US patents cited by the requestor constituted "evidence to the contrary" within the meaning of s 43(2). I will address the question of whether the Board bears any evidentiary burden with respect to the second issue.
+[20]
+The relevant provisions of the Patent Act are attached as an Annex to these reasons.
+ARGUMENT &
+ANALYSIS
+:
+[21]
+There is no dispute that the proper approach to an obviousness inquiry is that set out in <FRAGMENT_SUPPRESSED> at para 67:
+67
+It will be useful in an obviousness inquiry to follow the four-step approach first outlined by Oliver L.J. in
+ <FRAGMENT_SUPPRESSED>  (C.A.). This approach should bring better structure to the obviousness inquiry and more objectivity and clarity to the analysis. The <FRAGMENT_SUPPRESSED> approach was recently updated by Jacob L.J. in
+ <FRAGMENT_SUPPRESSED>  [2007] EWCA Civ 588, at para. 23:
+In the result I would
+restate
+the <FRAGMENT_SUPPRESSED> questions thus:
+(1) (a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention? [Emphasis added.]
+It will be at the fourth step of the
+Windsurfing/Pozzoli
+approach to obviousness that the issue of "obvious to try" will arise.
+[22]
+The parties agree, and I accept, that the standard of review for the issues on this appeal has been satisfactorily determined by the jurisprudence to be reasonableness. As stated in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at para 48:
+48 On the facts of this matter, and subject to what was said earlier with regard to review of issues of natural justice and procedural fairness, the Board made its decision based on its explicit legislative authority and mandate. I am satisfied that the substantive questions that were before it were questions of mixed fact and law and were questions within the extensive expertise of its members in the context of a legislative scheme intended to introduce a significant degree of simplicity, brevity and cost saving into a complex legal regime where determinations or impeachment proceedings have evolved into processes that are long, complex and expensive. In the circumstances, in recognition of the high degree of deference that I am satisfied is owed to the Board in this matter and in matters equivalent to it, I am satisfied that the appropriate standard of review on the substantive issues arising herein is "reasonableness" or, put in language often adopted on appeals, the decision under review for substantive error should not be interfered with in the absence of "palpable and overriding error".
+[23]
+The identification of the proper legal test is a question of law to be reviewed on the standard of correctness:
+ <FRAGMENT_SUPPRESSED>  [
+Bell Helicopter
+] at para 117. The generally accepted test for obviousness is whether, at the date of invention, an unimaginative skilled technician, in light of his general knowledge and the literature and information on the subject available to him on that date, would have been led directly and without difficulty to the invention:
+ <FRAGMENT_SUPPRESSED>  [
+Janssen-Ortho
+] at para 90:
+[90] [. ...] Care must be taken in describing a person skilled in the art as there could be danger in defining such a person so narrowly that few, if any, would qualify. Conversely, if the net is cast too broadly, a danger exists in bringing in those unfamiliar with the field. The Court must take a fair and generous view as to what sort of person comprises a person skilled in the art. That person is the ordinary person skilled in the art, not the least qualified or slowest witted. It must not be too astute or technical in its inclusion or exclusion of any group of persons ...
+[25]
+The appellant submits that the Board incorrectly identified the POSITA. This person is to be defined as "having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right" per Hugessen J.A. in
+ <FRAGMENT_SUPPRESSED>  POSITA as a "technician skilled in the art of oil production", then broadened the field to "oil field operations", and then included as well, the appellant argues, the fields of hot water tanks and water wash systems for cars. No skilled person could have the required knowledge of all of the components of oil production, let alone oil field operations and hot water tank systems.
+[27]
+The respondent notes that the Supreme Court has mandated an expansive and flexible approach to an obviousness inquiry rather than an overly rigid rule:
+Sanof
+i at paras 61-63. In particular, the Court cautioned about treating the language in <FRAGMENT_SUPPRESSED> as if it were a statutory prescription that limits the obviousness inquiry.
+[28]
+The <FRAGMENT_SUPPRESSED> definition is set out in the Canadian Intellectual Property Office
+Manual of Patent Office Practice
+at chapter 9.02.02 (as of January 11, 2012). However, as established by recent jurisprudence, while the fictional skilled person may be unimaginative, he or she is deemed to be reasonably diligent in keeping up with advances in the field to which the patent relates. The POSITA is deemed to be sufficiently versed in the art to which the patent relates to enable him or her to appreciate the nature and description of the invention, and to be aware of those relevant patents and publications which would be discoverable in a reasonable and diligent search:
+ <FRAGMENT_SUPPRESSED>  [
+Whirlpool
+] at paras 53, 74; Bell
+Helicopter
+, above, at para 65.
+[29]
+I agree with the respondent that in this case the Board considered the skilled person to be a "technician skilled in the art of oil production". Given the subject matter of the patent, the Board applied the correct test and in doing so, this was a reasonable selection using general terms.
+2. Was the Board's identification of the POSITA's skill level reasonable?
+[30]
+The appellant argues that the Board made claims about the POSITA's presumed skills that were unsupported by fact. The Board began with the end result that a drive head exhaust would produce enough heat to warm a production tank, and then concluded that it would be obvious for the POSITA to realize this and design a system accordingly. It did not provide any evidence of what the POSITA would know beforehand; no training manual, no description from a professional body, and no other evidence of skill level.
+[31]
+In the result, the appellant argues, the image of the POSITA adopted by the Board is closer to that of an engineer than a technician. A technician might be familiar with existing production tank heating systems and would know how to operate a production tank system and make minor repairs in the event of problems but would not have the common knowledge attributed to the POSITA by the Board.
+[32]
+The Board determined the common general knowledge to be the background information found in the patent itself. Based on that information, the skilled person would have the knowledge to recognize the inefficiency problem and imagine a solution. As held in
+Whirlpool
+,
+supra
+, at para 53, the skilled person must have the knowledge necessary to understand and appreciate the matters described in the patent. The Board was not obliged to describe the skilled person's deemed knowledge beyond that to any greater degree. It noted that US patents D1, D2, D4, and D5 were within the area of oilfield operations and the notional skilled person would have been aware of the matters they encompass. While patents D10 and D11 did not relate to oil well operations, they illustrated that the principle of using engine waste heat to heat a liquid in a vessel was known outside the oil field environment.
+[33]
+These findings were open to the Board. While the Court may have reached a different conclusion, it must defer to the Board on the reasonableness standard. As stated by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> :
+49 Deference in the context of the reasonableness standard therefore implies that courts will give due consideration to the determinations of decision makers. As Mullan explains,
+a policy of deference "recognizes the reality that, in many instances, those working day to day in the implementation of frequently complex administrative schemes have or will develop a considerable degree of expertise or field sensitivity to the imperatives and nuances of the legislative regime
+": D. J. Mullan, "Establishing the Standard of Review: The Struggle for Complexity?" (2004), 17 C.J.A.L.P. 59, at p. 93. In short, deference requires respect for the legislative choices to leave some matters in the hands of administrative decision makers, for the processes and determinations that draw on particular expertise and experiences, and for the different roles of the courts and administrative bodies within the Canadian constitutional system. [Emphasis added]
+[34]
+I agree with the respondent that s 43(2) of the
+Patent Act
+does not impose a burden on the Board to seek out and locate evidence independently to support its conclusions on the material before it. This was not an impeachment or infringement action in which an evidentiary and persuasive burden would fall on the party contesting the validity of the patent. Rather it was a two-stage administrative re-examination process:
+ <FRAGMENT_SUPPRESSED> .
+[35]
+In the first stage, the requestor must satisfy the Commissioner that there are substantial new grounds of patentability that justify the establishment of an examination board. In the second, the patentee is given notice of the Commissioner's determination and is entitled to make submissions and to propose amendments to the patent. In this instance, the Board provided the appellant with its views regarding the POSITA and its common knowledge on two occasions and the appellant responded with submissions to both communications. The Board considered these submissions and explained its reasoning in its letter of October 29, 2012.
+[36]
+As discussed by Gibson J, in <FRAGMENT_SUPPRESSED> ,
+supra
+, at para 4, such proceedings are intended to be a "relatively summary and inexpensive alternative to a full-blown impeachment process". They are analogous to decisions made by the Commissioner to refuse to grant a patent under s 40 of the Act. It is inappropriate to impose the burdens that exist in adversarial judicial proceedings for impeachment actions on an administrative re-examination board: <FRAGMENT_SUPPRESSED> ,
+supra
+, at para 70. The Board is not an adverse party in these proceedings as it has no interest in the outcome. The Board is owed a high degree of deference for its expertise, especially with respect to factual determinations such as its view of the relevant POSITA and their common knowledge.
+3. Did the Board unreasonably base the decision on its perspective and not that of the POSITA?
+[37]
+The appellant submits that the Board made several statements in its decision indicating that it was conducting the assessment from its own perspective: "We see nothing inventive" . . . "we see nothing inventive" . . . "our opinion on the patentability". The mentions of the POSITA elsewhere in the decision paid mere lip service to the test to be applied, the appellant contends.
+[38]
+In my view, this argument is unfounded and amounts to a complaint about the wording chosen by the Board to express its reasons for decision. The use of first-person language, without more, did not establish a failure to apply the correct test. As stated by the Supreme Court in
+Newfoundland and  <FRAGMENT_SUPPRESSED> perfection in the wording of reasons is not the standard. Reviewing courts are to determine whether the Tribunal's reasons adequately explain the basis of its decision. Again, the guiding principle for the court is deference. Reading the decision as a whole, I am satisfied that the Board did not substitute its own perspective on the matter for that of the notional skilled person.
+4. Did the Board unreasonably conclude that the problem of inefficient heating formed part of the common general knowledge and prior art?
+[39]
+The appellant argues that in many cases, as in this instance, inventiveness lies in recognizing that a problem exists. The appellant recognized that the current production tank heating method was inefficient, and invented a solution to this problem. In the patent, the problem statement appears directly after a header that reads "SUMMARY OF THE INVENTION" and thus clearly was presented as part of the invention rather than as part of the background, the appellant argues. The Board thus based its rejection on an incorrect assumption that the "inherent inefficient method" of heating the tank with a separate heat source was part of the prior art and common general knowledge.
+[40]
+While the Board did not cite any evidence other than the patent for the proposition that there was a known problem of inefficient heating in oil production storage tanks, it was reasonable for the Board to consider the information found under the "SUMMARY OF THE INVENTION" heading, to be part of the background knowledge which the skilled person would have. I agree with the respondent that it is an elevation of form over substance to say that because the problem which the invention sought to solve was presented under that heading, the matters described there were part of the invention and could not have been known to the skilled person.
+5. Did the Board act unreasonably in applying the "obvious to try" test?
+[41]
+The appellant argues that the Board, in stating at page 9 of its decision that "it is our view that the skilled person would not have, in light of its inherent advantages, simply dismissed the idea without verifying its feasibility", in effect applied the "obvious to try" test described in <FRAGMENT_SUPPRESSED> ,
+supra
+, at paras 67-71. It gave no reasons for using that test, as suggested by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  [
+Wenzel FCA
+] at para 96.
+[42]
+In the alternative, the appellant argues, the claimed invention was unobvious. There is no evidence that the POSITA would have known of the problem. It was unobvious that the solution would work as contemplated. The Board did not show that it was clear to a POSITA that a drive head exhaust could supply sufficient energy to heat a production tank which can hold from 32,000 to 64,000 litres, or that the heat level could be regulated. Moreover, the appellant argues, the fact that one of two energy sources is removed completely, and yet the tank is still heated, is an unexpected result.
+[43]
+The "obvious to try" test contemplates that the mere possibility that a skilled person may find an invention is not enough to show that it is obvious and unpatentable. Rather, the invention must be self-evident from the prior art and common general knowledge. In the context of the decision as a whole, one sentence in the Board's reasons does not amount to an expectation on the part of the Board that the skilled person would engage in the type of experimentation described in <FRAGMENT_SUPPRESSED> ,
+supra
+, at para 68. As discussed in
+Wenzel  <FRAGMENT_SUPPRESSED> 
+, at para 99, the Board "appeared to be referring to the testing that one would expect any diligent manufacturer to do before putting any product on the market, irrespective of whether such product embodied a new invention or a proven design."
+[44]
+The respondent submits, and I agree, that in this case, the Board was of the view that the skilled person would have adapted the existing oil well production storage tank heating system to come up with the claimed design; the use of waste engine heat to heat the storage tank would have been evident from the prior art, even if it was not known that the amount of heat was sufficient for that purpose without verification. The skilled person would have had to confirm that the modification would provide sufficient heat, but would not have had to experiment to invent the concept. Accordingly, the "obvious to try" test was neither required nor used.
+[45]
+For these reasons I conclude that the appellant has not met its burden of establishing that the Board's decision was unreasonable and, therefore, dismiss the appeal. In the language of appeals, as suggested by Justice Gibson in <FRAGMENT_SUPPRESSED> ,
+supra
+, I find no "palpable and overriding error" in the Board's decision.
+[46]
+The respondent shall have its costs calculated on the normal scale.
+JUDGMENT
+[47]
+THIS COURT'S JUDGMENT is that
+the appeal is dismissed with costs.
+Appeal dismissed.
+Editor: Gary W. McLaughlin/vnh
+ANNEX
+Patent Act
+RSC 1985, c P-4
+28.2 (1) The subject-matter defined by a claim in an application for a patent in Canada (the "pending application") must not have been disclosed
+[...]
+(b) before the claim date by a person not mentioned in paragraph (a) in such a manner that the subject-matter became available to the public in Canada or elsewhere;
+28.3 The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(a) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(b) information disclosed before the claim date by a person not mentioned in paragraph (a) in such a manner that the information became available to the public in Canada or elsewhere.
+[...]
+Form and duration of patents
+43. (1) Subject to section 46, every patent granted under this Act shall be issued under the seal of the Patent Office, and shall bear on its face the filing date of the application for the patent, the date on which the application became open to public inspection under section 10, the date on which the patent is granted and issued and any prescribed information.
+Validity of patent
+(2) After the patent is issued, it shall, in the absence of any evidence to the contrary, be valid and avail the patentee and the legal representatives of the patentee for the term mentioned in section 44 or 45, whichever is applicable.
+[...]
+Certificate of board
+48.4 (1) On conclusion of a re-examination proceeding in respect of a claim of a patent, the re-examination board shall issue a certificate
+(
+a
+) cancelling any claim of the patent determined to be unpatentable;
+(
+b
+) confirming any claim of the patent determined to be patentable; or
+(
+c
+) incorporating in the patent any proposed amended or new claim determined to be patentable.
+Loi sur les brevets
+LRC 1985, c P-4
+28.2 (1) L'objet que définit la revendication d'une demande de brevet ne doit pas:
+[...]
+b) avant la date de la revendication, avoir fait, de la part d'une autre personne, l'objet d'une communication qui l'a rendu accessible au public au Canada ou ailleurs;
+28.3 L'objet que définit la revendication d'une demande de brevet ne doit pas, à la date de la revendication, être évident pour une personne versée dans l'art ou la science don't relève l'objet, eu égard à toute communication:
+a) qui a été faite, plus d'un an avant la date de dépôt de la demande, par le demandeur ou un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs;
+b) qui a été faite par toute autre personne avant la date de la revendication de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs.
+[...]
+Délivrance
+43. (1) Sous réserve de l'article 46, le brevet accordé sous le régime de la présente loi est délivré sous le sceau du Bureau des brevets. Il mentionne la date de dépôt de la demande, celle à laquelle elle est devenue accessible au public sous le régime de l'article 10, celle à laquelle il a été accordé et délivré ainsi que tout renseignement réglementaire.
+Validité
+(2) Une fois délivré, le brevet est, sauf preuve contraire, valide et acquis au breveté ou à ses représentants légaux pour la période mentionnée aux articles 44 ou 45.
+[...]
+Constat
+48.4 (1) À l'issue du réexamen, le conseil délivre un constat portant rejet ou confirmation des revendications du brevet attaqué ou, le cas échéant, versant au brevet toute modification ou nouvelle revendication jugée brevetable.

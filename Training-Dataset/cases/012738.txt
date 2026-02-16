@@ -1,0 +1,929 @@
+TABLE OF CONTENTS
+-
+Para. No.
+OVERVIEW
+1
+THE PARTIES
+4
+ESTROGEN-DEPENDENT BREAST CANCER
+8
+--Aromatase
+10
+--Aromatase inhibitors
+13
+--Aminoglutethimide (AG) - The first Generation Aromatase Inhibitor
+15
+DEVELOPMENTS AT ICI
+16
+--Testing on Anastrozole
+22
+THE PATENT
+26
+ISSUES
+41
+EVIDENCE
+42
+--The Utility Experts
+44
+--The Obviousness Experts
+51
+--AstraZeneca's Attack on Dr. Redden's Credentials
+57
+NOC PROCEEDINGS
+64
+BURDEN OF PROOF
+67
+AstraZeneca'S MOTION TO STRIKE
+70
+PERSON OF ORDINARY SKILL IN THE ART
+80
+CONSTRUCTION OF THE CLAIMS
+82
+UTILITY
+86
+--Requirement for Utility
+86
+--The Promise of the Patent
+87
+--Does the Patent Promise Therapeutic Utility?
+96
+---The Expert Evidence
+100
+---Analysis
+106
+---Situating the Patent in the Scientific Context
+110
+---Situating the Patent in the Jurisprudence
+114
+--Does the Patent Promise Fewer Side Effects than AG?
+119
+---The Expert's Evidence
+123
+---Analysis
+126
+---Reading the Promise in the Context of the Patent as a Whole
+140
+---Conclusion on the Promise of the Patent
+145
+---Was the Utility Demonstrated?
+149
+---Expert Evidence
+152
+----The ARI Test
+152
+----The O12 and O13 Test
+155
+---Analysis
+158
+---Is the 420 Patent Disclosure Sufficient?
+169
+---Are Therapeutic Utility and Fewer Side Effects Demonstrated or Soundly Predicted?
+181
+OBVIOUSNESS
+192
+--Common General Knowledge: The Structural Diversity of Inhibitors
+197
+--Mylan's Obviousness Argument
+203
+--AstraZeneca's Obviousness Argument
+205
+--Analysis of Expert Evidence
+213
+--Conclusion on Obviousness
+228
+CONCLUSIONS AND COSTS
+230
+JUDGMENT
+234
+OVERVIEW
+[1]
+Rennie, J.
+: This application for prohibition is brought under the
+Patented Medicines (Notice of Compliance) Regulations
+SOR/93-133, as amended (
+NOC Regulations
+). The medicine at issue is a compound known as anastrozole. The applicant AstraZeneca Canada Inc. (AstraZeneca) has approval from the Respondent Minister of Health to sell in Canada 1 mg anastrozole tablets, which are sold under the brand name ARIMIDEX®. This drug is used in the treatment of cancer, particularly post-menopausal breast cancer.
+[2]
+The respondent Mylan Pharmaceuticals ULC (Mylan) has sought approval from the Minister in the form of a Notice of Compliance (NOC) to sell a generic version of that drug in Canada. Mylan alleges that AstraZeneca's patent is invalid for lack of utility and obviousness, so that a generic version of ARIMIDEX should be allowed on the market before the expiration of AstraZeneca's patent.
+[3]
+For the reasons that follow, the application is allowed, and the Minister is prohibited from issuing a Notice of Compliance to Mylan until after the expiry of Canadian Patent 1,337,420 (the 420 Patent).
+THE PARTIES
+[4]
+The Applicant AstraZeneca is referred to as the "first person" in the
+NOC Regulations
+.
+[5]
+The patent at issue is currently owned by AstraZeneca, but the testing and development was done by Imperial Chemical Industries PLC (ICI), a predecessor to the applicant AstraZeneca UK Limited.
+[6]
+Mylan is the "second person" referred to in the
+NOC Regulations
+, and as noted above seeks approval from the Minister to sell a generic version of anastrozole.
+[7]
+The Respondent Minister of Health is responsible for approving drugs for sale in Canada, by way of issuing a Notice of Compliance under the
+NOC Regulations
+. The Minister had notice of these proceedings but did not participate.
+ESTROGEN-DEPENDENT BREAST CANCER
+[8]
+Breast cancer is the most common cancer in women. By the early 1980s, it was well known that approximately one-third of breast cancers need estrogen to grow. Breast cancer was therefore treated by surgically or medicinally reducing estrogen levels. Surgical techniques involved removing glands or ovaries responsible for estrogen production. Medical techniques involved treatment with anti-estrogen drugs, some of which have been in use for over 30 years.
+[9]
+By the early 1980s, it was also understood that the inhibition of a number of enzymes involved in the synthesis of estrogen would result in reduced estrogen levels, and would therefore be useful in the treatment of breast cancer.
+Aromatase
+[10]
+Aromatase is an enzyme responsible for converting testosterone to estrogen. Steroid hormones such as testosterone, are composed of four fused rings. Aromatase converts one of the rings (ring A) on androgens, resulting in the formation of estrogens.
+[11]
+This conversion process is called aromatization. In one of the steps of conversion, the enzyme aromatase transforms one of the rings in the testosterone molecule (ring A) to a state known as an aromatic state, through the processes of oxidation.
+[12]
+It was known in the early 1980s that preventing aromatization of ring A would prevent the formation of estrogen. Estrogens are the only steroid hormones that have an aromatic ring A.
+Aromatase inhibitors
+[13]
+An aromatase inhibitor is a chemical molecule that interferes with the aromatizing function of the aromatase enzyme, or more colloquially, the conversion of testosterone into estrogen. Aromatase inhibitors block the conversion of androgens to estrogens, thus decreasing the availability of circulating estrogens.
+[14]
+Various cancers, including breast cancer, depend on steroid hormones that have an aromatic ring A for their growth. These cancers can be treated by surgically removing the source of the ring A aromatized steroid hormones, or by preventing the production of ring A aromatized steroid hormones by administering a chemical compound that inhibits aromatization.
+Aminoglutethimide (AG) - The First Generation Aromatase Inhibitor
+[15]
+Aminoglutethimide (AG) was the first aromatase inhibitor to be widely used in breast cancer patients. AG was an effective aromatase inhibitor, but it also inhibited enzymes involved in the production of cortisol, which is a steroid hormone essential for regulating organ function. Cortisol is essential to the body's stress response, and reduced cortisol levels can be a life-threatening condition. Patients taking AG had to be administered hydrocortisone to avoid the serious side effects caused by cortisol deficiency. AG was thus known as a "dirty drug", since it was not sufficiently selective in the enzymes it inhibited. In addition to the cortisol problem, side effects included nausea, lethargy, ataxia, rash and abnormal blood conditions.
+DEVELOPMENTS AT ICI
+[16]
+Because of the problematic and potentially life threatening side-effects, AG was viewed as a prototype aromatase inhibitor in the 1980s. Many research groups were actively attempting to develop more selective aromatase inhibitors. There was a race between pharmaceutical companies and academic research groups to identify such inhibitors.
+[17]
+In 1984, formestane was a second generation aromatase inhibitor, used to treat breast cancer patients. It was the first inhibitor that specifically targeted the aromatase enzyme.
+[18]
+In 1986, Ciba-Geigy disclosed fadrozole, a third generation aromatase inhibitor said to be a more potent aromatase inhibitor than AG, with reduced toxicity. The problem with fadrozole was that it inhibited mineralocorticoid, which could result in increased sodium retention in the body and hypertension.
+[19]
+ICI began intensifying its research into aromatase inhibitors around 1985. ICI had a research group working on the development of agents for the control of fertility in humans and domestic animals, and treatment of hormone dependent tumours. ICI synthesized more than one thousand compounds as potential aromatase inhibitors.
+[20]
+Anastrozole, the compound at issue, was first synthesized around August, 1986. Initially treated as a backup compound, anastrozole became the preferred candidate for clinical development when ICI discovered its lead compound could not be used in humans. The structure of anastrozole can be shown as follows:
+[Diagram omitted - see printed version]
+[21]
+Because it was known that AG inhibited the production of cortisol, and fadrozole inhibited the production of mineralocorticoid, ICI's testing of anastrozole focused on its
+potency
+as an aromatase inhibitor, and its
+selectivity
+, in terms of its ability to inhibit only the targeted enzyme, without affecting other enzymes. Anastrozole was specifically tested for its ability to inhibit aromatase, and whether it also inhibited the production of cortisol and mineralocorticoid, the two main problems with AG and fadrozole.
+Testing on Anastrozole
+[22]
+By June 1988, ICI had carried out seven different tests on anastrozole:
+• Human placental aromatase in vitro (AR1) - a screening test to measure inhibition of aromatase activity.
+• Ovulation inhibition in rats in vivo, dosed at days 2 or 3 of oestrous cycle (OI2 and OI3) - to provide further evidence of inhibition of aromatase activity, but in an in vivo setting. An in vitro compound does not automatically result in in vivo activity.
+• Male side effects in rats in vivo (MSE) - to determine whether the compound had the same side effect as AG, inhibition of cortisol synthesis.
+• Placental enlargement in rats in vivo (PE9) - another measure of aromatase inhibition in vivo.
+• 11-hydroxylase inhibition in guinea pig, dog and cow in vitro - This measured inhibition of 11 -hydroxylase (another enzyme involved in the synthesis of cortisol), to assess selectivity in comparison with fadrozole.
+• Concurrent inhibition of 11- and 18- hydroxylation: effects on sodium and potassium excretion in rats - to assess the selectivity of the tested compounds in comparison with fadrozole, which inhibits hydroxylation at both sites.
+• Male pig-tailed monkey in vivo - measures potency and selectivity in vivo in monkeys.
+[23]
+According to AstraZeneca's expert, Dr. Dowsett, AstraZeneca was granted permission by the U.S. Food and Drug Administration and the European Medicines Agency to initiate the first phase III trial based on clear, reliable and consistent results from the phase I trials around 1995. That is, no phase II tumor response data was required.
+[24]
+Anastrozole has proven to be a highly potent aromatase inhibitor and estrogen suppressor. Anastrozole is also highly selective, and has no impact on adrenal steroids at doses up to ten times than those used clinically. It is an effective and well-tolerated treatment for patients with estrogen dependent breast cancer.
+[25]
+According to Dr. Dowsett, at least until 2008, anastrozole was the most widely used aromatase inhibitor in the world, although the particular aromatase inhibitor to be used is a matter of clinical preference.
+THE PATENT
+[26]
+This case concerns Canadian Patent No. 1,337,420 (the 420 Patent). The patent was filed on June 15, 1988, claiming priority from a U.K. application filed on June 16, 1987. This is an "Old Act" patent. That is, the application was filed before October 1, 1989, and is therefore governed by the provisions of the "old"
+Patent Act
+, RSC 1985, c P-4.
+[27]
+The patent issued on October 24, 1995, and expires on October 24, 2012.
+[28]
+The 420 Patent is titled "(Substituted-aralkyl) Heterocyclic Compounds". The inventors are listed as Philip Neil Edwards and Michael Stewart Large, both of the UK neither of whom gave evidence in this proceeding.
+[29]
+Only claims 13, 14 and 15 of the 420 Patent are at issue in this proceeding.
+[30]
+Claim 13 reads as follows:
+The compound 2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile).
+[31]
+This chemical formula is referred to by the parties simply as anastrozole. Thus, claim 13 specifically claims the compound anastrozole. According to AstraZeneca, no other compound is individually claimed in the 420 Patent.
+[32]
+Claim 14 claims a pharmaceutical or veterinary composition, which comprises an effective amount of anastrozole:
+A pharmaceutical or veterinary composition which comprises an effective amount of the compound 2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile) together with a pharmaceutically or vetrinarily acceptable diluents or carrier.
+[33]
+Claim 15 claims the use of anastrozole as an aromatase inhibitor:
+The use of the compound 2,2'-[5-(1H-1, 2, 4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile) as an inhibitor of the enzyme aromatase.
+[34]
+Claim 16 claims a commercial package containing anastrozole as an active pharmaceutical ingredient for use as an aromatase inhibitor.
+[35]
+The specification of the patent begins at page 1, with the following opening line:
+This invention relates to (substituted-aralkyl) - heterocyclic compounds, and in particular relates to such compounds which are useful as inhibitors of the enzyme aromatase.
+[36]
+The specification continues in the next paragraph:
+Aromatase in an enzyme which effects aromatization of ring A in the metabolic formation of various steroid hormones. Various cancers, for example breast cancer, are dependent upon circulating steroid hormones which have an aromatic ring A. Such cancers can be treated by removing the source of ring A aromatized steroid hormones, for example by the combination of oophorectomy and adrenalectomy. An alternative way of obtaining the same effect is by administering a chemical compound which inhibits the aromatization of the steroid ring A, and the compounds of the invention are useful for this purpose.
+A variety of compounds possessing aromatase inhibitory activity is known, of which the most important clinically is aminogluthethimide. Aminogluthethimide, however, has the drawback that it affects other aspects of steroid metabolism, with the consequence that its use is often associated with undesirable side-effects. It is a particular object of the present invention to provide aromatase inhibitory compounds with fewer undesirable side effects than aminogluthethimide.
+[37]
+This part of the specification tells the reader that the invention contains a compound that is useful for inhibiting the aromatization of the steroid ring A, and that such compounds have applications in the treatment of estrogen-dependent cancers.
+[38]
+The patent goes on to identify preferred compounds and particular preferred compounds of the invention at pages 5 and 6. Anastrozole is one of the five particularly preferred compounds. Example 1 sets out a process for synthesizing anastrozole.
+[39]
+At page 11, the specification repeats the statement that "the compounds of the formula 1 are useful as aromatase inhibitors", and that aromatase inhibition has been demonstrated through two tests. The specification goes on to describe the AR1 in vitro test and the OI2 and OI3 in vivo tests. The results of these tests are provided at page 13:
+In the above tests, the compounds of formula 1 are active at less than 10 g/ml (in vitro), and the preferred compounds of the formula 1 are active at below 0.1 g/ml (
+in vitro
+) and 1.0 mg/kg (
+in vivo
+), and no indication of any toxicity has been seen at these doses.
+[40]
+These are the only two tests referred to in the patent. The patent does not disclose the other five tests ICI conducted on anastrozole.
+ISSUES
+[41]
+This proceeding concerns whether Mylan's allegations of invalidity regarding claims 13 to 15 of the 420 Patent are justified on any of the bases set out in the Notice of Allegation. Generally, the parties have raised the following four issues:
+a. What is the promise of the 420 Patent?
+b. Had the inventors demonstrated the promised utility by the Canadian filing date?
+c. Had the inventors soundly predicted the promised utility of the 420 Patent by the Canadian filing date?
+d. Was anastrozole obvious?
+EVIDENCE
+[42]
+Each party provided affidavit evidence from two experts, one dealing primarily with utility, and one dealing primarily with obviousness.
+[43]
+The only other material witness was Dr. Michael Dukes. He is a former senior scientist at ICI and later at AstraZeneca, and was responsible for biological testing in the aromatase inhibition project. He provided fact evidence regarding the development and testing of anastrozole by ICI.
+The Utility Experts
+[44]
+AstraZeneca's utility expert is Dr. Mitchell Dowsett. He is a professor of biochemical endocrinology Head of the Academic Department of Biochemistry at the Royal Marsden Hospital and the Institute of Cancer Research. He is also a professor of Translational Research in the Breakthrough Breast Cancer Centre at the Institute of Cancer Research. He holds a Ph.D. in pathology from the Institute of Cancer Research at the London University. His research has focused almost exclusively on breast cancer, and predominantly on hormonal aspects of the disease. He has been involved in the development of aromatase inhibitors for the last 30 years, and his research team has participated in a large number of drug development trials, with particular emphasis on aromatase inhibitors.
+[45]
+Dr. Dowsett was asked by counsel for AstraZeneca to answer the following questions:
+a. What was the understanding with respect to aromatase inhibitors as of June 16, 1987 and/or June 15, 1988?
+b. Who is the person skilled in the art (the skilled person, or POSITA) to whom the 420 Patent is directed?
+c. What is taught by the 420 Patent?
+d. What is shown by the testing of anastrozole reviewed in the affidavit of Dr. Michael Dukes?
+[46]
+Dr. Dowsett's evidence is confidential.
+[47]
+Mylan's utility expert is R. Charles Coombes. He is a medical doctor, an oncologist and a professor of medical oncology. He holds a Ph.D. and an M.D from the University of London. His Ph.D. work was on endocrine aspects of cancer, including ectopic secretions of hormones by cancer. From 1980-1987, Dr. Coombes was involved in developing aromatase inhibitors, and worked alongside a medicinal chemist. He is currently the Head of the Department of Cancer Medicine at the Imperial College School of Medicine.
+[48]
+Dr. Coombes was asked by counsel for Mylan to provide his opinion and commentary on the following questions:
+a. Who is the person skilled in the art to whom the 420 Patent is directed?
+b. How would a person skilled in the art have understood the claims of the 420 Patent at June 16, 1987, the priority date, June 15, 1988, the Canadian filing date, and October 15, 1995, the issue date of the 420  <FRAGMENT_SUPPRESSED>  demonstrates its promised utility by either June 16, 1987 or June 15, 1988?
+e. As of either June 16, 1987 or June 15, 1988, is there a factual basis and sound line of reasoning disclosed in the 420 Patent to support a sound prediction of the promised utility of the 420 Patent?
+f. Does any information provided by AstraZeneca demonstrate the promised utility of the 420 Patent?
+g. Was there described and supported in the 420 Patent any peculiar or unexpected property of anastrozole that conferred a surprising advantage over the prior art aromatase inhibitors?
+[49]
+Dr. Coombes's evidence is confidential.
+[50]
+Both experts were cross-examined. Neither party raised any challenges to the experts credentials. Both Dr. Coombes and Dr. Dowsett are recognized experts in the field. In fact, they shared the same lab for about a year while completing their Ph.D. work, and have published journal articles together.
+The Obviousness Experts
+[51]
+AstraZeneca's expert on obviousness is Rolf W. Hartmann. He is a professor of pharmaceutical and medicinal chemistry at Saarland University, Saarbrucken, Germany. He holds a Ph.D. in pharmaceutical chemistry, and his thesis concerned the design, synthesis, biological evaluation and mode of action of novel antiestrogens with structures different from the drug tamoxifen. Dr. Hartmann's work involved synthesizing and testing aromatase inhibitors in the 1980s. In 1987, Dr. Hartmann received a 'Habilitation', which is awarded for independent scholarly research undertaken at the post-doctoral or professorial level, for his thesis entitled "Establishment of a Test System and Development of New Mammary Tumor Inhibiting Aromatase Inhibitors". Dr. Hartmann states that he has closely followed the literature on aromatase inhibitors for virtually his entire career, and has been active in research on aromatase inhibitors since 1983. He is a tenured professor and continues to direct an active research program involving drug design and development.
+[52]
+Counsel for AstraZeneca asked Dr. Hartmann the following questions:
+a. Describe the qualifications of the person of ordinary skill in the art to whom the 420 Patent is directed.
+b. Provide an overview on the background to the 420 Patent and the state of the art of aromatase inhibitors as of June 1987 and June 1988.
+c. Review the 420 Patent and comment on the invention that is disclosed and claimed in claims 13 through 16.
+d. Answer the following questions on 'obviousness' related to the 420 Patent, having regard to a letter from Mylan dated June 21, 2009 and the documents listed in the letter:
+i. What is the relevant common knowledge of the skilled person?
+ii. What would the skilled person have considered to be the invention disclosed and claimed in claims 13 to 16 of the 420 Patent?
+iii. Identify the differences between the prior art listed in the letter and the invention disclosed from part (b) above?
+iv. Without any knowledge of the invention from part (b) above and considering the prior art, do the differences constitute steps that would have been obvious to the skilled person? In addressing this question, counsel have asked me to consider the following factors?
+1. Would it be self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to the skilled person?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials to be carried out or would the experimentation be prolonged and arduous such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the 420 Patent addresses?
+4. What is the course of conduct which was followed which culminated in the making of the invention?
+5. Was it obvious to try the invention of claims 13-16 of the 420 Patent?
+e. Comment on the testing reported in the affidavit of Dr. Michael Dukes and what it demonstrates.
+f. Comment on the affidavits of Dr. R. Charles Coombes and Dr. Peter Redden.
+[53]
+Only a small portion of Dr. Hartmann's affidavit is confidential.
+[54]
+Mylan's obviousness expert is Peter Redden. He is a synthetic chemist who holds a Ph.D. in organic chemistry from Dalhousie University. His early work related to the preparation of naphthalene derivatives. From 1999 to 2003, he was a senior scientist in medicinal chemistry, where he directed a drug development team. The focus of this work was on identifying anti-estrogen compounds for the treatment of breast cancer and other cancers, and osteoporosis. From 2003-2008, he was a principal scientist in medicinal chemistry, overseeing drug development teams identifying potential therapeutic agents for cardiovascular indications, anemia, inflammation and Alzheimer's disease. From 2003-2005 his research specifically focused on identifying therapeutic agents for the treatment of breast cancer. Since 2008, he has worked as a consultant in synthetic and medicinal chemistry, for various biotechnology companies and contract research organizations.
+[55]
+Dr. Redden was asked the following questions by counsel for Mylan:
+a. Who is the person skilled in the art to whom the 420 Patent is directed?
+b. How would a person skilled in the art have understood the claims of the 420 Patent on October 24, 1995?
+c. What is the inventive concept of the 420 Patent?
+d. What was the state of the art as of June 1987?
+e. Is there a difference between the state of the art in June 1987 and the inventive concept described in the 420 Patent and if so, what is it?
+f. Taking into account the prior art and the common general knowledge held by the skilled person prior to June 16, 1987, would the skilled person have been able to come to the claimed invention without undue burden or any degree of invention, conducting no more than routine trials?
+[56]
+Dr. Redden's evidence is not confidential.
+AstraZeneca's Attack on Dr. Redden's Credentials
+[57]
+AstraZeneca takes issue with Dr. Redden's qualification as an expert. In AstraZeneca's view, Dr. Redden is not qualified to provide an expert opinion. AstraZeneca argues that he was not a skilled person at the relevant date, and that he simply does not have sufficient knowledge of the art. Dr. Redden first learned about significant aspects of the art on reading Dr. Hartmann's affidavit. He did not previously know about Type 1 and Type 2 inhibitors. He obtained the prior art from counsel for Mylan. The parties agree that Dr. Redden does not have any experience synthesizing aromatase inhibitors, although he does have experience synthesizing anti-estrogen compounds.
+[58]
+Mylan agrees that Dr. Redden "does not have Dr. Hartmann's academic renown and experience with aromatase inhibitors", but argues that he can still provide the perspective of a skilled chemist to the problem of synthesizing aromatase inhibitors in the mid-1980s.
+[59]
+There is no doubt that Dr. Redden is currently a skilled person. He has an advanced degree in a relevant field and approximately ten years of experience in drug development, including anti-estrogen compounds. However, his affidavit discloses that he was not a skilled person at the time the 420 Patent was filed.
+[60]
+The 420 Patent was filed on June 15, 1988. Dr. Redden worked on his Ph.D. from 1985-1989. He did not complete a Master's degree prior to his Ph.D., and therefore had not obtained a higher level degree at the time the 420 Patent was filed. It does not appear that Dr. Redden had any experience with medicinal chemistry or pharmaceutical applications at this point. His affidavit indicates that he began working with chemicals that had potential for use in therapeutic indications in 1993.
+[61]
+AstraZeneca did not bring a motion to have Dr. Redden's evidence struck. In oral argument, AstraZeneca stated that their position was that Dr. Redden's evidence was inadmissible, and in the alternative should not be given weight.
+[62]
+In my view, AstraZeneca's attack on Dr. Redden's credentials as an expert goes to weight and not admissibility. I note that in
+ <FRAGMENT_SUPPRESSED>  (
+Eli Lilly olanzapine
+) at paras 201-205, Justice Johanne Gauthier admitted evidence from an expert who did not have the characteristics of an ordinary person skilled in the art as defined by the Court, either prior to the claims date or at the time of the hearing. Justice Gauthier dealt with his lack of expertise by assigning the evidence very little weight. In this case, Dr. Redden currently has the characteristics of a skilled person, but he did not have these characteristics at the time the patent was filed.
+[63]
+Dr. Redden can give an opinion on the issues raised in this case from the perspective of a skilled person.
+NOC PROCEEDINGS
+[64]
+The
+NOC Regulations
+were introduced in 1993 to replace the previous compulsory licensing scheme for drug patents in Canada. The
+NOC Regulations
+identify a "first person", usually a brand or an innovator, who owns a patent and who has received permission to sell a drug relating to the patent in Canada. A "second person", usually a 'generic' drug company, seeks to use the
+NOC Regulations
+to obtain approval to sell a generic version of the drug. The second person can state that they will wait for the patent to expire, or that the patent will not be infringed, or that the patent is invalid.
+[65]
+The second person must notify the first person that they intend to seek approval to sell the drug. This notification takes the form of a "Notice of Allegation" (NOA). The NOA is required by subsection 5(3)(a) of the
+NOC Regulations
+. Subsection 5(3)(b)(ii) states that the NOA must include "a detailed statement of the legal and factual basis for the allegations". The NOA must be sufficiently detailed to make the "first person" fully aware of the grounds raised as to invalidity or non-infringement of the patent. In Court, a "second person" cannot present argument and evidence relating to an issue outside the scope of the NOA.
+[66]
+Under subsection 6(2) of the
+NOC Regulations
+, the first person is required to demonstrate that none of the allegations is justified. As stated by Justice Roger Hughes, "the object of the proceedings is to look at the allegations, consider the evidence, apply the law, and determine whether an allegation made in the NOA is justified":
+ <FRAGMENT_SUPPRESSED> ( <FRAGMENT_SUPPRESSED> rosiglitazone
+).
+BURDEN OF PROOF
+[67]
+Section 43(2) of the
+Patent Act
+states that "in the absence of any evidence to the contrary" a patent is presumed to be valid. In a NOC proceeding, the first person bears the legal burden throughout the proceeding. The first person's legal burden is to show that it is entitled to the order of prohibition:
+ <FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> rosiglitazone
+, above, at paras 43-44.
+[68]
+The first person may rely on the presumption of validity, which as noted above operates "in the absence of any evidence to the contrary". Using this presumption, the first person could meet their burden merely by proving the existence of the patent. However, the presumption is weakly worded, and if the second person leads any evidence that could support a finding of invalidity, the presumption is displaced, and the burden rests with the first person to prove the validity on a balance of probabilities. The second person bears an evidential burden to put its allegations into play. The burden is merely to provide some evidence to give its allegations an "air of reality":
+ <FRAGMENT_SUPPRESSED> ( <FRAGMENT_SUPPRESSED> sildenafil
+FC).
+[69]
+To summarize the NOC proceedings with respect to the burden of proof:
+a. Mylan has the evidentiary burden to present a sufficient factual and legal basis to give its allegations of invalidity "an air of reality"; and
+b. AstraZeneca has the legal burden of proving on a balance of probabilities that Mylan's allegations of invalidity are unjustified.
+AstraZeneca'S MOTION TO STRIKE
+[70]
+At the outset of the hearing, AstraZeneca moved to strike portions of Mylan's memorandum of fact and law. AstraZeneca alleged that Mylan's memorandum of fact and law contained an argument that exceeded the scope of the Notice of Allegation (NOA) and that this argument was revealed for the first time in the memorandum of fact and law.
+[71]
+I declined to hear the motion at the outset of the hearing. A memorandum of argument is not a pleading which can be struck, and interlocutory motions in applications are exceptional and are not to be encouraged:
+ <FRAGMENT_SUPPRESSED>  per Justice Rothstein at para 3.
+[72]
+The rationale which underlies this rule is rooted in sound considerations of legal policy. The court should have the complete record before it. The court is not, at the outset of the hearing, well situated to make a decision as the scope of what is in issue before the court. The recognized exceptions to this, such as where a party relies on documents not in the record, or there is significant prejudice to a party, are not in issue here. I therefore dismissed the motion, and directed that issues as to the scope and adequacy of the Notice of Allegations and the appropriateness of certain aspects of Mylan's argument be made in the application.
+[73]
+In issue is the scope of the allegations in the Notice of Allegation. AstraZeneca contends that the Notice of Allegation did not give notice or warning of the argument advanced in its memorandum of fact and law that the testing of anastrozole on animals bearing cancer tumours (animal tumour models) would have been necessary in order to demonstrate or soundly predict utility as of the filing date of the 420 Patent.
+[74]
+As noted above, subsection 5(3)(b)(ii) of the
+NOC Regulations
+states that a NOA shall include "... a detailed statement of the legal and factual basis for the allegation." The Federal Court of Appeal discussed the sufficiency of a NOA in
+ <FRAGMENT_SUPPRESSED> :
+In its more recent jurisprudence, this Court has repeatedly stated that the test of the adequacy of a NOA is whether the detailed statement was sufficient to make the patentee (Pfizer) fully aware of the grounds on which the generic (Novopharm) claimed that the relevant patent would not be infringed if a NOC was issued by the  <FRAGMENT_SUPPRESSED>  Justice Michael Phelan noted that the purpose of the NOA is to "frame the factual and legal issues with sufficient particularity that a potential applicant in this court can know whether and how to rebut the allegations" (para 14).  <FRAGMENT_SUPPRESSED>  (FCA) at para 27, the NOA was found to be sufficient because it did not force the applicant to guess at the real grounds for the respondent's allegations.
+[76]
+While Mylan's NOA could have been more direct and explicit, I find that it provided a sufficient legal and factual basis for its allegation of lack of utility as informed by the case law. The NOA raises the lack of demonstrated or soundly predicted therapeutic utility of anastrozole. The NOA stated at page 9 that "[t]here is no testing at all disclosed in the 420 Patent to support the therapeutic utility of anastrozole... thus no information is disclosed that demonstrates that anastrozole has any or all the utility promised by the 420 Patent... "As well, the Notice of Allegation specifically contrasts the 420 Patent with another contemporary aromatase inhibitor patent which relied on induced animal tumour testing to establish utility. In its memorandum of fact and law, AstraZeneca expressly addressed the role animal tumour testing done in respect of anastrozole:
+ICI did
+not
+test anastrozole in an animal cancer model (where a tumour is induced in the animal and then treated) until 1995 (and only at the insistence of the Japanese regulatory authority). Moreover, this testing was conducted
+after
+anastrozole had been administered to
+human
+breast cancer patients [emphasis in the original].
+[77]
+As well, the issue of tumour testing was discussed in the expert affidavits of both the applicant and respondent and was the subject of extensive cross examinations.
+[78]
+At no point in the course of a three day hearing did the issue of the adequacy of the record, prejudice to, or the capacity of, AstraZeneca to make its case arise. The parties engaged fully on all aspects of the testing, including the impact of animal tumour testing in support of the utility argument. Argument was not stopped because of evidence on the point, nor did AstraZeneca point to evidence which it would have called but for the fact that it was taken by surprise.
+[79]
+The core purpose of the NOA is twofold. It is put the party in a position to make an informed decision whether to seek an order of prohibition (
+ <FRAGMENT_SUPPRESSED>  at para. 4). The second purpose is to frame and control the scope of the evidence and argument on the prohibition application itself. In this case, the twin requirements of providing notice were met. AstraZeneca had notice, or ought reasonably to have been put on notice that the question of animal tumor testing was in issue. In any event, the parties fully joined on the issue and AstraZeneca was not, in any way, prejudiced.
+PERSON OF ORDINARY SKILL IN THE ART
+[80]
+The parties agree that the person skilled in the art (POSITA, or the skilled person) has an advanced degree (a medical degree or a Ph.D.) in a relevant field (medicinal or organic chemistry, biochemistry) and 2 to 3 years experience in the pharmaceutical research and drug development. Alternatively, a skilled person might have a less advanced degree, but more years experience in the pharmaceutical field.
+[81]
+The skilled person could therefore include a synthetic chemist with an interest in aromatase inhibitors, or a physician with an interest in using aromatase inhibitors to treat breast cancer.
+CONSTRUCTION OF THE CLAIMS
+[82]
+The Court must construe the patent and claims at issue before turning to utility and obviousness:
+ <FRAGMENT_SUPPRESSED> . Here, only claims 13-15 are at issue. For ease of reference, I will repeat them here:
+13. The compound 2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile).
+14. A pharmaceutical or veterinary composition which comprises an effective amount of the compound 2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile) together with a pharmaceutically or veterinarily acceptable diluents or carrier.
+15. The use of the compound 2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropiononitrile) as an inhibitor of the enzyme aromatase.
+[83]
+The experts agree that the skilled person's understanding of claims 13-15 of the 420 Patent would be the same on the date of issue (October 24, 1995), the date of filing (June 15, 1988) or today. The experts also agree on how a skilled person would have understood the claims of the 420 Patent:
+i. Claim 13 describes anastrozole using systemic nomenclature.
+ii. Claim 14 claims a pharmaceutical or veterinary composition comprising an effective amount of anastrozole together with a pharmaceutically or veterinarily acceptable diluents or carrier.
+iii. Claim 15 claims the use of anastrozole as an inhibitor of the enzyme aromatase.
+[84]
+Anastrozole is a novel compound. A novel compound is a proper subject matter for a claim, as long as it meets the other requirements of patentability:
+ <FRAGMENT_SUPPRESSED> ( <FRAGMENT_SUPPRESSED> donepezil
+). The compound's utility must be disclosed in the specification, but it does not have to be included as part of the claim.
+[85]
+Here, anastrozole's utility as an aromatase inhibitor is claimed in claim 15. Because anastrozole is a novel compound, utility can also be derived from the specification.
+UTILITY
+Requirement for Utility
+[86]
+Section 2 of the
+Patent Act
+(R.S.C., 1985, c. P-4) (the Act) requires the proposed invention to be both "new and useful". A number of principles associated with the concept of utility were neatly summarized by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> (
+Eli Lilly
+Olanzapine
+FCA):
+The general principle is that, as of the relevant date (the date of filing), there must have been either demonstration of utility of the invention or a sound prediction of the utility. Evidence beyond that set out in the specification can, and normally will, be necessary.
+To establish lack of utility, the alleged infringer must demonstrate "that the invention will not work, either in the sense that it will not operate at all or, more broadly, that it will not do what the specification promises that it will do":
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ).
+Where the specification does not promise a specific result, no particular level of utility is required; a "mere scintilla" of utility will suffice. However, where the specification sets out an explicit "promise", utility will be measured against that promise: <FRAGMENT_SUPPRESSED> ;
+ <FRAGMENT_SUPPRESSED>  (
+Ranbaxy
+). The question is whether the invention does what the patent promises it will do.
+The Promise of the Patent
+[87]
+The requirement of utility begs the question "useful for what?". Again, as Justice Layden-Stevenson wrote in
+Eli Lilly Olanzapine
+ <FRAGMENT_SUPPRESSED>  at para 80:
+The promise of the patent must be ascertained. Like claims construction, the promise of the patent is a question of law. Generally, it is an exercise that requires the assistance of expert evidence:
+ <FRAGMENT_SUPPRESSED>  FCJ No 1579 at para. 27. This is because the promise should be properly defined, within the context of the patent as a whole, through the eyes of the POSITA, in relation to the science and information available at the time of filing.
+[88]
+In construing the promise of the patent, the Court must look to the whole of the disclosure as well as the specific language of the claims, "being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both the patentee and the public":
+ <FRAGMENT_SUPPRESSED>  at 156-157 ( <FRAGMENT_SUPPRESSED> ). Where a reasonable reading of the patent specification can be read to protect a good invention, the Court should give effect to that construction.
+[89]
+The promise of the patent is to be ascertained at the threshold of the utility analysis. The promise is to be construed through the lens or perspective of the skilled person, having regard to the science at the time of filing and the patent as a whole.
+[90]
+Construction of the promise of the patent is a question of law within the exclusive province of the Court:
+GlaxoSmithKline rosiglitazone
+, above at para 86. Courts should be careful in relying on expert evidence to construe the promise of the patent. In
+Pfizer donepezil
+, above at para 224, Justice Roger Hughes reinforces the need for a clear demarcation of roles:
+These illustrations, which are by no means exhaustive, demonstrate the perils in asking experts to stray from their expertise and to enter into the realm of advocacy in construing a patent. It is very tempting for lawyers to seek to put words into the mouths of experts and then seek to urge upon the Court that these words be accepted as being assistance from the expert in interpretation of a patent.
+[91]
+The proper reading of the patent was the subject, of course, of considerable argument by counsel and by experts.
+[92]
+AstraZeneca's position is that the patent only promises aromatase inhibition. AstraZeneca's expert, Dr. Dowsett, stated that he understands that the invention of the 420 Patent relates to compounds that inhibit the enzyme aromatase. In Dr. Dowsett's view, the 420 Patent offers
+the goal or object
+to inhibit aromatase with fewer side effects than the other leading drugs, but does not specifically promise this.
+[93]
+Mylan's position is that the patent contains a threefold promise: (1) the inhibition of aromatase; (2) its therapeutic utility against estrogen dependent cancers; and (3) fewer side effects than AG. I will examine each of the three promises alleged by Mylan separately.
+[94]
+The patent specification opens with the following description of the invention:
+This invention relates to (substituted-aralkyl)-heterocyclic compounds, and in particular relates to such compounds which are useful as inhibitors of the enzyme aromatase.
+[95]
+This paragraph of the specification is not controversial. The parties agreed that this sentence promises that the invention will be useful as an aromatase inhibitor. I note that this language speaks only of the invention's pharmacological action (inhibiting aromatase), and not of any possible applications of the pharmacological action.
+Does the Patent Promise Therapeutic Utility?
+[96]
+The second paragraph describes some common general knowledge regarding the treatment of breast cancer:
+Aromatase is an enzyme which effects aromatisation of ring A in the metabolic formation of various steroid hormones. Various cancers, for example breast cancer, are dependent upon circulating steroid hormones which have an aromatic ring A. Such cancers can be treated by removing the source of ring A aromatised steroid hormones, for example by the combination of oophorectomy and adrenalectomy. An alternative way of obtaining the same effect is by administering a chemical compound which inhibits the aromatisation of the steroid ring A, and the compounds of the invention are useful for this purpose.
+[97]
+The parties are agreed that the first two sentences in this paragraph are common general knowledge regarding breast cancer. The parties take differing views on the last sentence of this paragraph.
+[98]
+The controversy focuses on the meaning of the words "for this purpose". Mylan contends that the purpose referred to at the end of the sentence is cancer treatment. Oophorectomy and adrenalectomy were recognized treatments for breast cancer. According to Mylan's interpretation, the sentence effectively means "an alternative way of [treating breast cancer] is by administering a chemical compound which inhibits the aromatisation of the steroid ring A, and the compounds of the invention are useful [for treating breast cancer] ".
+[99]
+In contrast, AstraZeneca contends that the purpose referred to at the end of the sentence is 'inhibiting the aromatisation of the steroid ring A'. Oophorectomy and adrenalectomy are surgical methods of removing the source of ring A aromatised steroid hormones, and this paragraph is explaining that the invention can remove the source of ring A aromatised steroid hormones through administering a chemical compound.
+The Expert Evidence
+[100]
+Both parties rely on the expert evidence to support their interpretation of this paragraph.
+[101]
+Mylan relies on the evidence of Dr. Coombes. In cross-examination, Dr. Coombes stated in very strong terms that he read the patent as promising therapeutic utility:
+I would say this, these three paragraphs, strongly imply and indicate that the whole point of this is for the treatment of breast cancer. There can be no other interpretation, in my view, to the rational human being that this is the intention of the entire work from start to finish.
+[102]
+Despite his enthusiasm for the therapeutic promise, Dr. Coombes did concede that it was also reasonable to conclude that the inventors were simply hopeful that the compounds of the invention would be useful in the treatment of breast cancer. A skilled person would understand that clinical trials would be required to determine whether the compounds would be effective treatments for breast cancer, and that the compounds might fail in the course of development. Having made those concessions, Dr. Coombes went on to emphasize that a skilled person would know that the research was driven by the desire to develop a treatment for breast cancer.
+[103]
+AstraZeneca, for its part, relied on the evidence of Dr. Dowsett. With respect to a promise of therapeutic utility, Dr. Dowsett stated:
+Q: So at least in terms of how the inventors were contemplating using these compounds, would you agree that it was for the purposes of treating cancer?
+A: Well, they do not explicitly state that.
+Q: Do they refer to anything else as the use of the aromatase inhibitor in this patent?
+A: They do not refer to anything else, no.
+Q: So reading this patent, you would understand that what the inventors were referring to was the use of the compound to treat cancer, would you not?
+A: I would expect their focus to be on breast cancer.
+[104]
+Dr. Hartmann, AstraZeneca's obviousness expert, also stated that he understood that the patent was directed towards the treatment of breast cancer.
+[105]
+Neither party relied on Dr. Redden's evidence with respect to the promise of the patent.
+Analysis
+[106]
+The experts provided objective and relevant evidence consistent with their role in providing the Court with the appropriate lens through which the patent was to be read.
+[107]
+I accept the experts' views that a skilled person would read the 420 Patent with the knowledge that aromatase inhibitors can be used in the treatment of breast cancer. The experts agreed that an aromatase inhibitor with similar or more serious side effects would not have been useful to the scientific community.
+[108]
+In my view, the experts' understanding of the relevant scientific context is one factor to consider when construing the promise of the patent, but it is not necessarily determinative. The Court must also consider the plain language of the claims and the disclosure.
+[109]
+I find AstraZeneca's interpretation of the second paragraph of the 420 Patent to be more persuasive. While this paragraph does refer to cancer treatment, the language focuses on the pharmacological action of the invention. The purpose of the invention is to inhibit the aromatisation of steroid ring A. While it may be common general knowledge that aromatase inhibition can be used in the treatment of breast cancer, I do not read an explicit promise of therapeutic utility into this paragraph.
+Situating the Patent in the Scientific Context
+[110]
+In support of this conclusion, I note that the language of the 420 Patent does not approach the degree of clarity or specificity of similar patents directed to the same object - the treatment of estrogen dependent conditions. For example U.S. Patent 283, filed as Exhibit 2 to the cross examination of Dr. Hartmann, provides:
+The compounds according to the invention are particularly suitable for the treatment of hormone-dependent tumours, particularly the hormone-dependent mammary carcinoma ...
+[111]
+In that case, the compound was tested in vivo, on a tumour model, and this testing was disclosed in the patent.
+[112]
+Similarly, and to the same effect, Exhibit 3 to the cross examination of Dr. Coombes - a patent on which Dr. Coombes is named as the inventor - describes the utility of an estrogen-antagonist compound this way:
+This invention related to
+novel therapeutic agents
+and in particular to steroids suitable
+for use in the treatment of breast cancer
+.
+and
+The present invention therefore
+includes a method for aiding the regression and palliation of breast cancer
+, of benign breast disease, or of carcinoma of the corpus uteri, for preventing or slowing the onset of breast cancer, or for treating an ovulatory infertility, in a patient which comprises administering to that patient a therapeutically effective amount of a compound of formula (I) as defined herein [emphasis added].
+[113]
+The language of the 420 Patent also does not approach the degree of clarity or specificity of other patents in which this Court has read a promise of therapeutic utility.
+Situating the Patent in the Jurisprudence
+[114]
+To round out the context within which the patent is situated, I note that  <FRAGMENT_SUPPRESSED>  donepezil
+, above, Justice Hughes found that the patent promised that the compound was effective in the treatment of Alzheimer's. The patent specification in that case included the following language:
+The invention relates to a cyclic amine compound,
+a therapeutical composition and medical treatment of senile dementia
+.
+. . . . .
+The compound of the present invention was found based on the acetylcholinesterase inhibitory action and, therefore
+, is effective for treatment and prevention of various diseases
+which are thought to be derived from the deficiency of acetylcholine as a neurotransmitter in vivo.
+Examples of such diseases include
+various kinds of dementia including Alzheimer senile dementia and further include Huntington's chorea, Pick's disease, and ataxia.
+Therefore, the objects of the present invention are to provide a novel piperidine derivative effective as a pharmaceutical, particularly for treatment and prevention of central nervous system diseases, to provide a process for preparing the same, and to provide a pharmaceutical comprising the same as an effective ingredient [emphasis added, see para 232].
+[115]
+ <FRAGMENT_SUPPRESSED>  (
+Sanofi ramipril
+), Justice Judith Snider found that the patent at issue promised that the compounds of the invention had use as ACE inhibitors (a pharmacological action) and as anti-hypertensives (therapeutic use). In this case, the patent specification included this language:
+The present invention relates to carboxyalkyl dipeptides
+which are useful as inhibitors of angiotensin-converting enzyme and as antihypertensive agents.
+[Emphasis added]
+The compounds of this invention have useful pharmacological properties.
+They are useful in the treatment of high blood pressure.
+The compounds of the present invention can be combined with pharmaceutical carriers and administered in a variety of well known pharmaceutical forms suitable for oral or parental administration
+to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian hypertension
+[emphasis added, see paras 121-122].
+[116]
+ <FRAGMENT_SUPPRESSED>  (
+Merck lovastatin
+), Justice Snider found a promise of therapeutic utility where the patent specification stated:
+These new compounds have excellent properties of inhibiting cholesterol biosynthesis and are useful against hypercholesteremia and hyperlipemia.
+. . . . .
+The compounds of this invention are highly useful as antihypercholesteremic agents for the treatment of atherosclerosis, hyperlipemia and like diseases in humans [see paras 69 and 75].
+[117]
+These are just a few examples of the type of language that has supported a finding of therapeutic utility. In each case, there is clear language promising that the pharmacological compound will be effective or useful in the treatment of a disease. Such language cannot be found in the 420 Patent.
+[118]
+Having reviewed the opinions of the experts, similar patents, and the relevant case law, I conclude that the second paragraph of the patent does not promise therapeutic utility. At best, it recognizes that the compounds of the invention have the potential to be developed as a treatment for breast cancer. In my view, the patent does not promise that the compounds of the invention are effective as a treatment for breast cancer.
+Does the Patent Promise Fewer Side Effects than AG?
+[119]
+The third paragraph of the patent reads as follows:
+A variety of compounds possessing aromatase inhibitory activity is known, of which the most important clinically is aminoglutethimide. Aminoglutethimide, however, has the drawback that it affects other aspects of steroid metabolism, with the consequence that its use is often associated with undesirable side-effects.
+It is a particular object of the present invention to provide aromatase inhibitory compounds with fewer undesirable side effects than aminoglutethimide
+[emphasis added].
+[120]
+I have referred to the underlined portion of this paragraph as the 'object clause' of the patent in these reasons.
+[121]
+AstraZeneca contends that this object clause is an expression of hope or wish on the part of the inventors that anastrozole would have fewer side effects than AG, and nothing more. AstraZeneca argued at length that the choice of the word "object" was intentional. It is to be contrasted with the declaratory nature of the promise with respect to the compound itself:
+According to the invention, there
+is
+provided ... [emphasis added].
+[122]
+Mylan, in contrast, argues that this paragraph constitutes a clear promise to provide compounds with fewer side effects than AG. Mylan emphasizes that the first, third and fourth paragraphs of the patent all use the phrase "to provide" when describing the novel class of compounds and their advantages over AG. Mylan asserts that if the inventors intended to disclose mere aromatase inhibitors, there would have been no need to refer to AG, or to compare anastrozole's side effects to AG's.
+The Expert Evidence
+[123]
+Dr. Coombes expressed the opinion that the object clause constituted a promise of fewer undesirable side effects than AG. Dr. Coombes emphasized that it would be self-evident to a skilled person that AstraZeneca must have invented an inhibitor with fewer side effects than AG, as there would be no use in yet another inhibitor. There were, at the time, at least five aromatase inhibitors already in use.
+[124]
+Dr. Hartmann agreed that a skilled person would read the object clause as saying that the inventors had synthesized aromatase inhibitors which resulted in fewer undesirable side effects. Though he did not expect to see clinical data to support the claim that the compounds in the invention had fewer side effects than AG, he did expect that the compounds "should have a good chance to be much better than aminogluthemide regarding side effects".
+[125]
+Perhaps unsurprisingly, Dr. Dowsett, AstraZeneca's utility expert, expressed a different view on the meaning of the object clause. He agreed that the entire focus of aromatase inhibition research at this time was to find an inhibitor with fewer undesirable side effects than AG. In fact, all of the experts were agreed on this point. However, in cross-examination, Dr. Dowsett explained that he did not read the object clause as a promise:
+Q: You would agree with me that what the inventors are setting out or stating in what we have just looked at is that they have invented useful inhibitors of the enzyme aromatase with fewer undesirable side-effects than AG?
+A: I am not sure that that is what it is saying. The long term objective is to achieve that. I am not sure that the patent is actually stating that that is what they have achieved.
+. . . . .
+I am not an expert in interpreting patent language, but to me the word 'object' is a goal. I do not know whether or not that means one would actually require that to be demonstrated for this patent to be valid. I read that as a goal. I do read that the compounds of the invention are useful for the purpose of inhibiting aromatase.
+. . . . .
+Q: Right, so if you were an inventor and you were setting out, 'I have invented something' in the context of what you understood to be the research at the time, you would be saying 'I have invented a new aromatase inhibitor that has fewer undesirable side-effects than AG'.
+A: That would be my object, yes.
+Q: That would be what your invention would be, would it not?
+A: I think it is reasonable. I would invent an aromatase inhibitor, I would then have the object of determining whether it actually had more or less side-effects. Unfortunately, I would not actually know that until I got it into the clinic.
+Analysis
+[126]
+As noted above, the views of the experts are one of several relevant factors to consider. For the reasons that follow, I prefer the evidence of Dr. Dowsett, which I find to be more consistent with the text of the 420 Patent, when read as a whole. I agree with AstraZeneca that Dr. Coombes failed to link his opinions to the text of the patent. His opinion was based in large part on the relevant scientific context, the knowledge that there was a race to develop the next blockbuster breast cancer drug, one that would have fewer side effects than AG. There is no doubt that these were the research goals of the drug development process. However, the inventors' objectives or goals cannot elevate the promise of the patent where the language of the patent does not support that promise.
+[127]
+As observed by Justice Hughes, there is considerable jurisprudence on construing the claims, but less jurisprudence on construing the promise of the patent: <FRAGMENT_SUPPRESSED> rosiglitazone
+, above at para 83.
+[128]
+The jurisprudence regarding the construction of the claims has emphasized that the meaning and scope of the patent monopoly must be grounded in the language of the claims. In
+Free World Trust v. Électro Santé Inc.
+, [2000] 2 SCR 1024 the Supreme Court held at paragraph 40 that "[t]he primacy of the claims language was already rooted deeply in our jurisprudence and should, I think, be affirmed again on this appeal".
+[129]
+The Supreme Court's ruling has a long antecedence in the jurisprudence.  <FRAGMENT_SUPPRESSED>  at 572-573, the Supreme Court relied on
+ <FRAGMENT_SUPPRESSED> , where Lord Justice Lindley stated that "after all, the nature of the invention for which a patent is granted must be ascertained from the specification, and has to be determined by the judge and not by a jury, nor by any expert or other witness". In <FRAGMENT_SUPPRESSED> , above, the Court held that "we must look to the whole of the disclosure and the claims to ascertain the nature of the invention and methods of performance".
+[130]
+Similarly, the jurisprudence on construing the promise of the patent has consistently directed judges to look for the promise of the patent in the patent specification. For example, in
+Eli Lilly
+Olanzapine
+ <FRAGMENT_SUPPRESSED>  at para 76, Justice Layden-Stevenson held that "where the specification sets out an explicit "promise", utility will be measured against that promise".
+[131]
+While I have relied on the expert evidence, the jurisprudence, and the language of similar patents, the promise must ultimately be grounded in the language of the patent specification.
+[132]
+A plain reading of the word 'object' suggests that it is an aim to be fulfilled. The Oxford English Dictionary (3rd ed, online version) includes the following definition of 'object':
+A goal, purpose, or aim; the end to which effort is directed; the thing sought, aimed at, or striven for.
+[133]
+Goals and objectives are by definition forward looking. They refer to potential, possibility or contingent events or consequences.
+[134]
+Both Dr. Dowsett and Dr. Coombes agreed that, as persons skilled in the art, they could not determine whether there would be fewer side effects without some form of clinical trial.
+[135]
+A skilled person would observe that the patent does not expressly claim an invention with fewer side effects, and does not refer to any of the well-recognized tests for the inhibition of cortisol synthesis. AstraZeneca argues that in the absence of any clinical testing, a skilled person would not have understood the inventors as
+promising
+fewer side effects. It would not be possible to do a complete assessment of side effects without clinical testing.
+[136]
+AstraZeneca also referred to Harold G. Fox's book
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+, 4th ed (Toronto: Carswell, 1969) at 152-153, arguing that merely pointing to certain advantages of the compounds in object clauses does not amount to a promise:
+But a distinction must be drawn here between a case where a patentee claims a result and bases his claim for a patent on the production of that result, and a case where a patentee merely points to certain advantages that will accrue from the use of his invention. In the former case failure to perform the promise of the specification is fatal to the patent. The actual production of the result claimed is of the essence, and if that result cannot be produced, then the patent is void on the theory that it was based upon a false suggestion and the Crown has been deceived in its grant.
+. . . . .
+In the second class of case, however, the patentee does not base his claim to protection on the promise of a result but merely points to advantages to be obtained. The failure to obtain those advantages, while by no means an irrelevant circumstances, is not necessarily fatal to the patentee. This principle was enunciated by Parker J. in
+Re Alsop's Patent
+: 'Further, there may be cases in which the result which the patentee claims to have produced can in fact be produced, but the patentee has gone on to detail the useful purposes to which such result can be applied, and that in fact the result produced cannot be applied to one or more of such purposes. In such a case I do not think the patent is necessarily void, provided there are purposes for which result is useful'.
+[137]
+Mylan refers to T.A. Blanco White,
+Patents for Inventions and the Protection of Industrial Designs
+, 5th ed (London: Steven & Sons, 1983) at 4-403 on the fulfillment of objects:
+So where the patentee promises (expressly or impliedly) the attainment of a certain result, and this is not obtained, or what is stated as the main object of the invention is not obtained, the patent will be invalid; for "protection is secured by the promise of results; it does not, and ought not to, survive the proved failure of the promise to produce the results'.
+[138]
+In my view, this passage speaks generally to the promise of the patent, and not specifically how to interpret object clauses. As I read it, this passage simply reiterates the fundamental principle that the promise of the patent must be demonstrated or soundly predicted. It does not assist in how to interpret the statement that it is a 'particular object' of the patent to provide aromatase inhibitory compounds with fewer undesirable side effects than AG.
+[139]
+In sum, the plain language of the patent, when read in the context of the patent as a whole, does not support a promise of fewer undesirable side effects. I accept AstraZeneca's argument that not all statements of advantage in a patent rise to the level of a promise. A goal is not necessarily a promise. The third paragraph of the 420 Patent refers to a forward looking goal, a hoped-for advantage of the invention.
+Reading the Promise in the Context of the Patent as a Whole
+[140]
+There is nothing else in the patent which could support a promise of fewer side effects or therapeutic utility. In fact, the only other references in the patent are to the invention's utility as an aromatase inhibitor.
+[141]
+Page 11 of the specification the 420 Patent states:
+As indicated above, the compounds of this invention of the formula I
+are useful as aromatase inhibitors
+. Aromatase inhibition may be demonstrated by the following tests: - [emphasis added]
+[142]
+The following two pages describe two tests which AstraZeneca says demonstrate the utility of anastrozole as an aromatase inhibitor.
+[143]
+Claims 13, 14 and 15 are in issue. As set out above, claim 13 describes anastrozole using systemic nomenclature, claim 14 claims a pharmaceutical or veterinary composition comprising an effective amount of anastrozole together with a pharmaceutically or veterinarily acceptable diluents or carrier, and claim 15 claims the use of anastrozole as an inhibitor of the enzyme aromatase.
+[144]
+A skilled person reading the patent as whole and having regard to the nature of the science required to establish claims of therapeutic utility and fewer side effects of AG, would note the narrow scope of the claim and the limited testing disclosed in the patent.
+Conclusion on the Promise of the Patent
+[145]
+I have concluded that the patent promises only one thing: aromatase inhibition. This interpretation is consistent with language of the patent, both when read in terms of its individual claim and when read as a whole.
+[146]
+The second paragraph of the 420 Patent simply situates the invention in the context of the general science of the day. When viewed through the perspective of the skilled person, this paragraph would not be understood to be promising more than the discovery of a new compound which inhibits aromatase.
+[147]
+The third paragraph of the 420 Patent also reflects the general science of the day, noting that the goal of the invention is to provide a compound with fewer undesirable side effects than AG. A skilled person would not read this paragraph as promising that the goal had been achieved.
+[148]
+For these reasons, in my view claim 15 describes the promise of the patent in a manner that is consistent with a fair-minded, informed reading of the specification:
+The use of the compound [anastrozole] as an inhibitor of the enzyme aromatase.
+Was the Utility Demonstrated?
+[149]
+There is no dispute as to the actual utility of anastrozole. Mylan accepts that anastrozole is a potent and selective aromatase inhibitor, which has fewer undesirable side effects than AG, and is useful in the treatment of breast cancer. This is why Mylan seeks to make a generic version of this compound. The issue is whether AstraZeneca had demonstrated or soundly predicted the utility of the compound by the Canadian filing date, June 15, 1988.
+[150]
+AstraZeneca argues that the promise of the 420 Patent - the inhibition of aromatase - is demonstrated by the two tests in the patent (known as the AR1 and OI2/OI3 tests), and that the reliability of these tests is not seriously contested by any of the experts.
+[151]
+Mylan accepts that the AR1 test demonstrate the inhibition of aromatase in vitro, but argues that the OI2 and OI3 tests do not demonstrate the inhibition of aromatase in vivo. Therefore, the promise of the 420 Patent has not been demonstrated or soundly predicted.
+Expert Evidence
+The AR1 Test
+[152]
+The first test is the human placental aromatase in vitro test (the AR1 test). This involved testing the potency of candidate compounds on human placental tissue, which is high in aromatase activity. The results were not disclosed in the patent, although they were attached to Dr. Dukes's affidavit in this proceeding. The results showed that anastrozole is an aromatase inhibitor 100 times more potent than AG.
+[153]
+Mylan's expert, Dr. Coombes, acknowledged that the AR1 test is acceptable to preliminarily assess relative aromatase inhibition activity. He also acknowledged that the results were "strongly suggestive" that anastrozole is more potent than AG. However, he stated that a skilled person could not draw the conclusion that anastrozole was more potent than AG because the two drugs were not directly compared in the same test.
+[154]
+AstraZeneca's expert, Dr. Dowsett, explained that the researchers performed the AR1 test on anastrozole, AG, and a control compound. The properties of the control compound would have been well known. If the results for the control compound differed from previously obtained results, then the researcher would be alerted to the fact that there may be a problem with the experiment. The use of the control compound permits meaningful comparison between the test results, even if AG and anastrozole were not directly compared in the assay. Thus, it was possible to conclude that anastrozole was more potent than AG, even if this result was not proven to a scientific standard appropriate for scientific publication. Furthermore, Dr. Dowsett is of the opinion that the difference in potency between AG and anastrozole was so significant that there could be no substantive doubt that anastrozole was more potent than AG.
+The OI2 and OI3 Test
+[155]
+The second test disclosed in the patent is the ovulation inhibition in rats in vivo test, dosed at days 2 or 3 of oestrous cycle (OI2 and OI3). The AR1 test strongly suggested that anastrozole was a potent aromatase inhibitor in vitro. It cannot be assumed that a compound which is active in vitro will also be active in vivo. Therefore, the OI2 and OI3 tests were designed to confirm that candidate compounds inhibited aromatase in vivo. The assumption of the test was that a potent aromatase inhibitor would also inhibit ovulation in rats, by suppressing estrogen levels.
+[156]
+Dr. Coombes acknowledged that the test results disclosed in Dr. Dukes affidavit show that anastrozole appears to be a more potent ovulation inhibitor than AG. However, Dr. Coombes emphasizes that the test does not directly measure aromatase inhibition. It measures ovulation inhibition. Ovulation inhibition may be the result of many different mechanisms. Therefore, in Dr. Coombes's view, the OI2 and OI3 tests may be relevant to assessing the promised utility, but cannot demonstrate or predict it.
+[157]
+Dr. Dowsett agreed that the OI2 and OI3 tests do not directly measure aromatase inhibition, and that there may be other possible explanations for ovulation suppression. However, Dr. Dowsett stated that when viewed in light of the AR1 results, and knowing that the compounds were non-steroidal in nature, the "only rational explanation" for the OI2 and OI3 results was aromatase inhibition. Dr. Dowsett also emphasizes that the results of the OI2 and OI3 tests are consistent with the AR1 results. When combined with the AR1 results, the OI2 and OI3 tests provide further evidence of the potency of anastrozole as an aromatase inhibitor, and extend the AR1 findings by providing data from an in vivo test.
+Analysis
+[158]
+Dr. Coombes and Dr. Dowsett largely agreed on what the results of the two tests disclosed in the 420 Patent showed. Both experts agreed that the AR1 test showed that the compounds of the invention was a potent aromatase inhibitor when tested in vitro. Both experts also agreed that the results of the OI2 and OI3 test were
+consistent
+with the AR1 results, but did not directly measure the inhibition of aromatase.
+[159]
+The point of disagreement between Dr. Coombes and Dr. Dowsett was the level of certainty required to demonstrate utility. For example, with respect to the AR1 test, Dr. Coombes accepted that the results "strongly suggested" that anastrozole was a potent inhibitor, but took the position that to conclusively establish that anastrozole was more potent than AG, in the sense of removing all doubt, the two drugs must be compared in a direct head-to-head experiment. This is the standard that would be taught in a first year undergraduate class, and is also the standard that would be required for publication in a scientific journal.
+[160]
+Similarly, both experts agreed that the OI2 and OI3 tests did not directly measure aromatase inhibition. However, Dr. Dowsett was of the opinion that the results were strongly suggestive of potent aromatase inhibition activity, while Dr. Coombes's opinion was that this test was not adequate to demonstrate aromatase activity. Dr. Coombes stated that AR1 and OI2 tests:
+... the results are consistent, suggestive, but not proof that this is the exact target ...
+[161]
+In my view, Dr. Dowsett's opinion is more consistent with the standard required by the jurisprudence. Dr. Coombes appeared to equate 'demonstrate' with "minimal or no room for doubt", or "prove, removing all doubt", or the standard required for publication in a peer reviewed scientific journal. This standard is higher than what is required for patentability.
+[162]
+As stated by Justice Binnie in
+ <FRAGMENT_SUPPRESSED> (
+Apotex AZT
+):
+The prerequisites of proof for a manufacturer who wishes to market a new drug are directed to a different purpose than patent law. The former deals with safety and effectiveness. The latter looks at utility, but in the context of inventiveness.
+[163]
+The standard required to demonstrate utility is not equivalent to the regulatory standard required by the Minister to establish the safety and effectiveness of drugs:
+GlaxoSmithKline rosiglitazone
+, above at para 116.
+[164]
+I note that  <FRAGMENT_SUPPRESSED>  sildenafil
+FC at para 87, Justice Michael Kelen rejected the argument that test results must be conclusive in order to demonstrate utility.
+[165]
+The standard for utility is low:
+Pfizer donepezil
+, above at para 209.
+[166]
+There is no doubt that further and better testing could have been done, but scientific perfection is not required to demonstrate utility. I note that the AR1 test is widely recognized as a reliable method of comparing relative aromatase inhibitory activity, and that the test results were not contested by any of the experts. The OI2 and OI3 test results were recognized by both experts as consistent and suggestive of the promised utility. In Dr. Dowsett's view, when combined with the AR1 test, no explanation other than aromatase inhibition is logical or likely.
+[167]
+Having considered all the evidence, I am satisfied that as a matter of fact, no skilled person reviewing the test results would have doubts that anastrozole had utility as an aromatase inhibitor. A skilled person would know that further testing is necessary to determine whether the compounds of the invention would be a safe and effective treatment for breast cancer.
+[168]
+For the purposes of demonstrating utility, it is sufficient that the test results are 'strongly suggestive' of utility, and that no other logical explanation for the test results is likely. Therefore I find that the AR1 and OI2 and OI3 tests are sufficient to demonstrate the promised utility of the 420 Patent. Accordingly, the 420 Patent's utility need not be established on the basis of sound prediction.
+Is the 420 Patent Disclosure Sufficient?
+[169]
+Mylan argues that the test results specific to anastrozole should have been disclosed in the 420 Patent. The patent merely offers a generic result, stating that:
+In the above tests, the compounds of formula I are active at less than 10 µg/ml (
+in vitro
+), and the preferred compounds of formula I are active at below 0.1 µg/ml (
+in vitro
+) and 1.0 µg/ml (
+in vivo
+), and no indication of any toxicity has been seen at these doses.
+[170]
+Dr. Coombes criticized the sufficiency of the patent disclosure. He noted that there was no data showing the number and identity of compounds tested, sample size, replicates, duration of study, the presence of positive and negative controls, reproducibility of the assays, the relative activity of the compounds tested, or the statistical analysis to which the results were subjected (if any).
+[171]
+In Dr. Coombes's opinion, it would be impossible for the skilled person to assess the reliability and credibility of the summary of the test results. It would also be impossible to determine the basis on which anastrozole was chosen from the preferred compounds. There are no test results specifically relating to anastrozole disclosed in the 420 Patent.
+[172]
+Finally, Dr. Coombes noted that the 420 Patent specification discloses no comparative data showing the relative activity of the compounds of formula 1 as compared to prior art compounds. The skilled person would not know whether anastrozole was more or less potent than AG.
+[173]
+There was no dispute between the parties regarding what was actually disclosed in the patent specification. I accept Dr. Coombes's evidence with respect to the content of what is disclosed in the patent. The issue is whether the disclosure in the 420 Patent is sufficient for the purposes of demonstrating utility.
+[174]
+I am satisfied that the disclosure in the 420 Patent is sufficient for the purposes of demonstrated utility. The Federal Court of Appeal addressed the requirements respecting disclosure in
+ <FRAGMENT_SUPPRESSED>  leave to appeal to SCC granted (
+Pfizer sildenafil
+FCA). The Federal Court of Appeal held that if the patent asserts that the invention has been demonstrated to have the promised utility, there is no requirement to prove utility in the disclosure, as long as the Court finds it to be proven when challenged in Court. At paragraphs 88 and 90, the Federal Court of Appeal held:
+In other words, the disclosure provides direction, not proof: it tells practitioners how to practice the invention. It does not prove to them its utility, though they can require proof through invalidity proceedings.
+. . . . .
+So long as the disclosure makes reference to a study demonstrating utility, there do not appear to be any other requirements to fulfill section 2.
+[175]
+In
+Pfizer sildenafil
+, the Federal Court of Appeal upheld the decision of Justice Kelen. At paragraph 82, Justice Kelen described the disclosure requirement this way:
+The Court finds that there is no requirement in patent law that evidence of the demonstrated utility of the patent must be included in the patent. It is sufficient that the patent states that the invention has been demonstrated to be useful, as the '446 Patent does by making reference to the clinical testing of the compound (Study 350), and that the patent-holder is able to show evidence of demonstrated utility if the validity of the patent is challenged.
+[176]
+The Federal Court of Appeal revisited the issue of disclosure requirements in the recent decision
+ <FRAGMENT_SUPPRESSED>  (
+Pfizer latanoprost
+). In this case, at paragraph 30 the Court held:
+Section 2 of the Act requires that the subject matter of a patent be new and useful. The granting of a patent is dependent upon the disclosure of how the patent intends to fulfill its promise (
+ <FRAGMENT_SUPPRESSED> , at paragraph 34,
+Wellcome AZT
+, at paragraph 66). The general principle is that, as of the date of the filing, a patent must disclose either an actually achieved result (i.e., prove that it does what it claims) or a basis for sound prediction of the result (i.e., show that it is likely to do what it claims). There is no requirement to prove demonstrated utility in the disclosure of the patent; so long as the disclosure makes reference to a study demonstrating that the patent does what it promises to do, this criteria is met (
+ <FRAGMENT_SUPPRESSED> ). In our case, utility would be demonstrated if the patent disclosed studies showing that latanoprost, when administered on a chronic basis, reduced intraocular pressure without causing substantial side effects.
+[177]
+In consequence of the Federal Court of Appeal's ruling, I agree with Justice Robert Barnes, who had written in an earlier decision that it is now "beyond debate in Canada that where a patentee asserts the utility of its invention has been demonstrated, it need not assert its supporting evidence in the patent":
+ <FRAGMENT_SUPPRESSED> . If there was any doubt, as to the proposition, there is none subsequent to the decisions of the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  sildenafil
+and
+Pfizer latanoprost
+.
+[178]
+As I read this jurisprudence, the disclosure requirement can be satisfied by simply making reference to a test or study that demonstrates utility.
+[179]
+The 420 Patent asserts that the compounds of the invention have utility as aromatase inhibitors. The patent discloses two tests for aromatase inhibition and generic results, as well as a full description of the compounds and how to make them. When challenged in Court, AstraZeneca provided details of the full cascade of tests and the results, in the Dukes Affidavit.
+[180]
+In both
+Novopharm sildenafil
+FCA and
+Pfizer latanoprost
+, the Federal Court of Appeal speaks of the need to refer to a study in the patent disclosure to demonstrate utility. Both of these cases dealt with patents that promised therapeutic utility, while I have found that the 420 Patent only promises pharmacological action. The scope of the disclosure requirement is informed by or takes its colour from the nature of the claim. While a full study might be necessary to demonstrate therapeutic utility, I find that the two laboratory tests disclosed in the 420 Patent are adequate to demonstrate pharmacological action as aromatase inhibitors. The 420 Patent more than meets the requirements set out  <FRAGMENT_SUPPRESSED>  sildenafil
+, above.
+Are Therapeutic Utility and Fewer Side Effects Demonstrated or Soundly Predicted?
+[181]
+In the event that I am incorrect about the limited nature of the promise of the patent, I have considered whether AstraZeneca has demonstrated or soundly predicted the two other promises alleged by Mylan: fewer side effects and therapeutic utility.
+[182]
+As noted above, AstraZeneca put candidate compounds through a cascade of tests. In addition to the AR1 and OI2 and OI3 tests discussed above, AstraZeneca conducted a number of tests intended to determine whether anastrozole had fewer undesirable side effects than other leading aromatase inhibitors.
+[183]
+AstraZeneca conducted the male side effects in rats in vivo (MSE) test to determine whether the compounds had the same side effect as AG - inhibition of cortisol synthesis. Both Dr. Coombes and Dr. Dowsett agreed that the test results suggested that anastrozole did not result in suppression of cortisol synthesis, and was therefore more selective than AG.
+[184]
+AstraZeneca also conducted four other tests to determine whether the candidate compounds were likely to have the same side effects as the leading aromatase inhibitors. Two of the tests were specifically directed at the side effects exhibited by fadrozole, a leading aromatase inhibitor. In each case, the test results showed that anastrozole was selective.
+[185]
+Dr. Coombes criticized the reliability of these tests. Dr. Dowsett agreed that one of the tests may not be reliable, but expressed the opinion that the remaining four tests were sufficiently reliable to draw meaningful conclusions from.
+[186]
+In my view, the MSE test alone would have been sufficient to demonstrate that anastrozole was more selective than AG. However, the 420 Patent does not make any reference whatsoever to the MSE test, nor does it assert that the compounds of the invention do have fewer undesirable side effects.
+[187]
+As I read <FRAGMENT_SUPPRESSED> Viagra
+, above, the patent disclosure must make some reference to a study demonstrating utility. All of the experts agreed that the two tests referred to in the patent could not assess potential side effects. Even under the most minimal standard of disclosure, there is nothing in the patent that would inform a skilled person that the compounds of the invention were more selective than AG. The patent does not demonstrate the utility of fewer side effects, due to lack of disclosure.
+[188]
+The disclosure requirements for sound prediction are more onerous than for demonstrated utility. The patent must disclose the factual data on which the prediction is based, and the sound line of reasoning: Justice Binnie  <FRAGMENT_SUPPRESSED>  AZT
+, above at para 70. For the purpose of sound prediction a patentee cannot rely on a document that has not been included or referred to in the patent:
+ <FRAGMENT_SUPPRESSED> (
+Eli Lilly raloxifene
+), affirmed by the Court of Appeal, 2009 FCA 97 at paras 14 and 15.
+[189]
+If the 420 Patent fails to disclose enough information to demonstrate utility, then it cannot contain sufficient information to meet the standard required for sound prediction. Without disclosure of any of the other tests AstraZeneca conducted, the patent fails to disclose a sufficient factual basis and sound line of reasoning for the compound's predicted therapeutic utility.
+[190]
+The same analysis would apply if the promise of the patent includes therapeutic utility. The full cascade of testing, together with the relevant scientific context and knowledge about the treatment of breast cancer, might have supported a sound prediction that anastrozole had therapeutic utility. However, the patent does not set out a sound line of reasoning, nor does it include any references to other tests that might support a finding of therapeutic utility. The patent fails to establish therapeutic utility due to a lack of disclosure.
+[191]
+In sum, if I am wrong about the narrow scope of the promise of the patent, and the promise includes either fewer side effects than AG or therapeutic utility as a treatment for breast cancer, then the 420 Patent fails for lack of demonstrated or soundly predicted utility, and the application should be dismissed.
+OBVIOUSNESS
+[192]
+Mylan asserts, in the alternative, that if the Court finds that the invention in the 420 Patent is that of aromatase inhibitors, without any other promise of fewer side effects than AG or therapeutic benefit as a breast cancer treatment, the invention is obvious. Mylan notes that AstraZeneca did not adduce evidence from the inventors of the 420 Patent. The Application Record does not disclose what steps ICI took to arrive at anastrozole.
+[193]
+The Supreme Court set out a four part test for obviousness in
+ <FRAGMENT_SUPPRESSED> (
+Apotex Plavix
+):
+a. Identify the person skilled in the art and the relevant common general knowledge;
+b. Identify the inventive concept of the claim in question or, if that cannot readily be done, construe it;
+c. Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept; and
+d. Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps that would have been obvious to the skilled person or do they require a degree of invention?
+[194]
+The first two steps of this test are not in dispute. The parties are agreed on the characteristics of the skilled person, as set out above. The inventive concept is anastrozole as an aromatase inhibitor.
+[195]
+At the fourth step of the test, an 'obvious to try' test may be applicable where advances are achieved through experimentation. Justice Rothstein, writing for the Court, described the test at paragraphs 69 and 70 of
+Apotex Plavix
+:
+If an 'obvious to try' test is warranted, the following factors should be taken into consideration at the fourth step of the obviousness inquiry. As with anticipation, this list is not exhaustive. The factors will apply in accordance with the evidence in each case.
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that trials would not be considered routine?
+3. Is there a motive in the prior art to find the solution the patent addresses?
+Another important factor may arise from considering the actual course of conduct which culminated in the making of the invention. It is true that obviousness is largely concerned with how a skilled worker would have acted in the light of the prior art. But this is no reason to exclude evidence of the history of the invention, particularly where the knowledge of those involved in finding the invention is no lower than what would be expected of the skilled person.
+[196]
+If something is 'obvious to try', then this means that it is more or less self-evident that what is being tested will work. The obvious to try test is meant to be a high standard, it is not the same as 'worth a try':
+ <FRAGMENT_SUPPRESSED> .
+Common General Knowledge: The Structural Diversity of Inhibitors
+[197]
+Before addressing the obviousness evidence and arguments, it is helpful to review some of the common general knowledge regarding aromatase inhibitors. Aromatase inhibitors are part of a family of inhibitors known as cytochrome P450 inhibitors. For the purposes of obviousness, the important feature of cytochrome P450 inhibitors is that they exhibit considerable diversity in their chemical structure. They can be classified as either Type 1 or Type 2 inhibitors.
+[198]
+Type 1 inhibitors
+can be divided into steroidal and non-steroidal inhibitors. Steroidal inhibitors often bind irreversibly to aromatase, thereby inactivating the enzyme. Steroidal inhibitors contain the 4-ring structure present in all steroids. In the early 1970s, Harry and Angela Brodie tested numerous steroidal-based compounds for activity against aromatase, and identified formestane as a promising aromatase inhibitor. By the mid-1980s, formestane was being tested in patients.
+[199]
+Type 2 inhibitors
+can also be steroidal or non-steroidal, however in 1987 it was not known that Type 2 inhibitors could be steroidal. Type 2 inhibitors include a functional group capable of complexing the heme iron.
+[200]
+Type 2 inhibitors can be divided into two types. In anastrozole and fadrozole, the heme iron complexes with a heterocyclic nitrogen on the inhibitor. In AG, the heme iron complexes with a different group, such as an amino group.
+[201]
+By 1987, a number of different research groups were investigating Type 2 inhibitors, including Dr. Hartmann's group, Ciba-Geigy and Eli Lilly. AG, AG analogs and fadrozole are all Type 2 inhibitors.
+[202]
+The structural diversity of cytochrome P450 inhibitors can be illustrated as follows:
+[Diagram omitted - see printed version]
+Mylan's Obviousness Argument
+[203]
+Mylan did not pursue its obviousness argument during the hearing, but was content to rely on its written submissions.
+[204]
+Mylan contends that at the priority date for the 420 Patent, the skilled person would have started his inquiry by considering the disclosure of Eli Lilly's "EP 777" patent application. EP 777 describes prior art compounds which are structurally similar to aromatase, and which were known and expected to be aromatase inhibitors. Two basic molecular structures, identified by Dr. Redden as 'Structure 1' and 'Structure 2' encompass most of the significant compounds in EP 777.
+[205]
+In Dr. Redden's view, a skilled person would have noted certain trends in these compounds, and would have appreciated that Structure 1 compounds were more active, easier to synthesize and presented greater options for identifying novel compounds. Dr. Redden identifies two Structure 1 compounds that a skilled person would have started with.
+[206]
+Dr. Redden states that a skilled person would have carried out two modifications to the starting compounds:
+Adding electron withdrawing substituents (such as Cl and F) to the central ring; and
+Adding bulk to the substituents, and distance between the benzene ring, in order to approximate the size and shape of EP 777 compounds.
+[207]
+Using this strategy, which Mylan says is unimaginative, the modifications would have created a series of 24 compounds, including anastrozole. On this basis, if the promise of the 420 Patent is simply to inhibit aromatase, then the 420 Patent is invalid due to obviousness.
+AstraZeneca's Obviousness Argument
+[208]
+AstraZeneca argues that nothing in the art would have directed a skilled person to start with the compounds identified by Dr. Redden. There were many possible starting points, and nothing in the prior art directed a skilled person to one starting point in preference to another.
+[209]
+According to AstraZeneca, the state of the art is not necessarily the compound that is most similar to the invention. This is a hindsight analysis, since determining similarity requires one to start from the invention and scour the art for a similar compound.
+[210]
+Dr. Redden assumes that the skilled person would have started with the Structure 1 compounds disclosed in EP 777. However, Structure 1 was not preferred in EP 777. None of the most potent compounds disclosed in EP 777 are Structure 1. Lilly in fact preferred Structure 2 compounds. Furthermore, Dr. Redden's starting compounds were never made or specifically disclosed by Lilly in EP 777, nor was there any statement in the application or elsewhere that they should be used in preference to other known starting points.
+[211]
+The structure of anastrozole is unique in medicinal chemistry. Many other skilled groups failed to arrive at the invention.
+[212]
+AstraZeneca argues that Dr. Redden's analysis is based on hindsight and is deeply flawed. Further, AstraZeneca asserts that Dr. Redden is not qualified to offer an opinion on what a skilled person would have known at the relevant date. He was unaware of the many possible starting points for developing aromatase inhibitors. His analysis requires a skilled person to start with structures not expressly disclosed in EP 777, to go against prior art teachings, and to pursue areas of investigation not pursued by Lilly. There is no evidence that anyone recognized Dr. Redden's trends, or would have pursued the research he proposed.
+Analysis of Expert Evidence
+[213]
+Even Mylan conceded that Dr. Redden does not have the "renown and experience with aromatase inhibitors" that Dr. Hartmann does. As a skilled person, Dr. Redden's evidence is admissible, and I have considered it. However, where his evidence differs from Dr. Hartmann's, I prefer Dr. Hartmann's evidence, which I find to be reliable and persuasive.
+[214]
+I am satisfied that there was no obvious starting point that would have led to the development of anastrozole. There were a range of possible starting points for a research program. For this reason alone, Mylan's obviousness argument must fail.
+[215]
+Given the structural diversity of cytochrome P450 inhibitors, choices for a starting compound included:
+• Type 1 or Type 2
+• If Type 1: steroidal or non-steroidal?
+• If Type 2: AG analogs or heterocyclic based compounds?
+• If heterocyclic compounds: heterocyclic head group contains at least 10 different possibilities, and a variety of possibilities for the structure of the balance of the inhibitor were available.
+• Assuming that the skilled person decided to develop a heterocyclic-based inhibitor, there would still be a number of possibilities to explore:
+Choice of the heterocyclic group that interacts with the heme. There are at least ten different groups that could be chosen.
+Design of the balance of the inhibitor, including the number of rings and choice and position of the ring substituents.
+[216]
+According to Dr. Hartmann, nothing in the prior art literature directed a skilled person to one starting point in preference to another. There were not a finite number of predictable solutions, when one considers the range of compounds under investigation.
+[217]
+Dr. Hartmann provided several reasons why the 'unimaginative strategy' advanced by Mylan was not obvious. I will mention three reasons that I find particularly persuasive.
+[218]
+First, EP 777 does not list Structure 1 as a preferred compound. The majority of the compounds disclosed in EP 777 are neither Structure 1 nor Structure 2. The most structurally similar compound is less potent than 50 compounds tested in vitro in EP 777. None of the ten most potent compounds tested in vitro in EP 777 are Structure 1. No Structure 1 compounds were tested for anti-tumour activity.
+[219]
+Second, Lilly in fact preferred Structure 2. The skilled person was more likely to have started with Structure 2, instead of Structure 1.
+[220]
+Dr. Redden's starting compounds were never made or specifically disclosed by Lilly. They are not included among the examples in the 777 application, nor is there any statement in the application or elsewhere that they should be used in preference to other known starting points.
+[221]
+Third, during the relevant time, there was a race to develop the next generation breast cancer drug. Many other skilled groups were actively searching for new and better aromatase inhibitors, but failed to arrive at the invention.
+[222]
+Academic researchers working on aromatase inhibitors at the relevant time included:
+Hartmann et al.
+Foster et al.
+Brodie et al.
+Daly et al.
+[223]
+A number of pharmaceutical companies were also working on developing novel aromatase inhibitors:
+Merrell
+Farmitalia
+AKZO
+Schering AG
+Ciba-Geigy
+Eli Lilly
+[224]
+I note that several of the different chemical structures described above were under development by skilled groups at the relevant time. Daly et al., Hartmann et al., and Foster et al. were all working on analogs of AG. Farmitalia and Eli Lilly were working on analogs of AG. Ciba-Geigy was working on analogs of AG and compounds related to fadrozole. By 1987, Merrell, Farmitalia, AKZO and Schering AG were also investigating type 1 steroidal inhibitors.
+[225]
+Eli Lilly was working on compounds disclosed in the EP 777 application. I note that Lilly did not come up with anastrozole, despite working on the compounds for almost four and a half years.
+[226]
+Finally, over the course of the years, ICI made and tested more than 1000 compounds before arriving at anastrozole.
+[227]
+Evidence that highly skilled parties expended effort but did not arrive at the invention may support a finding of non-obviousness: <FRAGMENT_SUPPRESSED> Plavix
+, above at paras 70-71.
+Conclusions on Obviousness
+[228]
+As is evident from Dr. Hartmann's evidence, there is considerable structural diversity among inhibitors. The fact that there was no obvious starting point for development among this structural diversity is supported by the fact that at the relevant time, there were many different research groups pursuing different structures for development as aromatase inhibitors. Furthermore, anastrozole contains some very unique structures. Dr. Hartmann states that the dimethylacetonitrile substituents in anastrozole were "completely new in drug molecules" at the relevant time. Even today, to Dr. Hartmann's knowledge, anastrozole is the only drug containing these unusual groups.
+[229]
+Mylan has failed to establish that the inventive promise of the 420 would have been obvious to a skilled person.
+CONCLUSIONS AND COSTS
+[230]
+In sum, the promise of the patent is simply aromatase inhibition and AstraZeneca has demonstrated that anastrozole has utility as an aromatase inhibitor. AstraZeneca has met its burden in demonstrating that the allegations made by Mylan in this application are not justified. The application will be allowed, the Minister will be prohibited from issuing a Notice of Compliance to Mylan until the expiry of the 420 patent.
+[231]
+AstraZeneca is entitled to recover costs from Mylan which I fix at the upper end of Column IV. I allow for two senior counsel at the hearing. I will generally follow the approach to costs adopted by Justice Hughes in
+ <FRAGMENT_SUPPRESSED> to 192 and allow costs for two counsel, if present, one senior and one junior, in conducting cross-examination. Only one counsel, a senior, is allowed in defending a cross-examination. No costs are allowed for other lawyers, in house or out house, students, paralegal or clerical persons.
+[232]
+Each party may, within twenty (20) days from the release of these Reasons, make submissions as to costs not exceeding five (5) pages in length if additional direction is required.
+[233]
+The Minister did not participate in these proceedings. No costs will be awarded for or against the Minister.
+JUDGMENT
+[234]
+THIS COURT'S JUDGMENT is that
+:
+1. An order of prohibition is granted restraining the respondent Minister of Health from issuing a Notice of Compliance to Mylan Pharmaceuticals ULC in respect of anastrozole.
+2. Costs are awarded to the applicant.
+Judgment accordingly.
+Editor: E. Joanne Oley/vnh
+[End of document]

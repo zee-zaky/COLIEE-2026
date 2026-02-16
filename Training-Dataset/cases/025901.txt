@@ -1,0 +1,652 @@
+[1]
+Hughes, J.
+: This action concerns the infringement and validity of a Canadian Patent relating to an antimicrobial drug known as levofloxacin. There is only one claim of the Patent at issue, claim 4. The Defendant has admitted infringement of that claim. Validity of claim 4 and remedies are the contested issues. For the reasons that follow, I find that claim 4 is valid and infringed. The Plaintiffs are entitled to damages and interest. An injunction, with a certain delay and conditions, and delivery up, is granted.
+The Parties
+[2]
+The Plaintiff, Daiichi Pharmaceutical Co. Ltd., is a Japanese company to which the Patent was granted. The Patent names the grantee as Daiichi Seiyaku Co. Ltd., but the parties are agreed that this is the same entity as the Plaintiff Daiichi. Daiichi remains the owner of the Patent.
+[3]
+The Plaintiff Janssen-Ortho Inc. is a Canadian company. It is a licensee of Daiichi under the Patent. It markets and sells levofloxacin products in Canada.
+[4]
+The Defendant, Novopharm Limited, is a Canadian-based corporation. Since about December 2004, it has been marketing and selling levofloxacin products in Canada.
+The Patent
+[5]
+The Patent at issue is Canadian Patent Number 1,304,080 entitled "Optically Active Pyridobenzoxazine Derivatives and Intermediates Thereof". The application for that Patent was filed in Canada on June 19, 1986 thus the Patent is to be governed by the provisions of the
+Patent Act
+, R.S.C. 1985, c. P-4, pertaining to Patents applied for before October 1, 1989. That is, the "old"
+Patent Act
+.
+[6]
+The Patent claims priority from three separate Patent application filed in Japan, the first on June 20, 1985; the second on October 11, 1985; and the third on January 28, 1986. Named as inventors are Isao Hayakawa, who appeared as a witness at trial, and six others. The Patent includes 19 claims in all, some claims are directed to processes, other claims are directed to compounds, other claims are directed to a salt of a compound, other claims to a compound and salt, and other claims to a pharmaceutical composition. Only claim 4 is at issue, it reads:
+"4. S(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7H-pyrido[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid."
+[7]
+The Patent was issued and granted to Daiichi on June 23, 1992 and, unless held to be invalid, will expire on June 23, 2009.
+Issues
+[8]
+The issues for decision by this Court are as follows:
+1. What is the proper construction of claim 4 of the Patent?
+2. Is claim 4 invalid on the basis of one or more of the following grounds:
+a.) Anticipation having regard to the prior disclosure of Ofloxacin in, for example, Canadian Patent 1,547,840 (the 840 patent) and a 1983 publication by Daiichi employees Osada and Ogawa;
+b.) Obviousness, having regard to the prior knowledge, including Ofloxacin, the nature of racemic compounds, the methods for obtaining enantiomers (optical isomers) from racemic compounds and the Gerster 1982 and 1985 abstracts and posters;
+c.) Is claim 4 ambiguous in failing to specify what level of purity, if any, is required;
+d.) Has the patent, in as much as claim 4 is concerned, failed to provide a correct, full and clear description as required by s. 34(1) of the old
+Patent Act
+particularly in respect of the disclosures as to toxicity and solubility?
+3. If Claim 4 is valid, infringement having been admitted, what remedies will the Court provide:
+a.) Damages;
+b.) An election as to profits;
+c.) A permanent injunction;
+d.) Delivery up;
+e.) Aggravated, punitive or exemplary damages;
+f.) Pre and/or post judgment interest;
+g.) Costs;
+h.) Other relief?
+This Court has, in a previous Order, directed that monetary remedies be the subject of a subsequent hearing.
+The Evidence - Witnesses
+[9]
+I commend counsel for having done much to define the issues and agree as to much of the evidence in this case. The pleadings were clear and precise. Admissions were made in the pleadings as to several matters. Through the Request to Admit process the parties further agreed as to evidence and, by a document filed at trial, the issues were further reduced essentially to the validity of claim 4 of the Patent. An Order providing for separate determination of the monetary remedies has been previously made. The documents filed at trial further provided admissions as to all documents save one, the 1982 Gerster poster, and provided that all expert reports be deemed to be read in and that all persons who provided expert reports and were called as witnesses be deemed to be qualified as experts, subject to later argument if needed. This co-operation between counsel and parties is exemplary.
+Called as expert witness for the Plaintiff were in Order of appearance:
+Dr. Mark P. Wentland
+:
+A professor of chemistry and organic chemistry at Rensselaer Polytechnic Institution, Troy, N.Y.. He specializes in quinolones, a class of compounds that includes those at issue. He was active in quinolones in the 1980's, a period in which the subject matter of the Patent was developed. He was actively working as a medicinal chemist in the quinolone area at the relevant time in the early 1980's.
+Dr. Alexander M. Klibanov
+:
+A professor of Chemistry and Bioengineering at Massachusetts Institute of Technology. He has researched, lectured and written extensively in the area of synthesis and evaluation of optically active compounds. Dr. Klibanov returned as a supplemental witness to address the Gerster 1982 poster.
+Dr. David C. Hooper
+:
+A medical doctor and antimicrobial researcher. A medical doctor, Associate Professor of Medicine, Harvard Medical School. He teaches in the area of antimicrobial agents and infectious diseases and has written extensively, particularly in the area of quinolones. He is a practising physician in a clinical hospital in the infectious diseases division and the infection control unit. He also was working as a physician in the quinolone area in the early 1980's.
+Dr. Frank A. Bucci
+:
+An ophthalmologist specializing in ocular diseases including surgery of the eye. He is the director of an eye surgery centre and has done thousands of surgical and other procedures related to the eye. He has also lectured, given presentations and written extensively in the area of ophthalmology.
+Dr. Charles Chan
+:
+A medical doctor, professor of medicine at the University of Toronto. His main clinical and research interests are in infectious complications of the lungs. He has evaluated many compounds for the purpose of listings on the Ontario drug formulary.
+Dr. George G. Zhanel
+:
+Professor in Medical Microbiology and Infectious Diseases with the Faculty of Medicine, University of Manitoba. He has focused on the study of antibiotics in the treatment of infectious diseases, particularly in respect of antibiotic resistant organisms. A major focus has been on quinolones.
+Dr. Joseph V. Rodricks
+:
+A consultant in toxicology with focus in safety and human health risk assessment and a visiting professor at Johns Hopkins University, Baltimore, where he teaches courses in toxicology and risk analysis. He has lectured and written extensively in the area of toxicology.
+Dr. Allan S. Myerson
+:
+Is the Provost and Senior Vice President and Philip Danforth Armour Professor of Engineering at the Illinois Institute of Technology, Chicago. He specializes in the area of crystallization and solubility and has written and taught extensively on the subject.
+Dr. Marion B. Stewart
+:
+An economist and vice president of an independent economic research organization. He has focused on the area of intellectual property, the calculation of damages and measurement of commercial success. He appeared as a witness, filed a report, but was not cross-examined.
+Dr. Ronald Grossman
+:
+A medical doctor, Professor of Medicine at the University of Toronto and Chief of Medicine, Credit Valley Hospital, Mississauga. He specializes in respiratory infections and the use of antibiotics in treating such conditions. He has contributed to national Guidelines in that area. He appeared as a witness, filed a report, but was not cross-examined.
+Dr. Paul A. Bartlett
+:
+A retired Professor Emeritus of Chemistry at the University of California, Berkeley. He has lectured and written extensively in medicinal chemistry and the area of drug design. He also filed a supplemental report as to the 1982 Gerster poster.
+Dr. John J. Partridge
+:
+A consultant to the drug industry, having previously worked in organic chemistry in the pharmaceutical industry for many years. He testified as to searches conducted in an endeavour to locate the 1982 Gerster poster.
+The evidence of other expert witnesses on behalf of the Plaintiffs was, by agreement, presented by the filing of their reports in evidence without calling the witnesses in person. These were:
+John C. Jarosz
+:
+A principal of an independent economic analysis firm. He specializes in the area of economics relating to intellectual property.
+Anne Langley
+:
+Has a Masters degree in library science. Head Librarian at the Duke University Chemical Library.
+The Plaintiffs also called three fact witnesses. They were:
+Dr. James B. Kahn
+:
+A medical doctor. He joined Ortho-McNeil, now Janssen-Ortho, in July 1992. He was responsible for setting up a unit to support the flow of scientific information respecting FLOXIN, the company's Ofloxacin product and subsequently LEVAQUIN the company's levofloxacin product. He has since that time been closely associated with that company's efforts in respect of Ofloxacin and levofloxacin.
+Dr. Isao Hayakawa
+:
+One of the named inventors of the patent in suit. He joined Daiichi in 1969 and in 1972 became involved in researching anti-infectives. In 1985 he became the supervisor of the quinolones group. From 1991 and thereafter he continued in a progression of more senior positions in Daiichi's research area. Dr. Hayakawa continues working at Daiichi full-time as a special research advisor. Dr. Hayakawa has limited abilities to understand and speak the English language. His evidence was conducted through the aid of an interpreter. Questions were put to this witness in English and translated into Japanese. The witness answered in Japanese and the interpreter translated that answer to English. The transcript records the question as posed in English and the answer as translated into English. At the request of the Plaintiffs a second interpreter was provided as a "check" on the first. On occasion the second translator would indicate to the official court translator that some correction could be made in the translation. Where the official translator accepted that indication, the record reflected that agreed upon translation. Where not so accepted, the translation provided by the official interpreter prevailed.
+Jeff Enstrom
+:
+Business Unit Director for Janssen-Ortho in charge of launching the Canadian levofloxacin product (LEVAQUIN) since June 1997.
+The Defendant called several expert witnesses and one factual witness. Called as expert witnesses were:
+Dr. Donald E. Low
+:
+A medical doctor, Head of the Department of Microbiology at Mount Sinai Hospital in Toronto. He is a Professor at the University of Toronto and Director of the Ontario Public Health Laboratories. He specializes in the area of microbiology and infectious diseases where he has written and taught extensively.
+Dr. Adam J. Matzger
+:
+Associate Professor of Chemistry at the University of Michigan. He specializes in the area of crystallization of organic materials. He has won awards in that area.
+Dr. John Caldwell
+:
+Dean of the Faculty of Medicine of the University of Liverpool. He was the founder of an important journal, CHIRALITY and has written and lectured extensively in the area of medicinal chemistry and drug chirality.
+Dr. Roland Collicott
+:
+A senior consultant to the pharmaceutical industry by providing analytical chemistry and training services. He specializes in chromatography, HPLC, and particularly in chiral analysis, chiral separations and polymorphic analysis. He has extensive experience in the resolution of quinolones.
+Dr. Peter G. Wells
+:
+A Professor of Toxicology at the University of Toronto. He specializes in toxicology, clinical pharmacy and clinical pharmacology. He has extensive experience in the areas of toxicology, drug metabolism and animal modelling.
+Dr. Michael Chong
+:
+A professor of chemistry at the University of Waterloo. He specializes in the area of asymmetric synthesis of chiral compounds where he has written extensively. I permitted the Defendant to introduce the evidence of Dr. Chong so as to address the supplemental reply evidence of Dr. Klibanov and Bartlett, which I in turn had permitted the Plaintiffs to introduce to address the Gerster 1982 poster. It was appropriate to allow Dr. Chong's evidence as other expert witnesses previously selected to testify for the Defendant did not have expertise in this area. Dr. Chong confined his evidence to that of replying to the supplemental evidence of Drs. Klibanov and Bartlett.
+Also introduced into evidence by the Defendant by agreement were reports of experts who were not called as witnesses in person. They were:
+Dr. Jake J. Thiessen
+:
+A Professor in the Faculty of Pharmacy at the University of Toronto. He specializes in pharmokinetics including the bioavailability of drugs in the body.
+Dr. Lea Prevel Katsanis
+:
+Chair of and Professor in the Department of Marketing at Concordia University. She specializes in pharmaceutical marketing.
+The Defendant called one factual witness, namely:
+Dr. John Gerster
+:
+A retired scientist who was engaged by the 3M Company's Riker division, now 3M Pharmaceuticals, from 1967 until his retirement in 1999. He testified as to the posting of his paper during a conference held in Toronto in 1982, dealing with his research in separating the isomers of flumequine.
+[10]
+The Plaintiffs resisted the calling of Dr. Gerster on the basis that they had not been provided adequate discovery and that there was a breach of an undertaking on discovery. I invited Plaintiffs counsel to indicate such undertaking. There was none. As to inadequate discovery, I found that the Plaintiffs were well aware of the Defendant's position that the 1982 paper was posted at the Toronto conference. A review of the Plaintiffs' expert reports demonstrates that the Plaintiffs were fully aware of the fact that the Defendant asserted the posting of the1982 paper. Dr. Gerster's evidence dealt with that matter. Several of the Plaintiffs expert witnesses addressed that poster paper. Discovery relates to facts, not the evidence by which it may be proven. There is no provision in the
+Federal Courts Rules
+for examination of a factual witness, by way of discovery, before trial. The Plaintiffs themselves could have called Dr. Gerster as a witness and, if he did not attend voluntarily, used letters rogatory to compel that evidence. Dr. Gerster in cross-examination was asked why he declined to speak with the Plaintiffs' lawyers. He answered that he felt uncomfortable doing that as he had never been a witness before. Having observed Dr. Gerster, I accept completely his credibility and testimony. I have every sympathy with any reluctance he may have had in testifying. The Plaintiffs had a battery of lawyers in the courtroom, six gowned and several Canadian and foreign lawyers, in the audience. It would be intimidating to a person unaccustomed to being in Court or dealing with lawyers. I gave the Plaintiffs an opportunity to receive a "will say" of Dr. Gerster's proposed evidence from the Defendant before he testified and an opportunity to amend and expand upon their expert evidence if so advised, which they did by supplementary evidence of Drs. Klibanov and Bartlett.
+[11]
+In addition, each of the Plaintiffs and Defendant introduced into evidence excerpts of the examination for discovery of the other, including transcripts and documents.
+[12]
+As to the factual witnesses, I have already addressed Dr. Gerster. Dr. Hayakawa had the disadvantage of giving his evidence though an interpreter which may have caused some discrepancies. I found his evidence, on the whole, to be credible except where he was confronted with documents authored by others at Daiichi, which contained statements that may have been construed as unfavourable to Daiichi. When so confronted he distanced himself from these statements, claiming them to be written by others, such as his superiors, and not reflecting his views. I am troubled by this. Thus, when considering such documents, I will prefer what the documents say to Dr. Hayakawa's testimony. These documents were, after all, written at or about the relevant time by persons involved with the events in circumstances before any litigious significance as to the events or their interpretation, had arisen. No issue arises as to any other factual witness.
+[13]
+As to the expert witnesses, no challenge was raised as to the qualifications of any of them as being person qualified to testify as experts, and I find them all to be so qualified. The differences in their opinions were largely those of degree. I find particular assistance from Dr. Wentland, a quinolone chemist working in the area at the relevant time. I have found the Defendant's witnesses Drs. Low, Caldwell, Collicott, Wells and Chong to be particularly candid and forthcoming. I was troubled by Dr. Klibanov in the manner in which he gave his evidence, particularly in cross-examination. He was quarrelsome, dogmatic and sought to accuse cross-examining counsel frequently of "misrepresenting" what he was saying. Dr. Klibanov's evidence was sprinkled with legal buzz words such as "motivated" and "worth a try". I give less weight to the evidence of Dr. Klibanov particularly where it conflicts with evidence of other experts. Dr. Bartlett was largely candid and forthcoming although I detected that he has become highly skilled as a witness and could avoid giving answers and deflect questions where he perceived that difficulty may arise. I have not mentioned the other experts, particularly the medical doctors, by name, however I have found them all to be credible.
+Background
+[14]
+The Patent in general deals with a particular type of antimicrobial compound, levofloxacin. It falls within a general class of such compounds known as quinolones.
+[15]
+The treatment of infections by antimicrobial substances, has been common for a long time. Many such substances, such as penicillin, were derived from materials which occurred naturally. As matters progressed, antimicrobial compounds were developed artificially.
+[16]
+Consideration must be given to the risks of toxicity in the administration of antimicrobial substances. Much evidence was presented at trial as to the measurement of antimicrobial activity and of toxicity and the balancing of antimicrobial activity on the one hand and toxic effects on the other in administering various dosage levels of these substances. A drug must be effective, it must also be safe.
+[17]
+The effectiveness of an antimicrobial drug is measured in several ways. The drug can be subjected to an MIC test. That test is conducted in vitro, that is, in glass in a laboratory and measures the Minimum Inhibitory Concentration (MIC) of a drug that is needed to kill a stated percentage of the microbes being examined. Hence a subscript MIC50 means that a stated concentration of the drug was needed to kill fifty percent of the microbes. The smaller the concentration number, the more effective the drug.
+[18]
+In measuring antimicrobial activity, attention is paid to whether a compound is Gram positive or Gram negative. These expressions arise from a test developed long ago in which microbes were divided into two classes depending upon the colour of the stain they produced under certain circumstances. It was found that antimicrobial compounds could, in a rough way, be considered as those which dealt with one class or the other. The most desirable were those that could deal with both classes.
+[19]
+The toxicity of a drug is measured in several ways. A quantity can be administered to animals such as mice or rats to a point where effects such as convulsions are observed, or death of the animal occurs. Measurements such as LD
+50
+are provided which indicate the minimum Lethal Dose required to kill fifty percent of the animals tested. The higher the required dose, the less toxic is the drug in question. Measurements of toxicity are highly variable and depend, among other things, on the strain and sex of the animals tested, the rate at which the drug is administered, and whether administration is oral or by injection.
+[20]
+Other factors are of interest: one is solubility. A more soluble drug is desirable as a greater concentration can be provided in liquid form to facilitate injection. Solubility is measured by determining how much of the drug will go into solution in a solvent, usually water, at a given temperature, usually room temperature, until the solution is saturated. A debate as to the time required to achieve saturation arose; Daiichi often used 30 minutes in their tests. Expert evidence suggested four hours. Some evidence indicated that several days may be required.
+Quinolones
+[21]
+In the early 1960's quinolones emerged as a laboratory-developed drug. A sub-class, which incorporated fluorine into the molecular structure was known as fluroquinolones. Levofloxacin is a fluroquinolone.
+[22]
+Quinolone drugs are said to operate by attaching themselves to substances called gyrases that are found with or associated with the DNA of the microbes to be killed or at least prevented from reproducing. The molecular structure of the quinolone compounds is such that it fits at certain locations on the gyrase so as to do its work. The nature of the fit is debated. It may be as rigid as a lock and key or somewhat more flexible, called an inducted fit, as in a rubber spoon in a bowl of Jell-O. The more flexible approach would allow changes in the molecular structure to be made, which would affect the degree to which the quinolone works. A simple change may, therefore, not result in a simple mathematical increase or decrease in effectiveness. One always has to try it out.
+[23]
+Early quinolones entering the market in the 1970's were seen essentially to be limited to treatment of urinary tract infections, a Gram negative infection. Subsequently, newer quinolones such as Norofloxacin came to market which had broader activity to deal with microbes that were Gram positive. Among the most successful was Ciprofloxacin (Cipro) which continues to this day to be used in the treatment of several types of infections.
+[24]
+Daiichi's research in the quinolone area led to a drug known as Ofloxacin (Oflo). Ofloxacin was discovered by Daiichi researchers, including Dr. Hayakawa, in about June 1980. A scientific paper by Daiichi employees, Osada and Ogawa, was published in March 1983. It described Ofloxacin in terms of its (±) structure. An application for a patent pertaining to Ofloxacin was filed in Japan September 2, 1980 and a corresponding application was filed in Canada on September 2, 1981. The Canadian application matured to Patent number 1,167,480 (the '480 patent) issued on May 22, 1984.
+[25]
+The formula for Ofloxacin can be written as follows:
+9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7H-pyrido[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid.
+It can be seen  that this  differs from claim  4 of the Patent at issue only in that claim 4 adds "S(-)-" at the beginning.
+[26]
+The molecular structure of Ofloxacin can be depicted as:
+[Diagram omitted - see print version]
+[27]
+Chemists as of the early 1980's would have realized that Ofloxacin has what is known as a chiral centre at the point where the CH3 (methane) joins the ring structure at the lower right hand corner of the structure shown above. Ofloxacin is thus known as a racemic compound or as it is sometimes called, a racemate. At this point it is necessary to discuss the concept of racemic compounds.
+Racemic Compounds
+[28]
+Molecular compounds although often written out as a series of letters, number and symbols or depicted on a flat sheet of paper, do not exist that way in reality. They are three dimensional structures. Some compounds only assume one three dimensional shape, others such as those that are racemic, do not.
+[29]
+Racemic compounds, also called racemates, exist as comprising the same atoms in the same sequence, but bent at joints called chiral centres so as to assume what has been called left handed (levo) or right handed (dextro) configurations. Levo is sometimes simply depicted as (-) and dextro as (+). The left handed configuration is the mirror image of the right.
+[30]
+A racemate is said to contain an equal number of left and right handed configurations of the molecule. This concept is sometimes depicted (±) although that is unnecessary when a competent chemist would be able to detect a chiral centre.
+[31]
+Knowing that a compound is racemic is to know that, if there is only one chiral centre as there is in this case of Ofloxacin, there is a left hand and a right hand version of the molecule. Each version can be detected optically by a device such as a polarimeter. That device will detect which of the two configurations turns light to the left (levo or -) and which turns light to the right (dextro or +). Depending on the prevailing conditions different researchers may detect the molecules differently.
+[32]
+Having detected left and right molecules, called enantiomers or optical isomers, one can go further however, and identify which of the two configurations is that which produces the left or right. For illustrational purposes, the configuration where the molecule attached at the chiral centres come "out of" the page is illustrated by a solid wedge and where they go "into" the page is illustrated by a dotted wedge. These configurations are designated as S and R. Once the left or right compound has been identified and isolated, it can be subjected to techniques such as X-ray diffraction whereby a determination as to whether the - is S or R or the + is R or S. For instance a designation S(-) means that the molecule attached at the chiral centre comes out of the page and exhibits left handed optical rotation. Once a substance is designated as S or R, it is unnecessary to add (-) or (+) in order to identify the structure of the compound as being a particular enantiomer although (-) or (+) will give added information.
+[33]
+To put matters into the context of the facts of this case, Ofloxacin was a known compound. A competent chemist would readily detect that it had a chiral centre and thus was a racemate.
+[34]
+When levofloxacin was isolated it was seen that one configuration produced optically detected left handed enantiomers levo or (-); the other, of course, was dextro or (+). When the levo or (-) configuration was analysed further it was confirmed that it existed in the S configuration. Thus the levo configuration could be written:
+S Ofloxacin
+or
+S(-) Ofloxacin
+or
+S-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7H-pyrido[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid.
+or
+S(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7H-pyrido[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid.
+[35]
+Prior to the isolation of levofloxacin it was known that Ofloxacin had a (+) and a (-) component but until levofloxacin was isolated and examined it was not known whether the (+) was R or S or the (-) was R or S. Thus, there could be products to exist any of:
+R(+) Ofloxacin
+together with
+S(-) Ofloxacin
+or
+R(-) Ofloxacin
+together with
+S(+) Ofloxacin
+What was determined to exist in reality was:
+R(+) Ofloxacin
+together with
+S(-) Ofloxacin
+These are shown with solid or dotted wedges at the lower right of the depiction where CH3 joins the ring structure as:
+[Diagrams omitted - see print version]
+[36]
+A racemate contains equal quantities of (+) and (-) thus may be written as (±) but often this symbol is omitted as unnecessary. As the two components (enantiomers) are separated and one or the other is isolated, the process of isolation will mean that any given sample will have an excess of one enantiomer over the other. This is sometimes called enantiomeric excess (ee) and is a measure of the purity of the sample. Thus if a sample (100%) contains 95% of the (-) enantiomer and 5% of the (+) enantiomer the enantiomeric excess of the (-) enantiomer over the (+) enantiomer is 90% (95 - 5 = 90). The earliest example of separation of enantiomers is said to be an exercise conducted by Louis Pasteur in the mid 1800's when he detected by a simple optical microscope of the day, that tartaric acid comprised two crystal forms which displayed light differently. He separated them manually with the aid of tweezers.
+Arriving at Levofloxacin
+[37]
+Daiichi is in the business of discovering, marketing and licensing drugs to others. It has over a thousand employees engaged in drug research. In June 1980, Daiichi researchers, including Dr. Hayakawa, discovered the compound Ofloxacin which was subsequently the subject of patents in Japan, Canada and elsewhere. Ofloxacin was the first compound in the quinolone class developed by Daiichi that proved to have the necessary qualities to be marketed as an antimicrobial drug. It enabled Daiichi to enter into the market and compete with other quinalones such as Ciprofloxacin marketed by Bayer.
+[38]
+Daiichi, having arrived at Ofloxacin sought to expand the scope of possible derivatives. The purpose was, as stated in its business plan for the first half year 1981, "for patent protection". The stated theme of the research was to seek optical resolution of Ofloxacin (called DL-8280), research metabolism and other related work. Patent protection meant that Daiichi wanted to secure patent protection from compounds related to Ofloxacin in order to maintain a competitive advantage and ward off competitors.
+[39]
+During 1981 Daiichi researchers endeavoured to isolate the optical isomers of Ofloxacin. Some success was achieved in isolating the (+) form but further work was needed to obtain an isolate of the (-) form. A report dated August, presumably 1981, indicates that a Mr. Ebata, through repeated recrystalization through four rounds, obtained 200 mg of material which contained the (-) form in a 5:1 ratio over the (+) form, that is about 83% (-). This was not the (-) form of Ofloxacin as a further molecule had been attached to the compound to aid the process of isolation. The evidence is that it would have been routine to remove that molecule so as to obtain the (-) enantiomer of Ofloxacin.
+[40]
+There is no clear evidence as to what was done with this product. Dr. Hayakawa says that, knowing his personality, he would have instructed that the product be further refined if at all possible and, since there is no record that a further refined product was obtained, then he assumes that it could not be obtained and the project was abandoned. Dr. Collicott says that 200 mg of product of this purity would have been sufficient to conduct some microbial and other tests. Dr. Bartlett describes this activity as a failure. There simply is no clear record as to what happened at this time.
+[41]
+In about November 1982, Daiichi reports it was able to obtain some of the (+) form of optical isomers from Ofloxacin but indicated that the matter was under further study.
+[42]
+A report concerning the period of research at Daiichi from August 1983 to March 1984 indicates that Daiichi had obtained some commercial Pirkle type chiral HPCL columns to assist in their endeavour to isolate the optical isomers of Ofloxacin. One such column was that known as BAKERBOND. Daiichi also prepared its own version of such a column. The report indicates that further investigation was needed.
+[43]
+In April 1985, Daiichi reported that since Hoechst and J&J who were licensees of Daiichi in respect of Ofloxacin, had requested data on the optical isomers, presumably because government regulatory bodies were pressuring them, Daiichi would attempt to reach a conclusion as early as possible. I take this to be the motivation that spurred on the final push by Daiichi to isolate the enantiomers. Two methods were tried, the HPLC column, called Process A in the Patent, and, an enzymatic process, called Process B in the Patent. Using the HPLC columns that it had previously acquired, Daiichi was successful in obtaining (-) and (+) optical isomers of 100% optical purity. Code number DR-3355 was assigned to the (-) form and DR-3354 to the (+) form. This was the first isolation of a substantially pure substance. However, it was not ascertained at this time whether the (-) was an S or R configuration or the (+) was R or S. Further, at that time, no testing as to antimicrobial activity or toxicity or solubility had been conducted. Thus, while the (-) form was isolated it was not determined that it was S(-) as claimed in claim 4 at that time nor, were any of its properties ascertained.
+[44]
+A May 1985 Daiichi report indicates that up to 10 mg of (+) and (-) had been obtained by the HPLC method in April and that tests indicated that the (-) form DR-3355 showed almost double the antimicrobial activity of Ofloxacin DL-8280. This is the first test as to antimicrobial activity. An Interim Report of May 1985 describes the isolation of the (-) and (+) forms and determination of activity as a "really big finding".
+[45]
+In June 1985 the first of the Japanese Patent Applications, this one directed to the HPLC method, Process A, was filed.
+[46]
+In June and July 1985, work continued on the enzymatic process for separation, called Process B. In August 1985, Daiichi reported "astonishing separation". In October 1985 the second of the Japanese Patent Applications was filed and was directed to this enzymatic process. No tests had yet been conducted as to determine the S or R configuration, nor had any toxicity or solubility tests been conducted.
+[47]
+In a report dealing with the period from August to October 1985, Daiichi shows that it had conducted initial screen toxicity tests on mice. A chart appears giving the same information as that that now appears in Table 3 of the 080 patent except that the LD50 values are not given. In the same report a solubility of 22500 mg/ml or 10 times as much as Ofloxacin is reported, just as set out in Table 4 of the Patent. The LD50 value for Ofloxacin of 203 (or 208 as there may have been a misprint) appears to have been simply an accepted number at Daiichi. The LD50 value of 244 (243.8) mg/kg for the (+) and (-) optical isomers is first reported January 1986.
+[48]
+In December 1985, Daiichi reports that last month (November) an X-ray diffraction analysis had been conducted on the (-) optical isomer and that the absolute configuration of S had been determined.
+[49]
+In January 1986 the third of the Japanese Patent Applications was filed. It is the first to disclose the S configuration.
+[50]
+It can been seen through this course of development that the final element of claim 4, determination of the S configuration, had been made by December 1985. I find therefore, that December 1985 is the relevant date of invention for consideration of issues as to inventive ingenuity and obviousness with respect to claim 4.
+The Gerster Papers
+[51]
+Papers in poster form authored by Dr. John Gerster, one in 1982 and one in 1985, both relating to processes for obtaining a quinolone drug known as flumequine, are significant to the arguments of the parties. The fact of publication and availability of the 1985 poster paper is not at issue. It is admitted that the 1985 paper was the subject of a poster presentation at a convention in the fall of 1985. That convention was attended by scientists interested in the area of drugs such as quinolones. Dr. Hayakawa admitted that he attended that convention, made notes from the poster as presented and returned to Japan where he adapted the process to produce levofloxacin. He said that this process went well. This process is a version of what the Patent describes as Process C and is set out in the third of the Japanese patent applications filed on January 28, 1986.
+[52]
+The 1982 poster differs from the 1985 poster only in that the 1982 paper is directed to flumequine itself whereas the 1985 paper is directed to a flumequine derivative.
+[53]
+It is the publication of the 1982 paper in poster form that is in contention. Dr. Gerster's evidence, which I accept completely, was that there was a convention of drug scientists such as himself, held in Toronto in June 1982. Prior to or at the convention attendees were given a book which contained a list of attendees and abstracts of papers presented including abstracts of those presented in poster format. Exhibit D-97 was a copy of a portion of that material which included an abstract of Dr. Gerster's poster. A copy of the poster itself may have been sent by Dr. Gerster to the chairman of the conference prior to the opening of that conference, but the evidence on this point is unclear as to whether the poster or the abstract was sent. At the convention, Dr. Gerster attached a full copy of his poster to a four by eight fact board in an area where those attending would pass by and could examine the poster and speak to Dr. Gerster. Dr. Gerster could not remember if anyone had actually requested a copy of the poster but said he would have provided a copy, if asked. There is no evidence that any person was ever provided with a copy of the poster or examined the paper as posted.
+[54]
+Dr. Hayakawa testified that in the fall of 1985 he attended a conference and examined Dr. Gerster's 1985 poster and made notes from it. He testified that the 1985 poster made reference to the 1982 poster which Dr. Hayakawa had never seen. He asked Daiichi's New York office to endeavour to obtain a copy of the 1982 Gerster poster but apparently they were unsuccessful in doing so.
+[55]
+The expert evidence of Dr. Partridge, a consultant to the drug industry and a person who had worked for many years in that industry and Ms Langley, Head Librarian at Duke University Chemical Library, is that the 1982 Gerster poster could not be located by means of any available searching facility whether using 1985 or 2006 techniques. The Defendants' evidence, through Dr. Collicott is that the 1982 abstract, but not the poster, was available at the British Library.
+[56]
+The 1982 poster deals with flumequine, not Ofloxacin, not levofloxacin. While the scientific experts argued as to how closely relevant flumequine may have been to levofloxacin, it is clear that the 1982 poster makes no specific disclosure as to levofloxacin. To that extent therefore, the 1982 poster does not "anticipate" levofloxacin since in order to anticipate it must disclose levofloxacin itself, as will be discussed more fully in these Reasons. Thus the 1982 paper can only be relevant to the issue of obviousness. The law respecting the availability of printed publications pertaining to issues of novelty (anticipation) is different from the law respecting invention or obviousness.
+[57]
+In order to be relevant to the issue of invention or obviousness, the 1982 poster must be something which, on the evidence, was available to a person skilled in the art or could reasonably be assumed to have knowledge of in 1985 (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 417 (T.D.) affd. (1990), 105 N.R. 138; 32 C.P.R.(3d) 409 (F.C.A.)). There was no evidence that anyone other than Dr. Gerster, perhaps the chair of the conference and a few of Dr. Gerster's colleagues at Riker (3M) saw or had access to the 1982 poster. The evidence satisfies me that the poster was not published by way of distribution and could not have been found using a reasonably diligent search as of 1985. A public display for three hours at a scientific meeting does not mean that the poster has entered into the body of prior art of which a person skilled in the art could be said to possess or of which they could make themselves aware through a reasonably diligent search.
+[58]
+Therefore, I find that Dr. Gerster's 1982 poster does not comprise part of a body of prior art that was known to or could in any reasonable way have been found by a person skilled in the art as of 1985. It is not relevant in respect of either anticipation or obviousness.
+[59]
+With respect to the other paper, Dr. Gerster's 1985 poster cannot be used for the purposes of anticipation since it was not published before two years before the filing of the Canadian patent application (s. 28(2) of the "old"
+Patent Act
+). However, to the extent that the invention as claimed in claim 4 was not made until after Dr. Hayakawa reviewed the poster copy of the 1985 paper, it can be used to address the issue of invention or obviousness.
+Japanese Patent Applications
+[60]
+Three Japanese Patent Applications were filed in respect of levofloxacin. They were:
+1. Application No. 134712/85 filed June 20, 1985;
+2. Application No. 226499/85 filed October 11, 1985; and
+3. Application No. 16496/96 filed January 28, 1986.
+[61]
+Of these, the first describes levofloxacin on as a (-) enantiomer of Ofloxacin and describes a process for making it as what is now called Process A. There is data as to antimicrobial activity, but no data as to toxicity or solubility.
+[62]
+The second still describes levofloxacin only as a (-) enantiomer of Ofloxacin and describes another process for making it as what is now called Process B. There is no further data as to antimicrobial activity and still no data as to toxicity or solubility.
+[63]
+The third filed January 28, 1986, is the first to describe levofloxacin as being the S(-) enantiomer of Ofloxacin. No further data as to antimicrobial activity is presented and still no data as to toxicity or solubility.
+[64]
+The application for the Canadian Patent was filed on June 19, 1986. It claims "priority" from each of the three Japanese Patent Applications. For the purposes of this action that claim to priority is relevant only in that, if no earlier date of invention is proved, then the date of filing the relevant Japanese application is considered to be the invention date provided that the application describes the invention as claimed. The S(-) configuration was first disclosed in the third Japanese Patent Application, filed January 28, 1986. This is about one month after the December 1985 date that I have found on the evidence to be the date of invention.
+[65]
+The toxicity and solubility data found in the Canadian patent cannot be found in any of the Japanese Applications. Evidence given at trial indicates that the toxicity data as to levofloxacin came from tests conducted at Daiichi in mid-October 1985. The solubility data was apparently determined by someone at Daiichi in September 1985.
+Subsequent Developments as to Levofloxacin
+[66]
+Daiichi's initial response to the development of levofloxacin (then called DR-3355) was rather lukewarm. In 1987 a proposal made to a development promotion meeting (Exhibit 87, Tab 23) stated that it was difficult to say that DR-3355 was a development candidate that was sufficiently satisfactory with regard to antimicrobial activity and antimicrobial spectrum, however, given market conditions as to its Ofloxacin product (called TARIVID in Japan) levofloxacin should be further developed so as to clearly distinguish the two. This development policy proposed that levofloxacin was a bit weak to be positioned as a true post-Tarivid drug but that the participants would strive to come up with talking points that could distinguish it from Tarivid.
+[67]
+It appears that shortly after Daiichi had filed its Japanese patent applications at least four competitor groups announced that they had used identical methods to derive the same enantiomer (Exhibit 87, Tab 28, page 276). There was some discussion at trial as to conflict proceedings in the Canadian Patent Office, but no evidence on that subject was lead.
+[68]
+It appears that Ofloxacin (called FLOXIN in North America) enjoyed limited success as an antimicrobial drug. Such success as it had was limited to the treatment of urinary and cervical infections. According to the evidence of Dr. Kahn, the Johnson & Johnson organization sought to improve its penetration into the quinolone market by introducing levofloxacin (LEVAQUIN) targeting, in particular, respiratory infections where it found better acceptance.
+Commercial Success of Levofloxacin
+[69]
+The Plaintiffs provided much evidence as to the sales and marketing of its levofloxacin product known in North America as LEVAQUIN. All of this evidence dealt with activities after the filing of the application for the Patent and, in fact, after the Patent was issued and granted in 1992.
+[70]
+Evidence of commercial success is said to be an aid in determining whether what has been claimed as an invention is truly inventive. However, this evidence is, at best, secondary and is to be treated with caution as many factors having nothing to do with inventiveness such as marketing skills, marketing power, lack of any alternatives, pricing and more can contribute to commercial success (
+Créations 2000  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 389 (T.D.), at 404 (F.C.), affd. (1990), 124 N.R. 161; 34 C.P.R.(3d) 178 (F.C.A.), at 183 (F.C.A.)).
+[71]
+Levofloxacin entered the Canadian market on in about June 1997. Shortly before, it had entered markets in Japan and the United States. The marketing efforts were targeted particularly in providing the drug for use in treating respiratory conditions such as "community acquired" and "hospital acquired" pneumonia. The particular infections treated by levofloxacin are those caused by the organism
+s. pneumonia
+(strep pneumonia), which is not mentioned in the Patent. There is no doubt that, in this area, levofloxacin has achieved a measure of commercial success. The same may be said for the use of levofloxacin in treating infections of the eye including surgical treatment of the eye. Dr. Low, one of the Defendant's expert witnesses, volunteered during cross-examination at page 2173:
+"I accept that the drug works great for strep pneumo"
+[72]
+The evidence of the Janssen-Ortho executive, Dr. Khan, who developed the marketing plan for levofloxacin, stresses that Janssen-Ortho had been marketing Ofloxacin, which had achieved some success as an antimicrobial in urinary infections, but had been unable to achieve wider success with that drug. He developed a plan whereby levofloxacin was marketed with an emphasis on its ability to treat respiratory infections. Thus the two could continue on the market, perhaps one or the other could be used to treat the other infections but the particular use of Ofloxacin below the belt and levofloxacin above the belt was emphasised and promoted.
+[73]
+Levofloxacin is not the dominant drug used in treating infections, ciprofloxacin continues to be important as are other non-quinolone drugs. In some areas levofloxacin has been displaced by "later generation" quinolones. That having been said, I find that levofloxacin has achieved significant commercial success particularly in the treatment of
+s. pneumonia
+type infections, a type of infection not mentioned in the Patent. All such success was well after the Patent was issued and of little assistance in determining whether there was an exercise of "inventive ingenuity" as of December, 1985.
+Previous Litigation
+[74]
+These parties have previously been engaged in litigation in Canada involving this Patent. That litigation was pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+(S.O.R./93-133) (
+Regulations
+). In that litigation, the Court found that Novopharm's allegation that the relevant claims of the patent were invalid was "justified" pursuant to s. 6(2) of those
+Regulations
+. In that case,
+ <FRAGMENT_SUPPRESSED> ), Justice Mosley of this Court held, at paragraph 29 of his Reasons, that the discovery of the beneficial properties of the S(-) optical isomer (of Ofloxacin) was the object and usefulness of this Patent. He found, at paragraph 85, that Novopharm had established, on a balance of probabilities, that a technician skilled in the art would have come directly and without difficulty to the solution taught by the patent simply by conducting known, routine experiments with racemic Ofloxacin. Accordingly, at paragraph 87, he found the Patent to be invalid for obviousness, that is, that Janssen had not demonstrated on a balance of probabilities that Novopharm's allegation of invalidity on this ground was not justified. The Federal Court of Appeal dismissed the appeal on the ground of mootness as the Notice of Compliance had already been issued (2005), 337 N.R. 259; 40 C.P.R.(4th) 1; 2005 FCA 6. Leave to appeal to the Supreme Court of Canada was dismissed, [2005] 1 S.C.R. 776; 345 N.R. 174; 40 C.P.R.(4th) 1; 2005 FCA 6; [2005] S.C.C.A. No. 189. Those findings do not constitute res judicata in this case (
+ <FRAGMENT_SUPPRESSED>  at para. 9).
+[75]
+Daiichi and a party related to Janssen-Ortho were engaged in litigation in the United States Courts against a corporation known as Mylan (
+ <FRAGMENT_SUPPRESSED> d 713. This litigation involved United States Patent No. 5,053,407 which Patent is, for purposes relevant here, identical in its wording to the Canadian Patent. Claim 2 of the United States Patent is for practical purposes, identical to claim 4 of the Canadian Patent. The United States Court found that Claim 2 of the United States Patent refers to a compound comprised of an optically active and substantially pure quantity of levofloxacin (page 30 of the original Reasons issued by the Court). At page 80 the Court found that a person of ordinary skill in the art would have an advanced degree (though not necessarily a doctorate) in chemistry or a related discipline, which included the study of stereochemistry. That person would also have had either (a) substantial laboratory or clinical experience in pharmaceutical research and development or (b) substantial familiarity with principles of pharmacology and pharmaceutical synthesis. The Court concluded at pages 105-106 that the Defendant, Mylan, had not proven, by clear and convincing evidence, that the United States patent was obvious. The other attacks on validity made by Mylan also failed. The appeal from this decision was dismissed in a "non-precedential" decision of the United States Court of Appeals for the Federal Circuit, [2006] US App. LEXIS 7689 (Lexis)). These decisions of the United States Courts are, of course, not binding upon this Court.
+[76]
+Thus, this Court is faced with the task of assessing the evidence before it in light of Canadian law, without the constraint of any earlier binding decision.
+Construction of the Patent and Claim 4
+[77]
+Construction of the Patent is a task to be undertaken by the Court. In respect of a patent governed by the "old"
+Patent Act
+, it is to be done as the date of issue, June 23, 1992, and on the basis that the addressee is a person skilled in the art, taking into consideration the knowledge that such a person is expected to possess as of the date of the issuing of the patent. The Court must construe the claim before turning to issues of infringement or validity. This task is one for the Court alone, although it may be assisted by expert evidence as to the meaning of certain terms and as to the knowledge that a person skilled in the art is expected to possess as of that time (
+ <FRAGMENT_SUPPRESSED>  at 572).
+[78]
+I will first review the specification.
+i) The Specification
+[79]
+The specification begins at page 1 with a description of the field of the invention:
+"
+Field of the Invention
+"This invention relates to optically active pyridobenzoxazine derivatives and a process for preparing the same and to novel intermediates useful for preparing such derivatives. More particularly, it relates to optically active compounds of Ofloxacin and its analogs, a process for preparing the same and intermediates useful for preparing the same."
+[80]
+Beginning on the same page, the background to the invention is set out:
+"
+Background of the Invention
+"Ofloxacin ... is known to be an excellent synthetic antimicrobial agent as disclosed in Japanese Patent Application ...
+Ofloxacin has an asymmetric carbon atom at the 3-position thereof and is obtained as racemate ... by known processes. The present inventors obtained optically active compounds of the racemic Ofloxacin and found that the S(-)-compound possesses an antimicrobial activity of about 2 times higher than that of the (±)-compound as determined in mice by intravenous administration. On the other hand, the present inventors found that that R(+)-compound exhibits an antimicrobial activity of only about 1/10 to 1/100 times that of the (±)-compound, whereas it possesses an acute toxicity substantially equal to that of the (±)-compound. That is, the S(-)-form of Ofloxacin has been found to have very desirable properties, i.e., increased antimicrobial activity and reduced toxicity, and is expected to be a very useful pharmaceutical agents as compared with the (±)-compound. Further, both the R(+)- and S(-)-compounds of Ofloxacin in the free form has markedly high water-solubility as compared with (±)-compound and as compared with free compounds of this type, and can be used as injectable preparations. These advantages will be apparent from the experimental data shown hereinafter."
+[81]
+Thus, the background states that the left handed version (called the S(-) version) is twice as active in an antimicrobial sense as the racemic mixture, and has weaker toxicity than the racemic version. The right handed or R(+) version has a tenth to a hundredth less activity than, and is about as toxic as, the racemic mixture. Each of the R(+) and S(-) versions are more soluble than the racemic version.
+[82]
+A summary of the invention commences at page 2 of the Patent. It begins with a description of a particular compound, designated as (X), which is useful as an intermediate, that is, a starting compound from which isomers of Ofloxacin, particularly the S(-) form, can be prepared. The summary concludes at page 4 with three stated objects of the invention:
+"An object of this invention is to provide optically active Ofloxacin and its analogs.
+"Another object of this invention is to provide a novel intermediate represented by the above-described formula (X) which is useful for synthesizing optically active Ofloxacin and other pyridobenzoxazine derivatives.
+"A still another object of this invention is to provide a novel process for preparing optically active Ofloxacin and its analogs by the use of the above-described intermediate."
+[83]
+At page 4 a detailed description of the invention begins with a formula, designated as VI representing Ofloxacin and its analogs. Three different processes for the preparation of "optically active" Ofloxacin are set out, Process A, Process B and Process C. At page 19 it is stated that Process C is particularly preferred.
+[84]
+Tables 2, 3, and 4 are presented starting at page 19. Table 2 addresses antimicrobial activity. Table 3 addresses toxicity and in Table 4 solubility of each of the racemate, the R(+) and S(-) versions of Ofloxacin, is compared.
+[85]
+Seventeen specific examples follow. Examples 6, 7, 11 and 16 are particularly pertinent to claim 4. Also included is Example 17, which the parties agree is irrelevant to the issues in this case.
+[86]
+A Supplementary Disclosure is provided at pages 48 to 53. It relates to the use of the compounds as antibacterial medicines. A number of specific uses are set out. Examples of the compounds as formulated are provided. It is to be noted that such disclosure is not contained in the related United States Patent 5,053,407. Otherwise the specification of the United States and Canadian patents is essentially the same. Further claims included in the Canadian Patent are supported by the Supplementary Disclosure, but they are not at issue here.
+[87]
+The Canadian Patent ends with nineteen claims. Claims 1, 3, 5, 10 and 11 are directed to a process for making a compound. Claims 2, 4 and 6 are directed to certain compounds. Claim 2 is directed to a class of compounds. Claims 4 and 6 are directed to specific compounds. Claims 12, 13, 14, 15, 16 and 19 are directed to salts of the compounds of claim 2. Claim 17 is directed to a hydrate of the compounds of claim 2 and its salts. Claim 18 is directed to a pharmaceutical composition containing the compounds of claim 2.
+ii) Construction of Claim 4
+[88]
+As has been discussed, construction of the claim at issue must precede considerations of validity and infringement although the latter is unnecessary, infringement having been admitted. On a plain reading, claim 4 is simplicity itself. As previously set out it reads:
+4. S(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7H-pyrido[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid.
+which can be shortened to:
+S(-) Ofloxacin
+or even to:
+levofloxacin
+[89]
+ <FRAGMENT_SUPPRESSED>  at 251-264, I wrote extensively as to the principles of construction of a claim, an exercise that will not be repeated here. The Court is to construe claim 4 as of the date that the "old"
+Patent Act
+was granted, June 23, 1992. Construction is an objective exercise, to be pursued through the eyes of an ordinary person skilled in the art as of that date in the context of the next of the specification, giving a purposive construction to the claim with that background.
+[90]
+The ordinary person skilled in the art in this case can be ascertained from the language of the specification of the Patent. The Field of the Invention on page 1 describes the invention as relating to optically active pyridobenzoxazine derivatives, particularly optically active compounds of Ofloxacin. The Background on the same page describes Ofloxacin as an excellent synthetic antimicrobial agent. Care must be taken in describing a person skilled in the art as there could be danger in defining such a person so narrowly that few, if any, would qualify. Conversely, if the net is cast too broadly, a danger exists in bringing in those unfamiliar with the field. The Court must take a fair and generous view as to what sort of person comprises a person skilled in the art. That person is the ordinary person skilled in the art, not the least qualified or slowest witted. It must not be too astute or technical in its inclusion or exclusion of any group of persons. Further, with respect to evidence as to the understanding of such person, the Federal Court of Appeal has said that a witness on the subject need not be that very person, so long as they are in a position to provide appropriate evidence as to what such a person would have known and understood at the relevant time (
+ <FRAGMENT_SUPPRESSED>  at para. 17). I find that the ordinary person skilled in the art would be a person with at least a first level university education, and at least a few years of experience concerned with chemical compounds and deriving optically active compounds therefrom particularly in the area of compounds having medicinal uses.
+[91]
+The evidence shows that, by June 1992, ordinary persons skilled in the art would have been aware that Ofloxacin was a racemic compound that techniques existed for the separation of such compounds into their optical isomers (enantiomers) and that some variation in the properties between one or other of the isomers and the racemic compound might be expected. In this regard, a Report prepared by Oya and Abe, Daiichi employees, in April 1984, expresses in the introduction, the understanding that an ordinary person skilled in the art would be expected to have as of April 1984 and certainly by June 1992.
+"Compounds which have been used in the form of a racemate are found in medicines. With progress in the technology of optical resolution, new information can be obtained regarding various biological properties such as drug efficacy and toxicity with respect to stereoisomers. It seems to be very important to understand individual stereoisomers from the standpoint of chemical properties as well as biological properties. In order to satisfy such demands, isolation, analysis and resolution methods for stereoisomers have become the basic technologies.
+"The classic methods of performing optical resolution include mechanical separation methods such as natural fractional crystallization and preferential crystallization and methods using the differences in the physico-chemical properties of diastereomers, and biochemical methods using enzymes. Recently numerous reports have been reported on liquid chromatography, especially isolation and analysis and optical resolution of stereoisomers using high performance liquid chromatography (HPLC). In particular, the number of reports regarding amino acids was the highest and several examples of applications to medicines have been reported. For example, in the case of thalidomide, the R(+) form was found to be non-teratogenic, while the S(-) form was found to cause birth defects. In the case of chloroquine used as an anti-rheumatic drug, differences in drug efficacy and toxicity have been reported between the (+) form and the (-) form.
+"The separation of stereoisomers by HPLC is particularly advantageous in the field of medicines in order to obtain information regarding metabolism, drug efficacy and toxicity. It is also possible to simultaneously fractionate antipodes. If the stereoisomers are successfully separated, the application range is assumed to be very broad."
+[92]
+With this background, the specification of the Patent is to be read. It states at pages 1 and 2:
+"This invention relates to optically active pyridobenzoxazine derivatives ... More particularly, it relates to optically active compounds of Ofloxacin ...
+. . . . .
+"Ofloxacin ... is obtained as a racemate ... The present inventors have obtained optically active compounds of the racemic Ofloxacin and found that the S(-) compounds possesses an antimicrobial activity of about 2 times higher than that of the (±) compound and an acute toxicity (LD50) weaker than that of the (±) compound ... the S(-) form of Ofloxacin has been found to have very desirable properties i.e., increased antimicrobial activity and reduced toxicity, and is expected to be a very useful pharmaceutical agents, as compared with the (±) compound. Further with the R(+) and S(-) compound in the free form have markedly high water-solubility as compared with the (±) compound ..."
+At page 2, under Summary of the Invention, there is stated:
+"As a result of investigations with the purpose of preparing especially S(-)- form having higher activity among the two isomers of Ofloxacin ..."
+[93]
+In the examples that follow, S(-) Ofloxacin is prepared. The purity of the material prepared is not explicitly set out in the examples nor elsewhere in the Patent. Using Example 6 it has been calculated that the resulting product contains about 95% S(-) and 5% R(+) or 90 percent enantiomeric excess of S(-).
+[94]
+Turning to the construction of claim 4: S(-) Ofloxacin is what is clearly stated. It is different from that which is in racemic (±) Ofloxacin. Claim 4 addresses that which has been obtained from the racemic compound or through a process beginning not with Ofloxacin, but rather an intermediate compound. Purity is not stipulated, nor does it need to be. The S(-) compound is something which has been produced by techniques expected to give reasonably pure S(-) compound. We are told that the S(-) compound is expected to be a useful antimicrobial agent having greater antimicrobial properties than the racemic mixture while being less toxic and markedly more soluble.
+[95]
+Thus, claim 4 is properly construed as:
+S(-) Ofloxacin, different from that contained in the racemate, obtained in a reasonably pure state.
+[96]
+The claim does not address medical properties or uses, nor does it need to. Where the compound is new, it is sufficient that its utility is set out in the specification. It need not be included in the claim. (
+ <FRAGMENT_SUPPRESSED> ; 320 N.R. 201;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 161 (F.C.), at para. 82, affd. (2006), 349 N.R. 183; 46 C.P.R.(4th) 401 (F.C.A.))
+[97]
+With this construction in mind, the issues as to validity must be addressed. They are those of anticipation, obviousness and ambiguity. It must be kept in mind that s. 45 of the "old"
+Patent Act
+provides that a patent is presumed to be valid in the absence of evidence to the contrary. The onus is on the Defendant to lead such evidence and persuade the Court on the balance of probability that claim 4 is invalid.
+Anticipation and Obviousness
+[98]
+Section 2 of the
+Patent Act
+, supra, defines an invention in terms of that which is "new and useful". The Supreme Court of Canada has reminded us that "inventive ingenuity" has also been an essential requirement for a valid patent. (
+ <FRAGMENT_SUPPRESSED>  C.P.R. 9, at 51).
+[99]
+The Supreme Court of Canada has recently said that to be valid, a claimed invention must be new, that is, not previously disclosed, whether or not it was inventive; it must be useful; and it must possess inventive ingenuity. (
+ <FRAGMENT_SUPPRESSED>  at para. 1). The patent monopoly should be purchased with the hard coinage of new, ingenious, useful and unobvious disclosure (
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  at para. 37). The requirement that a patent claim which is "novel" has sometimes been considered by the courts in terms of its antithesis was the claimed invention "anticipated". Similarly, the requirement of inventive ingenuity has sometimes been considered by the courts as being of its antithesis "obviousness".
+[100]
+As the Federal Court of Appeal stated in
+Rothmans,  <FRAGMENT_SUPPRESSED> ; 152 N.R. 292; 47 C.P.R.(3d) 188 (F.C.A.), at 198, anticipation and obviousness are both questions of fact but each must be approached differently. Anticipation means that your claimed invention, whether or not it was inventive, was already known to the public, thus cannot be the subject of a monopoly subsequently given to any one person. Obviousness means that while the claimed invention may not have been presumably known, it is nonetheless not something that a person can monopolize since it is something that a person skilled in the art would have been expected to come up with in any event.
+Anticipation
+[101]
+Turning first to the issue of novelty or anticipation, the Defendant says that the prior disclosure of Ofloxacin anticipates what is claimed in claim 4.
+[102]
+Ofloxacin is described in Daiichi's Canadian Patent 1,167,840 (the '840 patent) issued May 22, 1984 as well as in a publication by Daiichi personnel Osada and Ogawa of March 1983 in a scientific journal Antimicrobial Agents and Chemotherapy. Of these, the abstract in the Daiichi publication is more cryptic and pertinent:
+"Ofloxacin (DL-8280); (±)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyriodo[1,2,3-de] [1,4] benzoxazine-6-carboxylic acid) showed a broader spectrum and a greater potency of antimycoplasmal activity than did pipemidic acid, norfloxacin, tetracyclines, and lincomycin, but was inferior to erythromycin. Its mycoplasmacidal potency against clinical isolates of Mycoplasma pneumoniae was also greater than that of other quinolones and tetracyclines."
+[103]
+This, says the Defendant, tells a person skilled in the art that Ofloxacin is a (±) racemate and is useful as an antimicrobial medicine. Relying on evidence such as that of Dr. Caldwell and Dr. Collicott, the Defendant says that the ordinary person skilled in the art, upon reading this publication would know that one or other of the optical isomers of the racemates would have greater activity than the racemate. The Defendant says that the ordinary person skilled in the art would, as of the early 1980's, have had common place apparatus and techniques available to separate the isomers from the racemates.
+[104]
+Neither the '840 patent nor the publication contain any direction that the optical isomers of Ofloxacin would be more active than the racemate nor do either instruct the reader as to how to effect such separation or to produce an optical isomer.
+[105]
+The Supreme Court of Canada in
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150; 2000 SCC 66, outlined the test for anticipation is in Canada. The Court said at paragraph 26:
+"... The legal question is whether the Solov'eva article contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, 'the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill' ... In other words, was the information given by Solov'eva for [the] purpose of practical utility, equal to that given in the patents in suit?: ... as was memorably put in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at p. 486:
+'A signpost, however clear, upon the road to the patentee's invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.'
+The test for anticipation is difficult to meet:
+'One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. [
+ <FRAGMENT_SUPPRESSED>  at para. 19 (Lexis); [2006] 1 All E.R. 685; [2006] R.P.C. 10, has put the matter succinctly: there are two requirements for anticipation, enablement and disclosure.
+[107]
+The Defendant argues that the phrases "purely by mechanical skill" and "produce the claimed invention without the exercise of any inventive skill" mean that if an ordinary person skilled in the art could bring to bear on the publication the understanding of the day and routine techniques of the day, from which the invention as claimed would result, there is anticipation. This is not the correct interpretation of the test for anticipation as set out by the Supreme Court of Canada.
+[108]
+The Supreme Court test requires that the "flag" be planted at the point of the claimed invention and that the direction as to how to arrive at that point must be so clear such that an ordinary person skilled in the art would in every case, without possibility of error, be led to that point. No such flag is planted and no such direction is given in either the '840 patent or the Daiichi publication. There is no anticipation of what is claimed in claim 4 of the Patent.
+Obviousness
+[109]
+Inventive ingenuity is not defined in the
+Patent Act
+. Obviousness has only been defined recently in the post-October 1, 1996 version of the
+Patent Act
+, s. 28.3 (1993, c. 15, s. 33) as being "subject matter that would not have been obvious [at the relevant date] to a person skilled in the art ... having regard to information disclosed ... in such a manner that [it] became available to the public". This definition is not different from the law as it was generally understood previously.
+[110]
+Obviousness is a measure of whether the invention, as claimed, possesses sufficient inventive ingenuity so as to merit the grant of a monopoly. It is to be determined by the Court on the evidence before it, on an objective and principled basis. As Hoffman, L.J., said in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at 519 (Lexis), the question is that of fact and degree which must be answered in accordance with the general policy of the
+Patent Act
+to reward and encourage inventors without inhibiting improvements of existing technology by others.
+[111]
+The classic test for obviousness as established by the Federal Court of Appeal is that of
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), at 294 ( <FRAGMENT_SUPPRESSED> ):
+"The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[112]
+This definition comes perilously close to that for anticipation as set out by the Supreme Court of Canada if it is to be interpreted that the person skilled in the art has "no scintilla of inventiveness or imagination" and that being led "directly and without difficulty" to "the solution taught by the patent" means that there must be only one way so as to inevitably arrive at the invention and that the "invention taught' is different from the claim as properly construed. There would be no point in considering obviousness if it is, in effect, little different than a consideration of anticipation.
+[113]
+A determination of obviousness on a principled and objective basis requires that the Court take into consideration a number of factors. These factors may vary in number and importance dependant upon the circumstances of the case. The Court is not a scientific body, thus it must take the facts of the case, the opinions of the experts and the circumstances as presented into consideration and come up with a weighed decision (
+ <FRAGMENT_SUPPRESSED>  (Ch.), at 442 ff). The factors to be considered as of the date of the invention which can be considered as December 1985, include:
+1. What is the invention
+as claimed
+? The claim or claims at issue, as construed by the Court is what are at issue. The "invention" as generally expressed in the patent or by the inventors is
+not
+the issue, it is the
+claim
+as properly construed.
+2. Who is the
+person skilled in the art
+to whom the patent is addressed? To that extent the uninventive and unimaginative person postulated in the <FRAGMENT_SUPPRESSED> quotation has been supplanted by the Supreme Court of Canada in
+Whirlpool
+at para. 74. The Court said that while such a person is deemed to be uninventive as part of his future personality he or she is thought to be reasonably diligent in keeping up with advances in the field to which the patent relates. The common knowledge of skilled workers undergoes continuous evolution and growth.
+3. What
+body of knowledge and information
+would the ordinary person skilled in the art be expected to have, or to be reasonably able to obtain, as of the date of the alleged invention? Not all knowledge is found in print form, much is simply commonly known and passed from person to person. Just as one might learn to cook at mother's elbow, it is not all in the recipe book. Similarly, not all knowledge that has been written down, perhaps fleetingly, becomes part of the knowledge that an ordinary person skilled in the art is expected to know or find.
+4. What is the
+climate in the relevant field
+at the time the alleged invention was made? The general state of the art includes not only knowledge and information but also attitudes, trends, prejudices and expectations.
+5. What
+motivation
+existed at the time the alleged invention was made to solve a recognized problem? There may have been a general motivation such that everybody in the particular area was looking for a solution. The more unique and personal the motivation was, apart from any general motivation, the more one might be expected to be inventive. If motivation came from an outside source, and common place thought and techniques can come up with a solution, the less one is expected to have exercised inventive ingenuity. The United States Supreme Court is expected to consider the issue of motivation shortly in
+ <FRAGMENT_SUPPRESSED>  effort and time was involved? Were the efforts randomized or focused? In this regard phrases such as "worth a try" and "directly and without difficulty" and "routine testing" have been used by the courts. It is not useful to use such phrases as they tend to work their way into expressions of law or statements of expert witnesses. Sachs, L.J., deprecated the coining of such phrases in
+ <FRAGMENT_SUPPRESSED>  at pages 211-12. The length of time and expense involved in the efforts are not, in themselves, useful considerations as an invention may be the result of a lucky hit, or be simply the uninventive application of routine, of time consuming and expensive techniques.
+Of secondary importance are factors arising after the time that the alleged invention is made since, after all, the Court is to be concerned with "inventive ingenuity" exercised at the time of making the invention. These secondary factors include:
+7.
+Commercial success
+. Was the subject of the invention quickly and anxiously received by relevant consumers? This may reflect a fact that many persons were motivated to fill the commercial market. This may also reflect things other than inventive ingenuity such as marketing skills, market power and features other than the invention.
+8.
+Subsequently recognized advantages
+. The inventors may have perceived only certain advantages, yet later those inventors or others may determine that other, previously unrecognized advantages lay in the alleged invention. This factor is of limited usefulness in considering inventive ingenuity as of the date of the invention. The recognition of later advantages, if unexpected, may themselves be the subject of a patent. To the extent that the United States Courts in cases such as
+Zenitz, Re
+, 33 F.2d 924, have placed weight upon subsequently discovered advantages that is not the law here. Little, if any, weight should be put on this factor.
+9. Meritorious awards, if in fact directed to the alleged invention may be recognition that the appropriate community of persons skilled in the art believed that activity to be something of merit.
+The most dangerous of all the factors and one to be avoided or applied only with the greatest of care is:
+10. Hindsight. It is far too easy to see how the alleged invention could have been arrived at, even easily, once it has been done. As some cases say, simplicity does not negate invention. However, if the number of decisions to be made in arriving at the solution were few, and commonplace, hindsight may merely confirm that no inventive ingenuity was required so as to arrive at the solution. If the points for decision were many and choices abundant, there may be inventiveness in making the proper decisions and choices.
+Applying the Factors to this Case
+[114]
+Therefore, to apply these factors to the evidence in this case:
+1.
+Invention as claimed
+: Claim 4 has been construed as:
+S(-) Ofloxacin, different from that contained in the racemate, obtained in a reasonably pure state.
+The claim does not address the compound's properties or uses.
+2.
+Person skilled in the art
+has already been discussed. While fictionally such person is unimaginative and uninventive, that person is reasonably diligent in keeping up with developments in the area. That person continuously evolves and grows. That person is not the lowest common denominator of the group, but the ordinary or average person.
+3.
+Body of knowledge
+. This body would include the knowledge as to the existence of Ofloxacin as a racemate useful as an antimicrobial compound with acceptable toxicity. The person skilled in the art would know that Ofloxacin is racemic and, I find on the evidence, that each of the optical isomers which comprise the racemate would be expected by such a person to possess properties different from the racemate, but that the degree of difference would be unknown and whether each of the properties would differ to the same degree in the same direction would be unknown. One would have to make it and try it out. I find that the evidence including that of Drs. Wentland, Klibanov, Hooper, Caldwell, Low and Collicott, is that the properties of the individual optical isomers would not be predictable and that each of the properties of antimicrobial activity and toxicity may vary differently; they are not linked. One could not know until one derived the optical isomer and tried it and, whether it would have enhanced properties in one or more areas, or detrimental properties that would outweigh the enhancements. This was particularly true as of 1985.
+The body of knowledge would also include, as of 1985, means for resolving the racemate, that is, separating the optical isomers from the racemate. Columns such as Pirkle columns or chiral HPLC columns, essentially tubes filled with fine silica sand and charged with selected materials such as proteinaceous material, could be used, on a small or analytical scale, to effect some separation or resolution. This knowledge was, as of 1985, still in its infancy and not yet considered as a mainstream or common technique.
+Later in 1985, Gerster's poster was available. I find, as confirmed by Dr. Hayakawa's evidence, that it would be seen as an appropriate model to be used in an endeavour to resolve racemates of the kind at issue here. I put little weight on Dr. Klibanov's evidence in this area and considerable weight on the very pragmatic evidence of Dr. Chong who said that where there is published something that is reasonably close to what you are working with it is logical that it would be considered. This 1985 paper is particularly relevant since Dr. Hayakawa saw it and copied it down with a view to trying out for himself the procedure disclosed before he determined that the (-) enantiomer of Ofloxacin had the S configuration. The
+claimed
+invention is S(-) Ofloxacin, therefore the 1985 Gerster paper must be included in the prior art in the consideration as to whether Dr. Hayakawa exercised "inventive ingenuity". However, the application of techniques such as Gerster's were not mainstream or commonplace. Hayakawa was the first to have recognized its utility and used it to his advantage. There is no evidence to suggest that Gerster or anyone else at the time applied that technique to Ofloxacin.
+4.
+Climate in the relevant field
+. The climate is best expressed though the evidence of Drs Wentland and Caldwell. Dr. Wentland, working in the quinolone field at the time, was that the prevalent attitude was that in seeking to adapt or modify compounds newly disclosed by others, most efforts would be directed toward adding, removing or substituting some of the molecular elements of a compound. That is, to create analogues. Dr. Wentland said that, at the time, little attention would be given to enantiomers. Dr. Caldwell's evidence was that there was an awareness of chirality and that there was some interest in obtaining enantiomers and exploring their properties. This is an overstatement as to the climate in 1985. I find an article written by Dr. Caldwell and published in 2001 entitled "Do Single Enantiomers have Something Special to Offer" put to him in cross-examination (Exhibit P129) gives the most accurate insight as to what was going on at the time. He said in that article in part:
+"Early studies confirmed that the pharmacological properties of single enantiomers could differ markedly from those of the racemates ... (1904) ... Despite these early insight, research into enantiomers languished somewhat until the 1980's, when technological advances made the separation of enantiomers on an industrial scale commercially viable ... As a result researchers and regulatory authorities have increasingly recognized the importance of assessing the constitution of stereoselective pharmokinetics to therapeutic outcomes and there was a renewal of interest in stereochemistry in drug action.
+. . . . .
+"The last 20 years have seen a gradual evolution in pharmacologist's view of the therapeutic potential offered by single enantiomers of chiral drugs and a growing sophistication in the role that the two isomers may play in determining therapeutic outcomes."
+As of 1985, there was a growing interest in examining the enantiomers of chiral compounds but that interest was still in its infancy. The general climate was still one of seeking analogues by molecular substitution, addition and deletion. Chirality was only on the cusp of coming into serious contention.
+5.
+Motivation
+. The evidence shows that in 1981 after Ofloxacin had been discovered at Daiichi, there was interest expressed at Daiichi, among other things, in obtaining its optical isomers. The interest at that time seems to have been motivated by an anxiety to protect, by patent, any area surrounding Ofloxacin that a competitor may wish to exploit. There is no evidence that, at least before 1985, any competitor chose to do so. Efforts to obtain the optical isomers were made and some (-) isomer was obtained, probably enough to do some antimicrobial testing. However, the results were apparently seen as too impure (5:1) and not worth pursuing at the time. Early in 1985 motivation was renewed when Daiichi licensees, Hoerst and Johnson & Johnson were apparently being pressed by regulatory health authorities in their countries to provide enantiomeric data. Renewed attempts using what we now know as Process A and B provided some (-) enantiomer. When Dr. Hayakawa saw the Gerster poster later in 1985 he adopted that process, it ran well, and Daiichi got further (-) enantiomer which it then analysed and found to be the S configuration. Only Daiichi was motivated to pursue all these matters.
+In September 1985 Daiichi had tested the solubility of the (-) and (+) enantiomers and compared it with the (±) racemate. In October 1985 toxicity data was established.
+Daiichi's motivation is clear. It had Ofloxacin, initially it wanted to protect the range of patent monopoly. Later, it wanted to support its licensees in providing data for their government authorities.
+There appears to be no motivation exhibited by any outside persons to explore Ofloxacin enantiomers. Competitors, on the evidence in this Court, showed no interest. There appears to have been no interest in the scientific or academic community in this pursuit. Without Daiichi there may well never have been levofloxacin.
+6.
+Efforts
+. The evidence is that very small quantities of (-) enantiomers could be produced in an impure form, using commercially available HPLC columns. The small amount and low purity apparently discouraged Daiichi from further pursuits. However, the enzymatic method of Process B applied early in 1985 gave satisfactory results as did Process C, the Gerster derived process, late in 1985. The efforts were challenging. Known methods were applied with success in obtaining at least some recognizable quantities of (-) enantiomer, however, only Daiichi appears to have been willing to expend the necessary effort to see the matter through to a successful conclusion.
+As to subsequent events:
+7.
+Commercial success
+. As discussed elsewhere in these Reasons, levofloxacin has achieved reasonable commercial success. At least some of this success can be attributed to market strategy. Little weight is given to this consideration.
+8.
+Subsequently recognized advantages
+. Levofloxacin has achieved good acceptance in combating microbes associated with strep pneumonia and in treating infections of the eye. Neither of these uses are specifically suggested in the patent. No weight is given to these subsequent uses.
+9.
+Meritorious awards
+. Dr. Hayakawa has received two prestigious awards, one from the Japanese scientific community, the other from the emperor of Japan. Both are linked, at least in part, to his efforts respecting levofloxacin. Some weight is given to these awards.
+10.
+Hindsight
+. The most dangerous area. One can say, with hindsight that Ofloxacin was known to be chiral, that there were techniques and apparatus available in the early 1980's to obtain enantiomers and, once obtained one could determine if the (-) enantiomer was S or R and determine properties such as antimicrobial activity, toxicity and solubility. However, as of 1985, only Daiichi did that. Others were pursuing other avenues, other fluroquinolones, analogues of other fluroquinolones and other antimicrobial compounds entirely. There was no scientific interest in pursuing at the time what became levofloxacin.
+[115]
+Therefore, taking all these factors into consideration, the
+claimed invention
+is one of the enantiomers of Ofloxacin, a known compound, the S(-) enantiomer in a reasonably pure form. The separation of racemic compounds into their enantiomers was known, but was a matter of lesser significance in the medicinal chemical world of the early to mid 1980's. Known techniques and devices for separation of racemic compounds into their enantiomers could only produce minute quantities of impure material, scarcely enough to interest anyone in activity. Only Daiichi was motivated to pursue the matter. Once pressed, it found ways, including a Gerster modification, to produce enough (-) enantiomer to identify it as the S configuration and to determine that it exceeded Ofloxacin as an antibiotic and was at least as good in respect of toxicity; solubility was greater. With some marketing effort, levofloxacin found a respectable place in the marketplace. Not the greatest invention, not "eureka", but of sufficient "inventive ingenuity" to merit valid patent protection as set out in claim 4.
+[116]
+I appreciate that this finding is different than that arrived at by my brother, Mosley, J., in the earlier NOC proceeding between these parties. He did not have the benefit of the extensive evidence that I now have before me, nor of seeing and hearing the witnesses in person. The test that he applied was whether the allegation that claim 4 was invalid on the basis of obviousness was "justified". Here I must make a finding of validity or otherwise on the basis of "balance of probabilities" on the evidence before me. These determinations are not easy, each involve the weighing of evidence before the Court. The standard of "justification" is somewhat different than that of validity, on the balance of probabilities, on the evidence led. I find that the Defendant has failed to establish that claim 4 is invalid on the basis of obviousness or lack of inventive ingenuity.
+Ambiguity and Sufficiency
+[117]
+The Defendant raises two further attacks on the validity of the patent and, in particular, claim 4. First, the Defendant says that claim 4 is ambiguous in failing to specify which level of purity, if any, is required by the claim.
+[118]
+Secondly, the Defendant attacks the validity of the patent on the basis that the toxicity and solubility data, as set out at page 21 and 22 and Table 3, including LD50 values, and Table 4, fails to provide a correct full and clear description as required by s. 34(1) of the "old"
+Patent Act
+.
+[119]
+As to the first of these attacks on validity, ambiguity: claim 4, as properly construed, does not require any explanation or parameter respecting purity. Claim 4 is directed to S(-) Ofloxacin, not being that contained in the racemate, derived in a reasonably pure state. The ordinary person skilled in the art would know that it is not the S(-) as found bound up in the racemic material. Such a person would also know that the compound is reasonably pure so as to its job for instance as an antimicrobial agent. No specific number or range, or other definition is required.
+[120]
+With respect to the second issue, sufficiency, s. 34(1), supra, states:
+"34(1) An applicant shall in the specification of his invention
+(a) correctly and fully describe the invention and its operation or use as contemplated by the inventor;
+(b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it appertains, or with which it is most closely connected, to make, construct, compound or use it;
+(c) in the case of a machine, explain the principle thereof and the best mode in which he has contemplated the application of that principle;
+(d) in the case of a process, explain the necessary sequence, if any, of the various steps, so as to distinguish the invention from other inventions; and
+(e) particularly indicate and distinctly claim the part, improvement or combination that he claims as his invention."
+"34(1) Dans le memoire descriptif, le demandeur
+(a) decrit d'une facon exacte et complete l'invention et son application ou exploitation, telles que les a concues l'inventeur;
+(b) expose clairement les diverses phases d'un procede, ou le mode de construction, de confection, de composition ou d'utilisation d'une machine, d'un objet manufacture ou d'un compose de matieres, dans des termes complets, clairs, concis et exacts qui permettent a toute personne versee dans l'art ou la science dont releve l'invention, ou dans l'art ou la science qui s'en rapproche le plus, de confectionner, construire, composer ou utiliser l'objet de l'invention;
+(c) s'il s'agit d'une machine, en explique le principe et la meilleure maniere dont il a concu l'application de ce principe;
+(d) s'il s'agit d'un procede, explique la suite necessaire, le cas echeant, des diverses phases du procede, de facon a distinguer l'invention d'autres inventions;
+(e) indique particulierement et revendique distinctement la partie, le perfectionnement ou la combinaison qu'il reclame comme son invention"
+[121]
+This provision is to be contrasted with s. 53(1) and (2) of the "old"
+Patent Act
+which specifically provides for invalidity if the specification of a patent contains a wilfully made addition or omission for the purpose of misleading. It says:
+"53(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, or if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading.
+"(2) Where it appears to a court that the omission or addition referred to in subsection (1) was an involuntary error and it is proved that the patentee is entitled to the remainder of his patent, the court shall render a judgment in accordance with the facts, and shall determine the costs, and the patent shall be held valid for that part of the invention described to which the patentee is so found to be entitled."
+"53(1) Le brevet est nul si la petition du demandeur, relative a ce brevet, contient quelque allegation importante qui n'est pas conforme a la verite, ou si le memoire descriptif et les dessins contiennent plus ou moins qu'il n'est necessaire pour demontrer ce qu'ils sont censes demontrer, et si l'omission ou l'addition est volontairement faite pour induire en erreur.
+"(2) S'il apparait au tribunal que pareille omission ou addition est le resultat d'une erreur involontaire, et s'il est prouve que le brevete a droit au reste de son brevet, le tribunal rend jugement selon les faits et statue sur les frais. Le brevet est repute valide quant a la partie de l'invention decrite a laquelle le brevete est reconnu avoir droit."
+The Defendant specifically stated at trial that it is not making a case under s. 53 but only under s. 34(1).
+[122]
+There is no provision, in s. 34(1) for sanctions if a patent fails to describe the invention correctly, fully and, clearly. However, the Courts have said, for instance, the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  at para. 27 (
+Pioneer Hi-Bred
+), that a patent must disclose everything that is essential for the invention to function properly. To be complete a patent must meet two conditions, first it must describe the invention and define the way that it is produced or built, failing which it is ambiguous. Secondly, the patent must define the nature of the invention and how to put it into operation failing which the patent is invalid for insufficiency.
+[123]
+As to sufficiency, I have no doubt, having listened to the experts, that the data presented in the Patent as to toxicity and solubility, is scant. The toxicity table was recognized by the experts as being that as found in a preliminary screen used to assess whether further development of a drug candidate is warranted. It is not a full toxicity analyses. The LD
+50
+data presented in the patent, the experts agree, was clearly not derived from Table 3. No basis for those figures is given in the Patent, no confidence interval (a range often given to indicate that the LD
+50
+is a statistically derived number and has some level of variability) is presented. The LD
+50
+number for Ofloxacin given in the Patent as 203 mg/kg (which all parties agree is a typographical error and should be 208 mg/kg) is clearly at odds with the LD
+50
+number for Ofloxacin of 380 mg/kg presented at page 11 of the '840 patent. Experts for all parties are in agreement that several factors such as age, weight and sex of the animals, possibly rate of injection and many others, can affect the LD
+50
+values. There was no consensus as to whether 208 or 380 was the right number or why the discrepancy existed.
+[124]
+With respect to the solubility data, that data is again scant. Insufficient information as to the conditions under which the solubility of each of the (-), the (+) and the (±) were tested is given. The experts, Drs. Myerson and Matzger debated whether the figures were accurate and whether unstated conditions such as whether one or the other of the substances was hydrated or hemi-hydrated or underwent a change during the solution testing affected the results.
+[125]
+There was debate as to whether, in fact, levofloxacin was more, or less, toxic than Ofloxacin or about the same. Janssen-Ortho or its affiliates apparently represented to government authorities that it was about the same. Debate also arose as to the true solubility of levofloxacin as compared to Ofloxacin. It could be calculated at about nine times more or even down to about five times more than Ofloxacin.
+[126]
+I find that the paucity of toxicity and solubility data, and the discrepancies raised do not affect the validity of the Patent. What the Patent asserts, at the end of the day, is set out at page 2. The S(-) form of Ofloxacin has increased antimicrobial activity, reduced toxicity and markedly high water solubility, giving it an expectation to be a very useful pharmaceutical agent. This statement is correct. To even find this distribution of attributes, namely, more of the beneficial properties and at least no more of the detrimental, was itself remarkable.
+[127]
+While one would have hoped for more and better data than that presented in the Patent. There is presently no mechanism in the Patent Office for compelling an Applicant to submit further data or to substantiate the data presented in the patent. One might expect that a certain amount of persuasion might be exercised from time to time however there is no statutory or regulatory basis to compel the provision of such data. There exists, as stated in
+Pioneer Hi-Bred
+the possibility of invalidation, however, I find that the data presented in the Patent is not, in this case, so insufficient as to warrant invalidation.
+Remedies
+[128]
+Having found that the attacks on the validity of claim 4 fail, and the Defendant having admitted infringement, remedies must be considered. The Plaintiffs have asked, in their Statement of Claim, for declarations as to infringement, an injunction, delivery up or destruction, a declaration as to validity, damages or an accounting of profits as they may elect, aggravated, punitive and exemplary damages, pre and post judgment interest, costs and other relief. At trial the Plaintiffs dropped their claim for aggravated, punitive and exemplary damages.
+[129]
+A declaration that claim 4 of the Patent is valid and has been infringed will be given.
+[130]
+An Order of the Court dated May 3, 2005 provided that this trial consider issues regarding validity and infringement of the Patent, and the issue of a permanent injunction with the determination of monetary remedies for infringement to be determined separately. This leaves open the question as to the Plaintiffs entitlement to an election of profits. The quantum of any such profits is a monetary remedy, but not the issue of entitlement.
+[131]
+The "old"
+Patent Act
+, s. 55(1) provides that the patentee, Daiichi, and persons claiming under the patentee, Janssen-Ortho, are entitled to all damages sustained by them by reason of the infringement. Section 57 gives the Court the power, in its discretion to order an injunction and an account of profits. Normally an order for delivery up or destruction of offending goods would follow an award of an injunction. As part of the normal function of a superior court of record, this Court may order pre and post judgment interest at rates and on terms as it may determine, and costs.
+[132]
+I have reviewed the consideration of remedies recently in
+ <FRAGMENT_SUPPRESSED>  at paras. 224-41 ( <FRAGMENT_SUPPRESSED> ) and the Federal Court of Appeal has given its judgment in respect of that decision on October 10, 2006, 2006 FCA 324 revising to some extent the remedies given in that case. The award of profits is an equitable remedy, in <FRAGMENT_SUPPRESSED> I disentitled successful plaintiffs from such an award because of certain conduct of that plaintiff. It is, however, necessary for a party seeking an equitable remedy, such as profits, to show some basis for the exercise of equity. Here the Plaintiffs have made no showing whatsoever. I have no reason, other than the Plaintiffs' success, for making such an award. Accordingly, I will not award the election of profits.
+[133]
+As to an injunction that remedy normally follows a finding that a valid patent has been infringed. While this action has gone on for a much lesser time than the <FRAGMENT_SUPPRESSED> , supra, action, here only about two years, it must be considered that this Court has in other proceedings refused to prohibit the granting of an NOC to the Defendant so that the Defendant had entered the market and commenced to sell its levofloxacin products. The English Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at 676, et seq reviewed the importance of the exercise of discretion in awarding a permanent injunction. Accordingly, an injunction will be granted, but to take effect only after thirty days from the date of issuing of these Reasons that is the period of time allowed for filing an appeal. In that time the Defendants may continue to sell or otherwise dispose of its levofloxacin products already in its possession, custody or control, but only in the normal course of business and provided that all monies received in respect thereof are accounted for and held in a separate trust fund to be paid to the Plaintiffs or as they may direct by December 31, 2006. These monies are to be taken into consideration, by way of set off or otherwise, when a final calculation as to damages is made.
+[134]
+With respect to delivery up or destruction of levofloxacin products, the Defendant may elect to destroy the product that it has on hand at the end of the thirty day period referred to above, or to deliver up that remaining product to the Plaintiffs, as they may direct. Delivery up should be made within the Greater Toronto area where the Defendant carries on business. If delivery up is to be made outside that area, the Plaintiffs should bear the cost.
+[135]
+Pre-judgment interest is allowed in respect of any monetary award of damages. It should not be compounded. The rate of such interest should be calculated separately for each year since the infringing activity began at the average annual bank rate established by the Bank of Canada as the minimum rate at which it makes short term advances to the banks listed in Schedule I of the
+Bank Act
+, R.S.C. 1985, c. B-1.
+[136]
+Post-judgment interest, not compounded, follows the establishment of the quantum of damages at the rate of five percent (5%) established by the
+Interest Act
+, R.S.C 1985, c. I-15, s. 4.
+[137]
+I reserve as to costs and ask that the parties, within ten (10) days from the delivery of these Reasons to provide written submissions as to costs. These submissions should address those matters set out in Rule 400(3) of this Court, including experts, number of counsel, disbursements, any offer to settle and any other matter relevant to an award of costs. Those submissions should not exceed ten (10) pages.
+JUDGMENT
+[138]
+For the Reasons set out herein, following the trial of a portion of this action held in Toronto, Ontario from the 5th day of September, 2006 until the 4th day of October, 2006, this Judgment is issued as of the date of these Reasons:
+1. Claim 4 of Canadian Letters Patent No 1,304, 080 is valid and has been infringed by the Defendant Novopharm Limited by its sale, offering for sale and other dealing in levofloxacin containing products in Canada;
+2. An injunction shall issue to take effect after the expiry of thirty (30) days from the date of issue of these Reasons prohibiting the Defendant and all those over whom it exercises control, from selling, offering for sale or otherwise dealing in levofloxacin containing products in Canada; provided, however, that from the date of issue of these Reasons until the expiry of said thirty (30) days, the Defendant may continue to sell or dispose of such product as it already has in its possession, custody or control as of the date of issue of this Judgement, in the normal course of business provided that all monies received by it in respect thereof shall be accounted for and held in a separate trust account to be paid to the Plaintiffs, or as they may direct, before December 31, 2006;
+3. The Defendant may, at its election, do one of the following in respect of levofloxacin containing products in its possession, custody or control as of the date of issue of this Judgment:
+a. Sell them in the normal course of business in accordance with paragraph 2 above, provided that all unsold product at the end of the thirty (30) day period shall be treated in the manner provided in one of b) or c) below;
+b. Destroy them and provide an appropriate affidavit of a responsible officer of the Defendant to that effect; or
+c. Deliver them up to the Plaintiffs at a place and manner as the Plaintiffs may direct provided that if such delivery is to take place outside of the Greater Toronto area it shall be at Plaintiffs' expense;
+4. The Plaintiffs are entitled to receive from the Defendant all damages sustained by them by reason of the activities of the Defendant which infringe claim 4 of the Patent. A separate trial, preceded by discovery if requested, shall be held as to the quantum of damages and interest as awarded herein. Any monies paid as set out in paragraph 2 above shall be taken into consideration by way of set off or otherwise, in the final calculation of damages.
+5. The Plaintiffs are entitled to pre-judgment interest on the award of damages, not compounded, at a rate to be calculated separately for each year since infringing activity began at the average annual bank rate established by the Bank of Canada as the minimum rate at which it makes short term advances to the banks listed in Schedule 1 of the
+Bank Act
+, R.S.C. 1985, c. B-1;
+6. The Plaintiffs are entitled to post judgment interest, not compounded, at the rate of five percent (5%) per annum. This interest shall commence upon the final assessment of the monetary damage amount, prior to that, pre-judgment interest shall prevail;
+7. The parties shall make submissions as to costs within ten (10) days hereof in the manner set out in the Reasons.
+Judgment for plaintiffs.
+Editor: Jana A. Andersen/gs
+[End of document]

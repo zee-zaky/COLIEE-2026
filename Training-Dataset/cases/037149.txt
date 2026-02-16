@@ -1,0 +1,165 @@
+Introduction
+[1]
+Aalto, Prothonotary
+: In this motion the Respondents seek to strike the application essentially on the ground that the matter deals with tax assessments which is a subject matter solely within the jurisdiction of the Tax Court of Canada. Therefore, the Respondents argue, this application for judicial review is bereft of any chance of success and should be struck.
+[2]
+The Applicant argues that the Respondent mischaracterizes the nature of the application. The Applicant is not challenging assessments. Rather, the Applicant is challenging the alleged improper exercise of the Minister's discretion to issue notices of assessment under subsection 227 (10) of the
+Income Tax Act
+(ITA). The Applicant argues that the exercise of the discretion was improper because it was contrary to an established policy of the Minister. The discretion, so it is argued, is not appealable in the Tax Court.
+[3]
+Thus, the troublesome question which is again before this Court, is the extent of the jurisdiction of this Court to entertain matters that involve discretion of the Minister regarding reassessments relating to the imposition of tax.
+Background
+[4]
+Much of the issue revolves around the corporate structure of what is called in the notice of application the JP Morgan Group of Companies. The Applicant (JP Morgan) is a British Columbia corporation which carries on business in Ontario and British Columbia and is a resident of Canada for purposes of the ITA. In turn, JP Morgan is a wholly-owned subsidiary of another company, being JP Morgan Asset Management Holdings Inc. (Holdings), a U.S. corporation. Holdings is a wholly-owned subsidiary of JP Morgan Chase & Co. (JP Morgan U.S.) another U.S. corporation.
+[5]
+Mixed into this are two other corporations: JF Asset Management Inc. (JFAM), a Hong Kong company which is a wholly-owned subsidiary of JP Morgan Asset Management (Asia) Inc. (JPAM), a U.S. corporation. JPAM is a wholly owned subsidiary of Holdings.
+[6]
+JP Morgan's business includes providing investment advisory services to its Canadian clients. JP Morgan refers its Canadian clients to other companies in the JP Morgan Group of Companies, including JFAM, to obtain investment advice services.
+[7]
+JP Morgan's clients pay fees to JP Morgan on the value of assets invested. JP Morgan, in turn, pays 75% of the fees it earns to other members of the JP Morgan Group of Companies, including JFAM, the Hong Kong company. The Notice of Application states that the fee represents the market value of the services provided and is in accordance with the JP Morgan Group of Companies' global transfer pricing policy and market practice.
+[8]
+The fees which are paid by JP Morgan to other companies in the JP Morgan Group of Companies are the subject of the discretionary decision of the Minister and have been the subject of assessments.
+[9]
+In 2009, the Canada Revenue Agency (CRA) commenced an audit of the Applicant's 2007 and 2008 tax years. At the conclusion of the audit CRA assessed the Applicant's Part XIII tax in respect of the fees paid by JP Morgan to JFAM for all its fiscal periods December 31, 2002 to December 31, 2008. The Notices of Assessment were dated June 15, 2011 for 2002, 2003 and 2004 taxation years. The applicant received the Notices of Assessment on July 6, 2011 due to a Canada Post mail strike. Neither the Minister of National Revenue nor the CRA sent any correspondence to the Applicant subsequent to the issuance of Notices of Assessment dated June 15, 2011.
+[10]
+JP Morgan then brought this application for an order,
+inter alia
+, in the nature of
+certiorari
+quashing the decision of the Minister of National Revenue (the Minister) and CRA, to assess JP Morgan for amounts payable under Part XIII of the ITA. As alternative relief, JP Morgan also seeks an order that the decision to issue the Assessments was an invalid and unlawful exercise of a statutory power under subsection 227(10) of the ITA. It is alleged the discretion was exercised for an improper purpose and thus JP Morgan is entitled to an order setting aside the assessments.
+[11]
+In addition to the motion to strike, the Respondent seeks to strike the Affidavit of Bruce H. Bailey, sworn October 28, 2011, and the supporting exhibits which were filed by JP Morgan on this motion.
+Positions of the Parties
+[12]
+The position of the Respondent flows primarily from the Supreme Court of Canada decision in
+ <FRAGMENT_SUPPRESSED> . That case stands for the proposition that the statutory system of tax assessments and appeals should not be circumvented or undermined by collateral attacks on assessments by way of judicial review.
+[13]
+The Respondent argues that the Minister's duty to assess arises from the fundamental principle that she must enforce and administer the ITA. The Minister determined that JP Morgan was not in compliance with the ITA by failing to withhold tax on payments made to non-residents as required by Part XIII of the ITA. Thus, applying the principles enunciated  <FRAGMENT_SUPPRESSED>  & Leyen,
+judicial review should not be used to develop a new form of incidental litigation designed to circumvent the system.
+[14]
+The Respondent, in its motion to strike the affidavit of Mr. Bailey (Bailey Affidavit), argued that such evidence is not admissible on a motion for an Order under Rule 221(1) of the
+Federal Courts Rules
+. The general rule is that no evidence shall be heard on a motion to strike under paragraph 222(1)(a) of the
+Rules
+. The jurisprudence provides an exception to the general rule in a motion to strike on the basis of jurisdiction.
+[15]
+In response, JP Morgan argues that an exercise of the Minister's discretion in issue in this case is outside the ambit of the jurisdiction of the Tax Court and is precisely the situation contemplated by the Supreme Court  <FRAGMENT_SUPPRESSED>  & Leyen
+.
+[16]
+In
+Addison & Leyen
+, the applicants brought an application for judicial review of a tax assessment. The case arose out of tax planning decisions involving the individual applicants who held shares directly or indirectly in a corporation, York Beverages (1968) Ltd. (York). Yorkhad sold its active bottling business and the applicants sold their York shares to another company which used the cash in hand of York to purchase seismic data to reduce York's tax liability to zero. The applicants received various payments of dividends, fees etc. arising from this transaction. Thereafter, there was a re-assessment of the York tax liability on the basis that the seismic data had been overvalued. Yorkfiled a notice of objection but the Minister did not respond and there was no appeal to the Tax Court of Canada. The Minister then at some point decided that as no recovery could be made from York, notices of re-assessment were sent to the Applicants under section 160 of the ITA. Without getting into all of the intricate technicalities of the section, it creates a joint and several liability where there has been a transfer of property between non-arm's length parties. The applicants filed notices of objection. Those notices were not dealt with by CRA.
+[17]
+Rather than appeal to the Tax Court of Canada, the applicants brought a judicial review application in the Federal Court to review the decision to assess under section 160. The applicants alleged that the decision was abusive because of the long delay in pursuing the matter which prevented the applicants from mounting a proper defence. The Crown moved to strike the application on the ground that as it was a matter that belonged in the Tax Court of Canada. The application was struck. The narrow issue determined by the Supreme Court was whether judicial review was available to challenge the exercise of the Minister's decision to assess the applicants under section 160. The Supreme Court made the following observation:
+We need not engage in a lengthy theoretical discussion on whether s. 18.5 can be used to review the exercise of ministerial discretion. It is not disputed that the Minister belongs to the class of persons and entities that fall within the Federal Court's jurisdiction under s. 18.5 judicial review is available, provided the matter is not otherwise appealable. It is also available to control abuses of power, including abusive delay. Fact-specific remedies may be crafted to address the wrongs or problems raised by a particular case. [par. 8]
+[18]
+In essence, the Supreme Court determined that as the case actually turned on an interpretation of section 160, judicial review was not available "on the facts of this case". [par. 9] This was because the delay which gave rise to the allegation of abuse was essentially a limitation period argument which the Federal Court of Appeal had read into section 160. Such a limitation period is not found in section 160. The Supreme Court adopted the analysis of Justice Rothstein of the Federal Court of Appeal (as he then was) to the effect that the circumstances of the transactions in issue in the case make clear "that Parliament intended that there be no applicable limitation period and no other condition on when the Minister might assess." [par. 92]
+[19]
+Notably, the Supreme Court went on to observe that this did not mean that the Minister's discretion to assess is "never reviewable" [par. 10] it was just on the specific facts of the applicant's case that it was not. Judicial review is available "provided the matter is not otherwise appealable" and can "control abuses of power" and "abusive delay". [par. 8]
+[20]
+Addison & Leyen
+is a frequently cited case and generally stands for the proposition that tax assessment matters must be brought in the Tax Court of Canada. The Supreme Court summarized the position in
+obiter
+as follows:
+Reviewing courts should be very cautious of authorizing judicial review
+in such circumstances
+. The integrity and efficacy of the system of tax assessments and appeals should be preserved Parliament has set up a complex structure to deal with a multitude of tax-related claims and this structure relies on an independent specialized court. Judicial review should not be used to develop a new form of incidental litigation designed to circumvent the system of tax appeals established by Parliament and the jurisdiction of the Tax Court. Judicial review should remain a remedy of last resort in this context. [par. 11] [emphasis added]
+[21]
+There are three important points to be taken from
+Addison & Leyen
+. First, the decision of the Supreme Court turned on the unique facts of the case. Second, the Minister is part of the group of decision-makers that are covered by section 18.5 of the
+Federal Courts Act
+meaning a federal board, commission or other tribunal. Third, judicial review is available of a decision of the Minister on condition that there are no other avenues of appeal, which can include such matters as abuse of power or abusive delay. Further, as was noted in
+ <FRAGMENT_SUPPRESSED>  (affirmed on appeal 2008 FC 1049), a case which dealt with similar issues to this case:
+[24] It is to be noted from these passages that the Supreme Court of Canada [
+Addison & Leyen
+] left open the door for judicial review of a discretionary decision of the Minister in certain circumstances. The Federal Court is not precluded from hearing judicial review applications in relation to discretionary decisions to issue assessments under the ITA. Nor is the Federal Court without jurisdiction in tax cases to grant fact-specific remedies such as those requested in this Application. The only limitation placed on the Federal Court's jurisdiction to hear a judicial review application is that it is not available if the matter is otherwise appealable. Even so, judicial review is available to control an abuse of power. This approach to judicial review not only preserves the integrity and efficiency of the system of tax assessments and the exclusive jurisdiction of the Tax Court to deal with those matters, but also avoids unnecessary and incidental litigation.
+[22]
+Thus, on the facts of this case is judicial review available? The operative portion of the Notice of Application which JP Morgan alleges engages judicial review is para. (k) which reads:
+(k) By doing so, CRA improperly exercised its discretion and the decision ought to be set aside. Amongst other things, CRA did not consider, or sufficiently consider, CRA's own policies, guidelines, bulletins, internal communiqués and practices which would otherwise have limited assessments to the current tax year and the two (2) immediately preceding years. CRA thus acted arbitrarily, unfairly, contrary to the rules of natural justice and in a manner inconsistent with CRA's treatment of other tax payers.
+[23]
+In furtherance of the judicial review, JP Morgan seeks production of certified copies of a number of documents including CRA policies, guidelines, bulletins, emails, minutes or other documents regarding the application of Communiqué ITD-02-5 as well as the files maintained by CRA in respect of assessments of the 2002-2008 years.
+[24]
+In opposition to this motion to strike, as noted, JP Morgan filed the affidavit of Bruce Bailey which the Respondent also seeks to strike. The Bailey Affidavit provides factual background to the assessments and positions taken by CRA. While in the ordinary course affidavit evidence is not permitted on motions to strike and notices of application must be accepted on face and given a liberal reading, in this case the Bailey Affidavit goes to the issues of why this Court has jurisdiction to deal with the decision by way of judicial review. The Bailey Affidavit does provide the Court with relevant information regarding the judicial review and does not contain information which is unknown to the Respondent. The Bailey Affidavit, however, is not ultimately determinative of this motion. It does not contain facts or evidence which go only to the issue of jurisdiction; it also adduces evidence which goes to the merits of the underlying application. The Bailey Affidavit will no doubt be relevant to the ongoing proceeding. It is to be noted that the Respondent also put an affidavit before the Court to deal with facts relating to the background, albeit on a very limited point.
+[25]
+The Respondent quite rightly points out the obligations of the Minister in respect of the duty to assess. That process is underway. This proceeding deals with a different matter and that is the discretion to assess as described in various policies of CRA. That decision to apparently depart from policies and assess is subject to judicial review and is the type of situation that is contemplated by
+Addison & Leyen
+. The ITA provides that the Minister "may" assess not "shall" assess which connotes a discretionary decision. The decision of the Minister to apparently depart from policies is not otherwise reviewable and therefore is subject to judicial review.
+[26]
+These issues were canvassed  <FRAGMENT_SUPPRESSED>  Canada
+. The issues in that case were similar in that Chrysler alleged the Minister's decision to issue reassessments constituted an improper, discriminatory exercise of discretion under provisions of the Canada-U.S. Tax Treaty. As here, the Minister brought a motion to strike the application on the ground that the issue of reassessments fell within the jurisdiction of the Tax Court and could not be the subject of judicial review. The Court observed:
+[17]
+As argued by the Applicant it does not challenge the ability of the Minister to issue the Reassessments provided that those Reassessments are issued on the basis of a discretion that is consistent with the Prior Letters. Thus, the Application does not seek to challenge the correctness of the Reassessments which result in the alleged double taxation, it only seeks to judicially review the Minister's exercise of discretion in determining to issue the Reassessments contrary to the Prior Letters.
+[27]
+This statement is apposite to the situation here. JP Morgan only seeks judicial review of the decision to reassess which is alleged to be contrary to policies of CRA which were in place. No attack on the reassessments is in play.
+[28]
+Striking out an application for judicial review is an extraordinary remedy which will only be granted in exceptional cases. As was noted  <FRAGMENT_SUPPRESSED>  Canada
+:
+[20] As this is a motion to strike, the allegations in the notice of application must be accepted as true. The test on a motion to strike is well known. Simply put, the test is whether the application, if allowed to proceed, would be "clearly futile" or that it is "plain and obvious" that it does not have any possibility of success [see, for example,
+ <FRAGMENT_SUPPRESSED> ; and
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) at paras. 31 - 34]. If the Tax Court has exclusive original jurisdiction over the issues in this Application then this Application is "clearly futile" and it is "plain and obvious" that it is bereft of any possibility of success. However, in my view of the Application, it is not plain and obvious that this Court is without jurisdiction to entertain this Application.
+[29]
+Having considered the matter at some length, I am of the view that this reasoning applies equally to the facts of this case.
+[30]
+The Respondent raised a number of issues flowing from cases such as
+Wenger's Ltd. V. Minister of National Revenue
+, [1992] 2 CTC 2479,
+ <FRAGMENT_SUPPRESSED>  (CA),
+Ludco Enterprises Ltd. V. R.
+, [1995] 2FC 3 (CA) to support the proposition that the Minister is compelled to and has a duty to assess in accordance with the ITA
+.
+That proposition is sound in law. However, those cases did not deal with the review of the Minister's discretion to assess. They deal in large part with issues relating to calculations of tax, deductibility, interest and the like. In those cases the Minister was acting in pursuit of enforcement of the provisions of the ITA. The Court made no finding regarding the Minister's discretion whether or not to assess. These cases do not support the proposition that in respect of the section in issue in this case the Minister does not exercise discretion.
+[31]
+The Respondent also argues that subsection 227(10) requires the Minister to assess once she becomes aware that tax has not been properly remitted. This is so even though the subsection provides that the Minister "may" assess at any time, not "shall" assess. The Respondent argues that
+Addison & Leyen
+is on all fours as that case dealt with similar language. However, the issue of when the Minister may assess is not directly in issue. Rather, the issue is the Minister's discretion to assess.
+[32]
+JP Morgan, in response, makes an interesting argument that the use of the word "may" and the construction of the subsection itself supports an interpretation that the Minister has wide discretion on whether to assess. Briefly, in reviewing the legislative history and the French versions of subsection 227(10), JP Morgan argues that since the final clause of the subsection uses the word "and,
+where
+the Minister sends a notice of reassessment" [emphasis added] not the word "when" the thrust of the section and its amendments over time compel an interpretation which results in an expansion of the Minister's discretion not a limitation as argued by the Respondent. On this motion, which interpretation is to be preferred need not be decided. But the diverse interpretations support the proposition that this application is not bereft of any chance of success.
+[33]
+Finally, the Respondent vigorously argued that the Tax Court has sole jurisdiction to deal with the issues in this application and that this application was a collateral attack on an assessment. As noted, the Respondent relied heavily upon
+Addison & Leyen.
+However, in order to buttress the argument several additional cases were referred to. These included
+ <FRAGMENT_SUPPRESSED> . These cases are all distinguishable from the facts giving rise to the issues on this application. As was noted in <FRAGMENT_SUPPRESSED> regarding the
+Roitman
+case:
+[26] Further support for this conclusion can be found in the
+Roitman
+case. In that case the Applicant was a businessman who was a director of a company engaged in the business of buying and selling automobiles. The Minister disallowed certain claims for expenses. Roitman and the company objected to the reassessments and ultimately a settlement with the Minister was reached. Both Roitman and the company were parties to the settlement and Roitman was reassessed in accordance with the terms of the settlement. Subsequently, Roitman commenced a claim as a proposed class action against the Minister in which it was alleged that the Minister engaged in "deliberate conduct ...to deny ...the Plaintiff the benefit of the law". The cause of action was misfeasance in public office. A motion was brought to strike the action. The motion was dismissed essentially because the claim did not seek to set aside the reassessment but was in essence a claim for damages for the fraudulent actions of the Minister. An appeal was taken to the Federal Court of Appeal. That Court reviewed at length the jurisdiction of the Federal Court and the Tax Court. In its decision, the Federal Court of Appeal noted that "[i]t is settled law that the Federal Court does not have jurisdiction to award damages or grant any other relief that is sought on the basis of an invalid reassessment of tax unless the reassessment has been overturned by the Tax Court. To do so would be to permit a collateral attack on the correctness of an assessment." [citations omitted]
+[27] The Court also observed that "it is also settled law that the Tax Court of Canada does not have jurisdiction to set aside an assessment on the basis of abuse of process or abuse of power (see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), para. 6;
+ <FRAGMENT_SUPPRESSED>  (TCC [ <FRAGMENT_SUPPRESSED>  (T.C.C.) [General Procedures]);
+Hardtke v. R
+.
+,
+2005 TCC 263 (T.C.C.) [General Procedures])". This observation applies equally to the relief sought in this Application. The focus of this Application is the abuse of process of the Minister in the exercise of the discretion relating to double taxation. The correctness of the reassessments is not the issue. While in
+Roitman
+, the Federal Court of Appeal held that the Statement of Claim was an abuse of process and therefore was struck, they did so on the basis that the correctness involved in the Notice of Reassessment was the primary issue in the Statement of Claim and thus was properly a matter to be dealt with by the Tax Court. At best, the Federal Court of Appeal noted that the Statement of Claim in
+Roitman
+was premature.
+[34]
+In my view these observations are equally applicable in this circumstance. There is no doubt that there are significant and controversial issues between the parties which engage the discretion of the Minister. These issues are not bereft of any chance of success.
+[35]
+Subsequent to the hearing of the motion, the Respondent provided a copy of a speaking order made in this Court in
+6847471  <FRAGMENT_SUPPRESSED>  position of the Respondent. However, the full facts of that case are not apparent from the Order. It does appear that the matter involved an order for a stay or an injunction directed to the Minister suspending the issuance of a notice of reassessment. The injunction was denied on several grounds but ultimately on the basis that the applicant in that case failed to demonstrate there was a serious issue to be determined and thus the well-known tests for an injunction could not be met. The Court did observe that the Minister "cannot be prohibited from assessing the Applicant" as this would be "tantamount to an order directing the Minister not to enforce the
+Income Tax Act
+, which would run contrary to paragraph 220(1) according to which the Minister is charged with a duty of administering and enforcing the
+Act
+." Further, the Court confirmed the dictum of
+Addison & Leyen
+that judicial review should not become a mechanism to circumvent the tax appeal process carried out in the Tax Court.
+[36]
+However, that case is distinguishable on its facts from the within case. This is not an injunction or prohibition case. There are reassessments which are being challenged in the Tax Court. The issue in this application is only to review the exercise of a discretion exercised by the Minister which is alleged to have been exercised arbitrarily, unfairly and contrary to the rules of natural justice in a context in which it is alleged to be inconsistent with CRA's own policies.
+[37]
+As noted above  <FRAGMENT_SUPPRESSED> & Leyen
+, these cases are fact specific. On the facts of this case it cannot be said at this juncture that it is clearly futile.
+ORDER
+[38]
+THIS COURT ORDERS that
+:
+1. The Respondent's motions both to strike the application and strike the affidavit of Bailey are dismissed.
+2. The time for taking the next steps in the proceeding are extend to run from the date of this Order.
+3. The Applicant is entitled to its costs of the motion to strike.
+Motion dismissed.
+Editor: Steven C. McMinniman/vnh

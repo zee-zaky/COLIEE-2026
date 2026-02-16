@@ -1,0 +1,447 @@
+[1]
+Strickland, J.
+: This is an appeal from a decision of the Commissioner of Patents (Commissioner) dated March 21, 2012. The Commissioner refused to grant a patent as requested in Canadian Patent Application Serial No. 2,286,794 (Patent Application) for the invention entitled "SUBWAY TV MEDIA SYSTEM" on the ground of obviousness. The appeal is brought pursuant to s. 41 of the
+Patent Act
+, RSC 1985, c P-4 (Act).
+Factual Background
+[2]
+As a preliminary point, all references to the Respondent in this decision are to the Attorney General of Canada (AGC). As addressed below, the Commissioner had also been named as a respondent to this appeal by the Appellant. The AGC brought a preliminary motion seeking an order removing the Commissioner as a respondent which has been granted as part of this judgment.
+[3]
+The present appeal has a long procedural history including two prior decisions of this Court pertaining to the Patent Application. In one of these,
+ <FRAGMENT_SUPPRESSED>  [
+Blair 2
+], Justice Mactavish set out the history of this matter to that point in time, much of which is adopted below.
+[4]
+The Appellant, the inventor, filed the Patent Application on May 6, 1998. The application claimed priority from a patent application (No 60/045, 811) filed in the United States on May 7, 1997. It is not disputed that May 7, 1997 is the date to be utilized in assessing whether the invention claimed was obvious.
+Construction of the Claims
+[5]
+As noted above, the proposed invention is entitled "SUBWAY TV MEDIA SYSTEM". It relates to video display systems mounted in a specified location on mass transit subway cars. The abstract describes it as follows:
+A television system for subway cars (10) includes a plurality of TV monitors (22) mounted at intervals along the cars (10), at the junction of the sidewall and the ceiling, and a central video signal source unit (23) such as a video tape player, video disk player, computer-based digital video recorder or television receiver, connected to the video monitors (22). Programs of short duration, e.g. 5-15 minutes, matching the average length of a subway ride, and comprising advertising messages, news bytes and the like are played and displayed in the monitors repeatedly during the subway ride.
+[6]
+The claims in issue are, with Claim 1 being the primary claim:
+1. A subway car for mass transportation including longitudinal opposed sidewalls, a ceiling adjoining the sidewalls, a video display system comprising a plurality of video display monitors each having a video screen, and a video signal source unit operatively connected to said monitors, said monitors being spaced along the length of the car on opposed sides thereof, each of said monitor being mounted at the junction of the sidewall and ceiling, with the screen of the monitor substantially flush with the adjacent wall surface structure of the car, and directed obliquely downwardly toward the car seats, so that each video screen is readily visible to passengers in the subway car.
+2. The subway car of claim 1 wherein the video signal source unit comprises a video tape player, a video disc player or computer based digital video recorder.
+3. The subway car of claim 1 or claim 2 wherein the video monitors include LCD screens.
+4. The subway car of claim 1, claim 2, or claim 3 including a self-contained wiring cabling system connected the video monitors to the video signal source unit.
+5. The subway car of claim 1, claim 2, claim 3 or claim 4 including a rigid transparent unit overlying the screen of each respective monitor, and shaped to coincide with the shape of the internal wall of the subway car at the location of mounting.
+6. The subway car of claim 5 wherein the rigid transparent unit is concavely curved so as to blend as a continuum with the internal walls of the subway car at the location of mounting.
+[7]
+The Appellant put forth seven essential elements to claim 1 which were accepted as the correct construction by Justice Mactavish in
+Blair 2
+, above, at paras 59-60:
+1. a subway car for mass transportation including longitudinal opposed sidewalls, a ceiling adjoining the sidewalls ("subway car");
+2. a video display system comprising a plurality of video display monitors each having a video screen ("multiple monitors");
+3. a video signal source unit operatively connected to said monitors ("video source");
+4. said monitors being spaced along the length of the car on opposed sides thereof ("spaced monitors");
+5. each of said monitors being mounted at the junction of the sidewall and ceiling ("wall-ceiling junction placement");
+6. with the screen of the monitor substantially flush with the adjacent wall surface structure of the car ("flush mounted"); and,
+7. directly obliquely downwardly toward the car seats, so that each video screen is readily visible to passengers in the subway car ("angled for viewership").
+Objections and Proceedings
+[8]
+During the initial prosecution of the Patent Application at the Patent Office, several office actions were issued by the patent examiner that rejected all of the claims on the basis of obviousness pursuant to s. 28.3 of the Act, being that the subject-matter defined by a claim must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to the information set out in s. 28.3(a) and (b).
+[9]
+The Appellant attempted to overcome the examiner's objections to his application including by amending his claims to those as set out above and providing letters from individuals who claimed to have expertise in various aspects of the transportation industry, Dermot P. Gillespie (Gillespie), Van Wilkins (Wilkins) and Jim Berry (Berry).
+First Decision of the Commissioner of Patents
+[10]
+On October 21, 2002, the patent examiner issued a final action refusing all of the claims of the Patent Application. The examiner concluded that the claims would have been obvious on the claim date to a person skilled in the art having regard to the United States Patent No. 5,606,154 issued to Doigan
+et al.
+(Doigan); French Patent No. 2,652,701 issued to Comerzan-Sorin (Comerzan-Sorin) and Canadian Patent No. 1,316,253 issued to Tagawa
+et al.
+(Tagawa), collectively the prior art, and in light of the common general knowledge in the art.
+[11]
+The Appellant requested an oral hearing before the Patent Appeal Board (PAB) which occurred on November 24, 2004. The PAB found that the Patent Application would have been obvious at the claim date and recommended that the decision in the patent examiner's final action to reject the application be affirmed. The Commissioner accepted this recommendation on January 13, 2006.
+[12]
+The Appellant appealed the Commissioner's decision to this Court which was decided by an order of Justice Teitelbaum in
+ <FRAGMENT_SUPPRESSED>  new affidavit evidence from two experts, Wilkins, a journalist in the field of public transportation, and Yvonne Gibson (Gibson), an individual with experience in subway advertising. Both opined that the design of the proposed patent would not have been obvious to them.
+[13]
+Justice Teitelbaum allowed the appeal with respect to the issue of obviousness and the Commissioner's decision was set aside. He remitted the matter to the Commissioner "for review on the issue of obviousness in light of the fresh evidence filed on this appeal, any further written legal submissions that the appellant may wish to make, and the record previously before the Commissioner of Patents."
+Second Decision of the Commissioner Patents
+[14]
+A new panel of the PAB also concluded that the Patent Application would have been obvious as of the claim date and recommended rejecting the application. On October 26, 2007, the Commissioner accepted this recommendation and refused to grant a patent to the Appellant on the ground of obviousness.
+[15]
+The Appellant appealed this decision in
+Blair 2
+and, by her decision dated February 26, 2010, Justice Mactavish rejected the Appellant's submissions of reasonable apprehension of bias arising, in part, from an alleged failure to comply with Justice Teitelbaum's direction to consider the Gibson and Wilkins affidavits. However, she found two errors with the decision, being the manner in which the Commissioner treated the evidence contained in the Gibson and Wilkins affidavits, and, in how the Commissioner applied the test for obviousness.
+[16]
+There, the Commissioner had concluded that the subject matter of the claimed invention was not overtly technical and, as a result, found the expert evidence of Gibson and Wilkins to be unnecessary. Justice Mactavish found that, having admitted the affidavits as fresh evidence on the Appellant's first appeal, Justice Teitelbaum implicitly found this evidence to be probative. Therefore, while the Commissioner could assess the persuasive effect of the evidence, it was not open to her to find the evidence unnecessary. Further, while the Commissioner refers to "the person of ordinary skill in the art" (POSITA), a key element in assessing obviousness, she did not clearly identify who that person was for the purposes of the obviousness analysis. Justice Mactavish accepted the Appellant's submission, not contested by the Respondent, that the POSITA was a "person familiar with the installation of video systems."
+[17]
+Justice Mactavish also found that the Commissioner erred in applying the obviousness test by separately considering each element of the claim 1, on its own, in order to determine whether that element was obvious, rather than considering the claim as a whole. She found that it was clear from the description of claim 1 and the seven essential elements of the claim as submitted by the Appellant, which she accepted as the correct construction, that the invention involves a combination of constituent elements, some of which were already known. Further, that where a claimed invention lies in the combination of elements, "it is not permissible to characterize the invention as a series of parts because the invention lies in the fact that they were put together" (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]).
+[18]
+The effect of those errors was to render the Commissioner's decision unreasonable.
+[19]
+The Appellant also sought to introduce fresh evidence on the appeal in the form of an affidavit from Richard Morris (Morris) who described himself as a railway and transit signal specialist. Justice Mactavish permitted the filing of this evidence which she found was probative insofar as it demonstrated that no one else has thought to install video screens in subway cars in the location identified by the Appellant. She also found that it directly contradicted the finding in the Commissioner's first decision that the junction of the ceiling and sidewall of a subway car is the logical and perhaps only available location in which to install a video screen, which finding was also referred to the second decision. Further, the new evidence concerned installation of video systems taking place in other parts of the world just prior to the issuance of the Commissioner's second decision. She directed the Commissioner to consider this evidence on the question of obviousness.
+Commissioner's Decision Under Appeal
+[20]
+On March 21, 2012, a different Commissioner found that the proposed invention was obvious. That decision is the subject of this appeal.
+[21]
+The Commissioner set out the procedural history of the Patent Application along with the findings of Justice Teitelbaum and Justice Mactavish. He also noted that the PAB had identified a difference between the background of the POSITA, as defined in
+Blair 2
+, above, and the backgrounds of the Appellant's experts. The Appellant stated that the skilled person "is a person familiar with the installation of video systems" but the expert affiants had backgrounds in various aspects of the transportation industry or subway advertising. The PAB invited the Appellant to make further submissions on the issue. In response, the Appellant submitted written submissions together with the affidavits of three experts, Gordon Ballantyne (Ballantyne), Robert DiNardo (DiNardo) and Wai Ng (Ng), who claimed expertise in the field of installing video systems.
+[22]
+The Commissioner set out the statutory and objective framework in which obviousness will be assessed, the test for obviousness and applied the four step <FRAGMENT_SUPPRESSED> approach to claim 1 and then to the dependant claims 2-6 (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). The Commissioner concluded that while the combination of elements as a whole was novel as it was not found within the prior art, it did not involve ingenuity as there was a trend in the art of installing video systems in a wide variety of transportation systems. Given this trend, no inventive ingenuity would have been involved in choosing to install a video system in a subway car. The Commissioner then considered if an inventive step had been involved in designing that particular implementation. In that regard, he found that ordinary skill would have led the POSITA to select the wall-ceiling junction placement of the monitors and ingenuity was not involved. Similarly, the remaining essential elements, when considered for completeness as part of the claimed combination, and when taken in combination with the other claimed elements, did not establish an inventive step.
+[23]
+The Commissioner stated that a conclusion on the obviousness of the combination could not be drawn without ensuring that the totality of the evidence submitted by the Appellant had been considered. In that regard, he addressed the affidavits of the Appellant's experts in video installation, Ballantyne, Di Nardo and Ng, each of which, having reviewed the cited prior art and the Patent Application, stated that they would not have found the present inventive concept obvious on the relevant date. The Commissioner found, however, that they provided no rationale for their conclusions and did not address the question of whether, in light of the trend shown in the art and the common general knowledge, the inventive concept involved an inventive step. Their submissions did not persuade him that any ingenuity would have been required to arrive at the inventive concept.
+[24]
+The Commissioner found that the evidence of Gillespie and Berry, who were experienced in the field of transportation, and Wilkins who was experienced in rail/transit signalling, and the affidavits submitted subsequent to the final action from Gibson and Morris, experts in communications/marketing/corporate relations and mass transit respectively, served primarily to illustrate that the claimed subject matter differs from the state of the art at the relevant date. The Commissioner agreed that there are differences over the state of the art and that the claimed subject matter is novel.
+[25]
+However, the Commissioner found that evidence of those experts speaks to the novelty of the invention and therefore assisted in the obviousness analysis only to the point of step 3, identifying the differences over the state of the art, and offered little assistance is addressing the final step. Gibson, Wilkins and Morris offered their opinions on the ultimate question of obviousness, each finding the present claim unobvious. However, the Commissioner found, as with the submissions of the three experts on video installation, they offered limited explanations for that conclusion. Their submissions did not persuade him that any ingenuity would have been required to arrive at the inventive concept.
+[26]
+The Commissioner also found that he could have reached the same conclusion from an alternative starting point. Following the general trend in public transportation systems, the Commissioner found that there does not appear to be anything to elevate the present inventive concept above a mere substitution. On Toronto Transit Commission (TTC) subway cars, poster ads are located at the wall-ceiling junction and the Appellant's primary intended use of the video system is to run advertising messages. The claim, therefore, merely involved substituting video monitors for the poster ads of the prior art.
+[27]
+The Commissioner concluded that to complete the claim 1 analysis he was required to turn to the <FRAGMENT_SUPPRESSED> "trend in the art" factor and the <FRAGMENT_SUPPRESSED> test (
+ <FRAGMENT_SUPPRESSED> CPR (4th) 116 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  (FCA) [ <FRAGMENT_SUPPRESSED> ]). Having done so, he found that claim 1 was obvious as the POSITA would have come directly and without difficulty to the solution taught by it.
+[28]
+The Commissioner noted that the Appellant did not make submissions respecting claims 2-6 and that he appeared to rely on a finding of non-obviousness of claim 1. The Commissioner concluded that the additional elements introduced by claims 2-6, in combination with the essential elements of claim 1, would have been obvious for want of an inventive step.
+ISSUES
+[29]
+The Appellant frames the issues on this appeal as follows:
+1. The Commissioner did not apply specific directions given by Justice Mactavish;
+2. The Commissioner analyzed the elements of the claims separately instead of analyzing the combination of those elements as a whole;
+3. The Commissioner did not fairly consider the evidence filed by the Appellant. Instead of considering the evidence during the process of determining whether the invention was obvious, the Commissioner first determined the issue of obviousness and only considered the evidence to see if the conclusion he had arrived at should be changed;
+4. The Commissioner's use of "trend in the art" was a retrospective exercise to explain way gaps in the prior art.
+[30]
+The Respondent states the issues on this appeal are as follows:
+1. Is the Commissioner, the statutory decision-maker, a proper respondent on this appeal?
+2. Should the new evidence relating to the Canadian Intellectual Property Office's (CIPO) administrative practice following a refusal be given any weight on this appeal?
+3. After applying the correct legal test for "obviousness" to the facts of the case, is the second reconsideration decision entitled to deference?
+[31]
+I would reframe the issues as follows:
+1. Should the Commissioner be removed as a respondent to the appeal?
+2. What weight, if any, should this Court afford to the Appellant's new evidence concerning the marking his application as being "dead" by CIPO?
+3. What is the standard of review?
+4. Did the Commissioner err in finding the Appellant's proposed invention obvious?
+PRELIMINARY ISSUES
+ISSUE 1: Should the Commissioner be removed as a respondent to this appeal?
+Respondent's Submissions
+[32]
+As a preliminary issue, the AGC sought an order removing the Commissioner as a named respondent to the appeal.
+[33]
+The Respondent submits that the Commissioner is not a proper party to the appeal. The naming of the proper respondent is governed by Rule 338(1) of the
+Federal Courts Rules
+, SOR/98-106 (Rules). As this was a statutory appeal brought pursuant to s. 41 of the Act, there was no "first instance" proceeding naming any of the respondents and thereby requiring them to be named as respondents on this appeal pursuant to Rule 338(1)(a). Further, statutory decision-makers are not "adverse in interest" and otherwise do not have an "interest" in the appeal as described in that Rule (
+ <FRAGMENT_SUPPRESSED> CPR (4th) 451 [
+Maple Leaf Foods
+]). It is also well established that a tribunal or adjudicative body whose decision is the subject of a judicial review or appeal must not be named as a respondent or defendant (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]).
+[34]
+The only exception to the rule that a body whose decision is being attacked may not appear at the review proceedings or on an appeal of their decision is where there is a statutory exemption ( <FRAGMENT_SUPPRESSED> , above, at paras 64-66). There is no statutory requirement to name the Commissioner as a respondent to an appeal under s. 41 of the Act. Therefore, Rule 338(1)(b) does not apply and does not require the Commissioner to be named. In these circumstances Rule 338(1)(c) provides for the AGC to be named as the respondent on the appeal. As the AGC is prepared to respond, a motion under Rule 338(2) is not required. The Rules only require that the Commissioner be served with an appeal (Rule 339(1)(b)).
+Appellant's Submissions
+[35]
+The Appellant maintains that the Commissioner is a proper party on this appeal. It notes that this is the third such appeal of this matter and that in both prior appeals the Commissioner was named as a respondent with no objection by the AGC.
+[36]
+The Appellant notes the absence of a provision in Rule 338, which concerns appeals, similar to that found in Rule 303(1)(a), which deals with applications, and which specifically states that a tribunal in respect of which the application is brought shall not be named as a respondent. This suggests that it is proper, even if not necessary, to name the Commissioner in a s. 41 appeal.
+[37]
+Further, that in an application for prohibition under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (PM (NOC) Regulations), it is appropriate to name the Minister of Health as a respondent, even though it is not set out in those regulations (
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]). There are many cases where the Minister of Health is a party under the PM (NOC) Regulations but there are also some other matters, including applications for access to information, where the Minister is named.
+[38]
+ <FRAGMENT_SUPPRESSED>  (CA), the Federal Court of Appeal held that in a judicial review proceeding under ss. 18 and 18.1 of the
+Federal Courts Act
+, RSC, 1985, c F-7, it was improper to identify Her Majesty the Queen in Right of Canada as a respondent. There, the Court amended the style of cause to substitute the President of the Treasury Board and the Minister of Finance as the respondents. While s. 41 of the Act is styled as an appeal, in substance it is procedurally more similar to a judicial review by way of
+certiorari
+because the Court reviews the record and may quash the decision under review (René Dussault & Louis Borgeat,
+Administrative Law: A Treatsie
+, Vol 4 (Carswell: 1990)).
+[39]
+The Appellant submits that it is common practice to name the Commissioner as a respondent in s. 41 appeals (
+ <FRAGMENT_SUPPRESSED> , var'd
+ <FRAGMENT_SUPPRESSED>  [
+Amazon
+]
+ <FRAGMENT_SUPPRESSED>  [
+Harvard College
+]). The Commissioner was the appellant in both
+Amazon
+and
+Harvard College
+. In
+Amazon
+, the Federal Court of Appeal included a specific direction regarding proper interpretation and application of jurisprudence and, if the Commissioner was not a party, the Attorney General would, in effect, become a messenger.
+Analysis
+[40]
+The Respondent, pursuant to Rule 369, brought a motion in writing on December 11, 2012, seeking an order removing the Commissioner as a respondent to the appeal. By order dated February 11, 2013, Prothonotary Milczynski adjourned the motion to be heard at the hearing of this appeal on its merits.
+[41]
+The affidavit evidence filed by the AGC in support of its motion includes as exhibits copies of correspondence between counsel for the AGC and for the Appellant concerning this issue. Therein, counsel for the Appellant stated that it was its understanding that the Commissioner was to be included in the style of cause and served with the Notice of Appeal so as to be obliged to provide a certified copy of the file history of the relevant Patent Application to the Court. In this case, the record was provided to the Appellant and the Court by the file preparation section of the Department of Justice. Further, the AGC, and not the Commissioner, filed a Notice of Appearance.
+[42]
+For the following reasons it is my view that the Commissioner should not have been named as a Respondent to this appeal.
+[43]
+As this is an appeal from the Commissioner's decision, Part 6 of the Rules applies. Rule 338(1) provides as follows:
+Persons to be included as respondents
+338. (1) Unless the Court orders otherwise, an appellant shall include as a respondent in an appeal
+(a) every party in the first instance who is adverse in interest to the appellant in the appeal;
+(b) any other person required to be named as a party by an Act of Parliament pursuant to which the appeal is brought; and
+(c) where there are no persons that are included under paragraph (a) or (b), the Attorney General of Canada.
+Intimés
+338. (1) Sauf ordonnance contraire de la Cour, l'appelant désigne les personnes suivantes à titre d'intimés dans l'appel:
+a) toute personne qui était une partie dans la première instance et qui a dans l'appel des intérêts opposés aux siens;
+b) toute autre personne qui doit être désignée à titre de partie aux termes de la loi fédérale qui autorise l'appel;
+c) si les alinéas a) et b) ne s'appliquent pas, le procureur général du Canada.
+[44]
+In <FRAGMENT_SUPPRESSED> , above, the Canadian Radio-television and Telecommunications Commission (CRTC) made a decision not to renew the appellant's broadcasting licence for a radio station. The Federal Court of Appeal addressed the difference between Rules 303 and Rule 338 in the context of a named respondent and found:
+[62] In judicial review proceedings, rule 303 of the
+Federal Court Rules
+stipulates that an applicant shall name as a respondent every person affected by the order sought in the application, other than a tribunal in respect of which the application is brought. If these proceedings were by way of judicial review rather than by way of appeal, as is the case, it is clear that the CRTC would not be a respondent. However, it could request status as an intervener in the proceedings: see rule 109. The legal situation does not differ on an appeal. However, it is arrived at by a different route.
+[63] In fact, the status of the parties to an appeal is governed by rule 338. Under that rule, an appellant shall include as a respondent every party in the first instance who is adverse in interest to the appellant in the appeal. Rule 2 defines a party in the first instance in an action as a plaintiff, defendant or third party. In the case of an application, such as an application for judicial review, the word "party" refers to an applicant or respondent.
+[45]
+In my view, this disposes of the Appellant's suggestion that, based on the difference of wording between the two rules, or, because the appeal has procedural similarities to a judicial review, that it is proper, even if not necessary, to name the Commissioner as a respondent in a s. 41 appeal.
+[46]
+The Court in <FRAGMENT_SUPPRESSED> went on to find that the CRTC was not a party in the first instance and that, in the absence of a statutory exemption, it was not entitled to appear in the appeal:
+[64] In the application for renewal of the appellant's licence before the CRTC, the latter was not a party in this first instance; it was the adjudicative body. Furthermore, it is not a person who, in the appeal, has interests adverse to those of the appellant. In fact, the appellant should not have made the CRTC a respondent in its proceedings ...
+[65] Irrespective of the reasons that led the appellant to name the CRTC as respondent on appeal, this act was a source of confusion since, as a general rule, the rights of a respondent on appeal are different from and much more extensive than those of an intervener. Failing a statutory exemption, as in the case of the Canada Industrial Relations Board (see subsection 22(1.1) [as enacted by S.C. 1998, c. 26, s. 9] of the
+Canada Labour Code
+, R.S.C., 1985, c. L-2), a body whose decision is attacked is not entitled to appear in the appeal or review proceedings. Were it not for the fact that it was implicated as a party to the appeal by the appellant, the CRTC would have had to make a motion for leave to intervene under section 109 of the Rules. Its status would then have been clear and spelled out in the order authorizing it to intervene, as was the case for the interveners Cogeco Diffusion Inc., the Canadian Association of Broadcasters, the Association québécoise de l'industrie du disque, du spectacle et de la vidéo and the Canadian Civil Liberties Association.
+[66] Whether in judicial review or appeal proceedings, the federal agency that made a decision is not authorized to come and defend the decision it made, still less to justify itself. As Mr. Justice Estey said in
+ <FRAGMENT_SUPPRESSED> , at page 709 (where the agency had presented on appeal detailed and elaborate arguments in support of its decision), "[s]uch active and even aggressive participation can have no other effect than to discredit the impartiality of an administrative tribunal either in the case where the matter is referred back to it, or in future proceedings involving similar interests and issues or the same parties." The agency is entitled to be represented on appeal, but its submissions must in principle be limited to an explanation of its jurisdiction, its procedures and the way in which they unfolded.
+[47]
+Similarly, in
+Maple Leaf  <FRAGMENT_SUPPRESSED> , Justice Sharlow of the Federal Court of Appeal found that the Registrar of Trade-Marks should not have been named a respondent in that proceeding because, as the statutory decision-maker, it was not adverse in interest to Maple Leaf. Rule 338 justified an order removing the Registrar as a party to the appeal (also see
+ <FRAGMENT_SUPPRESSED> CPR (4th) 253, rev'd on other grounds, 2006 FC 1021 [ <FRAGMENT_SUPPRESSED> ]).
+[48]
+Based on this, it is clear that the Commissioner is not a party in the first instance who is adverse in interest to the Appellant pursuant to Rule 338(1)(a). As to Rule 338(1)(b), there is no requirement in the Act to name the Commissioner as a party.
+[49]
+I also do not find the remainder of the Appellant's submissions on this issue to be compelling. This included a Federal Court index and docket search for "Minister of Health" which turned up 711 results from 2003 to 2012. The Appellant acknowledges that the vast majority of these are under the PM (NOC) Regulations but states that others are applications, only two of which are specified and are said to concern access to information. I do not see how this or <FRAGMENT_SUPPRESSED> , above, assists the Appellant, particularly as an applicant is required to name as a respondent every person directly affected by the order sought, other than a tribunal in respect of which the application is brought. Thus, a tribunal could be a named party in capacities other than as a decision-maker. The Appellant similarly included a query search of "Commissioner of Patents" that located 248 records between 1971 and 2012. Not all of these are s. 41 of the Patent Act appeals. Further, in the three cases from this search result which are addressed by the Appellant,
+Dutch Industries
+,
+Amazon
+, and
+Harvard College
+, all above, the issue of the Commissioner being named as a party does not appear to have been disputed.
+[50]
+I also do not agree with the Appellant's assertion that, when this Court quashes a decision and directs the matter back for redetermination, the tribunal is not bound to follow any direction of the Court that may be included in its decision if it is not a named party. This is certainly not reflected in Rules 303 and 338.
+[51]
+Finally, I would note that nothing in Rule 317, which pursuant to Rule 350 applies to appeals, requires that the tribunal whose order is the subject of the application or appeal to be named as a respondent in order to compel production by an applicant or appellant of the materials in its possession relevant to that proceeding.
+[52]
+Therefore, pursuant to Rule 338(1)(c), the AGC should, in the circumstance of this matter, be the named Respondent on this appeal. Accordingly, it is hereby ordered that the Commissioner is removed as a named respondent and the style of cause shall be amended accordingly.
+ISSUE 2: What weight, if any, should this Court afford to the Appellant's new evidence concerning the marking his application as being "dead" by CIPO?
+[53]
+The Appellant brought a motion before this Court on August 16, 2013, seeking to bring new evidence in the form of affidavits dated August 15 and September 6, 2013 from Keith Bird, a lawyer and a patent agent who was involved in the Appellant's application, and an affidavit dated September 3, 2013 from Julie Tomaselli, Legal Assistant at the Department of Justice.
+[54]
+By Order dated September 19, 2013, Prothonotary Aalto granted the motion to adduce new evidence on appeal. He found that the evidence appeared to be germane to the underlying appeal and should be before the hearings judge who would be in the best position to determine its relevance.
+[55]
+The essence of this new affidavit evidence is that CIPO, in its Canadian Patents Database, has recorded the Patent Application as a "dead" application as of March 21, 2012, and recorded the maintenance fees as having been paid only to the thirteenth anniversary. Although payments for the fourteenth and fifteenth anniversary maintenance fees and the fee for reinstating the appeal have been made, due to a 2009 change in CIPO procedure, the application will continue to be recorded as "dead" until the current appeal is resolved. At that time, the fees held on file will either be applied or refunded. The CIPO Techsource-Patent Administration electronic file concerning the subject Patent Application includes changes made to explain the "dead" status, including that the case is under appeal, and advising that maintenance fees paid after March 21, 2012 would be processed after the appeals are exhausted if the refusal is reversed.
+[56]
+However, the information available online to the general public by way of the Canadian Patents Database is not identical to that which can be obtained from the Techsource terminals available at CIPO's offices. A printout from the latter source lists the current state of the Patent Application as "Dead" and that it was dead on: "2012/03/21 for COMMISSIONER'S DECISION TO REFUSE." The attached log includes reference to and copies of the letter written by counsel for the Appellant to the Commissioner concerning this issue and the Commissioner's reply explaining what is meant by "dead" and other related matters. The fourteenth anniversary maintenance fee is shown in the log as having been recorded on November 20, 2012, however, it is not displayed as paid. There is no record of the fifteenth maintenance fee. The most recent online version of the Canadian Patents Database has not been revised to reflect the explanations available in Techsourse.
+Respondent's Position
+[57]
+The Respondent submits that the Commissioner's decisions regarding administration of the patent registrar are subject to a separate judicial review application and do not properly form part of the appeal under the Act for relief following a refusal. The term "dead" does not appear in the Act or the
+Patent Rules
+, SOR/96-423 [
+Patent Rules
+], it is an administrative designation only and CIPO has taken steps to ensure that the public record clearly indicates that an appeal from the refusal is pending. The recording of a refused patent application as "dead" is not evidence necessary to decide this appeal from the Commissioner's decision refusing the Patent Application on the grounds that the claimed invention is obvious.
+Appellant's Position
+[58]
+In his Supplementary Memorandum of Fact and Law, the Appellant submits that the Commissioner had no statutory basis to record the Patent Application as "dead" upon refusing the Patent Application. In the event that this Court determines that the Commissioner erred in refusing to allow the application on the grounds of obviousness, the Court has the power to direct the Commissioner to take such steps as will be required to put the Patent Application into good standing and to properly record the payment of the maintenance fees. Further, that the Commissioner failed to treat the Appellant fairly in accordance with the procedures authorized by the Act and the
+Patent Rules
+. The new evidence makes it clear that CIPO will not recognize any mistake in relation to the Patent Application but will instead try to change the basis upon which it seeks to justify the action said to be a mistake.
+Analysis
+[59]
+The Act does not use the term "dead," nor is the term used in the
+Patent Rules
+. The Appellant provided, by way of an exhibit to the September 6, 2012 Bird affidavit, a print out from the Canadian Patents Database entitled "Help: Administrative Status Definitions." This describes a dead application as the date that an abandoned application could normally no longer be reinstated.
+[60]
+The Appellant does not assert any specific prejudice suffered as a result of the Canadian Patents Database depiction of the Patent Application as being dead. Although he asserts that this evidence shows that the Commissioner has failed to treat the Appellant fairly in accordance with procedures authorized by the Act or the
+Patent Rules
+, he makes no legal argument in support of that claim such that it is a basis for quashing the Commissioner's decision. Moreover, the remedy that the Appellant seeks as regard to the new evidence is an order to correct the designation of the Patent Application as dead and to properly record all transactions that were not recorded after the designation of the Application as dead, including the payments of maintenance fees.
+[61]
+Additionally, the new evidence does not support the Appellant's assertion that CIPO will not recognize any mistake made in relation to the Patent Application but will instead try to change the basis upon which it seeks to justify the impugned action. In fact, the August 29, 2013, letter from CIPO explaining why the Patent Application was marked as dead and what steps it would take to address the Appellant's concerns suggests the contrary. Further, this issue pertains to the administration of the Patent register.
+[62]
+I am also of the view that the recording of a refused Patent Application as "dead" is not evidence necessary to decide this appeal from the Commissioner's decision refusing the application on the ground that the claimed invention is obvious.
+[63]
+For these reasons, the new evidence is relevant only to the limited extent that it grounds that portion the Appellant's request for relief pertaining to the revisiting of the designation of the status of the Patent Application in the event that its appeal is successful, which presumably, CIPO would do of its own accord. However, as I have determined below that the appeal cannot succeed, this new evidence has no relevance.
+ISSUE 3: What is the standard of review?
+Appellant's Submissions
+[64]
+The Appellant does not make submissions as to the standard of review in this appeal, but states that the Commissioner misapplied the correct legal principles.
+Respondent's Submissions
+[65]
+The Respondent submits that, in
+Blair 2
+, above, Justice Mactavish previously determined that identifying the legal test for obviousness is reviewable on a correctness standard and that the Commissioner correctly identified the test, including the refinement to the <FRAGMENT_SUPPRESSED> test arising from the <FRAGMENT_SUPPRESSED> framework and the decision in <FRAGMENT_SUPPRESSED> , all above. Further, that once the legal test had been correctly identified, the Commissioner's finding of obviousness is then reviewed on a reasonableness standard.
+[66]
+The Commissioner has a "special expertise" and the legal questions involved in this case are within that area of expertise attracting deference (
+Harvard College
+, above, at paras 149, 151). In <FRAGMENT_SUPPRESSED> , above, Justice Gibson applied the reasonableness standard to questions of law involving claims construction and anticipation, legal issues which he determined were within the expertise of the Commissioner and the Patent Officer.
+[67]
+A finding of obviousness is a question of fact that is not to be interfered with on appeal unless a manifest error was made in weighing the evidence and should only be overturned if the Commissioner's decision was found to be unreasonable (
+Créations 2000  <FRAGMENT_SUPPRESSED>  (QL) at 5, 34 CPR (3d) 178 (CA) [
+Créations 2000
+];
+ <FRAGMENT_SUPPRESSED> DLR (4th) 556 [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> , above;
+ <FRAGMENT_SUPPRESSED>  at 6, 19-20 (FCA) leave to appeal to SCC refused 43 NR 263).
+[68]
+The Respondent submits that the Appellant confuses the identification of the correct legal test with its application to the evidence.
+Analysis
+[69]
+A standard of review analysis need not be conducted in every instance. Instead, where the standard of review applicable to a particular question before the court is well-settled by past jurisprudence, the reviewing court may adopt that standard (
+ <FRAGMENT_SUPPRESSED>  at paras 57, 62 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> ).
+[70]
+The standard of review analysis and determinations by Justice Mactavish in the second appeal of this matter are equally applicable in this instance. She agreed with the parties that the identification of the legal test for obviousness is reviewable on the standard of correctness ( <FRAGMENT_SUPPRESSED> , above, at para 39;
+ <FRAGMENT_SUPPRESSED> FTR 312) and that the correct test had been applied. On this third appeal, the parties do not take issue with the correct legal test for obviousness.
+[71]
+Justice Mactavish went on to find that:
+[51] Indeed, it appears that what Mr. Blair really takes issue with is the way in which the Commissioner applied the legal test for obviousness to the facts of this case. This involves a question of mixed fact and law. In light of both the factual component of the inquiry and the expertise of the Commissioner, this aspect of the Commissioner's decision is entitled to deference. While recognizing that this case involves an appeal, as opposed to an application for judicial review, I nevertheless find the standard of review to be applied to the Commissioner's finding of obviousness to be that of reasonableness: see
+ <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 303 at para. 11.
+[72]
+Similarly, in this third appeal the Appellant submits that the primary concern with the Commissioner's decision is "not that he has applied the wrong principles, but that he has misapplied the correct principles." Thus, as the Appellant contests the Commissioner's treatment and assessment of the evidence, the standard of review is reasonableness.
+ISSUE 4: Did the Commissioner err in finding the Appellant's proposed invention obvious?
+Appellant's Submissions
+[73]
+The Appellant essentially advances four submissions being that the Commissioner: (i) did not apply the specific directions of Justice Mactavish; (ii) analyzed the elements of the claims separately instead of analyzing the combination of those elements as a whole; (iii) did not fairly consider his evidence; and (iv) used the "trend in the art" as a retrospective exercise to explain away gaps in the prior art.
+[74]
+The Appellant submits that the Commissioner failed to follow Justice Mactavish's direction to consider the Morris affidavit. Instead, the Commissioner joined the Morris evidence together with that of Gillespie, Wilkins, Berry and Gibson and essentially dismissed it as speaking to novelty, assisting only in identifying differences over the state of the art. Further, the Commissioner failed to consider the Morris evidence that the four subway video systems installed after the priority date of the Patent Application, in subway cars substantially identical to the TTC subway cars discussed in the Application, did not arrive at the combination of elements claimed by the Appellant's invention that the Commission found to be obvious in light of the trend in the art.
+[75]
+The Appellant submits that the Commissioner also failed to follow Justice Mactavish's directions not to characterize the invention as a series of parts because the invention lies in the fact that they were put together. While the Commissioner states that he considered the combination as a whole and found it to be novel, he then goes on to consider the elements individually when considering the question of obviousness. The Commissioner did not properly consider the Morris evidence and, if the combination in the application is obvious, some explanation must be provided to demonstrate why four other subsequent attempts did not arrive at that combination. Common knowledge and the prior art relied on by the Commissioner would not have led a person skilled in the art directly and without difficulty to the solution taught by the proposed patent (Donald H. MacOdrum,
+Fox on the Canadian Law of Patents
+(Toronto, ON: Carswell, 2013) at section 4:17(e);
+Bridgeview Manufacturing Inc v 931409 Alberta Ltd
+, 2010 FCA 188 at paras 47, 51-52, 87 CPR (4th) 195 [
+Bridgeview
+]). Further, that the Patent Application was not considered by a mind willing to understand, but by a mind desirous of misunderstanding the invention.
+[76]
+The Appellant submits that the Commissioner did not fairly consider the Appellant's evidence as he considered it only after arriving at his conclusion based on his own reading of the prior art. This approach is improper (
+ <FRAGMENT_SUPPRESSED>  (CA)).
+[77]
+Finally, the Appellant submits that the Commissioner erred in analyzing the "trend in the art" because he failed to consider the Morris evidence concerning four subway systems using subway cars substantially similar to those of the TTC that have installed video systems following to priority date, not one of which showed all the elements of the Appellant's combination. The Commissioner's reliance on the predictive power of the "trend in the art" to dismiss the Patent Application is inexplicable given this evidence. In this case the "trend in the art" completely failed to predict how video systems would be installed in subway systems.
+Respondent's Submissions
+[78]
+The Respondent first makes submissions on the legal test for obviousness. It states that the parties agree on the test, that is, in deciding whether the claimed invention is obvious the Court is to consider the relevant prior art and what common general knowledge should be imputed to the skilled technician (
+ <FRAGMENT_SUPPRESSED> , 151 FTR 47 (TD), aff'd (2000), 7 CPR (4th) 330 (FCA) [ <FRAGMENT_SUPPRESSED> ]).
+[79]
+The Respondent refers to the supplemental legal test for obviousness in <FRAGMENT_SUPPRESSED> , above, requiring a flexible, informed approach to obviousness and recognizing that no single expression of the test to answer the question "is it obvious" will fit all circumstances. The Respondent agrees that the <FRAGMENT_SUPPRESSED> test does not require that every aspect of the claimed invention be explicitly disclosed by prior art. However, it submits that in order to assess whether the invention as a whole would have been obvious, it is necessary to determine whether what is actually claimed would have been obvious. This involves looking at the claimed features which constitute the changes made by the Appellant to the prior art to determine whether these changes would have resulted in a combination to which the skilled person would have come to directly and without difficulty, keeping in mind the state of the art and common general knowledge which would have been possessed by such a person at the applicable date ( <FRAGMENT_SUPPRESSED> , above). This is the analysis that was correctly undertaken by the Commissioner.
+[80]
+The Respondent submits that the Appellant brings the test for obviousness too close to the test for anticipation which may render section 28.3 of the Act meaningless. Anticipation suggests that "the invention although clever was already known" while obviousness suggests that "any fool could have done that." Prior art that is insufficient for anticipation may be sufficient for obviousness (
+Créations 2000
+, above, at 3-4).
+[81]
+The Respondent submits that the Commissioner considered all the evidence including the Morris affidavit and found that the experts offered a limited explanation for their conclusion on obviousness. Morris is a transit signal specialist and does not represent the POSITA, a person familiar with installing video systems. Therefore, the Commissioner looked at the Ballantyne affidavit, which was not before Justice Mactavish, to determine whether the location for mounting the monitor required ingenuity or was just a part of the common general knowledge possessed by the POSITA. It found that Ballantyne's evidence established that selecting the video monitor location and mounting means is left to judgment based on ordinary skill. This determination followed a consideration of the Morris affidavit and POSITA evidence and is a factual finding within the expertise of the Commissioner which is entitled to deference.
+[82]
+The Respondent submits that Justice Mactavish identified the POSITA and that the Commissioner invited the Appellant to provide additional evidence relating to the POSITA which evidence was duly considered by the Commissioner.
+[83]
+The Respondent submits that it is not an error to examine the elements separately as long as the combination is assessed as a whole.
+Bridgeview
+, above, did not instruct that the elements not be separately looked at, but that it is incorrect to jump to a conclusion of obviousness solely on account of the individual elements being well known. Similarly in <FRAGMENT_SUPPRESSED> , above, the Court looked at the separate claims to identify differences from the prior art and asked if those differences constitute steps that would have been obvious.
+[84]
+The Respondent submits that the Commissioner examined the elements of the claim and also the elements as a whole. It reviewed each of the prior art and then agreed with the Appellant that none of them taught the inventive concept of the combination of the elements as a whole contained in the application. However, the fact that the claimed subject matter was novel does not necessarily mean that the differences displayed ingenuity. The Commissioner turned his mind to indicators of ingenuity such as surprising result, commercial success, a long felt want, selection of an advantageous variant from among all options, and, simplification of a device but found no such indicators. The Commissioner also noted that the Appellant acknowledged a trend in the cited art of installing video systems to entertain and/or inform passengers in a variety of transportation systems.
+[85]
+The Respondent submits that the Appellant himself distinguished his proposed invention from the prior art on the basis of a review of an element, location, looked at separately. The Commissioner's finding of obviousness was not arrived at by finding each element to be well-known. Rather, because the Appellant touted certain benefits of certain features and distinguished the prior art by pointing to certain isolated features, this made it necessary for the Commissioner to address whether those features imparted ingenuity. The Appellant's own specification suggests that it was within the skill of the POSITA to assess each installation situation and select a suitable location for the monitors. Therefore, it was open to the Commissioner to look at the combination in light of TTC subways that had "long ago" selected the location being taught in the Patent Application for print ads and to conclude that it did not disclose ingenuity.
+[86]
+Whether there is a "mere scintilla" of inventiveness is a finding of fact to be arrived at after examining all the evidence, including the prior art and, if deemed necessary by the Commissioner, expert evidence. These are within the Commissioner's expertise and are entitled to deference. The Commissioner can dismiss an expert opinion on obviousness in the absence of supporting analysis where the opinion amounts to "little more than a bare conclusion" (
+Bridgeview
+, above, at paras 52, 85).
+Analysis
+[87]
+Section 28.3 of the Act states that the subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to the provisions set in that section.
+[88]
+Justice Hugessen in <FRAGMENT_SUPPRESSED> , above, at page 294, stated that "[t] he classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination," and whether the person so described "...would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent."
+[89]
+In <FRAGMENT_SUPPRESSED> , above, at para 67, the Supreme Court restated the Canadian framework for assessing obviousness and adopted a four step guide for analysis with a view to inserting greater flexibility into this aspect of Canadian patent law:
+1. (a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+2. Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+3. Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+4. Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention? [...]
+[90]
+At the fourth step, an "obvious to try" may arise, which is but one fact that can be considered in a more expansive consideration of obviousness.
+[91]
+In this case, it does not appear to be disputed that the Commissioner applied the correct test for obviousness to the claimed invention. Rather, the Appellant claims that the Commissioner misapplied the correct principles and that attention should be focused not on what the Commissioner says he is doing but on what he actually does. In other words, the Appellant disputes the application of that test.
+i) Direction of Justice Mactavish - Morris Affidavit
+[92]
+The Appellant submits that the Commissioner did not follow Justice Mactavish's direction to consider the Morris affidavit. Having admitted it as fresh evidence on the Appellant's appeal, Justice Mactavish found the Morris affidavit to be probative insofar as it demonstrates that no one else has thought to install video cameras in subway cars in the location identified by the Appellant. The Morris evidence also directly contradicted the Commissioner's finding in the first decision that the junction of the ceiling and sidewall is the "logical location, indeed perhaps the only available location" in which to install a video screen. She stated that the Morris evidence "may have a bearing on the question of obviousness and which should be considered." Therefore, the Commissioner, on the third appeal, was required to consider this evidence.
+[93]
+In his affidavit Mr. Morris states that he is a railway and transit signal specialist. He attests that the subway video system in four cities, Beijing, Sao Paulo, Shanghai and Seoul, do not contain a combination of elements as indicated in claim 1. He opines that it would not have been obvious on the claim date to combine the particular components that form the elements of claim 1 to create a video display system for a subway and that this is supported by the fact that between 2000 and 2007 several variations of video display systems have been created and installed but none of them have all of the claim 1 elements.
+[94]
+In my view, the Commissioner did consider the Morris affidavit and therefore complied with Justice Mactavish's directions. He specifically referenced it at paragraphs 8 and 72 of his decision. Further, in paragraph 79 he noted that the affidavit includes exhibits comprised of photographs of various subway cars from around the world which show that the cars have video monitors installed in locations other than the ones claimed in the Patent Application. And, in paragraph 80, with respect to the Morris affidavit, he agreed with the Appellant that, contrary to the comment in the Commissioner's first decision, there are locations other than the wall-ceiling junction where monitors may be installed in subway cars. This specifically addresses the points raised by Justice Mactavish in regard to the Morris affidavit. Further, at paragraph 81 the Commissioner considered the Morris affidavit together with the Gillespie, Wilkins, Berry and Gibson evidence which he found to speak to the novelty of the invention but to only assist the obviousness analysis to the point of step 3 - identifying the differences over the state of the art. The Commissioner also agreed with those experts that the invention differs from the state of the art. However, he found that until step 4 the obviousness assessment was not complete and that their evidence provided little assistance in addressing that question. Finally, at paragraph 82, the Commissioner found that while Gibson, Wilkins and Morris offered their opinions that the claim was not obvious, they offered a limited explanation for that conclusion and did not persuade the Commissioner that any ingenuity would have been required to arrive at the inventive concept.
+[95]
+Morris' area of expertise was as a railway and transit signal specialist, he did not claim any expertise in the installation of video display systems. With respect to video monitor placement, in step 1(b) of his analysis the Commissioner determined, based on the description in the Patent Application, that the selection of the location and mounting means was left to judgment based on ordinary skill indicating that selecting a suitable location for monitor installation based on certain parameters was routine skill at the relevant date. Further, that this was consistent with the Ballantyne affidavit. It is of note that the Ballantyne affidavit was not before Justice Mactavish and was submitted as new POSITA evidence by the Appellant as an expert in the field of video installation together with the DiNardo and Ng affidavits.
+[96]
+At paragraphs 58-61 of his decision the Commissioner specifically considered monitor placement and, in accordance with his findings on common general knowledge, stated that monitor placement based on given parameters is a matter of ordinary skill and therefore is not in itself inventive.
+[97]
+Accordingly, to the extent that it addressed the location at which video monitors would be installed, the Morris evidence was fully addressed by the Commissioner who, reasonably, placed greater weight on the Ballantyne affidavit and the ordinary skill of the POSITA, in concluding placement did not involve any inventive step.
+ii) Direction of Justice Mactavish - characterization of combination as a whole
+[98]
+The Appellant also submits that the Commissioner failed to follow the direction of Justice Mactavish not to characterize the invention as a series of parts because the invention lies in the fact that they were put together. Instead, the Commissioner analyzed the ingenuity connected with the choice of the elements individually.
+[99]
+Justice Mactavish found that in the second decision the Commissioner had erred in her application of the obviousness test by separately considering each element of the first claim, on its own, in order to determine whether that element was obvious, rather than considering the claim as a whole. Further, that it was evident from claim 1 and its seven essential elements that the invention claimed by the Appellant involved a combination of constituent elements, some of which were already known. Therefore, where a claimed invention lies in the combination of elements, "it is not permissible to characterize the invention as a series of parts because the invention lies in the fact that they were put together" ( <FRAGMENT_SUPPRESSED> , above).
+[100]
+In that regard, in
+Bridgeview
+, above, at para 51, the Federal Court of Appeal stated the following:
+[51] I agree with Bridgeview that the 334 patent discloses a combination invention. It is not fair to a person claiming to have invented a combination invention to break the combination down into its parts and find that, because each part is well known, the combination is necessarily obvious: see, for example,
+ <FRAGMENT_SUPPRESSED>  at page 245 (F.C.T.D.), which quotes this passage from
+ <FRAGMENT_SUPPRESSED>  at page 40 (per Greene L.J.):
+The dissection of a combination into its constituent elements and the examination of each element in order to see whether its use is obvious or not is, in our view, a method which ought to be applied with great caution since it tends to obscure the fact that the invention claimed is the combination. Moreover, this method also tends to obscure the facts that the conception of the combination is what normally governs and precedes the selection of the elements of which it is composed and that the obviousness or otherwise of each act of selection must in general be examined in the light of this consideration. The real and ultimate question is "Is the combination obvious or not?"
+[101]
+However, the Commissioner did not repeat that error. He appropriately analyzed the proposed invention both as individual parts and as a whole and reasonably concluded that while it was a novel proposal, there was no inventive step in putting the elements together.
+[102]
+The Commissioner explicitly acknowledged the Appellant's submission that the inventive concept is a combination of essential elements as construed by Justice Mactavish and agreed to proceed on that basis. Further, that it was appropriate to take into account the essential elements as set out in
+Bridgeview
+, above.
+[103]
+At step 3 of the analysis, the Commissioner noted that none of the cited prior art references taught the inventive concept (e.g. the combination) as a whole. The Commission accepted that the difference between the inventive concept and the state of the art is the combination of elements.
+[104]
+At step 4, the Commissioner noted that, having found that the combination as a whole is not found in the prior art, it was to be emphasized that although it does not necessarily follow that the difference required some degree of ingenuity.
+[105]
+That is correct; novelty and utility are not the only requirements of patentability. The invention also requires ingenuity. This is expressed well in
+ <FRAGMENT_SUPPRESSED>  something more than a new and useful manufacture, it must have involved somehow the application of the inventive mind: the invention must have required for its evolution some amount of ingenuity to constitute subject matter, or in other words invention.
+[106]
+The Commissioner identified factors such as surprising results, commercial success, addressing a long felt want, selection of an advantageous variant among all options and simplification of a device as factors suggestive of ingenuity. He found no such indicators in this case. Rather, the difference over the state of the art appeared to be consistent with the trend shown in the prior art and required only ordinary skill to implement. Taken as a whole, the cited art showed a trend of installing video systems to entertain and/or inform passengers in a variety of transportation systems. In particular, Doigan, addressed the problem of entertaining passengers on short journeys or during waits and in "light rail horizontal people movers" which the Commissioner interpreted as including subways. Given this trend, it found that no inventive ingenuity would have been involved in choosing to install a video system in a subway car.
+[107]
+However, having followed the trend in the art by deciding to install a video system in a subway car, it was also important to consider if an inventive step would have been involved in designing the particular implementation claimed. It was in this context that the Commissioner considered the individual element of monitor placement. As set out above, the Commissioner found that monitor placement was within the parameters of ordinary skill and, therefore, was not in and of itself inventive and that the POSITA is adept at taking into account the factors necessary to situate a video monitor including intended use, orientation of users, obstacles, etc.
+[108]
+The Commissioner also noted that the Appellant's description appeared to place little significance on the claimed location, and the cited references in the description support that finding. He concluded that there was no ingenuity in selecting the wall-ceiling junction in a subway car for installation of video monitors. The Commissioner then noted that although the Appellant did not emphasize the remaining essential elements in his submissions, the Commissioner considered them for completeness because "they are part of the claimed combination." He found that the provision of multiple, spaced monitors angled for viewership, and the combination of including a video, both flow from the ordinary skill of the POSITA and that the flush mounting feature was aesthetic. He concluded that these elements, when taken in combination with the other claimed elements, did not establish an inventive step.
+[109]
+In my view, the Commissioner in his decision did not dissect the combination into its constituent elements and examine each element to see whether its use was obvious or not. Rather, he considered the combination as a whole, identified the differences from the prior art, and simply asked whether those differences required any degree of invention as required by <FRAGMENT_SUPPRESSED> , above, at para 67.
+iii) Commissioner's consideration of the evidence
+[110]
+The Appellant submits that the Commissioner did not fairly consider his evidence as he considered it only after arriving at his conclusion on obviousness based on his own reading of the prior art. The Appellant submits that this approach is improper as the function of evidence is to inform the Commissioner's decision-making process, not to persuade him after the fact to alter a preconception.
+[111]
+In my view, the Appellant seeks to have the evidence reweighed. In paragraph 37 of his decision the Commissioner sets out the prior art documents that had been examined and then notes that the Appellant's experts, Ballantyne, Ng and DiNardo, had provided the Commissioner with their understanding of the prior art. The Commissioner stated that he generally agreed with their characterization, with the exception of their construction of the expression "light rail horizontal people mover" in Doigan as not including subways, which the Commissioner then addressed. This clearly suggests that the prior art was considered in the context of the Appellant's expert evidence and before to the more specific consideration of the expert evidence at paragraphs 71-83.
+[112]
+There, the Commissioner states that he could not draw a conclusion about obviousness without ensuring that all the evidence was considered. The Commissioner found that the evidence of Ballantyne, Ng and DiNardo did not address whether the inventive concept involved an inventive step. On my review of their affidavits, this was a finding reasonably open to the Commissioner. Ballantyne does not specifically identify an inventive step, but states that the proposed invention is novel and that the combination of elements in claim 1 would not have been obvious to a POSITA. Ng and DiNardo simply agree with Ballantyne's conclusion.
+[113]
+After examining this evidence, the Commissioner also concluded that the Morris evidence together with that of Gillespie, Wilkins, Berry and Gibson spoke to novelty and assisted in identifying the differences over the state of the art but offered limited explanation for their conclusion on obviousness.
+[114]
+While the Commissioner's choice of words, being that having considered the totality of the evidence from the Appellant his finding of obviousness "remains unchanged," may have been less than ideal, it is apparent from the decision that the evidence submitted by the Appellant was considered and weighed by the Commissioner in reaching his ultimate decision and not simply as an afterthought.
+iv) Commissioner's use of trend in the art
+[115]
+The Appellant also submits that the Commissioner's use of "trend in the art" was a retrospective exercise to explain away gaps in the prior art. More specifically, that the Commissioner failed to consider the Morris evidence concerning the four subways systems which had installed video systems after the priority date and none of which showed all of the elements of the Appellant's claimed combination. Thus, the trend in the art failed to predict how video systems would be installed in subway systems. In essence, the Appellant relies on what he terms the "subsequent" art, being the Morris affidavit, to attack the Commissioner's trend in the art analysis.
+[116]
+The Commissioner found that, taken as a whole, the cited prior art of Doigan, Comerzan-Sorin and Tagawa shows a trend of installing video systems to entertain and/or inform passengers in a variety of transportation systems. That trend was acknowledged by the Appellant in the specification where he describes how various transportation means, other than subways, were being equipped with video systems prior to the filing date. The Appellant explained that subways had been ignored because of the relatively short journey experienced by passengers. The Commissioner found that this was consistent with Comerzan-Sorin and Tagawa.
+[117]
+He found that the Doigan patent addresses the problem of entertaining passengers on short journeys or during waits. Further, based on his interpretation of "light rail horizontal people movers" in Doigan as including subways, it directly teaches the provision of video systems on subways, or the like, to entertain passengers. Thus, regardless of whether the step in extending the trend in long haul transportation to subways was inventive, Doigan had taken that step before the relevant date.
+[118]
+However, the Commissioner also considered whether, having followed the trend in deciding to install a video system in a subway car, there was an inventive step involved in designing the particular implementation claimed by the Appellant. Having done so, the Commissioner concluded that the remaining elements, including the flush mounting feature, when taken in combination with the other claimed elements, did not establish an inventive step. Thus, the technical consideration of them did not indicate the requisite ingenuity to sustain a patent for the claimed combination. The Commissioner recognized, however, that a conclusion on obviousness could not be drawn without ensuring that the totality of the evidence submitted by the Appellant was considered and proceeded with his review of the affidavit and other expert evidence.
+[119]
+It is true that in the section of the decision considering the trend in the prior art in deciding to install a video system on a subway and whether there was an inventive step in designing the Appellant's claimed implementation, the Commissioner did not refer to the Morris evidence. However, the Morris affidavit was not prior art nor did it consider the prior art. Further, when considering the expert evidence, the Commissioner specifically referred to the Morris evidence, including that video monitors had been installed in other subway cars internationally. Thus, the Commissioner did not overlook that evidence.
+[120]
+It is also true that the Commissioner only explicitly considers the Morris evidence with respect to one element of the claim, video monitor installation locations, and not in the context of the combination of the other elements of the Appellant's proposed invention even though Morris attests that the subways video monitor systems in four other cities do not contain a combination of elements as indicated in claim 1.
+[121]
+However, the Commissioner found that while the Morris evidence spoke to novelty it assisted him only to the point of identifying the differences over the state of the art (step 3). In that regard, the Morris affidavit states that it would not have been obvious to combine the components of claim 1. This conclusion was based on the fact that between 2000 and 2007 several other variations of video display systems have been created and installed, none of which have all of those elements. The Commissioner found that the Morris, as well as the Gibson and Wilkins evidence, offered a limited explanation of their conclusion on obviousness and did not persuade him that any ingenuity would have been required to arrive at the inventive concept.
+[122]
+In any event, and while I am doubtful of the validity of the use of developments subsequent to the Patent Application to attack a trend in the prior art analysis, here the Commissioner found that the trend was installing video systems to entertain and/or inform passengers in a variety of transportation systems. The "subsequent art" was entirely consistent with that trend.
+[123]
+In my view, the Appellant is challenging the weight given to this expert evidence. However, the Commissioner's decision is reviewed on a reasonableness standard and the Court's role is not to reweigh the evidence ( <FRAGMENT_SUPPRESSED> , above).
+Conclusion
+[124]
+A finding of obviousness is a question of mixed fact and law that should only be overturned if the Commissioner's decision was unreasonable (
+Harvard College
+, above, at para 151;
+Amazon
+, above, at para 19;
+Blair 2
+, above, at para 51; <FRAGMENT_SUPPRESSED> , above, at para 39; <FRAGMENT_SUPPRESSED> , above, at para 53). Based on the foregoing, it is my view that the Commissioner's finding that the proposed invention was obvious falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law ( <FRAGMENT_SUPPRESSED> , above, at para 47).
+[125]
+In any event, the Commissioner noted that he would have reached the same conclusion based on his finding that the present claims merely involve the step of substituting video monitors for the poster ads of the prior art.
+JUDGMENT
+[126]
+THIS COURT ORDERS AND ADJUDGES that
+1. The Commissioner of Patents shall be removed as a named respondent in the style of cause of this appeal;
+2. The appeal is dismissed; and
+3. There will be no order as to costs.
+Appeal dismissed.
+Editor: Angela E. McKay/vnh

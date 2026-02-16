@@ -1,0 +1,503 @@
+[1]
+Barnes, J.
+: This application was brought Eli Lilly Canada Inc. (Lilly) against Apotex Inc. (Apotex) and the Minister of Health (Minister) under the
+Patented Medicines Notice of Compliance (NOC) Regulations
+SOR/93-133 as amended. Lilly seeks an order prohibiting the Minister from issuing a NOC to Apotex until the expiry of Canadian Letters Patent No. 2,209,735 (the '735 Patent). The Respondent Eli Lilly and Company is the patentee of the '735 Patent and was made a party to this proceeding under ss. 6(4) of the
+NOC Regulations
+.
+[2]
+The '735 Patent claims the use of atomoxetine (formerly named tomoxetine) for treating attention-deficit hyperactivity disorder (ADHD) in adults, adolescents and children. The '735 Patent was filed in Canada on January 4, 1996 claiming priority from the United States patent application No. 08/371,341 (the '590 Patent) which was filed on January 11, 1995. The '735 Patent expires on January 4, 2016.
+[3]
+Atomoxetine was approved for use in Canada on December 24, 2004 and it has since been marketed by Lilly under the trade-name Strattera.
+[4]
+Lilly's application was brought in response to a Notice of Allegation (NOA) delivered by Apotex by letter dated September 2, 2008. Apotex alleged that the '735 Patent was invalid on the grounds of, inter alia, anticipation, obviousness and inutility. Lilly asserts that none of the Apotex allegations are justified and it is, therefore, entitled to an order of Prohibition.
+Attention Deficit Hyperactivity Disorder
+[5]
+ADHD is a common neurobehavioral disorder that occurs in children, adolescents and adults. It is characterized by age inappropriate hyperactivity, inattention and impulsivity and it often causes functional impairments in school, at work and in social settings. According to the Diagnostic and Statistical Manual of Mental Disorders there are three subtypes of ADHD:
+(a) primarily inattentive;
+(b) primarily hyperactive/impulsive; and
+(c) a combination of the other two types.
+[6]
+The cause or causes of ADHD are unknown and it has no cure. Nevertheless, the symptoms of ADHD can, in many cases, be successfully ameliorated.
+[7]
+Since the 1950s ADHD has most often been treated with stimulant therapy, which remains the first line treatment choice. It was found, though, that the stimulants did not work for every patient. For some patients with co-morbidities or with substance abuse issues, the stimulants were not appropriate. For other ADHD sufferers, the stimulants simply did not work. This led to a search for alternative therapies and by at least the 1970s, non-stimulant medications began to be used off-label as second-line treatment choices. Since that time, the most commonly utilized non-stimulant medications have been the tricyclic antidepressants or TCAs (e.g. imipramine, desipramine and nortriptyline), alpha-2 adrenergic agonists (e.g. clonidine and guanfacine) and bupropion. These drugs, however, came with their own set of limitations, icluding less than desirable side-effect profiles. Accordingly, the search for alternative drug therapies continued and it was out of that effort that atomoxetine emerged.
+I.
+The Development of Atomoxetine
+[8]
+There is no disagreement between the parties about the development history of atomoxetine. That evidence was provided by Lilly's U.S. Director of Product Research and Development, Dr. Martin Hynes III [see footnote 1].
+[9]
+Dr. Hynes deposed that in or around 1980, Lilly first synthesized atomoxetine and soon thereafter discovered that it was a selective norepinephrine reuptake inhibitor (NRI). This mechanism of action blocked the reuptake of the neurotransmitter, norepinephrine, in the synaptic cleft of the brain thereby enhancing the availability of norepinephrine [see footnote 2].
+[10]
+Lilly's initial interest in atomoxetine concerned its potential to treat depression. According to Dr. Hynes, Lilly conducted several substantial clinical trials with atomoxetine for that indication between 1983 and the early 1990s. While only one of those studies showed that atomoxetine was useful to treat depression, they did demonstrate that the compound was safe and well-tolerated in humans. These poor results led Lilly to abandon development of atomoxetine as an anti-depressant. One other trial of atomoxetine in 1994 to treat urinary incontinence was also unsuccessful.
+[11]
+At around this same time a Lilly employee, Dr. John Heiligenstein, took an interest in atomoxetine as a potential ADHD medicine. He was able to convince Lilly management to pursue his idea and, by late 1994, Lilly and a team from the Massachusetts General Hospital (MGH) reached an agreement to conduct a clinical trial. According to Dr. Hynes the MGH then conducted a seven-week placebo controlled, double blind, cross-over pilot study involving 21 adult patients with ADHD.
+[12]
+By May 1995 the MGH Study was completed and, on May 18, 1995, the MGH Study report was delivered by Dr. Thomas Spencer to Lilly. That paper was subsequently edited and published in the American Journal of Psychiatry in 1998 under the title "Effectiveness and Tolerability of Tomoxetine in Adults with Attention Deficit Hyperactivity Disorder". This is the study that Lilly relies upon to establish the utility of atomoxetine to treat ADHD.
+[13]
+Following on the MGH Study, Lilly filed the '735 Patent and pursued Canadian and United States regulatory approval for atomoxetine. An outline of the subsequent clinical trials of the compound conducted on behalf of Lilly is set out in the Product Monograph for Strattera attached as an exhibit to Dr. Hynes's affidavit.
+The Patent In Issue
+[14]
+There is no dispute about the inventive promise of the '735 Patent. The 16 patent claims involve the use of atomoxetine for treating ADHD in three of its manifestations among all age groups (children, adolescents and adults). The patent does not claim the compound atomoxetine but only its use to treat ADHD. The patent does not assert nor would it have been expected by a person of skill that atomoxetine would work for every person.
+[15]
+The patent specification sets out a non-controversial history of ADHD and the then-current treatments of choice for the disorder. The oldest and largely successful medications are said to be a class of stimulants which includes methylphenidate. Other effective drugs, it states, are antidepressant tricyclics (TCAs) including imipramine, desipramine, nortriptyline, amitriptyline and clomipramine. Nevertheless, the side-effects and usage limitations of the available treatments created a "need for a safe and convenient treatment for ADHD" which, in turn, led to "the present invention" ('735 Patent at p. 2, lines 3-4, 7).
+[16]
+The patent acknowledges that atomoxetine "is a well-known drug" with a recognized mechanism of activity as a norepinephrine reuptake inhibitor ('735 Patent at p. 2, line 15). The specification also states the following:
+"Tomoxetine is quite active in that function, and moreover is substantially free of other central nervous system activities at the concentrations or doses at which it effectively inhibits norepinephrine reuptake. Thus, it is quite free of side effects and is properly considered to be a selective drug.
+"Tomoxetine is a notably safe drug, and its use in ADHD, in both adults and children, is a superior treatment for that disorder because of its improved safety. Further, tomoxetine is effective at relatively low doses, as discussed below, and may safely and effectively be administered once per day. Thus, difficulties created by the multiple dosing of patients, particularly children and disorganized adults, are completely avoided" ('735 Patent at p. 2, lines 21-35).
+[17]
+The specification also contains preferred dosage ranges for children and adults but ultimately defers this question to the judgment of the treating physician [see footnote 3]. The specification concludes with the statement that "there is no significant difference in the symptoms or the details of the manner of treatment among patients of different ages" ('735 Patent at p. 7, lines 21-23).
+[18]
+As with the '590 Priority Patent, the '735 Patent offers no information about the nature or sources of the evidence relied upon by the inventors to support the promise of atomoxetine's utility to treat ADHD by demonstration or by sound prediction.
+The Evidence
+[19]
+Lilly's evidence consisted of affidavits from Dr. James McGough and Dr. Russell Barkley, each of whom provided opinion evidence concerning the scientific issues as they related to the contested legal issues of anticipation, obviousness and utility. Evidence about the development of atomoxetine up to and including its approval for use in the United States and Canada was provided by Dr. Hynes.
+[20]
+Apotex's opinion evidence came from Dr. Ronald Brown, Dr. Cecil Reynolds and Dr. Ronald Kuczenski.
+[21]
+From my review of the qualifications of the expert witnesses, I am satisfied that they were all well qualified to speak to the matters upon which they gave evidence. Given the inherent procedural limitations in this process, especially the way in which expert evidence is presented (see
+ <FRAGMENT_SUPPRESSED>  at para. 19) the Court is not in a position to effectively pass judgment on the overall credibility of any of the witnesses.
+[22]
+It was a point of particular controversy on this application that Lilly attempted to introduce the MGH Study report as an exhibit to the affidavit of Dr. Hynes and not through one of its named authors. This led to a pre-application motion to exclude the MGH Study along with those portions of Lilly's expert opinion evidence which were based upon the Study. Apotex argued, not without some justification, that Lilly was attempting to put this evidence of utility forward without exposing its authors to cross-examination. I will say more about this issue when I deal with the issue of utility later in these reasons.
+[23]
+The primary area of disagreement among the expert witnesses concerned the likelihood that a person of skill in the art would conclude that atomoxetine, as a selective NRI, ought to treat ADHD. The Apotex witnesses opined that the efficacy of atomoxetine would have been self-evident because its profile closely matched those of several other successful ADHD drugs, particularly the TCA desipramine. The Lilly expert witnesses were of the view that in 1995 no one knew why the successful ADHD drugs worked and, given the complexity of their pharmacological profiles and neuronal impacts, no one could have predicted that atomoxetine would also be successful. In short, although some successful ADHD drugs affected norepinephrine reuptake, they also had other neurotransmitter effects, and it was not known what aspects of a particular drug's pharmacology contributed to the treatment of ADHD.
+II.
+Issues
+[24]
+What is the standard of proof required?
+[25]
+Was Lilly's claim that atomoxetine could be used to treat ADHD obvious to a person of skill in the art?
+[26]
+Was the '735 Patent anticipated by the '009 Patent?
+[27]
+As of the Canadian filing date of the '735 Patent did Lilly have evidence that demonstrated the utility of atomoxetine to treat ADHD in humans?
+[28]
+What is the significance of the outcome of
+ <FRAGMENT_SUPPRESSED>  to the outcome of this proceeding?
+[29]
+Costs?
+III.
+Analysis
+Burden of Proof
+[30]
+On the issue of the burden of proof in NOC proceedings, I adopt the analysis provided by Justice Roger Hughes in
+ <FRAGMENT_SUPPRESSED>  where he stated at paras. 37 - 40:
+"[37] The issue as to who bears the burden of proof in NOC proceedings, as to validity of a patent or infringement of a patent is an issue that I had thought had been put to rest. Nonetheless the parties in such proceedings continue to argue the point. It seems that my recent decision in
+ <FRAGMENT_SUPPRESSED>  has given fresh ammunition to those continually wishing to stir the pot in this regard. Let me state emphatically that I did not intend  <FRAGMENT_SUPPRESSED> -Myers
+to say or apply any burden different than I had stated in previous decisions.
+"[38] To be perfectly clear, when it comes to the burden as to invalidity I canvassed the law, in particular recent Federal Court of Appeal decisions, in
+ <FRAGMENT_SUPPRESSED>  and concluded at paragraph 32:
+'32. I do not view the reasoning of the two panels of the Federal Court of Appeal to be in substantial disagreement. Justice Mosley of this Court reconciled these decisions in his Reasons in
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 971 at paragraphs 44 to 51. What is required, when issues of validity of a patent are raised:
+1. The second person, in its Notice of Allegation may raise one or more grounds for alleging invalidity;
+2. The first person may in its Notice of Application filed with the Court join issue on any one or more of those grounds;
+3. The second person may lead evidence in the Court proceeding to support the grounds upon which issue has been joined;
+4. The first person may, at its peril, rely simply upon the presumption of validity afforded by the
+Patent Act
+or, more prudently, adduce its own evidence as to the grounds of invalidity put in issue.
+5. The Court will weigh the evidence; if the first person relies only on the presumption, the Court will nonetheless weigh the strength of the evidence led by the second person. If that evidence is weak or irrelevant the presumption will prevail. If both parties lead evidence, the Court will weigh all the evidence and determine the matter on the usual civil balance.
+6. If the evidence weighed in step 5 is evenly balanced (a rare event), the Applicant (first person) will have failed to prove that the allegation of invalidity is not justified and will not be entitled to the Order of prohibition that it seeks.
+"[39] I stated the matter more succinctly in
+ <FRAGMENT_SUPPRESSED> :
+'12. Here the only issue is validity.
+Pharmascience
+has raised three arguments in that respect. Each of <FRAGMENT_SUPPRESSED> and
+Pharmascience
+have led evidence and made submissions as to those matters. At the end of the day, I must decide the matter on the balance of probabilities on the evidence that I have and the law as it presently stands. If, on the evidence, I find that the matter is evenly balanced, I must conclude that Pfizer has not demonstrated that
+Pharmascience's
+allegation is not justified.'
+"[40] The above cases state correctly in my view, the law as to the burden in NOC proceedings as to invalidity."
+[31]
+The law is clear that with respect to any allegation of invalidity contained in a NOA, the patentee is entitled to rely upon the presumption of validity set out in ss. 43(2) of the
+Patent Act
+. This presumption obligates the respondent, at a minimum, to lead evidence that, if accepted, is capable of rebutting the presumption: see
+ <FRAGMENT_SUPPRESSED>  at para. 10. This initial evidential burden has sometimes been described as putting the allegation "into play": see
+Sanofi-Aventis Canada Inc. v. ratiopharm Inc. et al.
+(2010), 367 F.T.R. 307; 82 C.P.R.(4th) 414; 2010 FC 230 at para. 26.
+[32]
+With respect to Apotex's allegation of inutility in this proceeding, a serious issue does arise as to whether it has met the initial evidentiary burden.
+Obviousness - Legal Principles
+[33]
+ <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada considered the issue of obviousness in the context of a challenge to the validity of a pharmaceutical selection patent. The decision is particularly instructive in a case where the line of inquiry pursued by an inventor would be thought by others to be at least promising or with a semblance of a chance of success. Although the Court accepted that "obvious to try" was one of several factors that should be considered, it also said that this consideration needed to be applied cautiously and with particular regard to the need to encourage pharmaceutical research and development. The obvious-to-try test was said to be satisfied only where it was self evident that what is being tried ought to work.
+[34]
+At paragraph 67 the Court adopted the following four step framework for an obviousness inquiry:
+(a) identify the notional person skilled in the art and the relevant common general knowledge of that person;
+(b) identify the inventive concept of the claim or claims in issue and, if necessary, construe them;
+(c) identify the differences, if any, between the "state of the art" and the inventive concept of the patent; and
+(d) viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention.
+[35]
+It is only at the fourth step of the above analysis that "obvious to try" will arise. I would add to this that what may be obvious to examine may not be obviously useful if more than simple verification is required in proof. The obvious to try analysis will, in each case, turn on several further considerations including the number of available options or solutions to the problem, the nature and extent of effort required to achieve the invention (routine trials versus prolonged or arduous experimentation), the extent to which others had tried and failed to find a solution, and the degree of motivation to find a solution. Ultimately, if the evidence only establishes the possibility that a promising compound or approach might work, obviousness is not made out: see
+ <FRAGMENT_SUPPRESSED>  at para. 45.
+Obviousness - The Evidence
+[36]
+The parties were in essential agreement in their characterization of a person of skill in the art [see footnote 4]. They also agreed about the inventive concept of the '735 Patent. Their disagreement centered on whether the prior art established that the identification of atomoxetine to treat ADHD was obvious or uninventive.
+[37]
+Apotex's obviousness argument was premised on establishing that the TCAs (particularly desipramine or DMI) which worked to treat ADHD did so "because of their inhibition of norepinephrine reuptake" (see transcript p. 776). According to Apotex, because atomoxetine was known to be a highly selective NRI a person skilled in the art would expect that it, too, would treat ADHD.
+[38]
+There is no question that the successful TCAs were, in relative terms, NRIs. Indeed desipramine was as good at blocking the reuptake of norepinephrine as atomoxetine. However, the essential problem with the Apotex evidence is that it does not establish that, in 1995, a person of skill would have understood that the blockade of norepinephrine reuptake was the mechanism of action responsible for treating ADHD.
+[39]
+I accept that there was a theory linking norepinephrine to ADHD and some suggestion in the prior art that ADHD could be treated by increasing norepinephrine levels in the synaptic cleft. Nevertheless, Apotex's evidence is only sufficient to establish the existence of one unproven hypothesis sitting among of number of others [see footnote 5].
+[40]
+Dr. Reynolds' affidavit contains a comprehensive review of the prior art confirming the utility of the TCAs and particularly imipramine, desipramine, and nortriptyline for treating ADHD. He points to the relative similarity of these compounds as norepinephrine reuptake inhibitors and compares them to atomoxetine, which was long known to be a highly selective NRI. What is markedly absent, though, from the prior art he relies upon is evidence establishing a causal link between the noradrenergic profiles of these compounds and their clinical efficacy. Notwithstanding the absence of such evidence, Dr. Reynolds was able to opine that it was the selectivity of these compounds for the blockade of the reuptake of norepinephrine that was the mechanism of action responsible for their efficacy in treating ADHD.
+[41]
+I reject Dr. Reynolds' evidence on this issue largely because of his apparent willingness to stretch the prior art to fit his opinion. A good example of this can be found at para. 84 of his affidavit where, in discussing desipramine, he interprets the equivocal words "perhaps by increased NE availability at nerve terminals" as meaning that desipramine worked "because" of its altering effect on norepinephrine levels in plasma. The rest of the prior art relied upon by Dr. Reynolds either says nothing at all about this cause and effect issue or expresses it only as an unproven hypothesis. Indeed, Dr. Reynolds drew support from a study by Dr. Joseph Biederman [see footnote 6] which found desipramine to have relatively high selectivity against the reuptake of norepinephrine. Although the authors of that study described their data as being suggestive of a link between desipramine's noradrenergic properties and the treatment of ADHD they categorically stated in conclusion that "[t]he pharmacological mechanism of action of DMI in ADHD remains unknown". This latter acknowledgement is surprisingly not to be seen in Dr. Reynolds' affidavit but it was accepted by Dr. Kuczenski under cross-examination (see transcript at p. 2802) and eventually accepted by Dr. Reynolds (see transcript at p. 2666).
+[42]
+Dr. Reynolds was confronted on cross-examination with certain prior art reference that did not support his opinion about what was understood about the responsible mechanism of action of desipramine and the TCAs generally. His responses were not particularly definitive or persuasive:
+"446 Q. All right. So, with Dr. Biederman, what we can get out of this is that even in respect to norepinephrine, DMI has multiple effects and the one that is leading to its mechanism of action in ADHD remains unknown.
+A. It remains unknown, but he suggests clearly that it's related to the drug's actions on the central neurotransmitter system that's shared by those stimulants. And throughout this, we've seen that it enhances the use of norepinephrine. So, I think that's what he's telling us, that he's suggesting that, sir.
+447 Q. But ultimately, he's saying we don't know for certain.
+A. Ultimately, I think that I would agree that he would say we don't know for certain. My suggestion would be that you would ask Biederman that, but I think he would agree with that.
+. . . . .
+480 Q. So, it's clear for the record what I'm asking you whether you agree on is: Their mechanism of action in ADHD is unknown and it is probable that this mechanism is far less specific than that of the stimulant - than that of stimulant medications.
+A. And the question is?
+481 Q. Do you agree with that?
+A. I agree that that's what it says. I don't know that I agree with the statement, no.
+482 Q. So, this is one of those areas probably in science that you're talking about that the two respective researchers can look at the data and come to different conclusions?
+A. I think so, yes."
+[43]
+Dr. Kuczenski was more cautious in his assessment of the prior art but, in the result, his opinion about the expected efficacy of atomoxetine to treat ADHD was stated only as a hypothesis (see his affidavit at para. 60). He also began his assessment of this evidence with an acknowledgement of the complexity of the interactions within the brain created by the administration of psychotropic drugs:
+"23. All psychotropic drugs produce their behavioural effects by interacting with one or more of these specialized sites affect the inter-neuronal communication associated with each neurotransmitter. In addition to each of these various sites within each neurotransmitter system - synthesis, storage, break-down, receptor activation, and termination - drugs can also act on more than one of the dozens of different neurotransmitters at the same time. Communication through one neurotransmitter can be inhibited by the drug, while communication through another neurotransmitter can be facilitated by the same drug. It is multiplicity of sites and neurotransmitters at which drugs can interact that accounts for the extremely wide range of unique and complex behavioural effects associated with different drugs."
+[44]
+Although Dr. Kuczenski was able to point to the relative similarity of many of the successfully ADHD drugs (TCAs and stimulants) for the inhibition of the reuptake of norepinephrine, he also noted the areas where they differed and, in particular, their varied effects on other neuronal receptor systems. Under cross-examination, he also conceded that in 1995 there were "very, very many hypotheses [for successfully treating ADHD]. I mean, there were too much of one transmitter, not enough of another transmitter, sugar hypothesis, there were any number of hypotheses" (see transcript at p. 2779). This is a significant concession because in the absence of an understanding of the mechanism of action responsible for achieving treatment it is a profoundly difficult task to predict whether a promising drug candidate ought to work.
+[45]
+The evidence from Dr. Brown is no stronger than that of Dr. Kuczenski. He, too, noted the relative similarity of noradrenergic profiles of the ADHD drugs but he was also not able or willing to categorically attribute their efficacy to that aspect of their mechanism of action. This is apparent from the very guarded summary to be found at para. 39 of his affidavit:
+"39. In summary, the use of antidepressant medications, specifically the tricyclic antidepressants including desipramine, had long been used as a second line treatment to stimulant medication for the management of symptoms associated with ADHD. In particular, desipramine and the other antidepressant agents had been found to have a specific affinity to norepinephrine. Thus, the logic provided in the '735 Patent that atomoxetine, an antidepressant medication that had been employed with adults for many years, would be
+potentially efficacious
+for the management of ADHD, does not in my opinion represent a distinct therapeutic approach. It was already known by January 1995 that the medication of action of atomoxetine was the selective inhibition of norepinephrine reuptake at the level of the synapse, and it was also already known at that time that other norepinephrine reuptake inhibitors were efficacious in treating ADHD." (Emphasis added)
+[46]
+On cross-examination, Dr. Brown was effectively challenged on these issues as can be seen from the following testimony:
+"383 Q. Let's start with Exhibit 2. Let's go here. Strike the first part of the question. When we looked at the stimulant methods of action, all right, we said that the stimulant -- I think you agreed that the stimulants exert affects on multiple neurotransmitters.
+A. Yeah, but specifically dopamine.
+384 Q. So it has -- so specifically dopamine. So it affects numerous neurotransmitters, but primarily dopamine, is that correct?
+A. Yes.
+385 Q. If we look at this Exhibit 2, Page 594, do you see under the heading 'Antidepressants'?
+A. Yes.
+386 Q. About two inches down, three inches down, it says:
+'Their mechanism of action in ADHD is unknown, and it is probable that this mechanism is far less specific than that of stimulant medications?'
+You wrote that in 2002?
+A. Yes.
+387 Q. And the reason you wrote it, you believed it to be true?
+A. Yes. In 2000 -- when did this come out? 2002? Yes, that was the pervasive thought.
+388 Q. So what you are saying, in 1987 the prevailing thought was that desipramine exerted its influence on doparnine?
+A. In '87?
+389 Q. Yes. That's what -- the paper I just took you to, the Zametkin.
+A. Yes. That exerted an effect on -- that was the belief at the time.
+390 Q. In 1987?
+A. In '87.
+391 Q. And your belief in 2002 was that it was far less specific than the stimulants.
+A. Probably. This was written in 2000, 2001.
+392 Q. So in 2000, 2001, you thought it was a good mechanism -- the purported mechanism of action of the -- of the TCA's, that it had a mechanism far less specific than that of stimulant medications?
+A. Generally.
+393 Q. Generally, yes?
+A. That was sort of the mode of thought, yeah. You know, that was a probability. That was my thinking at the time.
+394 Q. Nonetheless, when you look back at 1987 or 1995 or 2002, the mechanism of the TCA's is unknown. You would agree with that?
+A. No. You know, there was the notion that it affected norepinephrine and dopamine, the synapse.
+395 Q. So in your statement, this is your 2002 paper, when you say:
+'Their mechanism of action in ADHD is unknown?'
+You wrote that, right?
+A. Either I or the coauthor.
+396 Q. You are suggesting that maybe this is something your coauthored wrote, you reviewed?
+A. I reviewed it.
+397 Q. Right.
+A. Right. It's not referenced. It's just, you know, some thinking at the time.
+398 Q. That thinking was based upon your then understanding of the ADHD literature, correct?
+A. Right.
+399 Q. And at the time you had an awareness of the Zametkin paper we took you to, right?
+A. Yes.
+400 Q. As well as other papers, right?
+A. Right.
+401 Q. And the conclusion that is expressed is that the mechanism of TCA's in ADHD is unknown.
+A. That there was no -- there wasn't anything specifically conclusive. That there was no, you know -- there was nothing definitive. I guess that's what I meant.
+402 Q. Now, let's mark the Zametkin paper.
+But, Doctor, in terms -- when this paper -- so this is your paper, Exhibit 2.
+First of all, you submitted it for publication, you or your coauthor, right?
+A. Yes. We were asked to write this particular paper.
+403 Q. So you knew that it was going to be read by your peers?
+A. Yes.
+404 Q. And, in, fact before it was published it was reviewed by peers, correct?
+A. Yes.
+405 Q. It went through the editing process?
+A. Yes.
+406 Q. And the statement that you wrote, wasn't that -- you know, there is nothing definitive can be said about the mechanism of actions of TCA's, that's not what you wrote, is it?
+MR. BRODKIN: The words speak for themselves.
+BY MR. SMITH:
+407 Q. And those words are:
+'The mechanism of action in ADHD is unknown,'
+and that's in reference to TCA's, right?
+MR. BRODKIN: The words speak for themselves.
+And by that I mean, the words that are on the page are on the page. He's told you and given you testimony as to what he understood and believes those words to mean.
+MR. SMITH: Just give us five minutes.
+MR. BRODKIN: Okay.
+-- Off-the-record discussion
+BY MR. SMITH:
+408 Q. So, Doctor, just a last question in terms of the Exhibit 2 that we were looking at, Page 94, and that quote.
+'The mechanism of action in ADHD is unknown.'
+Is there a difference between what you meant and what you wrote?
+OBJ MR. BRODKIN: Don't answer the question.
+He's already answered those questions."
+[47]
+It is of some interest that Dr. Brown was directed by counsel not to answer a highly relevant question in a situation where he was having obvious difficulty. The inference that I draw from this is that had he been permitted to answer, Dr. Brown would have conceded that the mechanism of action of the TCAs in treating ADHD was not understood in 1995.
+[48]
+In the absence of evidence to establish that the successful ADHD drugs worked because of a common noradrenergic effect, I do not accept that a person of skill in 1995 could have confidently predicted that atomoxetine would also work for that indication. The evidence for this proposition given by the Apotex witnesses rises only to the level of a possibility of efficacy which is not enough to establish obviousness: see
+ <FRAGMENT_SUPPRESSED>  at para. 45.
+[49]
+In comparison, I find the evidence from the Lilly witnesses to be compelling and well-supported by the prior art.
+[50]
+Dr. McGough notes that in 1995 the mechanism of action responsible for the efficacy of stimulant therapy in treatment ADHD was not well understood. These drugs, he says, were also not good comparators to atomoxetine because, in varying degrees, they affected multiple neurotransmitter systems. The TCAs were also broader acting compounds than atomoxetine.
+[51]
+Dr. McGough's evidence is supported by Dr. Barkley's assessment of what was known about the drugs that were useful to treat ADHD and about what was known about atomoxetine. I accept without reservation Dr. Barkley's outline of the prior art as set out below:
+"58. As was noted in the '735 Patent, both dopamine and norepinephrine were affected by the use of stimulants but it was far from certain what the reason was for their effectiveness in alleviating the symptoms of ADHD. This uncertainty is reflected in the conclusion of Dr. Calis in his 1990 article (Apotex' Document #10), where at page 633 it is stated:
+'Preclinical studies have shown that both dextro amphetamine and methylphenidate block the reuptake of dopamine and norepinephrine at the presynaptic neuron. Despite the similarities in their mechanism of action, some differences in the behavioural and biocheminal effects of these two stimulants have been noted in animals and humans. ... Although their exact roles have yet to be fully elucidated, both dopamine and norepinephrine appear to contribute to the pathophysiology of ADHD.'
+"59. To the extent there was agreement in the field, dopamine was hypothesized by many to be the predominant neurotransmitter involved in both the underlying etiology of ADHD and in the efficacy of stimulants in the treatment of ADHD. For example, the Cook et al. 1995 publication attached hereto at
+Exhibit 'F'
+, considered the dopamine transporter as the primary candidate gene for ADHD and the Castellanos 1997 Review, attached hereto as
+Exhibit 'G'
+highlights the predominance of the dopamine pathway in ADHD.
+. . . . .
+"66. Contrary to what is being suggested by Apotex' experts, while there was certainly literature on the usefulness of TCAs for the management of ADHD in the 1980s-90s, the manner by which this efficacy was achieved was unknown. The tricyclic antidepressants were known at the time to also have antihistaminic, anticholinergic, serotonergic and dopaminergic effects apart from those on norepinephrine and no one had parsed the relative contributions of each of these effects on the beneficial effects the drugs may have had on ADHD symptoms. Even Dr. Brown concedes this point in para. 44 where he states that the TCAs were '... posited to involve a number of neurotransmitters'.
+"67. In paragraphs 76 and 77 of his affidavit, Dr. Reynolds suggests that a number of references 'disclose that desipramine is a norepinephrine reuptake inhibitor ("NRI"), and the fact that it is a NRI explains why desipramine is effective in the treatment of ADHD'. The first reference he cites is a 1983 article by Dr. Garfinkel. While Dr. Garfinkel (Apotex' Document 20) does state that 'desipramine (DMI) and norclomipramine block the reuptake of norepinephrine', he goes on to state:
+'Since it is not known that blocking monoamine reuptake is the TCA [tricyclic antidepressant] pharmacodynamic property which determines the therapeutic response, inferences about neurotransmitters must be limited.'
+"68. As discussed in greater detail below, desipramine is not exclusivity a norepinephrine reuptake inhibitor. Even in the quote from Donnelly et al. (Apotex' Document 14) referenced by Dr. Reynolds in paragraphs 82 and 84, the authors acknowledge that the role of NE as the mechanism of action for TCAs and as a possible causal contributor to ADHD itself were 'hypotheses' and not well-established facts. This is also evident in the quote from this paper by Dr. Reynolds in paragraph 84 where the word '
+perhaps
+' appears in the quote 'The mechanisms of action, perhaps by increased NE availability at nerve terminals ...'.
+"69. The simple truth is that the mechanism of actions of TCAs, including desipramine, in treating ADHD were not established as of 1995 or even today. While some of the many different activities of desipramine (DMI) were discussed in the context of side-effects, there is nothing to suggest that these other activities were not also contributing to its efficacy in treating ADHD. For instance, in his discussion of his study's results of a large trial of DMI for patients with ADHD Dr. Biederman, a leading child psychopharmacologist,  <FRAGMENT_SUPPRESSED> ' reference 1:
+'The pharmacological mechanism of action of DMI and ADDH remains unknown.' (p. 783)"
+[52]
+From my own review of the prior art, I also accept Dr. McGough's characterization of what a person of skill looking at atomoxetine would have understood from drugs like desipramine:
+"107. In paragraph 42 of Dr. Brown's affidavit he states '[t]he tricyclic antidepressants had been demonstrated prior to January 1995 to exert their effects at the level of the synapse by blocking the reuptake of norepinephrine.' As discussed above, the tricyclic antidepressants were considered in the field of psychiatry to be 'dirty drugs', which had wide ranging effects on multiple neurotransmitter systems. For example, in addition to its ability to inhibit norepinephrine reuptake, desipramine was known to have activities at alpha-1, alpha-2 and beta adrenergic receptors; cholinergic; D2 dopaminergic; H-1 and H-2 histaminergic; muscarinic; and serotonergic receptors. Thus, a person skilled in the art could not attribute the efficacy of any TCA, including desipramine, to any one aspect of its pharmacology, including the ability to inhibit norepinephrine reuptake. Moreover, before 1995, it was not possible tell how these drugs were distributed and bound in the human brain, even in light of in vitro potency studies."
+[53]
+I also accept Mr. McGough's criticisms of the opinions of Drs. Brown, Kuczenski and Reynolds set out at paras. 103 to 117 of his affidavit and I agree with him that those opinions are based on an inappropriately selective review of the prior art including a number of passages taken out of context.
+[54]
+My own review of the prior art evidence indicates that the profiles of the drugs that worked to treat ADHD were simply too diverse, and their mechanism of presumed action within the highly complex neurological systems involved were too uncertain to draw any firm conclusion about the efficacy of atomoxetine. Examples of this include the following prior art references:
+Andrew Shenker,
+The Mechanism of Action of Drugs Used to Treat Attention-Deficit Hyperactivity Disorder: Focus on Catecholamine Receptor Pharmacology
+(1992) 39 Adv. Pediatrics 337.
+[55]
+This comprehensive survey of the prior art indicates that even compounds that are highly selective for a particular neurotransmitter system can be expected to have multiple and poorly understood effects on other systems. Shenker also observes that highly selective compounds may not be the best candidates for ADHD drug development.
+Angela LaRosa and Ronald T. Brown,
+Recent Developments in the Pharmacotherapy of Attention-Deficit/Hyperactivity Disorder (ADHD)
+(2002) 33(6) Professional Psychology, Research and Practise 591.
+[56]
+It states:
+"The stimulant medications are believed to exert their action through the enhancement of dopamine and norepinephrine neurotransmission, although the precise mechanism of action is unknown [p. 592].
+. . . . .
+"Their [TCA] mechanism of action in ADHD is unknown, and it is probable that this mechanism is far less specific than that of stimulant medications" (p. 594).
+Joseph Biederman et al.,
+A Double-Blind Placebo Controlled Study of Desipramine in the Treatment of ADD: I
+(1989) 28(5) J. Am. Acad. Child Adolesc. Psychiatry 777.
+[57]
+It states:
+"The pharmacological mechanism of action of DMI in ADDH remains unknown" (p. 783).
+Barry Garfinkel et al.,
+Tricyclic Antidepressant and Methylphenidate Treatment of Attention Deficit Disorder in Children
+(1983) 22(4) J. Am. Acad. Child Adolesc. Psychiatry 343.
+[58]
+It states:
+"Since it is not known that blocking monoamine reuptake is the TCA pharmacodynamic property which determines the therapeutic response, inferences about neurotransmitters must be limited" (p. 343).
+L.L Greenhill,
+Pharmacologic Treatment of Attention Deficit Hyperactivity Disorder
+(1992) 15(1) Psychiatr Clin North Am.1
+[59]
+It states:
+"Treatment studies of ADHD children showed just the opposite, leading to the rejection of the dopamine hypothesis of ADHD, as well as other single neurotransmitter-deficit etiologic models" (p. 5).
+Timothy Wilens et al.,
+Pharmacotherapy of Adult ADHD in A Comprehensive Guide to Attention Deficit Disorder in Adults
+(Brunner/Mazel: New York, 1995) at 168.
+[60]
+It states:
+"While not entirely sufficient, alteration in dopamenergic and noradrenergic functions appears necessary for clinical efficacy of the anti-ADHD medications including the stimulants" (pp. 171 to 172).
+S.R Pliszka et al.
+Catecholamines in Attention-Deficit Hyperactivity Disorder: Current Perspectives
+(1996) 35(3)) J. Am. Acad. Child Adolesc. Psychiatry 264.
+[61]
+It states:
+"[...] no comprehensive model has been explicated which successfully describes the underlying pathophysiology of ADHD and the mechanisms by which medications ameliorate its symptoms" (p. 264).
+[62]
+In conclusion, the evidence provided by Lilly's witnesses with respect to the issue of obviousness is compelling and Apotex's invalidity allegation is rejected.
+Anticipation
+[63]
+I have no difficulty with Apotex's argument that the legal principles applicable to an allegation of anticipation were modified by the Supreme Court of Canada in <FRAGMENT_SUPPRESSED> , above, and I would adopt the following helpful summary of the law provided by Justice Hughes in
+ <FRAGMENT_SUPPRESSED>  at para. 75:
+"[75] To summarise the legal requirements for anticipation as they apply to the circumstances of this case:
+1. For there to be anticipation there must be both disclosure and enablement of the claimed invention.
+2. The disclosure does not have to be an 'exact description' of the claimed invention. The disclosure must be sufficient so that when read by a person skilled in the art willing to understand what is being said, it can be understood without trial and error.
+3. If there is sufficient disclosure, what is disclosed must enable a person skilled in the art to carry out what is disclosed. A certain amount of trial and error experimentation of a kind normally expected may be carried out.
+4. The disclosure when carried out may be done without a person necessarily recognizing what is present or what is happening.
+5. If the claimed invention is directed to a use different from that previously disclosed and enabled then such claimed use is not anticipated. However if the claimed use is the same as the previously disclosed and enabled use, then there is anticipation.
+6. The Court is required to make its determinations as to disclosure and enablement on the usual civil burden of balance and probabilities, and not to any more exacting standard such as quasi-criminal.
+7. If a person carrying out the prior disclosure would infringe the claim then the claim is anticipated."
+[64]
+Apotex contends that the inventive promise of the '735 Patent that atomoxetine is useful to treat ADHD was anticipated by United States Patent No. 4,194,009 ('009 Patent). This is an issue of mixed fact and law: see
+ <FRAGMENT_SUPPRESSED>  at paras. 5 - 6.
+[65]
+The '009 Patent covers a multitude of compounds, some of which it describes as NRIs. Atomoxetine is not specifically disclosed but it is, as conceded by Lilly's witnesses, one of the compounds claimed. The specification compares the mechanism of action of some of these compounds to TCAs and notes their potential to treat depression. Other possible uses are said to be as treatments for sleep disorders, sexual performance, appetite, muscular function and pituitary function. There is no mention at all of ADHD.
+[66]
+The only claim made by the '009 Patent is that the administration of all of its compounds will cause a potentially useful "psychotropic effect".
+[67]
+Dr. Reynolds linked the '009 Patent to the inventive promise of the '735 Patent at paras. 140-143 of his affidavit:
+"140. A 'psychotropic action' would have been understood by a person skilled in the art in January 1995 to mean that the administration of the compound to a patient would affect the patient's behaviour (either overt, covert, or both) in some way. The '009 Patent provides some examples of such behaviour, the main one being depression - the compounds are said clearly to have 'potential as anti-depressant compounds' (column 14, line 1). Other examples include the treatment of schizophrenia, and disorders of sleep, sexual performance, appetite, muscular function, and pituitary function (column 14).
+"141. In my opinion, the treatment of ADD [now an archaic term] and ADHD would have been understood by a person skilled in the art to be included within the general term 'psychotropic action'. ADHD was known by January 1995 to be a behavioural disorder (see for example Reference 30 at pages 317 and 350), and it was known that ADHD was one of the most if not the most frequent psychiatric diagnosis given to children in North America (Reference 40 at page 444).
+"142. It is my opinion that a person skilled in the art would have understood that the '009 Patent disclosed the use of a group of compounds, which includes atomoxetine, that provide a psychotropic effect or action,
+including being useful in the treatment of ADHD
+. The person skilled in the art would have understood from the '009 Patent that the psychotropic effect was due to the fact that many of the compounds selectively block norepinephrine uptake with a reduction in undesirable effects associated with many other medicines.
+"143. I am in agreement, therefore, with the statement in the Apotex NOA at page 8 that a person skilled in the art would have known that ADHD is a psychotropic illness, and that the use of atomoxetine to treat ADHD is equivalent to the use of atomoxetine to provide a psychotropic effect." (Emphasis added)
+[68]
+As I read these statements, Dr. Reynolds is saying that because a skilled person would know that ADHD is a common psychotropic disorder amenable to treatment with psychotropic agents, such a person would also know that the '009 Patent compounds would treat ADHD. In addition, Dr. Reynolds appears to be saying that the NRI profile of some of the '009 Patent compounds would also lead a person of skill to the same conclusion. Mr. Brodkin framed this latter point as follows:
+"The next point in respect of the patent is that it explains to a reader the mechanism upon which the psychotropic agents impact the norepinephrine reuptake mechanism.
+"It's not any old psychotropic effect, it's psychotropic effects that act upon a particular pathway, the particular pathway, norepinephrine reuptake, which, of course, is implicated in ADHD treatments."
+[69]
+To the extent that the Apotex anticipation argument is based on its position that it was known in 1995 that the efficacy of ADHD drugs was caused by their inhibition of the reuptake of norepinephrine, the argument fails for the same reason that the inventive promise of the '735 Patent was not obvious.
+[70]
+I do accept Mr. Brodkin's point that ADHD is a psychotropic condition. This was conceded by Dr. Barkley in his cross-examination and it is the only reasonable interpretation of those words. But what remains for determination is whether the fact that ADHD falls within that "umbrella" term in the '009 Patent is enough to establish anticipation. I am not satisfied that it does.
+[71]
+Apotex relied heavily on the decision of Justice Anne Mactavish in
+Lundbeck Canada Inc. et al. v. ratiopharm Inc. et al.
+(2009), 357 F.T.R. 75; 79 C.P.R.(4th) 243; 2009 FC 1102. That case involved a patent for the drug memantine for the treatment of Alzheimer's disease. The anticipatory references indicated that memantine was useful to treat "organic brain syndrome", "organic psychosyndrome" and "dementia". All of those terms were understood to include Alzheimer's disease. Indeed, Alzheimer's disease was described as the most common form of dementia. One of the other conditions named in the patent was cerebral ischemia which was a condition that similarly fell within the scope of "organic brain syndrome".
+[72]
+Not surprisingly, Justice Mactavish found that the anticipatory references disclosed and enabled the treatment of the Alzheimer's disease and cerebral ischemia and therefore offered nothing new or inventive.
+[73]
+I am not satisfied, however, that the
+Lundbeck
+decision can be fairly applied to the facts of this case.
+[74]
+As Justice Hughes pointed out  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , the prior anticipatory disclosure does not have to be an exact description of the claimed invention, but the claimed uses must be essentially the same. It is also a requirement that the person carrying out the prior disclosure would infringe the patent claim. In
+Lundbeck
+, above, the anticipatory references referred to the exact compound subsequently claimed in the patent for uses that closely overlapped. The situation before me involves a prior patent that includes thousands of compounds and where neither atomoxetine nor ADHD is specifically disclosed.
+[75]
+The person of skill looking at the '009 Patent is trying to understand what it means and in so doing would be influenced by the prior art. I do not accept that such a person would equate the use of achieving a psychotropic effect in the '009 Patent with the successful treatment of ADHD, particularly in the face of the other suggested uses for those compounds and considering what was known about the available ADHD treatment options at that time. In such a context a person following the teaching of the '009 Patent would have no obvious reason to consider any of the compounds claimed as being useful ADHD drugs, let alone necessarily infringe by attempting to put them into use for that purpose.
+[76]
+As I understand Mr. Brodkin's argument, the '009 Patent would be anticipatory with respect to any subsequent claim to the use of any one of its compounds for any psychotropic indication. It is only in that context that one could conclude that by carrying out the teaching of the '009 Patent an infringement of the '735 Patent would necessarily occur. This is an interesting argument which is not without some appeal. I am, however, not persuaded that the teaching of the '009 Patent anticipates the inventive promise of the '735 Patent. I say that because the person of skill would appreciate that not every psychotropic drug will treat ADHD, nor will every NRI. Even if one accepts that in assessing the '009 Patent as anticipatory one should consider each compound as a separate invention, one would still have to make a decision to use atomoxetine to treat ADHD in the absence of any suggestion that it would work.
+[77]
+Although I am not free of all doubt on this issue, I am satisfied that Lilly has met the requisite burden of proof with respect to the anticipation issue and that allegation fails.
+Utility - Legal Principles
+[78]
+Section 2 of the
+Patent
+Act
+, R.S. 1985, c. P-4, stipulates that an invention be "useful". It is this provision that incorporates the concept of utility into Canadian patent law.
+[79]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145, the concept of inventive utility was described as follows at pages 524 to 526:
+"There is but a single test, and that test is whether the specification adequately describes the invention for a person skilled in the art, though, in the case of patents of a highly technical and scientific nature, that person may be someone possessing a high degree of expert scientific knowledge and skill in the particular branch of science to which the patent relates. It might be added that there was no evidence by the respondent as to any respect in which the specifications of the two patents in issue would have been considered deficient by a workman of ordinary skill in the art.
+"In my respectful opinion the Federal Court of Appeal erred also in holding that s. 36(1) requires distinct indication of the real utility of the invention in question. There is a helpful discussion in
+Halsbury's Laws of England
+, (3rd ed.), vol. 29, at p. 59, on the meaning of 'not useful' in patent law. It means 'that the invention will not work, either in the sense that it will not operate at all or, more broadly, that it will not do what the specification promises that it will do'. There is no suggestion here that the invention will not give the result promised. The discussion in
+Halsbury's Laws of England
+, ibid., continues:
+'... the practical usefulness of the invention does not matter, nor does its commercial utility, unless the specification promises commercial utility, nor does it matter whether the invention is of any real benefit to the public, or particularly suitable for the purposes suggested.' (Footnotes omitted.)
+and concludes:
+'... it is sufficient utility to support a patent that the invention gives either a new article, or a better article, or a cheaper article, or affords the public a useful choice.' (Footnotes omitted.)
+Canadian law is to the same effect.  <FRAGMENT_SUPPRESSED>  21 Fox Pat. C. 95, the Quebec Court of Appeal adopted at p. 107 C.P.R., p. 53 Fox Pat. C., the following quotation from the case of
+ <FRAGMENT_SUPPRESSED>  at p. 184:
+'If when used in accordance with the directions contained in the specification the promised results are obtained, the invention is useful in the sense in which that term is used in patent law. The question to be asked is whether, if you do what the specification tells you to do, you can make or do the thing which the specification says that you can make or do.'"
+[80]
+Utility is not established on the basis of a mere hypothesis, an unproven idea or sheer speculation, even if later established, but it can rest upon a foundation of sound prediction. In
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  (hereinafter referred to as
+AZT
+), the concept of sound prediction was described in the following passage at paras. 70 and 71:
+"70. The doctrine of sound prediction has three components. Firstly, as here, there must be a factual basis for the prediction. In
+Monsanto
+and
+Burton Parsons
+, the factual basis was supplied by the tested compounds, but other factual underpinnings, depending on the nature of the invention, may suffice. Secondly, the inventor must have at the date of the patent application an articulable and 'sound' line of reasoning from which the desired result can be inferred from the factual basis. In
+Monsanto
+and
+Burton Parsons
+, the line of reasoning was grounded in the known 'architecture of chemical compounds' (
+Monsanto
+, at p. 1119), but other lines of reasoning, again depending on the subject matter, may be legitimate. Thirdly, there must be proper disclosure. Normally, it is sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised: H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th ed. 1969), at p. 167. It is generally not necessary for an inventor to provide a theory of
+why
+the invention works. Practical readers merely want to know that it does work and how to work it. In this sort of case, however, the sound prediction is to some extent the quid pro quo the applicant offers in exchange for the patent monopoly. Precise disclosure requirements in this regard do not arise for decision in this case because both the underlying facts (the test data) and the line of reasoning (the chain terminator effect) were in fact disclosed, and disclosure in this respect did not become an issue between the parties. I therefore say no more about it.
+"71. It bears repetition that the soundness (or otherwise) of the prediction is a question of fact. Evidence must be led about what was known or not known at the priority date, as was done here. Each case will turn on the particularities of the discipline to which it relates. In this case, the findings of fact necessary for the application of 'sound prediction' were made and the appellants have not, in my view, demonstrated any overriding or palpable error."
+Utility - The Evidence
+[81]
+The approaches taken by the parties to the issue of utility were unusual. Apotex comprehensively addressed the issue in its NOA in the following passage:
+"First, there is no factual basis set out in the '735 Patent upon which a sound prediction could be made that atomoxetine was safe and effective for the treatment of ADHD in children, adolescents and adults.
+The disclosure of the '735 Patent fails to provide any information, data or test results purporting to show that the administration of atomoxetine to children, adolescents and adults suffering from ADHD is safe and is effective in the sense that treatment of ADHD will result.
+"The only purported factual basis disclosed in the '735 Patent on which any prediction could be made is information about what was already known about atomoxetine and ADHD from the prior art. If what was previously known about atomoxetine is a sufficient factual basis upon which a sound prediction can be made, then the claimed invention would have been obvious to a person skilled in the art.
+"
+Eli Lilly has confirmed that the first clinical trials or experiments assessing the safety and efficacy of atomoxetine for treating ADHD were not conducted until after the filing of the priority '341 Application
+. Apotex asserts that any results and data obtained from those clinical trials or experiments could not have formed a sufficient factual basis or sound line of reasoning upon which a sound prediction could be made of the safety and efficacy of atomoxetine for treating ADHD.
+Alternatively, if those clinical trials or experiments were sufficient to confirm the safety and efficacy of atomoxetine for treating ADHD, which Apotex denies, then Eli Lilly failed to disclose the results and data from those clinical trials and experiments in the '735 Patent.
+"Second, the purported inventors did not have an articulable and 'sound' line of reasoning from which the promised utility that atomoxetine was safe and effective for treating ADHD could be inferred from the factual basis. The only purported sound line of reasoning disclosed in the 1735 Patent on which any prediction could be made is what was already known about atomoxetine from the prior art. If what was previously known about atomoxetine provides a sound line of reasoning from which a sound prediction can be made, then the claimed invention would have been obvious to a person skilled in the art.
+"Third, there is no proper disclosure in the '735 Patent of a factual basis and a sound line of reasoning from which the purported inventors could soundly predict that atomoxetine would be sale [sic] and effective for treating ADHD, including for treating 'predominantly inattentive type of attention deficit/hyperactivity disorder' or 'predominantly hyperactive-impulsive type of attention deficit/hyperactivity disorder'. The purported inventors did not have a factual basis nor sufficient information to be able to soundly predict that atomoxetine was safe and effective for the treatment of ADHD in the patient groups recited in the claims, namely adults, adolescents, and children." (Emphasis added)
+[82]
+Lilly answered the NOA with a Notice of Application which stated:
+"41. The claims of the '735 Patent claim the use of atomoxetine for treatment of ADHD. Atomoxetine is useful for the treatment of ADHD in adults, adolescents and children, and as such, Lilly Canada denies that the invention claimed in the '735 Patent lacks utility as alleged by Apotex in its Notice of Allegation. The relevant date for assessment is as of the Canadian filing date namely January 4, 1996. As of January 4, 1996,
+Lilly had established by virtue of studies
+that atomoxetine was useful for the treatment of ADHD and, in any event, had a factual basis for the alleged predictions by virtue of studies that had been conducted; there was an articulable and sound line of reasoning from which the desired result could be inferred from the factual basis and there was proper disclosure of the nature of the invention and manner in which it could be practised in the '735 Patent." (Emphasis added)
+[83]
+Because the order of presentation of the evidence in this proceeding was reversed, Apotex led with its affidavits. That evidence was limited to the observation that the '735 Patent gave no indication of testing of atomoxetine to substantiate the inventive promise of utility. Dr. Brown's affidavit noted the absence of data in the patent and suggested that the utility of atomoxetine must therefore have rested upon what was already known in the prior art:
+"40. Finally, the '735 Patent does not include any data whatsoever, including any data from clinical trials, which are the gold standard for evaluating any type of pharmacotherapy. There are no data provided in the '735 Patent to show or even suggest the efficacy of atomoxetine for the management of ADHD and to show that atomoxetine is a 'notably safe drug'. Consequently, the argument that atomoxetine is an effective pharmacotherapy for the management of ADHD appears to be circular and draws from the use of other antidepressant agents for treating ADHD, including desipramine, where the primary action of the medication is associated with the reuptake of norepinephrine, at the level of the synapse, and from what was already known about atomoxetine." [see footnote 7]
+[84]
+This evidence is not consistent with the Apotex NOA which conceded some knowledge of the existence of clinical trials run after the U.S. priority application. Despite that knowledge, Apotex framed its case around the issue of sound prediction and failed to put up any evidence contesting Lilly's assertions of demonstrated utility.
+[85]
+Lilly responded to Apotex's allegations by producing the MGH Study report and a later published version of the Study as exhibits to the affidavit of Dr. Hynes. Both Dr. Barkley and Dr. McGough then examined the MGH Study report, including its reported design and findings, and concluded that it was sufficient to demonstrate the utility of atomoxetine as of the Canadian filing date of the '735 Patent (see Barkley affidavit at paras. 35 to 45 and McGough affidavit at paras. 90 to 102).
+[86]
+Apotex again elected not to challenge this evidence on matters of substance. Instead, it moved to strike the evidence in its entirety as inadmissible hearsay and the parties devoted a full day of argument to that issue immediately in advance of the hearing of the application.
+[87]
+It is not entirely clear on the evidence before me how much Apotex knew or could have discovered about the MGH Study before it was produced by Lilly in proof of the utility of atomoxetine. What is clear is that the MGH Study was not disclosed in the '735 Patent and, because of the reversal of the order of presentation of evidence, Apotex did not have a meaningful opportunity to address the issue when it filed its initial evidence. Nevertheless, in a situation where the evidence of utility is not self-evident on the face of the patent or otherwise fully disclosed in the public domain and where the second party can show that it is not attempting to split its case, it would have a strong entitlement to a right of reply.
+[88]
+In this case when Apotex was informed from Lilly's affidavits that the MGH Study was the foundation of its assertion of utility, Apotex chose not to seek to file reply evidence or to cross-examine Lilly's witnesses in a challenge to the Study's reliability or sufficiency. Instead, Apotex made a very deliberate strategic decision to attempt to exclude the MGH Study on the basis that it constituted inadmissible hearsay.
+[89]
+I understand Apotex's concern that Lilly ought not to be permitted to establish a utility case by tendering the MGH Study through a witness who had little if any involvement with its completion. In the absence of evidence that the MGH Study could not have been tendered by one of its authors this does appear to have been a strategic ploy by Lilly to prevent Apotex from directly challenging the MGH Study through cross-examination.
+[90]
+In short, both parties in some measure attempted to skirt the substantive utility issues in favour of arguments about whether the other party had met its burden of proof.
+[91]
+The only evidence that Apotex has put forward in response to the MGH Study is that it and its data are nowhere referenced in the '735 Patent. Apotex says that that is enough to put the issue into play. I do not agree.
+[92]
+Where a patentee maintains that it can demonstrate the utility of its invention, its disclosure obligation is limited to the provision of a full description of the invention and the means to work it: see
+ <FRAGMENT_SUPPRESSED>  at paras. 57 to 62 and
+ <FRAGMENT_SUPPRESSED>  at para. 70.
+[93]
+It is only where the patentee relies upon a sound prediction of utility that it is required to disclose in the patent both the factual data on which the prediction is based and the line of reasoning followed to support it. According to Justice Ian Binnie in
+AZT
+, above, this requirement to disclose the basis of the prediction in the patent specification is "to some extent the quid pro quo" the patentee offers an exchange for the patent monopoly: see para. 70.
+[94]
+Lilly asserted in its Notice of Application that it had "established by virtue of studies that atomoxetine was useful for the treatment of ADHD". Because Lilly was relying upon an assertion of demonstrated utility, it says that it carried no obligation to disclose the MGH Study or its findings in the '735 Patent. I agree. In the result, Apotex's evidence pointing only to the absence of such evidence in the '735 Patent would not, if accepted, be capable of rebutting the statutory presumption of validity.
+[95]
+I am accordingly bound on this record to reject Apotex's allegation of inutility because it has failed to satisfy its initial evidentiary burden. Because Lilly effectively had no case to answer, it is unnecessary for me to determine whether the evidence bearing on the MGH Study, at least in the manner tendered, was inadmissible hearsay. Even if that evidence was not admissible, I am still left with the initial problem of whether the Apotex evidence was sufficient to put the allegation of inutility into play and, as noted above, I find that it was not. For this issue, the statutory presumption of validity prevails.
+[96]
+This is, of course, a surprising result in the face of my earlier finding in
+ <FRAGMENT_SUPPRESSED>  that the MGH Study was not sufficient to demonstrate utility. But in that case the issue was addressed by the parties on the strength of considerable evidence that went to the merits of the MGH Study. Here, Apotex took a different approach and elected not to meet Lilly's assertion of demonstrated utility head-on. In the result, its allegation of inutility fails.
+Disposition
+[97]
+Having declared the '735 Patent to be invalid in
+ <FRAGMENT_SUPPRESSED>  appropriate disposition of this application. Counsel for the Minister advised that a NOC would issue to Apotex because of the intervening in rem declaration of invalidity and I have since been told that this has been done.
+[98]
+The parties are in agreement that this application is now moot but they disagree about its proper disposition having particular regard to the implications for a claim by Apotex to damages under s. 8 of the
+NOC Regulations
+. Section 8 creates a potential liability for losses sustained by the second person (Apotex) by being wrongly denied entry to marketplace. Such a claim can be triggered by the first person's withdrawal or discontinuance of its application for prohibition or by a dismissal by the court hearing the application.
+[99]
+Lilly is concerned that if it were to prevail on the merits of its application, it might still be exposed to s. 8 damages if its application is dismissed for mootness. It therefore proposes that the Court either declare the Apotex allegations to be unjustified; terminate but not dismiss the application; or issue an order of prohibition.
+[100]
+Apotex maintains that the only disposition available to the Court is the dismissal of Lilly's application. It argues that the Court should not render a decision which might, on its face, limit is ability to pursue s. 8 damages. That, it says, is an issue for separate determination before a court properly seized of it.
+[101]
+Much of what the parties rely upon concerns the appropriateness of a claim to s. 8 damages in this unusual situation.  <FRAGMENT_SUPPRESSED>  Justice Johanne Gauthier expressed reservations about whether a s. 8 claim could be advanced where, after an order of prohibition had been issued, the underlying patent was declared invalid in another proceeding. Justice Gauthier may well be correct in doubting that s. 8 damages would be available where the patent in issue has been determined to be invalid in another proceeding between different parties. That issue is not, however, before me.
+[102]
+All that is being decided by me in this instance is that none of Apotex's allegations were justified on the record that was before this Court, and that because of the intervening determination that the '735 Patent was invalid, Lilly's application must be dismissed on the basis of mootness. But for that determination, Lilly's application would have been allowed and an order for prohibition would have issued. It remains open to Lilly to defend any claim by Apotex for s. 8 damages on the basis outlined by Justice Gauthier and on the strength of an argument that the expression in s. 8 "dismissed by the court hearing the application" means a dismissal on the merits of the application and not simply for mootness.
+[103]
+I am not convinced that any of the forms of relief proposed by Lilly would be appropriate or even permitted. Indeed, there is much to be said for Apotex's concern that its potential claim to damages not be prematurely curtailed by the use of creative language in the final judgment of the Court before that issue can be argued fully on the merits.
+[104]
+In the result, Lilly's application is dismissed on the ground of mootness.
+Costs
+[105]
+I will consider written submissions from the parties concerning costs. Lilly will have 30 days for make its submission. Apotex will have 15 days thereafter to respond. Lilly may reply within 5 following days. The primary submissions are not to exceed 10 pages in length and Lilly's reply is not to exceed 3 pages.
+JUDGMENT
+[106]
+THIS COURT ADJUDGES that this application for an order prohibiting the Minister from issuing a NOC is dismissed with the issue of costs to be reserved.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+Footnotes
+1. References to Lilly in this part of these reasons mean the Respondent, Eli Lilly and Company.
+2. Dr. James McGough's affidavit provides a helpful and non-controversial description of neurotransmission in the human brain at paras. 22 to 35.
+3. The suggested dosing regimen in the '735 Patent is stated in identical language to that used by Lilly in its '590 Patent which predated the MGH Study. In the result Lilly does not assert that the recommended dosing is part of the inventive promise of the '735 Patent.
+4. Dr. Barkley and Dr. Reynolds agreed that the person of skill could include a primary care physician with a thorough knowledge of ADHD and its treatment. They also agreed that someone with an advanced degree in a related allied health science closely involved in the treatment of ADHD would qualify. I would include persons actively engaged in research directed at the development of new medications for treating ADHD.
+5. A very good review of the various hypotheses under consideration in 1987 can been found in Alan J. Zametkin & Judith L. Rapoport,
+Neurobiology of Attention Deficit Disorder with Hyperactivity: Where Have We Come in 50 Years?
+(1987) 26(5) J. Am. Acad. Child Adolesc. Psychiatry 676. This paper casts doubt upon a theory of treatment for ADHD involving only one neurotransmitter.
+6. Joseph Biederman et al.,
+A Double-Blind Placebo Controlled Study of Desipramine in the Treatment of ADD: I
+(1989) 28(5) J. Am. Acad. Child Adolesc. Psychiatry 777.
+7. To the same general effect is the evidence of Dr. Reynolds at para. 72 of his affidavit and that of Dr. Kuczenski at paras. 59 and 62 of his affidavit.
+[End of document]

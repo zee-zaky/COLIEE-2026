@@ -1,0 +1,171 @@
+I.
+Factual Background
+[1]
+Annis, J.
+: The applicant, Geophysical Service Incorporated [GSI], brings a motion for an interlocutory injunction requiring the respondent, Canada-Nova Scotia Offshore Petroleum Board [CNSOPB or the "Board"], to remove from its websites materials over which the applicant claims copyright pertaining to its work product from seismic surveys GSI conducted in the Nova Scotia Offshore Area [Offshore Area], in addition to other related remedies.
+[2]
+GSI is a geophysical service company headquartered in Calgary, Alberta. It conducted onshore and offshore seismic surveys, which it describes as "Non-Exclusive Surveys" or speculative surveys.
+[3]
+GSI claims intellectual property rights in the data from the surveys. It licenses to clients- typically oil and gas exploration and production firms ["EAPs"] -access to the data, for a fee. GSI is registered owner of copyright in respect of data produced on Non-Exclusive Surveys which is the subject matter herein.
+[4]
+The Board is jointly created by section 9 of the federal
+Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act
+, SC 1988, c 28 and section 9 of the provincial
+Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation (Nova Scotia) Act
+, SNS 1987, c 3 [collectively, the "Acts"].
+[5]
+The Board has extensive duties and powers prescribed in the Acts regarding the regulation of oil and gas exploration and development in the Offshore Areas and other activities related to such exploration and development.
+[6]
+Between 1998 and 2003 the Board issued "Geophysical/Geological Work Authorizations" ["GWAs"] to GSI to conduct speculative seismic surveys in the Offshore Area. Pursuant to the
+Nova Scotia Offshore Area Petroleum Geophysical Operations Regulations
+, NS Reg 191/95 ("the Regulations"), the GWAs prescribe requirements and conditions, including the requirement to comply with the "Geophysical and Geological Programs in the Nova Scotia Offshore Area Guidelines for Work Programs, Authorizations & Reports" [the "Guidelines"].
+[7]
+GSI conducted surveys in the Offshore Area in accordance with the Guidelines and thereafter submitted to the Board geophysical data and other information resulting from the surveys. This data is described as final migrated seismic lines in digital [SEG-Y] format for programs NS24-G005-2P and NS24-G5-4P.
+[8]
+Raw or "field" seismic data is first collected in a format called "SEG-D". This raw data is then processed into a more easily viewable and manipulable format called "SEG-Y". Thus, SEG-Y data represents a fully processed and "migrated" seismic line, typically viewed as a cross-section image of the subsurface geology over the length of the seismic line.
+[9]
+The final migrated seismic lines submitted to the Board by GSI for the NS24-G5-4P program bear the corporate name "CGG-Data Processing Services" [CGG] for "Canadian Superior Energy Inc".
+[10]
+In April 2013, the CNSOPB published on its website and in paper format its call for bids numbered NS13-1 [the "2013 Call for Bids"] offering six parcels in the Offshore Area for bidding by E&Ps.
+[11]
+Among the information contained in the 2013 Call for Bids was the Board's assessment of "Potential Traps and Reservoirs" within the offered parcels. This section contains 12 Figures created by the Board based on information submitted to it by various E&Ps and seismic operators, including GSI, pursuant to the Regulations and Guidelines. These are labelled Figures 5.1 through 5.12 [the Figures].
+[12]
+The applicant contends that the publication of the Figures on the website and by other means infringed GSI's copyright, as the Figures were created using Non-Exclusive Data for which GSI is the registered owner.
+[13]
+The Figures were created by the Board's seismic interpreters, based on final, migrated seismic lines in SEG-Y format submitted by one or more of the 10 seismic service providers and E&Ps, including GSI, collected during one or more of 20 seismic work programs.
+[14]
+Final migrated seismic lines submitted by GSI to the Board in respect of work programs NS24-G005-2P and NS24-G5-4P were used by the Board to create only Figure 5.5. It is only Figure 5.5 in the alleged infringing materials that used the data submitted by GSI.
+[15]
+Several hundred seismic lines submitted by numerous seismic companies and E&Ps were used to create Figure 5.5. Data contained in GSI's seismic lines from the NS24-G005-2P and NS24-G5-4P programs were used to create only about 8.4 percent of Figure 5.5. The remaining data was based on seismic lines submitted by other seismic operators and E&Ps-approximately 91.6 percent of the data in Figure 5.5.
+[16]
+The Board announced publicly that it intended to use a renewed Call for Bids in April 2014 in the Offshore Area.
+[17]
+In its application, GSI claims damages for infringement of copyright and a permanent injunction restraining the Board from future publication of material similar to the alleged infringing materials in the 2013 Call for Bids.
+[18]
+For the purposes of this motion both parties filed extensive written materials, including affidavits. However, no cross examination of any affidavit was conducted.
+II.
+Statement of Issues
+[19]
+The issues raised on this motion are as follows:
+a. Whether an interlocutory injunction should be issued, and if so on what terms;
+b. If an Order is granted whether certain materials in the applicant's affidavit should be removed and sealed.
+III.
+Interlocutory Injunction - Generally
+[20]
+It is common ground that
+ <FRAGMENT_SUPPRESSED>  is the governing authority, generally requiring the party seeking an interlocutory injunction to demonstrate (paraphrased from
+RJR-MacDonald
+at paras 78-80):
+1) the preceding raises a "serious question to be tried";
+2) the moving party would suffer "irreparable harm" if interlocutory injunction is not granted; and
+3) the moving party would suffer greater harm if the interlocutory injunction is not granted than would responding party if it is not - the "balance of convenience" assessment.
+IV.
+Analysis
+A. Serious Issues
+a. Establishing Copyright
+[21]
+Pursuant to section 53(2) of the
+Copyright Act
+, RSC 1985, c C-42, GSI relies upon its certificate of registration as presumptive evidence that copyright subsists in the data and that GSI is the owner of the copyright. It acknowledges however that copyright registration does not create, but only declares the right, and that in the absence of proof to the contrary, the person registered is deemed to hold the right claimed by him.  <FRAGMENT_SUPPRESSED>  44 FTR 121.
+[22]
+The respondent argues that the evidence submitted by GSI suggests that CGG exercised skill and judgment in transforming the raw seismic data [SEG-D] into the compilation [SEG-Y] provided to the Board used in the preparation of its Figures. According to the respondent, this is not enough to establish copyright; it is a mere suggestion of copyright.
+[23]
+The respondent refers to the notation on the .PDF version of GSI seismic line SG 01-0137 from the NS24-G5-4P program, which bears the name of CGG-Data Processing Services. There is no indication of who this entity is and whether GSI has a license from it.
+[24]
+No copyright can subsist in geophysical data or seismic data. The copyright must exist in the compilations analysis thereof (see
+ <FRAGMENT_SUPPRESSED>  [CA] at paras 28 and 29, 221 NR 113).
+[25]
+The applicant points out that the evidence on this issue consists of a single paragraph from GSI's affidavit inferring that its employees exercise "good judgment, selection, creativity, knowledge, effort and imagination".
+[26]
+Despite the paucity of evidence from the applicant, and evidence that another entity was involved in the production of the work product provided the Board, I think that at best, from the applicant's point of view, there remains at least a serious issue over copyright ownership given all the facts that otherwise demonstrate GSI's ownership of the data and major role in its collection and compilation.
+[27]
+In other words, CGG's name on the material is insufficient to overcome the serious issue that the presumption of copyright applies.
+b. Infringement
+[28]
+However, I agree with the respondent that there appears to be no serious issue about the alleged infringement by the Board, given the lack of any objective similarity between the infringing work and the copyrighted work, or at least a substantial part thereof, for Figure 5.5 to be described as a copy, reproduction or adaptation of the latter.
+[29]
+Figure 5.5 is a geographical map upon which the location of certain seismic lines used by the Board for other Figures is superimposed. None of these other Figures with seismic lines have any connection to GSI.
+[30]
+The only use of GSI's materials was to create the color-coded map [J150 map] of a seismic event 150 million years ago. The respondent's witness deposed that the main purpose of Figure 5.5 is to show the approximate geographic location in the 2013 Call for Bids area of the seismic lines and diagrams in other figures and states that "This could have been done by the Board's geoscientists without using the J150 map; however that map was included to make Figure 5.5 more visually appealing and to provide some general geological context of the reader".
+[31]
+To create Figure 5.5, all SEG-Y data available to the Board from the 20 seismic programs, including the GSI programs, was interpreted by the Board's geoscientists, then coarsely gridded and smoothed using computer software to fill data gaps, to average the interpretive values generated during seismic interpretation. It represents only "one possible interpretation of the data". Nor does Figure 5.5 in any way resemble the cross-section view of a final migrated seismic line.
+[32]
+Given the limited contribution of the applicant's data to Figure 5.5 and its extensive manipulation and reworking by the Board, with the overwhelming majority of the data being provided from other sources, I do not find that Figure 5.5 constitutes a reproduction or adaptation such as to constitute an infringement of GSI's copyright.
+V.
+Irreparable Harm
+[33]
+The applicant urges the Court to rely upon
+ <FRAGMENT_SUPPRESSED> FTR 245 [
+Diamant Toys
+], for the proposition that where "the plaintiffs have established ... a
+prima facie
+case of copyright infringement ... they need not establish that they will suffer irreparable harm in order to obtain injunction".
+[34]
+In that case, the Court described the copying as "blatant". The applicant submitted that this Court should consider copying blatant if it could conclude that it was clear that copying had occurred. In my view "blatant" goes beyond an objective finding of clear copying. While the situation of clear copying would meet the
+prima facie
+test referred to in the cited passage, I tend to think that using such strong language as blatant is intended to impute some degree of knowledge or recklessness in the conduct of the respondent.
+[35]
+Moreover, the three prongs of the interlocutory injunction test are to some degree to be treated together and not as separate silos: Robert J. Sharpe,
+Injunctions and Specific Performance
+, loose-leaf (Aurora: Canada Law Book, 2010 at para 2.600) as quoted in
+ <FRAGMENT_SUPPRESSED> :
+The terms 'irreparable harm', 'status quo' and 'balance of convenience' do not have a precise meaning. They are more properly seen as guides which take colour and definition in the circumstances of each case. More importantly, they ought not to be seen as separate, water-tight categories. These factors relate to each other, and strength on one part of the test ought to be permitted to compensate for weaknesses on another.
+[36]
+There exist situations where the applicant's case is sufficiently strong that the threshold for meeting the other two factors can be set so low as to be irrelevant. I believe that this may have been the approach underlying the statement  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , that it was not necessary to establish irreparable harm where copying is blatant.
+[37]
+These are not the facts in this case. Figure 5.5 is the result of extensive reworking and adaptation of materials originating not just from the applicant, but from many other contributors to produce a document that bears very little resemblance or content to that of the copyrighted material.
+[38]
+Accordingly, I conclude that the applicant must demonstrate by clear and non-speculative evidence that it will suffer irreparable harm, not compensable in damages, between now and the outcome of the trial if the injunction is not granted.
+[39]
+The applicant's argument of sustaining irreparable harm is based upon the following supposition described in paragraph 27 of its supporting affidavit:
+27. Had any oil and gas exploration firms desired to assess prospectivity in order to consider responding to CNSOPB's Call for Bids No. NS13-1, and but for publication of the Infringing Materials by CNSOPB, those firms could have, and should have, entered into non-exclusive licence agreements with GSI under which those potential bidders would themselves have obtained access to GSI's proprietary data for those firms' own manipulations and analyses and assessment of prospectivity of the Parcels of submarine lands which were the subject of that Call for Bids as is the normal process in exploration. No oil and gas exploration firms have made any inquiry of GSI seeking to licence any of GSI's data related to the Nova Scotia Offshore Area during the period March 18, 2013 to the date of this affidavit.
+[40]
+I agree with the respondent that GSI has failed to provide clear and non-speculative evidence of damage. There is, for instance, no statistical evidence or sales information that would permit some suggestion of a correlation between conducting Calls for Bids and the extent of licencing of GSI's seismic data information.
+[41]
+The fact that no oil and gas exploration firms made inquiry of GSI during the 2013 Call for Bids process raises no plausible inference of damages. No bids were received by the Board, indicating that the industry had little interest in this area. There is nothing in the evidence that raises an inference that GSI would have received inquiries from companies even if Figure 5.5 had been omitted from the 2013 call for bids.
+[42]
+It is equally plausible that had the 2013 Call for Bids elicited interest, there would have been requests to turn to the applicant for more detailed data or other related services.
+[43]
+In addition, it is not clear to me that damages in respect of any future disclosures would not be capable of calculation. GSI introduced evidence in its affidavit that a single user licence would have been leased for $1,245,231.65. Thus, the damages are quantifiable in terms of lost profits from lost business, assuming a causal link could be demonstrated between an infringement and a demand for licenses from the applicant.
+[44]
+Damage principles admit some degree of speculation in assessing future and other indeterminate losses. This principle is described by M. Waddams, The
+Law of Damages
+, Second Edition (loose-leaf ed), at p 13-2, where the author says:
+In Anglo-Canadian law, on the other hand, perhaps because of the decline in the use of the jury, the courts have consistently held that if the plaintiff establishes that a loss has probably been suffered, the difficulty of determining the amount of it can never excuse the wrongdoer from paying damages. If the amount is difficult to estimate, the tribunal must simply do its best on the material available, though of course if the plaintiff has not adduced evidence that might have been expected to be adduced if the claim were sound, the omission will tell against the plaintiff.
+This principle is supported by a myriad of jurisprudence dating back to the nineteenth century.
+[45]
+Assuming that CGI could introduce background sales evidence and that qualified experts from the industry were engaged, the applicant should be able to provide some statistical and probability analysis for lost sales in support of an award of damages from an infringement of its copyrighted materials.
+[46]
+Accordingly, the applicant has not demonstrated that it would sustain irreparable harm were the injunction not ordered.
+VI.
+Balance of Convenience
+[47]
+The applicant argues that because no bids were received pursuant to the 2013 Call for Bids, there is no inconvenience to the Board in being required to now remove the alleged infringing materials from the Internet for the 2014 bid process.
+[48]
+As the respondent points out, there would be significant inconvenience if it was precluded from continuing to use operators' seismic data as part of future calls for bids packages. This refers not only to the applicant's position, but the fact that other geophysical service operators would demand the same treatment, thus undermining the bid process.
+[49]
+This suggests that the purpose of the infringement action is to force the Board to pay to use its information, as opposed to obtaining greater sales of its licenses. Moreover, I find that the applicant has greatly overreached in the scope of the injunction sought. It seeks to enjoin the publication of all 12 Figures, despite the evidence demonstrating that its data was specific only to Figure 5.5.
+[50]
+The objectives of the Canada-Nova Scotia accord include achieving the early development of petroleum resources in the Nova Scotia Offshore Area for the benefit of Canada as a whole and Nova Scotians in particular. They include ensuring continuance of a stable offshore regime for industry and ensuring that Nova Scotia receives financial benefits from the development of the Offshore Area.
+[51]
+It is clear that the geo-scientific interpretations made by the Board such as Figure 5.5 are integral to the Board achieving its mandate.
+[52]
+In addition, during argument, the applicant indicated that the restriction should also apply to limit public access to studies carried out by the Board that make reference to data supplied to it by geophysical service operators. This would inconvenience the Board and interfere with its mandate to ensure that the education and training, and of research and development, in relation to petroleum resource activities in the offshore area is achieved.
+[53]
+In light of the speculative and largely unsupported potential loss claims in an area where development of offshore oil and gas resources has not occurred, priority must be given to attempts to achieve the Board's mandate for the benefit of Nova Scotians and Canadians.
+VII.
+Conclusion
+[54]
+The motion for an interlocutory injunction requiring the Board to remove from its websites the alleged infringing materials, being Exhibit "H" to the affidavit of Paul Einarsson, is dismissed, as is the injunction to restrain the Board from placing on its websites materials similar to those contained in Exhibit "H" and the applicant's request to seal Exhibit "H" pending further order of the Court.
+[55]
+On consent and pursuant to Rule 373(4), it is ordered that the affidavits of Paul Einarsson sworn January 28 and February 20, 2014, served and filed in support of this motion shall be considered as evidence submitted at the hearing of the Application herein and, in particular, that service on the Board of the motion record for purposes of this motion shall be considered service on the Board of both those affidavits for purposes of Rule 306.
+[56]
+The respondent is to have its costs of the motion. If the parties are unable to agree on costs, the respondent should file written submissions not greater than three pages, with its bill of costs, within 14 days of this Order; the applicant to reply within 14 days thereafter.
+ORDER
+[57]
+THIS COURT ORDERS that
+:
+1. The motion for an interlocutory injunction is dismissed;
+2. The respondent is awarded costs of the motion. If the parties are unable to agree on costs, the respondent should file written submissions not greater than three pages, with its bill of costs, within 14 days of this Order; the applicant to reply within 14 days thereafter.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/vnh

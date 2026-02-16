@@ -1,0 +1,652 @@
+INTRODUCTION
+[1]
+Mosley, J.
+: "We don't have to kill the little buggers, we only have to give them a vasectomy". That is how Dr. Sam Stevens described the effects of irradiating Cryptosporidium parvum with low doses of ultraviolet light, in his testimony at the trial of this action for patent infringement. The plaintiff, Calgon Carbon Corporation ( <FRAGMENT_SUPPRESSED> ) obtained Canadian Patent No. 2,331,525 (the '525 patent) for that method. That the method is useful is beyond question. But was it new? For the reasons that follow, I find that the patent was anticipated by the prior art and is invalid.
+[2]
+The plaintiff alleges direct infringement by the Corporation of the City of North Bay ("North Bay"). Trojan Technologies Inc. ("Trojan") is alleged to have induced or procured North Bay's infringement.
+[3]
+The relief sought by the plaintiff includes a declaration of infringement, a permanent injunction and damages against Trojan and damages or an accounting of profits against North Bay. Calgon does not seek an injunction against North Bay. The defendants by counterclaim seek a declaration that the patent is invalid.
+The Parties
+:
+[4]
+Calgon is a Delaware corporation based in Pittsburgh, Pennsylvania. It is primarily in the business of making and selling activated carbon products and systems for purifying water, air and food products. Calgon began to manufacture and sell its own line of ultraviolet (UV) water treatment systems under the Sentinel brand in the late 1990's. Calgon owns the '525 patent and licenses water treatment facilities to use the '525 technology at a fee of 1.5 cents per thousand gallons of water treated.
+[5]
+North Bay is an Ontario municipal corporation. Among other things it owns water treatment facilities operated by the Ontario Clean Water Agency, and it provides drinking water for the residents and businesses of the city. The costs of water treatment and supply are borne by the ratepayers. The city's primary source for drinking water is Trout Lake, a large, deep and normally pristine lake adjacent to the municipality. North Bay contracted with Trojan in 2001 to supply a UV drinking water disinfection system for its water treatment plant.
+[6]
+Trojan, based in London, Ontario is the wholly owned subsidiary of an American corporation. It has been in the business of designing, manufacturing and selling UV disinfection systems since the 1970's. Initially, its drinking water systems were designed for residential applications. Trojan has more recently expanded however into municipal and industrial drinking water and waste water treatment. Trojan supplied the ultraviolet radiation system to North Bay that is alleged to infringe Calgon's patent. In the course of completing that deal, Trojan agreed to indemnify North Bay against any claim of patent infringement arising from the use of the system.
+The Patent
+[7]
+The '525 patent application, entitled "Method for Preventing Replication In Cryptosporidium Parvum Using Ultra Violet Light" was filed on May 5, 1999 claiming priority from U.S. Application No. 09/078116 filed in the United States on May 13, 1998. The claim date for present purposes is, therefore, the date of the U.S. filing. The '525 application was laid open for public inspection on November 18, 1999 and the patent was issued February 19, 2002.
+[8]
+There are just four claims found in the '525 patent:
+1. A method for the prevention of Cryptosporidium oocysts comprising irradiating water with a continuous broad band of ultraviolet light in doses of from about 10 mJ/cm2 to about 175 mJ/cm2.
+2. A method as set forth in claim 1 wherein said broad band is a frequency of 200 to 300 nm using a UV lamp.
+3. A method as set forth in claim 1 or 2 wherein said dose is from about 20 mJ/cm2 to about 30 mJ/cm2.
+4. A method as set forth in claim 1 wherein said broad band is a frequency of 200 to 300 nm using a medium pressure UV light.
+PROCEDURAL HISTORY
+[9]
+The statement of claim in this action was issued on August 29, 2002. Particulars were ordered and delivered in response to a motion to strike portions of the claim. North Bay then brought a motion seeking summary judgment on the ground that the '525 patent was anticipated. North Bay further argued that the '525 patent did not disclose an invention, but rather the mere discovery of an advantage of an old invention.
+[10]
+ <FRAGMENT_SUPPRESSED>  Justice James Hugessen allowed North Bay's motion for summary judgment and dismissed the action as against that defendant. For the purposes of the motion, North Bay had abandoned its own expert evidence and relied upon that of the plaintiff's expert, a Dr. Huffman. Dr. Huffman, whom Calgon did not call at trial, admitted on discovery that if the phrase "for the prevention of Cryptosporidium oocysts" was removed from claims 1-4, then the method could otherwise be described as well-known prior to the claim date. The prior art put into evidence by affidavit on the motion was that of the UV system installed at Fort Benton, Montana and point of entry systems installed at North Bay.
+[11]
+On the strength of that evidence, Justice Hugessen held that the use of an old invention to prevent Cryptosporidium oocyst replication was a mere discovery and not a new invention even if the advantage was previously unknown. Accordingly, that use was not patentable subject matter.
+[12]
+Calgon appealed the dismissal of its action. In a decision dated December 6, 2005, the Court of Appeal allowed the appeal and set aside the summary judgment decision:
+ <FRAGMENT_SUPPRESSED>  (
+Shell Oil
+), and
+ <FRAGMENT_SUPPRESSED> , Justice Marshall Rothstein held for the Court that irradiating water for Cryptosporidium using low doses of UV light, while not a new method itself, constituted a newly discovered use for that method and was therefore a new and useful art. At paragraph 17 of the decision, Justice Rothstein stated:
+"...Here, what is useful is the method of using UV light at particular levels for preventing Crypto oocyst replication.
+What is new and was not previously known is that using UV light at particular levels adequately treats water to prevent Crypto infection.
+Because of this, a more costly means of producing that desired result can be avoided. That meets the definition of 'invention'." (Emphasis added)
+[13]
+The Court of Appeal declined to deal with the issue of anticipation as it was not addressed in Justice Hugessen's decision and was only "argued cursorily" by the parties. Leave to appeal to the Supreme Court of Canada from the Court of Appeal's decision was dismissed without reasons:
+ <FRAGMENT_SUPPRESSED> .
+[14]
+In the present case, the plaintiff asserts that the question of whether the subject matter of the '525 patent is patentable is now res judicata. North Bay and Trojan submit that the issues in the present trial case are not the same as those which were before the Court of Appeal. There is new fact evidence on the prior art, new expert testimony, and new constructions of the claims put forward by the experts. Thus I am free, the defendants submit, to arrive at a different conclusion from that of the Court of Appeal as to the validity of the '525 patent.
+[15]
+The defendants urge me to revisit the issue of whether there is a mere discovery or a patentable new use of an old method based on the evidence at trial. This evidence establishes, the defendants submit, that the use was not new and that UV light in doses that fall within the claimed range of 10 to 175 mJ/cm² had been used to disinfect Cryptosporidium in drinking water prior to the patent application.
+[16]
+I am clearly bound by the ratio of the Court of Appeal decision which I take to be the principle taught by
+Shell Oil
+applied to the limited evidence which the Court had before it. As the Court of Appeal expressly left open the question of anticipation, its decision does not preclude a finding that using UV light at the claimed levels was known to treat water to prevent Cryptosporidium prior to the date of the patent application. Moreover, the evidence to be addressed with respect to anticipation includes new evidence that was not before Justice Hugessen or in the record before the Court of Appeal.
+[17]
+As the opening paragraph of these reasons indicates, I have concluded from the evidence that it was known prior to the date of the patent application that using UV light at particular levels adequately treats water to prevent Crypto infection, and that the invention was therefore not new.
+[18]
+The following summary of the facts is drawn from the testimony and documentary evidence at trial.
+FACTUAL B ACKGROUND
+Cryptosporidium parvum
+[19]
+There are several species of Cryptosporidium protozoa (i.e., single-celled) parasites. As parasites they can only reproduce within another organism (the "host"). Cryptosporidium parvum can cause a gastroenteritic disease, Cryptosporidiosis, when ingested by an animal or human host. Cryptosporidium parvum appears to be the predominant species responsible for Cryptosporidiosis in humans and animals and is known to spread through contaminated drinking water, contaminated foods and by close contact.
+[20]
+In one stage of its life cycle, the oocyst or spore phase, the parasite is enclosed in a protective cyst-like membrane which may be thick or thin walled. Thick walled oocysts are highly resistant to environmental stresses and to common disinfectants such as chlorine.
+[21]
+The oocysts are about 4-6 micrometers (4-6 µm or millionths of a meter) in diameter and will pass through many filtration systems. When ingested, stomach acids and enzymes cause the oocyst to open, a process called excystation, and to release up to four sporozoites. The sporozoites attach to intestinal cells and re-start the life cycle, replicating the protozoa within the host. Thin walled oocysts can remain within the intestinal tract and multiply, producing symptoms such as fever and diarrhoea.
+[22]
+Both the disease and the parasite are commonly known as "Crypto" and that is the term that I will use unless it is necessary to distinguish between the two in a particular context.
+[23]
+Thick walled Crypto oocysts are shed in the feces of infected hosts, where they can then be washed by rain, snow, or through sewage discharge into lakes, ponds, rivers and streams. The oocysts may therefore be present in water taken from above ground sources ("surface water") or from shallow wells ("ground water under the influence of surface water"), where there are infected hosts in the watershed feeding that source. Typically Crypto is not found in deep wells due to natural filtration through the aquifer sediments.
+[24]
+Crypto oocysts may appear only sporadically in a water source; typically after a heavy rain or following spring snow melt. It is difficult to determine whether a water source is contaminated as any given sample of water taken for analysis may contain no oocysts. Thus, in testing for the risk of the presence of Crypto, analysts rely on the presence of other contaminants such as E. coli bacteria which indicate the presence of fecal matter in the water.
+[25]
+For healthy individuals, Cryptosporidiosis may be self-limiting within a few days. For others, particularly the very young or elderly or those with depressed immune systems such as persons with AIDS, the results can be severe including death. There is no specific treatment. Consequently it is a major public health concern.
+[26]
+The first outbreak of Cryptosporidiosis linked to contaminated water was reported in a groundwater system in Texas in 1984. Two major outbreaks followed in Georgia, U.S.A. and in Swindon, U.K. in the late 1980's. What captured attention, however, was the outbreak in Milwaukee, Wisconsin in 1993 in which some 400,000 people reportedly became infected. That incident in particular appears to have focused interest on the use of alternative methods to prevent Crypto infection. In Canada, an outbreak occurred in Waterloo, Ontario in 1993 and in Cranbrook B.C. in 1996.
+[27]
+Conventional water treatment uses several steps to produce potable or "finished water" including screening, coagulation, flocculation, and filtration. Under optimal conditions, coagulation and filtration can effectively remove Cryptosporidium oocysts. However, a substantial number of outbreaks of Cryptosporidiosis prior to 1998 were related to such water treatment systems. That was the case in Waterloo, Ontario which operated a conventional system to treat water taken from the Grand River, from groundwater wells, and from infiltration wells adjacent to the river.
+[28]
+Following filtration, the practice in North America at least, has been to add a chemical disinfectant, typically chlorine. North American regulations typically require that a constant amount of chlorine remain in the water pipes to the point of use. The presence of that residual chlorine in the water prevents bacterial infiltration and microbial growth in the pipes but is also the source of concerns about health effects and aesthetic objections. Chlorine produces Trihalomethanes which are known to be carcinogenic. In the concentrations used for water treatment, chlorine does not "kill" or inactivate Crypto.
+[29]
+Chemical ozone is considered to be very effective against Crypto but it is costly and difficult to use. Ozone was employed by Milwaukee following the 1993 outbreak. Lesser amounts of ozone may be used for odour and taste control. Modern filtration systems employing fine membrane filters can also be effective at removing protozoa, including Crypto, if the pores in the membrane are small enough. Micro-filtration systems are also expensive to install and maintain.
+[30]
+Pathogen removal is measured in logarithms or "logs". One log reduction is equivalent to the removal of 90% of all pathogens present, two equals 99% removal, three 99.9% removal, four would be 99.99%, 5 is 99.999% and so on. This means of calculating efficiency of treatment depends on input. Removing 99.9% may still leave a considerable number of oocysts capable of replicating if a large number were initially present. Moreover, it is difficult to know whether the parasite is present or not. It is comparable to searching for a grain of sand in a swimming pool. One oocyst may be capable of infecting in a person with a weakened immune system. The adequacy of preventive measures may in some cases depend on a combination of barriers with different log reductions attributed to each, to ensure a sufficient reduction is reached.
+Ultraviolet Irradiation
+[31]
+The limitations inherent in conventional water treatment systems and the costs and other negative factors associated with ozone and membrane filtration led to increased interest in North America in the use of ultraviolet light irradiation as a solution for Giardia and Crypto protozoa in the early to mid 1990's.
+[32]
+Ultraviolet light operates to disrupt replication in an organism by cross-linking its DNA or RNA double helix strands preventing their separation into two strands. This effect of UV light was known in the prior art, and the use of low levels of UV light as a disinfectant for bacteria and viruses in drinking water and waste water treatment was well established prior to the mid-1990's.
+[33]
+The standard units of measurement of UV energy are milliwatts per square centimetre (mW/sq cm). Doses are expressed in terms of intensity, time and area as milliwatt seconds per square centimetre or millijoules per square centimetre (mJ/cm²). A dose is the actual amount of energy delivered multiplied by the time taken to deliver it. The effect is the same whether the energy is transmitted intermittently or continuously.
+[34]
+In a typical medium pressure UV lamp, mercury vapour is maintained at a pressure of about 1000 mm, a pressure at which it produces a continuous broadband of ultraviolet light at wavelengths below 254 nm. In a typical low pressure UV lamp, the mercury pressure is about 10 mm of mercury or less, a pressure at which it produces ultraviolet light primarily at a single wavelength of 254 nanometers (nm) with smaller emissions at other wavelengths within the UV spectrum. UV may also be delivered by pulsed light systems which deliver bursts of high intensity UV light intermittently.
+[35]
+It was believed by many persons in the water treatment field in the early 1990s that a high dose of UV light, in the range of 3, 000 to 5, 000 mJ/cm², was necessary to "kill" or inactivate Crypto in the oocyst life-cycle stage. It was believed that it was difficult to penetrate the oocysts' membranes with UV light. The in vitro methods used in laboratories for assessing and measuring the effectiveness of UV light were excystation and vital dye staining. These tests were considered as reliable surrogates for the more lengthy and expensive in vivo method, mouse infectivity - described in the evidence as the "gold standard" of microbiological assays. The U.S. Environmental Protection Agency required animal infectivity studies to demonstrate the efficacy of inactivation technologies.
+[36]
+In assessing test results, it is important to remember that suspended solids in natural water can interfere with the absorption of UV light by organisms. Clarity is measured in nephelometric turbidity units (NTU). A turbidimeter estimates how light is scattered by suspended particulate material in the water.
+[37]
+As of 1996-1997, there were several thousand known UV installations using doses in the range of 10 to 40 mJ/cm² to treat water. UV disinfection was more widely practised in Europe than in North America. For example, Germany had developed a standard by 1997 and accredited eight manufacturers
+[38]
+The North American market for municipal UV systems pre-1998 was small due to the reliance upon chlorine to disinfect for bacteria and viruses. Calgon's research into the effectiveness of low doses of UV was a positive factor in the development of the municipal market. Prior to then, the bulk of Trojan's market was in waste water treatment and UV applications for residences and cottages.
+[39]
+As noted above, Waterloo suffered an outbreak of Cryptosporidiosis in 1993. Among other sources, the Regional Municipality of Waterloo takes water from infiltration wells adjacent to the Grand River. Under current Ontario regulations, those wells are potentially considered sources of "groundwater under the direct influence of surface water" or GUDI wells. For wells in that category, Waterloo uses UV as the primary disinfectant supported by residual chlorine. It has about ten of these wells and uses UV equipment manufactured by Calgon, Trojan and Wedeco.
+[40]
+UV systems for two Waterloo wells, one GUDI and one not, were commissioned and installed in October of 1996. At that time the provincial Ministry required extended contact time for the chlorine in the system and to provide that would have been extraordinarily costly. With the W-10 well, a GUDI well, Waterloo operates a Trojan 8000 UV reactor run in the 40- 60 mJ/cm² range. It was installed for bacteria and viruses. The Region has not tested for Crypto at that well as it would be difficult to establish whether it is present or not.
+[41]
+Log "credits" are assigned by regulatory agencies for the use of various disinfection methods. Waterloo currently receives a credit of 2.5 log for natural filtration in wells under the direct influence of surface water ("GUDI wells) and just .5 log for UV treatment. The minimum standard it needs to meet is 2 log. Waterloo also operates a Calgon Sentinel reactor at its Mannheim treatment facility which takes water directly from the Grand River. Given that the presence of Crypto in that river is well known, the targeted log reduction from the multiple barriers employed there is in the range of 5-7 logs. The plaintiff's witness Dr. Stanley, of the Edmonton water utility corporation Epcor, testified that any log reduction would be valuable to a water producer.
+The North Bay UV System
+[42]
+In August of 2000, Ontario introduced stricter water protection regulations following the contamination of the drinking water system in Walkerton, Ontario. North Bay's water at that time received no treatment other than chlorine. Its source, Trout Lake, was considered to be pristine apart from spring and fall inversion which produced increased turbidity (particulates) and colliform levels. In the aftermath of Walkerton, the Ontario Ministry of the Environment (MOE) advised the city that its treatment process must be capable of handling a higher risk of microbiological contamination including 99% (2 log) removal of Giardia. Crypto was not referenced at that time, but it was expected by the city to be included in the near future. There is no evidence that Crypto was in the lake or that it was expected to be present. The city had never had a Crypto outbreak and they had not tested for its presence.
+[43]
+North Bay retained the services of an environmental consultant to conduct a risk assessment of its Trout Lake water supply. That assessment indicated that Giardia was likely present in the lake from time to time and that there was "some chance" Crypto may also be present.
+[44]
+Further to the regulatory requirements, an engineering firm CH2M Hill Canada (CH2M) was hired to assess the available options. Four were considered: a new membrane filtration facility; adding an ozone contact tank; adding a chlorine contact tank; and ultraviolet irradiation. Membrane filtration was the preferred option but, at that time, it was very expensive. Additional chlorine would have had no effect on Crypto. Ozone was costly and complex to install and dangerous to operate. The UV option did not then have MOE approval. However, Trojan was prepared to install a pilot system to verify the log reduction at its own cost and CH2M recommended the city pursue that opportunity which it did. The testing was conducted over three months and was evaluated as successful.
+[45]
+North Bay officials sought to avoid having to adopt membrane filtration because of the major capital expenditures involved and because the lake source was normally pristine and within provincial turbidity guidelines. However, in April 2001 the lake experienced a significant "turbidity event" or inversion which led to a boil water advisory by the Medical Officer of Health. The conclusion reached by city officials as a result of that event was that they would have to seek funding for construction of a new filtration system. They have since done that and a new system is scheduled to come on line in 2008. They were advised that UV disinfection would not be effective at high turbidity levels. In the interim, city officials were under pressure to install additional protection and, on the advice of their consultants, considered UV disinfection to be the best temporary solution.
+[46]
+CH2M had a working relationship with Trojan. Trojan provided CH2M with research, test equipment and lab facilities. CH2M evaluated competing systems on the market for the city including Calgon's but recommended Trojan's system as best overall. It was open to the City to accept the recommendation to adopt UV irradiation through another company's products but clearly Trojan had the advantage of an established presence in the field and its relationship with CH2M. Calgon was a late arrival. It entered the market in 1996 and made its first sale of the Sentinel system in 1999. Trojan had made UV disinfection systems for waste water treatment and point of entry or point of use drinking water systems for over a decade.
+[47]
+The City Engineer, John Simmonds, recommended to Council that it accept CH2M's recommendation. Given the time pressures, there was no bidding process. City Council passed resolutions on July 9, 2001 to install UV equipment purchased from Trojan. In a document dated July 13, 2001 Trojan undertook to indemnify North Bay against any damages or costs incurred as a result of any legal action arising from a patent infringement claim. It appears that this was requested by CH2M on the city's behalf but there is no evidence that it was made known to the city before the purchase decision was made. In September 2001 Calgon had written to inform the city that the proposed UV treatment process was covered by its patent and that it was prepared to license use of the technology by the city. Mr. Simmonds testimony that he learned of the indemnity in October, 2001 following receipt of the Calgon letter is supported by a memorandum dated at that time.
+[48]
+Notwithstanding notice of the '525 patent, North Bay chose to proceed with the implementation of the Trojan system without seeking a license from Calgon or paying the fee. On the assumption that the city treats roughly 20 million gallons a day, the cost would be about $100,000 annually. In Mr. Simmonds words, they considered the patent "bonkers" and without validity.
+[49]
+In June 2002 the North Bay municipal plant began to process drinking water with UV irradiation. The Trojan Swift system employed by North Bay uses medium pressure lamps in continuous operation at a wavelength of 200-300 nm producing doses in the range of 40-50 mJ/cm². The city has now undertaken construction of an entirely new water treatment facility which will employ micro-filtration (2-3 microns), chlorination and UV irradiation in a multi-barrier system with built in redundancies.
+Background to the Patent Application
+[50]
+Dr. Stevens testified that he had been working with ultraviolet light in various applications for about 30 years. At a previous employer, Solarchem, acquired by Calgon in 1996, he had considered the use of UV to inactivate Crypto in 1993-94 but lacked the resources to develop the concept. Stevens stated that he and his colleagues were perplexed by the literature which indicated that very high doses were required in the range of many thousands of mJ/cm2 as the dosages required to inactivate bacteria and viruses were a thousand times lower. He said they could not understand why Crypto, another living thing with DNA, would behave differently. I take that to be an indication of what others with similar expertise would have thought at the same time.
+[51]
+Prior to acquiring Solarchem, Calgon had undertaken a literature review of UV applications for preventing Crypto infection. This review was conducted by a Dr. Bertrand Dussert, one of the three named inventors of the '525 patent. Dr. Stevens and Dr. James Bolton of the University of Western Ontario are the other two named inventors. Calgon then sponsored research by a Dr. Gerba of the University of Arizona to attempt to "bracket" the range of UV doses required to inactivate Crypto. They were not satisfied with Dr. Gerba's progress and in June of 1997, assembled a number of people active in the water treatment field to discuss research that was underway at that time. Included was Dr. Jennifer Clancy of a Vermont based firm, Clancy Environmental Consultants (CEC). Dr. Dussert had attended a presentation by Dr. Clancy earlier in 1997 that discussed the use of UV technologies for the inactivation of Crypto.
+[52]
+Following the June meeting, Calgon sought to engage Clancy to train Gerba's staff to carry out the research they wanted done. Clancy declined but offered to develop her own protocol if they wanted the work done by her firm. Stevens sent Clancy a request to budget a particular scope of work (Ex. D-51). That document appears to be the research protocol for which they had engaged Gerba as it refers to the use of Tucson and Phoenix tap water. Clancy preferred to develop her own proposal which she sent Calgon in July, 1997.
+[53]
+The object of the Gerba research, as disclosed by Ex.D-51, was to determine the dose necessary to inactivate Crypto up to 2 logs using both low and medium pressure lamps, to be measured by in vitro excystation tests for
+viability
+. Some animal infectivity assays were to be conducted with high pressure lamps at doses
+expected to kill
+99% and 99.9% of the oocysts (my emphasis). It does not appear, therefore, that Stevens and others  <FRAGMENT_SUPPRESSED>  were at that time pursuing the idea that irradiation at low doses would render oocysts incapable of replication. They were interested in finding out what range of dose would "kill the little buggers".
+[54]
+Dr. Clancy is a highly respected microbiologist with long experience in the drinking water field. She had managed water quality for a large municipal utility before opening her own firm and had been working on Crypto in water since the late 1980's. She also has a Masters degree in Environmental Law.
+[55]
+Clancy and her team had done research in 1995 and 1996 for a U.K. firm on Crypto inactivation with a UV device which the firm wished to market in the U.S. The research involved tests at flow rates of 100-400 gpm and verification of inactivation by excystation and mouse infectivity studies to meet EPA standards. This was described at trial as a "trap and zap" system as filters were employed to capture the oocysts whereupon they would be subjected to a dose of UV. The results of that study were published in the November 1997 proceedings of the Water Quality Technology Conference.
+[56]
+Clancy had also been conducting research under the auspices of the American Water Works Association Research Foundation (AWWARF) on methods for detecting Crypto in water and at the effectiveness of various disinfectants. That had led to a project, AWWARF 282, which involved research using a pulsed UV system supplied by INNOVOTECH, a company owned by Dr. Bob LaFrenz and also with a low pressure UV system. A subsequent project, AWWARF 395, which began in 1997 was co-funded by the United Kingdom Drinking Water Inspectorate and led by Dr, Clancy. The goal of AWWARF 395 was to compare animal infectivity with in vitro surrogate tests for Crypto inactivation. This project also involved the use of a pulsed UV system supplied by Dr. LaFrenz. Dr. Clancy gave a presentation on this research at the June 1997 meeting with Calgon.
+[57]
+The proposal Dr. Clancy submitted in July 1997 led to an agreement with Calgon in September 1997 to test the inactivation of Crypto oocysts with UV light over a broad range of doses from 100 to 10,000 mJ/cm². Under that agreement, CEC was to conduct in vitro excystation and vital dyes assays. Mouse infectivity studies were to be used to verify the results of the in vitro surrogates to satisfy EPA requirements. That part of that work was to be done by Dr. Marilyn Marshall of the University of Arizona who was also involved with the AWWARF research. Dr. Marshall was also under contract to Calgon.
+[58]
+Clancy and her team knew from their 1995-96 project that doses in the range of 4000 to 8000 mJs/cm² would inactivate Crypto oocysts to a greater than 4 log level but they did not know what the lower limits were. The object of the study plan developed for Calgon was to prepare a response curve showing the lowest doses required to be effective for 1 to 3 log reduction. The results were to be determined by in vitro assays and some would be verified by mouse infectivity studies.
+[59]
+As part of AWWARF 395, in September 1997 doses of 14, 40, 80 and 120 mJ/cm² were administered to viable oocysts with Dr. LaFrenz' pulsed UV system and the results were subjected to in vitro assays by CEC and to mouse infectivity tests by Dr. Marshall. As recorded in a fax from Dr. LaFrenz dated November 5, 1997 (Ex.D-55), none of the mice given the doses of UV irradiation at 14 and 40 mJ/cm² were infected while the control group given untreated oocysts were infected as expected. In my opinion, this was the source of the discovery that low levels of UV radiation could prevent Crypto replication and infection.
+[60]
+Dr. LaFrenz disclosed these results in a paper (Ex. D-56) presented at the Water Quality Technology Conference ("WQTC") held from November 9-12, 1997 along with similar results he had obtained in parallel research funded by the Electric Power Research Institute (EPRI) which dealt with the irradiation of flowing water. While the LaFrenz work was conducted with pulsed UV, the evidence is that a dose of UV light is the same whether the energy is delivered in pulses or continuously over time. Dosage is a factor of intensity and time. Dr. Stevens agreed with this on cross examination.
+[61]
+Upon learning of these mouse infectivity results from Dr. Marshall, Dr. Clancy concluded that the in vitro surrogates and mouse infectivity were measuring different things: the in vitro surrogates were measuring cell activity, not infection, and could not therefore correlate with mouse infectivity.
+[62]
+Dr. Clancy disclosed the AWWARF 395 results to Drs. Bolton, Stevens and Dussert by letter dated December 10, 1997 (Ex. D-1). The purpose of the letter was to report on the in vitro studies conducted for Calgon but Dr. Clancy went on to advise them of her conclusions about the lack of correlation between the in vitro surrogates and mouse infectivity drawn from the AWWARF 395 results. She described how at UV doses of 14 and 40 mJ/cm² the in vitro surrogates demonstrated only a 50% reduction in viability while the mouse data showed no infection. At that stage, the Calgon mouse infectivity data was not yet in. This was AWWARF data. In an accompanying draft report (Ex.D-58), Dr. Clancy indicated that the difference between the in vitro and the in vivo results was not a new phenomenon as it occurs in bacteria. The organism appears alive when looked at in the surrogate tests but is not infective because it cannot divide.
+[63]
+A reasonable inference is that it was this correspondence that taught Drs. Stevens, Bolton and Dussert that "you don't have to kill the little buggers", you just have to render them non-infectious by altering their DNA. Apart from Dr. Stevens' testimony, there is no evidence that they had the idea that this could be done previously.
+[64]
+As of December 10, 1997 CEC's Tom Hargy had performed UV exposures of Crypto oocysts for Calgon but the results of the mouse studies had not yet been obtained. This work was done in a petri dish using low and medium pressure lamps and a collimated beam apparatus supplied by the company. Hargy was trained by Dr. Jim Bolton in the use of the apparatus. Filters were used to diminish the radiance of the medium pressure lamp as the light would otherwise have been too intense. The low pressure doses administered ranged from 125 to 750 mJ/cm² and the medium from 150 to 1000 mJ/cm². Bolton subsequently recalculated the doses downward. The in vitro assay results from those doses were not consistent with the AWWARF 395 mouse infectivity results.
+[65]
+Dr. Marshall provided the mouse study data from the Calgon exposures to Dr. Clancy's team in a report dated January 26, 1998 (Ex. D-59). The samples sent to Marshall had been exposed to UV irradiation at doses of 300, 600 and 1000 mJ/cm². At those doses, no infection occurred in the treated mice but neither was there much infection in the control sample. The tests had to be repeated with a different oocyst isolate to achieve more consistent results. Marshall reported again on March 10, 1998 that the results from bench doses of 100, 200, 300 and 600 mJ/cm² were that no mice were infected, except for one anomaly in the 300 exposure group, while the expected proportion in the control group were infected. This translates into at least a 4 log reduction given the number of oocysts injected per mouse. If more had been used, the log reduction would have been higher.
+[66]
+To satisfy the verification requirements of the US Environmental Protection Agency which would determine whether Calgon received any log credits for its UV equipment, Calgon undertook a pilot challenge study at the Mannheim water treatment plant in Waterloo, Ontario in February-March of 1998. This was done by injecting oocysts into water which flowed from the plant through a Calgon Rayox UV reactor. Filters collected the post-treatment oocysts which were then assayed either in vitro or in vivo. CEC's Hargy also did the oocyst exposures for this pilot.
+[67]
+In an e-mail dated March 9, 1998 from Dr. Bolton to a number of people including Mr. Hargy, Bolton discusses the data from the field tests. He stated:
+"We now have preliminary data on the lab mouse infectivity experiments. Amazingly, even at the lowest UV dose applied (100 mWs/cm2) no mice got sick!!! This means that the doses we had planned for the field trip were too high..."
+[68]
+Mr. Hargy's evidence, supported by the documentary evidence, was that the field trials were conducted with doses of 100 to 300 mJ/cm². Bolton recalculated the lowest dose amounts down to approximately 19 mJ/cm². That resulted in a EPA verification statement that 3.9 logs of Crypto inactivation can be obtained with 20 mJ/cm. Hargy's uncontradicted evidence is that the lowest dose that can be directly attributed to the bench tests at the CEC lab or to the pilot tests at Waterloo was 50 mJ/cm². It is this data that was submitted as part of the patent specification in support of the claims.
+[69]
+It appears that Bolton recalculated the dosages administered in the bench and pilot tests several times before the patent claim date for two reasons. First, he had miscalculated correction factors for the filters employed in the bench tests. Secondly, the effect of light absorption in the water used in the pilot tests had not been taken into account. The mathematical model employed by Dr. Bolton to arrive at the claimed doses was not put into evidence by the plaintiff. Defendant's expert, Dr. Linden testified that a skilled person would not be able to determine how the dose was calculated from the specification. It also appears that there was no verification of the actual doses administered at the Mannheim plant.
+[70]
+I find from the evidence that exposures confirming the efficacy of a dose as low as 10 mJ/cm², as claimed in the patent, were not performed until after the May 13, 1998 claim date. I arrive at this conclusion from the testimony of Dr. Clancy and Mr. Hargy and the supporting pre-May 13, 1998 documentation. A report by Dr. Bolton dated April 6, 1999 and marked for identification as Ex. D-65 was not properly identified by a witness at trial and was, therefore, inadmissible.
+[71]
+In my view, the tests conducted for Calgon merely confirmed what had already been discovered through the AWWARF and EPRI research with LaFrenz' pulsed UV system. Low UV doses inactivated Crypto and that could only be verified with mouse infectivity studies as the in vitro surrogates did not correlate.
+[72]
+Bolton and Stevens sought to have Clancy and her associate, Dr. Bukhari, listed as inventors on Calgon's patent application submitted in May, 1998 in the U.S.. They declined. Dr. Clancy gave two reasons in her testimony. She did not want to be seen as aligned with one of the several firms employing UV technology and secondly, she did not believe that the research had disclosed a patentable invention. She conveyed only the first reason to Calgon at the time and cooperated to some extent in the preparation of the patent application.
+[73]
+Dr. Clancy candidly acknowledged that she was extremely upset when she learned that Calgon was asking for a licensing fee for using UV to treat drinking water as in her view, "UV was not a new technology. It had been used for treating drinking water for decades, since the turn of the previous century." Subsequent to the issuance of the patent, both Dr. Clancy and Mr. Hargy participated in discussions within the industry to find a way to neutralize its effects. Several strategies were considered, including litigation and attempts to persuade Calgon to put it in the public domain or to agree not to enforce it. Dr. Clancy went so far as to seek informal legal advice as to whether she could, at that stage, claim inventorship. This does not appear to have affected Clancy or Hargy's relationship with Calgon as CEC has continued to do work for the company until recently.
+[74]
+While it is clear that they were adverse in interest to Calgon, I did not find that Dr. Clancy's or Mr. Hargy's testimony on the facts was any less credible as a consequence of their views about the patent. To the contrary, they were straightforward, clear and precise witnesses.
+[75]
+It is clear from the considerable amount of evidence tendered by both sides on this subject, that Calgon's decision to exploit proprietary rights to the technology did not sit well with many in the water treatment field. Some felt that it should be made available at no cost in the interests of public health, particularly as much of the underlying research was funded by public bodies. There were also concerns that Calgon officials had participated in discussions about regulatory changes respecting the use of UV disinfection without disclosing their commercial strategy. In short, Calgon seems to have made a great many people angry over this patent. All this is irrelevant however if the patent is valid. Calgon would then be entitled to the full enjoyment of the monopoly granted by the patent including the right to license the use of the technology.
+ISSUES
+[76]
+On the consent of the parties, the issues to be determined at trial were fixed by the case management judge as follows:
+1. Infringement by North Bay and inducement or procuring of infringement by Trojan in respect of the North Bay installation;
+2. Validity of the patent;
+3. The plaintiff's entitlement to make an election between its damages and an accounting of the defendants' profits;
+4. The plaintiff's entitlement to injunctive relief and delivery up; and
+5. The plaintiff's entitlement to punitive or exemplary damages.
+[77]
+During the course of the trial and in closing argument, North Bay did not seriously contest that if the '525 patent is found to be valid, infringement by the City would be established.
+[78]
+If the patent is valid and infringement is found, North Bay acknowledges that the plaintiff is entitled to damages but disputes that an accounting of profits is appropriate in the circumstances. Trojan contests any finding of inducement or procuring.
+[79]
+With regard to validity, while obviousness was pleaded the defendants advised during the trial that they were no longer relying upon that allegation. The defendants also advanced a number of other challenges to the patent including inventorship, overbreadth, sufficiency of the specification and ambiguity.
+[80]
+This case turns on anticipation. That is the issue I propose to address in some detail. In the event that I may be found to have erred in my findings on validity, I will also indicate the findings I would have otherwise made on infringement and remedies.
+CLAIM CONSTRUCTION
+[81]
+The first task of the Court, before considering whether or not a patent is valid or infringed, is to construe the patent. Claim construction is a matter of law and the claim language must be read in an informed and purposive way. The key to purposive construction is the identification by the Court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential" elements of the invention:
+ <FRAGMENT_SUPPRESSED>  at para. 45 (
+Whirlpool
+);
+ <FRAGMENT_SUPPRESSED>  (
+Free World Trust
+).
+[82]
+Patent specifications are not addressed to specialists or the public generally; they are addressed to skilled individuals sufficiently versed in the art to which the patent relates to enable them on a technical level to appreciate the nature and description of the invention:
+Whirlpool
+, above at para. 53.
+[83]
+The words chosen by the patentee are read in the sense the inventor is presumed to have intended, and in a way that is sympathetic to accomplish the inventor's purpose expressed or implicit in the text of the claims. In addition, the involvement in claims construction of the skilled addressee holds out to the patentee the comfort that the claims will be read in light of the knowledge provided to the court by expert evidence on the technical meaning of the terms and concepts used in the claims:
+Free World Trust
+, above at para. 51.
+[84]
+Expert evidence is admissible at trial to determine what the common knowledge was at the time of the patent. Expert evidence may also be presented as to the meaning of words used in the claims:
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1997), 220 N.R. 58; 77 C.P.R.(3d) 126 (F.C.A.) at 127 (F.C.A.). The role of the expert is not to interpret the patent claims but to put the trial judge in the position of being able to do so in a knowledgeable way:
+Whirlpool
+at para. 57;
+Unilever plc v. Procter & Gamble Inc.
+(1995), 184 N.R. 378; 61 C.P.R.(3d) 499 (F.C.A.) at 506-07 (F.C.A.). Claims must also be read in context. The question is therefore what, at the date the patent was issued, a person skilled in the art at issue would have understood from a reading of the claims, together with any definitional assistance from the rest of the specification:
+Whirlpool
+, above at para. 54.
+The '525 Patent:
+[85]
+The field of the invention is described as follows:
+"The present invention relates to a method for preventing the replication of Cryptosporidium Parvum in water and in particular to a method for the prevention of cryptosporidium oocyst and similar organism infections in water using low levels of ultraviolet light."
+[86]
+I note in passing that the method disclosed does not prevent replication of Crypto or infections
+in water
+but this description should be understood as referring to replication and infection after ingestion of the water by a suitable host. The background indicates that the prior art generally recognized that it is necessary to kill or inactivate Crypto oocysts so that they don't infect and reference is made to several patents and publications which disclosed methods for "killing" the oocysts using high doses in excess of 3000 mJ/cm². As I will discuss further below with respect to the sufficiency of the specification, this discussion was neither accurate nor complete.
+[87]
+The advantages of the invention are said in the summary of the invention to be significantly lower power levels needed to achieve the desired results and substantial increases in the cost effectiveness of UV. The preferred embodiment was described in terms of the pilot test challenges carried out at Mannheim on a 111 litre (29.4 gal) UV reactor containing 6 one kilowatt Rayox medium pressure UV lamps mounted horizontally across a tower. The organisms were introduced upstream and collected on 1 micron filters after the reactor. Flow rate during the test was about 215 gallons per minute. The description of how the doses were calculated is as follows.
+"The UV doses were calculated from the average irradiance (determined from a sophisticated mathematical model of the reactor) times the residence time in the reactor (about 8.3s). The dose was varied by turning one or two lamps on and at low or high power."
+[88]
+No explanation is provided for the meaning of the "sophisticated mathematical model". A description of the in vitro assays conducted is followed by tables outlining the viability factors for those tests and the log reductions achieved by the mouse infectivity tests for doses in the range of 20 - 167 mJ/cm². Figure 1 is a chart of log reduction levels achieved for doses from approximately 10 to approximately 170 mJ/cm² as measured by in vitro assays and mouse infectivity studies. Figure 2 does the same for viability as measured by pilot and bench in vitro assays. As noted above, there appears to have been no verification of the actual doses administered and the evidence does not establish that the bench or pilot bio assays produced results for doses as low as 10 mJ/cm² prior to the claim date.
+[89]
+For convenience, I will reproduce the claims again with the construction issues highlighted:
+1.
+A method for the prevention of Cryptosporidium oocysts
+comprising irradiating water with a
+continuous broad band of ultraviolet light
+in doses of from about 10 mJ/cm2 to about 175 mJ/cm2.
+2. A method as set forth in claim 1 wherein said broad band is a
+frequency
+of 200 to 300 nm using a UV lamp.
+3. A method as set forth in claim 1 or 2 wherein said dose is from about 20 mJ/cm2 to about 30 mJ/cm2.
+4. A method as set forth in claim 1 wherein said broad band is a frequency of 200 to 300 nm using a
+medium pressure
+UV light. (Emphasis added to highlight the construction issues)
+[90]
+To assist the Court in construing the claims, the plaintiff tendered the opinion evidence of Dr. Christian Chauret, Associate Professor of Microbiology at Indiana University, Kokomo and Mr. Joseph Dinkel, Assistant Executive Director and Plant Manager for the West View Water Authority in Pittsburgh, Pennsylvania.
+[91]
+Dr. Chauret's qualifications as an expert in environmental matters related to water treatment were not disputed. While he has had no direct experience in the design and engineering of apparatus for UV disinfection he has conducted extensive research into water born contaminants including Crypto, has published on that subject and on UV disinfection and has been retained as a consultant on water treatment projects. Dr. Chauret was most helpful to the Court in explaining the nature of Crypto and the effects of UV water treatment on the protozoa, as summarized in the background above.
+[92]
+The defendants relied on the opinion evidence of Dr. Karl Linden, Associate Professor of Civil and Environmental Engineering at Duke University. Dr. Linden's PhD dissertation was in UV disinfection. He teaches a course in that field, is a founding member of the International Ultraviolet Association ("IUVA"), has published extensively in the field, advises the U.S. Environmental Protection Agency on its UV Disinfection Guidance Manual and is regularly consulted by water treatment operations in the US and abroad, including in Canada.
+[93]
+Dr. Linden's qualifications to provide expert opinion evidence were unquestioned. However, it was put to Dr. Linden that he had had discussions with Dr. Clancy and Mr. Hargy to "work towards attacking or invalidating the plaintiff". He denied that but acknowledged that the question had come up at meetings of IUVA. The organization decided to take no position on the issue until the facts of the case had been settled. Dr. Linden stated that he was not offended by the patent but concerned that as it read, it would be very difficult for water utilities to determine whether they would infringe it if they employed UV. I was satisfied that Dr. Linden did not lack objectivity in giving his testimony and I found his opinion evidence to be particularly clear and helpful.
+[94]
+Dr. Chauret described the "person skilled in the art" of potable water treatment to whom the patent is notionally addressed as being the holder of a Master's degree in civil or environmental engineering, microbiology or chemistry, and having an understanding of water treatment systems or at least a Bachelor's degree in those fields and several years of practical experience in water treatment. Dr. Linden's evidence was that he expected that such a person would have received formal university education but he would also require practical experience in water treatment by UV processes.
+[95]
+Mr. Dinkel was tendered as an expert in the operation of water treatment systems and was described by plaintiff's counsel as the prototypical person skilled in the art based on his long experience in the field, initially as an enlisted man trained by the U.S. Army and latterly with public water utilities. Mr. Dinkel lacks formal education in any of the fields described by the two professors - he has a degree in Industrial Management - but otherwise fits the profile of the "competent, skilled workman". Mr. Dinkel's knowledge and understanding at the relevant time was effectively challenged on cross-examination by the defense. For example, he had no knowledge or experience of UV systems prior to November 1999 and then gained much of his knowledge through personal research on the Internet. With some reservations, Mr. Dinkel was accepted as qualified to provide opinion evidence.
+[96]
+Having heard his evidence, I doubt that Mr. Dinkel understood that as an expert he was expected to be entirely objective. It appears that Mr. Dinkel was instrumental in persuading his board of directors to choose a Calgon UV reactor for his plant. Calgon waived the license fee for that installation because Mr. Dinkel, as part of the deal, agreed to provide tours to prospective Calgon customers. The manner in which Mr. Dinkel testified did not inspire confidence either. He appeared to seek reassurance on cross-examination by looking to Plaintiff's counsel after each answer and his grasp of the science involved was shaky. If the Court erred in admitting his expert opinion evidence, the result I think was more helpful to the defendants than to the plaintiff. His evidence was more consistent with that of Dr. Linden than that of Dr. Chauret.
+[97]
+I am not persuaded that the ordinary person skilled in the art in the context of this case would be a person without the formal education required to understand the science underlying the disinfectant effects of UV radiation. I find that such a person would require at least a basic university degree in engineering, biology or chemistry and an understanding of UV technology as well as several years experience with drinking water treatment systems.
+[98]
+Approaching the construction of the claims with a mind willing to understand and to give effect to the specifications, I note first that the claims do not contain any limitation that the water irradiated must be flowing. That could be inferred from the description of the preferred embodiment which describes the manner in which the pilot tests were carried out and appears to be a practical application of the invention but as I read the claims, it is not an essential element. The method could be practised with water in a static container.
+[99]
+There is no indication that dose is to be determined by the average irradiance and the resident time of the water in the UV reactor. However, that would be understood by the ordinary person skilled in the art applying the equation: intensity x time.
+[100]
+There is no dispute between the parties that the patent is directed at potable water and not waste water treatment. It is also common ground that the word "frequency" was likely used in error and should be read as "wavelength". Claim 3 narrows the range of dose claimed and, in any event, does not apply to the North Bay system as the dose of ultraviolet light used there is in the range of 40 to 50 mJ/cm2.
+[101]
+Claim 4 adds the limitation that the UV lamp of the prior claims is limited to a medium pressure lamp. Dr. Chauret acknowledged on cross-examination that in claims 1, 2 and 3 you could use either a low pressure or a medium pressure lamp for the UV source, both were known in the prior art and use of a medium pressure lamp was not inventive. What was inventive, in his view, was the use of a low dose. While the preferred embodiment refers to the medium pressure lamp used in the pilot tests, there is no indication that that is the only way in which they could have been conducted. I conclude that the reference to a medium pressure lamp is not an essential element of the claims.
+[102]
+There was some variation in the expert evidence on the meaning to be given to the phrase "a method for the prevention of Cryptosporidium oocysts" and the parties differ as to the meaning of the word "continuous".
+"A method for the prevention of Cryptosporidium oocysts"
+[103]
+I note that this phrase does not expressly refer to the prevention of Cryptosporidiosis but rather to prevention of the oocysts themselves. However, each of the experts construed it in reference to infection. In his report, Dr. Charest stated that this phrase indicates that the purpose of the method is to prevent infection which is achieved by rendering the oocysts incapable of reproduction. In his view, the method claimed by the patent was only complete when irradiated protozoa had been ingested and failed to replicate in the intestines by reason of their DNA having been cross-linked. On cross-examination Dr. Chauret agreed with the suggestion that the mechanism that renders Crypto non-infectious occurs when the Crypto passes through a curtain of UV light outside the host. That is also the plaintiff's position - the method is complete when oocysts are irradiated and DNA cross-linking occurs.
+[104]
+Dr. Linden's evidence was that a person skilled in the art would understand the phrase to mean a method that stops Crypto in the oocyst life-cycle stage from replicating, thereby eliminating
+the potential
+for parasitic infection resulting from the ingestion of water containing Crypto oocysts. For Mr. Dinkel the meaning was that of a method of preventing the oocysts from infecting humans or animals. These constructions are, in my view, consistent.
+[105]
+Dr.Chauret stated on cross-examination that the method is being practised if Crypto could be expected to be in the water even where the use of UV disinfection in the prescribed doses is being used to deal with another infectious agent such as bacteria or viruses. The method is being practised in a stand-by mode awaiting the possible arrival of Crypto oocysts if it is being used to irradiate water for any purpose. On further cross-examination, Dr. Chauret agreed with the suggestion that Crypto must be present in the irradiated water in order for the claimed method to be practised.
+[106]
+Mr. Dinkel took a different view on cross-examination. On his reading of the claims, Crypto did not have to be in the water or expected to be in the water to practice the claimed method so long as UV irradiation was used in the prescribed doses. That is consistent with Dr. Linden's evidence. In Dr. Linden's opinion, the claims do not indicate the presence or the expectation of the presence of Crypto in the water. Whether it appears once a day, once a year or never, the method is being practised as the barrier is there. That appears to me to be the correct construction.
+[107]
+No minimum level of log reduction is provided for the range of doses claimed. The patent specification indicates what results were achieved by the bench and pilot tests performed but does not disclose that the practical effectiveness of the invention correlates to a particular log reduction level. I can't see how the test results serve as a limitation on the scope of the claims, as the plaintiff suggests. The experts all appear to agree that any level of log reduction will prevent replication of Crypto oocysts and infection. Factors such as the clarity of the water and the concentration of oocysts will affect this. In some cases, less than 1 log will be effective. In others, more than 5 log reduction may not be enough to prevent infection if sufficient oocysts escape irradiation.
+"A continuous broad band of ultraviolet light"
+[108]
+In Dr. Chauret's opinion, the term "continuous" would be understood to mean a lamp which is turned on constantly during the relevant time period as distinct from a pulsed lamp that would emit high doses intermittently. The term "broad band of ultraviolet light" means emissions of multiple wavelengths within a defined range of wavelengths. Claims 2 and 4 define that range as 200 to 300 nm. As noted above, the unit of measurement used is in wavelength not frequency and the parties agree that the use of the latter term in the claims was in error.
+[109]
+Dr. Linden's evidence was that the term "continuous" in this context was ambiguous and could be understood by the person skilled in the art as meaning either continuous in time or continuous in spectrum. The latter interpretation could include both low and medium pressure non-pulsed lamps and pulsed lamps. When pressed in cross-examination as to how that was consistent with the patent specification, he noted that the disclosure included a pulsed UV system and the only use of the term 'continuous' was as part of the phrase "a continuous ultraviolet spectrum". However, that was in reference to a medium pressure lamp which emits UV continuously in time. The pulsed system disclosed was based on a high intensity lamp. I agree with the plaintiff and Dr. Chauret that the specification makes it clear that the reference in the claims to a continuous broad band of ultraviolet light means continuous in time and not pulsed.
+Conclusion on Construction:
+[110]
+The essential elements of the '525 patent in my opinion are:
+- the irradiation of drinking water,
+- with continuous in time ultraviolet light,
+- in wavelengths of 200 to 300 nm,
+- generating doses in the range of 10 mJ/cm² to 175 mJ/cm,
+- to prevent infection by Cryptosporidium oocysts.
+VALIDITY
+[111]
+An issued subsisting Canadian patent is presumed to be valid during its full term of 20 years from the date of filing, pursuant to section 43(2) of the
+Patent Act
+, R.S.C. 1985, c. P- 4.
+[112]
+The statutory presumption imposes an onus on the party attacking the patent to prove invalidity. The party attacking a patent must prove its invalidity on a balance of probabilities, failing which, the presumption prevails:
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED> ; 258 N.R. 238; 6 C.P.R.(4th) 285 ( <FRAGMENT_SUPPRESSED> ; 215 F.T.R. 100; 2001 FCT 1404, aff'd, [2003] F.C.J. No. 536; 303 N.R. 76; 2003 FCA 168.
+[113]
+An "invention", as defined by s. 2 of the
+Act
+, means any "new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter". For a patent to be valid, the claimed invention must be new, useful and inventive:
+ <FRAGMENT_SUPPRESSED> ; 166 F.T.R. 161; 1 C.P.R.(4th) 22 (T.D.), at para. 62 (T.D.) ( <FRAGMENT_SUPPRESSED> ). As noted by the Supreme Court, as a general rule, if the patent holder obtains a monopoly for something which does not fulfill the statutory requirements of novelty, ingenuity and utility, then the public is short-changed:
+ <FRAGMENT_SUPPRESSED>  at para. 1. The question of whether a patent claim is novel, is often addressed by the courts in terms of its antithesis, wherein it is asked whether the claimed invention was "anticipated".
+Anticipation
+[114]
+To determine whether a patent claim is "new" is to consider whether it has been anticipated, that is whether it was already known to the public and thus cannot be the subject of a monopoly. Section 28.2 of the
+Act
+requires that the subject matter of a claim must not have been disclosed prior to the claim date in such a manner that it became available to the public in Canada or elsewhere. The claim date is the filing date of the patent application. In this case, it is the date of the filing of the U.S. application on May 13, 1998.
+[115]
+Prior disclosure of the claimed invention can be in the form of a prior publication, oral disclosure, sale, or use, provided the invention is made available to the public. This case raises issues of anticipation by disclosure through publication and use. The test for anticipation by publication was described by Hugessen, J.A., as he then was, in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.) ( <FRAGMENT_SUPPRESSED> ):
+"One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[116]
+This was echoed in
+Free World Trust
+, above, by Binnie, J., who explained, at para. 25, that anticipation by publication is a difficult test to meet because, after an invention has been disclosed, it is all too easy to find its antecedents in bits and pieces of earlier learning. Evidence of prior use should also be given close scrutiny when viewed retrospectively:
+Diversified  <FRAGMENT_SUPPRESSED>  at 363.
+[117]
+For a prior public use to anticipate an invention, it must amount to enabling disclosure, that is, the disclosure has to be such as to enable the public to make or obtain the invention:
+ <FRAGMENT_SUPPRESSED>  at para. 42, (
+Baker Petrolite
+) drawing upon
+ <FRAGMENT_SUPPRESSED>  N.R. 364 (H.L.) (
+Merrell Dow
+).
+[118]
+For the purpose of analysing anticipation in the context of disclosure by prior sale or use, the principles addressed in <FRAGMENT_SUPPRESSED> and
+Free World Trust
+, above in relation to anticipation by prior publication, may need to be "tailored to fit the particular circumstances":
+Baker Petrolite
+at para. 35. At paragraph 35 of
+Baker Petrolite
+, Justice Rothstein notes by way of example that anticipation by publication involves the skilled person reading the prior art. With anticipation by sale or use, reading may not be relevant.
+[119]
+In
+Merrell Dow
+, Lord Hoffman referred to what he described as a gap between the tests for anticipation and infringement arising from implementation of the European Patent Convention through the
+UK Patent Act 1977
+. He concluded that the 1977 statute introduced a substantial qualification into the old principle that a patent cannot be used to stop someone doing what he has done before. This principle has frequently been expressed as "what amounts to infringement, if posterior, should, as a general rule, amount to anticipation, if anterior":
+ <FRAGMENT_SUPPRESSED>  (
+Lightning Fastener
+). Lord Hoffman concluded that this is no longer the case, hence the gap, subject to section 64 of the
+1977 Act
+(which is similar to section 56 of the
+Canadian Patent Act
+) which provides to some extent for situations where a person was, before the priority date, doing an act which would have been an infringement if the patent was in force.
+[120]
+Section 2 of the
+1977 U.K. Act
+provides that an invention shall be taken to be new if it does not form part of the state of the art. The state of the art is "all matter (whether a product, a process, information about either, or anything else) which has at any time before the priority date of that invention been made available to the public ... by written or oral description, by use or in any other way". This is similar to the test in s. 28.2 of the
+Canadian Act
+. The gap described by Lord Hoffman appears to have been imported into Canadian law.
+[121]
+Applying these definitions, Lord Hoffman observed that making available to the public requires the communication of information and that the use of a product makes the invention part of the state of the art only so far as that use makes available the necessary information. Acts done secretly or without knowledge of the relevant facts, which would amount to infringement after the grant of the patent, will not count as anticipation. The question to be decided is what has been "made available" to the public: the question is not what may have been "inherent" in what has previously been used. The intuitive response to that question would be wrong:
+Merrell Dow
+at pp. 86-87.
+[122]
+Lord Hoffman more recently described enabling disclosure as being "concerned with teaching the public how the invention works, not with devising the invention in the first place"...the question is no longer what the skilled person would think the disclosure meant but whether he would be able to work the invention which the court has held it to disclose:
+ <FRAGMENT_SUPPRESSED> ; [2006] R.P.C.10 ( <FRAGMENT_SUPPRESSED> ).
+[123]
+Disclosure means that the matter relied upon as prior art must disclose subject matter which if performed would necessarily result in an infringement of the patent. It is not necessary that such disclosure be apparent to anyone at the time. Enabling means that the ordinary skilled person would have been able to perform the invention which satisfies the requirement of disclosure: <FRAGMENT_SUPPRESSED> , at para. 26. The invention that must be enabled is the one disclosed by the prior art. As stated by Lord Hoffman at paragraph 33 of <FRAGMENT_SUPPRESSED> :
+"It makes no sense to inquire as to whether the prior disclosure enables the skilled person to perform the patented invention, since ex hypothesi in such a case the skilled person will not even realise that he is doing so."
+[124]
+In
+Baker Petrolite
+, Justice Rothstein noted that in Canada amendments made effective on October 1, 1989, and continued in the
+1996 Patent Act
+eliminated use or sale of the invention per se as sufficient evidence of anticipation. The test for anticipation by any means became disclosure of "the subject matter defined by a patent claim" ... "in such a manner that the subject matter became available to the public in Canada or elsewhere".
+[125]
+Justice Rothstein's analysis in
+Baker Petrolite
+has not, in my view, been altered by the recent decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (
+Abbott Laboratories
+), drawn to my attention by counsel for the defendants following the trial. In
+Abbott Laboratories
+, which concerned proceedings under the
+Patented Medecines (Notice of Compliance Regulations)
+, SOR/93-133, the Court of Appeal found that a product claim was anticipated by a prior reference. In the course of her reasons for the Court, Justice Sharlow noted that the use of the term
+inherent
+in the notice of allegation was synonymous with anticipation and cited Rinfret, J.'s, adage from
+Lightning Fastener
+, above, that what would infringe if later, anticipates if earlier. She further quoted from Lord Hoffman's opinion in <FRAGMENT_SUPPRESSED> , above, at paragraph 22:
+"[...] the matter relied upon as prior art must disclose subject-matter which, if performed, would necessarily result in an infringement of the patent. That may be because the prior art discloses the same invention. In that case there will be no question that performance of the earlier invention would infringe and usually it will be apparent to someone who is aware of both the prior art and the patent that it will do so. But patent infringement does not require that one should be aware that one is infringing: 'whether or not a person is working [an] ... invention is an objective fact independent of what he knows or thinks about what he is doing':
+ <FRAGMENT_SUPPRESSED> .
+It follows that, whether or not it would be apparent to anyone at the time, whenever subject-matter described in the prior disclosure is capable of being performed and is such that, if performed, it must result in the patent being infringed, the disclosure condition is satisfied. The flag has been planted, even though the author or maker of the prior art was not aware that he was doing so.
+" (Emphasis added here - not by the Court of Appeal)
+[126]
+In my view, <FRAGMENT_SUPPRESSED> and
+Abbott Laboratories
+reinforce the conclusion reached  <FRAGMENT_SUPPRESSED>  Dow
+and
+Baker Petrolite
+that use alone is insufficient to qualify as anticipation. Enabling disclosure is required. It is not however necessary for the defendants to demonstrate that anyone was aware of the implications of the disclosure at the time to establish anticipation.
+[127]
+Following the trial, counsel for the defendants also brought to my attention the decision of the United States District Court for the District of New Jersey in
+ <FRAGMENT_SUPPRESSED>  a decision on three motions for summary judgment concerning the validity of U.S. '803 patent, the claims of which are equivalent to the '525 patent at issue in these proceedings, and a related patent for the inactivation of Giardia in drinking water (the '893 patent).
+[128]
+At issue in <FRAGMENT_SUPPRESSED> was whether use of the prior art, a UV disinfection process, was patentably new when applied to the inactivation of Crypto and Giardia. U.S.C. § 102 precludes patents for inventions that had been in use in the U.S. more than a year prior to the claim date. The evidence was that UV light had been in use in the U.S. to disinfect drinking water since 1916. Calgon's experts conceded that if UV treatment within the scope of the claims was being employed to deal with bacteria, Crypto was also inactivated. Judge Greenaway found that the patent was invalid as anticipated by the publication of a 1993 scientific paper by Ransome and others, and by public use at Fort Benton, Montana, both of which will be discussed further below.
+[129]
+As described in <FRAGMENT_SUPPRESSED> , under U.S. law anticipation may be express or inherent. A prior art reference may anticipate without disclosing a feature of the claimed invention if that missing characteristic is necessarily present in the single anticipating reference:
+ <FRAGMENT_SUPPRESSED>  at 1343 (Fed. Cir.) ( <FRAGMENT_SUPPRESSED> ). Alternatively, "[a] reference includes an inherent characteristic if that characteristic is the 'natural result' flowing from the reference's explicitly explicated limitations":
+ <FRAGMENT_SUPPRESSED>  at 970 (Fed. Cir.). It appears that reduction to actual practice is not required so long as the requirement for disclosure is satisfied: <FRAGMENT_SUPPRESSED> , above at 16 citing <FRAGMENT_SUPPRESSED> , above at 1344.
+[130]
+The U.S. Federal Circuit Court of Appeal has held that the inherent anticipation principle applies to method or process patents: "[n]ewly discovered results of known processes directed to the same purpose are not patentable because such results are inherent."... <FRAGMENT_SUPPRESSED> , above at 25 citing
+ <FRAGMENT_SUPPRESSED>  at 1374 (Fed. Cir.).
+[131]
+Counsel for the plaintiff submitted by correspondence that I should disregard Judge Greenaway's decision as being of "no assistance" for several reasons: it is not a final judgment and is currently under appeal; it is limited to the context of a summary judgment motion; it was based on an incomplete evidentiary record which was not the same record before this Court; and, it is premised on legal reasoning that has no application in Canada, notably with respect to claim construction and anticipation.
+[132]
+There are significant differences between U.S. and Canadian patent law and procedure which make it dangerous to rely upon the U.S. authorities. I note, for example, that the court in <FRAGMENT_SUPPRESSED> relied in part upon the U.S. prosecution history ("file wrapper" evidence) which is, generally, not the practice in Canada:
+Free World Trust
+, above at para. 66. Moreover, the "gap" described by Lord Hoffman does not appear to be part of U.S. patent law.
+[133]
+As outlined  <FRAGMENT_SUPPRESSED>  Dow
+and
+Baker  <FRAGMENT_SUPPRESSED> , the focus under Canadian law in determining whether the patented process or method is new, must be on whether the prior disclosure, sale or use amounts to an
+enabling disclosure
+of the method and not whether it was necessarily present or a natural result of the process.
+[134]
+Judge Greenaway found that what Calgon discovered was not a "new use" of a known process, which is patentable under
+U.S. Code § 101
+, but rather a newly discovered result of an old process. He concluded:
+"The UV treatment of water is a known process. The inactivation of Crypto and Giardia are newly discovered results of the known process: the old UV water disinfection method inactivates Crypto and Giardia along with bacteria and viruses. As such...the newly discovered results are unpatentable because they are inherently anticipated. <FRAGMENT_SUPPRESSED> , p. 25."
+[135]
+In contrast, in the summary judgment appeal decision in this case, Justice Rothstein concluded, at para. 19:
+"[I]rradiating water for Crypto using low doses of UV light, while not a new method itself, constitutes a newly discovered use for that method and therefore is a new and useful art."
+[136]
+On the evidence heard at trial, I am unable to reach the same finding. In my view, the defendants have established on a balance of probabilities that there were enabling disclosures of the invention by use and by publication prior to the claim date and that the use, therefore, was not new.
+The Prior Use at Fort Benton, Montana
+[137]
+The City of Fort Benton sits on the banks of the muddy Missouri River. It is downstream from cities and towns that discharge their sewage into the river. There is abundant wildlife and livestock in the watershed. Tailings from mining operations wash into the river. At Fort Benton, the Missouri is meandering and slow except during spring run off or heavy rains. There is high turbidity in the water from suspended solids.
+[138]
+Prior to 1987 the City had been treating surface water from the Missouri with conventional slow sand filtration which had to be periodically backwashed into the river. The State of Montana insisted that the town, at considerable cost, filter that backwash before discharging it back into the river. Fort Benton decided to install an "induced infiltration radial well system" known as the Ranney Method. This involved sinking a concrete caisson next to the river from which five horizontal perforated pipes were pushed underneath the riverbed. The pipes absorb water from the surrounding material. Four of the pipes draw water directly from the river through the silt and gravel in the riverbed. The silt and gravel acts as a filtration system removing particulates much as a conventional filtration system would. The water thus obtained from these horizontal pipes collects in the caisson and is piped from there into the town's water system.
+[139]
+The fifth pipe was installed too close to the river bank and draws groundwater which is considerably harder than that in the river. If the groundwater was allowed to mix with the river water it caused problems. That groundwater is pumped out of the system and discharged into the river downstream.
+[140]
+In Montana in the late 1980's deep wells extracting pure groundwater were not required to be chlorinated. The State required Fort Benton to chlorinate the water collected by the Ranney system. The City's distribution system did not allow for sufficient contact time with the chlorine to satisfy the State authorities. Reconstruction of the system would have been very expensive. Fort Benton looked for an alternative and found one in the UV systems used in Europe. In 1987 it bought and installed an Aquionics brand system made in England, but not without a fight with the State regulators.
+[141]
+As described in a September 1996 U.S. Environmental Protection Agency publication (Ex. D-20-H), Fort Benton uses medium pressure mercury arc tubes generating UV radiation including radiation at 253.7 nm. The initial dosage delivered is 41 mWs/cm² (=mJ/cm²) and the minimum at the end of a lamp's working life is 25 mWs/cm². Lower doses could be experienced if the lamp were dirty and higher if the flow were reduced for any reason. In 1999, the water system was upgraded somewhat and dose meters were installed. The dose meters confirm the prior understanding of dose ranges.
+[142]
+As witness Tim Farwick put it, Fort Benton has a "very shallow well that is right out of a river" and the state would not initially allow UV disinfection as an alternative to residual chlorine until extensive testing was conducted at the site. Test samples taken from the caisson in 1987 upstream from the UV chamber showed a high colliform count. Samples taken from the water after UV irradiation repeatedly showed no colliform. As a result, the State decided to treat the water at Fort Benton as ground water relieving the City of regulatory requirements applicable to surface water sources. Had the source been true ground water, chlorination would not have been required. As it was, Fort Benton had to chlorinate but did not have to maintain the contact levels to each point of use which the State required of surface water sources. In effect, a compromise was reached.
+[143]
+The State's designation of the source at Fort Benton as groundwater may be charitably characterized as an easy way out of a regulatory dilemma. The good citizens of Fort Benton were not about to accept a designation that would force them to install a needless and expensive chlorine contact tank and additional pipes to their storage facility. It is clear from the Engineer's Report describing the 1987 installation (Ex.D-21) that the only source of water of reasonable quality in the area was the Missouri River as the groundwater was highly mineralized thus precluding conventional wells. A 1996 EPA document surveying UV systems in operation classified the water source at Fort Benton as surface water "from the Missouri River" (Ex. D-69-E).
+[144]
+Dr. Linden testified that the EPA currently allows only half a log credit for Crypto removal from horizontal infiltration wells with laterals 25 feet under the river bed. The fine silt on the river bottom which can act as an effective filter may be displaced during high flows. The underlying gravel is more porous allowing micro-organisms such as Crypto into the wells.
+[145]
+In the performance guarantee provided to Fort Benton in August 1987 (Ex.P-13), Aquionics specifically excluded "deactivation of cysts such as Giardia" from its warranty. There is no direct evidence as to why that was done. Mr. Farwick testified that Giardia was not found when tests were conducted in the late 80's. In any event, notwithstanding the disclaimer, Mr. Farwick was confident from what he was told by the Aquionics personnel who installed the system that it could deal with Giardia. I note that in the material provided by Aquionics to Fort Benton to explain UV disinfection (Ex. D-20(f)) is the following statement:
+'The ultraviolet wavelengths of 200 -- 290 nm penetrate cell membranes to disrupt the DNA molecules preventing cell replication with a maximum effectiveness around 260 nm, depending on the organism. ... there are
+no micro organisms known to be resistant to UV
+which, unlike chlorination, is highly effective against bacteria, viruses, algae, molds and yeasts. In practice bacteria and viruses are the cause of the major waterborne pathogenic diseases." (Emphasis added)
+[146]
+In special samples taken in 1993, colliform was found in the caisson water prior to the UV chamber. From time to time, Mr. Farwick testified, he would find other elements in the caisson water, such as algae and microorganisms, and would have to shock the system with a heavy dose of chlorine to disinfect it. This indicates that notwithstanding the filtering effects of the silt and gravel in the river bottom, surface water contaminants entered the caisson through the Ranney laterals, particularly when there had been a heavy run-off in the watershed. Dr. Chauret agreed with that assessment on cross-examination. I note that Mr. Dinkel understood that this would happen when the river bottom was scoured during high flow periods. As a result, he stated, "no one could place any great credence in the filtration capacity of the river bottom at the Ranney collector."
+[147]
+The Fort Benton system was publicly disclosed in Aquionics publicity materials and EPA documents and attracted attention as the first example of a municipal UV water treatment facility in the U.S. Mr. Farwick gave interviews and tours and responded to telephone calls and correspondence about the facility well before the claim date. The system was open and available to the public for inspection, at least prior to September 11, 2001.
+[148]
+As noted above, Crypto became an issue for water system operators following the Milwaukee outbreak in 1993. Mr. Farwick testified that he attended a training program put on by the State in 1995 that instructed operators on how to make a preliminary assessment as to whether their water source was groundwater under the direct influence of surface water, and thereby at risk of contamination. By his calculation, using the index factors provided by the State (Ex. D-38), the Fort Benton source fell into that category by a wide margin. Mr. Farwick then contacted an Aquionics engineer to tell him of his concerns about Crypto and was assured that the UV system at Fort Benton "could easily handle that situation".
+[149]
+Despite efforts to impeach Mr. Farwick's recollection about these events, I am satisfied that he sought and obtained assurances that the UV system he was operating at Fort Benton could cope with the threat if Crypto appeared in the Missouri and made its way through the silt and gravel of the river bottom and into the Ranney collectors.
+[150]
+I am satisfied from Mr. Farwick's evidence that the conversation in question took place well before the claim date and that this was an enabling disclosure of the fact that the Fort Benton system prevents infection from Crypto by irradiating the water flowing through its pipes with a continuous broadband of UV light from medium pressure lamps within wavelengths of 200 to 300 nm in doses that can vary from about 10 mJ/cm² to about 175 mJ/cm².
+[151]
+In the alternative, I note that in Dr. Linden's opinion, the September 1996 U.S. EPA publication describing the UV system used at Fort Benton would have provided the skilled person with the information to practise the method claimed in the '525 patent. A skilled person would also know from Dr. Clancy's 1997 paper (D-69-J) that Crypto infectivity in a flow through system such as at Fort Benton could be determined by performing a challenge study using neonatal mice. This is, in effect, what the pilot tests at Mannheim accomplished in the spring of 1998 to provide the EPA with verification that the Calgon Rayox (later Sentinel) UV reactor would perform as claimed. But what they verified then was already being done at Fort Benton.
+The NSF-ETV Disclosure:
+[152]
+Dr. Clancy prepared a presentation for the April 20, 1998 meeting of the National Sanitation Foundation, Environmental Technology Verification Steering Committee (NSF-ETV) entitled "The Use of Animal Infectivity for Demonstrating Cryptosporidium parvum Oocyst Inactivation". The NSF-ETV serves as a national verification process in the U.S. for evaluating drinking water technologies and the committee meeting was attended by a broad range of interested parties. The paper prepared for that meeting (Ex.D-60) bears Dr. Clancy's name and that of Dr. Marshall, in addition to Thomas Hargy of CEC and Frank Schaefer of the US E.P.A., all of whom were part of the AWWARF project team. It was described as the Marshall paper at trial. The object of presenting the paper, as described by Dr. Clancy and Mr. Hargy in their testimony, was to advocate for mouse infectivity as the standard to evaluate UV systems rather than merely as verification of in vitro findings.
+[153]
+The NSF-ETV paper describes the AWWARF 282 and 395 findings and those from "Study III - Medium Pressure UV Inactivation of Cryptosporidium parvum", the work conducted under the Calgon contract. The last page of the paper contains a chart referencing exposures of 81, 163, 244 and 488 mWs/cm² and the results obtained with in vitro surrogates and animal infectivity assays. Dr. Clancy testified that these exposures did not reflect the actual doses administered but Dr. Bolton's initial recalculation. In the final publication of this work, as disclosed in the patent, the doses are about half these values. A dose of 100 was recalculated as 81 and then again recalculated to about 40 mJ/cm². But the lower doses disclosed on the chart are within the range claimed.
+[154]
+Under the terms of the letter contract signed on September 22, 1997, Dr. Clancy and her staff were bound to hold any information acquired as a result confidential for the term of the agreement, specified as being for the period from September 29, 1997 to December 31, 1997. As the work continued beyond the latter date, the confidentiality agreement may have been at least implicitly extended but no record of that was tendered in evidence. Under the agreement, information in the public domain was excluded. The confidentiality agreement also did not apply to research conducted by Clancy's firm under other arrangements including the AWWARF 395 project which was still underway at that time.
+[155]
+In an e-mail to Dr. Clancy dated April 2, 1998 Dr Stevens stated:
+"Jenn, Thanks for the update and the info on the upcoming meeting. I have discussed your suggestion regarding publication of the lab data with Jim, and we both feel that it's a good idea. He will be in touch with you to co-ordinate our input."
+[156]
+Dr. Clancy testified on direct examination that she understood that message to refer to the April NSF-ETV meeting. On cross-examination she acknowledged that it may have been meant to refer to the June AWWA meeting in Dallas. In any event, it is not at all clear that Dr. Clancy and her staff remained bound by the confidentiality agreement in April, 1998. I note that Calgon has taken no action against Dr. Clancy for breach of confidence. To the contrary, it continued to offer her more work.
+[157]
+Clancy did not attend the April 20, 1998 meeting in Cincinnati. Dr. Marshall and Tom Hargy were present. Hargy testified that the paper prepared by Dr. Clancy was printed and copied before he left for Cincinnati and that he took the copies with him and did not bring them home. He could not recall who handed them out at the meeting. The minutes of the meeting (Ex. P-31) indicate that a discussion respecting methods for determining Crypto viability took place and that both Hargy and Marshall spoke to the issue. I have no difficulty in finding that the paper was distributed at the meeting and constitutes a public disclosure of the Calgon test results from March 1998.
+[158]
+The plaintiff attempted to impeach Mr. Hargy's recollection of these events by tendering a document from the file of an EPA official who also attended the meeting. The official did not testify but provided a certified true copy of what he had in his meeting file by statutory declaration. That document (Ex.P-32) consists of two pages of charts which are similar to the charts at the end of the Marshall paper (D-60). The font is larger and Mr. Hargy speculated that it may have been a printed copy of the overhead transparencies used by Dr. Marshall to explain the results of the mouse infectivity studies. Dr. Marshall did not testify at the trial. In my view, Ex. P-32 does not contradict Mr. Hargy's account as to what transpired at the meeting. I am satisfied that there was an enabling disclosure of information sufficient to practise the invention at that meeting.
+[159]
+There are some slight differences between the last chart in P-32 and that in D-60 which I do not find to be material. Both indicate that the chart presents a comparison of log inactivation of Crypto by UV irradiance as indicated by in vitro surrogates and animal infectivity and contain the same data. D-60 is headed by a line which states "Summary of Medium Pressure UV Data" which does not appear in P-32. Dr. Linden stated in his evidence that this difference would not matter to the skilled person who would come to exactly the same conclusions as from D-60. As indicated above, I do not consider medium pressure to be an essential element of the claims. Assuming that P-32 was shown in the form of overheads and distributed at the meeting as the plaintiff suggests, I am satisfied that it also constitutes a public disclosure of the Calgon findings.
+[160]
+I note that Mr. Dinkel agreed on cross-examination that the Marshall paper provides the same information that is in claim 1 of the '525 patent (transcript p. 1881).
+[161]
+It was also suggested that the Marshall paper (D-60) teaches away from the claimed invention as it contains a section on "Conclusions and Recommendations" that is incompatible with the disclosure of the Calgon results, specifically that the "conventional type UV system was shown to be ineffective in reducing [Crypto] viability". A "conventional type UV system" was interpreted by witnesses to mean a continuous in time medium or low pressure system. As explained by Dr. Clancy and as read by Dr. Linden, this paper was a summary of the three studies disclosed: AWWARF 282, AWWARF 395 and the Calgon medium pressure studies. That is also clear to the Court on the face of the document. One cannot read the conclusions of one study as applying to the document as a whole. The purpose of the Marshall paper was to present all of the results from these projects ending with the most recent.
+[162]
+It is evident from the document itself that the section on "Conclusions and Recommendations" does not apply to the three studies presented but was cut and pasted from the AWWARF 282 report and applies only to the description of that study in the paper. The section is identical to the corresponding part of that report (Ex. P-19). AWWARF 282 dealt with
+viability
+as determined by in vitro assays and not with the
+infectivity
+results obtained from the mouse studies. Those results were clearly disclosed in the paper as having been obtained by the third study and not from AWWARF 282. I am satisfied from the evidence, including the document itself, that the point of referring to the AWWARF 282 results was to contrast them with what was found later.
+[163]
+I find that the results of the in vitro and animal infectivity studies conducted for Calgon from September, 1997 through March, 1998 showing nil infection rates for continuous medium pressure UV doses within the range claimed by the patent were publicly disclosed at the NSF-ETV meeting. This was an enabling disclosure prior to the claim date.
+The Weerseloseweg Prior Use and Publication:
+[164]
+The East Twente Waterworks Corporation uses water from the Twentekanaal in the Netherlands as a source of drinking water. In 1994 the Corporation began a project to increase the amount of water taken from the canal and to do that it was required to extract surface water through a drain below a sandbed. The amount of filtration time through the underlying soil would be considerably reduced and options were considered for additional treatment steps. A microbiological study was commissioned from the Laboratory for Water and Food Microbiology of the National Institute for Public Health and the Environment in the Netherlands. The planned expansion was undertaken concurrently with the study.
+[165]
+The report from the study which is dated February 1996 and entitled "Load and inactivation of the protozoa Cryptosporidium and Giardia at the Weerseloseweg pumping station of the East Twente Waterworks Corp.", was put into evidence in the original Dutch and via the certified English translation (Ex.D-66). One of the co-authors, Dr. Gertjan Medema, testified as to the content of the report and to the UV system installed at Weerseloseweg, which he is personally familiar with.
+[166]
+Dr. Medema did his Ph.D. on Cryptosporidium and Giardia in drinking water but testified as a fact witness. He currently works for the Water Research Institute owned by the public water companies in the Netherlands as the manager of water quality and health with particular responsibility for microbiological issues. His February 1996 report was broadly distributed and is available to anyone at the National Library of the Netherlands. The water treatment facility at Weerseloseweg is open to the public through guided tours.
+[167]
+The primary concern of the microbiological study conducted by Dr.Medema was with Cryptosporidium and Giardia contamination. The source of water was open surface water and as such it was subject to animal fecal waste. In the spring of 1995, weekly samples were taken from the canal and from a reservoir storage site. The canal was found to contain 1.6 Crypto oocysts and 2.9 Giardia oocysts per litre. Water stored in the reservoir after conventional treatment including filtration and flocculation was found to contain 0.6 Crypto oocysts and 0.2 Giardia per litre. The water in the reservoir was subject to re-contamination from birds and other sources.
+[168]
+The primary barrier for pathogens had been sand filtration for a minimum of two weeks. In the new system, the water would be in the sandbags for only a few hours thus reducing the removal capacity of the soil. The operators of the system also wished to increase the microbial safety of the water in light of the by then well-known effects of cyst contamination. What they built and put into operation by February 1996 might be described as a "belt and suspenders" water treatment facility employing a multi-barrier approach including UV. The UV system put in place was a Wedeco low-pressure reactor employing an initial dose of 36 mJ/cm² and with aged lamps, 25 mJ/cm².
+[169]
+Part of Dr. Medema's job was to estimate the log reduction which would be achieved by each barrier in the new system to ensure that the total would minimize the risks of contamination and infection. For that purpose he used the minimum dose, the measurements of crypto taken from the reservoir, and the existing literature on the results achieved by each method. They used a conservative estimation selecting the studies on the lowest dosage treatments that resulted in the least removal.
+[170]
+With respect to the results that could be expected to be achieved from irradiation with a low dose of ultraviolet light, Dr. Medema and his co-author relied on the Ransome paper discussed below. Extrapolating from Ransom's finding that an exposure of 120 mJ/cm² would result in a two log reduction for Cryptosporidium, Medema concluded that a dosage of 80 mJ/cm² would be required for a one log inactivation. The water facility did not need that much to achieve its overall log targets given the other barriers hence the lower reduction actually claimed. Using 23 mJ/cm², they needed and claimed no more than .3 log removal of Crypto or about 50%.
+[171]
+For the purpose of an anticipation analysis, prior use and prior publication have to be considered separately. I find that the UV system put into operation by February, 1996 at Weerseloseweg was an enabling and public disclosure of the method claimed by the '525 patent to prevent infection from Cryptosporidium oocysts.
+[172]
+In my view, Dr. Medema's 1996 report also anticipated the disclosure in the '525 patent as it teaches everything that a person skilled in the art would require to put the method into practice.
+The Ransome Publication
+[173]
+This publication is a 1993 survey paper by M.E.Ransom and others (Ex. P-33), published in the journal
+Water Supply
+, wherein it was entitled "Effective Disinfectants on the Viability of Cryptosporidium Parvum Oocysts". The authors reported on the reduction of Crypto oocysts observed with UV, ozone, chlorine, hydrogen peroxide, and peroxone using excystation as the assay method.
+[174]
+Oocysts in open petri dishes were exposed under a low pressure UV lamp that, as reported, gave an intensity of 25 mW/cm² at a distance of 5 cm. The UV doses, as reported, were 42, 63, 90 and 120 mJ/cm².
+[175]
+The Ransome paper concluded that ozone was the one disinfectant that showed promise. However, that conclusion has to be read in context. Of the methods tested by Ransome and her colleagues, UV provided the greatest log reduction observed at 2 log or 99% at the highest dose of 120 mJ/cm². Ransome was reporting on the efficacity of the doses typically used at that time; for UV it was 30 mJ/cm² and as recommended by the US Public Health Service, just 16 mJ/cm². The doses commonly used for ozone at that time were more effective in the authors' view based on the excystation assay. But that did not teach away from Dr. Ransome's conclusions about UV. Dr. Medema and the East Twente Waterworks Corporation took the Ransome conclusions about UV and relied upon them for their study and installation at Weerseloseweg.
+[176]
+Dr. Linden was of the opinion that Ransome provided the skilled person with sufficient information to reproduce their experiment, in other words an enabling disclosure. Dr. Chauret disagreed because it was not clear whether the water in the petri dish was stirred, the depth of the water and the concentration of Crypto were not specified and the exposure time must have been brief. The use of "bore-hole water" was not explained. I did not find Dr. Chauret's opinion convincing. The Ransome authors described the procedure followed and the method employed with reference to a 1981 paper that would have been known to a person of ordinary skill in the art. Bore-hole water, as Dr. Linden explained, is simply an English term for well water.
+[177]
+On cross-examination Dr. Chauret agreed that the doses cited in the Ransome paper, assuming they were correct, would prevent replication of the irradiated oocysts (transcript p. 1983).
+[178]
+The excystation assay employed by Ransome disclosed that UV rendered Crypto oocysts inactive or non-viable at doses within the range claimed. Organisms that are no longer viable are incapable of replicating and causing infection. In my view, the Ransome paper provides the skilled person with the information required to carry out the method provided in Claims 1, 2 and 4 of the '525 patent. Claim 3 is excluded as it defines the dose range as 20-30 mJ/cm². A skilled person would understand, however, that a dose below those tested by Ransome would still prevent Crypto replication, albeit at a lower level of log reduction. Any log reduction of Crypto is effective at preventing replication and infection.
+The Erickson Improvement District Prior Use
+[179]
+Erickson is a rural area adjacent to Creston, B.C. The Erickson Improvement District (EID) was created in 1930 to provide water for irrigation, for the household uses of the residents of the District and, more recently, for the Town of Creston. Elwin Masuch was a trustee for the District for 32 years and chairman of the Board for 28 years. His son in law, Robin Douville, was the works superintendent for the EID and currently holds that position for the Central Kootenay Erickson Water Service. I found both Mr. Masuch and Mr. Douville credible and careful witnesses. I was particularly impressed with Mr. Masuch's evidence. He had a clear recollection of events, a thorough understanding of the conditions in his watershed and a sound grasp of the scientific principles involved in water disinfection in general and UV irradiation in particular.
+[180]
+At the material times, the system supplied water to the 5000 residents of Creston and 2000 residents of Erickson as well as for irrigation needs. For many years, little was done to treat the water distributed by the EID apart from screening. The source was surface water from two creeks. They had Giardiasis outbreaks in 1985 and 1990. In 1992 the province adopted Safe Drinking Water Guidelines and insisted on chlorination to deal with the risk of contamination from bacteria and other pathogens. That did not sit well with the people of Erickson. They were determined to avoid having to chlorinate, Mr. Masuch testified, as they considered it an obsolete and ineffective method of disinfection, it made the water taste and smell bad - unfit to drink in his view - and it produced cancer related trihalomethanes.
+[181]
+Crypto was a concern. In 1996 there was an outbreak of Cryptosporidiosis in Cranbrook, just 60 miles away and in other B.C. communities. Samples taken from the Creston reservoir in January 1997 tested positive for Crypto and Giardia. The trustees were aware that chlorine was ineffective against Crypto and limited against Giardia. They conducted extensive research for an alternative and their research convinced them that UV was effective against both Crypto and Giardia. The EID had prior experience using UV disinfection against bacteria. UV had been used by the EID in the late 1970's, on the Health Ministry's recommendation, to disinfect water taken from another surface water source to meet additional summer demand.
+[182]
+Early in 1996, the trustees approached the Culligan water treatment company and asked the firm to install two systems employing filtration and UV in two homes as a pilot project. The pilot was begun in May-June 1996. The system installed in Mr. Douville's home, a Trojan Advantage 5 low pressure unit, treated all of the water that was used in his house. The Trojan Advantage 5 lamps are on continuously and deliver doses within the range claimed by the '525 patent when water is flowing to opened fixtures. The other unit was installed in a neighbour's home as a point-of-use system to supply disinfected water to one faucet for drinking water.
+[183]
+The Trojan residential UV products date from the late 1980's and evolved over time. As described by Stewart Hayes, a Trojan design engineer from 1993, the Advantage series was developed from1994 and introduced in 1996. The residential and industrial units marketed pre-1998 used medium or low pressure lamps housed in a stainless steel reactor. The Advantage 8 series was designed for an 8 gallon per minute nominal flow and the Advantage 5 for 5 gpm. There was also an Advantage 2, point of use system (single faucet) at 2 gpm and an Advantage 12 (12 gpm) in the series. These rates were tested using city water line pressures between 40 and 45 pounds per square inch and standard household ½ inch copper pipe. Transmittance of UV light was tested at 74% water clarity, much dirtier than normal drinking water. The doses claimed for these systems were validated by bioassay.
+[184]
+The UV lamps in these systems operating continuously at wavelengths within 200-300 nm would deliver a dose of 20-30 mJ/cm² at normal flow rates. Changing the flow rate or UV transmittance would alter the dose. This was illustrated by Ex. D-74, a chart prepared for the State of Wisconsin dated October 31, 1996. The revised doses remained within the range of 10 to 175 mJ/cm² claimed by the '525 patent. Higher doses would be delivered to the contents of the unit when there is no flow to the fixtures. But these systems were designed as flow through applications at a rated gallonage per minute and would continuously treat the water as showers were run, toilets were flushed and glasses were filled. Mr. Hayes' evidence on this was unchallenged.
+[185]
+There were some differences in the evidence about the size of the filters installed in the EID pilot project. Mr. Masuch testified that the filters were installed to control turbidity prior to irradiation of the water. For most of the year turbidity was low but it would spike in the spring. He recalled that 5 micron filters were initially installed but they were replaced by 20 micron filters as the finer screens were being clogged too frequently. Neither would serve as a barrier to Crypto. Masuch and Douville understood that Crypto oocysts were smaller than 5 microns. A contemporaneous letter written by Mr. Douville states that 20 micron filters were installed in June 1996. Mr. Douville testified that they never installed a 5 or 1 micron filter in his house. 20 microns was the only size they used. Photographs of the unit in his home support that statement. A 1 micron filter was installed at his neighbour's home but was replaced with the 20 micron version because of clogging.
+[186]
+Samples were taken regularly of the treated water at the two homes, they were tested and the resulting records were kept for a year. The results exceeded provincial guidelines.
+[187]
+The plaintiff submits that this can't be considered an enabling disclosure as the units were installed and operated inside private homes and thus were not accessible to the public. It was not sufficient that the trustees discussed it amongst themselves. But Mr. Masuch testified that the results were reported to the ratepayers in June 1997 at the annual general meeting. In my view, that was an enabling public disclosure of a method falling within the essential elements of the claims of the '525 patent.
+[188]
+The trustees were forced to resile from the confidence they placed in UV as the province continued to insist on other barriers. EID submitted a proposal to the regional health unit to allow installation of point of entry treatment units in all residences and businesses in the district. A Culligan document, prepared for submission to the health unit in April 1997, indicates that the proposed system would use 1, 5 and 25 micron filters. According to the document, the 25 and 5 micron filters would be used to clarify the water and the 1 micron filters would completely remove cysts. In a 1999 affidavit, prepared for litigation with the province, Mr. Masuch indicated that the EID was prepared to install this system if it were approved by the province. The plaintiff submits that this is evidence of abandonment of the prior use.
+[189]
+This is not a case where an effort to put the prior use into practical operation was abandoned because it was concluded that it could not work. To the contrary, Mr. Masuch and his fellow trustees were convinced that the "main component of that system was the UV for control of Giardia and Cryptosporidium". However, at the time the submission was being made, UV had been given no log credits for cyst removal in B.C. It wasn't the failure of practical application that defeated them but bureaucracy. The province continued to insist upon chlorination. The EID was dissolved and a considerably more expensive disinfection system has since been installed.
+[190]
+I am satisfied from this evidence that the method disclosed by the '525 patent was being publicly practised at Erickson prior to the claim date.
+The Trout Lake Point of Entry Systems
+[191]
+Mr. Brian Kelly testified that he had been selling and installing Trojan UV systems from the late 1980's for residences and cottages with wells or lake water systems in the North Bay area. He described several typical installations in 1997 prior to the claim date. Brochures for the Trojan Advantage 5 and 8 series systems installed in 1997 describe the specifications of the units and refer to the benefits of UV disinfection for dealing with waterborne disease-causing microorganisms. Specifically mentioned are bacteria, viruses, algae, fungi and
+protozoa
+. The brochures were distributed by Mr. Kelly to prospective customers from his shop. The systems Mr. Kelly installed typically included a 50 micron filter which would not serve as a barrier to Crypto. Later brochures published by Trojan clearly state that these systems are effective against Crypto, but that was not the case for the pre-1998 brochures.
+[192]
+The environmental study subsequently prepared for the City of North Bay determined that there was a risk of Crypto in the waters of Trout Lake but it was not established by the evidence that Mr. Kelly was installing these systems for that reason prior to the claim date. While it is evident from hindsight that they would prevent any Crypto in the water from replicating and infecting, they were installed and operated to deal with other pathogens in the water. Accordingly, I find that there was no enabling disclosure of the method by the installation of the point of use systems at Trout Lake.
+CONCLUSION ON VALIDITY
+[193]
+I am satisfied on all of the evidence submitted at trial that the presumption of validity of the '525 patent has been overcome and that the defendants have established on a balance of probabilities that the patent was anticipated by both prior use and publication.
+[194]
+To satisfy the test of anticipation, just one of the applications of prior art described in the evidence would suffice if the principles stated in <FRAGMENT_SUPPRESSED> and
+Baker  <FRAGMENT_SUPPRESSED>  are satisfied. The notional person skilled in the art, using available analytical techniques, must be able to find the invention without the exercise of inventive skill.
+[195]
+In this case, the installations at Fort Benton, Weerseloseweg and Erickson, the Weerseloseweg Report and the Ransome paper, would each inform the skilled person that using UV light at particular levels would adequately treat water to prevent Crypto oocyst replication and infection. These were disclosures that were made before the claim date in such a manner that the subject matter became available to the public in Canada or elsewhere within the requirements of paragraph 28.2 (1) (b) of the
+Patent Act
+.
+[196]
+I find further that the presentation of the Marshall paper in April 1998 at the NSF-ETV meeting constituted prior disclosure by a person who obtained knowledge from the applicant more than one year prior to the filing date within the meaning of paragraph 28.2(1)(a) of the
+Act
+.
+Other Validity Issues
+[197]
+In light of my findings on anticipation, I do not find it necessary to deal in any detail with the other defences advanced by the defendants, which include: inventorship; overbreadth; sufficiency of the specification; and ambiguity. As noted above, in my construction of the claims I found no ambiguity in the use of the term "continuous".
+[198]
+Had I found there to be an invention in the discovery claimed by the '525 patent, I would have concluded that while Dr. Clancy appears to have contributed more to it than Drs. Stevens, Bolton and Dussert on the evidence before me, failure to name her as an inventor would not have invalidated the patent.
+[199]
+It is clear from the evidence that the patent claims more than what had been established as of the date of application in that the effectiveness of doses as low as 10 mJ/cm² had not been determined by the research. The plaintiff submits that this was acceptable on the sound prediction of utility principle and was subsequently confirmed by further research. The prediction was also supported by the LaFrenz data and Dr. Linden concluded that a 10 mJ/cm² dose would provide at least a 2 log removal. I would not have found the patent invalid on this ground.
+[200]
+The defendants have raised valid concerns about the sufficiency of the specification. As already noted, the failure to disclose "the sophisticated mathematical model" used to calculate the doses would have made it difficult for a skilled person to reproduce the invention in Dr. Linden's expert opinion. After all of the evidence heard at trial, it remains unclear how Dr. Bolton arrived at the final values claimed based on the test results that he recalculated several times.
+[201]
+Among the prior art cited in the specification as illustrating the understanding that high doses were required is a 1993 study by Lorenzo-Lorenzo et al. Dr. Clancy provided information obtained from personal communication with those authors that their UV experiments may have resulted in greater than 3 log inactivation using doses between 100 and 300 mJ/cm². An e-mailed letter (Ex. D-2) from Dr. Dussert to Dr Clancy states that that information should be reworded or deleted as "[t]he doses given would hurt our patent claims and therefore Calgon Carbon's business, and are therefore unacceptable". The letter goes on to indicate that Bolton's attempt to calculate doses from Lorenzo-Lorenzo's work led to higher doses than the range predicted.
+[202]
+Also cited is the LaFrenz paper (Ex.D-56) referred to above which was submitted to the AWWA conference at Denver in November, 1997. It was distinguished on the basis that the pulsed UV doses applied to achieve 6 log inactivation were 200 mJ/cm² and greater. That is not a complete description of the disclosure of Dr. LaFrenz' findings at the Denver conference. In paragraph 2.3.1 of the paper Dr. LaFrenz states that "[t]est results to date for Cryptosporidium indicate that a Pulsed UV treatment level of approximately 100 mWs/ sq.cm provides 3-4 logs of inactivation. Six logs of inactivation have been achieved for irradiation levels of less than 200 mWs/sq.cm." Figure 5 of his paper illustrates those findings.
+[203]
+These examples raise questions about the accuracy and sufficiency of the specification.
+INFRINGEMENT
+[204]
+As indicated above, I find that the '525 patent is invalid for anticipation. It follows that I find that North Bay has not infringed the patent and that Trojan has not induced or procured infringement.
+[205]
+In the event that I am found to have erred on the question of validity, I will indicate the findings that I would have reached on infringement. As stated by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  at 918 ( <FRAGMENT_SUPPRESSED> ), infringement is generally a question of fact and will be clear on the facts once the claim has been construed.
+[206]
+The city uses its Trojan Swift system to irradiate its drinking water with a broadband of UV light in wavelengths between 200 and 300 nm generating doses of 40-50 mJ/cm² to prevent infection from Crypto oocysts. Those are the essential elements as I have found them of the method claimed by the patent. I would find, if the patent were valid, that the City of North Bay directly infringed claims 1, 2 and 4. Claim 3 is not infringed as the dosage range claimed is not practised by the City.
+[207]
+The evidence of procurement or inducement on the part of Trojan is less clear and turns on the question of whether the city was led to the decision to perform the infringing act by Trojan's indemnity.
+[208]
+To establish inducement there must be an act of infringement completed by the direct infringer, the completion of that act must have been influenced by the acts of the inducer to the point that without that influence the infringement would not otherwise have taken place and the influence must be knowingly exercised by the inducer so that the inducer knows that the influence will result in the completion of the act of infringement:
+ <FRAGMENT_SUPPRESSED> ; 209 N.R. 396 (S.C.C.) ( <FRAGMENT_SUPPRESSED> ).
+[209]
+The plaintiff does not rest its case entirely on the indemnity provided by Trojan to North Bay. The plaintiff takes the position that inducement would be established with or without the indemnity merely by Trojan's offer for sale and sale of its UV Swift system to municipalities who have not taken a license from Calgon. But that is, in my view, overstating the matter.
+[210]
+Calgon also relies upon the relationship between Trojan and CH2M Hill, the engineering firm which provided consulting advice to North Bay. CH2M, described by Trojan's President as a "client" of the firm, received research and analytical support for its water treatment consulting practice. The inference is that in return for that support CH2M exercised undue influence on its "client", North Bay to choose the Trojan system. That does not explain why North Bay chose not to take a license from Calgon.
+[211]
+The uncontradicted evidence is that in the circumstances described by the City Engineer, Mr Simmonds, North Bay officials felt compelled to install more effective barriers to pathogens without delay. Trojan stood to gain solely from the sale of its equipment and would likely have obtained the contract whether the City took the license or not. Calgon did not tie licensing to the sale of its equipment. Trojan's system had been in development for over a decade. Calgon had just recently entered the field. CH2M provided information about other systems on the market.
+[212]
+Evidence was tendered by the plaintiff concerning the arrangement reached by the Edmonton water utility, Epcor, with Calgon. Epcor installed Calgon equipment and took a license. It receives a commission from Calgon for acting as its Western Canada agent promoting the technology which offsets the license fee. I note that Waterloo which operates Trojan, Calgon and Wedeco UV systems does not pay the license fee. It appears from the evidence that the majority of the municipalities in North America that have acquired Calgon UV reactors or those supplied by its competitors do not pay the license fee. Just six, three in Canada and three in the U.S. have agreed to pay. The Pittsburgh utility pays but has a special arrangement with Calgon, as described by Mr. Dinkel. Calgon may have been prepared to negotiate with North Bay.
+[213]
+This is not a case similar to those in which the defendants induced infringement by selling products that could only be used by infringing the plaintiff's patent such as
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), affd. (1979), 28 N.R. 273; 42 C.P.R.(2d) 33 ( <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241 (F.C.A.). The products sold by Trojan can and are being used for purposes which would not infringe such as for the prevention of infection by bacteria and viruses.
+[214]
+The indemnity was dated and signed by Trojan several days after the decision was made by the North Bay Council to choose Trojan and UV light to treat its drinking water. It appears to have been provided to CH2M and not to the city. Mr. Simmonds testified that he first became aware of it several months later when the city solicitor requested a copy from CH2M following the receipt of correspondence from Calgon. CH2M may have acted as an agent of the City in requesting the indemnity from Trojan but the evidence does not establish that but for that inducement the deal would not have been made. Plaintiff's counsel fairly conceded that point in final argument.
+[215]
+However, the infringing act occurred not when the Trojan contract was issued but when North Bay put its UV system into operation and practised the patented method without a license from Calgon. It is clear that the City officials knew of the Calgon patent by that stage and knew that Calgon would offer a license even where a competitor was supplying the system. Mr. Simmonds said they considered the patent to be, in his English idiom, "bonkers". But the officials also knew that the City would be saved harmless from any damages for infringing the patent by reason of the Trojan indemnity. They had nothing to lose by ignoring it. A reasonable inference is that the indemnity was the deciding factor in the decision to proceed without a license.
+[216]
+The defendants submit that there had to be an issued patent as of the time of the inducement to satisfy the first leg of the <FRAGMENT_SUPPRESSED> test, i.e., that there must be an act of infringement completed by the direct infringer. In this instance, the indemnity was provided in July 2001, after the claim date but before the patent was issued in Canada. The infringing act began in 2002 when the UV system was put into operation by North Bay after the patent was issued. The indemnity was not withdrawn by Trojan and continued to operate at that time.
+[217]
+If I had found the patent valid, I would have found that Trojan induced infringement of the patent by providing the indemnity. That inducement did not go to North Bay's decision to award the system contract to Trojan but to the City's decision to infringe by refusing the license offered by Calgon. I would have referred the quantum of damages for subsequent determination but would have limited entitlement to the royalties lost and excluded damages for any potential sale of the equipment. I would have found that entitlement to aggravated, punitive or exemplary damages was not justified in this matter as the evidence did not establish high-handed, oppressive or egregious conduct on the part of the defendants. In the particular circumstances of this case, the validity of the patent, while presumed in law, was in doubt. I would have been reluctant to grant a broadly framed permanent injunction against Trojan as requested by the plaintiff in its prayer for relief but would have granted one limited to the scope of the infringing use.
+[218]
+The plaintiff submits that if infringement by North Bay is established it should have the option of electing between damages and lost profits. Damages represent the patentee's loss, which may include lost profits from sales or lost royalty payments. An accounting of profits, by contrast, is measured by the profits made by the infringer, rather than the amount lost by the patentee. If the patentee elects to seek an accounting of profits, the patent holder is only entitled to that portion of the infringer's profit which is causally attributable to the invention: <FRAGMENT_SUPPRESSED> , above at paras. 100-102.
+[219]
+In this case, had I found the patent valid I would have held that the plaintiff was entitled to damages with interest but not to an accounting of profits. The plaintiff submits that the City should be liable for the savings achieved by the choice of a more cost-effective technology than that presented by the other available options. I do not see those savings as profits accruing to the benefit of the Corporation of the City of North Bay. The evidence is that the water utility operates on a user pay basis with the costs for water treatment charged directly to the ratepayer. The city receives no revenue from the operation of the water system.
+[220]
+I don't think that this is what the Supreme Court had in mind when it discussed the "value-based approach" to calculating profit at paragraph 102 of <FRAGMENT_SUPPRESSED> . At the heart of the equitable remedy is the notion that the infringer should not be entitled to benefit by his wrongdoing. I accept that a municipal corporation may make a profit from the use of infringing technology and there will be circumstances in which it should be held accountable for those profits.  <FRAGMENT_SUPPRESSED> ; 288 N.R. 201; 2002 FCA 158, Justice Frederick Gibson found the City of Medecine Hat accountable for the sale of sour gas "sweetened" by the patented product. But that was a case in which the City was selling the gas to a commercial distributor for profit and the use of the infringing technology enhanced the value of the product.
+[221]
+In this case, the City has not gained a profit in providing the product to its ratepayers at cost and no additional value can be causally attributed by the use of the infringing technology. The quality of the water remained exactly the same. At best, the ratepayers avoided the risk of infection and the burden of some additional cost. Moreover, they took no direct part in the decision by the Corporation to employ the technology. The fact that Trojan would be liable to cover these "profits" by virtue of its indemnity agreement is inconsequential.
+COSTS
+[222]
+The defendants shall be entitled to their costs to be assessed on the normal scale.
+JUDGMENT
+[223]
+IT IS THE JUDGMENT OF THIS COURT that:
+1. The plaintiff's claim for a declaration that Canadian Patent No. 2,331,525 has been infringed by the defendants and claims for an injunction, compensation, damages, interest and costs are dismissed;
+2. The defendants' counterclaim is allowed and it is declared that Canadian Patent No. 2,331,525 is invalid;
+3. The defendants are entitled to their costs to be assessed on the ordinary scale.
+Action dismissed.
+Editor: Elizabeth M.A. Turgeon/vnh
+[End of document]

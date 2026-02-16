@@ -1,0 +1,1137 @@
+[1]
+Gauthier, J.
+: This is an application brought under s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the
+Regulations
+), by which the applicants Solvay Pharma Inc. and Altana Pharma AG collectively as Altana seek an Order prohibiting the Minister of Health from issuing a Notice of Compliance under the
+Food and Drug Regulations
+, C.R.C., c. 870, to the respondent Apotex Inc. for the production and marketing of enteric coated tablets of pantoprazole sodium in 20 mg and 40 mg strengths until after the expiration of Canadian Letters Patent 2,092,694 (the '694 Patent) and 2,089,748 (the '748 Patent). Apotex intends to market its tablets under the trade name "Apo-Pantoprazole".
+[2]
+Altana Pharma AG, a German company, is the owner of the '694 and '748 Patents. The company was formerly known as Byk Gulden Gmbh. At the hearing, the Court was informed that the company has again changed names and now operates as Nycomed Pharma Gmbh.
+[3]
+Solvay Pharma Inc. is Altana Pharma AG Canadian licensee with respect to the patents in question. Pursuant to the
+Regulations
+, the patents are listed against an enteric coated formulation of pantoprazole sodium manufactured and marketed by Solvay under the trade name PANTOLOC. The formulation is available in 20 mg and 40 mg dosage strengths.
+[4]
+Pantoprazole itself is a known compound for which the Canadian Patent (4,758,579) expired on June 19, 2005. [see footnote 1]
+[5]
+The '748 Patent was filed in Canada on August 23, 1991, and published on March 5, 1992. It generally relates to novel pharmaceutical compositions combining pantoprazole (or one of its salts) as one of the medicinal ingredient, useful for the treatment and prevention of gastrointestinal diseases caused or exacerbated by
+H. Pylori
+(
+Hp
+) and secreted gastric acid.
+[6]
+The '694 Patent was filed in Canada on September 6, 1991, and published on April 2, 1992. In their respective memoranda, the applicants submit that the patent "discloses pantoprazole, has direct activity against
+Hp
+and describes the formulation that is best for this direct action", whereas Apotex construes the patent to relate to compositions, including those that are simultaneously resistant and not resistant to gastric juice, for combating
+Hp
+itself and thereby treating diseases of the stomach and intestine caused by
+Hp
+.
+[7]
+In its 88 page Notice of Allegation (NOA) dated January 18, 2006, Apotex made numerous allegations which can generally be regrouped as follows:
+i) the patents were improperly listed and/or their claims were irrelevant;
+ii) the patents would not be infringed if the NOC applied for was issued to Apotex for its Apo-pantoprazole tablets;
+iii) the patents are invalid based on various grounds which included ambiguity, claims too broad, lack of sound prediction, anticipation, obviousness, etc ...
+[8]
+This application was filed on March 9, 2006. It is the first application in respect of this drug and these particular patents to be heard on the merits.
+[9]
+After the filing of the evidence (12 affiants for Altana and 9 for Apotex) [see footnote 2] and the cross examination of most of those affiants, the issues were narrowed down but still required a five-day hearing.
+[10]
+The parties provided useful compendia of the relevant evidence; both advised the Court that all the evidence relevant to the issues still to be determined were included therein. Nevertheless, the Court did review all of the experts' affidavits as well as the cross-examination transcripts relevant to infringement and the eligibility issues.
+[11]
+For the reasons that follow, the Court found that the application must be dismissed because the applicants have failed to establish that Apotex's allegations of non-infringement are not justified.
+I.
+Background and Drug Chemistry
+[12]
+By way of background information, the pantoprazole compound [see footnote 3] at issue in these proceedings and the medicinal use(s) to which it has been put warrant brief comments. (This information, as related in the passages below, is not contested by the parties.)
+[13]
+The term "ulcer" describes an open sore or lesion in the tissue of the body. Gastric ulcers affect the stomach, while duodenal ulcers affect the duodenum, which is part of the small intestine. Such ulcers are both included in the more general description of peptic ulcers, a term often used in the medical literature.
+[14]
+Pantoprazole is a member of a benzimidazole class of compounds. It is a potent gastric acid inhibitor or "anti-secretory agent", which came into wide use as a medicine in the treatment of gastric and duodenal ulcers in the early 1990s, initially in the German market. The medical literature describes pantoprazole as a proton-pump inhibitor (PPI), with reference to its mechanism of action; the drug interferes with the secretion of gastric acid from the parietal cells of the stomach, where gastric acid is produced, to the stomach itself. It accomplishes this by inhibiting the enzyme which acts as the "pump", H
++
+, K
++
+-ATPase. Other PPIs which function similarly include the benzimidazoles, omeprazole and lansoprazole, both of which have been the subject of NOC proceedings before this Court. See for example
+ <FRAGMENT_SUPPRESSED> ; 304 F.T.R. 104; 55 C.P.R. (4th) 48; 2006 FC 1411, affd. (2007) 367 N.R. 120; 2007 FCA 251;
+ <FRAGMENT_SUPPRESSED> ; 314 F.T.R. 177; 60 C.P.R.(4th) 199; 2007 FC 688;
+ <FRAGMENT_SUPPRESSED> ; 243 F.T.R. 6; 2003 FC 1443, affd. (2003), 329 N.R. 374; 38 C.P.R.(4th) 17 (F.C.A.). The first PPI on the market was omeprazole. This benzimidazole class which includes omeprazole was discovered around 1979 and that particular compound came to the market in the late 80's.
+[15]
+Up until the mid-1980s, prevailing medical wisdom held that the stomach was an essentially sterile environment, owing to its acidity. Excess acid and factors such as diet or smoking were thought to be the causes of gastric and duodenal ulcers. Accordingly, such ulcers were treated with acid inhibitors, namely histamine-2 receptor antagonists, which interfere with the formation of acid in the gastric parietal cells, and later with the more potent PPIs.
+[16]
+This conventional wisdom was first put into doubt by Drs. Warren and Marshall (the latter of whom provided expert testimony on behalf of the applicants in these proceedings) in the June 4, 1983 issue of
+The
+Lancet
+, wherein they posited a link between diseases of the gastrointestinal tract with the presence of bacteria. In 1984, the positive results of a follow-up study were published in the same journal.
+[17]
+The bacteria observed by Warren and Marshall was then known as
+Campylobacter Pylori
+but was later renamed
+Helicobacter Pylori
+(
+Hp
+). Over the next decade, additional research by Marshall and Warren and others in the field provided stronger evidence of a link between gastrointestinal ulcers and the presence of
+Hp
+, such that by the early to mid-1990's a pathogenic association between the two was generally recognized by gastroenterologists and medical doctors. In 2005, Warren and Marshall shared a Nobel Prize in recognition of their discovery of
+Hp
+and its pathogenic relation to gastritis and gastrointestinal ulcers.
+[18]
+In his affidavit evidence introduced by Altana, Dr. Joerg Senn-Bilfinger, a senior Altana researcher named as a co-inventor on the European patent corresponding to the '694 Patent at issue in these proceedings, relates that by 1989 it was understood how
+Hp
+managed to thrive in the acidic environment of the stomach. The bacterium contains an enzyme which catalyzes the transformation of urea in stomach acid into ammonia; ammonia so formed provides the bacterium with a neutral microenvironment, sheltering "the bug" from the surrounding gastric acid. This much is not disputed by Apotex's witness Dr. Howden [see footnote 4] (who otherwise disagrees with Senn-Bilfinger over sound prediction).
+[19]
+With the discovery of
+Hp
+and the mounting evidence of its relation to gastrointestinal ulcers, beginning in the mid-1980s researchers in the field turned their attention to the development of treatment regimes which would directly combat
+Hp
+infection, alongside PPI or Histamine-2 inhibiting acid suppressant regimens. [see footnote 5] This meant a new focus on antimicrobial agents and various combinations thereof. The numerous prior art documents at issue in these proceedings speak to the intensity of research activity in the field at the relevant time, providing some context for the '694 and '758 Patents.
+[20]
+Today, it appears to be generally accepted that the best method of treating an asymptomatic
+Hp
+infection or an
+Hp
+positive gastric or duodenal ulcer is to eradicate
+Hp
+by means of a combination therapy, be it so-called bismuth triple therapy [see footnote 6], bismuth quadruple therapy (i.e., bismuth and antibiotics) or a PPI triple therapy (i.e., a PPI plus two antibiotics) [see footnote 7].
+[21]
+Not all gastric and duodenal ulcers are caused or exacerbated by
+Hp
+infections. The parties agree however that the majority of such ulcers not associated with the use of non-steroidal anti-inflammatory drugs (NSAIDs) are
+Hp
+associated. There is some conflicting evidence as to the exact percentage in question. Solvay claims that 70-90% of gastric ulcers and 90% of duodenal ulcers not associated with NSAIDs are associated with
+Hp
+, while Apotex puts the numbers at 50% and 60% respectively. Obviously, the exact numbers are not decisive of anything at issue here. There is also some evidence that the number of
+Hp
+associated ulcers is diminishing in developed countries such as Canada. On the other hand, there may be an increase of NSAID-associated ulcers, given the increased use of such NSAIDs by an aging population. There is also some evidence of an increase of peptic ulcers not associated with
+Hp
+or NSAIDs. Again, this is merely part of the context and is not determinative of any of the issues here.
+[22]
+There is no evidence before the Court as to the comparative size of the group of ulcers associated with the use of NSAIDs versus ulcers associated with
+Hp
+infection or other diseases. There is little evidence before the Court on the relative frequency of prescriptions for triple therapy which include pantoprazole for ulcers associated with
+Hp
+infection versus those for pantoprazole alone, either for the treatment of NSAID associated ulcers or for other gastrointestinal diseases where a reduction of gastric secretion is indicated, such as GERD, reflux esophagitis (see other indications listed in the Pantoloc product monograph).
+[23]
+The Court notes however that Apotex's expert Mr. Brown indicated during his cross-examination that at least in Manitoba [see footnote 8], where all prescriptions are included in a central database (the Drug Program Information Network), his impression was that the vast majority of prescriptions written for Pantoloc or pantoprazole sodium were for the drug alone and not as an element of a triple therapy regime, meaning that the drug was prescribed most often for indications such as GERD and reflux esophagitis, which do not require
+Hp
+eradication. (see Mr. Brown's comments at questions 55-67, and 182-187 of the cross-examination transcript). This appears to be in line with the evidence referred to in
+ <FRAGMENT_SUPPRESSED>  application relating to lansoprazole, another PPI used in triple therapy for the treatment of ulcers and other gastrointestinal disorders. In that case, Abbott had produced evidence in respect of the actual use of its lansoprazole product (Prevacid) which indicated that the compound was sold for various uses in the following percentages: (a) GERD 52%, (b) Dyspepsia/Heartburn 29%, (c) Peptic Ulcer 4% (presumably Abbott included here gastric and duodenal ulcers not associated with NSAIDs), (d) NSAID-induced ulcer 3%, (e) others 12%. Again, this information is not determinative of any of the issues here, but it certainly puts them in proper context.
+II.
+Construction of the Relevant Claims
+[24]
+Before considering the allegations with respect to eligibility, infringement or invalidity, the Court is required to construe the patent at issue from the perspective of a person skilled in the art when it first became public. The principles applicable to such construction are clear. They were enunciated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> . Those principles are also discussed in
+ <FRAGMENT_SUPPRESSED>  at paras. 29 to 48, and more recently in
+ <FRAGMENT_SUPPRESSED> ; [2008] F.C.J. No. 171, at paras. 25 -33.
+[25]
+There was a broad consensus between the parties' respective experts that the nominal person skilled in the art whose perspective the Court should adopt for purposes of construction would be either a gastroenterologist or infectious diseases specialist, or a general practitioner knowledgeable about ulcers,
+Hp
+, and gastrointestinal disorders (see paragraph 8 of Altana's Memorandum and paragraph 14 of Apotex's). Drs. Fennerty and Marshall also remarked that some of the information in the patents, particularly in the '694 patent, would be addressed to drug formulators; this was also the position of Drs. Hopfenberg and McGinity, themselves formulators.
+A.
+The '748 Patent
+[26]
+The '748 Patent was published on March 5, 1992. Several of the parties' experts commented on the construction of claims 15 and 16, particularly Drs. Graham and Thompson for Apotex, and Drs. Marshall, Wolman and Fennerty for Altana. These claims read as follows:
+"15. Use of the pharmaceutical composition defined in any one of claims 1-14 for the regulation of a gastrointestinal disorder.
+"16. Use of the pharmaceutical composition defined in any one of claims 1-14 for treating duodenal or gastric ulcer relapse."
+[27]
+Having considered this evidence and reviewed the patent as a whole, the Court must decide, as a matter of law, on its correct construction. The pharmaceutical compositions [see footnote 9] described in claims 1-14 all include two essential elements: pantoprazole or a pharmaceutically acceptable sort thereof and a Helicobacter-inhibiting antimicrobial agent (HIAMA).
+[28]
+HIAMA is a term defined in the patent disclosure as a natural, synthetic, or semi-synthetic compound or mixture thereof which is effective in eradicating
+Hp
+organisms. There is no dispute that when this term is used in the claim it may include a combination of more than one antimicrobial agent.
+[29]
+The only other essential element in claim 15 is that such compositions be used for the regulation of a gastrointestinal disorder.
+[30]
+Although the word "gastrointestinal disorder" is not particularly qualified or restricted in claim 15, the Court agrees with the applicants' experts that it would be understood by a person skilled in the art to refer to those disorders caused or exacerbated by
+Hp
+[see footnote 10] and the secretion of gastric acid. At the hearing, Apotex agreed that, for the purpose of this proceeding, that is the construction that should be adopted by the Court.
+[31]
+The word "regulation" in claim 15 is not a term of art; it thus had no special meaning for a person skilled in the art at the relevant time. According to the
+Canadian Oxford
+Dictionary
+, the verb "regulate" in this context would normally be taken to denote the "keeping of a biological function regular" or "the maintenance of health." It is evident that to various degrees, most of the experts struggled with the term. The difficulty here arises from the fact that this word is juxtaposed with the phrase "gastrointestinal disorder" and is not used at all in the disclosure, which refers rather to the "treatment" or "prevention" of gastrointestinal disorders.
+[32]
+Despite this, all experts were required to approach the term's construction with a mind willing to understand. The Court agrees with the statement of Justice Roger Hughes in
+ <FRAGMENT_SUPPRESSED>  examined the evidence of each of the experts (see, for example, the evidence collected under Tabs 2 and 3 of Apotex's Compendium and the evidence on patent construction in the Applicant's Compendium at Tabs 23, 24, and 25) the Court concludes that in context, "regulation" means the treatment of gastrointestinal disorder through the combined action of pantoprazole acting as an anti-secretory PPI [see footnote 11], and a HIAMA defined by its ability to eradicate [see footnote 12]
+Hp
+.
+[34]
+With respect to claim 16, it refers to the same compositions described in claims 1 to 14, and thus contains the first two essential elements of claim 15. Its third essential element lies in the use of those compositions for the treatment of gastric or duodenal ulcer relapse.
+[35]
+The experts are in agreement that "treatment" in that claim necessarily involves the eradication of
+Hp
+. Considering that the compositions in question are said to lower the relapse rate observed by treatment with pantoprazole alone, the Court is satisfied that here, "treatment" of relapse in fact means or refers to the "prevention" of relapse, given that the actual treatment of the gastrointestinal disorder itself (which includes gastric and duodenal ulcers), be it a first time occurrence or the result of relapse, is already covered in claim 15.
+[36]
+As is the case with respect to claim 15 (paragraph 30 above), the Court prefers Altana's evidence and finds that duodenal and gastric ulcer relapse in claim 16 would also be read as limited to those ulcers caused or exacerbated by
+Hp
+, as it was affirmed by Drs
+.
+Fennerty and Marshall (see tab 20 of the applicant's compendium).
+B.
+The '694 Patent
+[37]
+The relevant claims are claims 3, 6 and 13, which read as follows:
+"3. Drug formulation containing 5-difluoromethoxy-2-[3,4-dimethoxy-2-pyridyl)methylsulphinyl] -1H-benzimidazole or a pharmaceutically tolerated salt thereof simultaneously in a form which is resistant to gastric juice and in a form which is not resistant to gastric juice.
+"6. A Helicobacter bacteria treatment oral composition comprising 5-difluoromethoxy-2-[3,4-dimethoxy-2-yridyl)methylsulphinyl] -1H-benzimidazole or a pharmaceutically tolerated salt thereof, together with a pharmaceutically acceptable carrier.
+"13. A Helicobacter pylori treatment oral composition comprising 5-difluoromethoxy-2-[3,4-dimethoxy-2-yridyl)methylsulphinyl] -1H-benzimidazole sodium, together with a pharmaceutically acceptable carrier."
+[38]
+It is not disputed that claim 3 has the following three essential elements:
+(1) a formulation containing pantoprazole; (2) the formulation being designated to be partially not resistant to gastric juice; (3) the formulation also being partially resistant to gastric juice.
+[39]
+All experts agree that there is no limitation on claim 3 to a specific use of those compositions.
+[40]
+With respect to claims 6 and 13, it is not disputed that the essential elements of the claims are:
+(1) a formulation of pantoprazole;
+(2) for use as an antimicrobial;
+(3) to treat
+Hp
+infections and diseases arising therefrom.
+The parties are also agreed that these use claims (Shell Oil type claims) cover all formulations of pantoprazole, even those entirely resistant to gastric acid. It is not disputed that that the word "comprising" means "including," Thus, such formulations could include other medicinal ingredients. In fact, the disclosure, at the first paragraph of page 5, provides for the use of pantoprazole with other antimicrobials (non-essential elements).
+Eligibility for listing on the patent register
+[41]
+As a preliminary matter, it should be noted that the
+Regulations
+applicable here are the "old" ones, as they stood prior to the modifications which came into force on October 5, 2006. It should also be noted that this case does not raise any issue of timing with respect to eligibility.
+[42]
+Apotex states that as recently illustrated in
+ <FRAGMENT_SUPPRESSED>  at paras. 116-134, affd. (2007), 370 N.R. 109; 2007 FCA 187, paras. 32-45,
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 81 (F.C.), at paras. 169-178,
+ <FRAGMENT_SUPPRESSED> , at para. 106, patent claims that are either ineligible or irrelevant to a second person's submission cannot provide the basis for a prohibition order. Thus, the issue can and should be considered by the judge hearing the application filed pursuant to s. 6(1) whether or not the second person has filed a motion pursuant to s. 6(5) of the
+Regulations
+.
+[43]
+In its Notice of Allegation (NOA), which was filed before the Supreme Court of Canada issued its decision in
+ <FRAGMENT_SUPPRESSED> ; 354 N.R. 88; 2006 SCC 49, Apotex included most of the arguments it now raises in respect of the eligibility or relevance of the '748 and '694 patents, namely:
+a. with respect to the '748 patent
+(i) the patent contains no claim for the medicine contained in Pantoloc or Apo-pantoprazole, as the patent covers only combinations of pantoprazole and HIAMA;
+(ii) no NOC has been issued for the use of pantoprazole sodium in a 20mg dosage strength for the combination therapy covered by the '748 patent;
+(iii) claims 15-16 are not relevant to Apotex's Abbreviated New Drug Submission (ANDS), as Apotex only seeks bio-equivalence with the 40 mg tablet of Pantaloc used for monotherapy. It is thus not working the patented invention disclosed in the '748 patent (non-application of s. 5(1) of the
+Regulations
+.)
+b. with respect to the '694 patent
+(i) the patented invention is for new oral drug forms (partly non-resistant to gastric juice), whereas no NOC was issued for such forms to Altana [see footnote 13]. Apotex does not compare its product to a product on the market that embodies this patented invention. It is not early working the invention, as required for the application of s. 5(1) of the
+Regulations
+.
+(ii) claims 3, 6 and 13 are irrelevant to Apotex's ANDS as no NOC was issued for a formulation covered by claim 3 and/or for Pantaloc as an anti-microbial. This is particularly true with respect to the 20 mg dosage strength of Pantoloc, against which Altana now says the '694 patent was listed in 2003 (pursuant to submission no. 087266).
+[44]
+In its application, Altana took the position that the Court has no jurisdiction to deal with such issues because they are not relevant to the grounds enumerated at s. 5(1)(b) of the
+Regulations
+which, in its view, are the only grounds that can be addressed in the NOA. Also, the legislator has provided at s. 6(5) for a specific remedy to deal with such issues because, among other things, of the different burden of proof that applies to them. Altana notes that, as the applicant, it has the burden of establishing that the allegations in the NOA are not justified, whereas it is Apotex that has the burden of establishing that these patents should not have been listed; this is why these arguments must be raised by way of a distinct motion which will also allow for the filing of evidence by Altana in response of Apotex's evidence.
+[45]
+At the hearing, Altana was asked to respond more specifically to the substance of Apotex's arguments.
+[46]
+With respect to Apotex's argument that it is not early working either patented invention and that therefore, s. 5(1) of the
+Regulations
+would not apply at all to the proposed Apo-pantoprazole, Altana submits that this argument does not accord with the Supreme Court of Canada decision in <FRAGMENT_SUPPRESSED> as construed in
+ <FRAGMENT_SUPPRESSED>  at page 299, affd. [2007] F.C.J. No. 1138; 370 N.R. 263; 2007 FCA 276. According to Altana, in <FRAGMENT_SUPPRESSED> the Federal Court of Appeal confirmed that a second person must address all patents listed before the filing date of its ANDS (in this case, September 9, 2005). There is no dispute that here the '748 and '694 patents had been listed against NOCs issued for Pantoloc prior to that date.
+[47]
+Secondly, Altana argues that the application of the early working requirement discussed in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> applies only to claims for the medicine itself. It would be inconsistent to apply them to use claims, given that pursuant to s. C.08.002.1 of the
+Food and Drug Regulations
+, a generic filing an ANDS need only show bioequivalence of its drug to the reference product, and is not required to practice the use claimed as part of its submission.
+[48]
+Finally, Altana argues that in serving its NOA, Apotex has acquiesced to the Minister's decision requiring it to address the '748 and '694 patents pursuant to s. 5(1) of the
+Regulations
+. Thus, Apotex should have raised its objections via an application for judicial review of the Minister's decision, as indeed it did in Court file T-2100-07.
+[49]
+Insofar as the eligibility of the '748 patent is concerned, Altana submits that there is an appropriate link between the NOC issued for its 40 mg tablets on March 10, 2000 (pursuant to submission no. 55738) and that, as noted by the Minister of Health in his letter dated July 30, 2007, the '748 patent is eligible for listing as the combination covered by said patent is expressly set out in the approved indications for Pantaloc, and the patent allows for the separate administration of the other active ingredients (the HIAMAs).
+[50]
+Furthermore, the '694 patent was properly listed in respect of the NOC issued on October 15, 2003 (pursuant to submission no. 087266), for the use of PANTALOC 20 mg tablets in the prevention of ulcers induced by NSAID in patients with a need for continuous NSAID therapy and having an increased risk of developing gastrointestinal damage, because a person at "increased risk" would be understood to include a reference to
+Hp
+infection.
+[51]
+Once the patents are properly listed, it is Altana's position that Apotex is required to address them for all dosage strengths (40 and 20 mg), as dosage strength is irrelevant to the
+Regulations
+unless there is some restriction in that respect to be found in the claims of the patents themselves, which is not the case here.
+[52]
+In response to the jurisdictional issue raised by Altana, Apotex replied that even accepting that it has the burden of proof with respect to eligibility and relevance, Altana had full notice of its position and had an opportunity to file all of its evidence, as was done by first persons in those cases mentioned above at paragraph 33, where the Court actually dealt with those issues without the generics having made a motion under s. 6(5)(a).
+Jurisdiction to consider eligibility in the absence of a motion under 6(5)(a)
+[53]
+The Court will start its analysis by noting that Apotex's NOA was filed long before the Supreme Court of Canada decision in <FRAGMENT_SUPPRESSED> and the Federal Court of Appeal decisions in <FRAGMENT_SUPPRESSED> and
+ <FRAGMENT_SUPPRESSED> ; 310 F.T.R. 265 (F.C.), revd. in part, [2007] F.C.J. No. 1062; 370 N.R. 89; 2007 FCA 264. As indicated in paragraph 63 of <FRAGMENT_SUPPRESSED> (trial decision), at that time there was no mechanism in place to determine whether or not a generic manufacturer was required to address any particular listed patent. Thus, the Court does not accept Altana's argument that Apotex had acquiesced to anything by filing its NOA. There is no evidence before me as to whether the Minister would have agreed to the use of the new mechanism put in place sometime after November 2006, because by then, the present application had already been filed.
+[54]
+That said, having reviewed the three cases cited by Apotex (see paragraph 41 above), the Court is not satisfied that either this Court or the Federal Court of Appeal have in point of fact indicated that the eligibility of a patent for listing or early working issues (the application of paragraph 5(1)) may be decided as a matter of law on the sole basis of an application made pursuant to s. 6(1) of the
+Regulations
+, in the absence of a motion under s. 6(5). The relevant passage in
+Astrazeneca
+was clearly in obiter, while that in the <FRAGMENT_SUPPRESSED> case was arguably so, considering that it was not incorporated into Justice Mosley's actual conclusions in that case, at paragraph 179.
+[55]
+Certainly, the Federal Court of Appeal, when reviewing Justice Elizabeth Heneghan's decision  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , at paragraphs 44-45, appears to have carefully refrained from dealing with the issue of eligibility, opting to confirm the application judge's decision on the basis that she was correct in finding that there was no relevant claim for a medicine or use of a medicine before her, i.e., no relevant claim against which to assess the validity of the allegation per subparagraph 5(1)(b)(4) of the
+Regulations
+(see paragraphs 66 and 67, below).
+[56]
+The Court was initially attracted to the view that the filing of a motion under s. 6(5) of the
+Regulations
+was more in the nature of a procedural vehicle for the quick dismissal of applications rather than a matter of substance and jurisdiction, if the application for prohibition was filed in response to a NOA that expressly included the second person's arguments on eligibility, such that the first person would have a full opportunity to know the case to meet and to file evidence in response. (In that respect, the Court notes that except for the letter of the Minister dated July 30, 2007, there is no indication that Altana sought and was refused the opportunity to file reply evidence pertaining to the patents' eligibility for listing, as nothing of the sort was discussed in Prothonotary Tabib's decision of June 15, 2007, or in Justice Pierre Blais' Order of August 28, 2007, 2007 FC 857). Moreover, costs could normally be used to discourage second persons from raising listing in the application itself, given that the filing of a s. 6(5) motion early in the process is the only way to avoid useless prohibition proceedings, as was noted by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> at paragraph 39.
+[57]
+However, on a closer review of the wording of s. 5(1), it appears that the legislator, although clearly aware that the propriety of a patent's listing could become contentious (he included s. 6(5)), did not leave any room for the addition of allegations other than those listed there [see footnote 14]. Indeed it would change the nature of an application under s. 6(1) if the first person had to deal with issues that are left to the whim of the author of the NOA. The sequence normally applicable to the filing of evidence is already difficult. It would become almost impossible to manage if new issues involving a different burden of proof could be added.
+[58]
+In fact, the reasoning of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 1 (F.C.A.), where it was held that a generic manufacturer cannot by means of a judicial review obtain an order forcing the Minister to remove an improperly listed patent, was to the effect that the
+Regulations
+provide a comprehensive scheme, albeit an imperfect one, which includes a specific process to deal with improperly listed patents, that is, the filing of a motion pursuant to s. 6(5). In addition, with the inclusion paragraph 6(10)(b), the legislator provided for potential awards of costs having regard to the improper listing of a patent, to say nothing of the possibility of seeking damages pursuant to s. 8 of the
+Regulations
+.
+[59]
+Recently, the Federal Court of Appeal reiterated in <FRAGMENT_SUPPRESSED> , at paragraph 34, that a generic drug manufacturer may initially be required to address every patent listed, even those that are improperly listed, and that the possibility to contest an improper listing by way of a paragraph 6(5)(a) motion does not arise until a prohibition application has been commenced.
+[60]
+At paragraph 36, the Court in <FRAGMENT_SUPPRESSED> also stated:
+"A motion under paragraph 6(5)(a) is not analogous to a motion for summary judgment or a motion to strike proceedings, and cannot be governed by the principle from
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), that an application normally will not be struck out on a motion before the hearing. The purpose of a paragraph 6(5)(a) motion is to remove from consideration in a prohibition application any patent or patents that should not have been listed. That purpose can be achieved only if the motion is made and dealt with prior to the hearing on the merits of the application."
+Indeed, a motion under paragraph 6(5)(a) cannot be assimilated to a motion for summary judgment or a motion to strike because it doesn't broach the questions normally at issue in the application itself. This is why it should normally be dealt with prior to the hearing on the merits of the application, although as indicated by Prothonotary Tabib in her order in file T-738-06 dated October 24, 2007, this cannot always be achieved or accommodated.
+[61]
+With respect to the early working arguments and the application of paragraph 5(1)(b), the Court cannot accept Apotex's proposition that <FRAGMENT_SUPPRESSED> stands for a wider proposition than the one submitted by Altana. Apotex referred the Court to paragraph 57 of <FRAGMENT_SUPPRESSED> (trial decision), which cites para. 39 of <FRAGMENT_SUPPRESSED> . However, the arguments raised by Novopharm before Justice Roger Hughes and the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> were essentially the same as those raised here (see para. 111 of the trial decision), with the difference that they arose in part because the innovator had listed its patent for new uses after the filing of the ANDS but in respect of NOCs issued prior to that filing. Even if Novopharm argued that it was clearly not making use of the patented invention (the new use was not even listed when they filed their ANDS) and no NOC had been issued to the innovator for that use, Justice Hughes was nevertheless clear that it was still required of them to file an NOA, as they were subject to paragraph 5(1)(b). To come to that conclusion, he again specifically quoted, at para. 112, the passage from <FRAGMENT_SUPPRESSED> relied upon by Apotex here. [see footnote 15] The Federal Court of Appeal affirmed this decision on this point. On the basis of these decisions, the Court finds that Apotex had no choice but to file its NOA and to address the issues specifically listed at s. 5(1) of the
+Regulations
+.
+[62]
+The difficulty here is that the cumulative conditions (especially the last one) for the application of paragraph 5(1)(b) set out in <FRAGMENT_SUPPRESSED> , at para. 59, call for a review of the relationship between the patent list and the NOC pursuant to which the comparator drug has been marketed in Canada.
+[63]
+Had the matter arisen after the Minister instituted the patent list review initiated after <FRAGMENT_SUPPRESSED> and the <FRAGMENT_SUPPRESSED> decisions, the latter might have decided that the '694 patent could not be listed at all, or that the '748 patent could only be listed against the March 10, 2000 NOC (submission no. 055738) applicable to the 40 mg tablet only.
+[64]
+But this is not what happened and there is no mechanism in the
+Regulations
+that enables the Court to decide such issues outside of judicial review proceedings.
+[65]
+Altana argues that these issues are akin to eligibility issues, and must be decided as part of the s. 6(5) motion. I agree.
+[66]
+Thus, in light of the above, the Court concludes that it has no jurisdiction to consider eligibility issues (s. 4) or the early working issues. However, as mentioned above, pursuant to subparagraph 5(1)(b)(iv), the Court must consider whether the claims that are still at issue in respect of infringement are claims for the medicine itself or for the use of the medicine because as mentioned, these are the only relevant claims that need to be addressed in the NOA and which can justify a prohibition order if Apotex's allegations of non-infringement are not justified.
+[67]
+In this particular case, Apotex did not allege in its NOA that claims 15 and 16 [see footnote 16] were irrelevant and need not be addressed because they were not claims for the medicine itself or the use of the medicine in Pantoloc, the only comparative drug used as reference for the purpose of demonstrating bioequivalence. In the absence of such allegations, the Court cannot consider this argument. With respect to the '694 Patent, Apotex's allegations in respect of irrelevant claims at pages 53 and 54 of its NOA deal only with claim 3 [see footnote 17], presumably because it is quite obvious that claims 6 and 13 are Shell Oil type claims intended to cover a particular use of pantoprazole.
+[68]
+Having considered claim 3, the Court finds that indeed it is not a claim for pantoprazole or pantoprazole sodium or its use. However, this finding is not determinative in this case, because as it is explained hereinafter (at paragraphs 204-222) , even if the Court were to accept that claim 3 is a relevant claim for the purpose of subparagraph 5(1)(b)(iv), Altana has not established that the allegations of non-infringement  <FRAGMENT_SUPPRESSED> 's NOA in respect of this claim are not justified.
+Eligibility issues
+[69]
+Normally I would not say more in respect of eligibility issues, but here Apotex has three recent decisions in which those issues were decided by the application judges, without the second persons having filed motions under s. 6(5) of the
+Regulations
+. It is trite law that jurisdiction is a matter of law reviewable on the standard of correctness. It would therefore be appropriate to add some comments on the merits of the issue, in the event that I am wrong in finding that the Court has no jurisdiction to review them.
+[70]
+The relevant NOCs and the patents listed against them are as follow:
+40 mg Tablets
+Submission No. and Date
+NOC Issue Date
+Reason for Supplement
+Used to list 748 patent
+Used to list 694 patent
+055738 - April 9, 1998
+March 10, 2000
+New Indication: In combination with appropriate antibiotics, eradication of
+H.pylori
+infection associated with an active duodenal ulcer
+Yes
+Yes
+057926 - August 31, 1998
+March 10, 2000
+New Indication: Maintenance treatment of patients with reflux esophagitis
+No
+No
+066552 - April 20, 2000
+March 2, 2001
+New Indication: Treatment of symptomatic gastro-esophageal reflux disease (GERD) such as acid regurgitation and heartburn
+Yes
+Yes
+20 mg Tablets
+057926 - August 31, 1998
+March 10, 2000
+New Indication: Maintenance treatment of patients with reflux esophagitis
+Yes
+Yes
+087266 - Sept 22, 2003
+October 15, 2003
+New Indication: Prevention of gastrointestinal lesions induced by non-steroidal anti-inflammatory drugs in patients with a need for continuous NSAID therapy
+Yes
+Yes
+[71]
+As noted, for their listing to be valid, first there must be a relationship between the patented invention described in the '748 and '694 patents and the various NOCs or the particular NOC against which they were listed ( <FRAGMENT_SUPPRESSED> , para. 39;
+ <FRAGMENT_SUPPRESSED>  (at para. 22), affirmed [2007] F.C.J. No. 1062 (at para. 29).
+a) The Patented Inventions
+[72]
+To define the patented invention the Court must, as indicated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (
+Biolyse
+), at para. 52, look at the whole of the patent, not only the claims ( <FRAGMENT_SUPPRESSED> (trial decision), at paragraph 21).
+[73]
+Having considered the disclosure of the '748 patent as well as all of its claims, the Court is satisfied that the patented invention is a novel pharmaceutical composition combining pantoprazole or one of its salts and a HIAMA (one or more), such components being administered concurrently or non-concurrently, for the treatment and prevention of gastrointestinal disorders caused or exacerbated by
+Hp
+and secreted gastric acids [see footnote 18].
+[74]
+With respect to the '694 patent, there is some dispute as to what constitutes the patented invention, as noted above. The disclosure discusses a great number of compounds under the rubric "formula 1" and specifically references 94. Pantoprazole is but one of these. However the claims only cover pantoprazole (and its salts).
+[75]
+For Apotex, the invention relates only to new oral drug forms of pantoprazole useful in the treatment of diseases of the stomach and intestines caused by
+Hp
+, whereas for Altana the invention relates to the use of pantoprazole as an antimicrobial useful in the treatment of
+Hp
+infection and diseases of the stomach or the intestine caused by
+Hp
+.
+[76]
+According to Altana, the claims covering particular drug forms, such as claim 3, address a preferred embodiment of the patented invention, as those formulations are particularly useful to enhance the antimicrobial action of pantoprazole.
+[77]
+Having reviewed the disclosure and the claims, the matter is certainly not evident. On the one hand, under the heading "Scope of application of the invention" on the first page of the patent, the invention is said to relate to "new oral drug forms", to be "employed for the treatment of diseases of the stomach and/or intestines caused by Helicobacter bacteria". Further along on the same page, the invention is said to relate "to the use of compounds of formula 1 and their pharmacologically tolerated salts for the preparation of medications to be administered orally for combating helicobacter bacteria".
+[78]
+Claims 3 and 20 and their dependent claims (except claims 26 - 31) all cover drug forms where the pantoprazole composition is in a mixed form that is substantially resistant to gastric juice as well as substantially non-resistant to gastric juice. There is no restriction as to their use.
+[79]
+On the other hand, claims 1, 2, 6-10, 13, 14-19 and 26 - 31 cover the use of tablets, capsules, pellets, etc. of pantoprazole when used for treating or combating helicobacter bacteria or
+Hp
+. Claims 1 and 13 are unrestricted as to form, while claims 2, 7 and 14 are. Claims 26 through 31 are restricted to the particular form covered by independent claim 20 (or its dependent claims).
+[80]
+Turning back to the disclosure, on page 4 of the patent, after listing a variety of orally administered "medicament" forms (tablets, capsules, etc ...) the patent describes it as "advantageous" for the forms listed "to be such that they readily dissolve in gastric juice and release the active compound in the stomach". The disclosure continues: "For combined treatment of gastric diseases which are based both on an increased secretion of gastric acid and on damage to the stomach by
+Hp
+, there may also be mentioned those drug formulations to be administered orally which contain active compounds of the formula 1 in a form which is resistant to gastric juice and in a form which is not resistant to gastric juice simultaneously in an individual dose".
+[81]
+At page 5 the disclosure notes, "if the compounds of formula 1 are to be employed for the treatment of diseases of the stomach based on the presence of Helicobacter pylori, the medicaments to be administered can also contain ... active constituents of other groups of medicaments".
+[82]
+Finally, after noting that it has been found, surprisingly, that compounds of formula 1 are considerably more active against Helicobacter bacteria in an acid medium than in a neutral medium, the patent disclosure states that "the invention thus
+preferably
+relates to the use of such compounds for the preparation of medicaments which are not in a formulation which is resistant to gastric juice and are to be administered orally for combating Helicobacter bacteria". (My emphasis.)
+[83]
+It is also clear from the disclosure and the claims that the formulations of pantoprazole may include other antimicrobials even though these are not essential elements of any of the claims.
+[84]
+In view of the foregoing, and not without difficulty, the Court concludes that the patented invention is the use of pantoprazole as an antimicrobial to treat Hp infection (or helicobacter bacteria) and gastrointestinal diseases arising therefrom.
+[85]
+Currently, the '748 and the '694 patents are listed against two NOCs issued for the 40 mg tablets of Pantoloc pursuant to SNDS no. 055738 and 066552. The patents are also listed against two NOCs issued for the 20 mg tablets of Pantoloc pursuant SNDS no. 057926 and 087266. (See paragraph 70 above)
+[86]
+All of the NOCs issued for Pantoloc identify the medicine or medicinal ingredient in that drug as pantoprazole sodium. The form is listed as "tablet enteric coated", and the drug is classified under the therapeutic class "H+, K+ -ATPASE INHIBITOR".
+[87]
+There is no evidence and neither party argued that in light of jurisprudential developments in the time since they were listed, the '748 and '694 patents should or could be listed against the NOCs issued pursuant to SNDS nos. 066552 or 057926.
+[88]
+At the hearing, Altana argued that the '748 patent was properly listed against the NOC issued pursuant to the SNDS no. 055738 (40 mg tablets) presumably because the applicants recognized that this was the only way they could comply with the requirement for a linkage between the patented invention and the NOC and paragraph 4(2)(b) of the
+Regulations
+. In respect of the '694 Patent, Altana focused on the fact that it was properly listed against the NOC issued in 2003 pursuant to SNDS no. 87266 for the 20 mg tablets only. However, when these arguments were put in writing and filed on the last day of the hearing [see footnote 19], Altana modified its position and also argued that the '694 Patent was properly listed against the SNDS no. 55738 for the 40 mg tablets.
+Analysis
+[89]
+To begin with the '694 patent, the NOC issued pursuant to SNDS no. 087266 refers to the prevention of lesions induced by NSAIDS. Thus, at best this indication refers to asymptomatic
+Hp
+infection.
+[90]
+In arguing that there is a relationship between this new indication and the 694 Patent, Altana relies on the evidence of Dr. Wolman, who states that the prevention [see footnote 20] of NSAID ulcers in patients at "increased risk" would be understood to refer to
+Hp
+positive patients. Hence, the relationship with the use of pantoprazole as an antimicrobial to combat
+Hp
+infection.
+[91]
+The Court is not swayed by this line of reasoning. First, the Court prefers the evidence adduced by Apotex in respect of what a physician would normally understand the reference to "increased risk" to mean. In his affidavit at paragraph 57, Dr. Grant Thompson states that when Apo-pantoprazole is used for the prevention of NSAID-induced gastrointestinal lesions, its indicated dosage (20 mg) is not consistent with a regimen intended to treat or combat
+Hp
+infection. Hence, the reference to "increased risk" would not be a reference to the presence of
+Hp
+but rather to old age, being female, and a prior history of NSAID induced upper G.I. injury. Second, Dr. Wolman's opinion is inconsistent with exhibit "I" of his affidavit (Ontario Guidelines for Peptic Ulcer Disease), wherein the phrase "users ... at high risk for developing NSAID-related ulcers" is explained in brackets as follows: "i.e., >65 years old, history of ulcers or HI bleeding, and or / cardiovascular disease)." Any reference to
+Hp
+infection is notably absent. Dr. Wolman's opinion is also inconsistent with the pharmacotherapy text [see footnote 21] put in evidence as exhibit "E" to his affidavit by Altana's other expert, pharmacist Ronald Elliott, which clearly indicates at page 710-711 that
+Hp
+is not an "established risk factor" for NSAID-induced ulcer but merely a possible one. Having considered Dr. Wolman's cross-examination on these issues, one can only conclude that the issue is at best controversial.
+[92]
+In sum, if the thin evidence adduced by Altana in respect of a tenuous link to the patented invention were sufficient to satisfy the relationship requirement set out by the Supreme Court of Canada in <FRAGMENT_SUPPRESSED> , it would reduce the Court's inquiry to a useless exercise not at all in line with the intention of the legislator and the aim of the regulatory scheme. The Court is satisfied that Apotex has established on a balance of probabilities that there is no linkage between this particular NOC and the patented invention in '694, or its claims.
+[93]
+Turning now to SNDS no. 055738 (40 mg tablet) and the NOC associated with it, the question here is whether the indication added for the eradication of Hp infection associated with an active ulcer is relevant to the patented invention as defined in para. 83 above. As noted earlier, it is clear that even if the '694 Patent allows for the use of pantoprazole with antibiotics, the latter cannot be construed as essential elements of either the patent claims or the patented invention. Thus, reference to a combination therapy in itself cannot support the conclusion (like it could or would for the '748 Patent) that a proper relationship exists between the NOC in question and the patented invention of the '694 Patent.
+[94]
+In the combination therapy described in that indication, there is no reference to the particular role played by Pantoloc or pantoprazole. The classification of Pantoloc under the therapeutic class "H+K+ -ATPase Inhibitor" indicates that it is approved only as a PPI. The Court notes furthermore that the Pantoloc Product Monograph begins with a note that reads "
+as with all proton pump inhibitors
+, when Pantoloc (pantoprazole sodium) is prescribed in combination with ... for the eradication of H.
+Pylori
+infection ...". (My emphasis)
+[95]
+The uncontradicted evidence of Dr. Hopfenberg (see paragraphs 90-94 of his affidavit), which is based on the description of the drug form in the NOC (i.e., "enteric coated tablets"), the Pantoloc Product Monograph and the dissolution tests for Pantoloc attached to Dr. McGinity's affidavit, is to the effect that the drug is approved for a single dosage form that would not fall within the parameters of claim 3, or for that matter any of the '694 claims dealing with mixed dosage forms [see footnote 22].
+[96]
+Dr. Marshall stated on cross-examination that an acid-resistant dosage form of pantoprazole is consistent with its use as a PPI, and not consistent with its use as an anti-Helicobacter drug (at page 2315 applicant's record, and the end of paragraph 37 of his affidavit). Also, there does not appear to have been any change to the dosage form of Pantoloc, either prior to or after the indication for
+Hp
+infection associated with an active ulcer was added.
+[97]
+The "Indications and Clinical Use" section of the monograph also begins with the comment that "Pantoloc (pantoprazole sodium) is indicated for the treatment of conditions
+where a reduction of gastric acid secretion is required
+"; (my emphasis), this wording remains the same as it was prior to the addition of the new indication pursuant to SNDS no. 55738.
+[98]
+Not only does the Product Monograph make no express reference to Pantoloc's purported approval as an antimicrobial or antibacterial, but under the heading "Microbiology" at pages 21-22 [see footnote 23] the monograph actually discloses the following:
+"Pantoprazole alone was without effect on
+helicobacter pylori
+infection, while in combination therapy with the antibiotics, pantoprazole had a potentiating effect on the elimination rate of
+helicobacter pylori
+infection."
+[99]
+Under the heading "Consumer Information", the monograph is even more to the point: "What it does: PANTOLOC works by reducing the amount of acid made in your stomach." Even if as suggested by Altana, the drug could play both roles at the same time, one would expect a mention of it.
+[100]
+Finally, the Court has considered Altana's explanation of how pantoprazole purportedly acts as an antimicrobial even when administered in an entirely enteric coated tablet. The theory is that the drug would bypass the stomach, be absorbed through the intestine, and then be distributed throughout the body including the parietal cells, where it would be chemically activated. From there, activated pantoprazole would be secreted to the acidic luminal part of the stomach along with any remaining inactivated pantoprazole, where it would act against
+Hp
+. While this is all well and good as a theory, it is only that. The Court prefers the evidence of Dr. Howden, which indicates that even today there is no evidence that PPIs can be secreted in their "activated" form from the parietal cells to the stomach. Rather, it appears that following uptake in the parietal cells, PPIs bind with the proton pump and are essentially "stuck" there. This is the presumed basis of their antisecretory effect. Dr. Howden also commented that even if activated pantoprazole could somehow be freed from its bond with the proton pump, it is unlikely that it would ever "translocate" to find its way from the stomach's gastric glands to the stomach mucosa, where
+Hp
+lives. This evidence is in line with the position taken by Dr. Fennerty, an expert presented by Altana to comment on validity issues only but who wrote on this subject (see his cross-examination, questions 729 and 735).
+[101]
+To summarize, the Court is satisfied that Apotex has established on a balance of probabilities that the role played by Pantoloc in the indication for combination therapy added pursuant to the 055738 SNDS is that of a PPI. This role is in line with the position taken by Altana as to the function of pantoprazole in the combination therapy covered by the '748 Patent. [see footnote 24]
+[102]
+In light of these considerations and based on the teaching of the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , above, the Court must conclude that the '694 Patent is not eligible for listing against any NOC issued in relation to either the 20 mg or the 40 mg tablets of Pantoloc.
+[103]
+The arguments presented by each side in respect of the '748 Patent are not as clear because they seem to address in the same breath both the link between the patented invention and this particular NOC, as well as the nature of the claims required for listing pursuant to paragraph 4(2)(b).
+[104]
+In its NOA, Apotex's eligibility allegations are to the effect that no SNDS submitted for Pantoloc supports the listing, and that otherwise, if the 055738 SNDS does support the listing, they would in any event only need to address the '748 Patent in relation to the particular dosage strength (i.e. 40mg) covered by the associated NOC. They also refer to
+Biolyse
+.
+[105]
+That said, in its application, in addition to arguing a lack of jurisdiction as noted earlier, Altana denies the absence of a link. Altana maintains that the '748 Patent is properly listed pursuant to paragraph 4(2)(b), because it contains a claim for the medicine or the use of the medicine (see paragraph 24 of the Notice of Application).
+[106]
+At the hearing, it was not disputed that in fact the '748 Patent does not contain any claim for the medicine in Pantoloc itself, which is a known compound (pantoprazole). What appears to remain at issue then is the existence of a proper linkage with the patented invention supporting listing of the '748 Patent, and whether or not the '748 Patent includes a claim for the use of the medicine.
+[107]
+It is in this context that Altana urged the Court to consider the letter of Health Canada's Therapeutic Product Directorate dated July 30, 2007. [see footnote 25] This general correspondence refers to an earlier letter of June 18, 2007, that was not produced or included in the authorities. It does not contain "a decision" on any specific matter, but rather an explanation of an earlier position taken by the Directorate, of which no details were given.
+[108]
+The reasoning of the Directorate is to the effect that "patents claiming the use of a medicine in combination with one or more other medicines are eligible for listing against that medicine where the use of the said combination is found in the indication section of the drug approved Product Monograph and the patent allows for separate administration". [see footnote 26]
+[109]
+It is not clear from this document whether the Directorate is referring to the linkage requirement for listing, or to the nature of the claim required under paragraph 4(2)(b) of the
+Regulations
+. Although both issues relate to eligibility, they are quite distinct. If in fact the Directorate was referring to the nature of the claims in the '748 Patent for the purpose of paragraph 4(2)(b), there is no explanation as to how it construed claims such as claims 15 and 16.
+[110]
+The Court can certainly follow the Directorate's reasoning if it is referring to the existence of an appropriate link between the patented invention in the '748 Patent and the NOC issued as a result of SNDS no. 55738. In effect, for that purpose one may have regard to the indications, if any, listed in an NOC. There is little doubt in the Court's mind that for that purpose, here the indication in the NOC does provide an appropriate link.
+[111]
+It is not so clear, however, that one can consider indications in an NOC for the purpose of determining what "medicine" it covers and whether or not a patent proposed for listing includes a claim for the medicine itself or for the use of the medicine identified in a particular NOC.
+[112]
+The Directorate's wording, particularly the phrase "claiming the use of a medicine in combination with one or many other medicines" could be taken to mean that the Directorate construed claims such as 15 and 16 as claims for the use of the medicine pantoprazole itself, or that it construed the claims as claims for the use of the novel pharmaceutical compositions set out in claims 1-14. If the latter, and assuming that the Directorate is discussing paragraph 4(2)(b) as opposed to the requirement for a proper linkage, one can only understand the Directorate's position to imply that it construes the word "medicine" in the phrase "claim for the use of the medicine" in paragraph 4(2)(b) to mean something different than what it means in subs. (4)(1) and that there is no need for correspondence.
+[113]
+Certainly, the Court cannot follow the Directorate's lead or reasoning if it construed claims 15 and 16 as claims for the use of pantoprazole. For the reasons set out above under the heading "Construction," there is absolutely no doubt in the Court's mind that the use covered by those claims is that of the novel pharmaceutical composition(s) containing all of the essential elements described therein. As indicated, the patented invention is the novel composition containing the different medicines, and the claims relating to their use are only there to cover other aspects of this invention. It is important not to deal or treat these compositions as if they were mere aggregations, for a simple aggregation is not a patentable invention.
+[114]
+If the Directorate's reasoning is based on the interpretation of the word "medicine" in paragraph 4(2)(b) referred to above in paragraph 112, it is certainly not supported by any legal authorities and it raises concerns.
+[115]
+There appears to be only two decisions that may have some bearing on the issue. At the hearing, Apotex made reference to
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 161 (F.C.), at paras. 8, 9, 10, 12, 16-20, affd. (2006), 354 N.R. 294; 55 C.P.R.(4th) 187 (F.C.A.), and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 30 (F.C.), at paras. 47-57, arguing that these decisions stand for the proposition that the medicine in the claims referred to in s. 4(2)(b) must match the medicine in Pantoloc.
+[116]
+Apotex argues that the decision of the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> is on all fours with the present case, while Altana took the position that both cases are clearly distinguishable on their facts and do not contain any teaching that this Court should or can apply here.
+[117]
+In respect of <FRAGMENT_SUPPRESSED> , Apotex says that according to its review of the '726 Patent at issue in that case which was entitled "Combination Therapy", it included claims providing for the separate administration of the distinct medicinal ingredients or active medicines that were essential parts of the combination covered (claims 18-45). [see footnote 27] It is on that basis that it submits that the Court of Appeal's finding at paragraph 6 of its decision is determinative of the issue in the present case. That paragraph reads as follows:
+"In the Federal Court and in this Court, the Minister argued that the 726 patent cannot be listed against Norvasc because the 726 patent does not contain a claim for amlodipine besylate
+or for the use of amlodipine besylate
+. The Judge accepted the Minister's argument as correct. I agree." (My emphasis)
+[118]
+The Court is not satisfied that the Federal Court of Appeal had in mind the argument presented by Altana here when it reached its conclusions in <FRAGMENT_SUPPRESSED> (see particularly paragraph 8-11). Moreover, in <FRAGMENT_SUPPRESSED> the position of the Federal Court of Appeal was perfectly in line with the one taken by the Minister, whereas Altana says that its position is based on an interpretation adopted by the Minister. [see footnote 28]
+[119]
+Having carefully examined these authorities and the
+Regulations
+themselves, there are two questions in respect of which the decision of Justice Anne Mactavish  <FRAGMENT_SUPPRESSED>  Laboratories
+is helpful here.
+[120]
+First, the Court agrees with the analysis of Justice Mactavish at paragraph 47-54, which indicates that the medicine referred to in paragraph 4(2)(b) of the
+Regulations
+in the phrase "claims for the medicine itself or for the use of the medicine" is the medicine referred to in s. 4(1), and is the medicine identified in the NOC issued in respect of the drug (here Pantoloc).
+[121]
+Like Justice Mactavish, the Court finds that the legislative scheme makes it clear that NOCs "are issued in relation to drugs that contain
+specifically stated medicines
+". (My emphasis) We all know that the forms used for NOCs, ANDS and SNDS all expressly contain a specific box for that purpose.
+[122]
+Also, and despite the differences in the issues and facts  <FRAGMENT_SUPPRESSED>  Laboratories
+, the Court finds that the concerns expressed by Justice Mactavish at paragraph 50 of her reasons are relevant here. She said:
+"In s. 5(1) of the
+PM (NOC) Regulations
+, generic manufacturers must make allegations with respect to specific medicines. It would not be possible to do this and considerable confusion would result, if the 'medicines' in question were not specifically identified in New Drug Submissions and subsequently issued Notices of Compliance."
+All this to say that a second person should be able to determine the medicine in a drug for which a patent claims a use pursuant to paragraph 4(2)(b) by simply consulting or searching the NOC database by medicine.
+[123]
+In respect of combination patents, following the interpretation proposed by Altana, an innovator could list a combination patent like the '748 Patent against many different drugs for the same combination of medicinal ingredients which would be identified by different medicines in their NOC. For example, in this case pantoprazole and the two specific HIAMAs in a single dosage (claim 12); pursuant to <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , the NOC would necessarily have to identify in the section entitled "medicines" pantoprazole and the two HIAMA it contained.
+[124]
+However, Altana could also opt to sell a medicament package including Pantoloc and the two HIAMAs. In such a context, one imagines that the medicament package would have to list all of the medicinal ingredients included on the NOC.
+[125]
+Alternately, and as is the case here, Altana could simply choose to sell Pantoloc alone and to list the '748 Patent against that drug under an NOC referring only to pantoprazole sodium as the medicinal ingredient, listing the other essential "medicines" of the novel composition in the "indications."
+[126]
+It could also, if it had such a product, list the '748 Patent against any antibiotic or antibacterial drug fitting the description of a HIAMA, and the NOC would identify that as the active medicine without reference to pantoprazole, which would then be referenced only in the indications.
+[127]
+This being said, it can be readily seen that such an interpretation could also degenerate easily into more litigation, over what an appropriate indication for the purpose of listing a combination patent should be. In this case, Altana argues that the indication for duodenal ulcer and gastric ulcer, which is also found in its Pantoloc product monograph, in fact directs or indicates that pantoprazole sodium should be used in combination with antimicrobials. If this were so, does it then follow that the Minister would have had to list the combination patent even if there were no specific reference to clarithromycin and amoxicillin in the indication? How would he then go about verifying the safe use of the combinations?
+[128]
+One can also foresee litigation on eligibility over the notion that a patent allows for separate administration of a combination's components. Does that mean that listing is available to all patents where a combination, although claimed as a composition in the patent, can be administered separately? Or does it apply only when the products can be administered non-concurrently? If the latter, what is the maximum difference in time, if any? Should it be the five minutes referred to in the patent, the two hours, the ten hours or the twenty-four hours, or more? The issue is not trivial, being that at some point the "composition" will inevitably start to resemble a mere aggregation that may not be patentable.
+[129]
+Finally, by listing the '748 Patent against an NOC that only identifies one medicinal ingredient, the first person may benefit from the regulatory scheme and draconian freeze provided for in the
+Regulations
+, even in cases where the second person's proposed monograph makes no reference whatsoever to the express indication providing for the combination, an element viewed as essential to justify the listing of this patent by the Directorate. Thus the legislative scheme would be extended to an ANDS that makes no express reference whatsoever either in the medicinal ingredient or the indications to the other medicines covered by the use claimed in the '748 Patent.
+[130]
+The Court is sensitive to the need to construe the
+Regulations
+in a manner that will avoid the easy bypassing of an invention covered by a combination patent (which is presumably the Minister's concern). But at the same time, one must ensure that generic products which include only a medicine that is just one essential element of the novel compositions claimed, and that do not specifically refer to the use of the other medicines in their ANDS (which includes their proposed monograph), are not unduly subjected to an extension of the innovator's monopoly.
+[131]
+It may be that the only practical solution would be to require separate New Drug Submissions (NDS) for pantoprazole alone and pantoprazole in combination with specific HIAMAs (as opposed to a simple SNDS in the latter case), but that is not for the Court to decide. Other avenues may be available to the Minister to achieve the two objectives referred to above. Simply put, in this case and in respect of '748 Patent, the solution alluded to in the letter of July 30 is not satisfactory having regard to the actual wording of the
+Regulations
+.
+[132]
+As it was noted by the Supreme Court of Canada in
+Biolyse
+at paragraph 12, the remedy provided for in the
+Regulations
+is not the only protection granted a patentee, who continues to benefit of the usual remedies for infringement available under the
+Patent Act
+. The Court doubts very much that this scheme, which has already been described as imperfect, should be made any more complex.
+[133]
+There is no need in my view to comment on Apotex's additional arguments on eligibility [see footnote 29].
+III.
+Infringement
+3.1
+Legal principles
+[134]
+An application pursuant to s. 6(1) of the
+NOC Regulations
+is not an action for infringement. Hence in the present case, the Court only needs to determine whether the facts, assumed or proved, and the legal assertions made by the second person in its NOA justify its specific allegation of non-infringement (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 206 (F.C.A.), and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 (F.C.A.)).
+[135]
+The Federal Court of Appeal has closed the debate over the interpretation of s. 5(1)(b)(iv) of the
+NOC Regulations
+, stating that they are intended "to prevent only infringement by (or infringement induced or procured by) generic drug producers who make abbreviated new drug submissions containing one of the stipulated comparisons to an existing drug product" (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 453 (F.C.A.), at paras. 54-58). This was confirmed again in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 388 (F.C.A.) (at paras. 16-19).
+[136]
+To establish infringement of a use claim in an infringement action, normally the following elements must be established (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 21 (at para. 61) (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 129 (F.C.A.) (at para. 43):
+a) An act of infringement was completed by the direct infringer;
+b) The act of infringement was influenced by the inducing party to the point that, without said influence, infringement would not take place;
+c) The inducing party must know that its influence would result in the completion of the act of infringement.
+Although other formulations of the test have been used, it is clear that the inducer must have done something that leads the direct infringer to infringe.
+[137]
+In this respect, in the context of applications under the
+NOC Regulations
+, it has been held that to establish inducement or procurement, mere sale by a second person is not sufficient. As Justice Sexton pointed out in
+ <FRAGMENT_SUPPRESSED>  "Something more is required. Something active must be done; mere passivity or even knowledge that one's product will likely be used in direct infringement of a patent is not sufficient" (
+ <FRAGMENT_SUPPRESSED>  (at para. 32);
+ <FRAGMENT_SUPPRESSED> , at paras. 167-168). Justice Karen Sharlow in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 24 (F.C.A.), summarized the case law on the subject as follows:
+"[9] Those cases establish that an allegation of non-infringement of a claim for the use of a medicine is justified if the generic drug manufacturer is seeking a notice of compliance only for a use that is not within the new use claim and the evidence fails to establish that the generic drug producer will infringe the new use claim by inducing others to prescribe or use the generic product for that new use.
+"[10] Infringement of a use claim by a person other than a generic drug manufacturer may occur because of the 'off label' use of drug products. For example, if a notice of compliance is issued to Novopharm to permit it to market its generic ramipril product for use in the treatment of hypertension, and if a physician were to prescribe the Novopharm product, or a pharmacist were to dispense it, for one [page 28] of the uses claimed in the 089 patent or the 948 patent (despite the fact that no such use has been approved even for Altace), the physician or pharmacist may be infringing the claims of the 089 patent or the 948 patent. However, Novopharm would not necessarily be implicated in those acts of infringement by the physician or pharmacist. Unless Novopharm is so implicated, the infringement by the physician or pharmacist would not be the kind of infringement that can support the granting of a prohibition order under the
+NOC Regulations
+.
+"[11] A generic drug manufacturer may be implicated in the infringement by others of a claim for a new use of a medicine if the generic drug manufacturer induces that infringement. Infringement by inducement may be established, for example, by inferences reasonably drawn from the contents of the product monograph for the generic drug product, or evidence relating to the dosage form of the generic product, or its labeling or marketing. However, an inducement to infringe generally cannot be inferred from a mere reference to the new use in the product monograph, for example, in the course of explaining contraindications or drug interactions, or as part of a list of scientific references."
+[138]
+The parties are agreed that a full review of the case law on the subject reveals that applicants only succeeded in meeting the burden of proof referred to by Justice Sharlow in the passage cited above in two instances:
+ <FRAGMENT_SUPPRESSED> ; 291 N.R. 339 (F.C.A.) ( <FRAGMENT_SUPPRESSED> ), because even though Justice Marshall Rothstein's interpretation of s. 5(1) of the
+NOC Regulations
+in that case was not followed, the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , above, noted at paragraph 59 that <FRAGMENT_SUPPRESSED> was correct in result (see also
+Sanofi-Aventis
+at para. 10).
+[140]
+The Court has closely examined these decisions as well as those listed by the parties where inducement was not established and the allegations of non-infringement were found to be justified. This exercise brings into perspective the Federal Court of Appeal's recent statements in <FRAGMENT_SUPPRESSED> , above, particularly at para. 11.
+[141]
+The most relevant evidence considered in <FRAGMENT_SUPPRESSED> is described at paragraphs 31 to 39 of the decision. In that case, Genpharm's product monograph made specific reference to a dosage that could
+only
+be consistent with the patented new use of the medicine, despite the fact that the indications listed corresponded with the medicine's old uses. The packaging was similar to that of Proctor and Gamble's Didrocal product, which embodied the new use, as opposed to Didronel, its product which embodied and was marketed for the old use. There were moreover other statements as well as voluntary omissions  <FRAGMENT_SUPPRESSED> 's monograph which, when evaluated against the information in Proctor and Gamble's monograph,
+clearly
+signaled Genpharm's intention that its product be used for the patented new use.
+[142]
+As noted by Justice Rothstein at para. 35, the only credible reason for Genpharm to have compared its product to Didrocal instead of Didronel as its reference product was that "Genpharm wished to keep open to itself the option of having its product used in the treatment of osteoporosis", that is, the new use. Finally, there was evidence that the market for the old uses was small and diminishing.
+[143]
+ <FRAGMENT_SUPPRESSED>  as pantoprazole. It involved two patents: the '668 patent number which claimed the use of omeprazole as an antimicrobial for the treatment of
+Hp
+and
+Hp
+-related ulcers and the '762 patent covering the use of a combination of omeprazole and antibiotics for the treatment of peptic ulcers caused by an
+Hp
+infection. In respect of both patents [see footnote 30], Justice Carolyn Layden-Stevenson concluded that Genpharm's allegations of non-infringement were not justified, as its monograph contained passages from which she was ready to infer an intent that its product be used for the patented new use.
+[144]
+Justice Layden-Stevenson's key findings of fact are summarized at paragraph 155 of the decision. She accepted Genpharm's argument that its product monograph covered only old uses under the heading "Indications and Clinical Use". However, she found at subparagraph 155(k), that three specific passages in the monograph were problematic. The first referred to the use of omeprazole with an antibiotic, the second was a direct reference to the treatment of ulcers caused by bacteria and the third, which she noted to be the most blatant, specifically described the results of studies conducted on
+H. pylori
+positive and negative patients.
+[145]
+Since Justice Layden-Stevenson's inference that said passages would induce direct infringement was supported by the evidence before her, the Court of Appeal upheld her decision in respect of the '668 and '762 patents, with Justice Marshall Rothstein noting at paras. 22 and 23 that the passage dealing with
+H. pylori
+studies was included by way of an amendment to the original product monograph proposed by Genpharm, and that Genpharm had failed to provide any evidence explaining the amendment. This even though it had originally filed an expert affidavit that was clearly misleading, as it expressly stated that there would be no mention whatsoever of
+H. pylori
+infection in its product monograph [see footnote 31].
+[146]
+This brings me to the last case which, Altana submits, is also the one most on point. Altana urges the Court to adopt the finding of Justice Konrad von Finckenstein in <FRAGMENT_SUPPRESSED> , and conclude that inducement can be inferred from the reference to "gastric ulcer and duodenal ulcer"  <FRAGMENT_SUPPRESSED> 's monograph for Apo-pantoprazole.
+[147]
+In <FRAGMENT_SUPPRESSED> , Justice Von Finckenstein was dealing with an application relating to lansoprazole, another PPI in the same class as omeprazole and pantoprazole. It was known and used for the reduction of gastric acid secretion. The '741 patent before the Court covered the use of lansoprazole as an antimicrobial, alone or in combination with other antimicrobials, for the prevention or treatment of infectious diseases caused by
+H. pylori
+. This patent appears to be quite similar to the '694 patent before me here, however no combination patent comparable to the '748 Patent was at issue in <FRAGMENT_SUPPRESSED> .
+[148]
+Under the somewhat misleading title of "Novopharm's Marketing Strategy" at para. 47, the Court reviewed the uncontradicted evidence of the applicant's experts as to what would likely happen under the Ontario drug benefit formulary system and in the private payer market, and concluded that Abbott had established on a balance of probabilities that direct infringement would occur were the Minister to issue Novopharm a NOC.
+[149]
+Based on the evidence before him, Justice von Finckenstein made various findings of fact relevant to the issue of inducement. At para. 30, he found that lansoprazole is a PPI used for the prevention or treatment of patients with
+H. Pylori
+infections among other indications, and that it is sometimes used by itself (monotherapy) [see footnote 32], or with another medication (dual therapy) or as part of triple therapy (together with two antibiotics). He noted that the triple therapy is the gold standard. He also found that there were three
+major
+causes of ulcers, [see footnote 33] namely: 1)
+H. Pylori
+which causes approximately 90% of duodenal ulcers and 80% of gastric ulcers, 2) NSAID and 3) Zollinger-Ellison Syndrome, and other hyper-secretory states.
+[150]
+In his decision, Justice von Finckenstein is silent as to the purpose of lansoprazole when used in triple therapy. However, given his reference to the use of the drug alone to prevent and treat patients with
+H. Pylori
+infections, and given the wording of the claims under review in the '741 patent, presumably he was satisfied that it was used as an antimicrobial in that context. [see footnote 34]
+[151]
+The indications  <FRAGMENT_SUPPRESSED> 's product monograph were for the use of lansoprazole in the treatment of conditions where a reduction of gastric acid secretion is required. The list of conditions was generally similar to the one found  <FRAGMENT_SUPPRESSED> 's proposed monograph for Apo-pantoprazole, except that it included a reference to the healing and treatment of NSAID-associated ulcers in addition to their prevention. Although the monograph for Prevacid (the Abbott product) was not before the Court, according to the Canadian Compendium of Pharmaceutical Specialties ("CCPS"), it included an additional indication directed to the eradication of
+H. Pylori
+. Despite the absence of a reference to this indication  <FRAGMENT_SUPPRESSED> 's product monograph, Abbott argued (as does Altana here) that for all intents and purposes, the indication for "gastric ulcers and duodenal ulcers" would be understood to cover ulcers caused by an
+H. Pylori
+infection.
+[152]
+Finally, the proposed label for Novo-Lansoprazole included dosage instructions that could
+only
+refer to the triple therapy regimen (twice daily for one week).
+[153]
+Based on the evidence of experts before him including that of Dr. Graham, Justice Von Finckenstein found that Novopharm's monograph was set out as a prescription for triple therapy. Additionally, as the evidence indicated that gastric or duodenal ulcers caused by something other than
+H. Pylori
+were rare, the Court found it hard to understand why these indications for GU and DU were the very first two bullets in the product monograph. [see footnote 35] In the result, it was found that the monograph and the label would be encouraging physicians to prescribe Novo-lansoprazole in circumstances which would infringe Abbott's patent.
+[154]
+At paragraph 59, the Court concludes that:
+"Given the nature of the proposed PM, and label for Novo-Lansoprazole and in light of the evidence of likely infringement presented by Mr. Gavura and Ms. Ingram I have no hesitation in finding that the allegation of Novopharm is not justified."
+[155]
+The Federal Court of Appeal upheld the decision on the basis that the judge had applied the appropriate case law. He knew the legal test to apply, and it was open to him on the evidence before him to infer that physicians would be encouraged or induced by the product monograph and the label (dosage) to prescribe the generic product for the patented use. Given the applicable standard of review, the Court of Appeal concluded that it was not open to it to reassess the evidence (see paragraph 31).
+[156]
+Keeping in mind the cases referred to above, the Court will now proceed to apply their teachings to the facts of this case.
+3.2
+Infringement of claims 15 and 16 of the '748 Patent
+[157]
+In this case, Apotex alleges in its NOA that it will not be making, using or selling its tablets of sodium pantoprazole as part of the triple therapy combination, the use of which is claimed in the '748 Patent. Apotex also alleges that claims 15 and 16 of the '748 Patent will not be infringed, since its Apo-pantoprazole tablets will not be marketed or promoted to doctors, pharmacists or others for use in combination with a HIAMA, or as part of a medicament package comprising said agent. Moreover, given that the indications, clinical uses and dosage regimens set out  <FRAGMENT_SUPPRESSED> 's draft product monograph are distinct from those indicated with respect to pantoprazole triple therapy, its 20 mg and 40 mg tablets shall not infringe any of the claims of the '748 Patent.
+[158]
+Altana submits that it has established, on a balance of probabilities, through the evidence of Dr. Donald Low, Dr. Stephen Wolman, Dr. Linda Dresser, Mr. Jean-Yves Julien, Mr. Ronald Elliott and Dr. Ruth Corbin (and the two surveys carried out by her firm), that direct infringement by doctors, pharmacists and patients will occur, should Apotex obtain an NOC and market its Apo-pantoprazole product in accordance with its proposed product monograph.
+[159]
+At the hearing, Apotex conceded [see footnote 36] that indeed the Court could assume that at least one or some pharmacists would dispense Apotex's 40 mg tablets of pantoprazole when filling prescriptions for triple combination therapy written by doctors, whether such prescriptions referenced Pantaloc or pantoprazole sodium. This would be to treat a patient with a gastric or duodenal ulcer caused or exacerbated by
+Hp
+.
+[160]
+The applicants have thus passed the first hurdle in establishing indirect infringement where many first persons have failed in the past;
+ <FRAGMENT_SUPPRESSED> , affd. (2002), 22 C.P.R.(4th) 1,
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 97 ( <FRAGMENT_SUPPRESSED> .
+[161]
+Turning to the second step of the analysis, there are differences in the evidence before the Court in this case and what was before Justice von Finckenstein in <FRAGMENT_SUPPRESSED> . One of the most notable is that the dosage indicated  <FRAGMENT_SUPPRESSED> 's product monograph with respect to gastric and duodenal ulcers is 40 mg daily for two to four weeks. As will be explained, the Court is not satisfied that the applicants have established on a balance of probabilities that this dosage could in any way be construed as referring to the standard triple therapy regimen of 40 mg twice daily for one week.
+[162]
+Thus, the only question here is whether the Court can infer inducement on the sole basis that Apo-pantoprazole is indicated for the treatment of conditions corresponding to an old use, but for which the preferred treatment is now the patented combination therapy.
+[163]
+Evidently the draft product monograph for Apo-pantoprazole is a key source of indicia as to Apotex's conduct and intentions. However in my view, it is speculative to say that Justice von Finckenstein would have reached the same conclusion as he did in <FRAGMENT_SUPPRESSED> had the only element before him been a reference to gastric ulcer and duodenal ulcer in the product monograph. That said, in the present matter it is for the Court to make up its own mind on the basis of the evidence before it, which I will turn to now.
+3.2.1
+The Apo-pantoprazole draft product monograph and inducement
+[164]
+Altana relies on an answer of its expert microbiologist Dr. Donald Low during his re-examination, for its argument that the dosage recommended by Apotex in its product monograph could apply to the use of pantoprazole in combination with antimicrobial agents for the treatment of
+Hp
+. (Low's cross-examination at question 384 of the Application Record, volume 6, tab 15, page 1463) It is worth citing in part the passage in question:
+"383 Q. In the Apo PM, you were looking at the dosing section. There was a question in respect of DU and GU, gastric ulcer and duodenal ulcer, and recommended dosage, and monotherapy regime under the dosing section in respect of those two indications.
+I believe you indicated in your answer, and I had difficulty understanding it, something about a monotherapy regime in the dosing section.
+Can you clarify whether that would-if there were a monotherapy regime in the dosing section in the Apo PM, whether that would restrict a doctor to such a regime
+R/F MR. BRODKIN: Don't answer the question. You have asked him a question. You proposed the answer to him, and you have asked him whether he would agree, which is inappropriate, as you know.
+At this point, whatever answer you get, in my respectful submission, is improper and irrelevant. Now you have to answer, because I can't stop you.
+384 Q. Yes. Please carry on and answer, Doctor.
+A. I think that the dosage that is recommended in the monograph is the dosage that could be used either alone or in combination with antimicrobial agents for the treatment of Helicobacter infection."
+[165]
+The Court cannot accept this evidence. This because first, in response to a previous question (questions 183-184) he had no apparent difficulty understanding, Dr. Low stated clearly that nothing in the dosing and the product monograph contemplated a triple therapy regime, and this after taking some time to consider the whole Apo-pantoprazole monograph. Second, the answer excerpted above was not responsive to the question asked, which was already quite leading. Finally, in his affidavit Dr. Low himself refers to the triple therapy recommended by the
+Ontario Guidelines
+for
+Peptic Ulcer Disease and Gastroesophageal Reflux
+(exhibit K to his affidavit), which like the triple therapy described in Dr. Wolman's affidavit at paragraphs 62 and 63, clearly entails a dosage of 40 mg twice daily for seven days. This is also the recommended dosage for
+Hp
+infection in the Pantoloc monograph. If it was meant to say that one could use 40 mg daily to treat an
+Hp
+infection, Dr. Wolman said in his cross-examination that no doctor would treat
+Hp
+by prescribing pantoprazole alone.
+[166]
+This triple therapy dosage was not only acknowledged by Dr. Wolman, but it was used as the basic premise for the pharmacists' survey commissioned by Altana and informed the opinions of their expert pharmacists
+[167]
+Indeed, the only way we can reconcile Dr. Low's answer with his other statements is to assume that he was referring to only the strength of the tablet (40 mg) rather then the regimen prescribed, i.e. once daily for two to four weeks.
+[168]
+In light of the above, the Court finds that the dosage indicated by Apotex in its proposed monograph is the standard dosage for the healing of ulcers when pantoprazole is used alone as a PPI. It is not the usual and standard dosage for pantoprazole in the context of a triple therapy regimen for ulcers caused or exacerbated by
+H. Pylori
+infection, or for the treatment of the
+H. Pylori
+infection itself.
+[169]
+Accordingly, in that respect at least, the Court is satisfied that if Apo-pantoprazole were to be prescribed and dispensed as part of the standard triple therapy dosage regimen, as Apotex has conceded it likely would be, this would constitute "off-labeling".
+[170]
+Moving to another aspect of the information contained  <FRAGMENT_SUPPRESSED> 's draft Product Monograph, the starting point for the opinions of several of Altana's experts with respect to inducement was the notion that the link between
+Hp
+and gastric duodenal ulcer development and recurrence is generally known in the medical community.
+[171]
+Dr. Low opines that because the draft product monograph contains indications for conditions known to be manifestations of
+Hp
+infection,
+it directs
+clinicians and other health care professionals [see footnote 37] to use the product for the treatment of
+Hp
+in combination with an antimicrobial agent, in accordance with the existing triple therapy treatment described in documents such as the
+Ontario Guidelines
+. Likewise, Dr. Stephen Wolman, a gastroenterologist, is of the view that Apotex's product monograph
+informs
+gastroenterologists and clinicians that the drug is suitable for the treatment of
+Hp
+, since it indicates that the drug is appropriate for the treatment of disorders which clinicians and physicians know to be caused by
+Hp
+. As mentioned above, Dr. Wolman also opines that the indication for the prevention of gastrointestinal lesions induced by NSAID's in patients with a need for continuous NSAID treatment, who have an increased risk of developing NSAID-associated upper gastrointestinal lesions, would be understood as an
+Hp
+-related indication. He then gives his view of the impact of Apotex's product monograph on physicians (and others), and concludes that Apotex would
+inevitably infringe
+the claim of the '748 and '694 Patents that cover the use of pantoprazole whether in combination with antimicrobials or alone. Dr. Wolman does not explain how he came to his view on how other physicians in general (other than gastroenterologists) or pharmacists would react to the product monograph; presumably it would be on the basis of his contacts with students in his capacity as Assistant Professor of medicine at the University of Toronto. Nor does he detail on what basis he was assessing infringement. This is a problematic omission, as it becomes impossible to assess how he understood the difficult concept of inducement and the need to make inferences in the absence of hard data which he obviously didn't have. In sum, it appears he was ready to take a great leap in this respect, which does little for his credibility.
+[172]
+In addition to the evidence of those two physicians, Altana relied on the evidence of three pharmacists whose testimony is directed mainly to the question of direct infringement (i.e., drug interchangeability and reimbursement, etc. ...), a question with which the Court need not deal as mentioned above. That said, and although none had undertaken any kind of survey, each of these experts also commented on how Apotex's product monograph would be read and understood by pharmacists in general (excepting Dr. Dresser). Surprisingly, in their affidavits none of them considered the impact of the dosage information contained in the monograph or even mentioned whether such information would affect their views, even though Apotex's NOA clearly sets out that the marketing, promotion and sale of Apo-pantoprazole would be undertaken in accordance with the dosage regimens set out therein. The omission is all the more surprising in that Dr. Julien, on cross-examination, described such information in a monograph as "important" (at question 316) [see footnote 38]
+[173]
+The affidavit of Dr. Linda Dresser, a hospital pharmacist and a specialist in infectious disease pharmacotherapy, stands out from the others, in that Dr. Dresser was asked to form an opinion as to whether pantoprazole would be "
+effective
+" in the treatment of
+Hp
+, and to assume among other things that pharmacists and doctors had been advised in writing by Altana that Apotex had stated during the approval process that its pantoprazole product shall not be used for combating or treating
+Hp
+.
+[174]
+Although her affidavit gives the impression that she also gives an opinion as to how other pharmacists working in hospitals would construe the product monograph, during cross-examination, when discussing matters clearly addressed in her affidavit (at para. 10) Altana's counsel made it clear that Dr. Dresser "was not being presented as an expert on what other people would think about these things" (Dresser cross-examination, question 184). It is also notable that Dr. Dresser was the first expert to prepare her opinion on the basis of a comparison between the Pantaloc and Apo-pantoprazole monographs.
+[175]
+During her cross-examination (where in my view Altana's counsel was overly protective; this impacted on the Court's ability to assess her position on relevant issues) and having reviewed the indications and dosage recommended by Apotex in its product monograph, Dr. Dresser confirmed that, in fact, Apotex was not telling her "one way or the other whether or not it [Apo-pantoprazole] can be used to treat H.pylori." (cross-examination, questions 357, 385, 389, 398, 442 and 486).
+[176]
+It is notable that Dr. Dresser concludes that the Apo-pantoprazole tablets would be effective and would be dispensed at her practice site if available, even assuming that Apotex were to represent to the Minister that its product "shall not be used for combating or treating Hp" - (i.e. something akin to a warning that the product was not intended or sponsored by Apotex for that use and that it was not authorized by the Minister for such use.)
+[177]
+Dr. Dresser's answers to certain questions in cross-examination certainly shed some light on why this is so. In effect, it appears from her answers to questions 459 and 462, where Dr. Dresser notes the absence in the monograph of a warning or instructions against the use of Apotex's product to treat
+Hp
+, that she would be looking for a warning in respect of the effectiveness or safety of the product and for evidence in that respect. This is in line with her conclusion at paragraph 13 of the affidavit which is directed to the effectiveness of the product.
+[178]
+There is no evidence before the Court that Apotex's product is not effective or is unsafe for use against
+Hp
+infections. There is no evidence that, in the absence of such information, Health Canada would even allow the type of warning or instructions discussed by Dr. Dresser. This illustrates once more the difficulty of determining a question of patent law (justification of non-infringement allegations and inducement) on the basis of the monograph, a document the primary if not sole purpose of which is to address health and safety issues. When health professionals refer to a warning or lack of warning against a specific use, it is difficult to imagine that they are contemplating anything other than a health and safety related warning. In such a context, the Court should be careful in making any inferences from the absence of warning in the monograph [see footnote 39].
+[179]
+Altana also filed the affidavits of Mr. Jean-Yves Julien and Mr. Ronald Elliott. They are both pharmacists, the former in Quebec and the latter in Ontario. Most of their evidence deals with drug substitution practice in their respective provinces, and is primarily relevant to direct infringement. Although both said that Apo-pantoprazole's indication for gastric and duodenal ulcers would inform or direct pharmacists that the drug may be used for the treatment of Hp, on cross-examination, Mr. Julien acknowledged that the dosage regimen recommended  <FRAGMENT_SUPPRESSED> 's product monograph would readily be recognized by him and other pharmacists as differing from that appropriate to triple therapy and as unsuitable for "standard" treatment of
+Hp
+infection (questions 237-232), while Mr. Elliott acknowledged that Apotex's product monograph did not recommend triple therapy and that the dosage information would be understood not to apply to gastric and duodenal ulcers associated with
+H. Pylori
+(questions 309, 313).
+[180]
+Both pharmacists also commented on how they anticipated Apotex would market Apo-pantoprazole, but here again, on cross-examination Elliott admitted that he had no expertise in pharmaceutical marketing (question 390), while Julien was made to clarify that he is not privy to Apotex's marketing plans for Apo-pantoprazole, nor has he ever seen any of the company's plans for other products (questions 32, 34). Mr. Elliott claimed that he simply based his comments on common sense and the hypothesis that what occurred with omeprazole would occur with pantoprazole (question 394). The soundness of this hypothesis was seriously put in question in cross-examination, given that Apotex's omeprazole product is not listed as interchangeable with the brand name product (Losec) on the current Ontario Drug Benefit Formulary for
+Hp
+associated ulcers [see footnote 40] (question 427).
+[181]
+Finally, Altana filed two affidavits of Dr. Ruth Corbin who was asked to design and implement a survey of physicians in Ontario and Quebec to determine their prescribing practices in certain circumstances, and a survey of pharmacists in those same provinces to determine the extent to which pharmacists presented with a prescription for pantoprazole sodium (written as such, or alternately as Pantaloc) in a triple therapy combination suitable for treating
+H pylori
+associated ulcer, would dispense the generic version, were such a generic available.
+[182]
+Contrary to what is alleged at paragraph 128 of the applicants' memorandum, the physicians' survey is not at all useful to establish a causal link between the type of prescription written in the context of the survey (where the physicians were asked to assume that a generic product existed and were read the indications  <FRAGMENT_SUPPRESSED> 's proposed monograph over the phone) and Apotex's actions. This for several reasons, the most important being that those results cannot be compared to how these physicians would have written their prescriptions if no generic product had been on the market at all [see footnote 41]. In answer to a query from the Court, Altana confirmed the absence of evidence on this point.
+[183]
+In the absence of such evidence, the Court cannot determine if, as it was argued by Altana, the indications  <FRAGMENT_SUPPRESSED> 's proposed monograph could lead physicians to change their prescribing practices, or if what they wrote was influenced by their understanding of the indications in the monograph.
+[184]
+With respect to the pharmacists' survey, nowhere does Dr. Corbin say that her mandate was to test whether the indications read over the phone to the pharmacists without any details as to the dosage regimen proposed by the generic, had any real impact on their decision [see footnote 42]. Nevertheless, Altana argues that the answers given to the open ended questions included in the survey (included verbatim in the material annexed to Dr. Corbin's affidavit) give insight into the reasoning of the survey respondents and enable the Court to make the reasonable inference that any prescription written that would allow the dispensation of the proposed generic pantoprazole (and any dispensation of it by pharmacists) is the result of the information contained in the monograph that was read to the participants in the survey. The Court has very carefully reviewed all those answers as well as the cross-examination of Dr. Corbin and it is simply not satisfied that it should make such an inference.
+[185]
+For its part, Apotex presented the evidence of Dr. Thompson, a gastroenterologist, who clearly states in his affidavit that he rejects the opinions of Dr. Wolman and Dr. Low as to how physicians would understand Apotex's product monograph. He considers that the product monograph, when read as a whole and with particular attention to the dosage recommendation, negates any suggestion that the drug is being put forth for use in combination with antimicrobials or as an anti
+Hp
+agent.
+[186]
+Apotex also submitted the evidence of Kenneth Brown, a pharmaceutical consultant (and a pharmacist who practiced in Manitoba) having an expertise in provincial formularies and regulatory matters at the provincial and federal levels. Most of his evidence relates to direct infringement and interchangeability issues. In that respect, he was well qualified to comment on such topics, even for provinces other than Manitoba.
+[187]
+The Court is also satisfied that Mr. Brown is qualified to discuss restrictions on the sale and marketing of Apo-pantoprazole Apotex would face were an NOC for the product to be issued in this case. (affidavit, para. 15 and question 102 of the cross examination).
+[188]
+However, some of Mr. Brown's evidence in respect of indirect infringement is problematic. Although he can give his own views as to how he would read Apotex's monograph and perhaps even how pharmacists in Manitoba would do the same [see footnote 43], he is not licensed to practice in Ontario and Quebec. Hence his comments on the evidence of Mr. Julien and Drs Elliot and Dresser can be given little if any weight. That said, Mr. Brown's view that a pharmacist would instantly identify whether an
+Hp
+eradication regimen or an ulcer healing regimen has been prescribed, since the former would include antimicrobial agents along with pantoprazole, is certainly not out of line with the results of the surveys carried out by Dr. Corbin's firm on behalf of Altana in Quebec and Ontario. Likewise, Mr. Brown's statement that pharmacists would be aware that the Apo-pantoprazole monograph does not contain a specific indication for
+Hp
+per se accords with the evidence of Mr. Julien and Mr. Elliott, both of whom made similar comments on cross-examination. Mr. Brown's other comments can only be taken as a personal opinion on how he would read the product monograph. On this point, he places particular emphasis on Apo-pantoprazole's general indication for conditions "where reduction of gastric secretion is required." Given that this statement appears before the listing of specific indications, Mr. Brown considers that the monograph does not suggest or infer that the product should be used either alone or in combination with antimicrobials for the purpose of treating
+Hp
+infections. For Mr. Brown, this is confirmed by the regimen indicated under the heading
+Dosage and Administration
+, which he readily identified as treatment for the healing of gastric or duodenal ulcer, as opposed to combination triple therapy indicated to cure or treat the cause of ulcers.
+[189]
+Ms. Conroy, another of Apotex's experts who practices as a pharmacist in Ontario, was particularly candid and open during her cross-examination. She readily admitted that she and other pharmacists [see footnote 44] would be aware that a large portion of ulcers are associated with
+Hp
+infection, but she remained of the view that nothing in the Apo-pantoprazole product monograph directs to the use of the product in the treatment of such infections, especially in a triple therapy regimen. She was also of the view that pharmacists readily distinguish between therapeutic regimens involving PPIs alone and PPIs in combination with antibiotics. This is certainly borne out by the results of the survey carried out on behalf of Altana.
+[190]
+Ms. Conroy brought to the Court's attention that in its Reason for Use (RFU) codes, the Ontario Drug Benefit Formulary distinguishes between the use of a drug to treat peptic ulcers or NSAID-induced ulcer prophylaxis (RFU 297) and its use for the treatment of
+Hp
+positive peptic ulcers (RFU 295).
+[191]
+The point to be taken here is not so much that the formulary would prevent dispensation of the generic product to private-system users, but rather that one cannot simply assume that a general reference to the treatment of peptic ulcers or gastric and duodenal ulcers implies the treatment of
+Hp
+infection.
+[192]
+Having gone over the medical professionals' evidence in some detail, the Court finds it remarkable that there is no clear indication, even from the applicants' experts, that their prescribing or dispensing practices are actually influenced in any way by the information found in generic product monographs. When asked by the Court to point to the evidence indicating that physicians generally do look at product monographs, Altana could only cite the cross-examination of Dr. Thompson, who acknowledged that he receives such product monographs at his office and sometimes consults them. With respect to pharmacists, Altana could not point to any cogent evidence on this point. According to the applicant, that pharmacists do consult product monographs is implicit in all of the experts' opinions. The Court begs to differ. Mr. Julien readily admitted that a pharmacist does not consult product monographs as often as a physician (he did not indicate how often he thinks they would do so) and only that he personally "might" consult Apotex's product monograph. Mr. Elliott, who apparently had been dealing extensively with omeprazole products, had never read Ratiopharm's product monograph, although it was the first generic to bring a generic version of omeprazole to market. He also admitted to not having read Pantaloc's product monograph prior to his involvement in the present case. As for Dr. Dresser, her answers in cross-examination would indicate that she has reviewed generic product monographs in her capacity as a consultant rather than as a pharmacist (questions 60, 61).
+[193]
+Be that as it may, Altana also argues that when physicians and pharmacists do consult product monographs, they do not compare the monograph of the innovator to that of the generic. That much is clear but the Court must agree with Apotex that this is not the point of the comparison it has put forward.
+[194]
+In effect, as the Court is examining the monograph to determine Apotex's real intentions, it is certainly relevant to consider the efforts it made to "scrub it clean" of any reference to
+Hp
+or the use of pantoprazole with antibiotics.
+[195]
+The Court did consider Altana's argument that Apotex could have excluded from its indications, the treatment of
+Hp
+associated ulcer and that some inference about Apotex's real intention could also be made from the fact that gastric and duodenal ulcers occupy the first two bullets in that section. The Court believes that the placement of those indications could also be explained by the fact that the generic copied not only the reference product but also its monograph (see <FRAGMENT_SUPPRESSED> (trial decision) at paragraph 124).
+[196]
+According to Dr. Wolman's evidence, the advantages of triple therapy were well established even in 1996, when the first NOC issued for Pantoloc. Nevertheless the first product monograph for Pantoloc [see footnote 45] indicated it could be used alone for the treatment of gastric ulcers and duodenal ulcers, recommending daily administration of a 40 mg dosage strength for two weeks in the former case and four weeks in the latter, to be repeated if necessary.
+[197]
+The 1998 CCPS reproducing the relevant portion of the Pantaloc monograph cautions that the product should be prescribed only at the
+recommended
+dosage until adequate long-term clinical data is available. [see footnote 46] The indications and recommended dosage are exactly those found  <FRAGMENT_SUPPRESSED> 's proposed product monograph. More current monographs for Pantoloc still include the conventional monotherapy treatment for gastric ulcers and duodenal ulcers, but omit the cautionary notation as to dosage. In any event, it is not disputed that Health Canada is still satisfied that pantoprazole monotherapy as indicated in the Pantoloc monograph meets their health and safety requirements. Nor is it disputed that such monotherapy would still be suitable to treat gastrointestinal ulcer where treatment is not directed to an
+Hp
+infection and its eradication.
+[198]
+As noted earlier, if triple therapy is now the preferred treatment, it is not because conventional PPI monotherapy does not heal all ulcers as well as before, but because it has the added advantage of preventing relapse in most cases of those ulcers that are caused or exacerbated by
+Hp
+, and is thus more cost-effective.
+[199]
+It remains unclear to the Court, even after a careful review of the medical literature put in evidence, whether monotherapy would not be employed in those admittedly rare cases where triple therapy has failed to eradicate an
+Hp
+infection for whatever reason or is not suitable for a given patient. [see footnote 47]
+[200]
+The Court must always keep in mind the arch principle of patent law applicable in NOC proceedings as well as infringement actions, that the public should not be deprived of its ability to use known products for known uses on the basis of patents for new uses of such products.
+[201]
+In the end, the Court is not able to conclude from the evidence before it that Apotex intends to market its tablets for use as part of the triple therapy regimen. Altana has not otherwise established any causal link between Apotex's actions (and its proposed monograph) and the direct infringement the Court was asked to assume.
+[202]
+The court concludes that Altana has not met its burden of establishing that the allegations of non-infringement in respect of those claims are unjustified.
+3.3
+Infringement of Claim 3 of the '694 Patent
+[203]
+Assuming here that this is a relevant claim for the purpose of paragraph 5(1)(b)(iv), there is no dispute that Apotex's proposed tablets will contain pantoprazole sodium in a form that is at least partially resistant to gastric juice (see paragraph 37 above). The dispute centers on the third essential element of this claim, whether it will also be in a form which is partially not resistant to gastric juice.
+[204]
+Both sides agree that a tablet with pantoprazole on the enteric coat would be covered by claim 3 (see graph at paragraph 69 of Dr. Hopfenberg's affidavit). However, they disagree on whether pantoprazole dispersed within the enteric coat would be in a form that is not resistant to gastric juice. [see footnote 48]
+[205]
+The applicants argue that Apotex's NOA was insufficient to allow them to show that the non-infringement allegation in respect of this claim was not justified, because Apotex failed or refused to provide them with sample tablets for testing. In his affidavit dated July 6, 2006 (exhibit "A" to Dr. McGinity's affidavit of August 3, 2006), Dr. McGinity states that the information provided to him does not rule out the possibility that Apotex's tablets will infringe. In reply, Apotex filed the affidavit of Dr. Hopfenberg, who disagrees with Dr. McGinity for reasons that will be discussed shortly. The applicants say that the Court should prefer the evidence of Dr. McGinity because he is an experienced formulator who has actually worked with and published on benzimidazole formulations, whereas Dr. Hopfenberg on cross-examination could not recall whether he had in fact ever actually worked with such compounds.
+[206]
+In substance, Dr. McGinity affirms that Apotex cannot establish on the sole basis of the dissolution tests "produced as part of Apotex ANDS" that its tablets will not include pantoprazole within or on the enteric coat (see his paragraph 12). Dr. McGinity says that such formulation would not be resistant to gastric juice. There is no indication whatsoever that Dr. McGinity was asked by Altana to review all of the contents of Apotex's ANDS [see footnote 49] before giving his opinion. In his affidavit of July 6, 2006, he refers to only three documents that he was asked by counsel to review (see paragraph 7), which are all filed as exhibits to his affidavit, these being the '694 Patent, the dissolution tests and a document entitled "Drug Release" (an excerpt from the publication USP XXI). Beyond his statement that Apotex's dissolution tests do not rule out the presence of pantoprazole in or on the enteric coating, Dr. McGinity does not discuss how pantoprazole would or might get there. He does not say whether he contemplates an intentional application as part of the manufacturing process, or simply that amounts of pantoprazole could find their way into or onto the enteric coating as an incidental effect of the manufacturing process or equipment used by Apotex (whether by accident or otherwise).
+[207]
+Dr. McGinity notes that the tests performed appear to have been conducted "using the USP dissolution test method for enteric articles." He states at paragraph 21 of his affidavit that: (i) the short half-life of pantoprazole; (ii) the acidic conditions of the test method; and (iii) the duration of the test method in the acid stage (i.e., 120 minutes) lead to the inevitable result that any pantoprazole that was present in an unprotected form in the Apotex tablets would not be found at the conclusion of the acid phase 3 of the USP test method.
+[208]
+Although Dr. McGinity had a copy of all the test results (which also include a buffer stage), he specifically addresses only the results of the acid stage, stating simply that the details in the remaining pages of his exhibit "C" (the test results) do not alter his opinion that the results reported would be substantially the same regardless of whether pantoprazole in an unprotected form was present or not in the Apotex tablets. Thus, he concludes that to determine whether or not Apotex's tablets fall within claim 3 of the '694 patent, he would need an actual sample of the tablets.
+[209]
+The applicants state that because samples were not part of Apotex's ANDS and were not actually put into evidence by Apotex, they have brought a number of motions to compel the production of such samples which have all failed. In the circumstances, they argue that the Court should apply the common law presumption that "where a party fails to lead evidence of a fact that it is in a better position to establish, the Court will infer that the facts are adverse to that party's interest" (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 173 (T.D.), affd. (2003), 312 N.R. 288; 29 C.P.R.(4th) 23 (F.C.A.)). The applicants submit that they have established that this information is not in their possession and is within the knowledge of Apotex. (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), 18-19).
+[210]
+The relevant portion of the NOA on this issue is at page 58 and reads as follows:
+"Additionally, with respect to claims 3, 4 and 5, each of these claims include as an essential element that sodium antoprazole be contained within a formulation that is simultaneously in a form that is resistant to gastric juice and in a form that is not resistant to gastric juice. We shall not infringe these claims since our tablets comprise sodium pantoprazole contained within a single form of formulation. Additionally, since our tablet formulation contains an outer enteric coating it is resistant to gastric juice. Also, since our tablets contain an outer enteric coating the sodium pantoprazole contained within them will be within a formulation or form that is resistant to gastric juice. Therefore, our tablets shall not comprise sodium pantoprazole contained in a formulation that is simultaneously in a form that is resistant to gastric juice and in a form that is not resistant to gastric juice."
+[211]
+Dr. Hopfenberg's evidence which is based on a review of, among other things, Apotex's Master Formula as well as the dissolution test (both documents were included  <FRAGMENT_SUPPRESSED> 's ANDS) says at paragraph 43, that "... the formulation-related subject matter of claims 3 to 5 of the '694 Patent is restricted to an oral drug formulation comprising mixed dosage forms".
+[212]
+He then adds that "as discussed in the above quoted passage of the NOA and as confirmed in the Master Formula, Apotex's tablets comprise sodium pantoprazole contained exclusively within a single dosage form comprising an outer enteric coating which would render the tablets resistant to gastric juice".
+[213]
+After a vigorous cross-examination, Dr. Hopfenberg remained categorical that tablets prepared in accordance with Apotex's Master Formula could not be in the form depicted at paragraph 69 of his affidavit, wherein pantoprazole sodium is contained within the tablet core and is disposed on the surface of the enteric coating (e.g., at questions 161-162). He testified that all of the pantoprazole sodium that was assayed  <FRAGMENT_SUPPRESSED> 's tablet during its manufacture (based on the Master Formula) was accounted for in the buffer stage of the dissolution test. According to him, this was indisputable evidence that none of the pantoprazole sodium intended to be included in the core of Apotex's tablet found its way onto the enteric coating (see questions 303-307, 311, 319-326, 351-362, 375).
+[214]
+Although Dr. Hopfenberg agreed that howsoever pantoprazole were to find its way onto the tablet's enteric coating, the result would fall within claim 3 of the '694 patent, he very clearly refused to accept the theory put forth by applicants' counsel during his cross-examination, that pantoprazole sodium dust could find its way there during manufacture of the tablets.
+[215]
+He was also very solid when his opinion was challenged on the basis that he had not himself tested Apotex's tablets or seen Apotex's equipment.
+[216]
+With respect to Dr. Hopfenberg's expertise, having carefully reviewed his curriculum vitae and the transcript of his cross-examination, the Court is satisfied that he is an expert in the relevant field and has extensive experience with pharmaceutical formulations and drug delivery systems. The fact that Dr. Hopfenberg did not recall during his cross-examination having worked with benzomidazoles is not sufficient for the Court to prefer Dr. McGinity's evidence to his, especially where there is no evidence that the latter considered all the information provided by Apotex, particularly the Master Formula, before reaching his conclusion.
+[217]
+Moreover, there is no credible evidence that the matters to which Dr. Hopfenberg testified required in depth knowledge of the specific characteristic of pantoprazole or benzomidazoles. The Court notes that even if Dr. Hopfenberg has not actually worked with benzomidazoles, he has acted as an expert in several cases involving benzomidazoles such as omeprazole and lansoprazole.
+[218]
+Having considered the relevant passage of the NOA in the light of the evidence provided by Drs. McGinity and Hopfenberg, the Court finds that Altana has not established that Apotex's NOA was insufficient. Nor has Altana succeeded in showing that Apotex failed to provide sufficient information to enable them to put forward evidence establishing that Apotex's allegation of non infringement of claim 3 (which specifically states that Apotex's tablet contains pantoprazole in a single dosage in an enteric protected form) is not justified.
+[219]
+As Altana failed to provide any evidence as to how pantoprazole sodium would find its way into or onto the tablets formulated in accordance with the Master Formula provided by Apotex, the situation here is akin to the one before Justice James Russell in
+ <FRAGMENT_SUPPRESSED> ; 245 F.T.R. 196 (F.C.). Like in that case, Altana's has merely raised a vague theoretical doubt. The applicant cannot rely on Apotex's decision not to cross-examine Dr. McGinity to make up for the failure to put forth evidence in chief detailing its contention. The Court is not willing in this case to make an adverse inference from the fact that Dr. McGinity was not cross-examined. A second person does not have to address in its NOA possible theories that are no more than speculation (
+ <FRAGMENT_SUPPRESSED> ; 335 N.R. 1 (F.C.A.), at para. 11, affirming Justice Russell's decision on this specific point;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 97 (F.C.A.), at para. 28)
+[220]
+Given that the applicants have not established to the Court's satisfaction that they did not have in their possession the information necessary to deal with the allegation of non infringement, there is no need to discuss any further the application of
+AB Hassle
+and the presumption referred to above at para. 144.
+[221]
+As a result of the above, the Court concludes that Altana has not met its burden of proving that this allegation is not justified.
+3.4
+Infringement of claims 6 and 13 of the '694 Patent
+[222]
+Although Apotex conceded that Apo-pantoprazole would likely be used by patients in the context of triple therapy, it is very clear that it was never conceded that such tablets would have any antimicrobial effect in that context. For reasons already addressed when discussing the role of Pantoloc in the new indication added to the Product Monograph in 2003 (paragraphs 94-102), the Court is not satisfied that Altana has established that Apo-pantograzole tablets would play such a role. As a matter of fact the Court found that this was not so.
+[223]
+In any event, even if the Court were to assume that direct infringement was also established in respect of the '694 Patent, the Court's earlier conclusion applies here as well; that is, Altana has failed to establish, on a balance of probabilities, that Apotex's allegations that its "tablets would not be marketed or promoted to doctors, pharmacists or others to be used in combination with another antibiotic as part of a regimen for combating, treating or eradication of Helicobacter or Helicobacter pylori bacteria" are not justified.
+[224]
+The Court's finding with respect to Dr. Wolman's evidence on the implications of Apo-pantoprazole's indication for the prevention of a NSAID-associated ulcers (see paragraphs 90-91) is also relevant.
+[225]
+The Court also finds that there is nothing  <FRAGMENT_SUPPRESSED> 's monograph that refers to or deals with the treatment of asymptomatic Hp infections. In effect, here it is clear that Apotex is not seeking an NOC for pantoprazole as an antimicrobial, for its proposed monograph contains no microbiology section. This is particularly relevant with respect to the use of the Apo-pantoprazole tablets alone in accordance with the dosage regimen recommended in the product monograph.
+Conclusion
+[226]
+At the hearing, the Court sought the parties' views as to whether there was a good reason to address the issue of validity if the Court came to the conclusion that the application had to be dismissed on another ground such as subparagraph 5(1)(b)(iv) of the
+Regulations
+. Altana made it clear that it did not see any need for validity issues to be addressed, and in fact that it was not seeking such a determination.
+[227]
+Apotex was given some time to reflect on its position, and ultimately advised the Court that it felt that it would be disadvantaged in respect of possible future ANDS if the application was not dismissed on the basis of the patents' invalidity or ineligibility for listing.
+[228]
+The Court took note of these comments and considers that it should adopt a principled approach. Applications under s. 6(1) of the
+Regulations
+are intended to be summary proceedings and their purpose is to determine whether a prohibition order should be issued. Such applications are not to be treated or transformed into proceedings for declaratory judgments in respect of all issues raised in an NOA. Furthermore, given that my decision to dismiss the application is clearly based on a finding in respect of the allegations of non-infringement, any further comment would be in obiter. Despite this, pursuant to the recent decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  in respect of the patents at issue such comments would bind any judge hearing any other current applications involving Altana and another generic, even if the evidentiary record in those applications might be quite different and issues of patent validity could be determinative.
+[229]
+In view of the foregoing, the Court finds that the application must be dismissed with costs on the basis that Altana failed to establish that the allegations of non-infringement are not justified.
+[230]
+The parties made no representations in respect of costs. Apotex shall have until March 14, 2008 to file its representations if any in that respect (maximum five (5) pages) and Altana shall have five until March 21, 2008 to respond to such submissions (maximum five (5) pages).
+JUDGMENT
+[231]
+THIS COURT ORDERS AND ADJUDGES that
+1. The application is dismissed with costs.
+2. A further order in respect of costs will be issued after receiving the submissions of the parties within the time set out in my reasons.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+Footnotes
+1. The basic patent for the benzimidazole class which includes pantoprazole was issued in 1984.
+2. A brief biography of all the expert witnesses is attached in Annex "A".
+3. Reference to pantoprazole is meant to include wherever appropriate a reference to pantoprazole sodium, the pharmaceutically acceptable salt of pantoprazole to be used by Apotex in its Apo-pantoprazole tablets.
+4. Note however that this explanation of how
+Hp
+survives in the acidic environment of the stomach is described as theoretical in a text introduced by Altana's witness Dr. Elliott. (J. Dipiro et al.,
+Pharmacotherapy - A Pathophysiologic Approach
+, 6th Ed., McGraw Hill, 2005, applicant's record p. 712)
+5. This because although the existing anti-acid treatments were very effective in healing ulcers, maintenance therapy was necessary to avoid relapse and was not cost-effective.
+6. See application record page 740 table 24.6.
+7. There is no evidence before the Court that one PPI works better than another in such triple therapy. The medical literature simply lists as suitable various available PPIs (eg. omeprazole, lansoprazole, pantoprazole) and the dosage appropriate to each when used in combination with antibiotics.
+8. Mr. Brown seemed to have also been aware of similar analyses (studies) applicable to other provinces.
+9. The parties have not identified which claims (1-14) were relevant to Apotex's proposed product. No arguments were presented as to the meaning of pharmaceutical composition and what a skilled person in the art would understand this term to entail where the claim does not refer to a particular dosage form (see, e.g., claim 1 versus claims 12 or 14).
+10. Altana noted that although it was known that there was a relationship between
+Hp
+and those disorders, at the time a causal link was not yet established.
+11. This is not disputed, see para. 16 of Altana's memorandum confirming that a skilled person would understand that within the novel composition, pantoprazole is being used as an anti-secretory agent and the HIAMA is being used as an antimicrobial agent.
+12. Eradication is not a term defined in the patent and the experts disagree somewhat as to its definition or even as to whether it had a standard definition. The Court agrees with Altana that for the present it is sufficient to day that it is generally understood to mean elimination of
+Hp
+at some period of time after therapy in some percentage of patients. (see the evidence in Altana's Compendium, at tab 19)
+13. Altana argued that this had not been alleged  <FRAGMENT_SUPPRESSED> 's NOA, however it is clear that at page 3 of the NOA, Apotex alleged that no NOC issued for Pantoloc relates to "a medicine comprising sodium pantoprazole contained within a dosage form comprising a first formulation which is resistant or substantially resistant to gastric juice and a second formulation which is non- resistant or substantially non-resistant to gastric juice, to a dosage form comprising a formulation that is not resistant to gastric juice, nor to the use of sodium pantoprazole for treating or combating
+Helicobacter
+bacteria".
+14. Which include false statements under 4(2)(c), a matter clearly related to the listing of patents.
+15. It is not clear why new uses were not relevant, given that for the purpose of the comparison under s. C.08.002.1 of the
+Food and Drug Regulations
+, the generic manufacturer must indicate that the conditions of use of its drug are within the conditions of use of the bioequivalent and pharmaceutically equivalent reference product. In that respect, the Court also notes that for the purpose of establishing bioequivalence with a reference product, the strength of the drug will be relevant if not essential.
+16. At page 11 of the NOA Apotex does make such an allegation in respect of claims 1-12 and alternatively with respect to claims 13, 14 and 29-43 inclusive and any claims dependent thereon.
+17. It also deals with other claims such as claims 1, 2, 4, 5, 7, 8, 9, 10, 11, 12 and 14-31 inclusive but these are not relevant to the infringement issues before the Court on this application.
+18. At this stage, and for the purpose of assessing the validity of eligibility arguments, the validity of the patented invention as a combination as opposed to an aggregation is assumed.
+19. During the hearing, the Court permitted Altana to raise various additional arguments on the condition they be reduced to writing before the end of the hearing and Apotex be given an opportunity to reply. In respect of the eligibility issues, as a matter of fact because of the late filing of the arguments in writing and considering the differences identified, Apotex was asked to respond in writing well after the hearing.
+20. The Court considered the cross-examination of Dr. Sherman referred to by Altana, and notes that his suggestion that
+Hp
+could exacerbate an NSAID-induced ulcer was made in respect of the possible role of
+Hp
+in active NSAID-associated ulcers. It simply says that, in that context, the role of HP would nee to be further studied. The Court also notes that Altana insisted in its memorandum and at the hearing that Dr. Sherman lacked credibility and expertise. In fact, he was the only expert in respect of which such allegations were maintained at the hearing.
+21. J. Dipiro et al.,
+Pharmacotherapy - A Pathophysiologic Approach,
+6th Ed., McGraw Hill, 2005.
+22. The point here is to inquire as to the role of the pantoprazole sodium not to imply that Pantoloc has to be an embodiment of the invention described in those particular claims.
+23. The section is required by Health Canada given that the drug is indicated inter alia for use in combination with amoxicillin, clarithromycin and tetracycline (antibiotics) see the "Guidance for Industry" document referred to by both parties (pp. 1506-1571); also, Dr. Low's cross-examination, questions 187-188.
+24. See note 11, above.
+25. Altana relies on
+ <FRAGMENT_SUPPRESSED> ; 156 F.T.R. 303 (T.D.), at para. 4, for the proposition that the Court can consider the content of this letter not as part of the evidence but for the quality of the reasoning it contains in the same manner that it could look at the Manual of Patent Office Procedure or legal literature.
+26. The Court did not give any deference to the opinion expressed in that letter as it could not have more weight than a formal decision of the Minister reviewed in the context of a judicial review. (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 401 (F.C.A.), paras. 8-10.)
+27. Altana objected to the fact that Apotex provided a copy of those claims to the Court after the hearing. However, the Court notes that this information is publicly available, and had already been consulted by the Court after reviewing the first instance and appellate decisions, which do not describe in any details the claims of the patent under review.
+28. Had the Court come to the conclusion that it had jurisdiction to review the eligibility issues, it would probably have invited the Directorate to clarify its position on the issue so briefly described in the July 30, 2007 letter referred to in paragraph 106.
+29. The Court notes that the pertinence of dosage strength to eligibility would have required more detailed submissions by the parties, especially in respect of the impact if any of paragraph 6(5)(a) of the
+Regulations
+.
+30. In respect of the '762 patent, the Court's prime conclusion was that the notice of allegation was insufficient because it failed to address infringement of the patented invention when it is not sold in a single formulation. However, Justice Carolyn Layden-Stevenson also concluded that if she was wrong on this point, her findings of fact on the evidence in relation to the '668 patent would apply equally to the claims of the '762 patent, such that Genpharm's allegation of non-infringement would fail in any event (paragraph 190).
+31.  <FRAGMENT_SUPPRESSED> , a subsequent case involving the same patents and innovator company but a different generic and a draft Product Monograph which included only one of the passages discussed above, the Court came to a different conclusion on inducement. As was noted, variations in the specific evidence led from one case to another may lead the Court to different conclusions, even where the same patents are at issue. This suggests that it is unwise to discuss issues unnecessary to the disposition of an application.
+32. There is no evidence before me that in fact pantoprazole is used alone by doctors to treat
+H.Pylori
+infection. In fact, Dr. Thompson's evidence is that doing so would be negligent (application record p. 4639). Dr. Wolman's evidence is to the same effect. (see paragraph 65 of his affidavit)
+33. In this respect, there are significant differences in the information before the Court here.
+34. Here again, the evidence before the Court is somewhat different.
+35. Note that in the Pantoloc monograph, in addition to indications for duodenal and gastric ulcer, there is a separate indication for Hp associated duodenal ulcer.
+36. In light of this concession, both parties agreed that it will not be necessary for the Court to review the evidence in respect of provincial drug formulary listings, etc ... This also includes the affidavits of John MacDonald and Rosemary Bacovsky.
+37. Dr. Low does not explain how he can give an opinion in respect of physicians in general. Probably it is based on his experience as professor of Microbiology and medicine at the University of Toronto. However, there is no indication as to how he can opine on what other health care professionals (presumably includes pharmacists) would react.
+38. Even if he said in re-examination that ultimately here it would not change his main conclusion.
+39. see also
+ <FRAGMENT_SUPPRESSED>  (paragraph 34).
+40. It is worth noting that in Ontario the drug benefit formulary has two different codes: one for peptic ulcers in general, and a specific one for H. Pylori ulcers.
+41. Another is that the physicians were not given any information about the dosage regimen  <FRAGMENT_SUPPRESSED> 's proposed monograph.
+42. It was primarily designed to establish direct infringement.
+43. The Court is not altogether convinced that one pharmacist's view of a product monograph is necessarily representative of other pharmacists' views.
+44. Given her particular background, Ms. Conroy's opinion was given weight only as an expression of her views.
+45. Although the product monograph itself was not put in evidence, the CPS reproducing most of it was included as exhibit B to the affidavit of Dr. Low.
+46. This warning was clearly based on safety issues.
+47. It appears that eradication is not always successful and that allergic reactions, intolerance, resistance and other complications may occur which would prevent cure of the
+Hp
+infection.
+48. There is no need to decide this last point for it has no impact on my conclusion, the Court simply notes that the explanations of Dr. Hopfenberg are not plausible.
+49. In the comments included their Compendium of evidence prepared for the benefit of the Court, the applicants specifically state that Dr. McGinity's evidence is that the information provided  <FRAGMENT_SUPPRESSED>  ANDS is insufficient. At Tab 36, they include only pages 1, 5 and following of Dr. McGinity's relevant affidavit. After the hearing, when asked by the Court to specifically confirm whether or not there is evidence that Dr. McGinity actually reviewed the Master Formula referred to in Dr. Hopfenberg's affidavit, the following answer was given:
+"On January 16, 2008, Dr. McGinity referred to the portions of Apotex's ANDS that were relevant for an infringement analysis. No mention is made of the Master Formula in Dr. McGinity's affidavit. However, Apotex chose not to cross examine Dr. McGinity at all, let alone on this point, and has therefore not provided any evidence that Dr. McGinity did not consider the master formula."
+There is no indication whatsoever that as part of his mandate, Dr. McGinity was asked to select from the ANDS all the documents that were relevant to his analysis of the non infringement allegation.
+ANNEX "A"
+Brief Biographies of Expert Witnesses
+Applicants' Expert Witnesses
+Dr. Donald E. Low, MD
+Dr. Donald E. Low is the Microbiologist-in-Chief at Mount Sinai Hospital and is Professor of Microbiology and Medicine at the University of Toronto. He is also head of the Division of Microbiology, Department of Laboratory Medicine at the University of Toronto and the Chief of the Toronto Medical Laboratories and Mount Sinai Hospital Department of Microbiology. Dr. Low has been recruited by the Government of Ontario to act as Medical Director of the Ontario Public Health Laboratory during its transition into the upcoming new Public Health Agency of Ontario.
+Dr. Low is a fellow of the Royal College of Physicians and Surgeons of Canada and completed his undergraduates and postgraduate training in Medicine, Medical Microbiology and Infectious Diseases. He currently holds numerous other staff appointments at hospitals throughout Ontario as well as appointments to various committees and advisory boards that deal with microbiology.
+Dr. Low has been involved in research and clinical treatment of patients suffering from microbial infections since as early as 1981 and has published well over 300 articles in the field of medical microbiology and infectious diseases in international peer-reviewed journals. Dr. Low is in the top 1% of individuals cited in his field of publication. Furthermore Dr. Low is on the editorial boards of the journals entitled
+Antimicrobial Agents and Chemotherapy
+,
+The Journal of Infectious Disease
+, and the
+Canadian Journal of Infectious Disease
+. He is a reviewer of the
+New England Journal of Medicine
+, and
+Nature Medicine
+, and the
+Journal of Chemotherapy
+. He is one of 12 voting members of the Clinical Laboratory Standards, in the United States, which sets standards for antimicrobial testing, interpretation and reporting. These guidelines are used by diagnostic laboratories and industry in North America and in countries worldwide.
+Dr. James W. McGinity
+Dr. James W. McGinity is a tenured Professor of Pharmacy at the College of Pharmacy, The University of Texas at Austin. Since 1985, Dr. McGinity has held the Johnson and Johnson Centennial Chair of Pharmacy. Dr. McGinity received his B. Pharm. degree in 1967 from the University of Queensland, Brisbane, Australia and his Ph.D. degree in Physical Pharmacy from the University of Iowa in 1972.
+Dr. McGinity has been teaching since 1973 and has been a faculty member at the College of Pharmacy, University of Texas at Austin, Texas since 1976. Dr. McGinity has held the positions of Assistant and Associate Professor of Pharmacy, Assistant Director and Director of the Drug Dynamics Institute and Area Coordinator for the Pharmaceutics Area and Division Head of Pharmaceutics. Since 1985, Dr. McGinity has been a Professor of Pharmacy at the University of Texas at Austin. As well, he is currently the Division Head of Pharmaceutics and the Director of the Drug Dynamics Institute.
+Dr. James W. McGinity's research is primarily focused on solid oral dosage forms including aqueous film coating and tablet technology. In addition, Dr. McGinity has conducted research and published in other areas, including pre-formulation, materials science, pharmaceutical processing, and topical and emulsion technologies.
+Dr. James W. McGinity has also consulted for innovator and generic pharmaceutical companies all over the world on issues related to analytical chemistry, content uniformity issues, processing, scale up, materials science, film coating, drug stability and pre-formulation issues. Dr. McGinity's consultancy has included a wide variety of issues, from the discovery of the new chemical entity to the large-scale manufacture of the marketed product and has included assisting pharmaceutical companies with regulatory filings.
+Dr. James W. McGinity is currently C.E.O. of PharmaForm, L.L.C. in Austin, Texas. PharmaForm L.L.C. is a research and development company that works with both innovative and generic pharmaceutical companies in association with the areas of expertise identified above. The work of PharmaForm L.L.C. in resolving formulation issues has resulted in the filing of several patents and patent applications. Dr. McGinity is a named inventor on some of these patents and patent applications.
+Dr. Jorg Senn-Bilfinger
+Dr. Jorg Senn-Bilfinger has been engaged in Chemistry for more than 40 years. He began his career with an apprenticeship in chemistry in 1962 with the pharmaceutical company Dr. Karl Thomae (now Boehringer Ingelheim), based in Biberach, Germany. He received his Diploma Degree in Chemistry from the University of Stuttgart, Germany in 1975 and his Doctorate Degree in Chemistry from the University of Stuttgart, Germany in 1978.
+Thereafter, he joined Byk Gulden Lomberg Chemische Fabrik GmbH ("Byk Gulden"), the predecessor company to Altana Pharma AG, now Nycomed GmbH. During the early 1980's, Dr. Senn-Bilfinger participated on team at Byk Gulden with Dr. Hartmann Schaefer and his colleagues. Their work as a team led to the invention of the drug known worldwide as pantoprazole. Dr. Senn-Bilfinger is a named co-inventor on a number of the original patents for pantoprazole. Until December, 2001, Dr. Senn-Bilfinger was the Head of the Department responsible for Medicinal Chemistry - Gastrointestinal at Nycomed GmbH (formerly Altana Pharma AG). He is currently the Director of External Chemistry at Nycomed GmbH (formerly Altana Pharma AG).
+Dr. Senn-Bilfinger has served on the IUPAC Subcommittee for Medicinal Chemistry and Drug Development as a member since 2002. He is an Honorary Professor of Medicinal Chemistry and a member of the chemistry faculty at The University of Stuttgart, Germany and is a frequent lecturer on the topic of Medicinal Chemistry at the University of Stuttgart.
+Dr. Senn-Bilfinger is credited with numerous patents and publications including studies on the mechanisms of action of so-called Proton Pump Inhibitors (PPIs), particularly those of the "prazole"-type (e.g. pantoprazole, omeprazole, iansoprazole, raberprazole and the like).
+Dr. Stephen Wolman
+Dr. Stephen Wolman is a staff gastroenterologist at the Toronto General Hospital. He has been practicing as a gastroenterologist in Toronto since 1982. He received his medical degree in 1974 as well as his training in Internal Medicine and Gastroenterology at the University of. From 1980 to 1982 Dr. Wolman trained as a Research Fellow at the London School of Hygiene and Tropical Medicine. Since 1982, he has been a staff physician at the Toronto General Hospital and an Assistant Professor of Medicine.
+Mr. John D. Macdonald
+Mr. Macdonald is the President and Founder of DBR Canada Inc., ("DBR"), a consulting company dealing exclusively with issues related to formulary reimbursement of drugs, vaccines, and medicals devices in Canada.
+Prior to founding DRB in 2001, Mr. Macdonald worked in the pharmaceutical industry for over 30 years. His work in this industry spanned sales, public affairs, and governmental relations. His responsibilities included the development of plans and the management of teams to achieve formulary listings at the provincial, federal, and private payer levels. In the course of his work, he has files drug formulary submissions in every province in Canada. Mr. Macdonald has extensive expertise in the area of provincial formulations and related drug reimbursement schemes.
+Ms. Linda Dresser, Pharm.D.
+Linda Dresser is currently a clinical pharmacy practitioner in infectious diseases at North York General Hospital. Prior to January 2007, she was a Research Coordinator and Clinical Infectious Diseases Pharmacy Specialist at Mt. Sinai Hospital in Toronto where she practiced as a hospital pharmacist. As well, she is currently a Assistant Professor at the Leslie Dan Faculty of Pharmacy at the University of Toronto. She has been a hospital pharmacist since 1988, working and training at various hospitals in Canada and the United States, including at the Clinical Pharmacokinetics Laboratory (CPL) of the Millard Fillmore Suburban Hospital/SUNY at Buffalo, and at the McMaster University Medical Centre, Hamilton Ontario. Linda Dresser has a doctor of Pharmacy (Pharm.D.) degree from Wayne State University in Detroit, MI and a 2-year post-doctoral research fellowship in infectious diseases pharmacotherapy from the CPL/SUNY at Buffalo. Her work at North York General Hospital, on a day-to-day basis, as was also the case at Mt. Sinai Hospital, includes working with doctors from the Infectious Diseases Service, where she makes recommendations regarding antimicrobial therapy, supervises the dispensing of prescriptions, precepts and teaches residents and students and conducts clinical research.
+Professor Barry Marshall, M.D.
+Professor Barry Marshall is a NHMRC Senior Principal Research Fellow and Clinical Professor of Microbiology and a Clinical Professor of Medicine, at the University of Western Australia; as well as a Professor of Research in Internal Medicine, independent research faculty, at the University of Virginia in the United States of America.
+Along with Dr. J.R. Warren, Dr. Marshall is the winner of the Nobel Prize for physiology or medicine in 2005. Drs. Marshall and Warren were awarded the Nobel Prize in medicine due to their discovery that gastritis and peptic ulcers arise from an infection of the stomach caused by the bacterium
+Helicobacter pylori
+(abbreviated
+H. pylori
+, and previously-known at various times as
+Campylobacter pyloridis
+,
+Campylobacter pylori
+,
+C. pyloridis
+and
+C. pylori
+). Mr. Marshall's research into H. pylori began in 1981 when he started collaborating with Dr. Warren regarding his discovery that bacteria were found in gastric biopsy samples from patients with gastritis, something previously thought impossible.
+Professor M. Brian Fennerty, M.D.
+Professor Brian Fennerty is currently a tenured Professor of Medicine and Section Chief of Gastroenterology at the Department of Internal Medicines at the Oregon Health & Science University ("OHSU"). He is on the Editorial Advisory Board for many journals including
+Alimentary Pharmacology and Therapeutics
+, and
+Gastroenterology & Hepatology
+, and is an editor of journals, including
+Reviews in Gastroenterological Disorders and JournalWatch Gastroenterology
+. M. Brian Fennerty is also the author or co-author of at least 146 peer-reviewed articles, including several regarding diseases caused or exacerbated by
+H. pylori
+.
+Dr. Renate Fischer M.D.
+Renate Fischer has been engaged in the practice of medicine for more than 30 years. She graduated with a degree in medicine from the University of Koln, Germany in 1971. In 1973, she received her Approbation as a licensed physician and completed her doctoral thesis.
+Thereafter, she was engaged as a Postdoctoral Fellow at the Huntington Memorial Hospital in Pasadena, California during the period of 1973-1977. In 1979, she joined Byk Gulden Lomberg Chemische Fabrik GmbH ("Byk Gulden"), later known as Altana Pharma AG, now Nycomed GmbH. During the period 1979-2001, Renate Fischer was engaged in international clinical research at Byk Gulden. In this role, her duties included being a principal investigator in a number of clinical studies with pantoprazole conducted by Byk Gulden. Her current position at Nycomed GmbH (formerly Altana Pharma AG) is as Director of Scientific Affairs LOC Germany.
+Renate Fischer is credited with a number of publications including book chapters, full papers and abstracts. Many of these publications relate to the clinical experience of Byk Gulden and/or Altana Pharma AG, now Nycomed GmbH, with pantoprazole.
+Mr. Ronald J. Elliott
+Ronald J. Elliott has practiced as a pharmacists in the Province of Ontario since 1973. In addition to being the Pharmacist and Owner of a Shopper's Drug Mart in St. Thomas, Ontario, Mr. Elliott has, over the last 35 years, has employed and worked with over 35 pharmacists and has trained 12 pharmacy interns. He has also been for the past 4 years a guest lecturer of 3rd year pharmacy students and international pharmacy graduates at the University of Toronto.
+He has served as a member of the Council of the Ontario College of Pharmacists from 1985-1993, and served as the President in 1989-1990. The Ontario College of Pharmacists is the self regulating body charged with the regulation of the practice of pharmacy in Ontario. He is also a member of the National Advisory Committee on Pharmacy Practice, a committee of the National Association of Provincial Regulatory Authorities.
+Mr. Elliott is a member of the Canadian Pharmacists Association, having served as a Member of the Board from 1997 to date and as the President in 2001-2002. He served as the President of the London and District Pharmacists Association in 1979. He is also a member of the American Pharmaceutical Association, and a Fellow of the American Society of Consultant Pharmacists.
+Dr. Ruth Corbin
+Ruth Corbin is the Chief Executive Officer of CorbinPartners Inc., a marketing science company founded in 1994, which conducts social science research about marketing and consumer behaviour and provides analysis for business decisions. In 2006, Ruth Corbin's firm was awarded the "Best in Class" prize by the Canadian Market Research and Intelligence Association (MRIA) for its integrated program of research on brand equity. The award presentation cited exemplary standards of validity and reliability.
+Ms. Corbin has also held executive positions responsible for research and investigations for three international corporations, including Vice-Chairman, Leger Marketing, Managing Director, Kroll Worldwide and President, Kroll Canada, and Chief Operating Officer, Angus Reid Group. In 2006, she was awarded the designation of Certified Market Research Professional from the Market Research and Intelligence Association. Throughout her career she has specialized in intellectual property, marketing research and business analysis. She has been personally involved in the design, execution and analysis of at least 1,500 research studies, including telephone surveys, mall intercept surveys, door-to-door surveys, media content analysis, and intellectual property audits for a multitude of national and international corporations, law firms, governments and public institutions.
+Ruth Corbin holds a Ph.D. in Psychology from McGill University (1976), an M.Sc. degree in Psychology from McGill University (1973), a B.Sc. degree in Mathematics from the University of Toronto (1972) and in 2005 she received an LL.M. degree in Intellectual Property from Osgoode Hall Law School of York University. She has taught in the areas of market research, statistics and consumer behaviour and intellectual property at Osgoode Hall Law School, Carleton University and the University of Toronto.
+In 2000, Ruth Corbin she co-authored a reference textbook on social science evidence in litigation published by Carswell, entitled
+Trial by Survey
+.
+Mr. Jean-Yves Julien
+Mr. Julien is a Pharmacy and Health Care Management Advisor who has been a licensed pharmacist in the province of Quebec since 1967. He has been involved in purchasing and dispensing pharmaceutical products for hospitals and community pharmacies in Quebec for more than 35 years.
+Amongst other positions held, from 1968 to 1979 he was elected as a board member for the Quebec Order of Pharmacists. In that capacity he was involved in various committees working on the
+Pharmacy Act
+and Bylaws revisions. One of the outcomes of this work, for which he contributed is that in 1974, under the
+Pharmacy Act
+, pharmacists in the province of Quebec were given the authority to substitute prescription drugs. Further, in June 2003, he was elected, for a two-year term, as President of the Quebec Order of Pharmacists (Licensing Body). The Quebec Order of Pharmacists is the licensing body for pharmacists in Quebec. At the time he served as president, their members numbered over 6200 pharmacists. The main responsibility of the Quebec Order of Pharmacists is protection of the public through the regulation and control of the pharmacy practise in the province. In his capacity as President, he dealt with various issues with regards to drug prescribing rules, substitution and generic products. Jean-Yves Julien also had to deal with substitution guidelines in relation with Code of Ethic rules as well as administrative rules.
+Respondent's Expert Witnesses
+Ms. Catherine Conroy
+Catherine Conroy is a graduate of the University of Toronto, Faculty of Pharmacy 1979. She has practiced pharmacy for 27 years and is currently practising at Shoppers Drug Mart in Mississauga, Ontario. She has worked at 8 different pharmacies since being licensed to practice pharmacy. Over the past 27 years, she has worked with at least 30 to 40 different pharmacies. Ms. Conroy has also been involved for 10 years as a teaching associate with the Faculty of Pharmacy at the University of Toronto in their Structured Practical Experience Program Ms. Conroy was also a preceptor for interns and students (domestic and international graduates) over the years.
+Dr. Colin William Howden, M.D.
+Dr. Colin William Howden is a Professor of Medicine in the Division of Gastroenterology at Northwestern University Feinberg School of Medicine and Attending Physician at Northwestern Memorial Hospital in Chicago, Illinois. Dr. Howden attained his M.D. Degree from the University of Glasgow in 1985 and is certified by the American Board of Internal Medicine in Internal Medicine (1995) and Gastroenterology (2005). He is accredited in the United Kingdom by the Joint Committee on Higher Medical Training in General (Internal) Medicine (1991), Gastroenterology (1991) and Clinical Pharmacology & Therapeutics (1991). He is licensed to practice medicine in Illinois, South Carolina (license currently and voluntarily inactive) and the United Kingdom. Dr. Colin Howden is a member of numerous societies and edited and refereed a number of journals and publications.
+Dr. Howden has authored more than 160 articles in peer reviewed publications, and has given approximately 200 presentations to societies. He has edited, co-edited or co-authored, guidelines books and contributed several book chapters.
+Dr. David Yates Graham
+Dr. David Yates Graham is a Professor of Medicine and Molecular Virology and Microbiology at Baylor College of Medicine in Houston, Texas. He also serves as Chief of the Digestive Disease Division in the Department of Medicine at Baylor College of Medicine and Chief of the Gastroenterology Section at the Veterans Affairs Medical Center in Houston, Texas. Dr. Yates Graham attained his M.D. Degree from Baylor University College of Medicine in 1966. His post-graduate training included: Internship at Ben Taub General Hospital and Veterans Administration Hospital, Houston, Texas in 1966-1967; Residency in Internal Medicine at Baylor Affiliated Hospitals, Houston, Texas in 1969-1971; and a Fellowship in Gastroenterology at Baylor Affiliated Hospitals, Houston, Texas in 1972-1973. He was certified by the Subspecialty Board - Gastroenterology in 1975.
+He has held the title of Professor of Medicine at Baylor College of Medicine since 1983 and Professor of Molecular Virology and Microbiology at Baylor College of Medicine since 1989. From 1983 to 1989 he held the title of Professor of Virology at this same institution. Prior to his appointment as a Professor, he served as an Associate Professor and Assistant Professor.
+Dr. Yates is also a member of numerous societies, recipient of several honours and awards and on the editorial board or a review for numerous journals. He has authored more than 700 scientific articles and over 60 letters, and has contributed to more than 90 books.
+Dr. W. Grant Thompson
+Dr. W. Grant Thompson is a Professor Emeritus (Medicine) at the University of Ottawa, Ottawa. Ontario. He obtained his Medical Degree from the University of Toronto in 1960. His postgraduate training includes residencies in medicine and gastroenterology at the Montreal General Hospital in Montreal, Quebec and the Vancouver General Hospital in Vancouver, British Columbia. He was an R. Samuel McLaughlin Fellow conducting Research at the Royal Postgraduate School in London, England. He was a Fellow of the Royal College of Physicians and Surgeons of Canada and the American College of Physicians. He remains a Senior Fellow of the American College of Gastroenterology, the American Gastrointestinal Association, and a life member of the Ontario Medical Association and the Canadian Medical Association.
+Dr. W. Grant Thompson received his Certification in Gastroenterology from the Royal College of Physicians and Surgeons of Canada in 1971. From 1980-1983, he was a Member of the Gastroenterology Specialty Committee of the Royal College of Physicians and Surgeons of Canada and a Member and Chairman of its Examining Board in Gastroenterology.
+Dr. Thompson has been Chief of the Division of Gastroenterology at the University of Ottawa and the Ottawa Civic Hospital, as well as the Program Director of the Gastroenterology Training Program at the University of Ottawa. He had previously held the positions of associate and assistant Professor of Medicine and Lecturer in Medicine at the University of Ottawa. He is a current and past member of numerous societies and committees.
+Dr. W. Grant Thompson has received a number of awards and has been a reviewer or editor for numerous panels, organizations and journals. He has also authored a number of books related to gastrointestinal disorders and approximately 275 scientific and lay articles dealing mainly with functional bowel disease.
+Dr. Thompson retired from clinical practice in June 30, 1999.
+Mr. Kenneth Brown
+Mr. Brown is a pharmaceutical consultant providing policy, program and strategic advice to federal and provincial governments, the pharmaceutical industry and to health professionals. He has familiarity with the manner in which certain drug submissions are made, and drugs are listed on provincial formularies, in particular, the Manitoba Drug Benefits and Interchangeability Formulary.
+Mr. Brown obtained his B.Sc. in Pharmacy from the Faculty of Pharmacy at the University of Manitoba in 1966. From 1966 to 1973, he practised as a community pharmacy manager. In addition, during this time, he was a teaching assistant at the Faculty of Pharmacy at the University of Manitoba. Between 1976 and 1979, he was executive coordinator of the Canadian Conference on Continuing Education in Pharmacy, and editor and publisher of the National Home Study Pharmacy Correspondence Program.
+In 1973, he was appointed Secretary to the Manitoba Drug Standards and Therapeutics Committee. He was also a Member and Chairperson of the Federal/Provincial/Territorial Pharmaceutical Issues Committee. In those positions, he provided strategic policy and program advice to Health Canada, the Patented Medicine Prices Review Board, and the Federal/Provincial/Territorial Advisory Committee on Health Services. Since 1998, he has acted as a pharmaceutical consultant to the pharmaceutical industry, provincial and federal governments, drug program insurers, health and legal professionals, database managers and professional associations.
+Professor David H. Sherman
+Professor David Sherman is currently the John Gideon Searle Professor of Medicinal Chemistry (College of Pharmacy) at the University of Michigan. He also holds appointments as a Professor in the Departments of Chemistry (College of Literature, Science, and the Arts) and Microbiology & Immunology (Medical School) at the University of Michigan.
+He served as Director of the Center for Microbial Physiology and Metabolic Engineering at the University of Minnesota and for one year, in 1997, (while on University sabbatical leave), he served as Senior Director of ChromaXome Corporation, in San Diego, California. He co-founded and has served as the Chief Technical Consultant and chairman of the scientific advisory board of Acera Biosciences, Inc. since 1999. He has served as the Director of the Center for Chemical Genomics, Life Sciences Institute at the University of Michigan since 2004.
+He received a B.A. in Chemistry (with Honors) from the University of California, Santa Cruz, in 1978; and a Ph.D. in Organic Chemistry from Columbia University in 1981 and was a postdoctoral researcher from 1981 to 1984. From 1984 through 1990, he was a Research Scientist at Biogen Research Corporation (1984-1987) and the John limes Institute in Norwich, U.K. (1987-1990). From 1990 through 2000, he was a Professor in the Department of Microbiology and BioTechnology Institute at the University of Minnesota. In 2003, he was received the John Gideon Searle Professorship in Medicinal Chemistry (College of Pharmacy), and was appointed Professor in the Departments of Chemistry (College of Literature, Science and the Arts) and Microbiology & Immunology (Medical School) at the University of Michigan.
+Dr. Sherman is a member of a number of societies and has served as a referee for a number of journals as well as a grant reviewer. During his academic career he has taught in the fields of medicinal chemistry and microbiology and has published over 100 peer-reviewed research publications in the fields of synthetic organic chemistry, bioorganic and medicinal chemistry, molecular microbiology, microbial pathogenesis, biochemistry and enzymology.
+Professor Harold B. Hopfenberg
+Professor Harold B. Hopfenberg is the Camille Dreyfus Professor Emeritus of Chemical and Biomolecular Engineering and Director Emeritus of the Kenan Institute for Engineering, Technology & Science at North Carolina State University.
+He received a S.B. degree in June 1960; a S.M. degree in June 1961; and a Ph.D. in January 1965, each in Chemical Engineering from the Massachusetts Institute of Technology. From 1967 through 1974 he became a Professor of Chemical Engineering at North Carolina State University, Raleigh, North Carolina acting as Head of Department from 1980 to 1987. From 1980 to 1992 he held various positions at North Carolina State University including Associate Dean of the College of Engineering, Executive Assistant to the Chancellor for Institutional Advancement and for one year, Vice Chancellor for Institutional Advancement. Dr. Hopfenberg and was subsequently Director of the William R. Kenan, Jr. Institute for Engineering, Technology & Science.
+In addition, Dr. Hopfenberg has acted as a consulted with the Alza Corporation and at various times from 1972 to the present, he served on the editorial advisory boards of a number of journals.
+Mr. Robert L. Klein
+Mr. Klein is the President and Co-Founder of Applied Marketing Science, Inc. ("AMS"), a market research and consulting firm with offices in Waltham, Massachusetts. He received a Bachelor of Science degree in Mechanical Engineering in 1966 from the Massachusetts Institute of Technology ("MIT"), Cambridge, Massachusetts, and a Master of Science degree in 1968 from the MIT Sloan School of Management. He served as a commissioned officer in the US Public Health Service from 1968 to 1970.
+In 1970, he joined Management Decision Systems, Inc. ("MDS"), where he was Senior Vice President responsible for the development of market research models and measurement tools. In 1985, he became Executive Vice President of IRI with responsibility for custom consulting and market research projects outside the world of consumer package goods.
+In 1989 started AMS, which has since been conducting market research on a wide range of both consumer and business products and services. He is a member of a number of societies and has been involved in the development of over 1,000 surveys of different types. He is the author or co-author of 20 articles or publications related to market research, including several published in the area of intellectual property.
+Ms. Rosemary A. Bacovsky
+Rosemary A. Bacovsky is the President of Integra Consulting Ltd., a position she has held since 1996. Prior to this, she was the Director of Pharmacy Services at the Health Policy Branch, Population Health Division of Alberta Health. She obtained her Master of Health Services Administration degree in 1997, her Master of Pharmacy degree in 1985, and her Bachelor of Science degree in Pharmacy in 1977, each from the University of Alberta. After obtaining her Bachelor of Pharmacy degree, and while attending for her graduate degrees, she practised as a pharmacist at the Cross Cancer Institute and Redwater General Hospital.
+From 1988-1990 and 1996 to present, she provided pharmacy consulting services to a number of clients, including for government, hospitals, and the pharmaceutical industry. For one year, while the Director of Pharmacy Services from August 1995 to September 1996, she managed the drug component of the Blue Cross Non-Group Plans, and developed policy on cost-containments strategies for three revisions of the Alberta Health Drug Benefit List (now known as the Alberta Health and Wellness Drug Benefit List - the "Alberta DBL") to meet various budget targets. Ms. Bacovsky has also been involved in other matters relating to provincial and national drug formulary listings and interchangeability of drug products.
+[End of document]

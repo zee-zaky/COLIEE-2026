@@ -1,0 +1,397 @@
+ <FRAGMENT_SUPPRESSED>  Prothonotary
+March 10, 2008.
+Counsel:
+Neil R. Belmore, Lindsay Neidrauer and Laurent Massam, for the applicants;
+J. Bradley White and Marcus Klee, for the respondent, (Genpharm Inc.);
+No one appearing for the respondent, (Minister of Health).
+Solicitors of Record:
+Gowling Lafleur Henderson LLP, Toronto, Ontario, for the applicants;
+Osler, Hoskin & Harcourt LLP, Ottawa, Ontario, for the respondent, (Genpharm Inc.);
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent, (Minister of Health).
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2008] F.T.R. TBEd. MR.027.
+[1]
+Milczynski, Prothonotary
+: This is a motion brought by the Respondent, Genpharm Inc. ( <FRAGMENT_SUPPRESSED> ) seeking dismissal of the Applicants' (collectively "Nycomed's") Application under the
+Patented Medicines (Notice of Compliance) Regulations
+("
+Regulations
+"). Genpharm seeks dismissal of the Application on two grounds. First, pursuant to s.6(5)(a) of the
+Regulations
+, Genpharm submits that Canadian Patent Nos. 2,092,694 (the "'694 Patent") and 2,089,748 (the "'748 Patent") are not eligible to be included on the patent register in respect of the drug PANTOLOC (40 mg enterically-coated tablets), which contains the medicine pantoprazole sodium on the grounds that neither patent is relevant to the Notice Of Compliance ("NOC") against which they are listed (the "'738 NOC"). Second, pursuant to s.6(5)(b) of the
+Regulations,
+Genpharm submits that the Application is redundant, scandalous, frivolous or vexatious or otherwise an abuse of process on the grounds that the '694 and '748 Patents are invalid or not infringed by Genpharm's product.
+[2]
+There is no real disagreement between the parties as to the applicable standard of proof that must be met. In respect of its motion under s.6(5)(a) of the
+Regulations
+, Genpharm must prove, on a balance of probabilities, that the two Nycomed patents in question are not relevant to the '738 NOC and are ineligible for listing on the register. The standard of proof in respect of the motion under s.6(5)(b) of the
+Regulations
+is much higher. Genpharm must establish that the Application is so clearly futile that it has not even the slightest chance of succeeding.
+[3]
+For the reasons set out below, I find that Genpharm has established that the '694 Patent was improperly listed on the patent register. With respect to the '748 Patent, I have not been persuaded that it was improperly listed. As for Genpharm's motion pursuant to s.6(5)(b) of the
+Regulations
+, I cannot conclude that Genpharm has discharged the heavy burden of proof. Whatever the ultimate merits of Nycomed's arguments are regarding invalidity and infringement, even if tenuous, it cannot be said that they are so "clearly futile" so as to completely extinguish the need for a full hearing. Nycomed need only establish that it has an arguable case for the Court to dismiss this part of the motion.
+[4]
+I would add that to some extent, reliance on s.6(5)(b) of the
+Regulations
+in the circumstances of this motion was misplaced - something more than being very certain about the strength of one's case must be established for the Court to rely upon s.6(5)(b) to dismiss an application brought under the
+Regulations
+and bypass the hearing of the application. In the absence of clear and cogent evidence that the application is frivolous and vexatious, or otherwise constitutes an abuse on the part of the applicant, the pursuit of motions under s.6(5)(b) ought not to be encouraged. Proceedings under the
+Regulations
+are already designed to be summary in nature and expeditiously determined. They ought not attract motions within them for relief typically sought in motions for summary judgment. While decisions of the Court have found that where moving parties have established clearly and without doubt that there can be no infringement, or that res judicata and
+issue estoppel
+apply, relief under s.6(5)(b) may be granted, these are exceptional circumstances.
+Overview
+(a) Pantoprazole
+[5]
+Pantoprazole sodium is an old medicine that has been marketed and sold in Canada since the mid-1990's. It is classified as a "Proton Pump Inhibitor", "PPI" or a H+, K+-ATPase Inhibitor which inhibits the secretion of gastric juice or acid in the stomach. The now expired patent, U.S. Patent No. 4,758,579 taught that pantoprazole and its salts were useful for "the prevention and treatment of gastrointestinal diseases such gastric and duodenal ulcers".
+[6]
+To be effective as a PPI, orally administered pantoprazole sodium must reach the small intestine. However, before reaching the small intestine, the pantoprazole must pass through the acidic environment of the stomach. As pantoprazole sodium degrades in an acidic environment, it is administered in a dosage form whereby the medicinal ingredient is protected by an outer layer known as an enteric coat. The enteric coat can withstand stomach acid, but degrades and releases the medicinal ingredient in the intestine, where it can then take effect.
+[7]
+Enterically coated (gastric acid resistant) tablets of pantoprazole sodium were expressly disclosed in the prior art for the treatment of such ulcers and
+H. pylori
+was a bacterial micro organism that was known by persons skilled in the art as of 1988 to be associated with gastric and duodenal ulcers.
+[8]
+Pantoprazole sodium is the active ingredient in PANTOLOC, sold and marketed in Canada by Nycomed. PANTOLOC was first approved by Health Canada in 1996 for use as a PPI to reduce the secretion of gastric acid in the treatment of duodenal and gastric ulcers. There are no patents listed on the patent register in respect of the original New Drug Submission, or associated NOC.
+(b) Regulatory Framework and '738 NOC
+[9]
+An innovator drug manufacturer who wishes to market a new drug in Canada is required to file a New Drug Submission ("NDS") pursuant to the
+Food and Drug Regulations
+. If the innovator wishes to change anything about an existing drug for which a NOC has issued, the innovator must file a Supplementary New Drug Submission ("SNDS") with the Minister of Health. If the Minister approves the specified change then a new NOC is issued - becoming the instrument under which the innovator markets its drug.
+[10]
+At the time of filing a NDS or SNDS, the innovator may file a patent list with the Minister. The listed patents are those that contain one or more claims for which the innovator seeks the advantages of the
+Regulations
+. A generic drug manufacturer which names the innovator's drug as a Canadian Reference Product in its Abbreviated New Drug Submission ("ANDS") must then address all the patents on the patent list for the product in question.
+[11]
+For a patent to be listed against a NOC, it must contain claims that are relevant to the subject of the NOC.
+[12]
+In respect of PANTOLOC, the '694 and '748 Patents were added to the patent register on the basis of three different NOCs. The NOC which resulted from SNDS No. 055738, the '738 NOC, approved a new indicated use for PANTOLOC, "Reason for Supplement" namely: "In combination with appropriate antibiotics, eradication of
+H. pylori
+infection associated with an active duodenal ulcer". The '738 NOC permitted Nycomed to amend its product monograph to add a new indication for PANTOLOC in combination with two antibiotics, clarithromycin and one of amoxicillin or metronidazole, for the treatment of
+H. pylori
+-associated duodenal ulcers:
+Indications:
+For the treatment of conditions where a reduction of gastric acid secretion is required, such as the following: duodenal ulcer, gastric ulcer, reflux esophagitis,
+H. pylori
+-associated duodenal ulcer.
+Pantoprazole, in combination with clarithromycin and either amoxicillin or metronidazole, is indicated for the treatment of patients with an active duodenal ulcer who are
+H. pylori
+positive. Clinical trials using combinations of pantoprazole with appropriate antibiotics have indicated that such combinations are successful in eradicating
+H. pylori.
+(c) This Proceeding
+[13]
+Genpharm served Nycomed's predecessors with a Notice of Allegation ("NOA") pursuant to section 5 of the
+Regulations
+by letter dated February 19, 2007 with respect to the '694 and '748 Patents, and also with respect to Canadian Patents Nos. 2,109,697 (the "'697 Patent") and 2,310,585 (the "'585 Patent"). All four patents are listed on the patent register in respect of PANTOLOC in 40 mg strength tablets.
+[14]
+In its NOA, Genpharm alleged that no claim of the '694, '697, '748 and '585 Patents for the medicinal ingredient, the formulation, the dosage form or the use of the medicinal ingredient would be infringed by the making, constructing, using or selling of the Genpharm product. Genpharm also alleged that the '694, '697 and '748 Patents were invalid, and that the '694 and '748 Patents were not eligible for inclusion on the patent register in respect of PANTOLOC 40 mg enteric coated tablets.
+[15]
+In response to the NOA, on April 5, 2007, Nycomed's predecessors commenced this application pursuant to the
+Regulations
+for an order prohibiting the Minister from issuing a NOC to Genpharm in respect of Genpharm's 40 mg pantoprazole sodium tablet. The application, however, was only in relation to the Genpharm's allegations concerning the '694, '697 and '748 Patents.
+[16]
+Nycomed subsequently served its evidence on the application in respect of the '694 and '748 Patents and confirmed that Nycomed no longer relies on the '697 Patent and confirmed that it does not rely on any NOC other than the '738 NOC.
+[17]
+Accordingly, Genpharm asks that the within application be formally dismissed as it relates to the '697 Patent - relief which will be reflected in the order below.
+[18]
+Also, as a further preliminary matter, Genpharm argued that Nycomed's application should be dismissed on the grounds that Nycomed failed to lead any evidence in the main application to establish that the '694 and '748 Patents were properly listed.
+[19]
+I do not accept this argument.  <FRAGMENT_SUPPRESSED> the Court held that a generic seeking to challenge a patent listing must do so by way of motion under s.6(5)(a) of the
+Regulations
+, and thus listing is not properly addressed in an NOA or an application for prohibition:
+There is no specific provision in section 5 whereby a generic can allege, in its notice to the innovator, that the patent should not have been listed in the first place or that the generic is not required to address the patents listed at all.
+Once proceedings are instituted, which in this Court is by way of a Notice of Application naming the Minister and generic as respondents, the generic may, under section 6(5)(a) of the
+NOC Regulations
+move to strike the proceedings on the basis that an asserted patent should never have been listed in the first place. This is the first opportunity specifically given to the generic for doing so. Section 6(5)(b) permits the generic to move to strike the proceedings for abuse and the like.
+Thus it would appear that a generic must wait until proceedings are commenced before it can engage the issue as to whether the patent should have been listed at all having regard to the provisions of section 4 of the
+NOC Regulations.
+As discussed, the jurisprudence indicates that a generic cannot compel the Minister directly to de-list a patent nor intervene in proceedings respecting listings brought by the innovator.
+[20]
+In light of the above, Genpharm's argument on this issue must fail. If section 5 of the
+Regulations
+does not permit Genpharm to raise improper listing as an issue in its NOA, it cannot fault Nycomed for failing to lead evidence on this issue in the main application.
+Applicable Test and Law
+[21]
+An application brought under the
+Regulations
+may be dismissed in whole or in part pursuant to s.6(5)(a) or (b) of the
+Regulations
+on the basis that:
+(a) the patent or patents are not eligible for inclusion on the patent register; or
+(b) the application is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process.
+[22]
+The standard and burden of proof under s.6(5)(a) of the
+Regulations
+was recently set out by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> :
+The factual elements of the motion must be decided on the basis of the normal standard of proof in civil matters, the balance of probabilities. As to the burden of proof, it lies where it normally does, on the party filing the motion (the generic drug manufacturer). However, to the extent that the respondent (the innovator) fails to produce relevant evidence that is under its sole control, there may be a basis for drawing an adverse inference.
+[23]
+A motion under s.6(5)(b) of the
+Regulations
+requires the moving party to demonstrate that the application is an abuse. This may involve showing that the application is "clearly futile" or that its lack of merit is "plain and obvious" (
+ <FRAGMENT_SUPPRESSED> ).
+[24]
+With respect to the proper approach for the determination of the listing issue for the purposes of s.6(5)(a) of the
+Regulations
+, there must be a "relationship" or relevance between the "patented invention" described in the patent in issue, and the NOC against which the patent is listed on the patent register. Without such "nexus" or "relationship", the patent is not eligible for inclusion on the patent register (
+ <FRAGMENT_SUPPRESSED> ).
+[25]
+On this motion, Genpharm tendered the evidence of one fact witness, Peter Eustace (a Senior Patent Officer  <FRAGMENT_SUPPRESSED> ) and two expert witnesses, Dr. Peter Rue (a consultant to the pharmaceutical industry) and Dr. Michael Gould (a medical doctor with significant experience in gastroenterology). All three were cross-examined.
+[26]
+Nycomed submitted affidavits from four expert witnesses: Diane Azzarello (a pharmacist and pharmaceutical consultant), Dr. Chuck Chakrapani (a statistical consultant), Dr. James W. McGinity (a professor of pharmacy) and Dr. Stephen Wolman (a medical doctor specializing in gastroenterology). Nycomed also tendered the evidence of Ms. Mira Rinne (a legal assistant). All five of Nycomed's witnesses were cross-examined.
+[27]
+With respect to claims construction, the relevant claims of the '694 and '748 Patents must be construed as a matter of law, informed as required by expert opinion as to the manner in which the patent would be read by a person of ordinary skill in the art. The Court must construe the patent claims purposefully, in light of the patent as a whole as of the date of publication to discern what the inventors intended. The patent must be read with a mind willing to understand, trying to achieve success and not look to difficulties or seek failure. As cautioned by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> , the Court must be wary of opinions made with a mind "bent on finding a way to circumvent the inventor's invention".
+A.
+LISTING ELIGIBILITY
+Was the '694 Patent Properly Listed?
+(a) The "Patented Invention"
+[28]
+As noted above, the Court must compare the change reflected in the SNDS with the "patented invention" disclosed in the patent sought to be listed. The concept of the "patented invention" is derived from section 55.2(4) of the
+Patent Act
+, R.S.C. 1985, c.P-4, which defines the scope of the Minister's regulation-making power - limiting such power to the making of regulations that prevent infringement of the "patented invention". Pursuant to that provision, the Minister enacted the
+Regulations
+to prevent infringement by persons who take advantage of the early working and stockpiling exceptions set out in subsection 55.2(1) and 55.2(2) of the
+Patent Act
+: see:
+ <FRAGMENT_SUPPRESSED>  at paragraph 52 ("
+Biolyse
+").
+[29]
+Notwithstanding the importance of the concept of the "patented invention" to the
+Regulations
+, there is no definition in the
+Regulations
+and little guidance in the jurisprudence to date to assist in defining the concept. Based on the jurisprudence in
+Biolyse
+, <FRAGMENT_SUPPRESSED> , and
+ <FRAGMENT_SUPPRESSED> , the "patented invention" must relate to the new advantage disclosed in the patent, and it need not be co-extensive with the claims. This was clearly set out by Justice Binnie in
+Biolyse
+at paragraph 52:
+Firstly, the regulations are to be directed to persons who are making use of the "patented invention". As pointed out by this Court in  <FRAGMENT_SUPPRESSED>  (CanLII), ... the patented invention is not necessarily co-extensive with the patent claims. The distinction was critical in that case to the issue of remedy. While farmer Schmeiser had used the patented product (Roundup Ready Canola seed), he had not taken advantage of the patented invention (its herbicide resistant property) because he had not sprayed his crop with Roundup. The Court thus rejected Monsanto's claim to Schmeiser's profits from his canola crop. The difficulty with the trial judge's award is that it does not identify any causal connection between the profits the appellants were found to have earned through growing Roundup Ready canola and the invention. On the facts found, the appellants made no profits as a result of the invention.
+[30]
+Justice Binnie applied <FRAGMENT_SUPPRESSED> in
+Biolyse
+and found that Bristol-Myers Squibb had a patent on the formulation and administration of the medicine paclitaxel. However, as Bristol-Myers Squibb did not invent or discover paclitaxel itself, the medicine paclitaxel was not the "patented invention". This reasoning was applied in <FRAGMENT_SUPPRESSED> - Justice Hughes identified the "patented invention" by examining both the patent specification and the patent claims, with a focus on the inventors' solution to a problem that existed as identified in the prior art.
+(b) The Patented Invention Disclosed in the '694 Patent
+[31]
+Nycomed submits that the patented invention disclosed in the '694 Patent is the use of pantoprazole as an antimicrobial agent together with other antimicrobial agents to suppress or eradicate certain ulcers caused by
+H. pylori
+infection. This is not, however, what I find that the '694 Patent provides.
+[32]
+The '694 Patent is entitled "Use of Pyridylmethylsulphinyl-1H-benzimidazole derivatives in the treatment of illnesses caused by
+Helicobacter
+bacteria". Page one of the specification sets out the "Scope of application of the invention" as follows:
+The invention relates to new oral drug forms. The new drug forms are employed for the treatment of diseases of the stomach and/or intestine caused by
+Helicobacter
+bacteria.
+[33]
+Page one of the patent specification also sets out the prior art. The patentee discloses that various compounds (in the same family as pantoprazole) are known for their gastric acid secretion properties and the treatment of infectious diseases, including those caused by
+Campylobacter pylori
+. It notes that given the low stability and acid-degradability of pantoprazole, there is a need to administer these active compounds in a form that is resistant to gastric juice. One example provides the use of an enteric coated formulation as a solution to this problem.
+[34]
+The specification then discloses that the compounds are active in the treatment of various
+Helicobacter
+strains, including
+H. pylori
+, and it is advantageous for the tablets, capsules, or granules to be in a form such that they readily dissolve in gastric juice and release the active compound into the stomach. For the combined treatment of gastric disease that are based on both an increased secretion of gastric acid and damage to the stomach by
+H. pylori
+, the patent states that it is advantageous if the compounds are administered in a form that is resistant to gastric juice and simultaneously not resistant to gastric juice in an individual dose.
+[35]
+The discovery of the invention is reported at page five:
+It has been found, surprisingly, that the compounds of formula I are considerably more active against Helicobacter bacteria in an acid medium than in a neutral medium, and they accordingly - in contrast to the doctrine to be found in the prior art - should appropriately not be administered in a form which is resistant to gastric juice.
+The invention thus preferably relates to the use of compounds of the formula I and their pharmacologically tolerated salts for the preparation of medicaments which are not in a formulation which is resistant to gastric juice and are to be administered orally for combating Helicobacter bacteria.
+[36]
+The patent has 31 claims. Claims 1 and 2 teach the use of pantoprazole for the preparation of oral medicaments for combating
+Helicobacter
+bacteria. Claims 3-5 and 20-25 teach a "drug formulation" or "oral composition" in various dosage forms. No use is specified. Claims 6-19 and 26-31 teach the use of the "dosage forms" or "pharmaceutical composition" for treating or combating
+Helicobacter
+bacteria or
+H. pylori
+. Within the patent, 22 claims expressly mention
+Helicobacter
+bacteria or
+H. pylori
+, and 28 claims expressly state that the compounds must be in a form that is at least in part not resistant to gastric juice.
+[37]
+Based on the above, I define the patented invention disclosed in the '694 Patent to be a new use of pantoprazole sodium, that being its use as an antimicrobial to treat
+Helicobacter
+bacteria associated diseases of the stomach and intestine, where the active ingredient is preferably administered in a form that is not completely resistant to gastric juice
+[38]
+This is consistent with Nycomed's witness Dr. Wolman, who stated in his affidavit that the '694 Patent "discloses that pantoprazole has direct activity against
+Helicobacter
+pylori
+and describes the formulation that is best for this direct action". Dr. Wolman also agreed on cross-examination that it would occur to a person skilled in the art reading the patent in its entirety that it is not appropriate to administer the compounds of formula I, including pantoprazole, in a form that is resistant to gastric juice.
+[39]
+As indicated in the Rue and Gould affidavits, the '694 Patent acknowledges that the compounds at issue are old, were known to have gastric acid secretion inhibiting properties, and are to be administered in an oral dosage form which is resistant to gastric juice, such as an enteric coated formulation.
+The change reflected in the SNDS and associated NOC
+[40]
+Upon identifying the patented invention, it is then necessary to identify the change set out in the SNDS and associated NOC, against which the '694 Patent was listed. As set out above, Nycomed filed SNDS 055738 seeking approval for a new indication of PANTOLOC. The Minister of Health issued a NOC in respect of the SNDS on March 10, 2000, which states that the "Reason for Supplement" is a "New Indication", namely "In combination with appropriate antibiotics, eradication of
+H. pylori
+infection associated with an active duodenal ulcer", The identified "Therapeutic Classification" was as an "H+,K+-ATPase Inhibitor", or PPI.
+[41]
+The PANTOLOC product monograph was amended to include the new indication and associated dosing information for the use of pantoprazole in combination with clarithromycin and either amoxicillin or metronidazole.
+Relevance of the Patented Invention and the NOC
+[42]
+Genpharm advanced four grounds for finding that the '694 Patent was not relevant to the SNDS and resulting '738 NOC:
+(i) The patent relates to pantoprazole's purported antimicrobial activity, whereas the NOC did not grant approval for the use of an antimicrobial because it alone is without effect against
+H. pylori.
+(ii) The patented invention relates to the use of pantoprazole alone whereas the NOC did not approve the use of pantoprazole alone.
+(iii) The patent claims a partially or non-enterically coated dosage form, whereas PANTOLOC is an enterically coated dosage form.
+(iv) The patent is directed to a delayed release delivery system rather than to the medicine pantoprazole sodium itself, or the use of the medicine.
+[43]
+Based on my finding regarding what the patented invention is that is contained in the '694 Patent, namely, the use of pantoprazole alone to treat
+H. pylori
+, I find that the '694 Patent is not relevant to the submission against which it was listed. The 738 NOC did not approve pantoprazole for direct treatment of
+H. pylori
+.
+[44]
+The NOC was issued in respect of a new indication, namely, the use of pantoprazole as a PPI in combination with specific antibiotics. When functioning as a PPI, pantoprazole is intended to reduce or suppress gastric acid secretion. However, the "patented invention" disclosed in the '694 Patent relates to the use of pantoprazole sodium as an antimicrobial.
+[45]
+Nycomed argues that the '694 Patent is relevant to the NOC as it teaches the use of pantoprozole to eradicate
+H. pylori
+infection associated with duodenal ulcers. Nycomed states that the patent teaches that pantoprazole can be administered with other antibiotics to intensify pantoprazole's antimicrobial effect in a "super-additive sense".
+[46]
+While I acknowledge that the patent may provide for the use of pantoprazole in combination with antibiotics, this does not affect my finding that the "patented invention" relates to pantoprazole's use as an antimicrobial. This is confirmed by Genpharm's expert, Dr. Rue whose affidavit states that while the patent claims a formulation that is simultaneously resistant to gastric juice and not resistant to gastric juice, "the non-enterically coated portion of the tablet is therefore to be used as an antibiotic, while the enterically coated portion is for use as a PPI".
+[47]
+My finding on this issue is sufficient grounds to grant this part of Genpharm's motion. However, I would also note that as of 2007, the product monograph for PANTOLOC continued to state that pantoprazole alone was ineffective for the treatment of
+Helicobacter
+infection:
+"Pantoprazole alone was without effect on
+Helicobacter
+infection, while in combination therapy with the antibiotics, pantoprazole had a potentiating effect on the elimination of
+Helicobacter
+infection."
+[48]
+Given my findings above, it is not necessary to address Genpharm's third and fourth arguments regarding dosage form and the patent being directed to a delayed release delivery system rather than to the medicine sodium pantoprazole or the use of this medicine.
+Was the '748 Patent Properly Listed?
+(a) The Patented Invention Disclosed in the 748 Patent
+[49]
+The '748 Patent is entitled "Pharmaceutical compositions containing 5-Difluoromethoxy-2-[(3,4-Dimethoxy-2-Pyridyl) Methylsulfinyl] Benzimidazole and an anti-
+Helicobacter
+agent for the treatment of gastrointestinal disorders". The advantage disclosed in the specification is as follows:
+"The composition of the present invention may be used in therapy to treat gastrointestinal diseases caused or exacerbated by
+helicobacter
+infection and secreted gastric acid. For example, they may be used to treat duodenal or gastric acid ulcer disease, in particular having a positive effect in lowering the relapse rate observed by treatment with a compound of structure (I) (i.e. pantoprazole) alone."
+[50]
+The patent contains 49 claims. Claims 1-14 and 17-30 claim different variations of the pharmaceutical composition. Claims 15 and 16 claim the use of the composition. Claims 31-41 claim a medicament package. Claims 42 and 43 claim the use of the medicament package and claims 44-46 claim the use of the pharmaceutical composition and/or medicament package where the time of administration is specified.
+[51]
+The parties generally agree that the "patented invention" is the disclosure of novel pharmaceutical compositions to treat gastrointestinal diseases caused or exacerbated by
+H. pylori
+and secreted gastric acid. Those compositions include pantoprazole or pharmaceutically acceptable salt thereof and a
+Helicobacter
+Inhibiting Anti-Microbial Agent ("HIAMA").
+[52]
+Genpharm argued vigorously that the "a pharmaceutical composition" claimed in the '748 Patent was limited to pharmaceutical compositions that were either a single dosage form containing all the medicinal substances ("a pill"), or several dosage forms containing different medicinal substances packaged together in a single medicament pack ("a pack"). This argument was advanced by Dr. Rue who gave evidence that the term "pharmaceutical composition" would be understood to mean the same things as a medicament, which is a single unit dosage form.
+[53]
+In my view, Genpharm is attempting to improperly or unnecessarily limit the scope of the claims. The '748 Patent states that the use of pantoprazole and a HIAMA may involve either concurrent or non-concurrent administration. Concurrent administration is defined as pantoprazole and the HIAMA being administered within 24 hours or less of each other. Non-concurrent is administration of the two agents more than 24 hours apart.
+[54]
+The '748 Patent also states that the HIAMA and pantoprazole can be administered separately in a standard pharmaceutical composition or together, in a single composition. Finally, the '748 Patent defines what is meant in respect of "a pharmaceutical composition" being a "pill" or "medicament pack":
+It is to be understood that when used herein, "medicament" shall be taken to refer to a composition comprising both the helicobacter-inhibiting anti-microbial agent and the compound of formula (I) or a pharmaceutically acceptable salt thereof, or a medicament pack comprising the two active ingredients
+as discrete dosage forms
+. [emphasis added]
+[55]
+Accordingly, I find that the "patented invention" encompasses the use of the pharmaceutical composition of pantoprazole and one or more HIAMAs, when the elements are in a single dosage form, or in separate dosage forms, which need not be packaged together, and as indicated in the patent, may be administered concurrently or non-currently, but nonetheless, in combination, have the desired effect of treating gastrointestinal diseases caused by
+H. pylori
+infection.
+The change reflected in the SNDS and associated NOC
+[56]
+As set out above, the NOC granted in respect of SNDS 055738 provided approval for a "New Indication" for PANTOLOC, namely use of pantoprazole in combination with clarithromycin and either amoxicillin or metronidazole to eradicate
+H. pylori
+infection associated with an active duodenal ulcer.
+[57]
+Unlike the '694 Patent, where pantoprazole is purported to have an antimicrobial effect, the '748 Patent discloses pantoprazole's old use, as a PPI.
+Relevance of the Patented Invention and the NOC
+[58]
+Genpharm advanced three grounds for finding that the '748 Patent was not relevant to the submission resulting in the '738 NOC:
+(i) The medicine in PANTOLOC is pantoprazole sodium whereas the patented invention requires as an essential element, the presence of two medicines in combination.
+(ii) The "pharmaceutical composition" claimed in the '748 Patent is either a single pill which contains two medicines or is a medicament pack which contains two separate medicines and is thus not relevant to the dosage form of PANTOLOC.
+(iii) The patent does not require the use of clarithromycin and is thus not relevant to the NOC which approved PANTOLOC for use with clarithromycin.
+[59]
+With respect to the first argument, Genpharm submits that the '748 patent is not eligible to be listed as the patent teaches the combination of pantoprazole and a HIAMA, whereas the NOC only grants approval for pantoprazole sodium alone. In support of its argument, Genpharm relies
+ <FRAGMENT_SUPPRESSED> . In that case, Pfizer had attempted to list a patent that claimed a pharmaceutical composition (including the medicinal ingredient amlodipine, one of three statins and a carrier) against the drug Norvasc, which had only one medicinal ingredient, amlodipene.
+[60]
+The trial judge found that under paragraph 4(2)(a) of the
+Regulations
+, a patent may be listed in respect of a drug that contains a medicine only if the patent contains a claim for the medicine itself or a claim for the use of the medicine. Justice Sharlow upheld the trial judge's finding that the patent was ineligible for listing:
+7
+I also agree with the Minister that this interpretation is consistent with the object of the
+NOC Regulations
+, which is to prevent the infringement of patents while permitting drug manufacturers to take advantage of the early working exception in section 55.2 of the
+Patent Act
+. Including the 726 patent on a patent list in respect of Norvasc will never disclose a possible infringement of the 726 patent.
+8
+There are two reasons for that. First, no drug product could possibly infringe the 726 patent unless it contains both amlodipine and one of the statins named in the claims of the 726 patent. That conclusion is compelled by the claims of the 726 patent.
+9
+Second, if a drug manufacturer wished to obtain a notice of compliance for a new drug product containing both amlodipine and a statin (thus raising the risk of an infringement of the 726 patent), the
+Food and Drug Regulations
+would not permit that drug manufacturer to file an abbreviated new drug submission using Norvasc as its Canadian reference product. That is because, by definition, a proposed new drug containing two medicinal ingredients cannot be the "pharmaceutical equivalent" of a drug that contains only one of those ingredients.
+[61]
+In response, Nycomed argues that the Court's decision in <FRAGMENT_SUPPRESSED> was based on the fact that a single medicine tablet cannot infringe a combination patent claim. In the present case, the use of pantoprazole sodium in combination with one of the three antibiotics set out in the PANTOLOC product monograph could potentially infringe the combination patent.
+[62]
+I would agree with Nycomed that <FRAGMENT_SUPPRESSED> is distinguishable from the present case. There is no evidence that the Minister had approved the use of Norvasc for any indication where more than one medicinal ingredient is to be used in combination, and therefore the use of Norvasc could never potentially infringe the patent.
+[63]
+The reasons of Justice Sharlow in <FRAGMENT_SUPPRESSED> provide some guidance, although in a different context. An SNDS may support a patent listing only if the change reflected in the SNDS may be relevant to the potential infringement of a claim of the patent sought to be listed:
+[24] It was determined in
+ <FRAGMENT_SUPPRESSED>  (F.C.), affirmed (2001), 11 C.P.R. (4th) 538 (F.C.A.), that the reference in section 4 of the NOC Regulations to a NDS includes a SNDS. Later cases refined that interpretation. It is now established that a SNDS may support a patent listing application only if the change reflected in the SNDS may be relevant to the potential infringement of a patent claim that is within the scope of the NOC Regulations (the jurisprudence is summarized at paragraphs 14 to 22 of
+ <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 369). Because of the time limits for patent listing applications, the question of whether a particular SNDS may support a patent listing is determined on the basis of the changes reflected in that SNDS, independently of any prior NOCs.
+[64]
+Here, as a result of the change reflected in the SNDS (
+i.e
+. approval for the use of PANTOLOC in combination with clarithromycin and either amoxicillin or metronidazole), the use of pantoprazole has the potential to infringe the '748 patent, which discloses the use of pantoprazole administered in combination with a HIAMA. The expert witnesses on both sides acknowledged that clarithromycin, amoxicillin and metronidazole are HIAMAs and that a HIAMA, as defined in the patent, may include more than one antimicrobial.
+[65]
+The sole basis for the NOC was to approve the use of pantoprazole in combination with specific antibiotics. The Minister set out his position on listing patents in respect of such a combination by way of letter to Nycomed's counsel dated July 20, 2007:
+As stated in out letter of June 18, 2007, patents claiming the use of a medicine in combination with one or more other medicines are eligible for listing against that medicine, where the use of said combination is found in the indication section of the drug's approved Product Monograph and the patent allows for separate administration.
+[66]
+I agree that for the purpose of identifying the relationship between the patented invention and the submission, the Court may look at the indications set out in a product monograph. It is less clear whether it is appropriate to consider the indications section of the product monograph for the purposes of a listing argument raised under paragraph 4(2)(b) of the
+Regulations
+; however, for the purposes of this motion, I need not agree or disagree with the Minister's position on this issue.
+[67]
+In the present case, the new indication approves the use of PANTOLOC along with two antimicrobials. Thus, there is sufficient relevance to the patented invention to support listing.
+[68]
+Genpharm's second argument is that the "pharmaceutical composition" claimed in the '748 patent is either a single pill which contains two medicines or a medicament pack which contains two separate medicines and is thus not relevant to the dosage form of PANTOLOC. I have already disposed of this argument, finding that the patent does not require that the components of the "pharmaceutical composition" be formulated in a single drug product, or be packaged together in a single medicament pack.
+[69]
+Genpharm's third submission on listability of the '748 patent is that the NOC specifically approved PANTOLOC for use with clarithromycin and one of amoxicillin or metronidazole; however, the patent does not disclose the use of clarithromycin as an essential element, or even teach at all the use of clarithromycin. In fact, Nycomed's witness, Dr. Wolman stated that clarithromycin was not even on the market in 2000.
+[70]
+Nycomed, however, states that the '748 patent is not restricted to any particular antibiotics, and thus includes clarithromycin as one of the HIAMAs. Further, on cross-examination, Dr. Gould admitted that clarithromycin is an antibiotic and that it is effective in eradicating
+H. pylori
+when used in combination.
+[71]
+I am unable to accept that clarithromycin must be an essential element of the patent for the patent to be eligible for listing. A HIAMA is an essential element. As discussed above, the
+Regulations
+were enacted to prevent the infringement of a patented invention, and a patent may be eligible for listing in respect of a given product if the use of that product has the potential to infringe the "patented invention".
+[72]
+The '748 Patent requires the use of a HIAMA and does not restrict or close the list of antibiotics that have
+H. pylori
+eradicating effect. It need not name all HIAMAs. A person skilled in the art would have known at the time that clarithromycin was a HIAMA, and thus the use of PANTOLOC for the new indication could potentially infringe the '748 patent. Genpharm attempted to show through Dr. Wolman's cross examination that clarithromycin was not on the market at the time; however, whether or not clarithromycin was on the market is irrelevant to the construction of a patent. As Genpharm bears the burden on this issue and had not adduced sufficient evidence showing that a person skilled in the art would not have known that clarithromycin was a HIAMA, I would dismiss Genpharm's argument on this issue.
+[73]
+In sum, Genpharm has not established on a balance of probabilities that the new indication approved in the NOC is not sufficiently relevant to the patented invention disclosed in the '748 Patent to justify a finding that the patent is not eligible for listing.
+B.
+MOTION TO STRIKE APPLICATION
+[74]
+In light of my finding above, it is unnecessary to consider whether Nycomed's application for prohibition is redundant, scandalous, frivolous or vexatious or otherwise an abuse of process in respect of the '694 patent.
+[75]
+However, in the event that I have erred in finding that the '694 Patent was ineligible for inclusion on the patent register, I note that I would be inclined to dismiss Genpharm's motion pursuant to s.6(5)(b) of the
+Regulations
+. Similarly, I will dismiss Genpharm's motion pursuant to s.6(5)(b) of the
+Regulations
+with respect to the '748 patent.
+[76]
+On a motion brought pursuant to s.6(5)(b) of the
+Regulations
+, the moving party has a very high onus. It must show that the application for prohibition is clearly futile or that it is plain and obvious that it will not succeed (
+ <FRAGMENT_SUPPRESSED>  at para. 36).
+[77]
+This standard is extremely high, and is consistent with the notion that motions brought under s.6(5)(b) of the
+Regulations
+are intended to be summary in nature. Motions brought under s.6(5)(b) are not intended to provide second persons with the first of two opportunities to argue the merits of their case. Substantive arguments regarding the validity and non-infringement of the patents at issue are properly addressed at a prohibition proceeding; such substantive arguments are not properly raised on a s.6(5)(b) motion, except in the clearest of cases.
+[78]
+The present case is not such a case. Over the course of three days of submissions, counsel for both sides raised and argued many factual and legal points, most of which were highly contentious. Claim construction was heavily disputed. As claim construction must precede any findings with respect to validity and infringement, on this basis alone I would find that Nycomed's position is not clearly futile. I note that many other highly contentious issues were in dispute including the applicability of inherent anticipation to claims for the use of a medicine and the apparently contradictory jurisprudence on inducing infringement. Further, Nycomed's submissions on sound prediction include reference to affidavits filed by experts on the main action that were not experts in the present proceeding. Overall, given the standard of proof that must be met, I am not persuaded that Nycomed's position on validity and infringement is so clearly futile that the inevitable conclusion is that it has no chance of success.
+ORDER
+[79]
+THIS COURT ORDERS that
+:
+1. The application for prohibition is dismissed in respect of the '694 Patent and '697 Patent.
+2. The balance of the motion is dismissed.
+3. In the event the parties cannot agree on the costs of this motion, they may make written submissions, no longer than three pages in length, within thirty (30) days of the date of this Order.
+[End of document]

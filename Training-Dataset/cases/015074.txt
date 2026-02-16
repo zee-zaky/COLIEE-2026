@@ -1,0 +1,577 @@
+[1]
+Mosley, J.
+: Osteoporosis is a disease that results in bone fragility and increased risk of fractures. Fractures are the main clinical consequence of the disease and their incidence increases with age. Osteoporosis is more common in women than in men. A woman who reaches the age of 50 has a 50% chance of suffering an osteoporotic fracture in the remaining part of her life.
+[2]
+Osteoporotic fractures cause severe and chronic pain, spinal deformity, and height loss, disability and a significant reduction in the quality of life. Women who have sustained one osteoporotic fracture often live in fear of suffering another fracture. In addition, osteoporotic fractures are associated with increased mortality. Given the widespread incidence and severity of osteoporosis, there is a strong incentive among pharmaceutical companies to develop new and effective therapies to reduce or reverse the effects of this disease.
+[3]
+Through patent protection, Canadian society has chosen the pragmatic policy of granting patent monopolies to those individuals or companies who assume the risk of developing such new therapies, providing always that they are truly inventive. Considering the high price to consumers of allowing a monopoly, however, Canadian society also has a strong interest in limiting the length of time that an inventor can benefit from market exclusivity. As noted by Justice Binnie in
+ <FRAGMENT_SUPPRESSED> , at para. 37:
+"It is common ground that the bargain between the patentee and the public is in the interest of both sides only if the patent owner acquires real protection in exchange for disclosure, and the public does not for its part surrender a more extended monopoly than the statutory 17 years from the date of the patent grant (now 20 years from the date of the filing of the patent application). A patentee who can 'evergreen' a single invention through successive patents by the expedient of obvious or uninventive additions prolongs its monopoly beyond what the public has agreed to pay."
+[4]
+At its core, the issue in this case is whether the patentee has been granted an unjustified extended monopoly in relation to an unquestionably very effective osteoporosis treatment, through an uninventive change to the dosage regime by which it is administered to patients.
+Nature of the proceedings
+[5]
+This application was brought on May 29, 2003 under s. 6 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 by Merck & Co. Inc. and Merck Frosst Canada & Co. (collectively hereafter  <FRAGMENT_SUPPRESSED> ) in response to a Notice of Allegation ("NOA") sent by Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) on February 25, 2003. The Minister of Health ("the Minister") is a party to this proceeding because the Minister could have issued a Notice of Compliance (NOC) allowing Apotex to market their generic drug had Merck not disputed the NOA by bringing this application. The Minister made no submissions, either in writing or in oral argument.
+[6]
+Merck's application is for an order of prohibition against the Minister preventing the issuance of a NOC until after the expiry of the Canadian Letters Patent No. 2,294,595 ("the '595 patent"). Commencement of the application for prohibition triggers a 24-month "statutory freeze" that stops the Minister from issuing a NOC unless and until the application is dealt with by the court: paragraph 7(1)(e) and s. 7(4) of the
+Patented Medicines (Notice of Compliance) Regulations
+. Argument in this matter was heard in the twenty-third month.
+[7]
+The '595 patent, entitled "Method for Inhibiting Bone Resorption", was issued for Merck's osteoporosis drug, alendronate monosodium trihydrate ("alendronate" ), a member of the bisphosphonate class of bone resorption inhibitors. Alendronate is sold by Merck under the trade name of FOSAMAX® for, amongst other formulations, a once weekly administration of 70 mg tablets. Apotex wants to market a generic version of alendronate for once weekly 70 mg administration.
+[8]
+Apotex does not dispute that its drug formulation would infringe Merck's patent, if that patent is valid. However, Apotex contends that Merck should never have been issued a patent for the once weekly alendronate tablet. Apotex submits that the patent was anticipated by the prior art; was obvious in view of the prior art to those skilled in the art; lacked utility or was insufficient and ambiguous; and was directed to a method of medical treatment. If any one of these allegations is supported by the evidence, the '595 patent is invalid.
+Osteoporosis and the problem of bone resorption
+[9]
+I have relied upon my understanding of the evidence provided by both parties' expert witnesses for the non-contentious descriptions of the nature of osteoporosis, the problem of bone resorption and the operation of bisphosphonates set out in these reasons.
+[10]
+Bone renews itself continuously in a process called bone remodelling. Bone remodelling is carried out by basic multicellular units consisting of osteoclasts and osteoblasts, both generated in bone marrow. Osteoclasts remove old bone by a process called bone resorption, while osteoblasts form a new organic matrix at the site of resorption, which subsequently mineralizes or calcifies by a process called bone formation. Normally, the rate of bone resorption is equal to the rate of new bone formation, but in certain situations, the processes become unbalanced, resulting in various clinical conditions.
+[11]
+Osteoporosis is caused by an imbalance between bone resorption and bone formation. Bone resorption outpaces bone formation, resulting in net bone loss and destruction of bone architecture. In women, this is partly due to the increase in bone resorption that follows the loss of estrogens at menopause. If the bone resorption activities of the osteoclasts can be suppressed by some means (without significantly inhibiting bone formation by the osteoblasts), the progress of the disease can be slowed. Alendronate has proven to be an effective therapy to accomplish the suppression of osteoclast resorption activities.
+[12]
+Another skeletal disorder for which alendronate has proven effective as a therapy is Paget's disease. Paget's is a skeletal disease that affects one or more bones. The disease progresses slowly and leads to changes in the shape and size of affected bones and to skeletal, joint and vascular complications. In Paget's disease, there is an increase in the number and size of osteoclasts in affected sites while the rest of the skeleton remains normal. The typically very large osteoclasts induce excessive bone resorption which is associated with an increased recruitment of osteoblasts to the remodelling sites. The result is increased bone formation and therefore an overall increase in the rate of bone remodelling.
+Bisphosphonates and dosing regimes
+[13]
+Bisphosphonates are a class of compounds that have the ability to inhibit bone resorption. Bisphosphonates do not occur in nature. The first bisphosphonates were synthesized in the 19th century by German chemists. They were initially used in industrial and other non-medical settings - such as water softening and anti-scaling applications - because they are useful for inhibiting the formation of crystals. However, it was also known by the 1970s that bisphosphonates such as clodronate, pamidronate and etidronate can be useful in inhibiting bone resorption and treating bone resorption diseases, such as Paget's disease.
+[14]
+The bioavailability of bisphosphonates is low, so a relatively large amount must be taken compared to the amount that will actually be absorbed by the gastrointestinal tract. However, once absorbed, they remain in the body for a relatively long time - up to two weeks. Bisphosphonates, therefore, have a relatively long half-life and do not degrade quickly in the human body. Bisphosphonate compounds are inherently corrosive and their oral use has long been associated with adverse gastrointestinal side effects.
+[15]
+A number of patents have issued, both in Canada and abroad, in relation to discoveries about the bone resorption properties of bisphosphonates and more specifically, for alendronate. The "base" patent application, disclosing the use of alendronic acid as a therapy for inhibiting bone resorption was filed in 1983 (claiming priority back to 1982) by Instituto Gentili SpA, a company later acquired by Merck. Alendronate sodium was subsequently developed by Merck as an effective form of the compound with fewer adverse side effects.
+[16]
+Canadian Patent Number 2,018,477 ("the '477 patent") was published by Merck in 1990 to cover a 10 mg oral dosage form of alendronate sodium on a daily dosing basis for the treatment of osteoporosis and a 40 mg daily unit for Paget's disease. Also in 1990 and in 1991, alendronic acid and alendronate were the subject of patents issued in the United States (U.S. patents 4,922,007 and 5,019,651). Similar patents were applied for in other jurisdictions. Alendronate in tablet form is described in U.S. patent 5,358,941 issued in 1994.
+[17]
+In 1995, Merck received a NOC from the Minister and began marketing alendronate tablets in Canada in a 10 mg daily dosage form for the treatment of osteoporosis. To avoid gastrointestinal side effects, the dosing regime was strict. The daily tablets were to be taken at least one-half hour before the first food, beverage or medication of the day, with a full glass of plain water only and the patient was to remain upright for at least 30 minutes thereafter.
+[18]
+It is common ground between the parties that noncompliance with Merck's dosing instructions for taking alendronate was a major cause, for a small proportion of patients, of significant adverse side effects. They differ on whether the more common effects were "pill esophagitis", a local injury to the esophagus caused by prolonged contact of the pill with the mucosal lining, or "acid reflux", a backing up of the stomach contents into the esophagus possibly leading to "Gastro-esophageal Reflux Disease" or "GERD".
+[19]
+As a result of reports of these problems, in 1996 Merck sent what has been referred to in the evidence as a "Dear Doctor" letter that advised physicians in prescribing alendronate to emphasize to their patients the importance of following the dosing instructions and to inform them of a change in the instructions: that patients should not lie down after taking it until they had eaten the first food of the day.
+[20]
+By 1997, the tablets were widely prescribed in Canada and abroad and while the Dear Doctor letter had led to a pronounced reduction in GI side effects, they continued to be a problem for some patients. Suggestions were put forward, by clinical researchers and others, internal and external to Merck, for solutions to address this problem. The solution seized upon by Merck and for which it received protection through the '595 patent is the subject of these proceedings.
+[21]
+Merck argues that this was not a case of "evergreening" a soon-to-expire patent. Merck did not create the problem of GI side effects. It was faced with the problem when it became apparent from the clinical reports and responded to it by finding an inventive solution for which a patent was properly issued.
+The patent in issue
+[22]
+Merck's application was filed in Canada on July 17, 1998. The '595 patent claims priority from US provisional applications 60/053, 351 and 60/053, 535, filed on July 22 and July 23, 1997 and the UK patent applications 9717590.5 and 9717850.3, both filed in August 1997. Both parties accept the July 22, 1997 priority date. The '595 patent issued on August 21, 2001. Merck received marketing approval for FOSAMAX® 70 mg tablets from Health Canada in 1997.
+[23]
+The U.S. patent number 5,994,329 ("the U.S. '329 patent"), the UK patent number 0 998 292 ("the U.K. '292 patent"), the Australian patent number 741818 ("the Australian '818 patent") and the European patent number EP-B-998292 cover substantially the same subject matter as the '595 patent. These patents have all been found to be invalid in those jurisdictions:
+ <FRAGMENT_SUPPRESSED>  (U.S. App.), reving. (2003) 288 F.Supp. 2d 601 (U.S. Dist. Del.);
+ <FRAGMENT_SUPPRESSED>  (Aust. F.C.A.).
+[24]
+The United States Court of Appeals for the Federal Circuit held the claims of the patent at issue invalid on the ground of obviousness in view of the prior art. Applications for a rehearing by the panel and for a rehearing en banc were denied on April 21, 2005. Merck has given notice that it will seek certiorari before the U.S. Supreme Court. The Court of Appeal in England upheld a trial level decision invalidating the comparable U.K. patent on the grounds of anticipation, obviousness and method of treatment. The earlier base patent was also found invalid. The Federal Court of Australia found Merck's Australian patent to be uninventive, as it simply altered a dosage regime and was anticipated by several pieces of prior art at issue in these proceedings.
+[25]
+These decisions are in no way binding upon me and I have been alert to the significant differences in patent law between the jurisdictions. Nonetheless, I have found them helpful, particularly the U.K. and Australian revocation proceedings, for shedding light on the history and chronology of events in the development of Merck's alendronate patents. While the issues are not identical, having regard to the differences in law, the substantive evidence was largely the same in each of these cases.
+The claims
+[26]
+ <FRAGMENT_SUPPRESSED> Justice Harrington summarized the principles drawn from two recent patent claim construction decisions of the Supreme Court of Canada:
+Free World Trust v. Électro-Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150 and
+ <FRAGMENT_SUPPRESSED>  subject-matter and is to be read as such a person would have read it when it first became public. Claims are to be read in an informed and purposive way to permit fairness and predictability and to define the limits of the monopoly. It is only such novel features that the inventor claims to be essential that constitute the "pith and marrow" of the claim. "The key to purposive construction is therefore the identification by the Court with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential" elements of his invention" (
+Whirlpool
+, supra, at paragraph 45).
+[27]
+The claims at issue in this case are for a 70 mg tablet of alendronate for oral administration weekly for the treatment of osteoporosis. Both parties acknowledge that neither oral treatment with alendronate nor its use in the treatment of osteoporosis is new. What is claimed as novel is the fact that a large once weekly dosage of alendronate has fewer adverse side effects when compared to the adverse side effects associated with an equal amount of alendronate taken daily over a one-week period. Merck argues that this was surprising and inventive, and was not obvious or anticipated by the prior art.
+[28]
+Merck now submits, and Apotex does not dispute, that of the patent's 177, the relevant claims are numbers 35, 87, and 139.
+"Claim 35:
+Use of a bisphosphonate according to any one of Claims 19 to 34 wherein said mammal is a human.
+"Claim 87:
+A pharmaceutical composition according to any one of Claims 71 to 86 wherein said mammal is a human.
+"Claim 139:
+A bisphosphonate according to any one of Claims 123 to 138 wherein said mammal is a human."
+Read with the claims from which they depend, these claims are as follows:
+"Claim 35:
+Use of alendronate monosodium trihydrate in the manufacture of a medicament for treating osteoporosis in a human wherein said medicament is adapted for oral administration as a unit dosage form comprising about 70 mg on an alendronic acid active basis according to a continuous schedule having a once-weekly dosing interval.
+"Claim 87:
+A pharmaceutical composition useful for treating osteoporosis in a human comprising a pharmaceutically effective amount of alendronate monosodium trihydrate in association with a pharmaceutically acceptable carrier wherein said alendronate monosodium trihydrate is adapted for oral administration as a unit dosage form comprising about 70 mg on an alendronic acid active basis according to a continuous schedule having a once-weekly dosing interval.
+"Claim 139:
+Alendronate monosodium trihydrate for use in an orally administrable unit dosage form comprising about 70 mg on an alendronic acid active basis in treating osteoporosis in a human in accordance with a continuous schedule having a once-weekly dosing interval."
+[29]
+Each of these claims covers a 70 mg unit oral dosage of alendronate monosodium trihydrate for the treatment of osteoporosis in humans. Claim 35 addresses the use of alendronate in the manufacture of the dosage form; claim 87 addresses the dosage form per se, and claim 139 addresses alendronate for use in the dosage form.
+[30]
+While Apotex submits that the scope of the asserted claims can be read more broadly than Merck has proposed, there is no dispute in these proceedings that they cover Merck's FOSAMAX® product or that they would cover the product Apotex wishes to market, described as follows in the NOA:
+"... tablets for oral administration comprising alendronate monosodium trihydrate ('AMT') in strengths of 70 mg (on an alendronic acid active basis) for treatment and prevention of osteoporosis and treatment of Paget's disease, the oral administration being according to a continuous schedule having a periodicity of once a week for the 70 mg tablet for the treatment and prevention of osteoporosis."
+[31]
+In <FRAGMENT_SUPPRESSED> , supra, Justice Harrington noted:
+"To overclaim is to lose everything. If the inventor underclaims, the court will not broaden the monopoly in the interests of the 'spirit' thereof. This often, as in this case, results in layers of claims, each limitation serving as a potential safety net so that if the broadest claims fall, the monopoly may be saved in part by the more modest claims."
+The '595 patent is also written in layers. However, it is not the broadest claims that are in issue here, but claims more limited and specific, in particular, those that describe the 70 mg alendronate tablet for once weekly administration. In this NOC proceeding, Apotex is not concerned to attack every claim of the '595 patent, but only those that stand in the way of it selling a generic product that would otherwise infringe certain of the claims.
+[32]
+The parties agree that there is nothing novel in the use of oral bisphosphonates, including alendronate, to treat osteoporosis. It is only the proportionally higher dose and frequency of dosing to meet the goal of reducing adverse gastrointestinal side effects - 70 mg once per week - that is alleged to be the patentable subject-matter.
+Burden of proof
+[33]
+Applications under the
+Patented Medicines (Notice of Compliance) Regulations
+are administrative proceedings for the purpose of determining whether the Minister may issue a NOC. Merck is required to establish, on a balance of probabilities, that the allegations  <FRAGMENT_SUPPRESSED> 's NOA are not justified. In establishing that the allegations are not justified, the Applicants are entitled to rely upon the statutory presumption of validity found in s. 43(2) of the
+Patent Act
+, R.S.C. 1985, c. P-4;
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 206 (T.D.), at 216, affd. (1996), 195 N.R. 378; 66 C.P.R.(3d) 329 ( <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 285 (F.C.A.).
+[34]
+Apotex, having made the allegations in the NOA, has the burden of putting sufficient evidence "in play" to present issues for examination:
+Eli Lilly and  <FRAGMENT_SUPPRESSED> ; 199 N.R. 185; 69 C.P.R.(3d) 1 (F.C.A.).
+[35]
+As reiterated by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  &  <FRAGMENT_SUPPRESSED>  the evidentiary burden on a generic pharmaceutical firm alleging patent invalidity in a prohibition application remains proof on a balance of probabilities.
+[36]
+If this court finds that the allegations in the Notice of Allegation are not justified, it must grant an order prohibiting the Minister from issuing an NOC until after the expiration of the '595 Patent:
+Patented Medicines (Notice of Compliance) Regulations
+, s. 6(2).
+Evidence
+[37]
+Several volumes of evidence were filed by the parties to this application. In support of its application, Merck initially submitted affidavits from the following individuals:
+Professor Socrates E. Papapoulos
+, a Professor of Medicine, Consultant Physician and the Director of Bone and Mineral Research at the Department of Endocrinology and Metabolic Disease of the Leiden University Medical Centre in Holland, tendered as a witness able to interpret the '595 patent and comment on the knowledge of the skilled practitioner in the field (or as an expert in bisphosphonates and clinical osteoporosis treatment - as found in the US Dist. Ct.).
+Dr. M. Brian Fennerty
+, Professor of Medicine and the Section Chief of Gastroenterology at the Department of Internal Medicine, Section of Gastroenterology at Oregon Health & Science University in Portland, Oregon, tendered as an expert gastroenterologist;
+W.H. Guy Saheb
+, Director of Regulatory Affairs for Merck Frosst Canada & Co. who attached various documents related to the status of alendronate in Canada.
+[38]
+Apotex submitted affidavits from the following individuals:
+Professor Juliet Elizabeth Compston
+, Professor of Bone Medicine, Department of Medicine, University of Cambridge School of Medicine and Honorary Consultant Physician, Addenbrooke's Hospital, Cambridge, tendered as an expert in bone physiology and disease;
+Dr. Richard B. Mazess
+, Emeritus Professor of Medical Physics at the University of Wisconsin, Madison (retired) and until 2000, Chair, President and Chief Executive Officer of Lunar Corporation, Inc., described as the major provider of medical diagnostic systems for the assessment of osteoporosis and metabolic bone diseases and for orthopedic applications. Also a consultant to the pharmaceutical industry in relation to osteoporosis drugs, and the author and editor of Lunar's publication,
+Lunar News
+. Tendered as an expert in the diagnosis and treatment of bone diseases, particularly osteoporosis and renal osteodystrophy and to provide direct evidence of events occurring in 1996 and 1997;
+Dr. David Markowitz
+, is a physician specializing in gastroenterology and an Assistant Professor of Clinical Medicine at Columbia University, New York, tendered as an expert in gastroenterology;
+Dr. Michael Mayersohn
+is a Professor of Pharmaceutical Sciences, College of Pharmacy, University of Arizona, tendered as an expert in pharmacokinetics, biopharmaceutics and pharmaceutics;
+Dr. Robert S. Langer
+is the Kenneth J. Germeshausen Professor of Chemical and Biomedical Engineering at MIT; Department of Chemical Engineering, Whitaker College of Health Sciences, Technology and Management; and the Harvard-MIT Division of Health Sciences and Technology, tendered as an expert in pharmaceutics and pharmaceutical formulation technology, including the formulation of bisphosphonate drugs;
+David Weissburg
+is an independent business consultant who was a marketing and sales employee from July 1994 to February 2001 at the Lunar Corporation;
+Franco A. Tassone
+is an employee of Parcels Inc., the copy service for the United States District Court for the District of Delaware. He was asked to obtain copies of publicly available documents from the U.S. trial of
+ <FRAGMENT_SUPPRESSED>  to file reply evidence and did so with the following affidavit:
+Gerald Devlin
+is Senior Attorney, Intellectual Property Litigation for Merck & Co. Inc., with primary responsibility for the coordination of the Merck alendronate litigation worldwide. He attaches various affidavits and cross-examination transcripts from the Australian proceedings in
+ <FRAGMENT_SUPPRESSED>  U.S. trial.
+Merck Motion to Strike Apotex Affidavits
+[40]
+At the outset of the hearing of this application, Merck renewed a motion to strike Apotex affidavits. An initial motion to strike the Tassone, Weissburg and Mazess affidavits was decided by Prothonotary Lafrenière on June 21, 2004. He ruled that the relief sought was premature, in the absence of special circumstances, and that evidentiary determinations should be left to the applications judge. The motion was dismissed without prejudice to Merck to seek leave to file reply evidence. Leave to file reply evidence was granted in a further order by the Prothonotary on July 13, 2004 resulting in the filing of the Devlin affidavit described above.
+[41]
+Merck filed a fresh motion on April 6, 2005 seeking to have struck, in addition to the three affidavits addressed in the June 2004 motion, the affidavits of Drs. Langer and Mayersohn. I gave an oral ruling on the motion before proceeding to hear the merits of the application.
+[42]
+Merck argued that the impugned affidavit evidence should not be admitted primarily on the grounds that:
+1. the Apotex affiants were not properly qualified to give opinion evidence in the several areas of knowledge to which they deposed.
+2. The evidence given was not relevant to the determination of the issues that are before the court in this NOC proceeding.
+[43]
+Applying the principles enunciated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 241; 89 C.C.C.(3d) 402; 114 D.L.R.(4th) 419; 29 C.R.(4th) 243, at para. 17, namely: (a) relevance; (b) necessity in assisting the trier of fact; (c) the absence of any exclusionary rule; and (d) a properly qualified expert, I concluded that the opinion evidence proffered by Apotex was admissible.
+[44]
+Relevance is a threshold requirement for any evidence. Logically relevant evidence may be excluded if its probative value is overborne by its prejudicial effect, if the time required is not commensurate with its value or if it can influence the trier of fact out of proportion to its reliability ( <FRAGMENT_SUPPRESSED> at para. 18).
+[45]
+Expert evidence, to be necessary, must likely be outside the experience and knowledge of a judge or jury and must be assessed in light of its potential to distort the fact-finding process. Necessity should not be judged by too strict a standard. Expert evidence can be excluded if it falls afoul of an exclusionary rule of evidence separate and apart from the opinion rule itself, such as the hearsay rule ( <FRAGMENT_SUPPRESSED> at paras. 21-23).
+[46]
+There are no specific credentials that potential experts must have in order to be admitted as experts by the Court. Opinion evidence may be given by a witness "who is shown to have acquired special or peculiar knowledge through study or experience in respect of the matters on which he or she undertakes to testify" ( <FRAGMENT_SUPPRESSED> at para. 27). This echoes statements by the court in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 161; 85 C.C.C.(3d) 193, at para. 35, citing
+ <FRAGMENT_SUPPRESSED>  Q.A.C. 293; 36 C.C.C.(3d) 481; 60 C.R.(3d) 1, at para. 16, holding that "[t]he only requirement ... is that the expert witness possesses special knowledge and experience going beyond that of the trier of fact".
+[47]
+As Sopinka, Lederman and Bryant state in
+The Law of Evidence in Canada
+(1992), at 536-7,
+"The admissibility of [expert] evidence does not depend upon the means by which that skill was acquired. As long as the court is satisfied that the witness is sufficiently experienced in the subject matter at issue, the court will not be concerned with whether his or her skill was derived from specific studies or by practical training, although that may affect the weight to be given to the evidence."
+[48]
+With respect to Drs. Langer and Mayersohn, Merck did not object to these affidavits when it brought its earlier motion. It contends that the weakness of their qualifications relevant to the issues in this proceeding only became apparent on cross-examination. Merck now objects to the reception of their evidence as they are not medical doctors and argues that the issues upon which they were asked to provide expert opinions, as characterized by Merck, relate solely to the medical fields of gastroenterology and endocrinology.
+[49]
+I do not agree with Merck's contention that these two witnesses were asked to comment on matters beyond their expertise. Dr. Langer's relevant and very impressive qualifications are as an expert with respect to pharmaceutical technology involving the formulation of drugs, including bisphosphonate drugs. His opinion is tendered with respect to formulation issues and thus does not exceed his expertise in pharmaceutics.
+[50]
+Dr. Mayersohn's qualifications are as an expert in pharmacokinetics, biopharmaceutics and pharmaceutics. His testimony about the equivalence of 70 and 80 mg of alendronate due to the low bioavailability of the drug was never questioned on cross-examination. Apotex objected to Merck questioning this evidence in oral argument as contravening the rule in
+ <FRAGMENT_SUPPRESSED>  admissible.
+[51]
+Dr. Mazess's affidavit primarily describes events surrounding the publication of his views on alendronate in the newsletter
+Lunar News
+produced by the corporation he had founded to manufacture and distribute bone densitometry equipment used in the diagnosis and treatment of skeletal disease. Merck objects to Dr. Mazess's being permitted to comment on the evidence of Drs. Papapoulos and Fennerty as he is not a physician. It also objects to the relevance of his testimony about meetings and correspondence between Dr. Mazess and Merck representatives concerning dosing regimens for bisphosphonates. Finally, it submits that his writings in
+Lunar News
+speak for themselves and he should not be explaining their meaning.
+[52]
+Dr. Mazess, through his academic and business careers, has gained considerable knowledge about bone diseases, particularly osteoporosis. While he is not qualified to treat patients, that does not preclude him, in my view, from commenting on treatment regimes for bone disorders. It is apparent from the record that his utterances in the
+Lunar News
+carried considerable weight in the pharmaceutical and clinical worlds. Drs Papapoulos and Fennerty comment at length on his writings in their evidence. There was ample reason, in my view, to think that Dr. Mazess' comments on their evidence would be helpful in determining the issues in this matter.
+[53]
+With regard to Dr. Mazess' evidence about correspondence and meetings with Merck staff, I was satisfied that it was relevant and admissible. Merck is correct that, as possible prior art references, his writings in
+Lunar News
+must speak for themselves. However, I was also satisfied that he could properly give evidence as to the background and context of those writings. Accordingly, his evidence was admissible subject to argument about its weight.
+[54]
+The Weissburg affidavit does not contain expert opinion evidence but rather describes events and hearsay statements made by others. Apotex relies upon those statements not for their truth but for the fact they were made. As determined by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 353; 59 C.C.C.(3d) 92; 79 C.R.(3d) 1, and subsequently applied to civil cases by a number of courts, hearsay is not inadmissible if found to be credible and reliable: e.g.,
+ <FRAGMENT_SUPPRESSED>  (Nfld. U.F.C.). I allowed this evidence for the limited purpose of establishing that certain events occurred and statements were made and not for the truth of the contents of those statements.
+[55]
+Attached to the Tassone affidavit are copies of documents filed by the defendant in the U.S. District Court proceedings. Apotex' object in submitting this material was, in part, to refute Drs. Papapoulos' and Fennerty's evidence that the prior art references included in the NOA would not have been relied upon to demonstrate the safety of high doses of alendronate in osteoporosis patients. Included in the Tassone material is Merck's submission to the United States Federal Drug Administration ("FDA") for approval of the 70 mg dosage of FOSAMAX®, which indicates that Merck relied upon the same prior art references to show that a dose of that size would be safe and effective.
+[56]
+Merck objected to its reception on the ground that the attached documents had not been proven or authenticated for the purpose of this proceeding in accordance with Canadian evidentiary requirements for documents from foreign courts: s. 23,
+Canada Evidence Act
+, R.S. 1985, c. C-5 ("
+CEA
+"). Further, Merck argued that the submission of some six volumes of evidence from the U.S. proceedings was an impermissible attempt to enlarge upon the allegations in the NOA. Merck conceded that if the Tassone affidavit was inadmissible, the same was true of the attachments to the Devlin affidavit which consisted, similarly, of evidence from a foreign case.
+[57]
+Dr. Yates, the principal named inventor of the '595 patent, was no longer an employee of Merck when this application was initiated and refused to provide evidence, according to the Devlin affidavit. Merck seeks to introduce portions of his evidence from the Australian, United Kingdom, and United States proceedings, through Mr. Devlin's affidavit, to reply to the evidence of Dr. Mazess and Mr. Weissburg about a meeting they attended with Merck principals, including Dr. Yates, on May 21, 1997. Mazess and Weissburg had given evidence about that meeting in the Australian case similar to their evidence in this proceeding. According to Mr. Devlin, the other Merck participants either had no recollection of the discussion or were unavailable to provide evidence. Thus Merck submits, the relevant portions (paragraphs 94-116) of Dr. Yates' affidavit in the Australian proceedings, dated March 22, 2004, are the best evidence it has to dispute Dr. Mazess' and Mr. Weissburg's accounts of what was said at the May 1997 meeting.
+[58]
+Dr. Yates was cross-examined on his affidavit in the Australian proceeding and that testimony was also attached to the Devlin affidavit. I note that at paragraphs 70-73 of his reasons for judgment, Judge Gyles of the Federal Court of Australia, accepted the evidence of Dr. Mazess and Mr. Weissburg as to what transpired at the May 1997 meeting, also tested under cross-examination, and rejected that of Dr. Yates as implausible. Dr. Yates' evidence was accepted in the U.S. District Court proceeding and he was described as "fair" by Justice Jacob in the U.K. proceedings. Nonetheless, Justice Jacob found that Merck's own contemporaneous documents were a more significant record of what was known by Merck staff, including Yates, in 1996-97. Those documents, including internal e-mail and correspondence, are reproduced in detail in Justice Gyles' reasons and led to his finding that it "stretches credulity" that Dr. Yates was unaware of the content of the
+Lunar News
+articles tabled at that meeting.
+[59]
+In this proceeding, I was not satisfied that I could accord any greater weight to the Yates' evidence than that given it by Justice Gyles.
+[60]
+Turning to the Tassone affidavit, in my view, it was improper for Apotex to use that means to submit evidence filed in a foreign proceeding as evidence in this case. Authentication by a clerk employed by a copying service does not meet the requirements of
+CEA
+s. 23. The attachments to the affidavit constituted six volumes of material. Apotex made no real effort to explain how most of this material would be relevant and admissible. Even if it was properly authenticated, the question of its relevance and admissibility had to be established:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 501 (T.D.).
+[61]
+I accept that s. 23 is not the sole procedure by which foreign evidence can be proven. Relevance and admissibility can be established by other means, particularly where there is no doubt about the authenticity of the appended material:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). There was no real doubt of authenticity in this case. But I think it was unnecessary and excessive to dump the U.S. trial evidence into the record in this manner and accordingly, I ruled that most of it was inadmissible. I would strongly discourage any repetition of this practice.
+[62]
+Several documents attached to the Tassone and Devlin affidavits were identified in the course of the examination of other affiants in these proceedings. I was satisfied that their authenticity had been sufficiently established. Accordingly, I allowed any document, so identified, to be relied upon as evidence by both parties to this application. Just one proved to be of any significance: Merck's new drug submission to the US Food and Drug Administration (FDA) concerning the 70 mg formulation.
+[63]
+Apotex questions the credibility and reliability of Merck's principal witnesses, Drs. Papapoulos and Fennerty, and argues that both selectively reviewed the prior art references, advancing information helpful to Merck's case, while ignoring that which would be unhelpful. Apotex points to the near identity of much of their affidavit evidence, their long-standing and continuing roles as Merck consultants, and contends that neither has the necessary independence required of an expert witness. For these reasons, Apotex argued, less weight should be accorded their evidence.
+[64]
+Expert evidence presented to the Court should be, and should be seen to be, the independent product of the expert, uninfluenced as to form or content by the exigencies of litigation:
+ <FRAGMENT_SUPPRESSED>  reading the evidence in this case that where there was a conflict between the evidence of the Merck witnesses and the Apotex witnesses, I preferred the latter. While Dr. Papapoulos is eminently well qualified in his field, I found his evidence, as it was characterized by Justice Jacob in the UK proceedings, to be "rigid" and "extreme" when he was confronted on cross-examination with prior art references inconsistent with Merck's position. As for Dr. Fennerty, it was apparent from his truculence in answering questions on cross-examination that he had crossed the line between independence and advocacy. I accorded little weight to his evidence.
+[65]
+Merck argues that the evidence of those who were directly engaged in the skilled art at the relevant times should be preferred. In this case, it argues, the skilled arts are medical treatment for osteoporosis and gastroenterological conditions and, thus, the Court should give greater weight to the evidence of those who practised in those fields at the relevant times. In support of this argument, Merck relies upon
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241 (F.C.A.), at 259-260.
+[66] <FRAGMENT_SUPPRESSED> was a patent infringement action with a counterclaim of invalidity in which expert witnesses for both parties as well as a Mr. Darby, the inventor of a "prior art" windsurfing board, gave testimony. The Federal Court of Appeal held that a finding of obviousness was not supportable on the evidence as the invention in question was not obvious to Mr. Darby, who could have thought of it, until after the priority date. The fact that none of the medical practitioners who testified as experts in this case thought of administering 70 mg of alendronate on a weekly basis is to be considered but is not determinative in my view if there is sufficient evidence of obviousness or anticipation. Furthermore, none of the expert witnesses in this case could be considered rival inventors, as was Mr. Darby.
+Issues
+[67]
+It is not seriously disputed between the parties that if the patent is valid, the product for which Apotex seeks a NOC will infringe. This is not a claim construction case. The issues on this application relate entirely to validity.
+[68]
+Apotex challenges the patent's validity on the grounds that it was obvious in light of the prior art; that it was anticipated by several individual pieces of prior art; that it was invalid for failure to demonstrate utility or to make a sound prediction of utility; that the disclosure was insufficient or ambiguous; and because it attempts to patent a method of treatment and, as such, is not an invention as defined in the
+Patent Act
+.
+[69]
+In view of my findings on obviousness, I will devote most of my analysis below to that issue and touch only briefly on the others.
+ANALYSIS
+OBVIOUSNESS
+Legal principles
+[70]
+The obviousness standard seeks to ascertain whether the patentee actually "invented" something by distinguishing "the inventive spark from the triumph of method":
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 193 (T.D.), at 269  <FRAGMENT_SUPPRESSED> , affd. (2000), 262 N.R. 137; 10 C.P.R.(4th) 65 (F.C.A.), affd. (2002), 296 N.R. 130; 21 C.P.R.(4th) 499 (S.C.C.), 40. If the alleged inventive step "would occur directly to an ordinary person skilled in the pertinent art or science searching for something novel without serious thought, research or experiment", the resulting "invention" is obvious. The question to be asked is whether the addressee, in light of the state of the art and common general knowledge, would have come "directly and without difficulty to the solution taught by the patent":
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.).
+[71]
+The test for obviousness, as laid out in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), at 297, at 294 is a difficult one to satisfy:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[72]
+The Court of Appeal in <FRAGMENT_SUPPRESSED> also cautioned at 295  <FRAGMENT_SUPPRESSED> :
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"
+Furthermore, inventiveness may be present notwithstanding that there was no difficulty putting an idea into effect once it was conceived:
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), at 370.
+[73]
+Where expert evidence on the question of obviousness is in conflict, evidence that the invention did not occur to actual persons skilled in the art should be conclusive, or at least highly persuasive that the invention would not have been obvious to the fictitious unimaginative technician skilled in the art:
+Windsurfing International Inc.
+, supra, at 259-260.
+Application of the principles to the evidence
+[74]
+In the NOA at pages 3-4, Apotex alleges:
+"There can be no infringement of claims 1 to 12 inclusive, 15, 18 to 29 inclusive, 32, 35 to 46 inclusive, 49, 52 to 64 inclusive, 67, 70 to 81 inclusive, 84, 87 to 98 inclusive, 101, 104 to 116 inclusive, 119, 122 to 133 inclusive, 136, 139 to 150 inclusive, 153, 156 to 168 inclusive and 171 to 175 inclusive (or any of the remaining claims) of the '595 Patent if the subject matter of said claims is taught and disclosed in the prior art as would be understood by persons skilled in the art as no valid patent can monopolize that which is old and public."
+[75]
+Apotex alleges, at pages 12-14 of the NOA, that the teachings (listed in Schedule 3) of the "administration of bisphosphonates such as [alendronate] of various dosages at various dosing frequencies are effective when administered to mammals for inhibition of bone resorption including osteoporosis, Paget's Disease and hypercalcemia of malignancy" were well understood by persons skilled in the art at the date of the '595 application in 1997. The prior art specifically discussed consists of two international patent applications WO 95/28936, WO 96/38156, published under the Patent Cooperation Treaty in 1995 and 1996 respectively, three
+Lunar News
+articles, and medical journal articles by Khan et al. (1997), Thompson et al. (1992), and Reddy et al. (1995).
+[76]
+In argument, Apotex submitted that as of July 22, 1997 persons skilled in the art would have had the following common knowledge:
+1. Bisphosphonates as a class of drug with therapeutic properties.
+2. The use of bisphosphonates in the treatment of bone disorders.
+3. The relationship between abnormal bone resorption, Paget's disease and osteoporosis.
+4. Bisphosphonates were useful in the treatment of osteoporosis and Paget's disease.
+5. Specifically, alendronate was useful in the treatment of osteoporosis and Paget's.
+6. Alendronate was effective in mammals, including humans.
+7. Chronic administration of alendronate was safe and effective to treat abnormal bone resorption.
+8. Pharmaceutical properties of bisphosphonates, including alendronate:
+a. Oral bioavailability was low @ 1%,
+b. Bioavailability was greatly diminished if ingested with food,
+c. Duration of action was long, i.e., a long half life.
+9. Alendronate was administered in various dosage forms to treat osteoporosis in animals and humans.
+10. Alendronate was administered in oral tablet form to treat bone resorption including osteoporosis.
+11. Alendronate was administered in a variety of dosing regimens including intermittent dosing regimens that minimized side effects.
+12. Alendronate was administered in various dosage amounts including 40 & 80 mg used in trial for Paget's.
+13. Kits containing bisphosphonates, specifically tablets, were used in specific dosing regimes.
+14. Alendronate was generally well tolerated although there were side effects associated with oral administration. It was thought to be more tolerated than other bisphosphonates such as etidronate.
+15. Administration problems, i.e., compliance with strict dosing requirements were the major cause of GI side effects.
+16. Side effects were reduced, eliminated or minimized when proper dosing instructions were followed.
+[77]
+The parties agree that the efficacy of administering a larger dose of alendronate in treating osteoporosis or Paget's was not in doubt before the priority date.
+[78]
+The sole remaining question was whether a substantial increase in a single dosage would be safe in terms of the potential adverse side effects. Merck contends that finding the answer to that question required true invention. Based on clinical experience with the use of bisphosphonates, including alendronate, persons skilled in the art would believe that the adverse side effects would be "dose dependent": that is, the higher the dose, the greater the adverse effects. Apotex argues that, based on the prior art, the answer was obvious: if you reduce the frequency of administration while increasing the dose you reduce the side effects.
+[79]
+This debate turns, in part, on whether the GI side effects were caused by pill esophagitis or by acid reflux. Several of the prior art references relied upon by Apotex suggest that the GI effects were caused mainly by pills sticking in the esophageal mucosa on their way down. If the frequency of administration was reduced, the incidence of pill esophagitis occurring would thus also be reduced. Apotex points to a concession by Merck's witness Dr. Fennerty in cross-examination (at 5252 of the applicant's record) that frequency was relevant to both pill esophagitis and acid reflux.
+[80]
+Merck submits that it became clear from controlled studies it conducted with dogs in 1996 and 1997, that the problem arose more from acid reflux from the stomach to the esophagus and that these studies demonstrated that the injuries thus caused could be reduced by weekly administration of a larger single dose. The dog studies were relied upon in obtaining approval from the FDA to market the 70 mg version of FOSAMAX® and in the specifications of the '595 patent.
+[81]
+Merck's dog studies do not, in my view, establish that gastric reflux was the primary cause of esophageal irritation problems from the oral administration of alendronate, although that may be correct. Rather, the studies assumed reflux was the problem and simulated a reflux reaction by mixing alendronate with simulated gastric juice for infusion into the dogs' esophagi. The solution, in several concentrations, was flowed through the esophagi for varying periods and the dogs were sacrificed for examination at different intervals.
+[82]
+There are discrepancies in the description of the findings of the dog studies in the specifications of the patent. However, the studies show that the presence of an alendronate solution in the esophagus can cause injuries and that those injuries can be minimized by reducing the frequency of administration. This appears to result either because the occasion for the corrosive effect to cause injury is reduced, or, because reducing frequency provides more time for irritated esophageal tissue to heal between administrations of the irritating solution. In either case, the dog studies support the conclusion that frequency of administration is more important than the size of the dose in reducing adverse GI effects.
+[83]
+According to Merck, the intuitive clinical response to adverse side effects from pharmaceutical products is to reduce the dose, not to increase it. Thus, its finding that a less frequent higher dose could reduce those effects was counterintuitive and inventive.
+[84]
+However, alendronate had already been administered in larger quantities on a daily basis for extended periods of time with no apparent increase in GI side effects.
+[85]
+When Merck received approval to market 10 mg tablets of FOSAMAX® for patients with osteoporosis, a 40 mg tablet form was also approved for daily administration to patients with Paget's disease. A study by S.A. Khan et al. published in the March 1997 edition of the journal
+Bone
+, cited in the respondent's NOA, reported on the
+daily
+administration of
+40 and 80 mg
+doses of alendronate to Paget's patients for three or six months. No difference was found in the rate of GI side effects between the two dose levels. Khan concluded that there was no apparent relationship between those events and the dosage amounts. This is but one of several studies cited by Apotex in support of its argument that higher doses of alendronate were being administered to patients without significant increases in side effects and that this knowledge was common to persons skilled in the art prior to the filing of the Merck patent application.
+[86]
+The Khan study was relied upon by Merck in its submission for FDA approval of its 70 mg tablets.
+[87]
+Merck argues that Paget's patients are much more tolerant of increased pain levels as a result of the symptoms associated with that condition, including bone deformation. Accordingly, a person skilled in the art prior to the disclosure of the 1997 patent application would not extrapolate the findings from controlled studies of Paget's patients to the elderly osteoporosis patients for whom alendronate was prescribed in smaller doses. I do not accept this argument.
+[88]
+There is no convincing evidence on the record that Paget's patients would tolerate a higher degree of GI irritation before reporting it as an adverse side-effect, or that they have a higher tolerance for pain in general. While Paget's patients might be more inclined to remain on alendronate therapy in the face of adverse side-effects, there is no sensible explanation for why they would fail to report them if and when they occurred. Moreover, Merck's contention ignores the significant pain and risk of death associated with osteoporotic fractures. It can hardly be contended that osteoporosis patients lack a significant motivation to continue with alendronate therapy, even in the face of adverse side-effects.
+[89]
+Apotex cites a considerable number of prior art references in support of its submission that it was well known that a broad range of doses of alendronate could safely be administered on a daily and intermittent basis, including weekly. I do not intend to review each in turn. However, having closely reviewed these references and considered Merck's comments on the meaning and weight to attach to each, I am satisfied that well before the priority date for the patent in issue, experimentation was being undertaken with a broad range of doses and frequencies of administration of bisphosphonates, including alendronate. This research was published in several peer-reviewed scientific journals and in the disclosures of patent applications and would have been known to an ordinary person skilled in the art at the pertinent time.
+[90]
+Of particular significance, I believe, are the Liberman (1995), Black (1996), Harris (1993) studies as well as the Khan study (1997) referred to above.
+[91]
+In the November 30, 1995 issue of the
+New England Journal of Medicine
+(
+NEJM
+), Liberman et al. published an article entitled "Effect of oral alendronate on bone mineral density and the incidence of fractures in postmenopausal osteoporosis". The study described involved 994 women who were randomly divided into groups treated with doses of 5, 10 and 20 mg daily of alendronate, as well as a placebo group. The study ran for three years and thus began, presumably, no later than 1992. In the third year, those women on the 20mg daily dose were switched to a 5mg/day dose, not because of complaints related to side effects, but because "another study had demonstrated that a dose of 20mg/day was more than necessary to obtain the maximal increase in bone mineral density" (at 1438). The authors noted in relation to adverse effects:
+"
+Alendronate was generally well tolerated, with no greater clinical or laboratory evidence of adverse effects than with placebo
+. Overall, 16.3 percent of the women discontinued therapy, with similar frequencies in the placebo group and all three alendronate groups (Table 4). Discontinuation was due to clinical adverse effects in 6.0 percent of the women receiving placebo, 5.4 of those receiving 50 mg of alendronate, 4.1 percent of those receiving 10mg, and 8.0 percent of those receiving 20 mg for two years followed by 5mg in the third year.
+Dose-dependent upper gastrointestinal irritation is the primary side effect associated with several other bisphosphonates, which are administered at higher doses. The women in the placebo group and all three alendronate groups had similar rates of adverse upper gastrointestinal effects, resulting in the discontinuation of treatment in only 2.0 percent of the women receiving placebo, 3.5 percent of those receiving 10 mg, and 2.0 percent of those receiving 20 mg followed by 5 mg.
+" (Emphasis added)
+[92]
+De Groen et al. reported in the October 3, 1996
+NEJM
+issue on clinical case reports involving three women and summarized post-marketing surveillance reports received by Merck up to March 5, 1996. As of that date, an estimated 470, 000 persons had been prescribed 10 mg alendronate daily for osteoporosis and 5,000 had been prescribed 40 mg daily for Paget's disease worldwide. Merck had received 1213 reports of adverse effects of which 199 were related to the esophagus, 51 of which were classified as severe, producing esophageal ulcers and esophagitis. De Groen concluded (at 1020) that the majority of these patients had failed to take the pills with adequate water or failed to remain upright afterwards or both. The report states that these factors are known to increase the risk of esophageal retention of swallowed tablets. Taking the tablets while supine or lying down shortly later was known to exacerbate reflux.
+[93]
+In a follow-up letter to the
+NEJM
+published in the same October 3, 1996 issue, Liberman noted that of the adverse effects described in his study, events considered serious constituted approximately 1.5% of the patients in all four groups. Differences between the adverse effect results in the de Groen article and in his own study were attributed to the fact that adverse effects occur only in a small number of patients and the patients in his study had regularly scheduled follow-up visits and received frequent reinforcement of dosing instructions.
+[94]
+This post-marketing surveillance analysis reported upon by de Groen resulted in the "Dear Doctor Letter" issued by Merck in 1996 to encourage compliance with the dosing instructions.
+[95]
+Black et al. reported on a randomized double-blind study of alendronate in the December 7, 1996 issue of the
+Lancet
+. It involved more than 2,000 patients. About half were treated with 5 mg for two years and then with 10 mg alendronate, and about half with a placebo. There were no statistical differences between the incidence of gastrointestinal side-effects between the groups. The study's authors concluded that alendronate is well tolerated, but also emphasised that in their study participants were given careful dosing instructions.
+[96]
+An earlier study by Harris et al., published in the Journal of Clinical Endocrinology and Metabolism in 1993, used daily doses of 5, 20 or 40 mg alendronate for six weeks in a double-blind study. Harris found:
+"Alendronate was well tolerated over the entire dose range. No subject discontinued treatment because of an adverse experience. [...] Although bisphosphonate treatment may be accompanied by gastrointestinal intolerance, there was no difference in the frequency of such intolerance among the groups."
+[97]
+I am satisfied that these studies, and the other prior art references submitted by Apotex, demonstrate that it was well known to persons skilled in the art before the July 22, 1997 priority date that larger doses of alendronate could be safely administered. The remaining question was how to encourage patients to follow the dosing instructions so as to reduce the incidence of pill sticking or acid reflux. The solution that became apparent was to increase the dose, already proven to be safe, and reduce the frequency of administration so that patients, often elderly, would be more likely to follow the dosing instructions and more likely to heal before the next dose if esophageal irritation occurred.
+[98]
+Key prior art references relied upon by Apotex are three articles from
+Lunar News
+. As noted above, this was a publication produced and largely written by Dr. Richard Mazess in connection with his business, which supplied diagnostic equipment to physicians and others engaged in the diagnosis and treatment of osteoporosis and other skeletal diseases. It is clear from the evidence that while
+Lunar News
+was not a peer-reviewed scientific journal, Dr. Mazess strove to provide reliable and timely scientific information and his newsletter was widely distributed to and read by researchers and physicians concerned with bone diseases. Dr. Mazess sat on the editorial boards of major scientific journals in the field, including, as was acknowledged, journals in which Dr. Papapoulos, Merck's principal expert witness, has published.
+[99]
+It is also clear from the evidence that Merck staff paid attention to the content of
+Lunar News
+where it related to the company's products. Indeed a meeting was arranged for May 21, 1997 between Dr. Mazess and Merck principals to discuss concerns Merck had with certain of the statements published in
+Lunar News
+criticizing Merck marketing of alendronate and recommending "off-label" dosing regimes for alendronate, as will be seen below. The evidence establishes that Dr. Yates, the principal listed inventor of the '595 patent, attended that meeting and that copies of the
+Lunar News
+from 1996 and early 1997 were discussed and available for examination (Mazess Affidavit at para. 35).
+[100]
+As these articles were the subject of much scrutiny on this application, relevant portions are reproduced below from the articles of April 1996, July 1996 and April 1997. In April 1996,
+Lunar News
+published the following:
+"One of the difficulties with alendronate is its low bioavailability. When taken with water in a fasting state, only about 0.8% of the oral dose is bioavailable. Even coffee or juice reduces this by 60%, and a meal reduces it by ⟩85%. Alendronate must be taken, after an overnight fast, 30-60 minutes before breakfast. Subjects should remain seated or standing; a very small group of patients have reported some upper gastrointestinal distress if this is not done. This regime may be difficult for the elderly to maintain chronically.
+An intermittent treatment program (for example, once per week, or one week every three months), with higher oral dosing, needs to be tested
+. A sustained response has been demonstrated to intravenous administration of high-dose alendronate." (Citations omitted) (Emphasis added)
+In July 1996, the following was published:
+"Some U.S. physicians are reluctant to treat because of: (a) side effects, (b) difficulty of dosing, and (c) high costs ($700/year). First, Merck recently sent a letter to physicians warning of esophagitis. Some physicians report that 5 to 15% of patients experience gastric and/or esophageal distress, but most have seen no side effects. Serious side effects of ulceration and stricture appear rare. Second, some patients also stop alendronate because of the dosing difficulty. The limited bioavailability of alendronate (0.8%) requires that it be taken on an empty stomach upon awakening with a full glass of water (not tea, coffee, or juice), and the patient must remain upright for 30 or 60 minutes. A few elderly women can tolerate this regime for a only week or two. Third, some U.S. patients, whose insurance does not cover drug costs, are finding alendronate expensive. Some health organizations are even recommending use of lower-cost cyclical etidronate. Alendronate is the first satisfactory and effective therapy for the 85% of patients who do continue. Merck is attempting to reach an even larger group of women by promoting densitometry of the hand and forearm. This promotion of outmoded densitometry has antagonized leading physicians (who use axial densitometry). This antagonism possibly could be a factor in the unexpectedly high frequency of side effects and dosing difficulties. The use of forearm BMD in relation to bisphosphonates seems surprising, since the forearm shows no increase with treatment.
+"
+The difficulties with oral bisphosphonates may favor their episodic (once/week) or cyclical (one week each month administration. Even oral alendronate could potentially be given in a 40 or 80 mg dose once/week to avoid dosing problems and reduce costs
+. Intravenous administration also is possible. Ibandronate (Boehringer Manheim) appears to be the most likely candidate, since it can be given as a simple injection every 3 months rather than as an infusion." (Citations omitted) (Emphasis added)
+Finally, in April 1997,
+Lunar News
+published the following:
+"Oral bisphosponate therapy in subjects older than 70 years is complicated by gastro-esophageal and intestinal difficulties more than in younger patients. [...]
+One way to reduce the relatively high cost, and the potential side-effects, of potent oral bisphosphonates may be to dose only two or three times per week rather than daily
+. In pigs, the bisphosphonate dose can be reduced without adverse effect on skeletal response by giving a standard 'daily dose' every fourth day, or for 5 days out of 20. In the human, there is little difference between 5 and 10 mg/day of alendronate, so the 10 mg dose theoretically could be given only 3X a week
+or the 40 mg dose once per week
+. Serum biochemical markers could be used to titrate dose downward. If turnover remained low after three months at 3X/week,
+the dose could be reduced to 2X/week or lower
+. These new clinical approaches to dosing need to be tested in at least short-term trials." (Citations omitted) (Emphasis added)
+[101]
+Apotex submits that the
+Lunar News
+articles cite a number of prior studies in reviewing the prior art and should be viewed as authoritative in the field. The April 1996 article specifically taught that an intermittent treatment program would help to overcome the difficulty of patient compliance with the stringent dosing regime. The July 1996 article in particular recommends a high (40 or 80 mg) weekly dose of alendronate as a way to reduce dosing problems. It was clear to the author that it was safe to administer a once-per-week dose of alendronate and that the reason to do so was to promote patient compliance and decrease the cost of therapy. The April 1997 article also suggests that reducing relatively high cost and potential side effects can be done by dosing less than daily, with the possibility of reducing dosing frequency to twice-weekly or lower.
+[102]
+Merck emphasizes that despite the Apotex experts' collective view that the 70 mg dose once per week was obvious, they all failed to implement this approach and treat their patients in the manner they claim was suggested in the
+Lunar News
+. Thus, applying the analysis in
+Whirlpool
+, supra, the Court should find that the solution was not obvious.
+[103]
+Apotex contends that each of the
+Lunar News
+articles (and the footnoted articles read in combination) identified the problems associated with daily dosing (inconvenience and related side effects from noncompliance) and then proposed higher dosing frequency, including once per week, to avoid these difficulties. The articles confirmed what was the subject of discussion at the time by persons skilled in the art. Furthermore, they disclose precisely what the '595 patent teaches. The only difference is in the suggested dosage of 80 mg rather than 70 mg. This can easily be explained by the fact that no 70 mg tablet was available at the time, while a 40 mg tablet was. Furthermore, Dr. Mayersohn's evidence is clear and uncontradicted, that given the limited bioavailability of alendronate, there is no material difference in dosage between 80 mg and 70 mg.
+[104]
+Merck submits that none of the prior art, including the three
+Lunar News
+articles, would have led a person skilled in the art directly and without difficulty to a 70 mg unit oral dosage form of alendronate on a once weekly dosing interval for the treatment of osteoporosis in humans. They do not overcome the belief of the skilled person that such a product would exacerbate the known gastrointestinal side effects of alendronate at lower dosages. The state of the art in July 1997 taught that esophageal injury was associated with the 10 mg product and that an increase in dose would cause an increase in potential esophageal injury. A higher dose tablet would have been expected to have an increased rate of side-effects. As indicated above, I do not accept that the scientific studies support this argument.
+[105]
+Merck stressed in oral argument that none of the
+Lunar News
+articles refer to the suggested dosing regime reducing side effects or otherwise addressing safety issues. The April 1996 article, it contends, only addresses dosing problems and reducing costs. Apotex' response to this was to state that as the July 1996
+Lunar News
+article came after the De Groen article and after the Dear Doctor letter from Merck, it is clear from the context that when Dr. Mazess mentioned dosing problems he was specifically including safety in his consideration.
+[106]
+Merck argues that in referring separately to "side effects" and "difficulties in dosing" in the July 1996 article, Mazess was distinguishing between the two and his recommendations should be interpreted, therefore, as teaching compliance rather than safety. I do not accept that argument. The evidence indicates that the major concern with dosing noncompliance was that it led to the type of GI effects some patients experienced. A secondary concern was that the limited absorption and bioavailability of alendronate would be compromised. There is no question, in my view however, that the
+Lunar News
+articles addressed patient safety as indicated by the references to "upper gastrointestinal distress" and "gastric and/or esophageal distress" in the April and July1996 articles. This was the issue that had concerned researchers and physicians treating osteoporotic patients since the 10 mg product had been marketed.
+[107]
+Dr. Papapoulos deposed that the April 1996 article made no distinction between treatment once weekly and one week every three months and gave no consideration to "the known dose-dependency of side effects". The suggestion of a higher dose once weekly would not, in his opinion, meet the concerns of the skilled reader. Dr. Papapoulos relied for that conclusion on a study by Chesnut et al. (1995) which he claimed demonstrated that osteoporotic patients could not tolerate 40 mg per day. He abandoned that position on cross-examination and conceded that what Chesnut taught was that it was the
+frequency
+of administration that produced worse effects. Further, he conceded that the April 1996
+Lunar News
+article made a clear and unambiguous statement of the administration of alendronate once per week in either 40 mg or 80 mg doses.
+[108]
+Dr. Papapoulos also took the position that the April 1997
+Lunar News
+article did not render obvious the claims of the '595 patent, as it failed to adequately address the safety concerns surrounding the less frequent administration of higher doses of bisphosphonates. He dismisses Dr. Mazess's statement in that article that such a dosing regime would reduce GI effects from higher doses as unsupported by any evidence.
+[109]
+Dr. Fennerty also dismissed the
+Lunar News
+as "offhand suggestions" in terms remarkably similar to those used by Dr. Papapoulos in his affidavit. In my view, they weren't "offhand" at all. Based on his experience and knowledge of the condition, the underlying science and the available therapies, Dr. Mazess was making constructive recommendations to address the problems some patients were encountering. He was not simply a "chronicler" as Merck counsel repeatedly referred to him throughout oral argument. Rather, I suspect he was more like Justice Hugessen's mythical "man in the Clapham omnibus of patent law" from <FRAGMENT_SUPPRESSED> , supra. He was aware of the commonly known scientific context and came up with the obvious answer.
+[110]
+As indicated above, I preferred the Apotex witnesses' evidence. At paragraphs 95-96 of her affidavit, Dr. Compston affirms:
+"The April 1996 and July 1996
+Lunar News
+articles teach the use of higher oral doses of oral bisphosphonates given intermittently, the main rationale being the difficulties experienced with the dosing regimen, particularly by the elderly. Once-weekly dosing is explicitly mentioned in the April 1996 article although no dose is stated and the paper of Vasikaran et al is quoted as evidence for efficacy of intermittent regimens. The July 1996
+Lunar News
+goes further to teach a 40 or 80 mg dose once weekly for the treatment of postmenopausal osteoporosis. These specific doses are no doubt selected because a 40 mg tablet was available for the treatment of Paget's disease and one or two of these would be much easier for the patient to take than 7 x 10 mg tablets. Although a weekly dose of 70 mg is not explicitly mentioned, the dose of 80 mg once weekly would be regarded as bioequivalent according to the United States Pharmacopeia which I attach to my affidavit as Exhibit 12. The United States Pharmacopeia states that a range of ±20% of any given dose satisfies equivalence criteria for a broad range of drugs. According to this, the ranges considered to be bioequivalent to 40 mg and 130 mg of alendronate would be 32-48 mg and 64-96mg respectively.
+"It is true that the
+Lunar News
+articles do not provide specific data that such dosing would be safe for patients; however, more importantly they do not suggest that higher doses would be expected to cause more upper GI side-effects. This is likely to reflect the knowledge that 40 mg daily was widely used in the treatment of Paget's disease and was well tolerated and safe. Indeed, doses of 80 mg daily were reported by Khan et al to be well tolerated. Furthermore, in women with postmenopausal osteoporosis no dose-related increase in upper GI side-effects had been seen in the large randomized clinical trial of Liberman et al in which doses of up to 20 mg daily was given, or in the study of Harris et al in healthy postmenopausal women in which doses of up to 40 mg daily were given. Thus, not only would increased upper GI adverse effects not be expected with higher doses, but intermittent administration is taught to be expected to decrease these effects as the oesophageal mucosa would have longer to recover between doses. The teaching that once weekly dosing with 40 mg is expected to reduce the side-effects of oral potent bisphosphonates, of which alendronate is an example, is explicitly mentioned in the April 1997
+Lunar News
+(see paragraph 126 of Dr. Fennerty's Affidavit), contrary to Dr. Fennerty's statement in paragraph 128 that 'nowhere in the article is there evidence that the suggested regimen may help overcome the gastrointestinal problems'. The suggestion that 'these new clinical approaches to dosing need to be tested in at least short-term trials' is not an admission of safety concerns as claimed by Dr. Fennerty in paragraph 127, but simply reflects the recognition that testing of different regimens of any drug would routinely be required, for reasons of both efficacy and safety, before regulatory approval for their use. I also note from the documents retrieved from
+ <FRAGMENT_SUPPRESSED>  admits weaknesses in this patent application relates to 35 mg/70 mg weekly dosing in that the April 1997
+Lunar News
+provides for intermittent dosing. Merck then attempted to find pre-dating documents in order to establish that Merck was the first to invent the weekly dosing. Document number DTX 24 is attached to this my affidavit as Exhibit 13."
+[111]
+After summarizing the
+Lunar News
+articles, as well as taking into account the Khan et al. study, at paragraph 16 of his affidavit, Dr. Mayersohn commented:
+"The literature evidence cited above taken in its totality indicates and presents a clear and convincing teaching for the tolerability of large daily oral doses of alendronate. Since those large oral doses of alendronate are so well tolerated on a long-term daily basis, in my opinion, it follows those same doses would be equally if not better tolerated when administered on a less frequent dosing basis of once per week."
+[112]
+Having considered all of the evidence and the submissions of the parties, I am satisfied that in light of the state of the art and common general knowledge, an ordinary person skilled in the pertinent art or science searching for something novel - without serious thought, research or experiment - would have come "directly and without difficulty to the solution taught by the patent":
+ <FRAGMENT_SUPPRESSED>  Accordingly, the claimed "invention" is obvious and the patent is invalid.
+[113]
+Having decided that the claimed invention was obvious, I do not need to address the other issues raised in this proceeding. However, in the event that I am found to be wrong on the question of obviousness, I will briefly provide my findings and conclusions on the other issues.
+ANTICIPATION
+[114]
+An allegation of anticipation contends that a patent is invalid because the invention claimed was not novel in view of a prior publication. The party seeking to establish this faces a heavy onus. The test requires that a single, apposite prior publication give information as to the invention that is, for the purposes of practical utility, equal to that given in the patent. The party challenging the validity of the patent must establish that there exists a prior disclosure which contains sufficient information to enable a person of ordinary skill and knowledge in the art to understand, without access to the patent in issue, the nature of the invention so as to be able to put it to practical use without the aid of inventive genius but purely by mechanical skill:
+Free World Trust
+, supra.
+[115]
+To invalidate a patent by anticipation, a prior disclosure must be an enabling disclosure. It must be such as to enable the public to make or obtain the invention:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 478 (F.C.A.), at 497. Furthermore, to make out a claim of anticipation, it is not enough that the prior publication should do no more than suggest something from which the patent in suit might have evolved:
+ <FRAGMENT_SUPPRESSED>  (C.A.), at 73. Rather, as Justice Hugessen found in <FRAGMENT_SUPPRESSED> , supra:
+"One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention."
+[116]
+It is all too easy after an invention has been disclosed to find its antecedents in bits and pieces of earlier learning. It takes little ingenuity to assemble a dossier of prior art with the benefit of 20-20 hindsight:
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), at 41, affd. (1951), 15 C.P.R. 99 (S.C.C.).
+[117]
+To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented. A signpost, however clear, upon the road to the patentee's invention will not suffice, the prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee:
+ <FRAGMENT_SUPPRESSED>  C.P.R (3d) 417 (T.D.), at 430  <FRAGMENT_SUPPRESSED> , affd. (1990), 105 N.R. 138; 32 C.P.R.(3d) 409 (F.C.A.).
+[118]
+In its NOA, Apotex alleged that the '595 patent was anticipated by sixteen specific instances of prior art. During the course of the hearing of this application, Apotex counsel reduced that to eight items, listed as follows with their corresponding NOA numbering:
+"v. EP-A-O 600 834 (published on June 8, 1994)
+vi. EP-A-O 617 624 (published October 5, 1994)
+vii. United States Patent No. 5,366,965, (published November 22, 1994)
+x. WO-A-95/030 421 (published November 16, 1995)
+xi. EP-A-O 758 241 (published November 16, 1995)
+xii. 'Update: Bisphosphonate',
+Lunar News
+, (April 1996), p. 31
+xiii. 'Update: Bisphosphonate',
+Lunar News
+, (July 1996), p. 23-24
+xiv. 'Update: Bisphosphonate',
+Lunar News
+, (April 1997), p. 30-32"
+Apotex claims that if each and any of these documents was read by a person skilled in the art, they would understand them to teach the subject matter of the '595 patent. Apotex relies particularly on the
+Lunar News
+articles described above.
+[119]
+In this case, while I find that the
+Lunar News
+publications, both individually and as a group constituted a signpost or signposts, I am not persuaded that they plant a flag at the precise destination. None of the articles squarely address the question of the safety of higher doses of bisphosphonates, particularly alendronate, although that can be inferred from their text and footnoted references. The articles indicate that they are positing hypotheses and that these ideas require further testing. Dr. Mazess was not a medical doctor, so he was not in a position to test these hypotheses. He gave evidence after the fact in this proceeding that he knew of medical doctors who had followed his hypothesis by putting such dosing regimes into effect; however, this is not disclosed by the articles themselves.
+[120]
+I find that none of the eight prior art references relied upon by the respondent satisfy the test for anticipation. Accordingly the patent is not invalid for this reason.
+OTHER ALLEGATIONS OF INVALIDITY
+Inutility
+[121]
+A patent's claimed invention must be useful. The inventor must be in a position to establish utility as of the date the patent is applied for, on the basis of either a demonstration of utility or of a sound prediction of utility, based on the information and science available at the time of prediction. As set out by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  must be a factual basis for the prediction. What factual basis will suffice will depend upon the nature of the invention.
+2. The inventor must have at the date of the patent application an articulable and 'sound' line of reasoning from which the desired result can be inferred from the factual basis. What line of reasoning will be legitimate will depend on the subject matter.
+3. There must be proper disclosure. It is generally not necessary for an inventor to provide a theory of why the invention works; practical readers merely want to know that it does work and how to work it."
+[122]
+The '595 patent specifications contain no clinical evidence from controlled studies with human patients. The factual basis relied upon by Merck to predict that the claimed invention would have utility was derived from the dog studies described above. It argues that it would have been unethical to conduct controlled studies with human subjects without being certain that the higher doses tested would be safe. As discussed above, there was extensive evidence available to Merck at the time it conducted the dog studies that higher doses of alendronate had been administered to humans and other mammals for prolonged periods without significant increases in serious GI effects.
+[123]
+Apotex's NOA alleges at pages 16-17 under the heading "Inutility" that it is clear from the specification that the claims of the '595 Patent cover dosage ranges that do not solve the problem of reduced gastrointestinal effects. Group 6 dogs, which received a twice-weekly dose of 0.40 mg/mL, had esophageal injury consisting of "deep ulceration of epithelial surface. Marked submucosal inflammation and vacuolation". Thus, Apotex argues, the patent's claims include dosage amounts that result in adverse gastrointestinal effects, include inoperable embodiments and are consequently invalid.
+[124]
+Apotex submits that the dog studies do not provide a factual basis for the prediction that a higher dose of alendronate administered less frequently in humans would cause less esophageal damage because of these results and because the dog studies were not carried out consistently with how humans would take the medication. There was also unacceptable variations between the groups, having to do with sacrifice time and dosing regimens, such that it is impossible to tell whether the timing of the sacrifices or the amount of alendronate administered led to the results claimed.
+[125]
+There are serious inconsistencies in the way the data from the dog studies was presented and interpreted in the patent specifications. Dr. Langer's evidence was that the science relied upon in the dog studies was "atrocious" and so fundamentally flawed that it could never be published in a peer reviewed journal. Dr. Compston also criticised the dog studies on the basis that two variables were changed at the same time so one could not properly identify which variable was responsible for what effect. Dr. Markowitz agreed that the dog model does not duplicate the experience in humans who regularly use alendronate. Dr. Fennerty conceded that he would not have administered higher doses of alendronate based on the dog study alone. Clearly, the information in the patent, based only on the dog studies would not be enough to convince a scientist that the proposed regime had a safety advantage.
+[126]
+I agree with Apotex that the desired result of increased safety while maintaining efficacy could not be inferred from the flawed factual basis provided by Merck. There was neither an actual demonstration nor a sound line of reasoning articulated as to the utility of the claimed invention from that data. At best, as I observe at paragraph 82 above, one could conclude from the data that reducing frequency would reduce esophageal injury. If you waited long enough between administrations, the esophageal tract would heal. The disclosure does not demonstrate that the increased dose would be safe or maintain the desired therapeutic benefits.
+[127]
+I find, therefore, that the patent fails to demonstrate utility or make a sound prediction of utility and is invalid for that reason.
+Insufficiency and Ambiguity
+[128]
+The
+Patent Act
+requires that, in consideration of the grant of a monopoly, the disclosure and the claims of the patent must correctly and fully describe the invention; set out clearly the method of making the invention in full, clear, concise and exact terms; and claim distinctly and in explicit terms the things that the patentee regards as new and in which he claims an exclusive property of privilege:
+Patent Act
+, s. 27(3) and (4).
+[129]
+A patent may be challenged on the ground of insufficiency where the specification is insufficient to enable a person skilled in the art to understand how the invention is to be made:
+ <FRAGMENT_SUPPRESSED>  (F.C.), at para. 76. Ambiguity is a question of law relating to whether the scope of the claimed monopoly can be understood:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 473 (F.C.A.), at 480-482  <FRAGMENT_SUPPRESSED> .
+[130]
+Apotex submits that the breadth of the claims in the '595 Patent, including the three impugned asserted claims is not supported by the disclosure in the patent. It argues that the scope of the claims is far broader than the claimed invention of a higher dose once weekly for safe administration to humans. Further, there is no indication of how the alendronate tablets have been "adapted" as claimed in the patent. The drug, method of administration and therapeutic purpose are all identical to that disclosed in the '477 Patent. The only purported novelty is the periodicity, which Apotex argues, qualifies the claims of the '595 Patent as being claims for an unpatentable method of treatment, as discussed below.
+[131]
+Merck relies on the presumption of validity in s. 43 of the
+Patent Act
+and submits that the '595 Patent is neither ambiguous nor insufficient to support the asserted claims, when read by a mind willing to understand and willing to apply the definitions set out in the patent itself:
+ <FRAGMENT_SUPPRESSED> .
+[132]
+While I accept Apotex' argument that the scope of the claims in the '595 Patent goes beyond the purported invention, I would not find that the specification is insufficient or ambiguous. A person skilled in the art reading the claims and disclosure would understand how the claimed pharmaceutical formulation would be made.
+Method of Medical Treatment
+[133]
+The
+Patent Act
+defines "invention" as "any new and useful art, process, machine, manufacture or composition of matter" or any improvement thereto. It has been held that methods of medical treatment are not contemplated in the definition of "invention" as a kind of "process":
+Patent Act
+, s. 2.
+[134]
+In
+Tennessee Eastman
+, a method of surgical treatment was found not to be patentable because such subject-matter does not fall within the definition of "process" or "art" as those terms are understood under the
+Patent Act
+:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 202, at 207  <FRAGMENT_SUPPRESSED> .
+[135]
+Apotex argues that the impugned claims in the '595 Patent are essentially methods of medical treatment in that they simply provide instructions to the physician to alter the dosage regime, as found by the Australian court and the U.K.  <FRAGMENT_SUPPRESSED>  a patent are for a vendible product having economic value in trade, industry and commerce and are distinguishable from the work of a physician, which requires the exercise of specialized skill, the patent is taken out of the realm of
+Tennessee Eastman
+. The how and when of administration is not a part of the patent. The inventors provide a new product which physicians may choose to use in treating patients, based on their own skill and judgment:
+ <FRAGMENT_SUPPRESSED> .
+[137]
+I find that the patent is for a vendible product having real economic value, as demonstrated by its immediate success in the market, and is, therefore, not for an unpatentable method of treatment. I note, however, that this is contrary to the position reached by the U.K. courts. But for the decision of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (C.A.), Justice Jacob would have held that it was not a method of treatment patent. The words of Holman, J. (at para. 111), in
+Bristol-Myers
+were adapted by counsel for the claimant in that case by substituting alendronate for taxol, the drug in question in that case, in the following manner;
+"In the present case, however, the drug alendronate is exactly the same; the method of administration, orally, is exactly the same; and the therapeutic application or purpose, namely the attempt to treat osteoporosis is exactly the same. The only difference is the discovery that if the drug is administered in a unit dosage form of 70mg once weekly rather than 10mg once daily an undesirable side-effect, adverse GI effects, is less than it otherwise would be, whilst the therapeutic effect remains. No previously unrecognized advantageous properties in the chemical compound have been discovered ... All that has been discovered ... is that if the compound is administered once a week rather than daily, one of its disadvantageous side effects will be less than it otherwise would be."
+[138]
+Consequently, Jacob, J., found that the claim was in substance a method of treatment of the human body by therapy, which finding was upheld by the Court of Appeal: [2003] All E.R. 62.
+[139]
+The application for an order prohibiting the Minister of Health from issuing a Notice of Compliance to Apotex is, therefore, dismissed.
+COSTS
+[140]
+Apotex submits that while Merck was entitled to initiate its application, the fact that three jurisdictions have already considered the matter is relevant to the question of costs, particularly after the decision of the U.S. Circuit Court of Appeal came down in January of this year. Apotex suggests this should justify an increase in the scale from column three to column five as most of the preparation for the hearing took place following that decision. I do not agree that this should be a relevant consideration or that there is any reason to grant an increase in the scale. A cost award in this court should not depend on the outcome of foreign proceedings.
+[141]
+Apotex is entitled to its costs, to be calculated on the ordinary scale. There will be no order as to costs either in favour of or against the respondent Minister of Health.
+ORDER
+[142]
+THIS COURT ORDERS that the application is dismissed. Costs to the respondent Apotex as provided in paragraphs 140 and 141 of the Reasons for this Order.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/gs
+[End of document]

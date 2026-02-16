@@ -1,0 +1,1026 @@
+[1]
+MacKay, J.
+: This action concerns patent rights relating to intermediates, processes for their production, and the process for produc­tion of a pharmaceutical compound, trime­thoprim (TMP), using those intermediates. It is alleged that the plaintiffs' patents have been infringed by the defendant's sale in Canada of certain pharmaceutical compounds using TMP imported from abroad which the plaintiffs claim contains the intermediates subject to their patents and which they claim must have been manufactured by their pat­ented processes.
+[2]
+The Wellcome Foundation Limited (Wellcome) is a United Kingdom corpora­tion and was at all material times the owner of Canadian Letters Patent No. 741,825 ("the '825 patent") concerning Propionitrile Con­densation Intermediates, and also of Cana­dian Letters Patent No. 907,014 ("the '014 patent") concerning
+B
+-Amino-
+a
+-Benzyla­crylonitriles. The '825 patent, issued in 1966, expired on August 29, 1983 and the '014 patent, issued in 1972, expired August 7, 1989. Under both patents the plaintiff, Burroughs Wellcome Inc. ("Burroughs"), a Canadian corporation and a subsidiary of the plaintiff Wellcome, was at all material times a licensee. Through one of its divisions Burroughs marketed in Canada TMP under the trade name Proloprim and it marketed TMP in combination with sulfamethoxazole under the trade name Septra.
+[3]
+Prior to the expiration of the two patents the defendant, Apotex Inc., a Canadian company which produces and sells pharma­ceutical products, offered for sale and sold in Canada products containing TMP as one of the active ingredients, in particular Apo-Sulfatrim tablets which are comprised of a combination of TMP and sulfamethoxazole.
+[4]
+In the statement of claim, originally filed January 11, 1983 and subsequently amended, the plaintiffs allege that Apotex has infringed certain claims contained in its two patents by the defendant's manufacture and sale of Apo-Sulfatrim and Apo-Sulfatrim DS tablets using the intermediates and methods of producing those intermediates included within the claims of the plaintiffs' patents, and of using the plaintiffs' patented process of producing TMP utilizing the inter­mediates.
+[5]
+The plaintiffs seek a declaration of this court that specified claims in each of the two patents in suit are valid and have been infringed by the defendant, damages for infringement or an accounting of profits at the election of the plaintiffs, other relief as this court may deem just, and costs of the proceedings. The declaration requested would specify 8 of the 11 claims included in the '825 patent and 64 of the 120 claims included in the '014 patent. Originally claimed, but not pursued at the date of trial by which time both patents had expired, were other forms of relief including an injunction restraining further infringement and an order for delivery up of infringing products.
+[6]
+The defendant filed a defence and a counterclaim. It claimed that there was no infringement and further, the defendant seeks a declaration that all of the claims of the '825 patent and all of the 64 claims that the plaintiffs seek to have declared valid in the '014 patent are invalid and void. In addition to the usual grounds for challenging validity it is urged the claims do not meet the condi­tions of registrability and are prohibited by s. 41(1) of the
+Patent Act
+, R.S.C. 1970, c. P-4, as it applied when the patents were issued and until 1987 when that provision was effectively repealed. Other relief this court may deem just and costs of the pro­ceedings are also sought by the defendant.
+[7]
+Prior to trial the parties agreed and Mr. Justice Addy ordered, that following trial on the matter of infringement, if it then appears there are issues of fact to be determined concerning the extent of infringement, or damages or profits arising from any in­fringe­ment those issues be the subject of a refer­ence under rules 500 et seq. of this court.
+[8]
+The parties also agreed on the following facts.
+"1. The plaintiff, the Wellcome Foundation Limited, a U.K. corporation, is, and was at all material times, the owner of Canadian Letters Patent No. 741,825 (hereinafter referred to as 'the '825 Patent') and 907,014 (hereinafter referred to as 'the '014 Patent').
+"2. The plaintiff, Burroughs Wellcome Inc., a Canadian corporation, is, and was at all material times, a Licensee under the '825 Patent and the '014 Patent.
+"3. The '825 Patent expired on August 29, 1983 and the '014 Patent expired on August 7, 1989.
+"4. Prior to the expiration of the '825 Patent and the '014 Patent the defendant offered for sale and sold in Canada tablets containing Trimethoprim (hereinafter referred to as 'TMP') as one of the active ingredients.
+"5. The said Trimethoprim was imported by the defendant into Canada, and the defendant has no knowledge of the process by which such Trimethoprim was manu­factured.
+"6. All the tablets in lots 20091, 9345, 02881, 0067 and 22022 are tablets sold by the defendant.
+"7. The defendant's solicitors were given samples from each lot referred to in para­graph 6 above, with the exception of lot 22022.
+"8. The defendant's solicitors were invited to attend the analyses of the defendant's tablets set out in the 'Experimental Report' of Dr. David Ashton carried out at Beckenham, England, between February 27, 1984 and March 5, 1984, a copy of which was sent to the defendant's solicitors on March 20, 1985.
+"9. The tablets analyzed as set out in the said Experimental Report are the defen­dant's tablets.
+"10. MTBP is an intermediate in a process for the manufacture of TMP and TAA is an intermediate in a process for the manu­facture of TMP.
+"11. The defendant is not aware of any medical use of either MTBP or TAA.
+"12. At all relevant times TAA was a new substance, and the defendant has no knowledge as to whether MTBP was a new substance at such relevant times."
+[9]
+In dealing with the claims of the parties these reasons describe and construe the patents and the claims contained in those which are at issue in this action, then deal with the issue of infringement and finally the issues raised by the defendant concerning validity of the '825 patent and the '014 patent of the plaintiffs.
+A. The Patents Involved
+[10]
+To assess the arguments raised by the parties it is necessary to understand the subject matter of the claims contained in the plaintiffs' two patents here in issue. In the words of my colleague, Mr. Justice Dubé in
+ <FRAGMENT_SUPPRESSED> ):
+"It is trite law that the first duty of the court, as a question of law, is to construe the claims of the patent alleged to be infringed. I must thereafter decide as a question of fact, by comparing the alleged infringing method with the words of the claims, whether the defendant's method falls within the scope of the claims. If it does, there is infringement. It is also well­established that the claims, as well as the disclosure, are directed to the skilled workman and must be construed by a mind willing to understand, not one desirous of misunderstanding. In other words, the specification ought to be given a purposive rather than a purely literal construction."
+[11]
+The patents are discussed in a written report prepared by an expert witness testify­ing on behalf of the plaintiffs, William Basil Whalley, Emeritus Professor of Chemistry and from 1961 to 1982, Professor of Chemistry and permanent head of the De­partment of Pharmaceutical Chemistry in the School of Pharmacy at the University of London, England, whose special interest was in organic and biological chemistry. Whalley has worked as a consultant employed by the plaintiff Wellcome and has testified as an expert in various countries in which that plaintiff has launched suit against purported infringers of its patents corresponding to the Canadian patents here in issue.
+[12]
+Whalley's statement of evidence pro­vides general descriptions of the plaintiffs' patents, in part as follows:
+"10. In general terms, each of the two Patents in suit relates to processes for the production of a class of intermediate com­pounds which can be used for the purpose of synthesizing pharmaceutically valuable benzylpyrimidines ..., the most important and significant of which is TMP ... .
+. . . . .
+"13. The '825 Patent relates to inter­mediates for the synthesis of TMP by a process generally referred to as the Methoxy Process, whereas the '014 Patent relates to intermediates for the synthesis of TMP by a process generally referred to as the Anilino Process.
+"14. The Methoxy Process is so called because the particular starting material for the synthesis of TMP is
+B
+-
+methoxy
+-
+a
+-(3, 4,5-trimethoxybenzylidene) propionitrile (hereinafter called 'MTBP') ... and the Anilino Process is so called because the particular starting material for the synthesis of TMP is
+B
+-
+anilino
+-
+a
+-(3,4,5-trime­thoxybenzyl) acrylonitrile (hereinafter referred to as 'TAA'). ...
+"15. Both the methoxy intermediate, and the anilino intermediate have chemical structures which are substantially similar, and each of which can theoretically exist in two isomeric forms ..., as stated in the '825 Patent on page 3 and in the '014 Patent on page 6.
+. . . . .
+"20. In order to convert either MTBP or TAA into TMP it is necessary to complete the formation of the pyrimidine ring ... which is already partially established and which requires an additional carbon and three additional nitrogen atoms to form the diaminopyrimidine moiety. These are provided by guanidine ..., with which either MTBP or TAA is reacted.
+"21. The chemotherapeutic activity of 2, 4-diamino-5-benzylpyrimidines ... (i.e., the compounds for the preparation of which these intermediates are useful) has been known since the mid 1950's. In particular, 2,4-diamino-5-(3,4-dialkoxy­benzyl) pyrimidines, ..., with or without further substituents in the benzene ring, ..., have very high antibacterial activity, in­cluding strains resistant to antibiotics. The high antibacterial activity of TMP (which is a 2,4-diamino-5-)3,4-dialkoxy­benzyl)pyrimidine with an additional al­koxy group at the 5 position of the ben­zene ring) has been generally know [sic] since the middle of 1958.
+"22. It has also been known since the mid 1950's that such compounds exhibit synergism in combination with sulphona­mides, and that such combinations are effective against various parasitic protozoa. In particular, a combination of TMP and sulphamethoxazole has been known since the mid 1960's to be a particularly effec­tive bactericidal agent."
+1. The '825 Patent
+[13]
+The patent itself describes the invention as relating "... to a novel group of propioni­trile derivatives having great value as inter­mediates in the preparation of pharma­ceutically valuable benzyl-pyrimidines". A designated class of benzylpyrimidines is said to contain many compounds with chemotherapeutic activity. In particular the 2,4-diamino-5-(3,4-dialkoxybenzyl)-pyrimidines, the end products facilitated by the intermediates and the process claims for producing the intermediates, are stated to have "... very high antibacterial activity". One such benzylpyrimidine is TMP, one of the active ingredients in the tablets produced and sold by the defendant which production and sale is said to have infringed the plain­tiffs' patents.
+[14]
+Before the processes invented by the plaintiff, the particular class of benzyl­pyrimidines facilitated in production by the patent, specifically the 2,4-diamino-5-benzylpyrimidines including TMP, had been produced by a seven-stage process which was costly, lengthy and inefficient, and which hindered exploitation in that yields were not very great and products were rela­tively impure. The invention disclosed in the '825 patent is stated to eliminate the diffi­culties of the seven-stage process by utilizing "a new and useful condensation reaction". The condensation reaction pro­duced, among other products, an inter­mediate that was not known in the seven-stage process,
+B
+-methoxy-
+a
+-(3,4,5-trime­thoxybenzylidene) propionitrile (MTBP). When combined with guanidine MTBP is said to form TMP in a much more efficient manner than the seven-stage process that was followed prior to the invention described by the plaintiffs.
+[15]
+Following the disclosure statement describing the invention in the '825 patent, 24 examples illustrating chemical reactions are given. Then there are eleven claims contained in this patent. The plaintiffs rely in particular on two of them, claims 4 and 8, in the claim of infringement against the defen­dant, although the declaration sought by statement of claim, if granted, would con­firm validity of claims 1 to 6 inclusive and 8 and 11. Claims 1, 2 and 3 and 5 are all method or process claims, as is claim 4; all concern methods for production of inter­mediates by condensation reactions. Claim 4, said to be infringed, is a process claim for
+"the method of preparing a compound selected from the class represented by the formulae
+a
+and
+b
+[see printed version]
+wherein Ar is a substituted or unsub­stituted aryl radical and R is a lower alkyl radical which comprises condensing an aldehyde ArCHO with a
+B
+-alkoxypro­pionitrile in the presence of a sodium alkoxide dissolved in a lower alcohol solution."
+[16]
+It should be noted that
+a
+and
+b
+are structural isomers, (that is to say that they are compounds having the same elemental composition, but structurally different, and therefore having different properties.) The isomers are referred to as the benzylidene (or benzal) isomer and the benzyl isomer. The claim is a process claim for a generic method of producing compounds from the class of compounds
+a
+and
+b
+. The "substituted or unsubstituted aryl radical" comprises an extremely large number of substances, the extent of which Dr. Whalley did not wish to speculate upon, as he said, "... it's like ask­ing me how long is a piece of string". The defendant's expert witness, Dr. McClelland, estimated this claim related to at least 100,000 substances. Of course, as Dr. Whalley also testified, it is important to read this claim in conjunction with the disclosure of the invention. I note here that this claim is a broad one, and, as we shall see, the broadness of the claim is a key factor in the defendant's challenge to the validity of the patent.
+[17]
+Claims 6, 8 and 11, included in the declaratory relief sought by the plaintiffs are product claims, concerning intermediates or compounds derived by the process claims, without reference in these product claims to any particular process claim.
+[18]
+Claim 8, said to be infringed, is a claim to "
+B
+-Methoxy-
+a
+-(3,4,5-trimethoxy­benzylidene) propionitrile", or as it is called, MTBP. It is produced according to the process set out in claim 4, when, in accord with Example 3, the aldehyde is 3,4,5-trimethoxybenzaldehyde and the agent for condensation is
+B
+-methoxypropionitrile. Thus, MTBP is one of the compounds derived by the process claimed under claim 4. MTBP is one of two structural isomer products of this condensing process reaction,namely the benzylidene isomer; the other, the benzyl isomer, also results from the pro­cess. (MTBP exists as well in the form of two geometric isomers, the cis and trans isomers.) A structural representation of the reaction producing MTBP was contained in the report of Dr. Whalley, as follows (Exhibit K, Reaction A):
+[see printed version]
+[19]
+As I construe the '825 patent there is no claim to the specific process for producing MTBP. The generic claim 4 is followed, using proper substituents, as set out in the specification in Example 3 of the patent, which reads:
+"588 g. 3,4,5-Trimethoxybenzaldehyde and 297 g.
+B
+-ethoxy-propiononitrile were added to a solution of 42 g. sodium methoxide in 2100 ml. anhydrous alcohol. The solution was distilled slowly removing 425 ml. distillate each half-hour and re­placing that amount of fresh anhydrous alcohol. After two hours the solution was concentrated in vacuo to a syrup and stirred with 2000 ml. water at 0°. Acetic acid was added to bring the pH to 6-7, and then ammonia was added bringing the pH to 8.5. The oily product became very stiff. The aqueous layer was decanted and the product washed with 2000 ml. water at 0°. The partly-crystalline 3,4,5-trime­thoxybenzalnitrile was dried under reduced pressure at 50° to give 721 g. (87% yield), satisfactory for cyclization with guanidine. It melted at 74-75° when recrystallized from ethanol.
+"When a portion of this solid was refluxed in methanol containing a catalytic amount of sodium methylate, it was converted to the
+B
+-methoxy homologue, m.p.m 85°.
+"Similar condensations in ethanol using
+B
+-methoxy or
+B
+-isopropoxypropiononitrile afforded oily products, but these gave satisfactory yields of 2,4-diamino-5-(3,4, 5-trimethoxybenzyl) pyrimidine when reacted with guanidine."
+There was some dispute between the parties as to whether it could be said that this pro­cedure produced MTBP, or whether a mix­ture of compounds resulted, given the "partly crystalline" results, or "oily products", referred to in the example. That argument concerned the plaintiff Wellcome's success in isolating MTBP, a concern related to claim 8 but, as I understand it, irrelevant to the cyclization step to produce 5-benzyl­pyrimidines, including TMP.
+[20]
+As stated above, MTBP is said to be valuable as an intermediate in the production of trimethoprim, TMP, i.e., 2,4-diamino-5-(3,4,5-trimethoxybenzyl) pyrimidine, the most pertinent of the class of benzylpyrimi­dines referred to in the disclosure of the patent. When, by cyclization MTBP is reacted with guanidine, trimethoprim is the result. The reaction with guanidine is not specifically claimed, but is referred to in the final para­graph of the description in the patent as follows:
+"These condensation products are useful in the preparation of heterocyclic compounds, in particular in the preparation of 2,4-diamino-5-benzyl pyrimidines, such as are described in Canadian Patents 585,184 and 530,054, which have exemplary bactericidal properties. The condensation products react with guanidine in alcoholic solution to form these diamino-5-benzyl pyrimidines in yields far superior to those obtained by previous methods. This method is the subject of the claims in issued Canadian patent 689,179 of June 3, 1964. This cyclization can be represented by the equations: (the description then depicts chemical formula equations)."
+2. The '014 Patent
+[21]
+This patent describes its invention as relating "... to a class of stable a-benzyla­crylonitriles, and to methods of making such compounds, and in one specific aspect to the value of such compounds for use in much improved processes of preparing 5-benzyl-pyrimidines". What the invention is, then, is another class of intermediates and methods of producing them, which may then be used in the production of the ultimate end prod­ucts, benzylpyrimidines, one of which is TMP. The traditional methods of producing the benzylpyrimidines are referred to in the disclosure, not in terms of the seven-stage process set out in the '825 patent as the prior method, but in terms of the methods included in that patent. The new methods, then, in the '014 patent, are claimed as an improvement over the methods in the plain­tiffs' '825 patent.
+[22]
+In the claim for infringement of the '014 patent the plaintiffs rely principally upon claims 14, 39 and 97 of that patent. But in the claim for relief, a declaration is sought that many of the 120 claims included in the patent are valid, including claims 1-6 inclusive, and 11-14 inclusive, all of which are product claims for compounds including claim 14 for
+B
+-Anilino-
+a
+-3,4,5-trime­thoxybenzylacrylonitrile, or TAA as it is called; claims 27-39 inclusive, 42 and 44-65 inclusive, all of which describe and claim methods for the preparation of intermediates, including TAA; and claims 81, 82, 85-85 inclusive, 90-92 inclusive, 95-97 inclusive, 100-102 inclusive, and 105, all of which describe and claim methods for the prepara­tion of end products, including 2,4-dia­mino-5-(3,4,5-trimethoxybenzyl) pyrimidine or TMP, using TAA as an inter­mediate.
+[23]
+Claim 14 is, as noted, a product claim, to the compound TAA itself, in the follow­ing terms:
+"14.
+B
+-Anilino-
+a
+-3,4,5-trimethoxy­benzylacrylonitrile, substantially free from contamination with
+B
+-Anilino-
+a
+-3,4,5-trimethoxybenzylidenepropionitrile."
+That claim to substantial freedom from contamination by the benzylidene (or benzal) isomer, is consistent with the disclosure, which states in part that
+"... the contamination with the 'benzal' isomer is normally substantially below 10%, taken as a percentage of the amount of compound of formula (V), and prefer­ably below 5% or still better, below 2%. Usually the best methods for making the compound of formula (V) provide the product with less than 0.5% contamination and frequently no benzal isomer can be detected at all with analytical methods sensitive to even as low as 0.33% ad­mixture. It has, on the other hand, been observed that contamination at or above the 10% level adversely effects the yield and quality of the final benzylpyrimidine product, ..."
+The presence or absence of the benzylidene isomer, later known as BTAA, was high­lighted by argument of the defendant con­cerning alleged infringement. To the extent that a relatively pure form of the benzyl isomer, TAA, is obtained, the methods of the '014 patent are said to be an improvement over earlier methods, as are the simplified processes and the higher yields of inter­mediates obtained.
+[24]
+Claim 39 is a process claim, following claims 28, 29 or 31, all of which are in turn derived from claim 27, using in claim 39 as the reacting agent
+B
+-anilino-propionitrile, with the starting benzaldehyde, in the presence of a base in a polar aprotic solvent compatible with and dissolving both re­actants. That claim 39, is the principle claim to a process for producing TAA, though it is silent and makes no reference to the result­ing compound (TAA) as being free from the benzylidene isomer. Unlike the situation in the '825 patent, where my reading indicates no claim to the specific process for produc­tion of the intermediate MTBP, claim 39 in the '014 patent, which defines the scope of other process claims on which it is depen­dant, is a claim to a specific process, from claim 39 through claim 31 or claim 29 or claim 28 (upon which each of claims 31 and 29 are also dependant) to claim 27, and in particular to the method described in claim 27(a).
+[25]
+Claim 27 from which claim 39 is ulti­mately derived relates to
+"a method of preparing a compound ac­cording to formula (V)
+[see printed version]
+or formula (VIII)
+[see printed version]
+selected from the group of processes con­sisting of [seven processes are then set out, including:]
+a) reacting the corresponding benzaldehyde with the corresponding
+B
+-amino-propionitrile in the presence of a base in a polar aprotic solvent com­patible with and dissolving both re­actants;
+. . . . .
+d) when the NR
+5
+R
+6
+group is a secondary anilino group optionally substituted in the phenyl ring, reacting the cor­responding benzaldehyde with the corresponding
+B
+-secondary-anilino-propionitrile; ..."
+In sum, claim 39 is a claim to the process used to produce TAA, i.e., a claim to the anilino process, based ultimately upon pro­cesses set out in claim 27. As with claim 4 of the '825 patent, the defendant emphasized the almost innumerable number of com­pounds falling within the scope of the seven processes set out in claim 27, a number estimated by Dr. McClelland as 10,000,000 compounds. Among those seven processes claim 27(a) was estimated to include 1,000,000 compounds. The reaction particu­lar to the production of TAA, as claimed in claim 39, was set out structurally in Dr. Whalley's report as follows (Exhibit L, Reaction A):
+[see printed version]
+[26]
+The production of TAA through claim 39 relies upon a condensation reaction gen­erally similar to that used in the production of MTBP set out in the '825 patent. The starting materials are again a benzaldehyde, 3,4,5-trimethoxybenzaldehyde, but the pro­pionitrile used to produce TAA is
+B
+-anilino-propionitrile, rather than a
+B
+-methoxy-propionitrile used to produce MTBP. For these reasons the '825 patent is referred to as a patent for the methoxy process, while the '014 patent is referred to as a patent for the anilino process (although the anilino process is only one of several processes claimed in the latter patent).
+[27]
+Claim 97 is a claim to "a method ac­cording to claim 96 which comprises react­ing a
+B
+-amino-
+a
+-3,4,5-trimethoxy­benzylacrylonitrile with guanidine to form 2, 4-diamino-5-(3,4,5-trimethoxybenzyl) pyrimidine", i.e., TMP. Thus, this claim utilizes TAA, claimed previously through product and process claims (i.e., chiefly claim 14 and claim 39) to then produce, through reaction with guanidine, TMP, which is useful in the medical and pharma­ceutical fields. I note that claim 97 is based upon the method according to claim 96, which in turn is based upon the method claim 56 which in turn is based upon the method of claim 27, in particular claim 27(d), taking us back to formulae (V) and (VIII) for compounds derived from the methods of claim 27.
+[28]
+Both the patents in suit are similar in the ultimate end product of significance, TMP, for production of which the patents concern processes for, and the products constituting, certain useful intermediates. I note that the '014 patent does refer to two other 5-benzylpyrimidines produced by the processes of the patent. The earlier '825 patent relating to the methoxy process did not claim the reaction of the intermediate with guanidine to produce TMP, though that step in the process is included in the dis­closure in that patent. The second '014 patent then goes a step further claiming the process for reaction of the intermediate TAA with guanidine. The cyclization reaction with guanidine was structurally represented as follows in the report of Dr. Whalley (Exhibit L, Reaction B):
+[see printed version]
+It was the evidence of Dr. Whalley that the cyclization reaction with guanidine was the only manner in which TAA could be converted into TMP.
+B. Infringement
+[29]
+The evidence presented at trial concerning infringement of the plaintiffs' patents consisted primarily of the results of analysis of samples of five different lots of the defendant's tablets, marketed under the name Apo-Sulfatrim. The testing was to determine whether traces of MTBP, TAA or BTAA (the benzylidene isomer of TAA) were present in the tablets. As the agreed facts set out, trace analysis of the tablets was carried out in February and March of 1984 at the Wellcome laboratories in Beckenham, England. Representatives of the defendant were invited to attend, but did not do so, and the tablets tested were the defendant's tablets.
+[30]
+Evidence of the testing procedures was given in the report and oral testimony of Dr. David Sydney Ashton, an expert in the field of mass spectrometry and an employee of the plaintiff, Wellcome since 1977. Ashton was Director of the Separations and Mass Spectrometry Group in the Physical Sciences Department of Wellcome's Research Laboratories. He had spent some eight years developing and operating extraction, isolation and detection protocols aimed at detecting traces of particular intermediates or by-products characterizing processes for manufacture of Wellcome's major products. Dr. Ashton supervised the analysis of the defendant's tablets. In addition to his description of the testing procedure, copies of the spectrographic data produced were appended to his report. Additional evidence was provided in the statement and testimony of Dr. John Leonard Holmes, of the University of Ottawa, a chemist who also has expertise in the field of mass spectrometry, who was present at the testing and had been consulted about the procedures used. Dr. Whalley was also present at the testing, and gave evidence relating to the testing. Each of these witnesses was qualified as an expert in relation to their reports and testimony at trial.
+[31]
+The testing was designed to detect MTBP, TAA, or BTAA in the samples of the defendant's tablets. The method by which it was sought to achieve this result was described in the report of Dr. Ashton. Essentially what was done was to crush a determined number of randomly selected tablets from each lot that was to be examined, so that the quantity of material tested for each batch equalled 1.04 grams of TMP. When crushed the sample was treated with 1,2-dichloroethane in which all three compounds, MTBP, TAA and BTAA, are soluble, thus separating them, if present, from insoluble inorganic tabletting material. The resulting solutions were then concentrated, and run through a high performance liquid chromatograph (HPLC).
+[32]
+The purpose of the HPLC step in the procedure was to separate from one another each of the substances, the presence of which the analysis was designed to detect. This is possible using the HPLC because each of the substances, MTBP, TAA and BTAA has a particular retention time and elutes, if present, at a time different from that of the others. The retention time for each was determined by running standard compounds of each, provided by Wellcome, through the HPLC apparatus and thus the examiners determined that TAA was eluted between 10 and 13.5 minutes, MTBP eluted between 9 and 10 minutes, and BTAA eluted between 7.5 and 8.5 minutes. Apparatus and solvent blanks were run for each tablet batch to ensure there was no contamination or false reading inadvertently introduced with the samples from tablets. The different eluate fractions, taken at times which would provide the isolated substances if they were present, were then subjected to mass spectrographic (MS) analysis in order to determine whether the particular substance was present. I note that the HPLC analysis is necessary in this case, inasmuch as TAA and BTAA, isomers of each other, have the same mass, and hence could not be identified solely on the basis of mass spectrographic analysis.
+[33]
+The mass spectrographic analysis was then carried out on the eluate segments drawn from the HPLC, for machine and solvent blanks as well as for the tablet samples, after each segment had been concentrated by evaporation of the solvent. Through examination of the results of this analysis, the examiners were able to conclude that four of the sample batches of the defendant's tablets showed the presence of MTBP and TAA with no detectable presence of BTAA, and one sample batch showed the presence of MTBP but no presence of TAA or BTAA. It is to be noted that for all samples the eluate fraction corresponding to the BTAA retention time, when tested by MS analysis did not show the presence of BTAA.
+[34]
+To confirm the results of the analysis, the examiners then sent the third eluate segment from lot 20091 (in which MTBP and TAA had been detected), along with the third eluate segment from the extraction blank relating to lot 20091, and a standard sample of MTBP, to Dr. Alwyn Sanders Gilbert, an expert in the field of infrared (IR) absorption spectroscopy and an employee of The Wellcome Foundation. Dr. Gilbert also provided a report and gave oral testimony at trial. The IR analysis, described in the report of the experiment, was carried out contemporaneously with the trace analysis procedure consisting of HPLC and mass spectroscopy testing, and confirmed that MTBP was present in the third eluate segment of lot 20091. The IR analysis also confirmed the reliability of the HPLC segmentation.
+[35]
+The conclusions reached by the examiners were summarized in Ashton's report as follows:
+"Aposulfatrim tablet batches 20091, 9345, 02881, 0067 and 22022 all were shown to contain the compound
+MTBP
+. Its presence indicates that the compound must have been involved in the synthesis of the Trimethoprim.
+"Batches 20091, 9345, 02881 and 22022 were also found to contain
+TAA
+and it is concluded that this compound also must have been involved in the Trimethoprim synthesis.
+"
+None
+of the Batches contain
+BTAA
+." (Underlining in original report)
+[36]
+Other confirmatory testing was done on the fourth eluate segment of lot 20091, found to contain TAA according to the mass spectrographic analysis. This confirmatory testing consisted of rechromatographing this segment, and then subjecting subfractions obtained to mass spectrographic analysis, which clearly revealed the present of TAA. Further, one of these subfractions and eluate fraction 2 both of which had the TAA retention time from HPLC separation, were mixed with a solution containing guanidine and the resulting product assessed by MS measurement and gas chromatography, which clearly identified TMP and analine. Those are the products of cyclization of TAA with guanidine and this process confirmed the presence of TAA in the sample from the defendant's tablet batch 20091.
+[37]
+Counsel for the defendant objected to the testing procedure in two major respects. First, it was argued that the standard samples of MTBP, TAA and BTAA were not properly identified as standard samples. Second, it was argued that the testing apparatus and procedure utilized by the plaintiffs was not sensitive to detect the presence of BTAA at the 10% level in relation to TAA.
+[38]
+The standard samples of the substances sought were obtained from the plaintiff's laboratories. The substances were synthesized at these laboratories, and the evidence is that they were periodically checked, by Dr. Ashton and others, both before and after the testing referred to in this action, for purity and to ensure that the substances had not undergone deterioration. Dr. Anthony John Rollins, a patents manager and European patent attorney within the research and development division of the plaintiff Wellcome, gave evidence that the samples were tested and registered within the Registry of Chemical Compounds, maintained by Wellcome as a reference bank of chemical compounds, and available to the public upon request if the request is considered a reasonable one.
+[39]
+With respect to the standard samples of MTBP and TAA, I accept that the standard samples were authentic, based on the evidence, particularly the statements made by Dr. Ashton that he verified the authenticity of these samples by conducting mass spectrographic analyses, the results of which have been included in the appendices of his report. Such evidence is not hearsay, and there is no reason to disbelieve Dr. Ashton. In fact, Dr. McClelland, an expert witness for the defendant who was critical of the plaintiffs' testing procedures, admitted as much during cross-examination. I therefore conclude that the testing procedures used to establish the presence of these substances in the defendant's tablets is not flawed by reason of the failure to provide additional evidence of the authenticity of the standard samples used in the testing or to provide an independent means of establishing the authenticity of the samples. The argument of the defendant that there is no evidence of the authenticity of these standard samples is rejected. As for the statement made by Dr. McClelland, that "... it is required scientific practice that the compounds have the indicated structure ..." and that "[t]here is no indication given that the samples were so identified", I consider this scientific practice not to be required in the prosecution of an action for infringement in the absence of any evidence of reasonable grounds to question the integrity of the standard samples relied upon.
+[40]
+With respect to the BTAA standard sample used during the testing, the authenticity of that sample is more doubtful than that of the other standard samples tested. The evidence of source and availability to the public is the same as that of MTBP and TAA, and the testimony of Dr. Ashton that he ran tests to determine the authenticity of the samples before and after testing presumably applies to BTAA as well as to MTBP and TAA. I note, however, that Dr. Ashton's confirmatory testing during the course of the analysis of the defendant's tablets was by mass spectrometry, and Dr. Ashton did not run tests of the sample of BTAA to establish the sensitivity of the apparatus to BTAA or to identify the sample BTAA as being authentic BTAA.
+[41]
+While Dr. Ashton's failure to do so may be understandable, given the fact that the mass of BTAA is the same as the mass of TAA, and thus the compounds are indistinguishable by mass spectroscopic analysis alone, it would have been possible to assess the standard sample by means of IR absorption spectroscopy, of the sort carried out by Dr. Gilbert on the third eluate segment of Lot 20091, discussed above. Because BTAA is a substance which is a new substance, not isolated, according to the evidence of Dr. Rollins, until 1974, and whose characteristics were never the subject of public disclosure, the failure to confirm the authenticity of the sample is troubling. Even if true that the sample was taken from a Registry operated by The Wellcome Foundation, to which the defendant might have had access upon request, in my view failure to authenticate the sample of BTAA, as was done with the other standard samples, was a deficiency in the plaintiffs' procedures. Nevertheless, no other ground for doubting the authenticity of the standard sample BTAA was suggested and I am not prepared to find that sample, drawn from Wellcome's Registry of Chemical Compounds was not authentic, at least for the purpose of determining the retention time for BTAA using HPLC procedures.
+[42]
+The second major argument made by counsel for the defendant with respect to the testing procedure utilized by the plaintiffs concerned the sensitivity of the apparatus to BTAA. The argument, based upon testimony of Dr. McClelland, was that the procedure could not detect BTAA at a level of 10% of TAA. The significance of this failure concerns the second patent, '014, specifically claim 14 for the product consisting of the benzyl isomer (in the context of this action, specifically TAA) "substantially free" from contamination with the benzal or benzylidene isomer (BTAA). It was submitted on behalf of the plaintiffs that the presence of less than 10% contamination with BTAA satisfied the requirement of "substantially free", a level supported by the description in the disclosure and accepted by Dr. McClelland, testifying for the defendant, for the purposes of the testing procedures.
+[43]
+I note that the sensitivity of the testing process to detect BTAA by mass spectrometry was not established, although it could have been established and would not have been a difficult step, in the opinion of Dr. Holmes. I accept that the sensitivity to BTAA was a predictable issue, and that Dr. Whalley's estimate was that while 2 nanograms of TAA were required for the presence of that substance to be detected with certainty, 3.5 to 4 nanograms of BTAA were required for its presence to be detected. That estimate was concurred in by Dr. Holmes and accepted by Dr. McClelland.
+[44]
+As indicated, there was a dispute between the witnesses as to whether or not BTAA could be detected at a 10% level. Counsel for the plaintiffs urged that, in view of the dispute, and in light of Dr. McClelland's admission that he had no experience in trace analysis, the evidence of the plaintiffs' witnesses should be preferred to that of Dr. McClelland. That course would simplify matters, but I prefer to consider the issue on the evidence presented. In my view, after a consideration of the basis given for the opinions expressed by the witnesses, I conclude that the procedure devised by the plaintiffs except for testing of one sample, was such that BTAA at a level of 10% that of TAA probably could not be detected, and accordingly the conclusion expressed in Dr. Ashton's report, that "
+None
+of the defendant's tablets contained
+BTAA
+" (Underlining in original report), goes too far.
+[45]
+I cannot accept that merely because Dr. McClelland has no experience in trace analysis of the sort undertaken by the plaintiffs' experts, he is unqualified to form an opinion on the conclusions expressed in the report of the trace analysis carried out by the plaintiffs. Dr. McClelland is a Professor of Chemistry at the University of Toronto, whose research interests over the last decade have been in mechanistic organic chemistry, and in biological and medicinal chemistry, and he was accepted without objection as an expert in these proceedings. He has considerable experience in mass spectroscopy, and as mass spectroscopy was the main analytical method used by the plaintiffs, I accept him as qualified to form an opinion on the plaintiffs' use of that method. It was on the basis of the evidence of the plaintiffs' witnesses respecting sensitivity of the apparatus and interpretation of the results of the analysis that Dr. McClelland reached the conclusion that the procedure utilized by the plaintiffs in their trace analysis did not conclusively establish the absence of BTAA in the defendant's tablets. I accept this conclusion as applying to the tests of all but one sample of the defendant's tablets.
+[46]
+There was a measure of agreement that there was some level at which BTAA might be present in the defendant's tablets which would not be detectable by the procedure used by the plaintiffs. The dispute concerned the level at which BTAA would be detectable. It was accepted for the purposes of the infringement action that the level at which BTAA must be detectable to satisfy the statement in the second patent that the benzyl product, TAA, be "substantially free" from contamination with the benzal or benzylidene isomer, was the 10% level. In order to establish whether or not this was accomplished, one must assess the results obtained in light of the quantities tested and the estimated sensitivity of the apparatus. This is what Dr. McClelland did in his testimony, and upon examining his evidence I conclude that his testimony is persuasive.
+[47]
+Especially crucial in the determination of the presence or absence of BTAA at a level expressed as a percentage of TAA, of course, is the amount of TAA present in the samples. Although it was stated in the report of Dr. Ashton that a sufficient number of tablets were crushed to give approximately one gram of TMP, and that TMP contained TAA at a ratio of 1:5, it would appear that the quantity of TAA found to be present in the tablets was less than the amount which would be present in one gram of TMP at that ratio, i.e., 20 nanograms. The standard sample of TAA, which established the sensitivity of the apparatus to TAA, was approximately 2 nanograms. The evidence of Dr. Holmes was that in the sample of lot 20091, approximately 5 nanograms of TAA was found to be present. In other samples, Dr. Holmes testified that the TAA present, on comparison with the sample analyzed for the sensitivity of TAA, was approximately 2 nanograms. Thus, TAA was present in quantities of between 2 and 5 nanograms in the various lots analyzed. The difference between the amount of TAA which would notionally be present in the sample amount of each lot and the amount of TAA found to be present in the tablets in fact analyzed was apparently due to the concentration of the samples for testing purposes.
+[48]
+Dr. Whalley's evidence, referred to above, was that the procedure used by the plaintiffs was approximately one-half as sensitive to BTAA as it was to TAA, or, conversely, that while one nanogram of MTBP was required to be certain that it was present and approximately twice as much TAA was required to be certain that it was present, three to four nanograms of BTAA would be required in order to be certain that BTAA was present. That is, BTAA in an amount three to four times greater than MTBP would be required to obtain a signal (i.e., a graphic "peak") in MS analysis equivalent to that indicating the presence of MTBP.
+[49]
+The sample from batch 20091 of the defendant's tablets was treated differently than others. In this case because of the decision to run confirmatory tests by IR spectroscopy the sample lot run through the analysis procedures was larger, containing an estimated 5 nanograms of TAA compared with approximately 2 nanograms in the other samples from tablet batches. Those estimates were given by Dr. Holmes and were not disputed. Further, it was his testimony in relation to this sample that if BTAA were there present at a level of 10% of TAA, that would have been detected by the MS procedure followed for it as for all other samples. While much was made of the plaintiffs' failure to test adequate quantities of material from the other batches of the defendant's tablets, and of the failure to authenticate the standard sample of BTAA by MS procedures, I accept Dr. Holmes' conclusion that at least for one sample, from batch 20091, BTAA if present at a level of 10% of TAA would have been detected. That, it seems to me, demonstrates that for one sample batch of the defendant's tablets TAA was detected as present and "substantially free" from contamination with BTAA in the terms described in the disclosure in the '014 patent and in terms of the standard accepted as applicable under the testing procedures here followed.
+[50]
+While the analysis undertaken by the plaintiffs does not, in my view, establish that none of the defendant's tablet batches contain BTAA, I do conclude that the plaintiffs have established that one batch of the defendant's tablets did contain TAA substantially free of contamination with BTAA, as the product patented under claim 14 of the '014 patent is said to be.
+[51]
+I turn now to the issues raised relating to the law of infringement. I deal first with the presumption relied upon by the plaintiffs. Section 39(2) of the
+Patent Act
+[formerly s. 41(2)] provides:
+"39(2) In an action for infringement of a patent where the invention relates to the production of a new substance, any substance of the same chemical composition and constitution shall, in the absence of proof to the contrary, be deemed to have been produced by the patented process."
+[52]
+It will be recalled that it was admitted in the agreed statement of facts that TAA was a new substance. There was no admission that MTBP was a new substance, as alleged by the plaintiffs, but the evidence submitted at trial has satisfied me that MTBP was a new substance at all relevant times.
+[53]
+Counsel for the defendant submitted that there was no evidence as to the processes followed to produce the intermediates used for production of TMP, the medicinal compound used in the defendant's tablets. In my view, this argument is answered by the deeming provision in s. 39(2). On its face, s. 39(2) applies to the patents here in issue. I note that this provision applies to patented processes, on my reading, whether or not the claims for the substances themselves are valid or invalid. Counsel for the defendant did not really address as an issue the application of s. 39(2); his argument was that counsel for the plaintiffs could not contend one subsection of the section (formerly s. 41) was applicable and another not. Indeed that is the case, and just as it is the case for counsel for the plaintiffs, it is equally the case for counsel for the defendant.
+[54]
+I conclude that the plaintiffs are entitled to rely on s. 39(2). In the absence of evidence to the contrary, and in light of the agreed statement of facts that the defendant has no knowledge of the process by which the imported Trimethoprim was manufactured, the intermediates here in issue, MTBP and TAA, found to be contained in the defendant's tablets, must be deemed to have been produced by the patented processes.
+[55]
+Finally, counsel for the defendant suggested that mere importation and use of a product which may have been made outside Canada by utilizing a process which is claimed in a Canadian patent, does not constitute infringement of the claimed process. In so arguing, counsel made it clear that this submission was in apparent contradiction to the
+Saccharin
+doctrine, which was applied by the Exchequer Court in
+ <FRAGMENT_SUPPRESSED>  at 319, that "[b]y the sale of saccharin [an imported product], in the course of the production of which the patented process is used, the patentee is deprived of some part of the whole profit and advantage of the invention, and the importer is indirectly making use of the invention". Noel, J., then applied the reasoning to the facts in the case before him, holding that there would be infringement where an imported product was produced by a process patented in Canada, even if the import was not the same product invented in accord with the Canadian patent.
+[56]
+Counsel for the defendant submitted that this decision was questionable, inasmuch as it was based on
+Saccharin Corp.
+without benefit of consideration of a subsequent qualifying decision in
+ <FRAGMENT_SUPPRESSED>  (Ch. D.). In <FRAGMENT_SUPPRESSED> , Tomlin, J., held that in not all situations does importation of an article produced by a patented process constitute an infringement, but that the extent to which the patented process has played a part in the production must also be considered. It was argued that this limitation of the
+Saccharin
+doctrine is a logical and necessary qualification.
+ <FRAGMENT_SUPPRESSED>  (C.A.) was also relied upon by counsel for the defendant for the proposition that only a "colourable imitation" would constitute infringement in import situations. In that case, it was held that minor variations would not avoid a charge of infringement and in my view <FRAGMENT_SUPPRESSED> does not add significantly to the qualification of <FRAGMENT_SUPPRESSED> on application of the
+Saccharin
+principle.
+[57]
+It was also submitted by counsel for the defendant that the differences between the English and Canadian statutes were such that the
+Saccharin
+doctrine should not be found to be applicable in Canada. Counsel for the defendant made the point that the English letters patent system, under legislation applicable at the time of the decision, granted to the patentee the right "... to make, use, exercise, and vend the invention; and to the end that he may have and enjoy the sole use and exercise the full benefit of the invention all others are precluded from, either
+directly or indirectly
+...". Under s. 44 of the Canadian
+Act
+, however, the grant provides for "... the exclusive right, privilege and liberty of making, constructing, using and vending to others to be used the invention ...". It is argued that as importation of a substance produced abroad by a patented process is an indirect use and enjoyment of the invention, and that as the Canadian
+Act
+does not specifically protect indirect use, the
+Saccharin
+doctrine is not the law in Canada.
+[58]
+The submissions of the defendant do not convince me that the decision in
+ <FRAGMENT_SUPPRESSED>  importation of products manufactured abroad using processes patented in Canada, as the defendant here has done, for sale of products in Canada constitutes infringement of the plaintiffs' patented process. I accept that the extent of the infringing use in the production of the imported goods must be considered, and I believe that Noel, J., was concerned with that point in his decision in
+American Cyanamid
+, as counsel for the plaintiffs submitted. In the words of Noel, J., at 168:
+"... although it appears to me that to find infringement in such a case [i.e., production of an intermediate product] could sometimes lead to a situation where every person would be held to infringe a process patent who uses or sells an article or product imported in Canada in the course of the production of which the product produced by the process patent has been employed whether such use has been of importance or merely incidental in which later case we would be going beyond protecting what is ordinarily termed the substance of the invention, there would appear to be some justification to find infringement where the product used as an intermediary is of importance such as we have here."
+In this case the use of the patented processes in the production of trimethoprim is not merely incidental in light of the presence of the intermediates in the defendant's tablets and s. 39(2). There is support for the principle enunciated in
+American Cyanamid
+by Noel, J., in the comment of Pigeon, J., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145, at 153, and in the comments of Collier, J., in the trial decision of that case, (1974), 15 C.P.R.(2d) 105 at 109-110.
+[59]
+I also reject the defendant's submission that the differences in the Canadian
+Act
+from the English statute do not support the application of the
+Saccharin
+doctrine. The "exclusive right" of "vending" seems to me to be broad enough to encompass situations such as that in this case. This point as well was noted in
+American Cyanamid
+, at 168. The effect of the granting provision, now s. 44 of the
+Patent Act
+, may be summarized, as it was by O'Halloran, J.A., in
+ <FRAGMENT_SUPPRESSED>  full enjoyment of the monopoly granted to the patentee is an infringement".
+Summary Of Findings On Infringement
+[60]
+I would conclude that the process claims in the '825 patent, if valid, are proven to be infringed by the defendant, in the production and sale of its Apo-Sulfatrim tablets. Moreover, if the product claim to MTBP in the '825 patent is valid, that too has been infringed by the defendant's sale of tablets containing TMP derived from the compound MTBP. As each of the lots tested contained MTBP, it follows that infringement is established in each of the cases. With respect to Patent No. 907,014, while I conclude that the testing equipment and procedures were not sensitive enough to establish that the tablets tested did not contain BTAA, in the sample drawn from batch 20091 of the defendant's tablets it is established that batch contained TAA "substantially free", as described in the disclosure of the patent, from contamination with BTAA. Thus, at least for that batch, if the product claim in the '014 patent is valid, the defendant's sale of tablets containing TMP derived from the compound TAA constitutes infringement of that claim. Finally, the process claims of the '014 patent for production of TAA, made without reference to it being substantially free of BTAA, if valid, are also infringed by the defendant in the production of its tablets.
+C. Validity Of The Plaintiffs' Patents
+[61]
+It is necessary in cases of infringement that the plaintiffs rely upon a valid patent. That essential element is directly in issue with the defendant's counterclaim for a declaration that the whole of the '825 patent, and the claims relied upon in the '014 patent, are invalid.
+[62]
+The arguments made on behalf of the defendant with respect to validity of the patents were numerous. The defendant argued that the patents, in claiming the intermediates themselves, were invalid as product claims in light of s. 41(1) of the
+Act
+, as it applied at the date of issue of the letters patent, because the intermediates were "intended for medicine" and the process claims for production of the products did not satisfy that subsection. The defendant also argued that the process claims of both patents were invalid as the specifications were insufficient and ambiguous, in light of the requirements of s. 36, that they contained inoperable processes and included products that lacked utility, and that the inventions claimed were obvious. These arguments are generally common to both patents and I address the arguments as applicable to both.
+[63]
+First, it is appropriate to recall that a patent, once granted, is valid unless it is proven not to be. Section 45 of the
+Patent Act
+, R.S.C. 1985, c. P-4 states:
+"45. Every patent granted under this Act shall be issued under the signature of the Commissioner and the seal of the Patent Office, shall bear on its face the date on which it is granted and issued and shall thereafter, in the absence of any evidence to the contrary, be valid and avail the grantee and his legal representatives for the term mentioned therein."
+(For the record I note that the counterpart of this provision in the
+Patent Act
+, R.S.C. 1970, c. P-4, s. 47, applicable when this action commenced, was different in that the words above quoted in lines 4 and 5, after the word "thereafter" to the words "and avail" read: "be prima facie valid". No argument was raised about this change in wording.)
+[64]
+It must also be remembered that a patent may be valid in part. Section 58 (formerly s. 60) of the
+Act
+provides:
+"58. When, in any action or proceeding respecting a patent that contains two or more claims, one or more of those claims is or are held to be valid but another or others is or are held to be invalid or void, effect shall be given to the patent as if it contained only the valid claim or claims."
+[65]
+With respect to the onus of proof, it has been many times stated that the onus is not an easy one to discharge and it lies squarely on the party alleging invalidity. One such example is the statement made by Cullen, J., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 449, at 460 (F.C.T.D.), after considering the words of Thorson, J., in
+ <FRAGMENT_SUPPRESSED> , at 44 (Ex. Ct.). It would seem that the presumption of validity applies no matter what the ground of attack is:
+ <FRAGMENT_SUPPRESSED> , at 129 (Ex. Ct.), per Thorson, J. Although each of these cases dealt with the provision which formerly stated that a patent was prima facie valid, rather than the current section which provides that a patent is valid unless there is any evidence to the contrary, I do not believe that this change in the statute was intended to change the burden arising under the section.
+1. Subsection 41(1)
+[66]
+The defendant attacked the validity of the product claims in the two patents on the basis that such claims were not permitted by s. 41(1) of the
+Act
+as applicable when the patent was granted. I note for the record that this subsection was included as s. 39(1) of R.S.C. 1985, c. P-4, but before the revised statutes came into force on December 12, 1988 this s. 39(1) was repealed, and replaced by a provision not relevant here by S.C. 1987, c. 41, s. 14 (reproduced as R.S.C. 1985, c. 33 (3rd Supp.) s. 14) with effect from November 19, 1987. In view of these changes the discussion of this argument is related to s. 41(1) as it applied pursuant to R.S.C. 1970, c. P-4 until repealed in 1987.
+[67]
+Subsection 41(1) provided:
+"41(1) In the case of inventions relating to substances prepared or produced by chemical processes and intended for food or medicine, the specification shall not include claims for the substance itself, except when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents."
+[68]
+MTBP, claimed in claim 8 of the '825 patent, and TAA, claimed in claim 14 of the '014 patent, were stated in the patent descriptions to be useful as intermediates in the production of pharmaceutically valuable benzylpyrimidines. The benzylpyrimidine of particular interest in both patents was trimethoprim, or TMP, though two others are mentioned in the description in the '014 patent. The agreed statement of facts stipulates that each of MTBP and TAA is an intermediate in a process for the manufacture of TMP and that the defendant is not aware of any medical use of either MTBP or TAA. Evidence at trial, uncontested, was that there are no medical uses for either intermediate. Of course, TMP produced from either one is the medicine involved. For the plaintiffs it was argued that the intermediates were not substances "intended for medicine" within the meaning of s. 41(1).
+[69]
+The product claims in question are expressed as follows:
+in the '825 patent,
+"8.
+B
+-Methoxy-
+a
+(3,4,5-trimethoxybenzilidene) proprionitrile."
+and in the '014 patent,
+"14.
+B
+-Anilino-
+a
+-3,4,5-trimethoxybenzyl-acrylonitrile, substantially free from contamination with
+B
+-Anilino-
+a
+-3, 4, 5-trimethoxybenzylideneproprionitrile."
+[70]
+The defendant urged that the intermediate products were produced by chemical processes and were intended for medicine. In support of its argument that the claims to the products are invalid because they were not permitted by s. 41(1), counsel for the defendant cited the decisions in
+In the Matter of Applications for Patents by W. et al.
+(1922), 39 R.P.C. 263 (Sol. Gen.);
+In the Matter of an Application for a Patent by E.M.
+(1924), 41 R.P.C. 590 (Sol. Gen.);
+In the Matter of Applications by Glaxo Laboratories Ltd. for Licences in Respect of Certain Patents
+(1940), 58 R.P.C. 12 (Comp. Gen.);
+Re Application No. 965,900
+(1974), 17 C.P.R.(2d) 165 (P.A.B.) and
+Re Application of Jacquet
+(1981), 73 C.P.R.(2d) 181 (P.A.B.).
+[71]
+The first two of these were English decisions based upon then s. 38A(1) of the English
+Act
+, which provided that "In the case of inventions relating to substances prepared or produced by chemical processes, or intended for food or medicine, the specification shall not include claims for the substance itself, except when prepared or produced by the special methods or processes of manufacture described and claimed or by their obvious chemical equivalents".
+[72]
+W. et al.
+concerned an application for a patent for a chemical additive to flour or dough which was said to result in bread of better quality. There were a number of process claims involved, but also a claim for the chemically treated flour or dough. Sir Ernest Pollock S.G., in construing the words "intended for food or medicine", stated, at 268, that the phrase "... means to be used, not necessarily immediately and as they are, but after due preparation -- to be so used when the intention has ultimately been carried into effect, by the preparation, be it by cooking, mixing or other preliminary steps, which lead up to effecting their ultimate purpose, namely, user as food".
+[73]
+The decision in that case was applied in
+E.M.
+, which related to an invention of a chemical compound, a baking powder, to be used in the preparation or the production of a food. Sir Henry Slesser S.G. considered himself bound by the prior decision and held that the application could not be permitted under s. 38A.
+[74]
+The
+Glaxo Laboratories
+decision concerned an application for compulsory licences under two patents claiming the processes for producing thiazolium compounds and pyrimidine compounds. The thiazolium compounds included Vitamin B
+1
+, while the pyrimidine compounds were intermediates in the production of Vitamin B
+1
+. The Comptroller-General, Dr. Lindley, after deciding that Vitamin B
+1
+was both a medicine and a food, turned his attention to the question whether the patent relating to the intermediates, which were not medicines or foods, was one for substances which were nevertheless intended for or capable of being used for the preparation or production of Vitamin B
+1
+. He held that they were, and ordered that a licence be granted.
+[75]
+My own view is that the
+Glaxo Laboratories
+decision is not of assistance in this case. It was decided in the context of an application for a licence, and that context was crucial to the decision. The validity of the patents was not in issue; the issue, instead, was whether the patents, particularly the patent for the intermediate, was one for which a compulsory licence could be granted. The relevant legislation authorized a compulsory licence where the patent was one for an invention intended for or capable of being used for the preparation or production of a medicine or food, parallel to subss. (3) and (4) of the former s. 41 (now s. 39) of the Canadian
+Act
+. I do not think the reasoning of the decision should be applied to situations other than those relating to licensing.
+[76]
+The decisions of the Patent Appeal Board cited by counsel for the defendant,
+965,900
+and
+Jacquet
+, deal with s. 41(1) of the
+Act
+. In the first of these decisions, the Board was confronted with the question whether a claim to an intermediate not limited to a particular process, in the production of a medicine, which had no therapeutic effect per se, could be patented. The intermediate there claimed was useful in the production of penicillins. After considering the English cases
+W. et al.
+and
+E.M.
+, supra, Canadian case law suggesting that "medicine" should be interpreted broadly, and an argument based upon the interrelationship between the various subsections of s. 41 (now s. 39), Chairman Asher held, at 172-173:
+"... The decision of both the Canadian and British Courts suggests that s. 41 and 'intended for medicine' should be given broad interpretations, and on that basis we conclude that intermediates whose only utility is for conversion into medicines should be considered as 'intended for medicine'. ... To grant per se protection to the intermediates would preclude others from developing alternate procedures for making the intermediates and manufacturing the penicillin without being obliged to obtain a licence, whether voluntary or compulsory, from this applicant, if they wish to manufacture the penicillins themselves. In that sense, a per se claim would effectively (if not completely) block the way to manufacture important penicillin products."
+[77]
+Then s. 41(1) was again considered by the Patent Appeal Board in
+Jacquet
+, supra. The case concerned a patent claiming a new class of diamines and their salts. The salts had bactericidal and fungicidal properties, and so were useful as medicines in chemotherapy, but the diamines themselves were useful as intermediates in the production of nonmedical compounds, for example as skin creams. In addition, the salts could be produced by other processes, without starting from the diamines that were claimed. On these facts the applicant sought to distinguish
+965,900
+, in which the intermediates had no nonmedical uses and the penicillins produced through the intermediates could not be produced using alternative processes. The application, however, was rejected. The Board found:
+"Les décisions des tribunaux considérées dans
+Cheney
+[i.e.,
+965,900
+] laissent entendre clairement qu'il convient de donner une interprétation large à l'article 41 et à l'expression 'destinées à la médication' et qu'elle s'applique à tous les précurseurs qui seront convertis en un composé médical. Par conséquent, les diamines libres et les sels des diamines sont destinés à la médication."
+[78]
+Counsel for the plaintiffs argued in the case at bar that the English cases have no application to the Canadian
+Patent Act
+, as the wording in the English
+Act
+differed from the wording in s. 41(1). Specifically, s. 38A(1) of the English
+Act
+in force at the time of those decisions referred to "... substances prepared or produced by chemical processes,
+or
+intended for food or medicine", whereas s. 41(1) speaks of "... substances prepared or produced by chemical processes
+and
+intended for food or medicine". Moreover, counsel for the plaintiff also submitted that in the
+E.M.
+decision the Solicitor General had considered himself bound by the decision,
+W. et al.
+, and had expressed no conclusion on the merits of the issue. Counsel for the plaintiffs also sought to distinguish the English decisions on the facts, in light of the differences in the legislation there applicable, on the basis that they were concerned with intermediates in the production of foods.
+[79]
+Differences between s. 38A of the English
+Act
+applicable at the time of those decisions and s. 41(1) of the
+Act
+, the application of which is here in issue, are noted and caution in adopting the construction of the former in interpreting the latter is urged by Estey, J., in
+ <FRAGMENT_SUPPRESSED>  at 49-51. Nevertheless, the principles underlying the decision in
+W. et al.
+have some relevance to the matter before this court. In that case, the Solicitor General concluded that the subsection was to be interpreted as intending that all substances, those produced by chemical processes and those intended for food or medicine, were to be included in the inventions covered by s. 38A(1) of the English
+Act
+but the principal element of the decision of interest here, in my view, was the interpretation of the words "intended for" in relation to an intermediate substance. As those same words are in s. 41(1), the reasoning in the case is helpful in resolving the matter now before me. In the case at bar there is no dispute that the intermediates with which we are concerned in this case, MTBP and TAA, are both prepared or produced by chemical processes and are utilized in the production of a compound or compounds having therapeutic properties, i.e., medicines, and the patents in suit so described them. Do these circumstances bring these intermediates within s. 41(1) as substances "intended for" medicine, even though they have no therapeutic effect themselves?
+[80]
+Counsel for the plaintiffs admitted that the decisions in the Canadian cases cited,
+965,900
+and
+Jacquet
+, were on point. It was submitted, however, that the decisions merely confirmed a change in policy of the Patent Office respecting intermediates. In light of this policy, to the effect that intermediates in the production of foods and medicines were considered to fall within s. 41, counsel for the plaintiffs submitted that the decisions reached in those cases could hardly have been otherwise, they provided scant authority for the defendant's argument and were in any event wrong, and that the issue had not yet been decided by a Canadian court.
+[81]
+Counsel for the plaintiffs also referred to the Supreme Court decision in
+ <FRAGMENT_SUPPRESSED> ; 3 N.R. 553. In that decision, Pigeon, J., made reference to s. 41(1) at 569-570 S.C.R. While his comments do not address whether an intermediate as in this case is considered to be "intended for medicine", counsel for the plaintiffs interprets the words of Pigeon, J., as implying that the product itself must have a medical use for the subsection to apply. In this instance, Pigeon, J., although casting doubt on the trial judge's conclusion that the product, a conductive cream used in electrocardiograms, was not produced by a chemical process, upheld the finding of the trial judge that the patented product was not "intended for medicine". However, I am unable to interpret the words of Pigeon, J., as support for the plaintiffs' argument for in the passage referred to, specifically the statement that "... Hewlett-Packard had the burden of proving that the product was a medicine", in my view, clearly indicates the issue discussed by Pigeon, J., was not the scope of "intended for", but rather the scope of the word "medicine". In that case it was not agreed that the conductive cream was an intermediate in the production of medicine. In this case the parties expressly agree that the intermediates claimed within the two patents, MTBP and TAA, are intermediates in a process for the manufacture of TMP, a medicine.
+[82]
+In my view, the decision in
+965,900
+has persuasive weight, there being no decision of this or other superior court to the contrary. In the decision, Chairman Asher made an extensive review of the issue which has arisen in the case before me, and I believe that his reasoning is persuasive, even if the decision does give effect to the 1972 statement of policy of the Patent Office.
+[83]
+In attempting to persuade the court that the decision was wrong, counsel for the plaintiffs reviewed former s. 41, and urged that each subsection of s. 41 had a different purpose and that the differences in the subsections should be given effect. It was noted that subss., (3) and (4), which provide for compulsory licensing, speak, in subs. 3 of "... an invention intended or capable of being used" for the preparation or production of food, and in subs. (4) of "... an invention intended or capable of being used for medicine or for the preparation or production of medicine". Subsection (1) speaks only of "inventions relating to substances ... intended for food or medicine". It was argued that chemical intermediates would fall within subs. (4), which deals with compulsory licenses, because of the necessarily broader effect of the added words "or capable of being used". Counsel for the plaintiffs submitted that if the decision of the Patent Appeal Board in
+965,900
+is accepted as being correct, the effect would be to collate the various subsections of s. 41. On the argument that the different wording must be given effect, counsel submitted that chemical intermediates may be "capable of being used" for medicine, but were not "intended for medicine".
+[84]
+I agree that the words "intended for or capable of being used" must be given some broader scope than "intended for". In addition, I accept that the subsections have different purposes. I do not accept however, that by finding that a substance whose only use is as an intermediate in the production of medicines falls within the definition of a "substance intended for medicine" collates the subss. (1) and (4), or in any way deprives the words "or capable of being used" in the latter provision of any meaning. This argument was addressed by Chairman Asher in
+965,900
+and I adopt his conclusion (at 171):
+"A principal argument developed by the applicant hinges upon the differences in the language used in s. 41(1)(3) and (4) of the
+Act
+... It must be remembered, however, that 41(3) and (4) differ in another important respect from 41(1). They deal with 'inventions' broadly while the latter 41(1) deals with inventions which are substances ... Section 41(3) and (4) would cover, for example, a mechanical blender capable of being used for the preparation of medicine. They are not restricted to 'substances', as is 41(1). While we agree with the applicant that the two phrases are of different scope, we do not see that the difference is that which he has ascribed to them."
+[85]
+I add as a gloss that even if one considers solely the addition of the words "or capable of being used" in subs. (4), one may infer a distinction between intention and capacity. There may well be situations in which a substance may be intended to be used for some other purpose, but which may have an unintended incidental use as an intermediate in the production of a food or medicine. If the distinction is made between the substance's intended use and a use to which the substance may be applied, i.e., for which it is capable of being used, one may attribute a clear meaning to the words "or capable of being used". The facts in this case do not fall into that hypothetical situation.
+[86]
+Here, the intermediates were developed with the specific intention of utilizing them as intermediates in the production of medicines. The only utility claimed for them in the patents in suit, speaking generally, is for their efficacy in that process. Perhaps not all compounds produced with that intent would be found to fall within s. 41(1), for example if their use in the ultimate production of a medicine were found to be incidental to or remote from the ultimate steps in production. Here, as the '825 patent sets out in its description, the intermediate MTBP requires only one further process step, a final step similar to that claimed in claim 97 of the '014 patent concerning the intermediate TAA, that is cyclization with guanidine, to produce TMP, the ultimate medical product with therapeutic value. As a result, I find that the intermediates in this case are both intended for medicine.
+[87]
+Moreover, my conclusion that chemical substances developed with the intention to serve as intermediates in the production of medicine are substances "intended for medicine" accords with my interpretation of the plain meaning of those words as used in s. 41(1). I note the comment of the Patent Appeal Board in
+965,900
+(at 173):
+"If it had been meant that s. 41(1) applied only to substances which are themselves medicines, we believe the subsection would have read 'substances prepared or produced by chemical processes which are foods and medicines'. The fact that the expression 'intended for food or medicine' was used instead clearly suggests that something more is involved."
+[88]
+"Intended" is defined in the
+Shorter Oxford English Dictionary
+(3rd Ed. Rev. 1986), in part, as "purposed, designed, meant" and "intend" is defined, in part, as "to have a purpose or design ... to have in the mind as a fixed purpose, ... to design (a thing) for some purpose ...". I have no question that, and I so find, from the description of the patents in suit and from the evidence that the only known use of MTBP and TAA is in the production of TMP, a medicine, that MTBP and TAA were "intended for medicine" as those words were used in s. 41(1) as it applied until 1987.
+[89]
+In reaching this conclusion, I have considered the fact that the policy of the Patent Office until 1972 was said to be to accept as not governed by s. 41(1), patent applications which claimed chemical intermediates, i.e., product claims, where the products were used in the production of foods and medicine. From 1972 that policy was different. Patent Office notices concerning intermediates for medicine are found at (1972), 6 C.P.R.(2d) 250, and subsequent changes are found at (1974), 13 C.P.R.(2d) 221. These notices, of Patent Office practice, provide that these intermediates are subject to then s. 41(1) and that they are acceptable only if made in process dependent form. I appreciate the fact that both of the plaintiffs' patents in this case were granted prior to the implementation of the policy change by the Patent Office. Counsel for the parties agreed that the policy of the Patent Office did not have the force of law. It may well be that the change in policy exposes to challenge patents granted prior to 1972 in respect to product claims to intermediates. Nevertheless as I construe s. 41(1) the policy adopted in 1972 is not inconsistent, indeed it is consistent, with the wording and meaning of that provision, so far as that policy related to intermediates produced by chemical processes and intended for medicine. Neither the policy prevailing before 1972 nor the change in policy is a factor directly relevant to the interpretation of the statute.
+[90]
+One aspect of s. 41(1) is its construction in light of the final phrase qualifying the prohibition of product claims for substances prepared or produced by chemical processes and intended for food or medicine, i.e., "
+except when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents
+". Do these words support the interpretation in the Patent Office practice statements of 1972, 1973 and 1974 that intermediates used for production of medicine may be claimed only in a process-dependent form and the process must be separately claimed in a claim that is "particularly described"? That would seem to be the reading of s. 41(1) by Rand, J., in <FRAGMENT_SUPPRESSED> , supra, (at p. 56 [1948] S.C.R.) but the issue was not directly raised in that case in light of the form of the claim there in issue. I note that in the case at bar the product claims relied upon by the plaintiff in patents issued before 1972 are in each case claims to a product per se, without reference to the process claim upon which the product is dependent.
+[91]
+In the alternative, does the qualification in s. 41(1) mean that where there is a claim to a product otherwise within that provision, i.e., to a product resulting from chemical processes and intended for food or medicine, that claim may be valid if the specification, aside from the product claim itself, relates that claim to a process claim that is particularly described? In my view the latter interpretation meets with requirements of s. 41(1), and the fact that the product claim is not in process-dependant form does not in itself invalidate a potential product claim. This may have particular significance in relation to patents granted prior to 1972 which contain product claims not in process dependant form.
+[92]
+In my view, the requirement of s. 41(1) is met where the process claim relied upon met the requirements of s. 41(1) and of s. 34, assuming the specification relates the product claim to a process claim either by the product claim being in process dependent form or by that dependency appearing from the description of the invention included in the patent. Subject to any conclusions made in relation to other grounds of invalidity urged by the defendant in relation to the process claims, as I construe the patents in suit that latter qualification is met, with the descriptions and examples pointing, for the chemist skilled in the art, to follow the process leading to production of the products, the intermediates, claimed.
+[93]
+The product claims depend for validity upon the validity of the process claims by which the intermediates are produced, which process claims must meet the qualifications of s. 41(1) of being "methods or processes ... particularly described and claimed or their obvious chemical equivalents". The adequacy of the process claims contained and here relied upon by the plaintiffs in the two patents in suit, in terms of then s. 41(1) of the
+Patent Act
+was contested by counsel for the defendant who urged that the words "particularly described" in s. 41(1) mean somewhat more than the requirements for specifications in patents as established by s. 34 (formerly s. 36) of the
+Act
+. That would be inconsistent with the construction of the subsection by Estey, J., in <FRAGMENT_SUPPRESSED> , supra (at p. 49 [1948] S.C.R.) who found the intent of the concluding words of s. 41(1) to be that the application for a patent "should describe the method or process and claim a patent therefor in the manner specified in s. 35" (now s. 34) of the
+Act
+.
+[94]
+The purpose of s. 41(1), as described by Rand, J., in
+ <FRAGMENT_SUPPRESSED>  at 222, was:
+"The legislative policy underlying the subsection to be gathered from its special terms and the section as a whole is obvious: all new substances, apart and as distinguished from processes are, in the public interest, to be free from legalized monopoly, the conclusive evidence of which is the fact that no new substance may alone be patented; all unpatented processes are open to be used to produce the substance patented with its new process, with only the new process protected."
+That purpose, it seems to me, requires that the process as referred to in s. 41(1) as "particularly described and claimed", be set out in terms that directly describe the processes claimed, in distinct and explicit terms as s. 34(2) provides. In other words, process claims referred to in s. 41(1) must be specific for production of the substance claimed, not claims to a process that may include that and other substances.
+[95]
+Even if I am wrong in this construction of ss. 41(1) and 34(2) when read together, there is in this case a specific criticism of claim 4 in the '825 patent, here relied upon as the process claim for production of the claimed product MTBP under claim 8, in that it is said to be incomplete. It is urged that in itself it does not, if followed, result in production of MTBP; that product is only isolated by a further step not included in claim 4 but rather as outlined in Example 3 following the description in the specifications. That submission is based upon testimony of Dr. Whalley, the plaintiff's expert, in cross-examination, in relation to claim 4. That testimony related to methods by which MTBP, discovered in the defendant's sample products, was produced, and then discussion turned to the process for production of MTBP under the '825 patent. It was as follows:
+"Q.	You don't know what solvent was used, do you?
+A.	I do not know which solvent was used, but the claim, the process claim clearly states the claim comprises condensing analdahyde, that formula in the presence of a sodium alkoxide dissolved in a lower alcohol solution.
+Q.	You don't know whether it was condensed in the presence of sodium alkoxide solvent dissolved in a lower alcohol solution; do you?
+A.	No.
+Q.	When you testified that the MTBP had been isolated that was your evidence yesterday?
+A.	Correct.
+Q.	There is nothing -- I am going to suggest to you, Professor Whalley, there is nothing in this patent which identifies the MTBP as having been isolated. You have an oily mixture, haven't you?
+A.	I am not clear as to your question, sir. I am not, sorry. Would you kindly rephrase it?
+Q.	The best that Burroughs Wellcome could do was to produce the MTBP through a route which was exemplified in example 3; isn't that correct?
+A.	Correct.
+Q.	And that route required that the produced -- the ethoxy compound was refluxed with ethanol with a catalytic amount of sodium methylate ...
+A.	That was the process claim.
+Q.	It is not a process claim. The process claim requires -- this is a further step in the process, isn't it?
+A.	Yes.
+Q.	So you don't produce it by example 3. You produce it -- you produce it in accordance with example 3. I beg your pardon.
+A.	Example 3 is the one with 3,4,5-trimethoxybenzaldehyde, yes. This used sodium methoxide in alcohol.
+Q.	No, it didn't.
+A.	It says so, sir. Example 3 says: '... 3, 4,5-Trimethoxybenzaldehyde and ...
+B
+-ethoxypropiononitrile were added to a solution of 42 g. sodium methoxide in 2100 ml. anhydrous ...'
+Q.	I beg your pardon? What you got out of that was the
+B
+-methoxy; isn't it?
+A.	What one isolated from that was the
+B
+-methoxy.
+Q.	But you then had to reflux with the methanol with the sodium methylate to get the methoxy; isn't that correct?
+A.	That is what was done in that particular case, correct.
+Q.	You got an oily product, correct?
+A.	Yes, that is correct, sir, but the oily product partially crystallizes. You will see that at the bottom of page 6.
+'Partly-crystalline in 3,4,5-trimethoxybenzal ...'
+Which for your purposes we are calling benzylidenenitrile.
+Q.	Partly crystalline?
+A.	It states that in the fourth line from the bottom of page 6, sir.
+Q.	Partly crystalline, that is good enough for you, is it?
+A.	No, I am merely stating, sir, to you, that which it states in the patent because you stated to me, if I understand you correctly, that it was an oil. I am pointing out it was partly crystalline.
+Q.	We are talking about the
+B
+-methoxy, not talking about benzaldehyde. We are talking about this
+B
+-methoxy here?
+A.	I appreciate that, sir.
+Q.	The only way you have got the solid MTBP was by the exchange which was the last step there; isn't that correct?
+A.	Yes, sir.
+Q.	You only got an oily MTBP by condensation, correct?
+A.	Correct."
+[96]
+That testimony, it seems clear to me, acknowledges that claim 4, as a process claim for production of MTBP is incomplete. It does not meet requirements of s. 34(1)(e) of the
+Act
+requiring an applicant for a patent "in the specification of his invention ... particularly indicate and distinctly claim the part, improvement or combination that he claims as his invention". Nor does it meet the requirements of s. 34(2) that a claim state distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege.
+[97]
+Dr. Whalley testified that one skilled in the art could follow the process outlined in the specifications and produce the product claimed. As we shall note, that opinion was not shared by Dr. McClelland, the defendant's expert. But even accepting Dr. Whalley's opinion, that does not establish that the claim in question meets the statutory requirements for setting out the claim distinctly and in explicit terms. Here claim 4, a generic claim, omits reference to the specific starting compound and the reacting compound which the plaintiffs' own evidence acknowledges are the bases for producing MTBP, and it omits as well the final step in the process acknowledged by Dr. Whalley's evidence as necessary from Example 3 to produce MTBP. The whole of the process as described in the disclosure, the example and claim 4, may be adequate for one skilled in the art to follow, but that process is not distinctly and explicitly claimed as required under s. 34. In my view claim 4 of the '825 patent is not a distinct and explicit claim to the process for production of MTBP, the product claimed in claim 8, as required by s. 34(2). Thus, claim 4 is not a valid claim to the process for production of the intermediate MTBP.
+[98]
+Since there is no claim to the process in terms required by s. 34, there is no claim particularly describing the process for production of MTBP as required by former s. 41(1). Thus, the claim to the product MTBP, is not a valid claim under former s. 41(1). The situation is similar to that in <FRAGMENT_SUPPRESSED> where no claim was made to the process though the process was included in the description of the patent.
+[99]
+The defendant raised one other argument in relation to claim 97 of the '014 patent, the process claim to the method of production of TMP by cyclization of TAA with guanidine. It was urged that a claim is not sustainable under s. 41(1) where the product is old, or known, even if it is produced by a new process, a principle said to be supported by
+ <FRAGMENT_SUPPRESSED>  (1955), 23 C.P.R. 1 and
+ <FRAGMENT_SUPPRESSED>  product that is not new, but it is not apt in relation to a claim for a process that is new. Simply put, a claim to an old product is not sustainable because the product is not an invention, however, it may be produced. But that has no bearing on the validity of a claim to a new process for production of a known product, e.g., claim 97 in the '014 patent here relied upon for production of the known product TMP. No claim was here made to TMP as a product. Section 41(1) did not require that there be both a claim to a new product and also a claim to a new process before a process claim could be patented. Indeed, it had no direct reference to prohibiting a process claim: rather, its prohibition is directed to a product claim that is made without reference in the specification to a "particularly described" process claim. Where there is no claim to a process from which a claimed product is produced the product claim is prohibited under s. 41(1): ( <FRAGMENT_SUPPRESSED> .) Where a process claim is included it must be valid if the claim to the product produced by the process is to be valid: (
+ <FRAGMENT_SUPPRESSED> .)
+[100]
+I sum up my consideration of the arguments relating to the former s. 41(1) of the
+Act
+. I find that provision applicable to both patent claims for production of intermediates. Claim 8 in the '825 patent, relating to the product MTBP, is not a valid claim because it is not supported by a distinct and explicit process claim for its production. As for the '014 patent, in construing the document earlier I have noted that claim 39, the process which yields TAA, is a claim to a specific process, through defining the scope of other process claims upon which it is dependent. Thus, claim 14 of the '014 patent, to the substance TAA, is not invalid because of failure to claim the specific process for its production. If the process claim 39 in the '014 patent is not valid for other reasons, not yet explored, then claim 14, to the product TAA, would also be invalid.
+[101]
+I turn next to the defendant's arguments that the process claims upon which the plaintiffs rely are insufficient in light of s. 34 (formerly s. 36) of the
+Act
+. The validity of those claims is essential if they and the product claim 14 in the '014 patent are to provide the foundation for the plaintiffs' action for infringement.
+2. Specifications, Insufficiency And Ambiguity
+[102]
+Section 34 (formerly s. 36) sets out the requirements for a proper specification of an invention. That section provides in part,
+"34(1) An applicant shall in the specification of his invention
+(a) correctly and fully describe the invention and its operation or use as contemplated by the inventor;
+(b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it appertains, or with which it is most closely connected, to make, construct, compound or use it;
+. . . . .
+(d) in the case of a process, explain the necessary sequence, if any, of the various steps, so as to distinguish the invention from other inventions; and
+(e) particularly indicate and distinctly claim the part, improvement or combination that he claims as his invention.
+"34(2) The specification referred to in subs. (1) shall end with a claim or claims stating distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege."
+[103]
+It is trite law that under this section the specification of the patent comprises both the descriptive disclosure and the claims. They must be read together in light of the state of the art at the date of the patent:
+ <FRAGMENT_SUPPRESSED> ; 3 N.R. 553, at 559-560 S.C.R. per Pigeon, J. The difficulties involved for an inventor, who must describe the invention with sufficient care so as to avoid both claiming too broadly, as alleged in this case, as well as too narrowly, are discussed in that case by Pigeon, J., for the court at 565:
+"It is stressed in many cases that an inventor is free to make his claims as narrow as he sees fit in order to protect himself from the invalidity which will ensue if he makes them too broad. From a practical point of view, this freedom is really quite limited because if, in order to guard against possible invalidity, some area is left open between what is the invention as disclosed and what is covered by the claims, the patent may be just as worthless as if it was invalid. Everybody will be free to use the invention in the unfenced area. It does not seem to me that inventors are to be looked upon as Shylock claiming his pound of flesh."
+Pigeon, J., then stated that in view of the requirement that the notional addressee of the patent is a person skilled in the art, any unsuitability of certain combinations coming within the language of the specification does not render a patent invalid for that reason, when the unsuitability stems from well-known properties that can be taken as being within the knowledge of any person skilled in the art.
+[104]
+While the court must not be overly technical in its construction of a patent, it is nevertheless the case that the proper disclosure of the invention is the consideration given by the patentee in exchange for the grant of a patent. The primacy of s. 34 (formerly s. 36) and the importance of proper disclosure was discussed by Lamer, J., as he then was, in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 257.
+"In Canada the granting of a patent means the kind of contract between the Crown and the inventor in which the latter receives an exclusive right to exploit his invention for a certain period in exchange for complete disclosure to the public of the invention and the way in which it operates. The state of Canadian patent law may be summarized as follows, adopting the observations of Harold G. Fox,
+Canadian Patent Law and Practice
+(4th Ed. 1969), at p. 163:
+'The consideration for the grant is double: first, there must be a new and useful invention, and secondly, the inventor must, in return for the grant of a patent, give to the public an adequate description of the invention with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired. The function of the description contained in the specification is both to enable the construction and use of the devices contained therein after the expiry of the patent, and also to enable others to ascertain with some measure of exactness the boundaries of the exclusive privilege upon which they may not trespass during the exercise of the grant.'"
+The latter purpose was again stressed by Lamer, J., referring to s. 34 (then s. 36) as "... enacted so competitors could know the limits within which they should avoid infringing the subject of the invention and be aware of their freedom of manoeuvre when they work in an area related to that of the patentee". He then stated the test for determining when disclosure is complete, at 1638 (S.C.R.):
+"The applicant must disclose everything that is essential for the invention to function properly. To be complete, it must meet two conditions: it must describe the invention and define the way it is produced or built (Thorson, P., in
+ <FRAGMENT_SUPPRESSED>  invention and describe how it is put into operation. A failure to meet the first condition would invalidate the application for ambiguity, while a failure to meet the second invalidates it for insufficiency. The description must be such as to enable a person skilled in the art or the field of the invention to produce it using only the instructions contained in the disclosure (Pigeon, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 563;
+ <FRAGMENT_SUPPRESSED> , at p. 1113) and once the monopoly period is over, to use the invention as successfully as the inventor could at the time of his application (
+Minerals Separation
+, supra, at p. 316)."
+[105]
+Both possible defects in the disclosures, referred to by Lamer, J., are alleged by the defendant in regard to the two patents in suit. It is said the specifications do not sufficiently describe the invention, with the result that a person skilled in the art will not be able to reproduce the desired products claimed in the inventions and it is also said the specifications are too broad, that is, in each case the specifications claim more than the invention, with the result that a person skilled in the art will not be able to know whether he or she is infringing the patent or not.
+[106]
+Deficiencies alleged in the specifications were numerous, for each of the claims relied upon in the two patents. Those included not only the product claims but also the principal process claims, i.e., claim 4 in the '825 patent relied upon for the production of MTBP, claim 27 in the '014 patent, a process claim upon which claim 39 ultimately depended for production of TAA, and claim 97, in turn dependent upon 96, in turn upon 56 and ultimately upon claim 27, for production of TMP by cyclization of TAA with guanidine. Some of the deficiencies alleged were said to arise from claims too broadly stated for some of the processes claimed were said to be inoperable and others were said to lack utility in the patent sense. Those deficiencies alleged are dealt with below in discussion of inoperability and inutility. Here our concern is with insufficiency in the specifications in other ways alleged, concerning in particular the alleged consistency of the description and the claims, and whether from the text of the patent the chemist skilled in the art would be capable of reproducing the invention claimed and would be aware of the boundaries claimed for the inventions.
+[107]
+All of the process claims were said by the defendant to be generic, vaguely defined and ambiguous, with claim 4 of the first patent said to produce 100,000 compounds, claim 27 of the second patent in all seven processes there set out said to produce 10,000,000 compounds and 27(a) itself said to produce 1,000,000 compounds. Claims 39 and 97, each dependant upon other process claims and both ultimately upon 27, were subject to similar criticism. Despite these broad claims only three end products, mentioned in the patent, including TMP, had been accepted for pharmaceutical use with humans or animals at the time of application.
+[108]
+Concern about the breadth of claims generally requires some further evidence, for example of inoperability or inutility, and the defendant's arguments related to those additional grounds are considered later in these reasons. The breadth of a claim is not per se a ground of invalidity (Pigeon, J., in
+ <FRAGMENT_SUPPRESSED> , at 160-161 C.P.R. (F.C.T.D.)). In the case at bar, the defendant's criticism of the breadth of the claims in the patents in suit was directed in the main to issues of operability and utility, not to lack of consonance between the claims and the description in specifications. I find there is no basis to dispute the claims as extending beyond the description of the specifications.
+[109]
+Other deficiencies in the process claims of both patents were alleged by the defendant. These included failure to specify reaction conditions, failure to isolate the specific compound claimed, failure to identify with precision the products produced and thus failing to provide a means for a skilled chemist utilizing the inventions to ascertain and confirm that he had reproduced the substances claimed. In addition it was said that terms used in the specification, without definition or standards, were vague and ambiguous.
+[110]
+Resolving these issues raised by the defendants requires resolution of the conflicting evidence of expert witnesses. Dr. Whalley, for the plaintiffs, made clear that in his view a person skilled in the art, reading the patents in context, with the intent of understanding would be able to determine the steps to be followed in order to produce the claimed processes and products. That evidence was in direct contradiction to that of Dr. McClelland, for the defendant, who submitted that a person skilled in the art would not have been able to follow the patents and achieve the results claimed as invented.
+[111]
+For the defendant it was urged that the products claimed in both patents were not isolated and identified adequately. In Dr. McClelland's view the fact that the first step of the '825 patent under claim 4 produced an oily substance was an indication that two isomeric compounds were present and the plaintiffs had failed to produce either one. This failure meant it would be impossible for a skilled chemist utilizing the processes described in the patent to know whether the substance also claimed as an invention had been reproduced. In the '014 patent the claim to TAA "substantially free of the benzal isomer" was avoidably vague. There was implied criticism of the lack of definition or description of the benzal or benzilidene isomer, BTAA, and moreover the evidence was that it had not been isolated until after the grant of the '014 patent. In light of the fact that MTBP and TAA were claimed as new substances, it was Dr. McClelland's view that their respective properties should have been provided in greater detail in the patents, for identification by those who would follow their processes. I note that the evidence relating to MTBP, as I understood it, was clear that two geometric isomers of the compound MTBP were present in the compound claimed under the '825 patent, and further that reaction with guanidine was satisfactory in yielding TMP. Thus it does not seem of concern to the plaintiffs or relevant to their claims in relation to that patent, whether or not the compound was isolated in a particular isomeric form.
+[112]
+Reaction conditions were considered vital by Dr. McClelland both for the process claims and for achieving the products claimed, yet in his view, supported by numerous references to the descriptions and the examples in the specifications of both patents, the plaintiffs had frequently failed to disclose these. Dr. Whalley admitted that reaction conditions might be crucial but his view was that the chemist skilled in the art could follow the processes set out in the patents.
+[113]
+Dr. McClelland in his report (para. 64) draws attention to a paragraph in the disclosure of the second patent, which states:
+"The compounds according to formula (V) or (VIII), respectively, may be prepared by a wide variety of methods. The actual choice between these methods in any particular instance depends primarily on the reactivity of the compound obtained, and the further processing to which it may be subjected to provide compounds such as pyrimidines of clinical utility, the further processing being itself governed to a great extent by the nature of the amino group NR
+5
+R
+6
+, this acting as a leaving group in the further reactions."
+He then states that in his opinion, "the characterizing of the solvents and reaction conditions are critical to the success of the condensation of the benzaldehyde with the proprionitrile [sic]". In support of that statement, he refers to certain of the plaintiffs' documents produced during discovery (and which are subject to the confidentiality order granted by this court), which related to the course of the research undertaken by the plaintiff Wellcome, to illustrate that under certain conditions, the reactions would not proceed. His testimony at trial was to similar effect. Again, where reaction conditions are specified, for instance at page 10 of the '014 patent, it is the view of Dr. McClelland that they are all too often avoidably obscure.
+[114]
+It is my view that the passage quoted above should be considered in the context of the patent as a whole. While there are no reaction conditions specified in this passage, reactions are described in the passage which follows it in the following terms:
+"Compounds according to formula (V) or (VIII) can be prepared by a method provided by the present invention, which comprises reacting the corresponding benzaldehyde with the corresponding
+B
+-aminopropionitrile in the presence of a base in a polar aprotic solvent compatible with and dissolving both reactants.
+"Polar aprotic solvents suitable for the purpose include hexamethylphosphoramide and
+N
+,
+N
+-dimethylacetamide, but best results have been obtained with dimethylsulphoxide as the solvent. Bases required for the reaction include the hydroxide, the alkoxides, especially the lower alkoxides, preferably the methoxide or
+tert
+.-butoxide anions, and the methylsulphinyl carbanion, used in association with a suitable cation, such as an alkali metal (e.g., sodium or potassium) or a quaternary ammomium cation (e.g., N-benzyl-N,N,N-trimethylammonium)."
+[115]
+Thus, reactions are specified and preferred reactions are identified in the disclosure in this case. While they may not be set out with the specificity of detail that Dr. McClelland's standards would provide, the reactions are in fact described, both in the disclosure proper and in the examples of the two patents in issue which in a number of cases refer to reaction conditions.
+[116]
+The patents in suit were agreed by the experts testifying on behalf of both parties to deal with common types of reactions which would have been familiar to those skilled in the field. Indeed, this view underlies the defendant's claim that the processes claimed were obvious, not inventive. Here what was inventive was the reacting of the particular reactants chosen by the patentee and the discovery that the intermediates created could be used as intermediates in the production of chemotherapeutically valuable compounds. Obviously the specific reaction conditions for these particular reactants must be understood, but in large measure, given the fact that the reactions themselves were not new, these could be worked out. It is my conclusion that the patents set out with sufficient particularity the reaction conditions.
+[117]
+Inter-related with alleged deficiencies in the specifications of detailed information of the characteristics of the compounds claimed and of failure to specify reaction conditions, the defendant submitted that the specifications were vague and ambiguous in the sense that the chemist skilled in the art could not follow the processes or could not be assured that the intermediates claimed were obtained. Stated yields of reactions were not consistently stated, and when stated were not substantiated; instead yields were indicated as satisfactory or not so. Information about the products of processes as in the case of MTBP under the '825 patent indicated the products were impure. The definition of TAA as "substantially free of the benzilidene isomer" in the '014 patent, was not sufficiently defined. Yet I record that in considering the matter of infringement counsel had no difficulty accepting the statement from the description in the patent that contamination by less than 10% with the benzilidene isomer was the basis of the plaintiffs' product claim. Finally, the use of such terms as "unexpected stability" and "high reactivity" were said to be too imprecise to permit one following the patent to ensure the processes were followed or the products claimed were achieved.
+[118]
+I interpret the arguments relating to insufficiency, based upon the criticisms of Dr. McClelland, as falling within two classes: those concerning a lack of evidence to verify that what is claimed to be invented is in fact produced by following the processes set out, and those concerning vagueness of the disclosure of processes. With respect to the testimony regarding the failure to support with scientific evidence the teachings of the patents, I conclude that the defendant's arguments are based on standards inappropriate to the basic requirements of a patent. In my view standards for patent specifications are not the same as those in academic scientific literature and my conclusion is that many of Dr. McClelland's criticisms were related to academic standards. The criticisms presuppose that a person skilled in the art must not only be able to reproduce the results stated to flow from following the processes claimed in the patent, but must also be provided a means to verify that those results have been achieved. The substances produced by the teachings of these patents include new substances, it is true, and in such cases a chemist skilled in the art must be able to know what is produced. Yet a lack of data that would serve to verify the product, desirable as that may be for one working in advanced sciences, is not a requirement of the law of patents, at least not in the type of proceedings with which the court is here faced.
+[119]
+One must recall that the burden of proving invalidity rests upon the party alleging invalidity. Once registered, of course, a patent attracts the presumption of validity contained in s. 45 (formerly s. 47) of the
+Patent Act
+. The complaints going to the failure to provide a means of identifying the compounds said to be produced through the process claims of the patents in suit, indirectly impeach the operability of the reactions. It is another manner of arguing that even if the reaction proceeds, one has no way of knowing that the patent produces what it claims will be produced. At its best this argument raises a doubt that what is claimed to be produced is not produced. As such, the defendant's argument does not satisfy the element of proof required to displace the onus resting upon it.
+[120]
+With respect to criticisms concerning vagueness, it is true that if the specification is so vague as to prevent a person skilled in the art from carrying out the processes claimed, or from producing the products claimed in the patent, then the patents may be invalid for failing to meet the requirements of s. 34 of the
+Act
+. In order to resolve this issue, the court must resolve the conflict in the evidence of the experts. Drs. McClelland and Whalley, because in effect one must here assess whether the "context" of the patents, and the common knowledge which the chemist as notional addressee will possess, would lead him or her to the results stated to be achieved in the patents, without unwarranted or unnecessary experimentation. Of particular concern here are the reaction conditions, which Dr. Whalley admitted may be crucial to the outcome of the reactions. Accepting that they may be, the court must then assess whether they were specified with sufficient particularity that a chemist skilled in the art could follow the processes set out in the patents.
+[121]
+Dr. McClelland's objections relate as much to his view that the invention as set out is overly broad and that certain of the reactions performed by a skilful chemist utilizing the knowledge possessed by a skilful chemist would not lead to the results which the patents teach will be produced. This aspect of Dr. McClelland's complaints will be examined in the following section, relating to operability. Suffice it to say that I am not persuaded by the evidence adduced or the argument by the defendant that the specifications are so vague, insufficient or ambiguous in failing to set out details required that a chemist skilled in the art would not be able to carry out the instructions of the patent. In my view the evidence of the plaintiffs' expert, Dr. Whalley, must be preferred to that of Dr. McClelland on this issue.
+3. Inoperability And Inutility
+[122]
+It was against the background of the very substantial number of possible substances resulting from the process claims of the two patents, all of which claims were said to be generic and not limited by reference to specific substances produced by the processes, that the defendant's arguments concerning inoperability and inutility were raised.
+[123]
+For the defendant it was urged that the process claims in each of the patents included some which were inoperable both in chemical and in therapeutic terms. Counsel submitted that operability must be established on the basis of the stated utility of the invention, namely that the substances produced by the patented processes would serve as effective intermediates in the production of pharmaceutically valuable benzylpyrimidines. It was urged that it is the utility of the end products, the benzylpyrimidines, which convey utility to the intermediates; unless there be such utility the processes should be considered not only as lacking utility but inoperable in any reasonable sense.
+[124]
+I find it more helpful to deal with the arguments about inoperability divorced from the concept of inutility so far as that is possible. Inoperability in this sense means that the processes of the patents do not work in accord with the implied promise, as indicated in the patents that they will operate, without assessing whether the processes have utility. If the patent claims a process that does not in fact work the claim is too broad because its promise fails. If a patent claims a process that does work but has no reasonable prospect of commercial or industrial application it fails not because it is inoperable but because it lacks utility and in that sense the claim may be said to be too broad, for the process lacks substance; it is not an invention, since it is not useful, a requirement of an "invention" under s. 2 of the
+Patent Act
+.
+[125]
+In attacking the chemical operability of the plaintiffs' patents, counsel for the defendant relied upon the report and testimony of Dr. McClelland. Some of that evidence has already been referred to tangentially in discussion of insufficiency, in particular Dr. McClelland's concerns about lack of specified reaction conditions and detailed testing data of products produced by the process claims.
+[126]
+Dr. McClelland was of the opinion that in a number of circumstances substances falling within the general classes of reactants specified in the patents would not give the results that were there stated would follow. In other words, the reactions would not work if certain of the reactants not explicitly excluded were chosen. The assertions made by Dr. McClelland concerned both patents, in light of the substantial similarity between the processes relating to what was referred to as the first step, the condensation step, in both inventions. Indeed, Dr. McClelland made the point that the substituents permitted by the plaintiffs' second patent were a subset of the wider class of substituents permitted in the plaintiffs' first patent, the '825 patent. As most of the attacks on the chemical inoperability concerned the choice of substituents in the benzaldehyde reacted in the first step of the reaction of both inventions claimed, an attack on the operability of the reactions included in the specifications of the second, '014 patent, applies a fortiori to the first patent.
+[127]
+Para-nitro substituents were considered to be troublesome by Dr. McClelland. His evidence was to the effect that derivatives in which the substituted benzaldehyde contains a nitro substituent are inoperable, because of the great probability that the reactive component will be the nitro substituent and not the benzaldehyde. Referring to the '014 patent, Dr. McClelland stated that the passage on pages 7 and 8 of the patent's description outlining the possible and preferred substituents in the
+B
+-amino group NR
+5
+R
+6
+of formula (V) (i.e., the
+N
+-substituted
+B
+-amino-
+a
+-benzylacrylonitriles which are the subject of claim 1) "... does not exclude para-nitro substituents which are not operable ...". I note that, while it is true that para-nitro substituents are not excluded, this passage does state that it is especially preferred that the substituent is an anilino group. Thus, there is included in the disclosure a scale of preferences. During his testimony, Dr. McClelland referred to research documents of Wellcome staff outlining reports of experiments with para-nitro substituents, apparently in the same context which includes them as substituents in the disclosure quoted above. Those documents indicate that while modest success had been achieved with para-nitro substituents, it was not suitable for the purposes which were ultimately intended, namely the production of trimethoprim. Dr. Whalley pointed out, however, that although not useful in the production of trimethoprim, there was the possibility that intermediates resulting from the use of para-nitro substituents could be suitable for the production of other benzylpyrimidines.
+[128]
+Dr. McClelland's conclusions with respect to operability of para-nitro substituents were made on the basis of his prior experience with para-nitro-benzaldehydes, although he admitted during cross-examination that he had not tried any of the processes of the patents in question using nitro-substituents.
+[129]
+Another instance of alleged inoperable species relating to the first step of both patents was the selection of 2,6-substituents. These substances were included, or not excluded, from the class of substances contained in the specifications of both patents, which reacted in the condensation reaction of both patents to produce the intermediates. They were thus permitted to be substituted in the aryl radical of the '825 patent, relating to claim 4 of that patent. In the '014 patent, the compounds of formula (VIII) (i.e., the
+N
+-substituted
+B
+-amino-
+a
+-benzylacrylonitriles which are the subject of claim 2) include those in which there is a 2,6-disubstituted aryl ring. These structures were considered inoperable by Dr. McClelland, again referring to research documents leading to the eventual patent application.
+[130]
+Dr. McClelland was of the opinion that the choice, as reactant, of a substituted benzaldehyde with a tertiary butyl group in the 2 position, in the context of the '825 patent, and in the context of '014 patent, as the alkyl substituent in the ortho-position of the phenyl group, was inoperable. Dr. McClelland again referred to the plaintiffs' research documents to point to the inoperability of reactions claimed in the process claims.
+[131]
+Under cross-examination, Dr. McClelland agreed that he had overstated this conclusion, and admitted that another of the plaintiffs' research documents, which he had not seen prior to making his report, described successful condensation reactions with three benzaldehydes substituted in the 2,6 positions, although those reactions proceeded in what in Dr. McClelland's opinion were very rigorous reaction conditions. In the opinion of Dr. Whalley, the reactions involving 2,6-substituents proceeded, although with a large amount of "steric hindrance", which is a degree of impedance, described by analogy as the difficulty of a rotund person making his way through a revolving door. An academic article referred to Dr. McClelland's attention,
+Alkyl-Substituted Benzaldehydes
+, by M.H. Klouwen and H. Boelens, (1960) 79 Recueil 1022, outlining the production of tertiary butyl benzaldehydes, was in the opinion of Dr. McClelland, not relevant to the plaintiffs' patents, because the reaction therein described proceeded through purification via the semicarbazones, a step not a part of the condensation reactions in the first step of the plaintiffs' patents.
+[132]
+There were other instances of alleged inoperability. For example, Dr. McClelland was of the opinion that the statement in the disclosure of the '014 patent that "...
+B
+-amino-
+a
+-benzylacrylonitriles are chemically reactive and can be converted with advantage into benzylpyrimidines or into other benzyl derivatives, which may be used as preferred for the preparation of benzylpyrimidines or other heterocyclic ring systems" is incorrect in light of certain of the documents outlining the research carried out by the patentee. Under cross-examination on this point, Dr. McClelland was not shaken. He supported his assertion with reference to the examples 78 and following, set out in the specification of the patent, which he believed supported his view that the reactions did not proceed except under very forcing conditions.
+[133]
+This criticism, as many, was directed toward the relative ease with which the reactions would proceed. As a result of the breadth of the class of possible substituents, Dr. McClelland was of the view that specifying reaction conditions was particularly important. It would appear that there is a point at which the appropriate reaction conditions, while generally within the knowledge of a skilled chemist, are so stringent that they require a greater degree of specification than provided in the specifications of the two patents. In other words, the operability of the reactions does not depend upon "playing around" with reaction conditions in order to improve the yield; rather, the reaction will not proceed unless very precise reaction conditions are specified.
+[134]
+Counsel for the defendant also submitted, on what I understand to be a somewhat different tack, that there is no indication that TAA can be produced without the use of pre-existing TAA. That is, that in most if not all of the examples provided in which TAA was synthesized in the '014 patent, the reaction product was "seeded" with TAA to obtain TAA in an acceptably pure form. It was therefore submitted on behalf of the defendant that disclosure was incomplete. Counsel relied on
+Pioneer Hi-Bred
+, supra, to support this proposition. On my reading of that decision, the Supreme Court of Canada was faced with a factually distinct circumstance. The issue was whether s. 36 of the
+Act
+[now s. 34] was satisfied in a situation in which application for a patent for a new variety of soybean included depositing a sample of the variety with the Patent Office, to supplement the description of the genetic cross-breeding techniques used in the development of the species. A sample, it was argued, would provide others with the ability to take advantage of the invented soybean variety. The sample was necessary because the genetic engineering that developed the particular variety could not be described with sufficient particularity that it could be retraced (per Lamer, J., at 1641). Thus, while it was accepted as a fact that by the language of the specification alone one could not reproduce the claimed invention in
+Pioneer
+Hi-Bred
+, the situation before me is quite different; here the plaintiffs maintain that it is quite possible to arrive at the intermediate TAA by following the specifications in the '014 patent.
+[135]
+The evidence of Dr. Whalley in regard to "seeding" the process with TAA was that it was only a matter of convenience, in other words a matter of speeding up the reaction, as described in the examples. Dr. McClelland, and counsel for the defendant, on the other hand, read the examples as disclosing that one must have TAA in order to make TAA. If that were the case I do not believe the patent would be valid, for ultimately TAA could hardly have been a new substance.
+[136]
+It is my view that the specifications of the patent do not require one to have TAA in order to make TAA. The argument advanced by the defendant, again, is an indirect attack on the operability of the reaction. I do not conclude that the reaction is inoperable when TAA is not used to seed the reaction product. It would have been open to the defendant to have attempted the reaction, and therefore to prove that the reaction is inoperable. The submission in respect of seeding fails for two reasons: the defendant misconstrues the specifications, and the defendant has not proven that the reaction as described in the specifications, that is, the description and claims, will not proceed.
+[137]
+The issue of operability is a difficult one. The defendant has not established that any specific reactants included within the scope of the process claims of the patents in issue will not produce the products that are taught will be produced. On the other hand, the defendant has established that certain classes of substituents, including the para-nitro substituents and tertiary butyls, will only react under very forced conditions, and that the operability of these reactions may be uncertain in the absence of specified conditions. Research documents of the plaintiffs (under protective order) have been referred to to substantiate these assertions. With respect to para-nitro substituents, the researchers apparently considered excluding this class of substituents from the patent claims. They were included, it would, seem, on the reasoning that they had been included in the previous patent, so, as that application had been registered and was of continuing validity, the second patent as well need not exclude this class of substituents.
+[138]
+The defendant raises doubt about the operability of certain of the reactions when particular reactants are utilized; however, there is no clear proof that any of the reactions will not proceed. That might have been demonstrated by attempting to carry out the claimed processes for particular reactions and documenting those which were found inoperable. I appreciate that there is no obligation on the defendant to undertake any such experimental work to support a submission that processes claimed are inoperable, but the defendant does have the onus of establishing invalidity of a registered patent. Despite doubts the defendant raises I am not persuaded that the onus on the defendant is met. I find that the defendant has not established that any of the process claims are simply inoperable.
+[139]
+In attacking the therapeutic utility of the plaintiffs' patents, counsel for the defendant relied upon the report and testimony of its expert witness, Dr. John Donald Anderson. Dr. Anderson is a physician with a doctorate in biochemistry who has conducted, and was at the time of trial conducting, research into bacterial antibiotic resistance, including a study of chlortrimaxazole, a combination of trimethoprim and sulphamethoxazole.
+[140]
+The patent disclosure of the plaintiffs' '825 patent states that "the invention relates to a novel group of propionitrile derivatives having great value as intermediates in the preparation of pharmaceutically valuable benzylpyrimidines", and that "[t]he class of 2,4-diamino-5-benzylpyrimidines contains many compounds with chemotherapeutic activity". It continues, stating that in particular, the 2,4-diamino-5-(3,4-dialkoxybenzyl)-pyrimidines have very high antibacterial activity against certain named bacteria, and that in combination with sulphanilimides, they exhibit synergistic effect against the parasitic protozoan Eimeria tenella. The description concludes that "condensation products [i.e., the intermediates] are useful in the preparation of heterocyclic compounds, in particular in the preparation of 2,4-diamino-5-benzylpyrimidines, such as are described in [two other Canadian patents], which have exemplary bactericidal properties".
+[141]
+The '014 patent describes its invention as relating "to a class of stable
+a
+-benzylacrylonitriles, and to methods of making such compounds, and in one specific aspect to the value of such compounds for use in much improved processes of preparing 5-benzylpyrimidines". It also contains a more detailed disclosure of the therapeutic value of the benzylpyrimidines:
+"2,4-diamino-5-benzylpyrimidines possess both antimalarial and antibacterial activities (
+J
+.
+Am
+.
+Chem
+.
+Soc
+., 1951,
+73
+, 3758). Maximal antibacterial activity is found among derivatives which bear electron donating substituents in the benzene nucleus and are unsubstituted in the 6th position of the pyrimidine moiety. 2,4-diamino-5-(3',4',5'-trimethoxybenzyl) pyrimidine or trimethoprim (U.S. Patent 2,909,522) has a moderately broad antibacterial spectrum which includes many of the Gram-positive species but it is also active against species of the genus
+Proteus
+. In common with other 2,4-diaminopyrimidines it is a competitor of folic and folinic acids in microorganisms which require these nutrilites, and it can be shown to inhibit dihydrofolate reductase in
+Streptococcus faecalis
+. A strong potentative effect is observed when the drug is administered in combination with sulphonamides as a consequence of the sequential blockade of the biochemical pathway which leads to the de novo synthesis of coenzymes F. This potentiation may be demonstrated both
+in vitro
+and in experimental infections in mice with
+Staphyloccoccus
+and
+Proteus
+species. 2,4-diamino-5-benzylpyrimidines, which include trimethoprim and 2,4-diamino-5-(3',4'-dimethoxybenzyl) pyrimidine or diaveridine (U.S. Patent 2,658,897) may be administered orally at a dose of 1 mg/kg to 30 mg/kg per day. Preferably these compounds are administered in tablet form to a mammal being treated, and trimethoprim may advantageously be combined with sulphamethoxazole against certain respiratory infections. A further example of this class is 2,4-diamino-5-(2'-methyl-4',5'-dimethoxybenzyl) pyrimidine (ormetoprim), which has been reported to show antibacterial activity, and also has coccidiostatic properties when combined with sulphadimethoxine."
+[142]
+The description of the '014 patent then refers to the processes of the '825 patent, including the reaction of the intermediates there produced with guanidine to create a 5-benzylpyrimidine. It refers to some perceived comparative shortcomings of those processes, some subsequent improvements claimed in a British patent, and describes the chemistry of the inventions claimed in the '014 patent. The '014 processes for producing intermediates are numerous and varied and their descriptions take some 11 pages of description, including stress on a preference for and the advantages of the process claimed for production of
+B
+-anilino-
+a
+-3,4,5-trimethoxybenzylacrylonitrile (TAA) as an intermediate for the preparation of trimethoprim (TMP). The last phase of the description in relation to chemical reactions refers to reaction of TAA and other intermediates with guanidine to produce 5-benzylpyrimidines including trimethoprim, diaveridine, ormetropim and analogues thereof. The description then contains the statement:
+"All end products provided in the above manner have either antibacterial activity or potentiating properties, although the degree of such activity and potentiating effect may vary according to substitution and the purpose for which these compounds are employed. Moreover, the products may themselves be used as starting materials to produce other derivatives and analogues by further reactions with functional grounds thereon. Thus benzyloxy-benzyl-derivatives may, for instance, be converted into the corresponding hydroxy-benzyl-derivatives by hydrogenation, or any hydroxy-benzyl-derivatives alkylated to provide the required alkoxy-benzyl-substituted compounds."
+[143]
+Dr. Anderson testified that many benzylpyrimidines do not possess chemotherapeutic activity. I note that adjective is used only in the description in the '825 patent. "Chemotherapeutic" required, in the opinion of Dr. Anderson, not only that the substance have antibacterial properties, but also that it have low toxicity and appropriate pharmacological qualities. Dr. Anderson assessed usefulness of the end products, or the "therapeutic activity", on the standard of practical effects when used as medicine. To be useful, according to the definition of Dr. Anderson, a substance should have high antibacterial activity, low toxicity and appropriate pharmacology. By appropriate pharmacology, he meant that a drug should be chemically stable (i.e., have a satisfactory shelf life), be capable of being absorbed orally, have a half life appropriate for dosing, should not interfere with other drugs, and should ideally reach appropriate sites in the body. The standard of usefulness, then, for Dr. Anderson, as I understand him, was practical application of the drug in clinical use.
+[144]
+In his opinion, there was little information in the two patents providing evidence to support the statements relating to therapeutic value of the end products. In his view there was, in the documents produced during discovery and introduced at trial which outlined experimental research leading to the applications for the patents, only limited support for the stated therapeutic value. In some of the experiments carried out, Dr. Anderson perceived evidence contradicting the statements in the patent disclosures, which were considered by Dr. Anderson to be overly broadly stated. In certain instances, he was of the view that the statements were simply untrue. After examining these allegations of Dr. Anderson, I have come to the conclusion that in this case, truth is relative, depending on one's definitions of "activity" and "toxicity". As set out above, Dr. Anderson's definitions of these terms were based on a standard of practical therapeutic use, as medicine, while the experimental standard for toxicity, according to Dr. Anderson's interpretation of documents concerning the research leading to the patents, in some cases "appears to be death". Dr. Anderson concluded his report as follows:
+"It is my opinion based on the information provided by the plaintiff, that the plaintiff has only produced two 2,4-diamino-5-benzylpyrimidines which may be considered safe, effective and nontoxic as antibacterial agents, namely, trimethoprim (2,4-diamino-5-(3',4',5'-trimethoxybenzyl) pyrimidine) and ormetoprim (2,4-diamino-5-(2'-methyl-4',5'-dimethoxybenzyl) pyrimidine). Diaveridine (2,4-diamino-5-(3',4'-dimethoxybenzyl) pyrimidine) is currently used outside human practice, often in combination with sulphonamides for treating malaria and other protozoan infections. There is no showing in either patent that the benzylpyrimidine derivatives are active and non-toxic in therapeutic doses."
+[145]
+In rebuttal, the plaintiffs called Dr. James Burchall, Director of the Division of Molecular Genetics at the Burroughs Wellcome Company in Raleigh, North Carolina. Dr. Burchall participated in certain aspects of the research into the antibacterial properties of substances produced by the processes in the patents in suit.
+[146]
+Dr. Burchall testified that his understanding of "chemotherapeutic" was that the substance having this characteristic would have antibacterial and/or antiprotozoan properties. In his view proven activity against one organism was sufficient to establish that a substance was active, and chemotherapeutic utility was not, I infer, a matter to be assessed only with reference to the utility of end products in clinical applications treating patients. He also indicated that the research into dihydrofolic reductase inhibition in which Dr. Anderson found indications of toxicity based upon relative affinity for human enzymes (or rat liver enzymes) as opposed to affinity for bacterial enzymes, was not designed for the purpose of determining the toxicity of the substances in clinical applications. Instead, the point of the research was "... to construct a molecular basis for chemotherapy". Dr. Burchall would not admit that the research provided some indicia of toxicity because in his view further information, such as dosage levels and manner of administration, would be required to establish toxicity. I have no hesitation finding, however, on the basis of the evidence of both Dr. Anderson and Dr. Burchall, that the testing carried out did give some data, perhaps limited, on toxicity of the substances tested. This is the conclusion I draw from the explanation of his 1965 paper, "Advances in Enzymology", introduced by counsel for the defendant during cross-examination of Dr. Burchall. That paper studied dihydrofolic acid reductase inhibition using a methodology similar to that contained in the research into the chemotherapeutic value of benzylpyrimidines, and which was admitted by Dr. Burchall to indicate possible toxicity if used in inappropriate doses. I also have no hesitation in accepting the evidence of Dr. Anderson that, in accord with his definition of chemotherapeutic, certain of the benzylpyrimidines, tested by the plaintiff Wellcome, could not be considered to have any therapeutic value because the indications were that they were toxic for any use in a clinical setting. Whether that meaning of chemotherapeutic is appropriate in interpreting the utility claimed for the inventions in the patents in suit is an issue to be resolved.
+[147]
+In light of Dr. Anderson's evidence counsel for the defendant cited the case of
+Société des  <FRAGMENT_SUPPRESSED> . The court in that case unanimously dismissed an appeal from a decision of the Exchequer Court which had upheld a defence to a suit for infringement on the basis that the claim relied upon was overly broad in respect of utility. The claim there under consideration by the court was a claim "... for processes which, among others, include several particular chemical reactions, any one of which might be a step in a process for the synthesis of a substance which has become known by the generic name tripelennamine". Hall, J., for the court, stated, at 954:
+"It is obvious and conceded by appellant that claim 18 of the patent in suit covers at least twelve different substances, namely the alpha, beta and gamma isomers and their four hydrohalide salts. On the other hand, it is equally clear that the beta and gamma isomers are not shown to be therapeutically valuable anti-histamines, the effective antihisme [sic], tripelennamine, being the alpha isomer. It is also established that at least one of the hydrohalide salts cannot be safely used as oral medication, namely the hydrofluoride. This is sufficient to bring the case within the principle of the decision
+ <FRAGMENT_SUPPRESSED>  named thiazoles were of considerable therapeutic value, there was no evidence that this was true of any other derivatives covered by the claims, and accordingly the patent was bad for want of subject-matter, since the claims covered substances which were not useful.'"
+[148]
+For the plaintiffs, counsel submitted that decision,
+Société des Usines Chemiques Rhone-Bulenc
+, and
+ <FRAGMENT_SUPPRESSED>  relied upon by the defendant, concerned patents for finished drug products, a circumstance not raised, it is said, in this case. That distinction may be apt in relation to the process claims for production of the intermediates, but in my view claim 97 of the '014 patent is more than that for it claims the process for production of TMP, a medicinal compound.
+[149]
+Counsel for the plaintiffs submitted that the defendant had not proven that any of the products resulting from the processes claimed in its two patents did not have utility. The requirements of proof are set out in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), affd. (1979), 42 C.P.R.(2d) 33 (F.C.A.), leave to appeal to S.C.C. refused (42 C.P.R.(2d) 33). Addy, J., addressing utility in terms of the specifications of the patent there in issue, stated at 160:
+"A claim is not invalid merely because a nonuseful embodiment is within its compass. There must be something in the claim positively pointing towards something useless: see
+ <FRAGMENT_SUPPRESSED>  21 Fox Pat. C. 95]."
+A determination of whether the defendant has proven uselessness must be assessed in light of the utility which the inventions claim.
+[150]
+The utility of the inventions was characterized quite differently by the two learned counsel, as might be expected. In the submission of counsel for the plaintiffs, the utility of the inventions resided in the improved methods of producing intermediates useful in drug testing research programs. If one were to accept this interpretation it would follow that the question whether each substance in the class of benzylpyrimidines is toxic or active, or indeed the use of these substances as medicines, is irrelevant. It was not intended that the invention would have the use urged by the defendant, i.e., utility based exclusively on the usefulness of end products as medicines in a clinical setting. In other words, the patents were addressed to chemists and not to microbiologists. It was emphasized that the process of developing a successful drug comprises many dead ends, which in the scheme of things are simply a necessary part of pharmaceutical research and development, and it was submitted that the patented inventions were useful as a part of this process.
+[151]
+I have already referred to the view of counsel for the defendant, that utility of the intermediates, in the context of the patents, depends upon utility of the end products, the -5-benzylpyrimidines, resulting from the second stage, the reaction of the intermediates with guanidine, referred to in the disclosure in the '825 patent and claimed under claim 97 in the '014 patent. Further, it was urged the latter claim was too broadly described in the disclosure since only 3 end products, referred to by Dr. Anderson had been produced for the market and only one of those, TMP, was used for medicine for humans. The utility of the patents was described by counsel for the defendant as residing in the better means of producing therapeutically valuable medicines by way of claims for intermediates which must themselves possess utility as means of producing valuable end products. He pointed out that the '014 patent, in claim 97, claimed a process for cyclizing TAA with guanidine to produce TMP, and by implication suggested that the plaintiffs' interpretation of the utility of the inventions ignored this claim.
+[152]
+In my view the submissions of both counsel ignore the specifics of the patents in suit. The plaintiffs' submission relating primarily to the process claims for the intermediates does not adequately deal with claim 97 of the '014 patent, i.e., the second step followed to produce TMP as a final product. Moreover, as the general thrust of the defendant's argument suggests, unless some, at least, of the end products have utility, there can be no utility in the patent sense for the intermediates which are said to be useful, to have utility, in production of useful end-products. The defendant's submission, however, goes too far, implicitly ignoring the process claims to production of the intermediates, claim 4 of the '825 patent and claim 39 of the '014 patent, essentially because these lead to further processes for producing a class of benzylpyrimidines, not all of which are established as having utility in a chemotherapeutic sense of resulting in an end product for clinical use as medicine. It was to this latter standard of utility that I understood Dr. Anderson's testimony to be directed.
+[153]
+Neither the explicit language of the specifications nor the context of the patents themselves, within the realities of the broader context of the pattern of research in the pharmaceutical industry, support that standard for utility of the intermediates. In my view it is essential to consider the evidence and argument in the context of the patents as granted.
+[154]
+The '825 patent description speaks of the intermediates as "having great value ... in the preparation of pharmaceutically valuable benzylpyrimidines", a certain class of which is said to contain
+many
+compounds with chemotherapeutic activity, particularly a subclass, 2,4-diamino-5-(3,4,5 dialkoxybenzyl) pyrimidines which have "very high antibacterial activity" against certain named bacteria and these compounds exhibit synergism in combination with sulphanilamides. The description includes reference to the second step, the cyclization of the intermediates with guanidine to produce TMP, a step said to be the subject of claims in another Canadian patent, not before this court. The '825 patent does not claim this second step in the production of benzylpyrimidines.
+[155]
+The '014 patent description relates to "a class of stable
+a
+-benzylacrylonitriles, and to methods of making such compounds and in one specific aspect to the value of such compounds for use in much improved processes of preparing 5-benzylpyrimidines". It then describes some of the antimalarial and antibacterial activities of the subclass of 2, 4-diamino-5-benzylpyrimidines. I note that in his evidence Dr. Anderson testified that a number of these properties referred to were not supported by evidence within the patent description or, in his interpretation, by research data produced by the plaintiff Wellcome, but I do not understand this as a direct denial of all of the properties described.
+[156]
+The focus of the main criticism by the defendant was the passage at page 19 of the description, after referring to the cyclization step reacting the intermediates with guanidine, that "all end products provided in the above manner have either antibacterial or potentiating properties, although the degree of such activity and potentiating effect may vary according to substitution and the purpose for which these compounds are employed". It is then stated that the end products may themselves be used as intermediates for producing other compounds. I do not read this passage as holding out any expectation that all end products of the second step have utility as medicines in clinical practice. Nor do I understand Dr. Anderson's interpretation of much of the research data produced by Wellcome as a denial of the statement that "end products ... have either antibacterial or potentiating properties", even though he read the data as indicting that a number of compounds produced by the second step, 5-benzylpyrimidines, showed toxicity above the norm for use as medicines. His assessment of course, was related to his concept that therapeutic utility for the end products required that they be generally or in all cases useful in the production of medicines for clinical practice, but that was not the utility claimed in either of the patents in suit.
+[157]
+As I construe the patents no claim is made that all intermediates have utility in production of end products all of which have utility in use as drugs or medicinal products for clinical practice. On this ground, I distinguish
+May & Baker
+, supra, where the patent in issue was construed as meaning that all compounds within a large class had therapeutic value as final products, as drugs.
+[158]
+One other aspect of utility raised by Dr. Anderson's evidence on the basis of his review of research data produced by Wellcome, was that a number of the compounds tested, i.e., among the 5-benzylpyrimidines resulting from step two, would appear to have had such limited antibacterial activity or such high toxicity that there would be no reasonable prospect of these being developed for possible use as medicines. Accepting that assessment, while noting again that neither patent claimed that ultimate use for all 5-benzylpyrimidines, this simply underlines the reality of research and development in the pharmaceutical industry stressed by witnesses, and in argument for the plaintiff. That assessment, and the reality of research in the industry, do not directly bear on my construction of the patents and the utility claimed in their disclosures for the products resulting from the processes claimed and here in issue.
+[159]
+Counsel for the plaintiffs submitted that with respect to utility and operability, the claims in suit fell within the doctrine of sound prediction. He referred the court to four decisions in support of this submission:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 161 at 174-177;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 73 at 76-79 (F.C.A.); and
+ <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[160]
+In the first of these cases,
+Olin Mathieson Chemical Corp
+.
+, Graham, J., after discussing the desirability that pharmaceutical research continue, and recognizing that the number of "winners" is only a minute proportion of drugs synthesized and tested, but that once found, closely related drug compounds often turn out to have the same or greater activity, formulated the doctrine of sound prediction as follows:
+"If it is possible for the patentee to make a sound prediction and to frame a claim which does not go beyond the limits within which the prediction remains sound, then he is entitled to do so. Of course, in so doing he takes the risk that a defendant may be able to show that his prediction is unsound or that some bodies falling within the words he has used have no utility or are old or obvious or that some promise he has made in his specification is false in a material respect; but if, when attacked, he survives this risk successfully, then his claim does not go beyond the consideration given by his disclosure, his claim is fairly based on such disclosure in these respects, and is valid."
+Pigeon, J., for the majority  <FRAGMENT_SUPPRESSED>  Co.
+, adopted the sound prediction doctrine as set out  <FRAGMENT_SUPPRESSED>  Mathieson
+.
+[161]
+The doctrine may be applicable when a patent claims a broad class of chemical compounds, as those in issue in this case do. In light of the fact that the reactive properties of chemical compounds are understood to a far greater extent than once was the case, a court may accept that it is possible to accurately predict the operability of chemical reactions without proof through the process of testing them, and accepting their utility for the purposes of the invention claimed: see
+Monsanto Co.
+at 177. The doctrine permits, in the usual case (see e.g.,
+Monsanto Co.
+and
+Ciba-Geigy AG
+), a patent applicant to claim broadly without having to test each of the combinations of reactants claimed.
+[162]
+The doctrine is not applicable if it is shown that certain combinations are not operable or do not possess the utility claimed: see
+Monsanto Co.
+at 176. It must also be kept in mind that while the reactive properties of chemical compounds may be within the scope of sound prediction, the therapeutic effect may not be as easily predictable. As noted by the court, per Thurlow, C.J.,  <FRAGMENT_SUPPRESSED> -Geigy
+at 77: "The predictability of chemical reactions should not ... be confused with predictability of the pharmacological effects and thus of the pharmacological utility of new substances".
+[163]
+To apply the principle of sound prediction in this case to support the claims made in the patents in suit would require an assumption of fact based upon a scarcity of evidence concerning the soundness of the predictions. On the evidence presented in relation to the matters at issue between the parties I do not find adequate evidence to support the principle in relation to all of the disputed claims.
+[164]
+At the same time, I am not prepared to accept the implication of the defendant's argument that the sheer breadth of the plaintiffs' generic process claims, particularly claim 27 of the '014 patent, upon which claims 39 and 97 ultimately depend, should lead to the assumption that these are invalid because all of the products they provide have not been made or tested and some, unknown, may lack utility. In the cases relied on by counsel for the defendant where broad claims have been held invalid some evidence other than sheer breadth of the claim underlay the decision. In
+May & Baker
+, as noted in the decision of Lord Simonds (at p. 33, 67 R.P.C.) it was clearly proved or admitted that not all members of the group claimed had therapeutic value and that the therapeutic value of one drug product depended upon special features not common to the group as a whole. In
+Société des Usines Chemiques Rhone- <FRAGMENT_SUPPRESSED> , it was established that two isomers produced by the process claim in issue were not shown to be therapeutically valuable and one of the other products produced could not safely be used as medicine, which was the utility claimed in the patent for the products produced. In
+Boehringer  <FRAGMENT_SUPPRESSED> , the broad process claim in question was found not to meet the requirements of s. 41(1) of the
+Patent Act
+because it did not state the starting materials for the reaction to produce the claimed medicinal product. In
+Hoechst  <FRAGMENT_SUPPRESSED>  a broad claim to a mathematically limitless class of substances said to have utility as oral antidiabetic medicines, was found to be invalid in the absence of any sound basis for prediction of the pharmaceutical utility of such a class of products.
+[165]
+No additional factor, other than the breadth of the process claims, was clearly established by the defendant in this case. I am not satisfied that the claims of the plaintiffs were inoperable, or that they lacked the utility claimed in the patents, that is, as useful intermediates in the production of benzylpyrimidines that are pharmaceutically valuable or that have antibacterial or potentiating properties. The defendant has not met the onus of establishing invalidity in respect of either of these grounds alleged.
+4. Obviousness
+[166]
+It was been argued by counsel for the defendant that the plaintiffs' patents are invalid because the inventions claimed were obvious. Section 2 of the
+Patent Act
+provides the following definition:
+"'invention' means any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter;"
+Section 27 of the
+Patent Act
+provides that a patent may be granted to an inventor of an invention.
+[167]
+As interpreted by the case law, these sections have led to the requirement that as a precondition for patentability, an invention must, in addition to being novel and useful, result from some inventiveness:
+ <FRAGMENT_SUPPRESSED>  at 56 (1963), 25 Fox Pat. C. 99, at 107, per Judson, J. Counsel for the defendant here raises the argument that the plaintiffs' claimed inventions are not patentable because they are not the result of any inventiveness. They were, it is argued, at the time of the applications for the separate patents, obvious. I would note here that although in the pleadings, the defendant also argued that the inventions had been anticipated and were not new, that argument was abandoned at trial.
+[168]
+In assessing whether an invention was obvious, or whether it required the exercise of inventive ingenuity, a court must first of all define the nature of the invention claimed and then assess the whole of the prior art suggested as relevant to the invention, and assess its cumulative effect:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241, at 256-257 (F.C.A.), per Urie, J.A. Having done that, a court then may apply the test for obviousness. This test involves an assessment of whether a skilled and workmanlike technician would, in view of the state of the art as it existed at the time of the invention, have been led inescapably to the invention. The test is set out by Hugessen, J.A., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 at 294:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[169]
+The parties also referred to the discussion of the test in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.) at 155-158;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.) at 27, leave to appeal to S.C.C. refused, 63 C.P.R.(2d) 260 and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 180, at 188. The test is expressed in terms generally similar to the statement by Hugessen, J.A., set out above.
+[170]
+The inventions claimed in the patents in suit are the result of substantial research in the pharmaceutical industry. As the patents make clear, the inventions claimed are in essence a two-step process; the first step a condensation process to produce a class of intermediates, and the second step proceeding to use those intermediates or certain of them in a cyclization reaction with guanidine to produce pharmaceutically valuable compounds. Both of the patents involve similar procedures, the difference being that the first of the patents involved methoxy compounds as substituents, while the second used, among other compounds, anilinos. While it is true that the first of the two patents registered by the plaintiffs did not claim the second step, the disclosure refers to the second step, and indeed discusses the usefulness of the processes claimed as resulting in intermediates which may be used in the second step.
+[171]
+It should be noted that it was agreed that TAA, an intermediate claimed in the second patent, was admitted to be a new substance. It was argued by counsel for the plaintiffs that MTBP was also a new substance when claimed. The defendants did not admit that allegation, but could not point to any reference to the substance in the prior art referred to the court, and, as I have earlier noted, I accept the plaintiffs' assertion that MTBP was a new substance at the relevant time. It should also be noted that the condensation reactions in general were not new, and the reactants were not new at the relevant time. What is alleged to be novel was the use of the particular and known reactants in the known condensation reaction. Counsel for the plaintiffs cited as support for the submission that reacting known compounds in a standard reaction which produces a new substance satisfies the requirements of an invention in s. 2 of the
+Act
+, the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> . Martland, J., there held for the court (at 383):
+"Is it a new process? Is the element of novelty precluded because it consists of a standard, classical reaction used to react known compounds? In my opinion the process in question here is novel because the conception of reacting those particular compounds to achieve a useful product was new. A process implies the application of a method to a material or materials. The method may be known and the materials may be known, but the idea of making the application of the one to the other to produce a new and useful compound may be new, and in this case I think it was."
+[172]
+In my view this authority stands for the proposition that reacting known compounds in a standard reaction does not preclude such a reaction from being the subject of a valid process claim if the product produced is new and useful. It does not, however, inevitably lead to the result that such a claim may not be attacked as an obvious step, and therefore not an invention. Martland, J., used the permissive phrase, "may be new", and then went the additional step to assess the claim in suit. This appears to me the import of the decision approved by Martland, J.,
+Re May & Baker Ltd. and Ciba Ltd.
+(1948), 65 R.P.C. 255 (Ch. D.).
+[173]
+At base the argument put forth by the defendant is that there was nothing inventive in choosing the particular reactants, and further, that the resulting products, although new substances, were predictable. Counsel for the defendant sought to prove the argument through the written report and oral testimony of its expert witness, Dr. McClelland.
+[174]
+The prior art referred to by the defendant was intended to demonstrate that the condensation reaction utilized in the first step of the patents was not a new condensation reaction as set out in the disclosure of the plaintiffs' first patent. Dr. McClelland drew to the attention of the court the description of the Knoevenagel Reaction, stated to date from 1898, outlined in the text,
+Advanced Organic Chemistry
+, by Feiser and Feiser (Reinhold Publishing Corp., New York, 1961), p. 478. In that reaction, it was stated that "[a]ldehydes ... condense readily with malonic acid and other compounds having a methylene group activated by carbonyl, nitrile, or nitro groups under basic catalysis". Dr. Whalley, the plaintiffs' expert, on re-examination, admitted that the research summarized in Feiser and Feiser taught that condensation of "an aromatic aldehyde with a B-substituted propionitrile would proceed". It was his view, however, that the plaintiffs' '825 patent was the first description of the condensation between "aromatic aldehydes and B-substituted alkoxy alkyl amino propionitriles".
+[175]
+Dr. McClelland also stated that it was known that condensation reactions of this type would result in benzal/benzyl isomerization:
+Mobility of Symmetrical Triad (Prototropic) Systems
+, C.K. Ingold and C.W. Shoppee (1929), J. Chem. Soc. 447 at 448-449. Dr. Whalley, the plaintiffs' expert, stated that this was a seminal article, and in relation to the plaintiffs' first patent, taught that isomerization was possible, given the reactants utilized in the condensation reaction in that patent. He stated, however, that the article gave no indication of the ease of interconvertibility into the isomers and the point of equilibrium of those isomers.
+[176]
+The next articles referred to by counsel for the defendant were two German articles published in two parts,
+Oxymethylen-Aldehyde
+, by von H. Rupe and A. Huber, and by von H. Rupe and E. Knup, (1927)
+X Helvetica Chimica Acta
+. Dr. McClelland describes these articles as setting out the means of producing compounds analogous to those produced in the plaintiffs' first patent, including MTBP. Dr. McClelland then referred to the article,
+Antimalarial Activity in 2:4-diamino-5-arylpyrimidines: Some Reactions of
+a
+-Formylphenylacetonitrile
+, by B.H. Chase, J.P. Thurston and J. Walker, (1951) J. Chem. Soc. 3439, which described the reaction of lower homologues of those compounds described in the first of the plaintiffs' patents. In both of these articles, the second step of the plaintiffs' patents, i.e., reaction with guanidine, was also discussed.
+[177]
+Finally, counsel for the defendant sought to use an article introduced as an appendix to the report of Dr. Whalley, an expert testifying on behalf of the plaintiffs, as support for its argument that the condensation reaction outlined in the first step of the plaintiffs' patents was obvious. The article was entitled,
+The Reaction of Acrylonitrile with Benzaldehyde under Cyanoethylation Conditions
+, by H.H. Wasserman, B. Suryanarayana, and D.D. Grassetti, published in 1956. Dr. Whalley's evidence was to the effect that it was positive proof that the state of the art at the time of the invention indicated that a condensation reaction of the type claimed in the plaintiffs' first patent would not produce the intermediates which the patent claims, particularly MTBP, in a "reasonable yield". In the article, the authors described reacting a
+B
+-hydroxy-propionitrile with benzaldehyde, whereas the reaction in the first patent consists of reacting a
+B
+-alkoxy-propionitrile with benzaldehyde. Counsel for the defendant made the point in cross-examination that nevertheless this article pointed to the production of the products which the patent claimed, and referred to testimony of Dr. McClelland that the results were not as discouraging as Dr. Whalley had interpreted them to be, and that he would have been encouraged by the results. Dr. McClelland testified that the state of general knowledge would suggest, for instance, that the reaction would proceed more successfully if a
+B
+-alkoxy were used as the
+B
+-substituent.
+[178]
+In light of these articles, counsel for the defendant submitted that the condensation reaction step, being the first step, in both of the plaintiffs' patents here in issue, was obvious. In my view, the first two of the writings referred to (i.e., the Feiser text and the Ingold article) are of broad and general significance, and do not with sufficient particularity, predict that the reaction of the reactants undertaken in the patents, would result in the products produced in those patents. Of course this is not strictly necessary in considering the issue of obviousness. And indeed, if the prototypical skilful technician were to set his or her mind to the problem, it may be that based on the prior art, he or she might predict the resulting products. There is, however, no apparent reason for undertaking the reactions claimed in the patents, unless a particular use were to have been in contemplation of the researchers. That is as much as to say that where the new substances produced have value, then the inventive spark may be found in the perceived use to which the substances may be put. I believe that the article referred to by Dr. Whalley, in which a
+B
+-hydroxy-propionitrile was reacted with a benzaldehyde, even if interpreted as encouraging in the manner contended for by Dr. McClelland, demonstrates that the inventive step was apparently not there present, for the step of reacting a
+B
+-alkoxy-propionitrile, which in the testimony of Dr. McClelland would have worked more successfully than the
+B
+-hydroxy-propionitrile, was there not considered. Judicial support for this argument is found in
+Société des  <FRAGMENT_SUPPRESSED> . Thurlow, J., stated, at 227:
+"The invention as claimed in claim 18 is one for a process which includes the reacting of certain known chemical substances with certain other known chemical substances in a well-known type of chemical reaction for the purpose of producing a result which any skilled chemist would have expected. All this is admitted ... and from it it follows, notwithstanding the further fact that no one had previously carried out the reaction using the particular starting substances, that there could have been no invention in the process unless it had been found to produce substances possessing utility which on the basis of previous knowledge could not have been expected of them. As mere new chemical substances they would not constitute inventions unless they were found to possess unexpected utility but if they were found to possess such utility, for example, as drugs or as paints or dyes, or for any practical purpose, they might both constitute inventions of new and useful substances and at the same time supply the utility necessary to elevate the well-known method as applied to the materials that would produce them to the status of an invention as well. This, as I understand it, is the effect of the reasoning of Jenkins, J., in
+Re May & Baker Ltd. and Ciba Ltd.
+(1948), 65 R.P.C. 255, which was adopted and approved by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> ."
+I agree with counsel for the plaintiffs that this reasoning is applicable in this case. Where there is unexpected usefulness for a particular purpose, then the combined effect of new substances and unexpected usefulness will satisfy the requirements of inventive ingenuity. I realize that in accepting the reasoning of Thurlow, J., I am in some senses assuming utility, which has been challenged. For the purposes of addressing the issue of obviousness, I accept that if the chemotherapeutic activity resides in only one of the ultimate compounds, trimethoprim, activity which has not been challenged, then this will satisfy the requirements of inventive ingenuity.
+[179]
+With respect to the von Rupe and Huber, and von Rupe and Knup articles, and the Chase article, while these pointed in the direction of the inventions patented by the plaintiffs, they did not render those inventions obvious, on the tests established in the jurisprudence. I note particularly the evidence of Dr. Whalley, that in dealing with phenylpyrimidines rather than benzylpyrimidines, and taking into account the different properties of these classes of compounds, analogizing between one class and another is not done with great success. Dr. McClelland, under cross-examination, stated that he did not agree that extrapolations could not be made between phenylpyrimidines and benzylpyrimidines; it was his view that these compounds were of the same basic functional group, pyrimidines. Faced with this conflict of evidence, I note that enumerated differences between the phenylpyrimidines and benzylpyrimidines was not disputed by Dr. McClelland, and not taken up by counsel for the defendant on cross-examination of Dr. Whalley. I must therefore accept that these differences exist. While alone they do not provide a secure basis for the conclusion that extrapolation from phenylpyrimidines to benzylpyrimidines cannot be readily done, Dr. Whalley's evidence does suggest that the compounds, although of the same general class, have different reactive properties. The defendant has not met the onus resting upon it, as in all matters relating to invalidity, to prove that the knowledge derived from these articles can be directly applied to give the results stated to apply in the plaintiffs' patents.
+[180]
+An additional factor supporting the conclusion that the inventions claimed were not obvious, and were indeed inventive, is the long time period between the discovery of the type of reaction used and the investigations into isomerization which are at the heart of the invention, and the claims themselves. While this is not a conclusive factor, in my view it carries some weight in a situation in which continual research is carried out in attempts to develop pharmaceutical compounds. In this context, it is inevitable that any developments will result to some extent from the exercise of methodical procedures. To deny patentability to such developments, however, on the basis that any developments arrived at through such procedures are the workshop improvements of the efficient plodder that do not satisfy the requirement of inventiveness, as counsel for the defendant has argued, would amount to an error inasmuch as the requirements of "invention" would then have been set at too high a level. As stated by Pigeon, J., in
+ <FRAGMENT_SUPPRESSED>  research work is done by looking in directions where the 'state of the art' points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed the way."
+In a more recent case,
+ <FRAGMENT_SUPPRESSED>  (F.C.A.)), Stone, J.A., for the court stated, at 188:
+"In dealing with a question of obviousness, care must always be taken to guard against dangers inherent in hindsight analysis. The though underlying the expression that one is 'the wiser after the fact' (even as regards inventions) was captured as early was 1667 in these poetic words (John Milton,
+Paradise Lost
+, Book VI, lines 498-501):
+'The invention all admir'd, and each, how he
+To be the inventer miss'd; so easie it seemed
+Once found, which yet unfound most would have thought
+Impossible.'
+"In patent law, that notion was put in legal terms by Lord Russell of Killowen in
+ <FRAGMENT_SUPPRESSED>  at p. 142 (H.L.), where he said: 'Nothing is easier than to say, after the event, that the thing was obvious and involved no invention'."
+[181]
+It is my view that in giving his evidence that the inventions claimed by the plaintiffs were obvious, Dr. McClelland did not take sufficient care to guard against the tendency to look upon an invention after the fact. The prior art brought to the attention of the court consisted of relatively few articles which treated general types of reactions, and in no case addressed the desirability of utilizing the reactants chosen by the plaintiffs to produce the results sought by the plaintiffs. I conclude therefore that the claims with respect to the first step in the two-step process claimed in the plaintiffs' patents were not obvious at the time of the invention, and that the patents in suit are not for this reason invalid.
+[182]
+Counsel for the defendant referred the court to the decision of this court in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 217; 13 C.I.P.R. 102, affd.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.). In particular, counsel referred to Reed, J.'s, consideration of the issue of obviousness raised in that case, which concerned the validity of a patent for the combination of trimethoprim and sulphamethoxazole. Reed, J., there found that the general state of scientific knowledge was to the effect that trimethoprim in combination with sulphonamides operated synergistically. A patent for sulphamethoxazole, one of many sulphonamides, in combination with trimethoprim, was then found to be an obvious step. In my view, the case is easily distinguishable; it involved a combination of compounds whose effect was known; no intervening chemical reaction was required, and in fact the compounds could be administered separately. The evidence suggested that the choice of sulphamethoxazole was "... mainly because sulphamethoxazole was easily available". Counsel for the defendant cited the case for the submission that prior art should be examined with a view to giving it a purposive meaning. This interpretation of Reed, J.'s, decision is the defendant's. If what is meant by that submission is that the prior art as a whole must be considered, then I accept that submission for that merely reaffirms existing law.
+[183]
+There was also the suggestion by counsel for the defendant that if it could be said that the first patent was not obvious, then the second patent, depicted as merely an improvement on the methods of the first, was obvious in its reliance upon the prior art of the first patent. This argument was not developed and I do not accept that the second patent, which claimed the invention of a reaction that produced the benzyl isomer in a substantially pure form when the specified reactants were utilized in the first step of the patent, was obvious in light of the first patent.
+[184]
+In sum, I am not persuaded by evidence and argument of the defendant that the process claims of the plaintiffs' two patents in suit were obvious from the prior art. Thus, on this ground the defendant fails to meet the onus of establishing invalidity of the patents.
+Summary Of Conclusions On Validity
+[185]
+I summarize my conclusions on the issues raised by the defendant concerning validity of the plaintiffs' patents in suit.
+In The '825 Patent
+a)
+claim 8
+is not valid since it is a claim for a substance, MTBP, produced by a chemical process and intended for medicine which claim is not made in connection with a claim particularly describing, in distinct and explicit terms, the method or process of manufacture of the substance, as was required by s. 41(1) and s. 36(2) (now s. 34(2)) of the
+Patent Act
+as it applied at all relevant times.
+b)
+claim 4
+, the process claim relied upon for production of the intermediate MTBP, is not a claim within s. 34(2) (formerly s. 36(2)) of the
+Act
+to the process for production of MTBP, since it is not a claim stating in distinct and explicit terms the process which the plaintiffs regarded as new and in which they claimed an exclusive property or privilege.
+In The '014 Patent
+a)
+claim 14
+is a claim for substance, TAA, produced by a chemical process and intended for medicine, which is made in connection with a claim particularly describing, in distinct and explicit terms (claim 39 through claims 31, 29 or 28 to claim 27(a)), the method or process of manufacture of the substance. Claim 14 is a valid claim made in connection with a valid process claim, in accord with s. 41(1) of the
+Patent Act
+as it applied at all relevant times.
+b)
+claim 39
+, dependant upon claims 31, 29 or 28 and ultimately upon claim 27(1), is valid in accord with s. 45 of the
+Patent Act
+since I find that the defendant has not discharged the onus of establishing invalidity, or that these claims were insufficient or ambiguous, inoperable or without utility, or were obvious, as alleged.
+c)
+claim 97
+, a claim to the process of production to TMP using the intermediate TAA, is a valid claim, despite its dependency on broader process claims 96 through 56 to 27, (in particular 27(d)) in accord with s. 45 of the
+Patent Act
+, because I find the defendant has not discharged the onus of establishing invalidity, or that these claims are insufficient or ambiguous, or inoperable or without utility, or were obvious, as alleged.
+[186]
+Other claims in the two patents are the subject of relief claimed by the plaintiffs' statement of claim and by the defendant by its counterclaim. Some claims other than those I have here referred to specifically were referred to in evidence, but that was as examples of general criticisms or justifications made with principal reference to the claims here dealt with specifically. In these circumstances, absent evidence and argument directed to the other claims of the two patents in suit, I am not prepared to make any finding or declaration that affects their validity accorded pursuant to s. 45 of the
+Patent Act
+.
+D. Conclusion
+[187]
+At trial counsel for both parties agreed that these reasons with conclusions be filed without an order for relief or as to costs pending an opportunity to consider whether it would be possible to agree on an order for judgment and failing agreement an opportunity to address the court on the terms of an order for judgment, including the matter of costs. I accepted that proposal.
+[188]
+My conclusions, in light of the relief sought in the re-amended statement of claim and the further amended statement of defence and counterclaim, the evidence adduced and argument presented at trial, are as follows.
+[189]
+The plaintiffs' claim to a declaration that claims 1 to 6 inclusive, 8 and 11 of the Patent 741,825 are valid and have been infringed by the defendant is dismissed. Claim 8 is not a valid claim pursuant to s. 41(1) and claim 4 is not a valid claim pursuant to ss. 41(1) and 36(2) (now 34(2)) of the
+Patent Act
+as it applied at the relevant time. Other claims included in the relief sought were not the subject of evidence and argument at trial.
+[190]
+The defendant's counterclaim, to a declaration that each and every one of claims 1 through 11 inclusive of that patent is invalid and void, is dismissed.
+[191]
+The plaintiffs' claim to a declaration that claim 14, claims 39, 31, 29, 28 and 27 and claims 97, 96 and 56 of the Patent 907,014 are valid and have been infringed by the defendant, is allowed. Claim 14 is a valid claim to a substance produced by a chemical process intended for medicine in association with a valid process claim for its production. That process claim is claim 39 which particularly describes, distinctly and in explicit terms, the process for manufacture of the substance, dependant upon claims 31, 29 or 28 and ultimately upon claim 27, particularly 27(a). These process claims are valid. Claim 97, dependant upon claim 96, thence upon claim 56 and ultimately claim 27, particularly 27(d), is a valid claim, as are the claims upon which claim 97 is dependant, to the process for production of TMP.
+[192]
+This court is prepared to issue an order declaring valid these claims in the '014 patent, i.e., including claims 14, 39 (and 31, 29, 28, 37 upon which claim 39 ultimately depends) and claim 97 (and 96, 56 upon which claim 97 depends, together with claim 27). The plaintiffs' requested relief, that a declaration include other claims in the '014 patent as valid, would not be granted by order of this court, for those claims were not the subject of evidence or argument at trial.
+[193]
+I dismiss the defendant's counterclaim that various claims of Patent 907,014 be declared invalid and void, which counterclaim referred to all 64 of the 120 claims contained in the patent which the plaintiffs requested by re-amended statement of claim be declared valid.
+[194]
+As ordered by Mr. Justice Addy of this court on August 17, 1983, since infringement by the defendant of plaintiffs' Patent 907,014 is found by these reasons, any issues concerning the extent of such infringement, or damages or profits arising from that infringement, are to be determined by reference under rules 500 et seq. of the court, which may be initiated on application in accord with the
+Rules
+.
+[195]
+Counsel for the plaintiffs is directed to draft an order for judgment implementing these reasons, and in accord with arrangements agreed upon at trial, to consult with counsel for the defendant. If they cannot agree and apply with consent for an order for judgment, including the matter of costs, before the close of business in the Registry of the Court at Toronto on Monday, December 16, 1991, either party may apply to be heard by this court concerning the terms of an order for judgment implementing these reasons.
+Action allowed.
+Editor: Elizabeth M.A. Turgeon/blk
+[End of document]

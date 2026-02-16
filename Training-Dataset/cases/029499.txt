@@ -1,0 +1,852 @@
+TABLE OF CONTENT
+-
+Para.
+1.
+Background and Facts
+1
+--(a)
+Establishing the Inquiry
+1
+--(b)
+Mandate of the Commissioner
+4
+--(c)
+Protection of Sensitive Information
+9
+--(d)
+Commissioner's Notice to Disclose
+9
+2.
+Procedural Overview
+19
+3.
+Legislative Framework (The Judicial Test to be Met)
+27
+4.
+Issues
+28
+--
+(A) The Deference Issue
+28
+--
+(B) Some of the Principles and Concepts at Play
+28
+5.
+Analysis
+28
+--
+(A) The Deference Issue
+28
+--
+(B) Some of the Principles and Concepts at Play
+36
+---(I)
+The <FRAGMENT_SUPPRESSED> Three-Part Test
+36
+---(II)
+The Relevancy of the Redacted Information
+39
+---(III)
+Providing Some Meaning to the Concept of "Injury"
+45
+----
+(a) Information in the Public Domain
+53
+----
+(b) Information Critical of the Government or which would bring Embarrassment to the Government
+57
+---(IV)
+Some Meaning to the Concept of "International Relations"
+60
+---(V)
+Some Meaning to the Concept of "National Defence"
+61
+---(VI)
+Some Meaning to the Concept of "National Security"
+62
+---(VII)
+The Third Party Rule
+69
+---(VIII)
+The Mosaic Effect
+81
+---(IX)
+The Impact of Disclosure on International Relations
+84
+----
+(a) Disclosure of Comments made by Foreign Officers
+85
+----
+(b) Public Criticism of Foreign Governments
+87
+---(X)
+If Injury is found to exist, which Interest prevails, the Public Interest in Disclosure or the Public Interest in Non-Disclosure
+90
+6.
+Brief Comments on the Ex Parte (In Camera) Decision
+99
+7.
+Conclusion
+100
+[1]
+Noël, J.
+: This is an application by the Attorney General of Canada pursuant to s. 38.04 of the
+Canada Evidence Act
+, R.S.C. 1985, c. C-5 (
+CEA
+), for an order by the Federal Court prohibiting the disclosure of certain redacted portions of the public report, issued by the Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar ("Commission" or "Inquiry"), on the basis that disclosure of this information would be injurious to international relations, national defence or national security. This is the public judgment. A twin ex parte (in camera) judgment has also been issued today. In the ex parte (in camera) judgment, I have applied the principles which are explained in this judgment to the particular factual situation of the file.
+1.
+Background and Facts
+(A) Establishing the Inquiry
+[2]
+Maher Arar is a Canadian citizen, who was never charged with any criminal offence in Canada, the United States, or Syria. On September 26, 2002, while transiting through John F. Kennedy International Airport in New York, Mr. Arar was arrested and detained by American officials for 12 days. He was then removed against his will to Syria, the country of his birth. Mr. Arar was imprisoned in Syria for nearly one year, where he was interrogated, tortured, and held in degrading and inhuman conditions. On October 5, 2003, Mr. Arar returned to Canada. These events attracted a great deal of media attention, including concerns about the role Canadian officials may have played in Mr. Arar's detention in the United States, his removal to Syria, and his imprisonment and treatment while in Syria.
+[3]
+On February 5, 2004, the Governor-in-Council adopted Order-in-Council 2004-48 (Terms of Reference) on recommendation of the Deputy Prime Minister and the Minister of Public Safety and Emergency Preparedness. The Terms of Reference established a public Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar, under Part I of the
+Inquiries Act
+, R.S.C. 1985, c. I-11. The Honourable Dennis O'Connor, Associate Chief Justice of Ontario, was appointed Commissioner and was given a dual mandate: (a) to investigate and report on the actions of Canadian officials in relation to the deportation and detention of Maher Arar (Factual Inquiry); and (b) to recommend an independent review mechanism for the RCMP's national security activities (Policy Review). By subsequent Order-in-Council dated February 12, 2004, the Inquiry was added to the schedule of the
+CEA
+which lists entities who can receive information injurious to international relations, national defence, or national security without having to provide notice to the Attorney General under s. 38.01 of the
+CEA
+.
+[4]
+It is important to note that this application relates only to the public report outlining the Commissioner's findings in the Factual Inquiry.
+(B) Mandate of the Commissioner
+[5]
+In the words of Justice Cory, writing for the majority of the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  N.S.R.(2d) 1; 403 A.P.R. 1, at paragraph 62, the purpose and the significance of a commission of inquiry is the following:
+"One of the primary functions of public inquiries is fact-finding. They are often convened, in the wake of public shock, horror, disillusionment, or scepticism, in order to uncover 'the truth'. Inquiries are, like the judiciary, independent; unlike the judiciary, they are often endowed with wide-ranging investigative powers. In following their mandates, commissions of inquiry are, ideally, free from partisan loyalties and better able than Parliament or the legislatures to take a long-term view of the problem presented. Cynics decry public inquiries as a means used by the government to postpone acting in circumstances which often call for speedy action. Yet, these inquiries can and do fulfil an important function in Canadian society. In times of public questioning, stress and concern they provide the means for Canadians to be apprised of the conditions pertaining to a worrisome community problem and to be a part of the recommendations that are aimed at resolving the problem. Both the status and high public respect for the commissioner and the open and public nature of the hearing help to restore public confidence not only in the institution or situation investigated but also in the process of government as a whole. They are an excellent means of informing and educating concerned members of the public."
+[6]
+The Commission's Terms of Reference in respect to the Factual Inquiry required the Commissioner to:
+"(a) to investigate and report on the actions of Canadian officials in relation to Maher Arar, including with regard to
+(i) the detention of Mr. Arar in the United States,
+(ii) the deportation of Mr. Arar to Syria via Jordan,
+(iii) the imprisonment and treatment of Mr. Arar in Syria,
+(iv) the return of Mr. Arar to Canada, and
+(v) any other circumstances directly related to Mr. Arar that the Commissioner considers relevant to fulfilling this mandate."
+[7]
+In order to allow the Commissioner to successfully complete his mandate, the Terms of Reference gave him broad powers over the rules of procedure which would govern the Inquiry. Among the most important parameters for the Commission were the following:
+"(e) the Commissioner be authorized to adopt any procedures and methods that he may consider expedient for the proper conduct of the inquiry, and to sit at any times and in any places in Canada that he may decide;
+"(f) the Commissioner be authorized to grant to any person who satisfies him that he or she has a substantial and direct interest in the subject-matter of the factual inquiry an opportunity during that inquiry to give evidence and to examine or cross-examine witnesses personally or by counsel on evidence relevant to the person's interest;
+. . . . .
+"(k) the Commissioner be directed, in conducting the inquiry, to take all steps necessary to prevent disclosure of information that, if it were disclosed to the public, would, in the opinion of the Commissioner, be injurious to international relations, national defence or national security and, where applicable, to conduct the proceedings in accordance with the following procedures, namely,
+(i) on the request of the Attorney General of Canada, the Commissioner shall receive information in camera and in the absence of any party and their counsel if, in the opinion of the Commissioner, the disclosure of that information would be injurious to international relations, national defence or national security,
+(ii) in order to maximize disclosure to the public of relevant information, the Commissioner may release a part or a summary of the information received in camera and shall provide the Attorney General of Canada with an opportunity to comment prior to its release, and
+(iii) if the Commissioner is of the opinion that the release of a part or a summary of the information received in camera would provide insufficient disclosure to the public, he may advise the Attorney General of Canada, which advice shall constitute notice under s. 38.01 of the
+Canada Evidence Act
+;
+"(l) the Commissioner be directed, with respect to the preparation of any report intended for release to the public, to take all steps necessary to prevent the disclosure of information that, if it were disclosed to the public, would, in the opinion of the Commissioner, be injurious to international relations, national defence or national security;"
+[8]
+The Terms of Reference ensured that the Commissioner would have access to all information he deemed necessary to fully investigate the events surrounding the Maher Arar affair, while guaranteeing that information injurious to international relations, national defence or national security would not be disclosed without prior authorization from the Government. In particular, s. (k) of the Terms of Reference establishes how the Commission is to handle information that is subject to national security confidentiality.
+[9]
+In a July 19, 2004 ruling on confidentiality, the Commissioner determined that he would apply the same test that a reviewing judge would apply under s. 38.06(2) of the
+CEA
+when making determinations as to whether information for which national security confidentiality is claimed should be disclosed under s. (k) of the Terms of Reference. At page 16 of the ruling the Commissioner wrote (Ruling is available online at www.ararcommission.ca):
+"I am of the view that the process set out in the Terms of Reference [s. (k)] contemplates that I should, at this stage, apply the same test that a reviewing judge would apply under s. 38.06(2) of the
+Canada Evidence Act
+."
+The Government did not apply for a judicial review of the Commissioner's July 19, 2004 ruling.
+(C) Protection of Sensitive Information
+[10]
+The Commissioner developed and published Rules of Procedure and Practice (Rules), as per his power under s. (e) of the Terms of Reference. The Rules addressed in detail the process for receiving evidence subject to national security confidentiality claims. According to the Rules, the Commissioner was to convene an in camera hearing to hear all evidence over which the Government asserted a national security confidentiality claim. After hearing all evidence in camera, the Commissioner would periodically rule as to the validity of the national security confidentiality claim asserted. As stated above, such determinations were made by applying the same test that a reviewing judge would under s. 38.06(2) of the
+CEA
+.
+[11]
+The Rules also provided that the Commissioner could appoint an independent legal counsel to act as amicus curiae during the in camera hearings so as to test, in an adversarial manner, the Government's national security confidentiality claims. The Commissioner appointed the Honourable Ron Atkey to be the amicus curiae given his expertise in national security matters and due to the fact that he served as a federal Minister of Employment and Immigration and as Chair of the Security Intelligence Review Committee (SIRC). Mr. Atkey was assisted by Mr. Gordon Cameron, who also has an expertise in national security matters having served for more than ten years as outside counsel for SIRC. It must also be noted that Mr. Atkey was one of the Commissioner's counsel in the present application.
+[12]
+After presiding over hearings where government witnesses testified as to the validity of the national security claims, the Commission also heard evidence from Mr. Reid Morden, a former Director of CSIS and a former Deputy Minister of the Department of Foreign Affairs, who has experience dealing with issues of national security confidentiality. Mr. Morden was retained as an expert advisor and witness to assist the Commissioner with disclosure decisions. In carrying out his duties, Mr. Morden reviewed the information over which the Government claimed national security confidentiality and the reasons why such confidentiality was claimed, and then testified as to the potential injurious consequences (if any) the disclosure of this information could have.
+[13]
+After the Commissioner's main evidentiary hearing concluded, Government counsel engaged in a series of discussions with the Commissioner in regards to the information that the Commissioner might wish to include in the Factual Inquiry report. These discussions resolved the vast majority of the disputes as to what information could not be disclosed for reasons of national security confidentiality. Nonetheless, after these discussions there remained certain passages which the Government maintained were not to be disclosed due to national security confidentiality but that the Commissioner insisted must be disclosed to the public. These passages were reviewed by senior government officials, including several Deputy Ministers, which resulted in the Government authorizing the disclosure of certain passages, notwithstanding the potential injury of such disclosure. The Ministers were then briefed on the remaining protected passages, and the Ministers decided not to authorize their disclosure, regardless of the fact that the Commissioner was of the opinion that their disclosure was in the public interest and was necessary to fairly recite the facts surrounding the Arar affair. As it stands approximately 99.5% of the public report has been disclosed to the public, and only the release of about 1,500 words is contested.
+[14]
+In the public report, the passages the Government claims should be protected are designated by [***], regardless of whether the designation replaces one word, one sentence or one paragraph. The decision to use this designation was made by the Government, but controversy has arisen as in the past the Government has chosen to black out text containing sensitive information, including during the Inquiry when the Government chose to black out sensitive information contained in their public exhibits.
+[15]
+It is also important to note that the Commissioner declared himself satisfied with the content of the public report. He stated in different passages throughout the public report that he was satisfied with the results of the Factual Inquiry, notwithstanding the expurgated 1,500 words. He stated that the report permits a good understanding of what happened to Mr. Arar. At pages 10 of the Analysis and Recommendations volume of the public report, the Commissioner wrote:
+"The Factual Inquiry process was thorough and comprehensive, and I am satisfied that I have been able to examine all the Canadian information relevant to the mandate ... The process was complex because of the need to keep some of the relevant information confidential, to protect national security and international relations interests ... However, I am pleased to say that I am able to make public all of my conclusions and recommendations, including those based on in camera evidence."
+At pages 11-12 of the Factual Background - Volume I, the Commissioner makes the following unequivocal statement:
+"A good deal of evidence in the Inquiry was heard in closed, or in camera, hearings, but a significant amount of this in camera evidence can be discussed publicly without compromising national security confidentiality. For that reason, this Report contains a more extensive summary of the evidence than might have been the case in a public inquiry in which all of the hearings were open to the public and all transcripts of evidence are readily available.
+While some evidence has been left out to protect national security and international relations interests, the Commissioner is satisfied that this edited account does not omit any essential details and provides a sound basis for understanding what happened to Mr. Arar, as far as can be known from official Canadian sources.
+"Finally, it should be noted that there are portions of this public version that have been redacted on the basis of an assertion of national security confidentiality by the Government that the Commissioner does not accept. This dispute will be finally resolved after the release of this public version. Some or all of this redacted information may be publicly disclosed in the future after the final resolution of the dispute between the Government and the Commission." (Emphasis added)
+Furthermore, at page 304 of the Analysis and Recommendations volume, the Commissioner wrote:
+"The Inquiry is now complete and I am comfortable that, in the end, I was able to get to the bottom of the issues raised by the mandate, as I had access to all the relevant material, regardless of any NSC claims. In this report, I have disclosed additional information that was not available for the public hearings."
+(D) Commissioner's Notice to Disclose
+[16]
+The Commission prepared two different reports at the conclusion of the Factual Inquiry: an in camera report, which includes sensitive information which may be injurious to international relations, national defence or national security; and a public report, which was released on September 18, 2006. As discussed above, the Government took issue with some of the information contained within the public report, and as a result chose to redact certain portions of it on the basis that the release of these portions of the report would cause injury to Canada's international relations, national defence, or national security.
+[17]
+On September 18, 2006 the Commissioner sent the public report, detailing the findings of the Factual Inquiry, to the Privy Council. With the report, the Commissioner included a letter to the clerk of the Privy Council stating that the information redacted from the report is information that can be disclosed to the public and is necessary to fairly recite the facts surrounding the Arar affair. In response the Government filed the present application, pursuant to s. 38.04 of the
+CEA
+, asking the Court to prohibit the disclosure of the redacted portions of the public report on the basis that they contain information that if disclosed would be injurious to international relations, national defence or national security.
+[18]
+On September 26, 2006, the Senior Assistant Deputy Minister of Justice informed the Commissioner that the Attorney General had received notice, pursuant to s. 38.02(1.1) of the
+CEA
+, that sensitive or potentially injurious information may be disclosed in connection with the Inquiry and "accordingly, the Commissioner, having provided notice on September 18, 2006, is free to disclose the information after 10 days has elapsed" (Application Record of the Attorney General, Affidavit of Simon Fothergill, Exhibit C, page 30).
+[19]
+The same day, the Deputy Attorney General wrote to the Commissioner informing him that the Government was bringing an application to the Federal Court, pursuant to s. 38.04 of the
+CEA
+, for an order prohibiting the Commission from disclosing the redacted information.
+2.
+Procedural Overview
+[20]
+On December 6, 2006, the Attorney General filed the present application with the Federal Court, pursuant to s. 38.04 of the
+CEA
+, seeking to prohibit the disclosure of the redacted portions of the Commissioner's public report.
+[21]
+In accordance with s. 38.11 of the
+CEA
+the entire application record was initially private. On December 20, 2006 Chief Justice Lutfy, with the consent of the Attorney General, made an order allowing some documents in the case to be made public. It is to be noted that unlike most other cases dealing with issues under s. 38 of the
+CEA
+one of the respondents (the Commission) has had access to the entire record and has participated in all in camera proceedings, as the Commission's counsel had access to all the information at issue during the Inquiry. Thus, only the respondent Maher Arar was denied access to the "private" materials and was excluded from the in camera hearing.
+[22]
+On February 5, 2007, Chief Justice Lutfy rendered his decision in
+ <FRAGMENT_SUPPRESSED> , where provisions similar to s. 38.11 of the
+CEA
+contained in the
+Privacy Act
+, R.S.C. 1985, c. P-21, were found to be constitutionally overbroad. In his decision, the Chief Justice concluded that the provisions requiring s. 38 of the
+CEA
+applications be heard in private violated s. 2(b) of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the Canada Act 1982 (U.K.), 1982, c. 11 (
+Charter
+), and could not be saved by s. 1 of the
+Charter
+. More specifically, Chief Justice Lutfy found that the combined effect of ss. 38.04(4), 38.11(1) and 38.12(2) of the
+CEA
+violated the open court principle which is enshrined under s. 2(b) of the
+Charter
+, and that this violation could not be saved by s. 1 (
+Toronto Star
+, at paragraphs 39, 70-72). The Chief Justice determined that the appropriate remedy to this
+Charter
+violation would be to read down the impugned sections of the
+CEA
+so that these sections apply only to the ex parte submissions provided for in s. 38.11(2) of the
+CEA
+(
+Toronto Star
+, at paragraph 83). Given this decision, the content of this application's "private" file was reviewed and documents which could be classified as "public" became part of the public file, while sensitive information and documents remained part of an ex parte (in camera) file.
+[23]
+On April 30, 2007, the Court heard a full day of public submissions in this matter. Subsequently, numerous days of ex parte (in camera) (excluding the Respondent Maher Arar and his counsel) submissions were held.
+[24]
+Following a request from the Court to review the ex parte (in camera) affidavits filed in the case given the decision and the approach taken by Chief Justice Lutfy in
+Toronto Star
+, on May 10, 2007 counsel for the Attorney General wrote to inform the Court that the Attorney General and the Commission had consented to the disclosure of five ex parte (in camera) affidavits, if portions of these remained redacted. Consequently, on May 14, 2007 the Court publicly released redacted versions of some of the ex parte (in camera) affidavits, namely those of Mr. Reid Morden, Chief Superintendant Richard Evans, Mr. Geoffrey O'Brian, X (an anonymous RCMP official), and Mr. Daniel Livermore. These affidavits became part of the public file. The contents of these affidavits are discussed in the analysis section of this judgment.
+[25]
+In response to the release of these affidavits, the Court scheduled a public hearing on the morning of May 23, 2007 to allow the Respondent, Maher Arar, to make submissions on the released affidavits. Following this hearing, the ex parte (in camera) hearing was resumed. The ex parte (in camera) hearing concluded this same day.
+[26]
+I also note that I asked counsel for both parties to address whether the Commission's in camera report, which was submitted to the Privy Council, should be made available to the Court. The parties agreed to this request and the Commission's in camera report was made available to the Court.
+[27]
+As stated earlier, I have chosen to write both a public and an ex parte (in camera) decision in this matter. The public decision will deal with the general principles at issue in this application whereas the ex parte (in camera) decision will apply the principles elaborated in the public decision to the specific information at issue in this application.
+3.
+Legislative Framework (The Judicial Test to be Met)
+[28]
+For the sake of completeness and for reference purposes I have reproduced below the sections of the
+CEA
+which are most relevant to the present application.
+"38.01(1) Every participant who, in connection with a proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information shall, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+. . . . .
+"38.02(1) Subject to subsection 38.01(6), no person shall disclose in connection with a proceeding
+(a) information about which notice is given under any of subsections 38.01(1) to (4);
+(b) the fact that notice is given to the Attorney General of Canada under any of subsections 38.01(1) to (4), or to the Attorney General of Canada and the Minister of National Defence under subsection 38.01(5);
+(c) the fact that an application is made to the Federal Court under section 38.04 or that an appeal or review of an order made under any of subsections 38.06(1) to (3) in connection with the application is instituted; or
+(d) the fact that an agreement is entered into under section 38.031 or subsection 38.04(6).
+"38.02(1.1) When an entity listed in the schedule, for any purpose listed there in relation to that entity, makes a decision or order that would result in the disclosure of sensitive information or potentially injurious information, the entity shall not disclose the information or cause it to be disclosed until notice of intention to disclose the information has been given to the Attorney General of Canada and a period of 10 days has elapsed after notice was given.
+"38.02(2) Disclosure of the information or the facts referred to in subsection (1) is not prohibited if
+(a) the Attorney General of Canada authorizes the disclosure in writing under section 38.03 or by agreement under section 38.031 or subsection 38.04(6); or
+(b) a judge authorizes the disclosure under subsection 38.06(1) or (2) or a court hearing an appeal from, or a review of, the order of the judge authorizes the disclosure, and either the time provided to appeal the order or judgment has expired or no further appeal is available.
+"38.04(1) The Attorney General of Canada may, at any time and in any circumstances, apply to the Federal Court for an order with respect to the disclosure of information about which notice was given under any of subsections 38.01(1) to (4).
+. . . . .
+"38.04(4) An application under this section is confidential. Subject to section 38.12, the Chief Administrator of the Courts Administration Service may take any measure that he or she considers appropriate to protect the confidentiality of the application and the information to which it relates.
+"38.04(5) As soon as the Federal Court is seized of an application under this section, the judge
+(a) shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the National Defence Act, the Minister of National Defence, concerning the identity of all parties or witnesses whose interests may be affected by either the prohibition of disclosure or the conditions to which disclosure is subject, and concerning the persons who should be given notice of any hearing of the matter;
+(b) shall decide whether it is necessary to hold any hearing of the matter;
+(c) if he or she decides that a hearing should be held, shall
+(i) determine who should be given notice of the hearing,
+(ii) order the Attorney General of Canada to notify those persons, and
+(iii) determine the content and form of the notice; and
+(d) if he or she considers it appropriate in the circumstances, may give any person the opportunity to make representations.
+"38.06(1) Unless the judge concludes that the disclosure of the information would be injurious to international relations or national defence or national security, the judge may, by order, authorize the disclosure of the information.
+"38.06(2) If the judge concludes that the disclosure of the information would be injurious to international relations or national defence or national security but that the public interest in disclosure outweighs in importance the public interest in non-disclosure, the judge may by order, after considering both the public interest in disclosure and the form of and conditions to disclosure that are most likely to limit any injury to international relations or national defence or national security resulting from disclosure, authorize the disclosure, subject to any conditions that the judge considers appropriate, of all of the information, a part or summary of the information, or a written admission of facts relating to the information.
+"38.06(3) If the judge does not authorize disclosure under subsection (1) or (2), the judge shall, by order, confirm the prohibition of disclosure.
+"38.06(3.1) The judge may receive into evidence anything that, in the opinion of the judge, is reliable and appropriate, even if it would not otherwise be admissible under Canadian law, and may base his or her decision on that evidence.
+"38.06(4) A person who wishes to introduce into evidence material the disclosure of which is authorized under subsection (2) but who may not be able to do so in a proceeding by reason of the rules of admissibility that apply in the proceeding may request from a judge an order permitting the introduction into evidence of the material in a form or subject to any conditions fixed by that judge, as long as that form and those conditions comply with the order made under subsection (2).
+"38.06(5) For the purpose of subsection (4), the judge shall consider all the factors that would be relevant for a determination of admissibility in the proceeding."
+"38.01(1) Tout participant qui, dans le cadre d'une instance, est tenu de divulguer ou prévoit de divulguer ou de faire divulguer des renseignements dont il croit qu'il s'agit de renseignements sensibles ou de renseignements potentiellement préjudiciables est tenu d'aviser par écrit, dès que possible, le procureur général du Canada de la possibilité de divulgation et de préciser dans l'avis la nature, la date et le lieu de l'instance.
+. . . . .
+"38.02(1) Sous réserve du paragraphe 38.01(6), nul ne peut divulguer, dans le cadre d'une instance:
+a) les renseignements qui font l'objet d'un avis donné au titre de l'un des paragraphes 38.01(1) à (4);
+b) le fait qu'un avis est donné au procureur général du Canada au titre de l'un des paragraphes 38.01(1) à (4), ou à ce dernier et au ministre de la Défense nationale au titre du paragraphe 38.01(5);
+c) le fait qu'une demande a été présentée à la Cour fédérale au titre de l'article 38.04, qu'il a été interjeté appel d'une ordonnance rendue au titre de l'un des paragraphes 38.06(1) à (3) relativement à une telle demande ou qu'une telle ordonnance a été renvoyée pour examen;
+d) le fait qu'un accord a été conclu au titre de l'article 38.031 ou du paragraphe 38.04(6).
+"38.02(1.1) Dans le cas où une entité mentionnée à l'annexe rend, dans le cadre d'une application qui y est mentionnée en regard de celle-ci, une décision ou une ordonnance qui entraînerait la divulgation de renseignements sensibles ou de renseignements potentiellement préjudiciables, elle ne peut les divulguer ou les faire divulguer avant que le procureur général du Canada ait été avisé de ce fait et qu'il se soit écoulé un délai de dix jours postérieur à l'avis.
+"38.02(2) La divulgation des renseignements ou des faits visés au paragraphe (1) n'est pas interdite:
+a) si le procureur général du Canada l'autorise par écrit au titre de l'article 38.03 ou par un accord conclu en application de l'article 38.031 ou du paragraphe 38.04(6);
+b) si le juge l'autorise au titre de l'un des paragraphes 38.06(1) ou (2) et que le délai prévu ou accordé pour en appeler a expiré ou, en cas d'appel ou de renvoi pour examen, sa décision est confirmée et les recours en appel sont épuisés.
+"38.04(1) Le procureur général du Canada peut, à tout moment et en toutes circonstances, demander à la Cour fédérale de rendre une ordonnance portant sur la divulgation de renseignements à l'égard desquels il a reçu un avis au titre de l'un des paragraphes 38.01(1) à (4).
+. . . . .
+"38.04(4) Toute demande présentée en application du présent article est confidentielle. Sous réserve de l'article 38.12, l'administrateur en chef du Service administratif des tribunaux peut prendre les mesures qu'il estime indiquées en vue d'assurer la confidentialité de la demande et des renseignements sur lesquels elle porte.
+"38.04(5) Dès que la Cour fédérale est saisie d'une demande présentée au titre du présent article, le juge:
+a) entend les observations du procureur général du Canada - et du ministre de la Défense nationale dans le cas d'une instance engagée sous le régime de la partie III de la Loi sur la défense nationale - sur l'identité des parties ou des témoins dont les intérêts sont touchés par l'interdiction de divulgation ou les conditions dont l'autorisation de divulgation est assortie et sur les personnes qui devraient être avisées de la tenue d'une audience;
+b) décide s'il est nécessaire de tenir une audience;
+c) s'il estime qu'une audience est nécessaire:
+(i) spécifie les personnes qui devraient en être avisées,
+(ii) ordonne au procureur général du Canada de les aviser,
+(iii) détermine le contenu et les modalités de l'avis;
+d) s'il l'estime indiqué en l'espèce, peut donner à quiconque la possibilité de présenter des observations.
+"38.06(1) Le juge peut rendre une ordonnance autorisant la divulgation des renseignements, sauf s'il conclut qu'elle porterait préjudice aux relations internationales ou à la défense ou à la sécurité nationales.
+"38.06(2) Si le juge conclut que la divulgation des renseignements porterait préjudice aux relations internationales ou à la défense ou à la sécurité nationales, mais que les raisons d'intérêt public qui justifient la divulgation l'emportent sur les raisons d'intérêt public qui justifient la non-divulgation, il peut par ordonnance, compte tenu des raisons d'intérêt public qui justifient la divulgation ainsi que de la forme et des conditions de divulgation les plus susceptibles de limiter le préjudice porté aux relations internationales ou à la défense ou à la sécurité nationales, autoriser, sous réserve des conditions qu'il estime indiquées, la divulgation de tout ou partie des renseignements, d'un résumé de ceux-ci ou d'un aveu écrit des faits qui y sont liés.
+"38.06(3) Dans le cas où le juge n'autorise pas la divulgation au titre des paragraphes (1) ou (2), il rend une ordonnance confirmant l'interdiction de divulgation.
+"38.06(3.1) Le juge peut recevoir et admettre en preuve tout élément qu'il estime digne de foi et approprié - même si le droit canadien ne prévoit pas par ailleurs son admissibilité - et peut fonder sa décision sur cet élément.
+"38.06(4) La personne qui veut faire admettre en preuve ce qui a fait l'objet d'une autorisation de divulgation prévue au paragraphe (2), mais qui ne pourra peut-être pas le faire à cause des règles d'admissibilité applicables à l'instance, peut demander à un juge de rendre une ordonnance autorisant la production en preuve des renseignements, du résumé ou de l'aveu dans la forme ou aux conditions que celui-ci détermine, dans la mesure où telle forme ou telles conditions sont conformes à l'ordonnance rendue au titre du paragraphe (2).
+"38.06(5) Pour l'application du paragraphe (4), le juge prend en compte tous les facteurs qui seraient pertinents pour statuer sur l'admissibilité en preuve au cours de l'instance."
+4.
+Issues
+(A) The Deference Issue
+(B) Some of the Principles and Concepts at Play
+5.
+Analysis
+(A) The Deference Issue
+[29]
+Both Respondents submit that the Court should accord deference to the Commissioner's rulings as to what information can be disclosed. The Commission, in its submissions, uses the pragmatic and functional approach to conclude that the Commissioner's findings as to whether certain information can be disclosed, notwithstanding the Government's national security confidentiality claim, should be reviewed on the reasonableness standard.
+[30]
+The Attorney General, for his part, did not directly address the question of deference to the Commissioner in his submissions. However, counsel for the Attorney General did speak to this issue at the public hearing. The Attorney General, in oral submissions, argued that the Commissioner's rulings as to whether the information at issue can be disclosed should be afforded no deference given the wording of the Terms of Reference, the role, the structure of the Commission, and the wording of s. 38 of the
+CEA
+.
+[31]
+I agree with the Attorney General. The position of the Respondents is unpersuasive on this point. The
+CEA
+is clear: where the Federal Court is seized with an application to determine whether information can be disclosed under s. 38.04, the Court after applying the criteria set out at s. 38.06 makes a determination as to whether the information in question should be disclosed. This wording indicates that the Court's role under ss. 38.04 and 38.06 of the
+CEA
+is to rule on whether particular information can be disclosed. This judicial obligation cannot be delegated. Thus, to accord deference to the Commissioner's findings, as per the Respondents' submissions, would result in the Court abdicating its role and judicial obligations under the
+CEA
+.
+[32]
+This being said, the jurisprudence is also clear that the Court's role under s. 38 of the
+CEA
+is not to judicially review a decision to disclose information. As the Federal Court of Appeal wrote in
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ):
+"It is important to remind ourselves that
+proceedings initiated pursuant to s. 38.04 of the
+Act
+for an order regarding disclosure of information are not judicial review proceedings
+. They are not proceedings aimed at reviewing a decision of the Attorney General not to disclose sensitive information. The prohibition to disclose sensitive information is a statutory one enacted by paragraph 38.02(1)(a) [as enacted by S.C. 2001, c.41, s. 43] of the
+Act
+..." (Emphasis added)
+This was also recently affirmed by Justice Mosley in
+ <FRAGMENT_SUPPRESSED> ( <FRAGMENT_SUPPRESSED> ).
+[33]
+Having said this, the Court is fully aware that the Commission has considered the matters referred to in the Terms of Reference in detail. Moreover, this Court also recognizes that the point of view expressed by the Commissioner in his rulings, and his subsequent reports, are valuable to the decision that has to be made in the present application.
+[34]
+As a general rule, a commission acts independently of the Government when conducting its inquiry and when it subsequently reports its conclusions and recommendations. However, as per s. 39(2)(a) of the
+CEA
+, a commission's report once filed with the Governor-in-Council becomes a confidence of the Privy Council. Thus, it is the executive who possesses complete power over whether to make a commission's final report public. Nonetheless, it goes without saying that if the executive chooses not to release a commission's report it would certainly have to account to the Canadian public.
+[35]
+In the situation at hand, the executive, on the advice of the Ministers consulted, chose to redact approximately 1,500 words from the public report that the Commissioner submitted to the Privy Council. The executive then took steps, under s. 38 of the
+CEA
+, to obtain an order from this Court prohibiting the disclosure of the redacted passages.
+[36]
+This is the situation that the present application creates. I feel that it is important to reiterate that the Court, contrary to other s. 38 applications, had the benefit of assessing the ex parte (in camera) hearings from different view points given that both the Commission and the Attorney General made submission at these hearings. The fact that I heard from both the Applicant and one of the Respondents can be useful in making a decision. Having said that, this Court will now fully assume all of its judicial obligations as prescribed by the
+CEA
+.
+(B) Some of the Principles and Concepts at Play
+(I)
+The <FRAGMENT_SUPPRESSED> Three-Part Test
+[37]
+The parties agree that the Court must apply the s. 38.06 of the
+CEA
+scheme to determine whether disclosure of the information at issue in the present application should be prohibited. The s. 38.06 scheme demands that the Court apply a three-step test, which was clarified by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , at paragraphs 17-21. The first step of the scheme demands that the party seeking disclosure establish that the information, for which disclosure is sought, is relevant. The second step demands that the Attorney General establish that disclosure of the information at issue would be injurious to international relations, national defence, or national security. If injury is found to exist, the last step asks the Court to determine whether the public interest in disclosure outweighs the public interest in non-disclosure, and thus whether the information at issue should be disclosed.
+[38]
+I feel it is important to emphasize that the Federal Court of Appeal's decision <FRAGMENT_SUPPRESSED> is in no way put in doubt by this decision. All parties are in agreement that the framework established in <FRAGMENT_SUPPRESSED> must be applied to determine whether the information at issue in this application can be disclosed. This being said, the facts giving rise to <FRAGMENT_SUPPRESSED> are very different from the facts in the present application. In the case at hand, we are dealing with a commission of inquiry with a mandate to investigate the actions of Canadian officials in the Arar affair, whereas <FRAGMENT_SUPPRESSED> dealt with how much of the information provided by two witnesses had to be disclosed at a criminal trial. In my view, the interests at stake are different in these two contexts: in the criminal context a person's liberty and security interests are at stake; whereas a commission of inquiry plays a unique and useful role as it undertakes a fact-finding missions to inform Canadians and provide recommendations to the Government regarding a particular situation of crisis so as to restore public confidence in the process of government.
+[39]
+Consequently, I will apply the <FRAGMENT_SUPPRESSED> framework, but will attempt to contextualize it given the particularities giving rise to this application, namely that we are dealing with a public inquiry.
+(II)
+The Relevancy of the Redacted Information
+[40]
+The first step of the s. 38.06 test demands that the party seeking disclosure establish that the information for which disclosure is sought is "in all likelihood relevant evidence" ( <FRAGMENT_SUPPRESSED> , at paragraph 17). The Federal Court of Appeal in <FRAGMENT_SUPPRESSED> specified that the threshold, at this stage, is a low one ( <FRAGMENT_SUPPRESSED> , at paragraph 17). The Court went on to say that this first step is a necessary one because if the information is found to be not relevant, the analysis under s. 38.06 will come to an end ( <FRAGMENT_SUPPRESSED> , at paragraph 17).
+[41]
+I reiterate that contrary to <FRAGMENT_SUPPRESSED> , which was a criminal case, the present application involves a commission of inquiry. In what concerns the Arar Commission, the terms of reference provide a detailed procedure on how to deal with protected information. Under the terms of reference, the Commission can receive sensitive information under s. 38.01(6)(d) and s. 38.01(8) of the
+CEA
+. Therefore, in the case at hand, the relevancy factor is to be evaluated considering the uniqueness and utility of commissions of inquiry to the government and the public.
+[42]
+As previously explained, the Terms of Reference at paragraph (k) and its subparagraphs give the Commissioner a mandate to ensure the non-disclosure of sensitive information and establish a procedure which must be followed when considering whether information can be disclosed, all in accordance with s. 38 of the
+CEA
+. To that end, the Commissioner may consider releasing a summary of the evidence heard in camera and if such a summary is not sufficient, in the Commissioner's opinion, he may inform the Applicant. Such an opinion constitutes notice under s. 38.01 of the
+CEA
+. This was the route whereby the Applicant filed the present application with the Court.
+[43]
+The Attorney General submits that the contents of the redacted portions of the public report are not relevant to the terms of reference of the Commission and that the Commissioner has never explained the relevancy of this information.
+[44]
+For his part, the Commissioner in his ex parte (in camera) decisions addressed the relevancy factor when discussing the public interest in disclosure. In his decision, the Commissioner commented that some of the information at issue, if disclosed, would help the public understand the Commissioner's recommendations. A reading of the Commissioner's three volumes shows that the Inquiry dealt with a good number of the public interest issues raised by this application, including: issues of human rights when dealing with other countries; Canada's use of information obtained through questionable means such as torture; international sharing practices post 9/11, et al.
+[45]
+Having reviewed each of the redacted portions of the Commission's public report, knowing that the threshold to establish relevance is low, and having in mind the words of Justice Cory of the Supreme Court on the importance of commissions of inquiry in
+Philips
+, above, particularly the paragraph I reproduced at paragraph 5 of this judgment, I find relevance in the redacted passages. After all, the Commissioner clearly identified the redacted information as being relevant for the purposes of his report. Surely such an opinion carries some weight. I further note that the Commissioner's determinations as to relevance may also be of some significance under the third part of the <FRAGMENT_SUPPRESSED> test, as sometimes the more relevant the redacted information, the greater the public interest in disclosure; and conversely, sometimes the less relevant the redacted information, the less the public interest in disclosure. Of course, "relevance" must be weighed against other factors so that a final determination as to disclosure can be made.
+(III)
+Providing Some Meaning to the Concept of "Injury"
+[46]
+The second step under the s. 38.06 scheme asks the Court to determine whether disclosure would be injurious to international relations, national defence, or national security. It is normally the executive, after assessing the information, who determines whether disclosure would be injurious. It is trite law in Canada, as well as in numerous other common law jurisdictions, that courts should accord deference to decisions of the executive in what concerns matters of national security, national defence and international relations, as the executive is considered to have greater knowledge and expertise in such matters than the courts (
+ <FRAGMENT_SUPPRESSED>  N.R. 125, at para. 31 (House of Lords)). Justice Létourneau of the Federal Corut of Appeal wrote in <FRAGMENT_SUPPRESSED> , at paragraph 18: "It is a given that is it not the role of the judge to second-guess or substitute his opinion for that of the executive". Also of interest, Lord Hoffman, of the House of Lords, wrote the following in a postscript in <FRAGMENT_SUPPRESSED> , above:
+"... in matters of national security, the cost of failure can be high. This seems to me to underline the need for the judicial arm of government to respect the decisions of ministers of the Crown ... It is not only that the executive has access to special information and expertise in these matters. It is also that such decisions, with serious potential results for the community, require a legitimacy which can be conferred only be entrusting them to persons responsible to the community through the democratic process. If the people are to accept the consequences of such decisions, they must be made by persons whom the people have elected and whom they can remove."
+[47]
+This being said, the onus at this stage is on the party seeking the prohibition on disclosure to convince the Court that disclosure would be injurious to international relations, national defence or national security ( <FRAGMENT_SUPPRESSED> , at paragraph 21; <FRAGMENT_SUPPRESSED> , at paragraph 65). The case law establishes that to find that an injury to international relations, national defence or national security would result from disclosure, the reviewing judge must be satisfied that the executive's opinion as to injury has a factual basis, established by evidence (see <FRAGMENT_SUPPRESSED> , at paragraph 18). Moreover, the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , using the standard of review language states that "if his [the Attorney General's] assessment of injury is reasonable, the judge should accept it" ( <FRAGMENT_SUPPRESSED> , at paragraph 19).
+[48]
+Given that the Attorney General has the burden to prove that disclosure would be injurious to international relations, national defence or national security, the question becomes: what is an "injury to international relations, national defence, or national security"? I have attempted to provide some meaning to this concept in the paragraphs that follow.
+[49]
+The
+CEA
+at s. 38 offers the following definition of "potentially injurious information":
+"'potentially injurious information' means information of a type that, if it were disclosed to the public,
+could injure
+international relations or national defence or national security." (Emphasis added)
+"'renseignements potentiellement préjudiciables' Les renseignements qui, s'ils sont divulgués,
+sont susceptibles de porter préjudice
+aux relations internationales ou à la défense ou à la sécurité nationales." (Je souligne)
+Of interest, this definition uses the word "could" whereas s. 38.06 of the
+CEA
+states that a judge is to determine whether the disclosure of information "would" be injurious to international relations, national defence, or national security. The Federal Court of Appeal in
+Jose Pereira E  <FRAGMENT_SUPPRESSED> spoke to the meaning of the words "would" and "could" in the context of the
+CEA
+:
+"Counsel for the appellants also contended that even if it could be said that Parts D and E of the Buckley certificate were effectively adopted by the respondent, the certificate is itself defective because nowhere therein is it stated, in compliance with s. 38(1), that the release of the information 'would' be injurious to Canada's international relations. That phraseology suggests that in order to secure the benefit of ss. 37 and 38 a party must show a probability that a feared injury will result from disclosure. The record contains nothing showing that the disclosure of information sought by the series of 'vote buying' questions 'would be injurious to international relations'. It is noted that the phraseology employed in Parts D and E to the Buckley certificate is 'could' and 'could reasonably' rather than 'would'.
+The statute would seem to require a showing of probability of injury instead of mere possibility.
+" (Emphasis added)
+I agree with the Federal Court of Appeal. The use of the word "would" by the legislator indicates that the Government under s. 38.06 of the
+CEA
+must satisfy the reviewing judge that the injury alleged must be probable, and not simply a possibility or merely speculative.
+[50]
+This being said, the definition of "potentially injurious information" contained in the
+CEA
+is little more than circular. I therefore turn to the ordinary meaning of the term "injury".
+[51]
+The
+Oxford English Dictionary
+defines "injury" as follows:
+"
+1.
+Wrongful action or treatment; violation or infringement of another's rights; suffering or mischief wilfully and unjustly inflicted. With
+an
+and
+pl.
+, A wrongful act; a wrong inflicted or suffered.
+"
+Ŧ2.
+Intentionally hurtful or offensive speech or words; reviling, insult, calumny; a taunt, an affront.
+Obs.
+[Cf. F.
+injure = parole offensante, outrageuse
+.]
+"
+3.
+a. Hurt or loss caused to or sustained by a person or thing; harm, detriment, damage. With
+an
+and
+pl
+. An instance of this.
+"
+Ŧb.
+concr.
+A bodily wound or sore.
+Obs. rare
+.
+"
+4.
+attrib.
+and
+Comb.
+, as
+injury-doing
+, wrong-doing;
+injury-feigning
+vbl. n. and ppl. a.;
+injury time
+, the extra time allowed in a game of football or the like to make up for time spent in attending to injuries." (The
+Oxford English Dictionary
+, 2nd Ed., s.v. "injury")
+Obviously in the context of s. 38 of the
+CEA
+definition (3) is most appropriate. This definition indicates, as do the others to an extent, that to be considered an "injury" there has to be some detriment, damage or loss. For its part, the
+Black's Law Dictionary
+defines the term "injury" as follows (
+Black's Law Dictionary
+, 7th Ed., s.v. "injury"):
+"
+1.
+The violation of another's legal right, for which the law provides a remedy; a wrong or injustice. See WRONG.
+2.
+Harm or damage. - injure, vb. - injurious, adj."
+Once again the concept of harm and damage is echoed in this definition.
+[52]
+Turning to the definition of "préjudiciable", the word used in the French version of the
+CEA
+.
+Le Petit Robert
+defines "préjudiciable" as "Qui porte, peut porter préjudice" (
+Le Petit Robert
+, 1992, s.v. "préjudiciable"). The same dicitionary defines the word "préjudice" as:
+"
+1.
+Perte d'un bien, d'un avantage par le fait d'autrui; acte ou événement nuisible aux intérêts de qqn et le plus souvent contraire au droit, à la justice.
+Causer un préjudice à qqn. Porter préjudice
+: causer du tort. Subir un préjudice. V. Dommage.
+Préjudice matériel, moral, esthétique, d'agrément, de jouissance.
+V. Dam, désavantage, détriment.
+2.
+Ce qui est nuisible pour, ce qui va contre (qqch.)
+Causer un grave préjudice à une cause, à la justice. Au préjudice de l'honneur, de la vérité.
+V. Contre, malgré." (
+Le Petit Robert
+, 1992, s.v. "préjudice")
+For its part, the
+Dictionnaire de droit Québécois et Canadien
+defines "préjudiciable" as: "qui cause ou peut causer un préjudice" (
+Dictionnaire du droit Québécois et Canadien
+, 2e édition, "préjudiciable"), and defines "préjudice" as:
+"
+1.
+Dans un sens général, atteinte portée aux droits ou aux intérêts de quelqu'un. Ex. L'administrateur du bien d'autrui est tenu de réparer le préjudice causé par sa démission si elle est donnée sans motif sérieux.
+2.
+Dommage corporel, matériel, ou moral subi par une personne par le fait d'un tiers et pour lequel elle peut éventuellement avoir le droit d'obtenir réparation." (
+Dictionnaire du droit Québécois et Canadien
+, 2e édition, "préjudice")
+The French definition reverberates the same concept as the English definition, namely that for an "injury" to exist some harm or damage must occur.
+[53]
+To further explain these principles, it is useful to consider Canadian, as well as foreign case law. Although the jurisprudence fails to explicitly define "injury to international relations, national defence or national security", the jurisprudence, particularly out of the United Kingdom, provides some indicia as to what can be considered such an injury.
+(a) Information in the Public Domain
+[54]
+ <FRAGMENT_SUPPRESSED>  B.C.A.C. 50; 275 W.A.C. 50, the Supreme Court of Canada ruled that information in the public domain could not be protected under s. 39 of the
+CEA
+, which deals with confidences of the Queen's Privy Council for Canada. At paragraph 26 of
+Babcock
+, above, Chief Justice McLachlin wrote:
+"Where a document has already been disclosed, s. 39 no longer applies. There is no longer a need to seek disclosure since disclosure has already occurred. Whether s. 39 does not apply, there may be other bases upon which the government may seek protection against further disclosure at common law [...] However, that issue does not arise on this appeal. Similarly, the issue of inadvertent disclosure does not arise here because the Crown deliberately disclosed certain documents during the course of litigation."
+Although
+Babcock
+, above, deals with s. 39 of the
+CEA
+, the same principle applies in the s. 38 of the
+CEA
+context, namely that information in the public domain cannot be protected from disclosure.  <FRAGMENT_SUPPRESSED>  (T.D.), at paragraph 35, Justice Rothstein (as he then was) discusses the principle in the s. 38 of the
+CEA
+context:
+"In many cases, the confidential information constitutes observations on existing policies and practices and how they might relate to a legal challenge [...] I am inclined to think that much of what is said to be confidential is already publicly known in one form or another. It appears that if anything, disclosure might result in some embarrassment to the respondent but why that embarrassment would harm international or federal-provincial relations is not readily evident. I think what we largely have in this case is exaggeration of the harm to Canadian interests from disclosure which ss. 37(1) and 38(1) of the
+Canada Evidence Act
+were enacted to curtail."
+[55]
+Case law emanating from the United Kingdom also supports the principle that information in the public domain cannot be protected by the courts. In the House of Lord's decision in
+ <FRAGMENT_SUPPRESSED>  (H.L.), Lord Brightman wrote at page 267:
+"The Crown is only entitled to restrain the publication of intelligence information if such publication would be against the public interest, as it normally will be if theretofore undisclosed. But
+if the matter sought to be published is no longer secret, there is unlikely to be any damage to the public interest by re-printing what all the world has already had the opportunity to read
+." (Emphasis added)
+However, even more interesting is Justice Scott's decision in the case at the Chancellery Division level, a decision which was subsequently upheld by both the Court of Appeal and the House of Lords. Justice Scott, his judgement, reproduced at page 150 of
+ <FRAGMENT_SUPPRESSED>  (Ch. D.), sets out five criteria that should be looked to when determining whether the public accessibility of information is fatal to an attempt to prohibit disclosure. These criteria are the following:
+"(1) The nature of the information - where the information is very harmful a court will be more willing to prohibit further disclosure;
+"(2) The nature of the interest sought to be protected;
+"(3) The relationship between the plaintiff (person seeking prohibition on disclosure) and the defendant;
+"(4) The manner in which the defendant has come into possession of the information - if the defendant does not have 'clean hands' a court will be more likely to prohibit the disclosure;
+"(5) The circumstances in which, and the extent to which, the information has been made public."
+[56]
+I note that the rule that information available in the public domain cannot be protected from disclosure is not an absolute. There are many circumstances which would justify protecting information available in the public domain, for instance: where only a limited part of the information was disclosed to the public; the information is not widely known or accessible; the authenticity of the information is neither confirmed nor denied; and where the information was inadvertently disclosed.
+[57]
+In Canada, the Supreme Court has left the door open to the possibility that courts can prohibit the disclosure of information that has entered the public domain through inadvertent disclosure (see
+Babcock
+, above at paragraph 54 [reproduced at paragraph 54 of this judgment]. In <FRAGMENT_SUPPRESSED> , Justice Mosley also addressed the effects of an inadvertent disclosure. At paragraph 111 of his decision, he wrote:
+"... inadvertent waiver is not enough to justify disclosure. In light of the case-by-case nature of the test, the most appropriate approach is to proceed by way of the same three step assessment; taking into account the fact that inadvertent disclosure of the information has occurred. Inadvertent disclosure may for example make it more difficult for the government to demonstrate injury under the second stage of the assessment. Inadvertent disclosure can also be considered at the balancing stage of the test, as it might weigh in favour of the Court considering the release of the information subject to conditions designed to limit any remaining concerns regarding injury."
+In my view, the circumstances of the "inadvertent disclosure" are of essence when determining whether inadvertently disclosed information can be protected by the Court. As stated by Justice Mosley, such a determination must be made keeping in mind the three-part test established under s. 38.06 of the
+CEA
+.
+(b) Information Critical of the Government or which would bring Embarrassment to the Government
+[58]
+As can be seen from the passage I have reproduced from
+K.F. Evans Ltd.
+, above (at paragraph 54 of this judgment), the Court will not prohibit disclosure where the Government's sole or primordial purpose for seeking the prohibition is to shield itself from criticism or embarrassment. This principle has also been confirmed by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 81, at paragraphs 84-85, where Justice La Forest, for the Court, wrote:
+"[84] There is a further matter that militates in favour of disclosure of the documents in the present case. The appellant here alleges unconscionable behaviour on the part of the government. As I see it, it is important that this question be aired not only in the interests of the administration of justice but also for the purpose for which it is sought to withhold the documents, namely, the proper functioning of the executive branch of government. For if there has been harsh or improper conduct in the dealings of the executive with the citizen, it ought to be revealed.
+The purpose of secrecy in government is to promote its proper functioning, not to facilitate improper conduct by the government.
+This has been stated in relation to criminal accusations in
+Whitlam
+, and while the present case is of a civil nature, it is one where the behaviour of the government is alleged to have been tainted.
+"[85] Divulgence is all the more important in our day when more open government is sought by the public. It serves to reinforce the faith of the citizen in his governmental institutions. This has important implications for the administration of justice, which is of prime concern to the courts. As Lord Keith of Kinkel noted in the
+Burmah Oil
+case, supra, at p. 725, it has a bearing on the perception of the litigant and the public on whether justice has been done." (Emphasis added)
+[59]
+Also of interest, Justice Mason of the High Court of Australia stated in his judgment in
+ <FRAGMENT_SUPPRESSED>  (Aust. H.C.), at page 51:
+"[...] But it can scarcely be a relevant detriment to the government that publication of material concerning its actions will merely expose it to public discussion and criticism. It is unacceptable in our democratic society that there should be a restraint on the publication of information relating to government when the only vice of that information is that it enables the public to discuss, review and criticise government action. Accordingly, the court will determine the government's claim to confidentiality by reference to the public interest. Unless disclosure is likely to injure the public interest, it will be protected."
+This passage was later cited with approval by Bingham, L.J., and Lord Keith of Kinkel in their respective judgments in
+Observer Ltd.
+, above.
+[60]
+The same principle has also been expressed in the
+United Nations, Johannesburg Principles: National Security, Freedom of Expression and Access to Information
+, U.N. Doc. E/CN.4/1996/39 (1996), a tool for interpreting article 19 of the United Nations' International Covenant on Civil and Political Rights, which states at Principle 2(b):
+"In particular, a restriction sought to be justified on the ground of national security is not legitimate if its genuine purpose or demonstrable effect is to protect interests unrelated to national security, including, for example, to protect a government from embarrassment or exposure of wrongdoing, or to conceal information about the functioning of its public institutions, or to entrench a particular ideology, or to suppress industrial unrest."
+Given the abundance of case law and legal documents advancing that information which is critical or embarrassing to the Government cannot be protected, there appears to me to be no reason to depart from the application of this principle.
+(IV)
+Some Meaning to the Concept of "International Relations"
+[61]
+I now turn to what is meant by the term "international relations". Canadian jurisprudence does not define this term. However,
+Black's Law Dictionary
+defines "international relations" as (
+Black's Law Dictionary
+, 7th Ed., s.v. "international relations"):
+"
+1.
+World politics.
+2.
+Global political interaction primarily among sovereign nations.
+3.
+The academic discipline devoted to studying world politics, embracing international law, international economics, and the history and art of diplomacy."
+Given this definition and the purpose of s. 38 of the
+CEA
+, "information injurious to international relations" refers to information that if disclosed would be injurious to Canada's relationship with foreign nations.
+(V)
+Some Meaning to the Concept of "National Defence"
+[62]
+As for the term "national defence",
+Black's Law Dictionary
+defines the term as follows (
+Black's Law Dictionary
+, 7th Ed., s.v. "national defense"):
+"
+1.
+All measures taken by a nation to protect itself against its enemies • A nation's protection of its collective ideals and values is included in the concept of national defense.
+2.
+A nation's military establishment."
+In my view given the purpose of s. 38, namely to prevent the release of information that could be injurious, the
+Black's Law Dictionary
+'s broad definition of what constitutes national defence is appropriate.
+(VI)
+Some Meaning to the Concept of "National Security"
+[63]
+Unlike the terms "international relations" and "national defence", whose definition is widely and more easily understood, the meaning of this term is not commonly known, and there has been great debate in the academic world as to what it delineates. The
+Canadian Security Intelligence Service Act
+, R.S.C. 1985, c. C-23, at s. 2, offers the following definition of "threats to the security of Canada":
+"'threats to the security of Canada' means
+(a) espionage or sabotage that is against Canada or is detrimental to the interests of Canada or activities directed toward or in support of such espionage or sabotage,
+(b) foreign influenced activities within or relating to Canada that are detrimental to the interests of Canada and are clandestine or deceptive or involve a threat to any person,
+(c) activities within or relating to Canada directed toward or in support of the threat or use of acts of serious violence against persons or property for the purpose of achieving a political, religious or ideological objective within Canada or a foreign state, and
+(d) activities directed toward undermining by covert unlawful acts, or directed toward or intended ultimately to lead to the destruction or overthrow by violence of, the constitutionally established system of government in Canada,
+but does not include lawful advocacy, protest or dissent, unless carried on in conjunction with any of the activities referred to in paragraphs (a) to (d)."
+"'menaces envers la sécurité du Canada'
+Constituent des menaces envers la sécurité du Canada les activités suivantes:
+a) l'espionnage ou le sabotage visant le Canada ou préjudiciables à ses intérêts, ainsi que les activités tendant à favoriser ce genre d'espionnage ou de sabotage;
+b) les activités influencées par l'étranger qui touchent le Canada ou s'y déroulent et sont préjudiciables à ses intérêts, et qui sont d'une nature clandestine ou trompeuse ou comportent des menaces envers quiconque;
+c) les activités qui touchent le Canada ou s'y déroulent et visent à favoriser l'usage de la violence grave ou de menaces de violence contre des personnes ou des biens dans le but d'atteindre un objectif politique, religieux ou idéologique au Canada ou dans un État étranger;
+d) les activités qui, par des actions cachées et illicites, visent à saper le régime de gouvernement constitutionnellement établi au Canada ou dont le but immédiat ou ultime est sa destruction ou son renversement, par la violence.
+La présente définition ne vise toutefois pas les activités licites de défense d'une cause, de protestation ou de manifestation d'un désaccord qui n'ont aucun lien avec les activités mentionnées aux alinéas a) à d)."
+For its part, the
+Access to Information Act
+, R.S.C. 1985, c. A-1, at s. 15, talks about "the detection, prevention or suppression of subversive or hostile activities". At s. 15(2) of the
+Act
+, the term "subversive or hostile activities" is defined as:
+"'Subversive or hostile activities' means:
+(a) espionage against Canada or any state allied with or associated with Canada;
+(b) sabotage;
+(c) activities directed toward the commission of terrorist acts, including hijacking, in or against Canada or foreign states;
+(d) activities directed toward accomplishing government change within Canada or foreign states by the use of or encouragement of the use of force, violence or any criminal means;
+(e) activities directed toward gathering information used for intelligence purposes that relates to Canada or any state allied or associated with Canada; and
+(f) activities directed toward threatening the safety of Canadians, employees of the Government of Canada or property of the Government of Canada outside Canada."
+"'activités hostiles ou subversives'
+a) L'espionnage dirigé contre le Canada ou des États alliés ou associés avec le Canada;
+b) le sabotage;
+c) les activités visant la perpétration d'actes de terrorisme, y compris les détournements de moyens de transport, contre le Canada ou un État étranger ou sur leur territoire;
+d) les activités visant un changement de gouvernement au Canada ou sur le territoire d'États étrangers par l'emploi de moyens criminels, dont la force ou la violence, ou par l'incitation à l'emploi de ces moyens;
+e) les activités visant à recueillir des éléments d'information aux fins du renseignement relatif au Canada ou aux États qui sont alliés ou associés avec lui;
+f) les activités destinées à menacer, à l'étranger, la sécurité des citoyens ou des fonctionnaires fédéraux canadiens ou à mettre en danger des biens fédéraux situés à l'étranger."
+[64]
+Case law provides some meaning to the term as well. The Supreme Court in
+Suresh
+, above, commented on the meaning of the term "danger to the security of Canada". At paragraphs 88-90, Justice Arbour (as she then was), writing for the majority of the Court, stated the following:
+"88 [...] These considerations lead us to conclude that to insist on direct proof of a specific threat to Canada as the test for 'danger to the security of Canada' is to set the bar too high.
+There must be a real and serious possibility of adverse effect to Canada. But the threat need not be direct; rather it may be grounded in distant events that indirectly have a real possibility of harming Canadian security.
+"89 While the phrase 'danger to the security of Canada' must be interpreted flexibly, and while courts need not insist on direct proof that the danger targets Canada specifically, the fact remains that to return (refouler) a refugee under s. 53(1)(b) to torture requires evidence of a serious threat to national security. To suggest that something less than serious threats founded on evidence would suffice to deport a refugee to torture would be to condone unconstitutional application of the
+Immigration Act
+. Insofar as possible, statutes must be interpreted to conform to the Constitution. This supports the conclusion that while 'danger to the security of Canada' must be given a fair, large and liberal interpretation, it nevertheless demands proof of a potentially serious threat.
+"90 These considerations lead us to conclude that a person constitutes a 'danger to the security of Canada' if he or she poses a serious threat to the security of Canada, whether direct or indirect, and bearing in mind the fact that the security of one country is often dependent on the security of other nations.
+The threat must be 'serious', in the sense that it must be grounded on objectively reasonable suspicion based on evidence and in the sense that the threatened harm must be substantial rather than negligible.
+" (Emphasis added)
+[65]
+For its part, the House of Lords under the penmanship of Lord Slynn of Hadley in <FRAGMENT_SUPPRESSED> wrote ( <FRAGMENT_SUPPRESSED> , above, at paragraphs 15-16):
+"[...] 'the interests of national security' cannot be used to justify any reason the Secretary of State has for wishing to deport an individual from the United Kingdom. There must be some possibility of risk or danger to the security and well-being of the nation which the Secretary of State considers makes it desirable for the public good that the individual should be deported.
+But I do not accept that this risk has to be the result of 'a direct threat' to the United Kingdom [...] Nor do I accept that the interests of national security are limited to action by an individual which can be said to be 'targeted at' the United Kingdom, its system of government or its people [...]
+"[...]
+The sophistication of means available, the speed of movement of persons and goods, the speed of modern communication, are all factors which may have to be taken into account in deciding whether there is a real possibility that the national security of the United Kingdom may immediately or subsequently be put at risk
+[...] To require the matters in question to be capable of resulting 'directly' in a threat to national security limits too tightly the discretion of the executive in deciding how the interests of the state, including not merely military defence but democracy, the legal and constitutional systems of the state need to be protected. I accept that there must be a real possibility of an adverse effect on the United Kingdom for what is done by the individual under inquiry but I do not accept that it has to be direct or immediate [...]" (Emphasis added)
+[66]
+I now turn to the definitions offered of the term "national security" by some of the legal scholars. Mr. Stanley Cohen, in his book
+Privacy, Crime and Terror: Legal Rights and Security in a Time of Peril
+(Markham: LexisNexis Canada, 2005) at pages 161-164, offers the following definition of national security:
+"Although a pivotal concept, 'national security' and the related, if not equivalent phrase, 'danger to the security of Canada', have been regarded as notoriously difficult to define. Nevertheless, despite possessing a degree of imprecision, the concept of 'danger to the security of Canada' is not unconstitutionally vague. In
+Suresh
+, at the level of the Federal Court of Appeal, Robertson, J.A., found, in the context of deportation proceedings, that the phrase was constitutionally sufficient. He acknowledged that the phrase was imprecise but reasoned that whether a person poses a danger to the security of Canada may be determined by 'the individual's degree of association or complicity with a terrorist organization'.
+. . . . .
+"'National security' also finds expression in the
+Canadian Evidence Act
+(
+CEA
+) in the context of the
+Act
+'s definitions of 'potentially injurious information' and 'sensitive information'. In both instances, the concept is linked with information relating to national defence and international security, although, clearly, these matters are not co-extensive.
+"As Lustgarten and Leigh point out in their fine text,
+In From the Cold: National Security and Parliamentary Democracy
+, the phrase 'national security' is actually a relative newcomer to the lexicon of international affairs and political science. In the U.K., the wealth of statutes and regulations giving extraordinary powers to the Executive and its officials were generically entitled and drew their justifications from the need for Defence of the Realm. 'National security', at least in the United States and the United Kingdom, seemingly has drawn its currency from the American practice and experience.
+"The use of this terminology rather than national 'defence' has important implications for foreign policy, signalling 'a more grandly ambitious conception of that nation's [America's] role in world affairs'. As is evident, the term 'national security' also has great currency in Canada, notwithstanding this country's rather more modest claims in the international arena."
+[67]
+For his part, Professor Craig Forcese wrote the following in what concerns the definition of "national security" in his 2006 paper
+Through a Glass Darkly: The Role and Review of "National Security" Concepts in Canadian Law
+(43 Alta. L. Rev. 963):
+"... Canada's National Defence College defined national security in 1980 as the preservation of a way of life acceptable to the Canadian people and compatible with the needs and legitimate aspirations of others. It includes freedom from military attack or coercion, freedom from internal subversion, and freedom from the erosion of the political, economic, and social values which are essential to the quality of life in Canada.
+. . . . .
+"A slightly more focused definition of national security has been offered by the U.S. Department of Defense:
+National Security is a collective term encompassing both national defence and international relations of the United States. Specifically, the condition provided by:
+a) military or defence advantage over any foreign nation or group of nations;
+b) favourable foreign relations position; or
+c) defence posture capable of successfully resisting hostile or destructive action from within or without, overt or covert.
+. . . . .
+"Still another definition, one that boils a broad definition of national security is as follows:
+"Central to [a] kind of national security policy ... [based on the preservation of a way of life acceptable to the Canadian people and the security of people, national institutions, and freedoms from unlawful harm, armed attacks and other violence] and three principal frameworks: deterrence against attacks; defence against those attacks that you can identify; and then a credible ability to defeat attacks on our national security."
+[68]
+From these definitions "national security" means at minimum the preservation of the Canadian way of life, including the safeguarding of the security of persons, institutions and freedoms in Canada.
+[69]
+This being said, to properly understand the national security claims at issue in this application some of the grounds on which such claims can succeed must be made known. As a brief overview, the Attorney General submits the following types of information should not be disclosed:
+(a) Information collected and within the possession of intelligence agencies and law enforcement agencies (to a certain extent);
+(b) Information obtained from foreign intelligence agencies or law enforcement agencies (Third Party Rule);
+(c) Information relating to targets of investigations or persons of interest;
+(d) The name of sources, modes of operations, and situation assessments made intelligence and law enforcement agencies;
+(e) Information that if pieced into the general picture may permit a comprehensive understanding of the information being protected (Mosaic Effect).
+I will specifically address the Third Party Rule, the Mosaic Effect, and the impact of disclosure on international relations in the paragraphs that follow.
+(VII)
+The Third Party Rule
+[70]
+In order to consolidate and to insure the steady flow of information, law enforcement and intelligence agencies have historically relied on the third party rule. This rule is an understanding among information sharing parties that the providers of the information will maintain control over the information's subsequent disclosure and use. In other words, agencies receiving information under the third party rule promise not to disclose the information they receive unless they obtain permission from the source. This being said, the third party rule is one that is sacred among law enforcement and intelligence agencies and is premised on mutual confidence, reliability and trust. X (for the RCMP), an affiant for the Applicant, describes this rule in his affidavit as an "understanding among information sharing partners that the party providing information controls the subsequent dissemination and use of that information beyond the receiving party" (Public Affidavit of X (for the RCMP), at paragraph 23).
+[71]
+The Attorney General submits that if the third party rule is breached, the bilateral relationship between the party sharing information and Canada could be detrimentally affected. The Attorney General also submits that because the law enforcement and intelligence communities are relatively small, if Canada is viewed as unreliable and untrustworthy by one country this view may be adopted by other countries that may have access to information of interest to Canada. As per X (for the RCMP)'s affidavit, strict adherence to the third party rule is necessary to maintain relationships with law enforcement and intelligence partners so as to continue to receive information from them.
+[72]
+The Attorney General, through its submissions and its affidavits, also explains that under the third party rule it is possible to seek consent for disclosure from providers of the information. Such consent is generally sought in the law enforcement context, where the receiving agency wishes to press charges based on the information obtained. X (for the RCMP)'s affidavit explains that although a procedure exists for seeking consent to disclosure, if the RCMP were to seek consent to disclose the information in this case, the RCMP's commitment to the third party rule may be questioned as disclosure would be sought for a purpose other than law-enforcement, and therefore outside the general accepted parameters for seeking consent (X (for the RCMP)'s affidavit, at paragraph 42).
+[73]
+The respondent Maher Arar submits that the third party rule does not apply unless the information obtained by Canada is specifically marked as "confidential", or otherwise designated as being protected by the third party rule. Thus, only where information is marked as being protected will Canada be required to obtain consent before disclosing such information. Counsel to Mr. Arar referred to the Federal Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), which provides an in-depth overview of the third party rule in the context of the
+Access to Information Act
+. Justices Létourneau and Robertson writing for the Court, state at paragraphs 101-111:
+"Section 19 is a qualified mandatory exemption: the head of a government institution must refuse to disclose personal information obtained in confidence from another government or an international organization of states unless that government or institution consents to disclosure or makes the information public. This is generally referred to as the third party exemption.
+. . . . .
+"It is true that the primary thrust of the s. 19 exemption is non-disclosure of the information but, as we already mentioned, it is not an absolute prohibition against disclosure. This exemption, like the others, has to be read in the overall context of the
+Act
+which favours access to the information held. Subsection 19(2) authorizes the head of a government institution to disclose the information where the third party consents.
+. . . . .
+"In our view, a request by an applicant to the head of a government institution to have access to personal information about him includes a request to the head of that government institution to make reasonable efforts to seek the consent of the third party who provided the information [...]
+"[...] This means that the reviewing Judge ought to ensure that CSIS has made reasonable efforts to seek the consent of the third party who provided the requested information. If need be, a reasonable period of time should be given by the reviewing Judge to CSIS to comply with the consent requirement of paragraph 19(2)(a)."
+In summary, the Federal Court of Appeal in
+Ruby
+indicates that consent to disclosure is necessary to not violate the third party rule and that law enforcement and intelligence agencies have a duty to prove that they made reasonable efforts to obtain consent to disclosure or they must provide evidence that such a request would be refused if consent to disclosure was sought.
+[74]
+Mr. Arar also argues that the Attorney General provided no specific information as to why seeking consent to disclosure would cause harm to Canada. According to Mr. Arar, the argument that seeking consent to disclosure is different in the law-enforcement context and in the context of a public inquiry is not compelling. Mr. Arar explains that the goals of the Inquiry, namely to look into the potential wrongdoings of Canadian officials in the Arar affair as well as recommend a review mechanism for the RCMP's national security activities, are reasons as compelling as criminal prosecutions for seeking consent to disclosure.
+[75]
+Moreover, Mr. Arar contends that if seeking consent, on its own, amounts to harm, depending on the country from which disclosure is sought, the likelihood of harm may be limited. If the information originates from countries such as the United Kingdom or the United States, or other western democracies, seeking consent is unlikely to cause harm as these countries have legal systems similar to Canada's and therefore understand the role and importance of public inquiries for promoting democratic governance. According to Mr. Arar this is particularly true of the United States, as the country was approached by the Commission and was invited to participate in the Inquiry, but refused to do so. Finally, Mr. Arar submits that seeking consent to disclosure, on its own, is unlikely to cause harm, especially as the fact that consent is sought does not mean that consent will be given and that the information at issue will be disclosed.
+[76]
+Furthermore, Mr. Arar submits that with respect to other regimes such as Syria, it is unlikely that consent to disclosure would cause further harm to Syria's relationship with Canada. The fact that the Commission substantiated Mr. Arar's claims that he was tortured by Syrian officials and that the Government of Canada has made an official complaint to the Syrian government with respect to Mr. Arar's torture while in Syrian jail has probably soured relations between the two countries more than seeking consent to disclosure could.
+[77]
+This being said, in my view the third party rule is of essence to guarantee the proper functioning of modern police and intelligence agencies. This is particularly true given that organized criminal activities are not restricted to the geographic territory of a particular nation and that recent history has clearly demonstrated that the planning of terrorist activities is not necessarily done in the country where the attack is targeted so as to diminish the possibility of detection. Consequently, the need for relationships with foreign intelligence and policing agencies, as well as robust cooperation and exchanges of information between these agencies, is essential to the proper functioning of policing and intelligence agencies worldwide.
+[78]
+Furthermore, I note that information sharing is particularly important in the Canadian context as it is recognized that our law enforcement and intelligence agencies require information obtained by foreign law enforcement and intelligence agencies in order to nourish their investigations. It has been recognized time and time again that Canada is a net importer of information, or in other words, that Canada is in a deficit situation when compared with the quantity of information it provides to foreign nations. The Supreme Court in
+Charkaoui, Re
+(2007), 358 N.R. 1; 2007 SCC 9, noted at paragraph 68:
+"The protection of Canada's national security and related intelligence sources undoubtedly constitutes a pressing and substantial objective ... The facts on this point are undisputed. Canada is a net importer of security information. This information is essential to the security and defence of Canada, and disclosure would adversely affect its flow and quality."
+[79]
+In my view breaching the third party rule can be compared to the breach of one's contractual obligations. In contract law, the effect of a breach of a contract is not necessarily clear at the moment of the breach. However, after a breach occurs numerous possible scenarios may come true. The first being that the innocent party may begin proceedings against the breaching party for damages. The second being that the innocent party takes no outright action, however they view the breaching party as unreliable and untrustworthy which may affect the relationship to varying degrees, the extent of which are generally only known to the innocent party. The third being that nothing occurs. This could happen for various reasons, among them that the contract is viewed as unimportant, the innocent party wished the contract to come to an end, the innocent party is empathetic as they would have taken the same action as the breaching party, etc. In my view these same scenarios are possible where a breach of the third party rule occurs. If Canada were to breach the third party rule, depending on the particular circumstances injury could occur. However, the extent of the harm which may follow would not be easy to assess as it is impossible to predict the future. In other words, a breach of the third party rule may cause harm and may affect the flow of information to Canada. However, in many cases, only the non-breaching party will fully know the effect of a breach to this rule.
+[80]
+When determining whether disclosure will cause harm, it is also important to consider the nature of Canada's relationship with the law enforcement or intelligence agency from which the information was received. It is recognized that certain agencies are of greater importance to Canada and thus that more must be done to protect our relationship with them. Consequently, care must be taken when considering whether to circumvent the third party rule in what concerns information obtained from our most important allies.
+[81]
+This being said, the severity of the harm that may be caused by a breach of the third party rule can be assessed under the third part of the s. 38.06 test when the reviewing judge balances the public interest in disclosure against the public interest in non-disclosure.
+(VIII)
+The Mosaic Effect
+[82]
+This Court and numerous others have written at length about the "mosaic effect". This principle advances that information, which in isolation appears meaningless or trivial, could when fitted together permit a comprehensive understanding of the information being protected. Justice Mosley in <FRAGMENT_SUPPRESSED> at paragraph 136 cites to
+ <FRAGMENT_SUPPRESSED>  (T.D.), at para. 30, affd. (1992), 140 N.R. 315; 88 D.L.R.(4th) 575 (F.C.A.), to describe the "mosaic effect":
+"The mosaic effect was aptly described by the Federal Court in
+ <FRAGMENT_SUPPRESSED>  (C.A.) [ <FRAGMENT_SUPPRESSED> ] wherein the Court recognized:
+'30 It is of some importance to realize than an "informed reader", that is, a person who is both knowledgeable regarding security matters and is a member of or associated with a group which constitutes a threat or a potential threat to the security of Canada, will be quite familiar with the minute details of its organization and of the ramifications of its operations regarding which our security service might well be relatively uninformed. As a result, such
+an informed reader may at times, by fitting a piece of apparently innocuous information into the general picture which he has before him, be in a position to arrive at some damaging deductions
+regarding the investigation of a particular threat or of many other threats to national security ...'" (Emphasis in the original)
+[83]
+The Attorney General submits that in what concerns the particular information at issue in this application, probable injury would occur if the information is disclosed due to the "mosaic effect". The affiant X (for the RCMP) explains that "the more limited the dissemination of some of the information, the more likely an informed reader can determine the targets, sources and methods of operation of the agency" (Affidavit of X (for the RCMP), at paragraph 48). Mr. O'Brian, in his affidavit, also explains that CSIS is particularly concerned with the mosaic effect. At paragraphs 32-33 of his affidavit, Mr. O'Brian wrote:
+"... in the hands of an informed reader, seemingly unrelated pieces of information, which may not in and of themselves be particularly sensitive, can be used to develop a more comprehensive picture when compared with information already known by the recipient or available from another source.
+"By fitting the information disclosed by the Service with what is already known, the informed reader can determine far more about the Service's targets and the depth of its knowledge than a document on its face reveals to an uninformed reader. In addition, by having some personal knowledge of the Service's assessments and conclusions on an individual or the depth, or lack, of its information regarding specific threats would alert some persons to the fact that their activities escaped investigation by the Service."
+[84]
+This being said, the mosaic effect is obviously of concern. However, I agree with my colleague Justice Mosley's recent conclusion in <FRAGMENT_SUPPRESSED> , at paragraph 136, that the mosaic effect, on its own, will not usually provide sufficient reason to prevent disclosure of what would otherwise appear to be an innocuous piece of information. Thus, further evidence will generally be required to convince the Court that a particular piece of information, if disclosed would be injurious to international relations, national defence or national security. Consequently the Attorney General, at minimum, will have to provide some evidence to convince the Court that disclosure would be injurious due to the mosaic effect. Simply alleging a "mosaic effect" is not sufficient. There must be some basis or reality for such a claim, based on the particulars of a given file.
+(IX)
+The Impact of Disclosure on International Relations
+[85]
+The Attorney General, particularly through the affidavit of Mr. Daniel Livermore, explains how disclosure of information could be injurious to international relations. Below, I have detailed the various effects which the Attorney General claims disclosure would have, as well as the injury following from each of them. I note that some of the injurious effects described do not specifically apply to the factual situation of this application, but for the sake of completeness and for future reference, I have included them in this decision.
+(a) Disclosure of Comments made by Foreign Officers
+[86]
+Mr. Livermore in his affidavit writes that in the normal course of diplomatic exchanges, information is provided in confidence to foreign officials with the expectation that such information will remain confidential. Mr. Livermore goes on to state that the release of information acquired by Canada through diplomatic exchanges would undermine Canada's credibility as a privileged interlocutor with the foreign officers and the foreign government in question. Mr. Livermore also suggests that it is international practice that information provided in confidence by foreign officials is to remain confidential and that the names of foreign officials who provide such information are to remain confidential. To do otherwise, according to Mr. Livermore, would severely affect Canada's ability to pursue its foreign policy objectives.
+[87]
+Reid Morden, affiant for the Commission, agrees in part with Mr. Livermore. Mr. Morden in his affidavit states at paragraph 18 that:
+"Without question, one must exercise judgment before disclosing comments made by foreign officials. This judgment involves weighing the release of the information against the broader public interest. However, this balancing process must be done on a case by case basis."
+(b) Public Criticism of Foreign Governments
+[88]
+According to Mr. Livermore public negative comments made by Canadian diplomats about foreign governments can cause injury. Mr. Livermore, in his affidavit, explains that the fundamental purpose of Canadian diplomatic presence in a country is to maintain influential channels of communication to protect Canadians and advance a wide range of Canadian interests including the respect for human rights, democracy, and the rule of law. Furthermore, the affiant states that to permit Canadian officials to make public negative comments about a foreign government would diminish Canada's influence in the country at which the comments are aimed, and would diminish Canada's capacity to protect Canadians in distress through consular services.
+[89]
+Mr. Livermore also suggests that the release of confidential assessments of human rights situations of foreign countries, as well as other assessments of situations in foreign countries, may affect the willingness of foreign states to engage with Canada on such issues.
+[90]
+For its part, the Commission submits, through its affiant Reid Morden, that public criticism of a country's human rights record would not necessarily have an adverse impact on Canada's relations with that country or on information sharing. Mr. Morden points to the fact that the United States publicly criticizes countries with poor human rights records and publishes this criticism in report format on the official website of the State Department, yet retains good relations with many of these countries.
+(X)
+If Injury is found to exist, which Interest prevails, the Public Interest in Disclosure or the Public Interest in Non-Disclosure
+[91]
+The last step of the analysis under s. 38.06 of the
+CEA
+demands that a reviewing judge consider whether the public interest in disclosure outweighs the public interest in non-disclosure. It must be noted that a judge will normally only undertake such an analysis where an injury to international relations, national defence or national security is found to exist. However, in the present case which involves a Commission of inquiry and because of the issues at play, I undertook such an analysis even though I concluded that disclosing some of the information would not be injurious.
+[92]
+This being said and keeping in mind that the present application involves a Commission of inquiry, the weighing of the public interest in disclosure against the public interest in non-disclosure involves assessing numerous factors. These factors can only be identified after the factual issues at hand are properly understood. Once the factors at play in a particular proceeding are identified, they are individually assessed and then weighed against one another. It is only once this exercise is complete that a proper determination as to whether the public interest favours disclosure or non-disclosure can be made. In the following paragraphs I will identify some of the factors considered in the present application, keeping in mind that it involves a commission of inquiry.
+[93]
+One factor which was considered was the relevance of the redacted information. In some circumstances, the higher the relevance of the redacted information, the greater the public interest in disclosure and conversely the less relevant the information the greater the public interest in non-disclosure. I reiterate, such an assessment cannot in itself be determinative of the interest since it can only be made after all the factors at play in a particular proceeding are identified and assessed. A second factor which can be considered is the extent of the injury that would occur if the information is disclosed. It may be that the less severe the injury the greater the public interest in disclosure, and conversely the greater the injury the greater the public interest in non-disclosure. As an example, where a human source or an investigative technique would be disclosed, the injury likely to occur would be very grave and therefore the public interest would favour non-disclosure; however, where the only injury is a loss of control of the information, the injury would be less severe and therefore the public interest would tip in favour of disclosure. Again, this assessment is not determinative in itself, as a determination as to whether the public interest lies in disclosure or non-disclosure can only be made after all the factors at play in a particular proceeding are identified and assessed.
+[94]
+Below, I have detailed the various interests raised by both Respondents in favour of public disclosure. I note that it is impossible to comment on the persuasiveness of the public interest arguments raised in this public judgment. Nonetheless, I can say that I have considered each of these arguments when weighing the public interest in disclosure against the public interest in non-disclosure.
+[95]
+The Commission submits that disclosure is necessary to promote the "open court" principle. Public inquiries play an important role in democracy by ensuring that Government officials are accountable. A commission's ability to reveal the truth to the public about a particular controversy may allow the public to regain its confidence in governing institutions. The Commission also submits that only through maximum disclosure will the Government be exposed to public scrutiny, which is, according to the Commission "unquestionably the most effective tool in achieving accountability for those whose action[sic] are being examined". (Commission's Memorandum of Fact and Law, at paragraph 59). Keeping these concepts in mind, it is important to remember that the Commissioner declared himself satisfied with the content of the public report (see paragraph 15 of the present decision). In my view, this opinion is an element to consider when balancing the public interest in disclosure against the public interest in non-disclosure.
+[96]
+The Respondent Mr. Arar, for his part, submits that not disclosing the redacted information would undermine the very purpose of calling the Inquiry. According to Mr. Arar, he has a
+right to know
+the facts relating to his detention, deportation and torture. Furthermore, he claims that the redactions within the public report may contain information which is necessary for the public to understand the actions of the RCMP and CSIS in the Arar affair. In particular, he believes that at least some of the redactions relate to the candour of certain CSIS operatives, who may have misled their superiors. Mr. Arar also argues that the redactions conceal the fact that briefings to numerous Ministers were inadequate and that the RCMP's investigation and adherence to information sharing protocols was deficient. Thus, Mr. Arar views disclosure as in the public interest to fully understand the inadequacies of the various organizations and officials who played a role in the Arar affair and to promote transparency and responsible government.
+[97]
+Mr. Arar also submits that disclosure is in the public interest as it would clarify whether "purchased information" produces reliable intelligence upon which action can be taken, especially where such information is obtained by torture. According to Mr. Arar full disclosure is of essence to determine whether our intelligence services rely on information extracted under torture. According to Mr. Arar such a determination is important as torture is a crime of universal jurisdiction, and if information obtained through torture is used by intelligence agencies in Canada these organizations may be considered complicit in torture. Given these submissions, Mr. Arar believes that the Inquiry is "inexorably linked" with the cases of Abdullah Almalki and Ahmed El Maati. Consequently, he feels that disclosure in the Arar Inquiry is necessary for the proper investigation of the Almalki and El Maati affairs and only through disclosure will the "pattern of conduct of Canadian intelligence agencies and the possible use of Syria and other undemocratic regimes as proxy torturers" be disclosed (Memorandum of the Respondent Maher Arar, dated April 19, 2007, at paragraph 42).
+[98]
+This being said, for the purposes of this proceeding, which considers the application of s. 38 of the
+CEA
+when dealing with a commission of inquiry, I have identified some non-exhaustive factors which must be assessed and weighed against one another to determine whether the public interest lies in disclosure or in non-disclosure:
+(a) The extent of the injury;
+(b) The relevancy of the redacted information to the procedure in which it would be used, or the objectives of the body wanting to disclose the information;
+(c) Whether the redacted information is already known to the public, and if so, the manner by which the information made its way into the public domain;
+(d) The importance of the open court principle;
+(e) The importance of the redacted information in the context of the underlying proceeding;
+(f) Whether there are higher interests at stake, such as human rights issues, the right to make a full answer and defence in the criminal context, etc.;
+(g) Whether the redacted information relates to the recommendations of a commission, and if so whether the information is important for a comprehensive understanding of the said recommendation.
+[99]
+I reiterate, the weighing of the public interest in disclosure against the public interest in non-disclosure must consider a number of different factors. It is only once these factors have been properly assessed and weighed against one another that a determination as to disclosure can be made.
+6.
+Brief Comments on the Ex Parte (In Camera) Decision
+[100]
+As mentioned at the beginning of this judgment, I am also issuing a twin ex parte (in camera) 82 pages (178 paragraphs) decision today. The ex parte (in camera) decision considers some of the principles (with the particular situation of the file) overviewed in the public decision. In the end, I have agreed in part with the Attorney General and in part with the Commission.
+7.
+Conclusion
+[101]
+For the sake of transparency and to aid in understanding this public judgment, I am including the order issued in the ex parte (in camera) judgment, without the table which details my determination on disclosure for each redacted passage. Obviously, the reason why the table is not included is to protect the sensitive information contained in the redacted passages, the whole subject to the right of appeal provided for by the
+CEA
+.
+ORDER
+[102]
+IN ACCORDANCE WITH SECTIONS 38.04 AND 38.06 OF THE
+CEA
+, THIS COURT ORDERS that:
+- The information, disclosure of which is identified as not injurious and/or for which the public interest in disclosure prevails, as contained in the table that is part of the ex parte (in camera) order (not included in the present public order so as to respect the objectives of the
+CEA
+), is authorized for disclosure, the whole subject to the right to appeal the said order as provided in the
+Act
+; and
+- The remaining information, disclosure of which is identified as injurious and/or for which the public interest in non-disclosure prevails, as contained in the table that is part of the ex parte (in camera) order (not included in the present public order so as to respect the objectives of the
+CEA
+), not be disclosed, and the present order confirms the prohibition of disclosure thereof;
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

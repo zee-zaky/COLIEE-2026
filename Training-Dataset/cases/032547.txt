@@ -1,0 +1,240 @@
+I.
+Background
+[1]
+Hugessen, J.
+: This is an action in which the plaintiffs seek a declaration that s. 12.1 of the
+Public Service Superannuation Regulations
+, C.R.C., c. 1358 (the
+PSSRs
+), violates s. 15(1) of the
+Canadian Charter of Rights and Freedoms
+(the
+Charter
+) and is of no force and effect; the plaintiffs also seek retroactive "relief" from the date when their pension benefits were frozen as they reached the age of 71.
+II.
+Facts
+[2]
+The facts are not in dispute and the case was tried on an agreed statement. The plaintiffs are employed as lawyers with the Department of Justice, and are, accordingly, public service employees.
+[3]
+Pursuant to the
+Public Service Superannuation
+Act
+, R.S.C. 1985, c. P-36 (the
+PSSA
+), all eligible public service employees are, and have for many years been, required to contribute a portion of their salary to the Public Service Pension Fund (the Fund). Once an employee has provided 35 years of pensionable service, contributions are no longer deducted from the employee's salary. Benefits become payable on termination of employment to public service employees who satisfy the legislated conditions of entitlement.
+[4]
+The Fund is a defined benefit plan, which means that it specifies either the benefits to be received by plan members after retirement or the method for determining those benefits. In contrast with a defined contribution pension plan, in which the benefit is the amount that can be provided at retirement based on the accumulated contributions made on the individual's behalf, the investment earnings on those contributions, and the annuity purchase price at retirement, the value of the benefits to be paid in a defined benefit plan generally depends on a number of factors and events. This means that the Fund guarantees a fixed retirement benefit, and, if the investment returns are not sufficient to pay the benefit costs, the employer must make up any shortfall. The parties state that, in the case of the Fund, the benefits to be paid to an employee are calculated "on the basis of a legislated formula related to the eligible public service employee's length of service and earnings, except where the only entitlement is a return of contribution".
+[5]
+The Fund is treated as a pension plan for the purpose of registration under the
+Income Tax
+Act
+, R.S.C. 1985, c. 1 (5th Supp.), and the
+Income Tax Regulations
+, C.R.C., c. 945 (the
+ITRs
+). Pension plans give rise to three kinds of deductions under Canadian income tax law: the contributions of employees to the funds are tax deductible; likewise the contributions of employers; and the earnings of the pension funds are exempt from income tax. This led to the requirement that pension plans be registered, to prevent employers from avoiding income tax by over contributing to company pension plans. In 1990, amendments to the
+ITA
+and the
+ITRs
+enacted registration rules for pension plans for the first time.
+[6]
+Normally, the Minister of National Revenue requires that payment of benefits under a pension plan begin at age 71. However, the Government of Canada received approval, pursuant to clause 8502(e)(i)(B) of the
+ITRs
+, to defer payouts from the Fund for employees who continue working for the public service past the age of 71. This was said to be because it was believed that the public would not accept that civil servants could draw both a pension and a salary. In December 1995, the government amended the
+PSSRs
+to include the impugned section, which excludes employees over the age of 71 from making contributions to the Fund. This provision has since been modified to lower the age to 69.
+[7]
+Both the plaintiffs in this case are full time public service employees who have reached the age of 71. Mr. Ghan had accumulated 28 years of pensionable service when he ceased to contribute to the Fund, January 1, 1999. Mr. Gill had accumulated 32 years of pensionable service when he ceased to contribute to the Fund, January 1, 2001. Both plaintiffs have now worked for over 35 years in the public service.
+III.
+Relevant Legislation
+[8]
+Section 12.1 of the
+PSSRs
+:
+"(1) Notwithstanding subsection 5(1) and section 65 of the Act, a person who attained 71 years of age on or before December 31, 1995 is not required to contribute to the Superannuation Account under those provisions in respect of any employment in the Public Service after March 31, 1996.
+. . . . .
+"(3) Notwithstanding subsections 8(1) and 40(11) of the Act, a person who, pursuant to subsection (1) or (2), is required to contribute to the Superannuation Account shall not count as pensionable service any service after the date on which, pursuant to subsection (1) or (2), the person ceases to be required to contribute to that Account or elect, after that date, to count any service as pensionable service."
+"(1) Malgré le paragraphe 5(1) et l'article 65 de la Loi, la personne qui est âgée de 71 ans ou plus au 31 décembre 1995 n'est pas astreinte à contribuer au compte de pension de retraite en application de ces dispositions à l'égard de la période d'emploi dans la fonction publique postérieure au 31 mars 1996 ou de toute partie de celle-ci.
+. . . . .
+"(3) Malgré les paragraphes 8(1) et 40(11) de la Loi, la personne visée aux paragraphes (1) ou (2) ne peut compter la période de service comme service ouvrant droit à pension postérieure à la date où elle cesse, en application des paragraphes (1) ou (2), d'être astreinte à contribuer au compte de pension de retraite ni ne peut, après cette date, choisir de compter toute autre période de service comme service ouvrant droit à pension."
+[9]
+Section 8502 of the
+ITRs
+:
+"For the purposes of section 8501, the following conditions are applicable in respect of a pension plan:
+(a) the primary purpose of the plan is to provide periodic payments to individuals after retirement and until death in respect of their service as employees;
+. . . . .
+(e) the plan
+(i) requires that the retirement benefits of a member under each benefit provision of the plan begin to be paid not later than the end of the calendar year in which the member attains 71 years of age except that,
+(A) in the case of benefits provided under a defined benefit provision, the benefits may begin to be paid at any later time that is acceptable to the Minister, if the amount of benefits (expressed on an annualized basis) payable does not exceed the amount of benefits that would be payable if payment of the benefits began at the end of the calendar year in which the member attains 71 years of age, and
+(B) in the case of benefits provided under a money purchase provision in accordance with paragraph 8506(1)(e.1), the benefits may begin to be paid not later than the end of the calendar year in which the member attains 72 years of age[.]"
+"Pour l'application de l'article 8501, les conditions suivantes s'appliquent aux régimes de pension:
+a) le principal objet du régime consiste à prévoir le versement périodique de montants à des particuliers, après leur retraite et jusqu'à leur décès, pour les services qu'ils ont accomplis à titre d'employés;
+. . . . .
+e) le régime:
+(i) d'une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard à la fin de l'année civile dans laquelle le participant atteint 71 ans; toutefois:
+(A) si les prestations sont prévues par une disposition à prestations déterminées, leur versement peut débuter à tout moment postérieur que le ministre juge acceptable, mais seulement si le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait à la fin de l'année civile dans laquelle le participant atteint 71 ans,
+(B) si les prestations sont prévues par une disposition à cotisations déterminées conformément à l'alinéa 8506(1)e.1), leur versement peut débuter au plus tard à la fin de l'année civile dans laquelle le participant atteint 72 ans[.]"
+IV.
+Issues
+[10]
+(1) Does s. 12.1 of the
+PSSRs
+infringe s. 15(1) of the
+Charter
+?
+(2) If s. 12.1 of the
+PSSRs
+infringes the
+Charter
+, is the infringement saved by s. 1 of the
+Charter
+?
+(3) If s. 12.1 of the
+PSSRs
+violates the
+Charter
+, what is the appropriate remedy?
+V.
+Analysis
+(1) Does s. 12.1 of the
+PSSRs
+infringe s. 15(1) of the
+Charter
+?
+[11]
+The plaintiffs submit that s. 12.1 of the
+PSSRs
+draws a distinction between public service employees over the age of 71, who, according to the impugned provision, are no longer required to contribute to the Fund or able to accumulate pensionable service, as compared with younger employees, who are still able to make contributions and to benefit from the contributions which are made by the employer.
+[12]
+The defendant submits, for its part, that the plaintiffs have failed to identify a comparator group, but that, when the appropriate comparator group is identified, it becomes clear that the law does not in fact draw a distinction, or, alternatively, the distinction does not amount to discrimination under s. 15(1) of the
+Charter
+.
+[13]
+The Supreme Court of Canada has confirmed that the test for discrimination under s. 15(1) of the
+Charter
+remains the one established by it in the earlier case of
+ <FRAGMENT_SUPPRESSED>  (see
+ <FRAGMENT_SUPPRESSED> ). In
+Law
+, the Court reaffirmed the following definition of discrimination:
+"... discrimination may be described as a distinction, whether intentional or not but based on grounds relating to personal characteristics of the individual or group, which has the effect of imposing burdens, obligations, or disadvantages on such individual or group not imposed upon others, or which withholds or limits access to opportunities, benefits, and advantages available to other members of society." (para. 26)
+[14]
+The Court described three broad inquiries that a Court must undertake in order to determine whether a law is discriminatory:
+"(A) Does the impugned law (a) draw a formal distinction between the claimant and others on the basis of one or more personal characteristics, or (b) fail to take into account the claimant's already disadvantaged position within Canadian society resulting in substantively differential treatment between the claimant and others on the basis of one or more personal characteristics?
+(B) Is the claimant subject to differential treatment based on one or more enumerated and analogous grounds?
+and
+(C) Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?" (para. 88)
+[15]
+The choice of an appropriate comparator group is essential for a successful s. 15(1) analysis (
+ <FRAGMENT_SUPPRESSED> ; [2004] S.C.J. No. 60). Although the claimant's choice of comparator group should be the starting point of the analysis, the Court is free to refine that choice to a more appropriate comparator group, within the grounds pleaded (
+Ardoch Algonquin First Nation and  <FRAGMENT_SUPPRESSED> ; [2000] S.C.J. No. 36). The best comparator group is one that bears "an appropriate relationship between the group selected for comparison and the benefit that constitutes the subject matter of the complaint" (
+ <FRAGMENT_SUPPRESSED> ; [2000] S.C.J. No. 29). For the purposes of the present case I think that means a group of persons who display all the relevant characteristics of the plaintiffs other than the one which gives rise to the alleged discrimination, i.e. that of being over the age of 71.
+[16]
+A reading of the plaintiffs' submissions reveals that the comparator group they have chosen is public service lawyers who are below the age of 71 who have coverage under the provisions of the
+PSSR
+and
+PSSA
+. However, this group is not appropriate because not all members are able to make contributions to the Fund and to continue to accumulate pensionable service, which are the benefits the plaintiffs submit they have been denied access to. More particularly, there may be public service lawyers who are below the age of 71 but who have accumulated 35 years of service and who are, thus, no longer permitted to contribute to the Fund. Furthermore, some members of this group may eventually be denied access to the relevant benefits on the same basis as the plaintiffs are being excluded, namely that they will have reached age 71 but without having accumulated 35 years of service.
+[17]
+The defendant submits that the appropriate comparator group is federal public service employees over the age of 71 who chose to join the federal public service at such time as allowed them to accumulate at least 35 years of service before the limitation of s. 12.1 of the
+PSSRs
+applies to them, and who are still employed full time in the public service. Here too, in my view, this proposed group, although closer to the mark, is not successful at fully identifying the group which has access to the benefits the plaintiffs claim are being denied to them since the members of the group, being over the age of 71, also can no longer accumulate pensionable service and do not make employee contributions (or receive the employer contributions) to the pension plan.
+[18]
+Instead, in my opinion, the relevant comparator group is public service employees who have joined the public service at such an age that they can still provide 35 years of service before reaching the age of 71 but have not yet reached that age, and therefore have the opportunity to make the maximum amount of contributions to the Fund as well as to maximize employer contributions. I believe that this comparator group adequately captures the group that has access to the benefit which the plaintiffs do not enjoy, which is the opportunity to make 35 years of contributions to the Fund as well as to benefit from employer contributions for the same period.
+[19]
+Having identified the comparator group, we can now engage in the three-step analysis required by
+Law
+.
+(A) Does the impugned law draw a formal distinction between the claimant and others?
+[20]
+The defendant submits that, when the impugned legislation is considered in the larger retirement planning context, there is no difference in treatment between the plaintiffs and any other Canadian. Everyone has access to a range of retirement planning schemes which can be configured in the manner that best suits one's own career path. An individual who begins working for the public service at a younger age can rely on the contributions to the Fund but has less access to Registered Retirement Savings Plan (RRSP) contributions, because the amount an individual can contribute to an RRSP is decreased by the amount contributed to a Registered Pension Plan. On the other hand, an individual who does not start working for the public service until later in life can rely, in his or her earlier years, on contributions to other employer pension plans or to RRSPs to make up for the fact that he or she will have less time during their public service career to make contributions to the Fund. Of course, the fact that any particular employee may not have made the most prudent use of such opportunities, or may even not have had access to them because of unrelated factors, is not relevant to this analysis.
+[21]
+According to the defendant, the distinction between the plaintiffs and the comparator group is essentially a temporal one that is based on the relative time at which an individual joined the public service.
+[22]
+The plaintiffs counter this argument by pointing to
+ <FRAGMENT_SUPPRESSED> ; [2007] S.C.J. No. 10 ( <FRAGMENT_SUPPRESSED> ). In that case, the Supreme Court was faced with a situation in which the government, in response to a finding of the unconstitutionality of a law which denied same-sex couples access to a certain benefit, had enacted legislation which provided that benefit to same-sex couples whose relationship had ended by the death of one partner after a particular date. This legislation was challenged because it continued to deny other same-sex couples access to the same benefit. The government sought, as it does here, to defend the legislation as making a strictly temporal distinction which is not an enumerated or analogous ground. The Supreme Court rejected this characterization, finding that this missed the whole purpose of the legislation, which was to extend equal treatment to same-sex couples. The sole feature distinguishing the government's proposed comparators from the claimant was the date of death of the partner, something which was neither an analogous ground nor a personal characteristic of the plaintiff and thus not suitable for inclusion in the description of the comparator group. Therefore, the Supreme Court found that the relevant comparator group was opposite-sex couples whose relationship had been ended by the death of a partner before the relevant date.
+[23]
+In my view, although the ground pleaded is different, the situation in <FRAGMENT_SUPPRESSED> is essentially the same as that before me. The ages at which the plaintiffs respectively joined the public service and the fact that those ages did not allow the plaintiffs a full 35 years of contribution before reaching the age of 71 are truly purely temporal considerations; they do not constitute enumerated or analogous grounds and are not purely personal characteristics of the plaintiffs. The only distinguishing characteristic between the plaintiffs and the comparators is the alleged discriminatory feature of the impugned legislation, namely that the plaintiffs are over the age of 71. That leads us to the second stage of the analysis.
+(B) Is the claimant subject to differential treatment based on one or more enumerated or analogous grounds?
+[24]
+According to the plaintiffs, they have been subjected to differential treatment on the basis of an enumerated ground, age. On the other hand, the defendant submits that any difference in treatment is based entirely on the relative date on which the employee began working for the public service, which is not an enumerated or analogous ground.
+[25]
+I agree with the plaintiffs on this point. The plaintiffs' current age is indeed the trigger which sets off the loss of benefit of which they complain. The only reason that the members of the comparator group will not suffer the same deprivation if and when they reach the age of 71 is the fact that they joined the public service at a time when they could still complete 35 years of pensionable service. Since there is still an age component in that distinction (the respective ages at which each entered government service) it seems to me to be appropriate to continue the analysis to the next stage.
+(C) Does the differential treatment substantively discriminate against the plaintiffs?
+[26]
+The final question, regarding the existence of substantive discrimination, is at the heart of the s. 15(1) analysis. A law may draw a formal distinction between groups of people without necessarily being discriminatory under s. 15(1), if it does so in a way that is consistent with the purpose of that provision, which, according to the Court,
+"is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration. Legislation which effects differential treatment between individuals or groups will violate this fundamental purpose where those who are subject to differential treatment fall within one or more enumerated or analogous grounds, and where the differential treatment reflects the stereotypical application of presumed group or personal characteristics, or otherwise has the effect of perpetuating or promoting the view that the individual is less capable, or less worthy of recognition or value as a human being or as a member of Canadian society. Alternatively, differential treatment will not likely constitute discrimination within the purpose of s. 15(1) where it does not violate the human dignity or freedom of a person or group in this way, and in particular where the differential treatment also assists in ameliorating the position of the disadvantaged within Canadian society." (
+Law
+, above at para. 51)
+[27]
+The Court defined human dignity as follows:
+"Human dignity means that an individual or group feels self-respect and self-worth. [...] Human dignity is harmed by unfair treatment premised upon personal traits or circumstances which do not relate to individual needs, capacities, or merits. [...] Human dignity is harmed when individuals and groups are marginalized, ignored, or devalued, and is enhanced when laws recognize the full place of all individuals and groups within Canadian society." (Ibid. at para. 53)
+[28]
+Therefore, the key question is whether a reasonable person in the claimant's position, possessed of similar attributes to and in similar circumstances as the claimant, "would find that the legislation which imposes differential treatment has the effect of demeaning his or her dignity" (Ibid. at para. 60).
+[29]
+In
+Law
+, Iacobucci, J., set out four contextual factors which may demonstrate that a distinction demeans an individual's or a group's dignity: (a) pre-existing disadvantage; (b) the relationship between the ground claimed and the nature of the differential treatment; (c) any ameliorative purpose or effect of the impugned legislation; and (d) the nature of the interest affected.
+(a) Pre-existing disadvantage
+[30]
+The plaintiffs point to a number of cases in which mandatory retirement age provisions and other provisions which tied the receipt of a benefit to the age of the beneficiary were found to be discriminatory (see e.g.
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> );
+ <FRAGMENT_SUPPRESSED> ; 201 F.T.R. 55; 2001 FCT 85 (
+Marglois
+)). Mandatory retirement age legislation has been described as a denial of an equal opportunity to realize the economic benefits, dignity and self-satisfaction that come with being part of the workforce ( <FRAGMENT_SUPPRESSED> , ibid.). According to the plaintiffs, monetary remuneration is a significant part of recognition of work done and a reflection of the worth of an employee. They also note that this Court has taken judicial notice of the economic vulnerability of older people (
+Marglois
+, above).
+[31]
+The defendant, on the other hand, submits that the plaintiffs are asking this Court to adopt an out-dated stereotype of older people as economically disadvantaged, which is no longer the case.
+[32]
+It cannot be denied that older people have historically been disadvantaged and stereotyped against in the employment world. Mandatory retirement legislation and other age-based discrimination have been based on the flawed assumption that, as people age, they become less able to make valuable contributions to society. However, the impugned provisions here do not impose mandatory retirement; indeed, they specifically allow the employee to continue working and are restricted to establishing a cut-off date for accumulation of pension benefits. Furthermore, as the defendant points out, important gains have been made and it may be difficult for the Court now to take judicial notice of the economic vulnerability of older people; (see e.g. the decision of the British Columbia Supreme Court in
+ <FRAGMENT_SUPPRESSED>  BCSC 101; [2006] B.C.J. No. 101). Moreover, the provision in question does not seem to make any assumptions regarding older people per se, but rather assumes that people who join the public service later in life have less of a need for a retirement planning scheme, considering the other options which had already been available to them before joining the public service. There is no indication that this assumption is based on stereotypes of any kind. Accordingly, I find that this factor militates against a finding of discrimination.
+(b) The relationship between the ground claimed and the nature of the differential treatment
+[33]
+The next contextual factor is the relationship between the ground claimed and the nature of the differential treatment. The question to be answered is whether the differential treatment corresponds with some need or capacity. According to
+Law
+, "legislation which takes into account the actual needs, capacity, or circumstances of the claimant and others with similar traits in a manner that respects their value as human beings and members of Canadian society will be less likely to have a negative effect on human dignity" (para. 76).
+[34]
+The plaintiffs make no specific submissions concerning this factor. The defendant submits that the plan is part of an overall scheme to provide retirement income, which recognizes the necessity of some cut-off date for contributions to that scheme. Some degree of arbitrariness is necessarily involved, as the line must be drawn somewhere. As the Supreme Court has pointed out, "age-based distinctions are a common and necessary way of ordering our society" (
+ <FRAGMENT_SUPPRESSED> ).
+[35]
+In my view, this factor also militates against a finding of discrimination. It is reasonable to assume that an individual who joins the public service at a later stage in life will have different retirement planning needs from an individual who starts working for the public service right away.
+(c) Any ameliorative purpose or effect of the impugned legislation
+[36]
+The third contextual factor to be considered is the ameliorative purpose or effect of the impugned legislation.
+[37]
+The defendant submits that the impugned legislation has as its purpose the alleviation of poverty among retirees, and that it in no way forces individuals to stop working. As previously indicated, the plaintiffs are still actively and gainfully employed although both are well past the age of 71. Furthermore, the defendant points out that those affected by the impugned legislation no longer have contributions deducted from their salary. Each is also in receipt of regular pension payments from the Canada Pension Plan.
+[38]
+In my opinion, the impugned provisions are inseparable from the legislation which abolished the mandatory retirement age and allowed the plaintiffs, and others similarly situated, to continue to work. They only deny the plaintiffs one way of ensuring an adequate retirement income out of a myriad of possibilities, including, of course, that of continuing as they have done to be gainfully employed. As the defendant points out, the impugned provision is part of a larger context of retirement planning mechanisms, some of which would have been available to the plaintiffs precisely because they were not public service employees, such as RRSPs and other employer pension plans. I would find that this factor also favours the defendant's position.
+(d) The nature of the interest affected
+[39]
+The final contextual factor to be considered is the nature of the interest affected. More particularly, the Court should ask whether the distinction restricts access to a fundamental social institution, affects a basic aspect of full membership in Canadian society, or constitutes complete non-recognition of a group (
+Law
+, above at para. 74).
+[40]
+The defendant submits that the only benefit lost is a strictly economic one, which is the opportunity to contribute to the Fund for 35 years, but that affected individuals had the opportunity to contribute to other savings plans. The plaintiffs, on the other hand, seem to suggest that the interest affected is the ability to be fairly remunerated for services provided.
+[41]
+I would agree with the defendant on this issue. As discussed above, a number of tax-deferred retirement savings schemes are available to all Canadians, which are generally tied to an age limit of 71 (see e.g.
+ <FRAGMENT_SUPPRESSED> ; 53 O.R.(2d) 275 (H.C.)). I would not find that the denial of the opportunity to contribute to the Fund in question beyond the age of 71 denies the plaintiffs access to a fundamental social institution or constitutes complete non-recognition of a group.
+[42]
+Having considered all of the contextual factors raised by the parties, I would conclude that the plaintiffs have not established that the impugned legislation discriminates against them contrary to s. 15(1) of the
+Charter
+. I would add that my consideration has necessarily been limited to the specific regulatory provisions identified by the plaintiffs in their Notice of Constitutional Question and quoted above. During argument there was some mention of the possibility that some equality or other rights of the plaintiffs had been adversely affected by other legislative provisions, particularly the requirement of the
+PSSA
+that a person must retire from the public service before being eligible to draw a pension even at the age of 71. There was also a suggestion that the fact that the plaintiffs no longer receive the benefit of employer contributions to the fund (which of course form part of their remuneration) is somehow a breach of their rights. Those issues are not before me and I have not considered them.
+[43]
+In the light of my conclusion on this first issue it is not necessary, in the absence of a
+Charter
+breach, to consider either the availability of a s. 1 defence or the appropriateness of the remedies sought.
+VI.
+Conclusion
+[44]
+The action will be dismissed with costs.
+ORDER
+[45]
+THIS COURT ORDERS that
+the action be dismissed with costs.
+Action dismissed.
+Editor: Angela E. McKay/gs
+[End of document]

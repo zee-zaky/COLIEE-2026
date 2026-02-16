@@ -1,0 +1,643 @@
+ <FRAGMENT_SUPPRESSED> )
+Indexed  <FRAGMENT_SUPPRESSED> 
+Federal Court
+von Finckenstein, J.
+January 25, 2007.
+Counsel:
+Andrew Shaughnessy, Peter Wilcox, Grant Worden and Damien McCotter, for the applicants;
+Ronald E. Dimock, David M. Reive and Angela M. Furlanetto, for the respondent, Ranbaxy Laboratories Limited;
+Eric Peterson, for the respondent, The Ministerof Health.
+Solicitors of Record:
+Torys LLP, Toronto, Ontario, for the applicants;
+Dimock Stratton LLP, Toronto, Ontario, for the respondent, Ranbaxy Laboratories Limited;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent, The Minister of Health.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2007] F.T.R. TBEd. FE.016.
+[1]
+von Finckenstein, J.
+: This is a proceeding pursuant to s. 6(1) of the Patented Medicines (Notice of Compliance) Regulations, SOR/93-133 as amended (“NOC Regulations”), for an Order prohibiting the Minister of Health (the “Minister”) from issuing a Notice of Compliance (“NOC”) under the Food and Drug Regulations, C.R.C. c. 870, to the Respondent, Ranbaxy Laboratories Limited (“Ranbaxy”), with respect to atorvastatin calcium, 10 mg, 20 mg, 40 mg, or 80 mg strength tablets until after the expiration of Canadian Patent No. 1,268,768 (the “768 Patent”) and Canadian Patent No. 2,021,546 (the “546 Patent”).
+Procedural Background
+[2]
+The Applicants, Pfizer Canada Inc. and Warner-Lambert Company, LLC (collectively, “Pfizer”) are “first parties” as defined by the NOC Regulations. Warner-Lambert Company, LLC owns the 768 Patent and the 546 Patent, and is a party to this application by reason of section 6(4) of the NOC Regulations. These two patents are listed with respect to atorvastatin calcium 10 mg, 20 mg, 40 mg, and 80 mg strength tablets and marketed under the trade name Lipitor.
+[3]
+The 768 Patent was filed on May 7, 1987 and issued on May 8, 1990. It is based on the priority filing of U.S. Patent No. 868,867, which was filed on May 30, 1986. As such, the 768 Patent falls under the “old” provisions of the Patent Act, R.S.C. 1985, c. P.4 as they pertain to patents granted in respect of applications filed in Canada before October 1, 1989. This patent is concerned with a large class of compounds and pharmaceutical compositions, which all share a common generic structure and are used to inhibit the biosynthesis of cholesterol. It contains 9 claims. At issue here is claim 1. Claims 2 to 8 are derivatives of claim 1, and claim 9 is a process claim.
+[4]
+The 546 Patent was filed with the Canadian Patent Office on July 19, 1990, and published on January 22, 1991. It is based on a priority filing of U.S. Patent No. 384,187, which was filed on July 21, 1989, but which has since been abandoned and is now continued under U.S. Patent No. 5,273,995. Accordingly, the patent is governed by the “new” provisions of the Patent Act and the relevant date upon which the patent will be interpreted is the date of publication, i.e., January 22, 1991 ( <FRAGMENT_SUPPRESSED>  at para. 56). The 546 Patent was issued to Warner-Lambert Company, a predecessor of the Applicant Warner-Lambert Company, LLC on April 29, 1997. It expires on July 19, 2010. This patent, similar to the 768 Patent, also pertains to compounds used to inhibit the biosynthesis of cholesterol. However, it provides for the “surprising” inhibition of the biosynthesis of cholesterol. It contains 12 claims, which are directed to atorvastatin acid or atorvastatin lactone and the pharmaceutical acceptable salts thereof. It also contains a use claim for people suffering from hypercholesterolemia. The only claim in dispute is Claim 6, which claims the hemicalcium salt of atorvastatin.
+[5]
+Ranbaxy, the “second parties” as defined by the NOC Regulations, filed with the Minister of Health an abbreviated new drug submission (“ANDS”) with respect to 10 mg, 20 mg, 40 mg, and 80 mg strength tablets of atorvastatin calcium (“Ran-Atorvastatin”). In its ANDS, Ranbaxy compares Ran-Atorvastatin to Lipitor and references the 768 Patent and the 546 Patent.
+[6]
+Ranbaxy sent a Notice of Allegation (“NOA”) to Pfizer in a letter dated January 31, 2005, pursuant to paragraphs 5(1)(b)(iii) and 5(1)(b)(iv) of the NOC Regulations. Ranbaxy’s letter of allegation contains allegations of invalidity and non-infringement made with respect to the 768 Patent and the 546 Patent. The NOA alleges that the 768 Patent is not infringed because the 768 Patent is directly solely to the racemic mixtures of the compounds claimed. This issue is in essence a matter of construction of the 768 Patent. The NOA also alleges that the 546 Patent is invalid for four reasons: obviousness, anticipation, insufficiency, and double patenting.
+[7]
+In response to Ranbaxy’s NOA, Pfizer filed its Notice of Application on March 17, 2005. Pfizer seeks to prohibit the Minister of Health from issuing a NOC to Ranbaxy prior to the expiration of the 768 Patent and the 546 Patent. Pfizer disputes Ranbaxy’s allegations and argues that they are not justified.
+Chemical Background - Underlying Concepts
+[8]
+In order to provide a context to the discussion that follows, I will briefly describe the underlying concepts and what the invention involves.
+[9]
+First, cholesterol is synthesized in most body tissues and is necessary for normal body functions. Cholesterol is carried throughout the body on two types of particles: low density lipoproteins (LDL) and high density lipoproteins (HDL).
+[10]
+Cholesterol biosynthesis is the process of producing cholesterol in the body. Cholesterol is synthesized through a biochemical pathway made up of a number of steps (between 20-40).
+[11]
+Many different enzymes (proteins that control biochemical reactions) are involved in cholesterol biosynthesis. One of the early steps in the cholesterol biosynthesis pathway involves an enzyme called HMG-CoA reductase. This step is often called the “rate limiting step” in the pathway.
+[12]
+Drugs that prevent HMG-CoA reductase from performing its functions in the cholesterol biosynthesis pathway are called HMG-CoA reductase inhibitors. By inhibiting cholesterol biosynthesis, these drugs decrease the production of cholesterol.
+[13]
+Statins are drugs which function as HMG-CoA reductase inhibitors. There are two kinds of statins: those derived from natural products (i.e., natural statins) and those produced synthetically (i.e., synthetic statins). Natural statins are derived from fungal fermentation. Synthetic compounds are produced by medicinal chemists. Lipitor is a member of a class of synthetic statins.
+[14]
+In this case we are concerned with the field of stereochemistry. Stereochemistry involves the study of relative spatial arrangements of atoms within molecules. “Isomers” are compounds that have the same molecular formula, but are not identical. One main class of isomers is “stereoisomers”. In stereoisomers, the atoms are connected sequentially in the same way, but the isomers differ in the way the atoms are arranged in space. These structural differences mean that the physical and/or chemical properties of isomers are often different.
+[15]
+A diagram of molecules and its constituent atoms and bonds is commonly referred to as a structural formula. A structural formula often appears as a series of letters (representing atoms), numbers, and lines (representing chemical bonds). However, these structural formulas may also be depicted by structural diagrams which show their stereochemistry. In general plain lines depict bonds approximately in the plane of the drawing; bonds to atoms above the plane are shown with a bold wedge (starting from an atom in the plane of the drawing at the narrow end of the wedge); and bonds to atoms below the plane are shown with short parallel lines.
+[16]
+When a carbon atom is attached to four different atoms or groups of atoms, it is called an “asymmetric carbon atom or a “chiral centre”. This configuration means that the stereochemistry around an asymmetric carbon creates two molecules which are chemically identical but which are mirror images of one another. In other words, they differ in the three-dimensional arrangements of their constituent atoms. Molecules having this relationship to each other are known as enantiomers.
+[17]
+“Enantiomers” are a pair of isomers that are non-superimposable mirror images of one another. The most common analogy for enantiomers is a pair of hands. Enantiomers have identical physical, chemical and spectral properties (unlike other stereoisomers), but their biological properties are often different. A process wherein enantiomers are separated is called a “resolution”.
+[18]
+“Racemate”, also known as a “racemic mixture”, is a 50/50 mixture of enantiomers. A racemate is a different form of matter from individual enantiomers. The properties of a molecule will depend not only on the molecule itself, but on the molecules that surround it. The individual molecules of a racemate will be surrounded by molecules with different chiralities. Therefore, the physical properties of a racemate will be different than individual enantiomers.
+[19]
+A number of conventions are used to name enantiomers. One such convention is based on the fact that enantiomers rotate plane-polarized light in equal but opposite directions. Enantiomers are designated left handed (levo or “-”) or right handed (dextro or “+”) configurations to indicate the direction in which the light is rotated. Specifically, the enantiomer that rotates light in a clockwise direction is designated “+”. The enantiomer that rotates light in a counter-clockwise direction is designated “-”. To be designated either + or -, an enantiomer must be tested.
+[20]
+Unlike single enantiomers, a racemate has no effect on plane-polarized light. A racemic mixture has equal amounts of the + and – enantiomers. In other words, half of the molecules will rotate light one way and the other half will rotate it the other way because it has equal amounts of both enantiomers. This is often shown using the symbol “±”.
+[21]
+Another convention is to name enantiomers according to the configuration of their asymmetric carbon atoms, using the symbols “R” and “S”. R and S indicate how the four atoms surrounding an asymmetric carbon atom are oriented in space. There is no relationship between the R/S convention and the convention that uses + and -. An R-enantiomer could be + or -.
+[22]
+When the precise stereochemistry around an asymmetric carbon is not known and when there is more than one asymmetric carbon in a molecule, chemists use another convention to show “relative configuration” (meaning the configuration at any asymmetric carbon with respect to that of any other asymmetric carbon in the same molecule). The convention identifies the asymmetric carbons as having configurations that are the same or different. If the configurations of two asymmetric carbons atoms are the same (that is, both R or both S), they are labelled R*,R* or S*,S*. If the configurations are different (that is, one R and one S), the asymmetric carbons are labelled R*,S*.
+Nomenclature
+[23]
+This might be a good point to say a few words about the nomenclature of this case to clear up any possible confusion. Lipitor contains the calcium salt of atorvastatin. Atorvastatin is an enantiomer; is the name given to the R-trans enantiomer of the atorvastatin racemate. The compound from which the enantiomers are resolved has no name of its own. It is called the atorvastatin racemate or atorvastatin racemic mixture. The S-trans enantiomer also has no name of its own and is always referred to as the S-trans enantiomer.
+Applicable Jurisprudence
+[24]
+The jurisprudence regarding NOCs is extensive. It is best set out by Stone J.A. in  <FRAGMENT_SUPPRESSED>  at para. 8, 70 C.P.R. (3d) 206 (F.C.A.):
+It seems to me that the core guidance of these decisions, insofar as it is applicable to the case at bar, may be summarized as follows:
+1. Applications made pursuant to subsection 6(1) of the Regulations are governed by the procedural rules contained in Part V.1 of the Federal Court Rules, [C.R.C. 1978, c. 663] - "Applications for Judicial Review". Bayer AG, supra, per Mahoney J.A., at page 336 [C.P.R.] ;
+2. The initiator of a section 6 proceeding, being the person having the carriage of the litigation, bears "the initial burden of proof" which is a difficult burden because "it must be to disprove some or all of the allegations in the notice of allegation which, if left unchallenged, would have allowed the Minister to issue a notice of compliance". Merck Frosst, supra, per Hugessen J.A., at page 319 [C.P.R.] ;
+3. This burden, known in a civil case as either the "persuasive burden" or the "legal burden", is the burden of establishing a case to the civil standard of proof. By contrast, the "evidential burden" consists of the burden of putting an issue in play and means that a party has the responsibility to ensure that there is sufficient evidence of the existence or non-existence of a fact or an issue on the record to pass the threshold for that particular fact or issue. Nu-Pharm, supra, per Stone J.A., at page 197  <FRAGMENT_SUPPRESSED>  ;
+4. Where the notice of compliance of a second person alleges non-infringement, the court should start from the proposition that "the allegations of fact in the notice of allegation are true except to the extent that the contrary has been shown by the applicant". Merck Frosst, supra, per Hugessen J.A., at page 319 [C.P.R.] ;
+5. In determining whether or not the allegations are "justified" "the court must then decide whether, on the basis of such facts as have been assumed or proven, the allegations would give rise in law to the conclusion that the patent would not be infringed by the respondent". Merck Frosst, supra, per Hugessen J.A., at page 319 [C.P.R.] ;
+6. The Minister's decision of whether to issue a notice of compliance must turn on whether the allegations of the second person are "sufficiently substantiated to support a conclusion for administrative purposes ... that the applicant's patent would not be infringed if the generic's product is put on the market". Pharmacia, (A-332-94) supra, per Strayer J.A., at page 216 [C.P.R.] ;
+7. Where second persons fail to file notices of allegation or adequate notices of allegation they "must assume their own risk when it comes to attacks on the adequacy of such allegations once prohibition proceedings are commenced". Bayer AG, (A-669-93) supra, per Strayer J.A., at page 134 [C.P.R.] ;
+8. The requirement in s. 5(3)(a) of the Regulations that a second person provide a detailed statement "seems intended ... [to make] the patentee ... fully aware of the grounds on which the applicant seeks issuance of a NOC [that will not lead to infringement of the patent] before the patentee decides whether or not to apply to a court for a determination. Such disclosure would define the issues at a very early stage." Bayer AG, (A-389-93) supra, per Mahoney J.A., at pages 337-338 [C.P.R.] ;
+9. A bald statement of non-infringement in a detailed statement without any factual assertion in support thereof does not meet the requirements of s. 5(1)(b)(iv) of the Regulations. Nu-Pharm, supra, per Stone J.A., at page 199  <FRAGMENT_SUPPRESSED>  ; and
+10. A common law presumption that a second person's process would infringe the patent applies where: that person has asserted no facts to support his allegation of non-infringement; the evidence of non-infringement lay peculiarly within his knowledge; no evidence of non-infringement has been presented by that person; and the first person has no other available means of accessing such evidence. Nu-Pharm, supra, per Stone J.A., at page 200  <FRAGMENT_SUPPRESSED> .
+Burden of Proof
+[25]
+Much has been stated with respect to the burden of proof. Section 6(2) of the NOC Regulations provide that the court can make an order prohibiting the Minister from issuing an NOC until after the expiration of the patent at issue if it finds that none of the allegations by the second party are justified. The overall burden of proof in these proceedings is on the first person (the applicant, Pfizer) to establish on a balance of probabilities that the allegations set forth in the NOA are not justified. However, the evidentiary burden is on the second person (Ranbaxy) to put each of the issues “in play”. If the second person is successful in doing so, then the first person is entitled to rely on the presumption of validity of the patent established by subsection 43(2) of the Patent Act. Once these issues are “in play” the persuasive burden lies with the first party to disprove the allegations raised in the NOA.
+[26]
+Where the NOA has made allegations of non-infringement, the court must start from the proposition that the allegations of fact in the NOA are true, unless it has been proven otherwise. Thus, in order for the first person to establish that the allegations in the NOA are not justified, the first person must demonstrate either that the statements which are assumed to be correct, do not result in a finding of non-infringement or that all or most of the facts relied on by the second person to justify its allegations of non-infringement are wrong. The first party must demonstrate that the evidence as to infringement is not mere speculation, but that there are substantial grounds ( <FRAGMENT_SUPPRESSED>  F.T.R. 196, 33 C.P.R. (4th) 125 at paras. 79-86).
+Findings Required
+[27]
+In order to grant a prohibition order, the court must find that the allegations are not justified, i.e., that the patents are valid and that it will be infringed. However, to refuse a prohibition order only requires the court to find that either the patent is invalid or that it will not be infringed, but not both.
+Patent Construction
+[28]
+Any case involving patents starts with construction of the patent. It is to be done by the Court before issues of infringement or invalidity is considered.  <FRAGMENT_SUPPRESSED>  (2005), 37 C.P.R. (4th) 487, 267 F.T.R. 243, Justice Harrington succinctly summarized the jurisprudence on the rules for patent construction at paragraph 15, which I intend to follow:
+It is a pre-requisite to considerations of both patent validity and infringement that the language of what is claimed in the patent be properly considered. The Court can do no better than to take the same approach in an NOC proceeding, keeping in mind the restricted purpose of the proceeding. The Supreme Court has done much to codify and clarify patent claim construction in two recent cases handed down the same day:  <FRAGMENT_SUPPRESSED> , 9 C.P.R. (4th) 168 and  <FRAGMENT_SUPPRESSED> , 9 C.P.R. (4th) 129. The reasons in both were given by Mr. Justice Binnie. I take the following principles as having particular relevance to this case:
+1. A patent is construed as a bargain between the inventor and the public. In consideration of disclosing the invention, the inventor is given a temporary monopoly to exploit it.
+2. It is a statutory requirement that the patent contain a specification and end with a claim or claims “defining distinctly and in explicit terms the subject-matter of the invention for which an exclusive privilege or property is claimed”. The specification must be sufficiently full, clear, concise and exact “as to enable any person skilled in the art or science to which it pertains, or to which it is most closely connected, to make, construct, compound or use it” (Patent Act, R.S.C. 1985, c. P-4, as amended, s. 27).
+3. The patent is notionally addressed to a person skilled in the art or science of the subject-matter and is to be read as such a person would have read it when it first became public. (More will be said about this skilled reader.).
+4. The claims are to be read in an informed and purposive way to permit fairness and predictability and to define the limits of the monopoly “[I] ngenuity of the patent lies not in the identification of the desired result but in teaching one particular means to achieve it. The claims cannot be stretched to allow the patentee to monopolize anything that achieves the desired result” (Free World Trust, paras. 31, 32).
+5. The claim portion of the patent specification takes precedence over the disclosure portion in the sense that the disclosure is read to understand what was meant by a word in the claims “but not to enlarge or contract the scope of the claim as written and thus understood” (Whirlpool, para. 52).
+6. It is only such novel features that the inventor claims to be essential that constitute the “pith and marrow” of the claim. “The key to purposive construction is therefore the identification by the Court with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the “essential” elements of his invention” (Whirlpool, para. 45).
+7. Some elements of the claimed invention are essential and others are not, based either on common knowledge when the patent was published or according to the intent of the inventor, expressed or inferred from the claims. This lies at the heart of Biovail’s position that Novopharm's allegation that it will not infringe the ‘320 patent is not justified. Put another way, was it obvious at the time the patent was published that the substitution of a variant would make a difference?
+8. To overclaim is to lose everything. If the inventor underclaims, the court will not broaden the monopoly in the interests of the “spirit” thereof. This often, as in this case, results in layers of claims, each limitation serving as a potential safety net so that if the broadest claims fall, the monopoly may be saved in part by the more modest claims.
+9. Yet a patent is not an ordinary writing. It meets the definition of a “regulation” in the Interpretation Act, and must be read to assure the attainment of its objects. “Claims construction is a matter of law for the judge, and he was quite entitled to adopt a construction of the claims that differed from that put forward by the parties” (Whirlpool, para. 61).
+Applicable Patent Act
+[29]
+The 768 Patent is governed by the “old” Patent Act, and as such the construction of the patent is to be done at the date of issue, May 8, 1990. The 546 Patent is governed by the “new” Patent Act, and the relevant date for claims construction is the date of publication, January 22, 1991.
+Person Skilled in the Art
+[30]
+The Court interprets patents with the aid of persons skilled in the arts; after all, the patents are addressed to such persons. However, it is worth recalling that although the evidence of the experts are helpful in understanding the knowledge that a person skilled in the art is expected to possess as of the relevant date, construction of the patents is ultimately a task for the Court to decide.
+[31]
+Dr. Roush for Pfizer states that the person skilled in the art of the 768 Patent and the 546 Patent is the following:
+59. The person of ordinary skill in the art would have at least a Bachelor of Science degree in organic chemistry, medicinal chemistry or related chemistry, coupled with several years of relevant experience in medicinal chemistry.
+60. The person of ordinary skill in the art would have a general knowledge concerning the class of drugs called stains, although this knowledge could come from a review of published literature (including patents). This person would know that the literature was not limited to naturally occurring statins, such as mevinolin and compactin, but also included information relating to synthetic stains.
+61. The person of ordinary skill in the art would have knowledge of stereochemistry. They would have some general knowledge concerning biochemistry, and possibly enzymology. However, this knowledge would be at a substantially lower level than the person’s knowledge of chemistry or medicinal chemistry.
+62. In the case of the 546 Patent, the person of ordinary skill would be aware of the statins that were commercially available on July 21, 1989. The person would also have at least a general knowledge of methods for resolving racemic mixtures into their component enantiomers on a laboratory scale; for example, by using chromatographic or selective precipitation techniques. However, a person of ordinary skill would not necessarily be able to resolve racemic mixtures on a commercially viable scale, or develop a practical, commercially viable enantioselective synthesis for molecules that are as complex as statins.
+(A.R. Vol. 3 at 743-44.)
+[32]
+Dr. Clive for Ranbaxy states:
+9. From reading the 768 Patent, it seems clear to me that the person skilled in the art would be someone interested in synthesizing pharmaceutical active compounds, especially statins that are useful hypocholesterolemic and hypolipidemic agents.
+10. The person skilled in the art would need to be skilled in organic synthesis, have a detailed understanding of stereochemistry and knowledge about the statin field. As a result of my own experience at the time, I regard a Ph.D. in organic chemistry with an emphasis on synthesis and probably some post-doctoral experience as an appropriate level of training for the skilled person of the 768 Patent. In my view, the person skilled in the art could be a team of people, at least one of whom would have Ph.D. training and probably some post-doctoral experience.
+(A.R. Vol. 16 at 4841.)
+[33]
+For the 546 Patent, Dr. Cunningham states:
+68. In my opinion, the skilled addressee of the 546 Patent would be an R&D project team concerned with agents for the inhibition of cholesterol biosynthesis. Such a project team would include as key members medicinal and process chemists and formulators. I shall refer to this team in this affidavit as the “skilled addressee.”
+(A.R. Vol. 18 at 5600.)
+[34]
+The Court finds that the addressee is a person skilled in the art who is an organic or medicinal chemist – a person with at least a Bachelor of Science degree and with experience conceiving, creating, synthesizing and testing compounds to be used as medicines. It would also be a person familiar with the agents used for the inhibition of cholesterol biosynthesis.
+Experts
+[35]
+Both Pfizer and Ranbaxy have submitted the evidence of numerous expert witnesses with respect to the construction of the 768 Patent, the 546 Patent, the nature of atorvastatin, and the expectations of a person skilled in the art. The professional qualifications of these experts have been summarized in Annex 1.
+[36]
+Pfizer challenged Ranbaxy’s expert witnesses, Dr. Moss and Dr. Clive as being unqualified to speak on the on the matter of how a person skilled in the art would read the Patents. In particular, Pfizer argues [emphasis in original] :
+122. Ranbaxy’s witnesses are not sufficiently informed or familiar with the art of the 768 Patent to speak persuasively to how a person would read or understand the 768 Patent. Dr. Moss was not instructed on how patent claims are construed by courts in Canada and as a result applied the wrong test. Dr. Clive agreed to assist Ranbaxy with this case before reading the Notice of Allegation. The inference to be drawn from this is that Dr. Clive did not approach his task with a mind willing to understand. He had made up his mind before seeing any of the evidence in this case.
+123. Dr. Clive does not have sufficient knowledge in the field to which the 768 Patent relates to opine as to what the ordinary skilled person would have known and understood about it. The “art” of the 768 Patent is that of medicinal chemistry, an important branch of organic chemistry that deals with the development of new drugs. A medicinal chemist is best placed to review the prior art and take from it the clues which a person or ordinary skill in the art would use to develop strategies to find more active compounds. Dr. Clive is not a medicinal chemist. He has never worked in the pharmaceutical industry, nor participated in a drug discovery program.
+[37]
+In addition, Pfizer argues that Dr. Scallen “willingly demonstrated his lack of objectivity. Allegedly assuming the mantle of an advocate, Dr. Scallen refused to answer questions unless they were distorted into questions that he wished had been asked.” As for Dr. Cunningham, Pfizer argues that with respect to the 546 Patent, he employed hindsight analysis and only selectively reviewed the prior art.
+[38]
+I find these allegations against Dr. Moss, Dr. Clive and Dr. Scallen unwarranted. The differences in the opinions of the experts were principally a matter of degree and I find them all respectively qualified. In addition, Justice Hughes in  <FRAGMENT_SUPPRESSED>  at para. 90 stated with respect to an ordinary person skilled in the art:
+Further, with respect to evidence as to the understanding of such person, the Federal Court of Appeal has said that a witness on the subject need not be that very person, so long as they are in a position to provide appropriate evidence as to what such a person would have known and understood at the relevant time ( <FRAGMENT_SUPPRESSED>  2006 FCA 275 at para. 17).
+[39]
+Accordingly, I find all of the experts qualified for the testimonies that they proffered and I will treat the expert evidence in the same way as Justice Campbell in  <FRAGMENT_SUPPRESSED>  (2003), 27 C.P.R. (4th) 465 at para. 16 (F.C.):
+16 Each of the expert witnesses to the present case have sworn that the evidence they have provided is true. On this basis, an evaluator of the evidence must start from the proposition that the witnesses are credible unless good cause is shown, and can be articulated, to the contrary (for an example of this general principle see:  <FRAGMENT_SUPPRESSED>  (C.A.). That is, while they might hold differing views on a given topic, it must be assumed that they are not just saying things to bestow a benefit on the party who is relying on their evidence. In my opinion, it is unfair to the witnesses and, accordingly, to each of the parties, to make negative credibility findings in the guise of findings of weight without seeing and hearing each witness testify.
+Issues
+[40]
+First: are Ranbaxy’s allegations regarding the 768 Patent (that claims 1 to 8 of the 768 Patent are limited to racemic mixtures) unjustified?
+[41]
+Second: are Ranbaxy’s allegations regarding claim 6 of the 546 patent (invalidity on the basis of anticipation, obviousness, insufficient support, and double patenting) unjustified?
+Analysis re Issue 1
+[42]
+Ranbaxy alleges that claims 1 to 8 of the 768 patent will not be infringed as these claims are limited to racemates. Given that claims 2 to 8 are derivatives of claim 1, the Court will restrict its analysis to claim 1.
+Construction of Claim 1 of the 768 Patent
+[43]
+The claims of a patent are to be read in a way that would fulfill the inventor’s express purpose or that is implicit in the text of the claims. This is to be done by taking into consideration the knowledge that a person skilled in the art is expected to possess. The Supreme Court of Canada in Free World Trust v. Électro Santé Inc., 2000 SCC 66, [2000] 2 S.C.R. 1024, at para. 51, 194 D.L.R. (4th) 232 stated:
+The involvement in claims construction of the skilled addressee holds out to the patentee the comfort that the claims will be read in light of the knowledge provided to the court by expert evidence on the technical meaning of the terms and concepts used in the claims. The words chosen by the inventor will be read in the sense the inventor is presumed to have intended, and in a way that is sympathetic to accomplishment of the inventor's purpose expressed or implicit in the text of the claims. However, if the inventor has misspoken or otherwise created an unnecessary or troublesome limitation in the claims, it is a self-inflicted wound. The public is entitled to rely on the words used provided the words used are interpreted fairly and knowledgeably.
+[44]
+The only claim of relevance here is Claim 1. It reads as follows.
+Claim 1: A compound of structural formula I
+[Diagram omitted]
+wherein X is -CH2-, -CH2CH2-, -CH2CH2CH2- or CH2CH(CH3)-;
+R1 is 1-naphthyl; 2-naphthyl; cyclohexyl; norbornenyl; 2-, 3-, or 4-pyridinyl; phenyl, phenyl substituted with fluorine, chlorine, bromine, hydroxyl; trifluoromethyl; alkyl of from one to four carbon atoms, alkoxy of from one to four carbon atoms, or alkanoyloxy of from two to eight carbon atoms;
+either of R2 or R3 is -CONR5R6
+R5 and R6 are independently hydrogen; alkyl of from one to six carbon atoms; 2-, 3-, or 4-pyridinyl; phenyl; phenyl substituted with fluorine, chlorine, bromine, cyano, trifluoromethyl, or carboalkoxy of from three to eight carbon atoms;
+and the other of R2 or R3 is hydrogen; alkyl of from one to six carbon atoms; cyclopropyl; cyclobutyl; cyclopentyl; cyclohexyl; phenyl; or phenyl substituted with fluorine, chlorine, bromine, hydroxyl; trifluoromethyl; alkyl of from one to four carbon atoms, alkoxy of from one to four carbon atoms, or alkanoyloxy of from two to eight carbon atoms;
+R4 is alkyl of from one to six carbon atoms; cyclopropyl; cyclobutyl; cyclopentyl; cyclohexyl; or trifluoromethyl;
+or a hydroxy acid or pharmaceutically acceptable salts thereof, derived from the opening of the lactone ring of the compounds of structural formula I above.
+[45]
+The background to the 768 Patent is described in the disclosure as:
+The present invention is related to compounds and pharmaceutical compositions useful as hypocholesterolemic and hypolipidemic agents. More particularly, this invention concerns certain trans-6-[2-(3- or 4- carboxamido-substituted pyrrol-1-yl)alkyl] -4-hydroxypyran-2-ones and the corresponding ring-opened acids derived therefrom which are potent inhibitors of the enzyme 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMG CoA reductase), pharmaceutical compositions containing such compounds, and a method of inhibiting the biosynthesis of cholesterol employing such pharmaceutical compositions.
+[46]
+The disclosure of the 768 Patent also sets out two reactions sequences to create the compounds, describes the uses of the compounds, indicates on a table the activity of several compounds when compared to a prior art compound, Compactin, and provides four examples of the particular methods for preparing compounds of the present invention.
+[47]
+The experts for both sides agree that:
+a. Claim 1 of the 768 Patent covers a class of compounds of structural formula I wherein each of the positions: X, R1, R2, R3 and R4 are selected from a list of identified possibilities;
+b. Reaction sequences I and II only produce racemates;
+c. No mention of resolution into enantiomers is made anywhere in the patent;
+d. The three compounds within Table I are racemates;
+e. Example 1 describes the production of racemic atorvastatin lactone; and
+f. Formula I of claim I has to be read in context.
+[48]
+The expert witnesses for Pfizer, Drs. Doyle and Roush, argue that the context of the 768 Patent demonstrates the following:
+a) There is nothing within the 768 Patent to suggest that the inventor intended to limit the 768 Patent to only the racemate;
+b) The 768 Patent states that the patent relates to the “trans-form”, which includes the R-trans, the S-trans enantiomers, as well as mixtures of these two;
+c) Claim 5 specifies the ± which means that the inventor knew to limit it to the racemate;
+d) Although the reaction sequences only produce racemates, a person of ordinary skill knew how to resolve; and
+e) The language of the Canadian Patent No. 1,330,441 Patent (a process patent that discloses how to produce certain chemical compounds among them atorvastatin) supports the interpretation that the 768 Patent is not limited to racemates because it indicates that there are 4 possible isomers.
+[49]
+In contrast, the expert witnesses for Ranbaxy, Drs. Clive and Moss argue that the context shows that the 768 Patent refers only to racemate for the following reasons:
+a) The passage in the 768 Patent regarding the “trans-form” in association with Example 1 means that the trans term is limited solely to the trans-racemic mixture;
+b) The reaction sequences only produce racemate;
+c) The 768 Patent does not speak about resolving racemates;
+d) In May 1990, the person skilled in the art would have known that a racemate could be resolved into the individual enantiomers. The inventor intentionally omitted resolution from the 768 Patent. Thus, it is directed towards racemates only.
+e) Since synthesis of a single enantiomer is difficult and time consuming, its omission means that it was not performed;
+f) Claim 6 and 7 are racemic compounds and it did not have the ± attached, unlike with claim 5; and
+g) Table 1 does not explicitly indicate that the individual enantiomers had been isolated and tested for activity. This is required because enantiomers have very different properties.
+[50]
+Clearly there is a clash of expert opinions here. After considering all the facts and expert advice in my view, the 768 Patent is not limited to racemates for the following reasons.
+[51]
+First, the 768 Patent does not explicitly limit the 768 Patent to the racemate. It clearly states that it contemplates the trans-form, which includes both enantiomers. In particular, as stated earlier, it states:
+The compounds of structural formula I above possess two asymmetric carbon centers, one at the 4-hydroxy position of the pyran-2-one ring, and the other at the 6-position of the pyran-2-one ring where the alkylpyrrole group is attached. This asymmetry gives rise to four possible isomers, two of which are the R-cis- and S-cis-isomers and the other two of which are the R-trans- and S-trans- isomers. This invention contemplates only the trans- form of the compounds of formula I above.
+[52]
+Second, although the examples in the 768 Patent describing particular methods for the preparation of compounds contemplated by the invention produces only racemic mixtures, the patent specifically stated that the examples are merely illustrative and did not limit the scope of the invention. The 768 Patent states on page 17:
+These examples are illustrative and are not to be read as limiting the scope of the invention as it is defined by the appended claims.
+[53]
+Third, claim 5 undisputedly covers only racemates by the use of the ± symbol. The use of the stereo-descriptor by the inventor demonstrates that he knew when to limit the claims to racemates. By implication, when the inventor does not use ± , he means to cover both racemates and enantiomers.
+[54]
+Fourth, the Stokker article entitled, “3-Hydroxy-3-methylglutaryl coenzyme A Reductase Inhibitors. 1. Structural Modification of 5-Substituted 3,5-Dihydroxypentanoic Acids and Their Lactone Derivatives” (1985) 28 J. Med. Chem. 347-358, was a document that a person skilled in the art would likely become aware of given that it predates the patent by one year. It was a study on statins and it reported that the activity resided principally in the R-trans- isomer and not the S-trans- isomer.
+[55]
+Fifth, it was common general knowledge, undisputed by the experts of both parties, that a person of ordinary skill would know how to resolve the racemic mixture into its individual enantiomers using known chemical techniques.
+[56]
+Sixth, a skilled person knew that compactin and mevinolin, two naturally occurring statins, were potent inhibitors of HMG-CoA reductase and were single 4(R)-trans- isomer enantiomers.
+[57]
+Lastly, in the U.K. decision of  <FRAGMENT_SUPPRESSED>  (Patents Ct.), aff’d [2007] R.P.C. 4 (C.A.), Justice Pumfrey of the Chancery Division (Patents Court) dealt with European (UK) patent 0247633 (the UK equivalent of the 768 Patent) on this very issue. Justice Pumfrey held at paragraph 41:
+In the '633 patent, it is absolutely clear from context throughout that formula (I) is being used to denote a racemate. In my judgment, every time the skilled person sees formula I or formula X he will see it with eyes that tell him that in that racemate, there is a single enantiomer that is the effective compound, and that he can resolve the racemate using conventional techniques to extract that enantiomer. When one comes to claim 1, which echoes the purpose of the invention with its conventional reference to pharmaceutically acceptable salts, he will, in my judgment, continue to see the formulae in this light. In my view, the claim covers the racemate and the individual enantiomers.
+[58]
+I find Justice Pumfrey’s logic very persuasive and I have no problem adopting it as my own. Accordingly, I find that Claim 1 of the 746 patent is not limited to racemates. Therefore, Ranbaxy’s compound, which is one of the enantiomers contained in Claim 1 infringes the 768 Patent. Or to put it another way the allegations of non-infringement by Ranbaxy are not justified.
+Analysis re Issue 2
+[59]
+Ranbaxy alleges that the 546 Patent is invalid on the basis of:
+a. Obviousness;
+b.  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  ), the Court had occasion to construct Claim 6 of the 546 Patent. While that case turned on the issue of the sufficiency of the NOA and was considered on a different record, the construction of Claim 6 remains the same. In that case the Court held at paragraphs 35-36, 41-44:
+35. The relevant claims in the 546 Patent, claims 1, 2, and 6 read as follows:
+Claim 1:
+[R-(R*,R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl] -1H-pyrrole-1-heptanoic acid or (2R-trans)-5-(4-fluorophenyl)-2-(1-methylethyl-N,4-diphenyl-1-[2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl] -1H-pyrrole-3-carboxamide; and pharmaceutically acceptable salts thereof.
+Claim 2:
+A compound of Claim 1 which is [R-(R*R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-((1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl] -1H-pyrrole-1-heptanoic acid.
+Claim 6:
+The hemicalcium salt of the compound of Claim 2.
+Fortunately, these complex formulae have been given simpler names such that Claims 1, 2, and 6 can be read more easily as follows:
+Claim 1: Atorvastatin acid or atorvastatin lactone; and pharmaceutically acceptable salts thereof.
+Claim 2: Atorvastatin acid.
+Claim 6: The hemicalcium salt of the compound of Claim 2.
+36. The only claim in issue in these proceedings is Claim 6. It claims the hemicalcium salt of atorvastatin.
+. . . . .
+41. Dr. Roush for Pfizer states the following:
+63. The 546 Patent specifically discloses and claims atorvastatin calcium. The 546 Patent specifically discloses that atorvastatin has unexpected and surprising activity to inhibit cholesterol biosynthesis. In particular, the 546 Patent specifically discloses that atorvastatin has ten times the inhibitory activity (of the biosynthesis of cholesterol) as compared to a racemic mixture of atorvastatin and its corresponding S-trans enantiomer.
+64. This increase in activity of atorvastatin over the racemic mixture is unexpected and surprising. A person of ordinary skill in the art would expect, at most, a two-fold increase in activity upon separation of the enantiomers from the racemic mixture. This two-fold activity increase assumes, however, that all of the activity of the racemic mixture resides in one of the enantiomers, the other one being totally inactive. In the case of atorvastatin, the S-trans enantiomer is not inactive. The data on page 8 of the 546 Patent shows that the S-trans enantiomer has activity. As such, the actual expected activity increase that a person of ordinary skill would anticipate for the more active enantiomer over the racemic mixture containing it would be less than two-fold. In this context, the ten-fold increase in activity is surprising and more certainly unexpected.
+65. The 546 Patent identifies atorvastatin calcium as the most preferred embodiment of the invention at page 4 lines 21 to 24 wherein it states: “The most preferred embodiment of the present invention is [R-(R*,R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)-carbonyl] -1H-pyrrole-1-heptanoic acid, hemicalcium salt”.
+(A.R. Vol. 3 at 442.)
+42. Dr. Heathcock for Novopharm essentially concurs:
+94. The ‘546 patent suggests that the 3R,5R isomer (also referred to as the 3-(R)-trans isomer when in the lactone form) is 10-fold more effective in inhibiting HMGR than atorvastatin racemate. It further states that this “surprising inhibition” is “unexpected,” and states that “an ordinarily skilled artisan may not predict the unexpected and surprising inhibition of cholesterol biosynthesis of the present invention.” In support of these assertions, the ‘546 patent provides on page 8 the following table of biological data:
+Compound
+IC50, µM/liter
+[R-(R*R*)] isomer (3R,5R)
+0.0044
+[S-(R*R*)] isomer (3R,5R)
+0.44
+Racemate
+0.045
+95. As expected, the assay shows that the 3R,5R enantiomer is the active enantiomer. On the basis of this data, the bioactivity of the 3R,5R enantiomer would appear to be 10-fold greater than that of the racemate. A person of ordinary skill in the art would typically only expect an improvement of up to 2-fold when comparing the active enantiomer to the corresponding racemate (that is, if all of the biological activity resides in the 3R,5R enantiomer and none in the 3R,5R).
+(A.R. Vol. 14 at 4284.)
+43. In addition Dr. Spargo on behalf of Pfizer asserts:
+30. The 546 Patent states (on page 3) that the invention provides for compounds consisting of atorvastatin, its lactone form, and pharmaceutically acceptable salts of atorvastatin. It is stated at page 4 of the 546 Patent that “the most preferred embodiment of the present invention is [atorvastatin] hemicalcium salt.”
+31. This would teach a person skilled in the art reading the 546 Patent that the hemicalcium salt of atorvastatin is preferred over all other salts. The 546 Patent therefore teaches persons skilled in the art to preferably use atorvastatin calcium.
+32. The 546 Patent states that the atorvastatin enantiomer has approximately ten times the inhibitory activity of a racemic mixture. Any salts of atorvastatin would be expected to have the higher inhibitory activity than salts of the racemic mixture. Thus, when the patent states that the calcium salt is preferred, a person skilled in the art would understand that the preference necessarily refers to that salt’s superior physical properties over the other salts of atorvastatin.
+(A.R. Vol. 8 at 2393.)
+44. Upon reading the patent, and taking into account the expert advice so as to read it through the eyes of a person skilled in the art, the Court reads the disclosure as explaining the following:
+- atorvastatin in its lactone form, its corresponding ring-opened acid form, and the pharmaceutically acceptable salts thereof is useful for lowering cholesterol levels in mammals, including humans.
+- atorvastatin in its lactone form, its corresponding ring-opened acid form, and its pharmaceutically acceptable salts thereof provides an unexpected and surprising inhibition of cholesterol biosynthesis; unexpected in that it is ten-fold increase over the inhibition provided by the racemic mixture. The data for this ten-fold increase comes from a CSI screen disclosed in the 893 Patent. All compounds for the CSI screen were prepared as described in the 893 Patent.
+- the most preferred embodiment of the invention described in the 546 Patent is the hemicalcium salt of the atorvastatin acid.
+- the compounds of the lactone form, the corresponding ring-opened acid form, and the pharmaceutically acceptable salts thereof all have generally equivalent utility.
+[61]
+The evidence of Dr. Roush and Dr. Spargo is word for word the same in this case as it was in the Novopharm case. However, Dr. Heathcock did not testify in this case. Instead Dr. Cunningham testified for Ranbaxy as follows [emphasis in original] :
+11. The 546 patent describes the compound [R-(R*,R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl] -1H-pyrrole-1-heptanoic acid, which is known as atorvastatin (a dihydroxy acid). The 546 patent states that atorvastatin provides surprising inhibition of the biosynthesis of cholesterol.
+12. Atorvastatin is one enantiomer of the dihydroxy acid derived by ring opening of the lactone, trans-5-(4-fluorophenyl)-2-(1-methylethyl)-N,4-diphenyl-1-[(2-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl] -1H-pyrrole-3-carboxamide. The lactone and dihydroxy acid versions may be interconverted by treatment with acid.
+. . . . .
+64. The compound claimed in claim 6 of the 546 patent is the hemi-calcium salt of [R-(R*,R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)-carbonyl] -1H-pyrrole-1-heptanoic acid], a compound which is known today as “atorvastatin calcium”. …
+65. The 546 patent also claims atorvastatin (claims 1 and 2), atorvastatin lactone (claims 1 and 3), the sodium (claim 4), potassium (claim 5), N-methyl glucamine (claim 7), magnesium (claim 8) and zinc (claim 9) salts of atorvastatin, pharmaceutical compositions comprising atorvastatin and a pharmaceutically acceptable carrier (claim 11), and the use of atorvastatin for inhibiting cholesterol synthesis in a human suffering from hypercholesterolemia (claim 12).
+66. The teachings of the 546 patent are representative of the versions of a new drug candidate which would be considered for further development into a medicine. However, the 546 patent does not identify any properties of atorvastatin calcium that would lead to its preferential choice for further drug development.
+(A.R. Vol. 18 at 5599-5600.)
+[62]
+I do not see any material difference in the testimonies of the experts between this case and Novopharm. Therefore, I will adopt the construction stated in paragraph 44 of the Novopharm case (as set out above).
+[63]
+I now propose to deal first with the issue of the sufficiency of the data in the 546 Patent.
+Sufficiency
+Statutory provision
+[64]
+As to the sufficiency of the specification, subsection 27(3) of the Patent Act requires that the specification correctly and fully describe the invention and its operation or use as contemplated by the inventor. It states:
+27.(1) The Commissioner shall grant a patent for an invention to the inventor or the inventor’s legal representative if an application for the patent in Canada is filed in accordance with this Act and all other requirements for the issuance of a patent under this Act are met.
+(2) The prescribed application fee must be paid and the application must be filed in accordance with the regulations by the inventor or the inventor’s legal representative and the application must contain a petition and a specification of the invention.
+(3) The specification of an invention must
+(a) correctly and fully describe the invention and its operation or use as contemplated by the inventor; …
+Description in the patent
+[65]
+Claim 6 of the 546 Patent refers to the hemicalcium salt of atorvastatin acid. Based on the construction above, this amounts to asserting that the hemicalcium salt of atorvastatin is the most preferred embodiment of the invention claimed in the 546 Patent. It is also asserted that it provides an unexpected and surprising inhibition of cholesterol biosynthesis; unexpected in that it has a ten-fold increase in activity over the inhibition provided by the racemic mixture.
+[66]
+The disclosure of the 546 Patent starts by stating:
+Trans-(±)-5-(4-fluorophenyl)-2-(1-methylethyl)-N,4-diphenyl-1-[2-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl] -1H-pyrrole-3-carboxamide are among compounds of U.S. Patent No. 4,681,893 having usefulness as inhibitors of cholesterol biosynthesis. The compounds therein broadly include 4-hydroxypyran-2-ones and the corresponding ring-opened acids derived therefrom.
+It is now unexpectedly found that the enantiomer having the R form of the ring-opened acid of trans-5-(4-fluorophenyl)-2-(1-methylethyl)-N,4-diphenyl-1-[2-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl] -1H-pyrrole-3-carboxamide; that is [R-(R*,R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl] -1H-pyrrole-1-heptanoic acid, provides surprising inhibition of the biosynthesis of cholesterol.
+[67]
+The Patent explains applicable prior art and refers to articles by Stokker and Lynch. It then observes:
+However, an ordinarily skilled artisan may not predict the unexpected and surprising inhibition of cholesterol biosynthesis of the present invention in view of these disclosures.
+[68]
+This surprising activity is more particularized on page 8 wherein the 546 Patent states:
+The compounds according to present invention and especially according to the compound of the formula I inhibit the biosynthesis of cholesterol as found in the CSI screen that is disclosed in U.S. Patent No. 4,681,893. The CSI data of the compound I, its enantiomer the compound II and the racemate of these two compounds are as follows:
+Compound
+IC50 (micromoles/liter)
+[R-(R*R*)] isomer
+0.0044
+[S-(R*R*)] isomer
+0.44
+Racemate
+0.045
+Accordingly, the present invention is the pharmaceutical composition prepared from the compound of the formula I or II or pharmaceutically acceptable salts thereof.
+These compositions are prepared as described in U.S. Patent No. 4,681,893.
+[69]
+As to salt selection the disclosure states on page 4:
+Appropriate pharmaceutically acceptable salts within the scope of the invention are those derived from bases such as sodium hydroxide, potassium hydroxide, lithium hydroxide, calcium hydroxide, 1-deoxy-2-(methylamino)-D-glucitol, magnesium hydroxide, zinc hydroxide, aluminum hydroxide, ferrous or ferric hydroxide, ammonium hydroxide or organic amines such as N-methylglucamine, , choline, arginine and the like. Preferably, the lithium, calcium, magnesium aluminum and ferrous or ferric salts are prepared from the sodium or potassium salt by adding the appropriate reagent to a solution of the sodium or potassium salt, i.e., addition of calcium chloride to a solution of the sodium or potassium salt of the compound of the formula I will give the calcium salt thereof.
+. . . . .
+The most preferred embodiment of the present invention is [R-(R*R*)] -2-(4-fluorophenyl)-ß,d-dihydroxy-5-((1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl] -1H-pyrrole-1-heptanoic acid, hemicalcium salt.
+Background on Assays
+[70]
+A short observation regarding assays is necessary at this point. As part of the drug development process at any pharmaceutical company, compounds of interest are evaluated to determine whether they have any biological effect. Typically, these compounds are evaluated by means of assays.
+[71]
+Assays, which are also referred to as “screens”, are experiments conducted on test compounds to determine whether they have a particularly desirable characteristic. An assay will allow one to determine how effective a given compound is in inhibiting enzyme activity or an enzymatic process (cholesterol biosynthesis) by measuring its activity in vitro or in vivo. In vitro screens are carried out in a test tube, culture dish or elsewhere outside a living organism. In vivo screens are carried out in a living organism.
+[72]
+This invention involves enzymes, which are involved in converting compounds into other compounds. They act as biological catalysts that speed up the rate of a chemical reaction.
+[73]
+HMG-Co-A reductase is an enzyme that catalyzes the conversion of HMG-CoA and NADPH into mevalonic acid (mevalonate). As such, one assay that can be used to assess activity of a potential HMG-CoA reductase inhibitor is to put it into a medium containing, among other things, HMG-Co-A, NADPH and HMG-CoA reductase, and then to monitor the inhibitor’s ability to stop or slow down the conversion of HMG-CoA into mevalonic acid (as compared to the same reaction conducted without the inhibitor). This type of assay is also referred to as the COR assay. The purpose of the COR assay is to measure the effect that a statin has on only one enzyme, the HMG-CoA reductase.
+[74]
+Another type of assay is the Cholesterol Synthesis Inhibition (CSI) screen. It measures the effect of the test compound on the incorporation of radio labeled acetate into nonsaponifiable lipids as a measure of the inhibitory activity of a test compound with respect to the entire cholesterol biosynthesis pathway. In other words, it measures the effect that a test compound, a “statin”, has on the entire cholesterol biosynthesis pathway.
+[75]
+For in vitro assays involving enzymes, the ability to inhibit the reaction of interest is typically expressed as the IC50 value. The IC50 represents the concentration of an inhibitor that is required for 50% inhibition of the enzyme in the in vitro assay. The control measures the amount of cholesterol (CSI assay) or mevalonic acid (COR assay) produced in the absence of a test compound. The lower the IC50 the more potent the compound, since less of the compound is required to cause 50% inhibition.
+[76]
+Although a test compound may have shown inherent activity in inhibiting the synthesis of cholesterol in vitro, it could be inactivated in the stomach or metabolized or degraded by drug metabolizing enzymes in the intestines or liver in vivo. It was therefore critical to test whether a compound which showed activity in vitro would also show activity in a living animal; i.e., that it was bioavailable after oral administration.
+[77]
+The in vivo assay used by Warner-Lambert is the Acute Inhibition of Cholesterol Synthesis (AICS) assay. The AICS assay used radioactive acetate to measure the amount of radioactive cholesterol that was produced in the rat after feeding a single dose of test compound by gastric tube. The purpose of the AICS assay is to determine whether the test compound and/or its metabolites are bioavailable to the tissues, in particular the liver, which required the presence of the compound for cholesterol synthesis inhibition to occur. In simpler terms, the AICS results showed whether the test compound or some metabolite or decomposition product of the compound was absorbed, transported, and ultimately active in the liver to inhibit cholesterol biosynthesis. Only those compounds which appeared to inhibit cholesterol biosynthesis in vitro were tested with the AICS assay.
+[78]
+The results of the AICS assay were sometimes reported as ED50 values. An ED50 value is the amount of drug that lowers the level of radio labeled cholesterol in the blood by 50% compared to the control. The term is “ED50” because we are referring to an “effective dose”; that is, looking at the effect in the entire animal, not the inherent inhibitory effect (IC50) of the compound of the enzyme.
+[79]
+Pfizer employed all three screens COR, CSI and AICS. However as part of this litigation it distanced itself from the COR results due to laboratory errors subsequently discovered and relied solely on the CSI and AICS results.
+Ten-fold increase in activity
+[80]
+In the NOA, Ranbaxy alleges that:
+a. the biological activity data in the 546 Patent “is not representative of all the data collected by Pfizer”;
+b. “the data as a whole showed tremendous variability” and that because of “the significant variance in the data, caused at least by solubility problems, one cannot draw scientifically valid conclusions from the data as a whole”; and
+c. “Pfizer had conducted more reliable in vivo AICS experiments which were not included” in the 546 Patent.
+[81]
+Pfizer contends that the CSI data within the 546 Patent shows a purported ten-fold increase in activity of the atorvastatin calcium over the atorvastatin calcium racemate. It states in its factum at paragraphs 162-63 [emphasis in original] :
+Sufficiency:
+The specification of the 546 Patent is sufficient for the purposes of the Patent Act. An allegation of insufficient disclosure is a technical attack that should not operate to defeat a meritorious invention. An insufficiency attack will succeed only where a specification fails to disclose the invention such that a person skilled in the art could not put it into practice.
+A patentee is not required to explain how an invention is novel or to prove that it is useful. The obligation is to explain, in good faith, (I) what the invention is, and (ii) how to put it into operation. Does the patent answer the questions, “what is your invention and how do you make it?” There is no requirement to disclose data to prove the invention. A patent is not an academic article, and does not require that level of disclosure.
+[82]
+Essentially, Pfizer argues that any increase in activity over two-fold is surprising. In particular, Pfizer asserts that while the data may vary, every piece of data shows that the increase in activity is over two-fold and thus, is not “in the ballpark” of what a person skilled in the art would expect. Pfizer contends that there is no need for further precision and thus, the 546 Patent complies with the requirements of s. 27(3) of the Patent Act.
+[83]
+The question therefore becomes: ‘Did the patent correctly and fully describe the invention and its operation or use as contemplated by the inventor’? To answer this question we have to look at the data Pfizer offers in support of its invention.
+[84]
+In my view it does not for the following reasons.
+Data based on sodium rather than calcium
+[85]
+First, the information in the 546 Patent relates to sodium salts, not calcium salts. As Pfizer’s own witnesses admit, data on one salt cannot be used to predict the absolute IC50 values of other salts. Dr. Dietschy explained in his affidavit [emphasis added]
+50. Even where assays are run at the same time, using the same reagents, solvents and liver homogenate or microsomal preparations, some variability in assay results is still expected.
+For example, one would expect to see variability in CSI assay data for different salts of the same compound, even when run head to head. Atorvastatin sodium and atorvastatin calcium, for instance, are two different salts having markedly different solubilities. It is very difficult to compare absolute values for compounds such as these, which have different physical and/or chemical properties, even when run in the same assay on the same day
+.
+[86]
+The CSI data contained at page 8 of the 546 Patent on which Pfizer relies to support the ten-fold increase in activity does not include any data relating to the calcium salt. The patent states that the “compounds of the formula I and II and their pharmaceutically acceptable salts are in general equivalent for the activity of the utility as described herein.” According to Pfizer this means that the relative activity of the two salts is the same, so long as one is comparing sodium racemate to the sodium enantiomer and calcium racemate to the calcium enantiomer.
+Variability of data between salts
+[87]
+Dr. Roush (Pfizer’s witness) stated on cross-examination that everything being equal, the various salts of statins would have the same activities because “the metal ion which is part of the salt does not interact with the enzyme, that is the acid form that interacts with the enzyme” (A.R. Vol. 3 at 944). He stated:
+Q. Do you know, Dr. Roush, whether or not the various salts of statins show generally equivalent biological activity?
+A. And by “generally equivalent,” they have the same biological activity in inhibiting the HMG-CoA reductase?
+Q. I’m using the phrase that’s found on page 9 of the patent. You spoke about that and you referred to that passage earlier, Dr. Roush.
+A. And I said that all things being equal, if all factors are the same, they would have the same activities. I do believe that, yes.
+(A.R. Vol. 3 at 948.)
+[88]
+Similarly, when dealing with this issue, Dr. Dietschy (another Pfizer witness) gave the following answer on cross-examination:
+A. With respect to the CSI assay, different salts of the same compound ought to have similar inhibitory activity if solubility is not a major issue? Would that be fair?
+Q. In the ideal situation where they are perfectly soluble, your statement is correct. However, all of us who work in this field know that that is seldom achieved, particularly with statins. They tend to have very marked solubility problems. And the calcium salts in general are more problematic than the sodium salts.
+So the practical issue is in the perfect situation, as you see in the COR assays where solubility seem to be very good, you’ve got identical results, which is what I would have predicted. You get less than perfect results when you deal with the calcium salts.
+A. And in the ideal situation, as you said, where they’re perfectly soluble, you ought to get similar results because the salt ion doesn’t play any part in the inhibitory activity; is that correct?
+Q. Once it disassociates.
+(A.R. Vol. 8 at 2912-13.)
+[89]
+However, in this case we have a large and unexplained variability between the salts. Attached hereto as Annex 2 is the tabulation of all of the relevant CSI results as found in Exhibit H of Dr. Newton’s affidavit. The data for the racemic calcium salts on that table is as follows:
+ASSAY NUMBER
+IC50 VALUE (nM)
+CSI 111
+2.4
+CSI 112
+77.6
+CSI 118
+257/234
+CSI 119
+3.24
+[90]
+The data for the racemic sodium salts on that table is as follows:
+ASSAY NUMBER
+IC50 VALUE (nM)
+CSI 118
+9.77/9.13
+CSI 124
+1
+[91]
+When the data for the racemic calcium salt is compared to the racemic sodium salt there is a substantial variation. Even if one discounts CSI 111 as there was a dilution error (see footnote “a” on the table) the variation is still substantial. As Dr. Scallen observed, when one compares the results for the sodium salt of the atorvastatin racemate and the calcium salt of the atorvastatin racemate tested in the same experiment 118, one still finds a 25-fold difference (A.R. Vol. 15 at 4667). This is in not compatible with the testimony of Pfizer’s witnesses, Dr. Roush and Dr. Dietschy, as quoted above.
+[92]
+The above analysis leads me to conclude that a cholesterol researcher would not expect to see a substantial variation (such as seen in this case) between the salts tested as the inhibitory action is not in the salt.
+Drawing conclusions from one salt to another
+[93]
+Additionally, the expert testimony suggests that a scientist does not draw conclusions for one salt from experiments involving another salt. Pfizer’s witness, Dr. Newton made the following revealing remark [emphasis added] :
+Q. Would you ever use data obtained from the CSI assay on the sodium salt of atorvastatin to draw any conclusions with respect to activity in vitro on the calcium salt of atorvastatin?
+Mr. Wilcox: So the only data you have is an IC50 for the atorvastatin sodium --
+Ms. Furlanetto: Yes.
+Mr. Wilcox: -- in CSI.
+Ms. Furlanetto: Yes.
+Mr. Wilcox: And you’re asking whether he can draw a conclusion about the IC50 for atorvastatin calcium.
+By Ms. Furlanetto:
+Q. Yes.
+A. No, they’re two different salts.
+(A.R. Vol. 8 at 2639-40.)
+[94]
+Yet the patent here makes assumptions regarding calcium based on data for the sodium salt.
+However, there is no data to support a claim for the calcium salt.
+[95]
+In light of the foregoing, in my view it is inappropriate to draw conclusions from one salt to another, especially since there is a substantial variation in the activities of the salts test.
+Averaging results from different experiments
+[96]
+Second, the alleged ten-fold difference in activity is based on an averaging of data for the racemic sodium salt collected across five different experiments. This average was then compared against the results for the enantiomers which came from another experiment. The values used to obtain the IC50 value for the racemate were:
+ASSAY NUMBER
+IC50 VALUE (micromoles/litre)
+CSI 92
+0.0346
+CSI 93
+0.0275
+CSI 95
+0.0631
+CSI 102
+0.0912
+CSI 118
+0.0097
+AVERAGE
+0.045
+[97]
+In addition, four of those assays tested the lactone while the fifth tested a salt. As Dr. Roth explained in his affidavit, the “first four assays (CSI 92, 93, 95 and 102) of racemic compounds started with a lactone, and the last assay (CSI 118) started with the sodium salt” (A.R. Vol. 2 at 315).
+[98]
+Attached hereto as Annex 2 is the tabulation of all relevant CSI results as found in Exhibit H of Dr. Newton’s affidavit. Attached as Annex 3 is the same tabulation on which, for illustration purposes, the numbers averaged have been footnoted with a number one (1) and the number against which the average is compared have been footnoted with a number two (2). This Annex graphically illustrates the arbitrary selection of sodium compounds for averaging as well as the selection of an enantiomer from an altogether different assay for comparison purposes.
+[99]
+Dr. Dietschy admitted during cross-examination that taking an average across different days and experiments was not typically done.
+Q. So I take it in your view then, Dr. Dietschy, it would be inappropriate to average the data from various experiments to obtain an IC50 value; is that fair?
+A. In general I would not do that. That is correct.
+(A.R. Vol. 8 at 2936.)
+[100]
+Likewise, Dr. Newton stated during cross-examination that he would not take an average in these circumstances (A.R. Vol. 7 at 2640). As Pfizer’s own witness attested to, it was inappropriate to average the numbers as was done with the CSI values for the racemates. This is especially inappropriate given that for the enantiomers, no such averaging took place. In addition, the experiments were conducted over approximately a three-year period, from July 1985 through October 1988. Dr. Scallen explained in his affidavit:
+100. The results of these five experiments when taken as a whole are also so variable that they cannot be averaged together with any reliability. Averaging such numbers does not provide any scientifically meaningful results.
+(A.R. Vol. 15 at 4675.)
+[101]
+I agree with this statement and find that the averaging of the CSI results for the atorvastatin racemate does not provide any scientifically meaningful result. I also note that the U.S. Patent Office did not accept this averaging and only accepted the equivalent of the 546 Patent when Pfizer found a different sort of data, the head to head comparison of the racemic salt of calcium with its R-enantiomer in CSI 118. I will now deal with the CSI 118 assay.
+Validity of CSI 118
+[102]
+Third, Pfizer seeks to rely on data from CSI 118 to support the alleged ten-fold difference in activity of atorvastatin calcium over the calcium racemate. This was a direct head to head comparison of the calcium racemate salt of atorvastatin with the calcium salt of atorvastatin. It shows a difference in activity of 257 to 25.1 and 234 to 21.6 between the racemate calcium salt of atorvastatin and the calcium salt of atorvastatin. This clearly is a ten-fold difference.
+[103]
+However, the lab notes of the technicians conducting the experiment show the compounds were not fully dissolved in the stock solution. As the footnotes c, m, I and ch as added to the attached Annex 4 show, problems with solubility occurred in most of the CSI assays. However, we are only concerned with the CSI assay 118 as Pfizer relies on it to compare atorvastatin with the atorvastatin racemate. The compounds sought to be relied upon to support the CSI 118 were indicated by the technician to be “insol” – insoluble – in the stock solution. These problems were stated by Dr. Scallen in his affidavit as follows [emphasis in original] :
+75. It was well known to the cholesterol researcher in 1989 that, in order to properly conduct assays using serial dilutions, the test compounds must be completely dissolved in the solvent used to prepare the original stock solution. In the CSI assays performed by Warner-Lambert, solubility was often not achieved when the stock solution were prepared.
+(A.R. Vol. 15 at 4668.)
+[104]
+Similarly, Dr. Dietschy also noted the importance of solubility in his affidavit:
+58. In addition to opening the lactone ring (if necessary) prior to testing, the test-compounds also had to be solubilised into either a solution or a suspension (because they would have been provided by the chemists in powdered form). Statins are not readily soluble in many common solvents, and although the techniques for solubilising them were well known at that time, I would expect to see variation in the quality of test compound actually solubilised depending on the solvents and techniques used.
+. . . . .
+60. In order to test a statin in one of these assays, one needs to get the compound into some sort of uniform state so that the amount of compound being introduced into each assay tube is known. This is essential for looking at comparative data and can be done in a number of ways.
+61.
+Ideally, the compound can be completely dissolved to give a clear stock solution
+. … The worst-case scenario would arise when all of the common solubilisation techniques have been tried but gross lumps of material remain. Such a stock solution would be unacceptable.
+(A.R. Vol. 8 at 2686 [underlining added].)
+[105]
+The expert witnesses disagree as to whether “insoluble” could also refer to “uniform suspension”. According to Dr. Dietschy, it does. When he was asked how he came to that conclusion, the following exchange took place:
+Q. And you’re making an assumption that insoluble means uniform suspension?
+A. I am making that assumption based upon this data, uh-huh.
+Q. Based upon the data?
+A. Well, based upon what is written in these books and the instructions to the technicians.
+Q. Well, the instructions to the technicians speaks about uniform suspension. It doesn’t speak about insoluble.
+A. But a uniform suspension is insoluble by definition.
+Q. A chunk is insoluble.
+A. Yes, but it’s ---
+Q. Cloudy is insoluble.
+. . . . .
+A. My understanding of what the technician was to do was to indicate the characteristics of that solution. And she was to indicate when there were gross chunks of material. Anything different from that was described as insoluble. Now, one can use other terms for this, but that is my interpretation of this data.
+(A.R. Vol. 8 at 2918.)
+[106]
+Dr. Dietschy later stated that “milky” and “cloudy” also refer to uniform suspension; in fact, they are the same uniform suspension as “insoluble”. When asked why this is the case he responded:
+Q. Well, why would the technician use two different words to describe the same thing?
+A. I do not know why she described it that way. She was trying to indicate to the investigator that it looked different and had partially gone into solution while the remainder was insoluble and in a uniform suspension.
+(A.R. Vol. 8 at 2920.)
+[107]
+Conversely, Dr. Scallen had a contrary opinion when he was asked during cross-examination, “if it’s got chunks, it’s not a good assay; right?” Dr. Scallen answered:
+A. I think that all of these are experiments that cannot be relied upon. The description of whether it’s out of solution, insoluble, milky, or chunks is immaterial. It simply means that the compound hasn’t dissolved. Therefore, you don’t know the concentration of the test compound in the stock solution, in the dilutions from that, or in the incubation tube.
+(A.R. Vol. 15 at 4731-32.)
+[108]
+When Dr. Scallen was asked what a “uniform suspension” meant he gave this answer:
+The Witness: A uniform suspension has no meaning in the context of a CSI or a COR experiment, which are predicated on having the drugs in solution. They are not predicated on anything about suspensions.
+Q, So if you don’t have any of the drug dissolved, then you won’t show activity in the assay?
+A. No. you need all of the drug dissolved so that you know how much drug was in the stock solution, how much drug was in each dilution, serial dilution, and how much drug is actually in the incubation with the enzyme or the homogenate, as the case may be.
+Q. Okay. What’s a suspension?
+A. I don’t think suspension has a scientific definition.
+Q. Okay.
+A. To me, it merely connotes insolubility.
+Q. Right. So if something is in suspension, it’s not soluble?
+A. It’s not soluble in the sense that we know how much is in solution, and that’s the issue here. We have to know how much of the test compound is in solution.
+Q. Right. And so you just don’t understand what a suspension – you don’t have any definition of what a suspension is?
+A. Well, it’s not relevant because you cannot do a quantitative assay. As I’ve said previously, quantisation here demands and, in fact, requires that all of the compounds dissolve so that you know how much is in the stock solution, the dilutions made therefrom, and finally added to each incubation. If you have a suspension which, to me, merely means that the drug hasn’t dissolved completely, then you don’t know that. You don’t have any quantisation.
+Q. Okay.
+A. Therefore, you are going to have variability.
+. . . . .
+A. There is no – there is no evidence that has been presented by Parke-Davis, now Pfizer, that these suspensions are, quote, uniform. There’s no evidence to that. Again, these assays are predicated on the compounds being completely dissolved. They are not predicated at all, nor can they be done scientifically, on suspensions of any kind, be they uniform or nonuniform.
+(A.R. Vol. 15 at 4736-38.)
+[109]
+Dr. Dietschy also had difficulty interpreting the words of the technician, as was evident throughout the cross-examination. For example [emphasis added] :
+Q. And you’re saying that a fine suspension to you means the same thing as insoluble. Is that not correct?
+A. An insoluble solution, as I indicated, is probably a suspension of particles, yes. But I can’t get into the game of trying to guess what she was talking about in these. I can only accept what’s written down.
+(A.R. Vol. 8 at 2940.)
+[110]
+The above quotes demonstrate that Pfizer’s experts did not know what the lab notes meant but were trying to interpret the words of the technician. Dr. Dietschy’s in his cross-examination, he did not even want to “guess what she was talking about”. As the experts all agreed, getting the test compounds into the solution was an important step in the drug testing process. Dr. Dietschy admitted that ideally, the compound should be completely dissolved to give a clear stock solution. There is no support for Dr. Dietschy’s interpretation that “insoluble”, “milky”, and “cloudy” all refer to “uniform suspension”. No evidence from the lab technicians was provided as to what these words meant or whether in fact there was “uniform suspension”. There was also no evidence that the “uniform suspension” was the same between the different test compounds. Even according to Pfizer’s own witness, Dr. Dietschy, this is important as, “one needs to get the compound into some sort of uniform state so that the amount of compound being introduced into each assay tube is known” (Dr. Dietschy’s Affidavit at para. 60).
+[111]
+Based on the expert testimony and in light of the foregoing analysis, I accept the logic of Dr. Scallen and agree that the data from the CSI 118 assay simply cannot be relied on.
+AICS data
+[112]
+Fourth, Pfizer conducted the AICS assay twice. This is the only assay comparing head to head the racemic calcium salt of atorvastatin against the calcium salt of atorvastatin that was repeated. It showed consistent results, notwithstanding that the dosage sequence in the first assay was inconsistent. The results of the AICS assays only showed a 2.5 and 2.8 times increase in activity not a ten-fold increase.
+[113]
+There is no dispute by the any of the expert witnesses as to how the AICS assays were run or whether any errors were made by the technicians. The only dispute is whether the results of the AICS should be relied upon in determining the inherent ability of atorvastatin calcium or atorvastatin calcium racemate to inhibit cholesterol synthesis. The AICS experiments were described by Dr. Newton in his affidavit as follows:
+97. Two AICS experiments (#4488 and #4588) were conducted using the calcium salt of the R-(R*,R*) enantiomer and the racemic calcium salt (PD 124,488-38A). AICS 4488 and AICS 4588 are the only direct (i.e. head-to-head) comparisons of the racemic calcium salt and the calcium salt of the R-( R*,R*) enantiomer (i.e. atorvastatin). The results are summarized in Research Report No.: RR-740-02620, a copy of which is attached as Exhibit “P”. The reported ED50 values indicate the atorvastatin calcium was 2.5 times more active (AICS 4488) and 2.7 times more active (AICS) than the racemic mixture in this in vivo assay.
+. . . . .
+100. Caution should be exercised when comparing ED50 values obtained for different compounds in the same assay run, since the results do not always show a distinct dose-response relationship. The AICS assay does not provide information about a test compound’s inherent ability to inhibit cholesterol synthesis because the compound can be converted by drug metabolizing enzymes in vivo into active or inactive metabolites. In looking at AICS data, one cannot know whether any apparent activity is caused by the compound itself or by an active metabolite. One needs to screen test compounds in a closed system, such as the COR or the CSI assays, in order to obtain information about the inherent ability of a test compound to inhibit overall cholesterol synthesis or HMG-CoA reductase in particular.
+(A.R. Vol. 4 at 1163.)
+[114]
+According to Dr. Scallen, AICS assays are reliable and valid. He stated within his affidavit:
+46. In my experience, the AICS assay is a reliable indicator of the activity of the test compound in vivo. In particular, virtually all of the statin is absorbed and passed rapidly and directly to the liver which is the major site for cholesterol formation in the body. Therefore, the statin does not have any problems with absorption. It is well known that statins are not modified or degraded in the acidic environment of the stomach and are not affected by intestinal absorption, liver uptake, hepatocyte uptake, or enzyme (HMG-CoA reductase) availability.
+47. Further, the design of the assay itself and the administration of the drug and its testing after just one hour allow the intrinsic potency of the drug to be tested in the intact animal, without any interference from secondary adjustments that might occur in the animal at a later time point. This early time point is long before any secondary adjustments due to metabolism of the test compound can occur.
+(A.R. Vol. 15 at 4659-60)
+[115]
+Dr. Scallen expanded on this point during cross-examination. He explained:
+Q. And certain biological processes can act on that compound; correct?
+A. Not at that short time intervals that we are discussing, no.
+Q. So you know in a statin drug discovery program that that drug will not be affected in any way, and you will get a reasonable ED50 if you had a reasonable IC50?
+A. Yes, because the secondary adjustment such as what you are alluding to would be drug metabolism of the test compound. Those take much longer to occur. This drug is only in the animal for -- it is administered. It’s only there for 60 minutes and then the labeling with acetate for 50 minutes.
+So this is a very short time, and in this time, we know from the work that was well known in the field that the drug is rapidly and quantitatively transported to the liver, enters the hepatocyte, and accesses the HMG-Co-A reductase in the hepatocyte and, at these early time-interval measurements, gives you the activity in the intact animal without the interference of stomach acid or absorption or inactivation of a compound by drug metabolism enzymes.
+You can depend on these short-term assays. They were used by all of the companies, that I’m aware of, in this field. Merck certainly used it. Sandoz used it, and also, of course, Parke-Davis or Pfizer used it.
+Q. Right. But you told me there isn’t a study that shows that there’s no metabolism of atorvastatin in the first hour.
+A. Well, this is known to workers in the field that the drug-metabolizing effects -- and these have been studied, of course, in humans -- occurred at a much later time but not -- in a single-dose study, it was certainly known that drug metabolism was not a problem.
+(A.R. Vol. 15 at 4782-84)
+[116]
+Significantly, in a Research Report (No. RR-740-02620) dated May 31, 1989, to senior Management at Warner-Lambert regarding the AICS screen, it was written that the result was:
+[T] he chiral [R,R] calcium salt of CI-971 (PD 134298-38A) was
+approximately twofold more active at inhibiting cholesterol synthesis acutely in vivo compared to the racemic mixture
+(PD 124488-38A). This is to be expected if 50% of the racemic salt is the inactive [S,S] isomer. … The average ED50 value in the two experiments for the chiral salt (1.0 mg/kg) was equivalent to that for lovastatin (0.89 mg/kg, Experiment 289). (Underlining added)
+[117]
+I see no reason not to accept Dr. Scallen’s evidence that the AICS assay is a strong indicator of the inherent activity of atorvastatin calcium. Clearly Pfizer’s predecessor company thought the same as the above quoted research report indicated. There is rapid absorption and rapid access to liver HMG-CoA reductase, which was common knowledge to a person skilled in the art at the time. While Dr. Scallen could point to no authority to that effect, similarly, Pfizer did not disprove it. Dr. Scallen’s observation regarding the rapid access stands uncontradicted; the AICS data is the only reliable data. It is the only assay that:
+a. was conducted head to head;
+b. involved the racemate calcium salt and the calcium salt of atorvastatin;
+c. was conducted twice; and
+d. was not questioned in terms of methodology or lab procedure;
+[118]
+Consequently, I am driven to the conclusion that the AICS assay shows that the inherent activity of the calcium salt of atorvastatin over the racemate calcium salt of atorvastatin is only slightly more than two-fold.
+Conclusion
+[119]
+The provisions of s. 27(3) have been described as technical. Justice Layden-Stevenson observed in  <FRAGMENT_SUPPRESSED>  at para. 76:
+An allegation of insufficiency of disclosure is a technical attack that should not operate to defeat a patent for a meritorious invention. An insufficiency attack will succeed where a specification fails to disclose the invention such that a person skilled in the art could not put the invention into practice.
+[120]
+Justice Dickson in  <FRAGMENT_SUPPRESSED> , had previously clarified this principle when he stated:
+Although (I) s. 36(1) [now s. 27(3)] requires the inventor to indicate and distinctly claim the part, improvement or combination which he claims as his invention and (ii) to be patentable an invention must be something new and useful (s. 2), and not known or used by any other person before the applicant invented it (s. 28(1)(a)), I do not read the concluding words of s. 36(1) as obligating the inventor in his disclosure or claims to describe in what respect the invention is new or in what way it is useful. He must say what it is he claims to have invented. He is not obliged to extol the effect or advantage of his discovery, if he describes his invention so as to produce it.
+[121]
+Similarly, Justice Hughes  <FRAGMENT_SUPPRESSED> -Ortho, supra observed at paras. 122-27:
+122 There is no provision, in section 34(1) for sanctions if a patent fails to describe the invention correctly, fully and, clearly. However, the Courts have said, for instance, the Supreme Court of Canada in  <FRAGMENT_SUPPRESSED>  at para. 27 (QL) [Pioneer Hi-Bred], that a patent must disclose everything that is essential for the invention to function properly. To be complete a patent must meet two conditions, first it must describe the invention and define the way that it is produced or built, failing which it is ambiguous. Secondly, the patent must define the nature of the invention and how to put it into operation failing which the patent is invalid for insufficiency.
+123 As to sufficiency, I have no doubt, having listened to the experts, that the data presented in the Patent as to toxicity and solubility, is scant. The toxicity table was recognized by the experts as being that as found in a preliminary screen used to assess whether further development of a drug candidate is warranted. It is not a full toxicity analyses. The LD50 data presented in the patent, the experts agree, was clearly not derived from Table 3. No basis for those figures is given in the Patent, no confidence interval (a range often given to indicate that the LD50 is a statistically derived number and has some level of variability) is presented. The LD50 number for Ofloxacin given in the Patent as 203 mg/kg (which all parties agree is a typographical error and should be 208 mg/kg) is clearly at odds with the LD50 number for Ofloxacin of 380 mg/kg presented at page 11 of the '840 patent. Experts for all parties are in agreement that several factors such as age, weight and sex of the animals, possibly rate of injection and many others, can affect the LD50 values. There was no consensus as to whether 208 or 380 was the right number or why the discrepancy existed.
+124 With respect to the solubility data, that data is again scant. Insufficient information as to the conditions under which the solubility of each of the (-), the (+) and the (+/-) were tested is given. The experts, Drs. Myerson and Matzger debated whether the figures were accurate and whether unstated conditions such as whether one or the other of the substances was hydrated or hemi-hydrated or underwent a change during the solution testing affected the results.
+125 There was debate as to whether, in fact, levofloxacin was more, or less, toxic than Ofloxacin or about the same. Janssen-Ortho or its affiliates apparently represented to government authorities that it was about the same. Debate also arose as to the true solubility of levofloxacin as compared to Ofloxacin. It could be calculated at about nine times more or even down to about five times more than Ofloxacin.
+126 I find that the paucity of toxicity and solubility data, and the discrepancies raised do not affect the validity of the Patent. What the Patent asserts, at the end of the day, is set out at page 2. The S(-) form of Ofloxacin has increased antimicrobial activity, reduced toxicity and markedly high water solubility, giving it an expectation to be a very useful pharmaceutical agent. This statement is correct. To even find this distribution of attributes, namely, more of the beneficial properties and at least no more of the detrimental, was itself remarkable.
+127 While one would have hoped for more and better data than that presented in the Patent. There is presently no mechanism in the Patent Office for compelling an Applicant to submit further data or to substantiate the data presented in the patent. One might expect that a certain amount of persuasion might be exercised from time to time however there is no statutory or regulatory basis to compel the provision of such data. There exists, as stated in Pioneer Hi-Bred the possibility of invalidation, however, I find that the data presented in the Patent is not, in this case, so insufficient as to warrant invalidation.
+[122]
+While these cases undoubtedly set the bar for section 27(3) very low, Pfizer in this case has not vaulted over that low bar. In essence, the 546 Patent makes two assertions, one as to activity the other as to the preferred salt. The first assertion is that there is an unexpected and surprising inhibition of cholesterol biosynthesis because of the ten-fold increase in activity between atorvastatin calcium and the racemic calcium salt. However, from the evidence presented, this statement is incorrect. The only reliable data available, the AICS data, suggests an increase in activity barely over the expected two-fold when the racemate is resolved into its individual enantiomers. This is not anywhere close to ten-fold.
+[123]
+I fail to see how this amounts to ‘correctly and fully describing the invention’. A patentee has an obligation to make truthful statements regarding the nature of the invention in the disclosure of the patent. This principle was discussed by Harold G. Fox in “The Canadian Law and Practice Relating to Letters Patent for Inventions”, 4th ed. (Toronto: Carswell 1969) at 188:
+If a word is used inaccurately, but the nature of its use appears sufficiently from the context, the patent will be good. Nor will a specification be construed as invalid if it possesses only small errors and inaccuracies that are in the nature of clerical errors, or amount only to such as the ordinary workman will recognize and correct. This rule does not apply, however, unless the errors and inaccuracies appear on the face of the specification. If they only appear after further experimentation, or if they amount to a false suggestion, even though immediately perceivable by the ordinary skilled workman, the specification will be insufficient. The patentee cannot rely on the skill and knowledge of the addressee to correct errors or false promises that he has inserted in the specification.
+[124]
+Here we clearly have an assertion of a ten-fold increased activity on the face of the specification. This false suggestion of a ten-fold increase in activity cannot be backed up by the data provided. Accordingly, I find the 546 Patent to be invalid for failing to meet the requirements of s. 27(3) of the Patent Act.
+[125]
+The second assertion is that the hemicalcium salt of atorvastatin is the most preferred embodiment of the invention claimed in the 546 Patent. Since the first assertion is not correct, I do not need to address this second assertion.
+[126]
+As Pfizer has not disproved Ranbaxy’s allegation regarding insufficiency I need not and will not address the other allegations of Ranbaxy. This single undisproved allegation is dispositive of the application with respect to the 546 Patent.
+Postscript
+[127]
+The Court is of course aware that the finding regarding sufficiency of data is different from the finding in the obiter of the Novopharm decision. However, it well established that every NOC application is determined on its own record. In addition it should be noted that there are marked differences between the records in these two cases. Particularly:
+a. The NOA in the Novopharm case was different and found to be insufficient;
+b. In the Novopharm case the insufficiency of data had not been alleged in the  <FRAGMENT_SUPPRESSED>  argument; and
+d. The expert witnesses presented by Ranbaxy are different from the witnesses in the Novopharm case.
+[128]
+Given the difference in records, no further explanation regarding the different outcomes is required.
+ORDER
+[129]
+THIS COURT ORDERS that:
+1. As Pfizer has successfully disproved the allegations on non-infringement made with respect to the Canadian Patent No 1, 268,768 the Minister shall not issue an NOC to Ranbaxy in respect of the proposed Ran-Atorvastatin tablets for oral administration comprised of atorvastatin calcium at 10, 20, 40 and 80 mg strength until after the expiry of said Canadian Patent No 1,268,768;
+2. Pfizer’s application for a prohibition order, until the expiry of Canadian Patent No. 2,021,546, is dismissed; and
+3. In light of the split outcome regarding the allegation in respect of the two patents there will be no order as to costs.
+Annex 1 <FRAGMENT_SUPPRESSED> Robert H. Barrigar
+: He is a barrister and solicitor practising in the Province of British Columbia. He is the proprietor of the law firm/patent and trademark agency firm Barrigar Intellectual Property Law. He obtained his Bachelor of Applied Science degree from the University of Toronto in engineering physics in 1959. He is a registered professional engineer, and a registered patent agent both in Canada and the United States. He obtained his LL.B. degree from Dalhousie University in 1963 and obtained an LL.M. Degree from Harvard Law School in 1964. Since he was called to the Bar of Ontario in 1966, his practice has been confined to intellectual property matters, with an emphasis on patent matters.
+Dr. Bruce D. Roth
+: He is the inventor of the patent relating to Lipitor®. He is currently employed by Pfizer as Vice-President of Chemistry, Pfizer Global Research and Development. He has been working for Pfizer since 1999 when Pfizer acquired the Warner-Lambert Company. Previous to his current employment with Pfizer, he had been working for Warmer-Lambert Company since 1982. He holds a Ph.D. in organic chemistry from Iowa State University. He is the co-author of 8 review articles and approximately 50 scientific papers. He has also given many lectures and presentations at various universities and conferences in the United States and Canada. He also has received many awards, one of which was the Warner-Lambert Chairman’s Distinguished Scientific Achievement Award, which he shares with Dr. Roger Newton. In 1999, he was named Inventor of the Year by the New York Intellectual Property Law Association.
+Dr. Roger S. Newton
+: His field of experience is within the area of lipid biochemistry. He holds a Ph.D. in the area of lipid metabolism from the University of California. During his post-doctoral fellowship, he worked with compactin. From 1981 to 1998 he was employed by Parke-Davis, the pharmaceutical research division of the Warner-Lambert Company, in the Atherosclerosis Pharmacology Department. His mandate was to establish and lead a drug discovery program aimed at finding a chemical composition capable of being commercialized as a cholesterol-reducing drug. Along with Dr. Bruce Roth, he was awarded the Warner-Lambert Chairman’s Distinguished Scientific Achievement Award.
+Dr. William R. Roush
+: He is a chemist with almost 30 years experience in organic chemistry and medicinal chemistry. He is presently the Executive Director of Medicinal Chemistry at the Scripps Research Institute. He is also the Associate Dean of the Kellogg Graduate School at Scripps. He holds a Ph.D. in Chemistry from Harvard University. From 1978 to 1987 he was an assistant professor of chemistry and researcher at Massachusetts Institute of Technology. Thereafter, he became a Distinguished Professor of Chemistry at Indiana University, where he initiated a research program on the design and synthesis of inhibitors of cysteine proteases. He has given numerous lectures at universities and pharmaceutical companies. He has also published over 225 scientific papers and related publications dealing with organic synthesis and medicinal chemistry. He is the Associate Editor of the Journal of the American Chemical Society.
+Dr. Michael P. Doyle
+: He is a Professor and Chair of the Department of Chemistry and Biochemistry at the University of Maryland, College Park. He has been a professor of chemistry since 1968. He holds a Ph.D. in organic chemistry from Iowa State University. He was also a Distinguished Professor of Chemistry at Trinity University for 13 years. Then he joined the faculty of the University of Arizona at a Professor of Chemistry. He is also the author or co-author of 10 books, including “Basic Organic Stereochemistry” (published by Jon Wiley and Sons, New York, NY, 2001). He has published more than 250 scientific papers and has served on the editorial boards of a number of publications. Throughout his career, he has received many awards.
+Dr. John M. Dietschy:
+He is a Medical Doctor and a Professor of Internal Medicine at the University of Texas, Southwestern Medical Center. He holds the H. Ben and “Isabel T. Decherd Chair in Internal Medicine at the University of Texas. He has been involved in research relating to medicinal substances that inhibit the biosynthesis of cholesterol for more than 40 years, including research on statins. During this time, he has worked with atorvastatin, simvastatin, mevinolin and fluvastatin. He has published 230 scientific papers, most of which deal with the biosynthesis and/or metabolism of cholesterol. He has received a number of prestigious professional honours and awards for his work on the control of cholesterol metabolism and regulation in animals.
+Dr. Peter Lionel Spargo
+: He obtained his BA with First Class Honours in Natural Science (Chemistry) from Cambridge University in 1983 and was awarded a Ph.D. in Synthetic Organic Chemistry, also from Cambridge University in 1986. He joined Pfizer Ltd. in 1988 as a Medicinal Chemist. Within two years he transferred to Pfizer’s Process (now Chemical) Research and Development Department, where he progressed from Laboratory Team Leader to Section Head, then Manager, then Director, and Ultimately Head of Department. During his time  <FRAGMENT_SUPPRESSED> , he identified, developed, and scaled up manufacturing processes for new drug candidates. He led Pharmaceutical Sciences teams, which worked on developing optimum formulations of compounds. Salt and solid form selection has been a key element of almost every project he has been involved with. In 2003, he joined Scientific Update LLP as a Scientific Director, where he has been expanding Scientific Update’s consultancy services.
+Dr. Peter Howard Jones
+: He is a Medical Doctor and Associate Professor of Medicine at Baylor College of Medicine in the section of Atherosclerosis and Lipid Research. He is the Medical Director of the Methodist Wellness Services Weight Management Center and Co-Director of the Lipid Metabolism and Atherosclerosis Clinic. He graduated with a Bachelor of Science in Chemistry in 1974 from Washington and Lee University. He received an MD from Baylor College of Medicine and graduated at the top of his class in 1974. His medical practice focuses on preventive cardiology and obesity treatment. He has extensive experience with the diagnosis and management of lipid disorders, as well as pharmacology with cholesterol lowering agents including HMG-CoA reductase inhibitors. He has particular experience in the treatment of hyperlipidemia and in the clinical use of statins, including Lipitor®. He has been a principal investigator or co-investigator in at least 30 clinical trials involving statins. He has also participated in numerous scientific committees and has published 80 scientific papers and over 20 abstracts, most of which deal with clinical trials involving statins.
+Dr. Christopher Bokhart
+: He is the Vice President of CRA International, an international consulting firm dedicated to advising clients and counsel in the areas of business evaluations, licensing, and litigation support services. During his tenure at CRA, he consulted with clients and counsel on business valuation issues, licensing, technology, commercialization and transfer, and market assessment. Prior to becoming a Vice President with CRA, he was an Executive Consultant with Peterson & Co. Consulting and then he became a Managing Director with InteCap, and he was one of the founding Principals of IPC Groups, LLC, a predecessor to InteCap.
+Tom Brogan
+: He is the founder and President of Brogan Inc. Brogan Inc. was established in 1989 to provide strategic advice, analysis, data and market intelligence to the pharmaceutical industry and others involved in the delivery of healthcare services. Brogan Inc. provides private and public sector clients with research and advice that is recognized nationally for its depth, quality and objectivity. Brogan Inc. research covers the areas of health economics, policy analysis and development, drug utilization patterns and drug pricing. Brogan Inc. also provides health economic analysis for the development and post-launch stages of pharmaceutical products, including product development and pricing. Every large pharmaceutical manufacturer in Canada, including both brand and generic manufacturers, uses the data compiled and organized by Brogan Inc.
+Sam Gourdji
+: He graduated from McGill University with a Bachelor of Science degree. He obtained his Masters in Business Administration with a specialization in marketing from McGill University in 1982. He is employed by Pfizer Canada Inc. as the Vice-President Strategic Planning & New Product Development. From 1994 to 2000, he worked at Parke-Davis, a Division of Warner-Lambert Company, LLC as Director of Marketing. In that capacity, he oversaw the marketing for Lipitor®/atorvastatin calcium and provided Canadian input to the global development of Lipitor®. As the Director of Marketing, he was responsible for reviewing and approving information concerning the marketing and commercial success of Lipitor® in Canada. During this time, he was also a member of the Canadian Joint Operating Committee on Lipitor®. In 1994 he accepted a cross-development position in Government Affairs/External Affairs. His role in this position was to help secure government formulary listings for Parke-Davis medicines. <FRAGMENT_SUPPRESSED> Dr. Terry Scallen
+: He obtained his M.D. from the University of Minnesota Medical School in 1961 and has a Ph.D. in biochemistry, with a minor in organic chemistry, from the University of Minnesota in 1965. He was an assistant professor at the University of New Mexico, School of Medicine, Department of Biochemistry from 1965 to 1970, associate professor from 1970 to 1974 and professor from 1974 to 1996. He became a professor of medicine in 1982, a position he held until he retired in 1996. He is currently a professor emeritus of the University of New Mexico School of Medicine. He has studied cholesterol biosynthesis for over forty years and began his research on HMG-CoA reductase inhibition in 1971. His research led to the synthesis of a fluorine substituted HMG-CoA reductase inhibitor, which formed the basis of a U.S. patent issued in 1979. The issuance of the patent led to his collaboration with Sandoz Pharmaceuticals (now Novartis). The collaboration was directed to the synthesis, discovery, and commercial development of chemically synthesized compounds (statins) for the treatment of patients with coronary heart disease. This collaboration resulted in the discovery of fluvastatin. He has also written numerous papers on various aspects of cholesterol biosynthesis and HMG-CoA reductase inhibitors and has received various awards and honours for his research relating to cholesterol biosynthesis.
+Dr. Derrick Lawrence Joel Clive
+: He has been a professor in the Department of Chemistry at the Gunning-Lemieux Chemistry Centre of the University of Alberta since 1988. He is a synthetic organic chemist and specializes in the synthesis of complex molecules with important medicinal properties. He has worked extensively with statins in the period 1983 to 1995, and published nine papers in this area, including papers that describe the synthesis of mevinolin and compactin. He has also given many lectures.
+Dr. Gerard P. Moss:
+He was a lecturer in Organic Chemistry at Queen Mary and Westfield College, University of London from 1966 to 1999. He obtained his PH.D in chemistry from Pembroke College, Cambridge University in 1962. From 1962 to 1963, he was a postdoctoral research assistant at Columbia University, New York and from 1963-1966, he was a postdoctoral research assistant then Assistant Lecturer at Imperial College, University of London. He has been involved with the International Union of Pure and Applied Chemistry (IUPAC) since 1977 and is now the President of the IUPAC Division from 2006 to 2009. He has also written numerous articles on the nomenclature of various organic compounds.
+Dr. Ian M. Cunningham
+: He is an independent consultant to the pharmaceutical and fine chemical industries and has over 25 years of experience in these industries, both in research and development and in senior scientific leadership positions. He obtained a BSc. in Pure Science in 1970 with First Class Honours in Chemistry, from the University of Glashow. He was awarded a Ph.D. in 1973. After post-doctoral studies in Switzerland, he was employed by ICI Pharmaceuticals (which later became AstraZeneca) from 1975 to 1990. During his time at ICI, he was involved in drug discovery for thrombosis, gastro-intestinal diseases and parasitic diseases. By 1989, he had substantial practical and leadership experience in both the research and development parts of ICI and of the processes employed to choose and develop new drug candidates.
+Dr. Douglas Bowman
+: He obtained his M.A. in Managerial Science and Applied Economics (1992) and his Ph.D. in Marketing (1993), both from the Wharton School, University of Pennsylvania. He has a degree from The Wharton School, University of Pennsylvania. He is an Associate Professor of Marketing at the Goizueta Business School, Emory University. He is also the Director of Academic Programs for the Zyman Institute of Brand Science, a research institute affiliated with Emory University. Prior to joining Emory University in 19999, he was an Assistant Professor of Marketing at the Krannert Graduate School of Management, Purdue University. His research focuses on empirically investigating the long-term effects of marketing strategies, the effects of competition on marketing strategy, on understanding how buyer-seller relationships evolve over time, and understanding the conditions which favour standardization versus customization of marketing programs. His area of specialization includes market strategy, marketing models, and customer behaviour. He is on the editorial review boards of a number of major research journals in marketing and has given invited seminars at the American Marketing Association’s annual Advanced Research Techniques Forum.
+Dr. Philip H. Frost
+: He is a physician and a clinical professor of medicine at the Department of Medicine, University of California. He practices both at the UCSF Lipid Clinic and in private practice. His area of clinical expertise includes lipoprotein disorders (cholesterol disorders) and he has been specializing in this area for over 30 years. He obtained his M.D. degree from the School of Medicine, University of California. During the period 1965-1969, he was a medical resident and subsequently chief resident in medicine at the Stanford University Hospital. He has been an investigator or principal investigator on a number of clinical trials related to lipids, drug therapy for treatment of lipid disorders and, more generally, cardiovascular health. He has been an author or co-author of numerous scientific articles with respect to treatment of coronary heart disease. He was a co-principal and principal investigator for Merck Sharpe & Dohme Research Laboratories from 1984 to 1998 for phase II, II and post-marketing studies of two HMG-CoA reductase inhibitors (“statins”), lovastatin and simvastatin. He was also an investigator for Pfizer, Inc. in the “Treating to New Targets” study to assess the effects of low-density lipoprotein cholesterol lowering with atorvastatin in patients with coronary heart disease (“CHD”). He has significant experience in treating patients with statins as part of clinical trials and in his practice.
+Annex 2
+CHOLESTEROL SYNTHESIS INHIBITION (CSI) SCREEN DATA (IC50(nM))2
+[Diagram omitted]
+a. There is a note in the lab notebook (at P0200367): “This assay is repeated as CSI 112, dilution error? Results not reported to CBI.”
+b. Multiple values represent IC50 values for the same assay calculated using different methods.
+Annex 3
+(Averaging Illustration)
+CHOLESTEROL SYNTHESIS INHIBITION (CSI) SCREEN DATA (IC50(nM))2
+[Diagram omitted]
+a. There is a note in the lab notebook (at P0200367): “This assay is repeated as CSI 112, dilution error? Results not reported to CBI.”
+b. Multiple values represent IC50 values for the same assay calculated using different methods.
+1. Numbers averaged
+2. Number against which the average is compared
+Annex 4
+(Solubility Issues)
+CHOLESTEROL SYNTHESIS INHIBITION (CSI) SCREEN DATA (IC50(nM))2
+[Diagram omitted]
+a. There is a note in the lab notebook (at P0200367): “This assay is repeated as CSI 112, dilution error? Results not reported to CBI.”
+b. Multiple values represent IC50 values for the same assay calculated using different methods.
+c cloudy
+m milky
+i insoluble
+ch chunks
+[End of document]

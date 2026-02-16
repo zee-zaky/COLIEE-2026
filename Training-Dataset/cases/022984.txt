@@ -1,0 +1,542 @@
+[1]
+Lutfy, J.
+: The applicants are inmates in seven federal institutions in Ontario where the Commissioner of Corrections ("the respondent") has decided to implement a new inmate telephone system. The applicants challenge the legality of this decision and, in particular, the constitutionality of three principal features of the new telephone system. They object to the restriction of inmate calls to a limited list of telephone numbers, pre-authorized by correctional staff. Second, a recorded voice-over message will be repeated at regular intervals during the calls. The applicants' other concern is that the new system monitors the number called, when the call is made and its duration.
+[2]
+This application for judicial review was launched in November 1995. At the time, the new telephone system was in the process of being implemented but was not yet operational in Ontario. The applicants' affidavit material is based substantially on information disclosed prior to the system becoming fully operational in Ontario. On April 9, 1996, the respondent issued Commissioner's Directive 085 (or "the Directive") entitled Correspondence and Telephone Communication which is the last amended codification of the new telephone system. The parties acknowledge that it is this version of the Directive which is the decision under judicial review.
+[3]
+The applicants seek both a declaration that the contested features of the new telephone system are unconstitutional and a writ of prohibition to prevent its implementation by the respondents.
+The Issues
+[4]
+There are six issues raised in this application for judicial review.
+1. Does the new telephone system contravene the applicants' right to freedom of expression guaranteed by s. 2(b) of the
+Canadian Charter of Rights and Freedoms
+("the
+Charter
+")?
+2. Does the new telephone system constitute an unreasonable search in contravention of s. 8 of the
+Charter
+?
+3. Does the new telephone system threaten the applicants' right to life, liberty and security of the person in a manner which is not in accordance with the principles of fundamental justice, contrary to s. 7 of the
+Charter
+?
+4. If any of the above
+Charter
+violations is found to exist, are the limits in Commissioner's Directive 085 "prescribed by law" for the purposes of s. 1 of the
+Charter
+?
+5. If the violations are found to exist and are limits prescribed by law, can they be justified under s. 1 of the
+Charter
+?
+6. Is the new telephone system within the authority of the Correctional Service of Canada under the
+Corrections and Conditional Release Act
+, S.C. 1992, c. 20 ("the
+Act
+"), and the
+Corrections and Conditional Release Regulations
+, SOR/92-620 ("the
+Regulations
+")?
+The Facts
+[5]
+Inmate access to telephones was first permitted only for exceptional reasons and under the control and supervision of a staff member of the Correctional Service of Canada ("the Service"). Calls were only allowed on the Service's administrative telephone system. As the volume of inmate requests increased, the Service concluded that increased contact with family and friends in the community could enhance the rehabilitative process.
+[6]
+In the late 1970's, a coinless, collect call system was introduced in minimum security facilities and, subsequently through the 1980's, in higher security level prisons. By 1994, 80 percent of all institutions, including those represented by the applicants in these proceedings, had some variation of the collect call telephone system. Access was largely unsupervised unless there was some individualized suspicion of improper use.
+[7]
+The relatively recent introduction of competition in long distance telephone service and the development of computerized telephone switches led the Service to consider the available options for a more efficient and secure telephone system. In November 1994, pursuant to his authority under s. 97 of the
+Act
+, the respondent decided to implement the new telephone system. Eventually, after the new system became operational in Ontario, Commissioner's Directive 085 was issued nationally in April 1996.
+[8]
+The Directive deals with correspondence and with telephone communications. The relevant portions concerning telephone communications provide:
+"
+POLICY OBJECTIVE
+"1. To encourage inmates to maintain and develop family and community ties through written correspondence and telephone communication, consistent with the principle of protection of the public, staff members and offenders.
+. . . . .
+"
+INMATE TELEPHONE COMMUNICATION
+"11. National Headquarters shall be responsible for the selection, installation and maintenance of a national inmate telephone system.
+"12. The national inmate telephone system shall have a voice-over which will advise the recipient of the call that 'this call is from a correctional institution' and 'this call may be monitored or recorded'.
+"13. Access to telephones, through an inmate telephone system, should be provided, on a fair and consistent basis, to help maintain family and community ties and to provide a direct link with families in the event of an emergency. To ensure consistency, standards for inmate access to telephones and the use of an inmate telephone system are provided in Annex 'B'.
+"14. Telephone calls between inmates and members of the public may be intercepted (interception is defined as the listening to and recording of a conversation by some mechanical devices) in accordance with Commissioner's Directive 575, entitled 'Interception of Communications Related to the Maintenance of Institutional Security'.
+"15. The telephone monitoring system provides the institutional head or designate with the ability to manage, supervise and control inmate access to the inmate telephone system and its use for communication with members of the public.
+"16. Telephone communication is a part of the overall program of reintegration into the community, similar to visits and temporary absences.
+"17. Telephone calls for humanitarian purposes, such as illness, death in the family, or birth of a child, shall normally be provided without delay.
+. . . . .
+"
+COMMUNICATION TO RETAIN LEGAL COUNSEL
+"20. Inmates shall be given the opportunity to retain legal counsel in accordance with Commissioner's Directive 084, entitled 'Offender's Access to Legal Assistance'.
+"
+COMMUNICATIONS WITH PRIVILEGED CORRESPONDENTS
+"21. Telephone calls to those identified in Annex 'A' as authorized privileged correspondents, shall normally be granted. Such calls shall be provided, subject to operational constraints, during normal business hours. Inmates are required to provide reasonable notice, of no less than 24 hours, of their wish to communicate by telephone with privileged correspondents. However, the institutional head or designate may decide, depending on the circumstances, that the reasonable notice is not required.
+"22. Calls between inmates and privileged correspondents are normally confidential. They may however be subject to interception if the conditions stipulated in Commissioner's Directive 575 are met.
+"23. Should the institutional head or designate determine the need to restrict access to telephone communication with privileged correspondents, he or she shall communicate the rationale for the decision in writing to the inmate and to the person concerned. Copies shall be forwarded to Regional and National Headquarters.
+"24. Inmates shall normally be responsible for the cost of telephone calls.
+"25. The institutional head or designate may authorize the use of government telephone network lines by inmates for emergency situations such as serious family illness or death, or for any other special circumstance."
+Annex B of Commissioner's Directive 085 states in part:
+"2. Institutional Standing Orders shall set out the following:
+a. procedures for assignment of Personal Identification Number (PIN) to each offender;
+b. procedures for establishing or amending an inmate's authorized call list (Call Allow List) - normally, this should be processed within 15 working days of the inmate's written request;
+c. information to be provided on the authorized call list which information shall include the address and name and relationship to the inmate;
+d. procedures for establishing, posting, and amending the Common Access Telephone List of up to a maximum of 35 telephone numbers;
+e. procedures for determining the time periods, during the week and weekend, that the inmate telephone system will be activated;
+f. procedures for the activation of the Call Duration Feature when there is a high demand for use of telephones so as to ensure equitable access;
+g. requirement that inmate telephones be positioned to permit line-of-site supervision by staff;
+h. procedure to ensure the confidentiality of private information provided by the inmates on their application to have a telephone number inserted on the authorized call list;
+i. procedures to ensure that the terminals associated with the inmate telephone system are held in a secure area;
+j. procedures to ensure that information derived from the inmate telephone system is accessed only on a need to know basis; and
+k. provision of access to a maximum of 40 telephone numbers on the authorized call list."
+[9]
+The new, more secure telephone system has a twofold objective. It is intended to encourage inmates to maintain and develop family and community relations. It is also expected to limit the use of telephone communications by inmates in the commission of prohibited activities. Telephone access has been used to intimidate and harass recipients of the calls and to arrange for criminal activity within the penitentiaries, including the introduction of drugs and weapons.
+[10]
+Certain features will facilitate inmate calls. A debit card system will mean that inmates need no longer rely on the more expensive collect calls. A centralized computer system will assure inmates uninterrupted access to the telephone system upon transfer from one institution to another. Other features will enable the service staff to identify readily inmates making improper use of the telephone facilities. Each inmate will be assigned a personal identification number to implement these features.
+[11]
+Many of the concerns the inmates originally held about the new telephone system turned out to be misapprehensions. Concerns with respect to restrictions on long distance calls, the privacy of the personal information of intended recipients of the calls and limitations on the duration of the calls were substantially alleviated shortly after the introduction of the new system in Ontario. The latest version of Commissioner's Directive 085 addressed some of these concerns and removed, at least for now, the prohibition against three-party conference calls. There remain, however, the three features of the new telephone system to which the applicants continue to object: (a) the authorized call list; (b) the voice-over; and (c) the monitoring of inmate communications.
+(a) The Authorized Call List
+[12]
+The authorized call list has been implemented in the institutions represented in this application. The inmates are technologically prevented from calling any number which has not been previously authorized by the institutional head or designate.
+[13]
+There are two types of telephone lists. Each inmate is permitted a personal list of up to 40 telephone numbers for intended calls ("the authorized call list"). The inmate is required to provide the telephone number which is to be called, the name and address of the person to whom the telephone number belongs and the relationship between the inmate and that person. The second list is one of up to 35 common access telephone numbers which are available to all inmates of the particular institution ("the common access list"). Common access numbers could include those of legal aid clinics, crisis centres and other similar organizations of common interest to inmates.
+[14]
+There is a third category of persons described as privileged correspondents which include the office and staff of parliamentarians and members of provincial legislatures, senior government officials responsible for correctional and parole services, official languages and information, privacy and human rights issues, ombudspersons, judges and legal counsel. Calls to these persons are permitted upon notice of not less than 24 hours, a requirement which can be waived.
+[15]
+If a number is disallowed by the Service or blocked at the request of recipient, the inmate is promptly advised in writing of the reasons and provided with an opportunity to respond. Otherwise, access is provided immediately during any times when the telephones are available if the numbers are included on the common access or authorized call lists. Changes or additions to an inmate's authorized call list should be processed within 15 working days following a written request. Section 25 of the Directive provides for emergency calls through government lines, a process which is independent from the new telephone network.
+(b) The Voice-Over
+[16]
+The proposed telephone system includes a voice-over message which will advise the recipients of an inmate call that: "This call is from a correctional institutional. This call may be monitored or recorded." Although the frequency of the prerecorded voice-over is not set out in the Directive, counsel for the respondents stated that the message would be communicated at the beginning of the call and at 10 minute intervals thereafter. The details of the voice-over have yet to be completed. For example, counsel could not confirm whether, as one might expect, the message would be heard in both official languages. If so, its recital would double its length and be more intrusive.
+[17]
+The implementation of the voice-over feature of the new telephone system was prohibited by an interlocutory injunction issued by Mr. Justice Denault on December 1, 1995 [see 104 F.T.R. 33], a decision affirmed by the Court of Appeal on January 31, 1996 [see 206 N.R. 294].
+(c) The Monitoring
+Of Communications
+[18]
+A monitoring system records the telephone number of the person called, the time of the call and its duration. It does not involve or technologically facilitate intercepting or recording the contents of communications.
+[19]
+The interception or recording of phone calls may take place in accordance with Commissioner's Directive 575 which predates the new telephone system. Commissioner's Directive 575 implements s. 94 of the
+Regulations
+and its validity is not challenged by the applicants in this proceeding.
+The Applicable Statutory And
+Regulatory Provisions
+[20]
+It is important to understand the Service's legislative framework in assessing the legal challenge against the new telephone system. The relevant provisions of the
+Act
+are as follows:
+"3. The purpose of the federal correctional system is to contribute to the maintenance of a just, peaceful and safe society by
+(a) carrying out sentences imposed by courts through the safe and humane custody and supervision of offenders; and
+(b) assisting the rehabilitation of offenders and their reintegration into the community as law-abiding citizens through the provision of programs in penitentiaries and in the community.
+"4. The principles that shall guide the Service in achieving the purpose referred to in section 3 are
+(a) that the protection of society be the paramount consideration in the corrections process;
+. . . . .
+(d) that the Service use the least restrictive measures consistent with the protection of the public, staff members and offenders;
+(e) that offenders retain the rights and privileges of all members of society, except those rights and privileges that are necessarily removed or restricted as a consequence of the sentence;
+. . . . .
+"5. There shall continue to be a correctional service in and for Canada, to be known as the Correctional Service of Canada, which shall be responsible for
+(a) the care and custody of inmates;
+(b) the provision of programs that contribute to the rehabilitation of offenders and to their successful reintegration into the community;
+(c) the preparation of inmates for release;
+. . . . .
+"70. The Service shall take all reasonable steps to ensure that penitentiaries, the penitentiary environment, the living and working conditions of inmates and the working conditions of staff members are safe, healthful and free of practices that undermine a person's sense of personal dignity.
+"71(1) In order to promote relationships between inmates and the community, an inmate is entitled to have reasonable contact, including visits and correspondence, with family, friends and other persons from outside the penitentiary, subject to such reasonable limits as are prescribed for protecting the security of the penitentiary or the safety of persons.
+"(2) At each penitentiary, a conspicuous notice shall be posted at the visitor control point, listing the items that a visitor may have in possession beyond the visitor control point.
+"(3) Where a visitor has in possession, beyond the visitor control point, an item not listed on the notice mentioned in subsection (2) without having previously obtained the permission of a staff member, a staff member may terminate or restrict the visit.
+. . . . .
+"74. The Service shall provide inmates with the opportunity to contribute to decisions of the Service affecting the inmate population as a whole, or affecting a group within the inmate population, except decisions relating to security matters.
+. . . . .
+"97. Subject to this Part and the regulations, the Commissioner may make rules
+(a) for the management of the Service;
+(b) for the matters described in section 4; and
+(c) generally for carrying out the purposes and provisions of this Part and the regulations.
+"98(1) The Commissioner may designate as Commissioner's Directives any or all rules made under section 97."
+[21]
+The relevant sections of the
+Regulations
+are:
+"94(1) Subject to subsection (2), the institutional head or a staff member designated by the institutional head may authorize, in writing, that communications between an inmate and a member of the public, including letters, telephone conversations and communications in the course of a visit, be opened, read, listened to or otherwise intercepted by a staff member or a mechanical device, where the institutional head or staff member believes on reasonable grounds
+(a) that the communications contain or will contain evidence of
+(i) an act that would jeopardize the security of the penitentiary or the safety of any person, or
+(ii) a criminal offence or a plan to commit a criminal offence; and
+(b) that interception of the communications is the least restrictive measure available in the circumstances.
+"(2) No institutional head or staff member designated by the institutional head shall authorize the opening of, reading of, listening to or otherwise intercepting of communications between an inmate and a person set out in the schedule, by a staff member or a mechanical device, unless the institutional head or staff member believes on reasonable grounds
+(a) that the grounds referred to in subsection (1) exist; and
+(b) that the communications are not or will not be the subject of a privilege.
+"(3) Where a communication is intercepted under subsection (1) or (2), the institutional head or staff member designated by the institutional head shall promptly inform the inmate, in writing, of the reasons for the interception and shall give the inmate an opportunity to make representations with respect thereto, unless the information would adversely affect an ongoing investigation, in which case the inmate shall be informed of the reasons and given an opportunity to make representations with respect thereto on completion of the investigation.
+"95(1) The institutional head or a staff member designated by the institutional head may prevent an inmate from communicating with a person by mail or telephone if
+(a) the institutional head or staff member believes on reasonable grounds that the safety of any person would be jeopardized; or
+(b) the intended recipient of the communication, or the parent or guardian of the intended recipient where the intended recipient is a minor, submits a request in writing to the institutional head or staff member that the intended recipient not receive any communication from the inmate.
+"(2) Where an inmate is prevented under subsection (1) from communicating with a person, the institutional head or staff member designated by the institutional head, as the case may be, shall promptly inform the inmate, in writing, of the reasons and shall give the inmate an opportunity to make representations with respect thereto."
+[22]
+The six legal issues raised in this proceeding will now be considered in turn.
+Section 2(b)
+[23]
+Freedom of expression is one of the fundamental guarantees provided by the
+Charter
+. Section 2(b) states:
+"2. Everyone has the following fundamental freedoms:
+. . . . .
+(b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;"
+The courts have established that freedom of expression is an expansive guarantee, protecting most conduct which attempts to convey meaning. The framework for analysis under this section provides for a broad test.
+[24]
+The test was laid out in two steps in
+ <FRAGMENT_SUPPRESSED>  Q.A.C. 2. The court first inquires whether the activity of the person claiming the guarantee is within the sphere of conduct protected by freedom of expression. If the activity is found to be protected, the court then determines whether the purpose or effect of the government action in question is to restrict freedom of expression. An attempt by government to restrict the conveyance of a meaning will necessarily infringe s. 2(b). If the government activity does not bear the purpose of restricting freedom of expression, but the activity nonetheless curtails expression, the onus falls to the individual to demonstrate that the meaning sought to be conveyed relates to values underlying freedom of expression, such as the pursuit of truth, participation in the community, individual self-fulfilment and human flourishing.
+[25]
+Counsel for the respondents submits that the expansive approach is inappropriate where the infringement is alleged in the context of the applicants' incarceration in a federal penitentiary. Within the context of a federal institution, it is argued, the restrictions imposed by the new telephone system do not contravene the applicants' freedom of expression except as a necessary consequence of the sentence. The respondents suggest that incarceration necessarily involves routine and daily limitations on
+Charter
+rights and freedoms. For the respondents, these limitations are envisaged by ss. 3, 4 and 5 of the
+Act
+. Counsel provided no decision in which an inmate's freedom of expression was attenuated in its s. 2(b) analysis as a consequence of being incarcerated.
+[26]
+The consideration of the context of a penitentiary to determine whether there is a breach of freedom of expression would have the effect of narrowing the accepted approach under s. 2(b). Such a narrowing of the expansive approach runs contrary to decisions of the Supreme Court that context is not to be considered under s. 2(b) but rather under s. 1 of the
+Charter
+.  <FRAGMENT_SUPPRESSED>  A.R. 81, Chief Justice Dickson stated at pages 733-734  <FRAGMENT_SUPPRESSED> :
+"Suffice it to say that I agree with the general approach of Wilson, J., in
+Edmonton Journal
+, [[1989] 2 S.C.R. 1326], where she speaks of the danger of balancing competing values without the benefit of a context. This approach does not logically preclude the presence of balancing within s. 2(b) - one could avoid the dangers of an overly abstract analysis simply by making sure that the circumstances surrounding both the use of the freedom and the legislative limit were carefully considered. I believe, however, that s. 1 of the
+Charter
+is especially well-suited to the task of balancing, and consider this court's previous freedom of expression decisions to support this belief. It is, in my opinion, inappropriate to attenuate the s. 2(b) freedom on the grounds that a
+particular
+context requires such; the large and liberal interpretation given the freedom of expression in
+Irwin Toy
+indicates that the preferable course is to weigh the various contextual values and factors in s. 1."
+[27]
+ <FRAGMENT_SUPPRESSED>  N.B.R.(2d) 321; 437 A.P.R. 321, the Supreme Court confirmed the broad approach in assessing the freedom of expression. In considering racist and discriminatory comments made publicly against Jews, Mr. Justice La Forest reiterated the principles adopted in
+Irwin Toy Ltd.
+when he stated at page 864  <FRAGMENT_SUPPRESSED> :
+"Section 2(b) must be given a broad, purposive interpretation; see
+ <FRAGMENT_SUPPRESSED> . The purpose of the guarantee is to permit free expression in order to promote truth, political and social participation, and self-fulfilment; ... As Cory, J., put it in
+ <FRAGMENT_SUPPRESSED> , at p. 1336, '[i]t is difficult to imagine a guaranteed right more important to a democratic society'; as such, freedom of expression should only be restricted in the clearest of circumstances.
+"Apart from those rare cases where expression is communicated in a physically violent manner, this court has held that so long as an activity conveys or attempts to convey a meaning, it has expressive content and prima facie falls within the scope of the guarantee of freedom of expression; see
+Irwin Toy
+, supra, at p. 969. The scope of constitutional protection of expression is, therefore, very broad. It is not restricted to views shared or accepted by the majority, nor to truthful opinions. Rather, freedom of expression serves to protect the right of the minority to express its view, however unpopular such views may be;"
+[28]
+Mr. Justice La Forest repeated this theme in
+ <FRAGMENT_SUPPRESSED>  N.B.R.(2d) 161; 454 A.P.R. 161; 137 D.L.R.(4th) 142, where he stated at pages 898  <FRAGMENT_SUPPRESSED> : "... a broad interpretation of the right in question, followed by a balancing of the relevant conflicting values under s. 1, is analytically preferable since it allows for the most comprehensive and contextual judicial review under the
+Charter
+."
+[29]
+In the light of this constant jurisprudence, I cannot warrant any departure from the established framework for analysis under s. 2(b). The appropriate consideration to make in this case follows the test laid out in
+Irwin Toy Ltd.
+Accordingly, if a breach of the inmates' freedom of expression under s. 2(b) is proved, the argument based on the incarceral context is one to be considered under s. 1.
+[30]
+The applicants submit that the authorized call list will prevent them from communicating with whomever they wish. They may only call numbers on their calling list or the common access list. The respondents reiterate their contextual argument and add that the maximum of 40 numbers for each call list is required by the system's technology and the need to accommodate all inmates. In any event, the respondents rely on a pilot project where inmates on average submitted substantially less than 40 numbers. In addition, numbers can be added or replaced on request within less than 15 days.
+[31]
+These submissions would be relevant if the s. 2(b) analysis was to be made in the context of a penitentiary. The consistent decisions of the Supreme Court of Canada dictate otherwise. The very design of the authorized call list feature is to restrict the applicants from making telephone calls to whomever they choose. None can be made without the prior authorization of the institution. This, in my view, is prima facie a limit on freedom of expression for inmates in the same way as it would be for any other person. As was stated in
+Irwin Toy Ltd.
+, supra, at page 974  <FRAGMENT_SUPPRESSED> : "If the government's purpose is to restrict a form of expression in order to control access by others to the meaning being conveyed or to control the ability of the one conveying the meaning to do so, it also limits the guarantee." For these reasons, I conclude that the authorized call list feature is a breach of the applicants' rights pursuant to s. 2(b) and can only be justified by the respondents under s. 1 of the
+Charter
+.
+[32]
+Similarly, the applicants submit that the voice-over feature is a limit on their freedom to communicate with family and members of the community. Communications by the inmates with members of the public fall within the sphere of protected expression. The issue is whether the Service, in desiring to implement the voice-over feature, has as its purpose the restriction of the applicant's ability to convey meanings or otherwise has the effect of curtailing their freedom of expression.
+[33]
+The courts have interpreted "freedom" in such a way as to include the freedom from being forced to express oneself, or to express oneself in a particular manner.  <FRAGMENT_SUPPRESSED> , an adjudicator issued an order requiring an employer who had unjustly dismissed an employee to provide a letter of recommendation in accordance with certain stipulations. The Supreme Court held that the order was a breach of s. 2(b). Mr. Justice Lamer (as he then was), writing with the majority on this issue, stated at page 1080  <FRAGMENT_SUPPRESSED> : "... freedom of expression necessarily entails the right to say nothing or the right not to say certain things. Silence is in itself a form of expression which in some circumstances can express something more clearly than words can do." More recently, in
+ <FRAGMENT_SUPPRESSED> , where tobacco manufacturers challenged the constitutionality of legislation which compelled them to place a health message on tobacco packages, Mr. Justice La Forest stated at page 320  <FRAGMENT_SUPPRESSED> : "... if the effect of this provision is ̍to put a particular message into the mouth of the plaintiff, as is metaphorically alleged to be the case here̍, the section runs afoul of s. 2(b) of the
+Charter
+." The analogy between the government's imposed message on cigarette packages and its imposition of the voice-over statements in this case is striking.
+[34]
+For the respondents, one objective or rationale in the voice-over message is to advise recipients that the call originates from a penitentiary. The respondents compare this voice-over to the "Vista" feature available in the private sector. The message addresses the issue of inmates misrepresenting themselves in calls to the public. The other principal objective is to provide fair notice that the same degree of privacy cannot be expected in the communication. Section 94 of the
+Regulations
+allows for the recording of inmate conversations without judicial authorization if the institutional head or designate has reasonable grounds to believe that the communication will contain evidence of criminal acts or threats to the security of any person.
+[35]
+To achieve these objectives, the voice-over message is played at the outset and at intervals during the telephone conversation. The message is involuntary both in terms of its intermittent presence and its content. The applicants cannot alter the content the message conveys nor its imposition during their communications. In my view, in attempting to achieve their objectives, the respondents intend to restrict the applicants' ability to convey their own message free of additional meanings interposed by the voice-over. On the basis that the voice-over feature is forced expression, in the same sense as  <FRAGMENT_SUPPRESSED>  Communications Inc.
+, supra, and
+RJR-MacDonald Inc.
+, supra, I am satisfied that it is a limit on the applicant's freedom of expression and constitutes a breach of s. 2(b).
+[36]
+If I were wrong in concluding that the purpose of the respondents was to restrict the applicants' freedom of expression through the authorized call list and the voice-over, I am satisfied that these features have the effect of limiting the applicants' ability to communicate. The burden rests on the applicants to prove such an effect occurs. In my view, it is sufficient for the applicants to have shown that they are restricted by the two lists as to whom they may call and that their conversations are interrupted at intervals by the involuntary message of the voice-over. Moreover, the applicants have established these effects with sufficient reference to the principles and values underlying the freedom: the maintenance of their family relationships and friendships in the community, which are firmly linked with individual self-fulfilment and human flourishing.
+Section 8
+[37]
+Section 8 of the
+Charter
+guarantees individuals security against unreasonable search and seizure. Put differently, s. 8 protects one's entitlement to a reasonable expectation of privacy from government intrusion.  <FRAGMENT_SUPPRESSED>  A.R. 291, Mr. Justice Dickson, as he then was, discussed the s. 8 guarantee in terms of one's right to privacy (at pages 159-160  <FRAGMENT_SUPPRESSED> ):
+"The guarantee of security from
+unreasonable
+search and seizure only protects a
+reasonable
+expectation. This limitation on the right guaranteed by s. 8, whether it is expressed negatively as freedom from 'unreasonable' search and seizure, or positively as an entitlement to a 'reasonable' expectation of privacy, indicates that an assessment must be made as to whether in a particular situation the public's interest in being left alone by government must give way to the government's interest in intruding on the individual's privacy in order to advance its goals, notably those of law enforcement."
+[38]
+In this case, the applicants argue that the respondents will obtain personal information from the authorized call list and from their ability to monitor the number or place being called, the time of the call and its duration. In the view of the applicants, the collection of this personal information constitutes an unwarranted deprivation of their entitlement to a reasonable expectation of privacy and, accordingly, an unreasonable search and seizure in violation of s. 8 of the
+Charter
+.
+[39]
+The applicants rely predominantly on the case of
+ <FRAGMENT_SUPPRESSED>  (T.D.), where my colleague Mr. Justice MacKay concluded that the regulatory requirement for inmates to provide urine samples violated s. 8. MacKay, J., stated at page 89  <FRAGMENT_SUPPRESSED>  that the process of providing a urine sample "does interfere with privacy expectations of an individual".
+[40]
+The decision in
+Jackson
+, supra, must now be read in light of the subsequent decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , affing. in part, [1991] 1 F.C. 85; 112 N.R. 379 (F.C.A.), where Mr. Justice La Forest concluded on behalf of the court that frisk searches of male inmates by female guards did not violate ss. 7 and 8 of the
+Charter
+. In his words, at page 877  <FRAGMENT_SUPPRESSED> :
+"Imprisonment necessarily entails surveillance, searching and scrutiny. A prison cell is expected to be exposed and to require observation. The frisk search, the count and the wind are all practices necessary in a penitentiary for the security of the institution, the public and indeed the prisoners themselves. A substantially reduced level of privacy is present in this setting and a prisoner thus cannot hold a reasonable expectation of privacy with respect to these practices. This conclusion is unaffected by the fact that the practices at times may be conducted by female guards. There being no reasonable expectation of privacy, s. 8 of the
+Charter
+is not called into play, nor is s. 7 implicated."
+[41]
+ <FRAGMENT_SUPPRESSED>  (B.C.C.A.), Gibbs, J.A., relied on <FRAGMENT_SUPPRESSED> , supra, and stated at page 213:
+"In my opinion, given the nature and extent of the [drug] problem, the appellants can no more have a reasonable expectation of privacy with respect to random selection urine sampling than they could have in [ <FRAGMENT_SUPPRESSED> ] in relation to the frisk search, the count and the wind."
+[42]
+These decisions teach that an individual's reasonable expectation to privacy will necessarily be limited in an incarceral setting. From the applicants' point of view, I am far from certain that the gathering of personal information from the authorized call list and the data which results from the monitoring of the telephone conversations constitutes a search. In any event, the collection of this information is no more intrusive than a frisk search conducted on male inmates by female guards or than their requirement to produce a urine sample. The applicants do not have a reasonable expectation of privacy concerning the information obtained from the implementation of a new telephone system. Even if the gathering of this information constitutes a search or a seizure, it is not one which is unreasonable within the meaning of s. 8 on the evidence in this application. An individual charged with an offence on the basis of information obtained through the new telephone system might raise a s. 8 defence but that is not the issue now before the court.
+[43]
+I find, therefore, that the applicants do not have a reasonable expectation of privacy with respect to the monitoring and authorized call list features of the new telephone system. In the circumstances, they cannot be afforded the protection of s. 8.
+Section 7
+[44]
+Section 7 of the
+Charter
+provides the right to life, liberty and security of the person and the guarantee of fundamental justice. As with s. 8, the right in s. 7 is contextual and not an absolute one. Section 7 states:
+"Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice."
+[45]
+To succeed in evoking the protection of s. 7, an individual must establish that there is a deprivation of the right to life, liberty, or security which constitutes a breach of a principle of fundamental justice. In determining whether there is a breach, the principles of fundamental justice must be interpreted in light of the context in which the individual raises the protection of s. 7.
+[46]
+ <FRAGMENT_SUPPRESSED>  Q.A.C. 133, the inmate sought a writ of habeas corpus in a proceeding which did not raise s. 7. Mr. Justice Lamer, as he then was, considered unlawful deprivation of liberty in these terms (at page 464  <FRAGMENT_SUPPRESSED> ):
+"In the context of correctional law, there are three different deprivations of liberty: the initial deprivation of liberty, a substantial change in conditions amounting to a further deprivation of liberty, and a continuation of the deprivation of liberty. In this case, as was pointed out in the lower courts, there was no challenge to the validity of the initial deprivation of liberty."
+[47]
+ <FRAGMENT_SUPPRESSED>  O.A.C. 243, the inmate challenged a legislative change in the criteria for parole release as infringing his s. 7 rights. Madam Justice McLachlin adopted the statements in <FRAGMENT_SUPPRESSED> , supra, concerning the requirement of "a substantial change in conditions" and confirmed that a change in prison conditions is not, in itself, contrary to any principle of fundamental justice. In her words, at pages 151 and 152-153  <FRAGMENT_SUPPRESSED> :
+"It follows that qualification of a prisoner's expectation of liberty does not necessarily bring the matter within the purview of s. 7 of the
+Charter
+. The qualification must be significant enough to warrant constitutional protection. To require that all changes to the manner in which a sentence is served be in accordance with the principles of fundamental justice would trivialize the protections under the
+Charter
+. To quote Lamer, J., in <FRAGMENT_SUPPRESSED> , supra, at p. 464, there must be a 'substantial change in conditions amounting to a further deprivation of liberty'.
+. . . . .
+"A change in the form in which a sentence is served, whether it be favourable or unfavourable to the prisoner, is not, in itself, contrary to any principle of fundamental justice. Indeed, our system of justice has always permitted correctional authorities to make appropriate changes in how a sentence is served, whether the changes relate to place, conditions, training facilities, or treatment. Many changes in the conditions under which sentences are served occur on an administrative basis in response to the prisoner's immediate needs or behaviour. Other changes are more general. From time to time, for example, new approaches in correctional law are introduced by legislation or regulation. These initiatives change the manner in which some of the prisoners in the system serve their sentences."
+[48]
+The applicants submit that they suffer a deprivation of their right to liberty and security of the person. Their liberty interest, it is argued, confers their right to maintain strong family ties. The voice-over feature and authorized call list are said to have a harmful effect on effective communication with family members. They emphasize the impact the voice-over feature may have on the younger children of inmates.
+[49]
+Under the right to security of the person, the applicants maintain that they will suffer stress and anxiety as a result of the new telephone system. They rely on the case of
+ <FRAGMENT_SUPPRESSED>  O.A.C. 1, in which the Supreme Court found that psychological trauma induced by the state was included in the protection of the right to security of the person.
+[50]
+The limited evidence of the applicants in this regard is speculative. In any event, in my view, the new telephone system does not represent "a substantial change" as set out in <FRAGMENT_SUPPRESSED> , supra, and <FRAGMENT_SUPPRESSED> , supra. The arbitrary removal of all telephone privileges or a decision to record systematically all telephone communications would come closer to reflecting such a change. This is not the case here.
+[51]
+The finding that the applicants lack a reasonable expectation of privacy under s. 8 is also indicative that they are on a weak footing to claim protection under s. 7. To repeat what La Forest, J., stated in <FRAGMENT_SUPPRESSED> , supra, "[t]here being no reasonable expectation of privacy, s. 8 of the
+Charter
+is not called in play, nor is s. 7 implicated".
+[52]
+I conclude that there is no breach under s. 7 of the
+Charter
+.
+Section 1: "Prescribed By Law"
+[53]
+The authorized call list and voice-over features of the new telephone system have been found to breach s. 2(b) of the
+Charter
+. The inquiry must therefore turn to the question whether these violations can be justified under s. 1 of the
+Charter
+. Section 1 provides:
+"1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society."
+For the court to embark on a full consideration of whether the limits at issue are demonstrably justified, they must be "prescribed by law".
+[54]
+During the hearing of this application, counsel for both parties agreed that Commissioner's Directive 085 is neither a statute nor a regulation and, therefore not "prescribed by law". The parties' common view on this issue was not persuasive. While this decision was under reserve, supplementary written representations were invited on the issues of "prescribed by law" and justification under s. 1. Counsel for the applicants strongly reiterated her view that the Directive could not be "prescribed by law". Counsel for the respondents agreed, adding only that a s. 1 defence is available to any limit imposed by regulation. Section 95 of the
+Regulations
+concerning the blocking of calls is substantially reproduced in the Directive.
+[55]
+The Supreme Court has provided ample direction for determining when statutes or regulations prescribe limits for the purposes of s. 1. Similarly, although to a lesser extent, a body of jurisprudence has been developing with respect to limits involving grants of discretionary authority, in which the "law" to be justified is neither a statute nor a regulation, but rather an application of a statutory or regulatory provision through an administrative action or decision. At present, however, whether a Commissioner's Directive is a limit prescribed by law is still an evolving issue.
+[56]
+In its pre-
+Charter
+judgment in
+Martineau and  <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada considered whether a decision concerning an inmate's conduct as being flagrant or serious in nature is one required by law to be made in accordance with the principles of natural justice. The decision was made by members of a disciplinary board pursuant to a Commissioner's Directive. Mr. Justice Pigeon concluded that the Commissioner's Directive was neither a law nor a regulation and (at page 129  <FRAGMENT_SUPPRESSED> ) "... no more than directions as to the manner of carrying out their duties in the administration of the institution where they are employed", not as "... high public officers but ordinary civil servants".
+[57]
+ <FRAGMENT_SUPPRESSED>  O.A.C. 85, Mr. Justice Le Dain, on behalf of an unanimous court, reiterated his view concerning the meaning of a limit prescribed by law which he had previously expressed in
+ <FRAGMENT_SUPPRESSED>  Sask.R. 122, at 645  <FRAGMENT_SUPPRESSED> :
+"The requirement that the limit be prescribed by law is chiefly concerned with the distinction between a limit imposed by law and one that is arbitrary. The limit will be prescribed by law within the meaning of s. 1 if it is expressly provided for by statute or regulation, or results by necessary implication from the terms of a statute or regulation or from its operating requirements. The limit may also result from the application of a common law rule."
+[58]
+ <FRAGMENT_SUPPRESSED>  to provide a letter of recommendation to a dismissed employee, was prescribed by law. Mr. Justice Lamer, as he then was, stated that the adjudicator's order was a limitation prescribed by law (at pages 1080-1081  <FRAGMENT_SUPPRESSED> ):
+"The adjudicator derives all his powers from statute and can only do what he is allowed by statute to do. It is the legislative provision conferring discretion which limits the right or freedom, since it is what authorizes the holder of such discretion to make an order the effect of which is to place limits on the rights and freedoms mentioned in the
+Charter
+. The order made by the adjudicator is only an exercise of the direction conferred on him by statute."
+[59]
+In reaching this conclusion, Lamer, J., confirmed the principle enunciated by Professor Peter Hogg in
+Constitutional Law of Canada
+, 2d Ed. (Toronto: Carswell, 1985) that government actions made pursuant to statutory authority are only valid if within the scope of that authority. In the words of Professor Hogg at page 671:
+"The reference in s. 32 to the 'Parliament' and a 'legislature' make clear that the
+Charter
+operates as a limitation on the powers of those legislative bodies. Any statute enacted by either Parliament or a Legislature which is inconsistent with the
+Charter
+will be outside the power of (ultra vires) the enacting body and will be invalid. It follows that any body exercising statutory authority, for example, the Governor-in-Council or Lieutenant Governor-in-Council, ministers, officials, municipalities, school boards, universities, administrative tribunals and police officers, is also bound by the
+Charter
+. Action taken under statutory authority is valid only if it is within the scope of that authority. Since neither Parliament nor a Legislature can itself pass a law in breach of the
+Charter
+, neither body can authorize action which would be in breach of the
+Charter
+. Thus, the limitations on statutory authority which are imposed by the
+Charter
+will flow down the chain of statutory authority and apply to regulations, bylaws, orders, decisions and all other action (whether legislative, administrative or judicial) which depends for its validity on statutory authority."
+[60]
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), Mr. Justice Stone concluded that a Commissioner's Directive should be treated differently than administrative decisions with respect to limits prescribed by law. On this issue, he stated at page 35  <FRAGMENT_SUPPRESSED> :
+"Although the point at issue has yet to be authoritatively decided, I venture to suggest that the term 'by law' in s. 1 does not include the Commissioner's Directive even though its adoption is provided for in the statute. That directive was not, in its adoption, required to be put through any recognized legislative process, and may be altered without reference to such process, theoretically even at the whim of its creator."
+For the Court of Appeal, a Commissioner's Directive was not "law" within the meaning of "prescribed by law" in s. 1 of the
+Charter
+. This decision in <FRAGMENT_SUPPRESSED> was handed down prior to
+Slaight Communications Inc.
+[61]
+The Court of Appeal had occasion to revisit the issue of the meaning of "prescribed by law" when it considered the decision of prison authorities to transfer an inmate from a maximum security institution to a high maximum security penitentiary.  <FRAGMENT_SUPPRESSED>  (F.C.A.), Mr. Justice Pratte concluded that the decision to effect such a transfer was made in breach of the inmate's s. 7 rights. The decision, while made under statutory authority, was obviously neither a law or regulation. The infringement of the inmate's rights was nonetheless saved by s. 1. Mr. Justice Pratte stated at page 340  <FRAGMENT_SUPPRESSED> :
+"The principles of fundamental justice do not have, therefore, the same flexibility as the rules of natural justice and of fairness. For that reason, I cannot escape the conclusion that, in this case, the decision to transfer the respondent to Saskatchewan Penitentiary was not made in accordance with the principles of fundamental justice since the respondent was not given a real opportunity to answer the allegation made against him.
+"There remains to be decided whether that breach of s. 7 of the
+Charter
+was authorized by a law that met the requirements of s. 1. The
+Penitentiary Act
+gives the Commissioner and his delegates the discretionary power to transfer an inmate from one institution to another, a discretion that is tempered only by the principles of procedural fairness that apply insofar as circumstances permit. It is pursuant to that 'law' that the decision to transfer the respondent was made and the question is whether a 'law' giving such a wide discretion to the authorities of the Correctional Service meets the requirements of s. l.
+"We have not had the benefit of any argument or of any evidence on the subject. Counsel for the appellant chose to ignore the respondent's argument based on the
+Charter
+. However,
+the answer to the question appears to me to be so obvious that I do not need any evidence or argument to conclude that, in a free and democratic society, it is reasonable, perhaps even necessary, to confer such a wide discretion on penitentiary authorities
+." (Emphasis added)
+[62]
+Some two years later, the Supreme Court of Canada refused to apply s. 1 of the
+Charter
+to save the infringement of a citizen's freedom of expression which resulted from a government official's decision made pursuant to an internal directive. In
+Committee for the  <FRAGMENT_SUPPRESSED> , Chief Justice Lamer stated at 164  <FRAGMENT_SUPPRESSED> :
+"In my opinion, the limitation imposed on the respondents' freedom of expression arose from the action taken by the airport manager, a government official, when he ordered the respondents to cease their activities. Although this action was based on an established policy or internal directive, I do not think it can be concluded from this that there was in fact a 'law' which could be justified
+under s. 1 of the
+Charter
+. The government's internal directives or policies differ essentially from statutes and regulations in that they are generally not published and so are not known to the public. Moreover, they are binding only on government officials and may be amended or cancelled at will. For these reasons, the established policy of the government cannot be the subject of the test under s. 1 of the
+Charter
+."
+In the present case, Commissioner's Directive 085 is more than an internal guideline. It is a rule made pursuant to s. 97 of the
+Act
+and designated as a Commissioner's Directive pursuant to s. 98 of the
+Act
+. The Directive is the rule communicated to inmates to regulate their use of telephone communications.
+[63]
+In the 1993 Supreme Court of Canada decision in <FRAGMENT_SUPPRESSED> , supra, Mr. Justice La Forest did not discuss the issue of "prescribed by law" concerning the practice of cross-gender frisk searches, but he stated at page 878  <FRAGMENT_SUPPRESSED>  that: "... even if one were to look at this different treatment as amounting to a breach of s. 15(1),
+the practices are saved by s. 1 of the
+Charter
+." (Emphasis added. <FRAGMENT_SUPPRESSED> was heard in appeal from
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), not from the decision indexed under the same name and reported at [1989] 1 F.C. 18; 86 N.R. 168 (F.C.A.), from which I have taken the comments of Stone, J.A., supra.) The cross-gender frisk in <FRAGMENT_SUPPRESSED> was made pursuant to a Commissioner's Directive. La Forest, J., made no reference to "prescribed by law" nor to the more explicit suggestion by Mr. Justice Stone in the Court of Appeal that a Commissioner's Directive is not "prescribed by law". From this I must infer that s. 1 can be applied in some circumstances where an administrative action is authorized by a Commissioner's Directive. My concern in drawing this inference is somewhat alleviated by a very recent decision of the Court of Appeal.
+[64]
+ <FRAGMENT_SUPPRESSED>  (T.D.), the plaintiff, incarcerated on 11 accounts of first degree murder, was denied access to the media through a memorandum to this effect by the Assistant Warden of the penitentiary. The inmate's appeal to the Warden was refused. The government conceded that the Warden's decision was in breach of s. 2(b) and 2(d). In confirming the decision of Heald, J., the Court of Appeal stated:
+"Despite the lengthy argument presented by the appellant who represented himself on this appeal, we have not been persuaded that the learned and experienced trial judge made any reversible error when he concluded that 'although the defendant's servants have infringed the plaintiff's rights as guaranteed by s. 2(b) and 2(d) of the
+Charter
+, the restrictions imposed on the plaintiff's
+Charter
+rights are reasonable limits prescribed by law, and are therefore permissible under s. 1 of the
+Charter
+'. Indeed, we are in complete agreement with his conclusion."
+[65]
+In
+Olson
+, supra, the inmate's access to media was restricted. He could no longer be interviewed by the media. The name of a friend and prominent journalist was removed from the inmate's authorized visitors' list. The inmate was prohibited from sending his literary material to this journalist. Counsel for the Service in
+Olson
+submitted that these limits had "the force of law" if expressed or implied in a statute or regulation. The Service relied on ss. 3(b) and 4(a) and s. 71(1) of the
+Act
+, provisions which are equally applicable in the present case. The Service also relied on the
+Regulations
+authorizing it to develop a correctional plan for the inmate and to open and read his letters. On the basis of these submissions, Mr. Justice Heald concluded that the limits imposed on the plaintiff's
+Charter
+rights as the result of the Warden's decisions were "prescribed by law".
+[66]
+In this case, in his supplementary written representations, counsel for the respondents acknowledged that "... all of the impugned actions [in
+Olson
+] flowed from regulatory or statutory provisions ..." (emphasis added). I agree with his characterization of
+Olson
+. However, he added that Commissioner's Directives were not in issue in
+Olson
+. In my view, this is not a distinction which warrants an outcome different from the one in
+Olson
+.
+[67]
+Section 71(1) provides for reasonable contact between inmates and family friends and other persons outside the penitentiary "subject to such reasonable limits as are prescribed for protecting the security of the penitentiary or the safety of persons". Expressly in the language has been encoded an intelligible standard in the words "such
+reasonable
+limits ... for protecting the security of the penitentiary or the safety of persons". Read in conjunction with ss. 97 and 98 of the
+Act
+, pursuant to which Commissioner's Directive 085 was issued, s. 71(1) is the statutory authority for the Commissioner to make rules and directives with respect to prisoners contacting members of the public at large. In addition, ss. 94 and 95 of the
+Regulations
+necessarily imply the authorization of telephone communications for inmates. There is no plenary discretion evident, but a grant of authority that is to be exercised with reasonable limits under the objectives of security and the safety of persons.
+[68]
+The specific provisions of Commissioner's Directive 085 authorizing the call lists and the voice-over are positioned squarely in the ambit of the discretion given by s. 71(1) in conjunction with its corresponding provisions in the
+Regulations
+and ss. 97 and 98 of the
+Act
+. No arbitrariness is evident in the manner in which the limits are prescribed. Section 12 of the Directive establishes that there shall be a voice-over and sets out its content. Section 13 provides for telephone access on a "fair and consistent basis to help maintain family and community ties". The details of the authorized call list are set out in Annex B of the Directive.
+[69]
+In the words of Professor Hogg, there is no disruption in the chain of statutory authority flowing from the
+Act
+and the
+Regulations
+to the limits in Commissioner's Directive 085. The limits in the Directive are prescribed by law. This conclusion, in my view, is consistent with the ones reached by the Court of Appeal in
+Gallant
+, supra, and
+Olson
+, supra, and with the obiter dictum of La Forest, J., in <FRAGMENT_SUPPRESSED> . It is therefore necessary to continue further under s. 1 to determine whether the features can be justified as reasonable limits in a free and democratic society.
+Section 1: Justification
+[70]
+The framework for deciding whether a limit is reasonable and demonstrably justified was laid out in two steps by Chief Justice Dickson in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 335. First, the government's objective for imposing the limit must be shown to relate to pressing and substantial concerns in a free and democratic society. Second, the breach must be found to be proportional. There are three branches under the proportionality arm of the test. The court must decide whether: (i) the means of achieving the objective are "rationally connected" with the objective, or in other words, the objective must not be arbitrary, unfair or based on irrational connections; (ii) the means chosen to achieve the objective minimally impair the right; and (iii) there is proportionality between the importance of the objective and the helpful and harmful effects of limiting the right.
+[71]
+As a breach of s. 2(b) has occurred both with respect to the authorized call list and voice-over features, I will consider them in turn. Since both limits are derived from the same statutory source, it is helpful to repeat the general two-fold policy objective of the new telephone system, which flows from the relevant provisions of ss. 3, 4 and 71 of the
+Act
+, as it is set out in Commissioner's Directive 085:
+"To encourage inmates to maintain and develop family and community ties through written correspondence and telephone communication, consistent with the principle of protection of the public, staff members and offenders."
+[72]
+In other words, the new telephone system has a rehabilitative purpose and a precautionary one geared toward protection. The general policy objectives are to assist the rehabilitation of offenders and their reintegration into the community through telephone contacts in a manner consistent with the protection of the public, the correctional staff and the inmates themselves.
+(a) Justification Of The
+Authorized Call List
+[73]
+The respondents have established the positive objective of enhancing inmate telephone communications to assist in rehabilitation. The precautionary objective of controlling those communications that might result in crime is similarly established. In their affidavit material, the respondents explain the limitation on the number and identity of persons whom the inmates may call as "enhancing public and institutional security while managing and supervising inmate telephone activity in an equitable and efficient manner". Under the previous telephone system with "relatively unfettered inmate access to telephones", inmate communications were used to facilitate the introduction of drugs, arsenic, nitroglycerin, ammunition, hand guns and automatic weapons into federal institutions and to arrange contract killings, "the settling of accounts", the harassment of previous victims and potential witnesses, assaults and breakouts.
+[74]
+I find that both objectives clearly reflect concerns which are pressing and substantial to Canadian society and require no further explanation. The next issue is whether the s. 2(b) infringement created by the authorized call list is proportional, the first inquiry being whether it is rationally connected.
+[75]
+The authorized call list provides the technical means of realistically preventing problem calls. This was not the case under the former system. Prison authorities had no control over the number dialled or the person being contacted by the inmate. If telephone communications were used for illicit purposes, the Service could only respond subsequent to the event with a warning or with discipline. The authorized call list will assist in preventing prohibited calls, without necessarily assuring that they never occur. Inmates might still succeed in using telephone communications for improper purposes. However, the new telephone system need not operate flawlessly to be rationally connected to its purpose. I am satisfied that the design of the new telephone system, particularly the authorized call list, represents a substantial step towards meeting the precautionary objectives, while allowing the applicants to maintain positive communication with family and community members.
+[76]
+As to whether the authorized call list minimally impairs the applicant's freedom of speech, the new telephone system appears to provide reasonable access while attempting to control problem communications. The authorized call list of each inmate will allow 40 telephone numbers, any one of which can be changed on reasonable notice. In a pilot project, the inmates had on average nine numbers on their authorized call list. Inmates will also be able to call the 35 numbers on the institution's common access list and any one of the privileged correspondents. They will also have access in emergency situations to administrative phones. If the limit of 40 numbers seems restrictive rather than minimally impairing, the context of the applicant's rights must be re-emphasized here. It is my understanding that the maximum of 40 numbers per inmate coincides with the system's technological capacity to accommodate the total population in federal prisons. The maximum number for each inmate has doubled since the authorized call list was first announced. The extent of the use of telephones by inmates will vary. I can envisage further adjustments to the number allowed, particularly if the average request for authorizations is less than the maximum. In the end, however, the policy objective is rehabilitation. This does not mean unlimited telephone access in the context of a prison.
+[77]
+The applicants argue that an inmate will not immediately reach a spouse, child or other close person if the intended recipient of the call is at a location other than that of the authorized number. This assumes that the authorized number is not a cellular phone. It also assumes that the person cannot be reached through a three-way conference arranged by initially calling an authorized number, something which is not currently prohibited by Commissioner's Directive 085. In emergencies, access through administrative phones may be available. If one accepts the applicants' scenario, the communication will take place when the intended recipient returns to the location of an authorized number or, if the absence is prolonged, after approval has been obtained for a new number. In my view, this inconvenience, even with respect to family members, is not inconsistent with an incarceral setting. Nor does it detrimentally affect in any significant way the stated objective of enhancing rehabilitation through family and community telephone communications.
+[78]
+I find that the Service, in implementing the authorized call list feature, has made a reasonable choice of means which minimally impairs the inmates' freedom of expression while fulfilling the stated objective. Similarly, weighed against the seriousness of the need for security measures against the importing of weapons, breakouts, the smuggling of drugs and the harassment of victims and witnesses, I find that there is proportionality between the objectives of the authorized call list and the inconveniences or harms that might flow from its implementation. In my view, the authorized call list, as prescribed in Commissioner's Directive 085 and ss. 3, 4, 71, 97 and 98 of the
+Act
+, is a limitation which is justified under s. 1 of the
+Charter
+.
+(b) Justification Of
+The Voice-Over
+[79]
+I have not been able to reach the same conclusion with the voice-over feature of the new telephone system.
+[80]
+The voice-over is patently intrusive. It is intended to occur at the outset of the call and every 10 minutes thereafter. The same message will be repeated: "This call is from a correctional institution. This call may be monitored or recorded. Cet appel provient d'un établissement correctionnel. Cet appel peut être écouté ou enregistré." For the recipients of calls who speak neither official language, the voice-over will be disruptive without conveying any meaning. This may be particularly true of persons who are relatively recent arrivals in Canada and some family members of certain aboriginal inmates. It is difficult to imagine how the repetition of this message will assist in the inmate's rehabilitation during communications with spouses, children and other family members or close friends. The applicants are also concerned with the message's impact on young children who may not be aware that their parent is incarcerated. It is unlikely that anyone would argue that the voice-over was necessary to achieve the rehabilitation objective of the new telephone system.
+[81]
+As to the precautionary objective, the respondents' evidence discloses two purposes for the voice-over. The message that the call originates from a correctional facility is said to protect former spouses, victims or witnesses from unwanted communications with the inmate and addresses similar problems with voice-mail dating services, pen-pals and other similar activities. The second message that the call may be "monitored or recorded" is, according to the respondents, "a matter of fairness" for the recipient of the call. As will be seen below, there is an important difference between "monitoring" and "recording".
+[82]
+Although the objectives for the voice-over may be pressing and substantial, it is less clear that this limitation on the inmate's freedom of expression is rationally connected to the stated goal. In any event, I have not been able to justify the voice-over feature under the minimal impairment test.
+[83]
+Functionally, the authorized call list and the first voice-over message that the call originates from a correctional institution overlap to a great extent. Inmates may only call authorized numbers. The number of a person protected by a court order from communications with the inmate would not be authorized. The relationship between the person who owns the telephone number and the inmate must be disclosed to the Service. This information may quite often be subject to verification. The screening process in authorizing numbers will assist in identifying victims and witnesses subject to harassment and voice-mail dating services. In short, the authorized call list should, to a large extent, prevent the inmate from even initiating calls to persons who do not wish to speak with the inmates. The first voice-over message is intended to alert persons who do not wish to communicate with inmates that the call originates from a correctional facility. In this respect, the first voice-over message is extraneous.
+[84]
+The second voice-over message conveys two warnings: that the call may be
+monitored
+and that the call may be
+recorded
+. Indeed, many lay persons will not distinguish the nuances between monitoring and recording. Common perception may well be that "monitoring" means the Service will listen to the content of the communication. It is also difficult to see how such an ambiguity could be cured without making the message longer and more intrusive. In any event, both messages must withstand the test of
+Charter
+scrutiny.
+[85]
+The message that the call may be
+monitored
+would advise the well-informed recipient that the correctional facility will know the number dialled, when the call was made and its duration. This same kind of information is provided in a long distance telephone bill. The Service will also know the identity of the person who owns the number called but not necessarily with whom the inmate is actually speaking. Monitoring the call will generate no other information than this. To repeat, monitoring is not intercepting or recording a call. With such superficial information in issue, the purpose in advising recipients that the call may be monitored is not apparent.
+[86]
+Similarly, the objective in advising the recipient that the call may be
+recorded
+is constitutionally suspect. As I noted earlier, s. 94 of the
+Regulations
+will only allow for the recording of inmate conversations if there exist reasonable grounds to believe that the communication will contain evidence of criminal acts or threats to the security of any person. Otherwise, there is no mandate to intercept and record the call. In these circumstances, it is difficult to understand the necessity in protecting the recipient of the call by advising that the communication may be recorded. Such protection would only be expected if the Service was permitted to record all calls. The Service is not allowed to do this.
+[87]
+The authorized call list will prevent calls to telephone numbers previously screened out by the Service. This will lessen the need for the warnings provided by the voice-over. Its message will not be required for all calls made by every inmate. The respondents' affiant disclosed on cross-examination that the voice-over is "an all or nothing proposition" in that the technology does not allow the message to be played for only certain numbers or certain calls.
+[88]
+In my view, the message could be communicated in a different way and, if preferred by the Service, on a selective basis without delaying the approval process. There is no evidence that the Service would be unable to inform in writing any or all of the persons identified on the inmate's authorized call list that the telephone communication will be originating from a correctional facility and that it might be monitored and recorded. This written notice could also enable the intended recipients to respond by requesting the removal of their number from the authorized call list. This written advice by the Service, in the absence of the voice-over, will be of no avail, of course, where the person with whom the inmate is speaking is someone other than the owner of the authorized telephone number. However, the same result will occur, even with the voice-over, if a person comes on the line for less than 10 minutes during the interval between the repeated message. The evidence discloses no significant harm, if any, should this occur.
+[89]
+The voice-over is forced speech and infringes the inmate's freedom of expression. Its intrusiveness does not assist the rehabilitation objective of the new telephone system. Its two-fold message, in my view, does not assist significantly in achieving the Service's precautionary objectives and, to the extent that it does, it can be communicated in writing to persons on the authorized call list. For these reasons, I find that the voice-over does not meet the minimal impairment test and is therefore not constitutionally permissible.
+Is The New Telephone System Within
+The Authority Of The Service?
+[90]
+Section 71 of the
+Act
+and s. 95 of the
+Regulations
+currently envisage the inmates' right to telephone communications "... subject to such reasonable limits as are prescribed for protecting the security of the penitentiary or the safety of persons". These provisions are fully consistent with ss. 3(a) and (b), 4(a), (d) and (e) and 5(a), (b) and (c) of the
+Act
+. The material discloses that inmates were consulted prior to the implementation of the new telephone system in a manner consistent with s. 74 of the
+Act
+. For these and the other reasons I mention in this decision, I am satisfied that the applicants have failed to establish that the new telephone system exceeds the jurisdiction of the Service.
+Conclusion
+[91]
+The monitoring of the telephone communications does not contravene any of the applicants'
+Charter
+rights. The authorized call list is an infringement of their right to the freedom of expression guaranteed by s. 2(b) of the
+Charter
+. I have found, however, that this infringement is saved by s. 1.
+[92]
+I have concluded that the voice-over feature proposed for the new telephone system is constitutionally deficient. It is an infringement of s. 2(b) and one which is not justified by s. 1. The application for judicial review will be granted in part. The interlocutory injunction issued in this proceeding will become final. In all other respects, the relief sought by the applicants is denied.
+Application allowed in part.
+Editor: David Weir/gs
+[End of document]

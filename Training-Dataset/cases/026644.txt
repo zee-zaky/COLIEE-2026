@@ -1,0 +1,364 @@
+[1]
+Beaudry, J.
+[Translation]: The action at bar concerns the alleged infringement of Canadian patent No. 2,011,788 (patent 788) issued to its inventor Charles D. MacLennan on April 14, 1992 pursuant to the
+Patent Act
+, R.S.C. 1985, c. P-4 (the
+Act
+). Patent 788 consists of a combination of a saw tooth and tooth holder. The co-plaintiff, Quadco Equipment Inc. (Quadco), is the assignee of patent 788.
+[2]
+Patent 788 contains the following:
+(a) the Abstract of the Disclosure;
+(b) the Claims;
+(c) the Drawings.
+The complete document is contained in Appendix A.
+[3]
+The plaintiffs operate a business which develops, designs, manufactures and sells forestry products, including circular saws and replacement parts for circular saws, such as discs, tooth holders and saw teeth.
+[4]
+The defendant, for its part, operates a business manufacturing and selling forestry products and equipment, including circular saws and replacement parts for circular saws, such as discs, tooth holders and saw teeth, as well as tooth adapters.
+[5]
+The plaintiffs are seeking an injunction against the defendant and its managers directing them to cease making, manufacturing and selling the products described in this decision. Further, they are seeking damages and costs. The defendant, for its part, argues that it has in no way infringed the rights held by the plaintiff under patent 788. It is challenging the validity of the patent, alleging obviousness, and seeking costs. By consent, the questions of costs and damages will be deferred after the Court has rendered its decision in the case at bar.
+POINTS AT ISSUE
+[6]
+The points at issue are the following:
+1. What interpretation should be given to the claims in patent 788?
+2. Did the defendant infringe patent 788?
+3. Is patent 788 invalid for obviousness?
+[7]
+For the following reasons, I will dismiss the application at bar.
+ANALYSIS
+Interpretation of claims
+1. Law
+[8]
+Two judgments by the Supreme Court of Canada on the same day have laid down important parameters for the stages to be followed in patent proceedings:
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150;
+ <FRAGMENT_SUPPRESSED> . The interpretation of claims precedes the consideration of questions of validity and infringement.
+[9]
+I concur in the principles derived by my colleague Tremblay-Lamer, J., from the two aforementioned Supreme Court judgments in
+ <FRAGMENT_SUPPRESSED> ; 216 F.T.R. 29 (T.D.), at paragraphs 16 to 28:
+"¶ 16 The purposive construction approach was elaborated in the English case of
+ <FRAGMENT_SUPPRESSED>  (H.L.). In that case, Lord Diplock explained what purposive construction was and framed the question to ask in each case the following way: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used would understand that strict compliance with a particular descriptive word or phrase in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked. This approach was adopted in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) and re-affirmed in
+Free World Trust
+, supra and
+Whirlpool Corp.
+, supra.
+"¶ 17 The purposive approach requires that the Court identify, with the assistance of the skilled reader, the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention, (
+Whirlpool Corp.
+, supra at para. 45).
+"¶ 18 The language that an inventor uses to identify the claims is frequently compared to a fence within which he or she claims protection from trespass and outside of which others are free to roam. The interpretative task of the Court in constructing the claims is to distinguish the essential from the inessential, (
+Whirlpool Corp.
+, supra at para. 15).
+"¶ 19 In the case at bar, the claims must be construed based on the expert evidence given at trial as to the meaning of the terms used, and the understanding that these terms would convey at the date of the patent to an ordinary worker skilled in the art of accumulator felling heads and possessing the common knowledge of people engaged in that field, (
+Free World Trust
+, supra at para. 20). This ordinary worker is further defined in Whirlpool Corp., supra at para. 53 as a skilled individual sufficiently versed in the art to which the patent relates to enable him on a technical level to appreciate the nature and description of the invention: H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+, 4th Ed. (Toronto:Carswell, 1969) at 185.
+"¶ 20 In
+Free World Trust
+, supra at para. 31, Binnie, J., made the following propositions that summarize his approach to claim construction:
+a) The
+Patent Act
+promotes adherence to the language of the claims.
+b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+c) The claim language must, however, be read in an informed and purposive way.
+d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a [page 1044] particular element is essential irrespective of its practical effect;
+(v) without, however, resort to extrinsic evidence of the inventor's intention.
+f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted.
+"¶ 21 Because the financial consequences of the infringement of a patent are potentially severe, it is important to limit the uncertainty with respect to the language of the claims so that members of the public may know where they can go with impunity, (
+Free World Trust
+, supra at paras. 41-42). This is done by adhering to the language of the claims which in turn promotes both fairness and predictability. Binnie, J., explains that:
+'[t]he patent owner, competitors, potential infringers and the public generally are thus entitled to clear and definite rules as to the extent of the monopoly conferred. This in turn requires that the subjective or discretionary element of claims interpretation (e.g., the elusive quest for "the spirit of the invention") be kept to the minimum, consistent with giving "the inventor protection for that which he has actually in good faith invented" (
+ <FRAGMENT_SUPPRESSED>  at 574). Predictability is achieved by tying the patentee to its claims; fairness is achieved by interpreting those claims in an informed and purposive way.' (
+Free World Trust
+, supra at para. 43).
+"¶ 22 By proceeding this way, the scope of the monopoly remains a function of the written claims but flexibility and fairness is achieved by differentiating the essential features ('the pith and marrow') from the unessential, based on a knowledgeable reading of the whole specification through the eyes of the skilled addressee, (
+Whirlpool Corp.
+, supra at para. 48).
+"¶ 23 This assures the patentee that the claims will be read in light of the knowledge provided to the court by expert evidence on the technical meaning of the terms and concepts used in the claims, (
+Free World Trust
+, supra at para. 52) . The fact remains however that strict compliance with a word or phrase will be considered an essential requirement by the courts unless it is obvious that the inventor knew that a failure to comply with that requirement would have no material effect on the way the invention worked. A court must interpret the claims; it cannot redraft them. When an inventor has clearly stated in the claims that he considered a requirement as essential to his invention, a court cannot decide otherwise for the sole reason that he was mistaken, (
+O'Hara  <FRAGMENT_SUPPRESSED>  at 7).
+"¶ 24 In
+Free World Trust
+, supra at para. 51, Binnie, J., added that the public is entitled to rely on the words used by the inventor provided the words used are interpreted fairly and knowledgeably. It is to the inventor's own detriment if he has added unnecessary or troublesome limitations:
+'The words chosen by the inventor will be read in the sense the inventor is presumed to have intended, and in a way that is sympathetic to accomplishment of the inventor's purpose expressed or implicit in the text of the claims. However, if the inventor has misspoken or otherwise created an unnecessary or troublesome limitation in the claims, it is a self-inflicted wound. The public is entitled to rely on the words used provided the words used are interpreted fairly and knowledgeably.'
+¶ 25 The non-essential elements of a claim may be substituted without affecting the claim. This means that there will be infringement when some modifications have been brought to an invention but its essential elements remain. Binnie, J., explains that such will be the case when an element was clearly not intended to be essential or when a skilled addressee would have appreciated that a particular element could be substituted without affecting the working of the invention:
+'For an element to be considered non-essential and thus substitutable, it must be shown either (i) that on a purposive construction of the words of the claim it was clearly not intended to be essential, or (ii) that at the date of publication of the patent, the skilled addressees would have appreciated that a particular element could be substituted without affecting the working of the invention, i.e., had the skilled worker at that time been told of both the element specified in the claim and the variant and "asked whether the variant would obviously work in the same way", the answer would be yes:
+ <FRAGMENT_SUPPRESSED>  purposes as meaning that the variant (or component) would perform substantially the same function in substantially the same way to obtain substantially the same result.'
+"¶ 26 Binnie, J., also refers to Hoffmann, J., who, in
+ <FRAGMENT_SUPPRESSED>  at 182, attempted to reduce the essence of the <FRAGMENT_SUPPRESSED> analysis to a series of concise questions:
+(i) Does the variant have a material effect upon the way the invention works? If yes, the variant is outside the claim. If no: --
+(ii) Would this (i.e.: that the variant had no material effect) have been obvious at the date of publication of the patent to a reader skilled in the art? If no, the variant is outside the claim. If yes: -
+(iii) Would the reader skilled in the art nevertheless have understood from the language of the claim that the patentee intended that strict compliance with the primary meaning was an essential requirement of the invention? If yes, the variant is outside the claim.
+"¶ 27 In order to determine what the inventor's intention is concerning a particular word or phrase in the claim, it is permissible to look at the whole specification, including the drawing, but not to enlarge or contract the scope of the claim as written and thus understood, (
+Whirlpool Corp.
+, supra at para. 52).
+"¶ 28 The onus is on the patentee to establish known and obvious substitutability at the date of the publication of the patent. If the patentee fails to discharge that onus, the descriptive word or expression in the claim is to be considered essential unless the context of the claims language otherwise dictates, (
+Free World Trust
+, supra at para. 57)."
+2. Testimony
+(a) Expert witnesses
+[10]
+The plaintiff called Guillaume Marquis, president and director of engineering for the company Métal Marquis Inc. of La Sarre in Abitibi. For some twenty years he has been involved with the design, manufacture, sale and repair of forestry equipment. He is familiar with feller heads and their components, including circular saws, saw teeth and tooth holders. From an early age, he worked in his father's business as a part-time welder. In 1979, after completing his college education in pure and applied science, he purchased the shares in his father's business and founded the company of which he has now been the president and general manager since 1995.
+[11]
+From 1981 to 1985, he undertook studies in engineering at École Polytechnique of the University of Montréal, where he obtained a B.A. in mechanical engineering. While studying, he sat on the Métal Marquis board of directors. Since 1985, he has worked at the business as an engineer as well as managing the company. He is a member of the Ordre des ingénieurs du Québec and of the Canadian Institute of Mining and Metallurgy. In 1986, he furthered his education by taking an intensive course on steel and concrete structures at the University of Quebec in Abitibi-Témiscamingue, and from 1990 to 1992 on welding and design techniques at the Canadian Welding Institute. The Métal Marquis company designs, manufactures, sells and repairs various pieces of equipment used in forest harvesting, sawmills and mining exploration.
+[12]
+He is personally involved in and supervises the design, manufacture, sale and repair of this equipment. Métal Marquis develops products which it manufactures and markets, namely the tree processors DS1000 and DS 3500, the Track Carrier 7000, the MAG 400 circular saw mini-feller buncher and pulling and flotation chains for log carriers.
+[13]
+In 1987-1988 Métal Marquis developed a circular saw for a feller head. The company also repairs damaged forestry equipment of other manufacturers which are brought to it by its customers. It repairs many feller heads and their components, [Translation] "saw discs, saw teeth and tooth holders" of Harricanna Koehring and Gilbert Tech Inc.
+[14]
+He said that in the past 18 years as an engineer with Métal Marquis he has acquired considerable skills and knowledge in designing, manufacturing and repairing forestry equipment, including circular saw feller heads and their components, such as saw discs, saw teeth and tooth holders used to hold teeth on the saw blade.
+[15]
+Mr. Gaudreault testified for the defendant and the Court acknowledged him as an expert witness. Mr. Gaudreault is a professional engineer and in 1970 obtained his diploma in automobile and diesel mechanics from the École Automobile du Québec. In 1971 he enrolled in the pure science program at the Cégep Collège Limoilou and obtained his diploma of college studies in 1973. In 1977 he completed his B.A. in applied science, mechanical engineering option, at Laval University. Since 1979 he has been a member of the Ordre des ingénieurs du Québec. His work experience is the following:
+(a) heavy equipment engineering foreman with Iron Ore Canada from 1977 to 1979;
+(b) supervisor of mechanical maintenance garages in the field of forestry equipment with Rayonnier Quebec in Port-Cartier in 1979;
+(c) director of equipment and designer of forestry machinery from 1979 to 1984 with Laval Fortin Limité in Alma, Quebec;
+(d) director, research and development of mobile equipment, with Équipement Labrie from 1984 to 1985;
+(e) manager, forestry equipment development projects, with Industries Tanguay from 1985 to 1990;
+(f) manager, forestry equipment development projects, with Omark Tanguay Technologie from 1990 to 1992.
+[16]
+At that time, he formed his own company, Technologies Directes PG Inc., and decided to offer his services as a consulting engineer in the manufacture of heavy machinery, specializing in forestry equipment. He added that both of the parties at bar have in fact used his consulting services in the past. In a case between the same parties, the Court acknowledged the relevance of his experience in the field of trimming equipment. Exhibit PG-2 contains the judgment of Nadon, J., on February 21, 2000, now on appeal.
+(b) Other witnesses
+[17]
+Messrs. MacLennan and Palfy testified for the plaintiff, while Mr. Taillon testified for the defendant.
+(c) Evidence
+[18]
+The plaintiff's expert witness, Mr. Marquis, described the purpose (or essential components) of the invention as follows (page 18 of his report on the infringement):
+"(a) a tooth holder with the following characteristics:
+(i) two legs extending on either side of the saw disc so that the tooth holder straddles the disc;
+(ii) the tooth holder is permanently fastened to the saw blade by bolting;
+(iii) a hollow tube which projects beyond the periphery of the saw blade at a tangential axis with the latter; and
+(iv) an abutment means against which the back and one side of the tooth rest;
+in combination with
+"(b) a saw tooth having the following characteristics;
+(i) the front face of the tooth is concave so as to form tips and cutting edges at the intersection of the sides of the tooth with its front face; and
+(ii) the tooth is permanently fastened in the hollow tube of the tooth holder at a tangential axis with the saw."
+He added that to his knowledge it was the first time that the combination of a tooth holder and a saw tooth contained all these features.
+[19]
+In short, this is a combination patent. Each of the claims begins with the words "a saw tooth and tooth holder combination". At page 19 of his report, Mr. Marquis illustrated the various saw tooth and tooth holder combination models manufactured and marketed by the plaintiff:
+[Diagram omitted. See printed version.]
+[20]
+The defendant's expert witness also confirmed that this was a combination patent, but he added that the patent had a quite limited range of specific applications. It seemed inconceivable to him that the inventor could rely on this patent against the marketing of a tooth by itself or a tooth holder by itself. Further, two other cases between the same parties are currently the subject of proceedings in the Federal Court.
+[21]
+Mr. Gaudreault, for his part, concluded that the essential elements of claim 1 are the following:
+(i) the presence of a combination, the patentee did not intend to claim a saw tooth without tooth holder or a tooth holder without a saw tooth, or at any rate did not express any intention of so claiming;
+(ii) the tooth claimed which was part of this combination must be in the frusto-pyramidal shape;
+(iii) the tooth must contain a shank which is fastened to the pyramidal tooth;
+(iv) the tooth and its attached shank are held in place by a bolt or a spring pin;
+(v) the abutment means are adapted to take a pyramidal tooth, that is, two surfaces forming an L;
+(vi) the tooth holder is installed on the tooth blade by two fasteners, each comprised of a pair of fittings.
+[22]
+On claim 2, the defendant's expert witness considered that the tooth could not cover anything but a pyramidal tooth. Referring to his analysis of claim 1 in the specifications and designs, this led him to conclude that the tooth had to be pyramidal in shape. He pointed out that the products marketed by the plaintiff, shown in Mr. Marquis' report, are pyramidal in shape. Moreover, he said the very description of the tooth (small end, large end, divergent surfaces) supported his arguments. As a further argument, he stated that the abutment means mentioned in claims 1 and 2 confirm his opinion (and the body defining a tooth receiving seat including a platform and an abutment surface for receiving the divergent surfaces and the small end of the head respectively).
+[23]
+As other essential elements of claim 2, this expert witness submitted that there should be a relation between the shape of the back of the tooth and the shape of the abutment means. Finally, claim 2 still provided for the shank. He ended this claim by adding that the elements he had identified as essential in claim 1 were also essential in connection with claim 2.
+[24]
+According to the defendant's expert witness, the essential elements of claim 3 are primarily concerned with the means of locking the shank. The witness further submitted that this claim is dependent on claim 2 and confirms a means of locking the shank in place. The shank, he said, is one combination element and the means of attaching this shank is another element. He added that there is nothing in this patent to suggest that the shank itself could also be a bolt or a means of fastening. The shank would be used to keep the tooth in place. Mr. Gaudreault concluded by saying that the definition of this shank should be the same everywhere it is seen in the patent, whether in the specifications, the designs or the various claims. He stated that the invention claimed by the patentee in patent 78 must necessarily contain a shank and another element to lock it.
+[25]
+In the view of this expert witness claim 4 only claimed the frusto-pyramidal shape of the tooth which is part of the combination. Claim 5 only confirmed that the combinations claimed in the patent could be mounted on a surface such as the blade of a circular saw.
+(d) Evaluation of expert evidence on essential elements of patent
+[26]
+Both expert witnesses agreed that this was a combination patent. In this regard, I prefer the explanation of the defendant's expert witness when he indicated [Translation] "the patentee did not intend to claim a saw tooth without a tooth holder or a tooth holder without a saw tooth, or at any rate did not express any intention of so claiming". The second element concerns the shank. Though he did not say so in his report, Mr. Marquis admitted in cross-examination that this was an essential element of the patent. I therefore consider that this shank, whether joined to the tooth or not, is an essential element of the patent.
+[27]
+On the shape of the tooth, Mr. Gaudreault maintained that this must be pyramidal. That opinion was not shared by Mr. Marquis. It is true that in claim 2 the words "frusto-pyramidal" or "pyramidal" are not mentioned. However, the defendant's expert witness maintained that the patent could not cover anything but a tooth with a pyramidal shape. In preferring his opinion to that of Mr. Marquis, I do not think that the Court is adding a word to claim 2, as counsel for the plaintiff maintained, in view of the persuasive explanations provided. In support of his arguments, Mr. Gaudreault referred to his analysis made in connection with claim 1, the specifications, designs and very wording of claim 2 - "small end", "large end", "divergent surfaces" - and the abutment means. However, he admitted that a pyramidally shaped tooth could have more than four sides.
+[28]
+The abutment means of the tooth holder are another essential element in the patent. On the one hand, Mr. Marquis mentioned [Translation] "an abutment means against which the back and one side of the tooth rest". Mr. Gaudreault, for his part, thought that [Translation] "the abutment means are adapted to take a pyramidal tooth, that is, two surfaces forming an L". The testimony and reasoning of the defendant's expert witness persuaded me that his conclusions in this regard were more probative than those of the plaintiff's expert witness. The two surfaces forming an L are made in such a way that they marry the shape of the pyramidal tooth. They are thus backed on a flat surface and supported on one side on a small platform. With the shank, and a means of fastening, this tooth holder and saw tooth combination prevents rotation and tangential movement.
+[29]
+Finally, the two expert witnesses were agreed in saying that another essential element of the patent relating to the tooth holder concerns its means of fastening to the saw blade. This is in fact done by bolting.
+(e) Infringement
+[30]
+The expert witnesses agreed in saying that claims 1 and 2 were independent claims. Claims 3 and 4 are dependent on 2, while claim 5 depends on 1, 2, 3 or 4. I therefore conclude that for there to be an infringement of claims 3 and 4, claim 2 must necessarily have been infringed. For claim 5, claims 1 or 2 must necessarily have been infringed.
+[31]
+In this regard, the Court considers that the explanations given by the expert witness Marquis are far from clear. For example, I would like to refer to his cross-examination, beginning at question 556:
+[Translation] "556Q- First, you agree with me that this tooth which I am showing you, P-16, does not have a shank?
+A- The tooth you are showing me . ...
+557Q- Yes.
+A- ... the shank is not on it.
+558Q- O.K. In the QUADCO system, you agree with me ...
+THE COURT: Refer me to the exhibits.
+BOB H. SOTIRIADIS: I will not refer you to the exhibits, I will do better than that, I will turn to the report.
+559Q- According to you, Mr. Marquis, I understand that the series 1300 system, P-4, P-6, with round teeth and shanks, in your view, does not infringe claims 1 and 2 of the patent in question, only 3 and 5? I think that is what your report says?
+A- Yes, it is in my report, yes.
+THE COURT: So repeat that. You are saying that ...
+BOB H. SOTIRIADIS: This is very important.
+THE COURT: Yes. Well, then, I will approach it carefully.
+BOB H. SOTIRIADIS:
+560Q- Claim 1 is not infringed, you say, by the Gilbert combination 1: is that right?
+A- Claims 3 and 5 are infringed.
+561Q- But claim 1 is not infringed: is that right?
+FRANÇOIS GUAY:
+562Q- Mr. Marquis, could you address the Court?
+A- Yes, that's right.
+BOB H. SOTIRIADIS:
+564Q- Am I to understand that claim 1 was not infringed because the tooth is not frusto-pyramidal in the case of the Gilbert system?
+A- That's right.
+565Q- You will also confirm, if you will, that claim 2 of the patent is not infringed by the Gilbert series 1300 system?
+A- In fact, in my report, I do not admit that claim 2 is infringed.
+566Q- You understand, Mr. Marquis - perhaps it is not the case, tell me - that claim 3, which you say is infringed, is dependent on claim 2? Yes? You must say yes for ...
+A- Yes, yes, Your Honour.
+567Q- So you understand that claim 3 cannot claim more than claim 2? Do you understand?
+BOB H. SOTIRIADIS: Well, I understand, because it does not happen. You cannot claim, you cannot say, as counsel, that a claim dependent on an independent claim is infringed if the independent claim is not infringed. I would like to know if the expert witness understands that.
+THE COURT: If the independent ...
+BOB H. SOTIRIADIS: Claim is not infringed ...
+THE COURT: ... claim is not infringed.
+BOB H. SOTIRIADIS: ... it is impossible to infringe a dependent claim.
+570Q- Do you understand?
+A- I understand - I understand your point of view, but attached ... in saying 3, automatically, 2 is included in 3, because I am using it.
+571Q- If that is your understanding, that is correct, but I will tell you that that is not the case.
+THE COURT: Yes, but one minute, I would like to understand, you see. You have said that 2 was not infringed.
+BOB H. SOTIRIADIS: Yes, exactly.
+THE COURT: But there you say that ...
+A- I didn't ...
+572Q- ... because 3 is infringed, 2 is infringed as well.
+A- It is included - it is included in it. I am using a detail to ...
+THE COURT: So this will perhaps become a point of argument.
+BOB H. SOTIRIADIS: No.
+573Q- In this case, in your report, you told me, when I read it, that claim 3 was infringed. Because I think that you think the additional words in claim 3 which describe the shank are such that it is something more which the patentee must protect. Is my understanding correct?
+A- Could you repeat the question?
+574Q- Yes. We will look at your explanation on the shank.
+THE COURT: What page are you at there?
+BOB H. SOTIRIADIS: I will find the page.
+575Q- Take, for example, page 33 of your report, the first paragraph you have there, you use words which are in claim 2.
+A- It is the ... yes.
+576Q- Yes. 'A shank extending within the bore and attached to the head at the small end thereof.' Then you note what you took from claim 3: is that right?
+A- Claim 3 provides a very specific element to clearly characterize the tooth which you have here.
+577Q- Is that it, your understanding?
+A- Exactly.
+578Q- So, in your view, claim 3 is used to clarify claim 2?
+A- Exactly.
+BOB H. SOTIRIADIS:
+581Q- Good, at least we can agree ... good, we agree that claim 1 was not infringed, among other things because the round-backed Gilbert tooth, either P-16 or the other round-backed teeth, are not frusto-pyramidal in shape.
+BOB H. SOTIRIADIS: Your Lordship, that is right, I think that my question on this matter is correct, but in the amendment that was filed, in the amended statement of claim, we see 3 and 5. OK. Because we do not see 1 and then 2.
+A- Excuse me, when we speak of 2 ... when we say 3, 3 derives from 2. My understanding ... when you say 3, 2 is infringed, but 3, it adds particulars which mean that it is no longer 2. I would like to be quite clear about this: when I say 3, automatically 2 is included in it. But it is the clarification provided which means that I can say it.
+FRANÇOIS GUAY: Right.
+THE COURT:
+582Q- But then your earlier premise does not work. Claim 1, you said it was not infringed.
+A- It is not infringed. 2 ...
+583Q- 2, you say that ...
+A- But there, it was ...
+584Q- ... it was infringed because 3 is infringed? Is that what you are saying?
+A- Right, because 3, once 3 is infringed, automatically 2 results: so both stand together. To be able to infringe 3, 2 is infringed. But it is not infringed alone, you absolutely have to provide the particulars given in 3 in order to fully clarify the words.
+585Q- O.K. then ...
+A- I was asked to be very specific, then to really have all the elements which can be read in the element that was infringed. In this case, for all the elements to be read, I had to include 3. So, I took 3 to be capable of infringing 2, as 2 was not infringed alone.
+BOB H. SOTIRIADIS:
+586Q- 2 was not infringed alone?
+THE COURT:
+587Q- But 2 was infringed by 3?
+A- It was infringed because particulars are given. When it says in 3 that there is a bolt which is used as a shank or bushing ...
+588Q- Yes, I understood all of that.
+A- ... which is applied to it. It provides particulars and then, in my view, it literally closes this discussion.
+589Q- Then, you are to some extent going back on what you said earlier.
+A- That is in ...
+590Q- Claim No. 1 is ... is not infringed ...
+A- Not infringed.
+591Q- ... but 2, well, that must ...
+A- I did not give it as being infringed because we were not able to find without having ... literal problems on the words. I confined myself to the instructions I was given, that is to find exactly what was said in the claim, if it was legible on the product I was looking at.
+If there were things which were dug out of 4 dictionaries so as ultimately to give an exact definition of a word, I would prefer to disregard it and simply look at the things that could be literally read so this would be extremely visual when it was demonstrated to you.
+Because the objective I was given was: from the minute a claim is infringed the patent is infringed. There is no need to take the trouble to infringe them on all 5, we will rely on the clearest terms and the literal meaning. So, if we rely on the literal meaning for this combination, where there is a bolt serving as a shank, we take claim 3, then read exactly all the words in the claim within the infringing product. That is the exercise I was asked to perform - I think it is a clarification which I should make at this point.
+BOB H. SOTIRIADIS:
+592Q- 2 was not infringed alone - is that what you're saying?
+A- What I said specifically, was that claim 3 includes 2 and makes in ... in the literal meaning of all the words there, you are able to find them in the infringing products. This is the exercise I was asked to perform: avoid going into grey areas but stay on the things which are black and white given within the patent; and that is what I did.
+593Q- Mr. Marquis, if I invalidate claim 3, I am stuck with claim 2. So, yes, it is worth the trouble of knowing whether claim 2 as such ... forget claim 3. You said in your report: 'I have completely checked this patent, I have concluded certain things and my conclusions are as follows'. The plaintiff amended its proceedings specifically to tell me that it was claims 3 and 5: O.K. So, can we at least agree that if claim 3 was not there, your opinion would be that claim 2 did not have the characteristics in the Gilbert system?
+FRANÇOIS GUAY: One moment.
+THE COURT: Wait a bit. I would like to have the answer.
+BOB H. SOTIRIADIS: He is avoiding the point, so he will be allowed ...
+FRANÇOIS GUAY: No, it's because there is a question with a group of legal concepts. We are speaking to the expert witness of an amendment, we are speaking of invalidity.
+THE COURT: Well, listen, I understand the question quite clearly. We are saying, forget claim 3, tell me about 2: was it infringed or not? Is that the question?
+BOB H. SOTIRIADIS: Yes.
+FRANÇOIS GUAY: Well, Your Honour, once again, I have to insist. The question that must be put to the witness is: are all the elements in claim 2 found in series 1300? It will be for you to ...
+THE COURT: Well, then ...
+BOB H. SOTIRIADIS: That is actually what I asked.
+THE COURT: That's it.
+BOB H. SOTIRIADIS: There is no problem.
+THE COURT:
+594Q- Did you understand the question?
+A- The question is whether claim 2 was infringed, in my opinion? Yes.
+BOB H. SOTIRIADIS:
+595Q- O.K.
+THE COURT: Well, O.K., then ...
+BOB H. SOTIRIADIS:
+596Q- There ...
+THE COURT: Then, there is only 1 which was not infringed to date.
+FRANÇOIS GUAY: Yes.
+BOB H. SOTIRIADIS:
+597Q- And you think 2 was infringed or you see characteristics because of what is written in 3?
+A- 3 clarifies and removes all the grey areas that remain."
+[32]
+Here, I agree with counsel for the defendant when he argues that the dependent claim is used to add limitations to an independent claim, and in no case can a dependent claim be given a broader interpretation than the independent claim. Moreover, the plaintiff proceeded to amend its statement of claim on September 13, 2004 to add in paragraph 8(c)(iii) that claim 2 was infringed in the case of the tooth without a shank, with a tooth holder, as illustrated in paragraph 7(b)(iii) of that amended statement of claim. This undoubtedly results from the testimony of Mr. Marquis, extracts from which were set out above.
+[33]
+The plaintiffs concluded there was an infringement by the following combinations of tooth holder and saw teeth in the defendant's product:
+[Diagram omitted. See printed version.]
+[34]
+Combination No. 1: Gilbert round-backed tooth in combination with Gilbert tooth holder. According to the plaintiffs, this is a direct infringement. It is the assembly of the tooth on the tooth holder by a rear bolt which is at issue here. Gilbert manufactures two models of tooth holder, one shaped as a C and other shaped as a U. The combination was installed on the Gilbert series 1300 saw manufactured and sold by the defendant. I consider that this combination does not infringe the alleged claims. The principal reason is that the Gilbert tooth holder does not contain an "abutment means" as indicated in the patent. The half-moon tooth can marry the seat of the tooth holder, which is also shaped as a half-moon, to support the back of the tooth. The expert witness for the defendant established that even with the U-shaped tooth holder (P-6), there is no platform on the small flat surface behind the indentation on this tooth holder, contrary to what is stated in claim 2: "a tooth receiving seat including a platform". Further, the Gilbert tooth cannot be turned on all its sides in tooth holders P-4 and P-6. In cross-examination, Mr. Marquis said that it was a principal characteristic for the tooth to be re-positionable on all faces, which is not the case here. I therefore conclude that the essential element of "abutment means", as described in the patent, is absent and that a principal characteristic, that the tooth could be re-positionable on all faces, is absent.
+[35]
+Finally, in his affidavit Mr. Gaudreault stated: [Translation] "To my knowledge, Gilbert is the only company in Canada manufacturing teeth with a curved back adapted to a half-moon shaped saw blade seat. Patent 788 in no way provides for this type of combination and it is clear the inventor did not intend to provide for such a configuration". No other persuasive evidence was presented to contradict this statement.
+[36]
+On combinations 2, 3, 4 and 5, the plaintiffs alleged a contributory infringement or infringement by inducement. This is in combination 2, the cylindrical-backed Gilbert tooth, mounted on a flat-backed adaptor, and QUADCO tooth holder; in combination 3, the flat-backed Gilbert tooth with integrated bushing and QUADCO tooth holder; in combination 4, the flat-backed Gilbert tooth with assembled bushing and QUADCO tooth holder; in combination 5, the flat-backed Gilbert tooth without bushing and QUADCO tooth holder.
+[37]
+In short, there are four teeth manufactured by Gilbert without a tooth holder. These are replacement teeth sold by the defendant to customers who already have a QUADCO tooth holder. On account of its rounded shape, the first one with a cylindrical back cannot be placed on the QUADCO tooth holder. It is sold with an adapter. This makes it possible for customers who already have QUADCO saw blades with QUADCO tooth holders to use it. The second one is a frusto-pyramidal tooth containing a shank permanently attached. The third is a frusto-pyramidal shape which can take a movable shank. The fourth is also frusto-pyramidal in shape, but not with a round outline: its outline is in the form of a V. The plaintiff is currently suing the defendant in this Court on two other patents regarding the Gilbert tooth with round outlines, without a shank, but with an adapter (Exhibit D-3) and the V-shaped tooth (Exhibit D-4).
+[38]
+I accept the argument put forward by counsel for the defendant that the plaintiff is suing Gilbert in connection with a product which does not represent a combination of a tooth holder and teeth. In the five patent claims, the first sentence begins by "A saw tooth and tooth holder". In order to succeed, the plaintiff had to show that Gilbert was manufacturing, selling, teeth and tooth holders in combinations 2, 3, 4 and 5, which clearly is not the case. There is no Gilbert tooth holder in these combinations. This finding suffices in itself to support a ruling that combinations 2, 3, 4 and 5 do not infringe the patent.
+[39]
+As my conclusions are that the defendant did not contravene patent 2,011,788, it is not necessary to rule on the latter's validity.
+JUDGMENT
+[40]
+THE COURT ORDERS THAT:
+1. the action for infringement is dismissed;
+2. on costs, the parties indicated a desire to make written submissions: the plaintiff will have until December 22, 2004 to submit its argument; the defendant will have to reply by January 10, 2005 at the latest; if the plaintiff wishes to file a response, it will have to be done by January 17, 2005 at the latest.
+Action dismissed.
+Editor: Elizabeth M.A. Turgeon/pdk
+ANNEXE A
+(11) (C) 2,011,788
+(22) 1990/03/08
+(43) 1991/07/23
+(45) 1992/04/14
+(52) 143-73 5,079,1/54
+(51) INTL. CL. 5 B27B-33/12
+(19) (CA)
+CANADIAN PATENT
+(12)
+(54) Saw Tooth and Holder
+(72) MacLennan, Charles D., Canada
+(73) Same as inventor
+(30) (US) U.S.A. 469,853 1990/01/23
+(57) 5 Claims
+Abstract of the Disclosure
+A circular saw is provided with a disc and tooth holders mounted on the periphery of the disc, with each tooth holder having a pair of legs straddling the disc and fasteners such as a bolt and nut extending through the legs and discs for fastening the holder to the disc. A frusto-pyramidal tooth head having a square outline with four cutting tips is provided on a shank, and the shank extends through a bore having a tangential axis with the periphery of the disc. Shoulders are provided on the body of the holder for abutting the tooth head.
+The present invention relates to cutting saws, and more particularly, to a saw tooth insert and the means for mounting it to a saw.
+It is now common to use circular saws on feller heads, for severing the trunk of a tree to be felled. Since the circular saw is made to rotate in a horizontal plane near the ground, when the feller head is in an operative position, it is not surprising that the teeth inserts on the periphery of the circular saw may be subject to severe shocks. In such situations, it is desirable to minimize the damage to the circular saw. It would be preferable to contain the damage to one tooth or only a few teeth which could then be easily replaced.
+Most prior art circular saws include a circular disc with radial inserts mounted in gullets cut out in the discs. Thus, in the event that a tooth bit should strike an immovable object, such as a boulder, it is conceivable that the tooth and bit would be destroyed with the possibility of damage to the disc as well. The loads would, in most cases, be transmitted through the tooth shank sitting radially in the gullet, and thus to the disc. It is evident that such loads would be applied tangentially to the saw disc against the radially extending shanks. C-shaped teeth would also be faced with similar stresses causing probable damage to the disc.
+It is an aim of the present invention to provide an improved replaceable saw tooth with a novel tooth holder for mounting the tooth on the substrate of the saw.
+It is a further aim of the present invention to provide an improved circular saw with replaceable saw teeth on the periphery thereof mounted in such a way that gullets are not required in the circular saw disc.
+It is a further aim of the present invention to provide an improved saw tooth insert and holder whereby the tooth insert may be rotated to extend the life thereof.
+A construction in accordance with the present invention comprises a tooth holder and saw tooth combination wherein the holder is adapted to straddle a saw substrate and fastening means for fastening the holder to the substrate. The holder includes a bore having an axis extending in the direction of movement of the substrate. The saw tooth includes a frusto-pyramidal tooth head with a concave recess formed at the base of the pyramid creating cutting tips at the intersections of the planes forming the pyramid and concave cutting edges between the cutting tips. A shank extends from the smaller end of the frusto-pyramidal head and is adapted to extend within the bore in the holder, and the holder includes abutment means for receiving the small end of the frusto-pyramidal head.
+Each holder includes a U-shaped member having a pair of legs extending on either side of the substrate and a bight portion straddling the periphery of the substrate. Fastening means attach the legs of the holder to the saw substrate. Fastening means attach the legs of the holder to the saw substrate. The teeth, including the tooth shanks and heads, each extend in the axis of the bore of the holder with the pyramidal base of the tooth head projecting in the direction of movement of the saw.
+The substrate, more specifically, is a circular disc.
+An advantage of the present construction is that the teeth and holders are mounted on the exterior of the disc. In the event that a tooth or several teeth should strike an immovable object, individual teeth and holders may be sheared from the disc or otherwise damaged, without transmitting damaging loads to the saw disc, and thus the remainder of the circular saw remains usable. The damaged teeth and holders can be replaced.
+Having thus generally described the nature of the invention, reference will now be made to the accompanying drawings, showing by way of illustration, a preferred embodiment thereof, and in which:
+Fig. 1 is a perspective view of a tooth assembly in accordance with the present invention;
+Fig. 2 is a fragmentary side elevation showing a plurality of tooth assemblies mounted on the periphery of a circular disc;
+Fig. 3 is a vertical, axial cross-section, partly exploded, showing details of the tooth assembly in accordance with the present invention;
+Fig. 4 is a radial cross-section, taken along line 4-4 of Fig. 2;
+Fig. 5 is an enlarged fragmentary side elevation, partly in cross-section, of a further embodiment of the tooth assembly of the present invention;
+Fig. 6 is a radial cross-section, taken along line 5-5 of Fig. 5; and
+Fig. 7 is an enlarged fragmentary side elevation of a further embodiment of the present invention.
+Referring to the drawings, there is illustrated in most of the drawings a fragment of a circular saw 10. A tooth assembly 12 is illustrated which includes a tooth 14 and a holder 16 adapted to be mounted to a disc 18 of the circular saw.
+Referring more specifically to Figs. 1 to 4, the tooth assembly 12 includes a tooth head 22 which, in the present case, has a square frusto-pyramidal shape having a cutting face formed by a spherical cavity defining cutting tips 24a, 24b, 24c, and 24d. The spherical cavity is identified by the numeral 28, and concave cutting edges 26 are formed between the various cutting tips. The side surfaces of the cutting head 22 are naturally tapered, and a shank 20 extends from the smaller end of the head 22. The shank, in this embodiment, is provided with bores 30 which intersect diametrically at 90°.
+The shank is adapted to fit within a bore 40 in the holder 16. The holder 16 includes a pair of parallel legs 32 and 34 and a bight 36 defining a U-shaped saddle which straddles the edge of the periphery of the circular disc 18 when mounted thereon. As shown in the drawings, particularly Fig. 4, the holder 16 also includes a body 38 which extends over the bight 36 and defines the bore 40. When the tooth 14 is mounted on the holder 16, the shank 20 extends within the bore 40, and one of the bores 30 in the shank 20 coincides with the openings 56 which extend laterally of the body 38. A spring pin 54 is adapted to extend through the openings 56 and the bore 30 in order to lock the shank in a given position.
+It is contemplated that the tooth 14 can be rotated to at least four different positions in the present embodiment whereby the tips 24 can change positions so that different tips 24 are exposed to the cutting action. For instance, as tips 24a and 24b become worn, the tooth can be rotated 90° to expose teeth 24b and 24c, etc.
+As can be seen from the construction of the holder 16, shoulders 39 are provided to which the small end of the tooth head 22 will fit snugly. The loads transmitted through the tooth head 22 will be completely absorbed by the body 38 of the holder 16 and not through the shank 20 or the spring pin 54. A flat sloped surface 41 receives one of the pyramidal side walls of the tooth head 22. When the tooth head is snugly seated in the holder 22, the surface 41 will prevent the tooth 14 from rotating on its axis.
+In one embodiment, the holder 16 is mounted to the periphery of the disc 18 by means of a fastener in the form of a bolt 50 and nut 52. As shown in Fig. 4, the legs 32 and 34 are provided with recesses which accommodate cupped sleeves 46 and 48. In the embodiment of Fig. 4, recesses are also bored into the faces of the disc 18. The bolt 50 and nut 52 are utilized to complete the fastening of the holder 16. As shown in Figs. 1 to 3, the fastener is provided forward of the legs 32 and 34 which will act as an axis for the loads absorbed by the head 22.
+The mounting of the tooth 14 is such that the axis of the shank 20 and the tooth head 22 is tangential to the saw disc 18. It is understood that if the tooth head 22 were to strike an immovable object, such as a large boulder, the fastener represented by bolt 50 and nut 52 and the sleeves 46 and 48 might shear, allowing the tooth holder 16 and the tooth 14 to be blown away from the disc 18 before causing any damage to the remainder of the saw including the disc 18. Under normal operating circumstances, the impact received by the tooth head 22 will be absorbed by the tooth holder 16. If the tooth head 22 is damaged, it is merely replaced by removing the spring pin 54.
+In the embodiment shown in Figs. 5 and 6, all of the elements have been elevated by 100. In this particular embodiment, the legs 132 and 134 are welded to the surfaces of the saw disc 118. The remainder of the construction of the tooth holder 116 and the tooth 114 are identical to that described in Figs. 1 to 4. The tooth 114 is shown having a shank 120 extending within the bore of the holder 116 while a bolt 106 extends axially of the bore and has a threaded portion engaging a threaded recess in the shank 120.
+A still further embodiment is shown in Fig. 7, where the numerals of identical elements have been elevated by 200. In the embodiment shown in Fig. 7, the legs 232 and 234 are shallower than in the previous embodiments, and two fasteners are provided fore and aft of the legs 232, for instance. The fasteners, including bolt 250, recess 242, and sleeve 246, are identical to those described in Fig. 4. The second identical fasteners are represented by the numerals 260, 262, and 264 for corresponding elements.
+The embodiments of the invention in which an exclusive property or privilege is claimed are defined as follows:
+1. A saw tooth and tooth holder combination for a cutting saw, wherein the saw includes a substrate and the holder is adapted to straddle the substrate, the holder includes a body defining a bore having an axis extending tangentially of the substrate and the saw tooth includes a frusto-pyramidal tooth head with a concave recess formed at the base of the pyramid creating cutting tips at the intersections of the planes of the sides forming the pyramid, and concave cutting edges between the cutting tips; a shank extends from the smaller end of the frusto-pyramidal tooth head within the bore in the holder and the body of the holder includes abutment means for receiving the small end and a side of the frusto-pyramidal head, characterized in that the holder includes a pair of legs extending from the body on either side of the substrate and a bight portion straddling the substrate, and two fastening means, one fore and the other aft of the legs of the holder with a nut and bolt passing through the substrate and the legs to retain the holder on the substrate, for attaching the legs of the holder to the substrate, the shank extending in the axis of the bore of the holder with the pyramidal base of the tooth head projecting in the direction of movement of the saw.
+2. A saw tooth and tooth holder combination for a cutting saw, the saw including a substrate, the tooth holder formed as a clevis straddling the substrate, each clevis holder including a U-shaped member having a pair of legs extending on either side of the substrate, and having a body portion formed at the bight of the U-shaped member straddling the substrate, the body defining a bore, the saw tooth including a tooth head having a small end and divergent surfaces extending to a large end with a concave recess formed at the large end of the head and forming cutting edges at the intersection of the concave recess and the divergent surfaces, a shank extending within the bore and attached to the head at the small end thereof, and the body defining a tooth receiving seat including a platform and an abutment surface for receiving the divergent surfaces and the small end of the head respectively, the tooth including the tooth shank and head extending in a tangential axis to the substrate with the large end of the tooth head projecting in the direction of movement of the saw substrate, the legs defining two sets of recesses on the legs, one set fore and the other set aft of the legs of the holder, cupped sleeves being provided in each recess, and a pair of bolts and nuts extending through the respective sets of recesses on the legs and through the substrate to retain the cupped sleeves against the substrate and thereby retaining the tooth holder in position on the substrate.
+3. A saw tooth and tooth holder combination as defined in claim 2, wherein the shank is in the form of a bolt extending from one end of the holder through the bore to threadably engage the head and secure the head against the holder.
+4. A saw tooth and tooth holder combination as defined in claim 2, wherein the head is in the form of a frusto-pyramidal having four sides.
+5. A saw tooth and tooth holder as defined in claims 1, 2, 3 or 4, wherein the tooth holder is adapted to be mounted on a substrate which is in the form of a circular disc.

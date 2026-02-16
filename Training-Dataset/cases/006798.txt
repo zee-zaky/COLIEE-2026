@@ -1,0 +1,143 @@
+[1]
+O'Reilly, J.
+: The Minister of National Health and Welfare denied Biovail Corporation's request to have one of its patents afforded the special protection of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133. Biovail challenges the Minister's decision that the patent was ineligible for protection according to the
+Regulations
+.
+[2]
+In my view, the Minister's decision was correct. I must, therefore, dismiss this application for judicial review.
+I. Issue
+Did the Minister err in deciding that Biovail's patent was ineligible for protection under the
+Regulations
+?
+II. Analysis
+[3]
+The parties agree that the Minister's decision should not be accorded substantial deference. I should overturn it if I find that it was incorrect:
+ <FRAGMENT_SUPPRESSED> ; 300 N.R. 76; 2003 FCA 24.
+(a) Biovail's Patent
+[4]
+Biovail holds a patent for "Controlled Release Formulations Using Intelligent Polymers" (Canadian Patent No. 2,286,684). It sought to have this patent placed on the register under the
+Regulations
+in respect of two drugs: WELLBUTRIN SR and TIAZAC XC. The former is composed of bupropion hydrochloride, used for treating depression. The latter is composed of diltiazem hydrochloride, used to treat hypertension.
+(b) The Requirements for Listing on the Patent Register
+[5]
+The
+Regulations
+protect patents for medicines and the use of medicines (s. 4; see attached Annex). They do not, however, apply to devices or systems that aid the delivery of medicines. Recent cases have refined the distinction between a medicine and a delivery mechanism.
+[6]
+A person who wishes to have a drug patent protected under the
+Regulations
+must show that the patent contains a claim for "the medicine itself or a claim for the use of the medicine" (s. 4(2)(b)). A patent that contains a claim for a particular active ingredient, or a formulation of an active ingredient with other substances, comes within the
+Regulations
+:
+Eli  <FRAGMENT_SUPPRESSED> . So, for example, a patent for a nasal spray formula, which contains both an active ingredient and other substances that facilitate the effective and comfortable delivery of the active ingredient to the affected area, comes within the
+Regulations
+:
+ <FRAGMENT_SUPPRESSED> .
+[7]
+Patent holders have attempted to extend the reasoning in
+Hoffman-La Roche
+and
+Eli  <FRAGMENT_SUPPRESSED> , to other combinations of active and inactive elements within a patent. However, where the patent involves a combination of an active ingredient with a device whose purpose is to administer that ingredient to a patient, the Court has held that the patent is not eligible for protection under the
+Regulations
+. That kind of patent does not involve a claim for a medicine or the use of a medicine. Accordingly, patents for articles such as inhalers or transdermal patches are not eligible (
+ <FRAGMENT_SUPPRESSED> ; 144 F.T.R. 252 ( <FRAGMENT_SUPPRESSED> ; 255 F.T.R. 110; 2002 FCT 1248 (implant);
+ <FRAGMENT_SUPPRESSED> ; 308 N.R. 169; 2003 FCA 299 (patch)). As Justice Brian Malone stated, the question is whether the inventions "are administered to the patient or whether they administer substances to the patient" ( <FRAGMENT_SUPPRESSED> , above, at para. 18).
+[8]
+Even if the patent describes a product to be ingested by the patient, it may not come within the
+Regulations
+. For example, a patent for a capsule designed to permit the controlled release of a medicine to cattle was found ineligible for listing under the
+Regulations
+. Justice Eleanor Dawson held that, according to the patent itself, the capsule could be used with numerous different active ingredients and, therefore, it was not a patent for a particular medicine (
+ <FRAGMENT_SUPPRESSED> ; 235 F.T.R. 134; 2003 FCT 676). Justice Richard Mosley came to the same conclusion regarding a patent for a tablet whose design achieved the slow release of a medicine by means of a combination of active and inactive layers. He found that the patent did not actually claim protection for the medicine contained in the tablet; rather, it protected the system (i.e. the specially-designed tablet) by which the medicine was delivered (
+ <FRAGMENT_SUPPRESSED> ; 251 F.T.R. 195; 2004 FC 370).
+[9]
+In a very recent case, decided just prior to the decision before me, the Federal Court of Appeal determined that a patent for a controlled release capsule was not covered by the
+Regulations
+:
+ <FRAGMENT_SUPPRESSED> ; 334 N.R. 324; 2005 FCA 197. Justice Alice Desjardins noted that the patent did not even refer to a particular medicine contained in the capsule. It simply referred to an "active substance". Accordingly, the patent could not be said to claim protection for a medicine. Justice Marc Nadon agreed.
+[10]
+In separate concurring reasons, Justice Denis Pelletier analyzed all of the cases cited above and fashioned a helpful test for determining whether a particular patent is eligible for protection under the
+Regulations
+:
+"Does the patent protect the delivery system or does it protect the payload?
+If the patent protects the delivery system, then it does not contain a claim for the medicine itself, or the use of the medicine, even if it refers to the medicine as payload." (At para. 43, 44.)
+[11]
+To answer this question, one must look carefully at the wording of the patent in issue. Here, Biovail argues that its patent claims protection for two particular medicines. Further, it submits that its patent is similar to that in
+Hoffman-La  <FRAGMENT_SUPPRESSED> , in that it describes a method of combining the active ingredients with other substances to create an effective drug.
+[12]
+By contrast, the Minister argues that Biovail's patent is similar to those in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , above, because it protects a type of capsule that can be used to deliver many different kinds of medicines.
+[13]
+In my view, the Minister's characterization of Biovail's patent is the more accurate.
+(c) What Biovail's Patent Covers
+[14]
+As mentioned, Biovail's patent is entitled "Controlled Release Formulations Using Intelligent Polymers". The patent is described in general terms as follows:
+"[T]he present invention relates to an easily absorbable, controlled release pharmaceutical formulation utilizing groups of intelligent polymers having opposing wettability characteristics."
+[15]
+This simply means that the patent describes a kind of controlled-release tablet made up of an active ingredient, plus two "intelligent polymers" that interact with water in opposite ways. When a patient ingests a tablet made up of a combination of these polymers with an active ingredient, the tablet breaks down in such a way as to permit the active ingredient to be released slowly into the patient's blood stream.
+[16]
+The patent clearly emphasizes this controlled-release mechanism. The active ingredients are secondary.
+[17]
+The patent begins by noting the importance of slow-release technology in the pharmaceutical marketplace. It goes on to observe that many existing patents describe systems that can only be used for a single active ingredient. Others are difficult or expensive to manufacture. Biovail's patent, by contrast, describes "an efficient drug delivery system" that is relatively easy and inexpensive to produce, and can be used with many different types of active ingredients.
+[18]
+Looking at the actual claims in the patent, I see four main ones, along with a number of variations on them. Each of the four main claims sets out the ingredients of the tablet, in various proportions. The ingredients include an active substance, along with the two types of polymers (Claims 1, 13, 18 and 31). Most of the other claims simply involve adding agents, lubricants or coatings to the tablets.
+[19]
+Only one of the 32 claims in the patent (Claim 30) mentions the drugs in issue here (diltiazem hydrochoride and buproprion). Claim 30 cites those two drugs as potential active substances, along with four others, for inclusion in the slow-release tablet. Other potential active substances are named in other claims (Claims 28 and 32). By my count, there are 41 different potential active substances named within the patent's claims. Many more are referred to in the descriptive sections of the patent.
+[20]
+Biovail emphasizes two aspects of its patent. First, it points out that the patent clearly describes a "formulation"or "composition". As such, it should be treated like the patents in
+Hoffman-La Roche
+and
+Eli  <FRAGMENT_SUPPRESSED> , and accepted for listing under the
+Regulations
+. However, the fact that the patent relates to a formulation is not sufficient to make it eligible. The question is whether it is a formulation comprised of a particular medicine. As I see it, Biovail has patented a formulation for a delivery system that can be used for many different medicines. True, the tablet it has designed is unlike those in <FRAGMENT_SUPPRESSED> or <FRAGMENT_SUPPRESSED> , above. Biovail's tablet involves mixing an active ingredient with other substances, not inserting an active ingredient into a mechanical capsule or shielding it within inactive layers and walls. Still, the patent's paramount purpose clearly is to protect the delivery system, not the payload.
+[21]
+Second, Biovail notes that the patent specifically mentions the two drugs used in its WELLBUTRIN and ZIATEC tablets. However, these references are clearly incidental to the patent's main thrust. Neither of the two active substances is given any special emphasis within the wide array of potential ingredients listed in the patent. Further, as noted by Justice Pelletier in <FRAGMENT_SUPPRESSED> , above, the mere mention of a particular active ingredient in a patent is not sufficient to bring it within the
+Regulations
+. Again, the question is whether the patent protects the delivery system or the payload. A patent may protect the former, even when it specifically mentions the latter.
+[22]
+Based on my review of its contents, I conclude that Biovail's patent protects a delivery system, not a particular medicine or the use of a medicine.
+(d) The Minister's Decision
+[23]
+The Therapeutic Products Directorate (TPD) of Health Canada, on behalf of the Minister, informed Biovail in August 2004 that its patent was ineligible for listing under the
+Regulations
+. The TPD then gave Biovail an opportunity to respond. Biovail submitted written representations in September 2004. It disputed the characterization of its patent as a delivery system, relying mainly on the arguments referred to above.
+[24]
+The TPD responded to Biovail in October 2004. It reiterated its previous conclusion. The essence of the decision is contained in the following passage:
+"In the view of the TPD, what is described and claimed within the '684 patent is a composition having certain characteristics which allow for the release of an active substance at a controlled rate over a period of time. Unlike
+Hoffman-La Roche
+and
+Eli Lilly
+, neither of the two medicines here at issue are present as an element of the claimed composition. The fact that the composition described in the '684 patent could be used to deliver buproprion or diltiazem hydrochloride (and any number of other drugs) does not, in the view of the TPD, amount to a claim to the medicines buproprion or diltiazem hydrochloride, or their use, for the purposes of s. 4(2)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+."
+[25]
+Based on my understanding of the case law and the terms of the patent, as described above, I conclude that the Minister was correct in determining that Biovail's patent was ineligible for listing under the
+Regulations
+.
+[26]
+As an additional argument, Biovail noted before me, and pointed out to the TPD, that there are many patents on the register that are similar to its patent. Biovail argues that it would be unfair not to extend to its patent the protection that is granted to those similar patents. I agree with the Minister that it is irrelevant to the question before me whether there are other patents whose status under the
+Regulations
+is open to question.
+[27]
+Accordingly, I must dismiss this application for judicial review with costs.
+JUDGMENT
+[28]
+THIS COURT'S JUDGMENT IS that:
+1. The application for judicial review is dismissed with costs.
+Application dismissed.
+Editor: Angela E. McKay/gs
+Annex
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+"(2) A patent list submitted in respect of a drug must
+. . . . .
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that contains a claim for the medicine itself or a claim for the use of the medicine and that the person wishes to have included on the register;"
+Règlements sur les médicaments brevetés (Avis de conformité)
+, DORS/93-133
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+"(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+. . . . .
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste, qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament, et qu'elle souhaite voir inscrit au registre;"
+[End of document]

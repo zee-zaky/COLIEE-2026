@@ -1,0 +1,684 @@
+[1]
+Martineau, J.
+: The present concerns the infringement and validity of Canadian Patents No. 2,169,670 (the '670 patent) and No. 2,273,148 (the '148 patent) and related disclaimers which are reproduced at the end of same.
+I. THE PRESENT PROCEEDINGS
+[2]
+The plaintiffs are respectively the present owner and assignee of the patents in suit, Shmuel Hershkovitz (designated as the "patentee" in the disclaimers); its exclusive licensee for Canada, Systèmes de Sécurité Paradox Ltée - Paradox Security Systems (Paradox); and Pinhas Shpater, the named inventor of the particular telephone line coupler circuit and method which are the object of the patents in suit. The defendant, Tyco Safety Products Canada Ltd. (Tyco), formerly Digital Security Controls Inc. (DSC), is a long time competitor of Paradox. Both enterprises manufacture and sell alarm systems for home and business use. They market their products through distributors and not directly to customers. Same are sold in Canada, the United States of America and other countries of the world.
+[3]
+This action was commenced by a Statement of Claim filed on February 27, 2004 claiming infringement and seeking a permanent injunction, damages or an accounting of profits, with interest and costs. Originally, the plaintiffs alleged infringement (direct and by inducement) of
+all
+claims of the patents in suit through the manufacture, use and sale of certain alarm panels by the defendant. However, the plaintiffs now allege infringement of claims 1, 2, 5 and 6 of the '670 patent and of claims 1 and 2 of the '148 patent (the claims in suit). As the plaintiffs have alleged that the defendant's infringement has been deliberate and wilful, they are also seeking punitive and exemplary damages. The defendant has denied any infringement and has counterclaimed by seeking the invalidity of the patents in suit and related disclaimers.
+[4]
+A bifurcation order was pronounced on September 13, 2004. The pace of proceedings has been slow. The parties are apparently also involved in some parallel litigation in the U.S. The matter was finally heard by the Court in November and part of December 2008. The present action should be dismissed and the counterclaim allowed. The disclaimers are invalid; since the admission made by the patentee that the original claims are too broad, same cannot subsist and the patents in suit are also invalid. In any event, the claims in suit, as disclaimed or prior to the disclaimers, are invalid because they are anticipated, obvious and/or an unpatentable aggregation. In the event of an appeal, the Court's non-determinative findings with respect to infringement and related issues are also stated in the reasons.
+[5]
+For purposes of convenience, the present reasons will follow the following plan:
+Section
+Title
+Paragraphs
+I.
+The Present Proceedings
+2 to 6
+II.
+Technical Information
+7 to 9
+III.
+The Patents in Suit
+10 to 14
+IV.
+Chronology
+15 to 30
+V.
+Expert Evidence
+31 to 35
+VI.
+Construction
+36 to 72
+VII.
+Disclaimers
+73 to 96
+VIII.
+Anticipation
+97 to 133
+IX.
+Obviousness
+134 to 147
+X.
+Unpatentable Aggregation
+148 to 149
+XI.
+Infringement and Related Issues
+150 to 161
+XII.
+Conclusion
+162
+[6]
+Finally, there is no disagreement between the parties as to the applicable provisions of the
+Patent
+Act
+, R.S.C. 1985, c. P-4 (
+Patent
+Act
+) and nothing turns on this legal issue. The defendant readily acknowledges that on their face, the applications which resulted in the '670 and '148 patents, and thus to the patents themselves, do not offend subsection 27(2), as it read immediately before October 1, 1996 and the parties agree that all other relevant provisions of the current
+Patent
+Act
+as of October 1, 1996, apply to this matter. Thus, with regard to the allegations of anticipation and obviousness of the patents in suit, sections 28.2 and 28.3 of the current
+Patent
+Act
+apply.
+II. TECHNICAL INFORMATION
+[7]
+The public switched telephone network is a natural choice as a means to connect an alarm system to an alarm monitoring centre. Security alarm systems generally include a security panel joined to a modem that provides bidirectional communication over the phone network. The modem conveys security and emergency related data at various connection speeds between the phone network and the security panel. An interface is needed for any terminal which takes data from, and/or sends data, to a telephone line (i.e. modem, facsimile machine, or the like).
+[8]
+The central office (i.e. the local telephone exchange) provides power (typically 48 V DC from a battery feed) and ringing signals to a telephone line. It also provides supervisory functions (detection of dialing, on-hook and off-hook conditions). The telephone line is a balanced two-conductor circuit. The two conductors at the subscriber's end are identified as "tip" and "ring". A connection is made when the subscriber telephone (or "subscriber set") is taken "off-hook". When taken off-hook, a return path for current generated at the central office is provided in the telephone set. When in the "on-hook" position, the telephone handset presents a relatively high resistance - essentially an open circuit - with no current flow. When the telephone set is in the on-hook state, the central office signals a request for a connection (i.e. an incoming telephone call for the subscriber) with a ringing signal. This signal is an intermittent (2 seconds on, 4 seconds off) high voltage (86 V rms) AC (20 Hz) signal. The AC ringing voltage can be routed (via a capacitor) to an electro-mechanical bell (as in old telephone sets) or be used to trigger an electronic ring tone to alert the subscriber of the incoming call (as in modern telephone sets). Similarly, the central office can detect the current flow when a telephone handset is taken off-hook by the subscriber and will then provide a dial tone to indicate that it is ready to receive dialing. This act of providing a path for the current flow in the off-hook state "seizes" the line. The amount of DC current flowing depends on the load (resistance) offered by the subscriber set and on the resistance of the subscriber loop which in turn depends on its length (distance between the central office and the subscriber). In North America, the subscriber set can have a maximum resistance of 400?. With this maximum resistance, the "subscriber loop" is 21.2mA. Therefore, a current of at least this amount is needed to reliably seize the line.
+[9]
+Once a connection has been established between the central office and the subscriber, either by initiating a call (dialing) or receiving a call (answering a ring), voice communications can begin. The voice signal is an AC signal superimposed on the DC current flowing from the central office. At this point, it is important to note that data devices, such as modems or facsimile machines, which use a "dial-up" connection in order to send and receive data, are limited to the range of frequencies supported by the central office for speech signals. Therefore, the data information is modulated onto a carrier frequency in the middle of the speech band. The resultant electrical signals consist of signals having both positive and negative components. These AC signals must be "biased" by a DC steady current when an opto-coupler is used. Otherwise, the negative portion of such signals would be lost in the process by the opto-coupler (for a definition of an opto-coupler, see paragraph [11]). Data communications can be "half-duplex" or "full duplex". In half-duplex, only one end is transmitting at any given time. In some cases, full-duplex transmission is needed. However, for alarm systems, the amount of data to be transmitted is modest and thus half-duplex or split band-approaches (half of the telephone band dedicated to transmission and the other half dedicated to reception) are generally appropriate. In the case of an alarm system, the communication interface works to transfer control from the subscriber phone to the security panel by providing the interface to the phone network by matching impedance levels, ring levels and the like. Moreover, in order to protect the electronic equipment from surges on the telephone line side and to prevent different ground voltages from causing erroneous operation in the subscriber equipment, the latter will also include devices that are able to perform an isolation function (such as opto-couplers or transformers).
+III. THE PATENTS IN SUIT
+[10]
+The patents in suit describe a circuit (the '670 patent) and method (the '148 patent) that permits the following functions to be performed using only
+two
+opto-couplers: (i) ring signal detect; (ii) telephone line seize; (iii) communications signal transmit; and (iv) communications signal receive.
+[11]
+Opto-couplers are an old technology. An opto-coupler device consists of two parts in a single package (housing). On the input side, a light-emitting diode (commonly known as a LED) generates light internally. A photo-receptor also within the package is activated by this light. There is no electrical connection between the two halves of the opto-couplers, thus providing the needed isolation between the line side and the subscriber side of the telephone line coupler.
+[12]
+Figure 1 of the '670 and '148 patents, reproduced below, is a block diagram of the telephone line coupler circuit according to its preferred embodiment:
+[Diagram omitted - see printed version]
+[13]
+As can be seen from the figure above, the telephone line side is on the left of the dotted lines while the subscriber side is on the right and the bottom right. The insulation is performed by two opto-couplers: a receive opto-coupler 16 and a transmit opto-coupler 20. (The LED of the receive opto-coupler 16 is on the telephone line side while the LED of the transmit opto-coupler is on the subscriber side. Each diode is symbolized by triangles. The two arrows next to the triangle indicate that it produces light and that it is a light-emitting diode and not just a regular diode). The output of the transmit opto-coupler 20 includes a DC bias component 22 connected to a gate of a line seize switch 15 for connecting a DC line seize load 14 across the ring and tip contacts 10 and 11 of the telephone line. The receive opto-coupler 16 is used both for receiving communications signal and for detecting the ring signal. The band pass filter 18 is connected to the output of the receive opto-coupler 16. A diode bridge 12 (providing the correct polarity) is also found in the telephone line coupler circuit.
+[14]
+The disclosed invention is not limited to applications flowing from the use of a telephone line connected to an alarm system.
+IV. CHRONOLOGY
+[15]
+For the purposes of this chronology, besides the documentary evidence, the Court has considered the testimonies of all fact witnesses heard at the trial.
+[16]
+In 1989, Shpater and Hershkovitz started a new company in the security sector which became known as Paradox. Following an unrelated infringement dispute with DSC, which was settled out of court, Paradox started to manufacture and sell alarm panels around 1993. These panels were all designed by Shpater. Paradox's first line of control panels, which was referred to as the 7 X 7 series (including the 747 and 737 control panels), integrated four opto-couplers with a bias circuit on the line side. As a result, a dedicated opto-coupler was used to isolate the components on the line side or on the subscriber side which perform each of the four functions already identified in section II, i.e. ring signal detect, telephone line seize, communications signal transmit and communications signal receive. A fifth opto-coupler was also used for telephone line monitoring (TLM), an application which is not claimed by the patents in suit.
+[17]
+Around 1994-1995, Shpater worked on a new design of telephone line couplers that will use less opto-couplers (such as the next generations of 7 X 8 and 8 X 8 series models later sold by Paradox). His solution will be to use a single opto-coupler for incoming ringing or communication signals, while outgoing communication signals will pass through the other opto-coupler. After some experimentation, Shpater realizes that there is already a very stable source for biasing the receive opto-coupler and it is the transmit opto-coupler. Once the biasing current is on the line side, a transistor device will be used to generate a high voltage permitting the line to be seized. The line seize signal will also control the switching of the band pass filter (which can be switchable between frequencies for ring or communication signals).
+[18]
+Shpater is familiar with patent prosecution. Indeed, over the years, he made some ten applications in Canada and the United States of America. James Anglehart, then a member of Ogilvy Renault, acted as the patent agent for Paradox. Sometime during the fall of 1995, a preliminary patentability search with respect to the use of opto-couplers as isolation devices in a telephone line connector circuit was carried out. The research was limited to the U.S. In their practice, patent agents deal with a substantial number of files. It happened at trial that Anglehart had very little personal recollection of actual events, particularly with respect to the circumstances related to the filing of the disclaimers in Canada and the reissue application in the U.S. His memory essentially remained in the realm of the documents that were produced at trial.
+[19]
+On November 8, 1995, the application that led to U.S. Patent No. 5,751,803 (the '803 patent) was filed with the United States Patent and Trademark Office (USPTO). On May 12, 1998, the '803 patent issued with four claims. In the meantime, on February 16, 1996, the application that led to the '670 and '148 patents (the Canadian application) was filed with the Canadian Intellectual Property Office (CIPO) and it became open for public inspection on May 9, 1997. This application claims priority on the U.S. application filed on November 8, 1995. The descriptive and disclosure portions of the Canadian application, including Figure 1 illustrating the preferred embodiment, are virtually identical to their U.S. counterpart. Among U.S. patent documents cited, one finds U.S. Patent No. 4,727,535 which issued on February 23, 1988 (Brandt) and U.S. Patent No. 4,282,604 which issued on August 4, 1981 (Jefferson). Brandt and Jefferson are discussed in detail in the section dealing with anticipation (section VIII).
+[20]
+The Court pauses to mention that while the applications in the U.S. and Canada were still pending, Shpater and Hershkovitz had an important business disagreement which resulted in the dismissal of Shpater, sometime in March 1998. At that time, Shpater's lawyer approached Paradox's competitors, including DSC, canvassing to see if there was any interest in buying Shpater's outstanding interest in Paradox and related inventions. John Peterson, who was owner and president of DSC at that time, remembers having had a telephone conversation with Shpater sometime in April 1998. He listened politely to Shpater and the matter did not go further. Shpater left Canada and returned to Israel, his home country, on May 12, 1998. At the beginning of 1999, Shpater managed to reach an agreement with Hershkovitz. (Full and final payment was completed in 2002, upon which the transfer of rights detained by Shpater in all patented inventions was finalized). There is no need to review here the different assignment and licence documents produced at trial.
+[21]
+On March 22, 1999, a request for examination of the Canadian application, together with a request that the examination be advanced (citing a potential infringer as grounds) was filed, and the claims were amended to include the four claims in the '803 patent and to add method claims as well. CIPO granted the request for an advanced examination a month later. On May 21, 1999, an office action was taken by CIPO indicating that it considered that the Canadian application claimed more than one invention and the application should be amended accordingly. On June 17, 1999, a divisional application (which later became the '148 patent), was filed; the method claims are included in same. On July 15, 1999, a notice of allowance of the original Canadian application was issued. After payment of the final fee on July 21, 1999, the '670 patent issued on October 5, 1999.
+[22]
+On December 8, 1999, through counsel, the owners of the '670 patent wrote to DSC asserting their rights in the '670 patent and alleging that DSC's products infringe the patent. On January 14, 2000, DSC denied all allegations of infringement and asserted that the '670 patent was invalid due to anticipation and/or obviousness. DSC's counsel cited prior art including a device referred to as the "Pascom device" and the defendant's own DSC 4000 device. The Pascom prior art references also included PCT application No. PCT/AU93/00403, published on February 17, 1994 under No. W094/03990 (Pascom) and Australian patent application Nos. PL3955 (Whitby) and PL4052 from which the PCT application claimed priority (collectively, the Pascom references). The plaintiffs did not respond to DSC's general denial nor did they take any legal action to assert their rights against the defendant for a period of more than four years. Peterson testified that following Paradox's silence after the January 14, 2000 letter, he thought this was the end of the matter. He sold his company to Tyco in 2001.
+[23]
+Although the plaintiffs admit today that the Pascom references and the DSC 4000 are relevant prior art, this was not the original position they took. According to the evidence, between 2000 and 2004, strategic steps were taken by the plaintiffs, concurrently in the U.S. and Canada, to enhance their legal position in an infringement action against potential infringers, - notably the defendant. A key element of plaintiffs' strategy, was the filing of an application for reissue of the '803 patent on May 12, 2000 with the USPTO. Same was apparently made on the grounds that the patentee wanted to add method claims and that he had claimed
+less
+than he had the right to claim.
+[24]
+According to the evidence, the plaintiffs also voluntarily choose in Canada:
+(a) not to disclose newly discovered prior art to CIPO (DSC 4000 and Pascom) during the prosecution of their divisional application; and,
+(b) not to make any amendment to the divisional application by adding the language that will later be made by disclaimer;
+(c) not to file an application for reissue of the '670 patent while actively pursuing an application for reissue of the '803 patent.
+[25]
+Although these important patent prosecution decisions were apparently taken by Hershkovitz himself, he did not remember anything at the trial. Simply, if there were any patent documents that needed to be signed by him (including the disclaimers), he would sign them. Hershkovitz testified that Anglehart and Shpater were better placed than him to answer questions on patent prosecution. At the time, Shpater had already left Paradox but had offered to assist with patent related matters. Anglehart sought Shpater's technical opinion at occasions.
+[26]
+In Canada, while the U.S. application for reissue was still pending, Paradox paid the final fee on April 8, 2002 to the CIPO. The divisional application matured to the '148 patent on June 25, 2002. A few days afterwards, on July 11, 2002, Paradox responded to the first office action of the U.S. Examiner, who had already indicated on January 11, 2002 that the U.S. claims were anticipated or obvious in light of Pascom who already had a two opto-coupler design. Not satisfied by Paradox's representations, the U.S. Examiner issued a second office action on November 5, 2002. Again, all claims of the U.S. reissue application were rejected in light of the Pascom references. On March 17, 2003, Anglehart, Ron Toledano, Vice-President for Paradox Security Systems (and also counsel for the company) and Sylvain Cormier, then employed by Paradox as hardware designer, had a face to face meeting with the U.S. Examiner, Jacky Chang. On August 7, 2003, in an attempt to distinguish Pascom who had a "parallel connection" between the two opto-couplers, Paradox purportedly narrowed the scope of all claims of its reissue application, including all independent claims, by adding a "series connection" limitation. An appeal was filed.
+[27]
+On October 6, 2003, disclaimers were filed in Canada in relation to the patent in suit. The disclaimers state that the patentee has made a specification "too broad" and disclaim all of the independent claims of the '670 and '148 patents by purportedly seeking to add limitation language to the effect that the receive and transmit opto-couplers are connected "in series ... on a telephone side to draw a minimum of current to place a light-emitting diode of [the] receive opto-coupler in an operational range." Anglehart signed the disclaimers on behalf of Hershkovitz. Anglehart testified that it was on instructions from counsel that the disclaimers were filed. Incidentally, the filing of the disclaimers is made only one day
+after
+the expiry of the delay to file an application for reissue in Canada (the four year limitation period). Be that as it may, Anglehart cannot remember if a meeting was called with Hershkovitz or Shpater to discuss the disclaimers or other available options (such as an application for reissue in Canada). That said, Cormier reviewed the technical wording of the addition now found in the disclaimers prepared by Anglehart. However, Cormier was not personally involved in any decision making and was not permitted at trial to testify on the state of mind of the patentee or the assignee. On December 5, 2003, CIPO advised Paradox that the disclaimers had been recorded.
+[28]
+On January 12, 2004, the U.S. Examiner issued a notice of allowance of the U.S. reissue application, based on the above "in series" modifications made by Paradox. On February 11, 2004, Paradox demanded that DSC cease sales of its allegedly infringing products, this time based on the newly disclaimed patents. Sixteen days after this demand letter, Paradox filed the within proceedings. On April 19, 2004, Tyco filed and served its Statement of Defence and Counterclaim regarding this matter. Tyco's defence and counterclaim is based on the already mentioned Pascom and DSC 4000 reference, as well as additional relevant prior art.
+[29]
+On April 23, 2004, four days after the service of Tyco's defence and counterclaim, Paradox filed with the USPTO:
+(a) a Request for Continued Examination of its U.S. reissue application;
+(b) a Petition to withdraw the application from issue based on the prior art cited by Tyco in its Statement of Defence and Counterclaim; and
+(c) a second Information Disclosure Statement disclosing the prior art cited by Tyco in its Statement of Defence and Counterclaim (including the DSC 4000 schematic).
+[30]
+As a result of the above actions by Paradox, the U.S. notice of allowance was withdrawn and the prosecution of the U.S. application was once more reopened. While the U.S. reissue patent was granted on November 21, 2006, it is now subject to re-examination.
+V. EXPERT EVIDENCE
+[31]
+There was no challenge at trial regarding the qualifications and expertise of the plaintiffs' expert witnesses, Randy Brandt and Leonard MacEachern, the latter being heard in rebuttal to the defendant's expert, Peter Kabal, whom the Court also found qualified. There was no substantial amendment made by Brandt to his original expert report (Exhibit P-209) and his rebuttal expert report of November 30, 2007 (Exhibit P-210). In addition to their original reports, Kabal and MacEachern produced at trial revised versions of same on November 1 and 23, 2008, respectively. MacEachern's revised rebuttal report (Exhibit P-275) mostly comments the changes and additions made by Kabal in his revised report (Exhibit D-246). In their reports and at trial, experts gave their opinion as to the meaning of an ordinary person skilled in the art would ascribe to the various technical terms used in the patents in suit and/or in the prior art. Experts also testified on technical aspects related to the functioning and operating of various components which would be used by such person skilled in the art who would want to make the invention disclosed in same. In its final analysis, the Court has preferred expert opinion that accords with the totality of the evidence, or with the terms of the patents in suit as construed by the Court, and having regards to the clarity and convincing character of the answers provided by the respective experts who were subjected to long cross-examinations at trial.
+[32]
+It became apparent during Kabal's cross-examination that the claim chart that was included as an annex in Kabal's original report, dated April 27, 2007, and which summarizes where particular elements of the claims in suit are found within the various pieces of prior art cited above, was provided to him by defendant's counsel before he wrote his report. As noted by Justice Mosley in
+ <FRAGMENT_SUPPRESSED>  at page 449, one can "doubt that there are many expert reports that are not, to some extent, the product of collaboration between counsel and the expert if only to conform to varying legal requirements in different jurisdictions or to focus the report on the issues." A simple reading of the respective reports produced by the parties' experts highlight this collaboration with counsel. In the case at bar, despite the fact that the chart produced with Kabal's report may have been prepared by somebody else, it became abundantly clear during his testimony that the validity analysis was entirely his own.
+[33]
+At trial, both Brandt and Kabal were always candid, forthcoming and ready to recognize promptly any error they may have made (notably in respect of circuit analysis). Conversely, MacEachern showed perhaps a greater textbook knowledge than Brandt and Kabal in the field of analog circuits and took a more tutorial approach with the Court, but he also showed a great reluctance to amend himself, even if it appeared that his opinion was questionable or that another interpretation was possible. Having said that, the Court has not ignored objective facts such as changes of opinion of expert witnesses as that may pertain to credibility. Many of the changes or additions made in the revised version of Kabal's report are substantive. On the other hand, same were volunteered prior to trial by Kabal himself which attests of his good faith and accorded with his understanding of the technology at issue. Thus, the Court was not ready to outright ignore Kabal's revisions, preferring to evaluate same after hearing Kabal and MacEachern's testimonies and considering MacEachern's revised rebuttal report.
+[34]
+At trial, all three expert witnesses also had some difficulty with the fact that the patents in suit are only general block diagrams. This makes it impossible for the experts and persons skilled in the art to actually measure the current, the voltage and the resistance at any point of reference of the circuit described in the patents in suit. However, it was recognized by the experts that a person skilled in the art who has read the patents in suit would favour components that will normally operate near the middle of the range indicated on the specification sheet of the chosen component. This is so, unless the patents teach otherwise.
+[35]
+Besides the DSC 4000 device (Exhibit P-206) itself, and the Brandt (J-70) and Pascom (J-64) references, which are relevant as well, in support of its arguments of invalidity on the basis of anticipation and/or obviousness, the defendant relied on a number of other published references, all of which the defendant submits represent relevant prior art for the patents in suit. Indeed, the Court has also found all these additional references, relevant prior art:
+- Japanese patent application JP S5586253, published on June 28, 1980
+(Toshiba) (J-73);
+- U.S. patent no. 4,282,604, issued on August 4, 1981 (Jefferson) (J-69);
+- Application JPS61030847, published on February 13, 1986 (Ricoh) (J-74);
+- PCT application WO94/06215, published on March 17, 1994 (Roberts) (J-71);
+- PCT application WO94/07319, published on March 31, 1994 (Agbaje-Anozie)
+(J-72).
+For the purposes of sections 28.2 and 28.3 of the
+Patent
+Act
+, all the above references (including the DSC 4000 device) are thoroughly examined at sections VIII and IX. (However, defendant's closing submissions make no argument based on Ricoh. Accordingly, Ricoh is not addressed in these reasons).
+VI. CONSTRUCTION
+A.
+General Principles
+[36]
+Construction of claims is the first step in a patent suit. It is antecedent to consideration of both validity and infringement issues. Applicable rules have been defined extensively by the case law, especially by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (
+Free World
+). The
+Patent
+Act
+seeks both fairness and predictability. Predictability is achieved by tying the patentee to its claims while fairness is achieved by interpreting those terms in an informed and purposive manner.
+[37]
+That said, the Court must interpret the claims, it cannot redraft them. If the inventor has created an unnecessary or troublesome limitation in the claims, it is a "self-inflicted wound". Indeed, the public is entitled to rely on the words used in the patent provided that they are interpreted fairly by the Court. Purposive construction requires the identification by the Court, with the assistance of the skilled reader, of the particular descriptive words or phrases in the claims that describe "essential elements". The construction of the claims is the same for both validity and infringement. The language of the patent should be construed as of the date of publication of the patent without resort to extrinsic evidence of the inventor's intention. Where necessary, the whole of the patent, and not only the claims, should be construed. Reference to patent drawings will sometimes clarify what is meant by a claim but should not be used to supplement a claim by adding new inventive elements.
+B.
+Person of ordinary skill in the art
+[38]
+A patent specification (including the claims) is not addressed to a member of the general public; it is directed to a "person of skill in the art" to which the patent relates. The "ordinariness" of the person skilled in the art will vary with the subject matter of the patent. Such a person possesses the ordinary amount of knowledge incidental to his field and is thought to be reasonably diligent with keeping up with the advances in the field. In the case at bar, the Court accepts that a person of ordinary skill in the art is likely to have a bachelor degree in electrical engineering (or related technical discipline) with a few years of experience in electronics as applied to the implementation of telephony circuits. A person having a lower degree of education, such as a technician, would not fit in the profile of a person skilled in the art for the purpose of this case, unless he has acquired several years of practical experience designing similar telephony circuits. As such, the person skilled in the art would have developed satisfactory knowledge about electrical design, electronics and telephony. He would have a thorough understanding of electrical engineering principles in association with telephony signaling schemes, including data transmission and transmission line considerations.
+C.
+Disclosure
+[39]
+The '670 patent is entitled "Telephone Line Coupler". It issued on October 5, 1999 based on an application filed on February 2, 1996 which claimed priority on a U.S. application filed on November 8, 1995. It became open for public inspection on May 9, 1997. The '148 patent is likewise entitled "Telephone Line Coupler". It was filed on June 17, 1999 as a divisional application of the '670 patent. Because of its status as a divisional patent, it is deemed to have been filed on February 2, 1996, to have become open for public inspection on May 9, 1997, and to benefit from the November 8, 1995 priority date, like the '670 patent. The '148 patent issued on June 25, 2002. That said, disclaimers in relation to each of the patents in suit were filed on October 6, 2003. These disclaimers were recorded as confirmed by letters from CIPO dated December 5, 2003.
+[40]
+The relevant date for the construction of the language used in the patents in suit is May 9, 1997. The descriptive portions of the two patents in suit are virtually identical. In the interpretation of the claims in suit, in light of the expert evidence adduced at trial, the Court has sought guidance from the patent specification. Unfortunately, it is not very useful for this task. It often uses exactly the same language as the claims, thus shedding little, if any, new light on the claims.The lack of specificity and discussion of prior art in the disclosure section of the patents in suit is striking compared to many of the prior art documents produced at trial.
+[41]
+It is asserted in the disclosure part of the patents in suit that coupler circuits which use opto-couplers, are known in the art. Reference is made in this regard to Brandt and to U.S. Patent No. 4,203,006 (Mascia). In Brandt, a coupler circuit is described in which a single opto-coupler is used for relaying the analog AC transmit signal and another opto-coupler device is used for relaying the received AC signal. In Mascia, one opto-coupler is used for relaying a ringing signal to a modem, a second opto-coupler is used in relaying a line seize signal from the modem to the telephone line access coupler and a transformer is used in place of a pair of opto-couplers for relaying the received and transmitted AC signals from the coupler to the modem.
+[42]
+The disclosure section of the patents in suit and the expert evidence are to the effect that transformers can also be used to perform the isolation function in a telephone line coupler. Indeed, the bi-directional nature of the transformer allows for a single device to be used for relaying the received and the transmitted communication signals (as in the Mascia patent). However, contrary to a transformer, an opto-coupler is not bi-directional. It is therefore asserted in the disclosure part of the patents in suit that, in the known prior art, the basic functions of relaying the AC transmit signal all require separate opto-coupler devices, in this case, four opto-couplers. (We will see later in these reasons that this assumption proves to be wrong in fact). The telephone line coupler circuit described in the patents in suit uses only two opto-couplers (instead of four opto-couplers). It is stated by the inventor that this results in cost savings because of the reduced number of opto-couplers required.
+[43]
+Although referred to in the summary of the invention, there are references to devices or parameters, apparently important in the functioning of the invention but which, unfortunately, are not defined or explained, such as a "high impedance DC load". Another instance of incertitude concerns certain aspects of the claimed method disclosed in the summary of the invention, such as the reference to "the DC bias being sufficient to generate a low level DC output on a line side of the transmit opto-coupler" (page 4a, lines 2 to 4). The expert evidence on record suggests that cost savings seem to be a major consideration and that in this respect, a high level DC output could be substituted to a low level DC output.
+[44]
+Figure 1 of the '670 and '148 patents is a block diagram of the telephone line coupler circuit according to the "preferred embodiment". It is already reproduced in paragragh [12] of these reasons. It shows six blocks which are only partially alluded or elaborated upon in the disclosure section. According to the expert evidence heard by the Court, there are four paths of current corresponding to the four functions described in the patents in suit. For the purpose of claims construction, it is not necessary to go into a technical analysis of the current flow in the telephone line coupler circuit. The actual physical components and values needed to work the invention are not disclosed in the patents. Some components are directly related to the isolation function (such as the opto-coupler 16 and 20). Others have not had an effect on the functioning of the telephone line coupler (such as the diode bridge 12 or the regular diode 17). Therefore, some "trial and error" by the person skilled in the art would therefore be necessary before the invention actually works (for example, to set the proper biasing DC current).
+[45]
+In the preferred embodiment, the receive opto-coupler 16 is connected to the transmit opto-coupler 20 such that a minimum draw of current to place the light-emitting diode of receive opto-coupler 16 in an operational range is achieved. As will be seen, no such connection is claimed in any of the original claims in suit. Moreover, even though the opto-couplers 16 and 20 are shown attached "head to tail" in Figure 1, based on the reading of the specification as a whole, including the claims prior to the filing of the disclaimers, and having considered the expert evidence, it would not be clear to a person ordinary skilled in the art that it is
+essential
+to connect the receive and transmit opto-couplers "in series" to work the invention. Indeed, during his testimony, Brandt suggested that a "parallel connection" would work as well.
+D.
+Apparatus claims
+[46]
+The invention for which exclusivity is claimed by the '670 patent relates to a telephone line coupler circuit. The claimed purpose of this circuit is "for connecting telephone subscriber equipment to a telephone line". Claims 1, 2, 3 and 4 of the '670 patent are independent claims, while claims 5 and 6 are dependent claims.
+[47]
+Each patented circuit is comprised of a number of physical components carrying on specific functions and connected together in a particular manner, as the case may be. The elements in claims 1 and 2 are virtually identical, except that claim 1 refers simply to an "AC signal receive means" while claim 2 refers to both an "AC communications signal receive means" and an "AC ring signal detect means", wherein those two elements share "a common receive opto-coupler device". This particular feature is not found in claim 1 who is certainly broader than claim 2.
+[48]
+For convenience, using the patent language, the Court states below the
+common
+elements of claims 1 and 2 of the '670 patent, as they stood before the filing of the disclaimers:
+(a) ring and tip connector means for connecting to telephone line ring and tip contacts and providing ring and tip signal outputs;
+(b) a high impedance DC load and a gated line switch connected in series between said ring and tip signal outputs for controllably conducting an "off-hook" current between said ring and tip signal outputs;
+(c) a transmit opto-coupler means having a transmit signal input and output;
+(d) means for connecting said transmit signal output to said tip output and to a gate input of said gated line switch;
+(e) means for controllably providing a low level DC bias signal to said transmit signal input and generating sufficient current on said transmit signal output to substantially saturate said gated line switch and seize said telephone line;
+(g) means for providing an outgoing AC signal to said transmit signal input.
+[49]
+Having considered the expert evidence and the parties' admissions or representations on the subject, the Court finds that all the elements of the circuits mentioned in claims 1 and 2 of the '670 patent, prior to the filing of the disclaimers, are
+essential
+.
+[50]
+The disclaimer of the '670 patent states that the patentee disclaims
+the entirety
+of claims 1, 2, 3 and 4,
+with the exception
+of a telephone line coupler circuit claimed in same, "wherein said signal receive means comprises a receive opto-coupler connected in series with said transmit opto-coupler means on a telephone line side to draw a minimum of current to place a light-emitting diode of said receive opto-coupler in an operational range." As a limitation purportedly introduced to the original claims, which are said by the patentee to be "too broad", this additional element must also be considered "essential".
+[51]
+Claims 3 and 4 of the '670 patent are not alleged to be infringed anymore. However, because these two claims are affected by the disclaimer whose validity is in issue, the Court finds it necessary to refer to them. The circuit claimed by claim 3 includes some essential elements mentioned in claim 2, but has an additional feature, the "AC communications signal means" and the "AC ring detect means" which both share a "common receive opto-coupler device" and a "common band pass filter". The circuit claimed by claim 4 has some essential elements mentioned in claims 1 or 2, except that the common band pass filter circuit operates in a different fashion.
+[52]
+Claim 5 of the '670 patent, which is dependent on claim 1, provides that the "ring and tip connector means" comprise a "diode bridge". Since the latter is the only additional element of the circuit claimed in claim 5, it must be essential. Claim 6, which is dependent on claims 2, 3 or 4, provides that the "ring and tip connector means" comprise a "diode bridge", while the "AC ring signal detect means" is being connected to the "ring and tip signal outputs" before the "diode bridge". Again, for the purpose of claim 6, the latter connection must be an essential element of the circuit claimed in claim 6.
+E.
+Method claims
+[53]
+The invention for which exclusivity is claimed by the '148 patent relates to a method for isolating and connecting subscriber equipment to a telephone line. Claim 1 is an independent claim relating to a method of isolating and connecting a transmit signal generated by subscriber electronic equipment to a telephone line. Claim 2, also an independent claim, relates to a method of isolating and connecting a ring signal and a communications receive signal on a telephone line to subscriber electronic equipment. Claim 3 is a dependent claim; it refers to the method as claimed in claim 2, "wherein said steps of detecting comprise using different filtering characteristics on said output of the receive opto-coupler depending on the on-hook/off-hook state".
+[54]
+Having considered the expert evidence and the parties' admissions or representations, the Court finds that the following elements of claim 1, as it stood before the filing of the disclaimer, are essential:
+(a) providing a transmit opto-coupler;
+(b) adding a DC bias to the electronic equipment transmit signal coming from the electronic equipment to obtain a combined signal and feeding the combined signal to the transmit opto-coupler, said DC bias being sufficient to generate a low level DC output on a line side of said transmit opto-coupler;
+(c) using said low level DC output to trigger a line seize circuit connected to said telephone line to draw a minimum current required by a central office to seize the telephone line; and
+(d) transmitting an isolated copy of said transmit signal output from said transmit opto-coupler on said telephone line.
+[55]
+The Court also finds that the following elements of claim 2, as it stood before the filing of the disclaimer, are essential:
+(a) providing a receive opto-coupler;
+(b) connecting said receive opto-coupler using first circuit elements to the telephone line to detect and isolate an incoming AC communications signal;
+(c) connecting said receive opto-coupler using second circuit elements to the telephone line to detect and isolate a ring signal;
+(d) detecting the ring signal at an output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in an on-hook state; and
+(e) detecting the incoming AC communications signal at the output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in an off-hook state.
+[56]
+The disclaimer of the '148 patent disclaims
+the entirety
+of claims 1 and 2,
+with the exception
+of a method of isolating and connecting a transmit signal generated by subscriber electronic equipment to a telephone line (as claimed in claim 1) or a ring signal and communications receive signal (as claimed in claim 2),
+further comprising
+a step of providing a receive (or transmit) opto-coupler and connecting said transmit opto-coupler and said receive opto-coupler together "in series" on a telephone line side to draw "a minimum of current" to place a light-emitting diode of said receive opto-coupler in an "operational range". As a limitation purportedly introduced to the original claims, which are said to be "too broad", this additional element must also be considered "essential".
+F.
+Particular terms and expressions used in the original claims
+[57]
+The embodiments of the invention in which an exclusive property or privilege is claimed by the patentee have been set out above. Particular technical terms and expressions used in the original claims need to be construed by the Court in view notably of the differing views taken at trial by the parties' experts. The Court's findings are set out below. The interpretation of the purported limitation (i.e. "minimum of current") added by the disclaimers will follow (see subsection G below).
+-
+Means
+[58]
+The word "means" is used several times in the claims. This suggests to the person skilled in the art that non specified devices are needed to perform the particular functions asserted above. While Brandt is of the opinion that the presence of the additional word "means" with respect to "transmit opto-couplers means" has no particular effect, the purposive construction suggests otherwise. It must include any device that has the functionality described in the claims. While "AC signal receive means" may include in the preferred embodiment receive opto-coupler 16 that provide an AC signal path from the line side to be received at the subscriber side, it can also include any other device(s) that will perform the same function. For example, in Mascia, a transformer is used in place of a pair of opto-couplers for relaying the received and transmitted AC signals from the telephone line coupler to the modem. The exclusivity which is claimed by the patentee for "means" not otherwise disclosed in the specification in turn raises the question whether the inventor has made his specification "too broad". However, the Court does not need to specifically address this issue in view of the
+general admission
+made in the disclaimers that the specification in the patents in suit is "too broad".
+-
+High impedance DC load
+[59]
+The term "high impedance DC load" is found or implied in all relevant claims of the '670 patent. This term is not defined explicitly in the specification but reference is made to a DC line seize load (reference 14 in Figure 1 of the '670 patent) which works together with the line seize switch in order to draw a minimum of current in order for the central office equipment to consider the line to be in use. The DC load is the circuit that goes through the gated line switch and so it fits into the description of Figure 1 of the patent which shows the DC load. Further, the claims specify that this is a "high impedance DC load". Kabal testified that the combination of the terms "impedance" and "DC" is at odds: for direct current (DC) considerations, only resistance matters, while impedance is a more general term (which is usually used in conjunction with AC signals). While Brandt makes no reference in his report to AC current in his construction of the expression "high impedance DC load", he nevertheless indicates that its function is to provide a voltage across the gated line switch to permit current flow through it when a signal is received from the transmit opto-coupler. In the Court's opinion, a person skilled in the art would interpret the expression "high impedance DC load" to mean simply a DC load having high impedance (i.e. high resistance to AC current). In the context of the relevant claims of the '670 patent, the "high impedance DC load" and "the gated line switch" are connected "in series".
+-
+Gated Line Switch
+[60]
+The term "gated line switch" is found or implied in all relevant claims of the '670 patent. It is not defined explicitly in the specification but reference is made to a line seize switch 15 which is saturated in order to seize the line. The line seize switch in modern equipment would be electronic (as opposed to mechanical) and would include a transistor driven to saturation or the like. The Court also finds that a person skilled in the art would recognize that the "gated line switch" can be the
+outer transistor
+of a "Darlington". According to the expert evidence, a pair of Darlington transistors shares a common collector and the emitter of the first transistor is connected to the base of the second, such that they form a single three-terminal device. This particular arrangement permits a "multiplying effect". It has a very high current gain, that is the current going into the base is amplified by the current gain, and results in a larger current between the collector and the emitter. None of this is taught by the patent itself, but a person skilled in the art would have general knowledge of the characteristics of a Darlington.
+-
+Connected in series
+[61]
+The expression "connected in series" already appeared in the specification and some of the claims prior to the disclaimers with respect to the DC load and the gated line switch. However, it was later added to the claims in suit by the disclaimers in relation to the opto-couplers. There is no explicit definition given in the specification for "connected in series" but it can refer to a single path for current flow through the circuit in question, as opposed to a "parallel connection" where there are many paths for current flow but only one voltage across all the components connected between the same set of electrically common points. That said, Kabal considers that the expression "connected in series" includes a "head to tail" connection. In other words, if two devices have a head and a tail, the connection between them is for the tail of one to be connected to the head of the other. This can be the ordinary meaning of "series" in the context of the patents in suit and other prior art, and the Court finds so.
+[62]
+As recognized by MacEachern, "there is definitely a relaxed interpretation of series connection in this patent". In Figure 1 of the patents in suit, the DC load and the line seize switch are both connected between one set of electronically common points. Technically speaking, this total arrangement makes it impossible to speak of a "series connection" (as characterized in the specification) from a "circuit analysis viewpoint" because of the current coming also from the line match (see for example Exhibit P-240). It is only if the connection between the DC load and the gated line switch is looked at from the "gated functionality" that one can speak of a "series connection" Otherwise, it would have been more appropriate to refer to a "series-parallel" connection. That said, all three experts agree on the fact that in Figure 1 (which is the preferred embodiment), the receive opto-coupler 16 and the transmit opto-coupler 20 are
+truly
+connected "in series" as there is only one path for the current to flow. Therefore, the current is constant.
+[63]
+Brandt and Kabal are proposing a broader "functional" definition of a connection in series. MacEachern has been the only expert advocating a narrower more "technical" definition. While a narrower definition is closer in line with text books dealing with analog circuitry where two terminals devices will be used instead of three (as in a Darlington transistor), the Court finds that it is not the reading a person skilled in the art would adopt in reading the patents in suit as well as in certain prior art applications. For instance, transistors which are used for the DC load and the gated line switch comprise three-terminal devices rather than two-terminal devices. When you stack them up, it becomes difficult to apply a very narrow definition of "in series". On the other hand, the definition of "connected in series" adopted by Kabal and Brandt does not require that one limit oneself to verbal contortions such as "the small amount that is caused by the leakage or, a 50 to 1 gain". All the current from the upper device should pass through the lower device, allowing additional current to go through the lower device. The Court has accordingly adopted Kabal's and Brandt's views.
+-
+A low level DC bias signal
+[64]
+The term "low level" is not defined but it qualifies the level of the signal generated by the DC bias source 22 on the subscriber side in order for "the transmit opto-coupler 20 to output a base DC level which saturates the line seize switch 15 to provide the minimum required DC current through load 14 to seize the line" (see '670 patent, page 5, lines 28-31). The Court accepts that the term "a low level DC bias signal" serves two purposes: (1) it must be sufficient to generate sufficient current on the transmit signal output to saturate the gated line switch in order to seize the line; and (2) it must be sufficient to provide for correct transmission of the communications signals from the transmit signal amplifier.
+-
+First and second circuit elements
+[65]
+The expressions "first circuit elements ... to detect and isolate an incoming AC communications signal" and "second circuit elements ... to detect and isolate a ring signal" are found in claim 2 of the '148 patent. No explicit definition is provided in the specification but referring to the description, the Court notes that the receive opto-coupler is attached to the line via both (1) a diode bridge and line seize circuit and (2) a ring signal filter. Elements of the ring signal filter are selected such that the ring signal can pass through the filter thereby causing current to flow through the receive opto-coupler. These two components appear to be the "first"and "second" circuit elements referred to in the claims. However, the Court does not share MacEachern's view that there cannot be any shared components between the first and second circuit elements. Such restrictive interpretation goes against practical considerations which favours a functional analysis of the components participating in the method described in claim 2 of the '148 patent. In final analysis, the Court finds that a person skilled in the art is likely to understand that the first circuit elements are there for the incoming AC communications signal while the second circuit elements are there for the ring signal. It is also implicit in the reference to first and second elements that it is not entirely the same circuit elements that perform both steps, as confirmed by Brandt, but nothing prohibits the sharing of some components between the two, as opined by Kabal.
+G.
+Purported Limitation Added by Disclaimers
+[66]
+All the claims in suit as disclaimed include the phrase "a minimum of current to place a light-emitting diode of said receive opto-coupler in an operational range". Though not present in the claims of the original patents (but alluded to in the description of the preferred embodiment in the disclosure portion of the patents in suit), this phrase was added by disclaimer.
+[67]
+The following disclaimer wording for claim 2 of the '670 patent is typical:
+"... said signal receive means comprises a receive opto-coupler connected in series with said transmit opto-coupler means on a telephone line side to draw
+a minimum of current to place a light-emitting diode of said receive opto-coupler in an operational range
+." (Emphasis added)
+This inventive element did not appear in any of the original claims. It refers to the following passage from the patents in suit: "Since the receive opto-coupler 16 is connected to the transmit opto-coupler 20, a minimum draw of current to place the light-emitting diode of receive opto-coupler 16 in an operational range is achieved."
+[68]
+The defendant submits that the expression "minimum of current" added in the claims in suit, as disclaimed, means "the least possible" and no more, and that a draw of current
+greater
+than the minimum avoids infringement. Accordingly, even if the defendant's circuit in issue shows a "series connection" between the receive opto-coupler and the transmit opto-coupler, the defendant asserts that the products in suit do not draw a minimum of current to place a light-emitting diode in an "operational range". Conversely, the plaintiffs submit that the above expression simply refers to a minimum required amount of DC current to bias the AC signal. Therefore, a greater amount of current falls within the scope of the claims in suit, as disclaimed, provided the light-emitting diode remains in an "operational range". In that sense, the plaintiffs submit that "minimum" means "at least" and not "the least possible". The Court has adopted the latter interpretation.
+[69]
+According to the expert evidence, one limitation of an opto-coupler that must be dealt with in many applications is that the LED input side of the opto-coupler is a diode, that is an electrical device which allows current to flow only in one direction. Therefore, in order for the current to flow through the LED, the potential or voltage at one input must be greater than the potential or voltage at the other input. There is also a limitation as to the maximum current before the opto-coupler output saturates. Beyond that point, the output signal will no longer increase with increasing input current. These limits define the normal "operational range" of the opto-coupler. The Court finds that a person skilled in the art, as opined by Brandt, would readily understand that the key requirement - implicit in the term "a minimum of current" - is that there be sufficient current passing through the light-emitting diode of the receive opto-coupler to make it "operational". The light-emitting diode must be forward biased if one wishes to faithfully transmit a signal which comprises both positive and negative amplitudes. Moreover, the skilled person would also readily recognize that having more than the minimum amount of DC current to be added to the signal to be transmitted in order to correctly bias the light-emitting diode of the receive opto-coupler would not affect the working of the opto-coupler, provided the current in question were not so much as to exceed the maximum operating range of the light-emitting diode.
+[70]
+The Court also notes that Kabal has acknowledged that "one would wish to design the device such that it operates in the linear range, as this would provide the most faithful reproduction of signals", and that, typically, the middle of the operational range would be favoured by the person skilled in the art. According to the evidence, the lowest current necessary places a light-emitting diode of the receive opto-coupler in an operational range depends on the strength of the signal transmitted from the equipment side of the transmit opto-coupler. However, this strength is entirely within the control of the manufacturer of the device. The Court finds that the defendant's interpretation would incidentally have the unreasonable result of claims that could easily be avoided.
+[71]
+It should also be noted that the patents in suit also use the word "minimum" in another context with regard to the current from the DC load to the line seize switch:
+"When the line seize signal 23 is energized, the DC bias voltage from 22 causes the transmit opto-coupler to output a base DC level which saturates the line seize switch 15 to provide the
+minimum
+required DC current through the load 14 to seize the line.
+The DC bias level is chosen to provide a sufficient output to saturate line seize switch even when the AC component from transmit amplifier 24 is superimposed
+." (Emphasis added)
+The last sentence in the quoted passage indicates to the skilled reader what is meant by the word "minimum" in this context: it means "sufficient". Nothing in the remainder of the patents in suit suggests that the word "minimum" is intended to mean anything else in any other context.
+[72]
+In final analysis, in the Court's opinion, it is inconceivable that a skilled person reading the '670 and '148 patents would understand that the claims in suit are limited to a circuit in which the current drawn by the receive opto-coupler is
+exactly
+that required to place the light-emitting diode in an operational range, no more and no less. Rather, it is a
+range
+of current at any level within the operational range of the light-emitting diode.
+VII. DISCLAIMERS
+[73]
+The defendant has submitted that the disclaimers are invalid and that the patents in suit cannot subsist, which is denied by the plaintiffs. A chronology of the relevant events has already been provided earlier (section IV).
+A.
+Applicable law and principles
+[74]
+Disclaimer is a mechanism whereby a patentee may amend a patent to claim less than that which was claimed in the original patent. It is used where the patentee has, "by any mistake, accident or inadvertence, and without any wilful intent to defraud or mislead the public", made a specification "too broad", claiming more than the inventor invented or subject matter to which the patentee had no lawful right: subsection 48(1) of the
+Patent
+Act
+. It is recognized that "the act of disclaimer is an act of renunciation of subject matter. It is an admission against interest; an admission that the subject matter of the disclaimer is not the proper subject matter of a patent but is open and free to the public generally" (R.G. McClenahan,
+Thoughts on Reissue and Disclaimer
+, 7 C.P.R.(2d) 251 (
+McClenahan
+). However, it is not necessary to disclaim whole claims and a "disclaim of such parts" of an invention may be validly done by narrowing the scope of one or more claims (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 118 (F.C.A.)). The Court also accepts that a disclaimer may be based on newly discovered art, showing that a narrower area should have been claimed. So long as the original claim is framed with care and in good faith and with the intention to comply with all legal requirements, it appears that a "mistake" in the scope of the claim due to newly discovered prior art can qualify the claim for disclaim (Richard J. Parr,
+Disclaimers  <FRAGMENT_SUPPRESSED> 
+, vol. 41, series 7 P.T.I.C. Bull at 756).
+[75]
+A disclaimer shall be filed in the prescribed form and manner: subsection 48(2) of the
+Patent
+Act
+. It must follow the form and instructions for its completion as set out in Form 2 of Schedule 1 of the
+Patent Rules
+, SOR/96-423 to the extent applicable: section 44 of the
+Patent Rules
+. In completing Form 2, the patentee must follow the precise form of items 3(1) or 3(2), which specify the subject matter disclaimed. Either the patentee disclaims: 1) "the entirety of [the] claim", item 3(1), or, 2) "the entirety of [the] claim
+with the exception
+of the following [elements of the claim] ", item 3(2). (Emphasis added). As appears from the language dictated by Form 2, the disclaimer is essentially a negative allegation. The expression "...
+with the exception
+of the following" used in item 3(2) of Form 2 indicates elements of the claim remaining after the disclaimer, and is not to be used as a device for reformulating or redefining the invention disclosed and claimed: Manual of Patent Office Practice (MOPOP), paragraph 23.01.01;
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) at 176-177, revd. (1976), 13 N.R. 56; 28 C.P.R.(2d) 118 (F.C.A.).
+[76]
+Although the Court could not find any Canadian case directly on point, the Court wishes to stress that in its opinion, section 48 of the
+Patent
+Act
+does not contemplate the introduction of a new undisclosed "inventive" idea by way of a disclaimer. In this regard, plaintiffs' counsel conceded that a disclaimer cannot be used to "broaden" the claims of a patent or to "recast" the invention. That said, the British practice of amendment of the specification, which is referred to by Fox in the work mentioned below, bears some similarity to the Canadian practice of disclaimer, and the following notes on British practice may be found useful on the question of disclaimer. In this regard, it is accepted that a claim cannot be extended by amendment nor can a disclaimer be used to add new elements to a claim. Moreover, a vague general claim cannot be altered by disclaimer to a more specific and definite claim thus making the invention capable of reaching that degree of inventiveness that results in subject matter. If a claim is for a combination, a disclaimer cannot operate to eliminate one element of the combination as would be, in effect, claiming an entirely different invention in like measure as would be the case if the combination were enlarged by the addition of a further element. Whether an amended specification claims an invention substantially larger or different from that originally claimed is a question of fact to be decided in each case. Finally, the Court agrees that section 48 of the
+Patent
+Act
+is useful only in a "procedural sense by way of convenience". Likewise, it is not a substitute to the reissue mechanism provided in section 47 of the
+Patent
+Act
+whereby a defective patent can be corrected upon the surrender of same. See H.G. Fox,
+The Canadian Law and practice related to letters patent for inventions
+, 4th Ed., (Toronto: Carswell, 1969), at pages 344, 345 and 347, and English cases referred by the author, which are helpful by analogy, notably
+ <FRAGMENT_SUPPRESSED>  revd. [1962] R.P.C. 55 (H.L.).
+[77]
+The Court also notes that the scheme of the
+Patent
+Act
+creates a distinction between reissue and disclaimer. Reissue is for amending the claims to broaden or lessen their scope; a new bargain is sought by the patentee as the patent must be surrendered in this case. It is not surprising that a four year limitation be imposed, in order to preserve the integrity of the public notice function of patents. Disclaimers, on the other hand, are unilateral; no new bargain is requested by the patentee; he or she is giving up something already claimed and granted. In the case of a disclaimer, it is therefore entirely consistent that there be no deadline for unilaterally giving back to the public a portion of the patentee's monopoly (
+McClenahan
+, at page 260; George H. Riches,
+Re-Issue and Disclaimers
+(1950), 11 C.P.R. (Sec. I) 37, at page 46 (
+Riches
+);
+ <FRAGMENT_SUPPRESSED>  at page 88, affirmed (2008), 371 N.R. 377; 66 C.P.R.(4th) 1; 2008 FCA 4 (
+Richards Packaging
+)).
+[78]
+An obligation arises on those seeking to gain a patent to act in good faith when dealing with the Patent Office as there is ample opportunity afforded during the prosecution to make further disclosure. Therefore, while there is no statutory deadline for filing a disclaimer, the public disclosure function of patents and the general duty of good faith nevertheless require that a patentee file a disclaimer against an issued patent promptly and diligently when he or she becomes aware of a mistake, accident or inadvertence. This simply stands to reason. See
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 81, at paragraph 73, rev'd on other grounds by [2008] 1 F.C.R. 529; 361 N.R. 290; [2007] F.C.J. No. 625; 2007 FCA 173. Indeed, where a patentee delays a long time after he has become aware of the condition existing as specified in subsection 50(1) (now subsection 48(1)) and then files a disclaimer shortly before bringing action for infringement, this cast serious doubts on the good faith of the patentee and the validity of the disclaimer (see
+Riches
+, above). As recently stated by this Court, "a claim which is overly broad in a patent that has not yet been adjudged to be invalid may be saved from a finding of invalidity by a Court if a disclaimer is filed
+but only if filed in a timely way
+" (Emphasis added) (
+ <FRAGMENT_SUPPRESSED> (
+Bristol-Myers Squibb Canada
+)).
+[79]
+Finally, when the validity of a disclaimer is contested, the onus of showing that there was "mistake, accident or inadvertence" is on the patentee, and the propriety or validity of such disclaimer may be reviewed by the Court if the patent is litigated. Moreover, according to the case law, the validity of the disclaimer depends on the "state of mind" of the patentee at the time he made his specification. The patentee must be able to demonstrate to the Court that the disclaimer is made in good faith and not for an improper purpose. Where the patentee does not discharge this burden, the disclaimer will be held to be invalid. The fact that the Patent Office had accepted a disclaimer is not determinative.  <FRAGMENT_SUPPRESSED> ; 2 C.P.R. 89 (Ont. C.A.), rev'd on other grounds [1943] 4 D.L.R. 577; 3 C.P.R. 1 (S.C.C.).
+B.
+Disclaimers not in the prescribed form
+[80]
+The Court finds that the patentee has not respected the requirements of items 3(1) of 3(2) of Form 2. In each disclaimer, the patentee states that he disclaims "
+the entirety of the specified claims, with the exception
+" of the "telephone line coupler circuit" ('670 patent) or of the "method" ('148 patent) "as claimed" by the patentee. In other words, the patentee disclaims the entirety of the specified claim but goes on to reassert its entirety (since each claim already claims a "telephone line coupler circuit" or a "method"). As required by the
+Patents Rules
+, the patentee does not specify in the disclaimers which
+existing
+element(s) of the telephone line coupler circuit or method, as claimed, is (are) too broad and must accordingly be disclaimed.
+C.
+New inventive elements added to the original claims
+[81]
+The Court finds that by filing the disclaimers, Paradox has
+substantially
+amended the original claims. In the original claims, there was no connection whatsoever between the receive opto-coupler and the transmit opto-coupler claimed by the patentee. The incorporation of a "series connection" and other new elements added by the disclaimer results in claiming a new and different combination, rather than limiting a combination already claimed. This is not permissible under section 48 of the
+Patent
+Act
+.
+[82]
+The additional inventive elements are: (1) a receive opto-coupler (2) connected (3) in series (4) with the transmit opto-coupler (means) (5) on the line side (6) to draw a minimum of current (7) to place a light-emitting diode (8) of the receive opto-coupler (9) in an operational range. The Court notes that these newly added elements are considered by the inventor himself as being (1) inventive elements and (2) resulting in new combinations:
+"8. I believe the original U.S. Patent No. 5,751,803 to be partly inoperative or invalid by reason that I claimed less than I had the right to claim in said patent and that features necessary for the invention to work in the preferred way were not included in the claims. In particular, I believe that I am entitled to patent protection on the method according to the invention and
+that I did not claim all of the combinations of inventive elements that I am entitled to claim
+. (Exhibit J-29, paragraph 8) [emphasis added]
+[...] I needed to include some claims which combine the different inventive elements. (Exhibit J-29, paragraph 9)
+"13. Claim 8 is an apparatus claim in which it is specified that the transmit and the receive opto-couplers are connected in series and in which the components of the apparatus are more clearly defined. (Exhibit J-29, paragraph 13)
+"More specifically, the feature of having the two opto-couplers in series was not claimed.
+This is an important aspect of the invention
+as it contributes to the proper functioning of the circuit in the reduced format compared to the state of the art. Therefore, the combination of the already claimed elements
+with
+this feature have been claimed in the set of reissue claims. (Exhibit J-32, page 3)" (Emphasis added)
+Indeed, Shpater confirmed at trial that the "in series connection" was one of the new "inventive elements" referred to in his Declaration for a Reissue Application (Pinhas Shapter testimony, November 6, 2008 at 206:4 to 211:3).
+[83]
+While the additional elements introduced by the disclaimers may have the ultimate effect of limiting the monopoly sought by the patentee, they nevertheless introduce new inventive features in the particular combination of elements originally claimed by the patentee as inventive. While the Court considers that such an amendment may be permissible in the context of a reissue application, in view of its substantive character, it is not the type of procedural amendment that can summarily be allowed to the patentee, without any examination by the CIPO, by the simple filing of a disclaimer.
+D.
+Deficiencies in plaintiffs' evidence
+[84]
+The disclaimers are signed by Hershkovitz (albeit by his patent agents, in his name). In his testimony, Hershkovitz was unable to indicate what was the actual "mistake, accident or inadvertence" that actually led the patentee to make the specification "too broad" or to file the disclaimers. In fact, Hershkovitz, who is designated as the "patentee" in the disclaimers, testified that he did not know whether such a mistake, accident or inadvertence even existed. He further asserted that Shpater, the inventor of the '670 and '148 patents, or Anglehart, Paradox's patent agent, would be in a better position to explain the disclaimers.
+[85]
+In his testimony, Shpater remained silent on the issue of "mistake, accident or inadvertence" that resulted in the filing of the disclaimers. Shpater testified that he was not involved in making the decision to amend the claims of the '670 and '148 patents through the filing of disclaimers. As far as he was concerned, prior art brought to his attention in 2000, particularly the Pascom references and the DSC 4000 device were "not relevant", and he said so to Anglehart who asked his opinion in 2000. This makes it very difficult to assert, four years later, that the disclaimers were filed by the patentee because of "newly discovered prior art".
+[86]
+As patent agent, Anglehart cannot testify as to the "state of mind" of Shpater and/or Hershkovitz, as this would constitute impermissible hearsay. Be that as it may, Anglehart had no recollection whatsoever of discussing the disclaimers with Hershkovitz or Shpater. Further, Anglehart testified that neither instructed him to file such disclaimers. Indeed, Anglehart's cross-examination revealed that the filing of the disclaimers was on instructions from plaintiffs' counsel, who did not testify in this case. Such deficiencies in the plaintiffs' testimonial evidence cast serious doubts as to the particular nature of the "mistake, accident or inadvertence", if any, that has led to the filing of the disclaimers.
+[87]
+In their final pleadings, plaintiffs' counsel argued that the "mistake, accident or inadvertence" which led to the filing of the disclaimer concerned the fact that the original claims of the '670 and '148 patents were arguably "not specific as to the nature of the interconnection of the claimed receive opto-coupler and transmit opto-coupler". In view of the Pascom references and the exchanges between the patentee and the USPTO in relation to the U.S. reissue application, plaintiffs' counsel submitted that it was appropriate to enter disclaimers in relation to the '670 and '148 patents limiting the claims thereof to a
+series
+connection of the receive opto-coupler and the transmit opto-coupler (see paragraph 245 of plaintiffs' memorandum of argument). However, counsel did not testify and the Court must exclusively resort to the evidence submitted in this regard by the parties at trial.
+[88]
+Shpater did not consider the DSC 4000 device and the Pascom references relevant. Anglehart's testimony on this key issue was laborious and showed a lack of memory. By way of illustration, the Court notes that in cross-examination, Anglehart did not remember any discussions he might have had with Shpater concerning the addition of "connected in series" but stated: "I did not need this language [the connection in series] in my mind to overcome Passcomm [sic] ... I can't remember the details now, but there were reasons why Passcomm [sic] was not relevant that were clear to me at the time, as to why the claims were distinct" (November 12, 2008 transcript, pages 143 and 144). Accordingly, the Court gives little weight to the explanations provided in his examination in chief respecting the addition of the "series connection" in the independent and dependent claims in the U.S. reissue application, as well as in the disclaimers later filed in Canada.
+[89]
+At this point, the Court notes that in the inventor's fresh Information Disclosure Statement submitted in 2000 in support of the U.S. application for reissue, explicit reference is made by the patentee to the Pascom references. During his testimony, Anglehart suggested that no action was taken in Canada because Paradox wanted then a neutral party, i.e. the U.S. Examiner, to confirm that the references submitted by DSC in its letter of January 14, 2000, were not relevant to the patentability of Paradox's claims. Yet, the U.S. Examiner issued a first office action on January 11, 2002 rejecting all claims of the reissue application on the basis of anticipation and obviousness in light of the Pascom references. Evidently, the U.S. Examiner was considering the Pascom references highly relevant, contrary to Paradox's initial assessment. Despite this fact, the plaintiffs did not communicate the Pascom references to the Canadian Examiner during the prosecution of the '148 patent, and allowed it to mature by paying the final fee on April 8, 2002.
+[90]
+Having considered the plaintiffs' contradictory conduct in the prosecution of the U.S. and Canadian applications, the Court finds that the plaintiffs cannot simply rely on the presumption of good faith. In view of the numerous deficiencies in the plaintiffs' evidence, the Court is unable to find that there has been a bona fide "mistake", and particularly so in the case of the divisional application which led to the issuance of the '148 patent in 2002. The fact remains that after having been made aware of relevant prior art in 2000, Paradox waited almost four years before taking any action with respect to its Canadian patents.
+[91]
+According to the evidence, the disclaimer was chosen by the plaintiffs over reissue in Canada for the purpose of expediting legal action against the defendant. According to the evidence, the disclaimers were triggered by litigation strategy rather than by the need to correct a bona fide mistake, accident or inadvertence. Indeed, at trial, the plaintiffs have continued to assert that the original claims were not anticipated by Pascom or other relevant prior art.
+[92]
+Therefore, the plaintiffs have not met their burden of satisfying the Court that all the requirements of section 48 of the
+Patent
+Act
+are satisfied. Thus, the disclaimers must be held invalid in the circumstances.
+E.
+Non Subsistence of the patents in suit
+[93]
+Subsection 48(4) of the
+Patent
+Act
+states that a disclaimer does not affect a pending action unless there has been unreasonable delay or neglect.That said, a patent shall, after a disclaimer has been filed in the prescribed form and manner, be deemed to be valid for such material and substantial part of the invention, definitely distinguished from other parts therefore claimed without right, as is not disclaimed and is truly the invention of the disclaimant: subsection 48(6) of the
+Patent
+Act
+. The disclaimer is unconditional; the existing claims of the patent are the claims as amended by virtue of the disclaimer, and the only invention protected by the letters patent is that defined in such existing claims: see <FRAGMENT_SUPPRESSED> , above and
+ <FRAGMENT_SUPPRESSED>  (P.C.) at 289.
+[94]
+Section 48 of the
+Patent
+Act
+sets forth requirements for a valid disclaimer, but is silent on the consequences of filing an invalid disclaimer. Logically, "one returns to the original claims" (
+Bristol-Myers Squibb Canada
+, at paragraph 59). It also follows that, as a learned author has written, "the original patent will wear the confessed defects like a scarlet letter." (D. Vaver,
+Intellectual Property Law
+, Concord: Irwin, 1997 at 144). In such circumstances, a patent which claims more than what was invented or disclosed can be found to be invalid for being overly broad (
+ <FRAGMENT_SUPPRESSED> ).
+[95]
+Pursuant to subsection 43(2) of the
+Patent
+Act
+, a patent is presumed to be valid in the absence of evidence to the contrary. However, in the case at bar, the patentee has made a general admission against his interest that the specification in the original patents is "too broad". Thus, in the Court's opinion, despite the fact that the requirements of section 48 of the
+Patent
+Act
+have not been satisfied, Hershovitz has signed a document which clearly and unequivocally says that the patentee made claims 1, 2, 3 and 4 of the '670 patent and claims 1 and 2 of the '148 patent "too broad, claiming more than which the patentee or the persons through whom the patentee claims was the inventor".
+[96]
+Litigation tactics simply cannot allow the plaintiffs to now resile from those public and binding statements (
+Bristol-Myers Squibb Canada
+, at paragraph 47). It is not the Court's function to now re-determine which part, if any of the specification, is too broad. This suffices to simply declare that all the disclaimed claims of the patents in suit, as they stood prior to the disclaimers (which are held to be invalid), are invalid. In view of this admission, it also follows that claims 5 and 6 of the '670 patent and claim 3 of the '148 patent, who are dependent claims, are also invalid. On that ground alone, the counterclaim must be allowed. In any event, the Court also finds below that the claims in suit, as disclaimed or prior to the disclaimers, are invalid because they are anticipated, obvious and/or unpatentable aggregation.
+VIII. ANTICIPATION
+A.
+Applicable Law and Principles
+[97]
+Anticipation, or lack of novelty, asserts that the subject matter defined by a claim in an application for patent in Canada is not new because it has been made known to the public prior to the applicable reference date mentioned at subsection 28.2(1) of the
+Patent
+Act
+. Anticipation is a question of fact and is tested independently for each claim in relationship to each individual piece of relevant prior art.
+[98]
+With respect to anticipation, the Supreme Court of Canada refined the test for anticipation by separating the enablement component from the disclosure component, and has endorsed recent United Kingdom jurisprudence on the subject:
+ <FRAGMENT_SUPPRESSED>  at paras. 23 to 37 ( <FRAGMENT_SUPPRESSED> ). Enablement, which follows the disclosure analysis, is to be assessed having regard to the prior patent as a whole including the specification and the claims.
+[99]
+The Supreme Court makes it very clear in <FRAGMENT_SUPPRESSED> that the disclosure part of the test must be satisfied first, in order to then address the second enablement part. That said, once the subject matter of the invention is disclosed by prior art, at the second stage, the person skilled in the art is assumed to be willing to make trial and error experiments to get it to work. The skilled person may use his or her common general knowledge to supplement information contained in the prior patent. Nevertheless, if undue burden or inventive steps are required at the enablement stage, there is no anticipation. However, obvious errors or omissions in the prior patent will not prevent enablement if reasonable skill and knowledge in the art could readily correct the error or find what was omitted ( <FRAGMENT_SUPPRESSED> , above at paras. 25, 37 and 42).
+[100]
+The Court is also mindful of the fact that in <FRAGMENT_SUPPRESSED> , at paragraph 23, the Supreme Court found that the applications judge had overstated the stringency of the test for anticipation in that the "exact invention" had already been made and publicly disclosed. In the 2005 decision of the House of Lords in
+ <FRAGMENT_SUPPRESSED>  endorsed by the Supreme Court, it is explained that the requirement of prior disclosure is satisfied if the prior patent discloses subject matter which, if performed, would necessarily result in infringement of that patent. At this point, the Court notes that the plaintiffs have taken a very broad approach to claim construction for the purpose of infringement and a much narrower one for the purpose of validity analysis. Such dichotomy must not be allowed. Purposive construction applies both to the patents in suit and prior art cited in patent applications.
+B.
+DSC 4000
+[101]
+In light of DSC 4000, which discloses a dialer phone line interface for use with an alarm system, the defendant submits that claims 1 and 5 of the '670 patent and claim 1 of the '148 patent, (prior to the disclaimer or as disclaimed) are anticipated. The interface to the phone line has a two opto-coupler design, one receive (U5) and one hook switch/transmitter (U6). The diagram for the DSC 4000 shows:
+[Diagram omitted - see printed version]
+[102]
+The evidence adduced by the defendant at trial clearly establishes that in the mid-eighties, DSC marketed and sold in Canada and elsewhere a telephone line coupler already using a reduced number of opto-couplers, that is the DSC 4000. At trial, the defendant called John Peterson to establish sales of the DSC 4000 device (and explain events surrounding the development of the products in suit). The DSC 4000 four-zone dialer was the first communication product designed by DSC in December 6, 1985 and became available sometime in 1986. It can perform all telephone line functions, except ring signal detect (which is not an application required in the case of an alarm system interface) as appears from the circuit design of the DSC 4000 device (Exhibit P-206).
+[103]
+The Court finds that claim 1 of the '670 patent is anticipated by the DSC 4000 as it discloses a telephone line coupler circuit comprising a ring and tip connector means (TB1), a high impedance DC load (R20, R25, R26 and TR6) and a gated line switch (the outer transistor of the Darlington device in transmit opto-coupler U6 connected in series for controllably conducting an off-hook current, a transmit opto-coupler (U6), a means for connecting the transmit signal output to the tip output (the internal resistor of the Darlington device and pin 4 of U6) and to a gate input of the gated line switch (the internal connection between the photo transistor and the outer transistor of the Darlington device), a means for controllably biasing a low level DC bias signal and generating sufficient current to substantially saturate the gated line switch and seize the telephone line (P27 of U1 via R23, TR4 and LED), means for providing an outgoing AC signal to the transmit signal input (P25, P35 of U1 via amplifier U4b and C13) and an AC signal receive means (U5).
+[104]
+Claim 1 of the '670 patent, as disclaimed, is also anticipated by the DSC 4000, as there is a receive opto-coupler (U5) connected in series (pin 2 of U5 is connected to pin 5 to U6) to a transmit opto-coupler (U6) to draw current to place a light-emitting diode of the receive opto-coupler in an operational range (output of U6 turns off and on current flow in U5).
+[105]
+In the Court's opinion, in view of the evidence, disclosure and enablement are satisfied in both cases. The Court will nevertheless make a few additional comments with respect to the plaintiffs' expert opinion. MacEachern identified three ways in which the DSC 4000 does not anticipate claim 1 of the '670 patent prior to the disclaimer: 1) there is no saturated gated line switch; 2) the bias control of the LED is set mainly by resistor R21; and 3) there is no series connection between the gated line switch and the high impedance DC load. Finally, if one considers claim 1, as disclaimed, there is no series connection between the receive opto-coupler and the transmit opto-coupler. The Court dismisses MacEachern's objections. From the point of view of a person skilled in the art, the outer transistor of the Darlington device in transmit opto-coupler U6 can constitute the gated line switch. As pointed by Brandt, the outer transistor of a Darlington pair never saturates "theoretically" as the base-emitter junction cannot be reversed. However, the Darlington device achieves saturation in practice by allowing current to flow unimpeded. This would be already known to a person skilled in the art who would be enabled to make the inventory claimed in claim 1 of the '670 patent from the DSC 4000 device. MacEachern also concluded that the DSC 4000, which relies primarily on a resistor R21 on the line side to set the level of the biasing current, does not anticipate as the '670 patent "teaches a different biasing arrangement". However, no limitation as to the type of biasing arrangement is to be found in claim 1 of the '670 patent as disclaimed. Moreover, there is obviously a series connection between receive opto-coupler U5 and transmit opto-coupler U6.
+[106]
+The Court also finds that claim 5, prior to the disclaimer or as disclaimed, is also anticipated by DSC 4000. Claim 5 has the added feature of a diode bridge. As appears from DSC 4000, the same diode bridge is positioned between ring and tip.
+[107]
+However, the Court dismisses the defendant's allegation that claim 1 of the '148 patent, prior to the disclaimer, is anticipated by the DSC 4000 device. On this particular issue, the plaintiffs' expert evidence is to be preferred to that of the defendant. The '148 patent teaches that a low level DC bias present on the output of the transmit opto-coupler is used to trigger a line seize circuit connected to the telephone line to draw a minimum current required to seize the line. However, in the case of the DSC 4000, a high-current opto-coupler is required for the element identified as U6 (the transmit opto-coupler), which indicates that the DC bias is not at a low level as taught in the '148 patent. It is clear that a high-current handling capability is required for the transmit opto-coupler in the DSC 4000 because the line current flows through the device. The DSC 4000 comprises a two-step procedure for seizing the line, while the '148 patent teaches the method of performing the line seize function in a single step. In the Court's opinion, this evidence does not conclusively establish that claim 1 of the '148 patent, prior to the disclaimer, is anticipated.
+C.
+Brandt
+[108]
+The defendant asserts that claim 1 of the '148 patent, prior or after the disclaimer, is anticipated in light of Brandt, which discloses a device for coupling a telephone network while maintaining isolation. A diagram of the invention is reproduced below:
+[Diagram omitted - see printed version]
+[109]
+The Court finds that claim 1 of the '148 patent prior to the disclaimer is not anticipated by Brandt. MacEachern's expert opinion, which the Court accepts on this issue, is very clear: Brandt simply does not teach that a low level DC output is used "to trigger a line seize circuit". "To trigger" is a transitive verb indicating the initiating of something (i.e. seizing the line). A change of state is implied. The Brandt device cannot change states in order to trigger a line seize current, as it always seizes the line continuously when powered. Kabal admits this in paragraph 169 of his report, in which he states:
+"Although it is not stated expressly in the text, the coupling device 10 could also be used to move the telephone line between off-hook and on-hook states by switching on and off the power supply 84. Indeed, with the power supply 84 switched off, current would not flow through the light emitting diode 78 which would ultimately result in current being unable to flow between the ends of the telephone line (38, 40)."
+[110]
+As confirmed by Kabal, there is no mechanism either expressly mentioned or implied in Brandt that anticipates a line seize circuit that may be triggered. Kabal's suggestion to remove power from the device does not represent a feasible solution because all functionality of the device is then lost.
+[111]
+For the foregoing reasons, the Brandt patent does not anticipate claim 1 of the '148 patent, prior to the disclaimer or as disclaimed.
+D.
+Pascom
+[112]
+Pascom relates to an apparatus for interfacing communications equipment such as a modem or facsimile machine to a communication network such as a telephone line.
+[113]
+Pascom gives very precise directions on how to make the invention and the figures below are enhanced by the amount of details provided by the inventor (in comparison to Figure 1 of the patents in suit). Reproduced below are Figures 3, 4 and 5, which disclose a telephone line coupler circuit very similar to the one appearing on Figure 1 of the patents in suit:
+[Diagrams omitted - see printed version]
+[114]
+The Court finds that Pascom anticipates claims 1 and 2 of the '670 patent, prior to the disclaimer, as it teaches all of the elements of the claimed invention by providing clear and unmistakable directions to its use. The Court entirely accepts Kabal's report and testimony on Pascom. Disclosure and enablement requirements are both satisfied.
+[115]
+In relation to claim 1 of the '670 patent, prior to the disclaimer, Pascom discloses a telephone line coupler circuit comprising a ring and tip connector means (L1 and L2), a high impedance DC load (Figure 5 and page 17, lines 6 through 13), a gated line switch (Q9), a transmit opto-coupler (U2), a means for connecting the transmit signal output to the tip output and to a gate input of the gated line switch (U2 is connected to the base of Q9 via Q12), a means for controllably biasing a low level DC bias signal and generating sufficient current to substantially saturate the gated line switch and seize the telephone line (D/H signal), means for providing an outgoing AC signal to the transmit signal input (AI pin) and an AC signal receive means (U1).
+[116]
+Claim 2 of the '670 patent, prior to the disclaimer, is also anticipated by Pascom. In addition to the elements of claim 2 (which are the same as those described above in reference to claim 1), Pascom discloses an AC ring signal detect means (Figure 4 and text at page 16, lines 10 through 37). The AC ring signal detect means and the AC communications signal receive means shared the same opto-coupler (U1).
+[117]
+Pascom includes a ring detect means connected in front of the diode bridge and therefore claim 6 of the '670 patent, prior to the disclaimer, is also anticipated by Pascom.
+[118]
+The Court also finds that Claim 1 of the '148 patent, prior to the disclaimer, is anticipated by Pascom. Pascom discloses a method for isolating and connecting a transmit signal generated by subscriber electronic equipment (subscriber side and page 18, lines 17 through 22) to a telephone line (line side and page 18, lines 18 through 20) comprising providing a transmit opto-coupler (U2), adding a DC bias (page 15, lines 9 through 19) to the transmit signal coming from the electronic equipment and feeding the combined signal to the transmit opto-coupler (again page 15, lines 9 through 19), the DC bias being sufficient to generate a low level DC output on a line side of the transmit opto-coupler (page 15, lines 10 through 14), using the low level DC output to trigger a line seize circuit connected to the telephone line to draw a minimum current required by a central office to seize the telephone line (page 2, lines 38 through 39) and transmitting an isolated copy of the transmit signal output from the transmit opto-coupler on the telephone line side (isolation interface).
+[119]
+In coming to the above conclusion, the Court has considered the observations made by MacEachern but prefers Kabal's evidence. Kabal concluded that the output of the transmit opto-coupler triggered the line seize circuit comprising Q9 and other components via the intermediate device Q12, but that notwithstanding this intermediate component, the output of the transmit opto-coupler still triggered the line seize circuit. MacEachern also objected to Pascom as anticipating claim 1 of the '148 patent prior to the disclaimer on the grounds that the seize circuitry in Pascom was different from that as disclosed in the '148 patent and used a two-step trigger sequence. No such limitations appear in claim 1 of the '148 patent. Moreover, the proper test for anticipation is not the disclosure of the "exact invention" ( <FRAGMENT_SUPPRESSED> , para. 237).
+[120]
+The Court also finds that claim 2 of the '148 patent, prior to the disclaimer, is anticipated by Pascom. The latter discloses a method for isolating and connecting a ring signal and a communications receive signal on a telephone line (line side and page 18, lines 18 through 20) to subscriber electronic equipment (subscriber side and page 18, lines 17 through 22) comprising providing a receive opto-coupler (U1), connecting the receive opto-coupler using first circuit elements (Figure 3 and page 15, lines 20 through 29) to a telephone line to detect and isolate an incoming AC communications signal, connecting the receive opto-coupler using second circuit elements (Figure 4 and page 16, lines 11 through 14) to the telephone line to detect and isolate a ring signal, detecting the ring signal at an output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in an on-hook state (page 16, lines 15 through 31), and detecting the incoming AC communications signal at the output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in the off-hook state (page 15, lines 9 through 28).
+[121]
+Finally, the Court notes that MacEachern objected to Pascom as anticipating claim 2 of the '148 patent prior to the disclaimer on the grounds that Q3 was included in both the first circuit elements and the second circuit elements in the same claim and cannot be both. However, in the Court's opinion, such a narrow construction is unwarranted in view of the anticipation test accepted by the Supreme Court in <FRAGMENT_SUPPRESSED> .
+E.
+Toshiba
+[122]
+Toshiba relates to an anti-side tone (near-end echo reduction circuit). As explained by Kabal in his testimony and report, the side tone can interfere with data communications and therefore, its removal is in many cases, warranted. That said, the Court is unable to conclude, as urged by the defendant, that claim 1 ofthe '148 patent, prior to after the disclaimer, is anticipated by Toshiba. Simply put, the Court finds that Toshiba does not disclose "using the low level DC output to trigger a line seize circuit connected to the telephone line to draw a minimum current required by central office to seize the telephone line" as suggested by Kabal in his report. However, the Court accepts Kabal's evidence that Toshiba clearly disclosed a pair of opto-couplers (26 and 27) connected in series on the line side, as well as the expert's conclusion that it was inherent in their design that the configuration is used to place the light-emitting diode of the receive opto-coupler in an operational range which would make claim 1 of the '148 patent obvious.
+F.
+Jefferson
+[123]
+Jefferson relates to an isolation circuit for interfacing a modem or the like with a telephone line. The defendant asserts that claims 1 and 5 of the '670 patent and claim 1 of the '148 patent are anticipated by Jefferson. It has been greeted by the experts heard by the Court as some kind of innovative, artistic, ingenious and elegant piece of design. Considering it dates back to the early eighties, it is possible that the opto-couplers showed in the diagram were handmade at the time. It is a very complex piece of design and several hours were dedicated by each expert witness to its study.
+[124]
+A diagram of this invention is reproduced below:
+[Diagram omitted - see printed version]
+[125]
+The cover page of the U.S. patent that corresponds to the '670 and '148 patents (being U.S. patent no. 5,751,803) shows that the patent examiner who reviewed it knew of the Jefferson patent and was satisfied that even the claims as originally issued were novel and inventive over the Jefferson patent. Those original claims are identical to claims 1 to 4 of the '670 patent. The Canadian patent examiner was made aware of the Jefferson patent during prosecution of the '670 patent by way of the voluntary amendment filed on March 22, 1999 which provided a copy of the U.S. patent and noted the list on the cover thereof of the cited prior art, including the Jefferson patent.
+[126]
+Claim 5 of the '670 patent respecting the addition of a diode bridge to the telephone line coupler mentioned in claim 1 of same is clearly anticipated (or obvious) in light of Jefferson and other patent applications, including the DSC 4000 device.
+[127]
+That said, defendant's expert spent a long time in attempting to fit the complex and unorthodox design of the Jefferson circuit within the tenants of the simple - detractors would say simplistic - design of Figure 1 of the '670 patent (see Exhibit D-254, tab 15 and accompanying DVD). In due respect to the practical experience and goodwill of the defendant's expert, this is an area where this Court has to give little weight to his expert opinion in view of the various changes he made in his initial report and later on in his testimony. While this Court is not ready to accept all that has been stated by MacEachern with respect to Jefferson, there is just too many interpretation issues, unsolved questions and design differences between the two inventions to make it apparent that either claim 1 of the '670 patent, or claim 1 of the '148 patent, when considered separately, are anticipated by Jefferson. In final analysis, Jefferson is directed to solving a completely different problem. "Feed back loop" was a problem in the late 1970s, but it was no longer a problem by the late 1990s. Therefore, a person skilled in the art in 1997 would not have sought instructions from the Jefferson patent to solve the problem of telephone coupler circuits performing an isolation function.
+G.
+Roberts
+[128]
+Roberts claims that "just two optical couplers are used, one for all functions required for transmitting and another for all functions associated with receiving". Roberts claims that the disclosed technique "offers superior and noise isolation as well as reduced distortion of signals and improved matching to a variety of line currents and impedances" (Roberts, at page 14, lines 5 through 12). Thus, the defendant asserts that claims 1 and 2 of the '670 patent, and claim 1 of the '148 patent are anticipated by Roberts. Figure 3 of Roberts, reproduced below, was the object of various interpretations:
+[Diagram omitted - see printed version]
+[129]
+In the Court's opinion, Roberts is problematic both in terms of disclosure and enablement. The confusion which results from the diagrams has contributed to diverging opinion between the experts with respect to the functionality of unspecified components. Indeed, the existence of the "series connection" was only discovered lately by Kabal who provided an addendum to his initial report on November 1, 2008. MacEachern testified that Roberts is an incomplete puzzle and its teachings incomplete. In order to address MacEachern's objections, Kabal filled the numbered boxes of Figure 3 with the appropriate devices. His explanations may have seemed very convincing at the time. This is an instance where the ingenuity of the defendant's expert reached the highest peaks. Unfortunately, in the final analysis, this is not enough to satisfy this Court that the anticipation test has been met here. It remains, in the Court's opinion, that a person skilled in the art would not be able to fully understand and implement Roberts. The Court reiterates that the allegedly anticipatory reference must not be ambiguous as to the manner in which it is to be carried out. Accordingly, the Court dismisses the defendant's allegations that claims 1 and 2 of the '670 patent and claim 1 of the '148 patent are anticipated by Roberts. This is so even if Roberts includes a series connection between the opto-couplers and therefore equally applies to the disclaimers.
+H.
+Agbaje-Anozie
+[130]
+Agbaje-Anozie relates to a telephone line circuit for coupling on-hook signals (such as ring signals) and off-hook signals (such a voice or data communications) between a telephone line and a transmitting and receiving device. This application goes much farther than simply suggesting a general design. The figures reproduced below are a complete cookbook to make the invention:
+[Diagrams omitted - see printed version]
+[131]
+The Court finds that claim 2 of the '148 patent, prior to the disclaimer, is anticipated by Agbaje. The latter discloses a method for isolating and connecting a ring signal and a communications receive signal on a telephone line (title) to subscriber electronic equipment (page 1, line 27 through page 2, line 2) comprising providing a receive opto-coupler (OC1), connecting the receive opto-coupler using first circuit elements (DB1 and 20) to a telephone line to detect and isolate an incoming AC communications signal, connecting the receive opto-coupler using second circuit elements (C1, R1 and page 6, lines 22 through 27) to the telephone line to detect and isolate a ring signal at an output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in an on-hook state (page 6, lines 22 through 27 and page 7, lines 1 through 16), and detecting the incoming AC communications signal at the output of the receive opto-coupler in the subscriber electronic equipment when the subscriber electronic equipment is in the off-hook state (page 7, line 28 through page 8, line 4 and page 8, lines 16 through 36).
+[132]
+Moreover, with respect to "series limitation" added by the disclaimer, Agbaje clearly shows a pair of opto-couplers (OC1, OC2) connected in series (page 9, lines 3 through 11) on a line side to place the light-emitting diode of the receive opto-coupler in an operational range (Vcc together with R5 and R16 bias OC2 on which in turn biases OC1 on).
+[133]
+Finally, the Court notes that MacEachern has taken issue with Agbaje as anticipating claim 2 of the '148 patent on the grounds that the first elements and the second elements shared components. However, as already determined by the Court, no such limitation is expressed in the claims or the supporting text of the '148 patent. The Court must again agree with defendant's view. Disclosure and enablement requirements are clearly satisfied, in the Court's opinion with Agbaje.
+IX. OBVIOUSNESS
+A.
+Applicable law and principles
+[134]
+An invention must not be "obvious" in order to be patented. More particularly, the subject matter defined by a claim in an application for patent must not be obvious on the "claim date" to a person skilled in the art in order to benefit from patent protection (
+Patent
+Act
+, section 28.3). The burden to prove obviousness lies on the attacking party to establish that a claim is obvious on a balance of probabilities. Obviousness is a question of fact, and is tested independently for each claim. If a defendant fails to provide sufficient proof to displace the legal presumption of validity, the Court must hold that a patent is not obvious (
+Whirlpool Corp.
+, above at para. 75).
+[135]
+There is no single factual question or a set of questions that will determine every case of alleged obviousness, or any particular case. In <FRAGMENT_SUPPRESSED> , the Supreme Court indicated that it will be useful in an obviousness inquiry to follow the four-step approach outlined by Oliver, L.J., in
+ <FRAGMENT_SUPPRESSED>  (C.A.). Same has been recently updated by Jacob, L.J., in
+ <FRAGMENT_SUPPRESSED> ; [2007] EWCA Civ. 588, at para. 23. According to this approach, it will be useful to:
+1. (a) identify the notional "person skilled in the art";
+(b) identify the relevant common general knowledge of that person;
+2. identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+3. identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or claim as construed;
+4. viewed without any knowledge of the alleged invention as claimed, do the differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention ( <FRAGMENT_SUPPRESSED> , above at para. 67).
+[136]
+The Supreme Court states in <FRAGMENT_SUPPRESSED> , at paragraph 67, that it is as the fourth step of the above inquiry that the issue of "obvious to try" will arise. In such a case, there are a number of relevant factors that are likely to be considered, such as the existence of a finite number of predictable solutions; the extent, nature and amount of effort required to achieve the invention; the existence of motive to find the solution; the actual course of conduct which culminated in the making of the invention, etc.
+B.
+Findings
+[137]
+In the present case, the Court finds that the notional person skilled in the art, besides the numerous references cited by the experts as prior art, would also have access to such general knowledge as the
+Encyclopedia of Electronic Circuits
+by Rudolph F. Graf (TAB Books, Volume 3, 1991) (Graf), or his own personal experience in the designing of electrical (electronic) circuits, including telephone line couplers (none of which would be configured in the manner shown on Figure 1 of the patents in suit).
+[138]
+Based on the evidence on record, the Court notes that the traditional approach for isolating and connecting the front end of the subscriber's side to the public switched telephone network (PSTN), pre-dating modern electronics, is the use of relays (to seize the line and provide pulse dialing) and transformers (to pass speech and/or dialing tones) to provide this electrical isolation. However, with the advent of opto-couplers, the isolation circuitry can be much more compact (relative to a transformer-based system) and need not rely on electro-mechanical devices (relays). That said, opto-couplers were already known in the art and had been in use several years prior to the time Shpater developed the disclosed invention, around 1994-1995.
+[139]
+The specification in the patents in suit gives very little cue, if none at all, as to the novelty and inventiveness of the claimed invention over prior art, that is to say, the technical problems that had to be addressed by the inventor to come to this particular circuit or method design. There is no figure in the patents in suit showing what a four opto-coupler design looked like in prior art, nor any explicit teaching of the inventive solution proposed by the inventor and/or of the steps necessary to go from a four, to three, and finally, to two opto-couplers design. During his testimony, Brandt attempted to address the differences between a four opto-coupler design and a two opto-coupler design by producing Exhibit P-211. Brandt credited the inventor's ingenuity for removing the ring detect opto-coupler and using the receive opto-coupler to also detect ring signal. However, documentary evidence produced at trial and commented by other expert witnesses clearly demonstrates that Brandt and Shapter's assumptions had been already addressed by relevant prior art, as there were already two opto-coupler circuit performing ring signal detect, telephone line seize, communications signal transmit and communications signal receive.
+[140]
+The obviousness analysis must therefore start with prior art two opto-coupler circuits and an analysis of the differences, if any, between the circuit or method representing the state of prior art and the inventive concept of the claims in suit. There is no need to repeat below the observations already made by the Court with respect to the various elements of the DSC 4000 device (paragraphs 101 to 107), and of Pascom (paragraphs 112 to 121), Toshiba (paragraph 122) and Agbaje-Anozie (paragraphs 130 to 133), which the Court finds also relevant for the purpose of the obviousness analysis.
+[141]
+If one reads the claims in suit prior to the disclaimer in conjunction with the disclosure part of the patents in suit, the existence of a two opto-coupler design with a high impedance DC load (instead of four opto-couplers), and a biasing arrangement coming from the subscriber side (instead of from the line side), are the major claimed improvements and inventive features of the claims in suit prior to the filing of the disclaimers. However, the references above (including the DSC 4000) show that other two opto-coupler circuits with a high impedance DC load and similar biasing arrangements, albeit not identical, had already been disclosed or made available to the public in Canada. Indeed, according to the expert evidence adduced at trial, the technical difficulties raised by Shpater and Brandt (including problems of side tone effects not even mentioned in the patents in suit) had already been solved successfully by other inventors, leaving little room for breakthrough development in the area of telephone line couplers. Based on the evidence on record, the claimed "invention" in the patents in suit is certainly not "disruptive technology" as proclaimed by MacEachern in his oral testimony.
+[142]
+Finally, while presented as innovative and novel, the "series connection", later claimed in the disclaimers, the Court also finds that same would have been pretty obvious at the time of the claim for the notional person skilled in the art having regard to all prior references cited in the anticipation section. For instance, the fact that Pascom already used a "parallel connection" between the two opto-couplers makes it obvious that a "series connection", if tried by a person skilled in the art, may work as well.
+[143]
+The Court finds that claim 1 of the '670 patent, prior to the disclaimers, is obvious on the claim date in view of the DSC 4000 and Pascom either taken alone or together. If not identical, these prior circuit arrangements disclosed in relevant prior art, thoroughly examined by the Court in the anticipation section, would have easily led to any new circuit arrangement taught in the patents in suit, including the biasing arrangement and the use of high impedance DC load which have been claimed as novel and ingenious by the inventor.
+[144]
+The Court also finds that claim 2 of the '670 patent, prior to the disclaimer, is invalid as being obvious on the claim date in view of Pascom. The Court further finds that claim 2 of the '670 patent, as disclaimed, is also obvious in view of the DSC 4000 device and having regard to Graf. The DSC 4000 device was identified as a dialer for an alarm system which did not require a ring detect circuit as it was foreseen for use in an environment where an external telephone was also attached to the same line. According to Kabal's evidence which the Court accepts, if the notional person skilled in the art wished to provide ring detect on the DSC 4000, he or she would first identify to see if there are any components on the existing circuit that could be reused with the idea of minimum components. This is somewhat easier for ring detection as the ring signals do not occur at the same time as the AC communications signals. The notional person skilled in the art would quickly identify the receive opto-coupler as being an obvious component to try. Graf provides a variety of ring detect circuits (volume 3, pages 619 and 620, Annex 20 to Exhibit D-246). The Court finds that the notional person skilled in the art would simply have to apply the teachings of Graf and common general knowledge and interconnect the receive opto-coupler on the tip and ring side of the diode bridge.
+[145]
+The Court also finds that dependent claim 5 is obvious on the claim date. In his testimony, the defendant's expert, Peter Kabal indicated that all devices that need to be independent of polarity require a device such as diode bridge, which is the simplest of these types of devices. Indeed, the inventor himself, Pinhas Shpater, recognized in his testimony that there is actually no need for the diode bridge. The phone line system is a direct dealing system using DC current. The diode bridge will provide the correct polarity on the line side of the telephone coupler circuit in case it is not well connected by the installer. The Court finds that claim 5 of the '670 patent, prior to the disclaimer, is obvious.
+[146]
+Claim 6 of the '670 patent is dependent on claim 2 and comprises the circuit claimed in claim 2 wherein said "ring and tip connector means" comprise a diode bridge, and said "AC ring signal detect means" is being connected to said "ring and tip signal outputs" before said diode bridge. As the resultant combination of the DSC 4000 and Graf included the ring detect being connected on the tip and ring side of the diode bridge, Kabal concluded that claim 6 is invalid as being obvious for the notional person skilled in the art. The Court also shares this view and finds that claim 6, prior to the disclaimer, is obvious on the claim date.
+[147]
+The Court also finds that claim 1 of the '148 patent, prior to the disclaimer, is obvious on the claim date in light of DSC 4000, Toshiba and Pascom, taken either alone or together. More particularly, there is no doubt in view of the evidence discussed in the anticipation section, that the notional person skilled in the art would have been led directly and without any difficulty by Pascom to the method taught in claim 1 of the '148 patent, prior to the disclaimer. Moreover, according to the expert evidence, the difference in the Paradox method using a low level DC output on the line side and in which line current flows through a separate path is "functionally" equivalent to what DSC 4000 teaches, except that it permits the use of less costly opto-couplers, which renders claim 1 obvious.
+X. UNPATENTABLE AGGREGATION
+[148]
+A combination of elements is patentable but a mere aggregation of elements is not. The difference is that in an unpatentable aggregation, the elements do not cooperate and interact to give a novel unified result, whereas in a patentable combination, there is cooperation or interaction of elements so as to yield a novel, unobvious and advantageous result that is more than the sum of what the elements taken individually would generate: see R.H. Barrigar,
+Canadian Patent
+Act
+Annotated
+, 2nd Ed. (Aurora: Canada Law Book, 2008) at  <FRAGMENT_SUPPRESSED>  (F.C.T.D.) at 189-91, affirmed (1978), 24 N.R. 85; 41 C.P.R.(2d) 182 (F.C.A.). That said, the Court dismisses the defendant's allegation that the claims in suit are mere juxtapositions of known parts and that there is no synergy between the parts. Such an assumption is simply not possible in view of the evidence before the Court. Overall, the particular configuration disclosed in Figure 1 of the patents in suit delivers more functionality than a simple sum of certain of its disclosed elements. The inventiveness, if any, of the invention flows from the purportedly novel circuit topology or method disclosed in the patents in suit. According to the evidence, the current flowing through the opto-couplers is controlled by the line-seize signal propagating back through the transmit opto-coupler. This device can trigger a gated line switch thereby invoking a line seize current, while simultaneously biasing the LED in the receive opto-coupler. The claimed invention avoids passing the line seize current through the receive and transmit opto-couplers. This combination shows a synergy between the essential elements of the independent claims of the patents in suit. Whether the independent claims purportedly giving effect to this particular arrangement are obvious or anticipated is a question which needs to be analyzed separately by the Court, but it is certainly not an unpatentable aggregation.
+[149]
+The Court, however, has serious reservations with the validity of the dependent claims of the '670 patent. In the Court's opinion, the additional elements mentioned in same are merely "aggregated" to the disclosed invention. According to the evidence, whether there is a two, three or four opto-coupler design, the band pass filter or the diode bridge will operate exactly in the same manner and independently from the electrical circuitry of the telephone line coupler whose primary object is to provide the needed isolation function between the line side and the subscriber side. In particular, the Court notes that claim 5 of the '670 patent, prior to the disclaimer, is comprised of a single additional element being the diode bridge. The phone line system is a direct dialing system using DC current. The diode bridge will simply provide the correct polarity on the line side of the telephone coupler circuit in case it is not well connected by the installer. This element does not interact with the claimed isolation function performed by the elements mentioned in claim 1 of the '670 patent.
+XI. INFRINGEMENT AND RELATED ISSUES
+[150]
+In view of the conclusions reached above, it would not be necessary to proceed to an analysis of the infringement allegations and related issues. This analysis is nevertheless provided by the Court in the event that these conclusions are overturned in appeal.
+[151]
+The alarm systems sold by the defendant provide a means to initiate a call to the monitoring centre, and when the connection has been established, provide a means to inform the monitoring centre of the "alarm" status. The back end of the subscriber's side of the alarm system uses electronic components, including a central processing unit (programmable computer). The front end of the alarm system is the telephone line interface which is connected to the PSTN. That said, telephone line couplers, or telephone interfaces, make up a very small portion of the alarm control panels manufactured and sold by Tyco and Paradox.
+[152]
+The defendant's alleged infringing products comprise the following model numbers: PC580, PC585, PC5008 (Power 608), PC1555 (Power 632), PC1565, PC4010A, SN4030A, PC4850, PC5005, PC5010 (Power 832), PC5015, PC5020 (Power 864), PC5900, PC6010, Envoy model number NT9005 and the Secutron Dialer (MR2806) (collectively, the products in suit). A portion of the printed circuit boards of the products in suit is fairly represented in the circuit diagram dated February 26, 2004, corrected January 10, 2005, entitled "Schematic Diagram of the DSC PC580 Dialer", which has been produced as Exhibit J-84 (also referred to by the parties as Schedule 5 of the Amended Statement of Claim). However, the defendant states that item 13 is an "AC coupling of the ring signal" and not a "Ring Signal Filter". The similarities between the circuitry of the products in suit and the circuitry used in Paradox's 728 Ultra-Dialer are striking.
+[153]
+Based on the evidence on record (including Exhibit J-84), the Court finds that the defendant's design is directly derived from the Paradox's design. In passing, the Court notes that according to the Pildner and Buccino Reads-ins, DSC is likely to have copied Paradox's two opto-coupler design after its representatives' analysis of an Esprit 747 and/or an Esprit 748 device. Reinhart Pildner, an engineer who worked for DSC from 1985 to 2006, admitted in his out of court testimony that it was upon request from his superior, John Peterson, the then owner and president of DSC, that he designed a control panel with zone doubling. Around 1995-1996, after having seen Paradox's products at a trade show, Peterson was very curious to learn more about Paradox's telephone line interface which was using only two opto-couplers. While Pildner preferred a three opto-coupler design, he designed a panel (apparently the PC580 panel) having two opto-couplers but kept additional space on the board to put a third opto-coupler (see Exhibits D-251 and D-251-1 produced at trial). That said, there are handwritten notes, found in Pildner's office, appearing to be sketches of an Esprit 747 and reference to an Esprit 748 (see Exhibit JB-3, pp. 429-432 of the Read-ins from Joseph Buccino, discovery examination, Exhibit P-245).
+[154]
+Be that as it may, the defendant's assertion of non-infringement is based not on a physical difference between its products and what is described in the '670 and '148 patents, but rather on the assertion that the products in suit draw
+more
+than "[the] minimum current required to place [the] light-emitting diode of [the] receive opto-coupler in an operational range", as required by the language added by the disclaimers to the claims in suit. Having already construed the patents in suit (see section VI, subsection G), the Court agrees with the plaintiffs that the defendant cannot be successful in its defence of non-infringement unless it is successful in convincing the Court that its narrow interpretation of the expression "a minimum of current" is correct from the point of view of a person skilled in the art. Conversely, if the Court's liberal interpretation of the wording added by the disclaimers is wrong, the defendant would be right, in view of the evidence discussed below which the Court accepts, in asserting that there is no infringement of the claims in suit, as disclaimed.
+[155]
+According to defendant's expert evidence, models for all elements in the schematic of the PC580 dialer were entered by Kabal into a circuit analysis program. The program used was Spice, an industry standard. The best linearity is obtained at a current of about 7mA, which corresponds to the middle of the linear range, which is for diode currents from about 0.75mA to about 12.5mA for the long line condition. Kabal determined that the largest received AC communication signal at the tip and ring has a voltage swing of about 0.42 volts peak-to-peak. For accurate reproduction of such a peak-to-peak value, based on his analysis of the defendant's interface as detailed at Annex 11 of his report (D-246), a biasing current of 1.62mA is the minimum current necessary to place the receive opto-coupler in an operational range. At trial, Kabal subsequently amended his calculations to take into account the further attenuation of the AC communication signal when received at communications frequencies, which yielded a lower minimum of 1.12mA. Kabal also noted that for most alarm systems, given the amount of data they need to transmit, they do not need to transmit and receive simultaneously. This is what has been referred to earlier in these reasons as "half-duplex" communications.
+[156]
+During his expert testimony, Kabal invited MacEachern to submit his own calculations in response, which he did. This raised a number of objections by defendant's counsel, which were abandoned during the pleadings. That said, the Court has considered MacEachern's additional evidence on the infringement issue and finds it not conclusive. This is a field of expertise where Kabal and Brandt are better placed than MacEachern to provide an opinion. During cross-examination, plaintiffs' counsel tried to undermine Kabal's credibility, methodology and figures; especially his later figures based on a received AC signal, as opposed to DC. Despite the fact that tests performed on the actual product, rather than a simulation using the Spice model, would have probably produced more precise results, overall, considering the normal conditions under which alarm control panels are subjected, the Court has decided to accept Kabal's calculations, as revised.
+[157]
+The Court has already determined that the word "minimum" added in the claims in suit, as disclaimed, would be construed by a person skilled in the art as referring to a "threshold" and not the "least possible" of current to place the light-emitting diode in an "operational range". Accordingly, a draw of DC current greater than the minimum will infringe the claims in suit, as disclaimed, provided the current in question were not so much as to exceed the maximum operating range of the light-emitting diode. According to the evidence, the biasing current on the LED of the receive opto-coupler is 3.5mA. This is well within the operational range of the LED of the receive opto-coupler, greater than the minimum possible current to place the LED of the receive opto-coupler in an operational range. This current draw satisfies the term "a minimum of current" used in the claims in suit, when properly construed. Indeed, this value is much less than the 7mA that would put the opto-coupler in the middle of its range.
+[158]
+In the case at bar, the defendant's products in suit are used for the same purpose as contemplated in the '670 and '148 patents. There is no assertion that the defendant's products work any differently from those described in the '670 and '148 patents, or indeed from Paradox's products which only use two opto-couplers to perform the various functions contemplated by the patents. It has been demonstrated to the Court's satisfaction that the defendant's products in suit incorporate all the essential elements of the claims in suit (prior to or after the disclaimers were recorded). At this point, the Court endorses the detailed analysis contained in Brandt's report (Exhibit P-209) which is completed by the various annotated diagrams produced by Brandt during his testimony, showing each element of the claims in suit on the schematic diagram of the DSC PC580 dialer (see Exhibits P-212 to P-239).
+[159]
+Accordingly, if it is ultimately found in appeal that the claims in suit, as disclaimed or prior to the disclaimers, are valid, the Court is of the opinion that the plaintiffs have then met their burden of proving, on a balance of probabilities, that the products in suit
+directly
+infringe the claims in suit, as disclaimed or prior to the disclaimers. That said, based on the evidence on record, the Court would have nevertheless dismissed the plaintiffs' allegation that the defendant has knowingly induced the distributors or ultimate users of the products in suit to infringe the claims in suit, as disclaimed or prior to the disclaimers.
+[160]
+The three essential ingredients for liability for inducing infringement are conjunctive: (i) an act of infringement was completed by the direct infringer; (ii) completion of the act of infringement was influenced by the acts of the inducer (without said influence, infringement would not otherwise take place); and (iii) the influence must knowingly be exercised by the seller, the seller knows his influence will result in the completion of the act of infringement. It is simply not sufficient to generally allege the products in suit are sold with instructions as to their use and that the defendant's customers or ultimate users infringe the patents in suit when they use the defendant's products in suit "as instructed". Even if hard evidence of such instructions had been produced by the plaintiffs, it would have to be "conclusive" in light of the case law. Completion of the infringement act must result of the influence of the direct infringer. The evidence of such "influence" is simply non-existent in this case. In such a case, the Court cannot conclude that the infringing acts by the defendant's customers or ultimate users would not have occurred without the defendant's influence.
+[161]
+In the case that the defendant would be liable for infringement of the claims in suit, as disclaimed or prior to the disclaimers, the Court has been asked to determine whether the plaintiffs should be allowed the equitable remedy of an accounting of profits (and as the case may be, the date from which it should start). In this regard, the Court finds that any entitlement to an accounting of profits, which is subject to the exercise of its discretionary power, necessarily includes looking into the plaintiffs' conduct. Whatever the plaintiffs now say, they did not act diligently after they were advised in January 2000 of the defendant's position with respect to their infringement allegations. The defendant was allowed to think that the problem had gone away with the very categorical response of their lawyers which was left unanswered by Paradox. The plaintiffs have voluntarily chosen to improve their strategic position by filing disclaimers in October 2003 and have waited four years in instituting the present proceedings. In the Court's humble opinion, the plaintiffs should not be allowed to elect for an accounting of profits. In coming to such finding, the Court has considered the totality of the evidence, which incidentally shows that the defendant has intentionally copied the design of the Paradox's 778 Ultra Dialer. The Court has also considered all other relevant factors, including any additional delay in bringing the matter to trial after the institution of the action nearly five years ago. In any event, in the Court's opinion, damages or accounting of profits should not be computed prior to the period preceding the filing of the disclaimers, assuming that same are held to be valid on appeal. Such approach is consistent with the admission made by the patentee in the disclaimers that the original claims were too broad, and thus could be invalidated.
+XII. CONCLUSION
+[162]
+In conclusion, the Court dismisses the plaintiffs' action and allows the defendant's counterclaim, as hereunder specified in the judgment below declaring that the disclaimers and the patents in suit are invalid, null, void and of no force or effect. The matter of costs is reserved and may be addressed by way of motion presentable to the Court twenty (20) days after this judgment has become final.
+JUDGMENT
+[163]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. The action is dismissed and the counterclaim is allowed as hereunder specified;
+2. The disclaimer filed and recorded on December 5, 2003 against Canadian patent no. 2,169,670 is invalid, null, void and of no force and effect;
+3. The disclaimer filed and recorded on December 5, 2003 against Canadian patent No. 2,273,148 is invalid, null, void and of no force and effect;
+4. Canadian patent no. 2,169,670 is invalid, null, void and of no force and effect;
+5. Canadian patent no. 2,273,148 is invalid, null, void and of no force and effect;
+6. The matter of costs is reserved and may be addressed by way of motion presentable to the Court twenty (20) days after this judgment has become final.
+Action dismissed;
+counterclaim allowed.
+Editor: Angela E. McKay/vnh
+[Annexes A and B omitted]
+.
+[End of document]
