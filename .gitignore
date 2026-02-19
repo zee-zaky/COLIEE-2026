@@ -5,3 +5,5 @@ processed_cases_en.json
 # Ignore any CleanedCorpus directory anywhere
 CleanedCorpus/
 
+__pycache__/
+*.pyc
