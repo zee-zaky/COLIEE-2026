@@ -7,7 +7,7 @@
 #   --time=00:30:00 \
 #   --array=0-1 \
 #   --export=PRESET=test_2026,CASES_PER_TASK=1 \
-#   slurm/job_array_run.sh \
+#   slurm/job_array_run.sl \
 #   --hf-token hf_xxx
 #
 # Alternative (token from environment instead of CLI argument):
