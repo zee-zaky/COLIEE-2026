@@ -1,0 +1,7 @@
+# Ignore processed case outputs anywhere
+processed_cases.json
+processed_cases_en.json
+
+# Ignore any CleanedCorpus directory anywhere
+CleanedCorpus/
+
