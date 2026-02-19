@@ -1,0 +1,1814 @@
+[1]
+Hughes, J.
+: This is an application for prohibition brought under the
+Patented Medicines (Notice of Compliance) Regulations
+SOR/93-133, as amended (
+NOC Regulations
+). The medicine at issue is a new compound known as donepezil, which is said to be useful in treating senile dementia. The Applicant Pfizer Canada Inc. has approval from the Respondent Minister of Health to sell in Canada a drug incorporating donepezil hydrochloride in tablet form for oral administration in 5 mg and 10 mg doses. This drug is approved for a use described as symptomatic treatment of patients with mild, moderate and severe dementia of the Alzheimer's type.
+[2]
+The Respondents (other than the Minister) which I will refer to as Mylan, have sought approval from the Minister in the form of a Notice of Compliance to sell a generic version of that drug in Canada. The Applicants seek an Order prohibiting the Minister from giving that approval until the expiry of Canadian Patent No. 1,338,808.
+[3]
+For the reasons that follow, I find that the application is allowed and the Minister is prohibited from issuing a Notice of Compliance to Mylan until after the expiry of Canadian Patent No. l,338,808.
+INDEXING
+[4]
+For convenience, the matters considered in these Reasons can be found at the following paragraphs:
+THE PARTIES
+Paras 5 to 9
+SENILE DEMENTIA - ALZHEIMER'S
+Paras 10 to 13
+DEVELOPMENTS AT EISAI
+Paras 14 to 17
+CANADIAN PATENT NO. 1,338,808
+Paras 18 to 34
+ISSUES
+Para 35
+EVIDENCE
+Paras 36 to 40
+EVIDENCE OF THE EXPERTS
+Paras 41 to 42
+APPLICANTS' EXPERTS
+Paras 43 to 134
+MYLAN'S EXPERT
+Paras 135 to 183
+NOC PROCEEDINGS
+Paras 184 to 187
+BURDEN OF PROOF
+Para 188
+PERSON SKILLED IN THE ART
+Paras 189
+CLAIMS 6 AND 18 - CONSTRUCTION
+Paras 190 to 193
+THE '808 PATENT - ACCURACY OF DISCLOSURE
+Paras 194 to 198
+UTILITY - PROMISE OF THE PATENT - SOUND PREDICTION
+Paras 199 to 231
+--1) Utility
+-
+---a) Requirement for Utility
+paras 201 to 202
+---b) What is "Useful"
+paras 203 to 211
+---c) Useful for What - Promise of the Patent
+paras 212 to 217
+---d) Care in Using Expert Evidence in Matters of Construction
+paras 218 to 224
+---e) Achieved Utility or Predicted Utility
+paras 225 to 228
+---f) Relevant Date
+paras 229 to 231
+CONSTRUCTION OF THE PROMISE OR STATED UTILITY OF THE '808 PATENT
+Paras 232 to 237
+SOUND PREDICTION
+Paras 238 to 248
+CONCLUSION AND COSTS
+Paras 249 to 251
+THE PARTIES
+[5]
+The Applicant Pfizer Inc. is referred to as a "first person" in the
+NOC Regulations
+. It has received approval to sell the drug containing donepezil, as previously described, from the Respondent Minister of Health. It sells that drug in Canada under the brand name ARICEPT.
+[6]
+The Applicant Eisai Co., Ltd. is a Japanese corporate organization to whom Canadian Patent No. 1,338,808 was issued and granted on December 24, 1996. As far as the record shows, Eisai remains as the owner of that patent (patentee). Under the provisions of section 6(4) of the
+NOC Regulations
+, the patentee must be joined as a party to these proceedings
+[7]
+The Respondents previously described as Genpharm ULC and Mylan Pharmaceuticals ULC have been the subject of a previous motion heard by Prothonotary Aalto (2010 FC 684) with an appeal heard by Justice Heneghan with reasons released March 29, 2011. The effect of the decision, as affirmed on appeal, was to strike out certain portions of the Applicants' Notice of Application challenging the status of Genpharm LLC as a "second person" under the
+NOC Regulations
+. The Prothonotary and the Judge reviewed the recent corporate history of both entities, including an amalgamation and name change to Mylan. Prothonotary Aalto wrote at paragraph 5 of his Reasons:
+5 In order to understand the issue better a brief chronology is helpful. The following sets out the chronology giving rise to the corporate issue which Pfizer has put in play:
+December 21/07
+Genpharm ULC is continued under the Alberta Business Corporations Act ("ABCA");
+December 23/08
+Genpharm ULC files its ANDS with the Minister;
+January 1/09
+Genpharm ULC amalgamates with Prempharm ULC under the ABCA and continues under the name Genpharm ULC;
+April 24/09
+Registered amendment of the name of Genpharm ULC to Mylan;
+May 27/09
+NOA is sent to Pfizer;
+June 18/09
+Proof of service of the NOA on Pfizer is sent to the Minister;
+June 29/09
+Pfizer conducts a corporate search of Genpharm ULC;
+July 10/09
+The Notice of Application is issued by Pfizer;
+July 14/09
+Pfizer serves Genpharm;
+October 1/09
+Genpharm officially adopts the Mylan name;
+December/09
+Mylan files information with the Minister to effect a name change from Genpharm ULC to Mylan Pharmaceuticals ULC
+[8]
+Prothonotary Aalto, and on appeal, Justice Heneghan, both concluded that the Applicants' challenge to the status of the resulting entity, Mylan as a "second person"under the
+NOC Regulations
+should be struck out. Therefore, I will refer to these parties collectively under the name Mylan. They are a "second person" as referred to in the
+NOC Regulations
+. By an Order made on consent the style of cause was amended at the hearing to identify the corporate Respondent simply as Mylan Pharmaceuticals ULC.
+[9]
+The Respondent Minister of Health is responsible for approving drugs such as that at issue for sale in Canada by way of issuing a Notice of Compliance under the
+NOC Regulations
+. The Minister had notice of these proceedings but did not actively participate.
+SENILE DEMENTIA - ALZHEIMER'S
+[10]
+A clinician named Alois Alzheimer working in a Frankfurt hospital in 1901 recognized and subsequently described a condition suffered by a patient who was experiencing difficulties naming familiar objects, writing complete sentences and remembering words. That condition, which is a particular type of senile dementia, is now known as Alzheimer's, or Alzheimer, or AD. It particularly affects older persons. Memory loss is an early sign of the onset of the condition, followed by more severe symptoms and, ultimately, the death of the person suffering from that condition.
+[11]
+In the 1980's, which is the period in question, there appear to have been a number of theories as to the causes of Alzheimer's. One such theory dealt with the effect of what was described as cholinergic function in the brain. Efforts were made to inhibit that function. I repeat the evidence as set out in paragraphs 38 to 43 of the affidavit of Dr. Becker, a Mylan expert. At the hearing, the Applicants' Counsel stated that the Applicants accepted this evidence:
+38. AD is a degenerative disease to the brain. As stated above, in the 1980s, AD was frequently called senile dementia or senile dementia of the Alzheimer's type (SDAT). The cause of AD was not known in the 1980s and it is still unknown today.
+39. However, in the 1980s, there was evidence that a deficiency of cholinergic function played a major role in the development of the symptoms of AD and of the disease itself.
+40. In the 1980s, cholinergic function was thought to be involved in AD as follows:
+(a) Cholinergic function relevant to learning and memory depended upon cell bodies (cholinergic neurons) located in the base of the front of the brain (basal forebrain in the Nucleus Basalis of Meynert).
+(b) These cholinergic neurons in the basal forebrain undergo profound selective damage and death in AD patients.
+(c) These cholinergic neurons have long projections called axons throughout wide areas of the brain.
+(d) These projections or axons provide acetylcholine required for proper functioning throughout the brain.
+(e) Due to the damage and death of the neurons in the basal forebrain, there is a deficiency of the enzyme acetylcholine transferase (the enzyme that makes acetylcholine). As a result, there is a deficiency of acetylcholine in many areas of the brain.
+(f) This deficiency of acetylcholine was thought to account for the problems with learning and memory seen in AD patients.
+41. Accordingly, researchers set about to compensate for lost acetylcholine function in the brain to cure or alleviate the symptoms of AD.
+42. One approach taken was to modulate the effect of cholinesterases that inactivated acetylcholine in the brain. The approach was to try to inhibit the effect of cholinesterase, such as acetylcholinesterase, using compounds known as "inhibitors". Inhibitors act by various mechanisms, but in general, they either "block" the cholinesterase enzymes from having access to acetylcholine or they "inactivate" the cholinesterease itself. As a result of either of these actions, because the enzyme acetylcholinesterase can no longer break down acetycholine, there is increased acetylcholine in the synapse, hypothesized to restore neurotransmission function to more normal conditions.
+43. Two of the most widely studied drugs in the 1980s were physostigmine and tetrahydrominoacrydine ("THA"). Both physostigmine and THA act by blocking cholinesterase enzymes from having access to acetylcholine. These compounds were of interest because some improvement in learning and memory in AD patients was seen with the administration of these and similar compounds in humans. However, having this basic acetylcholinesterase inhibitory activity did not render physostigmine and THA suitable as therapeutic agents for AD.
+[12]
+There emerged in the mid 1980's what became known as the "cholinergic hypothesis", which hypothesized that if acetylcholinesterase (AChE) inhibitors could be introduced into the appropriate area of the brain, the symptoms of Alzheimer's may be alleviated. To be introduced into the appropriate area, a compound would be required to cross what was described as the Blood Brain Barrier (BBB). By June 1988, two particular compounds were known and being studied for this purpose, physostigmine and tacrine (THA). These compounds appeared to work as AChE inhibitors but had drawbacks. Physostigmine had a short duration of action and certain undesirable side effects. Tacrine exhibited liver toxicity at higher doses.
+[13]
+In November 1986,
+The New England Journal of Medicine
+, a respected journal, published a paper by Dr. Summers and others in which there was reported a study conducted on a number of patients who were administered dosages of an AChE inhibitor. There was a dispute between the experts in this case as to how widely respected this paper was, and whether the reported results could be considered valid. In this particular proceeding, not much turns on this dispute. It was an early attempt to report on the effects of an AChE inhibitor. It simply indicates that the theory of AChE inhibitors was being pursued in research at the time.
+DEVELOPMENTS AT EISAI
+[14]
+According to the evidence of two of the persons named as inventors in the '808 Patent (Araki and Ogura) and two other persons associated with them in the development of donepezil and related compounds (Sumigama and Yamakawa) work began at Eisai in the 1980's to develop a drug for the treatment of senile dementia such as Alzheimer's. Many compounds were made and tested. The testing included tests on mouse and rat brain homologates and on live rats, some of which testing is set out in the '808 Patent. Much other testing was done which was not set out in the patent. As of the date that the Canadian patent application was filed, June 21, 1988, no testing had been conducted on human beings.
+[15]
+A substantial report setting out the development of these compounds and conclusions reached by the researchers was prepared and submitted to Eisai management on about January 28, 1988. It is called, in these proceedings, the Chosa Hokoku Proposal. This report has not been made public and contains details of a number of studies beyond those which are set out in the '808 Patent.
+[16]
+In the opening portion of this report entitled Theme Outline, the following is stated (English translation) with respect to the compound we now call donepezil:
+Thereafter, we came to study the possibility of commoditizing it as a drug based on drug efficacy, metabolism, safety, and formulation. As a result, it became clear that the compound in question has a strong action of improving learning impairment based on a clear mechanism of action and that it has utility that is superior to that of physostigmine or THA. In addition, it was also proven that it has a duration of action, safety margin, and bioavailability, etc., that are far superior to those of the control drugs, it completely satisfies the theme profile, and it has nearly ideal characteristics of action. Furthermore, no toxic changes in the liver or kidneys, etc., whatsoever were recognized in the results of the Step 2 Exploratory Toxicity trials, and it was found that it has superior safety in comparison with THA.
+Based on the above, it is expected that ENAG could be a drug that is extremely useful clinically as an agent for the improvement of intellectual dysfunction that accompanies senile dementia of Alzheimer type, and so we propose the Ch sa H koku herein.
+[17]
+Today as we know donepezil is approved for sale and marketed by Pfizer in Canada for the treatment of Alzheimer's.
+CANADIAN PATENT NO. 1,338,808
+[18]
+There remains only one patent at issue, Canadian Patent No. 1,338,808 (the '808 Patent). The application for this patent was filed with the Canadian Patent Office on June 21, 1988, which means that the provisions of the "old"
+Patent Act
+, R.S.C. 1985, c. P-4 pertain to that application and the resulting '808 Patent, as the application was filed before October 1, 1989.
+[19]
+Among the matters pertinent to the '808 Patent under the "old"
+Patent Act
+are that the patent endures for a period of seventeen (17) years from the date of its grant unless held to be invalid in an appropriate action (not an NOC proceeding). The term of the '808 Patent expires December 24, 2013.
+[20]
+The '808 Patent is entitled "
+Cyclic Amine Compound
+" and lists thirteen (13) persons as inventors. Among them are Hiroo Ogura and Shin Araki, both of whom gave evidence in these proceedings.
+[21]
+In the present case, the Applicants are relying on only two claims of the '808 Patent, claim 6 and claim 18 to the extent that it incorporates claim 6.
+[22]
+Claims 6 and 18 read as follows:
+6. The compound 1-benzyl-4-[(5,6-dimethoxy-1-indanon)-2-yl] methylpiperidine or a pharmaceutically acceptable acid addition salt thereof.
+. . . . .
+18. A therapeutical composition for treating senile dementia, which comprises an acetylchlolinesterase inhibitory effective amount of the compound or salt as defined in any one of claims 1 through 17 and a pharmaceutically acceptable carrier.
+[23]
+The chemical formula set out in claim 6 is referred to by the parties more simply as donepezil. With the incorporation of a hydrochloride salt as the pharmaceutically acceptable acid addition salt the compound is referred to as donepezil hydrochloride. Thus, for simplicity, claims 6 and 18 can be written as:
+6. The compound donepezil or donepezil hydrochloride.
+. . . . .
+18. A therapeutical composition for treating senile dementia, which comprises donepezil or donepezil hydrochloride and a pharmaceutically acceptable carrier.
+[24]
+The specification of the '808 Patent begins at page 1 with a brief statement as to the field of the invention:
+Cyclic Amine Compound
+The invention relates to a cyclic amine compound, a therapeutical composition and medical treatment of senile dementia.
+[25]
+Following next is a Statement of Prior Arts, which continues over to page 2:
+(Statement of Prior Arts)
+With a rapid increase in the population of aged people, the establishment of the therapy for senile dementia, such as Alzheimer senile dementia, is eagerly desired.
+Various attempts have been made to treat the senile dementia with a drug. So far, however, there has been no drug which is very useful for the treatment of these diseases.
+Studies on the development of therapeutic agents for these diseases have been made from various aspects. Particularly, since Alzheimer senile dementia is accompanied by the lowering in cholinergic hypofunction, the development of the therapeutic agent from the aspect of an acetylcholine precursor and an acetyl-cholinesterase inhibitor was proposed and is in fact attempted. Representative examples of the anticholinesterase inhibitor include physostigmine and tetrahydroaminoacridine. However, these drugs have drawbacks such as an unsatisfactory effect and the occurrence of unfavourable side effects. At the present time, there are no decisive therapeutic agents.
+[26]
+Thus the reader is told that attempts have been made to develop drugs that will treat Alzheimer senile dementia but, so far, they have not been satisfactory or have unfavourable side effects.
+[27]
+Beginning at the first full paragraph of page 2 of the '808 Patent, and over to the end of the second full paragraph of page 3, the specification informs the reader that the inventors have found a certain compound, a piperidine derivative, that is effective in treating diseases, including Alzheimer senile dementia:
+In view of the above situation, the present inventors have made extensive and intensive studies on various compounds for many years with a view to developing a drug which has a persistent activity and a high safety.
+As a result, the present inventors have found that a piperidine derivative represented by the following general formula (I) can attain the desired object.
+Specifically, the compound of the present invention represented by the following general formula (I) has great advantages of having strong and highly selective antiacetylcholinesterase activity, increasing the amount of acetylcholine present in the brain, exhibiting an excellent effect on a model with respect to disturbance of memory, and having a persistent activity and a high safety when compared with physostigmine which is a conventional popular drug in the art, which renders the compound of the present invention very valuable.
+The compound of the present invention was found based on the acetylcholinesterase inhibitory action and, therefore, is effective for treatment and prevention of various diseases which are thought to be derived from the deficiency of acetylcholine as a neurotransmitter in vivo.
+Examples of such diseases include various kinds of dementia including Alzheimer senile dementia and further include Huntington's chorea, Pick's disease, and ataxia.
+Therefore, the objects of the present invention are to provide a novel piperidine derivative effective as a pharmaceutical, particularly for treatment and prevention of central nervous system diseases, to provide a process for preparing the same, and to provide a pharmaceutical comprising the same as an effective ingredient.
+[28]
+A Summary of the Invention begins at the bottom of page 3 of the '808 Patent and continues with a lengthy description of the chemical structure of the compound and methods for producing it. I reproduce only the beginning at page 3:
+(Summary of the Invention)
+The invention provides a cyclic amine compound having the following formula (XXV) and a pharmaceutically acceptable salt thereof:
+[29]
+At page 7 of the specification of the '808 Patent is a discussion of the compound and a pharmacologically acceptable salt:
+In addition, the invention provides a therapeutical composition which comprises a pharmacologically effective amount of the cyclic amine compound having the formula (XXV) or a pharmacologically acceptable salt thereof and a pharmacologically acceptable carrier and then a method for preventing and treating a disease due to the acetylcholinesterase activity by administering to a human patient the cyclic amine compound having the formula (XXV) or a pharmacologically acceptable salt thereof.
+[30]
+I jump to pages 63 and 64 of the '808 Patent, which provide Example 4 and a description of the compound we now know as donepezil. This compound is referred to as compound 4 in the '808 Patent.
+Example 4
+1-Benzyl-4-[(5,6-dimethoxy-1-indanon) -2-yl]-methylpiperidine hydrochloride
+[Diagram omitted - see printed version]
+0.4 g of 1-benzyl-4-[(5,6-dimethoxy-1-indanon)-2-ylidenyl]methylpiperidine was dissolved in 16 m of THF followed by addition of 0.04 g of 10% palladium-carbon. The mixture was hydrogenated at room temperature under atmospheric pressure for 6 hr. The catalyst was filtered off, and the filtrate was concentrated in vacuo. The residue was purified by making use of a silica gel column (methylene chloride: methanol = 50: 1). The eluate was concentrated in vacuo, and the residue was dissolved in methylene chloride. A 10% solution of hydrochloric acid in ethyl acetate was added to the resulting solution, followed by concentration in vacuo to obtain a crystal, which was recrystallized from methanol/IPE to obtain 0.36 g (yield: 82%) of the title compound having the following properties:
+• m.p. (ºC): 211-212°C (dec.)
+• elementary analysis: C
+24
+H
+29
+NO
+3·
+HC1
+-
+C
+H
+N
+calculated (%):
+69.30
+7.27
+3.37
+found (%):
+69.33
+7.15
+3.22
+[31]
+I return to page 47 of the '808 Patent where there begins a discussion as to the utility of the compound in treating various kinds of senile dementia. This discussion continues through to page 53 where, based on the experiments disclosed, the conclusion is made that the compound has potent acetylcholinesterase inhibitory action (compound 4 is donepezil):
+The compounds thus prepared and acid addition salts thereof represented by the general formula (I) are useful for treatment of various kinds of senile dementia, in particular senile dementia of the Alzheimer type.
+The invention will be described in view of its therapeutical usefulness together with pharmacologically experimental data.
+Experimental Example 1
+In vitro acetylcholinesterase inhibitory action
+A mouse brain homogenate was used as an acetylcholinesterase source and the esterase activity thereof was determined according to the method of Ellman et al.
+Ellman G.L.. Courtney, K.D., Andres,
+V., and Featherstone, R.M., (1961) Biochem.
+Pharmacol., 7, 88-95.
+Acetylthiocholine as a substrate, a sample to detect and DTNB were added to the mouse brain homogenate, followed by incubation. The amount of a yellow substance formed by the reaction between the thiocholine and DTNB was determined in the absorbance at 412 nm in terms of the acetylcholinesterase activity.
+The acetylcholinesterase inhibitory activity of the sample was expressed in terms of inhibitory concentration 50% (IC50).
+The results are shown in Table 1.
+Table 1
+Compound
+AChE inhibitory activity IC
+50
+(µM)
+Compound
+AChE inhibitory activity IC
+50
+(µM)
+1
+0.23
+31
+0.025
+4
+0.0053
+33
+0.030
+5
+0.10
+45
+0.36
+6
+0.017
+48
+0.019
+8
+0.013
+52
+0.80
+9
+0.051
+54
+1.0
+10
+0.009
+56
+0.017
+11
+0.068
+62
+0.0075
+12
+0.040
+65
+0.0016
+13
+0.026
+67
+0.10
+14
+0.038
+70
+0.28
+15
+0.094
+72
+0.020
+17
+0.052
+89
+0.018
+18
+0.68
+90
+0.035
+19
+0.064
+95
+0.085
+20
+0.54
+101
+0.11
+21
+50
+120
+0.19
+23
+0.072
+124
+2.8
+24
+1.1
+176
+0.004
+26
+24
+-
+-
+27
+0.41
+-
+-
+29
+0.15
+-
+-
+Experimental Example 2
+Ex vivo acetylcholinesterase inhibitory action
+A sample to detect was orally administered to rats. After one hour of the administration, the cerebral hemispheres were dissected and homogenized, followed by the determination of the acetylcholinesterase activity. The group of rats treated with physiological saline was used as the control. Inhibition of AChE by samples
+exvivo
+was expressed in terms of inhibition percent of the control value. Results are shown in Table 2.
+Experimental Example 3
+Action on passive avoidance learning impairment induced by scopolamine
+See Z. Bokolanecky & Jarvik: Int. J. Neuropharmacol,
+6
+, 217-222 (1967).
+Male Wister rats were used as the test animal and a step-through light and dark box was used as an apparatus. A sample to detect was orally administered one hour before the training and the rats were treated with 0.5 mg/kg (i.p.) of scopolamine 30 min. before the training. In a training experiment, the animal was placed into a light room and, just after the animal had entered into a dark room, a guillotine door was closed, followed by delivery of an electric shock from the gid of the floor. After six hours, the animal was again placed into a light room for a retention experiment, and the time taken for the animal to enter the dark room was measured for evaluation of the effect of the sample.
+The difference in the response time between the physiological saline administration group and the scopolamine administration group was taken as 100%, and the effect of the sample was expressed in terms of the percentage antagonism by the sample (Reverse %).
+The results are shown in Table 3.
+Table 2
+Compd. No.
+Dose (mg/kg)
+AChE inhibitory action (%)
+Saline
+-
+0
+4
+1
+5 *
+-
+3
+17 **
+-
+10
+36 **
+-
+30
+47 **
+15
+10
+5
+-
+30
+14 **
+-
+100
+18 **
+Table 3
+Compd. No.
+Dose (mg/kg)
+Reverse %
+4
+0.125
+55
+-
+0.25
+36
+13
+0.25
+39
+-
+0.5
+27
+15
+1.0
+51
+-
+2.0
+30
+19
+0.5
+37
+-
+1.0
+39
+69
+0.5
+22
+-
+1.0
+38
+The number of animals per dose was 10 to 17.
+NE: non-effective
+The above-described pharmacological experiments revealed that the compound of the present invention had a potent acetycholinesterase inhibitory action.
+[32]
+It is to be noted that the tests were conducted using mouse brains (Example 1) and rats (Examples 2 and 3). No testing on humans is disclosed in the '808 Patent.
+[33]
+Beginning at the bottom of page 53 of the '808 Patent and continuing to page 55, the Patent states that the compound provides an effective treatment for a number of conditions, including senile dementia. It is to be noted that the first full paragraph of page 54 discloses that compound 4, (donepezil) among others, was the subject of toxicity tests on rats. No serious toxicity was exhibited.
+Therefore, the objects of the present invention are to provide a novel compound effective for various kinds of dementia and the sequelae of cerebrovascular diseases, to provide a process for preparing the same, and to provide a novel pharmaceutical comprising the same as an effective ingredient.
+Representative compounds of the present invention (Compd. Nos. 4, 13, 15, 19, and 69 in the above Table 3) were applied to toxicity tests on rats. As a result, all the compounds exhibited a toxicity of 100 mg/kg or more, i.e., exhibited no serious toxicity.
+The compound of the present invention is effective for treatment, prevention, remission, improvement, etc. of various kinds of senile dementia, particularly senile dementia of the Alzheimer type; cerebrovascular diseases accompanying cerebral apoplexy, e.g. cerebral hemorrhage or cerebral infarcts, cerebral arteriosclerosis, head injury, etc.; and aprosexia, disturbance of speech, hypobulia, emotional1 changes, recent memory disturbance, hallucinatory-paranoid syndrome, behavioral changes, etc. accompanying encephalitis, cerebral palsy, etc.
+Further, the compound of the present invention has a strong and highly selective anticholinesterase action, which renders the compound of the present invention useful also as a pharmaceutical based on this kind of action.
+Specifically, the compound of the present invention is effective for, for example, Huntington's chorea, Pick's disease and delayed ataxia or tardive dyskiaesia other than senile dementia of the Alzheimer type.
+[34]
+After further discussion not relevant here, the '808 Patent concludes with 36 claims. Only two, claims 6 and 18, as discussed earlier, are at issue.
+ISSUES
+[35]
+While these proceedings began with two patents, several claims of each and issues of validity and infringement as to each, through the efforts of Counsel and the Case and Trial Management process, the issues have been reduced to one which relates to one validity issue respecting one patent, the '808 Patent, and two claims of that patent, claims 6 and 18. That issue can be expressed as follows:
+"Is the '808 Patent, and in particular, claim 6 and claim 18, invalid because it is based upon an unsound prediction of the promised utility?"
+EVIDENCE
+[36]
+As discussed above, the issues have been reduced to the single issue. Thus, while the record as originally filed comprised forty volumes, much of that evidence is no longer necessary in considering the issue now before the Court.
+[37]
+By an Order issued on consent April 18, 2011, certain materials not being necessary to these proceedings were removed from the record. Further, by that Order, only some of the materials remaining in the record remain as confidential. I will set out the evidence that remains in the record, and I will indicate whether the evidence, or part of it, remains confidential. I will also indicate whether the evidence was tendered as an expert or factual witness, whether that witness was cross-examined, and whether a translator was used in the cross-examination.
+[38]
+The witnesses whose evidence remain in the record are:
+For the Applicants:
+1.
+Dr. Shin Araki
+, a factual witness. He is one of the persons named as inventor in the '808 Patent. He was cross-examined with the assistance of a Japanese/English language translator.
+Dr. Araki's evidence is confidential (Record Volumes 2 & 3, Tab 6; Volume 4, Tab 7).
+2.
+Dr. Hiroo Ogura
+, a factual witness. He is one of the persons named as inventor in the '808 Patent. He was cross-examined with the assistance of a Japanese/English language translator.
+Dr. Ogura's evidence is confidential (Record Volumes 5 & 6, Tab 8; Volume 7, tab 9).
+3.
+Suji Sumigama
+, a factual witness. He was involved at Eisai with certain testing of the compounds disclosed in the '808 Patent. He was cross-examined with the assistance of a Japanese/English language translator.
+Sumigama's evidence is confidential (Record Volumes 8 & 9, Tab 10; Volume 9, Tab 11).
+4.
+Ichiro Yamakawa
+, a factual witness. He was involved at Eisai with the testing of certain of the compounds disclosed in the '808 Patent. He was cross-examined with the assistance of a Japanese/English language translator. The parties wish to have his evidence remain in the Record although they indicated that they were unlikely to refer to it.
+Yamakawa's evidence is confidential (Record Volume 10, Tab 12 & Tab 13).
+5.
+Dr. Raymond T. Bartus
+, an expert witness. His evidence was directed to the remaining issue in these proceedings. He was cross-examined.
+Dr. Bartus' evidence is
+not
+confidential (Record Volume 11, Tab 14; Volume 12, Tabs 15 & 16; Volume 13, Tab 17).
+6.
+Dr. Kenneth Rockwood
+, an expert witness. His evidence was directed to the remaining issue in these proceedings. He was cross-examined.
+Dr. Rockwood's evidence is
+not
+confidential (Record Volume 14, Tabs 18, 19 & 20).
+7.
+Dr. A.P. Kozikowski
+, an expert witness. His evidence was largely directed to a question of infringement, which is no longer at issue. Nonetheless, the parties wish his evidence to remain in the record. He was cross-examined.
+Dr. Kozikowski's evidence is confidential (Record Volume 15, Tabs 21 & 22; Volume 16, Tab 23).
+8.
+Dr. Michael McKenna
+, an expert witness. His evidence was directed to the remaining issue in these proceedings. He was cross-examined.
+Dr. McKenna's evidence is
+not
+confidential (Record Volume 17, Tabs 24, 25 & 26).
+9.
+Dr. Jerry Atwood
+, an expert witness. His evidence was directed to a question of infringement. The parties wish his evidence to remain in the record, though they indicated that they were unlikely to refer to it.
+Dr. Atwood's evidence is confidential (Record Volume 18, Tabs 27, 28, 29 & 30).
+10.
+Mark Kellner
+, a Japanese/English translator who testified as to the accuracy of his translation of certain Japanese language documents.
+His evidence was not challenged and is
+not
+confidential (Record Volume 26, Tab 32).
+11.
+Diane Zimmerman
+, a factual witness. She is a law clerk in the firm of solicitors representing the Applicants. Her affidavit served to put in the record a number of documents. She was not cross-examined.
+Her evidence is
+not
+confidential (Volumes 27, 28, 29 & 30, Tab 35)
+except
+for Exhibits D, E & M (Volumes 28 & 29, Exhibits D & E; Volume 30, Exhibit M).
+For the Respondent Mylan:
+1.
+Dr. Robert Becker
+, an expert witness. His evidence was directed to the remaining issue in these proceedings. He was cross-examined.
+His evidence is
+not
+confidential (Record Volumes 31 & 32, Tab 36; Volume 33, Tab 37; Volume 34, Tab 38; Volume 35, Tab 39).
+2.
+Professor Thomas T. Tidwell
+, an expert witness. His evidence was directed to the question of infringement, which is no longer an issue in these proceedings. The parties wish his evidence to remain in the record, although it was indicated that they were unlikely to refer to it. He was cross-examined.
+Dr. Tidwell's evidence is confidential (Record Volume 36, Tabs 40 & 41; Volume 37, Tab 42).
+3.
+A. Louise McLean
+, a factual witness. She is a law clerk in the firm of Mylan's previous solicitors. Her affidavit served to put in the record certain documents. She was not cross-examined.
+Her evidence is
+not
+confidential (Record Volumes 38 & 39, Tab 43).
+[39]
+In a letter to the Court dated March 31, 2011, Counsel for Mylan stated that they did not intend to refer to the affidavits or transcripts of cross-examination of Dr. Tidwell or Dr. Atwood unless in response to any submissions made by the Applicants.
+[40]
+Similarly, in a letter to the Court dated April 1, 2011, Counsel for the Applicants stated that they did not intend to refer to the following evidence:
+The applicants do not expect to refer to the following evidence:
+(a) affidavits and cross-examination transcript of Dr. Atwood;
+(b) affidavit and cross-examination transcript of Mr. Yamakawa;
+(c) affidavits of Christine Ingham;
+(d) affidavit of Mark Kellner (translator);
+(e) cross-examination transcript of David Blais;
+(f) affidavits of Dr. Kozikowski sworn February 9, 2010 (we do intend to rely on Dr. Kozikowski's affidavit sworn September 9, 2010, in particular paragraphs 1-35);
+(g) exhibits C-M of the affidavit of Diane Zimmerman
+(h) affidavit of Louise MacLean; and
+(i) affidavits of Dr. Tidwell and cross-examination transcript of Dr. Tidwell, with the exception of questions 625-645, to which we may refer briefly.
+EVIDENCE OF THE EXPERTS
+[41]
+I will consider the evidence of Drs. Bartus, Rockwood, Kozikowski and McKenna for the Applicants and Dr. Becker for Mylan. I will consider the evidence as of June 21, 1988 as it may pertain to the state of the art and specific scientific terms. While their evidence as to construction of the patent specification and claims is in the evidence and I have read and considered it, I will treat it with caution for the reasons as will be discussed later.
+[42]
+I have borne in mind that one must distinguish between what is set out in the '808 Patent and what the Eisai inventors and others actually did, which may not be set out in the patent or is differently set out in the patent.
+APPLICANTS' EXPERTS
+[43]
+Dr. Raymond T. Bartus
+is the Executive Vice President and Chief Scientific Officer of a biotechnology company, Ceregene Inc. He is also an adjunct professor in the department of pharmacology at Tufts University Medical Center in Boston, Massachusetts as well as an adjunct professor in the department of psychiatry at New York University Medical Center, in New York, New York.
+His Mandate was: To determine: (i) what, if any, is the promise of Claim 6 (and Claim 18 as it depends on Claim 6) in the '808 Patent (ii) if the inventors demonstrated the utilities of Claim 6 and 18, and (iii) if demonstrated utility is not present, did the inventors appropriately lead a sound prediction.
+[44]
+Dr. Bartus referred to himself as one of the "key players" that developed the "cholinergic hypothesis". [see footnote 1] He stated the skilled person would be a person with "an advanced degree in medicinal chemistry or biology or pharmacology or be a clinician working in the area of dementia". [see footnote 2]
+[45]
+At paragraph 23 of his affidavit, Dr. Bartus provided a summary of his opinion which summary will be set out later in these Reasons.
+[46]
+At paragraphs 27 to 36, Dr. Bartus provided a description of the underlying principles of chemical brain function:
+▪ Enzymes are protein molecules that facilitate chemical reaction
+▪ AChE is an enzyme in the brain
+▪ AChE, a substrate, is a neurotransmitter (a chemical messenger) in the brain
+▪ AChE acts on ACh, causing it to break down into choline and acetate
+▪ Enzyme inhibitors bind at the active site of an enzyme, preventing it to act on substrates
+▪ Enzyme inhibitors can either be irreversible (i.e. bind and chemically alter) or reversible (i.e. bind without any chemical reaction)
+▪ IC
+50
+is a unit valuation; it represents the lowest concentration of an inhibitor needed to inhibit 50% of a particular enzyme's activity
+▪ An inhibitor with a very low IC50 value indicates a potent compound
+▪ A good inhibitor would be orally bioavailable (able to withstand breakdown in the stomach and kidney) as well as poses the ability to cross the blood brain barrier to bind at the appropriate site of action in the brain
+[47]
+Neurons that release ACh are known as cholinergic neurons. [see footnote 3] Alzheimer's disease (AD) is a neurodegenerative disease; as the neurons die, the symptoms of AD progress.
+[48]
+Dr. Bartus stated that prior to June 21, 1988 (the Canadian filing date), one way of explaining the onset of AD symptoms was the cholinergic hypothesis. Although he acknowledged that, at the time, there was "disagreement as to whether it was possible to use animals to model aspects of human memory, especially involving deficits associated with human-specific diseases" [see footnote 4] he stated:
+Recent memory deficits in aged animals and young animals given cholinergic dysfunction (e.g., by the administration of scopolamine) are conceptually and operationally similar to those consistently seen an aged humans. Since it had been established that there was a striking similarity in the nature of the recent memory deficits in animals and those in humans (including those in early-state AD patients), animal models could be used to study cholinergic dysfunction and memory disturbances. [see footnote 5]
+[49]
+Dr. Bartus praised the tests conducted by Eisai in the development of donepezil:
+Studies with rodent models contributed to advances in the elucidation of mechanisms responsible for age-related behavioural deficits. The clearest evidence for the existence of a recent memory deficit similar to that seen in patients with AD (and other forms of senile dementia caused by cholinergic deficit) can be achieved using a single-trial passive avoidance paradigm (similar to the one reported in the '808 Patent).
+. . . . .
+Creating artificial brain lesions in animals can be used to evaluate potential pharmacological treatments for some of the symptoms of AD. In other words, while such models do not mimic the cause of the disease (i.e., neuronal death) or even the broad constellation of symptoms associated with AD, lesions in the nucleus basalis can provide animal models that have important neurodegenerative, neurochemical and even behavioural characteristics of AD. [see footnote 6]
+[50]
+At paragraphs 60 to 80, Dr. Bartus described the general understanding/knowledge prior to June 21, 1988:
+▪ It was understood that increasing ACh levels in the brain could be done by the use of AChE inhibitors
+▪ There were two known AChE inhibitors that had been clinically tested in patients with AD: physostigmine and tacrine (THA)
+▪ Physostigmine was not a viable compound, since it had a poor half-life
+▪ Tacrine was reported in a report published by Dr. Summers in 1986 (the Summers Report) where 12 patients were given tacrine and responded positively
+▪ Tacrine was not a viable compound since it had unrelated drawbacks such as liver toxicity
+[51]
+As between in vitro (testing in test tubes), ex vivo (testing in animals and sacrificing the animals to study the internal effects) and in vivo (testing in animals and observing the effects), Dr. Bartus did not pick one test above all and stated "all of the tests are important for each provides different types of information." [see footnote 7]
+[52]
+Dr. Bartus reviewed the '808 Patent and categorized the claims into two types: claims directed to compounds and claims directed to therapeutic uses. To Dr. Bartus, Claim 6 "promises a compound that can serve as an AChE inhibitor" and Claim 18 "promises treatment of senile dementia." [see footnote 8]
+[53]
+Dr. Bartus rejected Genpharm's (Mylan's) list of promises as set out in the Notice of Allegation and characterized any such promise as potential advantages of the '808 Patent:
+I do not think that a skilled person would fairly read this Patent in that way. Rather, a skilled person would understand that what the inventors are saying about claim 6 is that it is an AChE inhibitor that can cross the BBB [blood brain barrier]. The other statements in the Patent are either statements of potential advantages (such as low toxicity, bioavailability, good physical properties) which a skilled person would see as a helpful description but not a promise, or indicators of what one might do with an AChE inhibitor. These latter statements include a predicted use for treating senile dementia, which is the promise of claim 18. [see footnote 9]
+[54]
+At paragraphs 102 to 104, Dr. Bartus noted that Claim 18 provides an explicit promise for treatment of senile dementia in humans.
+[55]
+Dr. Bartus stated that Pfizer has demonstrated the utility (i.e. a compound with potent AChE inhibitory activity) of Claim 6 of the '808 Patent, through the disclosure. [see footnote 10]
+[56]
+At paragraphs 109 to 151, Dr. Bartus reviewed the tests disclosed in the '808 Patent as well as the affidavits of Drs. Araki and Ogura. Dr. Bartus noted the tests and methods "were appropriate and standard in the industry." [see footnote 11]
+[57]
+Dr. Bartus acknowledged the error in Example 1 on Page 48 of the '808 Patent, namely it discloses rat data for donepezil when describing a mouse assay. To Dr. Bartus, the conclusion does not change - donepezil still exhibits potent AChE inhibitory activity. [see footnote 12]
+[58]
+Dr. Bartus noted that the test results disclosed at Table 2 of the '808 Patent, found on page 51, demonstrate that donepezil was a potent AChE inhibitor compound. Dr. Bartus rejected any allegations that the test results should have (i) disclosed the number of rats, (ii) had a positive control and (iii) included a frame of reference. To Dr. Bartus, these factors are "not really relevant" and do not change the result that donepezil is a potent AChE inhibitor compound - i.e. the demonstrated utility. [see footnote 13]
+[59]
+Dr. Bartus acknowledged that Table 3 of the '808 Patent (page 52) does not disclose any statistics to better understand the scopolamine-induced memory test result. However, to Dr. Bartus, lack of a detailed description of the procedure does not deny the results disclosed:
+Also, even though no statistics are provided, a skilled person is still able to come to the conclusion that donepezil was able to reverse scopolamine-induced memory loss by the data presented in Table 3, using a reasonably large number of animals (10-17), coupled with the magnitude of change seen at consecutive doses and none of the values were noted as being non-effective (i.e., NE). [see footnote 14]
+[60]
+Dr. Bartus acknowledged that the description of Example 3 of the '808 Patent (page 50 of the patent) contained an error - i.e. the test was conducted at a doses of 1.0 mg/kg of scopolamine and donepezil had been administered two hours before training; not 0.5 mg/kg, one hour before training. Dr. Bartus did not consider the error material:
+Having seen the data where donepezil had been administered one hour before training in the Ogura Affidavit (i.e., 16% at 0.25 mg/kg and 51% at 0.5 mg/kg) the conclusion that donepezil is able to reverse scopolamine-induced cholinergic deficit both at one hour and two hours supports the conclusion that donepezil is a compound that is capable of reversing the cholinergic deficit caused by scopolamine. [see footnote 15]
+[61]
+Dr. Bartus further acknowledged that the '808 Patent does not disclose any comparative data showing the effects of donepezil in tissues other than the brain. He pointed to data at Exhibit C of the Araki Affidavit generated from Eisai as proof that tissues from the heart, serum, small intestine and pectoral muscle were also tested. [see footnote 16]
+[62]
+At paragraphs 156 to 158, Dr. Bartus explained that donepezil has demonstrated its ability to increase ACh present in the brain. He pointed to Exhibits P and R from the Ogura Affidavit in support. No reference to the '808 Patent was provided.
+[63]
+Dr. Bartus stated donepezil demonstrated a wide therapeutic index when compared to physostigmine. He highlighted the data produced in the Chosa Hokoku Report as evidence. [see footnote 17]
+[64]
+Dr. Bartus stated that Pfizer has demonstrated that donepezil: (i) is strong and highly selective, (ii) increases the amount of ACh present in the brain, (iii) exhibits an excellent effect on a model with respect to disturbance of memory, (iv) has persistent activity when compared with physostigmine, (v) has a high safety when compared with physostigmine, (vi) has a large width between the main and the side effects, (vii) has a high bioavailability and (viii) has excellent penetration into the brain. [see footnote 18]
+[65]
+Dr. Bartus further stated that Claim 18 of the '808 Patent can be soundly predicted. He summarized the data in the patent as creating the following factual basis:
+... even considering only the data in the Patent itself, established that donepezil:
+(a) is a potent inhibitor of AChE (both in vitro and ex vivo);
+(b) reaches the brain (i.e., crosses the BBB); and
+(c) is effective in reversing the cholinergic deficit induced by scopolamine [see footnote 19]
+[66]
+Dr. Bartus stated that there was a sound line of reasoning to predict donepezil as being effective in the treatment of senile dementia in humans:
+(a) ACh was known to be an important neurotransmitter, permitting brain cells to"speak" to one another, and specifically playing an important role in memory and learning;
+(b) ACh deficit was understood to be a major contributor to senile dementia, including senile dementia caused by AD;
+(c) It had been shown that ACh deficit similar to that experienced by patients with senile dementia could be induced by blocking cholinergic function with drugs such as scopolamine or lesions to brain cholinergic neurons;
+(d) When the ACh deficit was inducted by scopolamine, the test subjects experienced memory loss similar to that which occurs in senile dementia, including the earliest stages of AD;
+(e) AChE was known to break down ACh, so skilled persons understood that inhibiting AChE would increase ACh levels;
+(f) AChE inhibitors (physostigmine and tacrine) had been shown to reduce the cholinergic deficit both in animals and in humans, and had reduced the severity of the memory impairment in patients with senile dementia, including AD. The most important of these was the Summers paper in the NEJM, which was understood at the time by skilled persons as demonstrating that tacrine was effective in treating AD. [see footnote 20]
+[67]
+Dr. Bartus stated that Tables 1, 2, 3 and 10 in the '808 Patent further substantiate the general principles described above. To Dr. Bartus, the '808 Patent adequately discloses enough information to make a sound prediction. He highlighted the in vitro test results (pages 48-49 and 147 of the Patent), the ex vivo test results (pages 50-51 of the Patent) and in vivo test results (pages 50-52 of the Patent). [see footnote 21]
+[68]
+Based on the test results disclosed and the cholinergic hypothesis, Dr. Bartus stated a sound prediction could easily have been made on reading the '808 Patent.
+[69]
+Notwithstanding the lack of human data in the Patent and elsewhere, Dr. Bartus stated the animal test results are/were more than adequate to make a prediction that donepezil would be useful in the treatment of human beings:
+... Extrapolations and predictions are commonly made from animal in vitro, ex vivo and/or in vivo data to effects in humans. It is part of the way the scientific community works and an integral part of the drug development process ... [see footnote 22]
+[70]
+In his sur-reply affidavit, Dr. Bartus assessed the reply affidavit of Dr. Becker (expert for Mylan). Dr. Bartus rebutted the criticisms levied by Dr. Becker as it pertains to the Summers paper. [see footnote 23]
+[71]
+Dr. Bartus stated that to diminish the Summers paper's significance in the scientific community is a mischaracterization. [see footnote 24]
+[72]
+Dr. Bartus further defended the cholinergic hypothesis as providing a sound basis to predict AChE inhibitors as potential therapies for AD. At exhibits D and E of his sur-reply affidavit, Dr. Bartus provides articles published in 1986 and 1984 further substantiating the authority of the cholinergic hypothesis. Dr. Bartus also mentioned an article he wrote (published in 1982, Exhibit E of his original affidavit) and stated it was highly cited according to Google Scholar - no evidence is provided to support such a statement. [see footnote 25]
+[73]
+Dr. Bartus responded to Dr. Becker's proposition that lethal organophosphates would meet the criteria of the rationale used to develop donepezil. To Dr. Bartus, the comparison with organophosphates, such as sarin, is irrelevant as the '808 Patent and the data included in reports closed the class of compounds to reversible inhibitors. Dr. Bartus draws the distinction that the compounds suggested by Dr. Becker are irreversible inhibitors and are therefore irrelevant. [see footnote 26]
+[74]
+Dr. Bartus rebutted the criticism levied by Dr. Becker by stating it was appropriate for the '808 Patent to conclude from animal test results and that it was not necessary to test with human brain tissue. To Dr. Bartus, it is impracticable and further stated that frozen brain tissue was not readily available in the 1980s - therefore to meet Dr. Becker's criticism, one would have had to test in humans (i.e. administering the compound and waiting for patients to die), which is unnecessary given the overwhelming animal data disclosed. [see footnote 27]
+[75]
+On cross-examination Dr. Bartus admitted the '808 Patent relies on a person skilled in the art to fill in the details of what was done experimentally:
+Q: So the patent is relying on a person skilled in the art to fill in the details based on their knowledge of what's being done - -
+A: That's correct, yes.
+Q: I was going to finish it by saying what's being done in the art by other people elsewhere with these animal test?
+A: Yes, although again, what has been done elsewhere is a whole wide range of things. By the even succinct description they provide, they eliminate a lot of what else has been done elsewhere, so it limits the elements of what else has been done elsewhere is related to what they are doing. That is not a very clear statement I made. [see footnote 28]
+[76]
+Dr. Bartus was asked to interpret the following passage at page 54 of the '808 Patent:
+The compound of the present invention is effective for treatment, prevention, remission, improvement, etc. of various kinds of senile dementia, particularly senile dementia of the Alzheimer type; cerebrovascular diseases accompanying central apoplexy, e.g. cerebral hemorrhage or cerebral infarcts, cerebral, arteriosclerosis, head injury, etc.; and aprosexia, disturbance of speech, hypobulia, emotional changes, recent memory disturbance, hallucinatory-paranoid syndrome, behavioural changes, etc. accompanying encephalitis, cerebral palsy, etc.
+[77]
+Dr. Bartus stated the passage described "[h]opes. They are just laying out hopes." [see footnote 29] He clarified his point:
+A: This paragraph does not represent a promise. Not because they didn't demonstrate it. Promise could simply be something you're predicting, but they're not even predicating all these things. [see footnote 30]
+[78]
+When asked what the '808 Patent teaches, Dr. Bartus stated it "is teaching somebody how to make a brand new class of compounds that have robust cholinesterase inhibitory activity, among other things." When asked if the 'other things' could include being useful in the treatment of AD, he agreed. [see footnote 31]
+[79]
+Dr. Bartus was asked to re-determine the promise of the '808 Patent if Claim 18 was hypothetically removed. After a lengthy exchange no explicit answer was given. Dr. Bartus did agree to a promise put to him:
+Q: When you look at the patent, since you're looking at the patent, don't you see a promise there for therapeutic utility in treating Alzheimer's disease?
+A: In total, yes. [see footnote 32]
+[80]
+Dr. Bartus was shown a document he published (Exhibit 2 of the cross-examination) in which he confirmed the understanding that there were "frustrating limitations of animal models" in 1985. [see footnote 33] He admitted that no animal model was/is universally accepted as valid or predictive of human cognitive disturbances [see footnote 34] and that by 1988, "there was still a significant proportion of the clinical community that weren't yet appreciating the value of animal models." [see footnote 35]
+[81]
+Dr. Bartus was questioned on the accuracy of the Summers paper. When asked to discuss why the FDA had levied criticisms to the study conducted in the Summers paper, Dr. Bartus stated:
+A: You do, but for the FDA's documentation, you need clear records, as I said before, of how you established the blind, how you maintained the blind, how you handled the blind when it was broken, and what impact it may have on the analysis that you do.
+Apparently Summers was negligent in all that regard because he had no experience with what the FDA would require, and yet once his data was published, he asked the FDA to go forward towards an approval process. The FDA is reacting to that, explaining publicly why they cannot approve it. [see footnote 36]
+[82]
+Dr. Bartus was shown a report prepared by the FDA (Exhibit 9 to the cross-examination) in which the FDA strongly attacks the credibility of the Summers paper. The Summers paper had published the use of tacrine in patients with positive results. The authors of the FDA report state "At best, we consider the evidence to be the equivalent of uncontrolled, anecdotal clinical information." [see footnote 37] Dr. Bartus stated:
+A: That's correct. Based on the standards that the FDA requires for registration, they had no choice but to conclude that. There were so many discrepancies between what Summers did and what the FDA requires for registration, they reject the trial. [see footnote 38]
+[83]
+Dr. Bartus maintained that despite some of the test results being omitted in the '808 Patent, the data is sufficient:
+Q: Having taken you through these additional animal studies which were not in the patent, what you're really saying that the inventors didn't need to do any of those in order to be able to predict that this would work in treating humans?
+A: I don't think they needed to do any of those things in order to have a plausible or reasonable prediction that this may work in humans.
+I can say with great certainty the reason these studies were done is because of the millions of dollars that had to be invested and they wanted to have greater certainty, so there is an element of truth to that, but it's all a matter of degree. [see footnote 39]
+[84]
+Dr. Bartus acknowledged the priority patent application contained comparative data to physostigmine and tacrine whereas the '808 Patent omits the information. Dr. Bartus admitted that that information would have been valuable to a person skilled in the art "for getting an understanding of the relative activity of donepezil as compared to known compounds." [see footnote 40] Dr. Bartus would not admit the data would have been useful to predict the utility of donepezil in the treatment of AD; instead he characterized the data as "feel good data" that is of no value. [see footnote 41]
+[85]
+Dr. Kenneth Rockwood
+is a professor of Medicine (Geriatric Medicine & Neurology) at Dalhousie University. Dr. Rockwood practices internal medicine and holds the title of Kathryn Allen Weldon Professor of Alzheimer Disease Research.
+His Mandate was: (i) to provide background information on dementia, specifically senile dementia of the Alzheimer type, (ii) to respond to Genpharm's allegation that the utility of Claim 18 of the '808 Patent could not be soundly predicted and to respond to certain allegations made in the affidavit of Dr. Becker (discussed infra)
+[86]
+Dr. Rockwood stated his opinion regarding Claim 18, as follows:
+It is my opinion that the promise of claim 18 of the '808 Patent (as it depends on claim 6) is that the compound of claim 6 (i.e. donepezil) will be useful in the treatment of the symptoms of senile dementia that arise from a cholinergic deficit.
+It is my opinion that the utility of claim 18 (i.e., the use of donepezil in the treatment of senile dementia) could have been, and in fact was, soundly predicted as of June 21, 1988. [see footnote 42]
+[87]
+At paragraphs 22 to 28, Dr. Rockwood provided general information on AD and the chemical process that occurs in the brain. The following passage succinctly summarizes the process occurring in the brain:
+In the brain, ACh acts as a "neurotransmitter", being a brain chemical that relays "messages" from one neuron to another across a gap called a "synapse". ACh is released from a"pre-synaptic" neuron and crosses the small synaptic gap to a neighbouring "post-synaptic" neuron. There it activates the post-synaptic neuron by binding to a site called a receptor. Once ACh has delivered its message to the neighbouring neuron it dissociates from the receptor and is broken down by an enzyme in the synapse called AChE. This mechanism of release of ACh and then its breakdown by AChE allows brain messages to be turned on and off. [see footnote 43]
+[88]
+Based on, inter alia, articles from 1974 and 1976, he stated that a conclusion could be reached that "it was a deficiency of ACh in the brain that was responsible for memory loss." [see footnote 44] As a result, a hypothesis was born that "increasing levels of ACh would help treat corresponding symptoms" - i.e. the cholinergic hypothesis. [see footnote 45] Dr. Rockwood wrote "[t]here was consensus in the scientific community that it was the most promising approach in the treatment of AD." [see footnote 46]
+[89]
+Dr. Rockwood stated that an AChE inhibitor strategy was the most well-developed strategy in the treatment of AD and noted that
+currently
+three out of the four drugs approved by Health Canada for AD are AChE inhibitors. [see footnote 47]
+[90]
+Dr. Rockwood highlighted the testing of physostigmine as an example of the scientific community embracing the cholinergic hypothesis. In other words, despite the known limitation of physostigmine, the general usefulness of AChE inhibition was well recognized. [see footnote 48]
+[91]
+Dr. Rockwood highlighted the Summers paper, published in 1986 in the New England Journal of Medicine. The Summers paper showed the use of tacrine to treat AD. To Dr. Rockwood, the Summers paper laid the theoretical foundation for scientists studying AD:
+Once it had been established that physostigmine and tacrine improved cognitive function in patients with AD, it was little wonder that others began to search for other AChE inhibitors that could be used in the treatment of patients with AD. [see footnote 49]
+[92]
+Dr. Rockwood construed Claim 18 as claiming the use of donepezil or its pharmaceutically acceptable salts for treating senile dementia caused by an ACh deficit, observed in AD - this is its promise. [see footnote 50]
+[93]
+Dr. Rockwood reviewed the data in the Patent and noted:
+The inventors note that donepezil appears to have some advantages in terms of duration of action and safety with respect to physostigmine, although a skilled person would understand that this is not a "promise". Rather this is an observed advantage of donepezil as compared to the prior art compound physostigmine. [see footnote 51]
+[94]
+Dr. Rockwood stated the data in the '808 Patent sufficiently discloses the factual basis in order to make a sound prediction. He highlights the following disclosure:
+▪ Table 1 of the '808 Patent (page 49) and the results of compound 4 (i.e. donepezil) - which teaches donepezil is potent and has inhibitory activity.
+▪ Table 2 of the '808 Patent (page 51) and the results of compound 4 (i.e. donepezil) - which teaches donepezil reaches the brain.
+▪ Table 3 of the '808 Patent (page 52) and the results of compound 4 (i.e. donepezil) - which teaches donepezil is able to reverse the cholinergic deficit, regardless of the error in data (i.e. the compound was tested after two hours at a 1.0 mg/kg dose, not after one hour at a 0.5 mg/kg dose). [see footnote 52]
+[95]
+Dr. Rockwood summarized his opinion on the sound line of reasoning as follows:
+... To summarize, as of June 21, 1988, it had been well established that AD, and other forms of senile dementia, was associated with a cholinergic deficit. Therefore, researchers sought various means of addressing the cholinergic deficit in these diseases, including the use of AChE inhibitors. Researchers had shown that AChE inhibitors reversed cholinergic-induced deficiencies. Indeed, clinical studies in patients with AD had already been conducted on two AChE inhibitors: physostigmine and tacrine. By June 21, 1988, both physostigmine and tacrine had been shown to have clinically detectable, positive effects in patients with senile dementia. Therefore, the ordinary skilled person's knowledge of the importance of the cholinergic deficit in the pathogenesis of senile dementia, the successful use of AChE inhibitors in reversing cholinergic deficits, and past experience with clinically used AChE inhibitors such as physostigmine and tacrine, served as a sound line of reasoning that AChE inhibitors could be used in the treatment of senile dementia caused by cholinergic deficit, including, most importantly, AD. [see footnote 53]
+[96]
+Dr. Rockwood acknowledged that the affidavits of Araki, Ogura, Sumigama and Yamakawa disclose other tests not included in the '808 Patent. He maintained his position that the disclosure in the '808 Patent was still sufficient. [see footnote 54]
+[97]
+Dr. Rockwood rejected the assertion by Dr. Becker that for an effective sound prediction to be made, testing in two different species needed to have been disclosed. Dr. Rockwood stated there is no such "rule" and that the general knowledge available surrounding physostigmine and tacrine combine to negate any such assertion. [see footnote 55]
+[98]
+Dr. Rockwood further rejected the assertion by Dr. Becker that the '808 Patent data does not disclose enough to extrapolate to use in humans. Dr. Rockwood stated that such extrapolations were done routinely in the science community. [see footnote 56]
+[99]
+In his sur-reply affidavit, Dr. Rockwood assessed the reply affidavit of Dr. Becker (expert for Mylan). Dr. Rockwood stated that the Summers paper did, in fact, impact those working on AChE inhibitors and the cholinergic hypothesis was valid.
+[100]
+Dr. Rockwood addressed the potential criticisms levied against the Summers paper, and noted that the attacks were from those sceptical of whether tacrine could produce the same results in other patients as it did with Dr. Summers' patients. Dr. Rockwood noted that this does not attack the soundness of the cholinergic hypothesis - the AChE inhibitor strategy was still the predominant strategy. [see footnote 57]
+[101]
+Dr. Rockwood noted the irony of Dr. Becker citing several papers criticizing the Summers paper. To Dr. Rockwood, the documents show the AChE inhibitor strategy was clearly on the minds of all those skilled in the art at the time. [see footnote 58]
+[102]
+On cross-examination Dr. Rockwood admitted that since 1996 he has acted as a consultant to Pfizer but stated he had not been to the yearly advisory board meetings in two to three years. He further admitted he consulted for Parke-Davis (a predecessor of Pfizer) in 1994 and was responsible for providing advice to help prepare a clinical submission for the compound, tacrine. [see footnote 59]
+[103]
+Dr. Rockwood admitted he would not consider himself an expert in conducting or interpreting animal studies. [see footnote 60]
+[104]
+Dr. Rockwood agreed that AChE inhibitor treatment was controversial during the 1980s:
+Q: You would agree with me that not all acetylcholinesterase inhibitors reduce the severity of cognitive loss in AD patients?
+A: That is correct.
+Q: At that time, in 1988, no acetylcholinesterase inhibitors had been approved in Canada for treating AD?
+A: That is correct.
+Q: Nor, to your knowledge, by the FDA in the United States?
+A: That's right.
+Q: Would you agree with me that in 1988 it was controversial whether THA [i.e. tacrine] was an effective drug in the treatment of AD?
+A: Yes, there was controversy about how effective THA was as a treatment for AD. [see footnote 61]
+[105]
+Dr. Rockwell admitted that when running a scopolamine induced passive avoidance rodent model, he would want to rule out whether results were caused by peripheral effects. [see footnote 62]
+[106]
+Dr. Rockwood admitted that Table 2 of the '808 Patent (page 51) contains asterisks which are not defined in the document. He stated a skilled person would know the statistical meaning. Dr. Rockwood further stated that statistical significance is a clinically important factor. [see footnote 63] He admitted Table 3 of the '808 Patent (page 52) contains no asterisks and stated that the lack of statistical significance limits ones ability to draw valid conclusions regarding clinical efficacy - "but does not fatally impair." [see footnote 64]
+[107]
+There was a lengthy exchange between Dr. Rockwood and Counsel for Mylan regarding Exhibit 6 of the cross-examination, [see footnote 65] a report published in 1991 discussing the FDA's findings on the Summers paper, in which the Summers paper is heavily criticized. The exchange centred on when did the FDA change its view of the Summers paper - i.e. did the view from positive to negative occur before June 21, 1988? After much debate, it was agreed that the FDA's investigation of the Summers paper started "around 1987" and confirmed the concerns of some in the scientific community regarding "the methodology of the Summers study". [see footnote 66]
+[108]
+During the cross-examination, Counsel for Mylan attempted to ascertain whether Dr. Rockwell interpreted the promise of the patent as a whole or just by a claim. Counsel for Pfizer interrupted the questioning:
+Q: Would you agree with the following statement if we were to read paragraph 16 of your affidavit: "It is my opinion that the promise of the '808 patent is that the compound donepezil will be useful in the treatment of the symptoms of senile dementia that arise from a cholinergic deficit." Would you agree with that?
+(REF) Mr. Bernstein: Don't answer the question. There is no such thing as a promise of a patent. There is only promise on a claim by claim basis.
+Mr. White: That is what I am driving that [sic].
+Q: Is that how you were instructed to determine the promise; it was on a claim by claim basis? Mr. Bernstein: That is how he was instructed to deliver to [sic] promise. [see footnote 67]
+[109]
+Dr. Rockwood admitted that based on what was disclosed in the '808 Patent, there is no information to draw a comparison between donepezil and physostigmine or tacrine. [see footnote 68]
+[110]
+Dr. Alan Kozikowski
+is a professor in the Department of Medicinal Chemistry and Pharmacognosy at the University of Illinois. He completed postdoctoral work at Harvard University. Dr. Kozikowski is primarily an academic but has consulted on matters of medicinal chemistry for medical institutions and companies.
+His Mandate was: To provide an opinion regarding potential infringement of the '808 Patent and to give a general overview of relevant scientific concepts. He was later asked in a sur-reply to respond to the allegation of inutility.
+[111]
+Dr. Kozikowski construed Claims 6 and 18 as follows:
+In my opinion, claim 6 of the '808 Patent pertains to the discovery of a new and useful chemical composition of matter - in other words, a compound. Claim 18, as it depends on claim 6, concerns a therapeutical composition containing this new and useful compound in the treatment of senile dementia. [see footnote 69]
+[112]
+Dr. Kozikowski stated Claim 6 contains no promise; however, if a promise is to be construed, "that promise would be the acetylcholinesterase inhibitory activity, which is the basic biological activity indicated for this new chemical entity." [see footnote 70]
+[113]
+Dr. Kozikowski categorized Mylan's alleged promises as simply advantages of the claimed compound. [see footnote 71] To Dr. Kozikowski, the '808 Patent at Tables 1, 2 and 3 (pages 49-53) disclose sufficient information to demonstrate "that donepezil is a potent AChE inhibitor. [see footnote 72]
+[114]
+On cross-examination Dr. Kozikowski was challenged on his interpretation of Claim 18:
+Q: This is what I am driving at. What type of expert do you think claim 18 is directed towards, what area of expertise?
+A: I would say primarily clinical experts.
+Q: Of which you are not one?
+A: That is correct.
+Q: In terms of actually construing what claim 18 may or may not cover, you would defer to the clinical expert?
+A: That is correct, which is consistent with 17 and 18 [of his sur-reply affidavit]
+Q: When you stated, if I understand you correctly, what claim 18 covers, you merely intended that as a restatement of the actual wordage of claim 18 as opposed to providing any expert context into what those terms might be construed to mean. Is that fair?
+A: That's fair. I hope you got what you wanted. [see footnote 73]
+[115]
+There was a lengthy exchange between Counsel for Mylan and Dr. Kozikowski regarding what scientific aspects, if any, are outside of his expertise when he attempted to construe Claim 18 of the '808 Patent. [see footnote 74] At the end of the examination Dr. Kozikowski eventually admitted that the clinical aspect of Claim 18 (i.e. the use to treat element) was beyond his expertise:
+Q: The area of claim 18 - - again, I appreciate this is a quick repeat, but just so I'm sure that I understand - - it is the use to treat, it is the clinical aspect of claim 18 that is beyond the chemistry and outside your area of expertise and that's why you didn't comment on the promise of claim 18. Is that fair? It's what I've understood your evidence to be.
+A: Yes, that is fair. [see footnote 75]
+[116]
+Dr. Michael McKenna is a pharmaceutical and biotechnology consultant. He holds a PhD in toxicology and has over 35 years experience in toxicology and pharmaceutical drug development. In 1984 Dr. McKenna was employed with Parke-Davis in the pre-clinical management team and in between the years 1986 to 1991, he oversaw the development of tacrine (THA).
+His Mandate was: To answer the following questions: (a) does the utility of the '808 Patent include promises relating to donepezil's toxicity and safety profile? And (b) Accepting Mylan's allegation that the utility of the '808 Patent does include promises relating to donepezil's toxicity and safety profile, had the patentee demonstrated these aspects of utility?
+[117]
+Dr. McKenna characterized any reference to toxicity and safety as "statements supporting some of the observed advantages of this compound ... as compared to what was previously available at the relevant time." To Dr. McKenna the statements are only "instructive". [see footnote 76]
+[118]
+Dr. McKenna stated Claim 6 contains no particular promise; however, on reading the patent as a whole, he stated the compound is an AChE inhibitor. Dr. McKenna stated that Claim 18 is the use of the compound in the treatment of senile dementia. [see footnote 77]
+[119]
+On reviewing the data disclosed on page 55 of the '808 Patent, Dr. McKenna classified the disclosure as teachings, but not promises. [see footnote 78]
+[120]
+Dr. McKenna stated that in his experience it is rare to have anything but a general and preliminary understanding of a compound's toxicity at the time of filing a patent. [see footnote 79] To Dr. McKenna, a skilled person, on reading the '808 Patent would not have expected actual clinical doses to be in the patent but would be for future studies to confirm:
+However, these disclosures do not amount to the promise of the patent. What I mean by this is that there is nothing in the patent to cause me to think that the inventors promised that donepezil would be safe at any level. [see footnote 80]
+[121]
+Dr. McKenna reviewed the Chosa Hokoku Report which included the results of a one and four week test in rats and dogs as described by Dr. Sumigama. To Dr. McKenna it was reasonable for Dr. Sumigama to conclude that 100 mg/kg would have caused serious toxicity, regardless if it is not demonstrated in the report or '808 Patent:
+[54] With reference to the '808 Patent it is my opinion that it was reasonable for Mr. Sumigama to conclude, based on his observation at 30 mg/kg in rats (at which point no "serious" toxicity had been observed), that serious (i.e., irreversible) toxicity would be observed at 100 mg/kg, which was the next incremental dose that would have been tested. This conclusion is consistent with and supports the statement in the patent that donepezil "exhibited toxicity of 100 mg/kg or more, i.e., exhibited no serious toxicity." This statement means that there are no serious toxicity concerns at doses of less than 100 mg/kg, but at doses of 100 mg/kg or more, donepezil exhibits serious toxicity. This was the conclusion reached by Mr. Sumigama and it was an entirely reasonable conclusion to make. [see footnote 81]
+[122]
+Dr. McKenna stated that even if the '808 Patent is construed as promising safety and toxicity properties, the teachings of the Chosa Hokoku Report form the reasoning behind the disclosure in the patent and therefore demonstrates utility. [see footnote 82]
+[123]
+Dr. McKenna responded to the criticism levied by Dr. Becker. To Dr. McKenna it is improper to hold the lack of human testing against the '808 Patent; such testing is impractical, unrealistic and is uncommon at the patent filing stage in drug development. [see footnote 83] He stated:
+Fundamentally, skilled persons understand that it is regulatory approval, rather than a patent, that reflects a drug's safety for administration to human patients, and would not see anything in this patent to disturb this ordinary understanding. [see footnote 84]
+[124]
+In his sur-reply affidavit, Dr. McKenna assessed the reply affidavit of Dr. Becker (expert for Mylan). Dr. McKenna stated that the Summers paper did, in fact, impact those working on AChE inhibitors, specifically Parke-Davis - his employer from 1984-1995.
+[125]
+Dr. McKenna appeared to state that it was because of the Summers paper that Parke-Davis pursued development of tacrine (THA):
+Indeed, Parke-Davis, a large sophisticated pharmaceutical company, decided to pursue the development of THA on the basis that there was good scientific opinion in support of the cholinergic hypothesis and the strong inference to be drawn from Summers' work. The proposal for the development of THA was accepted by management, and clinical trials were initiated, in 1987. In fact, Parke-Davis continued to pursue the development of THA all the way through clinical trials, to its ultimate approval by the FDA. [see footnote 85]
+[126]
+On cross-examination Dr. McKenna admitted that AChE inhibitory activity in and of itself is not pharmaceutically useful unless it can be used in a way that is not unacceptably toxic. [see footnote 86]
+[127]
+When asked to distinguish between the threshold of what is a promise and what is an advantage, Dr. McKenna stated that promises are only statements that are supported with data:
+Q: Do I understand that the promise of the patent will be the statements that are supported by data in the patent, whereas advantages are statements that are made but not supported by data in the patent?
+A: I think that's a reasonable way to approach it. That's the way I would approach it I believe, allowing for perhaps some translation difficulties here and some language issues. [see footnote 87]
+[128]
+Dr. McKenna stated that when reading the '808 Patent one can conclude that a comparative study between donepezil and physostigmine was done. He further stated that upon reading the '808 Patent one can conclude that tests were run to evaluate the side effect dose and minimum effective dose. However, he admitted that the data was not in the '808 Patent and that one "had to go to the other documentation to find that." [see footnote 88]
+[129]
+Dr. McKenna admitted his statement at paragraph 48 of his affidavit that no where in the patent is there a promise of safety in humans was incorrect. When confronted with page 55 of the '808 Patent, Dr. McKenna admitted the statements were inconsistent. [see footnote 89]
+[130]
+Dr. McKenna admitted that his assessment of threshold dose for dogs (i.e. 30 mg/kg at paragraph 51 of his affidavit) was inconsistent with the data disclosed in the reports and that the threshold was actually 10mg/kg. [see footnote 90]
+[131]
+Dr. McKenna admitted that the statement at paragraph 54 of his affidavit (excerpted above) and the statement in the '808 Patent (i.e. page 54: "As a result, all the compounds exhibited a toxicity of 100 mg/kg or more, i.e., exhibited no serious toxicity") could only apply to rats and that the data could not be extrapolated to humans. He further admitted that the data is inconsistent with the data disclosed when donepezil was tested on dogs. [see footnote 91]
+[132]
+Dr. McKenna noted the statements in the '808 Patent regarding safety and efficacy as they relate to humans are based on a prediction not a demonstration:
+Q: The statements regarding safety and efficacy in the patent, insofar as they relate to humans, is based upon prediction, not demonstration?
+A: That's correct.
+Q: The patent itself does not disclose the toxicity testing upon which that prediction is based?
+A: That's correct.
+Q: The person skilled in the art reading the patent really isn't in the same position as the inventors, who where Mr. Sumigama and others, to predict that donepezil would have a high safety when compared to physostigmine? A person skilled in the art just doesn't have the data to - -
+A: You would have to rely on the statement in the patent.
+Q: Right, but the person skilled in the art reading the patent doesn't have the background information and is not in the same position as the inventors were to make the prediction?
+A: That's correct, yes. [see footnote 92]
+[133]
+Based solely on reading the patent, Dr. McKenna admitted that one could not predict donepezil would have a high safety when compared with physostigmine. [see footnote 93]
+[134]
+Dr. McKenna stated that prior to the Summers paper, Parke-Davis did not think to apply the cholinergic hypothesis to clinical trials. [see footnote 94]
+MYLAN'S EXPERT
+[135]
+Dr. Robert Becker is a Clinical Consultant (Drug Design and Development Section, Laboratory of Neurosciences) at the National Institute of Aging. Since 1983, Dr. Becker's research focus has been on the treatment of AD with a specialization in the development of cholinesterase inhibitors.
+His Mandate was: To answer the following questions: (i) what is the utility promised in the '808 Patent? (ii) Has the promised utility been demonstrated in the '808 Patent? And (iii) Can the promised utility be soundly predicted from the information disclosed in the '808 Patent?
+[136]
+Dr. Becker described the skilled person as follows:
+In my opinion, certain aspects of the '808 Patent are directed to a person with a degree in medicine or Ph.D. in a relevant biochemical science, with knowledge of diseases involving cognitive dysfunction, and possessing several years of research experience in clinical pharmacology. This person (or group of persons) would be familiar with, and experienced in, cholinesterase inhibitors and their use as drugs. This person would also be familiar with in vivo and in vitro testing of compounds for biological activity. This person would also have experience in the formulation of medicines. The skilled person would also have experience in synthetic and other aspects of organic or medicinal chemistry, but I am not providing my opinion on these aspects. [see footnote 95]
+[137]
+Dr. Becker highlighted another enzyme other than AChE, known as butyrylcholinesterase that can break down ACh. He stated that in the 1980s, and currently, its function and relevance to neurotransmission is unknown. [see footnote 96]
+[138]
+At paragraphs 46 to 58 of his affidavit, Dr. Becker provided an overview of in vitro (testing a compound in tubes), ex vivo (administering a compound to animals, sacrificing them and testing relevant tissues in tubes) and in vivo (administering a compound to animals and observing effects) testing. He noted that in vitro and ex vivo test results may help in identifying results in vivo, but are not predictive. [see footnote 97]
+[139]
+Dr. Becker further noted that where a disease does not occur in animals, animal model testing is still done but contains "significant predictive limitations". [see footnote 98]
+[140]
+Dr. Becker was critical of the passive avoidance tests used to test donepezil. To Dr. Becker, these tests do not directly measure AChE inhibitory action and only tracks progress of memory loss - only one symptom of AD. [see footnote 99]
+[141]
+Dr. Becker stated that results from in vivo studies in a mouse cannot soundly predict AChE inhibitory activity in a human - extrapolations cannot be done from one species to a different class of species. [see footnote 100] He stated:
+Thus, when testing new compounds, the skilled person would only make a reasonable prediction that the compound would have a similar effect in another species ex vivo or in vivo if that effect had been tested and seen in at least two species (eg., mice and rats or mice and dogs). Certainly, the skilled person would not have predicted reasonably that an effect seen in one species ex vivo or in vivo would also be seen in a human. [see footnote 101]
+[142]
+Dr. Becker was critical of the verbiage used in the '808 Patent. The reference to physostigmine and THA as having "drawbacks" and "unfavourable side effects" (page 1 of the '808 Patent) are undefined and are thus vague. [see footnote 102] As an example of the gravity of such an omission, Dr. Becker noted that without any qualification language, "strong anti-acetylcholinesterase activity" (i.e. page 2 of the '808 Patent) could encompass warfare nerve gas. [see footnote 103]
+[143]
+He further noted that phrases such as "persistent activity" (page 2 of the '808 Patent) and "high safety" (page 2 of the '808 Patent) all indicate a comparison to physostigmine, of which no data is provided. [see footnote 104]
+[144]
+At paragraph 76 of his affidavit, Dr. Becker provides a lengthy list of promises that he interprets the '808 Patent as making. That list closely follows the list set out in Mylan's Notice of Allegation drafted before Dr. Becker was retained. He noted that nowhere in the '808 Patent is there "a limitation of the utility of the claimed compounds to basic acetylcholinesterase [AChE] inhibitory activity." [see footnote 105]
+[145]
+Dr. Becker stated that even if one were to construe the promise of the '808 Patent as only promising AChE inhibitory activity, the patent does not even establish that basic premise in its disclosed data.
+[146]
+At paragraphs 88 to 100, Dr. Becker described the tests ran and disclosed in the '808 Patent. He critically noted that the data disclosed in experiment 1, represented in Table 1 is factually incorrect. Although the test is described as taking mouse brain homogenate, the donepezil data disclosed in Table 1 (page 49 of the '808 Patent) was data obtained using rats. [see footnote 106] Since the donepezil data was from rats and the rest of Table 1 is correctly mouse data, Dr. Becker stated that this error negates any possibility of drawing a comparison in order to establish the potency of donepezil. [see footnote 107]
+[147]
+Dr. Becker further noted that the data disclosed in experiment 3, represented in Table 3 is factually incorrect:
+• The '808 Patent states that 0.5 mg/kg of scopolamine was administered.
+o Dr. Ogura's affidavit disclosed that 0.4 mg/kg was administered to mice and 1.0 mg/kg was administered to rats
+• The '808 Patent states that the results disclosed were taken when the compound was administered one hour before training.
+o Dr. Ogura's affidavit disclosed that the results were taken two hours before training. [see footnote 108]
+[148]
+Dr. Becker stated that the factual errors found in the '808 Patent "cannot form the factual basis of any sound prediction based on acetylcholinesterase activity". [see footnote 109]
+[149]
+Dr. Becker was critical of experiment 1 and questioned its reliability in the absence of control methods. Because of the lack of a control, Dr. Becker stated there is no way to draw a reliable comparison to determine what compound is strong or potent. [see footnote 110]
+[150]
+Dr. Becker was critical of experiment 2, as the data does not disclose the number of rats used. Although the experiment contained a negative control, Dr. Becker stated that a positive control was necessary in order to determine if the experiment was truly measuring what it set out to measure. [see footnote 111]
+[151]
+Dr. Becker was critical of experiment 3, as the disclosure in the '808 Patent did not describe the conditions and methods in which the animals were handled. To Dr. Becker, such information is necessary and renders the data disclosed unreliable. [see footnote 112] Compounding the defect, Dr. Becker stated the experiment is not designed to detected AChE inhibitory activity and furthered diminished any value of the experiment. [see footnote 113]
+[152]
+Dr. Becker stated that even if the data were to be taken as true, it still does not form a strong enough foundation to demonstrate or soundly predict the '808 Patent's utility.
+[153]
+Dr. Becker stated that "the purported invention of the '808 Patent is intended to treat human diseases and to be useful in humans." [see footnote 114] Dr. Becker highlighted pages 1-2, 7, 47-48 and 54-55 of the '808 Patent as support for his interpretation. Because it is directed to humans, Dr. Becker stated there must be "evidence gathered after administration to humans" disclosed. [see footnote 115]
+[154]
+Since the '808 Patent does not disclose experiments that test "amelioration in the diseases" it purports to treat, Dr. Becker stated the patent does not demonstrate its utility. [see footnote 116]
+[155]
+Dr. Becker stated that it is a combination of (i) incorrect facts, (ii) unreliable data and (iii) missing context that render a person skilled in the art incapable of reaching a sound prediction. [see footnote 117]
+[156]
+Dr. Becker pointed out that even if the '808 Patent were to claim basic AChE inhibitory activity as its utility, the patent is contradicted by its own disclosure where it notes that physostigmine and THA are AChE inhibitory but are not useful (page 1 of the '808 Patent). [see footnote 118] To Dr. Becker the '808 Patent is clearly directed at treatment of AD in humans since basic AChE inhibition is not helpful by the standards of the '808 Patent. Dr. Becker noted that the teachings on physostigmine in the '808 Patent further damage any sound prediction that could be reached. To Dr. Becker, since an AChE inhibitor such as physostigmine was not useful in humans, merely stating that donepezil is a potent AChE inhibitory is not enough to soundly predict use of donepezil in humans. [see footnote 119]
+[157]
+Dr. Becker highlighted several phrases that are undefined in the '808 Patent and noted that the lack of context renders a person skilled in the art incapable of making a sound prediction. As an example Dr. Becker noted that no data is provided regarding butyrylcholinesterase in the '808 Patent; without such data one is not able to know what is meant when donepezil is described as "selective" (page 2 of the '808 Patent.). [see footnote 120]
+[158]
+At paragraphs 222 to 273, Dr. Becker criticized the affidavits of the Japanese inventors and their co-workers and noted that nothing disclosed in the affidavits and exhibits demonstrate utility or can form the basis of a sound prediction. The primary attack levied by Dr. Becker is that most of the information produced in these affidavits is
+not
+found in the '808 Patent.
+[159]
+In his reply affidavit, Dr. Becker responded to some of the issues raised by the Applicants' experts.
+[160]
+Dr. Becker rejected the assertion that the Summers paper taught that THA (tacrine) was useful in humans. He disagreed with Drs. Bartus and Rockwood that the Summers paper could form the basis of a sound line of reasoning and cited several articles that "questioned and criticized the methodology used by Summers in his study and the results obtained." [see footnote 121] To Dr. Becker, the Summers paper cannot be used to form part of the reasoning that donepezil could be used in treating AD.
+[161]
+Dr. Becker cited papers that "questioned the use of THA as a potential treatment for AD because of the known side effects of THA, including liver toxicity." [see footnote 122] Dr. Becker further cited papers that generally attack the theory of the cholinergic hypothesis being an answer for treating AD. [see footnote 123]
+[162]
+Dr. Becker noted that the '808 Patent, itself, indirectly criticizes the teaching of the Summers paper as it noted that physostigmine and tacrine had unsatisfactory effects (pages 1-2 of the '808 Patent). [see footnote 124]
+[163]
+Dr. Becker further stated that the cholinergic hypothesis "was not a complete answer to AD treatment" and that a skilled person would know the theory could not form the basis to predict the success of potential therapies for AD. [see footnote 125]
+[164]
+Dr. Becker rejected Dr. Bartus' assertion that it would have been impractical to test and use human tissue. Dr. Becker asserted that frozen human brain tissue "was readily available in the 1980s." [see footnote 126] Building on this point, Dr. Becker stated that it is improper to extrapolate data from rodent brains to "enable predictions for human use." [see footnote 127]
+[165]
+Dr. Becker reaffirmed his toxicity opinion and stated:
+Dr. McKenna (at paragraph 58 of his affidavit) states that the '808 Patent clearly teaches the reader that toxicity is not a concern when administering donepezil in the manner taught by the patent (i.e., at a dose of 4.3 mg/kg/day for adult humans) and that this was demonstrated by Eisai prior to filing the patent. I disagree. The inventors at Eisai did not exclude any possibility of human lethality. The inventors at Eisai did not conduct any toxicity tests on humans, let alone conduct tests on humans using the specific doses taught in the '808 Patent. [see footnote 128]
+[166]
+Dr. Becker summarized his interpretation of the promise of the '808 Patent:
+... While I agree with Dr. Kozikowski (at paragraph 14) that claim 6 itself only describes a molecule, the language of claim 6 does not change my opinion on the promises made by the '808 Patent as described in my First Affidavit. Limiting the promise of donepezil to having basic inhibitory activity, while ignoring the other properties, does not fulfill the objectives of the '808 Patent nor does it overcome the purported limitation of the prior art acetylcholinesterase inhibitors. The '808 Patent acknowledged that having basic acetylcholinesterase inhibitory activity was not enough. The inventors of the'808 Patent were not just looking for another drug or a compound with acetylcholinesterase inhibitory activity; they were looking for something more. The skilled person reading the '808 Patent would not have understood the '808 Patent to simply be promising in claim 6 that donepezil had acetylcholinesterase inhibitory activity (just like any other prior art inhibitor). [see footnote 129]
+[167]
+Dr. Becker noted that what the Applicants' experts considered "advantages" are indistinguishable from "promises". To Dr. Becker, "the skilled person would not make these distinctions":
+Contrary to the applicants' experts' assertions, it is only logical that the skilled person would have understood the '808 Patent to be making specific promises concerning donepezil's bioavailability, safety, toxicity and physical properties (conferring manufacturing advantages). [see footnote 130]
+[168]
+On cross-examination Dr. Becker admitted to receiving assistance in identifying promises in the '808 Patent, including the promise to treat Alzheimer's disease:
+Q: So you went though the patent document, looking for all of the things that the inventor said?
+A: Yes.
+Q: All the characteristics?
+A: Well, I read the document and tried to find them. Then I discussed them and [Mylan's former Counsel] asked me questions. She certainly asked me questions, and I don't remember the specific questions, but like, "Is this a promise?" If the words made a promise, well, it's a promise.
+Q: Were there areas that you had missed in the patent and she said, "Hey, Dr. Becker, what about this? Isn't that a promise?"
+A: Yes. She drew some things to my attention.
+Q: Do you remember what, specifically, they were?
+A: For example, on page 2 of the patent, the people writing it say that, "This drug is effective in Alzheimer's disease." She said to me "Is this a promise to you?" I had to read it and I had taken it as a statement, just that they were saying it. I was sort of taken aback by it. Then she asked me if that was a promise, and I said, "I guess it is a promise. They are saying that is the case. It is going to be effective in Alzheimer's disease." [see footnote 131]
+[169]
+Dr. Becker further described his approach to determining what constituted a promise:
+A: I took a pretty straightforward, stupid approach to it and read the patent. If she raised something to me, read it that way and put the test to it, do they say, "I'm going to do this"? If they say, "I'm going to do it," then I took it as a promise.
+Q: You accepted what [Mylan's former Counsel] had discussed and you recorded it as a promise?
+A: I said that to myself. In my own judgment, I said, "I have to take this as a promise." It fits the dictionary definition. It's a strange word to me, but it makes sense. [see footnote 132]
+[170]
+When shown the listed promises in the Notice of Allegation and compared to the listed promises Dr. Becker included in his affidavit, Dr. Becker admitted that the list is very similar and that it was "probably not" a coincidence that the two were so close, since the former Counsel was helping Dr. Becker draft his affidavit. [see footnote 133]
+[171]
+Dr. Becker was again confronted with the similarities between his affidavit and the Notice of Allegation:
+Q: This is another example of a situation where [the former Counsel] has recorded a list of promises that also appear in the Notice of Allegation and we find them in you affidavit. Correct?
+A: I never said other than that [the former Counsel] wrote this document in its final format. I would have no way of bringing all the points together that we made or the questions she asked me. Now, [the former Counsel] must have been an excellent lawyer who asked me the questions to get me to bring out the points that then she wanted to bring together and organize them this way. She may have copied, as I often do, and taken her list that she had before on her computer and put them in here to make this document up. [see footnote 134]
+[172]
+Dr. Becker was confronted with a number of propositions and was asked whether each would have been known by the skilled person in the art in 1988. He admitted the following points as being known:
+▪ "One important strategy in Alzheimer's disease has been to attempt to compensate for the disturbance in cholinergic function by increasing brain acetylcholine levels." [see footnote 135]
+▪ "This [the above point] has been achieved using physostigmine and tacrine, which induce acetylcholinesterase inhibition." [see footnote 136]
+▪ "Use of physostigmine and tacrine has important deleterious limitations in that (1) physostigmine is a very short acting inhibitor ... (2) tacrine may be hepatoxic" [see footnote 137]
+▪ "In addition, transient memory enhancements with the acetylcholinesterase inhibitor physostigmine, orally or i.v. and tacrine have been demonstrated in Alzheimer patients." [see footnote 138]
+▪ "A direct relationship between loss of forebrain cholinergic innervation and some symptoms of Alzheimer's disease seems likely." [see footnote 139]
+▪ "Based on the assumption that brain function in some Alzheimer's disease patients can be improved by increasing acetylcholine levels at the synapse physostigmine has been used to improve memory function." [see footnote 140]
+[173]
+The above statements were taken from Exhibit 3 of the cross-examination "International Publication No. WO 90/06122".
+[174]
+Dr. Becker further agreed that a person skilled in the art in 1988 would have known the following proposition (found in Exhibit 4 of the cross-examination):
+▪ "Theoretically, an improvement of cholinergic function should lessen the characteristic loss of memory and some of the other symptoms which accompany the disease. Increasing synaptic acetylcholine to potentiate cholinergic transmission in the brain represents a possible approach to the treatment of the symptoms of Alzheimer's disease." [see footnote 141]
+[175]
+Dr. Becker confirmed that no one in 1988 would dismiss the theory that cholinesterase inhibitors may be efficacious. [see footnote 142]
+[176]
+Dr. Becker was questioned on the value of animal test models. When read a passage from an article marked Exhibit 10, Dr. Becker admitted some value can be ascertained:
+Q: In some instances, these pharmacologists are telling us, predictions can be based on animal studies?
+A: Yes. They are also making an important distinction between the face validity, what you see in the behaviour, and the underlying neurochemistry being affected in the animal. [see footnote 143]
+[177]
+Dr. Becker admitted that a skilled person in 1988 would have regarded the Summers paper as "encouraging". [see footnote 144]
+[178]
+Dr. Becker was shown a textbook he co-edited in 1988 (page 1 of Exhibit 13 of the cross-examination). The book contains the following disjointed statement: "Also in animal experiments have the critical importance of cholinergic systems for memory and learning been shown." Dr. Becker agreed that a person skilled in the art would have known that proposition in 1988. [see footnote 145]
+[179]
+Dr. Becker further agreed that a "pervasive view held by those working in the art in 1988" would have been that cholinesterase inhibitor therapy appeared to be a promising approach to treating senile dementia of the Alzheimer's type. [see footnote 146] Later in the examination he agreed that it was known in 1988 that "there [was] evidence that acetylcholinesterase inhibition can modify cognitive function to the benefit of Alzheimer's disease patients." [see footnote 147]
+[180]
+Dr. Becker stated that the person skilled in the art need not have a degree "but the person should be able to demonstrate an expertise in their field." This is in contrast to paragraph 20 of his affidavit where he specified a Ph.D. [see footnote 148]
+[181]
+When discussing behaviour models, Dr. Becker admitted AChE inhibitory activity can be inferred:
+Q: Sir, I put it to you that acetylcholinesterase inhibition activity may be inferred from the behaviour observed?
+A: Yes, yes. [see footnote 149]
+[182]
+Dr. Becker commented on the need to have two species tested in order to make a sound prediction:
+A: No, I'm saying that it's not necessary to go to the lengths we do - - six, seven, eight species. I'm just saying that the minimum level to make a sound prediction would be to have data from two species and then to say, all right, on the grounds on which we are predicating, there is a similarity to the third species so I can make a sound prediction to a third species.
+And I just tried to say that you could go to more species and that would become a sounder prediction and you would have to have less of this commonality among them. [see footnote 150]
+[183]
+Dr. Becker provided no authority for this line of reasoning nor was he questioned about his line of reasoning.
+NOC PROCEEDINGS
+[184]
+I reviewed the nature of our unique-to-Canada
+NOC Proceedings
+recently  <FRAGMENT_SUPPRESSED>  Inc., et. al. v. Pharmascience Inc. et. al
+., 2011 FC 239, at paragraphs 37 to 42. I repeat what I wrote at paragraph 41:
+[41] In the Court proceedings, a first person is required to demonstrate, in accordance with subsection 6(2) of the NOC Regulations, that "none of those allegations is justified". Thus, the object of the proceedings is to look at the allegations, consider the evidence, apply the law, and determine whether an allegation made in the NOA is justified. Such a determination, for instance, whether an allegation as to invalidity is justified or not, does not preclude that issue from being litigated in an ordinary action respecting the patent, in other words, there is no res judicata
+( <FRAGMENT_SUPPRESSED> :
+33 The NOA defines the issues to be determined in proceedings under the Regulations. Furthermore, deciding a case on a basis not raised by parties gives rise to an issue of procedural fairness (see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) at para. 32). Counsel for Searle made the valid point that if it had been raised before the Applications Judge, evidence could have been called and submissions made accordingly.
+[186]
+The task is, therefore, to look at the relevant allegations made in the second person's Notice of Allegation (NOA), and to determine whether, having regard to the evidence presented and the application of the pertinent law, whether those allegations are "justified".
+[187]
+The allegations which pertain to the remaining issue to be determined in these proceedings are lengthy. I set them out as an annex to these Reasons. [Annex omitted]
+BURDEN OF PROOF
+[188]
+The only matter at issue is validity of certain claims of the '808 Patent. The burden of proof in that respect was reviewed in <FRAGMENT_SUPPRESSED> , supra, at paragraphs 43 and 44, which I repeat:
+BURDEN OF PROOF
+[43] O'Reilly J of this Court has summarized the question of burden of proof where the issue is invalidity in
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 183 (aff'd 2007 FCA 195, leave to appeal refused [2007] SCCA No. 371) at paragraphs 9 and 12:
+9 In my view, the burden on a respondent under the Regulations is an "evidential burden" -- a burden merely to adduce evidence of invalidity. Once it has discharged this burden, the presumption of validity dissolves and the Court must then determine whether the applicant has discharged its legal burden of proof. I believe this is what is meant in those cases where the Court has stated that the respondent must put its allegations "into play". It must present sufficient evidence to give its allegations of invalidity an air of reality.
+. . . . .
+12 To summarize, Pfizer bears the legal burden of proving on a balance of probabilities that Apotex's allegations of invalidity are unjustified. Apotex merely has an evidentiary burden to put its case "into play" by presenting sufficient evidence to give its allegations of invalidity an air of reality. If it meets that burden, then it has rebutted the presumption of validity. I must then determine whether Pfizer has established that Apotex's allegations of invalidity are unjustified. If Apotex does not meet its evidential burden, then Pfizer can simply rely on the presumption of validity to obtain its prohibition order.
+[44]  <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 191, I said in respect of the same thing at paragraph 32:
+32 I do not view the reasoning of the two panels of the Federal Court of Appeal to be in substantial disagreement. Justice Mosley of this Court reconciled these decisions in his Reasons in
+ <FRAGMENT_SUPPRESSED>  2007 FC 971 at paragraphs 44 to 51. What is required, when issues of validity of a patent are raised:
+1. The second person, in its Notice of Allegation may raise one or more grounds for alleging invalidity;
+2. The first person may in its Notice of Application filed with the Court join issue on any one or more of those grounds;
+3. The second person may lead evidence in the Court proceeding to support the grounds upon which issue has been joined;
+4. The first person may, at its peril, rely simply upon the presumption of validity afforded by the Patent Act or, more prudently, adduce its own evidence as to the grounds of invalidity put in issue.
+5. The Court will weigh the evidence; if the first person relies only on the presumption, the Court will nonetheless weigh the strength of the evidence led by the second person. If that evidence is weak or irrelevant the presumption will prevail. If both parties lead evidence, the Court will weigh all the evidence and determine the matter on the usual civil balance.
+6. If the evidence weighed in step 5 is evenly balanced (a rare event), the Applicant (first person) will have failed to prove that the allegation of invalidity is not justified and will not be entitled to the Order of prohibition that it seeks.
+PERSON SKILLED IN THE ART
+[189]
+The parties have agreed as to the description of a person of ordinary skill in the art (POSITA) or, as it is sometimes written, person skilled in the art (PSA). With reference to the Applicants' Memorandum of Fact and Law, paragraph 95, and Mylan's Memorandum, paragraph 39, the POSITA or PSA may be described as follows:
+"... someone with an advanced degree in medical chemistry, biology or pharmacology, or a clinician working in the area of dementia."
+CLAIMS 6 AND 18 - CONSTRUCTION
+[190]
+The Applicants have put in issue claims 6 and 18 of the '808 Patent. I repeat these claims as previously set out with the simplification of the chemistry by substituting donepezil for the complex formula and making direct reference to claim 6 in claim 18:
+6. The compound donepezil or donepezil hydrochloride
+. . . . .
+18. A therapeutical composition for treating senile dementia, which comprises donepezil or donepezil hydrochloride and a pharmaceutically acceptable carrier."
+[191]
+These two claims are quite clear on their face. Claim 6 is simply directed to the compound donepezil or donepezil hydrochloride. Claim 18 goes further and claims the use of such compound as a therapeutical composition for treating senile dementia.
+[192]
+Mylan argues that the use of that donepezil compound must be "inherent" in claim 6. I do not agree. Donepezil or donepezil hydrochloride is a new compound. Nobody ever disclosed such a compound previously. As such, the compound alone is proper subject matter for a claim (provided it meets other criteria). A use for such a compound must be disclosed in the specification, but does not need to be incorporated into the claim. As I wrote in
+ <FRAGMENT_SUPPRESSED> :
+81 As discussed in respect of claim construction, a patented invention must be "new
+and useful
+". If the invention lies in a new compound, the utility must be disclosed in the descriptive part of the patent; it may or may not be expressly included in the claims. If the invention lies in a new use for an old compound, the utility must be included in the claim.
+[193]
+This does not mean that the utility as described in the specification cannot be examined, and it will be here. It simply means that for a new compound, the utility does not have to be included as part of the claim. Here, claim 6 does not include a utility; claim 18 does.
+THE '808 PATENT -ACCURACY OF DISCLOSURE
+[194]
+Mylan asserts in its Memorandum of Fact and Law, particularly at paragraphs 28 to 38, that some of the testing and resulting data as repeated in the '808 Patent is inaccurate having regard to the evidence as to what Eisai actually did.
+[195]
+The evidence as to what took place at Eisai came from the affidavits, exhibits and cross-examinations of two of the named inventors of the '808 Patent and two other persons working on the project at Eisai at the time and, in particular, Araki, Orgura, Sumigama and Yamakawa. The evidence of these persons in cross-examination was conducted through a Japanese/English translator. Much of the documentary evidence had been translated into English from the original Japanese. I found the cross-examination evidence difficult to follow. It was interrupted many times by a so-called "check" translator as well as by Counsel for the person being examined.
+[196]
+However, it is not necessary that this evidence be considered in the context of these NOC proceedings. No allegation was made by Mylan in the Notice of Allegation as to whether the '808 Patent fully and accurately sets out the work done by Eisai. I appreciate that without actual knowledge as to what went on at Eisai at the time, Mylan would have no basis for making such allegations. This is one of the problems encountered in NOC proceedings of this type. A good contrast can be drawn between an action where validity is at issue, discovery taken of a party and of the named inventors contrasted with an NOC application where only the witnesses offered by a party can be cross-examined. The results can be quite different. This occurred in
+ratiopharm inc. v. Pfizer Limited
+, 2009 FC 711, where a patent was held invalid in part because the data was not fairly presented as compared with
+ <FRAGMENT_SUPPRESSED>  both being NOC proceedings in which attacks on validity of the same patent, which did not include issues as to the accuracy of the data, did not prevail.
+[197]
+In the present case, since Mylan's Notice of Allegation did not raise issues as to whether the testing and data presented in the '808 Patent accurately presented what was done at Eisai, the Court cannot consider such matters in the context of the issues here.
+[198]
+The issue in these NOC proceedings must be determined on the basis of what is set out in the Notice of Allegation.
+UTILITY - PROMISE OF THE PATENT - SOUND PREDICTION
+[199]
+I have lumped all three of these considerations together. Mylan has concisely stated its argument at the last sentence of paragraph 7 of its Memorandum of Fact and Law which I will paraphrase as:
+... is the '808 Patent invalid for lack of sound prediction of the promised utility?
+[200]
+This leads to an examination of the concepts of utility, promise, and sound prediction as they have been developed in patent law. I will examine each.
+1)
+Utility
+a)
+Requirement for Utility
+[201]
+The
+Patent Act
+, supra, section 2, defines "invention" as "any new
+and useful
+... composition of matter and any new
+and useful
+improvement in any ... composition of matter."
+"invention" means any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter;
+[202]
+There is no doubt that a patented "invention" must be "useful". However the requirement for utility should not be confused with any necessity to put it directly or by inference in the claims. In the case of a new compound it is sufficient that the utility be stated in the specification (sometimes called the promise). In the case of a previously known compound for which a new utility has been discovered that utility must both be set out in the specification and in the claims (
+ <FRAGMENT_SUPPRESSED>  at para. 157).
+b)
+What is "Useful
+"
+[203]
+There have long been discussions in the patent law field as to what exactly does "useful" mean. There can be degrees of usefulness ranging from not useful for anything, to frivolous, to no better than what is known, to a reasonable alternative, to an advance in the art, to startling breakthrough.
+[204]
+There are those who will argue that a patented invention that has little or no practical utility will not be marketed, or if marketed, will have little commercial acceptance (e.g. Franzoni,
+Patentable Inventions
+, (1997) 6 EIPR251). The issue as to utility should never arise as nobody would litigate such a patent.
+[205]
+Countries such as Germany, before it adopted the European Patent Conventions, required an "advance in the art" as a basis for utility (Easer,
+Patent Law, Federal Republic of Germany
+, World Intellectual Property Guidebook, 1991).
+[206]
+In the United States, a standard was set as early as 1817 in
+ <FRAGMENT_SUPPRESSED>  of use," the Court wrote:
+[i]t is not necessary to establish, that the invention is of such general utility, as to supersede all other inventions now in practice to accomplish the same purpose. It is sufficient, that it has no obnoxious or mischievous tendency, that it may be applied to practical uses, and that so far as it is applied, it is salutary. If its practical utility be very limited, it will follow, that it will be of little or no profit to the inventor; and if it be trifling, it will sink into utter neglect. The law, however, does not look to the degree of utility; it simply requires, that it shall be capable of use, and that the use is such as sound morals and policy do not discountenance or prohibit.
+[207]
+That concept remains throughout the jurisprudence in the United States. A more recent example is
+ <FRAGMENT_SUPPRESSED>  (Fed Cir) where the Court wrote at page 1180:
+An invention need not be the best or the only way to accomplish a certain result, and it need only be useful to some extent and in certain applications.
+[208]
+In Great Britain, the standard established by the Courts for utility is low. Utility means primarily that the invention will work (
+ <FRAGMENT_SUPPRESSED>  at 262) that the "wheels will go round" (
+ <FRAGMENT_SUPPRESSED>  (CA) at 287).
+[209]
+In Canada, a low standard for utility has been established by the Courts. It is sufficient that it be new, better, cheaper, or afford a choice. It can include an advantage or a disadvantage that is avoided. The Federal Court of Appeal wrote at paragraph 31 of its decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.):
+To meet the statutory requirement in subsection 34(1) of the
+Patent Act
+, R.S.C. 1985, c. P-4 (old Act) that a patent be 'useful', the selected species must have an advantage over the class as a whole (see
+ <FRAGMENT_SUPPRESSED>  at pages 525-526). That case broadly defined the utility required for valid patent as discussed in
+Halsbury's Laws of England
+(3rd ed.), vol 29 at page 59:
+... it is sufficient utility to support a patent that the invention gives either a new article, or a better article or a cheaper article, or affords the public a useful choice.
+However, there are no special legal requirements regarding what particular type of advantage is required. The test for advantage is understood to include a disadvantage to be avoided, as is the case here (see
+I.G. Farbenindustrie
+at page 322).
+[210]
+However, even given that the standard of utility is low, one must still ask, as the English Court of Appeal did in
+ <FRAGMENT_SUPPRESSED>  patent come into play.
+c)
+Useful for What - Promise of the Patent
+[212]
+The concept of "promise" of the invention in British law is usually traced back to the speech of Lord Birkenhead in
+ <FRAGMENT_SUPPRESSED>  (HL) at page 237 where he found that the "promised results" stated in the specifications of a patent dealing with a process for producing dried milk would render a patent invalid if it failed to produce the promised results; in that case, perfect restoration upon the addition of hot water with the milk sugar and solids being unaltered. He said:
+The law which is applicable in dealing with matters of this kind is well settled and has never been more clearly stated than by Mr. Justice Parker in the often-quoted case of Alsop's Patent (24 R.P.C. 733 at p. 752). "In considering the validity of a patent for a process, it is, therefore, material to ascertain precisely what the patentee claims to be the result of the process for which the patent has been granted; the real consideration which he gives for the grant is the disclosure of a process which produces a result and not the disclosure of a process which may or may not produce any result at all. If the patentee claims protection for a process for producing a result, and that result cannot be produced by the process, in my opinion the consideration fails." In other words, protection is purchased by the promise of results. It does not, and ought not to, survive the proved failure of the promise to produce the results.
+[213]
+This is not to serve as an invitation to a zealous lawyer to read a patent specification in such a way as to persuade a Court, one way or the other, as to what the promise is. A patent is to be read "
+in its commercial sense
+" as Justice Romer wrote in
+Leonhardt and  <FRAGMENT_SUPPRESSED>  at 115:
+Now, in obtaining this colourless product - this permanently colourless product - no doubt the Patentee in his process passed through, if I may use the expression, certain stages of colouring-matters which were at the time thought useless or unimportant, and were disregarded. But, in the year 1888, he patented this remarkable discovery, that if you took the yellow colouring-matter I have mentioned, and instead of treating it in accordance with the 1886 patent until it became perfectly colourless, you treated it with a deoxidising substance, sometimes called an oxidisable substance, and stopped when you got the full colouring-matter from it, that you then produced a matter which in itself was a new and a valuable dye, a dye for colours ranging from a yellow through orange to brown. It was found that this was an excellent dye. It was a fast dye. That is to say, it would stand that stringent test of being fast to alkali, which is frequently applied, and which is the one that has been applied by the Plaintiffs and their experts in this case, and which, in my opinion, is a fair test. Now, that quality of fastness, undoubtedly, was a very important one, and I am satisfied that this dye, the subject of the 1888 patent, has a great advantage in that respect over the yellow colouring-matter that I have previously mentioned. This discovery, and the process by which the Patentee produced this new dye, was the subject of the 1888 patent, and, as I have said before, I think, was a good subject of a patent. I may add here, once for all, that the fast to alkali, in its commercial sense, or in its manufacturing sense, means that the fabric does not change colour, that is, get darker, when alkali test is applied. Apparently, or possibly, all colours get fainter if you boil them sufficiently long in a soda solution, but that is not what is meant by being fast to alkali.
+[214]
+The Canadian Courts have frequently stated that the assistance of experts is useful in determining the"promise" of the patent. For instance, the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  Layden-Stevenson JA, for the Court, wrote at paragraph 80:
+80 The promise of the patent must be ascertained. Like claims construction, the promise of the patent is a question of law. Generally, it is an exercise that requires the assistance of expert evidence:  <FRAGMENT_SUPPRESSED>  F.C.J. No. 1579 at para. 27. This is because the promise should be properly defined, within the context of the patent as a whole, through the eyes of the POSITA, in relation to the science and information available at the time of filing.
+[215]
+Layden-Stevenson JA, again for the Court, wrote a similar statement in
+ <FRAGMENT_SUPPRESSED> :
+101 Determining the promise of a patent is an aspect of claims construction, a question of law:  <FRAGMENT_SUPPRESSED> . Generally, it is an exercise that requires the assistance of expert evidence and so it was in this case.
+[216]
+The general manner in which a patent specification would be read, including the "promise", was discussed in <FRAGMENT_SUPPRESSED> , supra at paragraphs 83 to 89:
+83 There has been considerable jurisprudence as to reading a claim, which is part of the overall specification of a patent, but less jurisprudence as to how to read the description; particularly the "promise" of a patent.
+84 The Supreme Court of Canada has set out the approach to construction of the specification of a patent in
+ <FRAGMENT_SUPPRESSED> ]), being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. There is no occasion for being too astute or technical in the matter of objections to either title or specification for, as Duff C.J.C. said, giving the judgment of the Court in
+Western Electric Company, Incorporated, and  <FRAGMENT_SUPPRESSED> ], at p. 574, "where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction". Sir George Jessel spoke to like effect at a much earlier date in
+ <FRAGMENT_SUPPRESSED>  anxiety to support a really useful invention".
+85 Construction of a patent is for the Court, to be approached from the viewpoint of a skilled person (POSITA) without resort to "technicalities". Pigeon J, for the Supreme Court, wrote at page 563 of
+ <FRAGMENT_SUPPRESSED> :
+With respect, I cannot agree that Claim 17 is invalid because the words "compatible with normal skin" are found before "comprising" instead of after, so that it would be valid, it seems, if the words were rearranged as follows:
+17. An electrocardiograph cream for use with skin contact electrodes comprising a stable aqueous emulsion that is anionic, cationic or non-ionic, containing sufficient highly ionizable salt to provide good electrical conductivity and compatible with normal skin.
+In my view, the rights of patentees should not be defeated by such technicalities. While the construction of a patent is for the Court, like that of any other legal document, it is however to be done on the basis that the addressee is a man skilled in the art and the knowledge such a man is expected to possess is to be taken into consideration. To such a man it must be obvious that a cream for use with skin contact electrodes is not to be made up with ingredients that are toxic or irritating, or are apt to stain or discolour the skin. The man skilled in the art will just as well appreciate this necessity if the cream to be made is described as "compatible with normal skin" as if it is described as containing only ingredients compatible with normal skin.
+86 Expert evidence may be used to assist the Court to explain technical terms, to show the practical workings of an invention and to assist in distinguishing what is old from what is new. However, the construction of the specification is exclusively within the province of the Court; it is a question of law. Duff C.J. for the Supreme Court wrote in
+ <FRAGMENT_SUPPRESSED>  at pages 572 - 573:
+I should add also that not only is the construction of the specification exclusively within the province of the court -- but also it is for the court a question of law.  <FRAGMENT_SUPPRESSED> , at 208.], Lord Buckmaster said,
+My lords, what did the specification of 1906 disclose and what did the patent of 1909 protect? These are the questions that arise for determination on this appeal, and their resolution depends upon the construction of two documents; such construction is the exclusive duty of the court, and this duty can neither be delegated nor usurped. As however in ordinary cases the existing circumstances in which documents were prepared, the relationship of the parties and the interpretation of terms of art are the proper subject-matter of evidence, so in specification of patents the state of knowledge in the craft, art or science to which the specification is directed and the explanation of technical terms, words and phrases are the proper subject-matter of testimony to aid interpretation; but beyond this, evidence affecting construction should not be allowed to stray. Finally, the document must be regarded as addressed to craftsmen in the particular branch of industry to which the alleged invention relates.
+And Lindley, L.J., in
+ <FRAGMENT_SUPPRESSED> , at 73.], expressed himself thus:
+The judge may, and indeed generally must, be assisted by expert evidence to explain technical terms, to show the practical working of machinery described or drawn, and to point out what is old and what is new in the specification. Expert evidence is also admissible, and is often required, to show the particulars in which an alleged invention has been used by an alleged infringer, and the real importance of whatever differences there may be between the plaintiff's invention and whatever is done by the defendant. But after all, the nature of the invention for which a patent is granted must be ascertained from the specification, and has to be determined by the judge and not by a jury, nor by any expert or other witness. This is familiar law, although apparently often disregarded when witnesses are being examined.
+87 Lord Hoffman, writing for the House of Lords, recently addressed the same question in
+ <FRAGMENT_SUPPRESSED>  (H.L.), at paragraphs 32 and 33:
+Construction, whether of a patent or any other document, is of course not directly concerned with what the author meant to say. There is no window into the mind of the patentee or the author of any other document. Construction is objective in the sense that it is concerned with what a reasonable person to whom the utterance was addressed would have understood the author to be using the words to mean. Notice, however, that it is not, as is sometimes said, "the meaning of the words the author used", but rather what the notional addressee would have understood the author to mean by using those words. The meaning of words is a matter of convention, governed by rules, which can be found in dictionaries and grammars. What the author would have been understood to mean by using those words is not simply a matter of rules. It is highly sensitive to the context of and background to the particular utterance. It depends not only upon the words the author has chosen but also upon the identity of the audience he is taken to have been addressing and the knowledge and assumptions which one attributes to that audience. I have discussed these questions at some length in
+ <FRAGMENT_SUPPRESSED> . In the case of a patent specification, the notional addressee is the person skilled in the art. He (or, I say once and for all, she) comes to a reading of the specification with common general knowledge of the art. And he reads the specification on the assumption that its purpose is to both to describe and to demarcate an invention - a practical idea which the patentee has had for a new product or process - and not to be a textbook in mathematics or chemistry or a shopping list of chemicals or hardware. It is this insight which lies at the heart of "purposive construction".
+88 At paragraph 78, Lord Hoffman noted that a person skilled in the art must be assumed to know the basic principles of patentability.
+78. The effect of the construction for which Amgen contends is that claim 1 should be read as including any DNA sequence, whether exogenous or endogenous, which expresses EPO in consequence of the application to the cell of any form of DNA recombinant technology. It would have been easy to draft such a claim. Whether the specification would have been sufficient to support it, in the sense of enabling expression by any form of DNA recombinant technology, is another matter to which I shall return when I deal with validity. But the person skilled in the art (who must, in my opinion, be assumed to know the basic principles of patentability) might well have thought that the claims were restricted to existing technology because of doubts about sufficiency rather than lack of foresight about possible developments. Amgen would have been well aware in 1983 that recombinant technology was developing rapidly and that artificial homologous recombination had been achieved in bacterial and yeast cells and that its use in mammalian cells was regarded as a desirable goal.
+89 The late Dr. Harold Fox in his book "The Canadian Law and Practice Relating to Letters Patent for Invention", 4th ed., 1969, Carswell, Toronto (Fox on Patents) provided a useful insight into this issue at pages 208 - 209 (omitting footnotes):
+IMPARTIAL CONSTRUCTION
+Originally patents were regarded with disfavour as being in the nature of monopolies and there existed a great tendency to be unnecessarily strict in construing patents against the patentee. The tendency then swung to the other extreme and courts were often found construing a patent most benevolently in favour of the patentee who had introduced a new manufacture. It should not be necessary to observe that a construction that is, even in the slightest degree, either too strict or too benevolent, ceases to be an impartial construction and is, therefore, improper. A patent specification is subject to the same impartial canons of construction as ordinarily apply to written documents generally. As Chitty J. observed in  <FRAGMENT_SUPPRESSED>  benevolently; I do say it ought to be construed fairly. It must be read by a mind willing to understand, not by a mind desirous of misunderstanding."
+. . . . .
+The court should, therefore, in construing a specification, be the fair and impartial arbitrator between the patentee and the public. The construction must be reasonable, fair and logical, in accordance with the manner of construction of all written documents according to the true intent. Nothing should be presumed in favour of the patentee or an alleged infringer, although it is proper for the court to endeavour to support a patent if it can be done honestly and fairly and without improper construction, for it is a reasonable presumption that a patentee would not claim anything that would render his patent void.
+[217]
+Thus, in construing the specification of a patent, in particular the "promise," the Court is to look at the specification through the eyes of a person skilled in the art, bearing in mind commercial realities, being neither benevolent nor harsh, in order to determine fairly the true intent.
+d)
+Care in Using Expert Evidence in Matters of Construction
+[218]
+As discussed in the foregoing topic, the Courts have made it clear that the assistance of an expert is often required in considering the promise of a patent. However, as stated in the passage quoted from Duff C.J. of the Supreme Court in
+Western Electric
+, who in turn quoted Lord Buckmaster in
+British Thomson-Houston
+, construction of the specification (which is where the promise is set out) is within the exclusive province of the Court. Expert evidence may and often must be received in interpreting terms of art and providing the Court with the state of the art background within which the specification is to be considered.
+[219]
+An illustration as to the perils of an expert in going beyond the bounds of his or her expertise and into the area of patent construction can be found in the evidence of Dr. Becker, the only expert produced by Mylan, and Dr. Bartus, a principal expert for the Applicants.
+[220]
+In his affidavit in chief, Dr. Becker provided a summary as to the "promise" of the '808 Patent at paragraph 76. I will not reproduce it in full because of its length, but it essentially tracks the summary as set out at pages 9 and 10 of Genpharm's (Mylan's) Notice of Allegation. Paragraph 76 begins:
+The Promised Utility: Utility for Humans
+76. The '808 Patent makes a number of specific promises as to the utility of the invention, all of which are directed to humans (i.e. therapeutic utility and efficacy for treatment, prevention and remission of AD and other human diseases) or are intended to assist in the delivery of this therapeutic utility (i.e., advantages in the manufacturing of pharmaceutical preparations). In particular, the compounds of the present invention are said to have the following utility:
+[221]
+In cross-examination, Dr. Becker was remarkably candid as to how his affidavit, including this passage, came to be drafted. That cross-examination was lengthy. I will repeat only portions to give a sense of it.
+121 Q. It's your paper, and that's Exhibit P. Correct"
+A. Yes. Now, this paper I know, very definitely, I brought to their attention and insisted they put that in there.
+122 Q. Are you saying they didn't know about this paper until you brought it to their attention?
+A. Whether they knew about it beforehand, I don't know. But I know I brought this paper to their attention, because I remember my times with [a former Counsel for Mylan] were not always smooth. So I was saying to her, "Look, this is a very important issue." I remember that.
+123 Q. I assume that what you were referring to when you said your times weren't smooth was that you and [the former Counsel] would have had some areas of disagreement?
+A. In the sense that she would ask me questions and we would go back and forth and she would say, "Is this what you're saying?" I would say no, and we would go back and forth and get clear what I was saying. She would say something and then, finally, she got down something I could agree with or did agree with.
+What I'm talking about, after all, the affidavit is written with legal phrasing and words like "person skilled in the art." That was not a use of mine, so when she wrote those sentences she had to explain to me what that meant.
+124 Q. I was going to suggest to you, sir, that you didn't write your affidavit, did you?
+A. Let me tell you how it happened.
+125 Q. Please.
+A. She would call me up and ask me questions. I would answer the questions. She said she was taking notes. Then she came once to Portland. Then she got me to come to Toronto, because it was the opera season. Then I suggested we use Skype. Then she came to Portland on that date that ended with the affidavit being witnessed,
+. . . . .
+137 Q. But he wasn't around when your affidavit was sworn, was he?
+A. No.
+138 Q. So what did she tell you?
+A. She said to me that the - I never got it really quite clear, as clear as that. But she said to me that - let me see if I can get her words - the usefulness of it had to be somehow either demonstrated or soundly predicted by the patent, and that the patent had to - now, here she didn't use the word, but it had to do what it said it was going to do.
+139 Q. Is that the sense in which you have used the word utility in your affidavit that [the former Counsel] helped you write?
+A. I would disagree with that. "Help me write" is a bit of a generalization. But the use of the word utility that I used in my affidavit was that there either had to be a demonstration or a sound prediction of each of the elements that I read in the patent as saying that this is what the inventors were going to do.
+140 Q. Was it your understanding that if there was a demonstration of utility it had to be in the patent?
+A. Excuse me?
+141 Q. If there was a demonstration of the utility it had to be in the patent?
+A. My understanding was that that was generally the case, but there are legal subtleties to that, and those I did not want to know, particularly.
+142 Q. Because you didn't understand the legal subtleties, you just used the legal test that [the former Counsel] gave you?
+A. I understood that something demonstrated has to be - no, wait. Let's see now.
+. . . . .
+THE WITNESS: I'm talking to you, and I have forgotten about my affidavit. But even without looking at the affidavit, I understand - and understood at the time, because she talked to me about that repeatedly - that there's a difference between what had to be demonstrated and soundly predicted. For something to be soundly predicted, it had to be in the patent, and for something to be demonstrated, it did not have to be in the patent, she told me. That was the general rule and framework within which I worked. I suspect that my affidavit is consistent with that. If it's not, I would like to be corrected.
+MR. SHAUGHNESSY:
+143 Q. Could I ask you, please, to turn your affidavit to page 5. At paragraph 16(a), (b), and (c), you have used the word utility; we have just had a discussion about that. You have also used the term promise. What did you understand the term promise to mean, or what did [the former Counsel] tell you?
+A. She used that word promise, and I asked her, "What are you talking about?" She said to me, "It means what is the document saying?" And then I realized that, if [sic] course, if something is written and says it's going to do something, it's making a promise in that sense, and that's what a promise is. I understood a promise to be something that is written down and says, "This is going to occur," or, "I am going to do this." There has to be an actor, I think, with a promise. That's the way I read the document, to find the promise in the document.
+144 Q. So you went through the patent document, looking for all of the things that the inventor said?
+A. Yes.
+145. Q. All of the characteristics?
+A. Well, I read the document and tried to find them. Then I discussed them and she asked me questions. She certainly asked me questions, and I don't remember the specific questions, but like, "Is this a promise?" If the words made a promise, well, it's a promise.
+146 Q. Were there areas that you had missed in the patent and she said, "Hey, Dr. Becker, what about this? Isn't that a promise?"
+A. Yes. She drew some things to my attention.
+[222]
+Turning to Dr. Bartus, a principal expert for the Applicants, he summarized his opinions at paragraph 23 of his affidavit in chief as follows:
+Summary of Opinion
+23. Based on my experience and expertise in the area of neuropharmacology, I am able to offer the following opinions which will be discussed in more detail in the paragraphs below:
+(a) Claim 6 describes a novel compound. Although there is no specific promise of utility in the claim itself, reading the disclosure of the '808 Patent, a skilled person would understand the Patent to be telling him or her that the use associated with claim 6 (which is donepezil) is that it exhibits acetylcholinesterase (AChE) inhibitory activity, and does so in the brains of animals in which it has been tested.
+(b) Claim 18 is a claim relating to a pharmaceutical composition (made from donepezil) for the therapeutic treatment of a condition. The promise of claim 18 of the '808 Patent, as it depends on claim 6, is that the compound claimed in claim 6 (i.e., donepezil) will be useful for treating senile dementia in a scientific sense (i.e., it is likely to alleviate symptoms associated with senile dementia when administered across a patient population). The disclosure of the '808 Patent reveals that the research into donepezil and its therapies were still in progress. The skilled reader would understand that the promise would not necessarily be to provide an approvable drug in a commercial or regulatory sense (as, for example, toxicity to humans would not be worked out for many years after patent filing).
+(c) The inventors had demonstrated the utility of claim 6 as of June 21, 1988, by showing that donepezil is a potent AchE inhibitor both in a test tube and in brains of animals.
+(d) The inventors had demonstrated the effectiveness of donepezil, as a treatment option, on an animal model of senile dementia (the passive avoidance model). However, the inventors had not yet demonstrated that it would work in human patients. Nonetheless, the inventors would have been able to make a sound prediction of the utility of claim 18 as of June 21, 1988. In particular, there was a factual basis in the '808 Patent for the prediction that donepezil would be useful for treating senile dementia, consisting of the data reported in the Patent. The inventors had an articulable and sound line of reasoning from which the desired result could be inferred from the factual basis, consisting of the knowledge of a skilled person regarding state of the art of AChE inhibitors. There was proper disclosure of the basis for the prediction in the '808 Patent.
+(e) In addition to demonstrating the effectiveness of donepezil, Eisai scientists did much more by demonstrating the advantages of donepezil, i.e., that donepezil: is highly selective; increases the amount of acetycholine (ACh) present in the brain; has persistent activity and high safety when compared with physostigmine; has a large width between the doses providing the main effects against the side effects; has high bioavailability and excellent penetration into the brain.
+[223]
+His cross-examination included a lengthy portion in which he was asked to consider a level of certainty, whether it was 50% or 40%, or something else. He did rather better than Dr. Becker in refusing to go along with lawyers' suggestions. I repeat portions of his cross-examination:
+72 Q. Was it your understanding that the clarity lowered the level of certainty with which one needed to predict?
+A. I suppose that's one value judgment you could put on it. I certainly think it provided clarity because I thought it was very ambiguous before and left a lot of room for interpretation and argument. I think this made it clearer. I suppose one could argue therefore it's lower in the bar, but that's not the way I would prefer to look at it.
+73 Q. But you would understand a reasonable inference to mean less than a 50 percent chance that what you're predicting comes to pass?
+A. You're asking me if I understood that to be less than 50 percent chance?
+74 Q. Correct.
+A. Why do you come up with that figure?
+75 Q. What do you understand more likely than not to mean?
+A. I suppose you're right if you reduce it to a number. I have never really thought of it in those terms. More likely than not would be something greater than 50 percent.
+76 Q. And a reasonable inference would be something less than 50 percent?
+A. I'm not sure. By extrapolation I could see your point of logic, but I think if something wasn't a reasonable inference, then it had less chance of coming true than more chance.
+The language is clearer to me. To put a number on it I think is artificially quantitative. I'm not comfortable ever being artificially quantitative.
+77 Q. I will put some propositions to you and you can tell me when you get comfortable. All right?
+A. All right.
+78 Q. Less than 50 percent?
+A. That's artificially quantitative.
+79 Q. So you're not comfortable with less than 50 percent?
+A. I think reasonable inference is clear.
+80 Q. 48 percent? 40 percent?
+A. I have answered you, sir.
+81 Q. Ten percent? So if there was a ten percent chance that what I predict will come to pass, that could be a reasonable inference?
+A. I couldn't agree with that. Why we need to put a number on it, I'm not sure. I'm not sure how that's helpful.
+82 Q. I am just trying to ask questions and get answers. You don't actually have to understand the reason I'm asking them, I just want to know if you're able to answer it.
+A. All right.
+83 Q. So you can say ten percent, that wouldn't be a reasonable inference?
+A. The problem is we're dealing with abstraction. You have to look at the whole weight of the evidence. Are you talking a reasonable inference of it actually being approved for Alzheimer's disease, a reasonable inference of it working on Alzheimer's disease? What are we really talking about here for inventive purposes, because that is really the issue?
+84 Q. Does it make a difference?
+A. The number would be different. The reasonable inference wouldn't be, but the number would be different.
+85 Q. What would be a reasonable inference that it would work in treating Alzheimer's disease"
+A. What would be a reasonable inference?
+86 Q. Yes, what percentage?
+A. I can't put a percentage on that. I'm not sure why you're insisting I try. I have been an inventor on several patents myself and I have never been asked to put a number on the probability of success. It's a concept that I find foreign, frankly, so that's why I am having difficulty with it.
+87 Q. Would it have to be better than even chance?
+A. I think it depends on the circumstances.
+88 Q. I have just given you the circumstance. It is predicting therapeutic efficacy in treating Alzheimer's disease.
+A. Yes, and fist line treatment, nothing has ever worked before, this disease was discovered in the early 1900's, it's a growing epidemic, probably I would be comfortable with less than 50 percent when you take all that into consideration. If it were another antihypertensive and a depressant, you probably would expect something higher.
+89 Q. So the degree of confidence with which a person has to make a prediction in order to meet what you understand to be the legal test upon your patent depends upon the drug at issue. Is that right?
+A. No. Actually, you took me in a different direction because I wasn't thinking of the legal definition for filing a patent, but rather the considerations that would go into the decision to file a patent. Sorry, I misspoke.
+[224]
+These illustrations, which are by no means exhaustive, demonstrate the perils in asking experts to stray from their expertise and to enter into the realm of advocacy in construing a patent. It is very tempting for lawyers to seek to put words into the mouths of experts and then seek to urge upon the Court that these words be accepted as being assistance from the expert in interpretation of a patent.
+e)
+Achieved Utility or Predicted Utility
+[225]
+If the patent states that a useful result has in fact been achieved, then that statement is accepted for what it says, subject to challenge in litigation. As Nadon JA, for the Federal Court of Appeal, wrote in
+ <FRAGMENT_SUPPRESSED>  (leave to appeal granted by the Supreme Court of Canada May 5, 2011) at paragraph 82:
+82 I agree with Pfizer's submission and with the Judge's finding that there is no requirement for a patent to demonstrate utility in the patent disclosure, so long as the trier of fact finds it to be proven upon a legal challenge.
+[226]
+Where the patent, however, provides certain information and then, on that basis, predicts a result, that prediction must be "sound." This concept is expressed by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  where Binnie, J, for the Court wrote at paragraphs 70 and 71:
+70 The doctrine of sound prediction has three components Firstly, as here, there must be a factual basis for the prediction. In Monsanto and Burton Parsons, the factual basis was supplied by the tested compounds, but other factual underpinnings, depending on the nature of the invention, may suffice. Secondly, the inventor must have at the date of the patent application an articulable and "sound" line of reasoning from which the desired result can be inferred from the factual basis. In <FRAGMENT_SUPPRESSED> and
+Burton Parsons
+, the line of reasoning was grounded in the known "architecture of chemical compounds" ( <FRAGMENT_SUPPRESSED> , at p. 1119), but other lines of reasoning, again depending on the subject matter, may be legitimate. Thirdly, there must be proper disclosure. Normally, it is sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised: H. G. Fox, The
+Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th ed. 1969), at p. 167. It is generally not necessary for an inventor to provide a theory of why the invention works. Practical readers merely want to know that it does work and how to work it. In this sort of case, however, the sound prediction is to some extent the quid pro quo the applicant offers in exchange for the patent monopoly. Precise disclosure requirements in this regard do not arise for decision in this case because both the underlying facts (the test data) and the line of reasoning (the chain terminator effect) were in fact disclosed, and disclosure in this respect did not become an issue between the parties. I therefore say no more about it.
+71 It bears repetition that the soundness (or otherwise) of the prediction is a question of fact. Evidence must be led about what was known or not known at the priority date, as was done here. Each case will turn on the particularities of the discipline to which it relates. In this case, the findings of fact necessary for the application of "sound prediction" were made and the appellants have not, in my view, demonstrated any overriding or palpable error.
+[227]
+In the United States, this matter has been approached somewhat differently. The question arises in the context as to when an invention has been made, or as they would say, reduced to practical utility. In the context of pharmaceutical patents, I repeat what Professor Carl Moy wrote in "Moy's Walker on Patents", 4th ed., Thompson/West, Vol 1 in part of section 6:18, including footnote 14:
+The view has also produced a workable structure for evaluating attempts to patent compounds that appear likely to be serviceable in vivo in the treatment of humans. Speaking generally, the cases have decided that the practical utility of such compounds can be proven by establishing that the compound is pharmacologically active.
+12
+Obviously, the direct proof of such activity through in vivo tests on humans is adequately probative.
+13
+Proof offered in the form of tests performed in vitro or on animals, however, is not necessarily enough. Instead, cases offering these latter forms of proof turn on whether the disclosed activities form adequate circumstantial proof of usefulness in vivo.
+14
+Thus, where the art recognizes the applicant's reported functionality as establishing a good likelihood that the invention will exhibit in vivo activity in humans, the applicant will be deemed to have shown practical utility.
+15
+Commonly, the cases speak of whether the art has recognized these nonhuman utilities as substitutes for, or precursors of, the usefulness in humans, such that a reasonable probability of in vivo usefulness exits.
+16
+. . . . .
+14
+See, e.g.
+ <FRAGMENT_SUPPRESSED> , 1563-65, 39 U.S.P.Q.2d (BNA) 1895 (Fed. Cir. 1996) ("[T]est results need not absolutely prove that the compound is pharmacologically active. All that is required is that the tests be 'reasonably indicative of the desired [pharmacological] response.' In other words, there must be a sufficient correlation between the tests and an asserted pharmacological activity so as to convince those skilled in the art, to a reasonable probability, that the novel compound will exhibit the asserted pharmacological behavior." (citing
+ <FRAGMENT_SUPPRESSED> , 856, 206 U.S.P.Q. (BNA) 881 (C.C.P.A.) 1980)); In
+re Brana
+, 51 F.3d 1560, 1565-67, 34 U.S.P.Q. 2d (BNA)1436 (Fed. Cir. 1995);
+ <FRAGMENT_SUPPRESSED> , 1050, 224 U.S.P.Q. (BNA) 739 (Fed. Cir. 1985);
+Application of Langer
+, 503 F.2d 1380, 183 (U.S.P.Q. (BNA) 288 (C.C.P.A. 1974). See also
+Application of Krimmel
+, 48 C.C.P.A. 1116, 292 F.2d 948, 953, 130 U.S.P.Q. (BNA) 215 (1961) ("[O]ne who has taught the public that a compound exhibits some desirable pharmaceutical property in a standard experimental animal has made a significant and useful contribution to the art, even though it may eventually appear that the compound is without value in the treatment of humans.").
+[228]
+The point to be made is, in cases where the stated goal in the patent has not yet been put into practice, it may be sufficient if, for practical utility, it has been soundly predicted having regard to what has been disclosed in the patent. The patent must set out the factual basis for the prediction, it must set out an articulable and sound line of reasoning, and there must be a proper disclosure. All of this should be in the patent as read at the relevant time by a person skilled in the art.
+f)
+Relevant Date
+[229]
+In dealing with the issue of sound prediction, the filing date of the patent application in Canada is the relevant applicable date. Here, that date is June 21, 1988.
+[230]
+A number of decisions establish this date. I will cite only two. In the AZT case,
+ <FRAGMENT_SUPPRESSED> , Binnie J for the Court wrote at paragraph 56:
+56 Where the new use is the gravamen of the invention, the utility required for patentability (s. 2) must, as of the priority date, either be demonstrated or be a sound prediction based on the information and expertise then available. If a patent sought to be supported on the basis of sound prediction is subsequently challenged, the challenge will succeed if, per Pigeon J. in
+ <FRAGMENT_SUPPRESSED> , at p. 1117, the prediction at the date of application was not sound, or, irrespective of the soundness of the prediction, "[t]here is evidence of lack of utility in respect of some of the area covered".
+[231]
+ <FRAGMENT_SUPPRESSED>  Nadon J.A. for the Court wrote at paragraph 153:
+153 In any event, Pfizer points, correctly in my view, to this Court's recent decision in
+ <FRAGMENT_SUPPRESSED>  2006 FCA 64, which held that the relevant date for assessing the soundness of a prediction was the Canadian filing date, in this case, September 30, 1981. Contrary to Apotex's NOA and to Heneghan J.'s finding, the relevant date is not the priority date which, in this case, is October 3, 1980. Further, in ts [sic] NOA of July 24, 2003, Apotex refers to testing of quinapril that showed the compound reduced blood pressure in rats. The results of those tests were received on December 8, 1980, well before the Canadian filing date. Accordingly, even if some testing were required to establish a sound prediction, such testing was conducted in this case.
+CONSTRUCTION OF THE PROMISE - STATED UTILITY OF THE '808 PATENT
+[232]
+Taking all of the expert evidence into consideration, as weighted as previously discussed, I conclude that the "promise" or stated utility of the '808 Patent is as clearly set out at pages 1, 2 and 3 of the specification; namely, that a new class of compounds has been discovered (donepezil is one) which, having regard to the cholinergic function theory of AChE inhibition, is effective for the treatment of Alzheimer's. I repeat the portions of those pages of the '808 Patent that make such a promise:
+The invention relates to a cyclic amine compound, a therapeutical composition and medical treatment of senile dementia.
+. . . . .
+In view of the above situation, the present inventors have made extensive and intensive studies on various compounds for many years with a view to developing a drug which has a persistent activity and a high safety.
+As a result, the present inventors have found that a piperidine derivative represented by the following general formula (I) can attain the desired object.
+Specifically, the compound of the present invention represented by the following general formula (I) has great advantages of having strong and highly selective antiacetylcholinesterase activity, increasing the amount of acetylcholine present in the brain, exhibiting an excellent effect on a model with respect to disturbance of memory, and having a persistent activity and a high safety when compared with physostigmine which is a conventional popular drug in the art, which renders the compound of the present invention very valuable.
+The compound of the present invention was found based on the acetylcholinesterase inhibitory action and, therefore, is effective for treatment and prevention of various diseases which are thought to be derived from the deficiency of acetylcholine as a neurotransmitter in vivo.
+Examples of such diseases include various kinds of dementia including Alzheimer senile dementia and further include Huntington's chorea, Pick's disease, and ataxia.
+Therefore, the objects of the present invention are to provide a novel piperidine derivative effective as a pharmaceutical, particularly for treatment and prevention of central nervous system diseases, to provide a process for preparing the same, and to provide a pharmaceutical comprising the same as an effective ingredient.
+[233]
+There is no dispute that, in looking at the matter from the viewpoint of the present moment, donepezil meets that promise. The question is whether, as of the filing date, June 21, 1988, donepezil met the promise.
+[234]
+In approaching this question, each of claims 6 and 18 must be examined. Claim 6 claims only donepezil; claim 18 claims donepezil directed to a specific use, treatment of senile dementia.
+[235]
+It is appropriate to consider each of claims 6 and 18 separately. Only claim 18 actually claims utility; claim 6 does not. Utility for both claims, indeed all claims, is"promised" in the specification. However, since claim 6 claims only donepezil, the "monopoly" of the claim is that compound, however used (to treat Alzheimer's or for shoe polish etc.). The "monopoly" claimed in claim 18 is specific to senile dementia (Alzheimer's). If somebody later comes upon a new use (e.g. for growing hair on bald men) they presumably could get a patent for donepezill directed to that use; however, if the '808 Patent is still extant, they would have to obtain permission from the patentee to make use and sell donepezil for that or any other purpose. Similarly, the patentee of the '808 Patent could not make use or sell donepezil for the specific purpose of a hair restorer without the permission of the second patentee.
+[236]
+I repeat the analysis of O'Reilly J. of this Court in
+ <FRAGMENT_SUPPRESSED>  (aff'd FCA 60 CPR (4th) 177) at paragraphs 41 to 44:
+(g)
+Construing the claims of the '748 patent
+41 As I read the patent, having considered the expert evidence tendered by both parties, there are really two levels of utility referred to in the patent. The first level relates to the properties of the compounds themselves as "potent and selective" cGMP PDE inhibitors. Compounds that manifest those qualities might be useful, for example, for their ability to cause smooth muscles to relax, for their anti-aggregatory or anti-hypertensive effects, or for use in the laboratory. At the second level, because of those inherent properties, the compounds might be useful in the treatment of a wide variety of conditions.
+42 Much of Apotex's argument relates to the lack of demonstrated utility or sound prediction in relation to the compounds' use in treating the conditions named in the patent. However, I agree with Pfizer that, at least for its Claim 6 (which is a claim for the compound sildenafil alone) it is enough if Pfizer can prove that sildenafil had a useful property (i.e. potent and selective cGMP PDE inhibition) that may make it suitable for use in the treatment of certain diseases or conditions, or for use in the laboratory. In doing so, Pfizer would show that its product met the definition of an "invention" set out in the Act. I am satisfied from the evidence that, at the priority date of the patent, it was expected that PDE inhibitors could be useful in the treatment of certain conditions. Scientists were looking for compounds that were more potent and selective cGMP inhibitors than were currently available. Accordingly, for Claim 6, Pfizer merely has to show that sildenafil had been demonstrated, or soundly predicted, to be useful simply by virtue of its capacity to act as a potent and selective cGMP PDE inhibitor.
+43 However, where the patent is more specific and claims that a compound is actually useful for the treatment of particular diseases and conditions, the patentee must show the compound's utility in those areas. Accordingly, for Pfizer's Claim 17 (which is a claim for the compounds' use in particular treatments), it must demonstrate actual utility, or establish that utility was soundly predictable, in those areas. But Pfizer can only be successful in defending Claim 17 if it succeeds in defending Claim 6. Proof of sildenafil's utility in the treatment of the conditions named in Claim 17 (i.e. angina, hypertension, heart failure or athersclerosis), or a sound prediction that it would be useful for that purpose, is obviously dependent on proof that sildenafil was known (or soundly predicted) to be a potent and selective cGMP PDE inhibitor in 1990.
+44 Therefore, unless Pfizer can prove that sildenafil had been shown, or that it was soundly predicted, to be a potent and selective cGMP PDE inhibitor at the priority date of the patent, it will fail to meet its burden of proof on both Claims 6 and 17. It will not have proved that Apotex's most basic allegation -- that there is no evidence that sildenafil or, in fact, any of the compounds of the patent were actually known or expected to be potent and selective PDE inhibitors -- is unjustified.
+[237]
+In the present case, donepezil was made and tested, including on mice and rats, but not on humans before the Canadian filing date. Thus an inquiry must be made as to whether the "promised" utility in the specification and the "claimed" utility in claim 18 could have, as of that date, June 21, 1988, been "soundly predicted".
+SOUND PREDICTION
+[238]
+A previously discussed the test for "sound prediction" has been set out by Binnie J. for the Supreme Court of Canada in the AZT case at paragraph 70:
+5. The Requirements of the Doctrine of "Sound Prediction"
+70 The doctrine of sound prediction has three components. Firstly, as here, there must be a factual basis for the prediction. In Monsanto and Burton Parsons, the factual basis was supplied by the tested compounds, but other factual underpinnings, depending on the nature of the invention, may suffice. Secondly, the inventor must have at the date of the patent application an articulable and "sound" line of reasoning from which the desired result can be inferred from the factual basis. In <FRAGMENT_SUPPRESSED> and
+Burton Parsons
+, the line of reasoning was grounded in the known "architecture of chemical compounds" ( <FRAGMENT_SUPPRESSED> , at p. 1119), but other lines of reasoning, again depending on the subject matter, may be legitimate. Thirdly, there must be proper disclosure. Normally, it is sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised: H. G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th ed. 1969), at p. 167. It is generally not necessary for an inventor to provide a theory of why the invention works. Practical readers merely want to know that it does work and how to work it. In this sort of case, however, the sound prediction is to some extent the quid pro quo the applicant offers in exchange for the patent monopoly. Precise disclosure requirements in this regard do not arise for decision in this case because both the underlying facts (the test data) and the line of reasoning (the chain terminator effect) were in fact disclosed, and disclosure in this respect did not become an issue between the parties. I therefore say no more about it.
+[239]
+The Federal Court of Appeal has followed up on this statement in
+ <FRAGMENT_SUPPRESSED>  where Layden-Stevenson J.A. for the Court wrote at paragraphs 84 to 87 and 112:
+84 AZT does not define the threshold required for sound prediction. However, Binnie J. states that more than mere speculation is required (para. 69). He also provides the following indicia:
+• the requirement is that the claims be fairly based on the patent disclosure (para. 59);
+• it must be prima facie reasonable that the patentee should have a claim (para. 60);
+• it cannot mean a certainty (para. 63);
+• the desired result must be able to be inferred from the factual basis (para. 70).
+85 In my view, these indicia signify that a sound prediction requires a prima facie reasonable inference of utility. Notably, in AZT, the factual basis for the sound prediction of a new use compound rested upon the results of an in vitro test of AZT against the HIV in a human cell line along with Glaxo's data on AZT, including animal tests (para. 72). The line of reasoning was found to be Glaxo's knowledge of the mechanism for reproduction of a retrovirus.
+86 The underlying rationale for sound prediction is explained in AZT at page 184 as follows:
+The doctrine of "sound prediction" balances the public interest in early disclosure of new and useful inventions, even before their utility has been verified by tests (which in the case of pharmaceutical products may take years) and the public interest in avoiding cluttering the public domain with useless patents, and granting monopoly rights in exchange for misinformation.
+87 The above-noted inquiries (promise of the patent, information upon which to base the promise and information to soundly predict the promise) are discrete inquiries. Each requires a separate analysis.
+. . . . .
+112 The relevant question in this instance is whether there was an articulable line of reasoning from this factual basis to infer the sound prediction. Although the trial judge considered whether there was a line of reasoning for the advantages, he failed to turn his mind to the threshold required to support it. I concluded earlier in these reasons that a sound prediction requires a prima facie reasonable inference of utility.
+[240]
+Thus, for there to be a "sound prediction" there must be set out in the patent specification:
+1. A factual basis for the prediction;
+2. An articulable and sound line of reasoning from which the desired result can be inferred from the factual basis; there must be a prima facie reasonable inference, but it does not mean that there must be a certainty; and
+3. Proper disclosure
+[241]
+The factual basis, as disclosed in the '808 Patent, is that donepezil was made and tested in various ways in both mice and rats.
+[242]
+The articulable and sound line of reasoning is that, as of June 1988, it was understood by the relevant scientific community that there was a reasonable theory that an AChE inhibitor would be useful in treating Alzheimer's. It was also understood at that time that studies on mice and rats of the type reported in the '808 Patent were reasonable predictors of AChE inhibition. I appreciate that there is a difference of opinion among the experts for the Applicants and the expert for Mylan as to how widely accepted those understandings were as of June 1988, and that, as of that time, there were divergent opinions as to the viability of the theory and underlying scientific papers of the day. However, the line of reasoning is not required to be a "certainty", as long as it is "prima facie reasonable".
+[243]
+I am much more satisfied with the evidence of Dr. Bartus, as supported by the evidence of Drs. Rockwood and McKenna, than I am with the evidence of Dr. Becker. Drs. Bartus, Rockwood and McKenna have stayed more closely within their role as scientific experts. Dr. Becker seems uncomfortable with the role into which he may have been urged by Mylan's former Counsel into acting as an advocate.
+[244]
+I am satisfied that the '808 Patent discloses a line of reasoning that, as of June 1988, would have been considered to be prima facie reasonable in predicting utility of the donepezil compound as an AChE inhibitor and thus, in accordance with a reasonable theory of the day, useful in treating senile dementia such as Alzheimer's.
+[245]
+The third requirement for sound prediction is that of proper disclosure. The evidence of the experts, taken reasonably, is that the disclosures made in the specification of the '808 Patent are sufficient to support the conclusion that donepezil is a good AChE inhibitor. Mylan argues that some of the data is wrong or misleading. As previously discussed, Mylan has not raised this as an issue in its Notice of Allegation (I appreciate that it is "unfair" to Mylan to ask it to do so, since it did not have information to support such an allegation at the time the Notice was drafted, but that is a flaw in the NOC proceedings system).
+[246]
+Mylan argues that the disclosure as to toxicity is inadequate. Its expert, Dr. Becker, at paragraph 201 of his first affidavit, states that, to some extent, all drugs are toxic and that to have therapeutic utility, a drug must have an acceptable toxicity profile. Dr. McKenna, the Applicants' expert on toxicity, states at paragraph 34 of his affidavit that:
+... statements relating to toxicity and safety, while instructive to the reader, are not the promise of the patent, but instead are statements supporting some of the observed advantages of this compound (as understood by the inventors at an early stage of drug development), as compared to what was previously available at the relevant time. In my experience, it is rare to have anything more than a very general and preliminary understanding of a compound's toxicity profile at the time of filing a patent because detailed toxicity testing occurs long after the patent is filed for a new chemical entity.
+[247]
+As I stated recently in
+ <FRAGMENT_SUPPRESSED> relying on the AZT case in the Supreme Court of Canada, proof of lack of toxicity at this stage is not a necessary requirement in order to demonstrate utility:
+116 A patentee is not required to demonstrate the utility of a drug, including lack of toxicity and other features; those are requirements for safety and effectiveness, not patentability. Binnie J for the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  conclusion. In their factum (though not in oral argument), they argue that utility must be demonstrated by prior human clinical trials establishing toxicity, metabolic features, bioavailability and other factors. These factors track the requirements of the Minister of Health when dealing with a new drug submission to assess its "safety" and "effectiveness". See now:
+Food and Drug Regulations
+, C.R.C. 1978, c. 870, s. C.08.002(2), as amended by SOR/95-411, s. 4(2), which provides in part:
+A new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug ... .
+The prerequisites of proof for a manufacturer who wishes to market a new drug are directed to a different purpose than patent law. The former deals with safety and effectiveness. The latter looks at utility, but in the context of inventiveness. The doctrine of sound prediction, in its nature, presupposes that further work remains to be done.
+[248]
+Mylan also argued that the '808 Patent does not indicate whether donepezil retains its pharmacological effects upon repeated dosing. This argument was not raised in the Notice of Allegation and will not be considered here.
+CONCLUSION AND COSTS
+[249]
+In conclusion, therefore, I am satisfied that the Applicants have met their burden in demonstrating that, on the evidence, the allegations made by Mylan in its Notice of Allegation as are at issue here, are not justified. The application will be allowed, the Minister will be prohibited from issuing a Notice of Compliance to Mylan until the expiry of the '808 Patent.
+[250]
+The Applicants are entitled to recover costs from Mylan. I will fix those costs at the upper end of Column IV and allow for two senior Counsel at the hearing. There has been at least one motion in these proceedings in which costs were awarded. Some evidence has been withdrawn from the record, other evidence has not been relied upon. I will generally follow what I said about costs in
+ <FRAGMENT_SUPPRESSED> to 192:
+190 Costs for two counsel at the hearing, one senior and one junior for the first two days, and one senior for the third, may be taxed. Two counsel, if present, one senior and one junior, in conducting cross-examination, may be taxed. Only one counsel, a senior, is allowed in defending a cross-examination. No costs are allowed for other lawyers, in house or out house, students, paralegal or clerical persons.
+191 I remain concerned that the fees allowed for experts may be excessive. I have tried to limit those fees with regard to having rates and capping these at the rate charged by senior counsel. Fees, of course, may be calculated by multiplying the rate times number of hours, thus one can avoid the hourly fee cap by increasing the hours. This is not what I intend. What I propose here is that the fees be allowed to one particular expert shall not be disproportionately large when compared to the fees charged by any other expert for any other party. In this case, I have not found any particular expert to be significantly more helpful, or put another way, more valuable than another. Apotex is free to pay its experts whatever has been agreed upon but that does not entitle those fees to be taxed at such a rate. I have therefore left the matter to be considered by counsel on the basis that no fee shall be allowed that is disproportionately large.
+192 Further, fees for experts shall be limited to fees for the services only of the experts who attested to affidavits filed by Apotex in this proceeding namely Drs. McClelland, Langer and Cima. No fees are allowed for experts or others who may have been retained by Apotex or by these named experts to assist them.
+[251]
+However, given the procedural complexities and withdrawal of evidence, and perhaps other matters in this case, each party should, within fifteen (15) days from the release of these Reasons, make submissions as to costs not exceeding five (5) pages in length.
+[252]
+The Minister did not actually participate in these proceedings. No costs will be awarded for or against the Minister.
+JUDGMENT
+[253]
+FOR THE REASONS provided:
+THIS COURT'S JUDGMENT is that:
+1. The application is allowed;
+2. The Minister of Health is prohibited from issuing a Notice of Compliance to the Respondent Mylan until the expiry of Canadian Patent No. 1,338,808;
+3. The Applicants are entitled to recover costs from the Respondent Mylan on the basis as set out in these Reasons, subject to any submissions of no more than five (5) pages in length, to be received from the parties within fifteen (15) days from the release of these Reasons.
+4. No costs will be awarded for or against the Minister.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/vnh
+Footnotes
+1. See Applicants' Record (AR), Vol. 11, Tab 14, Affidavit of Raymond Bartus, Page 3042, Para 2.
+2.
+Ibid.
+Page 3048, Para 21.
+3.
+Ibid.
+Page 3057, Para 44.
+4.
+Ibid.
+Page 3059, Para 48.
+5.
+Ibid.
+Page 3062, Para 56.
+6.
+Ibid.
+Page 3063, Paras 57 and 59.
+7.
+Ibid.
+Page 3067, Para 68.
+8.
+Ibid.
+Page 3076, Para 96.
+9.
+Ibid.
+Page 3077, Para 101.
+10.
+Ibid.
+Page 3080, Para 107.
+11.
+Ibid.
+Page 3084, Para 120.
+12.
+Ibid.
+Page 3085, Para 122.
+13.
+Ibid.
+Page 3088, Paras 129-131.
+14.
+Ibid.
+Page 3092, Para 142.
+15.
+Ibid
+. Page 3094, Para 149.
+16.
+Ibid.
+Page 3097, Para 155.
+17.
+Ibid.
+Page 3110, Para 171.
+18.
+Ibid.
+Page 3111, Para 174.
+19.
+Ibid.
+Page 3112, Para 177.
+20.
+Ibid.
+Page 3113, Para 180.
+21.
+Ibid.
+Page 3114, Para 184.
+22.
+Ibid.
+Page 3117, Para 193.
+23. See AR, Vol. 12, Tab 15, Sur-reply Affidavit of Raymond Bartus, Page 3454, Para 4.
+24.
+Ibid.
+Page 3455, Paras 5-6.
+25.
+Ibid.
+Page 3458, Para 15.
+26.
+Ibid.
+Page 3459, Paras 19-20
+27.
+Ibid.
+Page 3459, Paras 21-23
+28. See AR, Vol. 12, Tab 16, Page 3582, Lines 10-24
+29.
+Ibid.
+Page 3613, Lines 19-20.
+30.
+Ibid.
+Page 3614, Lines 13-17.
+31.
+Ibid.
+Page 3633, Lines 4-22
+32.
+Ibid.
+Page 3655, Lines 11-16
+33.
+Ibid.
+Page 3730, Lines 14-24.
+34.
+Ibid.
+Page 3750, Lines 3-9.
+35.
+Ibid.
+Page 3754, Lines 8-13.
+36.
+Ibid.
+Page 3793, Lines 11-23.
+37. See AR, Vol. 13, Tab 17, Exhibit 9 of Cross-examination of Raymond Bartus, Page 4026.
+38. See AR, Vol. 12, Tab 16, Cross-examination of Raymond Bartus, Page 3799, Lines 19-24.
+39.
+Ibid.
+Page 3809, Lines 5-20
+40.
+Ibid.
+Page 3825, Lines 14-24.
+41.
+Ibid.
+Page 3827, Lines 13-15.
+42. See AR, Vol. 14, Tab 18, Affidavit of Kenneth Rockwood, Page 4032, Paras 16-17
+43.
+Ibid.
+Page 4036, Para 28.
+44.
+Ibid.
+Page 4037, Para 31.
+45.
+Ibid.
+Page 5038, Para 33.
+46.
+Ibid.
+Page 4039, Para 35.
+47.
+Ibid.
+Page 4039, Para 36.
+48.
+Ibid.
+Page 4041, Para 40.
+49.
+Ibid.
+Page 4041, Para 45
+50.
+Ibid.
+Page 4044, Para 53; in the affidavit it states "pharmacologically" but was corrected in the cross-examination of Dr. Rockwood, see AR, Vol. 14, Tab 20, Cross-Examination of Kenneth Rockwood, Page 4227, Lines 20-22
+51.
+Ibid.
+Page 4045, Para 56.
+52.
+Ibid.
+Page 4046, Para 58.
+53.
+Ibid.
+Page 4047, Para 60.
+54.
+Ibid.
+Page 4048, Para 63.
+55.
+Ibid.
+Page 4052, Para 76.
+56.
+Ibid.
+Page 4053, Para 80.
+57. See AR, Vol. 14, Tab 19, Sur-reply of Kenneth Rockwood, Page 4190, Para 5.
+58.
+Ibid
+. Page 4191, Para 7.
+59.
+Ibid
+. Page 4231, Lines 10-24.
+60.
+Ibid
+. Page 4248, Lines 18-23.
+61.
+Ibid
+. Pages 4259-4260.
+62.
+Ibid.
+Page 4269, Lines 11-16.
+63.
+Ibid
+. Pages 4270-4273.
+64.
+Ibid.
+Page 4275, Lines 6-15.
+65.
+Ibid.
+Pages 4292-4312.
+66.
+Ibid
+. Page 4313, Lines 17-21.
+67.
+Ibid
+. Page 4348-4349, Lines 1-9.
+68.
+Ibid
+. Page 4355, Lines 2-4
+69. See AR, Vol. 15, Tab 22, Sur-Reply Affidavit of Alan Kozikowski, Page 4749, Para 13.
+70.
+Ibid.
+Page 4751, Para 17.
+71.
+Ibid.
+Page 4751, Para 19
+72.
+Ibid
+. Page 4753, Para 27.
+73. See AR, Vol. 16, Tab 23, Cross-examination of Alan Kozikowski, Pages 4861-4862.
+74.
+Ibid.
+Pages 4929-4964.
+75.
+Ibid.
+Pages 4963-4964.
+76. See AR, Vol. 17, Tab 24, Affidavit of Michael McKenna, Page 5013, Para 34.
+77.
+Ibid
+. Page 5014, Para 35.
+78.
+Ibid
+. Page 5014, Para 37.
+79.
+Ibid.
+Page 5014, Para 40.
+80.
+Ibid
+. Page 5017, Para 48.
+81.
+Ibid
+. Page 5020, Para 54.
+82.
+Ibid
+. Page 5021, Paras 57-59.
+83.
+Ibid
+. Page 5023, Para 65.
+84.
+Ibid
+. Page 5025, Para 69.
+85. See AR, Vol. 17, Tab 25, Sur-Reply Affidavit of Michael McKenna, Page 5041, Para 6.
+86. See AR, Vol. 17, Tab 25, Cross-examination of Michael McKenna, Page 5046, Lines 16-21
+87.
+Ibid.
+Page 5059, Lines 7-16
+88.
+Ibid
+, Page 5075, Lines 7-17; see also
+Ibid
+. Page 5079, Lines 15-21.
+89.
+Ibid.
+Page 5082, Lines 1-11.
+90.
+Ibid
+. Pages 5098-5099.
+91.
+Ibid
+. Page 5104, Lines 11-22.
+92.
+Ibid
+. Pages 5106-5107.
+93.
+Ibid
+. Pages 5107, Lines 5-17.
+94.
+Ibid
+. Page 5123, Lines 5-10.
+95. See AR, Vol. 31, Tab 36, Affidavit of Robert Becker, Page 9632, Para 20.
+96.
+Ibid
+. Page 9635, Para 30.
+97.
+Ibid
+. Page 9638, Para 49.
+98.
+Ibid
+. Page 9639, Para 51.
+99.
+Ibid.
+Page 9639, Para 53.
+100.
+Ibid
+. Page 9640, Paras 55-56.
+101.
+Ibid
+. Page 9640, Para 57.
+102.
+Ibid
+. Page 9642, Para 69.
+103.
+Ibid
+. Page 9661, Para 151 and 159.
+104.
+Ibid.
+Page 9642, Para 71.
+105.
+Ibid
+. Page 9645, Para 77.
+106.
+Ibid
+. Page 9650, Para 104.
+107.
+Ibid
+. Page 9651, Para 105.
+108.
+Ibid
+. Page 9651. Paras 106-111.
+109.
+Ibid
+. Page 9653, Para 114.
+110.
+Ibid
+. Page 9653, Para 116.
+111.
+Ibid.
+Page 9654, Para 118.
+112.
+Ibid
+. Page 9655, Para 122.
+113.
+Ibid
+. Page 9660, Para 147.
+114.
+Ibid
+. Page 9656, Para 127.
+115.
+Ibid
+. Page 9657, Para 132.
+116.
+Ibid
+. Page 9658, Para 135.
+117.
+Ibid.
+Page 9655, Para 169.
+118.
+Ibid
+. Page 9668, Para 180.
+119.
+Ibid.
+Page 953, Para 210.
+120.
+Ibid.
+Page 8671, Paras 196-198
+121. See AR, Vol. 33, Tab 37, Reply Affidavit of Robert Becker, Page 10196, Para 8.
+122.
+Ibid.
+Page 10197, Para 9.
+123.
+Ibid
+. Page 10198, Para 10.
+124.
+Ibid
+. Page 10199, Para 12.
+125.
+Ibid
+. Page 10200, Para 15.
+126.
+Ibid
+. Page 10201, Para 22.
+127.
+Ibid
+. Page 10202, Para 23.
+128.
+Ibid.
+10201, Para 27.
+129.
+Ibid
+. Page 10205, Para 32.
+130.
+Ibid
+. Page 10206, Paras 34-35
+131. See AR, Vol. 34, Tab 38, Cross-examination of Robert Becker, Pages 10488-10489
+132.
+Ibid
+. Pages 10491-10492.
+133.
+Ibid
+. Page 10495, Lines 2-8.
+134.
+Ibid
+. Page 10496-10497.
+135.
+Ibid
+. Pages 10515-10516.
+136.
+Ibid
+. Pages 10516, Lines 9-19.
+137.
+Ibid
+. Pages 10515-10517.
+138.
+Ibid.
+10519-10520.
+139.
+Ibid
+. Page 10520, Lines 8-19.
+140.
+Ibid
+. Pages 10521-10522.
+141.
+Ibid
+. Page 10536, Lines 1-18.
+142.
+Ibid
+. Page 10560, Lines 4-19.
+143.
+Ibid
+. Page 10574, Lines 5-11.
+144.
+Ibid.
+Page 10583, Line 1-7.
+145.
+Ibid
+. Page 10602, Lines 3-17.
+146.
+Ibid
+. Page 10610, Lines 3-13.
+147.
+Ibid
+. Pages 10678-10679.
+148.
+Ibid
+. Pages 10683-10684.
+149.
+Ibid
+. Page 10726, Lines 12-15.
+150.
+Ibid
+. Page 10807, Lines 5-16.
+[Annex omitted - see printed version]
+[End of document]

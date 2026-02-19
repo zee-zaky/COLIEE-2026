@@ -1,0 +1,1098 @@
+TABLE OF CONTENTS
+-
+Para.
+I. Introduction
+1
+II. Nature of the Proceedings
+11
+III. Stereochemistry
+25
+IV. Background
+35
+V. Schering's Work on ACE Inhibitors
+43
+VI. The '206 Patent
+53
+VII. The Construction of Claim 12
+61
+VIII. Issues
+73
+IX. The Burden and Standard of Proof
+75
+X. Sound Prediction
+81
+--i) The Proper Date for Assessing the Soundness of Schering's Prediction
+88
+--ii) Was There a Factual Basis for the Prediction? and Did the Inventors Have an Articulable Line of Reasoning from Which the Desired Result Could Be Inferred from the Factual Basis?
+98
+--iii) Conclusion on the First Two Elements of the Wellcome Test
+156
+--iv) Was There Proper Disclosure?
+159
+---a) Operability of Example 20A
+167
+---b) Sufficiency of the NOA
+174
+---c) Does Example 20A Work?
+178
+---d) Should the Barton, Teetz and Taylor Declarations be Admitted as Evidence?
+194
+---e) Analysis With Respect to the Operability of Example 20
+207
+---f) Were There Other, Non-Inventive Ways to Do It?
+217
+---g) Sufficiency in Relation to the Issues of Separation and Characterization
+223
+---h) Analysis
+243
+--v) Conclusion with Respect to the Third Element of the Wellcome Test
+253
+--vi) Conclusion with Respect to Sound Prediction
+255
+XI. Are the Claims in Issue in the '206 Patent Invalid for Failure to Comply with the Requirements of Subsection 34(1) of the Old Patent Act?
+259
+XII. Are the Claims in Issue Broader than the Invention or Do They Lack Utility?
+269
+--i) The Law Relating to Utility
+270
+--ii) What did the '206 Patent Promise by Way of Utility?
+276
+--iii) The Evidence Relating to Utility
+282
+--iv) Analysis
+294
+--v) Conclusion in Relation to the Issue of Utility
+322
+XIII. Overlap Issues
+323
+XIV. Are the Claims in Issue Invalid By Reason of Anticipation?
+332
+XV. Are the Claims in Issue in the '206 Patent Invalid by Reason of Section 61(2) of the Old Patent Act?
+350
+XVI. Are the Claims in Issue in the '206 Patent Invalid by Reason of Double Patenting?
+355
+XVII. Conclusion
+369
+XVIII. Costs
+370
+XIX. Order
+372
+I. Introducton
+[1]
+Mactavish, J.
+: Angiotensin I is a peptide occurring naturally in the human body. As a result of the action of an enzyme known as angiotensin converting enzyme or "ACE", angiotensin I is converted by the body into a second peptide known as Angiotensin II. Angiotensin II is a vasoconstrictor or pressor. That is, it causes the muscles surrounding blood vessels to contract, thereby narrowing the blood vessels, causing blood pressure to rise.
+[2]
+It has long been posited that if one could affect the synthesis of angiotensin II through the inhibition of ACE, blood pressure in humans could be lowered. By the late 1970's, a number of pharmaceutical companies were actively involved in research in this area.
+[3]
+On October 20, 1981, Schering Corporation filed an application for a Canadian patent for a group of compounds which were said to be useful as ACE inhibitors and anti-hypertensive agents. As a result of protracted conflict proceedings, patent 1,341,206 (the '206 patent) did not issue until March 20, 2001.
+[4]
+Under a licence granted by Schering, Aventis Pharma Inc. manufactures a drug containing a medicine called ramipril, which is one of the compounds covered by the '206 patent. It is common ground that ramipril is an extremely effective ACE inhibitor.
+[5]
+In accordance with Section 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, on June 20, 2003, Apotex Inc. served a Notice of Allegation on Aventis in relation to ramipril. In its Notice, Apotex asserts that the '206 patent is invalid on a number of bases. Apotex contends that Schering did not have a valid basis for soundly predicting that the compounds in the '206 patent, and, in particular, in Claim 12 of the patent, would, if made, be useful for their stated purpose. Apotex further says that the '206 patent is invalid as the claims are broader than the invention and lack utility. Apotex also challenges the validity of the '206 patent on the grounds of insufficiency, anticipation and double patenting.
+[6]
+In addition, Apotex relies on section 61(2) of the pre-1989
+Patent Act
+, R.S.C. 1970, c. P-4 (the "old
+Patent Act
+") to say that the '206 patent should not have issued in light of the fact that other patents had been granted to Aventis' predecessor, Hoechst Aktiengesell-schaft (patent No. 1,187,087 or the "'087 patent" and patent No. 1,246,457 or the "'457 patent". The '087 patent covers some of the compounds within the '206 patent, including ramipril, whereas the '457 patent covers the use of compounds, including ramipril, for the treatment of cardiac insufficiency.
+[7]
+Finally, Apotex asserts that a conflict should have been declared between the '206 patent and the '087 patent.
+[8]
+In this application, Aventis seeks an order declaring that the Notice of Allegation is not a valid Notice of Allegation as contemplated by the
+PM (NOC) Regulations
+. In the alternative, Aventis seeks an order prohibiting the Minister of Health from issuing a Notice of Compliance to Apotex for ramipril until after the expiration of the '206 patent. Because of its interest in these proceedings, as owner of the '206 patent, Schering has been named as a respondent in this case, although it is allied in interest with Aventis.
+[9]
+The Minister of Health did not participate in the hearing of this matter.
+[10]
+For the reasons that follow, I am dismissing Aventis' application.
+II. NATURE OF THE PROCEEDINGS
+[11]
+Aventis' application is brought under the
+PM(NOC) Regulations
+. The legislative history and purpose of these
+Regulations
+has been described in detail in a number of decisions, and need not be repeated here. (See, for example,
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 ( <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 272 (F.C.A.),
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 264 (F.C.A.).
+[12]
+For the purpose of this proceeding, it is, however, helpful to have some understanding of the regulatory scheme as it relates to disputes of this nature.
+[13]
+The Supreme Court of Canada has accepted the view that the
+PM (NOC) Regulations
+were enacted to thwart the possible appropriation by generic drug companies of the research and development initiatives of innovator companies:
+Bristol-Myers Sqibb Co.
+, supra, at para. 45.
+[14]
+Under the terms of the licence between Aventis and Schering, Aventis is entitled to manufacture and sell ramipril in Canada. In accordance with the
+Regulations
+, Aventishas listed the '206 patent on the Patent Register maintained by the Minister of Health, in relation to ramipril oral capsules in a variety of strengths.
+[15]
+Apotex would like to be able to manufacture and sell ramipril in Canada, but cannot do so without first being issued a Notice of Compliance (NOC) by the Minister.
+[16]
+In this proceeding, Aventis seeks to prohibit the Minister from issuing a NOC to Apotex, on the basis that the manufacture and sale of ramipril by Apotex would infringe the '206 patent. As noted earlier, Apotex asserts that, for a number of different reasons, the '206 patent is not valid. There is no issue of infringement in this case.
+[17]
+The issues of patent validity between Aventis and Schering, on the one hand, and Apotex on the other, originate with the service of Apotex's Notice of Allegation (NOA) on Aventis. Pursuant to sub-section 5(3) of the
+PM (NOC) Regulations
+, Apotex is required to include a detailed statement of the legal and factual basis for its allegations in its NOA.
+[18]
+In accordance with section 6 of the
+Regulations
+, Aventis has applied for an order prohibiting the Minister of Health from issuing a Notice of Compliance to Apotex until after the '206 patent has expired.
+[19]
+Proceedings under section 6 of the
+PM(NOC) Regulations
+are not to be equated with actions for the determination of patent validity or infringement. Rather, they are judicial review proceedings, whose aim is to determine whether the Minister is free to issue the requested NOC to Apotex.
+[20]
+The scope of such proceedings is limited to administrative purposes - that is, whether or not a NOC should issue to
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.). My decision must turn on whether the allegations made by Apotex are justified so as to support the conclusion, for administrative purposes, that the '206 patent would not be infringed if Apotex's product were put on the market:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 209 (F.C.A.).
+[21]
+Under the regulatory scheme, by commencing this proceeding, Aventis obtains what is tantamount to an interlocutory injunction, without having first satisfied any of the usual criteria for the obtaining of such relief:
+ <FRAGMENT_SUPPRESSED> . As the Supreme Court of Canada noted in the
+Bristol-Myers Sqibb Co.
+decision previously cited, in such circumstances, applications for NOC's such as that filed by Apotex simply go into the 'deep freeze' until the statutory procedures play themselves out (assuming that this occurs within the 24 month period provided for in the Regulations).
+[22]
+It is the existence of this statutory freeze that has caused the Supreme Court of Canada to describe this process as 'draconian':
+Merck  <FRAGMENT_SUPPRESSED> .
+[23]
+The
+PM(NOC) Regulations
+allow the Court to determine summarily, on the basis of the evidence adduced, whether Apotex's allegations are justified. Section 6 proceedings cannot be treated as res judicata:
+ <FRAGMENT_SUPPRESSED>  ¶ 11.
+[24]
+These proceedings do not serve to deprive either Aventis or Scheringof any rights that they might otherwise have with respect to the '206 patent. If a full trial of the validity issues is required, this can be obtained in the usual way by commencing an action:
+ <FRAGMENT_SUPPRESSED>  ¶ 9.
+III. STEREOCHEMISTRY
+[25]
+Before turning to the facts of this case, it is first necessary to have an understanding of certain chemical structures and conventions, in order to understand the nature of the invention claimed in the '206 patent.
+[26]
+"Stereochemistry" is concerned with the three dimensional spatial orientation of compounds made up of atoms. Molecules having exactly the same chemical composition and the same sequence of covalent bonds may differ in their arrangement in three dimensions. Such compounds are referred to as "stereoisomers".
+[27]
+The term "chiral centres", as it appears in stereochemistry, is used in connection with carbon atoms. A carbon atom with four different functional groups attached to it is referred to as a "chiral centre". A chiral centre may have two possible arrangements, such that one arrangement may not be superimposable on the other by rotating in space. In such cases, the carbon atom is referred to as stereogenic, and the compound is termed "chiral".
+[28]
+In order to describe the stereochemistry of molecules having chiral centres, chemists have devised a number of conventions. Where the direction from the highest to lowest priority atom or group attached to the chiral carbon, determined by atomic number, is clockwise, the chiral centre is described as being in the "R" position, whereas a counter-clockwise arrangement is referred to as "S".
+[29]
+Because chiral centres exist in three dimensions, it is necessary to have a convention for indicating the atoms' position in space, when molecules are represented on paper. To distinguish isomers based on the arrangement of the atoms attached to the chiral centre in space, chemists show a bond that projects up from the plane of the paper, towards the viewer, with a solid wedge shape. A chemical bond that projects away from the viewer is indicated by a hatched wedge shape.
+[30]
+Where two groups are attached to separate carbon atoms, chemists use the term "cis" to describe situations where both groups are on the same side of the plane. The term "trans" is used where the two groups are on opposite sides of the plane.
+[31]
+Pairs of mirror image molecules that cannot be superimposed on each other are referred to as enantiomers. In this regard, an analogy is often drawn to left and right hands. Diasteromers are stereoisomers that are different in stereochemistry and which are not mirror images. Enantiomers have identical physical properties, whereas diasteromers differ in their physical properties. That is, diasteromers will have different melting and boiling points, solubility, reactivity, affinity towards adsorbents and partition coefficients. These differences are important, as they can be used by a person skilled in the art to separate diasteromers.
+[32]
+Stereochemistry played a very important role in the development of ACE inhibitors, as ACE is a chiral molecule. To be effective as an ACE inhibitor, the compound in question must be able to interact with the chiral ACE. ACE will exhibit a preference for certain chiral configurations - just as a left hand will prefer a left glove. The closer the fit of the chiral ACE molecule to the ACE inhibitor - the more effective will be the inhibitory effect.
+[33]
+The development of ACE inhibitors in the late 1970's and early 1980's was complicated by the fact that the precise configuration of ACE was not known, and, indeed, has only recently been understood.
+[34]
+With this understanding of some of the basic concepts of stereochemistry, I turn now to review the events leading up to the development of Schering's ACE inhibitors.
+IV. BACKGROUND
+[35]
+The development of ACE inhibitors originated with the discovery that a series of peptides isolated from the venom of the Brazilian Pit Viper could be effective in inhibiting ACE, in vitro. A compound known as teprotide was subsequently synthesized, which proved to be an effective anti-hypertensive agent in humans. However, teprotide was only effective through intravenous administration.
+[36]
+The transformation of an intravenously active peptide into an orally effective ACE inhibitor occurred as a result of work done by a group working for Squibb, headed by Dr. Miguel Ondetti. Although the precise structure of ACE was not known at the time, the Squibb scientists were able to construct a model for ACE, relying upon what was known about another enzyme known as carboxypeptidase A.
+[37]
+Based upon this analogy, in 1977, the Squibb group developed a compound known as captopril. Captopril was the first small molecule, orally effective ACE inhibitor. The molecular structure of captopril is:
+[diagram omitted]
+[38]
+It should be noted that there are two chiral centres in captopril, both of which are in the "S" configuration. The five-membered ring structure on the right side of the molecule is a naturally occurring amino acid known as proline.
+[39]
+Although captopril functioned as an ACE inhibitor, it did produce a number of side-effects, such as loss of taste, the excretion of protein in urine and skin rashes. Nevertheless, its success prompted a number of other pharmaceutical companies to try to develop new and patentable analogs.
+[40]
+In particular, Merck, Sharp and Dohme focussed on removing the thiol group (the structure on the left side of the captopril molecule), replacing it with a carboxmethyl function. On June 18, 1980, at a medicinal chemistry conference in Troy, New York, Merck disclosed that it had developed a compound known as enalapril, which had demonstrated activity as an ACE inhibitor.
+[41]
+The structure of enalapril is:
+[diagram omitted]
+[42]
+As can be seen from this diagram, enalapril has three chiral centres, all in the "S" configuration. It can also be observed that while enalapril lacks the sulphur moiety present in captopril, what remained consistent from captopril to enalapril was the presence of the proline unit or five-membered ring structure on the right side of the compound.
+V. Schering's Work on Ace Inhibitors
+[43]
+Although more will be said further on in this decision about the development work done by Schering during the late 1970's and early 1980's, it is helpful at this point to have an overview of the nature of the research work that was being done by Schering leading up to the application for what would become the '206 patent.
+[44]
+Prior to the Merck announcement at the Troy conference in June of 1980, scientists  <FRAGMENT_SUPPRESSED> , including Dr. Elizabeth Smith, were trying to develop an anti-hypertensive compound that would be more effective than captopril. While Merck's work involved the removal of the thiol group, Schering's work focussed on a different aspect of the captopril molecule - that is the proline unit.
+[45]
+By late 1979 or early 1980, Dr. Smith and her colleagues had found that the replacement of the proline in captopril with certain fused ring or spirocyclic moieties resulted in efficacious compounds.
+[46]
+As a result of the Merck disclosure at the Troy conference, the Schering scientists decided to try to create compounds based, in part, upon the Merck work on the thiol end of the molecule, but also using the fused ring moieties that Schering had already been working on in relation to the proline end of the molecule. That is, Schering's scientists decided to try using various bicyclic ring structures in place of the proline on an enalapril-typemolecule.
+[47]
+This proposed work was documented in an invention disclosure report dated June 20, 1980. According to Dr. Smith, this report shows the conception of the generalized structure of the compounds in what ultimately became the '206 patent.
+[48]
+On August 5, 1980, Dr. Smith made the first compound within the scope of the '206 patent, which became known as SCH 31335. Over the next few months, Dr. Smith and the other scientists  <FRAGMENT_SUPPRESSED>  made several of these compounds using different bicyclic ring structures. Initial testing of these compounds indicated that they demonstrated ACE inhibition activity.
+[49]
+On October 23, 1980, Schering applied for a patent in the United States in relation to this work. A second American patent was applied for on April 28, 1981.
+[50]
+Throughout this time, Dr. Smith and her colleagues continued to create and test additional compounds using the bicyclic ring structure coupled with Merck's enalapril-type "backbone". One of the compounds created during this period was SCH 31925, which contained molecules having a 5,5 ring structure at the proline end. Preliminary pharmacological testing revealed that SCH 31925 was a potent ACE inhibitor.
+[51]
+Dr. Smith says that SCH 31925 is within the scope of Claim 12 of the '206 patent, which, the parties are agreed, is the primary claim in issue in this case.
+[52]
+On Oct. 20, 1981, Schering applied for patent protection in Canada for its work in this area. Schering's application claimed priority dates of October 23, 1980, and April 28, 1981, based upon the American patent application dates. The Canadian application ultimately resulted in the issuance of the '206 patent in March of 2001.
+VI. The '206 Patent
+[53]
+The '206 patent is entitled "Carboxyalkyl Dipeptides, Processes for Their Production and Pharmaceutical Compositions Containing Them". The patent states at page one that it relates to compounds (carboxyalkyldipeptides) which are useful as inhibitors of angiotensin-converting enzyme and as anti-hypertensive agents.
+[54]
+The '206 patent covers within its claims three currently commercial compounds - ramipril, spirapril and trandolapril. This makes it an extremely valuable patent. Its value is enhanced by the fact that the patent only issued in 2001, and thus has some 13 years left to run.
+[55]
+The claims of the '206 patent are broad and cover a genus of compounds that include ramipril. It should be noted, however, that nowhere in the '206 patent is there specific disclosure of either ramipril or ramiprilat, nor any claim or claims directed to those compounds alone. Ramiprilat is the metabolite formed in the body of those who take ramipril.
+[56]
+The breadth of the scope of the '206 patent is confirmed by the evidence of Dr. Garland Marshall, whose affidavit was filed by Apotex. Dr. Marshall is a Professor of Biochemistry and Molecular Biophysics and of Biomedical Computing at the Washington University School of Medicine at Washington University.
+[57]
+Claim 1 of the '206 patent claims a genus of carboxyalkyldipeptides of a general formula consisting of three main units: (a) bicyclic rings in a variety of configurations; (b) a central alanyl unit; and (c) the end chain unit, and is not limited to a specific stereochemistry. Dr. Marshall estimates that there are in excess of 24,000,000 compounds included within Claim 1.
+[58]
+Claim 2 also covers compounds with a specified general formula and is not limited to specific stereoisomers. Dr. Marshall estimates that the number of compounds encompassed by this claim to be in excess of 200,000,000.
+[59]
+The claims in issue in this case are Claims 1, 2, 3, 6, 12 and 13. Dr. Marshall estimates the number of compounds encompassed by Claims 3, 6, 12 and 13 to range from 150,000, in the case of Claim 3, to 8 in the case of each of Claims 12 and 13.
+[60]
+Ramipril is one of the compounds that comes within Claims 1, 2, 3, 6, and 12 of the '206 patent. Claim 13 covers a number of compounds, including ramiprilat.
+VII. The Construction of Claim 12
+[61]
+Before addressing the issues relating to the validity of the '206 patent, it is necessary to construe the patent. The construction of a patent is a matter of law:
+ <FRAGMENT_SUPPRESSED>  ¶ 26, where he stated:
+"A patent is notionally addressed to a person skilled in the art or science of the subject matter and is to be read as such a person would have read it when it first became public. Claims are to be read in an informed and purposive way to permit fairness and predictability and to define the limits of the monopoly. It is only such novel features that the inventor claims to be essential that constitute the 'pith and marrow' of the claim. "The key to purposive construction is therefore the identification by the Court with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention" (
+Whirlpool
+, supra at paragraph 45).
+[63]
+The patent is not addressed to an ordinary member of the public, but to a worker skilled in the art described by Dr. Harold Fox as:
+"a hypothetical person possessing the ordinary skill and knowledge of the particular art to which the invention relates, and a mind willing to understand a specification that is addressed to him. This hypothetical person has sometimes been equated with the 'reasonable man' used as a standard in negligence cases. He is assumed to be a man who is going to try to achieve success and not one who is looking for difficulties or seeking failure."
+(H.G. Fox, in
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+, 4th Ed. (Toronto: Carswell Co. Ltd., 1969) at p. 184, cited in
+ <FRAGMENT_SUPPRESSED>  ¶ 44).
+[64]
+In the case of patents of a highly technical and scientific nature, the person skilled in the art would be someone "possessing a high degree of expert scientific knowledge and skill in the particular branch of the science to which the patent related":
+ <FRAGMENT_SUPPRESSED> .
+[65]
+There is no question that a patent filed under the old
+Patent Act
+is to be construed as of the date of issue:
+Free World Trust
+, supra, ¶ 54. The '206 patent was issued on March 20, 2001.
+[66]
+The parties agree that Claim 12 is the narrowest claim in the '206 patent, and that Apotex's case will stand or fall on whether it succeeds in relation to this claim. It is therefore unnecessary to construe any of the other claims.
+[67]
+Claim 12 reads:
+"The compound 1-[N-(1-carboethoxy-3-phenylpropyl-(S)-alanyl]octahydro-cyclopenta[b]pyrrole-2(S)-carboxylic acid and its pharmaceutically acceptable salts thereof."
+The parties also agree that Claim 12 can properly be depicted as:
+[diagram omitted]
+[68]
+The proper construction of Claim 12 is not in dispute in this case. The parties are in agreement that properly construed, Claim 12 is directed to a compound, and describes a genus of eight stereoisomers, one of which is ramipril.
+[69]
+The general structure of Claim 12 depicted above describes a group of molecules with a 5,5 bicyclic ring structure in lieu of the proline ring in the class of compounds disclosed and claimed by Merck in the enalapril patent.
+[70]
+The molecular structure of Claim 12 has five chiral centres, each of which is indicated with an asterisk in the above diagram. The claim restricts the stereochemistry of two of the chiral centres to the "S" position. The two chiral centres contain the carbons to which the carboxylic acid (-COOH) and the methyl (-COOC2H5) are attached. The stereochemistry of the three remaining chiral centres is not specified, meaning that they can have either an "R" or an "S" configuration.
+[71]
+Given that the three unspecified chiral centres can be in either the "R" or "S"configuration, the formula of Claim 12 describes 2x2x2 (23 or 8) stereoisomers.
+[72]
+In the case of ramipril, all five chiral centres are in the "S" position.
+VIII. Issues
+[73]
+The central issue to be determined in this case is the validity of the '206 patent in light of Apotex's allegations. Apotex's Notice of Allegation raises the following issues in relation to the validity of the '206 patent:
+1. Did Schering have a sound basis for predicting that the compounds covered by the claims in issue would be useful as ACE inhibitors and in the treatment of hypertension in humans?
+2. Are the claims in issue in the '206 patent invalid for failure to comply with the requirements of section 34 of the old
+Patent Act
+("insufficiency")?
+3. Are the claims in issue broader than the invention or do they lack utility?
+4. Are the claims in issue invalid by reason of anticipation?
+5. Are the claims in issue in the '206 patent invalid by reason of section 61(2) of the old
+Patent Act
+? and
+6. Are the claims in issue in the '206 patent invalid by reason of double patenting?
+[74]
+In its Notice of Application for Judicial Review, Aventis asserts that Apotex's NOA is a nullity. At the hearing of this application, both Aventis and Schering identified several areas in which they say that Apotex either failed to provide a sufficient factual and legal basis to support its arguments, or was trying to rely on evidence or arguments that were not identified in the NOA. Each of the arguments as to the alleged deficiencies  <FRAGMENT_SUPPRESSED> 's NOA will be addressed in the context in which they arise in the course of this decision.
+IX. The Burden and Standard of Proof
+[75]
+Before turning to consider each of the attacks on the validity of the '206 patent mounted by Apotex, threshold questions arise as to the burden and standard of proof in proceedings such as this. Each of the parties made extensive submissions at the hearing as to their respective perspectives on these questions.
+[76]
+It is not necessary to review the various authorities cited by each of the parties to support their arguments on these issues, as it appears from the recent jurisprudence emanating from the Federal Court of Appeal that the matter is now well settled: see
+Procter &  <FRAGMENT_SUPPRESSED>  ¶ 12-24.
+[77]
+As the Applicant in these proceedings, Aventis has the overall burden of establishing that none of Apotex's allegations are justified. In this case, all of the issues raised by Apotex in its NOA relate to the validity of the '206 patent. In the absence of evidence to the contrary, there is a statutory presumption that a patent is valid: section 45 of the old
+Patent Act
+, subsection 43(2) of the post-1989
+Patent Act
+, R.S.C. 1985, c.P-4.
+[78]
+Relying upon the presumption of validity, Aventis can thus meet its initial burden merely by proving the existence of the patent.
+[79]
+Once this is done, the burden shifts to Apotex to establish that the patent is invalid. The standard of proof that Apotex is required to satisfy is that of a balance of probabilities:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 285 (F.C.A.), ¶ 9.
+[80]
+With this understanding of the burden and standard of proof, I turn now to consider the various grounds of attack on the validity of the '206 patent raised by Apotex in its Notice of Application.
+X. Sound Prediction
+[81]
+Much of the time in this hearing was devoted to the question of whether Schering had a sound basis for predicting that the compounds covered by the claims in issue, and, in particular, by Claim 12 of the '206 patent, would be useful as ACE inhibitors, and in the treatment of hypertension in humans.
+[82]
+To be patentable, an invention must be useful. Where the compound is a new one, its utility need not be stated in the claims, but utility must be set out in the disclosure.
+[83]
+In the case of a pharmaceutical invention, utility may be demonstrated through testing. It is not, however, essential that complete testing have been carried out: the doctrine of sound prediction can be relied upon by an inventor to justify patent claims whose utility has not been actually demonstrated, but can be soundly predicted based upon the information and expertise available:
+Apotex Inc. and  <FRAGMENT_SUPPRESSED> .
+[84]
+In <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada noted that the doctrine of sound prediction balances the public interest in the early disclosure of new and useful inventions - even before their utility has been fully verified by tests - with the public interest in avoiding the granting of monopoly rights in exchange for speculation, misinformation or lucky guesses: supra, ¶ 66 and 69.
+[85]
+The soundness or otherwise of the prediction is a question of fact.
+[86]
+In the <FRAGMENT_SUPPRESSED> case, the Supreme Court of Canada articulated a three-part test that must be satisfied in order to establish that a sound prediction has been made by the purported inventor. The three elements of the test are:
+1. There must be a factual basis for the prediction;
+2. The inventor must have an articulable line of reasoning from which the desired result can be inferred from the factual basis; and
+3. There must be proper disclosure, although it is not necessary to provide a theory as to why the invention works.
+[87]
+To be sound, a prediction does not need to amount to a certainty, as it does not exclude the risk that some compounds within the area claimed may prove to be devoid of utility.
+i) The Proper Date for Assessing the Soundness of Schering's Prediction
+[88]
+There was much debate between the parties at the hearing as to the proper date to be used to assess the soundness of the prediction made by the '206 patent. Apotex says the soundness of Schering's prediction should be determined as of the earliest of the priority dates claimed in the Canadian patent application - that is, October 23, 1980, whereas Aventis and Schering both submit that the date that should be used is the Canadian filing date of October 20, 1981.
+[89]
+This issue is important, as the soundness of a prediction is to be assessed based upon the information and expertise available at the relevant time. The determination of whether the October 23, 1980 priority date is to be used versus the October 20, 1981 Canadian filing date affects whether, in assessing the soundness of the prediction, regard may be had to the work that Dr. Smith and her colleagues  <FRAGMENT_SUPPRESSED>  did between October of 1980 and October of 1981 in formulating and testing compounds within the '206 patent.
+[90]
+The parties all rely on the Supreme Court's decision in the <FRAGMENT_SUPPRESSED> case to support their respective positions regarding the relevant date.
+[91]
+A review of the <FRAGMENT_SUPPRESSED> decision discloses that there was no debate between the parties as to the appropriate date for assessing the soundness of the prediction in issue, and, perhaps as a result of this, the phrases "application date" and "priority date" are used virtually interchangeably in the decision. By way of example, at paragraphs 3, 56, 71 and 72, Justice Binnie refers to the priority date as being the date to be used in evaluating the soundness of the inventor's prediction, whereas in paragraphs 46, 55 and 97 reference is made to the date of the Canadian application as being the relevant date.
+[92]
+However, it is in paragraph 70 of the decision that the Court sets out the tripartite test for sound prediction, explicitly stating that "[T]he inventor must have
+at the date of the patent application
+an articulable and 'sound' line of reasoning from which the desired result can be inferred from the factual basis".
+[93]
+Thus, while the issue is not free from doubt, it appears that the <FRAGMENT_SUPPRESSED> test contemplates that the Canadian filing date be used for the purposes of assessing the soundness of the prediction.
+[94]
+This makes a certain amount of sense, from a policy perspective, as it is only when the application for patent protection is filed in Canada that the inventor is required to commit him - or herself to the precise details of the patent claims and specification for the purposes of obtaining a monopoly in Canada.
+[95]
+The date of filing for patent protection in another country may be of some assistance in ascertaining the date of the invention for patents governed by the old
+Patent Act
+(the new
+Patent Act
+contemplates a 'first to file' priority system as opposed to the 'first to invent' regime under the former legislation). Nevertheless, as happened here, inventors are free to continue to carry out additional research and testing, and to add additional information to the patent claims and specification, prior to filing for a patent in Canada.
+[96]
+As a consequence, I intend to assess the soundness of Schering's prediction based upon the information and expertise available as at October 20, 1981. However, for the reasons that follow, it is not necessary to finally resolve this issue in this case, as I am satisfied that even using the later Canadian application date, as submitted by Aventis and Schering, Schering did not have a sound basis for predicting that the compounds coming within the '206 patent would be useful as ACE inhibitors and anti-hypertensive agents.
+[97]
+In applying the three-part <FRAGMENT_SUPPRESSED> test, the parties generally dealt with the first two issues together, and I intend to do so here.
+ii) Was There a Factual Basis for the Prediction? and
+Did the Inventors Have an Articulable Line of Reasoning from Which the Desired Result Could Be Inferred from the Factual Basis?
+[98]
+The first issue that has to be addressed is the sufficiency of Apotex's NOA as it relates to the first two parts of the <FRAGMENT_SUPPRESSED> test.
+[99]
+In its NOA, Apotex asserts that:
+"We also allege that each of the Claims in Issue of the '206 Patent is invalid on the basis that the claims are broader than the invention (if any) made. By the relevant date, which we allege in every case to be the earliest priority filing date of the '206 Patent (October 23, 1980), the purported inventors of the '206 Patent did not make, isolate, characterize or test all of the compounds covered by the Claims in Issue. [at page 5]"
+[100]
+Apotex then goes on to identify, at some length, the compounds that were not made, isolated, characterized or tested prior to the earliest of the priority dates.
+[101]
+Further on in the NOA, Apotex goes on to say, specifically in relation to the issue of sound prediction:
+"Furthermore, the specification does not provide test data with respect to any of the compounds covered by the Claims in Issue, including Ramipril and Ramiprilat, which would evidence that these compounds possessed the requisite level of activity and the requisite pharmacological and toxicological profile which would allow for their use as an ACE inhibitor which is suitable for oral or parenteral administration to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian, including human, hypertension.
+"Therefore, the purported inventors of the '206 Patent did not have a sound basis for predicting that all of the compounds covered by the scope of the Claims in Issue (including Ramipril and Ramiprilat) could be used as an ACE inhibitor which would be suitable for oral or parenteral administration to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian, including human, hypertension. Therefore, each of the Claims in Issue is broader than the purported invention (if any) made."
+[102]
+Aventis asserts that Apotex's NOA is deficient as it relates to the issue of sound prediction. Aventis says that the sum total of Apotex's argument that Schering did not have a sound basis for its prediction as contained in its NOA was its assertion that Schering failed to provide test data. According to Aventis, subsequent to serving the NOA, Apotex amplified its argument to argue that Schering should have demonstrated utility by testing in order to establish matters such as potency, toxicity, bioavailability, selectivity and so on.
+[103]
+ <FRAGMENT_SUPPRESSED>  the Federal Court of Appeal recently restated the test to be applied in assessing the adequacy of Notices of Allegation. While the decision  <FRAGMENT_SUPPRESSED>  relates to issues of infringement, the same principles can readily be applied to questions of patent invalidity.
+[104]
+According to the Court of Appeal:
+"[4] In its more recent jurisprudence, this Court has repeatedly stated that the test of the adequacy of a NOA is whether the detailed statement was sufficient to make the patentee (Pfizer) fully aware of the grounds on which the generic (Novopharm) claimed that the relevant patent would not be infringed if a NOC was issued by the  <FRAGMENT_SUPPRESSED>  (F.C.A.) at paragraph 26, per Noël J.A.; and also
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) at paragraph 24, per Evans J.A.)."
+[105]
+A review of Apotex's NOA reveals that Apotex put Aventis on notice that it would be arguing that Schering failed to conduct the tests necessary to establish that the compounds covered by the '206 patent possessed the requisite level of activity and the requisite pharmacological and toxicological profile. What do these terms mean? Clearly the 'level of activity' relates to the potency of the compounds in question. The use of the phrase 'toxicological profile' clearly puts Aventis on notice that the issue of toxicity was in issue. Finally, the 'requisite pharmacological profile' can be reasonably understood to relate to issues such as bioavailability and selectivity.
+[106]
+Moreover, a review of Aventis' Notice of Application reveals that it understood Apotex's position in relation to these issues, as it responds to it.
+[107]
+Finally, it should be noted that no affidavit was filed on behalf of Aventis asserting that it was not in a position to decide whether to challenge Apotex's NOA in relation to this issue because of the statement's lack of specificity: see
+ <FRAGMENT_SUPPRESSED>  ¶ 13.
+[108]
+In these circumstances, I am therefore satisfied that Aventis was sufficiently aware of the basis on which Apotex was claiming that the '206 patent was invalid as it related to the first two elements of the test for sound prediction.
+[109]
+Turning now to the merits of the issue, the question is whether as of the date of the Canadian filing, Schering and its scientists had a factual basis for their prediction, and whether the inventors had an articulable line of reasoning from which the desired result could have been inferred from the factual basis.
+[110]
+What precisely was Schering's prediction? Schering states that it predicted that by putting bicyclic rings on the proline end of an enalapril molecule, one would have compounds that would be useful as ACE inhibitors and anti-hypertensive agents. In light of what was publicly known about ACE inhibitors at the time, and the work that was done  <FRAGMENT_SUPPRESSED>  by Dr. Smith and her colleagues, Schering says its had a factual basis for its prediction, and an articulable line of reasoning to support it. While the prediction continues to be verified, Schering asserts that it has still not been shown to be unsound.
+[111]
+Before turning to consider the parties' submissions in relation to the first two aspects of the <FRAGMENT_SUPPRESSED> test for sound prediction, it is necessary to return to consider, in greater detail, the state of the public knowledge regarding ACE inhibitors, as well as the nature and extent of the work being done by Dr. Smith and the other scientists  <FRAGMENT_SUPPRESSED>  at the relevant time.
+[112]
+As mentioned earlier in this decision, prior to June of 1980, it was known that captopril was an orally effective ACE inhibitor. As of June 18, 1980, it was also publically known that removing the thiol group of the left side of the captopril molecule and replacing it with a carboxymethyl function resulted in ACE inhibition. This was enalapril. It will be recalled that enalapiril had three chiral centres, each of which was specified to be in the "S" position.
+[113]
+On November 20, 1980, an article entitled "A new class of Angiotensin-converting enzyme inhibitors" was published in the journal "Nature". The authors of the article were a group of scientists  <FRAGMENT_SUPPRESSED> , Sharp and Dohme. This article discloses a compound known as "Merck No. 6", which was an effective ACE inhibitor. Merck No. 6 can be depicted as:
+[diagram omitted]
+[114]
+As can be seen from the above depiction, like enalapril, Merck No. 6 contains three chiral centres, but unlike enalapril, only two of the chiral centres are specified as being in the "S" configuration. The third chiral centre was left unspecified, allowing for variability in the chirality at this point.
+[115]
+There is some debate between the parties as to whether the Merck No. 6 compound was actually disclosed several months earlier, at the Troy conference. Given that I am considering the issue of sound prediction as of the Canadian filing date, it is not necessary to resolve this question as it is common ground that, in any event, Merck No. 6 was publically known by November of 1980.
+[116]
+Schering's work in this area focussed on the proline end of the enalapril molecule. Specifically, Dr. Smith and her colleagues altered the proline to add a second ring system. What was known about the ability to make changes at that location prior to October of 1981? In January of 1980, an article was published in the Journal of Biological Chemistry entitled "Binding of Peptide Substrates and Inhibitors of Angiotensin-converting Enzyme" (the "Cheung article"). The Cheung article indicated that there was substantial molecular tolerance at the proline binding site. That is, the site was relatively promiscuous, and could accommodate a variety of variations on the cyclic proline [see footnote 1].
+[117]
+In other words, as of January, 1980, it was known that a variety of structures could be used, each of which would interact with Angiotensin I, so as to generate an inhibiting effect.
+[118]
+By this time it was also known that there was molecular space available at the proline end of the molecule so as to be able to accommodate bicyclic rings, with one ring being five-membered and the other six-membered (a "6,5 ring"), and that such a compound would exhibit ACE inhibition. The Cheung authors tested a number of ACE inhibitors, including a compound known as tryptophan, which contained a 6,5 ring. Tryptophan demonstrated the best ACE inhibiting effect of the compounds tested.
+[119]
+With this understanding of the prior art, I turn now to the work being done  <FRAGMENT_SUPPRESSED>  by Dr. Smith and her colleagues. As noted earlier, by late 1979 or early 1980, the Schering scientists had found that the replacement of the proline in captopril with certain fused ring or spirocyclic moieties resulted in efficacious compounds.
+[120]
+A number of compounds had been made by Dr. Smith and her colleagues before the Troy conference in mid-June of 1980. By late 1979, Dr. Smith had created a compound known as SCH 30178, which replaced the proline in a captopril molecule with a 6,5 ring.
+[121]
+In December of 1979, SCH 30178 demonstrated what Dr. Smith recorded as "very good activity" in in vitro testing, although no specific level of activity was recorded. It should also be noted that as SCH 30178 was based on the captopril model, this compound is not within the scope of the '206 patent.
+[122]
+A second compound made by the Schering scientists was SCH 30928. This compound was created by replacing the five-member cyclic proline in captopril with a 6,5 bicyclic ring. SCH 30928 was tested in vitro on May 8, 1980 and in vivo starting on June 12, 1980. This compound is also not within the scope of the '206 patent.
+[123]
+Although SCH 30928 also demonstrated good activity, Dr. Richard Silverman, who was one of Schering's principle witnesses on the issue of sound prediction, conceded that Dr. Smith did not record any information as to the stereochemistry of this compound. As a consequence, it is not possible to know which stereoisomer had good activity.
+[124]
+After the Merck disclosure at the Troy conference, the Schering scientists decided to try using various bicyclic ring structures in place of the proline on an enalapril-type molecule.
+[125]
+On August 5, 1980, Dr. Smith made the first compound within the scope of the '206 patent, which became known as SCH 31335. According to Schering, this was the date of its invention. Schering submits that all of the work that was done between that date and the date of the Canadian filing was merely verification.
+[126]
+SCH 31335 had a 6,5 ring structure at the proline end of an enalapril molecule, and can be depicted as:
+[diagram omitted]
+Given that the absolute configuration of this molecule was not depicted, it can reasonably be inferred that it was not known.
+[127]
+The next compound to be formulated by the Schering scientists was SCH 31336. This was a stereoisomer of SCH 31335, and once again, the absolute configuration of this compound was not known.
+[128]
+While initial testing of these compounds indicated that they demonstrated ACE inhibiting activity, it should be noted that, as neither of these compounds had a 5,5 ring structure, neither came within Claim 12 of the '206 patent.
+[129]
+The next compound to be formulated by Schering was SCH 31924. It is not clear from Dr. Smith's affidavit whether this compound falls within Claim 12 of the '206 patent. SCH 31924 was tested in an in vivo ACE assay in rats, and was found to be inactive up to 300 micrograms per kilogram, which was the upper limit that Schering had adopted as a practical limit for screening ACE inhibitors in 1980. In other words, the compound was inactive, as that term was being used by Schering.
+[130]
+The only compound clearly claimed by Dr. Smith to come within Claim 12 of the '206 patent that was actually created prior to the Canadian filing date was SCH 31925. SCH 31925. was a stereoisomer of SCH 31924, and according to Dr. Smith's affidavit, was a 'very potent' compound. Although there was some suggestion that this compound may have been a mixture which contained ramipril, it cannot be said with certainty that this compound in fact comes within Claim 12, as at the time that Dr. Smith was testing the compound, its chirality was not completely known. Specifically, Dr. Smith's lab notes indicate the chiral centre within the bicyclic ring with a question mark. To come within Claim 12, this chiral centre had to be in the "S" configuration.
+[131]
+It bears noting that although both SCH 31924 and SCH 31925 were prepared prior to the Canadian filing date for the '206 patent, the stereochemistry at the C-2 carbon of the octahydrocyclopental[b] pyrrole ring was not specified in the '206 patent, since this was left blank in the characterization of the compounds at pages 95 and 96 of the '206 patent.
+[132]
+Aventis and Schering submit that based upon the above-described work, at the date of the Canadian filing in October of 1981, the Schering scientists were able to soundly predict that compounds coming within Claim 12 would have utility as ACE inhibitors and anti-hypertensive agents.
+[133]
+In support of this contention, Aventis and Schering rely on the evidence of Dr. David Triggle and Dr. Richard Silverman. Dr. Triggle is a Distinguished Professor at the School of Pharmacy and Pharmaceutical Sciences at the State University of New York, holds a PhD in Chemistry, and is an expert in the fields of medicinal chemistry and pharmacology. Dr. Silverman is a Professor of Chemistry and Biochemistry, Molecular Biology and Cell Biology at Northwestern University. He holds a PhD in chemistry from Harvard and has carried out post-doctoral research on enzyme inactivation. Dr. Silverman is an expert in the field of medicinal chemistry.
+[134]
+Both Dr. Triggle and Dr. Silverman have impressive publication records.
+[135]
+In contrast, Apotex says that what Schering did was to say that since some compounds with a 6,5 head group on captopril- and enalapril-type tails with unknown stereochemistry demonstrate activity, it was sound to predict that every stereochemical configuration of a 5,5 enalapril tail would be useful as an ACE inhibitor and as an anti-hypertensive. According to Apotex, there is a 'disconnect' between what was done and what was claimed, and there was simply neither a sufficient factual basis nor an articulable line of reasoning to support such a prediction as of October, 1981.
+[136]
+Apotex's argument is supported by the evidence of Dr. Garland Marshall, who, as noted earlier in this decision is a Professor of Biochemistry and Molecular Biophysics and of Biomedical Computing at the Washington University School of Medicine at Washington University. Dr. Marshall has a PhD from Rockefeller University, where his thesis dealt with the synthesis of Angiotensin II. Dr. Marshall is an expert in the field of ACE inhibitors.
+[137]
+According to Dr. Marshall, while the work done by the Schering scientists, coupled with what was publically known may have been sufficient to lead them to conduct further research, they did not have, and could not have had, a sound basis, as of October, 1981, for predicting that the compounds in Claim 12 would have activity as ACE inhibitors and anti-hypertensive agents.
+[138]
+Dr. Marshall states that the knowledge gained from the work done by Schering by adding 6,5 bicyclic rings to an enalapril molecule is not transferrable to a 5,5 bicyclic ring. (It should also be recalled that one of the 6,5 molecules tested by Schering did not work at all.) The only compounds containing 5,5 bicyclic ring molecules that were created by Schering prior to the Canadian filing date, which allegedly come within Claim 12, were SCH 31924 and SCH 31925. SCH 31924 did not exhibit any activity as an ACE inhibitor, and its complete chirality was unknown.
+[139]
+Dr. Marshall states, and indeed, both Drs. Triggle and Silverman agree, that even small changes in a molecule can have unpredictable pharmacological effects. In cross-examination, Dr. Triggle acknowledged that if one were to introduce a new chiral centre into a compound, it was not possible to predict the effect that this would have, stating:
+"Q. ... Am I correct that one of the implications of the fact that stereoisomers have different chemical and physical properties is that they also have different activities in terms of if we are talking about ACE inhibitors?
+A. Yes. Stereoselectivity of action, yes.
+Q. I just want to ask you, would you agree with this statement, "It is not possible to predict qualitatively or quantitatively biological activity as between different isomers"?
+A. From a de novo consideration, that is true.
+Q. I don't know what you mean by that.
+A. As in the absence of any preceding information.
+Q. You say that -
+A. That is if you introduce a new chiral centre into a molecule where it has not been before, it becomes very difficult to predict what that activity will be, whether there will be stereoactivity and, if there is, which direction and of what magnitude. [Aventis' Record, at pp. 14648-9]"
+[140]
+Dr. Marshall confirms that a slight change in chirality can render an active compound inactive with respect to ACE inhibition. The importance of chirality in relation to ramipril-like compounds is illustrated by the differences in the test results between SCH 31924 and SCH 31925. In this regard, it will be recalled that Dr. Smith's testing found SCH 31925 to be a 'very potent' compound, whereas SCH 31924 was inactive up to 300 micrograms per kilogram.
+[141]
+Specifically in reference to Claim 12 of the '206 patent, Dr. Marshall stated that as of October, 1981, only compounds with the "SSS"configuration on the enalapril backbone could have been expected by a person skilled in the art to be possibly effective as an ACE inhibitor or anti-hypertensive agent. Dr. Marshall's evidence was clear: one could not predict the impact of chirality in the bridgehead carbons of the bicyclic ring system.
+[142]
+In this light, and given the limited knowledge available to Dr. Smith and her colleagues  <FRAGMENT_SUPPRESSED>  at the relevant time, Dr. Marshall concluded that as of October of 1981, Schering did not have a factual basis for its prediction, nor did it have an articulable line of reasoning from which the desired result could have been inferred from the factual basis.
+[143]
+I have examined the evidence of each of the experts dealing with the issue of the soundness of Schering's prediction as of October of 1981. After careful consideration, I have concluded that the evidence of Dr. Marshall is to be preferred over that of Drs. Triggle and Silverman. I have several reasons for coming to this conclusion.
+[144]
+Firstly, and perhaps most importantly, a review of the curriculum vitae of each of the experts discloses that while all three are undoubtedly scholars of great repute, it is Dr. Marshall who has devoted his entire academic career specifically to the study of ACE inhibitors. In the nearly 40 years that he has worked in the field, Dr. Marshall has published dozens of papers dealing with Angiotensin II and ACEinhibition. Dr. Marshall has won many awards from around the world for his work in the field of ACE inhibition. Indeed, Apotex's description of Dr. Marshall as a "world class expert" in the field does not appear to be an overstatement.
+[145]
+In contrast, Dr. Triggle notes that his research interests include the chemical pharmacology of molecules that interact with autonomic receptors, and particularly drugs that interact with ion channels. He indicates that he has worked for many years in the area of calcium channel blockers, which are used in the treatment of hypertension. While Dr. Triggle has done some work in relation to ACE inhibitors, they are clearly not the primary focus of his academic career, nor does his resumé indicate any active involvement with ACE inhibitors during the period in question.
+[146]
+Dr. Silverman's area of expertise is also more general than that of Dr. Marshall. In Dr. Silverman's curriculum vitae, he describes his research interests as including "Medicinal and bio-organic chemistry; mechanism of drug action; design of medicinal agents; specific enzyme inactivation; enzyme mechanisms; enzyme models".
+[147]
+A second reason for preferring the evidence of Dr. Marshall to that of either Dr. Triggle or Dr. Silverman is that his affidavit offers a far more detailed and complete analysis of the issue than is offered in the affidavit of either of the other two experts.
+[148]
+There is a third reason for preferring the evidence of Dr. Marshall over that contained in the affidavit filed by Dr. Triggle in this proceeding. Dr. Triggle's affidavit in this case is very similar to one that he swore on behalf of Aventis in connection with a different proceeding involving the '206 patent (
+ <FRAGMENT_SUPPRESSED> ). There is, however, one material difference between the two. That is, there were three paragraphs in Dr. Triggle's affidavitin the <FRAGMENT_SUPPRESSED> matter that did not find their way into his affidavitin this case. These paragraphs are significant as they go some considerable way towards corroborating Dr. Marshall's opinion that it is not possible to predict qualitatively or quantitatively biological activity as between different isomers, in part because the actual three dimensional structure of the receptor or enzyme is frequently not known. As was mentioned earlier in this decision, in the case of ACE, the three dimensional structure of the enzyme was not known until 2003.
+[149]
+Apotex points to the decision in
+ <FRAGMENT_SUPPRESSED>  as authority for the proposition that expert evidence should be "the independent product of the expert, uninfluenced as to form or content by the exigencies of litigation" (¶ 16). The removal of the three paragraphs in question from the affidavit filed by Dr. Triggle in this proceeding, Apotex says, shows that Dr. Triggle's opinion had clearly been influenced by the exigencies of this litigation.
+[150]
+Although Apotex cross-examined Dr. Triggle at some considerable length, this proposition was never put to him, and I do not intend to speculate as to the reasons why the three paragraphs in question were removed from the affidavit before it was filed with the Court in this proceeding. The fact is that when the paragraphs in his <FRAGMENT_SUPPRESSED> affidavit were put to Dr. Triggle in cross-examination, he agreed with them.
+[151]
+I have also considered Aventis and Schering's submission that Dr. Marshall set the bar too high in relation to the test for sound prediction - that he was looking for a certainty. In this regard, I note that Dr. Marshall's affidavit recites the tripartite <FRAGMENT_SUPPRESSED> test for sound prediction. Thus it is clear that he was aware that certainty was not required in order to make a sound prediction. Moreover, I am satisfied from reviewing Dr. Marshall's evidence, in its entirety, that he properly understood the test in issue in this regard.
+[152]
+Finally, I have carefully considered Aventis and Schering's argument that in stressing the need to test for things such as toxicity, bioavailability and potency, Dr. Marshall was really looking to see whether it could be soundly predicted that the compounds coming within Claim 12 of the '206 patent had commercial utility, as opposed to utility in the sense that it is used in the patent context.
+[153]
+I agree that it does appear that in some places in his evidence, Dr. Marshall was examining the issue of utility from the perspective of whether the compounds created by the Schering scientists had potential use as ACE inhibitors and anti-hypertensive agents in the commercial sense of the word. As the Supreme Court of Canada noted in <FRAGMENT_SUPPRESSED> , it is not necessary to have carried out clinical trials in humans to establish toxicity, metabolic features, bioavailabiltity and other such factors in order to be able to make a sound prediction. The issue is not safety and effectiveness, but rather utility in the context of inventiveness: <FRAGMENT_SUPPRESSED> , supra, ¶ 77.
+[154]
+More will be said about this argument in the context of my analysis in relation to the issue of utility. Suffice it to say at this juncture that while I do have some concerns with respect to Dr. Marshall's evidence regarding the need to test for things such as toxicity in order to be able to make a sound prediction, I do not view that as otherwise undermining the weight to be attributed to his evidence. The nature of the utility required in the patent context is a legal question, which is an issue outside of Dr. Marshall's area of expertise. In this regard, Dr. Marshall was obviously reliant on the nature of the instructions that he received from counsel.
+[155]
+The fact that Dr. Marshall may have looked to commercial utility at some points in his evidence in no way takes away from the validity of Dr. Marshall's conclusion that there was simply not enough known about the chirality or stereochemistry of the compounds tested by Schering in the period leading up to the Canadian filing in October of 1981 so as to be able to predict whether the compounds coming within Claim 12 of the '206 patent would exhibit any activity. This conclusion is one entirely within Dr. Marshall's field of expertise, and for the reasons articulated above, I prefer Dr. Marshall's evidence in this regard to that of Drs. Triggle and Silverman.
+iii) Conclusion on the First Two Elements of the Wellcome Test
+[156]
+The law is clear that a patentee is not to be limited to specific compounds that he or she has actually made and tested prior to filing for patent protection. A patentee is able to claim more broadly, so as to cover a class of compounds, as long as the claim is based upon a sound prediction.
+[157]
+There is no question that the '206 patent turned out to be a very useful invention. However, this sort of "after the fact validation" was specifically rejected by the Supreme Court of Canada in <FRAGMENT_SUPPRESSED> . Thus, the fact that three compounds within the '206 patent later turned out to have commercial value is of no assistance in determining the soundness of the prediction at the time in question: see <FRAGMENT_SUPPRESSED> , supra, ¶ 78-85.
+[158]
+To be sound, there must have been a factual basis for Schering's prediction, and the inventors must have had an articulable line of reasoning from which the desired result could have been inferred from the factual basis. I appreciate that the jurisprudence teaches that I should approach these issues with an anxiety to support a really useful invention: <FRAGMENT_SUPPRESSED> , supra, ¶ 92. However, for the reasons given, I am satisfied, on a balance of probabilities, that as of October, 1981, the prediction made by Schering that the eight compounds within Claim 12 would be useful as ACE inhibitors and as anti-hypertensive agents was not sound, and that, as a result, Apotex's allegations in this regard were justified.
+iv) Was There Proper Disclosure?
+[159]
+The third element of the tripartite test articulated by the Supreme Court of Canada in the <FRAGMENT_SUPPRESSED> decision is the requirement that the inventor make proper disclosure.
+[160]
+Disclosure has been described as part of the quid pro quo that the applicant offers in exchange for the patent monopoly: see <FRAGMENT_SUPPRESSED> , supra, ¶ 70.
+[161]
+Normally, it is sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised: <FRAGMENT_SUPPRESSED> , supra, ¶ 70. xiting Fox in
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+, at p.167. The Supreme Court went on in <FRAGMENT_SUPPRESSED> to observe that what readers want to know is that the invention does in fact work, and how to work it. Because the precise requirements for disclosure did not arise on the facts of the case in <FRAGMENT_SUPPRESSED> , the Supreme Court declined to say more about them.
+[162]
+Before turning to consider the sufficiency of the disclosure in this case, it is once again necessary to address the appropriate date for the determination of this question.
+[163]
+I will return to this question in relation to my analysis of the sufficiency issue under subsection 34(1) of the old
+Patent Act
+. However, for the purposes of addressing the third element of the <FRAGMENT_SUPPRESSED> test for sound prediction it is clear that the date to be used is either the priority date or the Canadian filing date. There is nothing in the <FRAGMENT_SUPPRESSED> decision that would suggest that the date of issue should be used.
+[164]
+As noted earlier, <FRAGMENT_SUPPRESSED> is less clear as to whether it is the priority date or the Canadian filing date that is to be used in relation to the test for sound prediction. However, as for the reasons cited above, I have concluded that it is the date of the Canadian filing that should be used. It does not make any sense that the first two elements of the test for sound prediction be determined as of one date, and the third element as of another date - that is, the date of issue - nor is there any suggestion in <FRAGMENT_SUPPRESSED> that this should be the case. Accordingly, I intend to assess the sufficiency of the disclosure in the '206 patent as of October 20, 1981.
+[165]
+At the end of the day, however, the choice of date would not have affected the result of my analysis, as I would have come to the same conclusion whether I used the October 23, 1980 priority date or the Canadian filing date.
+[166]
+Apotex asserts that the disclosure was deficient in several respects. Each of these will be considered in turn.
+a) Operability of Example 20A
+[167]
+In its NOA, Apotex asserts that the first step in Example 20A is not operable to produce the compounds of Claim 12. Apotex asserts that the title compound of Example 20A:
+"... could not be synthesized by virtue of the inoperability of the method of Example 18A ... since the mercuric acetate oxidation of octahydracyclopenta[b]pyrrole, as described in Example 18A, is inoperative to produce the corresponding imine needed for synthesis of a series of subsequent intermediates required for the production of the title compound of Example 20. Additionally the specification does not teach one skilled in the art how to prepare those compounds covered by the Claims in Issue, including claims 12 and 13, wherein the chiral centers [are in the trans configuration]."
+[168]
+Example 20A may be understood by reference to the following diagram:
+[diagram omitted]
+[169]
+Aventis asserts that while Apotex asserts that a specific oxidation process (mercuric acetate) is not operable, Apotex failed to assert that a skilled person could not practice the invention by the exercise of routine workshop experimentation. Moreover, Aventis says that Example 20 is operable and that, in any event, there are a variety of methods available to synthesize compounds of Example 20A.
+[170]
+Schering notes that Apotex does not allege that any of the other steps of Example 20A do not work, only that one particular reaction in one example in a very long patent does not work. According to Schering, this allegation is not justified as the NOA itself is deficient, in that it does not allege that a skilled person could not make the product of Example 20A having regard to the whole of the specification, and based on common general knowledge at the relevant time. Moreover, Schering says that Example 20A does work.
+[171]
+In addressing this issue, I am mindful that disclosure is directed to a person skilled in the art, with a mind willing to understand, not desirous of misunderstanding. The person skilled in the art is permitted to employ his background knowledge and other public information. Such construction should be done purposively, not literally. Moreover, a patent ought not be struck out on technical grounds:
+ <FRAGMENT_SUPPRESSED>  ¶ 40, 53 C.P.R. (3d) 259 at 274 ( <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 210 (S.C.C.); and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1, at 41 (F.C.A.).
+[172]
+In order that the invention be complete as of the date of the patent application, it is necessary that no additional inventive ingenuity be required in order to make the patent work. It is, however, sufficient if all that remains to be done involves "ordinary workshop effort":
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 356, at p. 385.
+[173]
+Thus, there are three questions to be addressed. The first is the sufficiency of Apotex's NOA as it relates to the issue of the sufficiency of the disclosure in the '206 patent. Secondly, it must be determined whether Example 20A does in fact work. Finally, if I conclude that Example 20A does not work as it is presently drafted, the question then arises as to whether the title compound of Example 20A could be made to work through routine, non-inventive experimental laboratory work.
+b) Sufficiency of the NOA
+[174]
+Aventis and Schering assert that Apotex's NOA is insufficient as it does not assert that a skilled person could not make the product of Example 20A having regard to the whole of the specification and common general knowledge.
+[175]
+As was noted earlier in this decision, the question is whether the detailed statement was sufficient to make Aventis fully aware of the grounds on which Apotex was claiming that the relevant patent would not be infringed if a NOC was issued by the Minister:
+Novopharm Limited
+, previously cited.
+[176]
+Apotex's NOA specifically contemplates that the invention will be practised by a skilled person. Implicit in this is that the skilled person will be one who possesses the relevant common general knowledge. Moreover, it is clear from the voluminous evidence adduced by Aventis and Schering in relation to the sufficiency argument in relation to Example 20A that both Aventis and Scheringfully appreciated the nature of the attack that was being mounted by Apotex.
+[177]
+As a consequence, I am satisfied that Apotex's NOA was sufficient in relation to this issue.
+c) Does Example 20A Work?
+[178]
+In support of its contention that the first stage in the sequence of reactions set out in Example 20A is inoperable, Apotex relies on the evidence of Dr. Edward Lee-Ruff, who deposes that he tried and failed to practice Example 20A to synthesize the title compound of Example 20A.
+[179]
+Apotex also cites the evidence of Dr. Robert McClelland in support of its assertion that the first reaction in Example 20A was inoperable. Dr. McClelland failed in an attempt to use Example 20 to synthesize trans stereoisomers.
+[180]
+Finally, Apotex relies on experimental work conducted by Dr. Edward Taylor, Sir Harold Barton and Dr. Volker Teetz, described in declarations filed by Aventis' predecessor, Hoechst, in patent proceedings in Europe and the United States. Taylor and Barton each report having failed in attempts to practice Example 20A, while Teetz allegedly obtained a small yield of the desired intermediate.
+[181]
+Aventis and Schering say that given that Apotex chose not to file affidavits from any of the declarants, thereby depriving Aventis and Schering of the right of cross-examination, the Taylor, Barton and Teetz declarations are all inadmissible hearsay, and should thus be disregarded.
+[182]
+Aventis relies on the evidence of Dr. James Wuest in support of its assertion that Example 20A does indeed teach an operable method to be used in the formulation of the compounds within Claim 12 of the '206 patent. Dr. Wuest deposes that a skilled organic chemist would be able to prepare the 5,5 trans compound through routine laboratory work, including limited reading of the available chemical literature.
+[183]
+In this regard, Dr. Wuest points to a 1959 article disclosing the synthesis of an analogous 5,5 trans ring, which he describes as "a potential precursor" for synthesizing substituted derivatives. According to Dr. Wuest, based upon this, the skilled person could have prepared the 5,5 trans rings, and could then have used the procedures taught by Example 20A to synthesize the final compound with trans stereochemistry.
+[184]
+Aventis also relies on the evidence of Dr. William Pirkle. Dr. Pirkle is a Professor Emeritus at the University of Illinois, where he taught and carried out research in relation to analytical chemistry, in particular, the separation of chiral compounds.
+[185]
+In cross-examination, Dr. Pirkle asserted that the reactions in question were "standard reactions", which have been known for many years. In Dr. Pirkle's view, the tools were at hand so as to allow a competent chemist to have prepared the material in issue.
+[186]
+Schering relies on the evidence of Dr. Braden Roach, who states that he and his associate, Professor Meinwald, successfully practiced Example 20A in the late 1980's. Professor Meinwald was accepted by Apotex's expert, Dr. McClelland, as an internationally recognized organic chemist.
+[187]
+Dr. Roach deposes that in one repetition, his yield was approximately 32-35% of the desired △
+1
+intermediate in the cis configuration.
+[188]
+According to Dr. Roach, Drs. Taylor and Barton's failure to practice Example 20A resulted from their use of inappropriate procedures. Dr. Taylor was unable to detect the desired compound because of an inappropriate work-up procedure and inappropriate analytical procedures for the detection of small quantities of imine. Dr. Roach says that Sir Harold Barton was unable to detect the presence of the desired imine due to loss during distillation and binding to mercury precipitate generated during the reaction which was discarded. Such binding can be avoided by addition of sulfide before removal of the precipitate, an operation reported in the prior art. Hence, Dr. Roach says, Sir Harold essentially discarded the product.
+[189]
+As a consequence, Dr. Roach concluded that the discrepancy between his yield and that of Drs. Barton and Taylor was in the procedures that they used to isolate the imine, not in the oxidation step itself.
+[190]
+Dr. Roach also identified a number of what he says were flaws in the work done by Drs. Lee-Ruff and McClelland. Specifically, Dr. Roach says that after a couple of failed attempts at carrying out the oxidation process, he realized that the compound was very volatile, and that it was necessary to add a sulfide to the mix to effect the desired reaction. According to Dr. Roach, this solution would have been evident from a search of the relevant literature.
+[191]
+Dr. Roach also faulted Drs. McClelland and Lee-Ruff for failing to carry out a mass balance. Further, he says, Dr. Lee-Ruff failed to shield the mercuric acetate from light, failed to check the precipitate for the desired intermediate, and failed to take the necessary steps to avoid a trimerization reaction.
+[192]
+Schering also points to the evidence of Edward Mazer, a patent attorney employed by Schering. Mr. Mazer reviewed the history of the '206 patent, pointing out that Hoechst's earlier allegations of inoperability were either rejected or had been abandoned.
+[193]
+Before turning to analyze the evidence of the various experts in relation to the issue of the operability of Example 20A, a threshold issue arises with respect to the admissibility of the Barton, Teetz and Taylor declarations.
+d) Should the Barton, Teetz and Taylor Declarations be Admitted as Evidence?
+[194]
+While conceding that there is no evidence that any of the three declarants were not available to prepare affidavits in this proceeding, Apotex argues that their evidence from the American proceedings should nonetheless be admitted in this case. According to Apotex, any concern as to the reliability of the evidence evaporates, given that it was Hoechst, now Aventis itself, who tendered the affidavits in the foreign proceedings.
+[195]
+Further, Apotex submits that as the declarations were referred to in the affidavit of Dr. Roach, this has "legitimized the evidence".
+[196]
+I do not accept Apotex's submissions in this regard.
+[197]
+The rule against hearsay may be stated as:
+"Written or oral statements, or communicative conduct made by persons otherwise than in testimony at the proceeding in which it is offered, are inadmissible, if such statements or conduct are tendered either as proof of their truth or as proof of assertions implicit therein."
+(See: J. Sopinka, S. N. Lederman and A. W. Bryant,
+The Law of Evidence in Canada
+(2nd Ed. 1999), at p. 173.)
+[198]
+The evidence in questionis clearly hearsay, and should not be admitted, unless it falls within one of the exceptions to the hearsay rule: see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 501 (T.D.).
+[199]
+There is clearly no issue of necessity in this case, counsel for Apotex having candidly acknowledged that there is no evidence before the Court to suggest that any of the three declarants was not available to provide affidavits in this proceeding.
+[200]
+Moreover, there is no indication that any of Drs. Barton, Teetz or Taylor were ever subject to cross-examination in the United States or Europe in relation to the declarations that they provided. Thus there has been no opportunity to test the reliability of their evidence. Indeed, as I understand it, Schering was not a party to the U.S. proceeding, whereas Apotex was not involved in either the American or European cases.
+[201]
+The fact that the declarations were put forward by Hoechst/Aventis does not, in my view, by itself, provide a sufficient justification for their admission in this proceeding. As was noted by Sopinka, Lederman and Bryant, this type of reasoning should be rejected as it relies on the premise that, in tendering a witness, a party vouchsafes his or her credibility:
+The Law of Evidence in Canada
+, supra, ¶ 6.291.
+[202]
+In a related vein, I have also considered whether the evidence should be admitted as an admission against interest. The theory underlying this exception to the hearsay rule is that human nature being what it is, one would not normally expect a party to lie when it was against their interests to do so. As a result, an admission against one's interest may be deemed to be sufficiently reliable as to justify excepting it from the usual rule against the admission of hearsay.
+[203]
+In my view, there are three reasons why this exception to the hearsay rule does not assist Apotex in this case. Firstly, it should be noted that, the statements in issue were not made by Hoechst/Aventis itself, but by individuals, two of whom (Barton and Taylor) were completely independent of the company.
+[204]
+Secondly, while the evidence was indeed proffered by Hoechst/Aventis, at the time that the evidence was tendered, the statements were not against the company's interest, but rather were supportive of Hoechst/Aventis' efforts to oppose the grant of a patent to Schering in relation to the invention allegedly covered by the '206 patent in the case of Europe, or to obtain a patent for itself in the American case.
+[205]
+Finally, the fact that Dr. Roach makes reference to the three declarations in his affidavit goes no distance, in my view, towards establishing the truth of the declarations, nor does it address the fairness issues referred to in the preceding paragraphs.
+[206]
+For these reasons, the Barton, Teetz and Taylor declarations are excluded.
+e) Analysis With Respect to the Operability of Example 20A
+[207]
+It is clear that a specification is sufficient if a skilled worker can practice the invention, even if routine trials and experiments not amounting to invention might be necessary to arrive at the desired result:
+ <FRAGMENT_SUPPRESSED>  ¶ 29, 63 C.P.R. (3d) 473 at 484-486 ( <FRAGMENT_SUPPRESSED>  to make Example 20A work, but both Aventis and Schering submit that this effort was no more than the sort of routine trials and experiments permissible under the jurisprudence.
+[209]
+I have carefully considered the evidence of the various experts on this point. While it is clear that each of the chemistry process experts (thus excluding Mr. Mazer) were highly qualified experts in their fields, I have concluded that the evidence of Aventis and Schering's experts is to be preferred over that of Dr. McClelland and Dr. Lee-Ruff. As a result, I am satisfied, on a balance of probabilities, that the process described in the mercuric acetate oxidation step in Example 20A was operable as of October, 1981.
+[210]
+The principle reason for coming to this conclusion is that, at the end of the day, neither Dr. Lee-Ruff, nor Dr. McClelland could state with any degree of assurance that they had not in fact actually created the desired compound using the process described in Example 20A.
+[211]
+In cross-examination, neither Dr. Lee-Ruff nor Dr. McClelland could account for all of their material despite the fact that the concept of a mass balance (accounting for all of the material in a system) was a well known concept for a chemist. Dr. McClelland could not account for all of his starting material. Most significantly, Dr. McClelland also could not exclude the possibility that he had actually made the △
+1
+imine in a small amount using the process described in Example 20A. In this regard, he stated the following in cross-examination:
+"Q. Am I correct that you can't exclude that the peak at 109 in the mass spec that we are looking at is the desired imine?
+A. It could be the other imine. If it is an imine, we don't [know] whether it is the delta-1 imine or the delta-1 6A. I would have said, if it was going to be any imine at [all], it would be the delta-1 6A imine, because that is much more stable than the delta-1 imine.
+Q. My question was, you can't exclude that it could be the delta-1 imine?
+A. If it is a delta-1 imine, it is present in less than one per cent yield, and I don't see it in the NMR. I would see a signal that would correspond to that.
+Q. You can't exclude that it is the delta-1 imine; you have an expectation, but you can't tell me conclusively that it is not the delta-1imine.
+A. If it is the delta-1 imine, then I am unable to extract that, and prove it, and I tried, from this experiment. I am expecting to get the delta-1 6 imine from this reaction, as I said in my report. But I saw, when I did the first experiment, when I had to isolate the delta-1 6 imine and the story would be over.
+It went the wrong way. The reaction didn't work at all; it produced anything other than starting material, and possibly some decomposition products.
+If that is an imine, and I have no evidence other than the suggestion that there is a 109-peak, then I can't exclude that it is a delta-1 imine.
+But my expectation is that it is a delta-1 6 imine. But there isn't enough of it present for me to analyse it. [Aventis Record, at pp. 13300-1]"
+[212]
+Insofar as Dr. Lee-Ruff is concerned, he admitted in cross-examination that he failed to check the precipitate for the desired intermediate, despite the fact that a reaction had occurred. Dr. Lee-Ruff stated:
+"Q. Where is the precipitate now that you refer to in your affidavit that was removed from the reaction scheme as described by you?
+A. It is probably sitting in my laboratory somewhere.
+Q. Was that precipitate examined in any way to determine its identity?
+A. No [Aventis' Record, at p. 13622]"
+[213]
+Dr. Lee-Ruff later admitted that the target molecule may have adhered to this precipitate. Morover, he also agreed that he may have been successful in making a small amount of the desired imine using the process taught in Example 20A:
+"Q. Looking at the third try which is labelled 'Page 21', there is still a very small peak at about 7.2, 7.4, 7.6 and 7.8. There are actually four small peaks there. Do you see that?
+A. I see that.
+Q. Since this was not run in chloroform or CECL3, that can't be a chloroform peak, is it?
+A. You are correct.
+Q. Do you know what those peaks are?
+A. I don't know.
+Q. It could be a small amount of the desired imine?
+A. Possibly. [Aventis' Record, at p.p. 13708-9]"
+[214]
+In other words, while neither Dr. Lee-Ruff nor Dr. McClelland were able to isolate or identify the desired compound in question after using the mercuric acetate oxidation process described in Example 20A, neither could either of them rule out the possibility that the process had succeeded in creating the desired compound.
+[215]
+Once again, the burden is on Apotex to establish, on a balance of probabilities, that the disclosure in Example 20A was insufficient. In the circumstances, they have failed to discharge that burden.
+[216]
+Moreover, in the event that I am mistaken in my conclusion in this regard, I am satisfied that, as of October, 1981, there were other, non-inventive methods available to a skilled person to achieve the desired result. This issue will be addressed next.
+f) Were There Other, Non-Inventive Ways to Do It?
+[217]
+Aventis and Schering say that even if the first step in Example 20A does not work, there were other oxidation systems, apart from that described in Example 20A, that were known at the relevant time, which could have been used to create the desired compound.
+[218]
+By way of example, Dr. Wuest points to literature from 1959 teaching how to make a 5,5 trans ring by using an intra molecular nucleophilic substitution reaction involving an amino group and a bromoethyl group located in a 1,2 trans orientation as substituents on a five-membered ring.
+[219]
+Both Dr. Lee-Ruff and Dr. McClelland only address the methodology set out in Example 20A in their affidavits.
+[220]
+However, in cross-examination, a specific series of reactions were put to Dr. McClelland as a possible alternate route for the preparation of the desired intermediate. [see footnote 2] Dr. McClelland acknowledged that the starting materials in this sequence were known in 1980. He was then carefully walked through each stage of what is a multi-step process. In most instances, Dr. McClelland expressly acknowledged that the reaction in issue in each step was something that a skilled person would have known how to carry out in 1980.
+[221]
+In one instance, Dr. McClelland could not confirm that a particular reaction in question would work; nor, however, did he deny that it would work. Similarly, in relation to a different step in the process, Dr. McClelland did not specifically address whether the step in question was known to a skilled person at the material time.
+[222]
+At end of the day, the burden is on Apotex to show that the compounds necessary to make the compounds described in Claim 12 of the '206 patent could not have been created by a skilled person at the relevant time, without inventive activity. In the circumstances, Apotex has failed to persuade me, on a balance of probabilities, that, as of October, 1981, a skilled person could not have created the desired imine based upon what was generally known in the field.
+g) Sufficiency in Relation to the Issues of Separation and Characterization
+[223]
+Apotex also asserts that the disclosure in the '206 patent is insufficient in that it fails to teach how to either separate or characterize stereoisomers, including the stereoisomers of ramipril.
+[224]
+In this regard, Apotex's NOA states:
+"Additionally, the '206 Patent specification does not teach one skilled in the art how to isolate or characterize the various 32 stereoisomers of the compounds listed below, wherein R2 can be hydrogen or ethyl. Included among the stereoisomers which the specification does not teach how to isolate or characterize are the compounds which have an (S), (S), (S), (S), (S) configuration at the chiral centres identified by an *. These are compounds Ramipril and Ramprilat. [structure omitted]"
+[225]
+In carrying out the synthetic process used to make the ramipril molecule, it is likely that, at different stages, various diastereomic mixtures will be created. As a consequence, in designing a synthetic process, it will be necessary to carry out separations along the way, so as not to potentially end up with a mixture of 32 different stereoisomers. [see footnote 3]
+[226]
+It is also necessary to determine the structure and stereochemistry of the compound created, in order to be able to determine whether the sought-after result has been achieved.
+[227]
+Apotex submits that the disclosure in the '206 patent is deficient, in that it does not teach how to separate the various 5,5 bicyclic stereoisomers from one another, nor does it teach how the compounds should be characterized.
+[228]
+Aventis relies on the evidence of Dr. Pirkle and Dr. Wuest in support of its contention that, as of 1980, a skilled person would have been able to isolate and characterize the stereoisomers in issue.
+[229]
+The '206 patent notes that the diasteromers in the examples may be separated by column chromatography or by fractional crystallization techniques. In the examples that follow, the '206 patent sets out details of the separations to be carried out in the course of the synthesis.
+[230]
+In his evidence, Dr. Pirkle discusses both chromatographic and fractional crystallization techniques, opining that both would have been readily available to a skilled person seeking to separate disasteromic mixtures in 1980. Dr. Pirkle also asserts that two other separation methods, namely simple distillation and ligand-exchange chromatography were available in 1980.
+[231]
+As was noted earlier, diasteromers have different physical properties, which can be used to assist in the separation process. This is not so in the case of enantiomeric mixtures, as enantiomers have identical physical properties. Dr. Pirkle described techniques whereby racemic mixtures of enantiomers could be separated by reacting the racemic mixture with a reagent, so as to give a mixture of diasteromers. This mixture can then be separated by chromatography or crystallization, and, if necessary, can then be converted back to the original enantiomers. According to Dr. Pirkle, this technique was known in the 1970's.
+[232]
+Finally, Dr. Pirkle describes a variety of techniques that were commonly known and available at the relevant time to 'characterize', or determine the structure and stereochemistry of the compounds created. These include x-ray crystallography, chiroptic measurements, chemical degradation, nuclear magnetic resonance spectroscopy and reactions conducted using a single enantiomer of either a catalyst or reactant.
+[233]
+According to Dr. Pirkle, the '206 patent contains sufficient information so as to allow a skilled person to isolate and characterize any of the 32 stereoisomers of ramipril. Further, he is of the view that even if the patent was silent on the issue of separation, a skilled person could have conducted the separation and characterization necessary to make the individual stereoisomers.
+[234]
+Dr. Wuest also addressed the issues of separation and characterization in his evidence. According to Dr. Wuest, it would not be necessary to have to try to segregate out a single isomer from a mixture of 32 different isomers, as a skilled person would be expected to minimize or eliminate the formation of undesired stereoisomers by choosing the route of synthesis, as well as by choosing the stereochemistry of the reactants used to build the target molecule.
+[235]
+Like Dr. Pirkle, Dr. Wuest also points to the fact that the '206 patent discloses well-known separation techniques. Finally, Dr. Wuest asserts that, as of 1980, a skilled person could have readily separated and characterized the stereoisomers.
+[236]
+Apotex relies on the evidence of Dr. Lee-Ruff and Dr. McClelland with respect to the issues of separation and characterization.
+[237]
+In his evidence, Dr. Lee-Ruff reviews, in considerable detail, his various attempts to separate mixtures of various stereoisomers of ramipril in order to determine whether a skilled person, without using inventive ingenuity could have isolated ramipril. Based upon his lack of success in this regard, Dr. Lee-Ruff concluded that, without the benefit of hindsight, the skilled person following the teachings of the '206 patent could not have isolated ramipril without using inventive ingenuity.
+[238]
+Dr. McClelland also addressed the separation issue in his evidence. He agrees with Dr. Wuest that the general methods for separating and characterizing stereoisomers identified by Dr. Wuest were available as of 1980. However, Dr. McClelland disagrees with Drs. Wuest and Pirkle in relation to whether, given the information available with respect to the compounds in Claim 12 of the '206 patent, these methods could be used successfully.
+[239]
+Dr. McClelland notes that separation methods often involve a great deal of trial and error. In this context, he observes that the '206 patent does not provide any teachings as to the preparation of either ramipril or ramiprilat, or the separation of any of the eight diastereomers referred to in Claim 12 out of a mixture containing other stereoisomers. As a consequence, Dr. McClelland says even if Example 20A worked, it would be very difficult to separate out any of the individual diastereomers as the '206 patent provides no physical data to characterize the individual stereoisomers. Thus, Dr. McClelland says, the skilled person would have no guidance as to whether the separations were producing a specific stereoisomer.
+[240]
+Dr. McClelland observes that it would be especially difficult to separate out ramipril without guidance as to its physical characteristics. He opines that an unimaginative skilled person "would certainly not have been led directly and without difficulty to the separation of ramipril". (McClelland affidavit, ¶ 158)
+[241]
+With respect to the characterization issue, Dr. McClelland notes that several of the methods suggested by Dr. Pirkle require prior knowledge of the physical data for the compounds in question, which, as noted above, was not available at the relevant time. Dr. McClelland points to the blanks left in the description of the compounds set out at pages 95 and 96 of the '206 patent, which, it is asserted by Aventis and Schering, are compounds falling within Claim 12 of the '206 patent. According to Dr. McClelland, if the separation and characterization of the stereoisomers were as routine as Dr. Pirkle and Dr. Wuest suggest, these compounds would have been separated into single stereoisomers, and the absolute configuration at each centre would have been identified. Instead, Dr. Smith's lab notes disclose that she had not been able to characterize the compounds obtained as single stereoisomers, nor was she able to identify the stereochemistry of the compounds in question.
+[242]
+Finally, Dr. McClelland notes that Dr. Smith prepared the two compounds in question (SCH 31924 and SCH 31925) in February of 1981, some nine months prior to the Canadian filing date. Nevertheless, despite the fact that Schering had nine months in which to separate and characterize the compounds into individual stereoisomers and to characterize their structures, this was not done, as the same gaps in the characterization of the compounds appear in the '206 patent.
+h) Analysis
+[243]
+Assuming that the skilled person was able to successfully create the desired product referred to in Example 20A of the '206 patent, the question thus arises as to whether, as of October, 1981, that same skilled person would have been able to prepare or isolate individual stereoisomers falling within Claim 12, including ramipril.
+[244]
+Having carefully considered the evidence of the experts in relation to this point, I am satisfied that the evidence of Dr. McClelland and Dr. Lee-Ruff is to be preferred to that of the experts tendered by Aventis and Schering on this point. Further, I am satisfied that while the separation and characterization techniques may have been known by October of 1981, without sufficient information as to the physical characteristics of the compounds in question, the separation and characterization process could not be successfully carried out.
+[245]
+As a consequence, I find that as of October, 1981, the disclosure of the '206 patent was insufficient, as it fails to teach how to either separate or characterize stereoisomers, including the stereoisomers of ramipril.
+[246]
+In coming to this conclusion, I note that while Drs. Pirkle and Wuest were speaking from a theoretical perspective, it was Dr. Lee-Ruff and his students who actually tried to carry out the separation and characterization steps, and were unable to do so.
+[247]
+While Dr. Wuest asserted that the number of methods for separating diasteromers is so large that he failed to see how a skilled personwould fail to effect some degree of separation of diasteromers within Claim 12 through routine experimentation, he was unable to identify specific conditions under which this could be carried out.
+[248]
+Similarly, Dr. Pirkle asserted that he was of the view that "some method" could be found. He was not able, however, to specifically identify what that method would have been.
+[249]
+The weight to be attributed to the theoretical evidence provided by Drs. Pirkle and Wuest also has to be considered in light of Dr. Pirkle's concession that, in dealing with the separation of unknown compounds, theory does not always translate into practice.
+[250]
+Moreover, Dr. Pirkle acknowledged that he himself had encountered situations where he had been unable to separate enantiomers. Similarly, he acknowledged that he was also aware of cases where large pharmaceutical companies had not been able to separate enantiomers.
+[251]
+Finally, Dr. Pirkle conceded that, as of October, 1980 - just a year before the Canadian filing date - the separation of enantiomers was not well understood. There is no indication in the evidence that there were any significant advances in the state of the public knowledge with respect to the separation of enantiomers in the months leading up to the Canadian filing in October of 1981.
+[252]
+In these circumstances, I am satisfied that the evidence of the witness who had actually tried to carry out the separation and characterization processes is to be preferred over that of those speaking in purely theoretical terms.
+v) Conclusion with Respect to the Third Element of the Wellcome Test
+[253]
+While it is undisputed that since October of 1981, ramipril has been both separated and characterized, for the reasons cited, I am satisfied, on a balance of probabilities, that given the limited state of the knowledge in October of 1981 with respect to the structure of the compounds coming within Claim 12 of the'206 patent, the skilled person would not have been able to isolate or characterize individual stereoisomers falling within Claim 12, including ramipril, without using inventive ingenuity.
+[254]
+As a consequence, Apotex has satisfied me, on a balance of probabilities, that the disclosure of the '206 patent was deficient in this regard.
+vi) Conclusion with Respect to Sound Prediction
+[255]
+Apotex has persuaded me that Schering had not satisfied any of the three elements of the tripartite <FRAGMENT_SUPPRESSED> test for sound prediction in relation to the compounds coming within Claim 12 of the '206 patent as of the date on which it filed for patent protection in Canada in October of 1981.
+[256]
+Given that each of the compounds included in Claim 12 is also included in each of Claims 1, 2, 3 and 6 of the '206 patent, the same conclusion in relation to the question of sound prediction follows with respect toeach of these claims.
+[257]
+As a consequence, Aventis' application for prohibition will be dismissed.
+[258]
+This finding is sufficient to dispose of Aventis' application. However, in the event that I am mistaken in my conclusion in relation to the issue of sound prediction, I propose to address the remaining issues raised by Apotex.
+XI. Are the Claims in Issue in the '206 Patent Invalid for Failure to Comply with the Requirements of Subsection 34(1) of the Old Patent Act?
+[259]
+Subsection 34(1) of the old
+Patent Act
+, supra, requires an applicant to correctly and fully describe the invention and its operation or use as contemplated by the inventor in the specification.
+[260]
+The patentee must describe the invention "with sufficiently complete and accurate details as will enable a [person] skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired":
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 129 at 145.
+[261]
+I have already dealt with the sufficiency of the disclosure in the '206 patent as of October of 1981 in the context of my sound prediction analysis. The question, then, is whether the same date should be used for the purposes of assessing the sufficiency of Schering's disclosure for the purposes of subsection 34(1).
+[262]
+ <FRAGMENT_SUPPRESSED>  ¶ 23; 184 N.R. 113; 61 C.P.R.(3d) 417 (F.C.A.), the Federal Court of Appeal was called upon to determine the appropriate date for the purposes of assessing the sufficiency of the disclosure. The trial judge had used the priority date - that is the filing date of the corresponding U.S. patent - rather than the date on which the Canadian patent was issued. In concluding that the trial judge had erred in this regard, the Federal Court of Appeal held that it is the date of issue that should be used for assessing the sufficiency of disclosure rather than the priority date.
+[263]
+The facts of this case are somewhat unusual, in that there was a delay of some 20 years between the date of filing and the date of issuance of the '206 patent. In the course of this intervening 20-year period, the state of public scientific knowledge and understanding advanced considerably.
+[264]
+This situation could no longer arise, given the introduction of a 'first to file' patent system in Canada.
+[265]
+While the material date for assessing the sufficiency of patent disclosure may not often be of critical importance, the issue is of significance in this case, as it does not appear to be disputed that given the availability of samples of ramipril for the purposes of comparison, as well as the advances in the state of knowledge as to its configuration, a skilled person would have been able to isolate and characterize ramipril in 2001.
+[266]
+At the same time, for the reasons given earlier, I have found that a skilled person could not have done so as of 1981.
+[267]
+I recognize that using the date of issue for the purposes of assessing the sufficiency of the disclosure in the '206 patentin these circumstances has the effect of allowing Schering to provide deficient consideration for the grant of monopoly rights, and to then benefit from advances in the state of public knowledge and understanding while the application is pending.
+[268]
+Nevertheless, AlliedSignalappears to represent the current state of the Canadian law on this point. As a consequence, given that the alleged invention contained in the '206 patent could be put into effect, based upon the general knowledge that would be possessed by a skilled person in 2001, Apotex has not succeeded in persuading me that the '206 patent is invalid for failure to comply with the requirements of subsection 34(1) of the old
+Patent Act
+.
+XII. Are the Claims in Issue Broader than the Invention or Do They Lack Utility?
+[269]
+In its NOA, Apotex asserts that the claims of the '206 patent, including Claim 12 are invalid for inutility, stating:
+"We also allege that each of the Claims in Issue is invalid on the basis of inutility since they include within their scope compounds which do not possess the requisite level of activity and the requisite pharmacological and toxicological profile which would allow for their use as an ACE inhibitor which is suitable for oral or parenteral administration to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian, including human, hypertension. Each of the compounds described above for which we have alleged that the purported inventors did not make, isolate, characterize or test, with the exception of the compounds Ramipril and Ramiprilat, are the compounds which lack utility. Included among the compounds covered by the Claims in Issue which lack the requisite utility are those compounds wherein each of the chiral centres is in the (R) configuration.
+"Particularly, with respect to the compounds covered by claims 12 and 13 of the '206 Patent ...
+"... With the exception of the compounds Ramipril and Ramiprilat (in which each of the five chiral centres is in the (S) configuration), each of the remaining seven compounds contained within the scope of claims 12 and 13 (i.e., compounds in which at least one of the three remaining chiral centres is in the (R) configuration) does not possess the requisite level of activity and the requisite pharmacological and toxicological profile which would allow for its use as an ACE inhibitor which is suitable for oral or parenteral administration to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian, including human, hypertension. Particularly lacking in such utility are the compounds wherein each of the three remaining chiral centres is in the (R) configuration."
+i) The Law Relating to Utility
+[270]
+Before turning to consider the evidence relating to the question of utility, it is necessary to address the concept of 'utility' as the term is used in the patent context.
+[271]
+In order to be patentable, an invention must be novel, inventive and useful. Where the specification does not promise a specific result, no particular level of utility is required - a "mere scintilla" of utility will suffice: Fox,
+Canadian Law and Practice Relating to Letters Patent for Invention
+, 4th Ed., at p. 153.
+[272]
+Utility does not depend upon marketability:
+ <FRAGMENT_SUPPRESSED>  at p. 25; 8 C.P.R. 35. In other words, in assessing whether an invention has utility, the issue is not whether the invention is sufficiently useful as to be able to support commercialization, unless commercial utility is specifically promised. Rather, the question is whether the invention does what the patent promises that it will do.
+[273]
+Moreover, the fact that a compound may produce side-effects does not call into question the utility, for patent purposes, of what would otherwise be a useful invention:
+ <FRAGMENT_SUPPRESSED>  ¶ 9.
+[274]
+However, if an inventor claims more than he or she has invented, and includes in a claim substances that are devoid of utility, the patent will not be valid:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 161 (S.C.C.).
+[275]
+With this understanding of the relevant principles, I will next consider what was promised by the '206 patent.
+ii) What did the '206 Patent Promise by Way of Utility?
+[276]
+Given that the '206 patent deals with a genus of new compounds, it was not necessary for the Schering scientists or Schering itself to address the question of utility in the patent claims. Nevertheless, to be patentable, the "invention" had to be "new and useful": section 2 of the
+Patent Act
+, supra,"invention".
+[277]
+What does the '206 patent promise by way of utility? According to counsel for Schering, the '206 patent promises that having the three unspecified chiral centres in the "S" configuration would be better than having them in the "R" configuration. In support of this submission, he points to pages 17 and 18 of the patent where it is noted that:
+"In general, the amino acid part-structures, i.e. ... [structures omitted]... of Formula I are preferred in the configuration most similar to that of natural L-amino acids. Usually, natural L-amino acids are assigned the
+S
+-configuration. A notable exception is the natural amino acid L-cysteine which is assigned the
+R
+-configuration."
+[278]
+I do not accept this submission. While the '206 patent may teach that the "S" configuration is preferred to the "R"configuration, that is not a statement as to the utility promised by the patent.
+[279]
+The first page of the patent states that the invention relates to "carboxyalkyldipeptides which are useful as inhibitors of angiotensin-converting enzyme and as anti-hypertensive agents." At page 24, the patent states that "The compounds of this invention have useful pharmacological properties. They are useful in the treatment of high blood pressure".
+[280]
+Thus I am satisfied that the '206 patent has a two-fold promise: that is, the patent promises that the compounds claimed by the patent will have utility as both ACE inhibitors
+and
+as anti-hypertensive agents.
+[281]
+I will next consider the evidence relied upon by Apotex with respect to its inutility argument.
+iii) The Evidence Relating to Utility
+[282]
+In support of its assertion that Claim 12 of the '206 patent lacks utility, Apotex's NOA refers to the declaration of Dr. Reinhard Becker, which declaration was filed by Hoechst during the prosecution of Hoechst's U.S. patent claiming ramipril. Specifically, the Becker declaration was filed to support the patentability of Hoechst's application over a rejection based on Schering's U.S. patent. Dr. Becker tested a number of compounds, including a compound coming within Claim 12 of the '206 patent in which each of the three unspecified chiral centres were in the "R"configuration (the "SSRRR compound"). According to Dr. Becker, this compound exhibited "no inhibition".
+[283]
+Apotex also filed an affidavit from Dr. Haralambros Gavras. Amongst other credentials, Dr. Gavras is the Chief of Medicine at the Boston School of Medicine and the President of the American Society of Hypertension. Dr. Gavras reviewed the Becker declaration, and opined that it is questionable whether the compounds tested by Dr. Becker would be of value as ACE inhibitors intended for medicinal use. Although he acknowledged that "anything was possible", in his view, it is unlikely in practice that such compounds would be investigated further, as there are other available ACE inhibitors which are effective at lower doses.
+[284]
+Apotex has also filed an affidavit from Dr. Sergei Danilov. Dr. Danilov is a medical doctor, who also holds a PhD in pharmacology. He was retained by Apotexto conduct in vitro and in vivo testing of a series of compounds related to ramipril. These tests were carried out after the filing of Apotex's NOA.
+[285]
+The compounds that were tested by Dr. Danilov included ramipril and the SSRRR compound. He also tested a compound with all five of the chiral centres in the "R"configuration. This compound does not come within Claim 12. Dr. Danilov also tested ramiprilat, which also does not come within Claim 12.
+[286]
+According to Dr. Danilov, the SSRRR compound demonstrated only slight inhibitory potency towards rat plasma ACE, and did not reach statistically significant inhibition in lung and kidney ACE. As a consequence, Dr. Danilov was of the view that the compound did not possess useful pharmacological properties as an ACE inhibitor, and could not be used as a medicinal agent.
+[287]
+Finally, Apotex relies on the evidence of Dr. Marshall, who stated that the pharmaceutical utility of an ACE inhibitor arises from its clinical effectiveness in humans in the treatment of hypertension and related diseases. Dr. Marshall observed that any compound that inhibits ACE in vitro is potentially useful for clinical application, provided several other essential criteria are met. Included in these criteria are specificity, which relates to the question of toxicity, metabolic stability, bioavailability and potency.
+[288]
+According to Dr. Marshall, many of the compounds claimed by Schering may not satisfy these criteria, and thus may have no clinical utility.
+[289]
+With respect to the compounds falling within Claim 12, Dr. Marshall notes that only ramipril is on the market today. According to Dr. Marshall, if other compounds within Claim 12 were useful as ACE inhibitors or anti-hypertensive agents, he would have expected to see them on the market.
+[290]
+Aventis relies on the evidence of Dr. Rodger Loutzenhiser and Dr. Trigglein support of its contention that the compounds in Claim 12 have utility.
+[291]
+Dr. Loutzenhiser is a professor of Pharmacology and Therapeutics at the University of Calgary, and identifies himself as an expert in vascular smooth muscle physiology/pharmacology. Dr. Loutzenhiser was asked by Aventis to review the Becker Declaration, and to provide an opinion as to whether the data relied upon by Dr. Becker demonstrates that the compounds referred to therein lack utility as ACE inhibitors.
+[292]
+According to Dr. Loutzenhiser, the Becker data does not lead to the conclusion that the compounds tested lack utility as ACE inhibitors. He notes that the low dosage level used by Dr. Becker does not demonstrate that the compounds would not be active at higher doses. Moreover, Dr. Becker assessed the relative activity of the various compounds tested in relation to ramipril. The Becker assay was not designed to, nor did it establish the inactivity of the compounds in question as ACE inhibitors.
+[293]
+Dr. Triggle also reviewed the Becker Declaration in order to determine whether it establishes that the SSRRR compound lacked activity in the inhibition of ACE. Given that Dr. Becker only tested at a dosage of 1 mg/kg, Dr. Triggle was of the view that the Becker data does not establish that the SSRRR compound lacks utility, as it may be active at a higher dosage than that studied by Dr. Becker.
+iv) Analysis
+[294]
+Utility can be established by actual testing or by sound prediction. I have already found that as of October, 1981, the Schering scientists did not have a sufficient basis on which to soundly predict that the compounds within Claim 12 of the '206 patent would have utility as ACE inhibitors and anti-hypertensive agents.
+[295]
+At this juncture, the question is not whether the Schering scientists could have predicted that the compounds in question would be useful, but rather whether the compounds were in fact useful as ACE inhibitors and anti-hypertensive agents.
+[296]
+In addressing this issue, the first issue to consider is whether the Becker declaration is admissible as evidence in this proceeding. In this regard, Aventis and Schering raise the same objection relating to the hearsay nature of the declaration as was advanced with respect to the Barton, Taylor and Teetz declarations referred to earlier in this decision. For the same reasons cited with respect to the other three declarations, I am satisfied that the Becker declaration should not be admitted as evidence in this proceeding, given its hearsay nature.
+[297]
+In any event, I note that Dr. Becker's opinion does not speak to the issue of activity at dosage levels above 1 mg/kg, and thus does not demonstrate the inutility of the compounds at a higher dosage. In this regard, it should be noted that the '206 patent contemplates a possible dosage range of up to 30 mg/kg.
+[298]
+While Dr. Gavras reviewed the Becker declaration, he did not perform the tests in issue, and thus cannot speak to the truth of its contents, insofar as the testing data is concerned. Moreover, it is clear from Dr. Gavras' affidavit that his understanding of the issue of utility related to whether, to use his words "the compounds would be of value as an ACE inhibitor intended for medicinal use". With respect, that is not the test for utility.
+[299]
+Aventis and Schering also object to the evidence of Dr. Danilov on the basis that his test results and opinion are not mentioned anywhere  <FRAGMENT_SUPPRESSED> 's NOA. This is hardly surprising, given that Dr. Danilov did not carry out his testing until several months after the NOA was served on Aventis.
+[300]
+The question at this juncture is whether the test results and opinion contained in Dr. Danilov's affidavit are merely additional evidence supporting allegations that are contained  <FRAGMENT_SUPPRESSED> 's NOA, or whether they amount to "new facts":
+ <FRAGMENT_SUPPRESSED>  that the essence of its allegation in relation to the issue of inutility is that each of the claims in issue is invalid on the grounds that they contain compounds which do not possess:
+"... the requisite level of activity and the requisite pharmacological and toxicological profile which would allow for their use as an ACE inhibitor which is suitable for oral or parenteral administration to provide compositions useful in the treatment of cardiovascular disorders and particularly mammalian, including human, hypertension."
+Apotex further asserts that seven of the eight compounds coming within Claim 12 of the '206 patent are similarly lacking in utility, as Apotex uses the term.
+[302]
+Focussing on the compounds coming within Claim 12 of the '206 patent, the NOA asserts that the SSRRR compound has 'no inhibition' at a dosage level of 1 mg/kg, based upon Dr. Becker's testing. In contrast, Dr. Danilov's affidavit reveals that he tested the SSRRR compound at a concentration of 10 mg/kg.
+[303]
+In other words, through the evidence of Dr. Danilov, Apotex is now claiming that the SSRRR compound lacks utility at 10 times the dosage level as was used in the Becker study.
+[304]
+In light of the nature of Apotex's allegations regarding the lack of a "requisite level of activity" as it relates to the issue of utility, I am satisfied that the Danilov affidavit should not be considered. In my view, the affidavit raises new facts, and is not merely evidence supporting allegations that are contained  <FRAGMENT_SUPPRESSED> 's NOA.
+[305]
+Moreover, given that Aventis was required to lead its evidence first in this proceeding, and was reliant on the definition of the issues and facts identified by Apotex in its NOA, it would, in my view, be unfair to allow Apotex to introduce new facts later on in the process, at a time that Aventis had no opportunity to respond: see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) ¶ 21; 331 N.R. 373; 2005 FCA 50.
+[306]
+In the event that I am wrong in this regard, I should also note that Dr. Danilov acknowledged in his cross-examination that while the activity level of the SSRRR compound within Claim 12 was less than that of ramipril (being the SSSSS compound), even the SSRRR compound demonstrated some ACE inhibiting activity, inhibiting 22% of the angiotensin-converting enzyme in in vivo testing in rats.
+[307]
+It was also clear from Dr. Danilov's cross-examination that his opinion was really premised on whether or not the activity of the compound in question was such that the compound could potentially be commercialized. As noted earlier, this is not the test for utility in the patent context.
+[308]
+As a consequence, the evidence of Dr. Danilov would not have persuaded me to accept Apotex's allegation of inutility.
+[309]
+This leaves the evidence of Dr. Marshall, who, it will be recalled, was of the view that it was necessary to determine the specificity, toxicity, metabolic stability, bioavailability and potency of a compound prior to being able to determine whether the compound had utilityas an ACE inhibitor. As I noted earlier, in the context of my sound prediction analysis, a review of Dr. Marshall's evidence as a whole leads to the conclusion that he was really looking at the issue of utility from the perspective of whether or not the compounds in question would have commercial utility, as opposed to utility in the sense that it is used in the patent context.
+[310]
+Moreover, while the '206 patent promises that the compounds within the patent will be useful as ACE inhibitors and anti-hypertensive agents, with useful pharmacological properties for the treatment of high blood pressure in humans, at the end of the day, the burden is on Apotex to demonstrate that the compounds in issue in Claim 12 did not have this utility. It is not up to Aventis to show that they did.
+[311]
+While Dr. Marshall has raised questions about the specificity, toxicity, metabolic stability, bioavailability and potency of the compounds, he has not clearly shown that the compounds lacked utility in this regard. As a consequence, Apotex has not persuaded me, on a balance of probabilities that the compounds within Claim 12 do not have utility as ACE inhibitors.
+[312]
+Apotex also argues that even if the compounds in question have utility as ACE  inhibitors, the evidence does not support a finding that they have utility as anti-hypertensive agents.
+[313]
+In this regard, Apotex observes that the utility promised by the '206 patent is that the compounds claimed by the patent will have utility as both ACE inhibitors
+and
+as anti-hypertensive agents. According to Apotex, all of Aventis and Schering's evidence relating to the issue of utility is directed to the question of ACE inhibition, and not to whether the compounds in question will be useful as anti-hypertensive agents.
+[314]
+Apotex says that Aventis and Schering are relying on what Apotex calls an "Ergo" argument. That is, the position attributed to Aventis and Schering is that given that the compounds in question have utility as ACE inhibitors, it automatically follows that they will therefore have an anti-hypertensive effect. According to Apotex, ACE inhibition cannot be equated with anti-hypertensive effect. Indeed, Apotex says that there are a host of pharmacological properties that need to be present for a compound to be useful in the treatment of high blood pressure.
+[315]
+In support of this argument, Apotex points to a 1978 article by Cushman, Cheung, Sabo and Ondetti entitled "Design of New Antihypertensive Drugs: Potent and Specific Inhibitors of Angiotensin-Converting Enzyme" (
+Prog. Cardiovasc. Diseases
+21:176-182) which observes that while certain compounds exhibited activity as ACE inhibitors "their potency was not sufficient to yield a useful orally active antihypertensive drug". In cross-examination, counsel for Apotex was able to get both Dr. Triggle and Dr. Silverman to agree with this proposition.
+[316]
+Apotex also pointed to a second Cushman and Ondetti article from 1980, which stated that weak ACE inhibitors are unlikely to be effective as medicines in hypertensive disease.
+[317]
+Apotex also relies on the evidence of Dr. Marshall, who asserts that it does not necessarily follow that a compound that has the effect of reducing the amount of Angiotensin II in the human body will necessarily produce a useful anti-hypertensive agent, unless matters such as the compound's specificity, toxicity, metabolic stability, bioavailability and potency are considered. It should be noted that a number of Aventis and Schering's experts agreed with this as a general proposition.
+[318]
+I do not accept Apotex's argument in this regard.
+[319]
+As I understand the evidence, and, in particular, the evidence of Apotex's own witness, Dr. Marshall, the anti-hypertensive effect of ACE inhibitor is a simple matter of bio-mechanics. It is common ground that Angiotensin II is a vasoconstrictor: that is, it narrows or constricts blood vessels. As blood vessels constrict as a result of the effect of Angiotensin II on the muscles surrounding the vessels, the heart continues to pump blood through the circulatory system. This blood has to pass through constricted blood vessels, encountering an increased level of resistance in the vessel walls, thereby resulting in an increase in blood pressure.
+[320]
+Inhibiting ACE, thereby reducing the amount of Angiotensin II present in the body, will, therefore, automatically have the effect of reducing blood pressure.
+[321]
+While I accept the evidence of Apotex's witnesses as to the need to consider issues such as specificity, toxicity, metabolic stability, bioavailability and potency, these issues need to be addressed in relation to whether the compounds in question have a commercial utility as anti-hypertensive agents and could thus be developed as drugs. They do not, however, take away from the general proposition that the inhibition of ACE will, of necessity, result in a reduction in blood pressure.
+v) Conclusion in Relation to the Issue of Utility
+[322]
+Apotex has not succeeded in persuading me, on a balance of probabilities, that the eight compounds coming within Claim 12 of the '206 patent are lacking in utility, as that term is used in the patent law context.
+XIII. Overlap Issues
+[323]
+The remaining issues all relate to overlap between the '206 patent on the one hand, and the '087 and '457 patents on the other. Each of these issues was dealt with by the parties in a fairly summary fashion, and given my finding in relation to the issue of sound prediction, none is dispositive of this case. Nevertheless, I will briefly address each of the remaining arguments advanced by Apotex.
+[324]
+Before turning to address these matters, however, and in order to situate the issues, it is helpful to review the factual context in which they arise.
+[325]
+It will be recalled that the '087 patent covers some of the compounds within the '206 patent, including ramipril. The '087 patent was granted to Hoechst, Aventis' predecessor, on May 14, 1985, and is now expired.
+[326]
+Hoechst applied for the '087 patent on Nov. 4, 1982, claiming November 5, 1981 and July 17, 1982 as priority dates. There is no evidence before the Court establishing an earlier date for this invention. Thus the earliest priority date for the '087 patent is after the latest possible invention date for the '206 patent - that is, the October, 1981 Canadian filing date.
+[327]
+The '457 patent was also owned by Hoechst, and covers the use of compounds, including ramipril, for the treatment of cardiac insufficiency. Hoechst applied for the '457 patent on April 10, 1985, claiming an April 12, 1984 priority date. Once again, there is no evidence before the Court establishing an earlier date for this invention. Thus the earliest priority date for the '457 patent is two and a half years after the latest possible invention date for the '206 patent. The '457 patent was issued on December 13, 1988, and will expire in December of this year.
+[328]
+The '206 patent is a genus patent - that is, it claims a class of compounds. It is common ground that while ramipril is one of the eight compounds within Claim 12 of the '206 patent, the '206 patent does not specifically disclose or claim ramipril.
+[329]
+The '087 patent discloses ramipril, when made by a particular method, as well as other ACE inhibitors. It does not disclose or claim the '206 patent genus.
+[330]
+The '457 patent is for a new use for ramipril and other ACE inhibitors for the treatment of cardiac insufficiency. The '457 patent also does not disclose or claim the '206 patent genus.
+[331]
+With this understanding of the patents in issue, I turn now to address each of the remaining issues.
+XIV. Are the Claims in Issue Invalid by Reason of Anticipation?
+[332]
+Apotex asserts that the '206 patent is invalid for anticipation on the basis that, as of the November 5, 1981 priority date for the '087 patent, Schering had not yet invented ramipril, as Dr. Smith had not yet isolated it. According to Apotex, it was Hoechst that in fact invented ramipril first.
+[333]
+Apotex also contends that a conflict proceeding should have been directed by the Commissioner of Patents as between the application which issued as the '206 patent and the application which issued as the '087 patent, in accordance with section 43 of the
+Patent Act
+. Apotex asserts that a conflict proceeding should have been directed because one or more of the claims in one patent application described the invention disclosed in the other application, and vice versa.
+[334]
+Finally, Apotex argues that Schering is estopped from asserting that it was the first to invent ramipril, as, Apotex says, Schering admitted that it did not invent ramipril in the context of American interference proceedings. As a result of an interference between Hoechst and Schering in the United States, Schering disclaimed certain claims in its American patent application, which, it is said, had the effect of conceding that Schering was not entitled to claims covering the ramipril configuration. By disclaiming its rights to those claims, Apotex says that Schering has conceded that it had never invented ramipril. As a consequence, Apotex says that the claims in issue in this proceeding are necessarily invalid.
+[335]
+As was noted earlier, in relation to the issue of sound prediction, I have found that as of the October, 1981, Canadian filing date for the '206 patent, Schering did not have a sound basis for predicting that the eight compounds coming within Claim 12 of the '206 patent would be useful as ACE inhibitors and as anti-hypertensive agents. As a consequence, the issue of anticipation does not arise in this case.
+[336]
+However, in the event that I am mistaken in my conclusion in relation to the issue of sound prediction, and Schering had in fact made its invention as of October, 1981, I am satisfied that the invention claimed in the '206 patentwas not anticipated by the invention claimed in the '087 patent.
+[337]
+As the Supreme Court of Canada noted in the
+Free World
+decision, supra, ¶ 26, the test for anticipation is difficult to meet. Quoting from
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), per Hugessen J.A., at p. 297, the Court stated:
+"One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention."
+[338]
+There are several reasons for concluding that the invention claimed in the '206 patent was not anticipated by the invention claimed in the '087 patent, assuming that the invention claimed in the '206 patent was soundly predicted as of the Canadian filing date.
+[339]
+First of all, for reasons that will be discussed in relation to the issue of double patenting, I am not satisfied that the '087 patent claims the class of compounds that is claimed in the '206 patent. As a consequence, there can be no issue of anticipation.
+[340]
+Moreover, I am satisfied that, in this case, Apotex is really trying to argue that an earlier invention was somehow anticipated by a later one. In this context, regard should be had to the relevant sections of the old
+Patent Act
+, which are subsections 27(1)(a), 61(1)(b) and 43(1).
+[341]
+Section 27(1) accords to the first inventor the right to the grant of a patent:
+"27(1) Subject to this section, any inventor or legal representative of an inventor of an invention that was
+(a) not known or used by any other person
+before
+he invented it ...
+may, on presentation to the Commissioner of a petition setting out the facts, in this Act termed the filing of the application, and on compliance with all other requirements of this Act, obtain a patent granting to him an exclusive property in the invention." (emphasis added)
+[342]
+Subsection 61(1) qualifies the 'first inventor' requirement:
+"61(1) No patent or claim in a patent shall be declared invalid or void on the ground that, before the invention therein defined was made by the inventor by whom the patent was applied for, it had already been known or used by some other person, unless it is established that ...
+(b) that other person had, before the issue of the patent, made an application for patent in Canada on which conflict proceedings should have been directed ..."
+[343]
+Finally, subsection 43(1) defines the circumstances in which patent applications conflict:
+"43(1) Conflict between two or more pending applications exists
+(a) when each of them contains one or more claims defining substantially the same invention; or
+(b) when one or more claims of one application describe the invention disclosed in one of the other applications."
+[344]
+To succeed in its attack, Apotex must establish that there was both prior knowledge or use by Hoechst,
+and
+a missed conflict:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 238 (T.D.), at 272.
+[345]
+My consideration of the issue of anticipation is premised on the assumption that, as of October, 1981, Schering had a sound basis for predicting that the eight compounds coming within Claim 12 of the '206 patent would be useful as ACE inhibitors and as anti-hypertensive agents. If that were the case, then the fact that Dr. Smith had not yet isolated ramipril by the November 5, 1981 priority date for the '087 patent is irrelevant.
+[346]
+In the above scenario, the latest possible date for the Schering invention would be the October, 1981 Canadian filing date for the '206 patent. This is before the November, 1981 priority date for the '087 patent. In the absence of evidence that takes an invention date back behind the priority date, the priority date is deemed to be the invention date. There is no evidence before the Court in this case that takes the '087 invention date back before its November 5, 1981 priority date.
+[347]
+Thus it would appear that Apotex is essentially arguing that the invention defined by the earlier '206 patent was anticipated by the later '087 patent. Section 27(1)(a) of the old
+Patent Act
+requires that, to be anticipated, an invention must not have been known or used by any other person before the applicant invented it. In the circumstances, Apotex's argument cannot succeed.
+[348]
+Assuming, therefore, that as of October, 1981, Schering in fact had a sound basis for predicting that the eight compounds within Claim 12 would be useful as ACE inhibitors and as anti-hypertensive agents, I am thus satisfied that the alleged invention disclosed by the '206 patent was not anticipated by the '087 patent.
+[349]
+Having failed to establish that there was prior knowledge or use by Hoechst, it is therefore not strictly necessary to determine whether there was a missed conflict. In this regard I would simply note that the winner of the conflict proceedings would have been the party with the earlier invention date.
+XV. Are the Claims in Issue in the '206 Patent Invalid by Reason of Section 61(2) of the Old Patent Act?
+[350]
+Apotex also alleges that pursuant to subsection 61(2) of the old
+Patent Act
+, the Commissioner of Patents was without authority to issue the '206 patent in light of the previously granted '087 patent.
+[351]
+Subsection 61(2) provides:
+"(2) Notwithstanding section 41, an application for a patent for an invention for which a patent has already issued under this Act shall be rejected unless the applicant, within a time to be fixed by the Commissioner, commences an action to set aside the prior patent, so far as it covers the invention in question, but if that action is commenced and diligently prosecuted, the application shall not be deemed to have been abandoned unless the applicant fails to proceed on it within a reasonable time after the action has been finally disposed of."
+[352]
+According to Apotex, because the '087 Patent issued prior to the issuance of the '206 Patent in March of 2001, Schering was required to commence an action to invalidate the '087 Patent. Having failed to do so, Apotex says, the Commissioner had no jurisdiction to issue the '206 Patent.
+[353]
+It is clear that subsection 61(2) only applies to an application for a patent that was filed after the issuance of the other patent relied upon: see
+Re Fry
+(1939), 1 C.P.R. 135 (Exch. Ct.). In the present case, the application for the '206 patent was filed before the issuance of the '087 patent. Moreover, subsection 61(2) merely provides a procedure to be followed by the Commissioner during the prosecution phase. It cannot be relied upon as a basis for invalidating an issued patent:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.) at p. 22.
+[354]
+As a consequence, I am not satisfied that Apotex's allegation in this regard is justified.
+XVI. Are the Claims in Issue in the '206 Patent Invalid by Reason of Double Patenting?
+[355]
+This leaves Apotex's assertion that the claims in issue in the '206 patent are invalid on the bases of 'same invention'and 'obviousness' type double patenting over the '087 and '457 patents. According to Apotex, the '087 patent cannot be properly characterized as a selection patent over the '206 patent, as Aventis and Schering have not shown that all of the selected members of the species selected by the '087 patent possess a special advantage over the compounds in the claims in issue in the '206 patent. According to Apotex, at least one of the compounds in the '087 patent demonstrates significantly less activity than does ramipril, and thus all of the compounds in the '087 patent do not possess a common special attribute. Apotex also argues that there are other claims in the '087 patent which are much broader in scope.
+[356]
+Moreover, Apotex asserts that the '206 patent is invalid on the basis of obviousness-type double patenting over the '457 patent. In this regard, Apotex observes that the '206 patent teaches that:
+"The compounds of the present invention can be combined with pharmaceutical carriers and administered in a variety of well known pharmaceutical forms suitable for oral or parenteral administration to provide compositions
+useful in the treatment of cardiovascular disorders
+and particularly mammalian hypertension." (emphasis added)
+[357]
+The relationship between the '206, '087 and '457 patents, as it relates to the issue of double patenting was specifically addressed by my colleague, Justice Snider, in
+ <FRAGMENT_SUPPRESSED> ; 270 F.T.R. 187; 2005 FC 340, a case in which Pharmascience argued that Aventis was trying, through the back door, to extend its expired '087 patent for ramipril, through the vehicle of the '457 patent.
+[358]
+In relation to the 'same invention' issue, and after a careful review of the relevant authorities dealing with the issue of double patenting, Justice Snider made the following finding:
+"[49] Just as  <FRAGMENT_SUPPRESSED> , it cannot be said that the claims of the '206 patent are 'identical or conterminous' with those of the '087 or '457 patents. The '206 patent is a genus patent that covers a huge number of compounds, while the '087 patent covering ramipril was a selection patent covering only a portion or a selection of the chemicals claimed in the genus patent. The '457 patent is a use patent, specifically claiming ramipril in the treatment of cardiac insufficiency. The issue before me is not one of 'same invention' double patenting."
+[359]
+Justice Snider went on to consider the issue of obviousness-type double patenting, particularly as it related to cases where the inventors or patentees are different. In this regard, she concluded that the operation of obviousness-type double patenting should not be limited to cases involving the same inventor:
+"[57] In my view, it does not help to focus on the inventors or the patentees. As the jurisprudence tells us, basic principles and the claims are what matters. As has been pointed out by the Supreme Court of Canada, a patent is a 'bargain'. In <FRAGMENT_SUPPRESSED> , at para. 37, Justice Binnie stated the following:
+'[T]he bargain between the patentee and the public is in the interest of both sides only if the patent owner acquires real protection in exchange for disclosure, and the public does not for its part surrender a more extended monopoly than the statutory 17 years from the date of the filing of the patent grant (now 20 years from the date of the filing of the patent application).'
+"[58] Using the language of a 'bargain', each party, both the patentee and the public, must receive something. If an invention is not new, the patentee would receive a term of protection for which he has not paid the 'hard coinage of new, ingenious, useful and unobvious disclosures' ( <FRAGMENT_SUPPRESSED> , at para. 37); he would have received 'something for nothing' (
+Free World Trust v. Électro Santé, Inc.
+[2000] 2 S.C.R. 1024, at para. 13). The public, in such a situation, receives no consideration for the bargain. This would be true regardless of whether the inventors or the patentees are different or the same. If the claims of the two patents are not patentably distinct, the effect would be an extension of the original patent as was considered by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  C.P.R. 9. In that case, the Supreme Court refused to recognize a new patent for a substance that was, in fact, a simple dilution of a medicine covered by an already existing patent.
+"[59] Thus, I would not limit the operation of the concept of obviousness double patenting to the same patentees or inventors. In reviewing the facts of each case, the focus must be the claims that form the invention and not the persons or parties that advance them. If the claims to one patent are not patentably distinct over those in another patent, an allegation of invalidity may have merit."
+[360]
+Justice Snider then proceeded to consider the relationship between the '206 patent and the '087 patent. Citing
+I.G. Farbenindustrie A.G.'s Patents, Re
+(1930), 47 R.P.C. 289 (Ch. D.), at p. 322, she concluded that the '087 patent added "something of a substantial character to existing knowledge": <FRAGMENT_SUPPRESSED> , supra, ¶ 64. Thus she found that the '206 patent was a genus patent, and the '087 patent a selection patent.
+[361]
+Justice Snider also held that the date of invention, rather than the date of issuance, should be used for the purposes of determining obviousness: Ibid. ¶ 85. Given that the date of invention of the '206 patent preceded the date of invention of either the '457 or the '087 patent, Justice Snider found that, on its face, the claim of obviousness failed.
+[362]
+In this case, Schering and Aventis urge me to follow Justice Snider's decision in <FRAGMENT_SUPPRESSED> as a matter of judicial comity. As was noted by Justice Richard, as he then was, in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 65 (T.D.), where he quoted the decision of the British Columbia Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  at p. 511; 36 C.P.R. 115 (B.C.C.A.):
+"The principle of judicial comity has been expressed as follows:
+'The generally accepted view is that this court is bound to follow a previous decision of the court unless it can be shown that the previous decision was manifestly wrong, or should no longer be followed: for example, (1) the decision failed to consider legislation or binding authorities which would have produced a different result, or (2) the decision, if followed, would result in a severe injustice. The reason generally assigned for this approach is a judicial comity. While doubtless this is a fundamental reason for the approach, I think that an equally fundamental, if not more compelling, reason is the need for certainty in the law, so far as that can be established. Lawyers would be in an intolerable position in advising clients if a division of the court was free to decide an appeal without regard to a previous decision or the principle involved in it.'" (at p. 511)
+[363]
+Apotex submits that I should not follow Justice Snider's decision in <FRAGMENT_SUPPRESSED> , arguing that her decision was not one made in rem, and was dependent upon the nature of the evidence that was adduced before her. Rather, Apotex says, I should decide the double patenting issues before me on the basis of the evidence that was placed before me in this case.
+[364]
+I have carefully considered Apotex's argument as to why I should not follow Justice Snider's decision in <FRAGMENT_SUPPRESSED> . In considering this question, it is, I think, necessary to distinguish between Justice Snider's conclusions of law, which may be subject to the principle of comity, and her findings of fact, which will be dependent upon the nature of the evidence that was adduced before her.
+[365]
+In this case, Justice Snider found, as a matter of law, and evidently as a matter of first impression, that the operation of the concept of obviousness-type double patenting was not limited to cases involving the same patentees or inventors. While I have carefully considered the arguments advanced by Apotex in this regard, Apotex has not persuaded me that the decision of Justice Snider in this regard was manifestly wrong, and I proposed to follow it.
+[366]
+Having found that obviousness-type double patenting was not limited to cases involving the same patentees or inventors, Justice Snider went on to find that as the date of invention of the '206 patent preceded the date of invention of either the '457 or the '087 patent, on its face, the claim of obviousness failed. As noted earlier in this decision, assuming that Schering had a sound basis for its prediction, the date of the invention of the '206 patent preceded the date of invention of either the '457 or the '087 patent. As a consequence, I agree with Justice Snider, and find that the invention claimed in the '206 patent was not obvious in light of either the '087 patent or the '457 patent.
+[367]
+Justice Snider's conclusion that the claims of the '206 patent were not identical or conterminous with those of the '087 patent and '457 patent involves a question of patent construction. When a patent issues, it is an enactment within the definition of "regulation", as that term is used in the
+Interpretation Act
+, R.S.C. 1985, c. I-21:
+Whirlpool Corp.
+, supra, ¶ 49(e). As a consequence, the construction of patent claims is a matter of law:
+ <FRAGMENT_SUPPRESSED>  her conclusion in this regard, I am therefore satisfied that, as a matter of judicial comity, I should follow Justice Snider's decision in relation to this point.
+[368]
+As a consequence, Apotex has failed to persuade me that the '206 patent is invalid on the basis of either 'same invention' or 'obviousness'type double patenting over the '087 and '457 patents.
+XVII. Conclusion
+[369]
+For these reasons, Aventis' application will be dismissed.
+XVIII. Costs
+[370]
+The parties were afforded the opportunity to address the matter of costs at the hearing of this application, and were in agreement that the costs of this matter should follow the event. The parties further agreed that any award should properly include the costs of second counsel, including the costs for the attendance of second counsel at the cross-examinations, as well as the reasonable disbursements of the successful party. Finally, the parties agreed that the appropriate tariff was the middle of column III.
+[371]
+Having had the opportunity to consider those submissions, and having regard to the factors set out in Rule 400 (3) of the
+Federal Courts Rules
+, in my discretion I order that Apotex should have its costs, to be assessed in accordance with the following directions:
+1) Costs are to be assessed on the basis of the middle of column III;
+2) Apotex is entitled to its costs of second counsel, including the costs of the attendance of second counsel at the cross-examinations; and
+3) Apotex is entitled to its reasonable disbursements.
+XIX. Order
+[372]
+THIS COURT ORDERS THAT this application is dismissed, with costs.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/ve
+Footnotes
+1. Reference was also made to an article published in Medicinal Research Reviews by Petrillo and Ondetti, entitled "Angiotensin-Converting Enzyme Inhibitors: Medicinal Chemistry and Biological Actions", which came to a similar conclusion. It appears, however, that this article was not published until 1982.
+2. This series of reactions is described at Slide 32 of Aventis' PowerPoint presentation.
+3. It is possible to end up with up to 32 various stereoisomers as there are five different chiral centres in the ramipril molecule, each of which could be in either the S or R configuration. This means that there are 2
+5
+possible different combinations of chiralty in the molecule. It will be recalled that given the fact that two of the chiral centres are specified to be in the S configuration in claim 12 of the '206 patent, only eight of the 32 possible stereoisomers come within that claim.
+[End of document]

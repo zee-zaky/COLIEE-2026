@@ -1,0 +1,260 @@
+[1]
+Boivin, J.
+: This is an application by way of an appeal pursuant to section 41 of the
+Patent
+Act
+, R.S. 1985, c. P-4, by the Applicant, Bayer Schering Pharma Aktiengesellschaft, of a decision of the Commissioner of Patents dated May 21, 2008, in which the Commissioner refused to grant a patent on Patent Application No. 508,336 (the Application).
+The Factual Background
+[2]
+(...)
+[3]
+The Application claims divisional status from (...) the "Parent Application" which (...) is now (...) the "Parent Patent" (...). Two of the claims in the Parent Patent are relevant in the case at hand: Claim (L) claimed a process for preparing a particular product, for which the chemical structure was described in detail. Claim (B) claimed the product described in claim (L) when produced by the process described in claim (L).
+[4]
+Before 1989, the
+Patent
+Act
+did not permit patents for foods or medicines produced by chemical methods, except when prepared by a described and claimed process. These were generally known as "process-dependent" claims (see subsection 41(1) of the
+Patent
+Act
+below, as it read at that time). The Application, and therefore this appeal, are governed by the
+Patent
+Act
+as it read immediately before October 1, 1989:
+"41(1) In the case of inventions relating to substances prepared or produced by chemical processes and intended for food or medicine, the specification shall not include any claim for the substance itself, except when prepared by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents."
+"41(1) Lorsqu'il s'agit d'inventions couvrant des substances préparées ou produites par des procédés chimiques et destinées à l'alimentation ou à la médication, le mémoire descriptif ne doit pas comprendre les revendications pour la substance même, excepté lorsque la substance est préparée ou produite par les modes ou procédés de fabrication décrits en détail et revendiqués, ou par leurs équivalents chimiques manifestes."
+[5]
+(...)
+[6]
+(...)
+[7]
+The Application contains (a number of claims) and each claim is dependent in some way or another upon claim (L), which claims a particular compound. There is no material difference between the compound described in that claim and the compound described in claim (B) (and claim (L)) of the Parent Patent. The only difference material to this proceeding is that the Parent Patent claims the product only when produced by a process (as was then required by the legislation), while the Application purports to claim the product itself (as would now generally be permitted by the legislation).
+The Impugned Decision
+[8]
+In her decision, the Commissioner of Patents rejected claims (L) to (R) on a number of grounds but particularly on the ground of "obviousness double patenting". The Parent Patent and the Application did not claim the same invention, so that form of double patenting did not apply. However, the Commissioner held that the claims of the Application displayed no "inventive ingenuity" in comparison with the claims of the Parent Patent, as they were not "patentably distinct". Since none of the claims patently distinguished over the claims of the Parent Patent, the patent was refused.
+[9]
+The Commissioner also found that the Application is not a proper divisional application, but the Application was not refused on that basis. The Commissioner simply held that "the Applicant must remove all reference to divisional status from the instant application".
+[10]
+The Commissioner also rejected claims (N) to (R) as being indefinite and ambiguous because the processes upon which the compounds of these claims are based are defined in exclusionary terms, such as excluding the processes of the Parent Patent. The Commissioner also rejected claims (N) to (R) as unsupported by the disclosure of the Application (...).
+The Issues
+[11]
+This application raises the following questions:
+1. What is the appropriate standard of review of the decision of the Commissioner?
+2. Did the Commissioner err in rejecting claims (L) to (R) on the ground of obviousness double patenting?
+3. Did the Commissioner err in concluding that the Application is not a proper divisional application?
+4. Did the Commissioner err in concluding that claims (N) to (R) are indefinite and ambiguous and are not supported in the disclosure?
+The Relevant Legislation
+[12]
+Subsections 4(2), 36(1) and sections 40 and 41 of the
+Act
+provide as follows:
+"4(2) The Commissioner shall receive all applications, fees, papers, documents and models for patents, shall perform and do all acts and things requisite for the granting and issuing of patents of invention, shall have the charge and custody of the books, records, papers, models, machines and other things belonging to the Patent Office and shall have, for the purposes of this Act, all the powers that are or may be given by the Inquiries Act to a commissioner appointed under Part II of that Act.
+. . . . .
+"36(1) A patent shall be granted for one invention only but in an action or other proceeding a patent shall not be deemed to be invalid by reason only that it has been granted for more than one invention.
+. . . . .
+"40. Whenever the Commissioner is satisfied that an applicant is not by law entitled to be granted a patent, he shall refuse the application and, by registered letter addressed to the applicant or his registered agent, notify the applicant of the refusal and of the ground or reason therefor.
+"41. Every person who has failed to obtain a patent by reason of a refusal of the Commissioner to grant it may, at any time within six months after notice as provided for in section 40 has been mailed, appeal from the decision of the Commissioner to the Federal Court and that Court has exclusive jurisdiction to hear and determine the appeal."
+"4(2) Le commissaire reçoit les demandes, taxes, pièces écrites, documents et modèles pour brevets, fait et exécute tous les actes et choses nécessaires pour la concession et la délivrance des brevets; il assure la direction et la garde des livres, archives, pièces écrites, modèles, machines et autres choses appartenant au Bureau des brevets, et, pour l'application de la présente loi, est revêtu de tous les pouvoirs conférés ou qui peuvent être conférés par la Loi sur les enquêtes à un commissaire nommé en vertu de la partie II de cette loi.
+. . . . .
+"36(1) Un brevet ne peut être accordé que pour une seule invention, mais dans une instance ou autre procédure, un brevet ne peut être tenu pour invalide du seul fait qu'il a été accordé pour plus d'une invention.
+. . . . .
+"40. Chaque fois que le commissaire s'est assuré que le demandeur n'est pas fondé en droit à obtenir la concession d'un brevet, il rejette la demande et, par courrier recommandé adressé au demandeur ou à son agent enregistré, notifie à ce demandeur le rejet de la demande, ainsi que les motifs ou raisons du rejet.
+"41. Dans les six mois suivant la mise à la poste de l'avis, celui qui n'a pas réussi à obtenir un brevet en raison du refus ou de l'opposition du commissaire peut interjeter appel de la décision du commissaire à la Cour fédérale qui, à l'exclusion de toute autre juridiction, peut s'en saisir et en décider."
+The Analysis
+1.
+What is the appropriate standard of review of the decision of the Commissioner?
+[13]
+The parties do not agree on the standard of review that applies.
+[14]
+The Applicant submits that all the issues are questions of law and the standard of review is therefore correctness (
+ <FRAGMENT_SUPPRESSED> ). The consideration and interpretation of the jurisprudence pertaining to double patenting is a clear question of law and the Commissioner does not possess expertise in the analysis of these cases.
+[15]
+The Respondent submits the issues are not necessarily all questions of law. Furthermore, the fact that an issue is a question of law does not automatically lead to the conclusion that the appropriate standard of review is correctness.
+[16]
+In light of recent jurisprudence, even with respect to a question of law, the Respondent further argues that the Court must still conduct a standard of review analysis to determine whether deference to the decision-maker may be warranted.
+[17]
+Although correctness has been recognized as the standard of review for questions in relation with the interpretation of the
+Patent Act
+(
+ <FRAGMENT_SUPPRESSED> ), the Court is of the view that in the case at bar the standard of review is reasonableness for the following reasons.
+[18]
+ <FRAGMENT_SUPPRESSED> the Supreme Court of Canada recently summarized various factors to be considered in the standard of review analysis of a question of law:
+"A consideration of the following factors will lead to the conclusion that the decision maker should be given deference and a reasonableness test applied:
+- A privative clause: this is a statutory direction from Parliament or a legislature indicating the need for deference.
+- A discrete and special administrative regime in which the decision maker has special expertise (labour relations for instance).
+- The nature of the question of law. A question of law that is of 'central importance to the legal system ... and outside the ... specialized area of expertise' of the administrative decision maker will always attract a correctness standard (
+ <FRAGMENT_SUPPRESSED> , at para. 62). On the other hand, a question of law that does not rise to this level may be compatible with a reasonableness standard where the two above factors so indicate."
+[19]
+In the more recent decision in
+ <FRAGMENT_SUPPRESSED>  the Supreme Court reinforced the principles enunciated in <FRAGMENT_SUPPRESSED> more particularly as they relate to two issues: respect for the legislators' designation of a non-judicial decision-maker (particularly one with special expertise) and respect for the decision-maker's interpretation of a question of law. The Supreme Court also reiterated that a Court should not substitute its own judgment for that of a tribunal where the tribunal's decision falls within a range of possible and acceptable outcomes.
+[20]
+Although there is no privative clause in the case at bar, the Supreme Court in <FRAGMENT_SUPPRESSED> clearly indicated that a measure of deference can nonetheless be appropriate:
+" <FRAGMENT_SUPPRESSED> recognized that with or without a privative clause, a measure of deference has come to be accepted as appropriate where a particular decision had been allocated to an administrative decision maker rather than to the courts (...) A policy of deference 'recognizes the reality that, in many instances, those working day to day in the implementation of frequently complex administrative schemes have or will develop a considerable degree of expertise or field sensitivity to the imperatives and nuances of the legislative regime.'"
+[21]
+The Court is also in agreement with the Respondent that Parliament designated the Commissioner of Patents in the
+Patent
+Act
+to "do all acts and things requisite for the granting and issuing of patents of invention", and to refuse a patent application where the Commissioner "is satisfied that an applicant is not by law entitled to be granted a patent" (subsection 4(2) and section 40 of the current
+Patent
+Act
+). It is clear that these decisions were thus assigned to the Commissioner to decide, in light of her and her staff's specialized expertise, and not to  <FRAGMENT_SUPPRESSED> ).
+[22]
+In applying these principles to the case at hand, it is quite difficult to dispute, in light of the provisions of the
+Patent
+Act
+, that the Commissioner of Patents does not operate with a recognized and considerable expertise in the patent area.
+[23]
+The Court remains of the view that each claim and patent must be analyzed individually and the issue must be decided on a case by case basis but also recognizes that questions involving obviousness, which preceded <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , have been decided to be questions of mixed fact and law (
+ <FRAGMENT_SUPPRESSED> ).
+[24]
+The Applicant also argued at hearing that the case at bar was not a judicial review but an
+appeal
+under the
+Patent
+Act
+and, for that reason, the standard of review weighs towards correctness.
+[25]
+The Court disagrees and it is noteworthy to refer to
+Harvard College
+as the decision dealt with the standard of review applicable to a decision of the Patent Commissioner. In that case, Justice Bastarache wrote for the majority and indicated that "the fact that the
+Patent
+Act
+contains no privative clause and gives applicants a broad right of appeal from the decision of the Commissioner is relevant and suggests a more searching standard of review". However, he also provided the following comment two paragraphs later:
+"
+The above in no way implies that decisions of the Commissioner will always be reviewed according to a correctness standard
+. If, for example, the question to be decided was whether or not a particular life form such as a fungus should be classified as a higher life form or as a lower life form, the Commissioner's decision would likely be accorded deference. As noted, s. 40 of the
+Act
+states that it is the Commissioner who must be 'satisfied' that a patent should not be issued.
+In such an instance, the Commissioner's scientific expertise suggests that the courts defer to his decision in respect to whether he is satisfied that the life form falls within a category of patentable subject matter
+." (
+Harvard College
+at paragraph 151) (Emphasis is ours)
+[26]
+Further, the Court refers to the Federal Court of Appeal decision in
+ <FRAGMENT_SUPPRESSED> where it applied <FRAGMENT_SUPPRESSED> . Although the case involved the
+Trade-marks
+Act
+, R.S. 1985, c. T-13 rather than the
+Patent
+Act
+, the Court of Appeal noted that some legal questions are subject to a standard of reasonableness, even where there is a right of appeal:
+"While there is a right of appeal of the Hearing Officer's decision, the subject matter is one in which the Registrar and his delegated hearing officers have special expertise, and
+the legal questions involved are squarely within that area of expertise
+: see <FRAGMENT_SUPPRESSED> , at paragraph 55." (Emphasis is ours)
+[27]
+For these reasons, the Court is of the view that the Commissioner's conclusion will not be reversed in the absence of palpable and overriding error.
+2.
+Did the Commissioner err in rejecting claims (L) to (R) on the ground of obviousness double patenting?
+The Applicant's Arguments
+[28]
+While the Application was pending, the former
+Patent
+Act
+was amended and the requirement to only claim medicines in process-dependent form was lifted. The Applicant took advantage of this amendment by asserting claims to the medicine in non-process-dependent form. The Applicant did this in a divisional application because the Parent Patent had already been issued. The Commissioner did not dispute the Applicant's right to make the amendments which led to the present claims.
+[29]
+The sole basis of the Commissioner's rejection of claims (L) to (P) was double patenting. The Applicant does not dispute that these claims claim the same subject matter as the product claims of the Parent Patent, except (...) (for one difference) in claims (L) to (P) of the Application (...) (and the fact that) claims (L) to (P) are not process-dependent. The only issue in relation to double patenting is therefore whether or not claims (L) to (P) are properly the subject of an obviousness double patenting objection based on the fact that they claim the same product as the Parent Patent, but not in process-dependent form.
+[30]
+There is no dispute in the present case that the claims of the Application and the Parent Patent are not identical or conterminous and that "same invention" double patenting cannot apply. The Applicant accepts the principle of obviousness double patenting as enunciated by the Supreme Court of Canada exists but argues that it does not apply to the facts of this case. The Applicant submits that in
+ <FRAGMENT_SUPPRESSED>  this Court was comparing a product patent with a product-by-process patent, with the products being identical, which is the same situation in relation to claims (L) to (P) of the Application and that the Commissioner did not dispute this. As noted in
+ <FRAGMENT_SUPPRESSED>  be obtained for the same substance. However, it is nevertheless possible to obtain a patent for the process by which the substance is made independently of the patent on the substance per se. This type of patent is a valid patent and does not extend the statutory monopoly of the patent on the substance per se."
+[31]
+The Applicant adds that inherent to a claim to a compound in per se form is the notion that all conceivable processes are contemplated, even those which are not known.
+[32]
+The Commissioner distinguished the
+ <FRAGMENT_SUPPRESSED>  that "As a result, the Court did not consider obviousness double patenting and whether the claims of the second patent exhibited 'novelty or ingenuity' over the claims of the first patent" (Commissioner's decision at p. 8). The Applicant submits the Commissioner's characterization of the
+ <FRAGMENT_SUPPRESSED>  not limited to "same invention" double patenting. The Applicant argues it could not have been so limited since product claims are obviously not identical to or conterminous with product-by-process claims. The Court in
+ <FRAGMENT_SUPPRESSED>  not possible to read <FRAGMENT_SUPPRESSED> without being aware of the doctrine of obviousness double patenting. Moreover, at the hearing, the Applicant emphasized that the use of the word "obvious" by the Court in
+ <FRAGMENT_SUPPRESSED>  Further, in the
+ <FRAGMENT_SUPPRESSED>  The Applicant submits there was no sound basis for the Commissioner to conclude that the Court in
+ <FRAGMENT_SUPPRESSED> where the relevant patent was attacked on the basis of double patenting in relation to a previous patent for a genus that included the claims of the subject patent. The Supreme Court specifically found that certain process claims and a product-by-process claim in the genus patent did not have to be considered at all in relation to double patenting because there was no identity between those claims and the product claims of the subject patent. The Court found that the only comparison which must be considered was between the respective product claims of the two patents. The Supreme Court did not refer to either the
+ <FRAGMENT_SUPPRESSED>  that double patenting does not apply when comparing a product-by-process claim with a product claim.
+[36]
+According to the Applicant, the Federal Court of Appeal and the Supreme Court of Canada have thus made it clear that double patenting has no application when comparing a product claim with an earlier product-by-process claim and the Applicant submits the rejection of claims (L) to (R) on the ground of double patenting must therefore be reversed on this basis alone.
+[37]
+The Applicant adds that double patenting should not even have been considered in the particular circumstances of this case.  <FRAGMENT_SUPPRESSED> , a divisional application was filed as a result of a restriction requirement by the Patent Office, as in the present case. The Supreme Court held that such a divisional patent should not be deemed invalid or open to attack solely "by reason only of the grant of the original patent".
+[38]
+The Commissioner considered the <FRAGMENT_SUPPRESSED> case but distinguished it on the basis that "the claims currently in the instant application were not removed from the patent application because of a lack of unity objection by the Examiner". The Commissioner's observation is factually correct, but the Applicant argues it is not a legally valid distinction from the principles of the <FRAGMENT_SUPPRESSED> case. The present application is a divisional application which resulted from a restriction requirement by the Patent Office, which was lawfully amended in order to take advantage of a change in the law. The Applicant submits it is a fundamental right of any person to claim the benefit of a change in the law of Canada favourable to such person (see section 12 and subsection 44(c) of the
+Interpretation
+Act
+, R.S. 1985, c. I-21) and the Applicant is entitled to a fair, large and liberal interpretation of the provisions of the
+Patent
+Act
+which govern the Application. The Applicant may claim the benefit of a change in the law, whether in a divisional application or otherwise (
+ <FRAGMENT_SUPPRESSED> ; 3 N.R. 553) and the Commissioner should not have considered double patenting at all in the present circumstances.
+The Respondent's Arguments
+[39]
+The Respondent submits that no invention is entitled to more than one patent and before anything can be patented, it must demonstrate "inventive ingenuity" in comparison with anything that has come before. Thus, if in comparison with something that has already been patented, a subsequent purported invention is either the same or does not show inventive ingenuity, a patent cannot be granted for it. Otherwise, the rule against "double patenting" would be violated.
+[40]
+In the present case, the Applicant had a patent for a product as produced by a specified process and it later sought a patent for the product itself. However, the Respondent submits the product claimed in the second application displayed no inventive ingenuity in comparison with the claims of the earlier patent, as it was not "patentably distinct". Accordingly, the Commissioner of Patents properly refused to grant the patent sought.
+[41]
+Where double patenting is an issue, the question arises as to how "identical" the claims must be for a first patent to invalidate a second. Where the patents are "precisely conterminous", the second claim will be said to violate the rule against "same invention" double patenting. The Respondent admits this form of double patenting is not in issue in the present case. However, another form of double patenting, "obviousness" double patenting, has also been recognized (see <FRAGMENT_SUPPRESSED> at paragraphs 66-67) and the notion that a patent must not violate the rule against "obviousness double patenting" has long been recognized ( <FRAGMENT_SUPPRESSED> at paragraphs 37 and 63).
+[42]
+According to the Respondent, in a situation of potential double patenting, unless the later claim exhibits novelty or ingenuity in comparison to the earlier claim, the two will not be "patentably distinct" and the issuance of the second patent will be prohibited (
+ <FRAGMENT_SUPPRESSED> ).
+[43]
+This principle is particularly demonstrated when process-dependent claims are considered. The Courts have long recognized that only when the process and the product both exhibit inventive ingenuity is each considered a separate patentable invention. Otherwise, they are aspects of the same thing and are not separate inventions (
+ <FRAGMENT_SUPPRESSED> referring to
+ <FRAGMENT_SUPPRESSED>  C.P.R. 1).
+[44]
+In the present case, the Respondent submits the claims in the Application demonstrate no inventive ingenuity in comparison to the Parent Patent. With the exception of an immaterial difference, the product described in the Application's claims is precisely the same as the product described in the claims of the Parent Patent.
+[45]
+The Commissioner's decision is correct and reasonable and the Applicant even acknowledges there is no material difference between the compound described in the claims of the Application and the compound described in claim (B) (and claim (L)) of the Parent Patent. Accordingly, the claims in the Application demonstrate no inventive ingenuity or novelty in comparison with the claims of the Parent Patent. The Respondent argues they are not patentably distinct and issuing a patent for them would offend the rule against "obviousness" double patenting, especially because all claims in the Application are dependent on claim (L).
+[46]
+The Applicant cites
+ <FRAGMENT_SUPPRESSED>  not display inventive ingenuity in comparison to a process-dependent claim for the same product. However, the Respondent argues the emphasis which the Applicant puts on these decisions is misplaced as this jurisprudence pertains only to "same invention" double patenting. If the Applicant's arguments were retained, this would get rid of the concept of obviousness double patenting.
+[47]
+ <FRAGMENT_SUPPRESSED>  (Notice of Compliance) Regulations
+, SOR/93-133, to decide whether the generic drug manufacturer's allegation of invalidity was justified. In that case, the validity of the patent was in issue, not the decision of the Commissioner. No allegation of "obviousness" double patenting was made and the Court made no mention of it, and the question of whether the claims of the second patent showed novelty or ingenuity in comparison to the first patent was not discussed. According to the Respondent, it was clear that only "same invention" double patenting was considered (
+ <FRAGMENT_SUPPRESSED> ). In that case, the Court only considered "same invention" double patenting and the Court stated "it is apparent, for double patenting purposes, that there is no identity between the product claims 1 and 5 of the '777 patent and claims 1, 8 and 15 of the '875 patent". The concept of "identity" is relevant only to the prohibition against "same invention" double patenting and the Respondent submits the Court would not have eliminated the requirement for "inventive ingenuity" in obviousness double patenting without discussing it.
+[49]
+Finally, the Respondent submits that the Applicant appears to rely on something similar to a fairness argument which has no application, as the Commissioner is bound to refuse a patent where he or she is satisfied that an applicant is not by law entitled to it. The Respondent argues that if the Commissioner granted the patent sought in the present case, this would create the type of undue extension of the statutory monopoly, known as the "evergreening" of a patent that the Courts have vigorously warned against. The Commissioner's decision was therefore correct and the Court should not interfere with it.
+The Analysis
+[50]
+The leading case on double patenting is the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ), which concerned a patent governed by the
+Patent
+Act
+as it read before 1989, as in the present appeal. In <FRAGMENT_SUPPRESSED> , the Supreme Court accepted that there is an inherent prohibition against double patenting in the
+Patent
+Act
+. The Court held further that there are two branches of the prohibition on double patenting, namely "same invention" double patenting, whereby the claims must be "identical or conterminous" and the "obviousness" branch, which has to do with claims that are not "patentably distinct" from those of the earlier patent.
+[51]
+There can only be one patent for an invention ( <FRAGMENT_SUPPRESSED> , at paragraph 63) and once a patent has been granted for an invention, a subsequent patent shall not issue for the same invention, since that would, in effect, allow an unlawful extension of the monopoly granted by the first (
+ <FRAGMENT_SUPPRESSED>  C.P.R. 9 at 53; <FRAGMENT_SUPPRESSED> , above at 536-537. A second patent could not be justified unless the claims exhibited "novelty or ingenuity" (
+Farbwerke  <FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> , above). As noted by both parties at the hearing, it is possible to obtain a patent for a product and a patent for a process to produce that product.
+[52]
+The scope of the exclusive right is determined by the claims of the patent. The claim is what describes the element of the invention and defines the monopoly the patentee seeks in the application. A comparison between the claims of the two patents is critical to assessing the allegation of obviousness double patenting (
+ <FRAGMENT_SUPPRESSED>  relates back to the "evergreen" problem. An inventor is only entitled to a patent for each invention (subsection 36(1) of the
+Patent
+Act
+). If a subsequent patent issues with identical claims, there is an improper extension of the monopoly.
+[54]
+The prohibition against double patenting involves a comparison of the claims rather than the disclosure, because the claims define the monopoly. There are two approaches as to determining whether there has been a double patenting: one is to consider whether the claims are identical or conterminous, an approach which is sometimes called the "same invention"; a second branch of the test is to consider whether the second patent is "obvious" or not "particularly distinct" from the first, based on the common knowledge of an ordinary workman as of the date of publication of the patent ( <FRAGMENT_SUPPRESSED> , paragraphs 63-75;
+ <FRAGMENT_SUPPRESSED> ).
+[55]
+It is trite law that different types of claims exist in the pharmaceutical industry, namely product claims and process claims. Once a patent is obtained for a substance per se, no additional protection may be obtained for the same substance. However, as noted in
+ <FRAGMENT_SUPPRESSED>  independently of the patent on the substance per se. This type of patent is a valid patent and does not extend the statutory monopoly of the patent on the substance per se.
+[56]
+The undisputed test for obviousness is whether at the date of the invention, an unimaginative skilled technician, in light of his general knowledge and the literature and information on the subject available to him on that date, would have been led directly and without difficulty to the invention (
+ <FRAGMENT_SUPPRESSED>  A.C.W.S.(3d) 491 (F.C.A.)).
+[57]
+In the case at bar, the Court finds that claims (L) to (P) in the Application are not inventive. Although claim (L) claims the same compound as claim (B) of the Parent Patent, it is not process-dependent like claim (B) of the Parent Patent, and although claims (F) and (P) cover the same subject matter as claim (L), (...) (there is one difference). As noted in the Commissioner's decision at issue:
+"Claims (L) to (P) of the instant application claim the same compounds as are claimed in the [Parent Patent], with the only difference being that the compounds are claimed in process dependent form in the patent while there is no reference to a process in claims (L) to (P) of the application.
+"The compounds recited in claims (L) to (P) are the same compounds that are claimed in the claims of the patent. Further, they are the same compounds produced by the processes recited in the remaining claims of the patent, such as the process recited in claim (L) of the [Parent Patent]."
+[58]
+The Parent Patent claims a process for a particular compound as well as a compound produced by a particular process, also known as a process-dependent compound, as required by the
+Patent
+Act
+at that time. All claims in the present Application depend on claim (L), which is a claim for a particular compound. There is no material difference between the compound in claim (L) of the Application and the compound in claims (L) and (B) of the Parent Patent. As such, the critical requirement of inventive ingenuity is not found here. The jurisprudence is clear that novelty and ingenuity are required to set aside an allegation of obviousness double patenting.
+[59]
+Furthermore, the Parent Patent and the Application possess the same basic molecular structure. Given that the Parent Patent has been granted, claim (L) in the Application is not patentably distinct because the same compound is described in the Parent Patent (...).
+[60]
+The Court is therefore of the opinion that it was obvious to claim these processes and subject matter and these claims do not exhibit "novelty or ingenuity" as stated in <FRAGMENT_SUPPRESSED> , above. As a result, I find that double patenting exists. For these reasons, the appeal is dismissed.
+[61]
+Given the Court's conclusion with respect to this issue, there is no need to address issues (3) and (4).
+JUDGMENT
+[62]
+THIS COURT ORDERS AND ADJUDGES that
+the appeal be dismissed.
+Appeal dismissed.
+Editor: E. Joanne Oley/vnh
+[End of document]

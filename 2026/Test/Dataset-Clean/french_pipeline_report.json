@@ -1,0 +1,12 @@
+{
+  "preset": "test_2026",
+  "metadata_file": "2026/Test/Dataset-Clean/processed_cases.json",
+  "metadata_en_file": "2026/Test/Dataset-Clean/processed_cases_en.json",
+  "french_stats_file": "2026/Test/Dataset-Clean/french_paragraph_stats.json",
+  "french_processing_stats_file": "2026/Test/Dataset-Clean/french_processing_stats.json",
+  "french_translation_review_file": "2026/Test/Dataset-Clean/french_translation_review.json",
+  "num_cases": 1848,
+  "num_cases_with_any_french": 584,
+  "num_cases_translated_or_deduped": 584,
+  "num_cases_needing_translation_rerun": 0
+}

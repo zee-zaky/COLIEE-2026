@@ -1,0 +1,478 @@
+INTRODUCTION
+[1]
+Tremblay-Lamer, J.
+: This is a patent infringement action commenced by M.K. Plastics Corporation (the plaintiff) against Plasticair Inc. (the defendant), whereby the plaintiff claims an injunction and damages or accounting of profits, as it may elect, against the defendant, as well as punitive damages for deliberate infringement. A counterclaim has been brought by the defendant against the plaintiff for trade libel, unfair trade practices and inducing breach of contract. The defendant claims damages as well as a declaration that the patent in issue is invalid, and seeks an order directing the Commissioner of Patents (the Commissioner) to impeach the patent.
+BACKGROUND
+[2]
+Both parties are Canadian companies that manufacture and sell a range of industrial and commercial fans and blowers.
+[3]
+In the early 1990's, Minel Kupferberg developed an apparatus intended to discharge exhausted fumes under the trademark "Axijet". He filed an application for patent entitled "Ventilateur d'Extraction/Exhaust Fan Apparatus" on January 13, 1995, claiming priority from a U.S. application filed on November 15, 1994 (08/340,894). Mr. Kupferberg is named as its inventor. The patent specification was published on May 16, 1996.
+[4]
+On April 20 1999, the Commissioner granted Mr. Kupferberg a patent for the apparatus under serial number 2,140,163 (the "163 patent"). The latter licensed all the rights under the '163 patent to the plaintiff, who has been manufacturing and selling the Axijet since 1995, and has marketed it in Canada, the United States, Europe and Asia.
+[5]
+The plaintiff alleges that the Axijet significantly increases the primary discharge of exhausted fumes in comparison with regular blowers and stacks, by discharging fumes at high velocity and drawing in greater amounts of outside air to further dilute the exhaust fumes. The resulting plume is equal in height or greater than that achieved in higher conventional discharge stacks, and produces greater dilution by drawing in more outside air. This is useful as noxious fumes must be exhausted at a sufficient height above the rooftop of a building to avoid being re-ingested into the same or adjoining buildings.
+[6]
+In March 2001, Mr. Kupferberg and the plaintiff became aware that a corporation, Engineered Products, based in Puerto Rico had installed a blower similar to the Axijet in San German, Puerto Rico. Swabey Ogilvy Renaud, patent agents, wrote to the company on behalf of the plaintiff to advise that the blower infringed the US Patent corresponding to the Canadian '163 patent.
+[7]
+Swabey Ogilvy Renaud received two letters of response on behalf of the defendant in April 2001, to the effect that the defendant is a Canadian manufacturer of fan equipment and supplied equipment to Engineered Products. It acknowledged its awareness of the '163 patent and noted that while its device was similar to that patent, it would not have infringed due to significant differences between the two.
+[8]
+The defendant manufactures and sells its exhaust fan apparatus under the registered trademark name "Skyplume", either as an integral unit with a centrifugal fan, or as individual components that may be used with either a centrifugal or axial fan.
+[9]
+Until April 2003, Mr. Kupferberg licensed all the rights under the '163 patent to the plaintiff. In April 2003, he assigned all his rights, titles and interests in the Axijet and the '163 patent to the plaintiff.
+[10]
+Further to the Bifurcation Order issued by this Court on July 4, 2005, the present decision is limited to determining the plaintiff's entitlement to the claimed remedies, as well as deciding liability with regards to the defendant's counterclaim. The quantum of any applicable remedies will be determined on a separate reference pursuant to Rule 107 of the
+Federal Courts Rules
+, 1998, SOR/98-106.
+[11]
+While there are five claims in the '163 patent, both parties agree that only claims 1 and 2 are at issue in the present action.
+[12]
+The first claim reads as follows:
+"An exhaust fan apparatus comprising a housing having an upper portion and a lower portion, wherein the lower portion included a centrifugal fan scroll casing, the scroll casing having parallel side walls, a shaft, a first axis normal to the side wall and mounting an impeller for rotation therewithin, motor means for driving the shaft, an inlet port provided axially of the first axis on a side wall of the casing, a discharge port extending from the scroll, a first tubular portion communicating with the fan discharge port and a second tubular portion extending upwardly from the first tubular portion, the second tubular portion being bifurcated to provide at least two passageways having generally parallel axes normal to the first axis, and wherein the axes of the passageways lie in a plane which is parallel to the first axis."
+[13]
+The second claim of the '163 patent reads as follows:
+"An exhaust fan apparatus as defined in claim 1, wherein the second tubular portion includes a pair of spaced-apart outlet ports corresponding to the two passageways, and a ring surrounds the second tubular portion at a level corresponding to the outlet ports to form an annulus therewith, whereby ambient air is induced through the annulus to mix with gases exhausting from the passageways."
+[14]
+The crux of the dispute between the parties with regard to claim construction centres on four elements: "the first tubular diffuser portion" (the diffuser); "the second tubular portion being bifurcated to provide at least two passageways" (the bifurcation of the nozzle, or the bifurcated nozzle; notably whether this refers to a physical separation in the nozzle, or alternately, a bifurcation of the resulting airflow), "wherein the axes of the passageways lie in a plane which is parallel to the first axis" (the orientation) and finally, "a ring surrounds the second tubular portion at a level corresponding to the outlet ports to form an annulus therewith, whereby ambient air is induced through the annulus"(the windband).
+ISSUES
+[15]
+The following issues are raised in this proceeding:
+1. What construction ought to be given to claims 1 and 2 of the '163 patent, and has the defendant infringed them?
+2. Is the '163 patent valid?
+3. Has the plaintiff committed unfair trade practices or trade libel?
+ANALYSIS
+CONSTRUCTION OF THE PATENT
+Principles
+[16]
+The first step in analyzing validity and infringement issues in a patent suit is to construe the claims of the patent.
+[17]
+The principles to be applied by the Court in construing patent claims were reiterated by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  and the concurrently released
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150; 2000 SCC 66, affing. [1997] R.J.Q. 2907; 81 C.P.R.(3d) 456 (Que. C.A.). In essence, claims are to be read in an informed and purposive way to achieve fairness and predictability and to define the limits of the monopoly.
+[18]
+The relevant date for conducting the construction analysis is the date the patent was published (
+Whirlpool
+, above, at para. 55); the '163 patent was published on May 16, 1996.
+[19]
+A patent is notionally addressed to a person skilled in the art or science of the subject-matter, and is to be read as such a person would have read it when it first became public. This hypothetical person possesses the ordinary skill and knowledge of the particular art to which the invention relates, and a mind willing to understand a specification addressed to him or her; this is a person attempting to achieve success, and not one looking for difficulties or seeking failure (
+Free World Trust
+, above, at para. 44).
+[20]
+The key to purposive construction is the identification by the Court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential elements" of his invention (
+Whirlpool
+, above, at para. 45).
+[21]
+In
+Free World
+, Justice Binnie defined an element as being essential if it is required for the device to work as contemplated and claimed by the inventor. It is non-essential if it may be substituted or omitted without having a material effect on either the structure or operation of the invention described in the claims (
+Free World
+, above, at para. 20).
+[22]
+A determination of the essential elements must relate to the
+inventiveness
+of the invention, and be more than a mere summary of the main elements of a device. In other words, what produces a useful result in a novel and inventive manner and without which the device ceases to be inventive (
+ <FRAGMENT_SUPPRESSED>  at para. 16 (F.C.T.D.)).
+[23]
+An element may be found to be essential or non-essential on the basis of the intent of the inventor as expressed or inferred from the language of the claims (irrespective of its practical effect), and on the basis of evidence as to whether it would have been obvious to a skilled worker at the time the patent was published that a variant of a particular element would, or would not, make a difference to the way in which the invention works (
+Free World
+at paras. 31 and 55).
+[24]
+Justice Binnie specifically endorsed the following propositions in
+Free World
+, above, at paragraph 31:
+"( ... )
+(a) The
+Patent Act
+promotes adherence to the language of the claims.
+(b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+(c) The claim language must, however, be read in an informed and purposive way.
+(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+(v) without, however, resort to extrinsic evidence of the inventor's intention.
+(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted."
+[25]
+Thus, claims must be read in context. The question is therefore what, at the date the patent was issued, a person skilled in the art at issue would have understood from a reading of the claims, together with any definitional assistance from the rest of the specification (
+Whirlpool
+, above, at para. 54).
+[26]
+Expert evidence is admissible at trial to determine what the common knowledge was at the time of the patent. Expert evidence may also be presented as to the meaning of words used in the claims (
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1997), 220 N.R. 58; 77 C.P.R.(3d) 126, at 127 (F.C.A.)).
+[27]
+The role of the expert is not to interpret the patent claims but to put the trial judge in the position of being able to do so in a knowledgeable way (
+Whirlpool
+, above, at para. 57;
+Unilever plc v. Procter & Gamble Inc.
+(1995), 184 N.R. 378; 61 C.P.R.(3d) 499, at 506-07 (F.C.A.)). The construction of the claims is a matter of law for the judge, and the expert will only assist the Court in this task (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 473 (F.C.A.)).
+The Experts
+[28]
+The plaintiff tendered the opinion of Mr. Wagdi Habashi, Professor of Mechanical Engineering at McGill University in Montreal, and Director of the Computational Fluid Dynamics Laboratory there. Professor Habashi is the author of some 240 scientific papers, and is the Editor-in-Chief of the
+International Journal of Computational Fluid Dynamics
+, and is also a member of the
+Ordre des ingénieurs du Québec
+, as well as being a fellow of the Canadian Academy of Engineering and the American Society of Mechanical Engineers. He holds a Master's degree in Mechanical Engineering and a doctorate in Aerospace Engineering.
+[29]
+In addition to these affiliations and qualifications, Mr. Habashi has maintained strong connections to industry, and has acted as a consultant to a number of important industrial actors such as Pratt & Whitney Canada and Bombardier over the last 30 years, as well as being involved in his own consulting business. He has experience in wind engineering, including the effects of wind and pollutants around buildings.
+[30]
+The defendant relied on the expert evidence of Mr. Peter Willings, chief engineer at H.H. Angus & Associates Ltd., a firm of consulting engineers with which he has been involved for over 40 years. He received his engineering degree in 1958, has been involved with building services design for office buildings, hospitals, universities, and industrial developments for a considerable period of time. He has supervised staff specialists dealing with heating and cooling plants, heating ventilation and air conditioning systems, and has significant experience in the selection and application of exhaust fan systems. He currently oversees H.H. Angus' engineering practice, specifically with regard to mechanical and electrical systems. He is a member of the Association of Professional Engineers of Ontario, as well as the American Society of Heating, Refrigeration and Air Conditioning Engineers.
+Other Witnesses
+[31]
+Mr. Kupferberg is the president and controlling shareholder of the plaintiff company. He has been a mechanical engineer since 1956, and has considerable experience in the field of designing exhaust fan apparatus, having devoted much of his career to this end.
+[32]
+He asserted at trial that the main feature of the '163 patent is not the nozzle alone, but rather the combination of the centrifugal fan, a shaft, a motor and the nozzle with the windband. This opinion is also reflected in Mr. Habashi's report.
+[33]
+In essence, Mr. Kupferberg testified that the design for his exhaust fan invention was inspired by a device produced by a company called Strobic Air based on the so-called "Andrews patent", which he sought to improve upon. His design was tailored not to infringe this patent, while still remaining similar enough to capitalize on the market held by Strobic Air. According to his testimony, the plaintiff's sales increased from roughly two million dollars annually in 1993 to approximately eleven million dollars in 2003, due mainly to sales related to the Axijet. Sales of the Axijet currently represent three-quarters (75%) of the plaintiff's revenues, which have dropped to six million dollars; Mr. Kupferberg attributes this decline to the competition presented by the defendant's Skyplume.
+[34]
+In his testimony Mr. Kupferberg generally stated that the "diffuser" mentioned in the '163 patent has no functional significance and only acts as a transition, that the "bifurcation" of the nozzle refers to multiple air flow passageways rather than a physical division in the nozzle and that the windband has a convergent shape, necessary to achieve its functional purpose of mixing air with exhaust. He also added that an axial fan would significantly underperform in comparison with a centrifugal fan.
+[35]
+The defendant relied upon the testimony of Paul Sixsmith, the President of the defendant company, who has worked as a salesperson in the field of exhaust fan apparatus. He does not have a technical education in relation to this field, and has minimal experience in the design of such apparatus. He is named as the secondary inventor of the Skyplume for his "contribution of ideas", while Alan Hill, a mechanical engineer who worked for the defendant but did not testify at trial, was identified as the primary inventor.
+[36]
+Mr. Sixsmith testified that the defendant's device is sold in component parts, usually the Skyplume nozzle alone, or as an integrated unit, including a centrifugal fan, a nozzle and Venturi windband. The nozzle could also be used with an axial fan. He also testified that there were two versions of the Skyplume nozzle, a two-lobe and four-lobe design, which he respectively referred to as Generation 1 and Generation 2.
+[37]
+He testified about the defendant's catalogues and brochures relating to its exhaust-related products through the 1990's, including the Skyplume. He admitted the defendant's salespersons would know whether the client planned to use its product with a centrifugal or axial fan. He added that sometimes it would also provide a transition duct, also referred to as a "diffuser", for placement between the fan and the stack. Mr. Sixsmith testified that the Skyplume represented roughly fifty percent of the defendant's sales on average in recent years.
+Claim 1:
+i) Bifurcation
+[38]
+The plaintiff submits that the physical division inside the nozzle is not essential; it is not described as such in claim 1, and it has no material effect on the structure or operation of the '163 patent. Specifically, it submits that the description of the nozzle as "being bifurcated" refers to the resulting bifurcation of the airflow as it emerges from the nozzle. In its view, this would be understood by the skilled reader, interpreting the terms of the claim through the lens of mechanical engineering and fluid dynamics principles.
+[39]
+The defendant submits that a reasonable interpretation of claim 1 is that the "bifurcation" in relation to an apparatus is physical.
+[40]
+Mr. Kupferberg admitted at trial that he derived his invention from the Strobic Air's model (based on the United States Patent No. 4,806,076, known as the "Andrews patent") of a nozzle used with an axial fan and coupled with a Venturi wind band. Noting the deficiencies in the Strobic device, he found many of them could be overcome by using a centrifugal, rather than an axial, fan. Although he experimented with a wide variety of designs, he decided to choose the Strobic nozzle disclosed in the Andrews patent.
+[41]
+Mr. Habashi testified that the bifurcation referred to in the '163 patent relates to the air flow, and was not intended to describe a physical separation within the nozzle itself. In essence, he found that there was no functional difference between a physically bifurcated nozzle and one that bifurcated the resulting air flow. As an engineer, where a nozzle divides air flow, it can be considered to be "bifurcated", whether or not there are physical walls.
+[42]
+He asserted that there is little difference among convergent nozzles; irrespective of design variance they are almost equally efficient in their acceleration of the flow (though they may differ in aesthetics and overall frictional effects). He noted that this would have been known in May 1996. In his opinion, the walls make no difference to the efficiency of the nozzle. While the Andrews Patent calls for a physical division into separate passageways, this is relevant to velocity efficiency due to the use of an axial fan. Such a separation is unnecessary when used with a centrifugal fan, where the physical separation is irrelevant. Thus, the physical separation would be the result of aesthetic rather than technical choices, and would have been known to the skilled reader in May 1996.
+[43]
+However, in cross-examination Mr. Habashi admitted there was a difference in velocity aspects of the two nozzles. He agreed that the velocity profile obtained from two passageways separated by walls is different from that of a single passageway without walls, though the ultimate discharge is the same in terms of their cubic feet per minute output. He added that the nozzle is not the main feature of the '163 patent, but rather that it is the apparatus viewed as a whole.
+[44]
+In cross-examination, Mr. Kupferberg stated that in testing the physically bifurcated design, he found that ambient air comes up in between the two passageways due to a separation between them. He also revealed that, in his view, if the passageways were not separated, there would not have been air coming up between them. He had designed numerous nozzles, and had decided against a nozzle where the two passageways would be connected.
+Assessment of the Evidence
+[45]
+The plaintiff argues that there was no evidence from a person skilled in the art that a physical separation is required to achieve the desired air flow bifurcation, and that its presence has no material effect on the structure or operation of the device. It submits that this interpretation is also consistent with the particular wording of the claim, as "bifurcated" meaning "two-forked" is not compatible with the expression "at least two passageways", which clearly refers to the possibility of more than two passageways.
+[46]
+The defendant submits that much of Mr. Habashi's evidence is irrelevant to the claim construction of the '163 patent: he improperly compared the plaintiff's Axijet product with the defendant's Skyplume product; he read a patent about the Skyplume; he tested the Skyplume nozzle to produce his report; and he discussed with Mr. Kupferberg about the latter's intended meaning of claims in the '163 patent. All of these factors are extraneous to the claim construction process of the Court.
+[47]
+I agree with the defendant that these considerations are indeed outside of the scope of appropriate claim construction evidence, and accordingly will not be taken into consideration for this purpose. Nevertheless, as stated above, expert evidence is meant to assist the Court in drawing its own conclusions with regard to claim construction, and aspects of Mr. Habashi's evidence remain useful in facilitating the Court's understanding of the terms used in the claims.
+[48]
+At trial, I found Mr. Habashi to be very knowledgeable and experienced in the field of fluid dynamics and mechanical engineering. Overall, I was impressed with the quality of his experience and knowledge, and found that he explained relevant terms and principles in a clear, succinct and accessible manner. I also found his report to be effectively presented and organized; it facilitated the Court's understanding of the subject matter and devices at issue.
+[49]
+While I recognize and appreciate his efforts, I did not find the evidence of Mr. Willings to be very helpful. At trial, Mr. Willings had some difficulty remembering which expert's affidavit was the final version, and overall I found that his testimony was not clear. Further, he was hesitant in responding to many important questions in cross-examination. Similarly, the report he prepared was not very useful to the Court for the purposes of the present proceedings. In my opinion, Mr. Willings did not demonstrate a high degree of knowledge with regard to the state of the prior art relevant to the subject matter at issue, and neither did he convey a theoretical and practical understanding of the two devices in question to the Court.
+[50]
+In summary, I recognize that Mr. Habashi has significantly greater expertise than Mr. Willings with respect to the subject matter of the present action. He also demonstrated a better grasp of the devices at issue on both a theoretical and functional level, necessary to assist the Court to come to its own conclusions with regard to the patents and devices at issue.
+[51]
+Overall, I found Mr. Kupferberg to be very knowledgeable of the relevant industry and its developments in the period relating to the present proceeding, and I found his testimony to be credible and reliable in terms of the state of the prior art. I prefer his evidence over that of Mr. Willings with regard to the state of the prior art at the time relevant to the present decision. Further, Mr. Kupferberg's evidence was credibly confirmed by Mr. Habashi.
+[52]
+I find it significant that Mr. Kupferberg admitted that his nozzle design was based on the Strobic model, which contained a physical bifurcation. His variation on the prior art by virtue of its combination with a centrifugal fan is relevant to the present analysis, as it informs the Court's interpretation of the essential elements of the claims. Where the inventor has admittedly adopted specific features from the prior art, such as the nozzle in question, these can be understood to be replicated as essential features of the patent unless specifically differentiated in the wording of the claims.
+[53]
+Furthermore, and irrespective of the functional variance between the nozzle described in the '163 patent and that used in the Skyplume, I find that the wording of the patent, viewed objectively, strongly suggests that the patentee intended to claim a
+physically
+bifurcated nozzle.
+[54]
+As clearly articulated by Justice Binnie in
+Free World
+, above, at paragraph 51, an inventor is bound by the words he or she chooses to use in patent claims:
+"The words chosen by the inventor will be read in the sense the inventor is presumed to have intended, and in a way that is sympathetic to accomplishment of the inventor's purpose expressed or implicit in the text of the claims. However, if the inventor has misspoken or otherwise created an unnecessary or troublesome limitation in the claims, it is a self-inflicted wound. The public is entitled to rely on the words used provided the words used are interpreted fairly and knowledgeably."
+[55]
+At paragraph 59 of
+Free World
+, above, Justice Binnie draws on the Federal Court of Appeal's decision in
+Eli Lilly & Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), to reiterate that the patentee
+"(...) must be taken to have attached significance to the words chosen (at p. 7):
+'... unless it be obvious that the inventor knew that a failure to comply with that requirement would have no material effect upon the way the invention worked.'"
+[56]
+I agree with Justice Roger Hughes who concluded in
+ <FRAGMENT_SUPPRESSED> ; 285 F.T.R. 1; 2005 FC 1725, at paragraph 39 that:
+"These words do not mean that the Court is to embark upon a subjective examination of what was in the mind of the inventor, rather, the Court is to embark upon an objective exercise as to what a skilled reader would have understood the inventor to mean."
+[57]
+Firstly, the patent at issue describes an
+apparatus
+, not a process. Consequently, in my view, a plain reading of claim 1 in relation to an apparatus denotes two distinct, physically separated passageways. Even if I accepted the plaintiff's view that the inventor used the word "bifurcated" when he intended to use "divided", as suggested by the associated words of "
+at least
+two passageways", I would nevertheless conclude that the patent would not reasonably be interpreted as describing a single physical passage with multiple airflow "passageways". I am satisfied that the use of the term "passageway" read in its context does not suggest air flow paths, but rather denotes physical structures.
+[58]
+Secondly, reading claims 1 and 2 together, it becomes apparent that the patent in fact describes a
+bifurcation
+into
+two
+passageways. This is not only in accordance with the plain meaning of the term "bifurcation" as a division into two branches or forks, but is clearly supported by the use of the terms "a
+pair
+of spaced-apart outlet ports corresponding to the
+two
+passageways" in claim 2. Any ambiguity attributable to the use of "
+at least
+two passageways" in claim 1 is resolved, in my view, by the wording of claim 2.
+[59]
+Furthermore, the term "bifurcated" was used in the industry at the relevant time, describing a fan nozzle with physically separated passageways. Mr. Kupferberg testified that his nozzle design, which included the physical bifurcation, was based on the pre-existing Andrews patent with such a physical division. With this in mind, the informed, purposive construction of the claim is that it referred to a physically bifurcated nozzle.
+[60]
+In my view, a person skilled in art of fluid mechanics, mechanical engineering and fan exhaust systems would have reasonably understood that the claims at issue described an apparatus with a particular design, and in my view, that design included a physical configuration creating two physical passageways.
+ii) Diffuser
+[61]
+The plaintiff submits that the diffuser is not an essential element of Patent '163, as it has no material effect on its structure or operation. The defendant points to the fact that Patent '163 is differentiated from the Andrews Patent in part by reason of its better diffuser efficiency, and therefore clearly has functional significance to the patent, and is an essential feature.
+Evidence
+[62]
+There was conflicting evidence on whether the "diffuser" in Patent '163 served any functional purpose other than connecting the lower and upper portions of the apparatus.
+[63]
+Mr. Habashi testified that the diffuser acts as a transition and has little effect on anything, as there is very little difference in area between the exit from the fan and the entrance of the nozzle. However, he admitted in cross-examination that the diffuser described in the '163 patent has a diameter at the bottom that is smaller than the diameter at the top, and that such a divergent shape means that exiting gases diffuse outwardly. Further, it has the effect of evening out the velocity profile, redirecting the air/exhaust flow and increasing its pressure, before it is accelerated in the convergent nozzle.
+[64]
+Mr. Kupferberg testified that a functionally significant diffuser was not taught by the prior art, and even though the dictionary definition implied that it would "diffuse" the air, it was not to be technically understood in such a manner. The "diffuser" acts merely as a transition between the fan and the nozzle stack, connecting a round and rectangular duct, and is not essential or necessary. It was principally an aesthetic, not a functional, feature. In the prior art, the diameter and motor size of the radial fan is limited, and as a result the diffuser efficiency is limited due to the limited space at the periphery of the radial fan. However, he admitted in cross-examination that the patent itself distinguishes the '163 patent from the prior art by virtue of increased diffuser efficiency in combination with the orientation.
+Assessment of the Evidence
+[65]
+I am satisfied that a plain and purposive reading of the patent shows that the diffuser has a functional impact on the way in which the device operates, and is an essential feature.
+[66]
+The '163 patent differentiates its subject matter from the Andrews patent by reason of its better diffuser efficiency: "[t]he diffuser efficiency [in Andrews] is also limited due to the limited space at the periphery of the radial fan". It also attributes functional significance to the diffuser as part of the invention: "[t]he diffuser of the centrifugal fan is more efficient with fluid flow directed to the axes of the passageways". There is no embodiment of the invention which does not include a diffuser.
+[67]
+Furthermore, despite his direct testimony that it has little effect, I find that overall Mr. Habashi's evidence is that the divergent design of the diffuser has an impact on the way in which the apparatus operates. Essentially, his substantive evidence shows that even though the effect on overall performance may be minimal, there is nevertheless a difference on the functioning of the device due to the presence and configuration of the diffuser. An ordinary skilled reader, in May 1996, would have understood that the patentee intended for the diffuser to be an essential feature of the invention claimed.
+[68]
+I have no difficulty concluding that the diffuser was intended to be, and is, an essential, integral feature of claim 1.
+iii) Orientation
+[69]
+The plaintiff submits that the orientation of the passageways is not an essential element of the claim, as it is irrelevant to functioning or efficiency, when viewed in terms of mechanical engineering and fluid dynamics principles. The defendant submits that such an orientation is not only specifically claimed, but is given functional significance in terms of increasing efficiency in combination with the diffuser; it is essential.
+Evidence
+[70]
+In his examination-in-chief, Mr. Habashi testified that the orientation has no effect on the functioning of the device, as "a nozzle is a nozzle", irrespective of its orientation. He asserted that as an engineer, he knew on its face that the orientation would make no difference to the functioning of the device, as it is simply the product of aesthetic manufacturing choices. Whether oriented perpendicularly or in parallel, or any other orientation for that matter, the behaviour of the air flow would be the same. This would have been clear to any person skilled in the art in May 1996.
+[71]
+Both Mr. Habashi and Mr. Kupferberg testified that tests were conducted in order to determine the functional impact, if any, of a change in the orientation. Mr. Habashi's report also dealt with this issue. The conclusion of the testimonial and report evidence was that there was no significant functional difference where the orientation was changed.
+[72]
+When directed to the '163 patent in cross-examination, Mr. Kupferberg conceded that the patent read that the disclosed orientation "permits even distribution of the air flow into the diffuser" and that the diffuser is more efficient with the flow directed to the axes of the passageways.
+Assessment of the Evidence
+[73]
+The wording of the claim suggests that, at the time the patent was published, the orientation was conceived to be functionally relevant and a distinguishing feature of the invention:
+"The present invention permits a more flexible and efficient construction compared to prior art. For instance, the diffuser of the centrifugal fan is more efficient with fluid flow directed to the axes of the passageways."
+[74]
+Furthermore, no alternative orientation is disclosed or claimed in the patent.
+[75]
+While I accept Mr. Habashi's evidence, substantiated on the basis of tests he performed on a Skyplume nozzle, that the orientation
+in fact
+has no material effect on the functioning of the device, this evidence is not relevant to the claim construction process. Only his explanation of the terms used in the '163 patent is admissible for determining elements of the claims. Moreover, the evidence presented does not establish that a person skilled in the art in May 1996 would have objectively understood that the orientation was not intended by the patentee to be an essential element of his invention. On the contrary, I am satisfied that the evidence demonstrates that a fair and purposive reading of claim 1 clearly expresses that the patentee intended it to be an essential element; thus, he remains bound by the wording of that claim, even if it may be a "self-inflicted wound" in the words of Justice Binnie (
+Free World
+, above, at paras. 31, 51).
+Claim 2
+[76]
+As discussed above in the "bifurcation" section of claim 1, I conclude that "a pair of spaced-apart ports corresponding to the two passageways" is an essential to the invention claimed in the '163 patent; it is therefore an essential element of claim 2.
+[77]
+The plaintiff argues that claim 2 describes an exhaust fan apparatus as described in claim 1, where a "windband" is mounted on top of the upper portion (i.e., the nozzle). An essential element in its view is a ring that surrounds the nozzle at a level corresponding to the port outlets; it is submitted that the reference to "whereby ambient air is induced through the annulus to mix with gases exhausting from the passageways" implies that the ring has a conical shape, and would be understood as such by the skilled reader. The defendant submits that such a shape is not claimed in claim 2, even though it is an essential feature.
+[78]
+Mr. Habashi, in the examination-in-chief at trial, stated that the function of the wind band is to accept the exhaust accelerated in the nozzle, at which point the pressure goes down, creates a vacuum, and that vacuum acts as a suction for outside air and entrains it to mix with the contaminated air, ejecting a more diluted mixture at very high speed.
+[79]
+Both he and Mr. Kupferberg admitted that a conical shape is required to achieve the so-called Venturi effect that draws in ambient air and dilutes exiting fumes. The latter stated that this shape functionally distinguishes the '163 patent's windband from the "rain cap" or "wind guard" disclosed in the prior art, and fundamentally agreed in cross-examination that this feature made a functional difference to the operation of the device. Both agreed that a person skilled in the art in May 1996 would evidently understand that the shape of the ring is convergent in light of the reference to inducing outside air.
+Assessment of the Evidence
+[80]
+Based on the testimony of Mr. Kupferberg and Mr. Habashi it is clear that the induction of air into the exhaust stream through the windband is an essential part of the '163 patent, and was intended to have a functional impact.
+[81]
+There was clear uncontradicted evidence that it would have been obvious to the skilled at the time the '163 patent was published that the reference to the induction of ambient air in relation to the windband would necessarily denote that the ring had a convergent shape; the Venturi principle that governs the applicable fluid dynamics has been known for centuries and any skilled reader interpreting the claim would have understood that such a shape was implied. I am satisfied that this convergent shape was indeed claimed in claim 2.
+CONCLUSION ON CLAIM CONSTRUCTION
+[82]
+After considering the evidence, I am satisfied that the following disputed elements of claim 1 are essential:
+- A
+first tubular diffuser portion
+communicating with the fan discharge port;
+- A second tubular portion extending upwardly from the first tubular portion;
+- The
+second tubular portion being bifurcated to provide two passageways
+having generally parallel axes generally normal to the first axis of the shaft; and
+- Wherein the
+axes of the passageways lie in a plane which is parallel to the first axis
+.
+[83]
+I find that the following disputed elements of claim 2 are essential:
+- the second tubular portion includes
+a pair of spaced-apart outlet ports corresponding to the two passageways
+; and
+- A
+ring surrounds the second tubular portion at a level corresponding to the outlet ports to form an annulus therewith
+;
+-
+Whereby ambient air is induced through the annulus
+to mix with gases exhausting from the passageways.
+INFRINGEMENT
+Principles
+[84]
+While the
+Patent Act
+, R.S. 1985, c. P-4 (the
+Act
+), does not define infringement, it is established in law that an infringement is any act which interferes with the full enjoyment of a monopoly granted to its patentee.
+[85]
+This monopoly is a statutory monopoly (
+ <FRAGMENT_SUPPRESSED>  (T.D.)).
+[86]
+As stated above, the first step is to construe the claims of the patent relating to the invention. Once the claims have been properly construed, the task of determining whether a claim has been infringed is "essentially one of fact" (
+ <FRAGMENT_SUPPRESSED> ), as confirmed by the Supreme Court in <FRAGMENT_SUPPRESSED> , above, adding that infringement will be clear on the facts once the claim has been construed.
+[87]
+In an action for patent infringement, the plaintiff must establish, on the construction of the patent and its claims, that infringement has occurred. In other words, it must be clear that the defendant has made use of his invention.
+[88]
+A party that takes the substance of an invention, or reproduces
+all of the essential elements
+of a patent is guilty of infringement. It does not matter if the party omits a non-essential element or substitutes an equivalent for it. According to
+Free World
+, above, at paragraph 68, to determine whether infringement has occurred, the question for the Court to answer is whether "the accused device takes all of the essential elements of the invention" (emphasis added).
+ANALYSIS
+[89]
+The plaintiff alleges that the defendant has infringed the '163 patent as its Skyplume apparatus reproduces and comprises all of its essential elements described in claims 1 & 2. It alleges that the only difference is cosmetic; in the '163 patent the axes of the passageway are parallel to the shaft axis while those of the Skyplume have axes that are perpendicular to it, and though the Skyplume nozzle is not physically separated as that the '163 patent, it is essentially bifurcated through its flow symmetry.
+[90]
+According to the plaintiff, these changes are not functionally significant, as the same performance is achieved whether it is oriented at 90 degrees to the fan axis or is parallel to it, and indeed it was admitted by the defendant's President that the device is designed to be used with both orientations.
+[91]
+The plaintiff also submits that the apparent differences between the nozzles are immaterial, as the flow symmetry produces the same effect as the physical bifurcation. The variance does not affect the velocity of the air flow and has no material effect on how the device works. Therefore, the plaintiff states that the manufacture and sale of the Skyplume is an infringement of, or alternately an inducement to infringe, claims 1 and 2 of the '163 patent.
+[92]
+Mr. Habashi's evidence at trial was that both the Skyplume and the '163 patent contain "diffusing sections", when the Skyplume is sold as an integrated exhaust fan system. He particularly explained in his testimony that the nozzle cannot be placed directly on a centrifugal fan, and hence the need for a transitional portion.
+[93]
+Mr. Habashi also testified that in Patent '163 the orientation is parallel to the fan, while it is at a 90 degree angle in the Skyplume, but irrespective of the orientation, the air flow performance was essentially the same. His testimony, supported by his report, was that the tests performed on the Skyplume nozzle, compared with early tests on the plaintiff's nozzle, confirmed that there was only a very insignificant difference between them. In his opinion, expressed both at trial and in his report, there was no functional significance to changing the orientation in such a device.
+[94]
+Mr. Kupferberg's evidence at trial was that there would be virtually no difference between the performance associated with the two orientations, but if anything, the Skyplume's would be slightly less efficient.
+[95]
+Mr. Habashi repeatedly reiterated in his testimony that there is no real difference between convergent nozzles, and thus that a new convergent nozzle design should not constitute a new device. In his testimony, though the nozzles at issue looked physically different they would probably perform at the same efficiency and are "essentially identical", though he admitted that he had not specifically performed tests to confirm this assertion.
+[96]
+Overall, in his testimony Mr. Habashi asserted that even if there are differences between the parties' devices, they are "technically equivalent in substance on all the components".
+[97]
+In reference to the defendant's promotional marketing material, Mr, Kupferberg testified that it depicted the defendant's product as an integrated unit, including a centrifugal and with what would appear to be all of the other essential features of the '163 patent.
+[98]
+Paul Sixsmith testified that the Skyplume, when sold as an integrated unit, contained a transition to connect the round outlet of the fan with the square inlet of the stack. These transitions, sometimes referred to as "diffusers", would vary according to the relative sizes of the fans and stacks required by the end user. In cross-examination, he testified that while the stack would often sit directly on a centrifugal fan, sometimes the bottom of the transition would be larger than the top, while other times it was the reverse, depending on the clients' equipment.
+[99]
+As stated above, I conclude that the parties' nozzles are differentiated by the physical separation contained within the nozzle of plaintiff's apparatus. In light of the construction given to claim 1, it is apparent that the defendant's nozzle does not possess the physical bifurcation claimed in Patent '163.
+[100]
+Further, the evidence is inconclusive in establishing that the Skyplume contains a diffuser. Mr. Sixsmith explained that all their devices have outlets where air comes out and this could be defined as a diffuser. However, in cross-examination, Mr. Kupferberg said that a transition of that type is not a diffuser that is as referred to in the patent at issue.
+[101]
+With regard to the orientation, the Skyplume is not sold with axes of the passageways in a plane parallel to the first axis as admitted by the plaintiff in its Statement of Claim at paragraph 37, it is used with axes perpendicular to the first axes. Having found that it is clear that the Skyplume has a different configuration that the one presented in the patent, I conclude that the defendant has not infringed the patent at issue.
+VALIDITY
+[102]
+As mentioned above, in its Defence and Counterclaim, the defendant alleges that the '163 patent is invalid.
+[103]
+Pursuant to subsection 43(2) of the
+Act
+, an issued Canadian patent is presumed to be valid during its full term of 20 years from the date of filing, in the absence of evidence to the contrary. The underlying rationale for this presumption is that the Commissioner is authorized to issue patents solely for inventions, defined in section 2 of the
+Act
+as any "new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter".
+[104]
+Thus the assumption is that the state of the knowledge and prior art respecting the subject matter has been studied by persons employed by the Commissioner who are skilled in the relevant field. A person who challenges the novelty and inventiveness of the patent bears the onus of establishing its invalidity (
+Free World Trust et al. v. Électro Santé Inc.
+, [1997] R.J.Q. 2907; 81 C.P.R.(3d) 456 (Que. C.A.), affd. in
+Free World
+, above).
+[105]
+The party attacking a patent must prove its invalidity on a balance of probabilities, failing which, the presumption prevails (
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.)).
+Obviousness
+[106]
+Where the validity of a patent is challenged on the basis of anticipation and obviousness, obviousness should be considered first (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.)). With obviousness, or lack of inventive ingenuity, the invention need not be disclosed in one single patent or piece of prior art, as is the case for anticipation.
+[107]
+The question of obviousness is whether the available knowledge on the claim date would lead
+directly
+to the invention. Justice James Hugessen in <FRAGMENT_SUPPRESSED> , above, established the frequently cited test for obviousness as follows:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[108]
+In considering evidence relating to the obviousness of an invention, it is helpful to refer to another oft-quoted passage from <FRAGMENT_SUPPRESSED> , above:
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"
+[109]
+Evidence of commercial success supports the conclusion that the combination of known elements was not obvious (
+ <FRAGMENT_SUPPRESSED> ; 311 F.T.R. 21; 2007 FC 455, at para. 352).
+[110]
+Mr. Willings testified that it would have been obvious to a person skilled in the art that the combination of the centrifugal fan with the Andrews patent would create a higher velocity exhausting air flow.
+[111]
+Mr. Kupferberg testified that at the time the patent was claimed there were a number of engineers and designers from numerous companies working on capturing part of the exhaust fan market dominated by Strobic Air and its use of the Andrews patent, but none had made the combination with the centrifugal fan. It took one year of work by Mr. Kupferberg and two other engineers to create the invention. None of the engineers working with Mr. Kupferberg came to the solution described in the '163 patent before November 1994, although they were specifically seeking such a solution.
+[112]
+Mr. Kupferberg also testified to the significant commercial success of the Axijet, especially in the initial years of its introduction into the market, though this waned after the introduction of the defendant's Skyplume.
+[113]
+Mr. Habashi stated in examination-in-chief that the use of such a fan distinguished the '163 patent from the prior art that used an axial fan, and indeed described it as a "game-changer" in the industry. In his view, as in the case of many technical innovations, it combined existing technologies that had not previously been effectively combined.
+[114]
+I prefer the evidence of Mr. Habashi and Mr. Kupferberg over that of Mr. Willings with regard to whether the combination of the prior art was obvious at the time the '163 patent was claimed. I also accept Mr. Kupferberg's evidence regarding the commercial success of the Axijet.
+[115]
+As stated by Justice Binnie in
+Free World
+, above, at paragraph 25, "[I]t takes little ingenuity to assemble a dossier of prior art with the benefit of 20-20 hindsight." Though it may seem evident now to have combined the prior art with a centrifugal fan, there is no evidence which shows that the so-called "mythical creature" referred to by Justice Hugessen in <FRAGMENT_SUPPRESSED> , above, would have come directly and without difficulty to the invention before the relevant claim date of the '163 patent. This is further substantiated by the commercial success of the Axijet; had such a profitable combination of the prior art been obvious, others would have surely seized the opportunity before the claim date of patent. Thus, the evidence does not support the conclusion that '163 patent was obvious at the time it was claimed in 1994.
+Anticipation
+[116]
+Section 28.2 of the
+Act
+requires that the subject matter of a claim must not have been disclosed prior to the claim date in such a manner that it became available to the public in Canada or elsewhere. It also requires that the anticipation test must be evaluated with respect to the claims, not the disclosure portion. The relevant date is the claim date, i.e., November 15, 1994.
+[117]
+Prior disclosure of the claimed invention can be in the form of a prior publication, oral disclosure, sale, or use, provided the invention is made available to the public, but must be contained entirely in
+one single patent or piece of prior art
+to have been "anticipated". As cited with approval by the Supreme Court of Canada in
+Free World Trust
+, above, at paragraph 26 and originally described by Justice Hugessen in <FRAGMENT_SUPPRESSED> , above, at 297:
+"... anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[118]
+For a prior public use to anticipate an invention, it must amount to enabling disclosure, that is, the disclosure has to be such as to enable the public to make or obtain the invention (
+ <FRAGMENT_SUPPRESSED>  at para. 42, drawing upon
+ <FRAGMENT_SUPPRESSED>  N.R. 364 (H.L.)).
+[119]
+In the present case, the defendant referred the Court to a number of prior patents and devices, but there was no evidence of a single, prior disclosure indicating all of the essential elements of the '163 patent. Thus, I am not satisfied that the defendant has established that the patent at issue was anticipated.
+Ambiguity
+[120]
+The defendant submits that as claim 2 does not mention the converging shape of the ring forming the windband, an essential element, the claim is overly broad and therefore invalid.
+[121]
+I agree that a claim that omits an essential element of the invention is invalid by reason of its over breadth; it is well-established that the claims are invalid if they are broader than the disclosures (per Justice Arbour in dissent in <FRAGMENT_SUPPRESSED> , above, at para. 124, citing
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), citing a long list of authority).
+[122]
+Further, section 27(4) of the
+Act
+states that patent claims must define distinctly and in explicit terms the subject-matter of the invention for which an exclusive privilege or property is claimed. The Court must determine if the language of the claim would be clear to a person skilled in the art. If the language is obscure or ambiguous, the Court will declare the patent invalid.
+[123]
+A failure to define a term in the disclosure is not sufficient reason to invalidate a patent for ambiguity (
+ <FRAGMENT_SUPPRESSED> , at 1638;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 2 (T.D.)). Finally, as concluded by Justice Hughes after reviewing the jurisprudence in relation to ambiguity in <FRAGMENT_SUPPRESSED> , above, at paragraph 53: "In short, ambiguity is truly a last resort, rarely, if ever, to be used."
+[124]
+For the reasons discussed above in relation to the claim construction of claim 2, I find that the reference to the induction of ambient air in relation to the annulus unambiguously suggested that the ring would have a convergent shape. A skilled reader at the relevant time would have clearly understood the reference as a disclosure of such a shape, and appreciated that it was an essential element of the invention. Consequently, claim 2 is neither ambiguous nor overly broad.
+UNFAIR TRADE PRACTICE
+[125]
+The defendant counterclaims against the plaintiff under section 7(a) of the
+Trade-marks Act
+for having made false and misleading statements tending to discredit the defendant's business, wares and services.
+[126]
+The plaintiff wrote to the distributors of the defendant's products, notifying of potential patent infringement of the '163 patent. The plaintiff wrote these letters before commencing an action for patent infringement, and prior to sending a "cease and desist" letter to the defendant. The defendant alleges that it has suffered damage as a result of the plaintiff's acts.
+[127]
+The defendant submits that section 7(a) of the
+Trade-marks Act
+creates a statutory cause of action allowing for damages where a person is damaged by false or misleading statements by a competitor, irrespective of whether the statements were known to be false at the time, or were made maliciously.
+[128]
+The plaintiff submits that as the '163 patent was duly registered, the patent is presumed valid and the patentee is entitled to act on that basis (
+M & I  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 477 (T.D.)).
+[129]
+It further submits that the tone of all of the letters was informative rather than threatening legal recourse against the recipients. Further, one letter is addressed to a person in Puerto Rico. Another letter is addressed to the to the defendant's sales agent in Kansas, while a third one is addressed to the plaintiff's own sales agent; none of these were the defendant's clients or prospective clients.
+[130]
+The plaintiff submits that the first two letters were sent to parties outside of Canada, and therefore that the
+Trade-marks Act
+is inapplicable as the alleged contravening acts occurred extra-jurisdictionally. It also argues that there is no proof of a prejudice caused to the defendant, and as such the statements are not actionable.
+[131]
+I agree with the plaintiff that the first two letters sent to parties in Kansas and Puerto Rico are outside the scope of the
+Trade-marks Act
+and therefore do not provide grounds to support the cause of action alleged by the defendant in its counterclaim. I also find that the defendant has not established that the letter sent to the plaintiff's sales agents caused it prejudice.
+[132]
+Consequently, I conclude that the defendant has not established the grounds necessary to make out its claim.
+CONCLUSION
+[133]
+The evidence does not support the conclusion that the defendant's Skyplume apparatus does contains all of the essential elements of the'163 patent. As discussed above, it does not contain the physical bifurcation in the nozzle, nor does it have a comparable diffuser. Further, though the evidence clearly shows that the orientation variant has no functional impact on the performance of the device in comparison with the patent, I am persuaded that the patentee intended that the orientation be an essential feature of his invention, as clearly demonstrated by the wording of claim 1. Consequently, he is bound by the wording of his patent claims; the orientation in the Skyplume differentiates it from the '163 patent.
+[134]
+Considering that it is sufficient that any essential element be different, the Skyplume device does not infringe claim 1 of the '163 patent.
+[135]
+However, I am equally convinced that the '163 patent is valid. Though it may seem clear in hindsight that it would be obvious to have combined the prior art of the Andrews patent with the greater performance of a centrifugal fan, as embodied in the patent at issue, there was no evidence that showed that this had in fact been done. In my opinion, the patent was validly issued, in recognition of its novelty, ingenuity and utility. Consequently, the defendant's counterclaim in this regard is dismissed.
+Costs
+[136]
+Pursuant to Rule 400(1) the
+Federal Court Rules
+, the Court has full discretion over the amount and allocation of costs; the Court may consider any matter it considers relevant (rule 400(3)(o)).
+[137]
+Rule 400(3)(a) requires the Court to properly take into consideration the end result of the proceedings in exercising this discretion, and to do so "judicially" (
+ <FRAGMENT_SUPPRESSED> ; 312 N.R. 184; 2003 FCA 358, at para. 11).
+[138]
+In
+Illinois
+, above, the relevant facts were essentially the same as the present matter: The defendant was sued for patent infringement by the plaintiff. In response to the action, there were two defense components: first, that there was no infringement of the plaintiffs' patent and, second, that the plaintiffs' patent was invalid. The defense did not have to be accepted in its entirety for the lawsuit to be dismissed, as either one would suffice. The trial judge found that the defendant's products did not infringe the plaintiffs' patent, and the plaintiffs' action was dismissed.
+[139]
+The Federal Court of Appeal in
+Illinois
+, above, essentially concluded that where a claim and counterclaim are both dismissed, costs should not
+necessarily
+"cancel each other out", thereby dividing success between the parties. Rather, in that case, the defendant was entitled to costs as the winning party. I find this to be the case here as well. Costs will be awarded to the defendant.
+JUDGMENT
+[140]
+The action and counterclaim are dismissed with costs to the defendant.
+Action and counterclaim dismissed.
+Editor: Angela E. McKay/klf
+[End of document]

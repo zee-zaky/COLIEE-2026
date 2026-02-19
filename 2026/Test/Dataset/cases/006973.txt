@@ -1,0 +1,610 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: By Notice of Application filed the 5th of July, 2002, Abbott Laboratories ("Abbott U.S.") and Abbott Laboratories Limited ("Abbott Canada"), (collectively "the Applicants"), seek the following relief:
+1) an Order prohibiting the Respondent the Minister of Health (the "Minister") from issuing the Respondent Pharmascience Inc. ("Pharmascience") a notice of compliance for clarithromycin - 250 mg or 500 mg Tablets until after the expiry of Canadian Letters Patent No. 2,261,732;
+2) costs of the application; and
+3) such further or other relief as counsel might advise and this Court might deem just and reasonable.
+[2]
+The Application was filed pursuant to s. 6 of the
+Patented Medicines (Notice of Compliance) Regulations
+[see footnote 1] (the "
+Regulations
+") and was responsive to a Notice of Allegation served by Pharmascience on Abbott Canada, pursuant to s. 5 of the
+Regulations
+, on the 21st of May, 2002. The Notice of Allegation advised that Pharmascience had filed an Abbreviated New Drug Submission in respect of clarithromycin tablets 250 mg and 500 mg which makes reference to Abbott Canada's brand of clarithromycin in the same dosages for which Abbott Canada had received Notices of Compliance from the Minister.
+[3]
+Pharmascience's Notice of Allegation sets out the following very brief "factual basis":
+"PMS' [Pharmascience's] clarithromycin is produced by a process which does not recrystallize or crystallize clarithromycin (in any form) directly to form II clarithromycin, and which does not use one solvent, or one solvent mixture. The process used to make form II clarithromycin is a slurrying of Form 0 crystals in water. The slurrying process is disclosed in PCT Application No. PCT/US 00/33845 (WO 01/44262)."
+[4]
+On the foregoing factual basis, Pharmascience's Notice of Allegation alleges that its form II clarithromycin is produced by a process that does not infringe Canadian Letters Patent No. 2,261,732 and that, alternatively, if its clarithromycin is covered by claims 16 to 21 of the Patent, then those claims are broader than the invention made and disclosed and thus the Patent is invalid.
+[5]
+But for an extension of the twenty-four (24) month period provided in paragraph 7(1)(e) of the
+Regulations
+during which the Minister was prohibited from issuing a Notice of Compliance to Pharmascience, such twenty-four (24) month period running from the "... receipt of proof of the making ..." of the Applicants' Application, the Minister would have been at liberty to issue a Notice of Compliance under the
+Regulations
+to Pharmascience on or after the 5th of July, 2004. Pursuant to paragraph 7(5)(b) of the
+Regulations
+, by Order dated the 25th of June, 2004, Prothonotary Aronovitch extended the twenty-four (24) month period by one hundred and five (105) days to the 18th of October, 2004. Prothonotary Aronovitch's Order was appealed. That appeal was dismissed by Order dated the 9th of July, 2004. In the result, the prohibition against the Minister issuing a Notice of Compliance to Pharmascience remains in force.
+THE PARTIES
+[6]
+Abbott U.S. is the owner of Canadian Letters Patent No. 2, 261, 732 (the "'732 Patent") which relates to specific pharmaceutical compounds when prepared or produced by certain methods or processes and to those methods or processes. The '732 Patent expires on the 28th of July, 2017. Abbott U.S. is the parent of Abbott Canada.
+[7]
+Abbott Canada is a Canadian innovator pharmaceutical manufacturer. It has the permission of Abbott U.S., under the '732 Patent, to manufacture and sell BIAXIN BID(®) in Canada. Abbott Canada is the manufacturer in Canada of BIAXIN BID(®), an antibiotic. BIAXIN BID(®) is sold in Canada in 250 mg and 500 mg tablets pursuant to Notices of Compliance originally issued to Abbott Canada on the 8th of May, 1992 and the 25th of August, 1994 respectively. The active medicinal ingredient in BIAXIN BID(®) is Clarithromycin. The '732 Patent has been listed by Abbott Canada on the Patent Register maintained pursuant the
+Regulations
+in respect of BIAXIN BID(®).
+[8]
+Pharmascience is a "generic drug company" that is to say, a manufacturer and marketer of drugs in Canada which, in the words of Justice Nadon, in
+ <FRAGMENT_SUPPRESSED>  independently establish the safety and effectiveness of the drug ...". As earlier noted, Pharmascience seeks a Notice of Compliance from the Minister to enable it to market an equivalent of BIAXIN BID(®).
+[9]
+The Minister of Health is the Minister charged with the administration of the
+Patented Medicines (Notice of Compliance) Regulations
+. No material filed on behalf of the Minister was before the Court at the hearing of this application. Further, the Minister was not represented at the hearing.
+THE PATENT IN SUIT
+[10]
+The application giving rise to the '732 Patent was filed on the 28th of July, 1997, claiming priority from the equivalent U.S. Patent as of the 29th of July, 1996. It is entitled "Preparation of Crystal Form II of Clarithromycin". The abstract of the Patent reads as follows:
+"The present invention provides a process for the preparation of 6-O-methylerythromycin A Form II comprising converting erythromycin A to 6-O-methylerythromycin A and treating the 6-O-methylerythromycin A with a number of common organic solvents or mixtures of common organic solvents."
+It contains forty-four (44) claims. The claims that are relevant for the purposes of this matter are 1, 2 and 3 and 15 to 21. Those claims are set out in full in a Schedule to these reasons.
+[11]
+In the disclosure of the Patent, the claimed invention is summarized in the following terms:
+"We have discovered that 6-O-methylerythromycin A can exist in at least two distinct crystalline forms, which for the sake of identification are designated 'Form I' and 'Form II'. The crystal forms are identified by their infrared spectrum, differential scanning calorimetric thermogram and powder x-ray diffraction pattern. Investigations in our laboratory have revealed that 6-O-methylerythromycin A when recrystallized from ethanol, tetrahydrofuran, isopropyl acetate, and isopropanol, or mixtures of ethanol, tetrahydrofuran, isopropyl acetate, or isopropanol with other common organic solvents result in exclusive formation of Form I crystals, not identified hitherto before. 6-O-methylerythromycin A Form I is disclosed in the co-pending U.S. Patent 5,858,986, filed even-date on July 29, 1996.
+"Drugs currently on the market are formulated from the thermodynamically more stable Form II. Therefore, preparation of the current commercial entity requires converting the Form I crystals to Form II. Typically this is done by heating the Form I crystals under vacuum at a temperature of greater than 80° C. Therefore, a process for the preparation of 6-O-methylerythromycin A Form II which does not require the high temperature treatment would result in substantial processing cost savings.
+"Although recrystallization from ethanol, tetrahydrofuran, isopropanol or isopropyl acetate results in exclusive formation of Form I crystals, 6-O-methylerythromycin A Form II can be isolated directly by using a number of other common organic solvents, or mixtures of common organic solvents, thereby eliminating the additional conversion step.
+"Accordingly, the present invention provides a process for preparing 6-O-methylerythromycin A Form II comprising
+(a) converting erythromycin A to 6-O-methylerythromycin A;
+(b) treating the 6-O-methylerythromycin A prepared in step (a) with a solvent selected from the group consisting of (i) an alkanol of from 1 to 5 carbon atoms, provided said alkanol is not ethanol or isopropanol, (ii) a hydrocarbon of from 5 to 12 carbon atoms, (iii) a ketone of from 3 to 12 carbon atoms, (iv) a carboxylic ester of from 3 to 12 carbon atoms, provided said carboxylic ester is not isopropyl acetate, (v) an ether of from 4 to 10 carbon atoms,(vi) benzene, (vii) benzene substituted with one or more substituents selected from the group consisting of alkyl of from one to four carbon atoms, alkoxy of from one to four carbon atoms, nitro, and halogen, (viii) a polar aprotic solvent, (ix) a compound having the formula HNR1R2 wherein R1 and R2 are independently selected from hydrogen and alkyl of one to four carbons atoms, provided that R1 and R2 are not both hydrogen, (x) water and a second solvent selected from the group consisting of a water miscible organic solvent and a water miscible alkanol, (xi) methanol and a second solvent selected from the group consisting of a hydrocarbon of from 5 to 12 carbon atoms, an alkanol of from 2 to 5 carbon atoms, a ketone of from 3 to 12 carbon atoms, a carboxylic ester of from 3 to 12 carbon atoms, an ether of from 4 to 10 carbon atoms, benzene and benzene substituted with one or more substituents selected from the group consisting of alkyl of from one to four carbon atoms, alkoxy of from one to four carbon atoms, nitro, and halogen, and (xii) a hydrocarbon of from 5 to 12 carbon atoms and a second solvent selected from the group consisting of a ketone of from 3 to 12 carbons atoms, a carboxylic ester of from 3 to 12 carbon atoms, an ether of from 4 to 10 carbon atoms, benzene, benzene substituted with one or more substituents selected from the group consisting of alkyl of from one to four carbon atoms, alkoxy of from one to four carbon atoms, nitro, and halogen and a polar aprotic, and
+c) isolating the 6-O-methylerythromycin A Form II crystals."
+[12]
+For the purposes of this matter the terms "treating" in the first line of paragraph (b) of the fourth paragraph of the foregoing quotation and alternative (x) in that same paragraph reading "water and a second solvent selected from the group consisting of a water miscible organic solvent and a water miscible alkanol" are central. "Treating" is defined in the "detailed description" contained in the disclosure in the following terms:
+"The terms 'treating' refers to crystallizing or recrystallizing 6-0-methylerythromycin A as defined above from any of the solvent systems described above."
+[13]
+Alternative (x) referred to in the foregoing paragraph represents a combination of water and a water miscible organic solvent or water miscible alkanol that is, among other things, ethanol. A water-ethanol solvent is specifically referred to in Claim 15.
+[14]
+Claims 15 and 16 specifically refer back to Claim 2. Claim 17 references a preparation according to Claim 3 which in turn references Claim 2. Similarly, claim 18 references a preparation according to Claim 9 which in turn references Claim 2. Also similarly, Claim 19 references a preparation according to the process of Claim 13 which in turn refers back to a method according to Claim 2.
+THE PHARMASCIENCE PROCESS AND PRODUCT
+[15]
+Pharmascience does not propose to manufacture its form of clarithromycin II but rather proposes to purchase it from an off-shore supplier. It was not in dispute before the Court that the end-product is the same. Rather, Pharmascience claims that the process by which the clarithromycin II for which it seeks approval is made outside the scope of the '732 Patent in that its supplier's process does not involve a crystallization or recrystallization but rather involves a "solid-state transformation" accomplished by slurrying in water. Put another way, Pharmascience's supplier's process is said not to involve the reduction of a crystalline form to a different form and then a recrystallization but rather to involve a direct transformation of a crystalline form to a different crystalline form, accomplished through slurrying.
+[16]
+Earlier in these reasons, I reproduced a paragraph from Pharmascience's Notice of Allegation giving rise to this proceeding. That paragraph is repeated here for ease of reference. Under the heading "Factual basis", Pharmascience advised Abbott Canada as follows:
+"PMS' [Pharmascience's] clarithromycin is produced by a process which does not recrystallize or crystallize clarithromycin (in any form) directly to form II clarithromycin, and which does not use one solvent, or one solvent mixture. The process used to make form II clarithromycin is a slurrying of Form 0 crystals in water. The slurrying process is disclosed in PCT application No. PCT/US00/33845 (WO 01/44262)."
+[17]
+Further in its Notice of Allegation, under the heading "Legal basis" and the subheading "Claims 16 - 21", Pharmascience writes:
+"Claims 16 - 21 are not infringed because they cover clarithromycin crystal form II when prepared by a process of 'treating' 6-0-methylerythromycin A with one solvent, or one solvent mixture. The '732 Patent defines 'treating' to mean crystallizing or recrystallizing ... . The term 6-0-methylerythromycin A (or clarithromycin) is defined to mean a solid, a semisolid, or a syrup containing residual solvents (from the process for making the clarithromycin from erythromycin).
+"PMS' clarithromycin Form II is made by slurrying Form 0 clarithromycin in water to convert the crystals to form II.
+. . . . .
+"PMS' process does not involve crystallizing Form II directly from clarithromycin, or recrystallizing Form I or mixtures of Form I and Form II. As is disclosed in the PCT Application, the PMS Form II is made from Form 0 that is stirred or slurried in water. The Form 0 is not dissolved and then crystallized or recrystallized.
+. . . . .
+"Claims 16 to 21 cover Form II clarithromycin prepared by the process of Claim 1. The other process claims referred to in Claims 16 to 21, namely 2, 3, 9, 13, and 15 all depend upon Claim 1 either directly or indirectly.
+"Claim 1 covers a process for making clarithromycin Form II by first converting erythromycin A to 6-0-methylerythromycin; and then treating 6-0-methylerythromycin A (clarithromycin) with 'a solvent selected from the group consisting of "listed groups (i) to (xii)"'.
+"The PMS process does not make Form II by treating clarithromycin with any of the solvent groups listed in Claim 1(b)(i) to (xii). For further certainty, the PMS process does not treat clarithromycin with any of the solvent groups which are listed in Claims 3, 9, 13 or 15 to prepare Form II clarithromycin." (subheadings omitted)
+[18]
+A more useful description of the process for making Pharmascience's clarithromycin II was disclosed to Abbott under cover of a letter dated the 19th of November, 2002. The enclosure with that letter consisted of three (3) pages from Pharmascience's Abbreviated New Drug Submission. Pharmascience claimed and continues to claim confidentiality in those pages. [see footnote 3] While the disclosed pages elaborate to a significant degree on the foregoing description of the process for making Pharmascience's clarithromycin II, they also disclose that Pharmascience's supplier also makes clarithromycin II by a second process. It is not in dispute that that second process is within the terms of the '732 Patent. Pharmascience filed evidence in this proceeding to indicate the existence of an arrangement with its proposed supplier such that clarithromycin II supplied to Pharmascience would only be produced by the "slurrying" method described above. More will be said about this later in these reasons.
+THE EXPERT AFFIANTS
+[19]
+The Applicants relied on the evidence of three (3) expert affiants, each of whom was cross-examined with transcripts of the cross-examinations being before the Court. The following is a very brief description of the qualifications of each of the Applicants' experts.
+[20]
+Dr. Jerry Atwood holds a BS degree in Chemistry and Mathematics from Southwest Missouri State University and a Ph.D. in Chemistry from the University of Illinois. Since 1994 he has been employed as Professor and Chairman of the Department of Chemistry at the University of Missouri-Columbia. From 1968 to 1994, he was employed by the University of Alabama, where he successively held the titles of Assistant Professor, Associate Professor, Professor, and University Research Professor. In 1999 he became Curators' Professor at the University of Missouri-Columbia.
+[21]
+From 1985 to 1998, Dr. Atwood was Editor of the
+Journal of Chemical Crystallography
+. In 1999 he was named Consulting Editor for the
+Journal of Chemical Crystallography
+. He has edited the
+Journal of Supramolecular Chemistry
+since 2000, and he has been Associate Editor of
+Chemical Communications
+since 1996. From 1992 until 2000, he was editor of
+Supramolecular Chemistry
+.
+[22]
+From 1985 to 1993, Dr. Atwood was Regional Editor for the
+Journal of Coordination Chemistry
+. He continues to be co-Editor of the
+Inclusion Compounds
+book series (five volumes) and
+Comprehensive Supramolecular Chemistry
+(ten volumes). He currently serves on the Editorial Boards of five journals. He attests that he has published more than 570 articles in refereed journals. He has authored ten patents.
+[23]
+Dr. Atwood attests that he is an expert in the fields of crystal growth, crystal engineering, and polymer chemistry [see footnote 4]. No challenge was recorded to that claim.
+[24]
+Dr. Stephen Byrn received a Ph. D. in Chemistry from the University of Illinois in 1970 and was a post doctoral fellow at UCLA from 1970 to 1972. In 1972, he became a professor in the School of Pharmacy at Purdue University. He was Head of the Department of Medicinal Chemistry and Pharmacognosy at Purdue University in the School of Pharmacy and Pharmaceutical Sciences from 1988 to 1994. He was the Director of the Center for AIDS Research at Purdue from 1988 until 1998, and since 1994, he has been Head of the Department of Industrial and Physical Pharmacy. He became the Charles B. Jordan Professor of Medicinal Chemistry in 1992.
+[25]
+Dr. Byrn has authored over 100 peer-reviewed publications in technical journals on topics relating to solid-state chemistry. He has also co-authored a book entitled
+Solid Chemistry of Drugs
+, and is the author of two book chapters. As well, he has presented an extensive number of papers at conferences, and has taught numerous courses regarding polymorphism. He has taught at the U.S. federal Food and Drug Administration and has been an industrial consultant to a number of different innovator and generic pharmaceutical companies, in addition to serving as Chair of a number of prestigious committees.
+[26]
+While Dr. Byrn does not attest in so many words that he is an "expert", he does attest that the opinions expressed in his affidavits before the Court "... are based on my background and experience including my thirty-three years of professional experience in the study, characterization and analysis of organic solids ... ." [see footnote 5] Dr. Byrn's qualifications and expertise were not challenged.
+[27]
+Dr. Allan S. Myerson is a Professor of Chemical Engineering and Provost and Senior Vice-President at the Illinois Institute of Technology in Chicago. He has been in that position from January 2003. From January 2000 to December 2002, he served as Professor of Chemical Engineering and Dean of the Armour College of Engineering and Science at the Illinois Institute of Technology. From January 1985 to December 1999, he served on the Faculty of Polytechnic University (Brooklyn, NY) where he held various positions including Joseph and Violet J. Jacobs Professor of Chemical Engineering, Head of the Department of Chemical Engineering, Dean of the School of Chemical and Materials Science, and Vice Provost for Research and Graduate Studies. From September 1979 to December 1984, Dr. Myerson served on the Faculty at the Georgia Institute of Technology as an Assistant Professor of Chemical Engineering, and subsequently as an Associate Professor. Prior to his service at the Georgia Institute of Technology, Dr. Myerson served on the Faculty at the University of Dayton as an Assistant Professor of Chemical Engineering.
+[28]
+Dr. Myerson received his Bachelor of Science in Chemical Engineering from Columbia University. He received a Masters and Ph.D. in Chemical Engineering from the University of Virginia. He is a registered Professional Engineer in the states of New York and Ohio.
+[29]
+Dr. Myerson has published extensively and has taught courses in crystallization in the United States, Europe and Japan. He has consulted for major chemical and pharmaceutical companies in the United States, Europe and Japan.
+[30]
+Dr. Myerson attests:
+"Based on my experience and qualifications, I consider myself to be an expert in the field of chemical engineering and crystallization, including industrial crystallization and polymorphism. These are precisely the issues raised in this proceeding." [see footnote 6]
+[31]
+Once again, Dr. Myerson's expert qualifications were not challenged.
+[32]
+Pharmascience relied on the expert opinions of two (2) affiants. Their qualifications can be briefly summarized as follows.
+[33]
+Dr. Frank Brown Jr. obtained a Ph.D. in Organic Chemistry from Purdue University in 1969. For most of his working career, he was employed by Lilly Research Laboratories, a division of Eli Lilly and Company, where he held a series of positions commencing with work as a technical service chemist, Research Scientist, Research Associate, Senior Research Scientist and Team Leader and Research Advisor which he attests to be the "... highest earned scientific level that can be achieved at Lilly."
+[34]
+In 2000, Dr. Brown retired early from Eli Lilly to join Purdue University to pursue basic research in the Pharmaceutical Sciences. He became the Director of the Pharmaceutical Sciences Program at Purdue. Dr. Brown attests:
+"Based on my experience, I am an expert in industrial process chemistry, having scaled up numerous chemical processes at full scale associated with pharmaceutical manufacturing of human and animal health products. My experience has provided me the practical knowledge to carry out a pharmaceutical process and to troubleshoot any problems with a process at industrial scale. For example, my experience would enable me to solve crystallization problems on an industrial scale." [see footnote 7]
+[35]
+While Dr. Brown's experience and expertise was not challenged, counsel for the Applicants did express concern regarding his experience and expertise with regard to the processes and substances at issue in this proceeding.
+[36]
+Dr. Mark D. Hollingsworth is an Associate Professor of Chemistry at Kansas State University. He received a Bachelor of Arts degree from Carleton College in 1979. From 1979 to 1985 he pursued his Ph.D. in Organic Chemistry at Yale University. From 1985 to 1987 he completed postdoctoral studies at the University of Cambridge where his research focussed on characterizing chemical reactions of crystalline materials including polymorphs. He commenced his work as a Professor of Chemistry in 1987 and has continued his work on solid state chemistry and polymorphs. He attests:
+"My research as a solid state organic chemist has focussed on the following areas:
+(i) processes to isolate crystalline organic compounds;
+(ii) analytical techniques for characterizing crystalline materials and the processes that occur within them;
+(iii) solid state chemistry (defined as the study of various solid forms of chemical compounds);
+(iv) mechanistic studies of crystal growth, including the effect of solvent used; and
+(v) mechanistic studies of phase transitions and phase transformations in crystalline studies.
+"My area of expertise is in the study of crystal forms and transformations between them. For the past 22 years, I have regularly developed and conducted processes to crystallize chemical compounds. I have used crystallization as a technique of purification (to remove impurities from the desired compound) and isolation (to create a certain crystal form, where a compound may exist in one of many crystal forms)."
+[37]
+Dr. Hollingsworth has published extensively. He attests that he has acted as a consultant to pharmaceutical companies in the area of crystal analysis and in the preparation of crystal forms.
+[38]
+Dr. Hollingsworth further attests:
+"As a result of my experience ..., I am familiar with (i) developing processes to make different crystal forms; (ii) studying the chemical and structural changes in a crystal during transformation from one crystal form to another; and (iii) characterizing and analyzing crystalline materials using normal laboratory techniques." [see footnote 8]
+[39]
+Once again, Dr. Hollingsworth's expertise was not challenged but, once again, counsel for the Applicants urged that his qualifications and experience were not equal to those of the Applicants' experts.
+THE EXPERT EVIDENCE AND EVIDENCE OF EXPERIMENTATION
+DR. JERRY ATWOOD
+[40]
+Dr. Atwood attests in his first affidavit filed in this proceeding that, for the purposes of responding to Pharmascience's Notice of Allegation herein, he read the Notice of Allegation, the '732 Patent, six (6) United States Patents, related international publications and several unidentified journal articles related to the synthesis of clarithromycin as well as excerpts from the Abbreviated New Drug Submission of Pharmascience, including the Drug Master File of Pharmascience's proposed supplier. The summary of his opinion is in the following terms [see footnote 9]:
+"The subject matter of the ['732 Patent] and the allegations of Dr. Neirinck (hereafter referred to as the 'NoA') rely heavily on the discipline of organic chemistry. In order to make clear and concise opinions on the issues in this litigation, I have provided ... a brief overview of the relevant aspects of this area of chemistry.
+"It is alleged by Pharmascience that the '732 Patent is not infringed by its proposed process and processes and that, if there is infringement, the '732 Patent is invalid on the basis that the patent claims are broader that the invention made and disclosed.
+"In my opinion, the allegations set forth in the NoA are scientifically flawed and wholly without merit. In the following paragraphs, I provide the basis for my opinion, summarized as follows:
+(a) the Disclosure suggests that Pharmascience' supplier makes Form II Clarithromycin ... the alleged slurry step is even commenced;
+(b) the Pharmascience slurry step is a crystallization in ... and water;
+(c) the Disclosure contains an alternate process which produces Form II ...;
+(d) the claims of the '732 Patent as they would be read by a person skilled in the art are well supported by the disclosure in the '732 Patent and they clearly cover the process allegedly used by Pharmascience." [see footnote 10]
+[41]
+In the same affidavit, Dr. Atwood offered the following opinion:
+"A person of ordinary skill in the art of the '732 Patent is a chemist or chemical engineer with two to five years experience with crystallization processes.
+"First, it is normal practice, well known to a person skilled in the art of the '732 Patent, to use a slurry when one is practicing the art of industrial crystallization. Pharmascience is wrong to cite chemistry texts which deal with laboratory procedures for purification of organic compounds (i.e.,
+Vogel's Textbook of Practical Organic Chemistry
+, pp. 105-113, published 1978) on this question. This is not an authority on industrial crystallization. A reading of pp. 105-113 of Vogel's book affords the conclusion that this reference is aimed at the synthetic organic chemist working at a laboratory bench with a small amount of impure compound. This is not the reference work to which one of ordinary skill in the art would refer when seeking information about the treatment of Clarithromycin to produce Form II crystalline material on an industrial scale.
+"More appropriate references would include commonly available references from which it is clear that slurrying is a common and well known method of crystallization." [see footnote 11]
+[42]
+In a supplementary affidavit sworn the 5th of September, 2003, Dr. Atwood notes that he has had the opportunity to review two (2) affidavits filed in this proceeding by Dr. Hollingsworth, an affidavit of Dr. Leonard Neirinck, Vice President, Scientific Affairs of Pharmascience, the affidavit of Dr. Frank Brown Jr., and two (2) affidavits of Patrick Taylor, a law clerk with Pharmascience's firm of solicitors. Collectively, he refers to the foregoing as the "Pharmascience evidence". He concludes his second affidavit in the following terms:
+"In my affidavit dated 1 May 2003, [earlier referred to] I offered the following summary opinion:
+(a) The Pharmascience process uses crystallizations to make Form II Clarithromycin;
+(b) In particular, the slurry step is a crystallization;
+(c) The crystallizations in the Pharmascience process all take place in solvents comprised of ... and water;
+(d) In particular, the 'average' bulk concentration of ... in the slurry is as high as ... but the composition of ... in the solvent at the surface of the crystals is much higher;
+(e) The use of ... in the solvents is a significant aspect of the Pharmascience crystallization process steps;
+(f) A person skilled in the art would readily and clearly understand that the Abbott invention and disclosure of the '732 Patent include crystallization by a slurry method which was a well known crystallization technique as of publication date of the '732 Patent ..., and indeed, long before. The scope of the claims is no broader than the invention made and disclosed in the '732 Patent.
+"After careful review of the affidavits offered by the Pharmascience experts, I stand fully behind my original opinions.
+"Dr. Hollingsworth offers flawed, non-scientific experiments in an attempt to demonstrate that the slurry process used by the Pharmascience Clarithromycin supplier is a solid to solid phase transformation. It is not. Dr. Chyall's scientific experiments completely refute the experimental work done by Dr. Hollingsworth." [see footnote 12]
+[43]
+Dr. Atwood was subjected to an extensive cross-examination. While counsel for Pharmascience took me during the hearing of this application to a number of passages from the transcript of that cross-examination, I am satisfied that Dr. Atwood was not shaken in the opinions he expressed in his affidavit evidence. A reading of the whole of the transcript of his cross-examination leads me to conclude that there was no reason why he should have been. I choose to refer here to only one passage to which counsel took me from very close to the end of the transcript. That passage reads as follows:
+"Q. I take it had Dr. Chyall [who did testing on behalf of the Applicants] done tests, we might have seen that. You don't know. This is all a theoretical discussion. We could be discussing this based on fact; isn't that right?
+A. I would like to have fact to base this on. But I'm not saying that the [Pharmascience supplier's] process, my understanding is - I'm unsure about the [Pharmascience supplier's] process. I think it may well be producing Form II [Clarithromycin]. However, it's not, in my judgment, doing it by a solid-to-solid transition, but rather it's doing it by a rolling crystallization." [see footnote 13]
+[44]
+Counsel for the Applicants took me to the following passage from the same cross-examination:
+"Q. Is it possible to have a solid-to-solid transformation take place in a slurry?
+A. A solid-to-solid transformation could take place in a slurry. In order to verify that this is a solid-to-solid transformation, one would have to do some experiments.
+First of all, if the compound is soluble to any extent in solution, one would have to rule out the fact that it's a simple recrystallization. In other words, it's a transformation which occurs in solution.
+Solid-to-solid transformation is relatively uncommon. And much more common would be what I refer to in my affidavit as a rolling crystallization in which the solution or the solvent, mediates the transformation through a process of crystallization." [see footnote 14]
+[45]
+Both counsel for the Applicants and counsel for Pharmascience criticized the other side for the failure to carry out more extensive and more reliable testing or experimentation. I will return to this subject in the "Analysis" portion of these reasons where I will address the question of onus on an allegation of non-infringement.
+DR. STEPHEN BYRN
+[46]
+In his first affidavit, Dr. Byrn attests that he had been asked on behalf of the Applicants to review Pharmascience's Notice of Allegation underlying this application. He indicates that he had been asked to consider the allegations in the NOA and to provide his opinion about the allegations that the '732 Patent is not infringed or is invalid. He succinctly summarizes his opinion in the following words:
+"The PMS [Pharmascience] process, as set out in the NoA, is a crystallization process which is covered by the claims of the '732 Patent. In [sic] the PMS's process clearly infringes the '732 Patent.
+"PMS's allegations that the '732 Patent is invalid are without merit. The patent claims are not broader than the invention made or disclosed. PMS's 'slurry' process is a crystallization process. Slurrying - as a method of crystallization - would be understood by those skilled in the art to be a method of 'treating' as defined in the '732 Patent." [see footnote 15]
+[47]
+In two (2) subsequent affidavits filed in this proceeding, Dr. Byrn does not compromise the foregoing opinion.
+[48]
+Like Dr. Atwood, Dr. Byrn was extensively cross-examined on his affidavits. During the course of the hearing of this matter, counsel took me to a number of extracts from his testimony on cross-examination. Having reviewed the transcript of his cross-examination as a whole, I draw only one global conclusion from it: like Dr. Atwood, he was not shaken in respect of the evidence put forward in his affidavits. To the contrary, he reconfirmed those opinions and the impression created by his training and experience as to his expertise.
+DR. ALLAN MYERSON
+[49]
+Dr. Myerson filed only one affidavit in these proceedings. In that affidavit, he summarized his opinion in the following terms:
+"The invention disclosed in Abbott's '732 patent relates to a method of preparing 6-0-methylerythromycin A Form II ('clarithromycin') directly by crystallization from a list of patented solvents.
+"For the reasons set out herein, it is clear that the processes of manufacturing clarithromycin, as proposed by PMS [Pharmascience] and [its supplier], clearly falls within the processes claimed in claims 1(b)(x), 2, 3 and 15 of [the] '732 Patent. Clarithromycin made in the processes by [Pharmascience] and [its supplier] is covered by claims 16, 17, 20, and 21 of the '732 Patent.
+"[Pharmascience's] allegations of non-infringement are directly contradictions [sic] by its own process information and are entirely unjustified.
+"[Pharmascience's] alternative allegation of invalidity is based on a fundamental misunderstanding of basic concepts in crystallization and is incorrect. The alternative allegation of invalidity is baseless and entirely unjustified." [see footnote 16]
+[50]
+With great respect, much of the foregoing, as with the paragraphs from Dr. Byrn's first affidavit quoted in paragraph [46] of these reasons, is an opinion as to the final issues in this matter and, whatever might or might not be the expertise of the Court in that regard, is a matter for determination by the Court. What the Court looks to from an expert such as Dr. Myerson or Dr. Byrn is professional opinion that will aid the Court in arriving at the determination which it is called upon to make, not opinion as to what that determination should be.
+[51]
+The following paragraphs extracted from Dr. Myerson's affidavit are of much greater assistance:
+"As indicated above, the term
+solution mediated transformation
+refers to the transformation of a less stable (metastable) polymorph to a more stable polymorph when slurried in a solvent. In this case Form 0 and Form I are less stable than Form II.
+"Polymorphs (or solvates) of a given substance have different solubility. The most stable form has the
+lowest
+solubility. The least stable form has the
+highest
+solubility. Further, most substances have a finite solubility in all solvents (even if that solubility is very low). Accordingly, when material is slurried in a solvent, some of the substance dissolves until it forms a saturated solution; that is, a solution that cannot dissolve any more of the solid form initially added.
+"If the slurried substance is a metastable polymorph like Form I or Form 0, it is more soluble than Form II, in a given solvent. The solution is saturated with respect to the metastable polymorph because it dissolves into the solution more readily; however, the more stable form (like Form II) has a lower solubility
+in the same solvent
+: The solution (saturated with respect to Form I crystals) is
+at the same time
+supersaturated with respect to Form II crystals.
+"Put simply, a small amount of Form 0 (or Form I) dissolves into solution. Because of solubility difference between Form 0 and Form II, the dissolved molecules then come out of solution (crystallize) as Form II. This leaves 'room' or 'capacity' in the solvent for additional Form I to dissolve which, in turn, causes more Form II to crystallize out. The process continues until all Form I has converted to Form II. This is a solution mediated transformation.
+"
+It is important to note that a solution mediated transformation is a crystallization process.
+All of the metastable polymorph initially present in the slurry dissolves and then crystallizes as the stable polymorph.
+"The initial form does not dissolve all at once but does so over time. If, as is the case here, the initial slurry contains a mixture of both the stable (Form II) and the metastable (Form I) crystal forms, the process will occur at an accelerated rate since no primary nucleation step is required. The rate of this transformation depends on the difference in solubility between the two crystal forms in the chosen solvent and depends on their overall degree of solubility in the solution.
+"The [Pharmascience] slurry process is clearly a solution mediated transformating which is a crystallization or recrystallization." [see footnote 17] (Emphasis in original)
+[52]
+As with Dr. Atwood and Dr. Byrn, Dr. Myerson was reasonably extensively cross-examined on his affidavit. While Counsel for Pharmascience took me to a limited number of passages from that cross-examination, I am satisfied that those passages, and the cross-examination in general, do not impact in any significant way on the expert opinions expressed by Dr. Myerson.
+DR. FRANK BROWN JR.
+[53]
+A single affidavit of Dr. Brown was filed in this matter on behalf of Pharmascience. In that affidavit, Dr. Brown speaks to a comparison of the '732 Patent and the process utilized by Pharmascience's supplier as disclosed in the Notice of Allegation and in greater detail in confidential disclosures that were before the Court. He also speaks to the issue of whether or not the claims of the '732 Patent are broader than the invention disclosed in that patent and replies to affidavits filed on behalf of the Applicants.
+[54]
+After analysing the disclosure of the '732 Patent, the examples provided and the claims, as well as the process utilized by Pharmascience's supplier, Dr. Brown concludes:
+"In my opinion, the Abbott Patent [the '732 Patent] does not cover the [process utilized by Pharmascience's supplier] or the Form II [Clarithromycin] made by the [suppliers'] process. I have analyzed the claims below. The claims I have not specifically analyzed (namely claims 5, 6, 9-15, 18-19) are clearly not infringed as they used solvents other than the ... water mixture covered by the Abbott Patent." [see footnote 18]
+There follows a 3-column chart with the first column listing the claim numbers of the '732 Patent, the second column listing "what it covers" and the third commenting on the relationship between the '732 Patent and the process utilized by Pharmascience's supplier.
+[55]
+With respect to the issue of "Claims Broader than [the] Invention Disclosed", Dr. Brown attests:
+"I have reviewed the claims of the Abbott Patent and in my opinion, they do not cover a process to make Form II by slurrying Form 0 in water.
+"The inventors named on the Abbott Patent did not intend to cover a slurrying process. If a slurrying process had been contemplated, the patent would have specifically discussed the process and included it as an example. Even though I was familiar with solution-mediated transformations when I read the Abbott Patent, I did not read it to cover a slurry process because such a process is significantly different from the ones described in the Abbott Patent.
+"In industry, transformations that take place outside of Crystallizations (e.g. in slurrying to make dosage forms) are considered problems. They are not considered part of the normal process to make active pharmaceutical ingredients. According, [sic] if a slurry in water was supposed to be part of the Abbott Patent, it should have been included in the Abbott Patent. ..." [see footnote 19]
+[56]
+As with replies of each of the other experts, I will comment on the reply of Dr. Brown, only as I consider necessary, in the analysis portion of these reasons.
+[57]
+As with the Applicants' expert witnesses, Dr. Brown was extensively cross-examined on his affidavit. Counsel for the Applicants took me to a number of passages in the transcript of that cross-examination to demonstrate Dr. Brown's limited training in solvent-mediated transformation and his lack of industrial experience with that type of process. In an exchange regarding the process used by Pharmascience's supplier, which I will described as the "process", and a document before the Court which I will describe as the "document", the following exchange takes place:
+"Q. Well, I'm only referring to the [document], so let me rephrase it.
+Insofar, as the [document] information is all we have ..., it's [the process] either a solid state transformation or a process in which there's some dissolution and crystallization has formed, too.
+A. If we're limiting our discussion to the [document], then I would say the [document] describes those as a slurry - -
+Q. Right.
+A. - - and that's all it describes it as. I don't know I have not seen [the supplier] describe it under any other assumption.
+Q. Okay. And you'll agree with me that a solution, or a solvent-mediated transformation can be conducted in a slurry?
+A. Yes, could be.
+Q. So could a solution-mediated transformation?
+A. I use the two terms somewhat interchangeably.
+Q. So do I. So as far as you're concerned, there's no significance between the two?
+A. Not that I know of, but you know, I'm not the most skilled person in that art to tell you, okay?" [see footnote 20]
+[58]
+In effect, Dr. Brown seems to be acknowledging that the process of Pharmascience's supplier could be a solution-mediated transformation resulting in a crystallization or recrystallization, rather than a solid-to-solid transformation.
+DR. MARK HOLLINGSWORTH
+[59]
+Two expert affidavits of Dr. Hollingsworth are before the Court. The first sets forth some background and his opinions and replies to all but one of the affidavits filed on behalf of the Applicants. The second merely replies to the second Supplementary Affidavit of Dr. Byrn. As with the reply evidence of other experts, I will only, as I consider to be required, deal with Dr. Hollingsworth's reply evidence at a later stage in these reasons.
+[60]
+Dr. Hollingsworth summarizes his opinion in the following terms:
+"Abbott's process for the preparation of Form 2 clarithromycin requires recrystallization of clarithromycin to provide Form 2. This is explicitly stated in the general description of the invention, and is the process used in every example in the ['732] patent. The Abbott Patent contemplates a process for preparing Form 2 Clarithromycin that requires a step in which the clarithromycin dissolves before the solid Form 2 comes out of solution.
+"The [process of Pharmascience's supplier] does not infringe the Abbott Patent for the following reason:
+(1) A Skilled Organic Chemist (as defined below) would immediately recognize that the slurrying process described in the [Pharmascience's Supplier's documentation] is distinct from the crystallization or recrystallization process called for in the Abbott patent. Slurrying entails suspending a solid in a liquid. Crystallization or recrystallization requires that a solid dissolve before it precipitates out as a particular crystal form. The Abbott Patent refers only to crystallization or recrystallization to make Form 2. Although such processes were known in 1998, no mention is made of slurrying, solvent mediated transformation or solution mediated transformation.
+"(2) Furthermore:
+(a) There is no evidence that there is any significant amount of dissolution occurring during the [Pharmascience's suppliers'] slurry process to generate Form II. According to my own experimental studies, [that] process involves a solid-solid transformation from Form 0 to Form II and that is facilitated by water.
+(b) The [Pharmascience's suppliers'] slurry process starts with Form 0 clarithromycin crystals, which are not included as a clarithromycin starting material for the Abbott recrystallization process.
+(c) The [Pharmascience's suppliers'] slurry step is done in water; in particular the slurry solvent has approximately ... . The ['732] Patent discloses a process in which the material is dissolved first in ... and then water is added to crystallize the material. The amount of ... in this 97:3 mixture of water and ... would be insufficient to dissolve the clarithromycin as in the ['732] Patent. Thus, according to the use of the term '...' mixture in the ['732] Patent, this would not be considered such a mixed solvent system." [see footnote 21]
+[61]
+Dr. Hollingsworth was the only one of those filing expert affidavits who conducted experiments and opines on the results of those experiments. He attests:
+"I was asked to follow the [process of Pharmascience's supplier as set out in material before the Court ('the process')]. I also conducted a series of experiments to examine the changes in the clarithromycin as it converts from Form 0 to Form II during the [Pharmascience's supplier's] slurry process. ... As can be seen from the report [attached to Dr. Hollingsworth's affidavit], I also conducted studies on the mechanism of the transformation from Form 0 to Form II when exposed to water.
+"In particular my experiments were directed toward:
+(i) preparing Form 0 following the steps set out in the ... process ...;
+(ii) determining the rate of conversion of Form 0 to Form II via slurrying; this included a slurry in a dramatically shortened time frame ...;
+(iii) determining the amount of ... in the Form 0 crystals after conducting ... and determining the amount of ... left in the crystal after various slurrying procedures ...; and
+(iv) examining Form 0 crystals through a microscope after they are exposed to water, in order to determine if these crystals retain their position and/or orientation during the conversion from Form 0 to Form II. ..." [see footnote 22]
+[62]
+After briefly describing the experiments that he conducted, Dr. Hollingsworth reached the following conclusions:
+"Once again, these experiments are characteristic of a solid state transformation that is facilitated by the water, which perhaps, in the first stages of the transformation, removes the bound ... from the Form 0 crystals and stabilizes the interface between the desolvated Clarithromycin and the Form II that is produced. ...
+"These results are inconsistent with a solution-mediated transformation, in which one would expect that the position (and probably orientation) of the Form II crystals would be different from the position (and orientation) of the initial crystal of Form 0.
+. . . . .
+"Based on the results of my experiments ... it is my opinion that the [Pharmascience's supplier's] process that converts Form 0 to Form II is a solid-solid transformation." [see footnote 23]
+DR. LEONARD J. CHYALL
+[63]
+Dr. Chyall did not file an expert affidavit in this matter. He was, however, retained by the solicitors for the Applicants "... to perform certain specified experiments involving clarithromycin and its crystallization."
+[64]
+Dr. Chyall is a scientist employed by an independent testing laboratory. He attests that he is an organic chemist with extensive experience in crystallization technology and holds a Ph.D. in Chemistry. He further attests that he has worked for some three (3) years as a chemist in the field of organic solid state chemistry, that his primary technical area of employment involves scientific research on the crystallization of pharmaceuticals, that he is the author of eighteen (18) scientific publications, the "inventor of 3 patents" and a technical presenter on numerous occasions at various meetings.
+[65]
+Dr. Chyall attests to receiving samples of a white powder substance from the Applicants, in one case described as a sample of clarithromycin, and in the other which was determined upon analysis to be clarithromycin Form II. He describes the experiments conducted by him and attaches to each of his affidavits a copy of pages from his laboratory notebooks, which pages he attests are accurate records of the materials, apparatus, methods and observations from the experiments conducted by him.
+[66]
+Dr. Chyall provides no opinion as to the significance of the outcomes of the experiments conducted by him.
+[67]
+Dr. Chyall was cross-examined on his affidavits and a transcript of that cross-examination is before the Court. The Court was not taken to that transcript during the course of the hearing of this application.
+THE ISSUES
+[68]
+Two interrelated preliminary issues arise on this application both of which go to the question of sufficiency of Pharmascience's Notice of Allegation: first, whether Pharmascience's Notice of Allegation is deficient on its face; and secondly, whether Pharmascience's reliance on evidence alleged to be hearsay is sufficient evidence upon which to evaluate the allegation.
+[69]
+The substantive issues are non-infringement of the '732 Patent and, alternatively, if infringement is found, invalidity of the '732 Patent by reason that the patent claims are broader than the invention made and disclosed. The latter issues involve identification of the "person skilled in the art" to which the '732 Patent relates and the effective date for interpretation of the patent.
+[70]
+In the analysis portion of these reasons, I will deal first with the issue of alleged deficiency of the Notice of Allegation and with the related allegation of reliance by Pharmascience on hearsay evidence to bolster its allegation, secondly, very briefly with the issues of principles of patent claims construction, "person skilled in the art" and the effective date for interpretation of the patent, thirdly, with construction of the '732 Patent, fourthly, with the legal and evidential burdens on applications such as this, fifthly with the allegation of non-infringement and finally, with the issue of invalidity by reason of over breadth of the claims.
+[71]
+Normally, the Court would be inclined to deal with an issue of invalidity of the patent in suit before dealing with the issue of infringement. However, on the facts of this matter, the allegation of invalidity is an "alternative" allegation and arises only if infringement is found. Given that the invalidity allegation is in the alternative, it appears to this judge to be much more appropriate to deal with the non-infringement allegation before turning to the question of invalidity.
+ANALYSIS
+1) Deficient Notice of Allegation
+a) Introduction
+[72]
+A Notice of Allegation served by a "first person", here Pharmascience, on a "second person", here Abbott Canada, must provide all of the facts the second person intends to rely upon in the event that a proceeding such as that now before the Court is instituted. A first person cannot rely on facts that are not reflected in the Notice of Allegation, which is required to include a detailed statement of facts. [see footnote 24] Absent a detailed statement of facts in compliance with the
+Regulations
+, the Applicants are entitled to rely on the presumption of infringement. [see footnote 25]
+[73]
+The Applicants allege that Pharmascience has sought approval to market clarithromycin form II when made by either of two (2) processes, one of which is not referred to in Pharmascience's Notice of Allegation. Only by evidence adduced much later in this proceeding, did Pharmascience support its allegation that its supplier of clarithromycin form II would only supply that product when produced by one of the two alternative methods of production, that method allegedly being a non-infringing method. [see footnote 26]
+[74]
+Counsel for Pharmascience relies on the decision of my colleague Justice Snider in
+ <FRAGMENT_SUPPRESSED>  the NOA, the following guidance can be taken from a number of decisions of the Federal Court of Appeal, ...;
+- A bald assertion of non-infringement is insufficient.
+- It is permissible for the second person to withhold certain information regarding its formulation until subsequent to a confidentiality order being in place.
+- The NOA will be adequate if further disclosure elaborates on the basis for which the allegation of non-infringement was made such that there is sufficient evidence upon which to evaluate the allegation." [citations omitted]
+[75]
+Here, subject to what follows regarding reliance on hearsay evidence, against the third principle cited by Justice Snider, there was "... further disclosure [elaborating] on the basis for which the allegation of non-infringement was made such that there [was] sufficient evidence upon which to evaluate the allegation." That being said, that "sufficient evidence" was only provided to the Applicants almost a year after they had commenced this proceeding. In the result, while I am satisfied that the Applicants would likely have commenced the proceeding in any event, I am also satisfied that they were severely prejudiced, particularly since the evidence that clarithromycin form II would only be provided to Pharmascience when it was produced by the "slurry route", provided absolutely no means whatsoever to the Applicants, to the Minister of Health or even to Pharmascience itself to verify that the undertaking would be adhered to.
+[76]
+I determine to conclude on this issue only once I have gone further to consider the allegation that Pharmascience's Notice of Allegation, in addition to being deficient, is inaccurate, deceptive and misleading.
+b) Inaccurate, Deceptive and Misleading Notice of Allegation
+[77]
+Counsel for the Applicants urges that the evidence provided by Pharmascience in support of its allegation that the clarithromycin form II that will be supplied to it is in the nature of hearsay, is unreliable on its face because it is nothing more than hard copies of an exchange of brief e-mails from persons whose authority to commit Pharmascience's supplier is not clearly established and is vague in the extreme. In the result, counsel urges that Pharmascience's Notice of Allegation is defective in that it is inaccurate, deceptive and misleading.
+[78]
+The evidence in this regard is provided in the form of exhibits to an affidavit of Dr. Leonard Neirinck who attests that, at the date of his affidavit, the 29th of May, 2003, he was Vice-President, Scientific Affairs, of Pharmascience Inc. The exhibits to Dr. Neirinck's affidavit consist of: first, a description of the methods of manufacture by its supplier of clarithromycin form II by ... followed by slurrying in the presence of water and then drying; second, Pharmascience's Notice of Allegation, dated the 21st of May, 2002, which indicates on its face that its clarithromycin is produced "... by a process which does not recrystallize clarithromycin (in any form) directly to form II clarithromycin and which does not use one solvent, or one solvent mixture", but rather by a slurrying process; third, hard copies of two (2) e-mails dated some ten (10) months after the date of the Notice of Allegation indicating that Pharmascience's supplier's "patent department" has recommended to Pharmascience that it advise the TPD ... ", whatever that might be, that clarithromycin obtained by a corporation in the United States that
+might be
+the sole distributor of clarithromycin in North America, on behalf of Pharmascience's supplier," ... will be formed by the "Slurry Process" only; and finally, a redacted document which is attested to have been "... provided by Pharmascience to Health Canada regarding the "re-slurry route". That document includes the following sentence:
+"Please note that our drug substance supplier ..., has advised us that the drug substance will be manufactured by using only the re-slurry route in Step 3 of the process."
+[79]
+I have great sympathy for the position urged on behalf of the Applicants. The evidence provided on behalf of Pharmascience in support of its allegation that the supply of clarithromycin form II that it will utilize will be produced only by "the re-slurry route" when an alternative process for production is clearly utilized by its supplier, is effectively insulated from cross-examination. Further, relying as it does on the exchange of e-mails just described, it is vague at the very best. There is no indication that the source of the information has the authority to give the assurance provided. Further, there is nothing whatsoever to indicate how it might be possible to ensure that compliance with the assurance could be effectively monitored.
+3) Conclusion with respect to validity of Pharmascience's Notice of Allegation
+[80]
+Pursuant to s. 5 of the
+Regulations
+, a Notice of Allegation must provide a detailed statement of the legal and factual basis for the allegation. That is not to say that the detailed statement of the legal and factual basis for the allegation must be complete in all respects. In the absence of a confidentiality order, it is not unreasonable that details of at least the factual basis of the allegation be withheld. The Notice of Allegation will be adequate if further disclosure, often if not always following the issuance of a confidentiality order, elaborates on the basis on which the allegation was made such that there is
+sufficient
+evidence upon which to evaluate the allegation. I repeat here, for ease of reference the factual basis contained in Pharmascience's Notice of Allegation that underlies this proceeding:
+"PMS' [Pharmascience's] clarithromycin is produced by a process which does not recrystallize or crystallize clarithromycin (in any form) directly to form II clarithromycin, and which does not use one solvent, or one solvent mixture. The process used to make form II clarithromycin is a slurrying of Form 0 crystals in water. The slurrying process is disclosed in PCT Application No. PCT/US 00/33845 (WO 01/44262)."
+[81]
+There is no evidence before the Court that would disclose that, at the date of the Notice of Allegation, the 21st of May, 2002, Pharmascience was aware, or for that matter unaware, that its supplier acknowledged that it used two (2) alternative processes to produce clarithromycin form II, only one of which was a slurrying process. The other process might well "... recrystallize or crystallize clarithromycin (in any form) directly to form II clarithromycin ..." using one solvent or one solvent mixture. Further, there continues to be no evidence before the Court that such is not the case. Put another way, Pharmascience's further disclosure has not elaborated on the basis for which the allegation of non-infringement was made such that there is sufficient evidence upon which to evaluate the allegation.
+[82]
+Only some ten (10) months after the Notice of Allegation was served did Pharmascience provide evidence that the clarithromycin form II that would be provided to it by its supplier would only be produced by the "re-slurry route" and, for the reasons indicated above, I am satisfied that such evidence is entirely insufficient.
+[83]
+On the facts of this matter, the third criterion drawn from the caselaw by Justice Snider, earlier cited herein [see footnote 28] simply is not met. While further disclosure here purports to elaborate on the factual basis on which the allegation on non-infringement was made, such further disclosure simply does not provide
+sufficient
+evidence upon which to evaluate the allegation. Ten (10) months after the service of the Notice of Allegation, with a confidentiality order in place, Pharmascience provided disclosure directed to bolstering its allegation of non-infringement. That evidence I find to be entirely unsatisfactory. Put another way, the further disclosure simply failed to elaborate on the basis for which the allegation of non-infringement was made such that there was before the Applicants, and is now before the Court,
+sufficient
+evidence upon which to evaluate the allegation.
+[84]
+In the result, I find the factual basis contained in Pharmascience's Notice of Allegation, when read together with the further disclosure made by Pharmascience once a confidentiality order was in place, simply insufficient to support the Notice of Allegation. Put another way, I find Pharmascience's Notice of Allegation, given the unsatisfactory further disclosure made in the course of this proceeding, to approach an abuse of the process of this Court and of the scheme provided for in the
+Patented Medicines (Notice of Compliance) Regulations
+. In the result, the Applicants will succeed in this proceeding on this ground alone. There is simply no basis upon which the Court might conclude that the clarithromycin form II that would be utilized by Pharmascience if a Notice of Compliance were issued to it would be, in its entirety, produced by a process that does not infringe the '732 Patent.
+[85]
+While I am satisfied that my foregoing conclusion is dispositive of this matter, I will nonetheless go on to briefly consider the issues related to the allegations of non-infringement, and, if infringement be found, of invalidity of the '732 Patent on the basis of over breadth. I am satisfied that both of those issues turn entirely on a determination regarding the relative credibility of the expert witnesses on behalf of the Applicants on the one hand and of the expert witnesses on behalf of Pharmascience, on the other hand.
+2) Principles of Patent Claims Construction
+[86]
+ <FRAGMENT_SUPPRESSED>  Principles of Patent Claims Construction", wrote:
+"The content of a patent specification is regulated by s. 34 of the
+Patent Act
+. The first part is a 'disclosure' in which the patentee must describe the invention 'with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired': ... . The disclosure is the quid provided by the inventor in exchange for the quo of a 17-year (now 20-year) monopoly on the exploitation of the invention. The monopoly is enforceable by an array of statutory and equitable remedies and it is therefore important for the public to know what is prohibited and where they may safely go while the patent is still in existence. The public notice function is performed by the claims that conclude the specification and must state 'distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege' ... . An inventor is not obliged to claim a monopoly on everything new, ingenious and useful disclosed in the specification. The usual rule is that what is not claimed is considered disclaimed.
+"The first step in a patent suit is therefore to construe the claims. Claims construction is antecedent to consideration of both validity and infringement issues." (citations omitted)
+[87]
+Claims construction is to be carried out in a purposive manner. Justice Binnie continued at paragraph [45] of his reasons:
+"The key to purposive construction is therefore the identification by the court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention."
+[88]
+It was not in dispute before me that the "workman" to use Justice Binnie's term, or person "skilled in the art to which the invention relates" is, for the purposes of this application, a chemist with an undergraduate degree in chemistry or chemical engineering with two (2) to five (5) years experience, including graduate work, in pharmaceutical process development. Further, it was not in dispute before me that the effective date for interpretation of the '732 Patent is the date on which the Patent was "laid open" or "published" [see footnote 30], that is to say, the 5th of February, 1998.
+3) Construction of the '732 Patent
+a) Introduction
+[89]
+The parties before the Court differ as to the construction of the word "treating", the scope of the starting material beyond acknowledgement that it must be clarithromycin, and any limitations on the ratio of the components of the solvent system when it is ethanol and water. I will deal with each of these interpretative issues in turn.
+b) "Treating"
+[90]
+Counsel for the Applicants note that "treating" is expressly defined in the '732 Patent as referring to "... crystallizing or recrystallizing 6-0-methylerythromycin A as [also] defined from any of the solvent systems [as] described [in the disclosure]." [see footnote 31] 6-0-methylerythromycin A (clarithromycin, BIAXIN BID(®)) is defined and described in the following terms: "... a semisynthetic macrolide antibiotic of formula which exhibits excellent antibacterial activity against gram-positive bacteria, some gram-negative bacteria, anaerobic bacteria, Mycoplasma, and Chlamidia. It is stable under acidic conditions and is efficacious when administered orally. Clarithromycin is a useful therapy for infections of the upper respiratory tract in children and adults." [see footnote 32]
+[Photocopy omitted from web version]
+[91]
+The solvent systems referred to in the definition of "treating" are extensive and are quoted earlier in these reasons. Suffice it here to say, that one of the solvent systems referred to is ethanol and water. The Applicants' experts define "crystallization" as any process used to arrange or rearrange atoms into a crystalline solid. It was not in significant dispute before me that a person skilled in the art at the relevant time would have known that one such process was "slurrying", albeit that it was also known that slurrying was often used for other purposes such as purification. Further, it was not disputed that perhaps the most common method of crystallization or recrystallization at the relevant time was to dissolve a solid in a solvent or solvent system, thus breaking apart the crystal structure entirely, and then forcing the resultant molecule to "come out" of the solution as a different crystalline solid.
+[92]
+Pharmascience relied on a much more restrictive definition of "crystallization" which would require cooling following the dissolution of the original crystals. The Applicants' experts are in agreement that crystallization can be achieved in many more ways than those described in the basic under-graduate chemistry texts relied upon by Pharmascience's experts. In fact, under cross-examination, Pharmascience's experts conceded that persons skilled in the art would have understood at the relevant time that crystallization could occur in many ways not taught in basic texts and not involving cooling. The Applicants' experts include "slurrying" as among those ways in which crystallization could occur without involving cooling.
+[93]
+On this issue, with great respect to the qualifications of Pharmascience's experts, I prefer the testimony of the Applicants' experts and conclude that "treating", for the purposes of this application, covers any method of crystallization of clarithromycin that involves dissolution in one of the solvents or solvent systems listed in the '732 Patent. In the result, I conclude that "treating", as defined in the '732 Patent, extends to slurrying of clarithromycin in any of the listed solvents or solvent systems where clarithromycin form II is the resultant crystalline form. I accept the evidence of the Applicants' experts that such a process results in a solution mediated, or solvent mediated, transformation. In the last analysis, I do not interpret the responses of Pharmascience's experts under cross-examination as fundamentally disputing this conclusion.
+c) The Starting Compound
+[94]
+In the disclosure of the '732 Patent, the following definition appears:
+"... The term '6-0-methylerythromycin A' as used herein is meant to
+include
+6-0-methylerythromycin A Form I or II in any state of purity, or mixtures thereof." [see footnote 33] (Emphasis added)
+[95]
+That being said, the claims in issue refer to the starting material as erythromycin A that is converted to 6-0-methylerythromycin A without restriction of the methylerythromycin A to form I or II. The Applicants rely on the use of the word "include" in the above-quoted definition to expand the reference to methylerythromycin A in the claims to any form of methylerythromycin A, whether form I or II or any other form. The use of the word "includes" is contrasted with the use of the word "means".
+[96]
+Pharmascience's experts acknowledge that a person skilled in the art, reading the '732 Patent, would understand that there "might well be even more crystalline forms" than form I and form II but, for their own part, read the '732 Patent as being restricted to form I and form II as a starting material.
+[97]
+The claims at issue, in particular claim 1 from which all other claims in issue derive, either directly or indirectly, rely as a first step on converting erythromycin A to 6-0-methylerythromycin A, as defined, albeit that the definition is an "inclusive" definition rather than an "exclusive" definition. Once again, I conclude in favour of the interpretation urged on behalf of the Applicants, that is to say, that the reference in the claims in issue to methylerythromycin A is not restricted to only forms I and II, and includes what is referred to on behalf of Pharmascience as "Clarithromycin - Crude".
+d) The Solvent Systems
+[98]
+Counsel for the Applicants and the Applicants' experts note that the '732 Patent expressly claims crystallization in a solvent or solvent system comprised of ... and water without in any way limiting the component ratios.
+[99]
+Counsel for Pharmascience and Pharmascience's experts note that water, while it is certainly listed as a component of a solvent system, is not itself a claimed solvent. This is contrasted with Pharmascience's supplier's slurrying process which is alleged to be conducted in water only.
+[100]
+On this issue, I prefer the position of counsel for Pharmascience and Pharmascience's experts. I do not interpret the '732 Patent as claiming water alone as a solvent that may be used in the patented process.
+4) Legal and Evidential Burdens
+a) On the Allegation of Infringement
+[101]
+Where, as here, the patent in issue is a product by process patent, s. 6(6) of the
+Regulations
+creates a presumption that the Applicants' patent will be infringed "... in the absence of proof to the contrary". Thus, while the Applicants, as the initiators of this application, bear the legal burden of proving, on a balance of probabilities, that the Minister should not issue a Notice of Compliance to Pharmascience, Pharmascience bears an evidentiary burden to prove that its allegation of non-infringement is justified.
+b) The Allegation of Invalidity
+[102]
+Section 43(2) of the
+Patent Act
+[see footnote 34] reads as follows:
+"43(2) After the patent is issued, it shall, in the absence of any evidence to the contrary, be valid and avail the patentee and the legal representatives of the patentee for the term mentioned in section 44 or 45, whichever is applicable."
+"43(2) Une fois délivré, le brevet est, sauf preuve contraire, valide et acquis au breveté ou à ses représentants légaux pour la période mentionnée aux articles 44 ou 45."
+[103]
+In
+ <FRAGMENT_SUPPRESSED>  provision of the
+Act
+[a predecessor provision to the same effect as s. 43(2)] that a patent granted under it 'shall thereafter be prima facie valid' and avail its grantee and his legal representatives for the term of the patent that the onus of showing that it is invalid lies on the person attacking it, no matter what the ground of attack may be and that until it has shown to be invalid the statutory presumption of its validity remains.
+"This does not mean that the patent is immune from attack or that the patentee is free from the obligations that are incumbent on him by way of consideration for the grant of the patent monopoly to him, but it seems clear that, since Parliament has deliberately endowed a patent granted under the
+Act
+with a presumption of validity, the onus of showing that such a patent is invalid is not an easy one to discharge. ..."
+[104]
+In
+ <FRAGMENT_SUPPRESSED>  paragraph [14]:
+"Against the foregoing, I conclude that while an 'evidential burden' lies on Apotex [here Pharmascience] to put each of the issues raised in its Notice of Allegation 'in play', if it is successful in doing so, the 'persuasive burden' or 'legal burden' then lies with SmithKline [here the Applicants]. Assuming Apotex to be successful in putting the issue of validity of the '637 Patent 'in play', SmithKline is entitled to rely on the presumption of validity of the patent created by s. 43(2) of the
+Act
+."
+c) Conclusion on Legal and Evidential Burdens
+[105]
+On the evidence before me, I am satisfied, assuming for the moment the adequacy of Pharmascience's Notice of Allegation, that Pharmascience has put the issues of non-infringement and overbreadth "in play", and that the Applicants' expert evidence, based upon my interpretation of the '732 Patent earlier in these reasons, has met the "persuasive burden" or "legal burden" on them. In the result, I am satisfied that an "evidential burden" on each of the issues of non-infringement and over breadth shifts back to Pharmascience.
+[106]
+For the brief reasons that follow, I am satisfied that Pharmascience has not met its "evidential burden" on either of its allegations.
+5) The Allegation of Non-Infringement: Solid-State or Solid-to-Solid Transformation, or Crystallization or Recrystallization
+[107]
+At paragraph 6 of the Memorandum of Fact and Law filed on behalf of the Applicants, counsel writes:
+"A 'slurry' is simply a mixture of solid and liquid. In this case, [Pharmascience] says that its [supplier's] process involves slurrying Form 0 crystals to make Form II [clarithromycin]. While there are a number of others subsidiary issues, the key issue is whether the transformation of the crystals in the [Pharmascience] slurry involves a crystallization (infringing) or a solid-state transformation (non-infringing)."
+[108]
+I am satisfied that the foregoing paragraph synthesizes the infringement or non-infringement issue on this application. The outcome on the issue, against the interpretation of the '732 Patent earlier provided in these reasons, depends entirely on an evaluation of the expert evidence put forward by the Applicants and Pharmascience.
+[109]
+Pharmascience alleges in its Notice of Allegation that "... it is clear from basic chemistry texts that crystallization and recrystallization involves dissolving the crude material and then cooling the mixture so that the solute will crystallize out" [see footnote 37].
+[110]
+For the foregoing proposition Pharmascience cites what are described by the Applicants' expert as "basic texts" published in 1973 and 1978, a
+Condensed Chemical Dictionary
+, Eleventh Edition, published in 1987 and a
+Ready Reference Handbook
+, 4th edition, published 1996. Counsel on behalf of the Applicants urges that the foregoing is, essentially, simplistic and that all of the experts providing evidence in this proceeding, together with Dr. Leonard Chyall who conducted testing on behalf of the Applicants, agree that crystallization is a much broader concept than is alleged by Pharmascience in its Notice of Allegation.
+[111]
+The Applicants' experts describe slurrying as a method of recrystallization on a "rolling basis" often described as a "solution mediated transformation" or "solvent mediated transformation" because the recrystallization occurs through partial dissolution into the solvent to form a solution which in turn leads to a recrystallization, thus making "room" for further dissolution and recrystallization and so on.
+[112]
+Pharmascience's experts acknowledge that a solution mediated transformation is a "crystallization" as claimed in the '732 Patent.
+[113]
+As indicated earlier in these reasons, I am satisfied on the evidence before the Court that, at the relevant date, solution mediated transformations or slurrying conversions, would have been known to persons of ordinary skill in the art and that the fact that slurrying or solution mediated transformations are not specifically described in the '732 Patent does not exclude such processes from the scope of the '732 Patent.
+[114]
+The position urged on behalf of Pharmascience that its supplier's transformation takes place in water and not in any solvent or solvent system disclosed in the '732 Patent simply is not sustainable. It was not in dispute that the starting crystalline material utilized by Pharmascience's supplier contained ... and that that ... would mix with the water utilized by Pharmascience's supplier in the slurrying process, thus producing a solvent or solvent system disclosed in the '732 Patent, that is, a solvent system composed of water and ... The '732 Patent discloses no limits on the proportions of water and ... in the disclosed solvent system. While much was made by Pharmascience's experts as to the limited amount of ... that would form part of the solvent system in its slurrying process, I am satisfied that that is not a relevant issue and that, whatever the proportion of ..., it would be sufficient to bring the slurry material used by Pharmascience's supplier within the range of solvents and solvents systems disclosed in the '732 Patent.
+[115]
+While much was made by counsel for Pharmascience of evidence presented by one of its experts as to testing that he had carried out in an effort to demonstrate the solid state or solid-to-solid transformation theory, I am satisfied that the responsive evidence relating to that testing, the cross-examination of Pharmascience's expert with regard to that testing and the responsive testing evidence of Dr. Chyall are sufficient to support a conclusion that the alleged solid state or solid-to-solid transformation is much more likely to be a solution mediated crystallization or recrystallization.
+[116]
+In the result, taking into account all of the expert evidence and evidence of testing before the Court, I am satisfied that the allegation of non-infringement by reason of Pharmascience's supplier's process involving a solid state or solid-to-solid transformation rather than a crystallization or recrystallization within the scope of the '732 Patent is simply not made out. In the further result, I am satisfied that Pharmascience has failed to discharge the evidentiary burden on it to justify the allegation of non-infringement.
+6) The Allegation of Invalidity: Overbreadth
+[117]
+In Pharmascience's Notice of Allegation, the following appears:
+"Alternatively, if the court should find that the [Pharmascience] products are covered by Claims 16-21 of the '732 Patent, then the patent claims are broader than the invention made and disclosed." [see footnote 38]
+[118]
+I have concluded that the "... [Pharmascience] products", if introduced into the market in Canada, would infringe the '732 Patent, that is to say, that they "... are covered by Claims 16 - 21 of the '732 Patent ... ." Thus, I will turn briefly to the allegation of invalidity on the basis of over breadth.
+[119]
+The allegation of invalidity turns on the definition of the term "treating" in the '732 Patent, on the allegation that the '732 Patent is restricted to crystallization and recrystallization involving dissolving the crude material and then cooling the mixture so that the solute will crystallize out and, finally, on the allegation that water alone is not among the solvents or solvent systems that are within the scope of the '732 Patent. In the result, it is urged, if Pharmascience's products are found to be within the scope of Claims 16 to 21, and I have so found, then those Claims are broader than the invention made and disclosed.
+[120]
+Earlier in these reasons, I have interpreted the '732 Patent in a manner more closely according with that urged on behalf of the Applicants rather than that urged on behalf of Pharmascience. I have concluded that "treating" should be interpreted rather broadly in a manner not inconsistent with its plain meaning. Further, I have accepted the evidence of the Applicants' experts that crystallization and recrystallization can be accomplished by a relatively broad range of techniques and that those techniques would have been known at the relevant time by a person of ordinary skill in the art to include slurrying.
+[121]
+Finally, I have earlier concluded that the slurrying process utilized by Pharmascience's supplier is not a mere slurrying in water but is rather a slurrying in a mixture of water and ..., a solvent or solvent system that is within the scope of the '732 Patent.
+[122]
+Given the foregoing, I am satisfied that an interpretation of the disclosure of the '732 Patent in a manner that extends to include the process utilized or proposed to be utilized by Pharmascience's supplier is reasonably open and does not result in the claims of that patent that are here in issue exceeding the scope of the disclosure on which those claims are based. In the result, to put it another way, I am satisfied that, on the evidence before the Court, Pharmascience has failed to discharge the evidentiary burden on it to justify the allegation of invalidity of the Claims 16 to 21 of '732 Patent on the basis of over breadth.
+CONCLUSION
+[123]
+In summary, I conclude that the Applicants have met the burden on them to demonstrate that Pharmascience's Notice of Allegation fails to fulfil the requirements of the
+Patented Medicines (Notice of Compliance) Regulations
+and, in the result, is insufficient to ground success by Pharmascience on this application. Further, I conclude that the Applicants have discharged the burden on them to demonstrate that Pharmascience's allegations that its Clarithromycin tablets 250 mg and 500 mg for which it has sought approval to market in Canada in an Abbreviated New Drug Submission would, if that approval were granted, result in an infringement of the '732 Patent and, if it would result in an infringement of that Patent, then the Patent is not invalid by reason of over breadth of Claims 16 to 21 of the Patent. Put another way, and more simply, the Applicants have been entirely successful on this application. In the result, an Order will go prohibiting the Respondent, the Minister of Health, from issuing Pharmascience a Notice of Compliance for Clarithromycin - 250 mg and 500 mg tablets until after the expiration of Canadian Letters Patent No. 2,261,732.
+COSTS
+[124]
+As between the Applicants and Pharmascience, except where otherwise provided by another Order of this Court, the Applicants are entitled to their costs, to be calculated on the ordinary scale, unless, within fourteen (14) days from the date of the Order herein, the Applicants apply to the Court for an Order that their costs be determined on a different basis. If any such application is made, Pharmascience will be entitled to serve and file a response thereto, and the Applicants to serve and file a reply to any such response, all in accordance with the Rules of this Court. Any such application may be made under Rule 369 or may be made returnable at a location and on a date and at a time satisfactory to the Court and to counsel.
+[125]
+There will be no order as to costs either in favour of or against the Respondent, the Minister of Health.
+Order accordingly.
+Editor: Steven C. McMinniman/gs
+Footnotes
+1. SOR/93 - 133.
+2. (1997), 133 F.T.R. 184; 74 C.P.R.(3d) 307 (T.D.), at 314.
+3. See Applicants' Application Record, Volume II, Tab 15B, pages 305 to 309.
+4. Applicants' Application Record, Volume II, Tab 13, pages 098 and 099.
+5. Applicants' Application Record, Volume II, Tab 14, page 198.
+6. Applicants' Application Record, Volume II, Tab 15, page 255.
+7. Pharmascience's Record, Volume 1, Tab 3, page 111.
+8. Pharmascience's Record, Volume II, Tab 4, pages 240 and 241.
+9. A copy of these Reasons in an unsigned form was distributed to counsel to provide them an opportunity to comment on compliance with the confidentiality order, as revised, on this matter. Counsel provided comments which have been reviewed by the Court. In the result, expurgations from these reasons have been made in paragraphs 40, 42, 54, 60, 61, 62, 78, 98, 114 and 121. A signed, unexpurgated copy of these reasons has been placed on the Court file in a sealed envelope.
+10. Applicants' Application Record, Volume II, Tab 13, pages 100 and 101.
+11. Applicants' Application Record, Volume II, Tab 13, pages 101 and 102.
+12. Applicants' Application Record, Volume IV, Tab 21, pages 684-685.
+13. Respondent's Record, Volume IV, Tab 7, pages 941 and 942.
+14. Respondent's Record, Volume IV, Tab 7, page 750.
+15. Applicants' Application Record, Volume II, Tab 14, page 201.
+16. Applicants' Application Record, Volume II, Tab 15, page 256.
+17. Applicants' Application Record, Volume II, Tab 15, pages 272 and 273.
+18. Pharmascience's Record, Volume I, Tab 3, page 140.
+19. Pharmascience's Record, Volume I, Tab 3, page 143.
+20. Applicants' Application Record, Volume IV, Tab 23, pages 793 and 794.
+21. Pharmascience's Record, Volume II, Tab 4, pages 242 and 243.
+22. Pharmascience's Record, Volume II, Tab 4, pages 263 and 264.
+23. Pharmascience's Record, Volume II, Tab 4. The first two quoted extracts are from paragraphs 94 and 95, page 267. The third quoted paragraph is paragraph 81 at page 263.
+24. See:
+Procter &  <FRAGMENT_SUPPRESSED>  (F.C.A.), at paragraphs [21] to [26].
+25.  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 272 (F.C.A.).
+26. See the affidavit of Dr. Leonard Neirinck, Pharmascience's Record, Volume I, Tab 2, paragraphs 5 to 9 at pages 87 and 88 and related Exhibits. Dr. Neirinck's affidavit was sworn the 19th of May, 2003.
+27. [2004] F.C.J. No. 326; 245 F.T.R. 243 (T.D.).
+28. Supra, paragraph [74] and footnote 26.
+29. [2000] 2 S.C.R. 1067; 263 N.R. 88, at 1088.
+30. See:
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150, at paragraph [54], page 1055.
+31. Applicants' Application Record, Volume III, Tab 16A, page 347.
+32. Applicants' Application Record, Volume III, Tab 16A, page 345.
+33. Applicants' Application Record, Volume III, Tab 16A, page 347.
+34. R.S., 1985, c. P-4.
+35. (1961), 35 C.P.R. 105 (Ex. Ct.).
+36. (2001), 208 F.T.R. 105; 14 C.P.R.(4th) 76 (T.D.), affirmed (2002), 291 N.R. 168; 21 C.P.R.(4th) 129 (F.C.A.).
+37. Applicants' Application Record, Volume 3, Tab 16B, page 395.
+38. Applicants' Application Record, Volume III, Tab 16B, page 394.
+SCHEDULE
+(Claims 1, 2 and 3 and 15 to 21 of Canadian Letters Patent No. 2,261,732; see paragraph 10 of the reasons)
+1. A method of preparing 6-O-methylerythromycin A crystal Form II comprising:
+a) converting erythromycin A to 6-O-methylerythromycin A;
+b) treating the 6-O-methylerythromycin A prepared in step a with a solvent selected from the group consisting of:
+(i) an alkanol of from 1 to 5 carbon atoms, provided said alkanol is not ethanol or isopropanol,
+(ii) a hydrocarbon of from 5 to 12 carbon atoms.
+(iii) a ketone of from 3 to 12 carbon atoms.
+(iv) a carboxylic ester of from 3 to 12 carbon atoms, provided said carboxylic ester is not isopropyl acetate,
+(v) an ether of from 4 to 10 carbon atoms,
+(vi) benzene,
+(vii) benzene substituted with one or more substituents selected from the group consisting of:
+alkyl of from one to four carbon atoms,
+alkoxy of from one to four carbon atoms,
+nitro, and
+halogen,
+(viii) a polar aprotic solvent,
+(ix) a compound having the formula HNR1R2 wherein R1 and R2 are independently selected from hydrogen and alkyl of one to four carbon atoms, provided that R1 and R2 are not both hydrogen,
+(x) water and a water miscible solvent selected from the group consisting of:
+a water miscible organic solvent, and
+a water miscible alkanol,
+(xi) methanol and a second solvent selected from the group consisting of:
+a hydrocarbon of from 5 to 12 carbon atoms,
+an alkanol of from 2 to 5 carbon atoms,
+a ketone of from 3 to 12 carbon atoms,
+a carboxylic ester of from 3 to 12 carbon atoms,
+an ether of from 4 to 10 carbon atoms,
+benzene, and
+benzene substituted with one or more substituents selected from the group consisting of:
+alkyl of from one to four carbon atoms,
+alkoxy of from one to four carbon atoms,
+nitro, and
+halogen, and
+(xii) a hydrocarbon of from 5 to 12 carbon atoms and a second solvent selected from the group consisting of:
+a ketone of from 3 to 12 carbon atoms,
+a carboxylic ester of from 3 to 12 carbon atoms,
+an ether of from 4 to 10 carbon atoms,
+benzene,
+benzene substituted with one or more substituents selected from the group consisting of:
+alkyl of from one to four carbon atoms,
+alkoxy of from one to four carbon atoms,
+nitro, and
+halogen, and
+a polar aprotic; and
+(c) isolating the 6-O-methylerythromycin A crystal Form II crystals.
+2. The process of Claim I wherein step (a) comprises
+(i) converting erythromycin A into an erythromycin A 9-oxime derivative;
+(ii) protecting the 2' and 4" hydroxy groups of the erythromycin A 9-oxime derivative prepared in step (i);
+(iii) reacting the product of step (ii) with a methylating agent; and
+(iv) deprotecting and deoximating the product of step (iii) to form 6-O-methylerythromycin A.
+3. A method according to Claim 2 wherein the solvent comprises water and a water miscible organic solvent or a water miscible alkanol.
+. . . . .
+15. A method according to Claim 2 wherein the solvent is selected from the group consisting of:
+acetone,
+heptane,
+toluene,
+methyl tert-butyl ether,
+N,N.- dimethylformamide,
+ethyl acetate,
+xylene,
+isopropanol-water,
+tetrahydrofuran-water,
+ethanol-water,
+ethyl ether,
+amyl acetate,
+isopropyl acetate-methonol,
+diisopropyl ether,
+isopropyl butyrate,
+isopropylamine, and
+methanol-ethanol.
+16. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim 2.
+17. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim 3.
+18. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim 9.
+19. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim 13.
+20. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim 15.
+21. 6-O methylerythromycin A crystal Form II prepared according to the process of Claim I.
+[End of document]

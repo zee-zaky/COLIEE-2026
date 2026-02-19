@@ -1,0 +1,696 @@
+[1]
+Barnes, J.
+: In this action Novopharm Ltd. (now known as Teva Canada Limited but hereafter referred to as Novopharm) seeks a declaration under ss. 60(1) of the
+Patent Act
+, R.S.C. 1985, c. P-4 (
+Patent Act
+) that Eli Lilly and Company's (hereafter referred to as Lilly) Canadian Patent No. 2,209,735 (the 735 Patent) is invalid and void.
+[2]
+The '735 Patent was filed in Canada on January 4, 1996 claiming priority to United States Patent application no. 08/371,341 filed on January 11, 1995 (the '590 Patent). The '735 Patent names Dr. John Heiligenstein and Dr. Gary Tollefson as the inventors and it claims the use of tomoxetine (renamed and referred to hereafter as "atomoxetine") to treat attention deficit hyperactivity disorder (ADHD) in adults, adolescents and children.
+[3]
+In its Statement of Claim Novopharm asserts that as an interested party [see footnote 1] it is entitled to bring this proceeding under ss. 60(1) of the
+Patent
+Act
+. It alleges that each of the 16 claims of the '735 Patent are invalid on the grounds of obviousness, incomplete disclosure concerning the selection of atomoxetine from an earlier genus patent, anticipation, and inutility. Lilly's Statement of Defence asserts the validity of the '735 Patent. Lilly pleads that none of the prior art publications relied upon by Novopharm either anticipated the invention or made it obvious to a person skilled in the art. Lilly also maintains that the '735 Patent is not a selection patent, but rather, claims a new and inventive use for atomoxetine. Finally, Lilly pleads that it "had established that atomoxetine was effective in the treatment of ADHD" as of the Canadian filing date "by virtue of studies that had been conducted". Although Lilly denies that any issue of sound prediction of utility arises it pleads, in the alternative, that "there was a factual basis for the alleged predictions" and "there was an articulable and sound line of reasoning from which the desired result could be inferred".
+I.
+Background
+The Trial and the Evidence Generally
+[4]
+The trial of this action proceeded at Toronto, Ontario between May 11, 2010 and June 9, 2010. Testimony was received from six witnesses including three experts on behalf of Novopharm (Dr. Stanley Kutcher, Dr. Adil Virani and Dr. Mark Riddle) and one expert on behalf of Lilly (Dr. James McGough). In addition, fact evidence was given by one witness from Novopharm and one witness from Lilly. Discovery evidence taken from one of the '735 Patent inventors, Dr. John Heiligenstein, was accepted by the Court on consent of the parties.
+[5]
+Unfortunately and for reasons that were not made clear to me, Lilly was not able to secure the voluntary attendance of any witness with direct knowledge of the Massachusetts General Hospital clinical study (the MGH Study) that constituted Lilly's evidence of utility. This was surprising because Lilly was the sponsor of the MGH Study clinical trial and had provided the necessary resources for its completion. An attempt by Novopharm to obtain this evidence by commission was, notwithstanding Lilly's concurrence, resisted by the Massachusetts General Hospital and the evidence in that form was not presented. I was, therefore, left in the unsatisfactory position of assessing the merits of the MGH Study in the absence of evidence from any of the several witnesses who were best placed to defend it and to discuss the significance of its data. What was offered in substitution was the evidence from witnesses who had no direct involvement in the MGH Study and who were required to assess its strengths and limitations from the incomplete information contained in the Study report. Nevertheless, I draw no inference from the absence of the best evidence on this issue. My conclusions about the value of the MGH Study are necessarily based on the strength of the evidence before me.
+[6]
+The expert evidence tendered by Novopharm consisted of the reports and testimony of Dr. Virani, Dr. Riddle and Dr. Kutcher. The primary focus of Dr. Virani's evidence concerned the significance of the MGH Study in proof of atomoxetine's efficacy as an ADHD drug. The evidence of Dr. Riddle and Dr. Kutcher primarily addressed the prior art as it related to the issues of anticipation and obviousness. Dr. McGough addressed all of these issues on behalf of Lilly.
+[7]
+All of the expert witnesses were well qualified to speak to the issues for which they were called. There was little, if any, disagreement among them as to the definition of the person of skill in the art [see footnote 2] or about what was generally known about ADHD and its treatment. They were also in general agreement about how psychotropic drugs were, at the relevant time, understood to affect the transmission of signals between brain neurons (see, for example, the evidence of Dr. McGough at paragraphs 17 to 35 of Exhibit 1 to his report and the evidence of Dr. Riddle at paragraphs 28 to 36 of his report).
+[8]
+In the end the disagreement among the experts concerning the prior art rested on a fundamental difference about how likely it would have been to a person of skill in the art that atomoxetine ought to work to treat ADHD. Dr. Riddle and Dr. Kutcher opined that the efficacy of atomoxetine would have been self-evident because its profile closely matched those of several other successful ADHD drugs. Dr. McGough candidly acknowledged that atomoxetine would have been an interesting compound for study as an ADHD drug but that no prediction of its usefulness could have fairly been drawn from the available prior art. This disagreement seemed to me to be based on honestly held differences about the predictive value of the prior art concerning the likelihood that atomoxetine ought to work.
+[9]
+The disagreement between Dr. Virani and Dr. McGough concerning the value of the MGH Study was no less fundamental. Dr. Virani described the MGH Study as a pilot with so many methodological limitations that its data were only preliminary and, at best, interesting. According to Dr. Virani, a far more exacting clinical trial would have been needed to establish atomoxetine's effectiveness as an ADHD drug. Dr. McGough's contrary view was essentially that the MGH Study data were proof of atomoxetine's efficacy because they showed, in a statistically significant way, that atomoxetine had worked to treat several of the patients studied for at least the duration of the trial. This permitted Dr. McGough to discount the significance of the methodological issues that were identified by the MGH Study team, by Dr. Heiligenstein and by Dr. Virani. This, too, seemed to me to be a principled disagreement arising from different views about what depth or quality of research is required to prove the utility of a medicinal compound.
+Attention Deficit Hyperactivity Disorder
+[10]
+ADHD is a common neurobehavioral disorder that occurs in children, adolescents and adults. It is characterized by age inappropriate hyperactivity, inattention and impulsivity and it often causes functional impairments in school, at work and in social settings. According to the Diagnostic and Statistical Manual of Mental Disorders there are three subtypes of ADHD:
+(a) primarily inattentive;
+(b) primarily hyperactive/impulsive; and
+(c) a combination of the other two types.
+[11]
+The cause or causes of ADHD are unknown and it has no cure. Nevertheless, the symptoms of ADHD can, in many cases, be successfully ameliorated.
+[12]
+Since the 1950s ADHD has most often been treated with stimulant therapy, and this remains the first line treatment choice. The stimulants, though, did not work for every patient. For some patients with co-morbidities or with substance abuse issues, the stimulants were not appropriate. For other ADHD sufferers the stimulants simply did not work. This led to a search for alternative therapies and by at least the 1970s non-stimulant medications began to be used off-label as second-line treatment choices. Since that time, the most commonly utilized non-stimulant medications have been the tricyclic antidepressants or TCAs (e.g. imipramine, desipramine and nortriptyline), alpha-2 adrenergic agonists (e.g. clonidine and guanfacine) and bupropion. These drugs, though, came with their own set of limitations including less than desirable side-effect profiles. Accordingly, the search for alternative drug therapies continued and it was out of that effort that atomoxetine emerged.
+The Development of Atomoxetine
+[13]
+Dr. Martin Hynes gave evidence on behalf of Lilly concerning the development of atomoxetine. He testified that the compound first came to his attention in 1979 as a result of antidepression research Lilly was conducting on the racemate nisoxetine. During the next decade Lilly sponsored a number of studies looking at atomoxetine as an antidepressant.
+[14]
+In the early 1980s, Lilly scientists reported the discovery that atomoxetine was a potent isomer of nisoxetine with a "remarkable specificity in inhibiting the uptake sites of [norepinephrine]". This characteristic was postulated to offer an advantage over the TCAs in the treatment of depression.
+[15]
+Further published research by Lilly from 1983 and 1984 appeared to confirm atomoxetine's potential to treat depression on the basis of its selective inhibition of the reuptake of norepinephrine in animals and in humans.
+[16]
+In a May 1984 paper authored by Chouinard and others [see footnote 3] atomoxetine was reported to be an efficacious antidepressant medication in eight of 10 patients treated in an open study. Atomoxetine was also reported to have no sedative effects. The observed mood elevating effect and the reported side effects of insomnia, agitation, palpitations and abdominal spasm were speculated to be the result of atomoxetine's noradrenergic action.
+[17]
+As of January 1988, Lilly had supported no less than seven clinical studies of atomoxetine in humans which examined the drug's potential to treat depression. Two of those studies were open and uncontrolled and five were double-blind and controlled. One of the controlled studies (HFAB) was a multicenter, randomized, double-blind, parallel study which compared atomoxetine to placebo in 243 patients with major depression disorder. The results of this study showed that atomoxetine was statistically superior to placebo. Nevertheless, the other controlled clinical trials for atomoxetine either lacked sufficient enrollment to permit analysis or showed no significant benefit. All of Lilly's research into atomoxetine as an antidepressant was terminated in 1991 because of the inability to establish its efficacy for that indication.
+[18]
+At a meeting of the American Academy of Child and Adolescent Psychiatry in late 1994, Dr. Heiligenstein had a discussion with Dr. Thomas Spencer of the Massachusetts General Hospital (MGH) about the development of a new ADHD medication. Dr. Spencer was, at that time, a leader in this area of research and was interested in securing Lilly's support for his work. Dr. Heiligenstein suggested that Dr. Spencer might want to look at atomoxetine which was then on Lilly's "shelf" and they agreed that atomoxetine might be a good candidate for further research. Both took the idea back to their respective employers and quickly obtained the necessary approvals to develop a research protocol. By the end of 1994 an agreement between Lilly and MGH was in place to jointly sponsor a clinical trial of atomoxetine as a treatment for ADHD. Dr. Heiligenstein's evidence described the subsequent steps as follows:
+"A. What happened is that the -- I was on the agenda to present, so I would have -- I was planning to present for the last meeting of 1994 before the holiday break. And due to other business, they took me off the agenda, and so it -- it required an approval independent of the typical process of the presentation. And I went to my boss, Dr. Tollefson, and said we've been bumped, we need to get this study launched because of the expiry date of the material, and if we wait until after the new year, the study will never get done, so he went to the committee, probably twisted a few arms and was successful in getting approval without my making a presentation.
+Q. Okay. And obviously you weren't at that meeting, so you don't know exactly what he had to say to get that?
+A. I don't.
+Q. So you say the last meeting of 1994. I take it that was before the Christmas break, so sometime in December, early December?
+A. It would have been probably the week or two before Christmas holiday.
+Q. Okay. And do you recall how -- was the approval immediate, so that he came back from that meeting --
+A. Came back to me immediately and said it's a go. So we did the -- we -- I called the Mass General group to let them know that we had approval, that we would be shipping drug and placebo, that the budget had been approved, that their protocol -- internally within the neuroscience group, we had enough information that we felt comfortable with it.
+Q. Okay.
+A. So they could then move forward with the study.
+Q. And were they the prime authors of the protocol?
+A. Were they the prime authors? It was a collaborative effort, but I would say that, you know, because of the exempt process, they had to have a larger role, but in terms of our involvement, we had considerable involvement because of the -- some review of the protocol, you know, inquiry into the instruments, assessments, the laboratory, you know, we -- I don't recall specifically, but we may have had some unique interest in the laboratory studies, approval of a budget; provision of data, as I said earlier, from the safety profile of the drug would have been necessary. There had to be correspondence with our regulatory group for them to secure approval to file for an independent from ND, so there was -- there was mutual activity around the whole notion.
+Q. Okay. So in terms of the -- the number of subjects that were going to be looked at in the context of the study, you would have had some involvement in developing that part of the protocol?
+A. The number of subjects to be enrolled in the study, there would have been some discussion, but one could not -- I think, as I recall the original -- it's very fuzzy -- was hoping to get maybe 30 patients, I can't remember, but we knew that that was, you know -- in the limited time frame, because the drug material expired April the 1st, 1995, that to -- to screen and approve patients would be a stretch, you know, a number of subjects for the study, so we weren't sure that we'd get to 30. In fact, we did not."
+[19]
+Dr. Heiligenstein characterized the MGH Study as a "pilot" designed to test the hypothesis that atomoxetine "might be useful in treating ADHD".
+[20]
+The MGH Study protocol called for the enrollment of 40 well characterized ADHD patients but ultimately 22 adult patients were selected. The MGH Study was designed as a double-blind, placebo-controlled, cross-over evaluation. This involved the blinded exposure of one half of the patients to placebo and one half to atomoxetine for three weeks. After a one week washout period the patient groups were switched. The assessment measures included standardized patient interviews and other neuropsychological tests designed to measure sustained attention. Testing was administered before exposure and after each arm of the study. The data obtained indicated a positive and statistically significant response rate for atomoxetine over placebo that met the predetermined standard set by the evaluators. The conclusions contained in the initial draft report were expressed by the MGH researchers in the following way:
+"Treatment with tomoxetine was well tolerated. All but one patient completed the study, the avenge dose attained was very close to the targeted dose, and no serious adverse effects were observed. While common adverse effects included appetite suppression, insomnia. constipation and dry mouth, the only symptom that occurred statistically more often on tomoxetine was appetite suppression. This relatively benign adverse effect profile is even more remarkable considering that, because only tablets of 40 mg were available, the study had a limited ability for slow adjustments of dose.
+"Tomoxetine differs from existing antidepressants in being selectively noradrenergic. It has little affinity for other neurotransmitter systems and minor effects on cardiac conduction, repolarization or function. Our findings confirm the expected high tolerability, low side effect profile and cardiac neutral status of tomoxetine in this sample of ADHD adults at a clinically effective dosage. Since noradrenergic activity appears to be shared by other compounds that have shown efficacy In ADHD (11), the efficacy of tomoxetine shown in this study provides further support for a noradrenergic hypothesis of the disorder.
+"The results of this study should be viewed in light of methodological limitations. These include the use of a crossover design, a relatively short exposure to medication, and dosing restrictions. Since a previous study of a noradrenergic antidepressant (10) found that the full extent of anti-ADHD action was not apparent until at least 6 weeks, it is possible that our results underestimate the effectiveness of long term tomoxetine treatment. Furthermore, medication carry-over effects can produce unwanted confounds in a crossover study. While order effects did not reach statistical significance in the current study, a parallel design would be optimal. Nevertheless, reduction in ADHD symptoms was robust enough to be detectable in a parallel groups comparison. Lastly, while 80 mg. of tomoxetine was well tolerated, it is unclear whether this is the optimal dose for anti-ADHD efficacy. Open dose-response trials to determine the optimal anti-ADHD dose of tomoxetine may provide guidance for subsequent controlled trials.
+"Despite these limitations, this study has shown that tomoxetine significantly improved ADHD symptoms and was well tolerated. Although preliminary, these promising initial results provide support for further studies of tomoxetine in the treatment of ADHD using a wide range of doses over an extended period of treatment."
+[21]
+As a result of the findings of the MGH Study, Lilly established a working group chaired by Dr. Hynes to further examine three ADHD drug candidates, one of which was atomoxetine. Eventually atomoxetine was chosen by Lilly for development, and regulatory approval was obtained in the United States on November 26, 2002 and in Canada on December 24, 2004. Atomoxetine has since been marketed by Lilly under the trade name STRATTERA.
+II.
+Issues
+[22]
+What is the standard of proof required?
+[23]
+Was Lilly's claim that atomoxetine could be used to treat ADHD obvious to person of skill in the art?
+[24]
+Was the '735 Patent anticipated by either the '009 Patent or the '430 Patent?
+[25]
+Was the '735 Patent anticipated by prior disclosure by the inventor, John Heiligenstein?
+[26]
+Is the '735 Patent a selection patent requiring elevated disclosure of its alleged inventive promise?
+[27]
+As of the Canadian filing date of the '735 Patent, did Lily have evidence that demonstrated the utility of atomoxetine to treat ADHD in humans and, if not, did the '735 Patent meet the requirements of disclosure for a sound prediction of such utility?
+III.
+Analysis
+Standard of Review and Burden of Proof
+[28]
+The parties agree that Novopharm bears the burden of proof on a balance of probabilities of establishing the invalidity of the '735 Patent. Lilly contends, though, that the decision of the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  (hereafter referred to as
+AZT
+) superimposes the administrative standard of review of reasonableness for issues of mixed fact and law where the validity of a patent is in issue. In other words, Lilly says that to the extent that the decision of the Commissioner to approve the '735 Patent was based on evidence, the decision is entitled to a degree of deference.
+[29]
+It is not entirely clear to me what was meant by Justice Ian Binnie in the discussion in
+AZT,
+above, about the administrative standard of review and, like Justice Johanne Gauthier in
+ <FRAGMENT_SUPPRESSED>  1, I think its application ought to be limited to statutory appeals brought under s. 41 of the
+Patent
+Act
+, R.S.C. 1985, c. P-4. Justice Binnie himself noted at para. 41 that the degree of expected deference due to the Commissioner was "limited" and had to be applied with a recognition that, notwithstanding the Commissioner's expertise, the judicial record included considerable evidence that was not available to the Commissioner. As was noted by Justice Gauthier in
+ <FRAGMENT_SUPPRESSED>  subsequent trial review that is based on a judicial record that does not correspond to the initial administrative record, where the administrative record is not before the Court, and where no reasons are provided by the Commissioner in support of the decision to approve a patent.
+[30]
+It seems to me that, to the extent that any deference is owed to the Commissioner in cases like this one, it is completely subsumed by the presumption of validity created by ss. 43(2) of the
+Patent
+Act
+, R.S.C. 1985, c. P-4 and is essentially extinguished where any evidence to the contrary is placed before the Court.
+[31]
+I will, therefore, proceed on the basis that Novopharm bears the onus of establishing on a balance of probabilities the grounds of invalidity it asserts.
+'735 Patent
+[32]
+There is no dispute about the inventive promise of the '735 Patent. The 16 patent claims involve the use of atomoxetine for treating ADHD in three of its manifestations among all age groups (children, adolescents and adults). The patent does not claim the compound atomoxetine but only its use to treat ADHD. The patent does not assert nor would it have been expected by a person of skill that atomoxetine would work for every person.
+[33]
+The patent specification sets out a non-controversial history of ADHD and the then-current treatments of choice for the disorder. The oldest and largely successful medications are said to be a class of stimulants which includes methylphenidate. Other effective drugs, it states, are antidepressant tricyclics including imipramine, desipramine, nortriptyline, amitriptyline and clomipramine. Nevertheless, the side-effects and usage limitations of the available treatments created a "need for a safe and convenient treatment for ADHD" which, in turn, led to "the present invention" ('735 Patent at p. 2, lines 3-4, 7).
+[34]
+The patent acknowledges that atomoxetine "is a well-known drug" with a recognized mechanism of activity as a norepinephrine reuptake inhibitor ('735 Patent at p. 2, line 15). The specification also states the following:
+"Tomoxetine is quite active in that function, and moreover is substantially free of other central nervous system activities at the concentrations or doses at which it effectively inhibits norepinephrine reuptake. Thus, it is quite free of side effects and is properly considered to be a selective drug.
+"Tomoxetine is a notably safe drug, and its use in ADHD, in both adults and children, is a superior treatment for that disorder because of its improved safety. Further, tomoxetine is effective at relatively low doses, as discussed below, and may safely and effectively be administered once per day. Thus, difficulties created by the multiple dosing of patients, particularly children and disorganized adults, are completely avoided" ('735 Patent at p. 2, lines 21-35).
+[35]
+The specification also contains preferred dosage ranges for children and adults but ultimately defers this question to the judgment of the treating physician [see footnote 4]. The specification concludes with the statement that "there is no significant difference in the symptoms or the details of the manner of treatment among patients of different ages" ('735 Patent at p. 7, lines 21-23).
+[36]
+As with the '590 Priority Patent, the '735 Patent offers no information about the nature or sources of the evidence relied upon by the inventors to support the promise of atomoxetine's utility to treat ADHD by demonstration or by sound prediction.
+Obviousness: Legal Principles
+[37]
+ <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada considered the issue of obviousness in the context of a challenge to the validity of a pharmaceutical selection patent. The decision is particularly instructive in a case where the line of inquiry pursued by an inventor would be thought by others to be at least promising or with a semblance of a chance of success. Although the Court accepted that "obvious to try" was one of several factors that should be considered, it also said that this consideration needed to be applied with caution and with particular regard to the need to encourage pharmaceutical research and development. The obvious-to-try test was said to be satisfied only where it was self evident that what is being tried ought to work.
+[38]
+At paragraph 67 the Court adopted the following four step framework for an obviousness inquiry:
+"(a) identify the notional person skilled in the art and the relevant common general knowledge of that person;
+(b) identify the inventive concept of the claim or claims in issue and, if necessary, construe them;
+(c) identify the differences, if any, between the 'state of the art' and the inventive concept of the patent; and
+(d) viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention."
+[39]
+It is only at the fourth step of the above analysis that "obvious to try" will arise. I would add to this that what may be obvious to examine may not be obviously useful if more than simple verification is required in proof. The obvious to try analysis will, in each case, turn on several further considerations including the number of available options or solutions to the problem, the nature and extent of effort required to achieve the invention (routine trials versus prolonged or arduous experimentation), the extent to which others had tried and failed to find a solution, and the degree of motivation to find a solution. Ultimately if the evidence only establishes the possibility that a promising compound or approach might work, obviousness is not made out: see
+ <FRAGMENT_SUPPRESSED>  at para. 45.
+Obviousness: The Evidence
+[40]
+As previously noted, the parties were in essential agreement in their characterization of a person skilled in the art and with respect to the inventive concept of the '735 Patent. What was contested was whether the prior art established that the identification of atomoxetine to treat ADHD was obvious or uninventive. The point of particular evidentiary controversy was whether, in 1995, it was obvious that atomoxetine ought to work to treat ADHD based on the established efficacy of several medications with arguably similar selectivity profiles. This disagreement largely centred around the fourth step of the <FRAGMENT_SUPPRESSED> obviousness inquiry.
+[41]
+It was acknowledged by all of the witnesses that the causes of ADHD have always been unknown and I accept Lilly's point that understanding the etiology of a disease or disorder can be an important element in the search for an effective treatment. That is particularly true where the looked-for treatments would be curative. It is important to recognize, though, that the drugs that have been found helpful to treat ADHD do not alter the underlying pathophysiology of the disorder. Instead, they provide temporal relief from its symptoms. Although there is much that is not known about the etiology of ADHD, that lack of knowledge has not prevented the development of drugs useful in reducing its symptomology.
+[42]
+The identification of atomoxetine as one such agent was not unduly hindered by the underlying uncertainty about the precise causes of ADHD just as had been the case with the stimulants and the TCAs. Here I accept the evidence of Dr. Kutcher that the search for psychotropic medication has typically been carried out in steps. First, a helpful agent and its properties are identified. The focus then moves to discovering or developing agents that would be even more selective for the desirable characteristics or less prone to causing unwanted side-effects. That was the process followed in the development of the TCAs where imipramine led to desipramine, amitriptyline led to nortriptyline, and clonidine led to guanfacine: see para. 78 of Dr. Kutcher's report and pp. 405-408 of his direct examination.
+[43]
+Dr. McGough also recognized this approach in his cross-examination:
+"Q. That was like the development from imipramine to desipramine and amitriptyline to nortriptyline?
+"A. So the body, when it takes amitriptyline, turns it into nortriptyline, and when it takes imipramine turns it into desipramine. So out of that understanding that perhaps that was what was having the positive effect, they developed a more specific molecule" (p. 2314).
+[44]
+It seems to me that the more problematic etiological issue concerns the level of knowledge in 1995 about why the successful ADHD drugs worked. Without a sound understanding of the mechanism of action involved in achieving treatment, it is a profoundly more difficult task to predict whether a promising drug candidate ought to work.
+[45]
+The question for the Court is whether the step taken by the named inventors identifying atomoxetine as a useful drug for treating ADHD was inventive or, conversely, more or less self evident. On the evidence before me I have no doubt that a person skilled in the art would be interested in looking at atomoxetine as a potential ADHD drug because of its known profile as a selective norepinephrine reuptake inhibitor (NRI) and because it had been used uneventfully in earlier depression research. The more difficult question is whether such a person would have concluded that atomoxetine ought to be useful to that end.
+[46]
+Dr. John Heiligenstein is one of the inventors named in the '735 Patent. Dr. Heiligenstein's evidence from discovery was tendered at trial by agreement of the parties. That evidence indicated that the idea of using atomoxetine to treat ADHD came to Dr. Heiligenstein during his job interview with Lilly in 1985 or 1986. It is clear from that evidence that it was atomoxetine's profile as a selective NRI that attracted his immediate interest. That evidence was as follows:
+"Q. So as I understand it, you can correct me if I'm wrong, but you - you came up with the idea to look at tomoxetine in connection with ADHD; is that fair?
+A. Yes.
+Q. And where were you at that point in time in terms of the positions that we ran through?
+A. My first expression of interest in the study of tomoxetine for ADHD occurred during my interview, my first interview  <FRAGMENT_SUPPRESSED>  with Dr. Leigh, L-E-I-G-H, Thompson, who was at that time the executive director of medical. That was the first occurrence.
+Q. So that was the first time you had mentioned it in the context of those positions with Lilly, but I take it you didn't just come upon that idea when you were sitting there in the interview.
+A. I did.
+Q. Oh, you did?
+A. Yes.
+Q. And that was just through the discussion in the course of the interview?
+A. Yes.
+Q. Was that a - was that a - was it a job interview or was it a welcome to Lilly sort of interview?
+A. It was a job interview.
+Q. So this would be in around 1986, then?
+A. It would have been in '85, '86. I can't recall when that interview occurred.
+Q. Okay. Prior to actually getting the job  <FRAGMENT_SUPPRESSED> , though?
+A. Yes.
+Q. Do you recall, I'm just curious, what - if you recall, what about that discussion caused you to put the two together? I know it's a long time ago.
+A. The two being tomoxetine for ADHD?
+Q. Correct.
+A. Yes, I do recall.
+Q. Okay.
+A. Dr. Thompson was reviewing the molecules in development that I would be involved with if I were to join Lilly, and as he described the primary mechanisms of action and I noted the noradrenergic, primary noradrenergic uptake activity of tomoxetine, I said oh, that would be an interesting molecule to try in ADHD." (pp. 26-28)
+[47]
+Dr. Riddle also testified about a conversation he had in 1991 or 1992 with Dr. Heiligenstein concerning the use of atomoxetine to treat ADHD. Dr. Heiligenstein had no recollection of this discussion and I have no basis to doubt that a discussion of this sort took place. Dr. Riddle's evidence was as follows:
+"And John Heiligenstein sort of served as, chaperon's not the right thing, but John was kind of my guide to take care of me while [sic] was there during the day. Because I had met for a couple of hours with he and Leigh Thompson and a few other folks. But the rest of the time I was there, he was with me, showed me around a bit, we had lunch together.
+"And we were chitchatting and talking about various things. We are both child psychiatrists, both interested in child psychiatric disorders and drug development. And I said, 'John, besides what's going on here with Prozac, the other thing that's going on for me is that we were really getting really excited about desipramine and then in the summer of 1990 there is this reportedly sudden unexplained deaths, and we look into it and there are more reports'. And we all got concerned about 'do we want to continue to do that'.
+"And I actually had come back from vacation that summer planning to write a grant to, you know, study more desipramine. And I said 'you don't have anything, we don't have anything to replace it, you know, do you have any ideas'. And he says 'well, you know, we have this norepinephrine reuptake inhibitor, tomoxetine, that has failed at trials for depression and, as you probably know, it's sort of on the shelf'. And I was like, 'geez, you know, you ought to try that for ADHD'. And that was pretty much the end of that conversation. John didn't get excited about that and didn't want to continue it, but that was pretty much that" (pp. 1420-1421).
+[48]
+Both Dr. Riddle and Dr. Heiligenstein undoubtedly had higher degrees of inventive ingenuity at the time of these discussions and would thus not fit the more restrictive definition of persons skilled in the art. Nevertheless, it is clear from this evidence that in considering atomoxetine as an ADHD drug, Dr. Riddle and Dr. Heiligenstein were not applying any more insight to the problem than would be expected from such a person. Indeed, the fact that the idea came so readily to both of them in the context of informal discussions indicates that they each thought that atomoxetine was at least a promising candidate for the treatment of ADHD. It was also clear to both of them that it was the relative selectivity of atomoxetine as an NRI that made it particularly interesting.
+[49]
+Notwithstanding Lilly's contention to the contrary, the overwhelming weight of the evidence established that a promising line of investigation for non-stimulant medications to treat ADHD involved compounds like atomoxetine that interacted with the norepinephrine pathway. Atomoxetine was a particularly obvious candidate because it was available and had been the subject of prior assessment in human trials as a potential antidepressant. Those studies had indicated its clinical safety. This was undoubtedly what prompted Dr. Riddle and Dr. Heiligenstein to readily identify atomoxetine as a good candidate for ADHD research when the compound was initially brought to their attention. I accept Dr. Riddle's characterization at para. 128 of his report that "there were only a limited number of options available" of which atomoxetine was clearly one. During direct examination Dr. Kutcher also testified that there were only a finite number of known drugs the skilled person could have thought would work for ADHD and that "atomoxetine was one of those drugs" (p. 428). Dr. McGough essentially conceded that atomoxetine was a promising candidate for further study when he said under cross-examination that it "would be a very worthwhile agent to try and hope that it worked, but there would be no presumption that it would work" (p. 2410). These views are consistent with the weight of the prior art which implicated the noradrenergic pathway in ADHD and in the treatment of its symptoms. What is telling about these sources is, however, the highly qualified language that is used to express the postulate that drugs used to treat ADHD in some way impact the noradrenergic system. Several examples of this from the prior art evidence before me are as follows:
+• "However, ample evidence has been amassed that
+some
+drugs effective for ADD alter noradrenergic turnover": Alan J. Zametkin & Judith L. Rapoport, "Neurobiology of Attention Deficit Disorder with Hyperactivity: Where Have We Come in 50 Years?" (1987) 26(5) J. Am. Acad. Child Adolesc. Psychiatry 676 at 678;
+• "Moreover, the significant reduction in urinary MHPG after desipramine, which is moderately efficacious in ADDH, also
+implicates
+the noradrenergic system": Alan J. Zametkin & Judith L. Rapoport, "Neurobiology of Attention Deficit Disorder with Hyperactivity: Where Have We Come in 50 Years?" (1987) 26(5) J. Am. Acad. Child Adolesc. Psychiatry 676 at 678;
+• "A role for the noradrenergic system in ADHD is further
+suggested
+by the efficacy of clonidine in reducing disruptive behaviours in some children with ADHD": Steven R. Pliszka, James T. McCracken & James W. Maas, "Catecholamines in Attention-Deficit Hyperactivity Disorder: Current Prespectives" (1996) 35(3) J. Am. Acad. Child Adolesc. Psychiatry 264 at 268;
+• "Since DMI has a powerful and selective inhibitory effect on the neuronal uptake of noreprinephrine and alters its metabolism and effects on adrenergic receptors in the mammalian brain, these findings
+may suggest
+that the somewhat delayed anti-ADDH effects of DMI, like its anti-depressant effects
+may
+be related to the drug's actions on this central neurotransmitter system by actions partly shared with those of the stimulants": Joseph Biederman et al., "A Double-Blind Placebo Controlled Study of Desipramine in the Treatment of ADD: I" (1989) 28(5) J. Am. Acad. Child Adolesc. Psychiatry 777 at 783;
+• "Today competitive inhibition is not described as a mechanism of action of amphetamine upon noradrenergic systems, but there is certainly evidence that
+some
+drugs effective for ADDH decrease noradrenergic turnover": see Zametkin and Rapoport "The Pathophysiology of Attention Deficit Disorder with Hyperactivity - A Review" Alan J. Zametkin & Judith L. Rapoport, "The Pathophysiology of Attention Deficit Disorder with Hyperactivity" (1986)(9) Adv. Clinical Child Psychology 177 at 187;
+• "The antidepressants are slower-acting medications that have been shown to produce behavioural effects similar to those of the stimulants with ADHD children. This is
+presumably due
+to their agonistic effects on the noradrenergic system as obtained with the CNS stimulants": Russell A. Barkley,
+Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment
+(New York: The Guilford Press, 1990) at 607;
+• "Although several lines of evidence support
+a role for
+the noradrenergic systems in both the pathophysiology of ADDH and mediation of drug response,
+major questions remain
+": Alan J. Zametkin & Judith L. Rapoport, "The Pathophysiology of Attention Deficit Disorder with Hyperactivity" (1986)(9) Adv. Clinical Child Psychology 177 at 196;
+• "Most effective medications produce a relatively increased turnover of either dopamine or norepinephrine": Harold I. Kaplan & Benjamin J. Sadock, eds.,
+Comprehensive Textbook of Psychiatry/V
+, vol. 25th ed. (Baltimore: Williams & Wilkins, 1989) at 1835;
+• "In addition, essentially all the tricyclic antidepressants have at least three other actions: blockade of muscarinic cholinergic receptors, blockade of H1 histamine receptors, and blockade of alpha 1 adrenergic receptors (Fig. 6-27). Whereas blockade of the serotonin and norepinephrine reuptake pumps
+is thought
+to account for the
+therapeutic actions
+of these drugs (Figs. 6-28 and 6-29), the other three pharmacologic properties are thought to account for their
+side effects
+(Figs. 6-30, 6-31, and 6-32": S.M. Stahl,
+Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 2nd ed.
+(Cambridge: Cambridge University Press, 2000) at 219-220;
+• "The relative pharmacologic specificity of DMI for the noradrenergic system and its lack of dopaminergic activity make it
+of particular interest
+in the evaluation of noradrenergic
+hypotheses
+of ADDH and in the elucidation of possible mechanisms of drug action in the effective treatment of ADDH": Maureen Donnelly et al., "Treatment of Childhood Hyperactivity with Desipramine: Plasma Drug Concentration, Cardiovascular Affects, Plasma and Urinary Catecholamine Levels, and Clinical Response" (1986) 39(1) Clin. Pharmacol. Ther. 72 at 73; and
+• "DMI
+may be
+more effective than imipramine in ADD,
+because
+of its greater specificity in blocking norepinephrine re-uptake in the central nervous system. DMI may also be better tolerated than imipramine, because of its reduced anti-cholinergic and anti-alpha adrenergic effects": David R. Gastfriend, Joseph Biederman & Michael S. Jellinek, "Desipramine in the Treatment of Attention Deficit Disorder in Adolescents" (1985) 21(1) Psychopharmacol. Bull. 144 at 145. (Emphasis added)
+[50]
+Dr. Kutcher used similarly guarded language in his report. At para. 66 he acknowledged that since other TCAs had been demonstrated to be effective in treating ADHD, it was "hypothesized" that nortriptyline would also work. The evidence bearing on the potential for atomoxetine to treat ADHD was not obviously any stronger than that which pertained to nortriptyline. It seems to me that the statement of a bare hypothesis falls short of the requirement for obviousness that it be self-evident that a medicinal compound ought to work.
+[51]
+There is also a certain looseness to Dr. Kutcher's analysis of the prior art that is troublesome. This can be seen from paras. 82 and 85 of his report where he essentially glosses over the nuances and reservations of the prior art:
+"82. As can be inferred from above, it was self-evident that atomoxetine ought to be effective in treating ADHD. As of January 1995, the commonly used ADHD drugs were known or suspected to demonstrate noradrenergic activity. As such, it would have been obvious that drugs with such activity would also likely work in treating ADHD. This can be seen from the rationale for testing desipramine and nortriptyline (the TCA imipramine worked) and guanfacine (clonidine worked) to treat ADHD.
+. . . . .
+"85. As discussed above, the purported invention of the '735 patent is simply using atomoxetine to treat ADHD. Given all of the above, including that i) atomoxetine was known as a drug that had been tested in humans with no serious adverse effects, ii) it was known to have selective noradrenergic activity, and iii) drugs with noradrenergic activity were known to be beneficial and effective in treating ADHD, there would have been no effort involved to come up with the idea of using atomoxetine to treat ADHD." (Footnotes omitted)
+[52]
+There is no question that arriving at the idea of trying atomoxetine to treat ADHD would have been obvious to any person skilled in the art who was thinking about the problem. What I do not accept is Dr. Kutcher's leap in logic that because the commonly used ADHD drugs (meaning the stimulants and the TCAs) were "known or suspected to demonstrate noradrenergic activity", atomoxetine, as a selective NRI, would also be expected with a high degree of confidence to work. This is particularly true of Dr. Kutcher's comparison at para. 92 of his report of atomoxetine to the stimulants. Using the stimulants as comparators to atomoxetine is not helpful in answering the question of whether atomoxetine ought to work to treat ADHD because the stimulants are not selective NRIs. Instead, their efficacy as ADHD drugs had been widely, albeit perhaps not conclusively, attributed to their effects on both the noradrenergic and dopaminergic systems: see, for example, Alan J. Zametkin & Judith L. Rapoport, "Neurobiology of Attention Deficit Disorder with Hyperactivity: Where Have We Come in 50 Years?" (1987) 26(5) J. Am. Acad. Child Adolesc. Psychiatry 676 at 676 and Ronald T. Brown & Angela La Rosa, "Recent Developments in the Pharmacotherapy of Attention-Deficit/Hyperactivity Disorder (ADHD)" (2002) 33(6) Prof. Psychol: Research and Prac. 591 at 592.
+[53]
+I also note that at para. 82 of his report, Dr. Kutcher stated that "the commonly used ADHD drugs were known
+or suspected
+to demonstrate noradrenergic activity" (Emphasis added). This type of equivocal language does not readily support Dr. Kutcher's later highly confident opinion of atomoxetine's expected efficacy to treat ADHD.
+[54]
+Dr. Riddle's similarly firm conclusion about the expected usefulness of atomoxetine is inconsistent with his acknowledgement of the poorly understood and complex neuropathological systems that were and remain implicated in the treatment of ADHD:
+"A. Well, yes, this is important, obviously, because the stimulants have their primary action on these two pathways, and because they were quite effective for treating ADHD, it was thought that these pathways might have something to do with or be implicated in the pathophysiology, if you will, of ADHD. Not something that was proven because these disorders are complex, the brain is complex. But expert well, experts are people, I think, what's the term again, ordinary person skilled in the art.
+Q. Skilled in the art.
+A. Skilled in the art, would think, wow, this is sort of two and two is four, if these drugs are acting here and they act on these systems, these systems might be important, and so if we are going to try to look for other drugs, we might want to look at these systems. That's the point." (p. 1405)
+[55]
+It is also significant that Dr. Riddle did not opine in his report that desipramine and the other TCAs were
+known
+to treat ADHD because of their effect on noreprinephrine reuptake. Instead he expressed the more guarded view that they were "thought to be useful" for that reason: see para. 125. This is somewhat consistent with his trial testimony where in places he used similar guarded language that the efficacy of the TCA's only "suggested" that atomoxetine would work to treat ADHD (see page 1410). Indeed, it is of concern that despite his highly confident conclusion that a person of skill would readily conclude that atomoxetine ought to work, Dr. Riddle often used more equivocal language in his interpretation of the prior art references he relied upon. This included words like "possibility" (see page 1522), "perhaps a better option" (see page 1523), and "may also work" (see page 1456). When he was asked in direct examination why he had used the words "could be useful" in his report, he answered that this was "not the best selection of words" and that what he meant to convey was that a person of skill "would have high expectations that [atomoxetine] would be useful". I reject that explanation and find instead that Dr. Riddle's frequent use of equivocal language on this issue of expected efficacy is more consistent with the tenor of the prior art and with his initial interpretation of those references.
+[56]
+Dr. Riddle's explanation about the reasons for clonidine's efficacy as an ADHD drug was similarly not convincing. He conceded that clonidine's initial physiological effect was to reduce the amount of norepinephrine in the synaptic cleft which is the exact opposite effect produced by atomoxetine. Apart from expressing a general caution about not placing too much emphasis on systemic starting points, he was unable to provide a satisfactory explanation about why clonidine works to treat ADHD. This suggested that he simply did not have an explanation beyond pointing out that both drugs acted on the norepinephrine pathway.
+[57]
+This is not the quality of evidence that would be required to meet Novopharm's burden of proof on this issue.
+[58]
+On the issue of obviousness I accept the evidence of Dr. McGough over that of Dr. Riddle and Dr. Kutcher. Dr. McGough candidly acknowledged that the identification of atomoxetine as a potential ADHD drug was in furtherance of a noradrenergic hypothesis but he also pointed out that there was no consensus about the mechanism of drug action responsible for effective ADHD therapy. The complexity of the neuropathological systems involved and the lack of knowledge in 1995 about why the successful ADHD drugs worked did not permit anyone to confidently predict whether any new compound could be expected to work.
+[59]
+I also agree with Dr. McGough that there is an essential inconsistency underlying the opinions of Dr. Riddle and Dr. Kutcher concerning the likely efficacy of atomoxetine. Dr. Kutcher and Dr. Riddle conceded that there was no unifying theory about why the successful ADHD drugs worked. Dr. Kutcher also acknowledged the complexity of ADHD and the absence of a simple model for treating it. This is evident from the following exchange in cross examination:
+"Q. 'Although a simple pharmacologic model to explain the utility of stimulants, tricyclics, MAO inhibitors, neuroleptics, and clonidine in ADHD is not yet available.'
+You agree with that?
+A. Agree. But I wouldn't expect to have a simple pharmacological model for these things because ADHD is a disorder which is complex, and ADHD has components of hyperactivity impulsivity and attention which may be mediated by different neural systems, and each of those may be mediated by different receptors pathways. One thing I wouldn't expect would be a simple model.
+Q. The ways in which second line drugs, including the TCA's
+A. Yes.
+Q. are clinically less effective than stimulants must be more clearly defined?
+A. Sounds reasonable.
+Q. Differences in the type or dose of drug needed to elicit specific effects may provide clues to the pharmacologic mechanism?
+A. That's true.
+Q. What's the reference, second last sentence, to EPI?
+A. That'd be epinephrine.
+Q. Where did that come from?
+A. The noradrenergic system we knew was involved in ADHD, and there are neuron bodies in the locus associated with norepinephrine.
+Q. So what researchers were trying to do was look at the similarities among all medications used in ADHD?
+A. They were doing all sorts of things.
+Q. Some of the inferential implications that came from this was that one commonality was EPI?
+A. Many areas came out of this. The general commonly accepted perspectives were that medications that worked in the noradrenergic system, medications that worked in the dopaminergic systems were useful in the treatment of ADHD, and exactly what other aspects of those medicines were available, how different receptors would characterize. There was a lot of interest in that because ADHD is comprised of multiple components, and a specific impact on one component may not mean a similar impact on another component.
+So you could have a medication that you would give people that would have a tremendous impact on hyperactivity but not as much on impulsivity. Or you could give a medication that had really good impact on all three but had bad side effects.
+So people were looking at these different options. The general model was that drugs that worked in the noradrenergic system or dopaminergic system or a combination of both were the ones that we knew were most effective.
+Q. In terms of the commonalty amongst this, people could look at compounds that may impact EPI?
+A. People could look at compounds that affect any of these systems." (pp. 551-554)
+[60]
+I agree with Dr. McGough that what Dr. Riddle and Dr. Kutcher now say was obvious about atomoxetine's expected efficacy is based on an ex post facto simplification of the problem and that no one could have confidently predicted that it would be a successful ADHD drug. This point is well captured in the following passage from Dr. McGough's testimony:
+"A. Well, the point I wanted to make is that I think it's two different things to say I am standing in 2005 and I look backwards and I see that investigators were following a hypothesis based in norepinephrine and they had actually chosen one of the mechanisms involved in that hypothesis, and in following that, they were successful in developing a drug that appears to work.
+"I think that's, I don't see anything inconsistent with that, with then saying, if we go back to 1993 or '94, there were many hypotheses being pursued, and even within the noradrenergic hypotheses, there were several mechanisms of action that Biederman has talked about and Donnelly has talked about. So I think if the characterization was that I was saying, in 2005, looking backwards, that it was obvious that this was the way to go, that was not what I meant.
+"What, again, I think, in 1994, people were exploring all sorts of things, and even with the norepinephrine, several different types of mechanisms were being considered. The fact that, then, after the success, you look backwards and say they were following this, again, just says that they were either lucky or they were smart or somehow, they picked the right thread, and history is written by the winners and now we see that the results of following that thread have bourne fruit." (pp. 2733-2734)
+[61]
+My own review of the prior art evidence indicates that the profiles of the drugs that worked to treat ADHD were simply too diverse, and their mechanism of presumed action within the highly complex neurological systems involved were too uncertain to draw any firm conclusion about the efficacy of atomoxetine. Examples of this from the prior art include the following references:
+Shenker: The Mechanism of Action of Drugs Used to Treat Attention-Deficit Hyperactivity Disorder
+[see footnote 5]
+[62]
+Dr. Shenker's review article focussed on the role of dopamine and norepinephrine in the etiology and treatment of ADHD. He reviewed 314 publications from which he drew a number of conclusions about the state of the art in 1992 including the following:
+"Fortunately, many new drugs with selective effects on dopaminergic and noradrenergic systems have been developed, and it can be expected that some of these drugs will become available for clinical investigations of children with ADHD. The purpose of this review is to focus attention on the role of the receptors that mediate the effects of brain catecholamines in the therapy and pathophysiology of ADHD. This review includes a discussion of drugs that cause indirect receptor activation and a summary of the pharmacologic classification and function of brain catecholamine receptors in the context of ADHD. Many of the drugs discussed also have potent effects on other brain systems, especially the serotonergic system. Because there is little evidence that alterations in serotonin or other neurotransmitters are involved in ADHD, this review concentrates on catecholaminergic function (at 338).
+. . . . .
+"The three most commonly used medications for ADHD are
+d
+-amphetamine, methylphenidate, and magnesium pemoline. None is known to have potent direct receptor-stimulating effects.
+d
+-Amphetamine has been the best-studied in regard to mechanism of action. Amphetamine has been shown to be transported into dopaminergic nerve terminals and to selectively release a pool of newly synthesized cytoplasmic DA independent of neuronal firing. Amphetamine also blocks the DA reuptake mechanism and inhibits metabolism of DA by monoamine oxidase (MAO), and these properties may potentiate its main releasing effect. In contrast, the main effect of amphetamine at NE synapses is probably blockade of reuptake. Weak antagonism of α
+2
+adrenergic receptors (AR) may also contribute to the central effects of amphetamine (at 339).
+. . . . .
+"The tricyclic antidepressants imipramine and desipramine are also indirect activators of certain brain catecholamine receptors. They are less effective than the stimulants in treating children with ADHD. Specifically, they appear to have a weaker effect on improving performance on cognitive tasks (at 340).
+. . . . .
+"The fact that tricyclics and MAO inhibitors are effective in ADHD does not mean that all drugs with antidepressant properties are effective. For example, the atypical antidepressant mianserin does not appear to be useful in ADHD. Mianserin differs from imipramine and desipramine in that it is a potent α
+2
+adrenergic antagonist (at 341).
+. . . . .
+"Developing better models for the role of catecholamine receptors in ADHD involves reviewing the drug and tissue-related factors involved in the production of a response by an agonist. These factors give quantitative meaning to commonly used terms such as 'drug selectivity,' 'receptor sensitivity,' and 'receptor reserve.' Although drugs are usually classified according to the receptor for which they have highest affinity, their selectivity is only relative; most agonists and antagonists have affinity for multiple receptor binding sites. The same drug may act as a full agonist, partial agonist, or antagonist in different tissues containing the identical receptor type, depending on the concentration of receptors or the efficiency of receptor coupling in the different tissues. Although selectivity of a drug in vivo is often ascribed to its selective affinity for a particular receptor, the intrinsic efficacy of a drug and regional tissue-related factors must always be considered (at 343).
+. . . . .
+"Dopaminergic and noradrenergic systems have justifiably commanded the most attention in ADHD research until now, but a role for EPI-containing neuronal systems in the pathophysiology or treatment of ADHD must be seriously considered. It would be very interesting to determine whether BUF rats or rat pups that have been treated with PNMT inhibitors have attentional dysfunction in addition to hyperactivity (at 355).
+. . . . .
+"For the purposes of clarity, the effects of drugs on brain receptors for DA, NE, and EPI have been discussed in separate sections - this is a gross oversimplification as far as their effects on the operation of the brain are concerned. As mentioned, a drug is classified according to the site for which it has highest affinity, but, depending on dose, it may be able to interact with receptors or uptake sites for several different neurotransmitters. Furthermore, even highly selective agonist and antagonists can elicit effects on other neurotransmitter systems because of functional interconnections.
+"Interactions between noradrenergic and dopaminergic systems are often cited in the context of ADHD, but few behavioral, electrophysiologic, or neurochemical data are available to explain exactly how these systems affect each other in vivo. Studies that suggest modulatory effects of EPI or NE on DA-mediated locomotor behaviour have already been mentioned. α
+1
+AR or α
+2
+AR appear to have stimulatory and inhibitory effects, respectively, on DA-induced locomotion and rotation, but the mechanism of these complex effects remains hypothetical (at 355-356).
+. . . . .
+"It may very well be that increased synaptic availability of
+both
+DA and NE is required for optimal pharmacotherapy of ADHD. The evidence that selective inhibition of NE uptake by tricyclic antidepressants does not produce full therapeutic effects has been mentioned. Successful clinical development of one of the GBR compounds would allow one to test the hypothesis that inhibition of DA uptake alone is also not sufficient to produce optimal therapeutic effects. It is known that neurochemical, electrophysiologic, and behavioral effects produced by DA uptake inhibition in vivo are not equivalent to those of the stimulants.
+"The clinical promise of nomifensine in ADHD could not be pursued because of its toxic side effects, but several new drugs that are potent blockers of both DA and NE uptake systems have been described, including LU19-005, diclofensine, mazindol, and BTCP. If such a drug proves superior to desipramine or imipramine in treating ADHD, it would lend credence to the concept that a dopaminergic component is required for full clinical efficacy. The failure of such a drug to match the therapeutic effects of the stimulants, despite the fact that they both can increase synaptic DA and NE, would have important mechanistic implications as well. It would suggest that unique pharmacologic properties possessed by the stimulants underlie their therapeutic superiority in ADHD. For example,
+d
+-amphetamine differs from a simple uptake inhibitor in its ability to increase synaptic DA concentrations
+independent
+of DA neuron activity and to alter dopaminergic transmission in a complex, multiphasic manner. In treating some neuropsychiatric disorders the more successful drugs may be those that are
+less
+selective, or those that can alter the integration of complex neurotransmitter systems. Even if new, highly selective drugs prove to be less useful than expected in the clinic, they will continue to be indispensable tools for investigating basic brain mechanisms (at 356-357).
+. . . . .
+"Although a pharmacologic model to explain drug efficacy in ADHD may be years away, testable hypotheses concerning the action of both selective and nonselective drugs should continue to be developed in order to guide more sophisticated studies (at 358)." (Footnotes omitted)
+[63]
+Novopharm's witnesses attempted to discredit Dr. Shenker's review article largely on the basis that he was not well-known in the field of ADHD research and had little experience at the time.
+[64]
+I do not accept that this piece of the prior art puzzle ought to be discounted for the reasons suggested. Whatever Dr. Shenker's experience level may have been, it clear that his article was the product of a comprehensive review of much of the relevant literature and the conclusions he drew appear to be substantially well-founded. I see no reason, therefore, to discount Dr. Shenker's assessment of the prior art and, indeed, there is much to be said of Dr. McGough's testimony about the value of this work:
+"A. That the earlier version of this manuscript was prepared during his residency in pediatrics at the Johns Hopkins Hospital, which is really the premier pediatrics program in the United States.
+I should mention also that pediatricians write more prescriptions for ADHD than child psychiatrists, so that is within his realm there, but most importantly - - well, also appreciate - - and this is why I have issue with their disparaging his being a resident.
+You know, he is a - - I would liken him to a third- or fourth- year associate at a law firm. He is licenced. He has finished his school. He is practising and he is working under supervision. He is doing exactly what people at that level do.
+He is also working for the top people in the field in their laboratory. I don't know if that is quite like clerking for a senior judge, but that is the position he is. He is in the premier laboratory working under the supervision of the premier people in his field.
+I like this article because, to me, he is a - - I did say this in my report. He is an excellent example of someone of
+ordinary skill of the art
+. He was knowledgeable. He was skilled in the practice of medicine. He was familiar with ADHD. He was familiar with research.
+There is no claim of necessity for him to be an expert. He has an excellent opportunity to go back, put yourself behind his glasses and say, What would I see? What was his task here? He is trying to - - really continuing the work of Zametkin and Rapoport dated in the earlier reviews I mentioned.
+He is examining the literature and laying out the research framework for subsequent drug development. That is the nature of this article (pp. 2082-2083)." (Emphasis added)
+[65]
+The main point to be taken from the Shenker paper is that even compounds that are highly selective for a particular neurotransmitter system can be expected to have multiple and poorly understood effects involving other systems. Shenker also observed that highly selective compounds may not be the best candidates for ADHD drug development.
+Biederman et al.: A Double-Blind Placebo Controlled Study of Desipramine in the Treatment of ADD:I
+[see footnote 6]
+[66]
+Dr. Joseph Biederman and others carried out a double-blind placebo controlled study of desiprimine to treat ADHD and their results were published in the September 1989 of the Journal of the American Academy of Child and Adolescent Psychiatry
+.
+This study noted the clinical need for non-stimulant medications to treat ADHD and it referenced the use of TCAs in that role. At that point DMI was observed to have "relatively high selectivity against neuronal uptake of norepinephrine" and also to be active at central alpha-1 adrenergic receptors (at 777). The report went on to discuss the activity profile of DMI as follows:
+"Compared with other TCAs, DMI has relatively low affinity at muscarinic and histaminergic receptors and only moderate affinity at alpha-1-adrenergic receptors, and it is very weak against alpha-2, beta-adrenergic, and dopaminergic receptors (Baldessarini, 1985). Because of its pharmacologic properties, DMI may be associated with somewhat lesser risks of adverse effects than the tertiary-amine TCAs such as amitriptyline, clomipramine, doxepin, and imipramine" (at 777-778).
+[67]
+The study results indicated that desiprinine provided statistically significant improvement in the characteristic symptoms of ADHD. Nevertheless, the authors were unable to identify with any degree of confidence the mechanism of action that was responsible and acknowledged "[t]he pharmacological mechanism of action of DMI in ADDH remains unknown." (at 783). Although I accept Novopharm's point that in terms of its selectivity profile DMI was the closest known comparator drug to atomoxetine, the uncertainty reflected in the Beiderman study about its mechanism of action in treating ADHD undermines the argument that atomoxetine could be confidently predicted to work.
+Zametkin and Rapoport: The Pathophysiology of Attention Deficit Disorder with Hyperactivity
+[see footnote 7]
+[68]
+Although this review paper is somewhat dated (1986) it does provide a useful description of the complexity involved in predicting the treatment effects of relatively selective agents like atomoxetine to treat ADHD:
+"1.7.
+The Single Neurotransmitter Hypothesis: Tenable or Terrible?
+"Some neurological disorders such as Parkinson's disease, a movement disorder with associated psychiatric symptomatology, have been successfully treated using a neurotransmitter precursor that is metabolized directly into single neurotransmitter (dopamine). Although hypotheses of selective neurotransmitter defects are attractive, it is not clear whether one can change the functioning of one transmitter without altering others. Present studies would support that it is indeed very difficult to perturb one neurotransmitter system or nerve tract without altering secondary systems. The intimate interrelationship between amine systems is shown by basic neurophysiology, neurochemistry, neuropharmacology, and recent pharmacological work in man. First, norepinephrine is synthesized from dopamine; although dopamine- -hydroxylase, the enzyme that converts dopamine to norepinephrine, is not the rate-limiting step in catecholamine production,
+both
+norepinephrine and dopamine could feedback-inhibit tyrosine hydroxylase (the rate-limiting step) as hypothesized by Cooper et al. (1982).
+"Second, the noradrenergic tracts in the brain are widespread and diffuse, unlike the more specific dopaminergic systems. In the past, animal studies have focused on the ability of chronically administered antidepressants presumed to have specific actions on either norepinephrine or serotonin reuptake. In reviewing these studies as well as more recent human studies, Potter et al. (1985) conclude that 'specific' antidepressants in fact alter both norepinephrine and serotonin receptor number and/or function. Thus it may be difficult to alter one neurotransmitter system with today's specific agents. Even such 'selective' antidepressants as desipramine (norepinephrine reuptake blocker) and zimelidine (serotonin reuptake blocker) have nonselective effects in human subjects (Potter et al., 1985). Desipramine, for example, reduced 5HIAA, the serotonin metabolite, whereas zimelidine reduced CSF MHPG as well as 5HIAA. And lastly, dopamine is a catecholamine with prominent effects on alpha and beta adrenergic neurons, although its potency is less than that of epinephrine, norepinephrine, or isoproterenol (Goldberg, Volkman, & Kohli, 1978). Thus the concept of specificity may be both physiologically meaningless and untestable.
+"1.8.
+The Stimulants: Neurotransmitter Mechanisms
+"Dextroamphetamine, methylphenidate, and pemoIine are the most effective treatments and, for the most part, benefit the same subjects. (There are rare selective responders to one or the other, but such subjects are beyond the scope of this review.) These questions remain; What systems are crucial for efficacy? Can a common mechanism of action be found in these three agents? Are there any similarities to those MAO inhibitors that are effective treatment?" (at 193-194)
+[69]
+The upshot of this uncertainty and complexity is that one generally cannot confidently predict the efficacy of one psychotropic compound from the limited objectively observable effects of another.
+Wilens et al.: Nortriptyline in the Treatment of ADHD
+[see footnote 8]
+[70]
+This 1993 paper involved a look-back at the author's clinical experience with the TCA nortriptyline in the treatment of ADHD in children and adolescents. The results of the review were said to be promising but only suggestive of efficacy. Of more importance to the issue in this case was the hypothetical description of the proposed mechanism of action of nortriptyline:
+"NT is the major metabolite of amitriptyline metabolism. The mechanism of action of TCAs on ADHD is not well known. NT may ameliorate ADHD symptoms by its effect on synaptic norepinephrine reuptake blockade with subsequent alterations in the noradrenergic and dopaminergic pathways, both of which have been implicated in the pathogenesis of ADHD (Meltzer, 1987; Zametkin and Rapoport, 1987) (at 347)"
+Donnelly et al.: Treatment of childhood hyperactivity with desipramine
+[see footnote 9]
+[71]
+This paper expresses considerable uncertainty about the mechanism of action of desipramine and speculates that it "perhaps" works by increased availability of norepinephrine at nerve terminals.
+[72]
+I accept that, as with the stimulants, the TCA's were helpful analogs in the search for new ADHD drugs. But I do not agree that enough was known about the mechanisms by which they treated ADHD such that a person skilled in the art would unfailingly conclude that another compound of close resemblance would be expected to work. I am reinforced in this by what occurred when atomoxetine was postulated to be useful to treat depression in the early 1980s. It was at that point that atomoxetine was studied and patented by Lilly as a "particularly effective" antidepressant. In 1982 atomoxetine's "remarkable specificity" in inhibiting the reuptake of norepinephrine was hypothesized by Wong and others to be a potential treatment advantage over the TCA's. [see footnote 10] This view was also expressed in a journal article published by Zerbe and others in 1985 titled "Clinical Pharmacology of Tomoxetine, a Potential Antdepressant" [see footnote 11], and in a 1993 paper by Gehlert and others [see footnote 12] which noted that "[s]everal clinically useful antidepressants, such as desipramine, have high affinity for [the norepinephrine uptake site]". Nevertheless, this theory of atomoxetine's improved depression treatment was later shown to be wrong. This outcome illustrates the danger of placing too much emphasis on one of the physiological characteristics of a psychotropic compound when the mechanisms for achieving a positive therapeutic effect are not well understood.
+Other Considerations - Was the Amount of Effort Required to Arrive at the Invention Merely Routine?
+[73]
+Novopharm argues that it would not be difficult to confirm the utility of atomoxetine to treat ADHD and that "only a few small placebo-controlled trials would be needed". This point recognizes that however compelling the prior art may have been in pointing to atomoxetine as an ADHD drug, some verification of its efficacy would still be required.
+[74]
+I do not agree that the kind of testing that would have been required to demonstrate the efficacy of atomoxetine would have been merely routine. Dr. Virani testified that this type of clinical trial would have to be of sufficient size and duration, randomized, blinded and well-controlled. Even at that, the problems that can readily arise in this type of research are such that more than one study would likely be required before any confident conclusion could be stated. As in the case of Lilly's earlier research to assess atomoxetine as an antidepressant, this type of testing would be prolonged, arduous and expensive and its outcome by no means certain.
+Motivation
+[75]
+The issue of motivation must be applied with some caution and, as noted by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  even a very high level of motivation cannot transform a possible solution into an obvious one. Pharmaceutical inventions are solutions to unsolved medical problems. It would therefore be assumed that, in many cases, a motivation to find such a solution would be present. If many skilled persons have unsuccessfully looked for answers for a serious medical problem for some time the ultimate answer will, by definition, appear inventive. But the motivation to pursue a particular solution to a problem may be muted by many factors including commercial considerations, limited research resources or interest or by reason of a prior patent.
+[76]
+In the case of atomoxetine, the uncontradicted evidence before me establishes that for several years there was an identified need for new non-stimulant medications to treat ADHD that had better side effect profiles than the TCAs. On the other hand, this was an area of research that was relatively new and the number of interested independent researchers was limited. Atomoxetine was also a compound that Lilly had developed and previously patented in the United States. Although information about atomoxetine was in the public domain, it does not appear to have achieved a high degree of notoriety in the ADHD research community. This background made Lilly the obvious party to pursue further research into atomoxetine for indications beyond depression. In the end, the evidence before me about the motivation underlying the discovery of atomoxetine as an alternative ADHD drug was not particularly supportive of the position of either party.
+Obviousness - Conclusion
+[77]
+Novopharm has failed to establish that the inventive promise of the '735 Patent would have been obvious to a person skilled in the art as of its date of publication.
+Anticipation
+[78]
+Novopharm argues that the '735 Patent is anticipated by each of the '009 Patent and the '430 Patent. I do not agree.
+[79]
+The short answer to this argument is that neither the '009 Patent nor the '430 Patent refer to the inventive promise of the '735 Patent - that being the use of atomoxetine to treat ADHD. The '009 Patent refers to some of its claimed compounds as NRIs but did not specifically disclose atomoxetine. The '430 Patent refers specifically to atomoxetine as an NRI but only to treat depression. However, for the same reason that this selective property did not make the use of atomoxetine obvious to treat ADHD, it also fails to anticipate. Unless the use of atomoxetine to treat ADHD is effectively disclosed in either of those documents, there can be no anticipation. Having regard to the above, it is unnecessary to consider the issue of enablement.
+[80]
+I would add to this that atomoxetine is but one of several thousand compounds covered by the '009 Patent, all directed at obtaining some therapeutic psychotropic effect. Although I accept Novopharm's assertion that atomoxetine treats ADHD by achieving a psychotropic effect, I do not agree that a person skilled in the art would, by carrying out the teaching of that patent, necessarily infringe the '735 Patent: see
+ <FRAGMENT_SUPPRESSED>  at para. 83.
+Anticipatory Disclosure
+[81]
+Novopharm alleges that there were two instances of anticipatory disclosure of the invention of using atomoxetine to treat ADHD that fell outside of the one year allowance permitted by ss. 28.2 of the
+Patent Act
+, R.S.C. 1985, c. P-4. The first of these was the conversation that took place between Dr. Riddle and Dr. Heiligenstein in 1991 or 1992 when they discussed the use of atomoxetine for this purpose. The second of these was a conversation between Dr. Heiligenstein and Dr. Spencer in 1993 or 1994 when they discussed the possibility of MGH conducting research into compounds to treat ADHD on behalf of Lilly.
+[82]
+Neither of these arguments has merit.
+[83]
+As previously noted, I have no doubt that Dr. Riddle and Dr. Heiligenstein had an oral exchange concerning the potential use of atomoxetine to treat ADHD at about the time that Dr. Riddle recalled. This discussion took place after Dr. Riddle had been invited to Lilly's premises to consult on an unrelated matter. The problem is that Dr. Riddle's written report differs somewhat from what he said in his trial testimony. Dr. Riddle's report suggests that the idea came to him after Dr. Heiligenstein had told him about atomoxetine's profile as an NRI. Dr. Riddle's testimony was that he asked Dr. Heiligenstein if Lilly had anything available to replace desiprimine which had recently been implicated in a few cases of cardiac arrest. Dr. Heiligenstein then conveyed to Dr. Riddle the idea that atomoxetine was an NRI that was on Lilly's "shelf". This suggests that it was Dr. Heiligenstein who first suggested atomoxetine as an ADHD drug because of its NRI properties. This may not represent a legally significant distinction but it does reflect an obvious weakness in Dr. Riddle's memory of the event.
+[84]
+There is a real danger in accepting a witness' recollection of an 18-year-old conversation as proof of anticipatory disclosure: see
+ <FRAGMENT_SUPPRESSED>  (U.S. Ct. App., Fed. Cir.) and
+ <FRAGMENT_SUPPRESSED>  (U.S. Ct. App., Fed. Cir.). The inherent frailties of such evidence are quite obvious and there is merit to Lilly's position that reliable corroboration ought to be required before a patent is struck out on this basis. I am reluctant to hold that corroboration would be required in every case, but in a situation like this where the recollection is an old one, where the nature of the relationship and the discussion are uncertain, and where the two versions given by Dr. Riddle are not entirely consistent, I am unable to make a finding of anticipation in the absence of something more.
+[85]
+Novopharm argues that Dr. Spencer's discussion with Dr. Heiligenstein constituted an anticipatory disclosure of the claimed invention. Lilly contends that this discussion was confidential and its purpose was to engage the Massachusetts General Hospital in atomoxetine research. The onus rested on Novopharm to prove that this disclosure by Dr. Heiligenstein put the inventive idea of using atomoxetine to treat ADHD into the public domain, but the evidence fell far short of that mark. Dr. Spencer did not testify and Dr. Heiligenstein's evidence indicated that this discussion led to the MGH clinical trial of atomoxetine as a potential ADHD drug at the behest and with the support of Lilly.
+[86]
+According to
+ <FRAGMENT_SUPPRESSED>  (Eng. H.C.) at 48 this is the very type of discussion that is subject to a presumed confidence and cannot be taken to constitute a public disclosure:
+"It seems to me that if the circumstances are such that any reasonable man standing in the shoes of the recipient of the information would have realised that upon reasonable grounds the information was being given to him in confidence, then this should suffice to impose upon him the equitable obligation of confidence. In particular, where information of commercial or industrial value is given on a business-like basis and with some avowed common object in mind, such as a joint venture or the manufacture of articles by one party for the other, I would regard the recipient as carrying a heavy burden if he seeks to repel a contention that he was bound by an obligation of confidence: see the
+Saltman
+case at page 216."
+Also see
+ <FRAGMENT_SUPPRESSED>  at paras. 315-316.
+[87]
+It follows that this allegation of anticipatory disclosure also fails.
+Is the '735 Patent a Selection Patent
+[88]
+I do not think that the fact that atomoxetine was claimed in the '009 Patent renders the '735 Patent a selection. Lilly maintains that the '735 Patent claims the discovery of an inventive new use for atomoxetine in the treatment of ADHD. The patent does not, however, reclaim the compound. Lilly's characterization of the '735 Patent as a new use patent, in keeping with the characterization in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1, has merit. Lilly acknowledges that atomoxetine was a known compound but that its usefulness in treating ADHD was not known. Other than a selection patent, where a compound is not new, a valid patent will be limited to the new inventive use of the compound: see
+AZT
+, above at para. 33. Had Lilly reclaimed atomoxetine to treat ADHD, I have no doubt that a selection would have been made thereby requiring additional disclosure to that provided in the '735 Patent: see
+ <FRAGMENT_SUPPRESSED>  at paras. 42 and 59. However, by limiting the claim in the '735 Patent to the use of atomoxetine to treat ADHD, there is no requirement that Lilly disclose any special advantage that atomoxetine might enjoy over the compounds claimed by the '009 Patent. It is sufficient to assert an inventive new use.
+[89]
+If I am wrong about the '735 Patent not being a selection patent it would follow that the patent fails for want of proper disclosure of the supposed surprising and unexpected advantages of atomoxetine over the other compounds claimed by the '009 Patent: see
+ <FRAGMENT_SUPPRESSED> .
+Utility - Legal Principles
+[90]
+Section 2 of the
+Patent Act
+, (R.S. 1985, c. P-4) stipulates that an invention be "useful". It is this provision that incorporates the concept of utility into Canadian patent law.
+[91]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145 the concept of inventive utility was described as follows at pages 524 to 526:
+"There is but a single test, and that test is whether the specification adequately describes the invention for a person skilled in the art, though, in the case of patents of a highly technical and scientific nature, that person may be someone possessing a high degree of expert scientific knowledge and skill in the particular branch of science to which the patent relates. It might be added that there was no evidence by the respondent as to any respect in which the specifications of the two patents in issue would have been considered deficient by a workman of ordinary skill in the art.
+"In my respectful opinion the Federal Court of Appeal erred also in holding that s. 36(1) requires distinct indication of the real utility of the invention in question. There is a helpful discussion in
+Halsbury's Laws of England
+, (3rd ed.), vol. 29, at p. 59, on the meaning of 'not useful' in patent law. It means 'that the invention will not work, either in the sense that it will not operate at all or, more broadly, that it will not do what the specification promises that it will do'. There is no suggestion here that the invention will not give the result promised. The discussion in
+Halsbury's Laws of England
+, ibid., continues:
+'... the practical usefulness of the invention does not matter, nor does its commercial utility, unless the specification promises commercial utility, nor does it matter whether the invention is of any real benefit to the public, or particularly suitable for the purposes suggested.' [Footnotes omitted.]
+and concludes:
+'... it is sufficient utility to support a patent that the invention gives either a new article, or a better article, or a cheaper article, or affords the public a useful choice.' [Footnotes omitted.]
+"Canadian law is to the same effect.  <FRAGMENT_SUPPRESSED>  21 Fox Pat. C. 95, the Quebec Court of Appeal adopted at p. 107 C.P.R., p. 53 Fox Pat. C., the following quotation from the case of
+ <FRAGMENT_SUPPRESSED>  at p. 184:
+'If when used in accordance with the directions contained in the specification the promised results are obtained, the invention is useful in the sense in which that term is used in patent law. The question to be asked is whether, if you do what the specification tells you to do, you can make or do the thing which the specification says that you can make or do.'"
+[92]
+Utility is not established on the basis of a mere hypothesis, an unproven idea or sheer speculation, even if later established, but it can rest upon a foundation of sound prediction. In
+AZT
+, above, the concept of sound prediction was described in the following passage at paras. 70 and 71:
+"70. The doctrine of sound prediction has three components. Firstly, as here, there must be a factual basis for the prediction. In
+Monsanto
+and
+Burton Parsons
+, the factual basis was supplied by the tested compounds, but other factual underpinnings, depending on the nature of the invention, may suffice. Secondly, the inventor must have at the date of the patent application an articulable and 'sound' line of reasoning from which the desired result can be inferred from the factual basis. In
+Monsanto
+and
+Burton Parsons
+, the line of reasoning was grounded in the known 'architecture of chemical compounds' (
+Monsanto
+, at p. 1119), but other lines of reasoning, again depending on the subject matter, may be legitimate. Thirdly, there must be proper disclosure. Normally, it is sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised: H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th ed. 1969), at p. 167. It is generally not necessary for an inventor to provide a theory of
+why
+the invention works. Practical readers merely want to know that it does work and how to work it. In this sort of case, however, the sound prediction is to some extent the quid pro quo the applicant offers in exchange for the patent monopoly. Precise disclosure requirements in this regard do not arise for decision in this case because both the underlying facts (the test data) and the line of reasoning (the chain terminator effect) were in fact disclosed, and disclosure in this respect did not become an issue between the parties. I therefore say no more about it.
+"71. It bears repetition that the soundness (or otherwise) of the prediction is a question of fact. Evidence must be led about what was known or not known at the priority date, as was done here. Each case will turn on the particularities of the discipline to which it relates. In this case, the findings of fact necessary for the application of 'sound prediction' were made and the appellants have not, in my view, demonstrated any overriding or palpable error."
+[93]
+Lilly argues that it need only show that atomoxetine had a "mere scintilla of utility". If that phrase means only that atomoxetine be shown to be somewhat useful to treat ADHD I accept Lilly's point. But utility is assessed against the inventive promises of the patent: see
+ <FRAGMENT_SUPPRESSED> ; 405 N.R. 1; 2010 FCA 197 at para. 76. An invention is only useful if it does what the inventor claims it will do. In this case the requirement of utility would be met if, at the Canadian filing date of the '735 Patent, there was sufficient evidence that atomoxetine was clinically useful in treating some patients with ADHD or, alternatively, that such efficacy could be soundly predicted. That was, after all, what the '735 Patent offered - an effective treatment for ADHD - and that was the consideration required of Lilly for the monopoly it claimed. Proof of utility in this context does not, however, equate with the evidence required to obtain regulatory approval: see
+AZT
+, above, at para. 77.
+Demonstrated Utility - The evidence
+[94]
+Even though there is no reference to the MGH Study in the '735 Patent, Lilly relies upon it to demonstrate the utility of atomoxetine to treat ADHD at the time of the Canadian filing date of January 4, 1996. Novopharm asserts that the MGH Study fails to demonstrate utility; at most, it says that it might have formed the basis of a sound prediction of utility had it been disclosed in the patent. Needless to say, this disagreement was the subject of considerable comment by Dr. Virani on behalf of Novopharm and by Dr. McGough on behalf of Lilly.
+[95]
+Dr. Virani opined that the results of the MGH Study were interesting and promising but not sufficiently robust to establish clinical efficacy. Dr. McGough disagreed and said, very simply, that the MGH Study results showed that atomoxetine worked to treat ADHD in some of the patients treated.
+[96]
+The results of the MGH Study were reported by Dr. Spencer and others in May 1998 in the American Journal of Psychiatry in an article titled "Effectiveness and Tolerability of Tomoxetine [atomoxetine] in Adults With Attention Deficit Hyperactivity Disorder" [see footnote 13]. In that paper the MGH Study clinical trial was described as a randomized, double-blind, placebo-controlled crossover study of adults with childhood-onset and persistent ADHD. The object of the trial was to test the hypothesis that atomoxetine would be superior to placebo in this patient group. Initially, 22 patients between the ages of 19 and 60 and equally split between men and women were assessed. One patient was later dropped from the study owing to reported symptoms of anxiety and irritability. [see footnote 14] The duration of patient exposure to atomoxetine was three weeks, with three weeks on placebo separated by one week of washout.
+[97]
+Part of the process for assessing the efficacy of atomoxetine involved patient interviews about several ADHD criteria using a rating scale of zero (no symptoms) to three (severe symptoms). These scores were then compared to baseline scores to identify any changes. In the case of the MGH Study, eleven patients out of the twenty-one assessed reported a 30% or better reduction in ADHD symptoms compared to two patients on placebo who reported similar results.
+[98]
+The MGH Study authors reported the following results:
+"The average doses of tomoxetine and placebo at week 3 were 76 mg/day and 78 mg/day, respectively. Endpoint analyses revealed that tomoxetine significantly reduced the symptoms of ADHD (mean score on the ADHD Rating Scale at baseline=30, SD=6.7, versus mean score after 3 weeks of tomoxetine treatment=21.5, SD=10.1) (t=3.96, df=20, p=0.001, paired t test). In contrast, placebo did not (mean score on the ADHD Rating Scale at baseline=29.4, SD=6.3, versus mean score after 3 weeks of placebo administration=29.7, SD=8.8) (t=0.25, df=20, n.s.). Random effects analyses revealed that response to tomoxetine attained statistical significance by the second week of treatment and that there was further improvement by week 3 (figure 1). There was a very significant drug-by-time interaction for ADHD symptoms (z=3.8, N=21, p<0.001) but no significant main effects of drug (tomoxetine or placebo) or time (baseline and weeks 1, 2, and 3). An order effects analysis failed to reveal a significant order effect (tomoxetine first versus placebo first) (z=1.6, N=21, n.s.) or significant interactions between order and week (z=0.6, N=21, n.s.) or between order and drug (z=1.9, N=21, n.s.).
+"The superiority of tomoxetine over placebo in improving ADHD symptoms was robust enough to be detectable in a parallel-groups comparison that used data restricted to the first 3 weeks of the protocol (z=3.2, N=21, p<0.01).
+"Using a preestablished definition of improvement of 30% or greater reduction in symptoms, we found that 11 of 21 patients showed improvement in ADHD symptoms while receiving tomoxetine, compared with only two who improved while receiving placebo (χ
+2
+=7.4, df=1, p<0.01, McNemar test). Tomoxetine, but not placebo, was associated with clinically and statistically significant improvement in individual ADHD symptoms. The most notable effects were observed on symptoms of inattention. We found no meaningful associations between improvement of ADHD symptoms and gender, socioeconomic status, or positive family history of psychiatric disorder. However, there was a trend toward greater rates of improvement in ADHD patients who had no comorbid disorders. Examination of the effects of tomoxetine on measures of depression and anxiety failed to reveal meaningful change over time on these measures. (at 694)"
+The authors then discussed the significance of their findings in the following passage:
+"In a double-blind, placebo-controlled, crossover trial of 22 adults with ADHD, treatment with tomoxetine at an average oral dose of 76 mg/day was well tolerated and effective. Although this was a crossover design, reduction in ADHD symptoms was robust enough to be detectable in a parallel-groups comparison during the first 3 weeks of the protocol (z=3.2, N=21, p<0.0l). These results confirm the study hypothesis and suggest that tomoxetine may be useful for the treatment of ADHD.
+"The magnitude of response to tomoxetine treatment (11 [52%] of 2l patients) approximates the average improvement rate reported in previous studies of methylphenidate in adult ADHD (54%); it is somewhat lower than the response rate observed in our previous, methodologically similar trials of methylphenidate (3) and desipramine (4). Although this result suggests that tomoxetine could have a weaker effect in ADHD than other compounds, it is noteworthy that a similarly modest response rate of 58% was observed on our previously controlled trial of desipramine by the end of week 2. This could suggest that the 3 weeks of tomoxetine treatment in the present study may have been insufficient time for the clinical effect of tomoxetine to fully unfold.
+"Although a large portion of our study group had comorbid psychiatric disorders, the absence of meaningful associations between tomoxetine treatment and psychiatric comorbidity suggests that response to tomoxetine was specific to ADHD. In addition, improvement in Stroop Color Word and Interference T scores suggest that tomoxetine treatment may improve inhibitory capacity.
+"Although our use of a crossover design and the relatively short exposure to medication may have not been ideal, the results were robust enough to be detectable in a parallel-groups comparison. Nevertheless, these findings should be confirmed in a larger study with a parallel design.
+"Despite limitations, this study has shown that tomoxetine clinically and statistically significantly improved ADHD symptoms and was well tolerated. Although preliminary, these promising initial results provide support for further studies of tomoxetine in the treatment of ADHD. (at 695)"
+[99]
+Dr. Virani's primary reservations about the sufficiency of the MGH Study concerned the size and uniformity of the patient sample, the randomization and blinding of the sample, the duration of the trial, the absence of an active control and the potential for design bias. Dr. Virani's concerns were not expressed as criticisms of the MGH Study but only as inherent limitations that exist, in some measure, in many clinical trials and particularly in small pilot studies of which this, he said, was one.
+[100]
+Although Dr. Virani accepted that the data reported in the MGH Study were encouraging, they were, he said, still preliminary and insufficient to draw a firm conclusion about the efficacy of atomoxetine. He drew a parallel to the trials that had been conducted with atomoxetine as a potential antidepressant and noted that the early results were also promising but later shown to be wrong. One of those early studies was similarly double-blinded and considerably larger than the MGH Study. According to Dr. Virani the inability to replicate the findings from early pilot studies is not an uncommon occurrence in the field of pharmaceutical research, particularly for CNS compounds where the placebo response can be quite high.
+[101]
+Dr. Virani pointed out that his reservations about the sufficiency of the MGH Study to establish the clinical efficacy of atomoxetine were mirrored by the language used by the study authors who stated that their "findings should be confirmed in a larger study with parallel design". The report also confirmed that the results were "preliminary" and "promising" and that the trial had "limitations". In addition, Dr. Virani noted the absence from this published study of the even stronger qualifying statements contained in earlier drafts [see footnote 15] including the following:
+"[...] Thus before final conclusions can be drawn about the role of tomoxetine in the treatment of ADHD, more information is needed with a longer duration study to establish the full efficacy of tomoxetine in the treatment of ADHD. (at 11)
+. . . . .
+"The results of this study should be viewed in light of methodological limitations. These include the use of a crossover design, a relatively short exposure to medication, and dosing restrictions. Since a previous study of a noradrenergic antidepressant found that the full extent of anti-ADHD action was not apparent until at least 6 weeks, it is possible that our results underestimate the effectiveness of long term tomoxetine treatment. Furthermore, medication carry-over effects can produce unwanted confounds in a crossover study. While order effects did not reach statistical significance in the current study, a parallel design would be optimal. Nevertheless, reduction in ADHD symptoms was robust enough to be detectable in a parallel groups comparison. Lastly, while 80 mg. of tomoxetine was well tolerated, it is unclear whether this is the optimal dose for anti-ADHD efficacy. Open dose-response trials to determine the optimal anti-ADHD dose of tomoxetine may provide guidance for subsequent controlled trials.
+"Despite these limitations, this study has shown that tomoxetine significantly improved ADHD symptoms and was well tolerated. Although preliminary, these promising initial results provide support for further studies of tomoxetine in the treatment of ADHD using a wide range of doses over an extended period of treatment. (at 12-13)" (Footnotes omitted)
+[102]
+I accept Dr. Virani's evidence that one of the inherent limitations with the cross-over design of this study, particularly with such a small patient sample, is the risk that some of the patients may have been able to effectively break the blind by experiencing the side-effects of atomoxetine. If even a small number of patients in a group of this size are able to identify when they are receiving the active compound as compared to placebo, the results obtained are easily compromised. This may be an explanation for Dr. Virani's concern about the lower than expected reported placebo response. He explained this problem in his direct testimony:
+"So when things like that happen and side effects like, are possible and occur I start wondering how well blinding is maintained. And then it says - - I am aware of other trials where you are using subjective rating as a measure and that when you are using subjective ratings and you can't be sure blinding is maintained, that's an issue.
+"And, I think, that's what I speak about in that paragraph primarily. (p. 1048)
+. . . . .
+"I think I spoke to it earlier but if I had a sense, and I agree it would be a relative guess, and it may even be an unconscious thing that I am looking at it, if I had an idea of what a person might be on and I have to circle one or two on this ADHDRS rating scale, I may be a little bit more likely to circle the one or the two depending on what I thought that person may be taking. Or that person themselves, if they themselves the patient is under the impression that they are on one drug or not, based on side effects, they may themselves say 'you know, I actually feel a little bit better'.
+"And that might influence the score. And in a crossover trial, which is one of the drawbacks of a crossover trial because the patient is exposed to both the drug and the placebo, unlike a parallel design, because they are exposed to both, they know what it was like on the other treatment. So they know that that one was a bit more innocuous or this one was a bit less innocuous. So by the time you are in Phase 2 of the study you have a little bit more likelihood of breaking the blind. (pp. 1048-1049)"
+[103]
+I also have no doubt that the reservations more fully expressed by the MGH Study authors in their initial draft report more accurately reflect their views about the study design and the resulting data than their later published version.
+[104]
+Dr. Heiligenstein also acknowledged that the MGH Study "had a number of limitations due to the duration of the study, the dosing available for the study and other factors". It is apparent from his evidence that the MGH Study proceeded with a less than anticipated enrollment and for a relatively short duration because Lilly's available supply of atomoxetine was on the verge of expiration. Although counsel for Lilly took some pains to challenge Dr. Virani's characterization of the MGH Study as a "pilot", that was the exact description offered by Dr. Heiligenstein during his examination. Although Dr. Heiligenstein had no apparent hands-on role in the conduct of the MGH Study he was likely one of the best placed Lilly employees to assess its scientific value and his fairly candid acknowledgments are, therefore, particularly telling.
+[105]
+Those same reservations were also recognized by Dr. David Michelson and others  <FRAGMENT_SUPPRESSED> 's later study of atomoxetine to treat ADHD. [see footnote 16] The authors, which included Dr. Spencer, described the MGH Study data as "preliminary" and only suggestive of efficacy in adults. He also referred to the earlier atomoxetine trials in the following way:
+"This study was not designed to assess the efficacy of atomoxetine relative to other compounds used to treat adult ADHD and therefore did not include an active comparator. Among children, the efficacy of atomoxetine compared with stimulants has not been established, although preliminary studies suggest the magnitude of response is within a comparable range (Kratochvil et al 2002). Comparisons of the data presented here to previous adult ADHD studies are difficult to interpret because of their small sample size and methodologic limitations. Further complicating comparisons, ours were multicenter studies that incorporated design elements intended to reduce nonspecific effects, including blinded efficacy raters, separate safety and efficacy raters, and double-blind placebo lead-ins. These probably reduced observed response rates in both treatment arms and have not been used in other studies of adult ADHD."
+Dr. McGough blithely dismissed these observations as bragging. He also said that the Michelson Study was done for regulatory approval; even if that was so, no obvious purpose would be served by downplaying the significance of Lilly's earlier research work on atomoxetine. Appearing as they do in a research paper sponsored by Lilly, I accept at face value these stated reservations concerning the limited value of the MGH Study. I do not accept Dr. McGough's attempts to rationalize the language used by the MGH Study authors and later by Dr. Michelson and, in particular, I reject Dr. McGough's evidence that these expressions were likely motivated by a desire to attract additional research funding.
+[106]
+As compared to Dr. Virani, Dr. McGough's evidence concerning the methodological value of the MGH Study was less than compelling. In particular, his attempt to identify an inconsistency between Dr. Kutcher's and Dr. Riddle's views on obviousness and Dr. Virani's critique of the MGH Study as evidence of utility was not persuasive. Whether or not the MGH Study only attempted to confirm the obvious is not a basis for rejecting Dr. Virani's views on its inherent strengths and weaknesses.
+[107]
+Dr. McGough's opinion about the significance of the MGH Study effectively ignored the reservations expressed by the study authors about its methodological limitations. Dr. McGough also dismissed the short duration of the clinical trial with the bare conclusion in his report that "since positive effects were demonstrated with only three weeks of treatment, the duration of the treatment is irrelevant as a criticism of the study outcome". This was a simplistic response to an issue which was considerably more nuanced and which, in the face of Dr. Virani's evidence, required a more meaningful answer.
+[108]
+I also do not accept Dr. McGough's heavy reliance on the P-value obtained by the MGH researchers as a measure of statistical significance in answer to Dr. Virani's concerns about the small patient sample. According to Dr. Virani the P-value indicates the likelihood that an experimental observation of a difference is due to chance. It does not exclude the possibility that the observation resulted from something other than chance and thus it does not rule out the influence of some uncontrolled variable [see footnote 17] or a limitation in the design of the experiment. In other words, it is not a meaningful answer to many of the concerns that were expressed by Dr. Virani about the design of the MGH Study, including those of sample size, the potential for imperfect patient blinding and study duration. This was also the evidence of Dr. Riddle who testified that "one has to be very careful about not just taking the P-value" because its significance is subject to the methodological context of each experiment: see p. 1509.
+[109]
+Nowhere was the limitation of P-value more evident than in one of Lilly's initial research trials for atomoxetine as an antidepressant. The HFAB Study was a multi-centre, randomized, double-blind, parallel trial of 243 patients with a six week exposure to atomoxetine. The P-value obtained indicated that the positive experimental results were statistically significant. Nevertheless, those results were never again replicated and Lilly eventually curtailed the development of atomoxetine as an antidepressant medication.
+[110]
+Another troubling response given by Dr. McGough under cross-examination concerned the effect of the stated MGH Study limitations on the outcome results. He seems to have been of the view that the acknowledged design limitations would only diminish the efficacy findings and never enhance them. This is apparent from the following exchange:
+"Q. And that suggests that in the context here that the need to confirm, and these are promising initial results, the need to do something to establish that this is, in fact, happening?
+A. Well, what they say is the study's shown that the medication clinically led to improvement in ADHD symptoms and was well tolerated. That's what this study shows.
+Q. In a study with limitations?
+A. But limitations would bias against showing of robust effect. So they are saying, again, 'in spite of limitations, we have a robust finding showing that the medication works to decrease ADHD symptoms and this supports further studies'. (p.2564)"
+This is an extraordinary statement that is simply not correct. I accept the evidence of Dr. Virani over that of Dr. McGough that clinical trial limitations may just as readily lead to unwarranted findings of increased efficacy. This would be particularly true if a small number of patients in the MGH Study were able to distinguish between atomoxetine and placebo on the basis of experiencing atomoxetine's fairly common side effects. [see footnote 18] Dr. McGough attempted to downplay this concern by describing it as more theoretical than real and by stating that "we tend to believe the blinding is effective" (p. 2589). He also testified that in ADHD research, patients on placebo frequently report the same side effects as are seen from administering the active compound (p. 2590). Once again I accept Dr. Virani's evidence over Dr. McGough's evidence on this point. I do not agree that with a small clinical crossover trial of 21 (or perhaps 19) patients and with heavy reliance on patient responses to treatment, the concern about blinding can be so readily dismissed.
+[111]
+Dr. McGough's willingness to extrapolate the utility of atomoxetine from a three-week clinical trial exposure is also inconsistent with the published report from his later research collaboration with Dr. Biederman and others into the "promising" ADHD drug, Lisdexamfetamine Dimesylate [see footnote 19]. That report stated:
+"The findings reported should be viewed in light of some methodologic limitations. The 4-week duration of this study limits extrapolation of efficacy and tolerability findings to the long-term treatment that is generally required in the management of ADHD symptoms."
+[112]
+Dr. McGough also seemed to equate the demonstration of utility with the presence of positive experimental results and not with usefulness in a clinical context. This was particularly evident from the answers he gave in cross examination about the utility of a drug that offered only acute alleviation of ADHD symptoms. This position was seemingly adopted to deflect Dr. Virani's point that exposing 21 adults to three weeks of atomoxetine treatment was not sufficient to support a promise of atomoxetine's clinical efficacy in adults, let alone in children and adolescents. Dr. McGough's evidence was as follows:
+"Q. My question was: If you know that the medication only works acutely
+THE COURT: For every patient that tries it or for
+MR. STAINSBY: For every patient.
+THE COURT: All right.
+BY MR. STAINSBY:
+Q. You wouldn't call that an effective treatment, because you want the medication that works over the long term?
+A. If I had done -- Again, if you feel I am not answering you, please stop me, because my intent is to answer you. But if I had run a study to see if a medicine worked, and in that study it worked and answered my question, then I would conclude on the basis of that study that the medicine worked.
+Whether it is going to work tomorrow is really a separate issue.
+Q. I am suggesting to you that that separate issue, as you describe it, is of great importance in the context of treating a chronic condition.
+A. In the clinical situation.
+Q. Right. Well, that is what you use the medicine for; right? That is what medicines are developed to be used in the clinical situation. You don't develop them to put them on the shelf. You develop them to give them to people; right?
+A. Well, my response is and in terms of decisions about this, you know, there may be different standards for a patent versus what I am going to do treating a person. So that is why I am hesitant. I don't know what context you are talking about.
+Q. I am not asking about patents. I was asking about medicines for ADHD.
+A. In clinical treatment?
+Q. Yes. You would know that a medicine was clinically effective when you knew that it could be used over the longer term?
+A. If I knew the medicine was going to work tomorrow, but never again, then I would not consider that a good medicine. (pp. 2293-2295)"
+I do not accept the point that utility in this case should be measured against a hypothetical or theoretical standard that is lower than the inventive promise of the patent. ADHD is a chronic disorder requiring sustained treatment. Only where experimental results are sufficiently compelling to independently support the inventive promise (or to support a sound prediction) is utility established. In the case of the '735 Patent, the inventors claimed a new use for atomoxetine to effectively treat humans with ADHD. What is implicit in this promise is that atomoxetine will work in the longer term. If the MGH Study was not adequate to demonstrate the clinical usefulness of atomoxetine to treat ADHD the bare fact that some positive experimental data emerged is not enough. Mr. Creber is correct when he argues that utility does not mean commercial usefulness and I agree with him that there is no requirement that atomoxetine be demonstrated to work for every patient. I do not, however, agree with him when he argues that if a single case study involving one patient showed a clinical benefit, this "scintilla of utility" would, as a matter of course, be sufficient to establish utility. I also do not agree that it is correct in law to equate the evidence in proof of anticipation with what is needed to prove utility. The evidence to demonstrate utility must be sufficient to support the promise that atomoxetine works to treat ADHD in some patients.
+[113]
+Although some of Dr. Virani's concerns about the MGH Study appear speculative (e.g. whether the blind may have been compromised by the researchers or whether the sample was appropriately randomized) others rest on firmer foundations. For the most part, I accept Dr. Virani's evidence about the limitations of the MGH Study and find that its reported results do not demonstrate the clinical utility of atomoxetine to treat ADHD in adults let alone in children and adolescents. This was a clinical trial that was too small in size and too short in duration to provide anything more than interesting but inconclusive data. With a patient sample of this uniformity and size, an exposure to atomoxetine of only three weeks and a degree of subjectivity in the testing, one can only conclude, as the researchers themselves stated, that the study had "limitations" and the results were promising but only preliminary. In some cases an initial study of this sort might provide a basis for a sound prediction of utility but, as explained below, there the patent would be required to exemplify the basis of the prediction so that the skilled reader could independently evaluate the utility promise.
+Utility - Sound Prediction and Disclosure
+[114]
+Lilly's primary utility argument is that the results of the MGH Study were sufficiently robust to constitute a demonstration of utility. It did not, however, abandon the alternative contention that a sound prediction of utility could also be made out presumably on the strength of the MGH Study and what was known generally or postulated about NRIs and ADHD.
+[115]
+With respect to the question of sound prediction, Lilly makes the highly strained argument that the statement in the '735 Patent that atomoxetine is useful to treat ADHD is sufficient disclosure because "by stating that the compound works, the patentee is also telling the world why it works". Lilly also contends that the authorities are divided about what manner of disclosure is required to establish utility either by sound prediction or by demonstration.
+[116]
+It seems to me that it is beyond debate in Canada that where a patentee asserts that the utility of its invention has been demonstrated, it need not assert its supporting evidence in the patent. In such a case ss. 27(3) of the
+Patent
+Act
+, R.S.C. 1985, c. P-4 requires only a full description of the invention and the means to work it: see
+ <FRAGMENT_SUPPRESSED>  at paras. 57 to 62 and
+ <FRAGMENT_SUPPRESSED>  at para. 70.
+[117]
+In a case involving a claimed sound prediction of utility, it is equally beyond debate that an additional disclosure obligation arises. According to Justice Binnie in
+AZT
+, above, this obligation is met by disclosing
+in the patent
+both the factual data on which the prediction is based and the line of reasoning followed to enable the prediction to be made. This requirement to disclose the basis of the prediction in the patent specification was said to be "to some extent the quid pro quo" the patentee offers in exchange for the patent monopoly: see para. 70.
+[118]
+The above reasoning was applied by Justice Roger Hughes in
+ <FRAGMENT_SUPPRESSED>  affd. (2009), 392 N.R. 243; 78 C.P.R.(4th) 388; 2009 FCA 97 where, as in this case, the factual basis for predicting utility was absent from the patent. Justice Hughes dealt with several of the disclosure issues argued by Lilly again in this case and dismissed them all in the following passage:
+"[163] The third criterion however is that of disclosure. It is clear that the '356 patent does not disclose the study described in the Hong Kong abstract. The patent does not disclose any more than Jordan did. The person skilled in the art was given, by way of disclosure, no more than such person already had. No 'hard coinage' had been paid for the claimed monopoly. Thus, for lack of disclosure, there was no sound prediction.
+"[164] Eli Lilly argues that there is no need for such disclosure. First, it argues that the Hong Kong abstract was already public by the time the Canadian filing was made and that was sufficient disclosure to satisfy the third element of the AZT requirements. I disagree. A considered reading of paragraph 70 of the
+AZT
+decision leads to the conclusion that the disclosure must be in the patent, not elsewhere. The public should not be left to scour the world's publications in the hope of finding something more to supplement or complete a patent disclosure. As the Supreme Court said at paragraph 70, the quid pro quo offered in exchange for the monopoly is disclosure. It must be in the patent.
+"[165] Eli Lilly raises a second argument. It involves a review of the
+Patent Cooperation Treaty
+(
+PCT
+) the
+Patent
+Act
+and the
+Patent Rules
+. These, it argues, set out what must be in a patent and for the Court to require otherwise, even the Supreme Court, as Counsel put it, would be to defy Parliament.
+. . . . .
+"[169] Eli Lilly argues that the 'form and contents' provision at the end limits the necessity to make disclosure. I do not consider that to be the purport or effect of this provision. The provision makes it clear that procedural matters, form and content, to the extent that content is not otherwise governed by substantive conditions of patentability, are to be compliant with general PCT provisions. National law prevails where 'substantive' legislation and jurisprudence affect content.
+"[170] Eli Lilly further argues that the Canadian
+Patent Rules
+applicable at the time the application for the '356 patent was pending incorporate the PCT provisions into Canadian law. I have already found that even if they were so incorporated, they would not substantiate Eli Lilly's position. However, and in any event, the PCT provisions are incorporated into Canada's
+Patent Rules
+, only in respect of applications filed in Canada or elsewhere under the provisions of the PCT. The application for the '356 patent was not filed under the PCT."
+Lilly's appeal from Justice Hughes' decision was dismissed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> . In that decision the disclosure requirement for sound prediction of utility was confirmed as follows:
+"[14] The decision of the Supreme Court in
+AZT
+is particularly significant to the disposition of this appeal. According to
+AZT
+, the requirements of sound prediction are three-fold: there must be a factual basis for the prediction; the inventor must have at the date of the patent application an articulable and sound line of reasoning from which the derived result can be inferred from the factual basis; and third, there must be proper disclosure (
+AZT
+, supra, at paragraph 70). As was said in that case (para. 70): 'the sound prediction is to some extent the quid pro quo the applicant offers in exchange for the patent monopoly'. In sound prediction cases there is a heightened obligation to disclose the underlying facts and the line of reasoning for inventions that comprise the prediction.
+"[15] In my respectful view, the Federal Court Judge proceeded on proper principle when he held, relying on
+AZT
+, that when a patent is based on a sound prediction, the disclosure must include the prediction. As the prediction was made sound by the Hong Kong study, this study had to be disclosed."
+[119]
+The Court similarly rejected Lilly's argument that this requirement for disclosure is inconsistent with Canada's obligations under the
+Patent Cooperation Treaty
+, 1970, 28 U.F.T. 7647: see para. 19.
+[120]
+I can identify no inconsistency among the authorities. It follows inevitably from the authorities that to the extent that the '735 Patent is based on a sound prediction from the MGH Study that atomoxetine is useful in the treatment of ADHD, the patent fails for want of disclosure because some reference to those findings was required to be set out in the patent.
+[121]
+Lilly argues that the validity of the '735 Patent is now being assessed against the backdrop of a more rigorous disclosure obligation than may have been apparent at the time of its filing in 1996. Lilly also questions what public policy or statutory purpose is served by imposing a heightened disclosure obligation in cases of a sound prediction of utility - provided, of course, that what is disclosed is sufficient to understand and to work the invention [see footnote 20]. The disclosure issue, however, has been determined by earlier decisions that are binding upon me and to the extent that it may be amenable to reconsideration, it must be examined elsewhere.
+IV.
+Conclusion
+[122]
+Because I have found the '735 Patent to be invalid on the basis of inutility, Novopharm is entitled to judgment against Lilly:
+(a) declaring that under ss. 60(1) of the
+Patent
+Act
+, that Canadian Patent No. 2,209,735 ('735 Patent) is invalid and void;
+(b) directing the Commissioner of Patents under s. 62 of the
+Patent
+Act
+that the certificate of judgment voiding the '735 Patent be made a record in the Patent Office; and
+(c) declaring that Novopharm is not required to address the '735 Patent for the purposes of the
+Patented Medicines (Notice of Compliance) Regulations
+.
+[123]
+Unless the parties can agree to costs, I will hear from them in writing on that issue with their submissions not to exceed ten pages. Novopharm will have 10 days from the date of this Judgment to file its submissions and Lilly will have 10 days to respond. Novopharm may, if it chooses, file a reply within 3 days not to exceed three pages in length. No further submissions will be accepted.
+JUDGMENT
+[124]
+THIS COURT ADJUDGES that
+this action is allowed and that Novopharm is entitled to judgment against Lilly:
+(a) declaring that under ss. 60(1) of the
+Patent
+Act
+, that Canadian Patent No. 2,209,735 ('735 Patent) is invalid and void;
+(b) directing the Commissioner of Patents under s. 62 of the
+Patent
+Act
+that the certificate of judgment voiding the '735 Patent be made a record in the Patent Office; and
+(c) declaring that Novopharm is not required to address the '735 Patent for the purposes of the
+Patented Medicines (Notice of Compliance) Regulations
+.
+[125]
+THIS COURT FURTHER ADJUDGES that
+the issue of costs is reserved pending further submissions from the parties.
+Action allowed.
+Editor: E. Joanne Oley/vnh
+Footnotes
+1. The evidence from Dr. Brian Des Islet was unchallenged and it establishes that Novopharm has filed an abbreviated new drug submission for Novo-atomoxetine with Health Canada and is an interested party entitled to bring this proceeding.
+2. The expert witnesses agreed that such a person would have a thorough knowledge of ADHD and its treatment and, in particular, the development, research or clinical use of ADHD drug therapies. I accept that this could include a psychiatrist, a pediatrician, doctorial pharmacist or a PhD in psychopharmacology.
+3. G. Chouinard et al., "An Early Phase II Clinical Trial of Tomoxetine (LY 139603) in the Treatment of Newly Admitted Depressed Patients" (1984) 83 Psychopharmacology 126.
+4. The suggested dosing regimen in the '735 Patent is stated in identical language to that used by Lilly in its '590 Patent which predated the MGH Study. In the result Lilly does not assert that the recommended dosing is part of the inventive promise of the '735 Patent.
+5. Andrew Shenker, "The Mechanism of Action of Drugs Used to Treat Attention-Deficit Hyperactivity Disorder: Focus on Catecholamine Receptor Pharmacology" (1992) 39 Adv. Pediatrics 337.
+6. Joseph Biederman et al., "A Double-Blind Placebo Controlled Study of Desipramine in the Treatment of ADD: I" (1989) 28(5) J. Am. Acad. Child Adolesc. Psychiatry 777. Both parties relied upon this study, but for the opposite proposition.
+7. Alan J. Zametkin & Judith L. Rapoport, "The Pathophysiology of Attention Deficit Disorder with Hyperactivity" (1986)(9) Adv. Clinical Child Psychology 177 at 187;
+8. Timothy E. Wilens et al., "Nortriptyline in the Treatment of ADHD: A Chart Review of 58 Cases" (1993) 32(2) J. Am. Acad. Child Adolesc. Psychiatry 343.
+9. Maureen Donnelly et al., "Treatment of Childhood Hyperactivity with Desipramine: Plasma drug concentration, Cardiovascular Effects, Plasma and Urinary Catecholamine Levels, and Clinical Response" (1986) 39:1 Clin Pharmacol. Ther. 72.
+10. David Wong et al., "A New Inhibitor of Norepinephrine Uptake Devoid of Affinity for Receptors in Rat Brain" (1982) 222(1) J Pharmacol Exp Ther. 61.
+11. Robert L. Zerbe et al., "Clinical Pharmacology of Tomoxetine, a Potential Antidepressant" (1985) 232:1 J Pharamacol. Exp. Ther. 139.
+12. Donald R. Gehlert, Susan L. Gackenheimer and David W. Robertson, "Localization of rat brain binding sites for [3H] tomoxetine, and enantiomerically pure ligand for norepinephrine reuptake sites" (1993) 157 Neuroscience Letters 203 at 203.
+13. Thomas Spencer et al., "Effectiveness and Tolerability of Tomoxetine in Adults with Attention Deficit Hyperactivity Disorder" (1998) 155(5) Am. J. Psychiatry 693.
+14. A preliminary draft of this report referred to a patient sample of ten women and nine men. No explanation was provided for this discrepancy. The initial MGH Study protocol predicted that a patient sample of forty would be required.
+15. Thomas Spencer et al., "Effectiveness and Tolerability of Tomoxetine in Adults with Childhood Onset Attention Deficit Hyperactivity Disorder" at 1, inc. 4 tables, 2 figures.
+16. David Michelson et al., "Atomoxetine in Adults with ADHD: Two Randomized, Placebo-Controlled Studies" (2003) 53 Biological Psychiatry 112 at 117.
+17. An example of this was the failure of the MGH Study team to fully control for co-morbidities. This may have been a deliberate attempt to replicate real-world conditions but it allows for the introduction of a treatment variable that could potentially confound the results obtained.
+18. Dr. McGough conceded that atomoxetine had a side-effect profile which commonly included nausea and, to a lesser degree, dry mouth, insomnia, dizziness and constipation.
+19. Joseph Biederman et al., "Efficacy and Tolerability of Lisdexamfetamine Dimesylate (NRP-104) in Children with Attention-Deficit/Hyperactivity Disorder: A Phase III, Multicenter, Randomized, Double-Blind, Forced-Dose, Parallel-Group Study" (2007) 29(3) Clinical Therapeutics 450 at 458.
+20. Novopharm argues that the
+Patent
+Act
+does not expressly recognize the theory of sound prediction and instead speaks only of demonstrated or actual usefulness. Novopharm argues that the "lowering" of the statutory utility requirement is what obliges additional consideration from the patentee. Presumably the disclosure of the evidence and the line of reasoning followed to make the prediction permit the person skilled in the art to make an informed decision about safely working an invention not previously worked by the inventor.
+[End of document]

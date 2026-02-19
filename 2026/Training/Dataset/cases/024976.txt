@@ -1,0 +1,153 @@
+[1]
+Muldoon, J.
+: This is a dual application, or appeal and cross-appeal, brought by both the plaintiff and the defendant by way of notice of motion pursuant to Federal Court Rule 336(5). The parties appeal part of the orders of Prothonotary Hargrave made May 12, 1997 [see 1997 F.T.R. Uned. 236]. This order was subsequently amended on August 6, 1997 to correct typographical errors. The main action involves an allegation by the plaintiff, an American manufacturer of lottery tickets, that the defendant has infringed its patent for a lottery ticket integrity number. The orders rendered by Prothonotary Hargrave relate to separate motions brought by the plaintiff and defendant whereby each sought to require the other to answer questions and produce documents requested during examinations for discovery. These motions were heard together on February 12 and 13, 1997. The plaintiff and defendant were each partially successful. With respect to the motion brought by the plaintiff, Prothonotary Hargrave ordered the defendant to provide answers or supply material as requested in certain numbered questions from the examination for discovery of Mr. Gordon Pollard. In response to the defendant's motion, Prothonotary Hargrave ordered the plaintiff to provide answers or supply material as requested in certain numbered questions from the examination for discovery of William Behm. Prothonotary Hargrave gave his reasons for allowing or disallowing each of the questions and documents which the respective parties sought to have answered or produced in detailed reasons some 59 pages long. These appeals came on for hearing in Winnipeg, on July 15, 1997.
+Background
+[2]
+The facts and issues leading to the main action in this matter were described by Prothonotary Hargrave in his reasons for his order of May 12, 1997. With some clarification they are:
+[3]
+The plaintiff is an American manufacturer of lottery tickets, particularly of the so-called instant-win or scratch-and-win variety. The plaintiff holds a Canadian patent for a lottery ticket integrity number, being a number on the reverse of the ticket which is algorithmicly related to accounting information on the front of the ticket. It seems that unscrupulous individuals employed by lottery administrations, having access to winning tickets might, after the ticket holder had been paid out, delaminate the ticket, pasting the winning face, composed of aluminum foil, onto the paper back of ticket made out in their own name and resubmit the ticket.
+[4]
+Through the plaintiff's procedure, the accounting information of the face of the ticket can be processed by a computer into the algorithmicly related number printed on the reverse of the ticket as the roll of laminated ticket stock is fed through a press which prints the computer controlled information on both sides of the ticket. As it seems, the permutations and combinations of accounting information produced by this technique are such that even a three character integrity number, composed of letters and figures, would be so complex that the average scoundrel would find he had better things with which to occupy himself than to try to compute a valid integrity number. Abu Ja'far Mohammed ben Musa, known as al Khowarasmi, the ninth century mathematician, from whose agnomen the term algorithm is derived, would doubtless be most fascinated by such a worldly application of the casting of numbers with which his name is still associated.
+[5]
+Now the defendant, Pollard Banknote Limited is, among other things, in a similar business of printing instant-win lottery tickets, 47 types of which, the plaintiff says, infringe its patent process for printing related numbers on the front and back of such tickets. Indeed the plaintiff contends its patented procedure of printing algorithmicly related numbers is what made the defendant's lottery tickets a commercial success. The defendant says its tickets, by reason of its technique and manufacturing process, obviate the need for an integrity number. The defendant says that not only was the plaintiff's invention obvious and known prior to the plaintiff's claim of invention, but that the whole idea had previously been patented in Canada. The defendant goes on to counterclaim for, among other things, a declaration of the plaintiff's patent's invalidity.
+Standard Of Review
+[6]
+Subsection 336(5) of the
+Rules
+gives a person affected by an order or decision of a prothonotary a right to appeal that order or decision to a judge of this court. It reads:
+"336(5) Any person affected by an order or decision of a prothonotary, other than a judgment under rules 432 to 437, may appeal therefrom to the court and such appeal shall be made by an application of which a notice shall be given to all interested parties setting forth the grounds of objection and served within 14 days after the order or decision complained of, and four clear days before the day fixed for hearing the same, or served within such other time as may be allowed by the court or a prothonotary on ex parte application. The appeal shall be filed not later than two days before the date named for hearing." (In this paragraph, "court" means "Trial Division", if the matter is in the Trial Division, and "Court of Appeal", if the matter is in the Court of Appeal.)
+[7]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 127 (F.C.A.), Mr. Justice Hugessen held that parties appearing before a judge on an appeal from an order or decision of a prothonotary, were always entitled to have their case considered de novo. He wrote at p. 317  <FRAGMENT_SUPPRESSED> :
+"In this latter connection we would add that, contrary to a view that has sometimes been expressed in the Trial Division, a judge who hears an appeal from a prothonotary on a matter involving the exercise of discretion is called upon to exercise his own discretion and is not bound by the prothonotary's opinion.
+. . . . .
+"He may, of course, choose to give great weight to the views expressed by the prothonotary, but the parties are, in the final analysis, entitled to the discretion of a
+judge
+and not that of a subordinate officer. The situation is, of course, different where a referee (who may be a prothonotary) has heard witnesses and made findings of fact based on his assessment of credibility."
+[8]
+More recently, the Federal Court of Appeal has qualified the views expressed by Mr. Justice Hugessen. A more deferential approach to the discretionary decisions of prothonotaries is now preferred.  <FRAGMENT_SUPPRESSED> , at p. 462  <FRAGMENT_SUPPRESSED>  (F.C.A), the Court of Appeal held that although the judge who sits on appeal from a prothonotary's decision has the power to exercise his or her own discretion de novo, this should be done in limited circumstances. Mr. Justice MacGuigan, writing for the majority, articulated the following standard of review to be applied by a motions judge when deciding whether to disturb the discretionary orders or decisions of prothonotaries (at pp. 462-464)  <FRAGMENT_SUPPRESSED> :
+"I also agree with the Chief Justice in part as to the standard of review to be applied by a motions judge to a discretionary decision of a prothonotary. Following in particular Lord Wright in
+ <FRAGMENT_SUPPRESSED>  (H.L.), at p. 484, and Lacourcière, J.A., in
+ <FRAGMENT_SUPPRESSED>  (Div. Ct.),
+discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretionary based upon a wrong principle or upon a misapprehension of the facts), or where they raise question vital to the final issue of the case, a judge ought to exercise his own discretion de novo.
+"In
+Canada v. 'Jala Godavari' (The)
+, (1991), 40 C.P.R.(3d) 127 (F.C.A.), this court in an obiter dictum stated the rule the other way around, seeking to emphasize the necessity for the exercise of the judge's discretion de novo, in contradistinction to the view that was at that time gaining acceptance in the Trial Division that the prothonotary's discretion should be followed unless he had committed error of law.
+Jala Godavari
+should not, I think, be read as meaning that the prothonotary's discretion should never be respected, but rather that it is subject to the overriding discretion by a judge where the question involved is vital to the final issue in the case. (Error of law is, of course, always a reason for intervention by a judge, and is not in any way in controversy)." (pp. 462 & 463  <FRAGMENT_SUPPRESSED> ). (emphasis not in original)
+Mr. Justice MacGuigan then went on to elaborate upon the meaning of "questions vital to the final issue of the case". After stating that such questions are ones which have the effect of providing a final resolution to the case, Mr. Justice MacGuigan made the following remarks, at pp. 464 and 465  <FRAGMENT_SUPPRESSED> :
+"The question before the prothonotary in the case at bar can be considered interlocutory only because the prothonotary decided it in favour of the appellant. If he had decided it for the respondent, it would itself have been a final decision of the case.
+. . . . .
+"It seems to me that a decision which can thus be either interlocutory or final depending on how it is decided, even if interlocutory because of the result, must nevertheless be considered vital to the final resolution of the case.
+Another way of putting the matter would be to say that for the test as to relevance to the final issue, the issue to be decided should be looked to
+before
+the question is answered by the prothonotary, whereas that as to whether it is interlocutory or final (which is purely a pro forma matter) should be put after the prothonotary's decision
+. Any other approach, it seems to me, would reduce the more substantial question of 'vital to the issue of the case' to the merely procedural issue of interlocutory or final, and preserve all interlocutory rulings from attack (except in relation to error of law)." (emphasis not in original text)
+[9]
+Since the decision of the Court of Appeal in
+Aqua-Gem
+, above, there have been several Trial Division decisions adopting the standard of review set out therein. The general view in the jurisprudence is that a prothonotary's exercise of discretion is entitled to significant deference, and that a motions judge should not interfere unless either of the two circumstances set out in
+Aqua-Gem
+exist (e.g.,
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+The Questions
+[10]
+At hearing, the parties having appealed the prothonotary's order addressed only some of the questions contained in their respective notices of motion. The court will deal only with the questions which were at issue at the hearing and in the sequence in which they were heard. Reference to "reasons" indicates the learned prothonotary's reasons.
+Part I
+Appeal Of The Defendant
+[11]
+At the hearing the defendant submitted a shortened list of questions it wished to appeal from the May 12, 1997 order. These questions were: (Examination of the Pollard): 831, 847, 849, 861, 1202, 1284, (Examination of Behm) 128, 129, 198, 301, 650, 651, 837, 1065. Questions 198, 837 and 1065 had been answered prior to the hearing, counsel stated, and were therefore not in issue.
+Examination Of Mr. Gordon Pollard
+Question 831, p. 273
+(reasons, p. 4) [of original]
+[12]
+The learned prothonotary ordered that invoice material relevant to the alleged infringement be produced for the use of the plaintiff's counsel. In order further to clarify Prothonotary Hargrave's order counsel for the plaintiff made the following undertaking at the hearing: Not to discuss the specific information contained in the invoice material with his clients. The question is relevant to the matter in issue, and the undertaking (breach of which would now amount to contempt of court) makes it unobjectionable. The appeal of the order of the May 12, 1997, as it pertains to question 831, is dismissed subject to the undertaking of the plaintiff's counsel.
+Questions 847, 849, 861 and 1202, pp. 284, 286, 291 and 417-22
+, (reasons, pp. 5 & 6) [of original]
+[13]
+These questions all relate to revenue information and request the production of specification sheets, warehousing invoices and financial summaries which are primarily needed to verify the testimony of Mr. Pollard and to verify the previously-provided gross revenue and expense evidence. The defendant argued that the quantity figures included in these materials are not only damaging to its competitive position but also irrelevant to the main action. The court agrees with the order of the prothonotary and finds that the production of these documents is relevant. However, the prothonotary erred by not considering that the material may potentially be used for the determination of profit margins. The issue of accounting for profits in the main action does not comprise or require the disclosure of profit margins. Any information relating to quantity, because of its connection to profit margins, is irrelevant and is not properly a subject for these particular examinations for discovery. The Court of Appeal stated in
+ <FRAGMENT_SUPPRESSED>  proper issues on discovery but that certain limits apply. Mr. Justice Hugessen stated:
+"... One of the principal questions on the reference will be to know what part of the profit realized from those sales must be accounted for. Another question, equally important, will be to determine the amount of such profit. In answering those questions the court must be conscious that it is the defendant's wrongdoing which has made the present litigation necessary and that neither the court nor the plaintiff are (sic) obliged to accept, at face value, the defendant's assertions as to its revenues and costs.
+On the other hand, the defendant, like any litigant, is entitled to be protected by the court from abusive and unnecessary intrusions into its private affairs
+," (emphasis not in original text)
+Considering that liability in this current matter has not yet been determined, the defendant should be accorded greater protection from unnecessary intrusions. As per the order of May 12, 1997, the documents in question are compellable, however such compulsion is subject to the defendant's right to obliterate or otherwise conceal any reference to any irrelevant quantity of tickets in that material. In regard to this group of questions, subject only to the above permission to obliterate parts, the appeal is dismissed.
+Question 1284, pp. 10 and 19
+, (reasons, pp. 10-12 and 19-21) [of original]
+[14]
+The prothonotary omitted reference to the second part of Q. 1284. The first part of Q. 1284 has already been answered by the defendant. The nonadjudicated portion of this question asks the defendant to match the allegedly infringing games, 1 to 47, to the tickets produced in Exhibit "O". The defendant has argued that matching this information would put in the hands of the plaintiff the key to the defendant's pricing structure. For the reasons stated above pertaining to questions 847, 849, 861 and 1202 this portion of question 1284 does not need to be answered. The disposition by the prothonotary found on p. 12 of his [original] reasons is affirmed and the appeal is dismissed. As to the second part of which no disposition occurred where it might have been expected, it is considered that the appeal should be allowed, and the defendant be not required to effect the above stated matching.
+Examination Of Mr. William Behm
+Questions 128 and 129, pp. 40-42
+, (reasons pp. 45 & 46) [of original]
+[15]
+In his order the prothonotary found that the promotional materials referred to in these questions were not producible, stating that marketing and promotional materials produced prior to the patent date were not relevant to the action. The prothonotary was correct in his assessment regarding the plaintiff's claim but erred in relation to the defendant's counterclaim. Any material which proves or disproves the validity of the patent is relevant to the action. Promotional materials which attest to the state of the art prior to the patent date are clearly relevant where the validity of a patent is at issue, as here.
+[16]
+These questions as posed to Mr. Behm are proper and the material requested by the defendant is compellable. The appeal in this regard is allowed.
+Question 301, p. 89
+, (reasons pp. 49 & 50) [of original]
+[17]
+The priority date which is set by the filing of the patent application and which is relied upon by the plaintiff in this action, is the relevant date. The date of invention, as the learned prothonotary had found, is not relevant to this matter. The question concerning the date of the invention is not relevant and therefore not compellable. Appeal dismissed.
+Question 650, pp. 181-82
+, (reasons p. 36) [of original]
+[18]
+Counsel for both the plaintiff and the defendant agreed that tickets manufactured by the plaintiff were relevant to these proceedings. However, the prothonotary found that the task of gathering these ticket samples would be far more onerous than their potential usefulness. The defendant's counsel has submitted that the prothonotary erred in light of the fact that there is no evidence to support this position. The probative value of these ticket samples will be determined at trial. A representative sample of each Scientific Games Inc. ticket containing an integrity number shall be produced by the plaintiff for the defendant, and the plaintiff shall be bound at trial by such samples' representativeness. To the extent of compelling the plaintiff to produce a representative sample, the appeal is allowed.
+Question 651, p. 183
+, (reasons p. 36) [of original]
+[19]
+As was ordered by the prothonotary, this question concerning the reason why the process was given the name "dual security process" does not need to be answered. This aspect of the defendant's appeal is dismissed.
+Part II
+Appeal of the plaintiff
+[20]
+Prior to the hearing the plaintiff submitted a list of questions from which it wanted to appeal the prothonotary's order of May 12, 1997. These questions were: 997, 1323, [1327], 1310, 1311, [1539], 1598, [1600], [1601]. At the hearing the plaintiff abandoned the appeals of questions noted in square brackets.
+Examination Of Mr. Gordon Pollard
+Question 997, p. 342
+, (reasons p. 7) [of original]
+[21]
+For the reasons stated in the prothonotary's order this question relating to what overhead costs are directly attributable to the manufacturing process does not need to be answered, because it is premature now, but may be required by the trial judge. The appeal is dismissed.
+Question 1310, p. 472
+, (reasons p. 14) [of original]
+[22]
+The question as posed is clearly relevant. The plaintiff, on this line of questioning, will be able to determine whether or not it should call the customers of the defendant as witnesses in order to establish whether or not a purchase of noninfringing tickets was connected to the purchase of infringing tickets. Since all profits directly or indirectly related to an infringement are recoverable, this question is relevant (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 116, at p. 119 (F.C.A.), and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 15, at p. 20 (T.D.)) The prothonotary was correct in finding that questions which asked "whether other sales were made because of the sale of infringing tickets" were irrelevant. The answer to those questions is properly in the minds of the defendant's customers and not in the mind of the defendant. However, question 1310 as posed is quite factual, relevant and will be answered. The appeal, in this regard, is allowed.
+Question 1311, p. 472
+, (reasons p. 14) [of original]
+[23]
+It follows that the contracts connected to Q. 1310 would then be relevant to this proceeding. The defendant shall produce any contracts which come within the response to Q. 1310 subject to the same confidentiality requirements of the May 12, 1997 order as it pertains to Q. 831 and subject to the same permissions granted to the defendant re: Q. 847, to obliterate or otherwise conceal any reference to quantity in those contracts. Appeal allowed in the above-stated manner.
+Question 1323, pp. 478-479
+, (reasons pp. 8 & 9) [of original]
+[24]
+Without considering the degree of relevance, the prothonotary correctly decided that the defendant has gone sufficiently far in answering the question. The defendant has furnished the plaintiff with data on the labour component cost for the manufacture of one of the allegedly infringing tickets. It has also agreed to give reasonable access to the plaintiff so that the plaintiff can verify the figures provided for the other 46 tickets. The plaintiff's appeal as it pertains to Q. 1323 is dismissed.
+Question 1598, p. 585
+, (reasons pp. 18 & 19) [of original]
+[25]
+This question, which related to the defendant's opinion as to whether a "check digit" number performs the same function as an integrity number, is not compellable for the reasons stated in the May 12, 1997 order, which is affirmed in this regard.
+[26]
+For the above reasons these applications appealing the orders of Prothonotary Hargrave, dated May 12, 1997, are allowed in part and dismissed in part, as above stated.
+Commentaries
+[27]
+The defendant in these proceedings is in an awkward posture in that it was ordered that the trial proceed on the bases of enquiry into the alleged infringement as well as the damages which would flow if infringement were found. This tort case is quite unlike a personal injury case where it makes infinite sense to have the trial judge also assess damages, upon the evidence submitted, at or after the trial in one set of reasons or judgment. However, in patent infringement cases it makes no sense to compel the defendant to reveal sensitive commercial competitive information at trial before its liability, if any, for infringement be known.
+[28]
+Further, in this judge's experience of 14+ years on this court's bench, the remedy of accounting for profits is wasteful and unnecessary. It wastes the limited resources of a small court, as can be seen in earlier cases (
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), and
+ <FRAGMENT_SUPPRESSED>  (T.D.), among others. Indeed, all sorts of experts in accounting are capable of confounding the notions and realities of "profits"; and even moreso, frequently, in the accounting plight in which the offending defendant finds itself with its well or ill kept records. (Other examples have been cited here:
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), and
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), Mr. Justice Collier refused the remedy and expressed this observation:
+"A successful plaintiff is not entitled, as a matter of course or right, to elect the method of determining the monetary compensation."
+This reveals all the more reason not to fix the method of determining monetary compensation before one even discovers whether or not there will be a successful plaintiff. The matter is within the equitable jurisdiction of this court and is properly decided only by a trial judge who is aware of all the circumstances of the litigation. Accounting of profits should not be allowed simply by reason of a plaintiff's purported election.
+[30]
+This court and the law profession ought to heed the sage words of Mr. Justice Rouleau in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 448 (T.D.), at p. 471, where he gives good reasons for avoiding the remedy.
+[31]
+The remedy of an accounting of the defendant's profits was incorporated into U.S. Patent legislation subsequent to the introduction of the remedy in the Canadian
+Patent Act
+. However, the remedy of accounting was abolished by the U.S.
+Patent Act
+of 1946 (see
+ <FRAGMENT_SUPPRESSED> , at p. 505.). In the U.K., patent legislation was amended in 1919 to exclude the remedy of an accounting of profits only to by restored in 1949 on the recommendation of the Swan Committee, a 1947 Departmental Committee of the Board of Trade, Cmd. 7206, p. 48. The Committee explained that when patentees are limited to a remedy in damages, they may thereby be obliged to disclose to the infringer, possibly a competitor in trade, information which could prove compromising to the patentee's business. But such would not be the case at all if damages were equated to royalties which could be, in the court's discretion, nonconfiscatory or indifferent as to whether confiscatory or not. Then no disclosure would be needed from the successful plaintiff. It would be up to the defendant to prove at what point the level of royalties would be confiscatory or not. Also, the defendant's records would show how many infringing units had been sold. In any event, successful plaintiffs would be well enough served by receiving damages equalling generous royalties as their compensation.
+[32]
+"Profits" are an indeterminable, slippery subject. Damages by way of royalties make much more sense. Perhaps the newly resurrected Law Commission of Canada might consider recommending utter abolition of the award of profits to a successful patent plaintiff. The survival of the present choice of awarding profits may well be the mark, in general, of plaintiffs' (if not both parties') affluence to the extent of not caring how costly or wasteful of time and resources is their precious patent litigation. It could be said that intellectual property litigation, in general, and patent litigation, in particular, evince easily as much corporate ego as intellect or science.
+Order accordingly.
+Editor: Gary W. McLaughlin/saf
+[End of document]

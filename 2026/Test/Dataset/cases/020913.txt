@@ -1,0 +1,1096 @@
+[1]
+Mainville, J.
+: This judgment concerns an application for judicial review challenging the jurisdiction of the Privacy Commissioner of Canada ("Privacy Commissioner") to carry out an investigation under the
+Personal Information Protection and Electronic Documents
+Act
+, S.C. 2000, c.5 ("
+PIPEDA
+") and to compel access to information which is covered by solicitor-client privilege or litigation privilege in the New Brunswick courts.
+[2]
+The main issue in these proceedings is whether the provisions of
+PIPEDA
+apply to evidence collected by an insurer on behalf of an insured in order to defend that insured in a third party tort action. For the reasons which follow, I conclude that they do not.
+Background
+[3]
+The Applicant, State Farm Mutual Automobile Insurance Company ("State Farm") is licensed to carry on business as a motor vehicle insurer in New Brunswick.
+[4]
+In March of 2005, Jennifer Vetter and Gerald Gaudet were involved in a motor vehicle accident which occurred in New Brunswick. Ms. Vetter was then insured with State Farm under a standard automobile policy prescribed by New Brunswick insurance legislation and which provided that her insurer had a duty to defend her. State Farm thus retained legal counsel for Ms. Vetter in contemplation of litigation to be initiated by Mr. Gaudet against her.
+[5]
+On advice of counsel, State Farm hired private investigators to inquire about the activities of Mr. Gaudet. These private investigators used video surveillance on several occasions both before and after the commencement of a personal injury tort action by Mr. Gaudet against Ms. Vetter initiated in the New Brunswick Court of Queen's Bench in December of 2005.
+[6]
+Shortly before initiating his tort action, in November of 2005, Mr. Gaudet, through his legal counsel, requested from State Farm, pursuant to
+PIPEDA
+, any and all of the information it had collected on him, and in particular copies of any surveillance reports or tapes. State Farm denied this request on the ground that
+PIPEDA
+did not apply. That request under
+PIPEDA
+was renewed by Mr. Gaudet on January 21, 2006 and again denied by State Farm on the same ground.
+[7]
+In the course of the personal injury tort proceeding against her in the New Brunswick Court of Queen's Bench, Ms. Vetter's legal counsel, who had been retained by State Farm to defend her, submitted to Mr. Gaudet's legal counsel in February 2006 a draft affidavit of documents, as is the usual practice in such matters. In this draft affidavit, litigation privilege was claimed by Ms.Vetter over the narrative surveillance reports and related video tapes concerning Mr. Gaudet. The final affidavit of documents was provided in April of 2006.
+[8]
+On February 22, 2006, Mr. Gaudet complained to the Privacy Commissioner under
+PIPEDA
+, alleging that, in violation of the provisions of
+PIPEDA
+, State Farm had denied access to his personal information, disclosed his personal information to a third party without his consent and had not provided adequate safeguards to protect his personal information. The Privacy Commissioner informed State Farm of this complaint, but kept that matter in abeyance pending receipt of representations from State Farm and the appointment of an investigator. State Farm conveyed its position that the Privacy Commissioner had no jurisdiction to proceed under
+PIPEDA
+.
+[9]
+On May 17, 2007, Privacy Investigator Arn Snyder wrote the following letter to State Farm concerning the complaint by Mr. Gaudet:
+"I am writing to notify you that I have been assigned the responsibility of investigating the complaint under the
+Personal Information Protection and Electronic Documents Act
+(
+PIPEDA
+) received from the above-named individual.
+I have reviewed the correspondence received from David T.S. Fraser from the law firm McInnes Cooper, dated August 28, 2006. Mr. Fraser indicates that he is counsel to State Farm Mutual Automobile Insurance Company (State Farm) on this matter. I will now address the issues raised by Mr. Fraser and will then outline what information I will require from State Farm.
+1) Jurisdiction: The Office of the Privacy Commissioner (OPC) is of the opinion that it has jurisdiction. The comments of the court in <FRAGMENT_SUPPRESSED> concerning [sic] application of
+PIPEDA
+were strictly obiter and are not viewed as precedent by the OPC.
+2) Other Grievance Procedure: The complainant sent State Farm correspondence dated January 31, 2006 and received a reply from State Farm dated February 14, 2006. The OPC correspondence to State Farm is dated July 24, 2007.
+3) Further Particulars: The complainant's allegations are outlined in the initial notification letter dated July 24, 2006 sent to you by OPC.
+To conduct my investigation I will require the following information:
+1) A list of all the documents (or other format such as videotape) containing Gerald Gaudet's personal Information held by State Farm at the time of his request.
+2) A list of the documents (or other format such as videotape) which have been released to Gerald Gaudet by State Farm.
+3) A list of all the documents (or other format such as videotape) which have been denied access and a notation as to under what authority was the access denied.
+4) In the event that State Farm is denying access under solicitor client privilege on any documents (or other format such as videotape) I will require this information in the following format: the date of the document, the document type, the author, the recipient, and the grounds for privilege. In order to increase the value of the evidence of the list will require that:
+a) the list be in the format of a sworn affidavit (similar to a Schedule B format) and,
+b) the affidavit contains a statement from the organization's counsel that they explained the concept of solicitor-client privilege to the affiant prior to the affiant taking the oath. Also, please remember that while your organization is not compelled to disclose these documents to us for our review, it is possible for you to do so and we would keep the documents confidential. Moreover, if it turns out that you cannot adequately prove to our satisfaction that these remaining documents are privileged, we will have no choice, as the Federal Court of Appeal has suggested in the
+Blood Tribe
+decision, but to make an application to the Federal Court for a determination on the validity of your claim.
+5) In the event that State Farm is denying access for any other reason I will require access to those documents (or other format such as videotape).
+6) A copy of State Farm's Privacy Policy.
+7) A description of the circumstances where State Farm disclosed Gerald Gaudet's personal information including the type of information disclosed, the date and recipient.
+8) A confirmation that State Farm hired a third party to conduct surveillance on Gerald Gaudet, a copy of the Agreement between State Farm and the third party and/or any directions provided to the third party by State Farm.
+9) A confirmation as to whether State Farm retains the personal information of Gerald Gaudet solely in Canada.
+I appreciate receiving this information by June 22, 2007 [...]"
+[10]
+Following receipt of this letter, State Farm initiated proceedings before the New Brunswick Court of Queen's Bench seeking a declaration that the Privacy Commissioner did not have statutory or constitutional authority to investigate, make recommendations, or otherwise act upon the complaint of Mr. Gaudet. The Court of Queen's Bench, however, decided that the Federal Court was the appropriate forum to determine these issues:
+ <FRAGMENT_SUPPRESSED> .
+[11]
+State Farm appealed this ruling to the Court of Appeal of New Brunswick, which ruled that since the Federal Court had exclusive jurisdiction over the statutory vires question regarding the Privacy's Commissioner's authority to act under
+PIPEDA
+, and concurrent jurisdiction to hear the constitutional validity issue, it was the proper forum for the resolution of the dispute raised by State Farm:
+ <FRAGMENT_SUPPRESSED> ; 307 D.L.R.(4th) 495; 341 N.B.R.(2d) 1; 876 A.P.R. 1; 2009 NBCA 5.
+[12]
+Consequently, this judicial review proceeding was initiated by State Farm before the Federal Court on April 17, 2009, and a notice of constitutional question was submitted shortly thereafter.
+The position of State Farm
+[13]
+State Farm first submits that this case can be decided without reference to constitutional considerations and on the simple basis of the interpretation of the language of
+PIPEDA
+.
+[14]
+Part 1 of
+PIPEDA
+applies to every organization in respect of personal information that the organization collects, uses or discloses in the course of "commercial activities". The expression "commercial activity" is defined in subsection 2(1) of
+PIPEDA
+as an act or transaction or course of action that is of a "commercial character." State Farm submits that a defendant in a civil action, and a defendant's agents, are not engaged in "commercial activity" vis à vis the plaintiff in that action in view of the ordinary meaning of those words. Here, Mr. Gaudet is attempting to use
+PIPEDA
+in order to obtain information beyond what he is entitled to under the rules of tort litigation in New Brunswick and without having any commercial relationship with Ms. Vetter or State Farm.
+[15]
+State Farm thus submits that the analysis carried out in
+ <FRAGMENT_SUPPRESSED> ; [2004] O.J. No 1775 (Sup. Ct.) (" <FRAGMENT_SUPPRESSED> ") is correct. That case involved an insurer defending an insured and using video surveillance to do so. The issue was whether the video surveillance and the disclosure thereof to counsel were in violation of
+PIPEDA
+. <FRAGMENT_SUPPRESSED> held that the principle of agency applied in such circumstances; consequently it was the defendant in the civil case who was the person collecting the information, albeit through his insurer, and the information was thus not covered by
+PIPEDA
+in view of paragraph 4(2)(b) thereof which excludes information that an individual collects, uses or discloses for personal or domestic purposes.
+[16]
+State Farm submits that <FRAGMENT_SUPPRESSED> is good law, particularly on the ground that when a federal statute can be properly interpreted so as to not interfere with a provincial statute, such an interpretation is to be applied in preference to another construction that would bring about a conflict between the statutes.
+[17]
+In the event this interpretation of
+PIPEDA
+should not be accepted by this Court, State Farm submits, in the alternative, that those provisions of
+PIPEDA
+making that legislation applicable to organizations engaged in provincially regulated commercial activity are unconstitutional.
+[18]
+State Farm argues that the provisions of
+PIPEDA
+covering provincially regulated commercial activities conflict with the provincial powers over Property and Civil Rights and over the Administration of Justice contemplated in section 92 of the
+Constitution
+Act
+, 1867
+, and also conflict with section 96 of the
+Constitution
+Act
+, 1867
+.
+[19]
+Property and Civil Rights cover the vast bulk of commercial activities in a province. This includes jurisdiction and regulatory authority over insurers in the provinces and enables the provinces to legislate with respect to motor vehicle accidents and the law of torts in general. Property and Civil Rights also allow a province to regulate privacy rights.
+[20]
+Section 92(14) of the
+Constitution
+Act
+, 1867
+specifically confers on the provincial legislatures the exclusive power to make laws in relation to the administration of justice, which includes procedure in civil matters before the provincial superior courts. The rules applicable in New Brunswick recognize litigation privileges and the right not to disclose the existence of surveillance evidence intended to be used solely on cross-examination. The application of
+PIPEDA
+proposed by the Privacy Commissioner would seriously encroach on these rules and hence on the provincial power over the administration of justice. The present case is an apt illustration of the mischief at hand: a federal agency is seeking to intervene, directly or through the Federal Court's supervisory authority, in a tort litigation evidentiary matter falling squarely within the provincial sphere of competence and that of section 96 courts.
+[21]
+All steps taken in the course of civil litigation, including the collection, disclosure or non-disclosure of evidence, have been within the jurisdiction of section 96 superior courts since before Confederation, as have the rules of solicitor-client privilege. State Farm contends that
+PIPEDA
+deprives section 96 courts of the right to control their own processes, and consequently infringes upon the core jurisdiction of section 96 courts.
+[22]
+State Farm adds that the provisions of PIPEDA covering provincially regulated commercial activity are not a valid exercise of the general branch of the federal Trade and Commerce power since they do not meet the indicia or factors for the valid exercise of that power as enumerated in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 332; 58 D.L.R.(4th) 255.
+[23]
+In particular, to be valid under the federal Trade and Commerce power, the legislation must be concerned with trade as a whole rather than a particular industry; in this case,
+PIPEDA
+addresses a specific commodity, namely "information". Moreover, the legislation must be of such a nature that the provinces, together or independently, would be constitutionally incapable of enacting it; yet privacy and personal information have been regulated by the provinces under various provincial legislative frameworks. Finally, it must be shown that the failure to include one or more provinces in the legislative scheme would jeopardize the successful operation of the scheme in other parts of the country; however, the simple fact that national rules on a particular subject may seem convenient does not, by itself, make the subject one of national concern.
+[24]
+If the federal government is to use the Trade and Commerce power to displace provincial authority over commerce within the provinces, it should be required to show that there is a pressing and substantial concern calling for a federal regulatory scheme, that the scheme is rationally connected to that objective, that it impairs the provincial legislative authority no more than necessary, and that the impairment of provincial authority is not excessive or disproportionate having regard to the importance of the federal objective.
+PIPEDA's
+regulatory scheme addresses information beyond the electronic commerce setting in which its purposes are to be found. It is accordingly excessively broad and encroaches on the exclusive provincial domain of Property and Civil Rights.
+[25]
+Consequently, State Farm submits that
+PIPEDA
+is to be read down so that its ambit is restricted to intra vires contexts, or alternatively, that paragraph 4(1)(a) of
+PIPEDA
+be struck down and declared of no force or effect so that
+PIPEDA
+will have no operational effect beyond the federal undertakings sector.
+The position of the Privacy Commissioner
+[26]
+The Privacy Commissioner submits that the application brought by State Farm before this Court is premature. Under subsection 12(1) of
+PIPEDA
+, the Privacy Commissioner must conduct an investigation in respect of a complaint. Under subsection 13(1) of
+PIPEDA
+, the Privacy Commissioner must prepare a report of findings and recommendations with respect to a complaint. However, these recommendations are not binding. It is through an application to the Federal Court that recommendations may eventually become binding by way of a court order.
+[27]
+In this case, the Privacy Commissioner argues that the May 17, 2007 letter which gave rise to this judicial review application is interlocutory in nature. In view of the case law of this Court, the Privacy Commissioner argues that interlocutory decisions are subject to judicial review only where exceptional circumstances exist. There are no such exceptional circumstances in this case.
+[28]
+To date, the Privacy Commissioner has made no rulings, recommendations or decisions regarding the complaint of Mr. Gaudet against State Farm and regarding the issue whether State Farm is in compliance with
+PIPEDA
+, or not. The Privacy Commissioner submits that if she is given an opportunity to complete her investigation and issue a report, the questions raised in State Farm's judicial review application may very well become entirely moot.
+[29]
+Moreover, the Privacy Commissioner also submits that, in view of State Farm's pre-emptive refusal to provide any information to her and its decision to bring the matter first before the New Brunswick Courts and then the Federal Court, the present application is hypothetical in nature and there is no live controversy that allows this Court to adequately examine the constitutional argument.
+[30]
+In response to State Farm's substantive arguments, the Privacy Commissioner argues that the only questions at issue are whether she has jurisdiction to commence an investigation into the complaint of Mr. Gaudet against State Farm and to require the documents in question.
+[31]
+The questions of law to be determined in this judicial review proceeding are therefore whether the Privacy Commissioner correctly interpreted sections 4 and 12 of
+PIPEDA
+in commencing an investigation and in requesting lists of documents and certain information from State Farm. In making these determinations, the Privacy Commissioner was interpreting her home statute. In view of
+ <FRAGMENT_SUPPRESSED>  (" <FRAGMENT_SUPPRESSED> ") and
+ <FRAGMENT_SUPPRESSED>  recent decisions of the Supreme Court of Canada, the standard of review applicable to decisions of administrative tribunals interpreting their home statute is that of reasonableness.
+[32]
+Section 12 of
+PIPEDA
+is clear and unambiguous: the Privacy Commissioner is required to conduct an investigation whenever she is in receipt of a complaint. It is also clear that, pursuant to paragraph 12(1)(c) of
+PIPEDA
+, the Privacy Commissioner may seek evidence in order to carry out such an investigation. The Privacy Commissioner, through the letter of May 17, 2007, took jurisdiction to conduct an investigation as she was required to under section 12 of
+PIPEDA
+, but this did not constitute a decision as to whether the conduct complained of occurred in the course of "commercial activity." A decision on this issue would follow the investigation. It is submitted by the Privacy Commissioner that her interpretation and application of these provisions of
+PIPEDA
+were reasonable and should not be interfered with.
+[33]
+In any event, in the alternative, the Privacy Commissioner submits that the collection of the surveillance information in question in the complaint from Mr. Gaudet constituted "commercial activity". State Farm collected the information because of its insurance contract concluded with Ms. Vetter as part of its insurance business. The relationship between State Farm and Ms. Vetter is entirely commercial in nature and the surveillance of Mr. Gaudet pertained to this relationship: State Farm had an obvious interest in minimizing what amounts it must pay out under that insurance contract.
+[34]
+Finally, the Privacy Commissioner submits that this Court should not consider the constitutional issues raised by State Farm since there is no proper factual foundation on which the constitutional questions raised in this application can be determined.
+[35]
+The Privacy Commissioner also raises an objection as to certain portions of the affidavits submitted by State Farm in support of its application before this Court. This will be discussed further below.
+The position of the Attorney General of Canada
+[36]
+For similar reasons to those of the Privacy Commissioner, the Attorney General of Canada submits that at the investigation stage of the process conducted by the Privacy Commissioner, judicial review is premature. Judicial review may indeed become unnecessary, depending on the Privacy Commissioner's ultimate recommendation. If State Farm is unsatisfied with the eventual recommendations of the Privacy Commissioner, it will then have the right to have those recommendations reviewed before this Court.
+[37]
+On the substantive issues, should this Court conclude that the investigation conducted by the Privacy Commissioner is reviewable, the Attorney General of Canada agrees with State Farm that the appropriate standard of review is that of correctness.
+[38]
+The Attorney General of Canada submits that the Privacy Commissioner correctly requested the information in conducting her investigation pursuant to
+PIPEDA
+.
+[39]
+The Attorney General of Canada further submits, as to the constitutional validity of
+PIPEDA
+, that it has been duly enacted under the general branch of the Trade and Commerce power.
+PIPEDA
+is a regulatory scheme designed to protect personal information in the Canadian marketplace.
+PIPEDA
+protects the privacy of individuals by imposing restrictions on the flow of personal information in the Canadian economy, regardless of whether that information is itself collected, used or disclosed as a commodity or whether it is being collected, used or disclosed in some other commercial context.
+[40]
+Under
+PIPEDA
+, personal information is regulated only insofar as it relates to how the Canadian economy functions and operates. The legislation promotes consumer confidence by protecting personal information when it is collected, used or disclosed in the course of commercial activity in the Canadian market. The significant relationship between personal information use and economic activity has developed with advances in information and communication technologies and the extensive adoption of such technologies by businesses.
+[41]
+The protection of personal information is important to the well-being of all participants in the entire Canadian marketplace. Information has become the fundamental raw material of the modern economy. The private sector has become a significant collector and user of personal information in the marketplace, and information flows are an increasingly integral part of operations in all sectors in the economy. As a result, the use of personal information in commerce contributes to a nation's gross domestic product, national competitiveness and overall economic growth. Thus, ensuring the protection of personal information in the course of commercial activity is a matter that concerns the entire Canadian economy.
+[42]
+National regulation is necessary because the effectiveness of any provincial law protecting an individual's information is completely undermined once personal information flows out of the province. Given the great national and international mobility of personal information in today's economy, universal rules are not merely convenient, they are necessary. A national scheme is consequently necessary to ensure the integrity and effectiveness of the protection of personal information.
+[43]
+As for the arguments raised by State Farm concerning section 96 of the
+Constitution
+Act
+, 1867
+, the Attorney General of Canada submits that this section does not prevent Parliament from conferring on a federal tribunal or some other federal body certain functions normally exercised by a superior court.
+[44]
+Moreover, the Attorney General of Canada also submits that the authority of the Privacy Commissioner to investigate allegations of breaches of the
+Act
+did not exist at the time of Confederation and therefore it does not relate to a power exercised by a superior court at the time of Confederation. Further, the Office of the Privacy Commissioner under
+PIPEDA
+is not judicial in nature; hence, no violation of section 96 has occurred. The Privacy Commissioner's power to compel the production of documents in the course of an investigation does not affect the jurisdiction of superior courts in any way.
+[45]
+The Attorney General of Canada has also offered abundant affidavit evidence concerning the context in which
+PIPEDA
+was adopted, and did not raise any argument based on an insufficiency of the evidentiary record in his written submissions. However, at the hearing of this Application, counsel for the Attorney General informed this Court that, a few days prior to the hearing, a new position was being put forward. Indeed, the Attorney General of Canada now also supports the Privacy Commissioner's argument that the evidentiary record is insufficient to allow this Court to properly adjudicate the constitutional questions raised by State Farm.
+The issues
+[46]
+The issues in this case may be briefly stated as follows:
+a. Is some of the evidence submitted inadmissible?
+b. Is the application premature?
+c. If the application is not premature, what is the applicable standard of review?
+d. Is the collection of evidence by an insurer acting for one of its insured in the defence of a third party tort action "commercial activity" within the meaning of
+PIPEDA
+?
+e. In the affirmative, is the application of
+PIPEDA
+to organizations that are not federal works, undertakings or businesses beyond the constitutional authority of Parliament?
+Is some of the evidence submitted inadmissible?
+[47]
+In February of 2006, Anthony Fudge, a plaintiff in a personal action before the New Brunswick courts against another insured of State Farm, filed a complaint with the Privacy Commissioner alleging that State Farm had refused to give him access to personal information. State Farm also challenged in that case the jurisdiction of the Privacy Commissioner under
+PIPEDA
+. Nevertheless, the Privacy Commissioner completed an investigation into the complaint of Mr. Fudge, prepared a detailed and lengthy written report of findings, and concluded that the complaint was well-founded.
+[48]
+Similar complaints under
+PIPEDA
+were made against State Farm in May of 2006 in the case of Allan Mason and, in July of 2006, in the case of Douglas Nash; both also plaintiffs in personal injury actions in New Brunswick involving parties insured by State Farm. The Privacy Commissioner also completed investigations into these complaints, prepared detailed and lengthy written reports of findings, and concluded that both complaints were well-founded.
+[49]
+In July of 2009, with the consent of Fudge, Mason and Nash respectively, the Privacy Commissioner then initiated applications under paragraph 15(a) of
+PIPEDA
+before the Federal Court under file numbers T-1187-09 (the "
+Fudge
+proceeding"), T-1188-09 (the "
+Mason
+proceeding") and T-1189-09 (the "
+Nash
+proceeding").
+[50]
+The
+Fudge
+,
+Mason
+and
+Nash
+proceedings were stayed pursuant to Rule 105(b) of the
+Federal Courts Rules
+, SOR/98-106 with the consent of the parties, pending the outcome of this proceeding concerning the complaint of Mr. Gaudet.
+[51]
+The Privacy Commissioner is seeking the exclusion of some of the affidavit evidence offered by State Farm. In the main, this challenge is directed at information and documents relating to the
+Nash
+,
+Fudge
+and
+Mason
+proceedings referred to above and which were offered by State Farm. The objection also concerns communications exchanged between State Farm and the lawyer representing Mr. Gaudet and a publicly available document published on the internet by the Privacy Commissioner and concerning covert video surveillance.
+[52]
+The specific affidavit evidence objected to are subparagraph 7(k) and paragraphs 8 through 14 and related exhibits of the affidavit of Rick Cicin sworn May 15, 2009 and paragraphs 10 through 22 and related exhibits of the affidavit of Rick Cicin sworn on October 21, 2009.
+[53]
+The main ground for the objection of the Privacy Commissioner is that this evidence, for the most part, post-dated the May 17, 2007 letter from the Office of the Privacy Commissioner and therefore should not be considered in this judicial review proceeding since it was not before her when the May 17, 2007 letter was drafted. As a corollary argument, the Privacy Commissioner adds that the information is irrelevant to the present proceeding.
+[54]
+It is trite law that a judicial review proceeding is conducted on the basis of the record which was before the decision maker whose decision is being reviewed. However, there are exceptions to this well-known principle, most notably when the affidavit and exhibits are produced as background information concerning the issues to be addressed in judicial review:
+ <FRAGMENT_SUPPRESSED> ; 168 F.T.R. 273 ( <FRAGMENT_SUPPRESSED>  at paras. 15 to 19, where the evidence concerns the jurisdiction of the decision maker or of the Federal Court itself to hear and determine the matter:
+McEwen, Re
+, [1941] S.C.R. 542 at 561-62;
+ <FRAGMENT_SUPPRESSED> ; 2008 FCA 354 at para. 38;
+ <FRAGMENT_SUPPRESSED> ; 187 F.T.R. 161 (T.D.) at paras. 31-32, or again where the evidence relates to a constitutional issue raised within the framework of the proceedings.
+[55]
+In this case, I conclude that the evidence offered by State Farm and which is challenged by the Privacy Commissioner is admissible, since this evidence concerns background information on the issues to be addressed in this judicial review proceeding and also concerns the jurisdiction of the Privacy Commissioner and of the Federal Court to hear and determine the matter.
+[56]
+I add that this evidence is relevant to the issues that are to be decided in this case. I note in particular that the information and documentation concerning the
+Fudge
+,
+Mason
+and
+Nash
+proceedings are highly relevant for the purposes of deciding in its proper context the issue of prematurity raised by the Respondents.
+[57]
+Consequently, I reject the objection of the Privacy Commissioner. The entire record, as constituted by the parties, is thus both admissible and relevant for the purposes of this proceeding.
+Is the application premature?
+[58]
+The Privacy Commissioner, with the support of the Attorney General, submits that the application filed by State Farm is premature. The Privacy Commissioner argues that the letter of May 17, 2007, which gave rise to this application, is interlocutory in nature and that the case law provides that interlocutory decisions are not reviewable, save exceptional circumstances, and there are none in this case. She relies on
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 1268;
+ <FRAGMENT_SUPPRESSED> ; 308 F.T.R. 163; 2007 FC 95; and
+ <FRAGMENT_SUPPRESSED> ; 2008 FCA 68 ("
+Greater Moncton Airport
+"), to support the proposition that "judicial review of interlocutory decisions should only be undertaken in the most exceptional circumstances" (
+Greater Moncton Airport
+at para. 1).
+[59]
+In my view, the objection based on prematurity is unfounded in the particular circumstances of this case. The full context in which this application was initiated sheds much light on this issue.
+[60]
+First, the complaint of Mr. Gaudet was submitted to the Privacy Commissioner on February 22, 2006. Though the Privacy Commissioner is correct in asserting that she had a legal duty to investigate this complaint pursuant to subsection 12(1) of
+PIPEDA
+, she fails to mention that, pursuant to subsections 13(1) and (3) of
+PIPEDA
+, she also had a legal duty to prepare a report "within one year after the day on which the complaint is filed" and send this report to both Mr. Gaudet and State Farm. This report triggers a right for the complainant, Mr. Gaudet, to apply to the Federal Court for a hearing pursuant to section 14 of
+PIPEDA
+.
+[61]
+The targeted organization (in this case State Farm) has no right to apply to the Federal Court for a hearing pursuant to section 14 of
+PIPEDA
+. Both subsection 14(1) and paragraph 15(a) of
+PIPEDA
+provide that such an application solely avails to the complainant. Thus, should a complainant decline to apply to the Federal Court for a hearing pursuant to section 14 or refuse to consent that the Privacy Commissioner apply for such a hearing, no hearing can be held before the Federal Court pursuant to these provisions. Consequently, State Farm can only be heard by the Federal Court pursuant to section 14 or 15 of
+PIPEDA
+if the Privacy Commissioner's report is issued and if the complainant himself initiates, or consents to, such proceedings.
+[62]
+The statutory period in which the Commissioner was to prepare a report and send it to the parties expired one year after the filing of the complaint from Mr. Gaudet. However, in this case, the Privacy Commissioner did not prepare a report within that period and has yet to do so. The net result of this situation is that Mr. Gaudet has not submitted, or consented to the submission of an application pursuant to section 14 or 15 of
+PIPEDA
+.
+[63]
+Consequently, what is significant is that State Farm is unable to address the issues it raises here through sections 14 and 15 of
+PIPEDA
+without Mr. Gaudet initiating or authorizing an application under these provisions. If one were to follow the argument of the Respondents to its logical conclusion, the right of State Farm to have its issues addressed by this Court would be entirely contingent on Mr. Gaudet's decision to pursue the matter further. This cannot be.
+[64]
+Rather than issuing a report within one year as required by
+PIPEDA
+, the Privacy Commissioner, through her delegate, decided in the May 17, 2007 letter to assume jurisdiction over the complaint notwithstanding the strong objections of State Farm. The Privacy Commissioner made that decision after the one year period provided for by
+PIPEDA
+. Had the Privacy Commissioner issued a timely report as required by the
+Act
+based on the information then available to it, Mr. Gaudet might have filed an application before this Court under
+PIPEDA
+and the issues raised here may have possibly then been addressed through that judicial process. However this is speculation. The fact of the matter is that the Privacy Commissioner did not comply with her statutory duty to issue her report within one year, and instead of issuing a report, she decided on May 17, 2007 to assume jurisdiction over the matter.
+[65]
+The decisions in the May 17, 2007 letter were initially challenged by State Farm before the New Brunswick courts on jurisdictional and constitutional grounds similar to those raised in this application. Both the Privacy Commissioner and the Attorney General of Canada contested these New Brunswick proceedings on the ground that the issues raised should be addressed before the Federal Court pursuant to sections 18 and 18.1 of the
+Federal Courts
+Act
+, R.S.C. 1985, c. F-7. The Privacy Commissioner or the Attorney General of Canada did not argue before the New Brunswick courts that the issues should be decided first by the Privacy Commissioner and then submitted to the Federal Court though an application pursuant to section 14 or 15 of
+PIPEDA
+. Indeed, they could not make such an argument since the only person who could actually initiate such an application, Mr. Gaudet, was not a party to the proceedings, and there was no way of knowing what Mr. Gaudet would decide if a report were issued.
+[66]
+The position of the Privacy Commissioner was clearly explained by her counsel during oral argument before Justice Clendening of the Court of Queen's Bench of New Brunswick (Exhibit 5 to the affidavit of Rick Cicin sworn October 21, 2009 at pages 32 -33 of the Supplementary Record of State Farm):
+"For, on the record, I'm instructed to advise the court that the Privacy Commissioner will not oppose a request for an extension of time by, by State Farm if the court's decision is that portion of the application means that the, the application must be pursued in Federal Court. And the court, the Federal Court Judge does have jurisdiction to extend the time. So the Privacy Commissioner will not be opposing any such application.
+"So, My Lady, 18(1) [of the
+Federal Courts
+Act
+] commits the Federal Court with exclusive original jurisdiction for declaratory relief, which my friend is seeking, for a matter on the, that regards the actions and conduct of a federal agency. And 18.1 [of the
+Federal Courts
+Act
+] then gives the procedure, which includes the grounds. And, again, going back to the Record, the grounds are clearly grounds raised by State Farm that fall within what the Federal Court is allowed to consider in making an order.
+"So to, to summarize, I think I've, I've gone into both of my first two points, My Lady, actually rather than keeping them separate. But to summarize with respect to those two points, the submission of the Privacy Commissioner is that the Record is clear, the very Record that has been put before the court by State Farm that they object to actions taken by a federal tribunal. They object to the federal tribunal or agency making a decision to investigate. They object to that federal agency asking them, or attempting to compel them, to produce information. And they do all of that otherwise the Privacy Commissioner would not be part of this, this application. And that being so then the cases are clear that the matter falls within the jurisdiction of the Federal Court.
+"What does that mean? What does that mean? What it means is that the Federal Court is the only one that can deal with those particular aspects of this application. And it also has jurisdiction to deal with constitutional issues, just as this court has jurisdiction to deal with constitutional issues. So it's not a case of the Privacy Commissioner putting State Farm out of court, it's simply saying in order to deal with this matter completely, in order to deal with those aspects that involve the conduct, declaratory relief, and, and orders against a federal agency, those matters must go before the Federal Court because otherwise we'll end up with two proceedings."
+[67]
+The Court of Queen's Bench of New Brunswick agreed with those arguments and referred the matter to the Federal Court in order to deal with the issues raised pursuant to its authority under section 18 of the
+Federal Courts
+Act
+. This decision was upheld by the New Brunswick Court of Appeal. Paragraphs 6 to 9 of Justice Clendening's decision read as follows (
+ <FRAGMENT_SUPPRESSED> ):
+"6. The Applicant seeks a declaratory order that the Privacy Commissioner has no authority to investigate a complaint of an individual against State Farm. This individual, Gerald Gaudet, commenced an action against Jennifer Vetter, who is insured by State Farm. The insurer has been investigating this claim, and it appears that Gerald Gaudet is not happy about surveillance of his activities by State Farm. The Privacy Commissioner has decided to investigate and demands that State Farm send to them the material they have collected on surveillance for a review by the Privacy Commissioner. I will not comment on this aspect of the motion. State Farm has refused to comply, and it filed this Application with the Court of Queen's Bench of New Brunswick.
+"7. All parties agree that the Court of Queen's Bench of New Brunswick and the Federal Court have concurrent jurisdiction to rule on the applicability and constitutional validity of federal legislation. However, the Federal Court has exclusive jurisdiction to hear applications for judicial review of a Federal Board, Commission or other Tribunal. The jurisdiction is derived from the various subsections of section 18 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7.
+"8. It is my view that the Application before me involves both questions of constitutional validity of legislation and a judicial review of the authority of the Privacy Commissioner. It is that simple. Consequently, both the constitutional validity of the
+Personal Information Protection and Electronic Documents Act
+, R.S.C. 2000, c. 5 (
+PIPEDA
+) and the judicial review should be heard by the Federal Court. Otherwise the bifurcation of proceedings would not be in the best interests of the parties.
+"9. The Application before this Court shall be stayed because the Federal Court is the appropriate forum to determine whether the Applicant is entitled to the declarations requested."
+[68]
+Moreover, while these judicial proceedings in New Brunswick were taking place, the Privacy Commissioner and State Farm continued to be embroiled in disputes raising issues similar to those raised in the proceedings initiated following Mr. Gaudet's complaint. Indeed, the
+Fudge
+,
+Mason
+and
+Nash
+proceedings referred to above raise issues almost identical to those raised in this judicial review application.
+[69]
+In the
+Fudge
+,
+Mason
+and
+Nash
+proceedings, the Privacy Commissioner did prepare and send reports pursuant to section 12 of
+PIPEDA
+, even though such reports were issued well beyond the one year statutory period provided for under section 13 of
+PIPEDA
+. In each of these reports, the Privacy Commissioner clearly took the position that she had jurisdiction over the complaints and that the expression "commercial activity" in
+PIPEDA
+was broad enough to encompass the investigation and defence by State Farm of claims made against those it insured, positions which are identical to those the Privacy Commissioner takes in the present case.
+[70]
+The
+Fudge
+,
+Mason
+and
+Nash
+proceedings did lead to applications before the Federal Court pursuant to sections 14 and 15 of
+PIPEDA
+. However these proceedings were stayed pending the final determination of this application for judicial review. The exchange of correspondence is illuminating as to the reason for such stays.
+[71]
+The correspondence dated August 18, 2009 from State Farm's attorney to the Office of the Privacy Commissioner sets out this proceeding concerning the complaint of Mr. Gaudet as a test case which will serve to also resolve the
+Fudge
+,
+Mason
+and
+Nash
+proceedings (Exhibit 17 of the affidavit of Rick Cicin sworn October 21, 2009, at page 137 of the Supplementary Record of State Farm):
+"Upon reviewing the four Notices of Application, it is evident the three Applications filed on July 22, 2009 [the
+Fudge
+,
+Mason
+and
+Nash
+proceedings] raise substantially the same issues as those in the Application for Judicial Review filed by State Farm in T-604-09. In particular, the 'commercial activity' issue is central to each of the cases. A determination of the issues in T-604-09, including the constitutional issues, will, in all likelihood, resolve the other three matters.
+"We propose that the parties, on consent, bring a motion to the Court pursuant to Rule 105(b) of the
+Federal Court
+(sic)
+Rules 1998
+to stay files T-1187-09, T-1188-09 and T-1189-09 until there is a final determination of State Farm's Application for Judicial Review in T-604-09. Proceeding in this manner will avoid a multiplicity of proceedings and promote an expeditious and inexpensive determination of the issues in all four matters. It will also avoid the necessity of State Farm having to raise the constitutional issues already raised in T-604-09 [and] will avoid having to involve the Attorney General in the three matters."
+[72]
+The answer from the Privacy Commissioner was provided in an email dated August 24, 2009 whereby she not only consented to the stays, but also instituted a procedure so that all other similar complaints concerning State Farm would be left in abeyance pending the outcome of this judicial review application involving the complaint of Mr. Gaudet. The pertinent paragraph of this email concerning the
+Fudge
+,
+Mason
+and
+Nash
+proceedings reads as follows (Exhibit 18 of the affidavit of Rick Cicin sworn October 21, 2009, at page 139 of the Supplementary Record of State Farm):
+"The parties will consent to a Court Order staying the three judicial review applications recently commenced in Ottawa against State Farm (
+Nash
+(T-1189-09),
+Mason
+(T-1188-09),
+Fudge
+(T-1187-09)). The stay of proceedings will expire 30 days following the final resolution of Court file No. T-604-09 between the parties, at which time State Farm will then have a further 30 days to file its supporting affidavit(s), if any. [...]"
+[73]
+In light of the context set out above, and for the reasons below, I do not accept the prematurity arguments raised by the Respondents.
+[74]
+First, the argument that the Privacy Commissioner should be given an opportunity to prepare and develop a position on the scope of the expression "commercial activity" found in
+PIPEDA
+is without merit. The Privacy Commissioner has clearly expressed her position on this matter in this judicial proceeding, and that position is identical in every respect with the one she put forward in the reports issued in the
+Fudge
+,
+Mason
+and
+Nash
+proceedings. There is no expectation whatsoever that the Privacy Commissioner would issue a report in the Gaudet complaint which would offer an interpretation of "commercial activity" other than the one already extensively and thoroughly articulated in these proceedings. To dismiss this application on this ground would result in a complete waste of time, energy and money for all parties.
+[75]
+Second, within the context of the litigation in the New Brunswick courts, the Respondents clearly confirmed that the issues raised by State Farm were to be resolved before this Court by way of a judicial review proceeding initiated pursuant to sections 18 and 18.1 of the
+Federal Courts
+Act
+rather than pursuant to an application initiated under section 14 or 15 of
+PIPEDA
+.
+[76]
+Third, even if this judicial review were dismissed on the ground of prematurity in order to allow the Privacy Commissioner to issue a report on the complaint of Mr. Gaudet, there is no guarantee that Mr. Gaudet would himself initiate or consent to the filing of an application before this Court pursuant to section 14 or 15 of
+PIPEDA
+; that would potentially leave State Farm without an effective judicial forum in which to adjudicate its claims.
+[77]
+Fourth, the Privacy Commissioner has had many years to issue a report concerning the Gaudet complaint and chose not to do so. She cannot now use her inaction in order to hinder State Farm's right of access to the courts. The Privacy Commissioner's assertion that no report has been issued because State Farm has not collaborated in the investigation is simply not credible in light of the reports issued in the
+Fudge
+,
+Mason
+and
+Nash
+proceedings based on a similar record as that available to her in the Gaudet complaint.
+[78]
+Fifth, it appears clearly from the record that the Privacy Commissioner and State Farm have used this judicial review proceeding as a test case to resolve a series of outstanding litigations and complaints, and it would consequently not be in the interest of justice nor a proper use of limited judicial resources for this Court to decline to decide the merits of this application.
+[79]
+Finally, the principle of judicial non-interference with ongoing administrative processes has simply no application in this case since State Farm has no right to access this Court through an application pursuant to sections 14 and 15 of
+PIPEDA
+. Only complainants may initiate applications under these provisions. State Farm's access to this Court in order to have its jurisdictional and constitutional submissions adjudicated cannot be contingent on the consent of the complainant Mr. Gaudet. Consequently, State Farm can access this Court through a judicial review application under sections 18 and 18.1 of the
+Federal Courts
+Act
+in order to challenge the May 17, 2007 decisions of the Privacy Commissioner to assume jurisdiction under
+PIPEDA
+and to carry out an investigation pursuant to section 12 thereof.
+[80]
+In this context, the principle set out in
+ <FRAGMENT_SUPPRESSED>  of judicial non-interference with ongoing administrative processes has been recently reiterated by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; 400 N.R. 367; 2010 FCA 61. This principle is sound. However it is simply not at issue in this case.
+The standard of review
+[81] <FRAGMENT_SUPPRESSED> at para. 62 sets out a two-step process for determining the standard of review: "[f]irst, courts ascertain whether the jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded with regard to a particular category of question. Second, where the first inquiry proves unfruitful, courts must proceed to an analysis of the factors making it possible to identify the proper standard of review".
+[82]
+The main issues in this case are the interpretation of the expression "commercial activity" found in
+PIPEDA
+and the constitutional authority of Parliament to make the provisions of
+PIPEDA
+applicable beyond the operations of federal works, undertakings or businesses.
+[83]
+As noted by the Supreme Court of Canada in <FRAGMENT_SUPPRESSED> at paragraph 58, the correctness standard of review will apply to constitutional questions regarding the division of powers between Parliament and the provinces in the
+Constitution
+Act
+, 1867
+as well as regarding other constitutional questions. Moreover administrative bodies must also be correct in their determinations of true questions of jurisdiction or vires. True jurisdiction questions arise where the tribunal must explicitly determine whether its statutory grant of power gives it the authority to decide a particular matter ( <FRAGMENT_SUPPRESSED> , at paragraph 59).
+[84]
+In addition, the Federal Court of Appeal and the Federal Court have consistently held that the standard of review of correctness applies in proceedings initiated pursuant to sections 14 and 15 of
+PIPEDA
+, including over matters concerning the interpretation of that legislation:
+ <FRAGMENT_SUPPRESSED> ; 2004 FCA 387 at para. 48 (
+Englander
+);
+ <FRAGMENT_SUPPRESSED> ; 2006 FCA 334 at para. 11;
+ <FRAGMENT_SUPPRESSED> ; 2008 FC 1086 at para. 20;
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 125 at para. 21;
+ <FRAGMENT_SUPPRESSED> ; 271 F.T.R. 298; 2005 FC 421 at paras. 16-17. There is no cogent reason why this should not also be the appropriate standard with respect to proceedings commenced pursuant to sections 18 and 18.1 of the
+Federal Courts
+Act
+raising questions related to the interpretation and application of
+PIPEDA
+.
+[85]
+Taking into account this jurisprudence, State Farm and the Attorney General of Canada both agree that the standard of correctness is appropriate in this case.
+[86]
+However, the Privacy Commissioner disagrees in respect to the interpretation of
+PIPEDA
+, arguing that her interpretation of that statute, and particularly of the expression "commercial activity" found therein, should be given deference and should consequently only be reviewed by this Court according to a standard of reasonableness, in view of <FRAGMENT_SUPPRESSED> , at para. 54, which held that deference will usually be called for where a tribunal is interpreting its own statute or statutes closely connected to its function. The question raised by the Privacy Commissioner is therefore whether <FRAGMENT_SUPPRESSED> has modified the standard for reviewing decisions of the Privacy Commissioner involving the interpretation of
+PIPEDA
+from that of correctness to that of reasonableness.
+[87]
+For the reasons which follow, I conclude that the applicable standard of review is that of correctness.
+[88]
+First,
+PIPEDA
+contains no privative clause concerning the Privacy Commissioner.
+[89]
+Second, the role of the Privacy Commissioner under
+PIPEDA
+is incompatible with a standard of deference. Indeed, in the exercise of her mandate under
+PIPEDA
+, the Privacy Commissioner may become adverse in interest to the party whose documents she wants to have access to:
+ <FRAGMENT_SUPPRESSED>  at para. 23 (
+Blood Tribe
+). The Privacy Commissioner is clearly not acting in an adjudicative capacity under
+PIPEDA
+, and may appear as a party to a hearing before the Federal Court under that statute; this has important consequences on the standard of review. As noted by Justice Décary in
+Englander
+at para. 48, "[t]o show deference to the Commissioner's report would give a head start to the Commissioner when acting as a party and thus could compromise the fairness of the hearing."
+[90]
+Third, the nature of the question at issue, though involving the interpretation of certain provisions of
+PIPEDA
+, is fundamentally jurisdictional. In this case, a true question of jurisdiction has been raised by State Farm. Indeed, in the May 17, 2007 letter itself, the decisions made by the Privacy Commissioner are set out in jurisdictional terms.
+[91]
+Finally, the Privacy Commissioner has no special expertise in the interpretation of the provisions of
+PIPEDA
+since that statute itself entrusts the Federal Court with the authority and mandate to do so, notably through its sections 14 and 15.
+[92]
+Consequently, the issues raised by these proceedings will be reviewed under a standard of correctness.
+The relevant legislation
+[93]
+The pertinent provisions of
+PIPEDA
+are included in its Part I entitled "Protection of personal information in the private sector" and in its Schedule 1. The relevant provisions are reproduced in a schedule to this judgment. For ease of reference, the provisions of this legislation which are of particular interest are also reproduced below:
+"2(1) The definitions in this subsection apply in this Part.
+'commercial activity' means any particular transaction, act or conduct or any regular course of conduct that is of a commercial character, including the selling, bartering or leasing of donor, membership or other fundraising lists.
+. . . . .
+"4(1) This Part applies to every organization in respect of personal information that
+(a) the organization collects, uses or discloses in the course of commercial activities;
+"4(2) This Part does not apply to
+. . . . .
+(b) any individual in respect of personal information that the individual collects, uses or discloses for personal or domestic purposes and does not collect, use or disclose for any other purpose;
+"5(1) Subject to sections 6 to 9, every organization shall comply with the obligations set out in Schedule 1.
+. . . . .
+"5(3) An organization may collect, use or disclose personal information only for purposes that a reasonable person would consider are appropriate in the circumstances.
+. . . . .
+"7(1) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
+(a) the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way;
+(b) it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;
+(c) the collection is solely for journalistic, artistic or literary purposes;
+(d) the information is publicly available and is specified by the regulations; or
+(e) the collection is made for the purpose of making a disclosure
+(i) under subparagraph (3)(c.1)(i) or (d)(ii), or
+(ii) that is required by law.
+. . . . .
+"26(2) The Governor in Council may, by order,
+. . . . .
+(b) if satisfied that legislation of a province that is substantially similar to this Part applies to an organization, a class of organizations, an activity or a class of activities, exempt the organization, activity or class from the application of this Part in respect of the collection, use or disclosure of personal information that occurs within that province.
+. . . . .
+"30(1) This Part does not apply to any organization in respect of personal information that it collects, uses or discloses within a province whose legislature has the power to regulate the collection, use or disclosure of the information, unless the organization does it in connection with the operation of a federal work, undertaking or business or the organization discloses the information outside the province for consideration.
+"30(2) Subsection (1) ceases to have effect three years after the day on which this section comes into force.
+"SCHEDULE 1
+"(Section 5)
+"
+4.3 Principle 3 - Consent
+"The knowledge and consent of the individual are required for the collection, use, or disclosure of personal information, except where inappropriate.
+"
+4.5 Principle 5 - Limiting Use, Disclosure, and Retention
+"Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
+"
+4.9 Principle 9 - Individual Access
+"Upon request, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate."
+"2(1) Les définitions qui suivent s'appliquent la présente partie.
+'activité commerciale' Toute activité régulière ainsi que tout acte isolé qui revêtent un caractère commercial de par leur nature, y compris la vente, le troc ou la location de listes de donneurs, d'adhésion ou de collecte de fonds.
+. . . . .
+"4(1) La présente partie s'applique à toute organisation à l'égard des renseignements personnels:
+a) soit qu'elle recueille, utilise ou communique dans le cadre d'activités commerciales;
+"4(2) La présente partie ne s'applique pas:
+. . . . .
+b) à un individu à l'égard des renseignements personnels qu'il recueille, utilise ou communique à des fins personnelles ou domestiques et à aucune autre fin;
+"5(1) Sous réserve des articles 6 à 9, toute organisation doit se conformer aux obligations énoncées dans l'annexe 1.
+. . . . .
+"5(3) L'organisation ne peut recueillir, utiliser ou communiquer des renseignements personnels qu'à des fins qu'une personne raisonnable estimerait acceptables dans les circonstances.
+. . . . .
+"7(1) Pour l'application de l'article 4.3 de l'annexe 1 et malgré la note afférente, l'organisation ne peut recueillir de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+a) la collecte du renseignement est manifestement dans l'intérêt de l'intéressé et le consentement ne peut être obtenu auprès de celui-ci en temps opportun;
+b) il est raisonnable de s'attendre à ce que la collecte effectuée au su ou avec le consentement de l'intéressé puisse compromettre l'exactitude du renseignement ou l'accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d'un accord ou la contravention du droit fédéral ou provincial;
+c) la collecte est faite uniquement à des fins journalistiques, artistiques ou littéraires;
+d) il s'agit d'un renseignement réglementaire auquel le public a accès;
+e) la collecte est faite en vue:
+(i) soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
+(ii) soit d'une communication exigée par la loi.
+. . . . .
+"26(2) Il peut par décret:
+. . . . .
+b) s'il est convaincu qu'une loi provinciale essentiellement similaire à la présente partie s'applique à une organisation - ou catégorie d'organisations - ou à une activité - ou catégorie d'activités -, exclure l'organisation, l'activité ou la catégorie de l'application de la présente partie à l'égard de la collecte, de l'utilisation ou de la communication de renseignements personnels qui s'effectue à l'intérieur de la province en cause.
+. . . . .
+"30(1) La présente partie ne s'applique pas à une organisation à l'égard des renseignements personnels qu'elle recueille, utilise ou communique dans une province dont la législature a le pouvoir de régir la collecte, l'utilisation ou la communication de tels renseignements, sauf si elle le fait dans le cadre d'une entreprise fédérale ou qu'elle communique ces renseignements pour contrepartie à l'extérieur de cette province.
+"30(2) Le paragraphe (1) cesse d'avoir effet trois ans après l'entrée en vigueur du présent article.
+"ANNEXE 1
+"(article 5)
+"
+4.3 Troisième principe - Consentement
+Toute personne doit être informée de toute collecte, utilisation ou communication de renseignements personnels qui la concernent et y consentir, à moins qu'il ne soit pas approprié de le faire.
+"
+4.5 Cinquième principe - Limitation de l'utilisation, de la communication et de la conservation
+"Les renseignements personnels ne doivent pas être utilisés ou communiqués à des fins autres que celles auxquelles ils ont été recueillis à moins que la personne concernée n'y consente ou que la loi ne l'exige. On ne doit conserver les renseignements personnels qu'aussi longtemps que nécessaire pour la réalisation des fins déterminées
+"
+4.9 Neuvième principe - Accès aux renseignements personnels
+"Une organisation doit informer toute personne qui en fait la demande de l'existence de renseignements personnels qui la concernent, de l'usage qui en est fait et du fait qu'ils ont été communiqués à des tiers, et lui permettre de les consulter. Il sera aussi possible de contester l'exactitude et l'intégralité des renseignements et d'y faire apporter les corrections appropriées."
+[94]
+The
+New Brunswick Insurance Act
+,  <FRAGMENT_SUPPRESSED>  their insured against third party claims:
+"237. Every contract evidenced by a motor vehicle liability policy shall provide that, where a person insured by the contract is involved in an accident resulting from the ownership, use or operation of an automobile in respect of which insurance is provided under the contract and resulting in loss or damage to persons or property, the insurer shall,
+. . . . .
+(b) defend in the name and on behalf of the insured and at the cost of the insurer any civil action that is at any time brought against the insured on account of loss or damage to persons or property;
+. . . . .
+"244(1) Every motor vehicle liability policy issued in New Brunswick shall provide that, in the case of liability arising out of the ownership, use or operation of the automobile in any province or territory of Canada,
+. . . . .
+(c) the insured, by acceptance of the policy, constitutes and appoints the insurer his irrevocable attorney to appear and defend in any province or territory of Canada in which an action is brought against the insured arising out of the ownership, use or operation of the automobile.
+"244(2) A provision in a motor vehicle liability policy in accordance with paragraph (1)(c) is binding on the insured."
+"237. Tout contrat constaté par une police de responsabilité automobile doit stipuler que, lorsqu'une personne assurée par le contrat est impliquée dans un accident découlant de la propriété, de l'usage ou de la conduite d'une automobile couverte par le contrat et causant des pertes ou des dommages à des personnes ou à des biens, l'assureur doit,
+. . . . .
+b) se charger à ses frais de la défense, aux nom et place de l'assuré, dans toute action civile intentée en tout temps contre l'assuré et fondée sur des pertes ou des dommages causés à des personnes ou à des biens;
+. . . . .
+"244(1) Toute police de responsabilité automobile émise au Nouveau-Brunswick doit stipuler qu'en cas de responsabilité découlant de la propriété, de l'usage ou de la conduite de l'automobile dans l'une des provinces ou des territoires du Canada,
+. . . . .
+c) l'assuré, en acceptant la police, constitue et nomme irrévocablement l'assureur son fondé de pouvoir aux fins de comparution et de défense dans toute province ou tout territoire où une action relative à la propriété, l'usage ou la conduite de l'automobile est intentée contre l'assuré.
+"244(2) Une disposition conforme à l'alinéa (1)c) dans une police de responsabilité automobile lie l'assuré."
+[95]
+Moreover, section 43.1 of the
+New Brunswick Evidence Act
+,  <FRAGMENT_SUPPRESSED> ; 192 N.B.R.(2d) 230; 489 A.P.R. 230 (C.A.):
+"43.1 An investigative report that is prepared for the dominant purpose of being submitted to a solicitor for advice with respect to, or use in, contemplated or pending litigation, or any part of an investigative report in which an opinion is expressed, regardless of the purpose for which that report was prepared, is privileged from disclosure and production in civil proceedings."
+"43.1 Un rapport d'enquête préparé dans le but principal d'être soumis à un avocat pour conseil relativement à, ou pour usage dans un litige envisagé ou en instance, ou toute partie d'un rapport d'enquête dans lequel une opinion est exprimée indépendamment du but pour lequel le rapport a été préparé, est protégé contre la divulgation et la production dans les procédures civiles."
+[96]
+Finally, Rule 31.09 of the
+New Brunswick Rules of Court
+, N.B. Reg. 82-73 exceptionally allows the use of a document for which privilege has been claimed in order to contradict a witness:
+"
+31.09 Effect of Failure to Abandon Claim of Privilege
+"Where a party
+(a) has claimed privilege with respect to a document,
+(b) has not abandoned that claim on or before the Motions Day on which the proceeding is set down for trial, by
+(i) giving to all parties notice in writing of the abandonment, and
+(ii) serving a copy of the document on each party or by producing it for inspection, without request,
+he may not use the document at trial except to contradict a witness or by leave of the court."
+"
+31.09 Effets du défaut de renoncer à la revendication de privilège
+"Toute partie
+a) qui a revendiqué un privilège sur un document,
+b) qui n'y a pas renoncé avant ou lors de la séance des motions au cours de laquelle l'instance est mise au rôle,
+(i) en donnant, à toutes les parties, un avis par écrit de la renonciation et
+(ii) en signifiant une copie de ce document à chacune des parties ou en le produisant pour examen, sans en être priée,
+ne peut utiliser ce document au procès que pour mettre en doute la déposition d'un témoin ou qu'avec la permission de la cour."
+Is the collection of evidence by an insurer acting for one of its insured in the defence of a third party tort action "commercial activity" within the meaning of PIPEDA?
+[97]
+This Court must decide whether the collection of evidence by an insurer acting for one of its insured in the defence of a third party tort action is "commercial activity" within the meaning of
+PIPEDA
+.
+[98]
+The collection of evidence on a plaintiff by an individual who is a defendant in a tort action brought by that plaintiff would clearly not constitute a "particular transaction, act or conduct that is of a commercial character" as set out in the definition of "commercial activity" found in subsection 2(1) of
+PIPEDA
+. Indeed, the fact that an individual defendant collects evidence himself or herself for the purpose of a defence to a civil tort action is clearly not a commercial activity on the part of that defendant since there is no "commercial character" associated to that activity.
+[99]
+The Privacy Commissioner, however, submits that since Ms. Vetter has paid an insurer to defend her against such a claim, such collection of evidence has now assumed a "commercial character" and is thus now prohibited under subsection 7(1) of
+PIPEDA
+unless the plaintiff, here Mr. Gaudet, consents thereto. The Privacy Commissioner's logic would also extend to the law firm retained to defend Ms. Vetter in this action since that law firm would also be involved in a "particular transaction, act or conduct that is of a commercial character" by being paid to assist Ms. Vetter in gathering evidence about the plaintiff on her behalf. This logic would also extend to a private investigator whom Ms. Vetter could possibly hire to assist her in collecting evidence in the defence of the claim made against her by Mr. Gaudet.
+[100]
+In short, the logic of the Privacy Commissioner is such that all collection of evidence about a plaintiff by third parties retained by a defendant in response to a tort action would now be prohibited by
+PIPEDA
+unless the plaintiff were to consent to such collection of evidence. Presumably this would also extend to all collection of evidence about a defendant by third parties retained by a plaintiff to assist in prosecuting a tort action. I cannot accept that such was the intention of Parliament in adopting
+PIPEDA
+.
+[101]
+The history and purpose of
+PIPEDA
+have been extensively canvassed in
+Englander
+and need not be repeated here. Suffice it to note that
+PIPEDA
+is a compromise between competing interests, and its provisions must be interpreted and applied with flexibility, common sense and pragmatism. As noted by Justice Décary in
+Englander
+at paragraph 46:
+"All of this to say that, even though Part 1 and Schedule 1 of the
+Act
+purport to protect the right of privacy, they also purport to facilitate the collection, use and disclosure of personal information by the private sector. In interpreting this legislation, the Court must strike a balance between two competing interests. Furthermore, because of its non-legal drafting, Schedule 1 does not lend itself to typical rigorous construction. In these circumstances, flexibility, common sense and pragmatism will best guide the Court."
+[102]
+Reasonableness is moreover the overriding standard set out in
+PIPEDA
+itself in its section 3 which reads as follows (emphasis added):
+"3. The purpose of this Part is to establish, in an era in which technology increasingly facilitates the circulation and exchange of information, rules to govern the collection, use and disclosure of personal information in a manner that recognizes the right of privacy of individuals with respect to their personal information and the need of organizations to collect, use or disclose personal information for purposes that a
+reasonable person would consider appropriate in the circumstances.
+"
+"3. La présente partie a pour objet de fixer, dans une ère où la technologie facilite de plus en plus la circulation et l'échange de renseignements, des règles régissant la collecte, l'utilisation et la communication de renseignements personnels d'une manière qui tient compte du droit des individus à la vie privée à l'égard des renseignements personnels qui les concernent et du besoin des organisations de recueillir, d'utiliser ou de communiquer des renseignements personnels à des fins
+qu'une personne raisonnable estimerait acceptables dans les circonstances.
+"
+[103]
+The Attorney General of Canada, in paragraph 32 his Memorandum of Fact and Law in these proceedings, submits that the purposes of
+PIPEDA
+are related to electronic commerce:
+"In the
+PIPEDA
+, personal information is regulated only insofar as it relates to how the Canadian economy functions and operates. The scheme promotes consumer confidence by protecting personal information when it is collected, used or disclosed in the course of commercial activity in the Canadian market. The significant relationship between personal information use and economic activity has developed with advances in information and communication technologies and the extensive adoption of such technologies by businesses. In the Preamble to the
+APEC Privacy Framework
+(16th APEC Ministerial Meeting, Santiago, Chile, November 17-18, 2004 it is pointed out that:
+'Information and communications technologies, including mobile technologies, that link to the internet and other information networks have made it possible to collect, store and access information from anywhere in the world. These technologies offer great potential for social and economic benefits for business, individuals and governments, including increased consumer choice, market expansion, productivity, education and product innovation. However, while these technologies make it easier and cheaper to collect, link and use large quantities of information, they also often make these activities undetectable to individuals. Consequently, it can be more difficult for individuals to retain a measure of control over their personal information. As a result, individuals have become concerned about the harmful consequences that may arise from the misuse of their information. Therefore, there is a need to promote and enforce ethical and trustworthy information practices in on- and off-line contexts to bolster the confidence of individuals and businesses.'"
+[104]
+These purposes are reflected in the long title of
+PIPEDA
+(emphasis added):
+"An Act to
+support and promote electronic commerce
+by protecting personal information that is collected, used or disclosed in
+certain
+circumstances, by providing for the use of electronic means to communicate or record information or transactions and by amending the
+Canada Evidence Act
+, the
+Statutory Instruments Act
+and the
+Statute Revision Act
+."
+[105]
+The collection of information in order to properly defend a civil tort action has little or nothing to do with these purposes.
+[106]
+I conclude that, on a proper construction of
+PIPEDA
+, if the primary activity or conduct at hand, in this case the collection of evidence on a plaintiff by an individual defendant in order to mount a defence to a civil tort action, is not a commercial activity contemplated by
+PIPEDA
+, then that activity or conduct remains exempt from
+PIPEDA
+even if third parties are retained by an individual to carry out that activity or conduct on his or her behalf. The primary characterization of the activity or conduct in issue is thus the dominant factor in assessing the commercial character of that activity or conduct under
+PIPEDA
+, not the incidental relationship between the one who seeks to carry out the activity or conduct and third parties. In this case, the insurer-insured and attorney-client relationships are simply incidental to the primary non-commercial activity or conduct at issue, namely the collection of evidence by the defendant Ms. Vetter in order to defend herself in the civil tort action brought against her by Mr. Gaudet.
+[107]
+I therefore rule that the investigation reports and related documents and videos concerning Mr. Gaudet and prepared by or for State Farm or its lawyers to defend Ms. Vetter in the civil tort action taken against her by Mr. Gaudet are not subject to
+PIPEDA
+.
+[108]
+I am comforted in this interpretation of
+PIPEDA
+by paragraph 26(2)(b) of that statute which allows the Governor in Council to exempt an organization, activity or a class thereof from the application of Part 1 of
+PIPEDA
+"if satisfied that legislation of a province that is substantially similar to this Part applies" to that organization or activity. Pursuant to this provision, the Governor in Council has exempted from the application of
+PIPEDA
+almost all organizations in British Columbia, Alberta and Quebec which are not a federal work, undertaking or business:
+Organizations in the Province of Alberta Exemption Order
+, SOR/2004-219,
+Organizations in the Province of British Columbia Exemption Order
+, SOR/2004-220 and
+Organizations in the Province of Quebec Exemption Order
+, SOR/2003-374.
+[109]
+Paragraphs 14(d), 17(d) and 20(m) of the Alberta
+Personal Information Protection
+Act
+, S.A. 2003, c. P-6.5 specifically provide that an organization may collect, use and disclose personal information about an individual without that individual's consent if the collection, use or disclosure of the information is reasonable for the purposes of an investigation or legal proceeding.
+[110]
+Paragraphs 12(1(k) and (l), 15(1)(h.1) and 18(4)(a) of the British Columbia
+Personal Information Protection
+Act
+, S.B.C. 2003, c. 63 contain similar provisions.
+[111]
+Moreover, although the Quebec
+Act
+respecting the protection of personal information in the private sector
+, R.S.Q., chapter P-39.1 does not contain similar specific provisions, it has been interpreted in such a manner as to have the same effect:
+ <FRAGMENT_SUPPRESSED>  legislation must also be read in conjunction with the provisions of articles 35 to 41 of the
+Civil
+Code
+of Quebec
+, S.Q., 1991, c. 64, and of the Quebec
+Charter
+of Human Rights and Freedoms
+,  <FRAGMENT_SUPPRESSED>  gathering through videotapes, or otherwise, for the purposes of a defense to a civil action, insofar as the evidence gathering is rationally connected to the claim and is reasonable:
+Syndicat des travailleuses et travailleurs de  <FRAGMENT_SUPPRESSED>  (C.A.) at paras. 74 to 79;
+ <FRAGMENT_SUPPRESSED>  at para. 1;
+ <FRAGMENT_SUPPRESSED>  QCCQ 10192, at paras. 171 to 206;
+ <FRAGMENT_SUPPRESSED> ; J.E. 2000-337, at paras. 408 to 422.
+[112]
+I find it significant that the Governor in Council has found these statutes to be "substantially similar" to
+PIPEDA
+. Since the collection, use or disclosure of personal information for the purposes of a legal proceeding can be carried out under these acts without the consent of the concerned individuals, and since these statutes have been found by the Governor in Council to be substantially similar to
+PIPEDA
+, it is not an unreasonable inference to conclude that the Governor in Council does not deem these activities to be prohibited under
+PIPEDA
+. Though Parliament's intentions under
+PIPEDA
+are not necessarily to be surmised from the Governor in Council's interpretation of this act, the fact remains that Parliament entrusted the Governor in Council with the authority to exempt the application of
+PIPEDA
+on finding provincial legislation to be "substantially similar" to its provisions. These findings of the Governor in Council are therefore entitled to some weight in the context of
+PIPEDA
+.
+[113]
+This is not, however, the end of the matter. Although I have ruled that the investigation reports and related documents and videos concerning Mr. Gaudet are not subject to
+PIPEDA
+, this does not necessarily mean that the Privacy Commissioner is without authority to investigate under
+PIPEDA
+following the complaint of Mr. Gaudet. Indeed, though the reports and related documents and videos are not subject to
+PIPEDA
+, there must nevertheless still be mechanisms in place to test the bona fides of the exemption or non-application claim.
+[114]
+Indeed, under subsection 12(1) of
+PIPEDA
+, the Privacy Commissioner must conduct an investigation in respect of a complaint made under that act. However, where such as here, the organization being investigated raises solicitor-client privilege or litigation privilege, the Privacy Commissioner's investigative authority is limited.
+[115]
+In
+Blood Tribe
+at paragraph 2, the Supreme Court of Canada held that the Privacy Commissioner had no right under
+PIPEDA
+to access solicitor-client documents, even for the limited purpose of determining whether privilege is properly claimed.  <FRAGMENT_SUPPRESSED> ; 367 F.T.R. 76; 2010 FC 429, the Federal Court further held that the Privacy Commissioner had no authority under
+PIPEDA
+to require an organisation to justify its assertion of privilege. I note that the principles applicable to the solicitor-client privilege raised pursuant to a complaint under
+PIPEDA
+also extend to a litigation privilege which is raised within the context of such a complaint:
+ <FRAGMENT_SUPPRESSED> ; 302 F.T.R. 134; 2006 FC 1312 at para. 34;
+ <FRAGMENT_SUPPRESSED>  claim of litigation privilege or solicitor-client privilege, she has two options under
+Blood Tribe
+(at paragraphs 32 to 34): she can either refer the question to the Federal Court under subsection 18.3(1) of the
+Federal Courts
+Act
+or issue a report under section 13 of
+PIPEDA
+and, with the agreement of the complainant, bring an application to the Federal Court for relief under section 15 of that statute.
+[117]
+Where litigation privilege or solicitor-client privilege is being raised in relation to pending litigation before a provincial superior court, the role of the Federal Court in such circumstances is not to substitute itself for the provincial superior court in determining the admissibility of evidence in the pending litigation, but rather to ascertain the bona fides of the privilege claim for the purposes of
+PIPEDA
+and, where appropriate, to stay the proceedings before it pursuant to section 50 of the
+Federal Courts
+Act
+. This ensures that judicial comity is maintained between federal and provincial superior courts while also ensuring that proper judicial mechanisms are available at the Federal Court in order to avoid that the provisions of
+PIPEDA
+be circumvented through spurious privilege claims.
+[118]
+Applying these principles to this case, in light of the privilege claimed by State Farm, I conclude that the Privacy Commissioner had no authority to issue the May 17, 2007 letter under which she purported to assume jurisdiction over the matter, nor did she have the authority to request justifications from State Farm in regard to its privilege claims.
+[119]
+In light of my conclusions above, it will not be necessary to address the constitutional questions raised by State Farm. It is indeed a well-established principle that a court is not bound to answer a constitutional question when it may dispose of the case before it without doing so:
+ <FRAGMENT_SUPPRESSED>  at para. 7.
+Costs
+[120]
+Costs shall be awarded to State Farm against both the Privacy Commissioner and the Attorney General of Canada for two counsels, at the high end of column IV of Tariff B.
+JUDGMENT
+[121]
+THIS COURT DECIDES AS FOLLOWS
+:
+1. The application for judicial review is granted.
+2. The May 17, 2007 decision made by Privacy Investigator Arn Snyder is declared invalid, quashed and set aside.
+3. The following declaration is issued: the
+Personal Information Protection and Electronic Documents
+Act
+, S.C. 2000, c. 5 does not apply to document disclosure or privilege within the framework of the defence by State Farm Mutual Automobile Insurance Company for Jennifer Vetter of the personal injury tort action claim instituted against her before the New Brunswick Court of Queen's Bench.
+4. Costs are awarded to State Farm Mutual Automobile Insurance Company against both the Privacy Commissioner of Canada and the Attorney General of Canada for two counsels at the high end of column IV of Tariff B.
+Application granted.
+Editor: E. Joanne Oley/vnh
+SCHEDULE
+PERTINENT PROVISIONS OF
+PIPEDA
+2(1) The definitions in this subsection apply in this Part.
+"commercial activity" means any particular transaction, act or conduct or any regular course of conduct that is of a commercial character, including the selling, bartering or leasing of donor, membership or other fundraising lists.
+"Commissioner" means the Privacy Commissioner appointed under section 53 of the Privacy Act.
+"Court" means the Federal Court.
+"personal information" means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
+2(2) In this Part, a reference to clause 4.3 or 4.9 of Schedule 1 does not include a reference to the note that accompanies that clause.
+3. The purpose of this Part is to establish, in an era in which technology increasingly facilitates the circulation and exchange of information, rules to govern the collection, use and disclosure of personal information in a manner that recognizes the right of privacy of individuals with respect to their personal information and the need of organizations to collect, use or disclose personal information for purposes that a reasonable person would consider appropriate in the circumstances.
+4(1) This Part applies to every organization in respect of personal information that
+(a) the organization collects, uses or discloses in the course of commercial activities
+4(2) This Part does not apply to
+(b) any individual in respect of personal information that the individual collects, uses or discloses for personal or domestic purposes and does not collect, use or disclose for any other purpose;
+5(1) Subject to sections 6 to 9, every organization shall comply with the obligations set out in Schedule 1.
+5(2) The word "should", when used in Schedule 1, indicates a recommendation and does not impose an obligation.
+5(3) An organization may collect, use or disclose personal information only for purposes that a reasonable person would consider are appropriate in the circumstances.
+. . . . .
+7(1) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
+(a) the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way;
+(b) it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;
+(c) the collection is solely for journalistic, artistic or literary purposes;
+(d) the information is publicly available and is specified by the regulations; or
+(e) the collection is made for the purpose of making a disclosure
+(i) under subparagraph (3)(c.1)(i) or (d)(ii), or
+(ii) that is required by law.
+7(2) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may, without the knowledge or consent of the individual, use personal information only if
+(a) in the course of its activities, the organization becomes aware of information that it has reasonable grounds to believe could be useful in the investigation of a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, and the information is used for the purpose of investigating that contravention;
+(b) it is used for the purpose of acting in respect of an emergency that threatens the life, health or security of an individual;
+(c) it is used for statistical, or scholarly study or research, purposes that cannot be achieved without using the information, the information is used in a manner that will ensure its confidentiality, it is impracticable to obtain consent and the organization informs the Commissioner of the use before the information is used;
+(c.1) it is publicly available and is specified by the regulations; or
+(d) it was collected under paragraph (1)(a), (b) or (e).
+7(3) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual only if the disclosure is
+(a) made to, in the Province of Quebec, an advocate or notary or, in any other province, a barrister or solicitor who is representing the organization;
+(b) for the purpose of collecting a debt owed by the individual to the organization;
+(c) required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records;
+(c.1) made to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that
+(i) it suspects that the information relates to national security, the defence of Canada or the conduct of international affairs,
+(ii) the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law, or
+(iii) the disclosure is requested for the purpose of administering any law of Canada or a province;
+(c.2) made to the government institution mentioned in section 7 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act as required by that section;
+*(c.2) made to the government institution mentioned in section 7 of the Proceeds of Crime (Money Laundering) Act as required by that section;
+*[Note: Paragraph 7(3)(c.2), as enacted by paragraph 97(1)(a) of chapter 17 of the Statutes of Canada, 2000, will be repealed at a later date.]
+(d) made on the initiative of the organization to an investigative body, a government institution or a part of a government institution and the organization
+(i) has reasonable grounds to believe that the information relates to a breach of an agreement or a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
+(ii) suspects that the information relates to national security, the defence of Canada or the conduct of international affairs;
+(e) made to a person who needs the information because of an emergency that threatens the life, health or security of an individual and, if the individual whom the information is about is alive, the organization informs that individual in writing without delay of the disclosure;
+(f) for statistical, or scholarly study or research, purposes that cannot be achieved without disclosing the information, it is impracticable to obtain consent and the organization informs the Commissioner of the disclosure before the information is disclosed;
+(g) made to an institution whose functions include the conservation of records of historic or archival importance, and the disclosure is made for the purpose of such conservation;
+(h) made after the earlier of
+(i) one hundred years after the record containing the information was created, and
+(ii) twenty years after the death of the individual whom the information is about;
+(h.1) of information that is publicly available and is specified by the regulations;
+(h.2) made by an investigative body and the disclosure is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or
+(i) required by law.
+. . . . .
+9(3) Despite the note that accompanies clause 4.9 of Schedule 1, an organization is not required to give access to personal information only if
+(a) the information is protected by solicitor client privilege;
+(b) to do so would reveal confidential commercial information;
+(c) to do so could reasonably be expected to threaten the life or security of another individual;
+(c.1) the information was collected under paragraph 7(1)(b);
+(d) the information was generated in the course of a formal dispute resolution process;
+or
+(e) the information was created for the purpose of making a disclosure under the Public Servants Disclosure Protection Act or in the course of an investigation into a disclosure under that Act. However, in the circumstances described in paragraph (b) or (c), if giving access to the information would reveal confidential commercial information or could reasonably be expected to threaten the life or security of another individual, as the case may be, and that information is severable from the record containing any other information for which access is requested, the organization shall give the individual access after severing.
+. . . . .
+11(1) An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or for not following a recommendation set out in Schedule 1.
+. . . . .
+11(4) The Commissioner shall give notice of a complaint to the organization against which the complaint was made.
+12(1) The Commissioner shall conduct an investigation in respect of a complaint and, for that purpose, may
+(a) summon and enforce the appearance of persons before the Commissioner and compel them to give oral or written evidence on oath and to produce any records and things that the Commissioner considers necessary to investigate the complaint, in the same manner and to the same extent as a superior court of record;
+(b) administer oaths;
+(c) receive and accept any evidence and other information, whether on oath, by affidavit or otherwise, that the Commissioner sees fit, whether or not it is or would be admissible in a court of law;
+(d) at any reasonable time, enter any premises, other than a dwelling-house, occupied by an organization on satisfying any security requirements of the organization relating to the premises;
+(e) converse in private with any person in any premises entered under paragraph (d) and otherwise carry out in those premises any inquiries that the Commissioner sees fit; and
+(f) examine or obtain copies of or extracts from records found in any premises entered under paragraph (d) that contain any matter relevant to the investigation.
+12(4) The Commissioner or the delegate shall return to a person or an organization any record or thing that they produced under this section within ten days after they make a request to the Commissioner or the delegate, but nothing precludes the Commissioner or the delegate from again requiring that the record or thing be produced.
+13(1) The Commissioner shall, within one year after the day on which a complaint is filed or is initiated by the Commissioner, prepare a report that contains
+(a) the Commissioner's findings and recommendations;
+. . . . .
+(d) the recourse, if any, that is available under section 14.
+13(3) The report shall be sent to the complainant and the organization without delay.
+14(1) A complainant may, after receiving the Commissioner's report, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner's report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10.
+15. The Commissioner may, in respect of a complaint that the Commissioner did not initiate,
+(a) apply to the Court, within the time limited by section 14, for a hearing in respect of any matter described in that section, if the Commissioner has the consent of the complainant;
+(b) appear before the Court on behalf of any complainant who has applied for a hearing under section 14; or
+(c) with leave of the Court, appear as a party to any hearing applied for under section 14.
+16. The Court may, in addition to any other remedies it may give,
+(a) order an organization to correct its practices in order to comply with sections 5 to 10;
+(b) order an organization to publish a notice of any action taken or proposed to be taken to correct its practices, whether or not ordered to correct them under paragraph (a); and
+(c) award damages to the complainant, including damages for any humiliation that the complainant has suffered.
+. . . . .
+26(2) The Governor in Council may, by order,
+(a) provide that this Part is binding on any agent of Her Majesty in right of Canada to which the Privacy Act does not apply; and
+(b) if satisfied that legislation of a province that is substantially similar to this Part applies to an organization, a class of organizations, an activity or a class of activities, exempt the organization, activity or class from the application of this Part in respect of the collection, use or disclosure of personal information that occurs within that province.
+. . . . .
+30(1) This Part does not apply to any organization in respect of personal information that it collects, uses or discloses within a province whose legislature has the power to regulate the collection, use or disclosure of the information, unless the organization does it in connection with the operation of a federal work, undertaking or business or the organization discloses the information outside the province for consideration.
+30(2) Subsection (1) ceases to have effect three years after the day on which this section comes into force.
+SCHEDULE 1
+(Section 5)
+PRINCIPLES SET OUT IN THE NATIONAL STANDARD OF CANADA ENTITLED MODEL CODE FOR THE PROTECTION OF PERSONAL INFORMATION, CAN/CSA-Q830-96
+4.3 Principle 3 - Consent
+The knowledge and consent of the individual are required for the collection, use, or disclosure of personal information, except where inappropriate.
+Note: In certain circumstances personal information can be collected, used, or disclosed without the knowledge and consent of the individual. For example, legal, medical, or security reasons may make it impossible or impractical to seek consent. When information is being collected for the detection and prevention of fraud or for law enforcement, seeking the consent of the individual might defeat the purpose of collecting the information. Seeking consent may be impossible or inappropriate when the individual is a minor, seriously ill, or mentally incapacitated. In addition, organizations that do not have a direct relationship with the individual may not always be able to seek consent. For example, seeking consent may be impractical for a charity or a direct-marketing firm that wishes to acquire a mailing list from another organization. In such cases, the organization providing the list would be expected to obtain consent before disclosing personal information.
+4.5 Principle 5 - Limiting Use, Disclosure, and Retention
+Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfilment of those purposes.
+4.9 Principle 9 - Individual Access
+Upon request, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+Note: In certain situations, an organization may not be able to provide access to all the personal information it holds about an individual. Exceptions to the access requirement should be limited and specific. The reasons for denying access should be provided to the individual upon request. Exceptions may include information that is prohibitively costly to provide, information that contains references to other individuals, information that cannot be disclosed for legal, security, or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege.
+2(1) Les définitions qui suivent s'appliquent à la présente partie.
+"activité commerciale" Toute activité régulière ainsi que tout acte isolé qui revêtent un caractère commercial de par leur nature, y compris la vente, le troc ou la location de listes de donneurs, d'adhésion ou de collecte de fonds.
+"commissaire" Le Commissaire à la protection de la vie privée nommé en application de l'article 53 de la Loi sur la protection des renseignements personnels.
+"Cour" La Cour fédérale.
+"renseignement personnel" Tout renseignement concernant un individu identifiable, à l'exclusion du nom et du titre d'un employé d'une organisation et des adresse et numéro de téléphone de son lieu de travail.
+2(2) Dans la présente partie, la mention des articles 4.3 ou 4.9 de l'annexe 1 ne vise pas les notes afférentes.
+3. La présente partie a pour objet de fixer, dans une ère où la technologie facilite de plus en plus la circulation et l'échange de renseignements, des règles régissant la collecte, l'utilisation et la communication de renseignements personnels d'une manière qui tient compte du droit des individus à la vie privée à l'égard des renseignements personnels qui les concernent et du besoin des organisations de recueillir, d'utiliser ou de communiquer des renseignements personnels à des fins qu'une personne raisonnable estimerait acceptables dans les circonstances.
+4(1) La présente partie s'applique à toute organisation à l'égard des renseignements personnels:
+a) soit qu'elle recueille, utilise ou communique dans le cadre d'activités commerciales;
+4(2) La présente partie ne s'applique pas:
+b) à un individu à l'égard des renseignements personnels qu'il recueille, utilise ou communique à des fins personnelles ou domestiques et à aucune autre fin;
+5(1) Sous réserve des articles 6 à 9, toute organisation doit se conformer aux obligations énoncées dans l'annexe 1.
+5(2) L'emploi du conditionnel dans l'annexe 1 indique qu'il s'agit d'une recommandation et non d'une obligation.
+5(3) L'organisation ne peut recueillir, utiliser ou communiquer des renseignements personnels qu'à des fins qu'une personne raisonnable estimerait acceptables dans les circonstances.
+. . . . .
+7(1) Pour l'application de l'article 4.3 de l'annexe 1 et malgré la note afférente, l'organisation ne peut recueillir de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+a) la collecte du renseignement est manifestement dans l'intérêt de l'intéressé et le consentement ne peut être obtenu auprès de celui-ci en temps opportun;
+b) il est raisonnable de s'attendre à ce que la collecte effectuée au su ou avec le consentement de l'intéressé puisse compromettre l'exactitude du renseignement ou l'accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d'un accord ou la contravention du droit fédéral ou provincial;
+c) la collecte est faite uniquement à des fins journalistiques, artistiques ou littéraires;
+d) il s'agit d'un renseignement réglementaire auquel le public a accès;
+e) la collecte est faite en vue:
+(i) soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
+(ii) soit d'une communication exigée par la loi.
+7(2) Pour l'application de l'article 4.3 de l'annexe 1 et malgré la note afférente, l'organisation ne peut utiliser de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+a) dans le cadre de ses activités, l'organisation découvre l'existence d'un renseignement dont elle a des motifs raisonnables de croire qu'il pourrait être utile à une enquête sur une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l'être, et l'utilisation est faite aux fins d'enquête;
+b) l'utilisation est faite pour répondre à une situation d'urgence mettant en danger la vie, la santé ou la sécurité de tout individu;
+c) l'utilisation est faite à des fins statistiques ou à des fins d'étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit utilisé, celui-ci est utilisé d'une manière qui en assure le caractère confidentiel, le consentement est pratiquement impossible à obtenir et l'organisation informe le commissaire de l'utilisation avant de la faire;
+c.1) il s'agit d'un renseignement réglementaire auquel le public a accès;
+d) le renseignement a été recueilli au titre des alinéas (1)a), b) ou e).
+7(3) Pour l'application de l'article 4.3 de l'annexe 1 et malgré la note afférente, l'organisation ne peut communiquer de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+a) la communication est faite à un avocat - dans la province de Québec, à un avocat ou à un notaire - qui représente l'organisation;
+b) elle est faite en vue du recouvrement d'une créance que celle-ci a contre l'intéressé;
+c) elle est exigée par assignation, mandat ou ordonnance d'un tribunal, d'une personne ou d'un organisme ayant le pouvoir de contraindre à la production de renseignements ou exigée par des règles de procédure se rapportant à la production de documents;
+c.1) elle est faite à une institution gouvernementale - ou à une subdivision d'une telle institution - qui a demandé à obtenir le renseignement en mentionnant la source de l'autorité légitime étayant son droit de l'obtenir et le fait, selon le cas:
+(i) qu'elle soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales,
+(ii) que la communication est demandée aux fins du contrôle d'application du droit canadien, provincial ou étranger, de la tenue d'enquêtes liées à ce contrôle d'application ou de la collecte de renseignements en matière de sécurité en vue de ce contrôle d'application,
+(iii) qu'elle est demandée pour l'application du droit canadien ou provincial;
+c.2) elle est faite au titre de l'article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes à l'institution gouvernementale mentionnée à cet article;
+*c.2) elle est faite au titre de l'article 7 de la Loi sur le recyclage des produits de la criminalité à l'institution gouvernementale mentionnée à cet article;
+*(Note: L'alinéa 7(3)c.2), édicté par l'alinéa 97(1)a) du chapitre 17 des Lois du Canada (2000), sera abrogé ultérieurement.)
+d) elle est faite, à l'initiative de l'organisation, à un organisme d'enquête, une institution gouvernementale ou une subdivision d'une telle institution et l'organisation, selon le cas, a des motifs raisonnables de croire que le renseignement est afférent à la violation d'un accord ou à une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l'être ou soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+e) elle est faite à toute personne qui a besoin du renseignement en raison d'une situation d'urgence mettant en danger la vie, la santé ou la sécurité de toute personne et, dans le cas où la personne visée par le renseignement est vivante, l'organisation en informe par écrit et sans délai cette dernière;
+f) elle est faite à des fins statistiques ou à des fins d'étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit communiqué, le consentement est pratiquement impossible à obtenir et l'organisation informe le commissaire de la communication avant de la faire;
+g) elle est faite à une institution dont les attributions comprennent la conservation de documents ayant une importance historique ou archivistique, en vue d'une telle conservation;
+h) elle est faite cent ans ou plus après la constitution du document contenant le renseignement ou, en cas de décès de l'intéressé, vingt ans ou plus après le décès, dans la limite de cent ans;
+h.1) il s'agit d'un renseignement réglementaire auquel le public a accès;
+h.2) elle est faite par un organisme d'enquête et est raisonnable à des fins liées à une enquête sur la violation d'un accord ou la contravention du droit fédéral ou provincial;
+i) elle est exigée par la loi.
+. . . . .
+9(3) Malgré la note afférente à l'article 4.9 de l'annexe 1, l'organisation n'est pas tenue de communiquer à l'intéressé des renseignements personnels dans les cas suivants seulement:
+a) les renseignements sont protégés par le secret professionnel liant l'avocat à son client;
+b) la communication révélerait des renseignements commerciaux confidentiels;
+c) elle risquerait vraisemblablement de nuire à la vie ou la sécurité d'un autre individu;
+c.1) les renseignements ont été recueillis au titre de l'alinéa 7(1)b);
+d) les renseignements ont été fournis uniquement à l'occasion d'un règlement officiel des différends;
+e) les renseignements ont été créés en vue de faire une divulgation au titre de la Loi sur la protection des fonctionnaires divulgateurs d'actes répréhensibles ou dans le cadre d'une enquête menée sur une divulgation en vertu de cette loi. Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements commerciaux confidentiels ou les renseignements dont la communication risquerait vraisemblablement de nuire à la vie ou la sécurité d'un autre individu peuvent être retranchés du document en cause, l'organisation est tenue de faire la communication en retranchant ces renseignements.
+. . . . .
+11(1) Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l'une des dispositions de la section 1 ou qui omet de mettre en œuvre une recommandation énoncée dans l'annexe 1.
+11(4) Le commissaire donne avis de la plainte à l'organisation visée par celle-ci.
+12(1) Le commissaire procède à l'examen de toute plainte et, à cette fin, a le pouvoir:
+a) d'assigner et de contraindre des témoins à comparaître devant lui, à déposer verbalement ou par écrit sous la foi du serment et à produire les documents ou pièces qu'il juge nécessaires pour examiner la plainte dont il est saisi, de la même façon et dans la même mesure qu'une cour supérieure d'archives;
+b) de faire prêter serment;
+c) de recevoir les éléments de preuve ou les renseignements - fournis notamment par déclaration verbale ou écrite sous serment -qu'il estime indiqués, indépendamment de leur admissibilité devant les tribunaux;
+d) de visiter, à toute heure convenable, tout local - autre qu'une maison d'habitation - occupé par l'organisation, à condition de satisfaire aux normes de sécurité établies par elle pour ce local;
+e) de s'entretenir en privé avec toute personne se trouvant dans le local visé à l'alinéa d) et d'y mener les enquêtes qu'il estime nécessaires;
+f) d'examiner ou de se faire remettre des copies ou des extraits des documents contenant des éléments utiles à l'examen de la plainte et trouvés dans le local visé à l'alinéa d).
+12(4) Le commissaire ou son délégué renvoie les documents ou pièces demandés en vertu du présent article aux personnes ou organisations qui les ont produits dans les dix jours suivant la requête que celles-ci lui présentent à cette fin, mais rien n'empêche le commissaire ou son délégué d'en réclamer une nouvelle production.
+13(1) Dans l'année suivant, selon le cas, la date du dépôt de la plainte ou celle où il en a pris l'initiative, le commissaire dresse un rapport où:
+a) il présente ses conclusions et recommandations;
+. . . . .
+d) mentionne, s'il y a lieu, l'existence du recours prévu à l'article 14.
+13(3) Le rapport est transmis sans délai au plaignant et à l'organisation.
+14(1) Après avoir reçu le rapport du commissaire, le plaignant peut demander que la Cour entende toute question qui a fait l'objet de la plainte - ou qui est mentionnée dans le rapport - et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l'annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels que modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l'article 10.
+15. S'agissant d'une plainte dont il n'a pas pris l'initiative, le commissaire a qualité pour:
+a) demander lui-même, dans le délai prévu à l'article 14, l'audition de toute question visée à cet article, avec le consentement du plaignant;
+b) comparaître devant la Cour au nom du plaignant qui a demandé l'audition de la question;
+c) comparaître, avec l'autorisation de la Cour, comme partie à la procédure.
+16. La Cour peut, en sus de toute autre réparation qu'elle accorde:
+a) ordonner à l'organisation de revoir ses pratiques de façon à se conformer aux articles 5 à 10;
+b) lui ordonner de publier un avis énonçant les mesures prises ou envisagées pour corriger ses pratiques, que ces dernières aient ou non fait l'objet d'une ordonnance visée à l'alinéa a);
+c) accorder au plaignant des dommages-intérêts, notamment en réparation de l'humiliation subie.
+. . . . .
+26(2) Il peut par décret:
+a) prévoir que la présente partie lie tout mandataire de Sa Majesté du chef du Canada qui n'est pas assujetti à la Loi sur la protection des renseignements personnels;
+b) s'il est convaincu qu'une loi provinciale essentiellement similaire à la présente partie s'applique à une organisation - ou catégorie d'organisations - ou à une activité - ou catégorie d'activités - , exclure l'organisation, l'activité ou la catégorie de l'application de la présente partie à l'égard de la collecte, de l'utilisation ou de la communication de renseignements personnels qui s'effectue à l'intérieur de la province en cause.
+. . . . .
+30(1) La présente partie ne s'applique pas à une organisation à l'égard des renseignements personnels qu'elle recueille, utilise ou communique dans une province dont la législature a le pouvoir de régir la collecte, l'utilisation ou la communication de tels renseignements, sauf si elle le fait dans le cadre d'une entreprise fédérale ou qu'elle communique ces renseignements pour contrepartie à l'extérieur de cette province.
+30(2) Le paragraphe (1) cesse d'avoir effet trois ans après l'entrée en vigueur du présent article.
+ANNEXE 1
+(article 5)
+PRINCIPES ÉNONCÉS DANS LA NORME NATIONALE DU CANADA INTITULÉE CODE TYPE SUR LA PROTECTION DES RENSEIGNEMENTS PERSONNELS, CAN/CSA-Q830-96
+4.3 Troisième principe - Consentement
+Toute personne doit être informée de toute collecte, utilisation ou communication de renseignements personnels qui la concernent et y consentir, à moins qu'il ne soit pas approprié de le faire.
+Note: Dans certaines circonstances, il est possible de recueillir, d'utiliser et de communiquer des renseignements à l'insu de la personne concernée et sans son consentement. Par exemple, pour des raisons d'ordre juridique ou médical ou pour des raisons de sécurité, il peut être impossible ou peu réaliste d'obtenir le consentement de la personne concernée. Lorsqu'on recueille des renseignements aux fins du contrôle d'application de la loi, de la détection d'une fraude ou de sa prévention, on peut aller à l'encontre du but visé si l'on cherche à obtenir le consentement de la personne concernée. Il peut être impossible ou inopportun de chercher à obtenir le consentement d'un mineur, d'une personne gravement malade ou souffrant d'incapacité mentale. De plus, les organisations qui ne sont pas en relation directe avec la personne concernée ne sont pas toujours en mesure d'obtenir le consentement prévu. Par exemple, il peut être peu réaliste pour une oeuvre de bienfaisance ou une entreprise de marketing direct souhaitant acquérir une liste d'envoi d'une autre organisation de chercher à obtenir le consentement des personnes concernées. On s'attendrait, dans de tels cas, à ce que l'organisation qui fournit la liste obtienne le consentement des personnes concernées avant de communiquer des renseignements personnels
+4.5 Cinquième principe - Limitation de l'utilisation, de la communication
+et de la conservation
+Les renseignements personnels ne doivent pas être utilisés ou communiqués à des fins autres que celles auxquelles ils ont été recueillis à moins que la personne concernée n'y consente ou que la loi ne l'exige. On ne doit conserver les renseignements personnels qu'aussi longtemps que nécessaire pour la réalisation des fins déterminées.
+4.9 Neuvième principe - Accès aux renseignements personnels
+Une organisation doit informer toute personne qui en fait la demande de l'existence de renseignements personnels qui la concernent, de l'usage qui en est fait et du fait qu'ils ont été communiqués à des tiers, et lui permettre de les consulter. Il sera aussi possible de contester l'exactitude et l'intégralité des renseignements et d'y faire apporter les corrections appropriées.
+Note: Dans certains cas, il peut être impossible à une organisation de communiquer tous les renseignements personnels qu'elle possède au sujet d'une personne. Les exceptions aux exigences en matière d'accès aux renseignements personnels devraient être restreintes et précises. On devrait informer la personne, sur demande, des raisons pour lesquelles on lui refuse l'accès aux renseignements. Ces raisons peuvent comprendre le coût exorbitant de la fourniture de l'information, le fait que les renseignements personnels contiennent des détails sur d'autres personnes, l'existence de raisons d'ordre juridique, de raisons de sécurité ou de raisons d'ordre commercial exclusives et le fait que les renseignements sont protégés par le secret professionnel ou dans le cours d'une procédure de nature judiciaire.
+[End of document]

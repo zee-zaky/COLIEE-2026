@@ -1,0 +1,772 @@
+1.
+Introduction
+[1]
+Snider, J.
+: Atorvastatin calcium is the active ingredient in LIPITOR, an anti-cholesterol drug marketed in Canada by the Applicants (collectively referred to as Pfizer or the Applicants). Canadian Patent No. 2,220,018 (the 018 Patent) claims and protects particular and novel crystalline forms of atorvastatin calcium called Form I, Form II, and Form IV. Canadian Patent No. 2,220,455 (the 455 Patent) is also listed on the Patent Register in respect of LIPITOR; it claims a novel process for making atorvastatin calcium in amorphous form from one of the crystalline forms of the 018 patent.
+[2]
+Ranbaxy Laboratories Limited (Ranbaxy) manufactures Ran-Atorvastatin, which contains the amorphous form of atorvastatin calcium, in India. Pursuant to the relevant
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133 (
+NOC Regulations
+), Ranbaxy has applied to the Minister of Health (the Minister) for approval to sell its product into Canada. As required by the
+NOC Regulations
+, Ranbaxy served a Notice of Allegation (NOA) dated January 31, 2005, addressed to Pfizer Canada Inc., wherein Ranbaxy alleged that the six patents then listed on the Patent Register in association with Pfizer's atorvastatin calcium products would either not be infringed by the manufacture and sale of Ran-Atorvastatin, were invalid, or both. This particular hearing deals with only two of those patents - the 018 Patent and the 455 Patent.
+[3]
+Pfizer does not contest Ranbaxy's factual assertion that Ran-Atorvastatin, the product Ranbaxy seeks to import into and sell in Canada, contains the amorphous form of atorvastatin calcium, and none of the patented crystalline forms. Rather, Pfizer contends that Ranbaxy uses one of the patented crystalline forms as an intermediate in the process to make the amorphous material contained in Ran-Atorvastatin, and that Ranbaxy infringes the process described in the 455 Patent. Meanwhile, Ranbaxy asserts that it infringes neither of the relevant patents and that the 455 Patent is invalid for insufficiency.
+[4]
+For the reasons that follow, I have determined that the application will be allowed with respect to the 018 Patent but dismissed with respect to the 455 Patent.
+2.
+Background
+2.1
+History of this Proceeding
+[5]
+This is the second hearing in respect of the January 31, 2005 NOA. As this is a rather unusual occurrence, some explanation of how this second hearing came about may provide helpful background to the reader.
+[6]
+As noted, the NOA referred to six patents. Initially, Pfizer contested each of Ranbaxy's allegations for all six patents. Pfizer subsequently obtained leave to discontinue the application with respect to four of the six patents, resulting from the second disclosure of Ranbaxy. The application in respect of the two remaining patents (the 768 Patent and the 546 Patent) was heard in January 2007. By order dated January 25, 2007 (
+ <FRAGMENT_SUPPRESSED> ), Justice von Finkenstein dismissed Pfizer's application in respect of the 546 Patent. While Pfizer's application in respect of the 768 Patent was allowed, that patent has since expired (in May 2007). Pfizer's appeal of the January 25, 2007 order on the 546 Patent was heard on May 22 and 23, 2007. No order on that appeal has yet been issued.
+[7]
+In the context of another NOC proceeding on patents related to LIPITOR, Pfizer became aware of additional facts about Ranbaxy's manufacture of Ran-Atorvastatin that,  <FRAGMENT_SUPPRESSED> 's view, raised further issues related to the 018 and 455 Patents. Pfizer sought and was granted leave to reinstate this proceeding for these two patents. (
+ <FRAGMENT_SUPPRESSED>  aff'd 367 N.R. 100; 2007 FCA 244). Accordingly, this hearing proceeded in relation to the 018 and 455 Patent.
+2.2
+Ranbaxy's Process
+[8]
+Ranbaxy makes two atorvastatin calcium intermediate products in the manufacture of its atorvastatin calcium API: Atorvastatin Calcium Crude (ATV-2) and a further purified intermediate, Atorvastatin Calcium (ATV-2P). In addition, ATV-2 is made using a seed (Atorvastatin Calcium Seed). Seeds are agents used to influence nucleation and induce crystallization. ATV-2, ATV-2P and the Atorvastatin Calcium Seed (together, referred to as the Ranbaxy intermediates) are all crystalline forms of atorvastatin calcium.
+[9]
+The active substance or API produced by the Ranbaxy process is called Atorvastatin Calcium (Amorphous) (ATV-3). ATV-3 is amorphous atorvastatin calcium and is named Ran-Atorvastatin by Ranbaxy.
+[10]
+The experts agree that Ranbaxy's process for converting ATV-2P into ATV-3 involves dissolving ATV-2P in (Compound A), a non-hydroxylic solvent, and then adding (Compound B) to precipitate the ATV-3 from the solution. (Compound B) is a hydrocarbon solvent and is non-polar. Atorvastatin is a salt, and therefore polar. Polar substances are insoluble in non-polar solvents, and since the amount of (Compound B) is far greater than (Compound A), the solution is rapidly rendered insoluble and the ATV-3 precipitates to the bottom of the production vessel (Application Record of the Applicants (A.R.), Vol. 12, Tab 18, p. 3507).
+3.
+Issues
+[11]
+There are two sets of issues to be addressed in this proceeding - one set for each of the patents.
+[12]
+With respect to the 018 Patent, the issues are as follows:
+1. What is the proper construction of Claims 1 to 9 of the 018 Patent? Of specific interest, is crystalline Form I atorvastatin calcium uniquely identified by XRPD peaks and
+13
+C NMR data described in the claims and is the substance claimed by Claims 1 to 9 a hydrate?
+2. Is Ranbaxy's NOA inadequate because it does not allege non-infringement: on the basis that the product is made in India; because it only contains a bald assertion in respect of claims 6 to 9; or because it does not clearly state that it is using the anhydrous form of crystalline atorvastatin calcium rather than the hydrate form?
+3. Has Pfizer met its burden of satisfying this Court that Ranbaxy's allegation of non-infringement of claims 1 to 9 of the 018 Patent is not justified? Subsidiary to this issue are the following:
+(a) Is the matching of the X-ray powder diffraction (XRPD) peaks of the patented Form I crystalline atorvastatin calcium with the three intermediate forms of the atorvastatin calcium used by Ranbaxy in its manufacture of Ran-Atorvastatin, together with other testing carried out by Pfizer's experts, sufficient to demonstrate that the three intermediate forms are covered by Claims 1 to 5 of the 018 Patent?
+(b) By not providing evidence of the Carbon-13 Nuclear Magnetic Resonance (
+13
+C NMR) data of the patented Form I atorvastatin calcium data for its intermediates, has Ranbaxy failed to allege any facts to support its allegation of non-infringement of Claims 6 to 9 of the 018 Patent?
+(c) If claims 1 to 9 are limited to hydrates, does Ranbaxy use the hydrate as an intermediate in the making of Ran-Atorvastatin?
+(d) Does the use of the patented crystalline Form I atorvastatin calcium in India as an intermediate constitute infringement of the 018 Patent under Canadian patent laws?
+[13]
+With respect to the 455 Patent, the relevant issues are as follows:
+1. What is the proper construction of Claims 75 to 110 of the 455 Patent? Of particular relevance, are the claims to be construed as covering formation of amorphous atorvastatin calcium through techniques that include both evaporation and precipitation or as limited to evaporation?
+2. Is Ranbaxy's NOA inadequate because it does not raise the claim construction as an allegation?
+3. Has Ranbaxy led sufficient evidence to rebut the presumption of validity on the basis of insufficiency and has Pfizer, in turn, failed to meet its burden of showing that the allegation of invalidity is not justified?
+4.
+Witnesses
+[14]
+Each of Pfizer and Ranbaxy provided affidavit evidence from a number of witnesses whose evidence addressed both technical and factual matters. The qualifications of the four witnesses put forward as experts were not disputed. In summary form, the following affiants were most relevant to the issues before me.
+Pfizer's Witnesses
+Expertise/Background
+Subject-Matter of Evidence
+Dr. Allan S. Myerson
+Provost & Senior Vice President and Philip Danforth Armour Professor of Engineering at the Illinois Institute of Technology; crystal form expert
+Patents, Ranbaxy's process and intermediates
+Dr. Nair Rodríguez-Hornedo
+Associate Professor of Pharmaceutical Sciences at the College of Pharmacy at the University of Ann Arbor, Michigan; crystal form expert
+Patents, Ranbaxy's process and intermediates
+Mr. Rex Shipplett
+Senior Scientist with SSCI Inc.
+Fact witness regarding the sufficiency of the 455 Patent
+Ranbaxy's Witnesses
+Expertise/Background
+Subject-Matter of Evidence
+Dr. Mark D. Hollingsworth
+Associate Professor in the Department of Chemistry at Kansas State University; crystal form expert
+Patents, Ranbaxy's process and intermediates
+Dr. Ian M. Cunningham
+Chairman for Dynamic Extractions Ltd. from 2002-2004, and was a Senior Vice-President of Chemical Development at GlaxoSmithKline from 2001-2002; pharmaceutical expert
+455 Patent, Ranbaxy's process
+Mr. Jay R. Deshmukh
+Lawyer and Senior Vice President, Intellectual Property for Ranbaxy
+Fact witness regarding Ranbaxy's process
+5.
+The 018 Patent
+5.1
+What is the proper construction of the 018 Patent?
+[15]
+As taught by the jurisprudence, my first task is to undertake a "purposive construction" of the claims in issue. There is no disagreement and thus no need to set out an exhaustive list of the well-established principles of claims construction (see, principally,
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 168, and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 129). In sum:
+"The key to purposive construction is therefore the identification by the court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention (
+Whirlpool
+, above at para. 45)."
+[16]
+The first patent in issue is the 018 Patent. In the 018 Patent, the patentees describe the need to produce atorvastatin in a pure and crystalline form to enable formulations to meet exacting pharmaceutical requirements and specifications (A.R., Vol. 1, Tab 4, p. 82). The 018 Patent discloses and claims novel crystalline forms of atorvastatin calcium called Form I, Form II and Form IV. As described in the patent, all of the forms are "characterized by their X-ray powder diffraction patterns and/or by their solid state nuclear magnetic resonance spectra (NMR)" (A.R., Vol. 1, Tab 4, p. 91).
+[17]
+Crystalline Form I atorvastatin is the subject of these proceedings. In the patent, the following is stated:
+"Form I atorvastatin consists of smaller particles and a more uniform size distribution than the previous amorphous product and exhibits more favorable filtration and drying characteristics. Additionally, Form I atorvastatin is purer and more stable than the amorphous product." (A.R., Vol. 1, Tab 4, p. 83)
+[18]
+Form I is specifically claimed in Claims 1 to 9. Claims 1 to 5 describe the invention by setting out its reference peaks (referred to as 2
+θ
+values) on X-ray powder diffraction diffractograms. X-ray powder diffraction (XRPD) is a technique used to identify crystals and to determine crystal structure. When X-rays strike a sample of the material of interest, a pattern of peaks (so-called 2 values) is produced which appear because the distances between atoms in a crystal are related to the wavelength of X-rays by Bragg's law. The affidavit evidence of both Dr. Rodríguez-Hornedo and Dr. Myerson is to the effect that the XRPD data provides a reliable way of identifying different crystalline substances and distinguishing among them. As stated by Dr. Myerson, "XRPD produces a pattern of peaks that acts as a signature or fingerprint for that substance" (A.R., Vol. 4, Tab 9, p. 839).
+[19]
+The only differences among the first five claims are the values of the XRPD peaks described. Claim 5 of the 018 Patent relates to Form I:
+"5. A crystalline Form I atorvastatin hydrate having an X-ray powder diffraction containing the following 2
+θ
+values measured using CuK radiation: 9.150, 9.470, 10.266, 10.560, 11.853, 12.195, 17.075, 19.485, 21.626, 21.960, 22.748, 23.335, 23.734, 24.438, 28.915 and 29.234." (A.R., Vol. 1, Tab 4, p. 109)
+[20]
+Claim 4 includes the same 2
+θ
+values as Claim 5, but rounded-off to one decimal place. Claims 1 to 3 of the 018 Patent are similar but include a subset of the 2
+θ
+values listed in Claim 5, rounded-off to one decimal place.
+[21]
+The 018 Patent also claims Forms I, II and IV of atorvastatin calcium using another identification technique known as Carbon-13 Nuclear Magnetic Resonance (
+13
+C NMR). Rather than using X-rays as a means of characterizing a substance,
+13
+C NMR uses magnetic fields. By exposing a substance to magnetic fields and applying specific techniques, the chemical environment surrounding each atom in the material can be determined. A
+13
+C NMR produces a spectrum of chemical shifts. As stated by Dr. Rodríguez-Hornedo at p. 13 of her affidavit, "Different crystalline forms will have unique chemical shift spectra". (A.R., Vol. 4, Tab 12, p. 1019)
+[22]
+Form I is claimed in this manner in Claims 6 to 9. Typifying these 4 claims is Claim 8:
+"8. A crystalline Form I atorvastatin hydrate characterized by solid state 13C nuclear magnetic resonance having the following chemical shift differences between the lowest ppm resonance and other resonances: 3.9, 5.1, 18.9, 20.6, 26.1, 43.6, 46.8, 49.2, 51.8, 92.5, 96.9, 99.6, 102.2, 106.3, 108.2, 109.8, 113.6, 115.7, 138.0, 145.4, 157.1 and 161.5." (A.R., Vol. 1, Tab 4, pp. 109-110)
+[23]
+Claims 6, 7 and 9 are similar. Claims 6 and 7 include a subset of the chemical shift differences listed in Claim 8. Claim 9 expresses the chemical shifts of crystalline Form I atorvastatin calcium in parts per million.
+[24]
+There is no dispute that the invention embodied in Claims 1 to 9 is a hydrate. Each of Claims 1 to 9 refers solely to a "hydrate". In contrast, the claims for each of Forms II and IV specifically include both a hydrate of the crystalline form and the anhydrous form. In addition to the clear words of Claims 1 to 9 (see, for example, the word "hydrate" in Claim 4), the patent discloses that:
+"Crystalline Form I atorvastatin contains about 1 to 8 mol of water. Preferably, Form I atorvastatin contains 3 mol of water." (A.R., Vol. 1, Tab 4, p. 100)
+[25]
+Ranbaxy points to the different language in the two sets of Claims as being important. Claims 1 to 5 are directed to crystalline Form I atorvastatin hydrate having an XRPD "
+containing
+" specific 2
+θ
+peaks, whereas the words used in Claims 6 to 9 indicate that the patented Form I is "
+characterized by
+" certain
+13
+C NMR shifts. In Ranbaxy's view, this different language means that a person skilled in the art would understand that "crystalline Form I atorvastatin hydrate", as that term is used in Claims 1 to 5, means more than the specified 2
+θ
+values. Rather, Ranbaxy submits, the Claims should be construed as referring to a certain polymorphic form of atorvastatin that, at its most basic level, has a unique and characteristic unit cell. I cannot agree with this construction.
+[26]
+The main problem with Ranbaxy's construction is that it incorrectly focuses on the word "containing" in each of Claims 1 to 5. Each of the Claims is to a material "having" an XRPD "containing" certain 2
+θ
+values. The phrase must be read in its entirety. Read as a whole, I have no doubt that the each of Claims 1 to 5 is defined by the relevant XRPD peaks. In other words, if the material is crystalline Form I atorvastatin hydrate with the specified XRPD peaks of Claims 1, 2, 3, 4 or 5, it is the substance claimed. A similar conclusion can be reached for Claims 6 to 9 with respect to
+13
+C NMR spectroscopy.
+[27]
+Even Ranbaxy appears to have accepted this conclusion when it states in its NOA that "Generally, the claims of the 018 Patent are directed to ... Crystalline Form I of atorvastatin hydrate
+as defined by X-ray powder diffraction and solid state [
+13
+C] NMR spectroscopy
+" (Emphasis added.) (A.R., Vol. 2, Tab 6, p. 317)
+[28]
+Relatively late, Ranbaxy has made the argument that it is an essential element of Claims 1 to 5 that the substance be a hydrate and that Pfizer must, in effect, prove separately that the form of crystalline Form I atorvastatin calcium used by Ranbaxy is a hydrate. While I agree (as does Pfizer) that Form I must be a hydrate, I do not see that this makes the hydrate an element to be separately determined. The invention is defined or controlled by either the XRPD peaks or the
+13
+C NMR shifts. Those are the essential elements. This question is discussed later in these reasons.
+[29]
+In conclusion, having reviewed the 018 Patent and considered the evidence before me, I believe that a person of ordinary skill in the art reading Claims 1 to 9 would understand that the material described as crystalline Form I atorvastatin calcium hydrate has one of the following:
+- the specific set of 2
+θ
+values (or XRPD peaks) set out in Claims 1 to 5; or
+- the specific
+13
+C NMR shifts set out in Claims 6 to 9.
+5.2
+Is Ranbaxy's NOA adequate?
+[30]
+Pfizer notes that Ranbaxy does not raise the location of the manufacture and use of the intermediates as an alleged basis of non-infringement in its NOA. Thus, Pfizer submits that Ranbaxy's NOA was insufficient to support this allegation.
+[31]
+A party (second person) seeking an NOC from the Minister, must comply with ss. 5(1)(b)(iv) and 5(3)(a) of the
+NOC Regulations
+. In particular, under s. 5(3)(a), the second person must "provide a detailed statement of the legal and factual basis for the allegation". There is copious jurisprudence that discusses what constitutes an acceptable or adequate NOA. In general terms, an NOA is adequate if it makes the patentee fully aware of the grounds on which the second person claims that the relevant patent will not be infringed if an NOC is issued by the Minister (see, for example,
+ <FRAGMENT_SUPPRESSED>  at para. 4, leave to appeal refused (2007), 364 N.R. 396; [2006] S.C.C.A. No. 335 (S.C.C.)). The patentee must be able to decide whether or not to initiate a s. 6 proceeding under the
+NOC Regulations
+(
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 272 (F.C.A.) at para. 17). In simple terms, whether an NOA is adequate will depend on whether the second person has provided the patentee with a sufficient understanding of the case it has to meet.
+[32]
+Both parties referred to the following criteria set out in
+ <FRAGMENT_SUPPRESSED>  at para. 32, affd. (2004), 329 N.R. 152; 38 C.P.R.(4th) 400 (F.C.A.):
+"In assessing the adequacy of the NOA, the following guidance can be taken from a number of decisions of the Federal Court of Appeal, including
+ <FRAGMENT_SUPPRESSED>  (F.C.A.);
+- A bald assertion of non-infringement is insufficient.
+- It is permissible for the second person to withhold certain information regarding its formulation until subsequent to a confidentiality order being in place."
+- The NOA will be adequate if further disclosure elaborates on the basis for which the allegation of non-infringement was made such that there is sufficient evidence upon which to evaluate the allegation.'
+[33]
+The Ranbaxy NOA sets out Ranbaxy's allegation of non-infringement in respect of the 018 Patent:
+"Specifically, Ranbaxy alleges that
+it does not make, construct, use or sell crystalline Form I atorvastatin hydrate
+, crystalline Form II atorvastatin or crystalline Form IV atorvastatin or their hydrates.
+. . . . .
+"Ran-Atorvastatin does not contain crystalline Form I atorvastatin hydrate, nor is it made by a process in which crystalline Form I atorvastatin hydrate is used or produced." (A.R., Vol. 2, Tab 6, pp. 318-319) (Emphasis added.)
+[34]
+There is no doubt that the allegations related to the 018 Patent could have been more informative - particularly with respect to the issue of whether the Ranbaxy intermediates could be shown to be hydrates. However, I believe that the words of the NOA are sufficient to allow Pfizer to know that the basis of the allegation was likely that Ranbaxy was not using a compound that could be identified as either crystalline Form I atorvastatin as defined in the 018 Patent or as a hydrate, as required by the 018 Patent.
+[35]
+We must also look at the subsequent disclosures made after the Confidentiality Order was in place. On May 11, 2005, the manufacturing sites were disclosed to Pfizer. At that point, it should have been apparent to Pfizer that Ranbaxy was relying - at least in part - on the fact that all of the manufacturing steps were taking place in India.
+[36]
+I am not persuaded that the NOA was inadequate. Even if I am wrong on this issue, because of my conclusion that the allegations with respect to the 018 Patent are not justified, the issue of adequacy of the NOA is not determinative.
+5.3
+Does the manufacture and use of the Ranbaxy intermediates infringe Claims 1 to 5 or Claims 6 to 9 of the 018 Patent?
+[37]
+We know that Ranbaxy's end-product is not crystalline Form I atorvastatin hydrate. Rather, the focus of this hearing is on the three Ranbaxy intermediates. The phrase "making, constructing, using or selling" in s. 5(1)(b)(iv) of the
+NOC Regulations
+has been held to be broad enough to include the use of patented substance at an intermediate stage, even if the intermediate ceases to exist once the final drug product is formed (see, for example,
+ <FRAGMENT_SUPPRESSED>  at paras. 15-17;
+ <FRAGMENT_SUPPRESSED>  at para. 4). Ranbaxy does not dispute this legal conclusion, provided that the intermediates are used in Canada.
+[38]
+What then is the basis for Ranbaxy's allegation that it does not infringe the 018 Patent? Having now reviewed all of the submissions and the arguments of Ranbaxy, I believe that the key arguments of Ranbaxy are the following:
+1. The Ranbaxy intermediates do not fit the same unit cell as the patented Form I atorvastatin hydrate, meaning that Pfizer has not satisfied its burden to show that the Ranbaxy intermediates are the substances set out in Claims 1 to 9;
+2. Pfizer has failed to show that Ranbaxy uses crystalline Form I atorvastatin
+hydrate
+; and
+3. Ranbaxy manufactures or uses the intermediates in India, and not in Canada.
+[39]
+While initially asserting that Claims 6 to 9 of the 018 Patent were invalid, Ranbaxy did not pursue this allegation in argument before me. Accordingly, for purposes of this Application, I will assume that all of the Claims in issue (Claims 1 to 9) of the 018 Patent are valid.
+[40]
+On the issue of infringement, I begin with the testimony of Ranbaxy's Senior Vice-President, Intellectual Property. During cross-examination, Mr. Deshmukh admitted that Ranbaxy uses crystalline Form I atorvastatin calcium to make the Ranbaxy product:
+"24 Q. One process [for making the Ranbaxy Product] uses Form I as an intermediate; is that correct?
+A. The only one which is being currently commercialized uses Form I, as I understand it.
+25 Q. Form I is the crystal form that is described in the Canadian Patent 2,220,018, correct?
+A. To the best of my understanding, yes."
+(A.R., Vol. 12, Tab 17, pp. 3475-3476)
+[41]
+Upon further questioning, it became clear that Mr. Deshmuck, apparently on behalf of Ranbaxy, his employer, took the position that the location of Ranbaxy's operations is the basis of its allegation that it does not infringe the 018 Patent:
+"69 Q. To your knowledge, Form I is used in the process [for making the Ranbaxy Product], though, correct?
+A. To my knowledge, what the intermediate is as I understand it is Form I.
+70 Q.
+To your knowledge, then, the basis for this allegation [of non-infringement of the 018 Patent] is that the process is not run in Canada, correct?
+A.
+Yes
+." (Emphasis added.)
+(A.R., Vol. 12, Tab 17, pp. 3483-3484)
+[42]
+This is, in effect, an admission that, but for the use of the intermediates in India, Ranbaxy would infringe the 018 Patent. In argument before me, Ranbaxy attempted to distance itself from the admissions by Mr. Deshmukh by arguing that he was not qualified to express this opinion. In spite of these arguments, I believe that it is compelling to hear from a senior executive of Ranbaxy that he acknowledges infringement but for the issue of the location of the Ran-Atorvastatin production facilities.
+[43]
+In spite of this, I will now proceed to deal with the first two arguments by Ranbaxy on infringement.
+5.3.1
+Do the Ranbaxy intermediates consist of crystalline Form I atorvastatin calcium as defined by the 018 Patent?
+[44]
+The first question is whether the Ranbaxy intermediates (or any of them) fall within Claims 1 to 9 of the 018 Patent. The first aspect of this analysis is whether the sample data produced by Ranbaxy demonstrates a match with Pfizer's crystalline Form I atorvastatin.
+[45]
+As part of this proceeding, Ranbaxy produced XRPD data for four samples: one for each of the calcium seed and ATV-2P and two for ATV-2. Ranbaxy did not produce any
+13
+C NMR data.
+[46]
+At this point, the expert evidence becomes particularly helpful. I will begin with the evidence presented by the experts retained by Pfizer - Dr. Myerson and Dr. Rodríguez-Hornedo.
+(a)
+Evidence of Drs. Myerson and Rodríguez-Hornedo
+[47]
+Dr. Myerson used three analytical methods to identify the crystalline form of the Ranbaxy intermediates.
+(i) Peak analysis - Dr. Myerson compared the 2
+θ
+values in each of the XRPD "peak search" tables produced by Ranbaxy to the 2
+θ
+values that are claimed in the 018 Patent;
+(ii) Spectra overlay - Dr. Myerson visually compared Ranbaxy's XRPD spectra relating to the intermediates isolated during the process of manufacturing Ran-Atorvastatin to the XRPD spectra included in the 018 Patent;
+(iii) XRPD indexing - Using the data in the 018 Patent, Dr. Myerson calculated a unit cell for Form I atorvastatin calcium. Using the same calculation method, he analyzed the Ranbaxy XRPD data to determine whether the calculated unit cell was that of Form I atorvastatin calcium.
+[48]
+Dr. Myerson was unequivocal that all three analyses lead to the same conclusion: the Ranbaxy intermediates are, or contain, crystalline Form I atorvastatin calcium. In his affidavit, Dr. Myerson summarized the results of his peak analysis in the following chart (A.R., Vol. 4, Tab 9, p. 851):
+(Confidential pursuant to the Protective Order dated April 7, 2005.)
+[49]
+Dr. Myerson's visual overlay, although perhaps less scientific than the XRPD analysis, provides support for his peak analysis.
+[50]
+With respect to the powder indexing he performed, Dr. Myerson concluded that:
+"the results for all four samples are almost identical to the results obtained for Form I atorvastatin, thus further confirming that these Ranbaxy samples are made up primarily [of] Form I." (A.R., Vol. 4, Tab 9, pp. 855-856)
+His overall conclusion is that Ranbaxy's Atorvastatin Seed, Atorvastatin Crude and Atorvastatin Calcium therefore fall within claims 1 to 5 of the 018 Patent. (A.R., Vol. 4, Tab 9, p. 856)
+[51]
+Dr. Rodríguez-Hornedo conducted the same first two analyses as were carried out by Dr. Myerson and concluded as follows:
+"It is my view that the crystalline form of atorvastatin present in Ranbaxy's Atorvastatin Calcium Seed, Atorvastatin Calcium Crude (ATV-2) and Atorvastatin Calcium (ATV-2P) is Form I, as claimed in claims 1-5 of the '018 patent. In my view, Ranbaxy's atorvastatin seed and intermediates fall within claims 1 to 5 of the '018 patent." (A.R., Vol. 4, Tab 9, p. 1025)
+(b)
+Evidence of Dr. Hollingsworth
+[52]
+Dr. Hollingsworth, one of Ranbaxy's experts, agreed, in his cross-examination, that the XRPD data from Ranbaxy's samples have all of the 16 peaks claimed by the 018 Patent, within a typical margin of error of 0.2 degrees:
+"Q. Okay. So subject to your refusal to employ the typical 0.2 difference, you would agree that each of those four samples has all the 16 peaks of Form I in the 018 patent.
+A.Yeah, there's a match in the peak positions. That's as far as I can - a match within 0.2 degrees, and that's as far as I can go with that."
+(A.R., Vol. 16, Tab 21, p. 5237)
+[53]
+The "typical 0.2 difference" is a reference to the "typical" ± margin of error used in this type of analysis by persons skilled in the art and was used by Pfizer's experts in their peak comparisons. In their view, the existence of differences of up to the 0.2 2
+θ
+is common and may be associated with instrument variability, sample preparation and preferred orientation (see, for example, p. 18, affidavit of Dr. Rodríguez-Hornedo (A.R., Vol. 4, Tab 12, p. 1024)). Dr. Hollingsworth is of the opinion that smaller errors than this "typical" value would be appropriate with respect to atorvastatin in order to uniquely identify it (A.R., Vol. 16, Tab 21, pp. 5235-5237).
+[54]
+However, it is apparent, from reading Dr. Hollingsworth's evidence in his affidavit and during cross-examination, that his disagreement was more fundamental than merely relying on a smaller error margin. Specifically, Dr. Hollingsworth does not believe that one should identify the Ranbaxy intermediates exclusively on the basis of a comparison of XRPD peaks (regardless of the margin of error). In his view, "the person skilled in the art would understand Form I atorvastatin to mean more than just its powder x-ray diffraction pattern and NMR peak positions, but more fundamentally its crystal structure, and in particular, its unit cell". In his view, the crystalline Form I atorvastatin hydrate provided for in Claims 1 to 5 can only be identified by its "unique and characteristic unit cell". As he states in his affidavit:
+"Solid-state forms of compounds that are crystalline have regularly repeating three-dimensional structures, the smallest unit of which is called the unit cell. The unit cell is the fundamental building block of any crystalline material, and it is characterized by the dimensions (in angstroms) along three axes ... and the angles between these axes ...
+"Crystal forms that have the same chemical composition are called polymorphs. In general, different polymorphs will have different unit cells, and the arrangement of atoms or molecules within those unit cells will be different." (A.R., Vol. 15, Tab 20, p. 4610)
+[55]
+With this perspective, Dr. Hollingsworth, relying on data produced by Dr. Myerson in his XRPD indexing, carried out his own unit cell analysis or calculations. Specifically, Dr. Hollingsworth compared the unit cell that Dr. Myerson derived from the 018 Patent (Cell 1) to that derived from the Ranbaxy crude (ATV-2) sample (Cell 2). He concluded that there were significant differences between Cell 1 and Cell 2.
+"In light of the normal precision for unit cells determined from powder X-ray diffraction, it is my opinion that it would be clear to any person skilled in the art that these unit cell constants are
+significantly different
+and that it cannot be concluded on this basis that the 1118640 sample is the same as the polymorphic form described in the 018 Patent." (A.R., Vol. 15, Tab 20, p. 4617) (emphasis in original).
+[56]
+The difference in Cell 1 and Cell 2, he submits:
+"... calls in to question the validity of claiming a set of peak positions that contain little or no information about one of the three unit cell axes. This, in turn, calls into question the validity of simply comparing the peak positions in the Ranbaxy samples to those recited in the claims of the 018 and 455 patents. If the peaks from two dramatically different sets of cell constants give peaks that fall within the normally allowed error limits of the positions claimed in the two patents, then, as a matter of science, it is not possible to use those peak positions to distinguish these two materials." (A.R., Vol. 15, Tab 20, p. 4627)
+[57]
+There are a number of problems with the evidence and arguments of Ranbaxy on this point.
+[58]
+Although he qualified his responses, Dr. Hollingsworth acknowledged, during cross-examination, that XRPD is probably the most definitive method for identifying polymorphs and distinguishing among them (A.R., Vol. 16, Tab 21, p. 5259) and, further, that X-ray crystallographic methods which reflect differences in crystal structure can be definitive in such identification (A.R., Vol. 16, Tab 21, p. 5260). He also would not go so far as to opine that the Ranbaxy intermediate samples were not Form I. When asked directly, his response was, "It's my opinion - that you can't tell" (A.R., Vol. 16, Tab 21, p. 5232). This must be contrasted to the direct and unequivocal opinions of both Drs. Myerson and Rodríguez-Hornedo.
+[59]
+Dr. Hollingsworth agreed that all XRPD data for the four samples provided by Ranbaxy (for the seed, ATV-2 and ATV-2P) showed a match in the 16 peak positions with the patented substance, within an accepted error of margin (A.R., Vol. 16, Tab 21, pp. 5236-5237, 5272-5275).
+[60]
+When asked whether he was aware of any example where two samples shared 16 peaks and yet were different polymorphs, Dr. Hollingsworth's response was only "I am trying to think of something, but nothing's coming to mind right now" (A.R., Vol. 16, Tab 21, p. 5231). Indeed, the only example cited in his affidavit was an analysis (revealed through a literature search) of the two known forms of terephthalic acid where he noted "the inability to identify the two polymorphic forms of terephthalic acid based on a limited number of PXRD peaks" (A.R., Vol. 16, Tab 20, p. 4965). Apparently, in that example, although the three largest peaks matched in 2
+θ
+values for both forms of the acid, the two forms were different. I have two difficulties in accepting this example as a reliable indicator that XRPD peak analysis can be misleading. The first is that the terephthalic acid comparison was carried out on only three peaks; in the case before me, the matching was consistent across 16 peaks. While I can accept that "different polymorphic forms of the same compound can, and often do, share many of the same peaks" (A.R., Vol. 16, Tab 20, p. 4965), this is a far cry from a situation where every one of the existing 16 peaks are almost identically aligned.
+[61]
+Further, I note the limited nature of Dr. Hollingsworth's analysis. Rather than conduct his own analysis on all four samples, he used the data produced by Dr. Myerson for one sample only: that being the ATV-2 or crude sample. As acknowledged by Dr. Hollingsworth, an impurity, as would likely exist in the ATV-2 sample, could add peaks to the XRPD (A.R., Vol. 16, Tab 20, p. 5284). In addition, Dr. Hollingsworth performed no other analysis that might have refuted or supported his finding. Specifically, he did not produce his own diffractograms or identify
+13
+C NMR shifts. This limited approach raises significant doubt as to the reliance that should be placed on Dr. Hollingsworth's conclusions.
+(c)
+Ranbaxy intermediates and Claims 6 to 9
+[62]
+I turn to consideration of Ranbaxy's allegations related to Claims 6 to 9. In its NOA, Ranbaxy alleges that "it does not make, construct, use or sell crystalline Form I atorvastatin hydrate" (A.R., Vol. 2, Tab 6, p. 318). An essential element of Claims 6 to 9, as I determined above, is that the substance contain the specific
+13
+C NMR shifts set out in those claims of the 018 Patent. As noted already, Ranbaxy did not produce any
+13
+C NMR shift data for its intermediates. Pfizer argues that, because of Ranbaxy's failure to produce these data, Ranbaxy has no basis to say that its intermediates do not infringe any of Claims 6 to 9.
+[63]
+I agree to a point. Absent this evidence, Ranbaxy's allegations of non-infringement of Claims 6 to 9 of the 018 Patent cannot be justified,
+unless
+Ranbaxy's argument that Pfizer has not shown that Ranbaxy intermediates are hydrates can be sustained. The issue of whether the Ranbaxy intermediates are hydrates as contemplated by Claims 6 to 9 is discussed below.
+(d)
+Conclusion on Ranbaxy intermediates
+[64]
+In conclusion, I am not persuaded that Dr. Hollingsworth's evidence should be accorded any significant weight.
+[65]
+This, of course, leaves me with the expert evidence of Drs. Myerson and Rodríguez-Hornedo. As described above, each of these experts concluded that the Ranbaxy intermediates fall within Claims 1 to 5 of the 018 Patent. Their evidence supports a conclusion that, on a balance of probabilities, the Ranbaxy intermediates fall within Claims 1 to 5. In addition, the failure of Ranbaxy to provide
+13
+C NMR data presents many problems in respect of Ranbaxy's allegations. The issue that remains to be addressed is whether Pfizer has satisfied its burden of demonstrating that the Ranbaxy intermediates are crystalline Form I atorvastatin
+hydrates
+.
+5.3.2
+Does Ranbaxy use the hydrate as an intermediate in the making of Ran-Atorvastatin?
+[66]
+Having established that the proper construction of Claims 1 to 9 limits the patent to the crystalline Form I atorvastatin calcium
+hydrate
+, the critical question is whether Pfizer has established on a balance of probabilities that Ranbaxy's seed, ATV or ATV-2P are the crystalline Form I atorvastatin calcium hydrate.
+[67]
+Ranbaxy argues that, even if it can be shown that it uses crystalline Form I atorvastatin calcium, Pfizer has failed to provide any evidence that Ranbaxy uses crystalline Form I atorvastatin
+hydrate
+. In summary form, Ranbaxy relies on the following evidence to support its argument:
+- Drs. Myerson and Rodríguez-Hornedo addressed only whether Ranbaxy makes crystalline Form I atorvastatin; their evidence made no observations on whether Ranbaxy makes or uses the hydrate. That is, neither witness considered the fact that it is an essential element of the Claims 1 to 9 that the material be a hydrate.
+- For a substance to be characterized as a hydrate, molecules of water must be trapped inside the crystal lattice; it is not enough that water merely be present. In support, Ranbaxy refers to the evidence of Dr. Myerson set out in his affidavit at paragraph 28 and that of Dr. Rodríguez-Hornedo where she confirmed in cross-examination that water molecules would be a part of the lattice structure of a hydrate (A.R., Vol. 4, Tab 13, p. 1100) and stated, in her affidavit:
+"When a crystal is formed, sometimes molecules of the solvent are incorporated into the crystal lattice. When this happens, the crystal form is called a 'solvate' (or a 'hydrate' when the solvent is water). If no molecules of the solvent are present inside the crystal lattice, the crystalline form is called 'anhydrous', although water can sometimes be associated with anhydrous crystalline forms by absorption of water molecules on to the surface of the crystal". (A.R., Vol. 4, Tab 12, p. 1017)
+- The best evidence (in Ranbaxy's view) from Dr. Rodríguez-Hornedo, elicited on re-examination, was that the material "could be a hydrate as claimed in the patent". (A.R., Vol. 4, Tab 13, p. 1129)
+[68]
+In sum, Ranbaxy submits that all Pfizer can do on this issue is to show a possibility that the Ranbaxy intermediates are hydrates and, therefore, that there is only a possibility of infringement.
+[69]
+The problem with Ranbaxy's argument is that the Ranbaxy intermediates have been shown to match the patented Form I substance, on all 16 XRPD peaks and as confirmed by other testing methods (as described above). This is strong evidence that the Ranbaxy intermediates are the same substance as claimed by Pfizer in Claims 1 to 5; that is, they are hydrates. In other words, the Ranbaxy intermediates are more likely than not to be made up of crystalline Form I atorvastatin calcium
+hydrate
+.
+[70]
+This obvious conclusion explains why Drs. Myerson and Rodríguez-Hornedo did not provide separate and explicit statements that the Ranbaxy intermediates were hydrates. By carrying out their analyses and reaching their conclusions, they were addressing all of the elements of Claims 1 to 5, including the fact that both the patented Form I and the Ranbaxy intermediates were hydrates. Both witnesses concluded that Ranbaxy's intermediates fall within claims 1 to 5 of the 018 Patent. As stated by counsel for Pfizer in oral reply (Transcript of Proceedings (T.P.), Vol. 3, pp. 557-558):
+"We are dealing with a hydrate. We are looking at a claim that is limited to hydrate. We are looking at a patent with examples with respect to Form 1 to make a hydrate. We are looking at a crystal form which has 16 peaks that define the hydrate. And we have a complete match of the intermediates as hydrates. If it looks like a duck, if it quacks like a duck; it's a duck."
+[71]
+This is a complete response to the question of whether Pfizer has satisfied its burden to show that the intermediates are hydrates; in my view, Pfizer has done so.
+[72]
+I am satisfied that Pfizer has established, on a balance of probabilities, that the Ranbaxy intermediates are crystalline Form I atorvastatin hydrates, as contemplated by Claims 1 to 9.
+[73]
+The situation with Claims 6 to 9 is different in that Ranbaxy produced no
+13
+C NMR data to support its allegation that the intermediates do not infringe Claims 6 to 9. In the absence of such information, Ranbaxy's allegations with respect to Claims 6 to 9 cannot be justified unless this Court accepts Ranbaxy's final argument that the intermediates used in India do not constitute infringement under Canadian patent law. I turn next to consider that argument.
+5.3.3
+Does use of the patented substance in India infringe the 018 Patent
+?
+[74]
+As described earlier, the testimony of Mr. Deschmuck is consistent with my conclusions to this point. It was his position that the basis for Ranbaxy's allegation of non-infringement was that the Ranbaxy intermediates were used in India. Is this a correct assertion? Ranbaxy argues that production in India and use there of a patented substance cannot be infringement of the Canadian 018 Patent.
+[75]
+In the U.K. decision in
+ <FRAGMENT_SUPPRESSED>  (Ch. Div.), the High Court of Justice - Chancery Division was called on to examine the impact of U.K. patent laws on the importation of saccharin produced off-shore through a process that was patented under U.K. law. On the facts of the case, the process in question was not the last stage of the production of saccharine; rather, it was an intermediate stage. The conclusion of the Court was that the defendants were indirectly making use of the invention and had infringed its patent. Buckley, J., summed up the rationale for the decision at p. 319:
+"If the patented process were the last stage in the production of the article sold, the importation and sale of the product would, in my opinion, plainly be an infringement. Does it make it any the less an infringement that the article produced and sold is manufactured by the use of the patented process which is subjected to certain other processes? In my opinion it does not. By the sale of saccharin, in the course of the production of which the patented process is used, the Patentee is deprived of some part of the whole profit and advantage of the invention, and the importer is indirectly making use of the invention."
+[76]
+The principle that has been extracted from this decision is referred to as the
+Saccharin
+doctrine.
+[77]
+The
+Saccharin
+doctrine has been applied in Canada to situations involving process patents.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (T.D.), revd. in part on other grounds (1995), 187 N.R. 284; 60 C.P.R.(3d) 135 (F.C.A.), Justice McKay concluded that the defendant infringed a patent, contrary to the provisions of the
+Patent
+Act
+, R.S.C. 1970, c. P-4, when it used a patented process in the production of a substance that was imported for sale into Canada. One important consideration was the fact that the use of the patented processes in the production was not "merely incidental" ( <FRAGMENT_SUPPRESSED> , above at 315). (See also,
+ <FRAGMENT_SUPPRESSED> , at paras. 43-44:
+"Infringement through use is thus possible even where the patented invention is part of, or composes, a broader unpatented structure or process. This is, as Professor Vaver states, an expansive rule. It is, however, firmly rooted in the principle that
+the main purpose of patent protection is to prevent others from depriving the inventor, even in part and even indirectly, of the monopoly that the law intends to be theirs: only the inventor is entitled, by virtue of the patent and as a matter of law, to the full enjoyment of the monopoly conferred.
+"Thus, in
+ <FRAGMENT_SUPPRESSED>  (H.C.J.), the court stated, at p. 319:
+'By the sale of saccharin, in the course of the production of which the patented process is used, the Patentee is deprived of some part of the whole profit and advantage of the invention, and the importer is indirectly making use of the invention.'" (Emphasis added.)
+[79]
+Ranbaxy argues that the
+Saccharin
+doctrine should be limited to process claims and not extended to apply to products that are used off-shore as intermediates.
+[80]
+As I read the evolving jurisprudence - and, in particular, the comments of the Supreme Court - it seems to me that the focus of any analysis must be on whether the inventor has been deprived, even in part or even indirectly, of the full enjoyment of the invention. Under this approach, I see no reason why I should necessarily limit the application of the doctrine to process claims. Cannot, in certain circumstances, the use of a product offshore result in a loss of a patentee's advantage?
+[81]
+My colleague, Justice Gibson, considered this situation in the case of
+ <FRAGMENT_SUPPRESSED>  revd. (2005), 341 N.R. 330; 42 C.P.R.(4th) 97; 2005 FCA 270 (referred to as <FRAGMENT_SUPPRESSED> I
+). The facts of that case involved a compound that may have been formed as an intermediate product during a process used off-shore. Although Justice Gibson determined the case on the basis of the inadequacy of the NOA (on which point, he was reversed) he acknowledged at para. 62, the principles espoused in
+Saccarhin
+, above and endorsed by the Supreme Court in <FRAGMENT_SUPPRESSED> , above:
+"... [H]ere Novopharm seeks to use what may well be a patented part that will be contained within something that is not patented, that is to say, Novopharm's 250 mg tablets strength azithromycin monohydrate product. The bulk azithromycin monohydrate that Novopharm proposes to import and to use would be a significant or important part of Novopharm's end product; indeed, it would appear that it would be by far the central part of that product. If this were allowed to happen, and
+if azithromycin dihydrate is formed in the intermediate steps for making Novopharm's bulk azithromycin, the Applicants would be deprived, indirectly, of the monopoly that the grant of the '876 Patent intends to be theirs. Its full enjoyment of the monopoly conferred would be substantially impaired
+." (Emphasis added.)
+[82]
+As noted, Justice Gibson's decision was reversed on appeal. Of interest is that the Court of Appeal did
+not
+conclude that the use of the product outside Canada could not possibly infringe. Rather, the Court dealt with the merits of whether a patented substance was produced during the Novopharm process and concluded that Pfizer had not established that the patented dihydrate would be produced in the process. I acknowledge that it might be overreaching to say that this case stands for the proposition that the
+Saccahrin
+doctrine applies to off-shore product use as well as to processes. Nevertheless, this decision, at both levels of Court, is not inconsistent with such a conclusion.
+[83]
+Ranbaxy raises two cases that, in its view, support its position that the
+Saccharin
+doctrine has not been extended to product claims:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 481 (F.C.A.); and
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.). In each of these cases, the Court provides comments to the effect that the exclusive rights conferred by a Canadian patent are limited territorially to Canada (see <FRAGMENT_SUPPRESSED> , above at 489  <FRAGMENT_SUPPRESSED> ;
+Dole
+, above at 36). However, I note that the facts of both of these cases involved sale of the end products in the United States. Accordingly, I do not view these decisions as relevant to the issue before me, where the final product is to be sold in Canada.
+[84]
+Ranbaxy also expressed concern about the far-reaching impact of an application of the
+Saccharin
+doctrine to product claims. One example cited was the use of scissors patented in Canada to cut the cloth for an Italian-made suit sold in Canada. An extension of the doctrine to product claims, argues Ranbaxy, would mean that, by using the scissors to cut the cloth, the Canadian patent would be infringed. In my view, this is a trifling example. Surely, a Court can differentiate between incidental use of a patented product and use that is core to the manufacture of the end-product sold into Canada.
+[85]
+In oral argument, Ranbaxy referred to the enactment, by the United Kingdom, of 1977 amendments to its
+Patent
+Act
+that effectively limit infringement by importation to process claims only (
+The Patents
+Act
+1977 (U.K.), 1977 c. 37, s. 60(1)). There are two problems with this reliance on provisions of the U.K.
+Patent
+Act
+. The first is that foreign law must be proved. As stated by Justice Gauthier in
+ <FRAGMENT_SUPPRESSED>  at para. 244:
+"This Court is not bound by the decisions of foreign courts dealing with corresponding patents. In the words of the Federal Court of Appeal: 'Although foreign patents may be practically identical, foreign law is unlikely to be so and must, in any case, be proved' (
+ <FRAGMENT_SUPPRESSED> )."
+[86]
+More importantly, however, I have no context in which to place this particular provision. Obviously, the U.K. Legislators felt a need to clarify the law and chose, apparently, to limit the
+Saccharin
+doctrine, through a statutory enactment. I cannot assume that this was simply a codification of the common law (as suggested by Ranbaxy); it may have been a response to what Parliament saw as an overly-broad reach of U.K. patent laws. I simply do not know.
+[87]
+I acknowledge that examination of this issue raises the tensions between respect for the territorial limits of patent law and the ability of a country to enforce its own patent legislative scheme in a global market. Companies often use multiple nations to develop, manufacture, market and sell their products. In each of the jurisdictions, there will be a patent scheme that must be respected. However, this should not prevent us, as a matter of Canadian law, from reviewing all aspects of the extra-territorial processes and the products to determine whether the inventor has been deprived, even in part or even indirectly, of the full enjoyment of the invention.
+[88]
+In conclusion on this question, I am satisfied that, as a matter of Canadian law, the
+Saccharin
+doctrine is not limited to process claims. Having reached this conclusion, however, it is obvious that a Court must proceed cautiously when either off-shore products or processes are concerned. As stated by Mr. Justice Tomlin in
+ <FRAGMENT_SUPPRESSED>  (Ch. Div.) at 88:
+"In my judgment, each case must be determined on its own merits by reference to the nature of the invention, and the extent to which its employment played a part in the production of the article, the importation of which is complained of."
+[89]
+In that case, Justice Tomlin was not persuaded that the plaintiff had proved that the device that was the subject-matter of the invention was used in relation to the manufacture of the potash that was imported into Britain.
+[90]
+It seems to me that, when faced with a situation where the question must be addressed, a Court must have regard to such factors as:
+- The importance of the product or process to the final product sold into Canada. Where the use is incidental, non-essential or could readily be substituted (such as the Italian scissors example), a Court might be less inclined to find infringement.
+- Whether the final product actually contains all or part of the patented product. Where the patented product can actually be identified in the product sold into Canada, there may be a strong case for a finding of infringement.
+- The stage at which the patented product or process is used. For example, use of a process as a preliminary step of a lengthy production process may lead to a conclusion that the patentee has suffered little deprivation.
+- The number of instances of use made of the patented product or process. Where the same patented product is used repetitively through the production of the non-patented end product, there may be clearer evidence that the advantage of the patentee has been impaired.
+- The strength of the evidence demonstrating that, if carried out or used in Canada, the product or process would constitute infringement. On this point, my opinion would be that, where there is ambiguity in the evidence, the benefit of the doubt should go to the party using the product or process. This is, perhaps, simply another way of expressing the established principle that the patentee bears the burden of proving infringement.
+[91]
+In sum, there must be a strong link established between the use of the patented process or product and the product sold into Canada. I now turn to the evidence before me.
+[92]
+The role of the Ranbaxy intermediates in the process of manufacturing Ran-Atorvastatin is not insignificant or incidental. As set out in the flow diagram produced by Ranbaxy, there are 5 stages in the production of Ran-Atorvastatin. Atorvastatin calcium is used three times during the process. On the flow diagram, we first see the Atorvastatin Seed used as part of the process to produce the intermediate Atorvastitin Calcium Crude (referred to as ATV-2). A purification process then produces Atorvastatin Calcium (ATV-2P) which is then subjected to a process which results in Ran-Atorvastatin. As I have found, each of the three uses described is of a form of crystalline Form I atorvastatin calcium hydrate as included in Claims 1 to 9 of the 018 Patent.
+[93]
+The infringing product is not used as a preliminary step. Rather the Ranbaxy intermediates are used in the final three stages of the manufacturing process.
+[94]
+The function of the intermediates is not incidental. Without the intermediates, it appears that Ranbaxy would not have been able to produce its amorphous form of atorvastatin, which product it proposes to sell into Canada.
+[95]
+Of the factors that I have outlined above, only one favours Ranbaxy. On the facts before me, it appears that none of the intermediates constitute any element of the end product. Upon being placed into solution at the final process stage, the crystalline structure disappears and ATV-2P ceases to exist. In that sense, the intermediate can be said to have completely performed its intended function and has done so outside the territorial limits of Canada. Is this sufficient to conclude that Ranbaxy does not infringe? I do not think so.
+[96]
+Weighing the evidence, I am persuaded that Ranbaxy has infringed the 018 Patent by the use of the Ranbaxy intermediates, even though the use made of the intermediates occurs outside Canada.
+5.4
+Conclusion with respect to 018 Patent
+[97]
+In summary, in response to the issues raised for the 018 Patent, I am satisfied that:
+(a) The matching of the XRPD peaks of the patented Form I crystalline atorvastatin calcium with the three intermediate forms of the atorvastatin calcium used by Ranbaxy in its manufacture of Ran-Atorvastatin, together with other testing carried out by Pfizer's experts, is sufficient to demonstrate that the three intermediate forms are covered by Claims 1 to 5 of the 018 Patent.
+(b) By not providing evidence of the
+13
+C NMR data for its intermediates, Ranbaxy has failed to allege any facts to support its allegation of non-infringement of Claims 6 to 9 of the 018 Patent.
+(c) Ranbaxy uses the hydrate as an intermediate in the making of Ran-Atorvastatin.
+(d) The use of the patented crystalline Form I atorvastatin calcium in India, as an intermediate, constitutes infringement of the 018 Patent under Canadian patent laws.
+[98]
+Accordingly, I find, on a balance of probabilities, that Ranbaxy's allegations that it does not infringe the 018 Patent are not justified. For this reason, the Minister should be prohibited from issuing the NOC until the expiry of the 018 Patent.
+6.
+The 455 Patent
+[99]
+The second Patent affected by this Application is the 455 Patent.
+6.1
+What is the proper construction of Claims 75 to 110 of the 455 Patent?
+[100]
+In general, the Court's first task should be the construction of those claims in the patent that have been put into issue.
+[101]
+In the 455 Patent, Pfizer claims a process for consistently making amorphous atorvastatin calcium from crystalline Form I atorvastatin. This object is stated in the 455 Patent as follows:
+"The object of the present invention is a process which is amenable to large-scale production for converting crystalline Form I atorvastatin into amorphous atorvastatin.
+"We have surprisingly and unexpectedly found that solutions of atorvastatin in non-hydroxylic solvent afford, after removal of the solvent, amorphous atorvastatin." (A.R., Vol. 1, Tab 5, p. 131)
+[102]
+Claims 1 to 36 are directed to a process that involves dissolving crystalline Form I atorvastatin calcium (as defined by its chemical structure and XRPD or
+13
+C NMR data) in a non-hydroxylic solvent and removing the solvent to yield anhydrous or hydrated amorphous atorvastatin. Claims 75 to 110 are the claims at issue in this proceeding and claim the use of amorphous atorvastatin made by the process of Claims 1 to 36 for the treatment of hyperlipidemia or hypercholesterolemia.
+[103]
+Using the words of the 455 Patent, dependent Claim 81 claims: "[t]he use of anhydrous amorphous atorvastatin made by the process of Claim 7 for the treatment of hyperlipidemia or hypercholesterolemia." Claim 7, in turn, states:
+"A process for the preparation of anhydrous amorphous atorvastatin which comprises:
+(a) dissolving, in a non-hydroxylic solvent, crystalline Form I atorvastatin hydrate having the formula [diagram of the chemical formula] and an X-ray powder diffraction containing the following 2
+θ
+values measured using CuKα radiation: 9.150, 9.470, 10.266, 10.560, 11.853, 12.195, 17.075, 19.485, 21.626, 21.960, 22.748, 23.335, 23.734, 24.438, 28.915 and 29.234; and
+(b) removing the solvent to afford said anhydrous amorphous atorvastatin."
+[104]
+The description of the process for the preparation of amorphous atorvastatin as it appears in the 455 Patent is as follows:
+"The solvent is removed using, for example, drying technology such as, for example, vaccum drying, spray drying, and the like. Preferably, the drying procedure uses an agitated pan dryer such as, for example, Comber Turbodry Vertical Pan Dryer and the like. Drying initially is carried out at about 20°C to about 40°C and subsequently at about 70°C to about 90°C under vacuum at about 5mm Hg to about 25mm Hg for about 3 to about 5 days ... The initial solution dries to a brittle foam that is broken up by mechanical agitation to afford amorphous atorvastatin."
+[105]
+The parties disagree on whether the claims of the 455 Patent would apply to the techniques used by Ranbaxy in turning its crystalline ATV-2P product to the amorphous Ran-Atorvastatin. Does the Patent cover both evaporative and precipitative techniques for creating the final product? This, in turn, engages the question of the proper construction of the phrase "removing the solvent to afford said amorphous atorvastatin". Ranbaxy's technique for creating its product involves precipitation.
+[106]
+Ranbaxy submits that there is a distinction between evaporative and precipitative operations for obtaining a solid from a solution. They point to the fact that, while the Patent contains explicit examples of using evaporative techniques, there is no reference to any techniques to make amorphous atorvastatin other than evaporative techniques. Thus, Ranbaxy argues, on a purposive construction of the 455 Patent, a skilled addressee would conclude that the phrase "removing the solvent to afford amorphous atorvastatin" refers to a process in which the solid amorphous atorvastatin is formed prior to the removal of the solvent, by evaporative techniques only. This was the conclusion of Dr. Cunningham who was asked to address this issue.
+[107]
+Pfizer asserts that the ordinary meaning of the phrase "removing the solvent" includes the removal of a solvent by any means, including precipitation, filtration and drying (or evaporation). Pfizer acknowledges that the 455 Patent only refers to evaporative techniques, but notes that the Patent does not exclude other techniques of solvent removal. In his reply affidavit (A.R., Vol. 4, Tab 11, p. 1005), Dr. Myerson opined that:
+"There is nothing in the 455 Patent to limit the meaning of the phrase 'removing the solvent'. The 455 Patent provides some examples of certain techniques: for example, drying technology" (page 9, line 20), 'for example, vacuum drying ...' (page 9, line 20). Yet, the Patent does not explicitly or by implication exclude other techniques of solvent removal. There is nothing in the 455 Patent to indicate that the inventors considered any specific techniques of solvent removal to be an essential element of the invention."
+[108]
+I prefer the evidence of Dr. Cunningham over that of Dr. Myerson. The failure of the inventors to refer to any other method of removal of the solvent is strong evidence that the inventors intended evaporative techniques to be an essential element of the invention and did not turn their minds to other methods of solvent removal. Thus, I would lean towards concluding that the proper construction of the 455 Patent is that the phrase "removing the solvent to afford amorphous atorvastatin" refers to a process in which the solid amorphous atorvastatin is formed prior to the removal of the solvent, by evaporative techniques only.
+[109]
+However, I do not need to make a conclusive finding on this issue and will not do so. As discussed in the section that follows, Ranbaxy's allegation of non-infringement, because it did not provide the legal and factual basis for its argument on this issue, is not justified.
+6.2
+Was Ranbaxy's NOA Adequate?
+[110]
+As is now apparent, Ranbaxy relies on the following arguments with respect to the 455 Patent:
+(a) The phrase "removing the solvent to afford said amorphous atorvastatin" as set out in the 455 Patent, does not cover the process used by Ranbaxy; and
+(b) The 455 Patent is invalid for insufficiency.
+[111]
+The assertion of invalidity was clearly set out in the NOA; Pfizer certainly was aware of the grounds being relied on by Ranbaxy. While the invalidity issue was obvious from the NOA, Pfizer argues that the first of the two questions, which relates to the proper construction of the claims, was not evident to Pfizer until after the affidavit evidence of Dr. Cunningham was filed. Thus, it argues, the allegation of infringement on this ground cannot be justified.
+[112]
+The determinative question in assessing the adequacy of an NOA, as discussed in more detail in section 5.2 above, is whether the second person has provided the patentee with a sufficient understanding of the case it has to meet.
+[113]
+The key statements in the NOA with respect to the 455 Patent are the following:
+"As fully detailed in the Ranbaxy Processes, Ran-Atorvastatin does not and will not contain amorphous atorvastatin prepared from Crystalline Form I atorvastatin as described and claimed in the 455 Patent.
+. . . . .
+"
+The Ranbaxy's Processes do not dissolve crystalline Form I atorvastatin hydrate in a non-hydroxylic solvent and then remove the solvent as recited in Claims 1 to 11.
+" (Emphasis added.) (A.R., Vol. 2, Tab 6, pp. 327-328)
+[114]
+Pfizer points out that the language used by Ranbaxy almost directly follows the language of the Patent where, in the Summary of the Invention, it is stated that:
+"Accordingly, the present invention is a novel process for the preparation of anhydrous or hydrated amorphous atorvastatin which comprises:
+(a)
+dissolving crystalline Form I atorvastatin hydrate in a non-hydroxylic solvant; and
+(b)
+removing the solvent to afford amorphous atorvastatin.
+" (Emphasis added.)
+As we can readily see, the emphasized portion of the NOA statement is simply a denial of the underlined portion in the 455 Patent.
+[115]
+Ranbaxy retained Dr. Cunningham and asked him, inter alia, to address "the meaning of the phrase 'removing the solvent to afford amorphous atorvastatin' as used in the claims of the 455 patent" (A.R., Vol. 12, Tab 18, p. 3495). He concluded at para. 11(c) of his affidavit (A.R., Vol. 12, Tab 18, p. 3496) that "the phrase 'removing the solvent to afford amorphous atorvastatin' in the context of the 455 patent refers to the use of evaporative techniques only".
+[116]
+In paras. 52-54 of his affidavit, Dr. Cunningham elaborates on this view, through language that is clearly intended to address the construction of the 455 Patent (A.R., Vol. 12, Tab 18, p. 3506):
+"52. The phrase 'removing the solvent to afford amorphous atorvastatin' is used in all of the process claims and in certain of the process use claims, such as claims 48 and 67. On reading the patent as a whole, the skilled addressee would conclude that this phrase refers to evaporative techniques only. The skilled addressee would draw this conclusion based on the following portions of the 455 patent. First, the specification states at page 9 lines 10-21, 'The solvent is removed using drying technology, for example, such as for example, vacuum drying, spray drying, and the like'. The key phrase here is 'drying technology'. These are processes for obtaining a solid from solution directly by evaporation.
+"53. Second, at page 9 lines 27-28 it is stated that 'The initial solution dries to a brittle foam which is broken up by mechanical agitation to afford amorphous atorvastatin.' Again, this sentence clearly indicates the use of an evaporative technique for forming the solid. This sentence cannot describe a precipitative technique for forming a solid.
+"54. Third, example 2 uses a specific type of pan dryer to remove the solvent mixture. This pan dryer does not have either filtration or centrifugation capability for separating a solid from solvent, but is configured to allow solids produced by evaporation to be discharged readily."
+[117]
+Dr. Cunningham's affidavit was sworn on March 23, 2007, over two years after the date of the NOA and almost two years after the Protective Order of April 7, 2005. It also followed the affidavit evidence of Pfizer's witnesses; none of whom addressed this particular argument. We know from the directions that Ranbaxy gave to Dr. Cunningham that Ranbaxy, from an early date, knew that it would pursue the construction argument. Yet, it did nothing to put the details of this legal argument to Pfizer.
+[118]
+Once Pfizer reviewed the evidence of Dr. Cunningham, it appears that they finally appreciated the nature of Ranbaxy's argument and, immediately, brought a motion seeking to file further affidavit evidence in reply. While Prothonotary Milczynski denied the motion, Justice Mosley allowed the appeal in part. (
+ <FRAGMENT_SUPPRESSED> ). Specifically, Justice Mosley allowed the filing of those paragraphs of Dr. Myerson's affidavit that addressed the evidence of Dr. Cunningham on the construction of the 455 Patent claims. The comments of Justice Mosley, at paras. 24-29, are directly relevant to the adequacy of the NOA on this issue; I reproduce them below:
+"24 With respect to Dr. Cunningham's views on the construction of the phrase 'removing the solvent to afford ... amorphous atorvastatin' which appears in the claims of the 455 Patent, Dr. Myerson deposes that he did not discuss this phrase in his first affidavit because the Ranbaxy letter did not raise the issue. Dr. Cunningham states that based on his reading of the claims, the 455 Patent is limited to evaporative techniques. Dr. Myerson disputes this as he says that solvents may be removed by other means such as precipitation and filtration or drying.
+"25 Prothonotary Milczynski concluded that the issue of claims construction with respect to the 455 Patent was raised and contained in the Notice of Allegation. Pfizer submits that she erred in law in so finding as there is no discussion of the phrase in the Ranbaxy letter or indication that Ranbaxy would be relying upon the fact that its process allegedly does not involve evaporation.
+"26 Ranbaxy argues that it is axiomatic that an allegation of non-infringement involves claim construction:
+Whirlpool Corp. Camco Inc.
+, [2000] 2 S.C.R.1067, 2000 SCC 67 at paragraph 43. Accordingly, the respondent submits that it was incumbent upon Dr. Myerson in his first affidavit to properly construe the claims of the 455 Patent. Further, Ranbaxy contends that the issue is clearly identified in the portions of the Notice of Allegation that describe the process claims of the 455 Patent.
+"27 It is trite law that the first task of an applications judge in a patent case, including proceedings under the
+PM (NOC) Regulations
+, is to construe the claims. I do not understand that to mean however that claims construction is put in issue by a bald assertion of non-infringement. Adequacy of the Notice of Allegation and the accompanying detailed statement is a matter of law. The test for adequacy is whether the detailed statement is sufficient to make the patentee fully aware of the grounds on which the other party claimed that the relevant patent would not be infringed if a NOC was issued by the  <FRAGMENT_SUPPRESSED>  at para. 4. This must include an adequate description of any claim construction grounds.
+"28 I have read the portions of the Notice of Allegation to which Ranbaxy drew my attention several times and I am unable to see how they identify the issue that Dr. Cunningham raised in his construction of the disputed phrase. Accordingly, I am satisfied that the learned prothonotary erred in law in holding that the issue of 'claims construction' addressed in the Cunningham affidavit was raised and contained in the Ranbaxy letter."
+[119]
+Although Justice Mosley made these comments in the context of a motion to file reply evidence, he expresses legal principles on the adequacy of an NOA that are directly applicable to the question that I must determine. Further, Ranbaxy's arguments before the Court in that case, as summarized by Justice Mosley, are exactly those that Ranbaxy has made to me.
+[120]
+For reasons similar to those stated by Justice Mosley, I find that the issue of "claims construction" addressed in the Cunningham affidavit was not raised and contained in the Ranbaxy NOA. Further, the fact that Pfizer sought leave of the Court to file reply evidence is strong evidence that it did not have an understanding of the case it had to meet.
+[121]
+In addition to the same arguments put to Justice Mosley, Ranbaxy argues that, since the reply evidence was permitted and full submissions have now been made on the issue, there is no prejudice and the NOA cannot be said to be inadequate. I do not accept this argument. Pfizer has had very limited time to reply to an argument it came to know only three months before the hearing of this NOC application. In contrast, it is apparent that Ranbaxy has, for a much longer period, fully understood that it would argue that only evaporative techniques are covered by the 455 Patent claims. Pfizer has been handicapped in this application by the failure of Ranbaxy to disclose as part of the NOA (or even in subsequent disclosures after the Protective Order).
+[122]
+I conclude that Ranbaxy failed to provide the legal and factual basis for the allegation that the 455 Patent would not be infringed. Accordingly, its allegation of non-infringement is not justified.
+6.3
+Is the 455 Patent invalid for insufficiency?
+[123]
+In addition to non-infringement, Ranbaxy also alleges that the 455 Patent is invalid for insufficiency. The factual and legal basis for this allegation of invalidity is set out in the NOA as follows:
+"The 455 Patent fails to provide a disclosure that would be sufficient, as of the date of publication, to allow a person skilled in the art to prepare or recognize the crystalline Form I seed necessary for the preparation of the material claimed by the patent. Ranbaxy refers you to the decision of the European Patent Officer respecting corresponding European Patent Application No 96 924 553-9 dated July 29, 2003 and incorporates herein the evidence submitted by Opposers in that Opposition." (A.R., Vol. 2, Tab 6, pp. 333-334)
+[124]
+As I understand the submissions, Ranbaxy makes three assertions:
+1. A person skilled in the art cannot make amorphous atorvastatin without a seed of crystalline Form I atorvastatin, which is not taught by the 455 Patent.
+2. A methodology for making the necessary seed was not part of the common general knowledge as of the date of publication of the 455 Patent. In particular, Pfizer cannot rely on the existence of the 018 Patent (or an identical United States patent) at the time of publication to cure this defect.
+3. Even following the methodology of the 018 Patent, a person skilled in the art would not be able to make the crystalline Form I atorvastatin without undue experimentation.
+[125]
+A patent is presumed to be valid. To succeed on this argument, Ranbaxy must lead sufficient evidence to rebut the presumption of validity on a balance of probabilities and, in turn, Pfizer, must fail to meet its burden of showing that the allegation of invalidity is unjustified.
+6.3.1
+Principles of Insufficiency
+[126]
+I begin the analysis of this issue by describing the general principles applicable to the question of whether a patent is invalid for insufficiency. Section 27(3)(b) of the
+Patent
+Act
+requires that a patentee set out, in the specification, the method of making or using the composition in "such full, clear and concise and exact terms as to enable a person skilled in the art ... to make ... or use it".
+[127]
+The requirements that a specification be sufficient, under earlier versions of s. 27(3)(b), have been considered in two leading Supreme Court of Canada. The first is
+ <FRAGMENT_SUPPRESSED> . At page 517  <FRAGMENT_SUPPRESSED> , Justice Dickson, for the Court, wrote the frequently cited passages as to the requirements of disclosure dictated by section 36 as it then was numbered:
+"Section 36 of the
+Patent Act
+lies at the heart of the whole patent system. The description of the invention therein provided for is the quid pro quo for which the inventor is given a monopoly for a limited term of years on the invention. As Fox points out in
+Canadian Patent Law and Practice
+(4th ed.), p. 163, the grant of a patent is in the nature of a bargain between the inventor on the one hand and the Crown, representing the public, on the other hand. The consideration for the grant is twofold: 'first, there must be a new and useful invention, and secondly,
+the inventor, must, in return for the grant of a patent, give to the public an adequate description of the invention with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired
+'. The 'description' to which Fox refers is that required by s. 36 of the
+Patent
+Act
+." (Emphasis added.)
+[128]
+The issue as to sufficiency of disclosure arose again in the Supreme Court decision of
+ <FRAGMENT_SUPPRESSED>  where Chief Justice Lamer, for the Court, discussed the same provisions of the
+Patent
+Act
+. At pages 1637-1638  <FRAGMENT_SUPPRESSED> , he summarized as follows:
+"In summary, the
+Patent Act
+requires that the applicant file a specification including disclosure and claims (
+Consolboard Inc.
+, supra, at p. 520). Canadian courts have stated in a number of cases the test to be applied in determining whether disclosure is complete. The applicant must disclose everything that is essential for the invention to function properly. To be complete, it must meet two conditions: it must describe the invention and define the way it is produced or built (Thorson P. in
+ <FRAGMENT_SUPPRESSED>  invention and describe how it is put into operation. A failure to meet the first condition would invalidate the application for ambiguity, while a failure to meet the second invalidates it for insufficiency. The description must be such as to enable a person skilled in the art or the field of the invention to produce it using only the instructions contained in the disclosure (Pigeon, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 563;
+ <FRAGMENT_SUPPRESSED>  at p. 1113) and once the monopoly period is over, to use the invention as successfully as the inventor could at the time of his application (
+Minerals Separation
+, supra. at p. 316)
+." (Emphasis added.)
+[129]
+In applying this test, the courts have developed a number of other guidelines:
+- routine trial and experiments not amounting to invention might be necessary to arrive at the desired result (
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1993), 72 F.T.R. 196; 53 C.P.R.(3d) 259 (T.D.), at 274  <FRAGMENT_SUPPRESSED> , affd. (1997), 220 N.R. 58; 77 C.P.R.(3d) 126 ( <FRAGMENT_SUPPRESSED>  at para. 207);
+- the specification is written so as to be understood by the "notional skilled man [who] is deemed to be possessed of the relevant common general knowledge" (
+ <FRAGMENT_SUPPRESSED>  (C.A.) at 749);
+- the concept of "common general knowledge" has been considered to be "derived from a common sense approach of what would in fact be known to an appropriately skilled addressee" (
+ <FRAGMENT_SUPPRESSED>  (C.A.), at 482 (as cited in <FRAGMENT_SUPPRESSED> , at 749)) and may included patents that a skilled addressee would discover in a reasonable and diligent search (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 402 (T.D.), affd. (2003), 312 N.R. 184; 29 C.P.R.(4th) 417 (F.C.A.). Although Justice Pelletier was considering the term "common knowledge" in the context of anticipation, I believe that the same principles would be applicable;
+- The material date for determining the sufficiency of specification is the publication date of the patent. For the 455 Patent, that date is February 6, 1997.
+6.3.2
+Disclosure in the 455 Patent
+[130]
+In essence, the invention is a method for manufacturing amorphous atorvastatin through conversion of crystalline Form I atorvastatin. As an example, Claim 75 is directed to:
+"The use of anhydrous amorphous atorvastatin made by the process of Claim 1 for the treatment of hyperlipidemia or hypercholesterolemia." (A.R., Vol. 1, Tab 5, p. 169)
+[131]
+Quite simply, the skilled technician would want to be able, once the monopoly expires, to have the enjoyment of using the anhydrous amorphous atorvastatin, made by the process described in the 455 Patent. Thus, to be able to work the invention, the person skilled in the art must have crystalline Form I available or be able to manufacture it himself. The question is whether this skilled person could do so? I begin with a review of the relevant language of the patent.
+[132]
+The specification of the 455 Patent states that the invention "provides for crystalline Form I atorvastatin hydrate for use in the preparation of amorphous atorvastatin" (A.R., Vol. 1, Tab 5, p. 139). In the "Background of the Invention" the inventors state that "United States Patent Number 5,969,156 ... disclose atorvastatin in various new crystalline forms designated Form I, Form II, Form III and Form IV". (A.R., Vol. 1, Tab 5, p. 130). As stated in the "Methodology" section of the 455 Patent:
+"Thus, crystalline Form I atorvastatin hydrate is dissolved in a non-hydroxylic solvent ... Preferably, crystalline Form I atorvastatin hydrate is dissolved in tetrahydrofuran and toluene and like at a concentration of about 25% to about 40%. Preferably, crystalline Form I atorvastatin hydrate is dissolved in tetrahydrofuran at a concentration of about 25% to about 40% containing up to about 50% toluene as a co-solvent. The solvent is removed using, for example, drying technology such as, for example, vacuum drying, spray drying and the like. Preferably, the drying procedure uses an agitated pan dryer ... Drying initially is carried out at about 20° to about 40° and subsequently at about 70° C to about 90° C under vacuum at about 5 mm Hg to about 25 mm Hg for about 3 to about 5 days. Preferably, initial drying is carried out at about 35°C and subsequently at about 85°C at about 5 mm Hg to about 25 mm Hg for about 5 days. The initial solution dries to a brittle foam that is broken up by mechanical agitation to afford amorphous atorvastatin."
+[133]
+Following this, the inventor sets out two "nonlimiting examples illustrat[ing] the inventors' preferred methods for preparing the compounds of the invention". Only Example 1 provides a method for preparing crystalline Form I. In Example 1, the specification provides that a mixture of components described in the example:
+"... is seeded with a slurry of crystalline Form I atorvastatin (1.1 kg in 11 L water and 5 L methanol) shortly after addition of the calcium acetate solution. The mixture is then heated to 51-57°C for at least 10 minutes and then cooled to 15-40°C. The mixture is filtered, washed with a solution of water (300 L) and methanol (150 L) followed by water (450 L). The solid is dried at 60-70°C under vacuum for 3 to 4 days to give crystalline Form I atorvastatin trihydrate (72.2 kg)."
+[134]
+In Example 2, the methodology requires that the crystalline Form I atorvastatin (Example 1) is subjected to more steps, at the end of which amorphous atorvastatin is formed.
+6.3.3
+Mr. Shiplett's experiments
+[135]
+To respond to the allegation of insufficiency, Pfizer retained Mr. Rex Shiplett, a senior scientist with SSCI Inc. He was asked to carry out experiments following the United States Patent Number 5,969,156 (U.S. 156 Patent), which patent is described in the 455 Patent. In three of the experiments following the methods set out in the U.S. 156 Patent, Mr. Shiplett was able to obtain crystalline Form I atorvastatin as disclosed in the U.S. 156 Patent (A.R., Vol. 2, Tab 7, p. 542). Mr. Shiplett also confirmed that the instructions that he followed in performing his successful experiments were repeated "verbatim" in the 018 Patent. Specifically, he stated, in his affidavit (A.R., Vol. 2, Tab 7, p. 543) that:
+"(a) The instructions for preparation of Form I atorvastatin calcium from corresponding lactone (Experiment A) that are set out at Example 1, column 14, line 32 to line 60 of the 156 Patent appear at page 26, line 16 to page 27, line 10 of the 018 Patent;
+"(b) The instructions for preparation of Form I atorvastatin calcium from atorvastatin sodium (Experiment B) that are set out in the 'Detailed description of the invention' column 11, line 54 to column 12, line 5 of the 156 Patent appear at page 20, line 31 to page 21, line 14 of the 018 Patent; and
+"(c) The instructions for preparation of Form I atorvastatin calcium from amorphous atorvastatin calcium heating a water-wet cake (Experiment D) that are set out in the 'Detailed description of the invention' column 12, line 20 to line 27 of the 156 Patent appear at page 21, line 32 to page 22, line 3 of the 018 Patent."
+6.3.4
+Does the invention require the use of a seed?
+[136]
+The first question is whether the invention requires the use of a seed of Form I atorvastatin.
+[137]
+In general terms, each of the experts spoke about the purpose of seeding. At paragraph 32 of his affidavit, Dr. Cunningham described the process of seeding as follows:
+"If the nucleation and cooling are carried out under carefully controlled conditions, then crystals will usually be obtained. If a particular physical form of a compound is desired (such as the specific crystalline form), a small amount of that form is often added to the solution to promote the growth of that form. This process is known as seeding. ... This is the classical crystallization process." (A.R., Vol. 12, Tab 18, p. 3501)
+[138]
+Both of Pfizer's witnesses provided guidance on the role of seeding. Dr. Myerson, at paragraph 67 of his affidavit, stated that:
+"'Seeding' is the intentional or unintentional addition of a small amount of crystalline compound to a solution of that compound which is to be crystallized. The purpose of seeding is to aid in crystal formation. If a particular crystal form is desired in crystallization, seeding with that form can help in obtaining that form." (A.R., Vol. 4, Tab 9, p. 848)
+[139]
+Similarly, Dr. Rodríguez-Hornedo, at paragraph 54 of her affidavit, stated that:
+"'Seeds' are agents used to influence nucleation and induce crystallization. Seeds may be of the same or different material than the one to be crystallized. For instance, silver iodide crystals are effective ice-nucleating agents and are therefore used to seed clouds and generate more rain. In industrial processes, seeding is used to control the crystalline form and size distribution of the product. The influence of seeds on crystallization is dependent on the extent to which nuclei originate from solution ... or from the added seeds ..." (A.R., Vol. 4, Tab 12, pp. 1020-1021)
+[140]
+With respect the importance of seeding for this patent, Ranbaxy's witness, Dr. Cunningham, provided his opinion as follows, at paragraph 74 of his affidavit:
+"The 455 patent does not provide a method for preparing crystalline Form 1 atorvastatin hydrate (the starting material of the process of the invention) that does not use a seed of Form 1 atorvastatin. To operate the process of the invention of the 455 patent, the skilled addressee must be able to obtain Form 1 atorvastatin at the date the 455 patent was published (that is, February 1997). Reading the 455 patent alone, the skilled addressee would not know how to obtain the Form 1 seed material used in example 2 of the patent. Clearly, the skilled addressee would not be able to operate the process described in the 455 patent to produce amorphous atorvastatin." (A.R., Vol. 12, Tab 18, p. 3511)
+[141]
+Neither Dr. Myerson nor Dr. Rodríguez-Hornedo agreed. In spite of the obvious importance of seeding, Dr. Myerson stated, at paragraph 107 of his affidavit, that he did not believe that "it would be necessary to use seeds in the process of Example 1. Accordingly, the 455 Patent teaches how to make Form 1 without using seeds" (A.R., Vol. 4, Tab 9, p. 859). However, an examination of his affidavit and related cross-examination provides little basis for such an assertion.
+[142]
+The first point to note is that Dr. Myerson could not have been referring to the experimentation carried out by Mr. Shiplett. As was confirmed by Dr. Myerson on cross-examination (see A.R., Vol. 4, Tab 10, p. 928ff), Mr. Shiplett used a seed in his experiments.
+"Q. And none of exhibits - none of experiments, rather, B, C, or D of Mr. Shipplett's report are equivalent to Example 1 but carried out without the seed, is that correct?
+A. None of A, B, C, or D describe Example 1 of the 455 patent without the use of seeds."
+[143]
+Similarly, Dr. Rodríguez-Hornedo explains, in her affidavit, that she had "no reason to believe that the process described in this Example 1 would not result in Form I atorvastatin" (A.R., Vol. 4, Tab 12, p. 1031) and, further, at paragraph 97:
+"While the '018 patent disclosure states with respect to the first two methods that, '[i]t has frequently been found desirable to add "seeds" of crystalline Form I atorvastatin', I do not interpret this to mean that crystalline Form I seeds are essential to either process. Based on my experience, and the experience of a person or ordinary skill in the art, the addition of the seeds would simply speed up the process of formation of the Form I crystals. While speeding up the process would be desirable, I note that it would only be necessary to carry out the process once without seeds. Once Form I has been made, seeds would then be available for use." (A.R., Vol. 4, Tab 12, p. 1032)
+[144]
+In this paragraph, Dr. Rodríguez-Hornedo provides no basis for her assertion that the addition of seeds would simply speed up the process. I note that neither Dr. Myerson nor Dr. Rodríguez-Hornedo state that they have used this method of Example 1 without a seed to produce Form 1 atorvastatin. And, as we know, Mr. Shiplett did not attempt to make Form I without the use of a seed.
+[145]
+Dr. Cunningham provided further explanation of his view that a seed was necessary at paragraphs 76-77 of his affidavit:
+"As stated in paragraph 32 above, seeds of a desired crystalline form are added to a reaction mixture to ensure that the product is the desired form. Without the seed, the skilled addressee would not be able to consistently reproduce example 1 of the 455 patent.
+"It is relevant in this context to review what the 156 patent [equivalent to the 018 Patent] states at column 12 lines 5-8. 'It has frequently been found desirable to add "seeds" of crystalline Form I atorvastatin to the crystallization solution in order to consistently produce crystalline Form I atorvastatin'. No mention is made here of speed, nor is there the promise that without a seed the method will work without undue experimentation. Indeed, I interpret the above sentence to mean that
+in the absence of seeds other forms, or mixtures of forms, may be produced.
+" (Emphasis added.) (A.R., Vol. 12, Tab 18, p. 3512)
+[146]
+In cross examination, Dr. Cunningham was asked about the use of a seed. In particular, he was asked whether the use of a methodology set out in a text published in 1948 (the Vogel method) could be used to obtain the necessary seeds.
+"Q. Or I could just try it without seeds, correct?
+A. Then you wouldn't be following the example.
+Q. Because you say seeds are required?
+A. That is what it states in the description of the example. It certainly says that seeds are required. It doesn't say it is optional.
+Q. If I want to make crystalline Form 1atorvastatin trihydrate according to this example, and I don't have seeds and these don't work, you are saying that a person skilled in the art, I wouldn't try this without seeds, because I would just throw up my hands and say, Oh, well, the example says I need seeds?
+A. You might try it without using the seeds, but then you would have no guarantee of success.
+Q. Okay, but it might work?
+A. It might work. Lots of things might work.
+Q. Right.
+A. But the reason, I suppose, that it is stated as needing seeds is because seeds are necessary.
+Q. Or it may be just when they ran this example they used seeds and so they accurately reflected what they did?
+A. That would be surprising, I think."
+(A.R., Vol. 14, Tab 19, pp. 101-102)
+[147]
+In sum, I find that the 455 Patent requires the use of a seed to make the crystalline Form I atorvastatin. Briefly, my key reasons are as follows:
+- All of the experts acknowledge that the use of a seed will promote crystallization.
+- The language of the methodology disclosed in the 455 Patent supports the use of seeds of From I atorvastatin.
+- Example 1, includes a direct reference to "seed[ing] with a slurry of crystalline Form I atorvastatin" and does not provide a method for producing crystalline Form I atorvastatin trihydrate by any other means.
+- While crystalline Form I atorvastatin trihydrate could conceivably be produced without the use of a seed, I have no evidence that this was ever done. As noted, Mr. Shiplett used a seed in his experiments.
+[148]
+Ranbaxy's evidence and argument focused on the need for a Form I seed in the Patent. That is the part of their allegation that I have considered. However, I cannot help but observe that, even if a seed is not required, Pfizer may still have a problem. This is because, whether or not a seed is used, at some stage in the process, crystalline Form I atorvastatin calcium must be obtained. Otherwise there is nothing to transform into amorphous atorvastatin. Just as the 455 Patent does not explicitly teach how to make a seed, it does not teach how to make crystalline Form I atorvastatin calcium.
+[149]
+With no direction in the 455 Patent on how to make the seed (or crystalline Form I atorvastatin calcium), how is the skilled addressee to produce amorphous atorvastatin using only the instructions contained in the disclosure? Pfizer would answer that question by arguing that making Form I crystals was part of common general knowledge as of February 6, 1997. Ranbaxy submits that this information was not part of common general knowledge as of that date. I turn now to consider this question.
+6.3.5
+Was a methodology for making the necessary seed part of the common general knowledge asof the date of publication of the 455 Patent?
+[150]
+Pfizer's first submission on the question of common general knowledge concerns the reference in the 455 Patent to the 156 Patent. Pfizer's argument is that, by following the instructions in this U.S. patent, a skilled addressee could make crystalline Form I atorvastatin. Indeed, in performing his experiments, Mr. Rex Shiplett did exactly that; he followed the steps in the U.S. 156 Patent to produce the required crystalline substance.
+[151]
+However, as stated by Dr. Cunningham, as of the date of publication, the 455 Patent contained no reference to the U.S. 156 Patent; references to the U.S. 156 Patent were only added after the 455 Patent issued. In addition, the U.S. 156 Patent did not issue until 1999. Thus, the U.S. 156 Patent would not have been available to the skilled addressee as of February 6, 1997. That patent cannot be said to form part of common general knowledge.
+[152]
+This is not the end of the story, according to Pfizer. Pfizer next asserts that the U.S. 156 Patent is identical to the 018 Patent that teaches the making of crystalline Form I atorvastatin. Since the 018 Patent and the 455 Patent were published on the same date, Pfizer submits that the skilled addressee could, through a search, discover the 018 Patent and, accordingly, the means to make crystalline Form I atorvastatin. This, in their view, makes the 018 Patent part of common general knowledge at the time of publication of the 455 Patent. I do not agree.
+[153]
+As noted above, the concept of "common general knowledge" is derived from a common sense approach of what would in fact be known to an appropriately skilled addressee. Patents that a skilled addressee would discover in a reasonable and diligent search would usually form part of "common general knowledge". Would it be more likely than not that a skilled addressee would discover a patent application published on the same day as the 455 Patent? And, further, would he know that the means to produce the compound described in the 455 patent were set out in that patent? I do not think so.
+[154]
+We must remember that, at the time of the publication, there was no reference in the 455 Patent to either the U.S. 156 Patent or to the 018 Patent. Had the inventors wished to directly lead the skilled addressee to the concurrently filed application, they could have done so by explicitly referencing the 018 Patent publication or otherwise pointing the skilled addressee to publicly-available information on how to make crystalline Form I atorvastatin.
+[155]
+It is true that a search of the Patent Office on February 6, 1997 could have been made but, given the timing of recording entries or many other possible issues surrounding the Patent Office, it is entirely possible that the 018 Patent would not have shown up on a search. In cross-examination, Dr. Cunningham was asked whether a search would reveal a patent (that is, the 018 Patent) published on the same day as the 455 Patent. His response was "In principle, yes. In practice, I don't know whether you would or not" (A.R., Vol. 14, Tab 19, p. 4587). Following up on Dr. Cunningham's response and applying common sense, I view the chances of exposing the 018 Patent on the very day it was published as very slim indeed. The possibility of turning up a newly-published patent application does not, in my mind, make the teachings of the 455 Patent common general knowledge as of February 6, 1997.
+[156]
+Accordingly, I find that, on a balance of probabilities, the 018 Patent was not part of the common general knowledge as of February 6, 1997; it would not likely have been discovered in reasonable and diligent search by the skilled addressee.
+6.3.6
+With access to the 018 Patent, could a skilled addressee produce Form I without undue experimentation?
+[157]
+At this point in my analysis, I have concluded that: (a) a Form I seed is essential to a successful replication of the 455 Patent; and, (b) the method that the 018 Patent teaches was not part of the common general knowledge as of February 6, 1997. Therefore, it is not necessary to address the question of whether the teachings of that patent would allow the skilled addressee to produce the necessary seed. However, if I am wrong in my conclusion that the 018 Patent was not part of the common general knowledge, this issue would have to be examined.
+[158]
+The key testimony in this regard is that of Mr. Shiplett who actually produced amorphous atorvastatin from Form I atorvastatin calcium. Ranbaxy alleges that the process followed by Dr. Shipplett to produce the crystalline Form I atorvastatin calcium was not the same as that detailed in the 018 patent, and in particular, that he modified the heating, stirring and drying times. Ranbaxy submits that, from this, it is clear that a person skilled in the art would not be able to follow the instruction of the 018 Patent to produce the substance required for the 455 Patent without undue experimentation.
+[159]
+The Court had significant assistance on this issue from the testimony of Mr. Shiplett. A review of Mr. Shiplett's education and experience demonstrates that his qualifications match those of a person of ordinary skill in the art. In other words, Mr. Shiplett is a capable, experienced laboratory chemist and no more. I do not have to speculate as to whether a mythical person of such skill could follow the instructions of the relevant patent. I know for certain that a real person with those skills did exactly that; Mr. Shiplett followed the teachings of the U.S. 156 Patent and the 018 Patent to make amorphous atorvastatin. With respect to the modifications made by Mr. Shiplett in conducting his experiments, I am satisfied that these amounted to no more than "routine trial and experiments not amounting to invention" (
+Airseal Controls
+, above at 274  <FRAGMENT_SUPPRESSED> ).
+[160]
+Although critical of Mr. Shiplett's methods, Ranbaxy led no evidence showing that following the patented process would not result in atorvastatin calcium, and has merely shown that there may be variations in times specified in the process that would result in a greater or lesser yield of amorphous atorvastatin calcium.
+6.3.7
+Conclusion on Allegation of Invalidity
+[161]
+On the basis of Mr. Shiplett's experiments, I am satisfied that a skilled addressee could produce Form I atorvastatin and amorphous atorvastatin as contemplated by the teachings of the 018 Patent and the 455 Patent. Ranbaxy has failed to persuade me that the skilled addressee could not follow the teachings of the 455 Patent, provided that he or she had access to the 018 Patent as well as the 455 Patent.
+[162]
+However, this finding is not determinative of the question of suffiency of the 455 Patent, because I have already found that the teachings of the 018 Patent were not part of common general knowledge as of February 6, 1997. Accordingly, I conclude that Ranbaxy has led sufficient evidence to rebut the presumption of validity on a balance of probabilities and that Pfizer, in turn, has failed to meet its burden of showing that the Ranbaxy allegations of invalidity are unjustified.
+[163]
+In its submissions, Ranbaxy referred to two decisions that support its allegation of invalidity due to insufficiency. The first of these was the decision of the European Patent Appeal Board respecting European Patent Application No 96 924 553.9 dated July 11, 2006. The second was a decision of the Borgarting Court of Appeal (Norway) in Case No. 06-026148ASI-BORG/03, dated May 30, 2007. In each of these decisions, the respective tribunal was considering the validity of a patent that appears to be the same as the 455 Patent. In each of these decisions, the tribunal concluded that the description in the patent was not sufficiently clear to enable a person skilled in the art to carry out the invention. These decisions were obviously made under different legislative schemes and on the basis of a record that may be different from that before me. Nevertheless, I take some comfort from the fact that the conclusion that I have reached, founded upon the legislative scheme and evidence before me, is not inconsistent with the decisions of the European Patent Appeal Board and the Borgarting Court of Appeal.
+Conclusion
+[164]
+In summary, the determinative findings of this Court are as follows:
+(a)
+The 018 Patent
+. Pfizer has met its burden of showing, on a balance of probabilities, that the allegation of Ranbaxy that it will not infringe the 018 Patent is not justified. Accordingly, an order of prohibition will issue, prohibiting the Minister of Health from issuing a Notice of Compliance until the expiry of the 018 Patent.
+(b)
+The 455 Patent
+. Ranbaxy has led sufficient evidence to rebut the presumption of validity and Pfizer, in turn, has failed to meet its burden of showing that the allegation of invalidity is not justified. Accordingly, the application for an order of prohibition will fail with respect to the 455 Patent.
+[165]
+At the conclusion of the hearing, the parties requested that I allow them time to discuss the issue of costs after they have received my decision. I am prepared to follow that suggestion. In entering into discussions, however, parties should take note of the divided success. In similar circumstances (see, for example, the decision of Justice von Finkenstein in
+ <FRAGMENT_SUPPRESSED> ), the Court has declined to award costs. Should the parties not agree on the issue of costs, they may make further submissions to the Court on the directions to be given to an assessment officer or as to a reasonable lump sum.
+ORDER
+[166]
+THIS COURT ORDERS
+that:
+1. the Minister of Health is prohibited from issuing a notice of compliance to Ranbaxy in respect of proposed Ran-Atorvastatin tablets for oral administration comprised of atorvastatin calcium in 10, 20, 40 and 80 mg strengths until after the expiry of Canadian Patent No. 2,220,018;
+2. Pfizer's application for a prohibition order, until the expiry of Canadian Patent No. 2,220,455, is dismissed; and
+3. Should the parties be unable to agree on the issue of costs, they may make submissions, by September 28, 2007, on that issue, such submissions not to exceed four pages in length and may reply to submissions no later than October 12, 2007.
+Order accordingly.
+Editor: Angela E. McKay/vnh
+[End of document]

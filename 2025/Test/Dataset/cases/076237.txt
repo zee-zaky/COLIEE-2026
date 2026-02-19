@@ -1,0 +1,712 @@
+[1]
+Cullen, J.
+: This is an action brought by the plaintiff against the defendant for infringement of Patent No. 1,014,245 entitled "PERIMETER SURVEILLANCE SYSTEM USING LEAKY COAXIAL CABLES". The defendant denies the infringement, counterclaims with respect to the validity of the patent, as well as for injury to its reputation and business.
+Background:
+[2]
+The plaintiff, Control Data Canada Ltd. (Control Data), is incorporated under the laws of Canada and is a wholly owned subsidiary of Control Data Corp. of the United States. The plaintiff's computing devices division develops, manufactures and sells perimeter security systems utilizing leaky coaxial cable.
+[3]
+The defendant, Senstar Corporation (Senstar), is a Canadian corporation which also develops, manufactures and sells a perimeter security system under the name of SENTRAX. Senstar's president, Dr. Keith Harman (Harman), was employed by the plaintiff from 1972 to October 1981, during which time he was involved in the development of perimeter security systems using leaky coaxial cable and is the inventor of the patent, which is the subject of this litigation.
+[4]
+When Harman left Control Data in October 1981, he set up the defendant corporation. The defendant then designed and developed a perimeter security system using leaky coaxial cables.
+Plaintiff's Position:
+[5]
+The plaintiff maintains that it is and always has been the owner of Canadian Patent No. 1,014,245, issued on July 19, 1977. Further, as the owner of the patent, the plaintiff has, by virtue of s. 46 of the Patent Act, the exclusive right, privilege and liberty of making, constructing, using and vending to others the PERIMETER SURVEILLANCE SYSTEM USING LEAKY COAXIAL CABLES as described in the specification and claims of the patent.
+[6]
+The plaintiff alleges that the defendant has infringed this exclusive right by threatening to and by making, offering for sale and selling for use in Canada the SENTRAX system and its parts. The plaintiff further alleges that, because of these offers of sale and instructions provided by the defendant to purchasers and prospective purchasers, these purchasers have been induced or procured by the defendant to assemble the SENTRAX system. The plaintiff also alleges that the SENTRAX system is as described below and was set up without its consent:
+"The SENTRAX system is a detection system for locating targets which reflect or absorb electromagnetic energy. The SENTRAX system has first and second leaky coaxial cables extending along a prescribed path and spaced from another a distance greater than an order of magnitude larger than their outside diameter.
+"The SENTRAX system has a transmitter connected to one of the cables and a receiver connected to the other to receive a signal derived from the transmitter, whereby a target alters the coupling between the cables and means processing the received signal to determine the location of the target.
+"The SENTRAX system also has switching means selectively connecting the transmitter and receiver to the cables whereby the direction of signal propagation around an area can be reversed.
+"The SENTRAX system process means includes a synchronous detector.
+"The signals from the synchronous detector of the SENTRAX system are digitized. The processing means further includes digital filter means having a bandwidth between about .03 hz and 100 hz.
+"The SENTRAX system includes a further digital filter connected to the output of the digital filter means to provide approximate integration.
+"The SENTRAX system includes a threshold detector responsive to the output of the further digital filter to actuate alarm and display means.
+"The means processing the received signal includes a digital processing system, comprising a digitizer, a plurality of low pass filters and a plurality of threshold detectors. The digitizer computes a sequence of numbers to represent the average magnitude of the received signal over a sequence of time intervals. Three low pass digital filters are provided for each number in the sequence. The time constants of the first and second low pass filters are adjusted so that the difference in their outputs discriminate between very slow and very fast changes in the received signal. The difference is further filtered by the third low pass filter to provide approximate integration. The threshold detector associated with each number is used to determine the presence of a change in the received signal associated with a target in which the location of the target is determined from the particular number in the sequence for which the threshold detector is energized."
+[7]
+According to the plaintiff, the subject matter of the invention was assigned to the plaintiff by Harman by assignment dated February 22, 1974 and June 16, 1978. The plaintiff maintains that Harman is and has been at all times the president and the person directing the activities of the defendant. Further, the defendant corporation was incorporated at the instance of Harman for the purpose of developing and marketing the SENTRAX perimeter surveillance system. Therefore, the defendant is the "alter ego" of Harman and Harman and the defendant are estopped from pleading or asserting the invalidity of the patent. I cannot accept this proposition.
+Defendant's Position:
+[8]
+The defendant denies that its system (SENTRAX) infringes Patent No. 1,014,245 and alleges that the patent is invalid.
+[9]
+The defendant admits to manufacturing and selling a perimeter surveillance system using leaky coaxial cable. However, the defendant maintains that its system does not locate targets and that the system does not include "means processing the received signal to determine the location of the target". According to the defendant, the basic unit in its system is a transmitter/receiver unit to which is attached one or two cable pairs. Each cable pair defines a detection zone. The defendant's system cannot locate a target within a detection zone since it uses a continuous wave signal rather than the pulse signal used by the plaintiff's signal.
+[10]
+The defendant's system may be used on a long perimeter, of the type for which the plaintiff's system is intended, by dividing the perimeter into a plurality of detection zones each defined by a single cable pair. An intruder within a particular detection zone is detected by the associated transmitter/receiver unit which information is transmitted to a central location for display.
+[11]
+The defendant also alleges that the plaintiff was never the owner of the patent or the invention by virtue of the agreements dated January 11, 1974, September 26, 1974 and April 22, 1975 between the plaintiff and Her Majesty. Accordingly, Her Majesty was and always has been the owner of the patent. To support its allegation, the defendant refers to Form 1036, which is contained in all the above-noted agreements and provides in part:
+"4. Inventions, Ownership of
+"Unless otherwise provided in the contract, all technical information, inventions, methods, and processes conceived or developed or first actually reduced to practice in carrying out the contract shall be the property of Her Majesty and shall be promptly and fully disclosed in writing to Her Majesty by the Contractor. The Contractor shall have no rights in and to the same, except such rights therein as may be granted by Her Majesty, and shall not apply for any patent in regard thereto without Her Majesty's written consent."
+[12]
+The parties agree that the agreements in question contain nothing to exclude the application of Form 1036 in that no right to apply for the patent was ever granted by Her Majesty to the plaintiff.
+[13]
+The defendant has also attacked the validity of the patent under four main headings, namely: anticipation/lack of novelty; obviousness/lack of inventiveness; failure to meet the requirements of s. 36 of the Patent Act, claims broader than invention, lack of utility; and material allegation in the petition is untrue thereby rendering the patent void under s. 55 of the Patent Act. The specific grounds pleaded by the defendant are set out below:
+"1. what is described and claimed in the patent was not novel at any relevant invention date relied on by the plaintiff, having regard to the common general knowledge in the art and those patents and publications listed by the defendant;
+"2. what is described and claimed in the patent was known or used by other persons before any relevant invention date relied on by the plaintiff and before the date of the application was disclosed or used by such other persons in a manner such that it had become available to the public;
+"3. what is described and claimed in the patent was known or used by other persons before any relevant invention date relied on by the plaintiff and such other persons had, before the issue of the patent, made any application for patent in Canada upon which conflict proceedings should have been directed. In this regard, the defendant refers to the Thomson patents No. 999,953 issued on November 16, 1976 and No. 997,043 issued on September 14, 1976;
+"4. the alleged invention as described and claimed in the patent was described in publications printed more than two years prior to the filing of the application;
+"5. nothing in fact was invented by the alleged inventor named in the patent. Any difference between the invention described in the patent and what was commonly known and used in the art or known to the inventor prior to the date of the invention, was merely a matter of ordinary skill expected of one skilled in the art and did not constitute a patentable invention;
+"6. the plaintiff itself has admitted that the invention is obvious. The defendant relies on the plaintiff's comment, regarding improvements listed as 'use of a two cable sensors to reduce the effect of the fixed cable profile', that 'these are only a few of the more obvious improvement techniques which will be considered';
+"7. The specification of the patent fails to comply with s. 36(1) of the Patent Act because it does not set forth clearly or correctly the various steps in the process of constructing or using the invention in such full, clear, concise and exact terms as to enable any person skilled in the art or science to make, construct or use it;
+"8. the specification of the patent fails to comply with s. 36(2) of the Patent Act because:
+a) the claims fail to state distinctly and in explicit terms the things or combinations regarded as new,
+b) the claims are broader than the invention made by the inventor,
+c) the claims include inoperative embodiments,
+d) the claims are avoidably obscure and ambiguous in respect of certain expressions such as "order of magnitude", "a transmitter", "a signal derived from the transmitter", "coupling between the cables" and "electromagnetic energy";
+"9. the petition accompanying the specification for the patent contains a material allegation that is untrue, namely that the plaintiff was entitled to apply for the patent when in fact Her Majesty was entitled to the patent;
+"10. the plaintiff failed to disclose to the Canadian Patent Office, certain prior publications and patents known to the plaintiff and relevant to the patent in suit. Such omission was done deliberately and either willfully for the purpose of misleading the Patent Office as to the patentability of the subject matter of the patent, or with reckless disregard for the fact that the Patent Office was likely to be mislead by such omission, contrary to s. 55 of the Patent Act."
+[14]
+With respect to the defendant's counterclaim, the defendant maintains that the plaintiff has willfully and unlawfully informed the defendant's customers and potential customers, including departments of the United States Armed Forces, that the plaintiff is the owner of the patent and of certain associated technology rights, that the defendant infringed the patent and that the plaintiff intends to institute an infringement action, thereby damaging the defendants reputation and business (per s. 7(a) of the Trade Marks Act).
+Construing The Patent:
+[15]
+Patent No. 1,014,245 PERIMETER SURVEILLANCE SYSTEM USING LEAKY COAXIAL CABLES was issued to the plaintiff on July 19, 1977. This perimeter surveillance system creates an electronic field around the perimeter of the installation that is being protected. An intruder penetrating the field is detected and located. Specifically, the patent states:
+"The present invention provides a significant zone of protection over long perimeters and, to this end, employs a pair of leaky coaxial cables surrounding the area to be protected. These cables are typically separated by several feet and can be mounted on a perimeter fence or below the perimeter surface. A pulse transmitter is connected to one of the cables and receiver to the other. The presence of an intruder (a person or metallic object) alters the coupling between the cables and, hence, provides a return signal to the receiver. The change in the return signal is processed to provide target discrimination before an alarm is sounded."
+[16]
+Claim 1 of the patent refers to the system as a "detection system for locating targets, including processing means to determine the location of a target crossing the cables". The system works like a guided radar. A pulse of radio frequence energy is sent along the transmit cable. As the pulse travels along this transmit cable, part of the signal leaks out of the transmit cable and is received by the receivable cable and returns to the receiver. An obstacle between the cables interferes with this "coupling" of the signal between the cables. The distance of the object along the cables can be determined from the time between the transmission of a pulse and the receipt of a signal showing a change caused by the obstacle.
+[17]
+The plaintiff is alleging that the defendant's SENTRAX system infringes Claims 1, 3, 4, 5, and 6 of the patent in suit. Claim 1 reads:
+"A detection system for locating targets which reflect or absorb electromagnetic energy comprising, first and second leaky coaxial cables extending along a prescribed path and spaced from another a distance greater than an order of magnitude larger than their outside diameter, a transmitter connected to one of said cables and a receiver connected to the other to receive a signal derived from the transmitter, whereby a target alters the coupling between the cables and means processing the received signal to determine the location of the target."
+Claims 3, 4, 5 and 6 are directed to the signal processing means referred to in claim 1. They describe the specific embodiments of signal processing means, and as claim 3 states, "A system as set out in claim 1, wherein said processing means includes a synchronous detector".
+[18]
+Essentially, therefore, we are dealing with claims 1, 3, 4, 5 and 6 of the patent in suit and as stated by Muldoon, J., in  <FRAGMENT_SUPPRESSED> , at p. 193 C.P.R.: "It is the claims that are the
+crucial text in this litigation
+" (emphasis added).
+[19]
+If the wording of the claims were ambiguous, then one could turn to other portions of the patent for guidance. I cannot find any ambiguity in the words of the claims. The plaintiff's claim to validity and the defendant's challenge of that position must be confined to the wording of the claims. I take this position notwithstanding the basic position of the defendant that detection is separate and distinct from locating. As is often the case with words such as these, the context is most important. As an example, a person walking into a dark room unaware of the fact that another person is present in that room, upon turning on the light, both detects and locates that person. The defendant maintained throughout that his SENTRAX only detected and did not locate. It is my considered opinion that when an intruder enters a "zone" in the SENTRAX system the technician/guard handling the equipment would be satisfied he had "detected" an intruder and "located" him in a particular zone.
+[20]
+One of the challenges made by the defendant was that specification of the patent fails to comply with s. 36(2) of the Patent Act. Here again I cannot accept that conclusion. To one skilled in the art, the claims state distinctly and in sufficiently explicit terms the combinations regarded as new. The primary position, i.e., in claim 1, leaves no room for doubt that the use of two leaky coaxial cables is new, and they function when laid out along a prescribed path, spaced from another a distance greater than an order of magnitude larger than the outside diameter, and the claim follows up with the necessary connections that must be made, and the impact on the system of an intruder. The claims are straight-forward and some of the systems are admittedly not new but in combination each with the other lead to a proper understanding of the invention made by the inventor. None of the evidence convinced me that the claims include inoperative embodiments, nor do the terms used make the claims avoidably obscure or ambiguous. No one skilled in the art can seriously argue having difficulty with the terms "order of magnitude", "transmitter", "a signal derived from a transmitter", "coupling between the cables", or "electromagnetic energy".
+The Witnesses:
+[21]
+This is probably an appropriate time to introduce the witnesses, one of whom, Harman, is the inventor of the patent in suit. He of course was in a position to give expert and factual evidence.
+Expert Witnesses:
+[22]
+The plaintiff's three expert witnesses were:
+(1) Professor Keith G. Balmain (Balmain), a professional engineer, and a professor in the Department of Electrical Engineering at the University of Toronto;
+(2) Dr. Adel S. Sedra (Sedra) a professional engineer, and a professor and Chairman of the Department of Electrical Engineering at the University of Toronto;
+(3) Dr. John C. Beal (Beal), a professional engineer and a professor of Electrical Engineering at Queen's University at Kingston, Ontario.
+[23]
+For the defendants we heard from:
+(1) Dr. Robert Keith Harman (Harman), an electrical engineer, who obtained his Ph.D. in Electrical Engineering from Queen's University in Kingston, Ontario in 1972;
+(2) Professor Robert G. Harrison (Harrison), a professor of Electrical Engineering at Carleton University of Ottawa.
+Fact Witnesses:
+[24]
+To complete the list of witnesses on the factual issues we heard evidence on behalf of the plaintiff from:
+(1) Mr. Angus J.S. Davidson (Davidson), a registered patent agent, employed during the period in question by the plaintiff;
+(2) Mr. Robert Gordon Hirons (Hirons), a registered patent agent in the Canadian Patent Office since 1967.
+(3) Mr. Jack W. Fawcett (Fawcett), President of Computing Devices Company, a division of the plaintiff, who has worked in various capacities for the plaintiff company for approximately 30 years.
+[25]
+Called by the defendant was:
+(1) Mr. Peter Yue (Yue), a patent examiner in the Canadian Patent Office (and, as mentioned earlier, Dr. Harman).
+[26]
+Evidence for both parties was read in from the examination for discovery. In addition, because he is frequently referred to, we heard about Mr. Charles R. Grove (now deceased) who was Vice-President, General Counsel and Secretary of the plaintiff during the period in question. He was a man respected by all who had contact with him.
+Issues:
+[27]
+The main issues to be resolved in this action are whether Patent No. 1,014,245 is valid, and if so, whether the defendant, by its actions, has infringed the patent. The extent of infringement and the damages flowing therefrom will be dealt with by reference after trial pursuant to the order of Rouleau, J., December 20, 1984.
+Issue #1 - Is There a Valid Patent?
+[28]
+Section 47 of the Patent Act and the jurisprudence provide a presumption of the prima facie validity of a registered patent. The extent of this presumption was discussed by Thorson, J., in  <FRAGMENT_SUPPRESSED> , at p. 44:
+"The first reference to the statutory presumption of validity, or provision for prima facie validity, was in  <FRAGMENT_SUPPRESSED> , at p. 45; [1950] Ex. C.R. 142, at p. 161. Since then I have referred to it in several cases, the particulars of which were set out in  <FRAGMENT_SUPPRESSED> , at p. 125. There I referred to the comment which I had made in  <FRAGMENT_SUPPRESSED> :
+'The statutory presumption is not confined to the attribute of inventiveness but extends to the other attributes that an invention must have if it is to be patentable under the Act, such as novelty and utility. The three attributes of patentability, namely, novelty, utility, and inventiveness are all presumed to be present in an invention for which a patent has been granted until the contrary is clearly shown.'
+"In the McPhar case I made a broader statement to the effect of the statutory provision. At p. 129, I said:
+'On further consideration I am of the opinion that this statement is not as wide as the terms of the Act warrant. It must follow from the provision of the Act that a patent granted under it "shall thereafter be prima facie valid" and avail its grantee and his legal representatives for the term of the patent that the onus of showing that it is invalid lies on the person attacking it, no matter what the ground of attack may be, and that until it has been shown to be invalid the statutory presumption of its validity remains.
+'This does not mean that the patent is immune from attack or that the patentee is free from the obligations that are incumbent on him by way of consideration for the grant of the patent monopoly to him, but it seems clear that, since Parliament has deliberately endowed a patent granted under the Act with a presumption of validity, the onus of showing that such a patent is invalid is not an easy one to discharge.'"
+[29]
+The onus of proof of invalidity of a patent is of course on the party who alleges it. The case law is clear - this onus is not an easy one to discharge. The most common grounds for attacking the validity of a patent are obviousness and anticipation. These grounds are not incompatible and, as stated by Hugessen, J., in  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289, at pp. 293-294 C.P.R.: "it is generally preferable to deal with the issue of obviousness first, as a patent that lacks inventiveness cannot be novel; while one that lacks novelty may still be inventive".
+Obviousness:
+[30]
+Obviousness is an attack on a patent based on lack of inventiveness. The attacker says in effect, "Any fool could have done that" (per Hugessen, J.,  <FRAGMENT_SUPPRESSED>  (supra) p. 293 C.P.R.).
+[31]
+Obviousness may be established by demonstrating that through a variety of information available to the inventor from diverse sources the invention should have been obvious to him and therefore not truly an invention. However, according to Strayer, J., in  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 417, at p. 432, this principle should be applied with great caution.
+[32]
+An authoritative statement of the test for obviousness can be found in  <FRAGMENT_SUPPRESSED> , at p. 27:
+"The question to be answered is whether at the date of the invention ... an unimaginative skilled technician, in light of his general knowledge and the literature and information on the subject available to him on that date, would have been led directly and without difficulty to the invention."
+[33]
+A more recent statement of this test can be found in the Beloit case (supra) at p. 294 C.P.R.:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[34]
+Hugessen, J., at p. 295 of Beloit (supra), also adds a warning regarding evidence of expert witnesses and the question of obviousness:
+"While the evidence of experts is, in my view, properly administered even on an 'ultimate issue' question such as obviousness it seems to me that it must be treated with extreme care."
+[35]
+Citing again Hugessen, J.,  <FRAGMENT_SUPPRESSED> :
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known to say, 'I could have done that'. Before the assertion can be given any weight one must have a satisfactory answer to the question, 'Why didn't you?'."
+[36]
+The patent does not fail on the basis of obviousness. In weighing all of the evidence, I have been influenced in large measure by the strong evidence of Beal. He affirms in various paragraphs of his affidavit:
+"3. I have conducted research in the areas of applied electromagnetics related to guided radar, the electromagnetic aspects of communications in tunnels, mines and high speed rail transportation, very low frequence (VLF) propagation and in microwave power measurement devices.
+"4. I have taught several undergraduate and graduate courses to Engineering students including:
+ELEC-380 Electromagnetic Fields and Waves
+ELEC-484 Microwave Communications
+ELEC-885 Microwave Electromagnetics (graduate course)
+ELEC-887 Numerical Methods in electromagnetics (graduate course)
+ELEC-222 Electric Circuits II
+ELEC-341 Introduction to Systems and Control
+ELEC-351 Electronics I
+ELEC-460 Communications Systems
+ELEC-481 Transmission Engineering
+"5. I am author or co-author of more than 40 research papers and conference presentations including one of the articles that the defendant in this case is relying upon to attempt to invalidate Canadian Letters Patent No. 1,014,245 entitled PERIMETER SURVEILLANCE SYSTEM USING LEAKY COAXIAL CABLES ('the Patent'). The paper reviewed what my co-authors and I understood to be the state of the art in the area of the use of leaky waveguides for communication and obstacle detection in 1972.
+. . . . .
+"7. My introduction to the use of waveguides for obstacle detection occurred during the summer of 1967 while I was working with the U.S. government in Boulder, Colorado, U.S.A.. Electromagnetic guided wave technology was being used for continuous communication for a high speed ground transportation system that they were studying.
+"8. In September, 1967 I came to Queen's University at Kingston and used my experience from Boulder to start studying the behaviour and applications of various types of waveguides. By 1971, I was studying the behaviour of leaky coaxial cables under a variety of environmental conditions. At that time leaky coaxial cables were just being introduced as a possible solution to the problem of continuous radio communication in mines and tunnels.
+"9. Part of my early work consisted of studying the experimental use of leaky coaxial cable for communication in mines. A normal antenna could not transmit electromagnetic waves into a mine. The earth would absorb the energy of the waves and render radio communication impossible. To solve this problem, leaky coaxial cables were extended along the mine tunnels and shafts. A person in the mine could use a walkie-talkie to communicate with someone above ground so long as the person in the mine was in proximity to the leaky coaxial cable.
+. . . . .
+"14. In the period around 1972, I had considered the application of leaky coaxial cable for communication along a railroad line. The topic of landslide detection came up during discussions that I had at that time with the Canadian railroads. I understood that there had been a number of derailments caused by landslides in the Western Canadian mountains. Thus the matter of obstacle detection became of interest to those of us working in association with the Canadian Institute of Guided Ground Transport.
+. . . . .
+"18. In early 1973, two others at Queen's University, Dr. Neilson A.M. Mackay and Mr. Sidney R. Penstone, and I, knowing that Time Domain Reflectometry could detect physical imperfections within a coaxial cable, discussed the possibility of using leaky coaxial cable to detect physical discontinuities or 'obstacles' outside of a leaky coaxial cable. Because we knew that the electromagnetic field of a leaky coaxial cable extended into the environment around the leaky coaxial cable, we postulated that the leaky coaxial cable when used in a manner similar to coaxial cable in Time Domain Reflectometry, might be used to detect changes in the environment surrounding it.
+"19. In 1973, Dr. Mackay and Mr. Penstone of Queen's University at Kingston, Ontario developed a one-cable leaky coaxial cable obstacle detection system for the detection of objects near the cable. A pulse of RF energy sent down the leaky coaxial cable created a travelling electromagnetic field external to the coaxial cable. An obstacle near the path of the cable disturbed the field, causing some reflection of energy to the source. The field strength external to the leaky coaxial cable was very small and the amount of signal reflected by the obstacle was even smaller.
+"20. Dr. Mackay and Mr. Penstone published a paper in the IEEE Transactions on Instrumentation and Measurement, Volume IM-23, No. 2 in June, 1974 and a copy of the article is marked as Exhibit C. [Federal Court Exhibit P-41] It describes the use of a Digital PDP-15 computer to sample and store a reflected signal and compare the most recent reflected signal with some previously stored reflected signal. The experimental apparatus used a 40 foot length of Andrew Radiax 40690 leaky coaxial cable.
+"21. Dr. Mackay and Mr. Penstone improved Time Domain Reflectometry in this use of a single leaky coaxial cable by improving the signal processing used on the received signal. They improved the system by using:
+1. a circulator to separate the transmitted (incident) and reflected signals;
+2. synchronous detection;
+3. a computer monitoring the received signal over a period of time and comparing it with some previously stored version of the received signal at a slightly earlier time.
+"22. The signal coming back on the one cable had three components:
+1. a component caused by reflections from discontinuities and imperfections in the cable;
+2. a component caused by reflections from 'permanent' objects in the area surrounding the cable; and
+3. a component caused by reflections from a new or moving object of interest.
+. . . . .
+"24.
+The paper does not recommend the use of two separate leaky coaxial cables as a way of improving the system. Instead, it suggests a number of improvements to the signal processing, the power of the signal and type of cable used.
+(emphasis added)
+INVENTION BY DR. HARMAN
+"25. To the best of my knowledge, based on later discussions with Dr. Harman, he conceived the use of a system of two parallel leaky coaxial cables, one connected to a transmitted and the other connected to a receiver to detect obstacles in the region around both cable.
+In hindsight, this improvement by Dr. Harman not only solved the signal to clutter problem encountered by Dr. Mackay and Mr. Penstone but also gave advantages over other experimental systems with which I was familiar.
+(emphasis added)
+"26. The use of the second cable connected to the receiver permitted the use of a much more sensitive receiver than could be used in the one cable system. Although the received signal was very small, the amount of clutter was reduced significantly because large reflections caused by the incident pulse were greatly reduced. Thus the signal to clutter ratio of the two cable system invented by Dr. Harman was much better.
+"27. In addition, the use of the second cable meant that virtually all the received signal in the second cable was due to effects of the environment around the two cables. The first component referred in paragraph 22 above (namely a component caused by reflections from discontinuities and imperfections in the transmitting cable) had been essentially eliminated.
+Thus the two cable system was more sensitive to its surrounding environment than the one cable system.
+(emphasis added)
+"28. In hindsight, the use of leaky coaxial cable with the two cable system was a good engineering solution for the following reasons. Leaky coaxial cable was easily and inexpensively available from commercial sources. Parallel investigations of its use in mine communications had shown it to be reliable under a variety of environmental conditions. It was capable of withstanding large environmental changes and of being covered with dust and debris without a significant effect on its ability to work. The leaky coaxial cable was an excellent compromise between the need to provide adequate coupling to the other cable while at the same time protecting the signal within the cable from significant power loss.
+"29.
+In my opinion Dr. Harman's invention which is described in the Patent was a significant breakthrough in the area of obstacle detection and an elegant solution to the problems encountered by others.
+" (emphasis added)
+[37]
+No one can doubt the unquestioned skill of Harrison, but unhappily for the defendant, as I quoted earlier, Hugessen, J.,  <FRAGMENT_SUPPRESSED> , has made it quite clear, "Every invention is obvious after it has been made, and to no one more than an expert in the field. Where the expert has been hired for the purpose of testimony, his infallible hindsight is even more suspect".
+[38]
+The suggestion that the work being performed by Beal made the patent in suit obvious, or was in fact prior art, is questionable. Beal himself and his colleagues who were working with the one leaky coaxial cable saw the invention as novel, an "elegant solution to the problems encountered by others". There is not the hint of suggestion that Beal felt his work and effort had been usurped by Harman or that his ideas had been used to buttress the patent, quite the opposite in fact, and as late as the trial date, even with the assistance of hindsight, is still able to say, "I am certain
+I would not have thought of using two leaky coaxial cables, one attached to a transmitter and the other attached to a receiver as was done by Dr. Harman in the Patent
+" (paragraph 19 of Beal's affidavit) (emphasis added).
+[39]
+The expertise of Beal in this area is unquestioned and he, along with others, was actually working on "intruder detection". The other engineers working hand-in-glove with Beal and each other suggested a solution pointing in a completely different direction.
+[40]
+The situation that arose in this case is not unlike most cases, namely, the expert witnesses for the plaintiff say the invention is not obvious and expert witnesses for the defendant say it is. Here, however, one of the plaintiff's expert witnesses was actually working on the problem of intruder detection, namely, Beal.
+[41]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241, a decision of the Federal Court of Appeal, Urie, J., was commenting on the fact that the trial judge preferred the evidence of the expert for the defendant over that of the expert for the plaintiff to hold a patent invalid. A new name in patent law surfaced with this case, Mr. Newman Darby (Darby). At the bottom of page 259 C.P.R., Urie, J., states, after he repeats an exchange from cross-examination of Darby and what he had done with his sailboard up to the time of the invention of the windsurfers:
+"From all of this I can only conclude that as at the date of the invention in suit, August 20, 1967, the advantages inherent in the use of a Marconi rig so obvious to Mr. Herrescholl [expert witness for the defendant] were not so obvious to Mr. Darby [who was the alleged prior inventor, the prior user the sailboard maker] unquestionably a person skilled in the art of designing sailboards.
+. . . . .
+"In summary, it is my view that the testimony of Cuthbertson [expert for the plaintiff] in effect was neutralized by that of Herreshoff [who was saying it was obvious]. It was not necessary to determine the testimony of which of those experts the trial judge preferred because the testimony of Darby ought to have been, if not conclusive, at least seriously considered as providing an important insight on the question of inventiveness. Since the use of the Marconi rig and of the wishbone boom and the concomitant advantages of using both sides of the sail were not obvious to this skilled witness until after the invention date, I find it difficult to say that the finding of obviousness of the learned trial judge can be supported by the evidence. I have concluded, therefore, that the invention in the patents in suit was not obvious."
+[42]
+Here, I will quote directly from the words of counsel for the plaintiff at p. 2093 of the transcript:
+"My Lord, Dr. Beal is Newman Darby. He is the Newman Darby of the patent world. He had thought of the idea of using the one cable system, where the cable was attached to both a transmitter and a receiver. He knew about the Japanese articles. He wrote about it. He wrote an article. He was the classic skilled person possessed of the knowledge of the prior art. He was inventive; he had made inventions which were patented. He was respected by Dr. Harman as his mentor, at least initially, and it escaped Dr. Beal's clever mind to go to a two-cable system to overcome the problem with the signal to noise ratio of the one cable system. If it wasn't obvious to Dr. Beal, it could hardly be said that it would have been obvious to the unimaginative skilled workman, this unreal person.
+"My Lord, I place the evidence of a real person who was possessed of better mental faculties than the unreal notional skilled workman to say conclusively that the invention was not obvious."
+[43]
+Counsel for the plaintiff also quotes Strayer, J., in  <FRAGMENT_SUPPRESSED>  433:
+"Dr. Uldall has no interest at stake [similar to Beal] and his evidence was to the same effect. He was indeed a most persuasive witness. He is generally credited with introducing the technique of using a catheter in a subclavian vein for purposes of dialysis. He invented a single lumen catheter for this purpose and then a coaxial double lumen catheter. Before his coaxial lumen catheter had really enjoyed widespread sales, however, the Mahurkar catheter as manufactured and sold by Quinton had come on the market. Dr. Uldall testified that he immediately recognized the Mahurkar catheter was superior to his own.
+. . . . .
+"If the invention was not obvious to Dr. Uldall, it would not have been obvious to a mere skilled but unimaginative technician."
+[44]
+The same thing is true of Beal. As indicated earlier, I find that the invention of the patent in suit was not obvious.
+The evidence, or more properly, some of
+the witnesses revisited:
+[45]
+Dr. Balmain's affidavit and his evidence were clear, concise and informative. He certainly knew his role in the scheme of things but unfortunately, like most expert witnesses, showed a bias in favour of the plaintiff. He was, however, not as tenacious as some experts I've heard, and was prepared to concede points made in cross-examination. As an example, at p. 105 of the transcript:
+"Q. We could really, Professor, if we wanted to, we could draw a line right down the middle through the gap here and say this is one Sentrax system at the top, a one-zone system and a separate Sentrax one-zone system in the lower?
+A. Yes.
+Q. And they operate independently?
+A. They do.
+Q. They do?
+A. Well, independent in the sense that the two-zone system, as I understand it, is a switched system and in principle it could be operated independently.
+MR. DIMOCK: Please let him finish.
+MR. MORPHY: Q. When the transceiver module is switched to reading the signal from Zone 1, it is not doing anything for Zone 2, is it?
+A. That is correct.
+Q. When it is reading Zone 2, it is not doing anything for Zone 1?
+A. Yes.
+Q. Because it operates fast it can be used to flip back and forth and when it is Zone 1, it is working for it and it alone?
+A. Yes.
+Q. When it is working for zone two it is working for it and it alone?
+A. That is right.
+Q. What it does, professor, the wave that is coming back on the cable you numbered No. 2 to receiver is a continuous wave?
+A. Yes, it is.
+Q. And all that receiver is capable of reading from that signal is whether someone or something is somewhere in that entire zone?
+A. Yes.
+Q. It cannot give any indication where in the zone it is?
+A. Yes, that is correct."
+and later, at p. 109:
+"Q. Yes, So if we apply the patent system or the Guidar system here, the continuous longline system we would have one pair of coaxial cables going around here, one to the transmitter and one to the receiver?
+A. Yes.
+Q. Rather than two sets of cables as we have here?
+A. That is how you would probably do it. In principle you could do it another way but you are quite correct in practice you could do it that way."
+But he was also cautious about concession at p. 111:
+"Q. Okay. Assuming there is one pair of coaxial cables around this perimeter and if a target comes at point X that I put on there the receiver processes the signal to identify where in the perimeter that target is?
+A. Yes.
+Q. At X?
+A.
+No, It would be within the appropriate range cell of the system.
+(emphasis added)
+Q. Yes.
+A. But not at point X.
+Q. Pardon?
+A. But not at point X.
+Q. But at where the cell is?
+A. Within the cell.
+Q. All right, within the cell. The cells are an electronic feature. We don't divide it up into cells as we see in the zones in the block system. The cells are something which is part of the electronics?
+A. As part of my testimony I made clear that the ranged cells in a practical system would be established with dimensions appropriate to the terrain and to the process of the operator interpreting the results that he saw.
+. . . . .
+Q. By reason of those cells, be they ten feet or 20 feet, the system by its nature determines where on that perimeter the target is?
+A. The system determines within which range cell the target is.
+. . . . .
+Q. You can do that with the pulse system but you can't do it with the continuous wave system?
+A. No. In either case you identify, you locate the target within a specific region. In the one case within the range cell so to speak and in the other cases within the hardware-defined zone.
+. . . . .
+Q. I suggest the systems operate quite differently where in one you have a continuous wave system which identifies within a zone by your example of some five hundred feet and the other is a pulsed wave system that determines, depending upon the width of the cell, where in the total perimeter the target is?
+A. That is correct.
+Q. Wouldn't you say those are different ways of approaching it or different ways of doing it? You are not saying they are the same?
+. . . . .
+THE WITNESS: I would say the operator in the kind of systems we are referring to could not distinguish between a range cell in one system and a zone in the other system.
+A. For good reason, but the details of how the electronics function to achieve the definition of the range of the cells in one case is indeed different from the hardware defined zones in the other two cases."
+[46]
+Balmain was also adamant that claim l's teaching is to detect and locate, not just to locate. He stood up very well to a line of cross-examination on this point, and particularly, at pp. 128-131 of the transcript. Similarly, when it was suggested to him that the first line, "a detection system for locating" had been left out of Balmain's basic elements of the claim, he responded at p. 133 of the transcript:
+"Q. Yes. So the first line is important but you say not to this?
+A. That is correct. I believe that the actual configuration of the system is what I was attempting to address."
+[47]
+There is little need at this juncture to deal any further with Beal's evidence. It is evident from my comments and quotes that I relied very heavily on his evidence, finding him the most credible of all the expert witnesses.
+[48]
+Sedra, and it's no exaggeration, is a genius in his field. His expertise is unquestioned. Because of the very technical nature of his evidence, his affidavits had to be very carefully read. His evidence was not seriously shaken by cross-examination.
+[49]
+Davidson, the patent agent, is the central figure in the piece. His evidence on prior art/anticipation received the most careful attention from counsel for both parties. Similarly, on the defendant's allegation that the Patent Office was misled, extremely careful attention had to be given to Davidson. I've found it necessary to repeat much of Davidson's evidence-in-chief and on cross-examination because it goes to the crux of the important issues here.
+[50]
+Harman, the chief witness called by the defendant to give both expert and factual evidence, was in an unenviable position, and but for the seriousness of the matter, one could see the humour in the situation. Here was an inventor being hailed for his invention by witnesses for the plaintiff, whereas Harman is now suggesting it was obvious, there was probably prior art and in effect downgrading his significant contribution or his effort in it. He held valiantly/stubbornly to the proposition that his "invention" (i.e., patent in suit) both detected and located an intruder whereas the SENTRAX system only detected. His evidence endeavoured to convince the court that he was really "going along" with the company's (Control Data) position but had real reservations about the patent in suit being valid. There is no question that Harman was pursuing the patenting of his idea as an "enthusiastic inventor". He accepted advice that he was not required to mention the Japanese materials. He enlarged on the application for patent in suit by turning three sentences into paragraphs, and he was consulted at every stage. It was Harman, as the inventor, who put the plaintiff's case for an American patent. I can overlook to some extent the manner in which he gave his evidence, particularly on cross-examination, because he had a good and obvious reason for hoping that the evidence would maintain the challenges to the patent in suit. He became very quickly not only a witness but an advocate for the defendant's position, thereby seriously weakening the weight to be given to his testimony.
+[51]
+A portion of Harrison's evidence is suspect. No one, and certainly not the court, doubts his unquestioned talent and Harrison is an inventor. But, to quote from the plaintiff's argument: "Dr. Harrison only became concerned with the work of intrusion ... in preparing for the lawsuit. He was not concerned with that work in the late sixties or early seventies. Dr. Harrison has no practical experience in intrusion detection systems apart from installing an alarm on his front and back doors at home ... Dr. Harrison was retained around October 28, 1988 ... under the circumstances was doing his analysis in hindsight".
+[52]
+He had been told the defences that were raised by the defendant. Separate parts of his evidence surprised me. I was amazed that Harrison, with no practical experience in the late sixties and early seventies, would reply as he did:
+"Q. You are suggesting if you read this article in 1973, without having known about the Harman invention, knowing about the patent in suit, that that would occur to you without any mistake?
+A. Without any doubt whatsoever I would come up with the same answer. [i.e., use of leaky coaxial cable]"
+His certainty in hindsight is somewhat suspect and barely credible. Later in cross-examination, we heard about assumptions he would have to make, apparatus he would have to build and experiments he would have to conduct - all of this in 1973 without having seen the patent in suit. Also (describing his meeting with counsel for the defendant, pp. 1558-1559 of the transcript):
+"Q. At that time you knew they were trying to prove the invention of the patent to be obvious?
+A. It very soon became apparent to me that this was one of the objectives.
+Q. Yes. Also that the invention disclosed in the patent they were alleging had been disclosed and some other prior art, and that was another thing you became aware of at that first meeting?
+A. Yes, but that did not influence what I felt about it."
+[53]
+We heard from Harrison about two meetings with the counsel for the defendant, and we learned (at p. 1581 of the transcript):
+"Q. The exhibits which are attached to your first affidavit, Exhibit D-32, and I won't ask you to turn to them just yet but I want to ask some general questions. How many documents were you given in total to review after you read the patent in suit?
+A. Probably about the same number as the number of exhibits attached to my affidavit I should think.
+Q. You were given the selected patents, were you not?
+A. I didn't receive it as a package. As I remember, I received it in maybe two lots or something like that.
+Q. Is it fair to say though that you weren't given other prior patents you discarded and said they were not relevant?
+A. I was given other things to look at too and I decided they weren't appropriate.
+Q. What were those?
+A. One of those was the Thomson CFS patent I think it was.
+Q. You didn't think it was appropriate, right?
+A. That is the one which involved a T-shaped piece of metal with a dielectric and two conducting wires.
+Q. Right.
+A. It seemed to me this wasn't really the same thing because it depended upon reflection from an overhead vehicle to get a response and it seemed to me rather far from what was described in the patent."
+This exchange, in my view, buttresses the plaintiff's position.
+[54]
+Mr. Peter Yue was obviously apprehensive, not wanting to either take sides or spelling out Patent Office policy. He gave one interesting answer, namely, he handles an average 600 to 700 patent applications a year and time constraints necessitated only a two-day study of the application for the patent in suit. He gave us a breakdown of his usual practice: "Usually I read the application, and decide after reading or reviewing the application and then decide whether the subject matter in this application is patentable or not in view of the prior art. So after reviewing that application I go for a search of whether the subject matter in this application is patentable or not." He further advised that he searched Canadian art and sometimes the United States art. In this case he did search Canadian art, and applied rule 40 as to the American art. He only searched Canadian art and no Canadian articles. With respect to applying rule 40 to ask for United States prior art, three pieces were cited to him. Again he did not search American articles, or Japanese patents in the Patent Office because they are not classified according to subject. With respect to three U.S. patents, "I checked three prior arts ... these three patents, and they are not that pertinent and so I made a decision that the subject matter in this application is patentable over these three U.S. patents". (transcript p. 1697). Mr. Yue considered the patent to be "new and useful" (transcript p. 1701). He gave us his interpretation of forms found in the patent rules, some of which are "required" and some of which are "recommended". Recommended, he states, "means it will be acceptable to the office if you follow recommended forms". He also confirmed that the Patent Office is using the old Patent Act and rule, and specifically, it is not using new s. 36(1).
+Anticipation and Alleged Fraud on the
+Patent Office:
+[55]
+I propose to deal with both subject matters in this section because the evidence of Harman and Davidson covers both subjects.
+[56]
+The defendant has attacked the validity of the patent in suit on the further ground of anticipation or lack of novelty. The defendant's arguments dealing with anticipation relate to three Japanese articles and Japanese Patent No. 42-16689 which was filed in 1964, and the Thomson Patent 997,043 (see more later).
+[57]
+Japanese articles listed by the defendant were certainly published more than two years before the filing date of the application. If these articles constitute prior art, then the patent in suit is invalid.
+[58]
+The patent in suit is also attacked based on ss. 27(1)(a) and 63(1)(b) of the Patent Act. As stated in the written portion of the defendant's argument:
+"... the attack is that the invention was known or used by another person before its invention by Dr. Harman, but in this case we need not show that the invention had been used by the other person, 'in such a manner that it had become available to the public'. Instead we rely on s. 61(1)(b) which permits a patent claim to be held invalid if the invention was previously known or used by another person if 'that other person had, before the issue of the patent, made an application for patent in Canada on which conflict proceedings should have been directed'. This ... is based on the Thomson CSF patent 997,043 filed July 3, 1973 and issued September 14, 1976.
+. . . . .
+"As stated by Fox on Patents (4th Ed.) at pages 100-101, novelty is an essential element of patentability: no novelty, then the consideration to the public for the rant of a patent, 'has wholly failed'."
+[59]
+Both parties quoted Hugessen, J., in the Beloit case (supra) at p. 297 C.P.R.:
+"Anticipation must be found in a specific document or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must in effect be able to look at a single prior publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skills."
+[60]
+As the defendant argued, "In Xerox, [ <FRAGMENT_SUPPRESSED> ] the court referred at page 46-47 to  <FRAGMENT_SUPPRESSED>  'the test in these words'":
+"Would a man who was grappling with the problem solved by the patent attacked, and having no knowledge of that patent, if he had had the alleged anticipation in his hand, have said, 'that gives me what I wish'? ... It must be kept in mind, of course, that in considering whether an invention was anticipated by a prior patent, the prior patent must be read in the light of the common general knowledge which a person skilled in the art would have had immediately prior to the alleged invention ... If the prior publication would give such a person the same information, for practical purposes, as the patent under attack then it is an anticipation of the invention covered by it."
+[61]
+It has also been stated, e.g., in  <FRAGMENT_SUPPRESSED> , by Strayer, J., at pp. 63-64, that the anticipating document must generally given information and directions which will inevitably lead the reader to something within the claims of the patent. The so-called "mosaic of documents" cannot be applied unless they are connected together and form a consistent whole.
+[62]
+The defendant confines its anticipation argument to Claim 1 and relies, as might be expected, on the evidence of its experts Harman and Harrison. Harman, when challenged about his bias, affirmed very strongly that he was after the truth, and had given his best engineering/expert evidence, and stood by his expert evidence and factual accounts of events.
+[63]
+Reed, J., in  <FRAGMENT_SUPPRESSED>  inventor who subsequently states his solution was obvious to him, is irrelevant. The facts here are clear that Harman was as Davidson described him, "an enthusiastic inventor" and as such was consulted at each step of the way. He was also a witness at the American application committed to securing patent recognition in the United States. In my view he
+was concerned about the "Japanese materials"
+, and to indicate that concern, we heard from Davidson at p. 1976 of the transcript:
+"I would like to answer that the reference to the Japanese prior art at pp. 7 and 8 was inserted by Dr. Harman and not by me.
+Q. Mr. Davidson, you are not answering the question. My question ...
+A. I have been accused I believe by inference a few moments ago, you identified the fact that paragraph bridging pages 7 and 8 refers to the Japanese previous publications. That paragraph was inserted by Dr. Harman.
+Q. You consider it as an appropriate paragraph to leave in?
+A. Sure. The inventor is a great help in showing other uses of his invention."
+[64]
+Dr. Harman was adamant that either Grove or Davidson told him not to mention the Japanese material but he doesn't remember which one. Davidson for his part at page 1977 of the transcript:
+"A. I have never given any inventor on any occasion instructions not to disclose prior art. I would not be likely to forget such a momentous occasion."
+and at p. 1979:
+"A.... I never instructed any inventor to hide prior art.
+Q. The answer is accurate?
+A. The answer is accurate."
+[65]
+There is no question that Harman had great respect for and trust in Grove. It seems more likely that Grove gave him this message but did so because he (Grove) was convinced it was not prior art. Harman, when pressed on this point, gave the impression there was nothing awry in being told not to comment or refer to the Japanese materials. He accepted almost without question on both the Canadian and the American applications that these applications could proceed without mention being made of the Japanese materials. I expect he got this information, in the final analysis, from Grove, and accepted it at face value.
+[66]
+Davidson's evidence is crucial on the subject of anticipation and alleged fraud on the patent office. His evidence was thoroughly and carefully presented in chief and subjected to a searching cross-examination.
+[67]
+Davidson has a Bachelor of Science Degree, Honours in Applied Physics from St. Andrews, and Master of Engineering degree in Electrical Engineering from Carleton University. He was called to the Bar in Ontario in 1982 and was therefore not a lawyer when application was made for the patent in suit. From 1962 to 1964 he worked as a patent examiner in the Canadian Patent Office. He passed the examination in 1963 and went on the Register in 1964 when he joined Alex MacRae and Company as a patent agent. He is also registered in the United States Patent Office. His work for the plaintiff began in 1964 and he is still doing this work.
+[68]
+In 1972 he was requested to do a search for Grove on Dr. Harman's work. He made this search and reported on it December 19, 1972. He located five patents and discussed this with Harman in early 1973. This search had to do with "Airport surface detection and guidance system". It had to do with "the detection and monitoring of vehicle movements by means of cables embedded in the ground". At that stage Davidson stated an American Patent 3,688,625 was the most pertinent and "it would not be possible to obtain patent protection for the
+overall system
+" (emphasis added). He was prepared to meet with and discuss the matter with Harman after Harman had an opportunity to study the references, and awaited further word (Exhibit D-14, Tab 8).
+[69]
+This letter was acknowledged by Grove (after eight years working together there was a friendly relationship and use of first names Charlie and Angus). On that letter (Exhibit D-14, Tab 9) Davidson wrote: "December 27/72 Dr. Harman called. He thinks they may have a patentable distinction and will come in to discuss matters when copies received". Harman wrote a memo December 28, 1972 (Exhibit D-14, Tab 10), stating he was still hopeful that ASTRACS was patentable and gave his reasons. A later memo dated January 19, 1973, written after Harman had met with Alex MacRae and Company patent agents, states, inter alia, why ASTRACS as a concept was not likely patentable and states the Reasons. (This confidential document (Exhibit D-14, Tab 11) cannot be produced in these reasons).
+[70]
+In a letter to Grove dated January 23, 1973, Davidson writes his views about the January 18, 1973 meeting with Harman. He felt the Queen's University work with Radiax cable formed a relevant prior art and was more pertinent than references located in the search. He then discussed Harman's views on near field and far field which in his mind was not sufficient "to provide worthwhile patent protection". He then acknowledges commercial consideration and suggests a method that best expressed the claim, using the words "leaky coaxial cable". Then, "clearly if Dr. Harman
+proceeds with further work
+in this matter he may well develop signalling processing apparatus and circuits which
+will
+be capable of patent protection" (emphasis added).
+[71]
+A meeting was held in June of 1973 at the behest of Grove or Harman (it was reported in a letter dated June 15, 1977 - Exhibit D-14, Tab 14). According to Davidson it was a "very general discussion and ... I was not given any information as to new activities of Computing Devices".
+[72]
+Next, counsel for the plaintiff takes Davidson over some tricky ground
+"A.... Dr. Harman did provide some publications that he had located of which I had not previously been notified.
+Q.... I am showing you Exhibit P-47A and turning you to tab No. 4 and ask whether or not that article is the one to which you referred?
+A. Yes, it had been published just shortly before my meeting with Dr. Harman.
+Q. In the second paragraph you make reference to Dr. Harman having left various relevant publications. Do you recall what they were?
+A. I recall the ones that are specifically identified in the letter by title; there are some others mentioned on the second page of the letter which I discussed the nature of, but I do not recall the titles now.
+Q.... I am showing you the document that is marked as Exhibit P-47A2 and ask you whether that is the document that was shown to you by Dr. Harman?
+A. Yes, I believe that is the document.
+Q. Did you discuss that as well as the IEEE paper?
+A. We must have discussed it, yes.
+Q. Who brought your attention to those two articles?
+A. Dr. Harman.
+Q. You say in the last sentence of the second paragraph: 'I consider the teachings of this article would supply sufficient information to one skilled in the art that it would
+not be possible to obtain patent protection for the concept of obstacle detection using slotted cables developed subsequent to the date of publication.
+' (emphasis added) Could you explain what you meant by that at the time you wrote it?
+A. At the time I wrote it I felt there was no material in front of me which would justify a patent application by Computing Devices. I was perhaps giving a harsh judgment if the sentence is considered in isolation, and cutting off all future developments and I did not intend that."
+[73]
+Davidson states that he returned all documents because Harman requested them. At the top of the letter dated June 15, 1973, Davidson wrote:
+"Keith Harman called. No disagreement with our conclusion but could we think of any other form of protection for basic concept. I said I could not but looked forward to protecting improvements. Matter closed for present."
+With this, Davidson closed his file and went on with other work.
+[74]
+In November of 1973 Davidson received a letter from Harman enclosing a memorandum relating to a development he had made on perimeter surveillance systems and requesting a search. The Memorandum is Exhibit D-14, Tab 20. The letter which started matters up for Computing Devices was dated November 14, 1973 and is Exhibit D-14, Tab 27. It was a letter from Harman to MacRae for Davidson's attention. In part it read: "Computer Devices is studying the possible application of a two leaky cable technique for intrusion detection. The basic concept of this approach is described in the enclosed documents". And later, "You will note that the two cable technique is
+significantly different from that used in your search #1493
+" (emphasis added). Continuing:
+"A description of a related approach using wave guides can be found in Advances in Microwaves Volume 4 in a section entitled Millimeter Waveguides and Applications to Railroad Communications: by T. Nakahara and N. Jurauchi. In pages 284-300, there is a description of a 'Leaky-Waveguide Radar System' which is protected by Japanese Patents Sho36-10904 (1960) and Sho39-28151 (1964). These patents are available in Japanese from the patent office. We have a copy of the latter patent and have translated the relevant sections. It does not mention leaky coaxial cable."
+[75]
+So, although Davidson had for all intents and purposes closed his file, Harman was still working to secure a patent and in his mind at least, as the man skilled in the technology, he felt he had something significantly different from the earlier concepts. The plus for Davidson is revealed in this answer at p. 1880 of the transcript:
+"Q. How did the system as shown in the memorandum behind tab 20 [Exhibit D-14) we just looked at differ from what he had discussed with you earlier?
+A. In detail it differed because it used two leaky cables. Overall it showed a complete system that would operate and before we had been talking more in terms of concepts."
+Davidson made a search. He reported his results to Harman after some delay in obtaining copies of the patents located in the search. Conversations were held by telephone and Harman was given preliminary results of the search. Exhibit D-14, Tab 29 is a letter dated December 27, 1973 to Harman from Davidson reporting on the search. The heading of the letter was from the memorandum Harman had sent to Davidson.
+[76]
+Davidson determined that U.S. Patent 3,750,125 was the most relevant and sent a copy of the first page. Other patents were to be forwarded later and then the letter concludes, "and we can then discuss the question of future work in this matter". When asked what this meant, Davidson replied:
+"A. I needed Dr. Harman's input and consideration of these patents since he was an expert in this field and I was not."
+[77]
+A second letter dated January 4, 1974 was sent to Harman by Davidson enclosing two remaining patents that had come to hand reaffirming that in his view U.S. Patent 3,750,125 was the most relevant and, "I will await your comments on this patent". (This U.S. patent is referred to in evidence as the Sperry Rand or Ross patent). Davidson did meet with Harman "to discuss the patents" and to decide whether Computing Devices could obtain patent protection for what had been developed to-date. Davidson decided they could and suggested a claim in a letter to Grove dated January 10, 1974 (Exhibit D-14, Tab 32). Davidson described the Sperry Rand patent and why he thought it was relevant at p. 1885 of the transcript:
+"A. The patent I thought was of importance because it showed a pair of transmission lines used for intrusion detection, with a transmitter connected to one of the transmission lines and a receiver connected to the other, some signal processing boxes and it operated by having an intruder couple energy from the transmitting line to the receiving line."
+[78]
+On another subject Davidson explains why he worked so closely with Harman:
+"Q. Is it your normal practice to have the inventor review with you the prior art which you find as a result of a patent search conducted in the Patent Office?
+A. The practice varies greatly and there are many inventors who would not be of assistance and when as in this
+case I am dealing with an expert who is also fairly enthusiastic about getting patent protection, yes I found it very useful to review it with him at that time.
+" (emphasis added)
+[79]
+Grove wrote asking Davidson to prepare a patent application for filing in Canada and Davidson did so, sending the first draft to Harman with a letter inviting him "to revise it drastically and expand it". Then:
+"A. I did enclose the first draft. What happened was that Dr. Harman came to see me with a revised draft that he had prepared from my rough draft and we had a meeting at which we went over his revised draft, made numerous other changes and that resulted in the final form of the application that was filed with the Patent Office."
+and, when asked, "Who approved the final form of the specification of the patent that was filed?", Davidson replied:
+"A. I believe it was Dr. Harman.
+Q. Why do you say that?
+A. Well, there is no record of who approved it. I don't think I would have filed without approval from somebody. I viewed Dr. Harman as the company, so his approval would have been sufficient for me. Mr. Grove would not have approved the document itself in any detail, had I sent it to him. He would have sent it to Dr. Harman for approval."
+[80]
+With respect to the Sperry Rand patent, Davidson was asked:
+"Q. If you take a look at the fourth paragraph, which starts four lines from the bottom of page 1, in the second sentence it says:
+'In the past, a system based upon coupled strip lines has been proposed.'
+To what were you and Dr. Harman referring?
+A. What we called the Ross patent or the Sperry Rand patent.
+Q. Why did you make reference to the Ross or Sperry Rand patent in the way you did in this patent?
+A.
+I believed it set out the closest prior art known to us.
+" (emphasis added)
+and later, after a meeting with Harman to reach an agreement on the final form, Davidson filed the patent application. The application sat in the Patent Office for two years, when Davidson received an examination report dated July of 1976. There were some objections to the form of the application, and a requirement to supply information regarding corresponding U.S. and British patents. Davidson was satisfied he had complied with the request and Yue's evidence confirms it.
+[81]
+The examination in chief ends with Davidson's direct answers to counsel's questions, that he fulfilled the requirements of rule 39 and others; made no misrepresentation to the Canadian Patent Office; that he proceeded in good faith; and that he had not referred to the Japanese material because, "It was in my head less relevant than the reference we had located in our search, the Sperry Rand patent". When attempting to file the corresponding U.S. patent application, problems arose, an American patent agent was retained, and "we replaced the first application by a continuation of part application". When asked to explain the last term Davidson said, "a continuation in part has all the material of the original application and some additional material added to it which is not in the original application".
+[82]
+Dr. Harman was deeply involved with the U.S. patent application. And finally to Davidson at p. 1900 of the transcript:
+"Q. Did you tell Dr. Harman anything regarding Japanese work?
+A. No.
+Q. Why would you not have?
+A. The Japanese work did not figure prominently in my thinking.
+Q. Did you tell Dr. Harman not to discuss the Japanese work with the U.S. patent examiner?
+A. Definitely not."
+[83]
+Davidson's evidence stood up remarkably well, despite a thorough cross-examination. He was careful to note he had specific recollections of things other than as are in the file:
+"A. I have specific recollections of high points. I remember Dr. Harman going to review the examiner and I remember a sequence of meetings with Dr. Harman in 1972-73 without having to refresh my memory, but on most specifics I do have to refresh my memory."
+[84]
+Predominantly, over 20 years Alex MacRae & Company have been the plaintiff's patent and trademark agent. Although conceding a patent was valid as against the world unless attacked and struck down - a costly, difficult and risky business, he did make this point, however, at p. 1904 of the transcript:
+"A. I think there are many patents that are clearly invalid because the claims are clearly too broad, and they are not valuable to the owner because he would be so readily struck out by coming to court, and so I can't go all the way with you, Ms. Jackson."
+and later at p. 1905:
+"Q. Valid against the world until it is overturned in expensive court proceedings?
+A. If the patent has a dreadful claim in it that is clearly invalid, the court proceedings would not be expensive."
+[85]
+Davidson conceded that a search done by a patent examiner doesn't search world literature but is confined to Canadian and U.S. patents which are organized according to subject matter. He (patent examiner) doesn't search articles, or Japanese patents and the only other material he gets, other than the search, is what the applicant gives him. Thus, it is important to the process that the applicant disclose the most relevant prior art to the patent examiner, and that too was conceded by Davidson, i.e., the closest prior art. With Harman's obvious technical skills Davidson had no problem conceding that Harman would let him know of any relevant prior art. Page 1912 of the transcript:
+"Q. And once he had identified prior art to you, if you needed any assistance in understanding what was the subject matter, what was being described on the prior art, he would give you the technical assistance?
+A. Yes."
+Davidson concurred that when he received assistance in what technically was being talked about in prior art, the next step was a decision as to whether the prior art was relevant for purposes of the patent application. Then:
+"Q. That really is a decision once you understand prior art and the technical consequences as to whether the prior art was likely to affect the issue of patentability?
+A. Yes.
+Q. That decision in this case, Mr. Davidson, was yours?
+A. Yes.
+Q. Indeed you saw it as your role to make that decision after you had the technical input from Dr. Harman?
+A. Right."
+and later:
+"Q. You didn't expect Keith Harman either to decide what were technical requirements of the patent application did you?
+A. No, that would be my ultimate responsibility."
+There was absolutely no equivocation or suggestion that Harman or Grove shared responsibility. (Davidson's credibility is high).
+[86]
+Later, in cross-examination, Davidson noted that an earlier answer he gave during the examination for discovery process, "doesn't seem to be accurate" and then proceeded to say why. The exchange reads as follows:
+"Q. So far as any advice you may have given to Keith Harman, you didn't advise him that information in prior published articles which was not the subject matter of a patent would prevent the issue of a patent, did you?
+A. I believe I did. I would have hoped I would have done. The June letter about the meeting there seems to cite a prior publication as being a bar to patentability.
+Q. Well, Mr. Davidson, one of the questions that you were asked in the discovery process was as follows:
+'1211 Q. Did anyone associated with the plaintiff, including Mr. Davidson ever advise Dr. Harman as to the legal basis upon which existing patents or prior art would or would not prevent the patentability of the work being done with respect to leaky coaxial cable sensors?'
+That question was taken under advisement and the follow-up question was:
+'Q. Would you ask Mr. Davidson that question specifically, please?'
+The answer we were given from you was:
+'Dr. Harman was made aware that the disclosure of similar systems in patents of an earlier date would preclude the patenting of the same systems by ComDev.'
+You gave that answer?
+A. I am sure I did.
+Q. And that was accurate?
+A.
+It doesn't seem to be accurate, since in front of us this morning we have had letters in which I advised that a prior publication would bar patentability.
+(emphasis added)
+Q. Aside from what might or might not be read into the letters we read this morning, I take it that what you gave was an accurate summary of your recollection of the advice given to Dr. Harman?
+A. My answer appears to be inaccurate since there seems to be clear evidence that I spoke with Dr. Harman about dates, publication bar dates and about publications being a bar."
+and later, at p. 1918:
+"A. It seems to me that that answer [one given at examination for discovery] is wrong because I must have advised Dr. Harman that prior publications were as relevant as prior patents."
+[87]
+Davidson's evidence is more believable than Dr. Harman's in the following exchange at p. 1919 of the transcript:
+"MS. JACKSON: Q. You didn't ever say to Keith Harman anything about a duty to disclose prior art to the Canadian Patent Office?
+A. We sat down together to place an application in form for filing at the Patent Office. That must have involved complying with Patent Office requirements when we worked together revising the application.
+Q. He helped you with the wording of those two paragraphs, two, three and four?
+A. The final form of paragraphs two, three and four did not come out of our meeting, it came back from Dr. Harman to me."
+and later,
+"A. No. The sequence is different from that. I sent to Dr. Harman a rough draft with the three sentences to which you refer and Dr. Harman came back to me with a typed script which had the three paragraphs in it. We then had a meeting at which we both sat down and discussed matters and made some further changes to Dr. Harman's intermediate draft which then became the final case."
+Davidson, despite this exchange, and having discussed prior publications with Harman, did not equivocate with his last answer on this point. At page 1921:
+"Q. This is question 2243 [on examination for discovery], Mr. Davidson, which was:
+'Would you inquire of Mr. Davidson what instructions, if any, he knows of that were given to Keith Harman or to anyone else concerning identification of prior art?'
+and the answer was:
+'The draft patent application given to Dr. Harman to review contained, as required by Canadian practice, a discussion of the closest prior art. In reviewing this application, including the discussion of the prior art, Dr. Harman expected ...'
+I take it you mean 'was expected':
+'... to comment on the accuracy of this aspect as well as other aspects of the application Mr. Davidson does not recall giving any specific instructions regarding any duty to disclose prior art in the Canadian Patent Office.
+Mr. Davidson understood his role to be to determine the most pertinent prior art to be included in the patent application for the Canadian Patent Office as a result of discussions with Dr. Harman.
+' (emphasis added)
+Is that answer accurate?
+A.
+Yes.
+" (emphasis added)
+Davidson was then taken back to the initial letters retaining him to do a search and give an opinion. The letter is from Grove and dated 14 November 1972 (Exhibit D-14, Tab 7). Harman had made a patent search (Exhibit D-14, Tab 3) but Davidson made his own search because he was asked to. He did not rely on Harman's search. He found a number of patents not in Harman's list. He determined that "the two one-cable system he had been provided with a description of was not patentable".
+Special Note:
+[88]
+Davidson did not attend the examination for discovery. All questions were put to Patton, the officer put forward on behalf of the plaintiff to answer discovery questions. Questions were then put to Davidson and received answers.
+[89]
+Davidson had earlier told us of the handwritten note he made on Exhibit D-14, Tab 9, i.e.,
+"Dr. Harman called. He thinks he may have patentable distinction and will come in to discuss matter when copies received."
+At pages 1926-1927 of the transcript:
+"'Q. Can you also ask Mr. Davidson what patentable distinction if any Dr. Harman subsequently raised and when?
+And the answer we were given to that question, Mr. Davidson, when it was ordered answered is:
+'
+The development of an operable system referred to in Davidson letter of January 10, 1974 on January 1974
+...' (emphasis added)
+A. Right. May I explain?
+Q. Yes.
+A. I believe my note of December, 1972 records the fact that Dr. Harman said he would come into me with some development and I had no idea what the development was. Patentable distinction is shorthand to myself to say there has been some advance. I think it is impossible that in December of '72 Dr. Harman was speaking of the surveillance memorandum which came out in '74 because it had not yet been constructed, he hadn't done the work or written the memorandum. The question you read to me to which I gave the answer is capable of interpretation,
+that I was asked when did Dr. Harman come up with something that was patentable, when did he come up with a patentable distinction and I do indeed believe that the perimeter surveillance system was a patentable advance.
+" (emphasis added)
+The question to Davidson was meant to refer to the handwritten note's reference to patentable distinction. Davidson, however, said his answer was accurate because the question said, "subsequently" and he took that to mean the events discussed in January, 1974. A careful reading of the transcript makes Davidson's answer quite plausible.
+[90]
+Of the meeting referred to in the handwritten note, Davidson sums up at pp. 1929-1930 of the transcript:
+"Q. Let me put it differently, Mr. Davidson. Your best recollection of that meeting is that Dr. Harman gave no indication of the nature of the things that he called the patentable distinction?
+A. My recollection is Dr. Harman was quite properly exploring any possibilities there were of getting patent protection for what his group was doing or contemplating doing. We had, therefore, a wide ranging discussion over what had been known before, what had happened at Queen's, whether some commercial advantage could accrue to them in the patent field at this time and my conclusion was that they had not done enough work at that time to achieve any successful patent application."
+and later:
+"A. One could conclude from the letter of January 23 [Exhibit D-14, Tab 12] that Computing Devices system, using a far field of energy whereas the Queen's system uses a near field is what Dr. Harman had in mind as the patentable distinction."
+Davidson was relying on the correspondence and said so.
+[91]
+Davidson wrote to Grove January 23, 1973 (Exhibit D-14, Tab 12) after a meeting with Harman. He had his search results, information conveyed to him by Harman regarding obstacle detection, and work at Queen's re. using one leaky coaxial cable to detect obstacles. Armed with this, Davidson gave the opinion that in his view the work at Queen's would prevent patentability of the system that had been described to him. He also stated that if Grove, due to commercial factors, wanted to prepare and file an application, then Dr. Harman's improvement would be best expressed as Davidson wrote in the letter.
+[92]
+Davidson was giving his client his best advice as a patent agent at that time. His evidence pointed to the difficulty of forecasting accurately what is and what is not patentable. He declared a patent agent "may do a grave disservice to a client if he sends him away with advice not to file a patent application if the patent agent happens to be wrong. Therefore there is a grey area in which one may, for commercial reasons, wish to try to get a patent which has a chance of being valid". (Transcript, p. 1936).
+[93]
+Harman visited Davidson again in June 1973, again to seek an opinion on patentability. Following that visit Davidson wrote, "In summary, my opinion is that it would not be possible to obtain valid patent protection for basic concept developed by the Queen's group." Davidson saw the problem this way:
+"A. Yes, but the problem is in this respect: were we concerned with whether Queen's could get patent protection themselves that might interrupt Dr. Harman's activity or was there a basis for work that Harman had done at Queen's that would entitle him to get patent protection for the Queen's work?
+. . . . .
+Q. Do you recall, sir, if it was the opinion that was being sought from you at the time with respect to an obstacle detection system employing one leaky coaxial cable?
+A. The June discussion was very nebulous. It was more what I hope was a useful discussion on patent matters in general, but as to what specific apparatus was being considered in June, I do not know.
+Q. You don't recall today?
+A. Right.
+Q. But you would agree it would fall within the description of the basic concept developed by the Queen's group?
+A. Obviously that was part of the discussion.
+Q. You don't recall specifically today what you were told about that basic concept?
+A. Clearly I was given the IEEE article which they had just published.
+Q. That indicated they had done obstacle detection using one leaky coaxial cable?
+A. I believe that that is correct.
+Q. Included in the matters you were considering for patentability was the patentability of one leaky coaxial cable used for obstacle detection?
+A. I believe that that's fair, yes.
+Q. On that occasion Dr. Harman gave you a number of publications which he thought might be relevant to the question he put to you?
+A. That is right.
+Q. He gave you the Beal paper, Exhibit 47-A, tab 4 which you identified this morning?
+A. Right.
+Q. And he gave you an article on various types of open waveguides which is at tab 2 of Exhibit 47-A, the one you referred to in your letter of June 15?
+A. Right.
+Q. He gave you some other publications?
+A. Right.
+. . . . .
+Q. You might or might not have seen that article at that time?
+A. That's right, yes.
+Q. You discussed the work at Queen's and the work as disclosed in the Japanese articles, at least various types of open waveguides with Dr. Harman?
+A. Yes.
+Q. He left you with those publications and possibly others to review in order that you might express your view on patentability?
+A. That is right.
+Q. That opinion is expressed in the letter of June 15, 1973?
+A. It is.
+Q. And you say in that letter which appears at tab 14 in the second paragraph:
+'Insofar as the question of patent protection for the basic concept is concerned I consider the most relevant article to be that by Nakahara et al. Various Types of Open Wave Guides for Future Train Control ... This publication discloses the use of slotted coaxial cables for train communication systems and goes on to point out (on page 188) that the various open wave guides disclosed may be used for obstacle detection. I consider the teachings of this article would supply sufficient information to one skilled in the art that it would not be possible to obtain patent protection for the concept of obstacle detection using slotted cables developed subsequent to the date of publication.'
+And that was your opinion?
+A. That was my opinion.
+Q. You are saying to one skilled in the art that that article of various types describes an obstacle detection system in which leaky coaxial cable can be used?
+A. I think I am saying the reference discloses open waveguides which are used for obstacle detection.
+Q. It makes it clear that the obstacle detection system is also one in which slotted cables or leaky cables could be used?
+A. It has a paragraph giving that equivalence, yes.
+Q. The article therefore disclosed enough in your view to preclude a patent on an obstacle detection system using slotted or leaky coaxial cables?
+A. It disclosed enough to preclude a patent application on whatever Dr. Harman was asking me to patent in general.
+Q. Which I believe you indicated at least included a one-cable obstacle detection system?
+A. Probably, I agree."
+This crucial part of the cross-examination leads to Davidson's explanation at p. 1948 of the transcript:
+"A. The opinion I expressed in that letter was to give advice to my client as to how they should proceed at that date with the suggestions Dr. Harman had. The advice was not to proceed with the patent application. The sentence you have just read is in the context of advising my client
+not to proceed at that time
+. (emphasis added)
+Q. Do you not agree that that sentence is an opinion in which you say the article will prevent the concept of obstacle detection using slotted cable developed subsequent to the date of publication, your opinion is not limited to the use of one slotted cable, but would include the use of two or more slotted cables for an obstacle detection system?
+A. If that sentence is extracted from the letter and read in isolation as you have, it is capable of that interpretation.
+Q. Is that not the only reasonable interpretation to put on it?
+A. No, any sentence should be read in the context in which it was made. This sentence should be read in the context of the advice I was giving to my client.
+. . . . .
+Q. If the opinion was expressed that the Japanese prior art prevented the patentability of a one cable system, do you not agree that it would even more clearly prevent the patentability of a two cable system?
+A. No, I don't agree.
+Q. Do you not agree that it would equally prevent the patentability of a two cable system?
+A. I do not know what you mean by the concept of a two cable system.
+What happened in real life was that I was shown a complete apparatus embodying a two cable system, that is what I gave subsequent advice on.
+" (emphasis added)
+and later at p. 1953:
+"A. If Dr. Harman had come to me with a concept saying, 'I know there is one cable stuff. I wonder if I can use two cable stuff, I wonder if I can get a patent today?' I would have given the answer, 'You cannot get a patent for the concept. You have not told me anything about how to make it and how it works and therefore the concept is not sufficient'."
+Conclusions re. Anticipation:
+[94]
+In this case the Japanese work on which the defendant relies was available to the public. Further, they were all printed more than two years before the filing of the application. Section 27(1)(b) of the Patent Act provides that the inventor may obtain a patent for an invention that was not described in any patent or publication printed in Canada or in any other country more than two years before the presentation of the petition.
+[95]
+The second argument is confined to the Thomson patent and is based on ss. 27(1)(b) and 63(1)(b) of the Patent Act. It is the defendant's position that although the patent was issued too late for s. 61(1)(a) to apply, its filing date was before the alleged Harman invention date and was copending. Therefore a conflict should have been declared between the two applications. I shall deal with this proposition first.
+[96]
+It is the defendant's contention that a structure built according to the ComDev patent would infringe claim 1 of the Thomson patent and so the two applications should have been placed in conflict.
+[97]
+According to the defendant, the Thomson patent shows two leak lines which are said to behave substantially in the same way as coaxial lines with respect to the separating strip 27 and the metal base 26. Harman's evidence showed that the two leak lines can be considered as being leaky coaxial cables, each with two sides open so that they will leak. However, Harrison conceded that he felt the Thomson patent was completely different on the basis that there was no coupling between the two leak lines except for radiation reflected off a vehicle located above the lines. I accept Harrison's opinion in this regard which dispenses with the prior art argument vis-à-vis the Thomson patent.
+Prior Art Argument:
+[98]
+The defendant in this case had an arduous road, and to the credit of counsel pursued it in an energetic, strenuous manner. To establish invalidity of the patent the onus was on the defendant. Also, there is considerable jurisprudence on the subject that the test for anticipation is very rigorous and President Thorson in  <FRAGMENT_SUPPRESSED>  disfavour on an attempt to invalidate a patent by resort to what is commonly, but erroneously, called a paper anticipation, that is to say, a patent covering a device that has never been put into production. This disfavour was clearly expressed by Fitzgibbon, L.J., in the  <FRAGMENT_SUPPRESSED> ] case to which I have already referred, where he said at page 445:
+'There should be no sympathy with a systematic attempt to deprive the meritorious inventor of a useful instrument of the fruits of his discovery, by exhuming something like it from the "limbo of forgotten things"; and it seems to be now a profession to grub up stillborn patents, in order to rob living inventors of the fruits of their ingenuity.'
+"In view of the severity of the tests which a prior publication must meet before it can be considered as an anticipation of an invention it is not surprising that attacks on the validity of a patent on the ground that the invention covered by it was anticipated by a prior patent so seldom succeed. Indeed, although I have been the president of this court for more than twenty years, I have not yet heard any patent case in which the validity of the patent involved in the case has been successfully attacked on the ground that the invention covered by it had been anticipated by a prior patent."
+and an update on that point was given by Strayer, J., in the Mahurkar decision (supra) at p. 430:
+"The test for anticipation is very rigorous. For a prior document to anticipate a patent whose validity is attacked, the former must be so clear and so apposite
+as inevitably to lead skilled workmen to the latter.
+" (emphasis added)
+Later Strayer, J., emphasizes the point when he writes, "a paper anticipation must be viewed very strictly".
+[99]
+The plaintiff made the point in argument, and in my view correctly, that:
+"Dr. Harman believes that they were the first people (ComDev) to detect an intruder utilizing a pair of leaky coaxial cables as of August, 1973 and in that sense it was new. Dr. Harrison agreed that no article or prior patent discloses, describes the use of a pair of leaky coaxial cables in a detection system. My lord, I suggest that is a simple answer to the defence of anticipation where in law the requirements are as set out in the very rigorous test that the anticipatory documents must give clear and unmistakable directions, give directions which will inevitably result in something within the claims. None of them mention leaky coaxial cables in a detection system or even a pair of leaky coaxial cables in a detection system. None give an exact prior description. None describe a system which would itself infringe claim 1 of the patent. Hence, I submit, none anticipates.
+"
+... prior to August of 1973, there was activity going on in the area of obstacle detection by the Japanese, the French, the U.S. government, Plessey and Sperry Rand. It shows, my lord that when I come to the case of obviousness that the invention escaped all of them. The invention escaped all of them.
+" (emphasis added)
+[100]
+With respect to the test for anticipation, the law is clear that prior art must be read in light of the common general knowledge and the test is whether the prior publication would give a person skilled in the art the same information for practical purposes as the claim under attack. Further, as Hugessen, J., indicated  <FRAGMENT_SUPPRESSED>  (supra), "anticipation must be found in a specific document or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention ..."
+[101]
+Although the information normally must be on one document, the defendant relies on the following comment in Fox, H.G., Canadian Law and Practice Relating to Letters Patent for Inventions (4th Edition, Carswell Company Limited, 1969) at p. 139 in order to have two of the articles read together, namely Various Types of Open Wave Guides and Leaky Waveguide Radar System:
+"The rule against making a mosaic of documents does not apply when the documents are connected together and form a consistent whole, as for example when they are 'chapters' in a series of disclosures where anybody reading one is referred by cross reference to others [reference to  <FRAGMENT_SUPPRESSED> ]."
+[102]
+The defendant submits that the following documents: 1) Various Types of Open Wave Guides, 2) Leaky Waveguide Radar System, 3) a combination of the above-noted documents, as one refers to the other in a footnote reference, therefore the anti-mosaic rule would not apply, and 4) Experimental Study of Meta-Radar System with Millimeter Leakage Waves for Roadroad Obstacle Detection - have features contained in Claim 1 of the patent in issue. Claim 1 includes the following elements: 1) "a detection system for locating targets"; 2) "which reflect or absorb electromagnetic energy"; 3) "first and second leaky coaxial cables extending along a prescribed path"; 4) "spaced from another a distance greater than an order of magnitude larger than their outside diameter"; 5) "a transmitter connected to one of said cables and receiver connected to the other, receives a signal derived from the transmitter"; 6) "whereby a target alters the coupling between the cables and means processing the received signal to determine the location of the target".
+[103]
+The defendant went through an extensive comparison of the above-noted elements of Claim 1 with the various articles. With respect to the first two articles, the defendant submits that the Leaky Waveguide Radar article contains every feature of Claim 1 except for an explicit reference to leaky coaxial cable (The radar system shows leaky circular waveguides in place of the leaky coaxial cable).
+[104]
+The Various Types article lists three "typical open waveguides", one of them being open coaxial cable. The article also indicates that one interesting application of open waveguides is in the area of obstacle detection. Accordingly, a person skilled in the art of reading the article need do no more than make the routine substitution directed by the explanation in s. 3(2), the second paragraph of s. 4 and Figure 5(b), to use leaky coaxial cables in an obstacle detection system.
+[105]
+The defendant contends that since the Various Types article refers specifically to the Leaky Waveguide Radar System article in the context of obstacle detection (by way of footnote), a person skilled in the art would normally read the two articles together. Therefore, as the articles would normally be read together as one, both common sense and the law (per the comment by Fox), require that anticipation be viewed on the basis of the contents of both articles. Accordingly, when reading these two articles together, a person skilled in the art would inevitably be led to substitute leaky coaxial cable for the leaky waveguides, if such a person were faced with the problem of locating humans over relatively short distances, as opposed to the problem of locating small rocks over long distances (i.e., the railroad problem). Thus, the defendant submits, for all practical purposes the articles read together give the reader everything he or she wants. This view was confirmed by Dr. Harrison when he commented that "without any doubt whatsoever, I would come up with the same answer".
+[106]
+There are two weaknesses in the above submission. First, I do not think the anti-mosaic rule applies as we are not dealing with "chapters" but a reference in a footnote. Second, as I have pointed out, Dr. Harrison is not a very helpful witness, given that he had the benefit of hindsight, severely restricting the weight of his evidence.
+[107]
+In other words, the defendant is basically arguing that if a person was faced with the need to produce a target detection system suitable for, let's say, penitentiaries, having relatively low cost, insensitivity to dirt, rain and other effects on the transmission lines, small size and lack of high visibility and that he or she wished to use a leaky wave guide target detection system as suggested in the Various Types article, or the Leaky Waveguide Radar article, or both, such a person would be led inevitably to use leaky coaxial cable because there would be no practical alternative. That is just not credible.
+[108]
+With respect to the Meta-Radar article, the defendant submits that the comparison of this article with claim 1 is the same as that for the Leaky Waveguide Radar System, except for some additional comments. It should be noted that the electromagnetic wave distributions for the millimeter Meta-Radar System are fundamentally different from those of a surface radar system. This is because the article is comparing the performance of a two-line system (transmit one, receive one), where the detection width is 3 metres, with a one-line system where the detection width is only 20 centimetres. As indicated by Harrison at p. 1634 of the cross-examination:
+"What they are comparing is essentially a single transmission line system with a dual transmission line system and they are saying that they are not alike and I agree with that."
+I see no reason why I should not accept Harrison's evidence on this point. However, the defendant notes that the use of two widely spaced apart transmission lines, transmitting on one and receiving on the other, to detect and locate a target between them, was developed by the Japanese.
+[109]
+The Meta-Radar article was written before leaky coaxial cable was commercially available. However, the defendant submits that the evidence is that a person skilled in the art in 1973, reading the article and knowing what type of transmission lines were available as options (including leaky coaxial cable) would once again for all practical purposes have every element of Claim 1 of the patent. Moreover, there is no reasonable alternative except to select the one type of transmission line appropriate for the job, namely leaky coaxial cable.
+[110]
+In its reply, the plaintiff (p. 2318 of the transcript) noted that the Japanese articles may describe experiments and give results of these experiments, but that these experiments were abandoned. There was no evidence from anyone as to what the Japanese ever did, other than abandon what they started. Further, there was no evidence as to whether the Japanese used leaky coaxial in a detection system, and the plaintiff submits that if this had been done, someone would have heard about it.
+[111]
+For the reasons given the defendant has failed to prove anticipation by prior art and the patent is valid as against that challenge.
+Fraud On The Patent Officer:
+[112]
+Davidson has splendid academic credentials for the task of patent agent. He obviously had a warm and mutually respected business relationship with Grove. For more than 20 years he has been retained as a patent agent by the plaintiff - an active member in the business community searching out new and better ways to perform on behalf of governments and industries.
+[113]
+He impressed me as a man dedicated to doing a good job, giving honest answers and always mindful of the fact there may be commercial considerations, and that an agent may be doing a disservice to a client if he gives poor advice resulting in no application being made.
+[114]
+Davidson did not endeavour to share any responsibility for determining what were the technical requirements of the patent application. He and he alone accepted it was his decision, after understanding the prior art and technical consequences as to whether the prior art was likely to affect the issue of patentability.
+[115]
+When giving advice he was straightforward with his employers, and in grey areas, in view of commercial considerations, suggested how a claim might be drafted.
+[116]
+I am satisfied that Davidson and Harman did have full and frank discussions about the invention and the application. I am also convinced that he never told Harman not to mention or be silent about the Japanese material. He filed the application as the law requires and referred to the most "relevant" "prior art". "I believed it [i.e., Sperry Rand or Ross patent] set out the closest prior art known to us". Harman had some concern about the Japanese material as prior art and pursued it with Davidson and Grove, but in the final analysis Grove, a respected man and Davidson who knew his responsibility, were satisfied the Japanese material did not constitute prior art and Harman was so advised. Nothing in the evidence convinces me that Davidson misled the Patent Office in Canada nor, for that matter, the American Patent Office. Davidson was well aware of the sanctions in place in both countries and they are severe. Davidson in my view is too intelligent and too honest to take that risk. The fact of Davidson's becoming a patent agent after much study, and becoming a respected patent agent, leaves little room for doubt that the application for patent was not misleading nor meant to be. Davidson impressed with his candour and his talents and skills as a patent agent. There was no fraud on the Patent Office.
+Infringement:
+[117]
+Harman of course had an insightful knowledge of the patent in suit. Armed with this information he could design SENTRAX in such a way that it did not appear to infringe. However, as I have indicated earlier, I was not impressed by the artificial arguments that detection is significantly different from locating. A map in the SENTRAX shows an intruder within a zone, thereby detecting the intruder and locating him in a particular zone - within certain spatial limits. Harman in his Carnahan paper described how the operator of the terminal display showed where the target was "located" along the perimeter. However, one need not look only to a specific infringement if the new system takes the substance of the invention in the claims. In my view the SENTRAX system is a classic, almost text book example of this jurisprudence. The major component of the SENTRAX system is the use of leaky coaxial cables in the manner described in the evidence/patent.
+[118]
+There is no question in my mind that SENTRAX is a more sophisticated system, and several advantages flow from the improvements. Several were listed by the defendant under the heading "differences". There is no need to cite all of them and a few will suffice to make the point. The block (SENTRAX) system also had disadvantages over the patent in suit, e.g., most of the hardware is located outdoors, spread around the area of interest. However, areas not requiring a sensor need not have cables: zones can end at obstacles such as doorways: if a cable is cut on the SENTRAX system, only that zone disabled: SENTRAX can use a smaller diameter leaky cable: a dramatic difference in cost (i.e., size of cable) and a dramatic difference in cost and ease of installation of the system: the electronic (SENTRAX) are simpler and less expensive: if a TM fails, only one or at most two blocks are disabled: and only one or at most two blocks are affected by local jamming signal. Each "difference" with one exception is an improvement, an advantage over the patent in suit. It is however, an infringement of the substance of the patent in suit.
+[119]
+The words of Addy, J., in  <FRAGMENT_SUPPRESSED> , at p. 239:
+"Although there is no literal infringement, the court must also determine whether the variations are minor ones and whether the alleged infringer has in fact taken the substance of the invention. ... One must obviously look beyond the mere physical aspect or appearance of the invention and the alleged offending article and consider the manner in which both operate or are intended to operate, for it might well happen that two articles may bear considerable physical resemblance, yet, by reason of what might appear to be a minor physical difference, they might in fact operate in a completely dissimilar manner and employ totally different physical and mechanical principles. The opposite might also well be true ..."
+[120]
+I am satisfied that the "differences" are really improvements over the original patent in suit. The "pith and substance" of the invention has heen infringed with the SENTRAX system. It is not so much the "physical aspect" of the SENTRAX system as the manner in which it operates - a variation and only that of the patent in suit.
+[121]
+Strayer, J., in
+ <FRAGMENT_SUPPRESSED> , found the defendant, "not employing what in my view are two essential elements of those claims as interpreted with the aid of disclosure.
+They are not doing essentially the same thing with the same result
+." (emphasis added)
+[122]
+That is not the case here. In my view, both do the same thing - essentially the same thing. Certainly counsel for the defendant made it clear that an intended purchaser would get a cheaper, more sophisticated system with SENTRAX but the use of leaky coaxial cables and the means of processing the received signal to determine the location of the target are essential elements of the claim 1 and SENTRAX.
+[123]
+It is no defence that the SENTRAX system may be sold without component parts. This defence has clearly been rejected in the jurisprudence.
+[124]
+For the reasons given above, the SENTRAX system clearly infringes Claim 1 and Claim 3 (conceded by the defendant if Claim 1 is infringed). The remaining claims forming part of the plaintiff's invention are also infringed in substance if not specifically due to Harman's knowledge of the patent in suit and how infringement might be circumvented as attempted unsuccessfully by the SENTRAX system. For the reasons given SENTRAX infringes Claims 1, 3, 4, 5, and 6.
+Ownership Of The Patent:
+[125]
+Mention was made earlier of Form 1036, a Government's means of securing benefits of various kinds arising out of contracts entered into by the said Government.
+[126]
+The plaintiff's position on the question of ownership is that the patent in suit (as embodied in the claims) and the invention claimed therein, is the plaintiff's property because the invention was conceived, developed and reduced to practice by the end of 1973, or in the alternative, by February 28, 1974, the date of the application for patent.
+[127]
+The plaintiff submits that in 1973 ComDev, a division of the plaintiff, performed experimental work using a pair of leaky coaxial cables, a transmitter, a receiver and a signal processing means. On or about October 1973, Dr. Veena Rawat prepared and circulated a report describing this experimental work. Dr. Rawat was determining or confirming the feasibility of the two cable sensor. Figure 2, provided to the court, represents a schematic of the experimental setup by which the technical feasibility and workability of the sensor was demonstrated. Counsel for the plaintiff indicated that Dr. Harman agreed that the equipment in the experimental setup had every element of Claim 1. Moreover, Dr. Harman also agreed that the equipment did establish that the invention worked and that one could detect and locate targets with this setup. Another point raised is that Dr. Harman wrote a memo, wherein he indicated that filing an early patent application for the invention would definitely remove any possible arguments at a later date as to who owned the technology.
+[128]
+In his submission, counsel for the plaintiff noted that the term "reduced to practice" is not common to Canadian patent practice and is more common to American jurisprudence. According to counsel, in order to give credit for an invention date in the United States, one must show a diligent reduction to practice of the invention. This is not the case in Canada. In this regard counsel referred to cases such as  <FRAGMENT_SUPPRESSED>  affirmed by Privy Council [1931] 4 D.L.R. 273; [1931] A.C. 770, and  <FRAGMENT_SUPPRESSED> , where Le Dain, J., wrote that an invention date is one when the invention was reduced to practical shape and he defined practical shape as either oral disclosure to someone skilled in the art who, upon hearing what was said, or reading what was written, could put the invention into practice. Here lies the difference between Canadian and American practice in awarding priority of invention, namely there is no diligent reduction to practice in Canada.
+[129]
+However, the plaintiff did cite American jurisprudence as a means of illustrating the analysis involved in determination of the meaning of the words "reduction to practice". Accordingly, an apparatus or device is reduced to practice when it is assembled, adjusted and used. It can be an experimental; it need not be a commercial use ( <FRAGMENT_SUPPRESSED>  the invention to demonstrate utility but not mechanical perfection. The operative means must merely accomplish the desired results. Improvements obvious to the skilled workman to increase its practical efficiency or perfect its operation may still be made to an invention already reduced to practice ( <FRAGMENT_SUPPRESSED> , at p. 224). Thus, when Dr. Rawat wrote her report describing the experimental setup she was recording that the invention had been reduced to practice. The plaintiff also argues that the filing of an allowable application for a patent constitutes reduction to practice of an invention, per  <FRAGMENT_SUPPRESSED> , at p. 114.
+[130]
+The plaintiff further submits that the conditions under the first contract may have given a licence to use certain improvements, it does not simply follow that because one has a right to the improvements, one has the right to the prior existing invention. Therefore, it is the plaintiff's contention that, based on Dr. Rawat's report and Dr. Harman's comments, there is no question that Claim 1 was conceived, developed and reduced to practice as of the end of 1973 (before the first contract was entered into) and that with regard to Claims 3, 4, 5, 6 and 7, if anything, Her Majesty has only a licence. The plaintiff submits that as these claims were reduced to practice as of the date of the application for the patent, then Her Majesty has no rights to the patent, even as a licensee.
+[131]
+As I understood it, the defendant's argument is essentially that the contract which gave any rights to the invention to Her Majesty, apart from the licence to do certain things, was the third contract (dated April 22, 1975) when Form 1036 was in place and applicable. Therefore it is the defendant's submission that the patent was both developed and actually reduced to practice under the April 22, 1975 contract.
+[132]
+In order to deal with the question of ownership, I will have to determine at what point the invention was reduced to practice. As both counsel for the plaintiff and the defendant have indicated, the question of when an invention is actually reduced to practice has been the subject of much judicial consideration in the United States, generally in the context of an interference proceeding between competing patent applications where one of the issues is which of the applicants first actually or constructively reduced the invention to practice. Further, the plaintiff's counsel was quite correct when he noted that the difference between the American and Canadian practice in awarding priority of invention, is that in Canada there is no "diligent reduction to practice".
+[133]
+However, I think it would be appropriate at this point to make some comments concerning reduction to practice in a Canadian context. In this regard, an examination of some of the American jurisprudence would serve to assist in the determination of when the invention in the case before me could be considered reduced to practice.
+[134]
+The defendant has cited the case of  <FRAGMENT_SUPPRESSED>  (1969) as providing a guideline for the determination of the meaning attributed to the words, "actually been reduced to practice". In that case, Worley, C.J., writing for the majority, applied the concept of "successful reduction to practice". He noted that one had to look at all the evidence, including the results of certain tests. As the favourable evidence was largely in terms of generalities, it was the court's opinion that the more specific evidence of dissatisfaction with the identified phase of operation outweighed the favourable evidence, at least to the extent of raising a reasonable doubt.
+[135]
+I do, however, think that the comments of Rich, J. (in dissent), should not go unmentioned, specifically, that the majority used the legally meaningless concept of a successful reduction to practice instead of what, when taken in context, is actual reduction to practice. Rich, J., also noted a number of cases which held that less than perfect operation will establish reduction to practice. In my opinion, the comments of Rich, J., reflect a more realistic approach to the question.
+[136]
+Accordingly, I am more willing to accept the comments contained in the cases cited by the plaintiff, as they reflect a more practical and common sense approach to the discussion of what amounts to "reduction to practice". Thus, the comments made by the plaintiff bear repeating, namely, that an apparatus or device is reduced to practice when it is assembled, adjusted and used. It can be an experiment; it need not be a commercial use (Corona) and that reduction to practice is the testing of the invention to demonstrate utility but not mechanical perfection. The operative means must merely accomplish the desired result. Improvements obvious to the skilled workman to increase its practical efficiency or perfect its operation may still be made to an invention already reduced to practice. Thus commercial feasibility is not necessarily relevant to the question of "reduction to practice" so long as the experimental equipment proves the workability of the invention. It does not have to be mechanically perfect. Further, I quote from  <FRAGMENT_SUPPRESSED>  evidence of perfection and adaption to use, but the inventor's act in filing an allowable application is to be regarded in law as such an efficient and crowning step as to give it the standing of an invention so perfected and adapted."
+[137]
+I accept the plaintiff's position on the question of ownership. Therefore, in light of Dr. Rawat's report of October 1973, which described the experimental setup, the comments made by Dr. Harman that one could detect and locate targets with the equipment setup, Dr. Harman's suggestion that an early patent application for the invention would definitely remove any possible arguments at a later date as to the owner of the technology as well as the filing of the patent application on February 28, 1974, I am convinced that the invention was reduced to practice by the end of 1973 and as between the plaintiff and Her Majesty, the plaintiff is the owner of the patent.
+[138]
+I agree with the plaintiff that, although the condition of the first contract may have given a licence to use certain improvements, it did not include the rights to the patent in suit. In the same way, if IBM developed a computer for the government and used any of its patented technology to develop that computer, one would not say that Her Majesty had rights to all the patented material that belonged to IBM.
+Costs:
+[139]
+It is fair to comment that this has been a long and difficult process, with some fourteen days of trial required, and the transcript running to 2,342 pages. We examined 79 exhibits of the plaintiff and 42 exhibits for the defendant - Exhibit D-14 itself contained 62 documents some of them running to several pages. In addition, we had to deal with the issue of an alleged fraud on the Patent Office. The court was called on to examine three volumes of authorities advanced by the plaintiff and five volumes of authorities by the defendant. Add to this discovery evidence and exhibits plus plaintiff and defendant's List of Documents and one can see how complex and how important counsel believed the issues to be.
+[140]
+The court now has authority to make a special order as to costs. In the light of my comments above, I believe it is reasonable for the taxing officer to exceed the scale of the tariff, and the plaintiff is to be allowed costs for three counsel which may be allowed above the tariff in this case. The plaintiff is further entitled to all reasonable disbursements and payment for the fees of the three expert witnesses. Caution should be exercised by the taxing officer not to necessarily accept the actual fee charged by each expert, but to use his/her knowledge of what is reasonable in the circumstances for expert fees and disbursements. I cannot accede to plaintiff's request for "a special award of costs on a solicitor/client scale with respect to fraud on the Patent Office". A good deal of time may well have been spent on this issue, but the defendant should be entitled to plead this matter if it is convinced a case can be made for that proposition.
+Conclusion:
+[141]
+I find, therefore, that the patent in suit is valid, and that it has been infringed. The plaintiff has not committed a fraud on the Patent Office. The defendant's counterclaim is dismissed. Costs shall be to the plaintiff.
+Action allowed;
+Counterclaim dismissed.
+Editor: Elizabeth M.A. Turgeon/blk
+[End of document]

@@ -1,0 +1,511 @@
+Introduction
+[1]
+McGillis, J.
+: The applicants Merck & Co., Inc. and Merck Frosst Canada & Co. ( <FRAGMENT_SUPPRESSED> ) have brought an application to quash a decision dated February 25, 1999 of the Minister of Health ("Minister") to issue a notice of compliance under s. C.08.004 of the
+Food and Drug Regulations
+, C.R.C. c. 870, as amended to the respondent Nu-Pharm Inc. ("Nu-Pharm") for its drug Nu-Enalapril. In its submission for a notice of compliance, Nu-Pharm compared its new drug Nu-Enalapril with Apo-Enalapril, the generic version of Merck's patented drug VASOTEC, and made no comparison with or reference to VASOTEC. As a result of a prior proceeding in this court, the Minister accepted Apo-Enalapril as a Canadian reference product, within the meaning of s. C.08.001.1(c) of the
+Food and Drug Regulations
+. The Minister determined that the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended did not apply on the basis that Nu-Pharm did not compare Nu-Enalapril with, or make reference to, Merck's drug VASOTEC. As a result, Nu-Pharm did not comply with the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, and the Minister issued the notice of compliance to Nu-Pharm for Nu-Enalapril without Merck's knowledge. As the innovator of the drug VASOTEC, Merck alleges that the Minister ought not to have issued the notice of compliance for Nu-Enalapril before Nu-Pharm complied with the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+. The question raised in the present proceeding is therefore whether the Minister erred by issuing a notice of compliance for Nu-Enalapril before Nu-Pharm complied with s. 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+. The determination of that question hinges on whether Nu-Pharm was required, by virtue of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, to comply with the provisions of those regulations. The proper construction of s. 5(1) is therefore central in this proceeding.
+Facts
+[2]
+The applicant Merck & Co., Inc. is the owner of Canadian Letters Patent No. 1,275,349 ("'349 patent"). The '349 patent was issued on October 16, 1990, with an expiry date of October 16, 2007. It includes within its scope the pharmaceutical compound enalapril and its pharmaceutically acceptable salts, including enalapril maleate.
+[3]
+The applicant Merck Frosst Canada & Co. ("Merck Frosst") is the licensee in Canada under the '349 patent. In mid-1987, Merck Frosst obtained notices of compliance to permit it to sell in Canada tablets of enalapril maleate in dosages of 2.5 mg, 5 mg, 10 mg, 20 mg and 40 mg. Since that time, Merck Frosst has sold its enalapril maleate tablets in Canada under the trade-mark VASOTEC. Enalapril maleate is used for the treatment of hypertension and congestive heart failure. Merck Frosst's sales of VASOTEC in Canada total approximately $200,000,000 on an annual basis, roughly one-third of its total sales of prescription drugs.
+[4]
+In 1991, Merck commenced a patent infringement action against Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) in relation to the '349 patent.
+[5]
+In April 1993, following the enactment of the
+Patented Medicines (Notice of Compliance) Regulations
+, Merck Frosst submitted a patent list to the Minister, under s. 4(1), in relation to each of its notices of compliance for enalapril maleate. Each of those patent lists included the '349 patent.
+[6]
+In September 1993, Apotex was issued notices of compliance for its enalapril maleate tablets in dosages of 2.5 mg, 5 mg, 10 mg and 20 mg. At that time, Apotex began to sell in Canada its tablets of enalapril maleate under the brand name Apo-Enalap and Apo-Enalapril.
+[7]
+Since that time, there has been extensive litigation between Merck and Apotex concerning enalapril maleate. As a result of the patent infringement action and the subsequent appeal, Apotex was found to have infringed certain claims in the '349 patent in relation to the formulation and sale of tablets not protected by s. 56 of the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended. A permanent injunction was issued against Apotex to prevent further infringement of the '349 patent. However, Apotex was able to continue selling its Apo-Enalapril tablets which were protected by s. 56 of the
+Patent Act
+. For the purposes of the present proceeding, it is unnecessary to refer to any of the other litigation between Merck and Apotex related to that matter.
+[8]
+In June 1996, Apotex sent a notice to pharmacies in Canada advising that its raw materials and inventory of Apo-Enalapril were depleted. In tablet form, Apo-Enalapril has a shelf life of approximately two years. As such, pharmacies would have sold or stale-dated their remaining inventories of Apo-Enalapril by sometime in 1998. As a result, Apotex no longer sells Apo-Enalapril in Canada.
+[9]
+At all relevant times, Apotex had a close working relationship with Nu-Pharm Inc. ("Nu-Pharm"), another generic drug company.
+[10]
+By letter dated October 23, 1996, Nu-Pharm sent a notice of allegation to Merck, under s. 5(3)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+, alleging that it was purchasing from Apotex inventory acquired prior to the issuance of the '349 patent. In response, Merck instituted, in court file T-2699-96, an application to prohibit the issuance of a notice of compliance to Nu-Pharm for tablets of enalapril maleate.
+[11]
+By letter dated April 10, 1997, Nu-Pharm sent a similar notice of allegation to Merck in relation to Canadian Letters Patent 1,288,351 ("'351 patent"). Merck instituted, in court file T-1121-97, a further application to prohibit the issuance of a notice of compliance to Nu-Pharm.
+[12]
+On September 11, 1997, Nu-Pharm filed with the Minister an abbreviated new drug submission relating to Nu-Enalapril in order to obtain a notice of compliance under the provisions of the
+Food and Drug Regulations
+. In the abbreviated new drug submission, Nu-Pharm named Apo-Enalapril as the Canadian reference product, and compared its drug Nu-Enalapril with it. Nu-Pharm's abbreviated new drug submission contained no reference or comparison to Merck's drug VASOTEC.
+[13]
+The Minister refused to process Nu-Pharm's abbreviated new drug submission on the basis that Apo-Enalapril was unacceptable as the Canadian reference product, and that the innovator Merck's drug VASOTEC was the proper Canadian reference product for the purposes of comparison with the new drug Nu-Enalapril.
+[14]
+By letter dated September 17, 1997, counsel for Nu-Pharm wrote to counsel for Merck to follow up on an earlier discussion concerning whether Merck would agree to discontinue its application for prohibition in court files T-2699-96 and T-1121-97 upon the withdrawal by Nu-Pharm of the related notices of allegation.
+[15]
+By letter dated September 19, 1997, counsel for Merck responded that Merck would discontinue its two proceedings on certain terms, including the receipt of a written assurance that the notices of allegation and any related applications to the Department were "irrevocably withdrawn".
+[16]
+On November 24, 1997, Nu-Pharm instituted an application for mandamus, in court file T-2552-97, to compel the Minister to process its abbreviated new drug submission and to issue a notice of compliance for Nu-Enalapril.
+[17]
+Merck had no knowledge of the abbreviated new drug submission filed with the Minister or the proceedings instituted by Nu-Pharm in court file T-2552-97.
+[18]
+By letter dated January 12, 1998, counsel for Merck wrote to counsel for Nu-Pharm to follow up on discussions concerning the prospect of Nu-Pharm withdrawing its two notices of allegation and Merck discontinuing its related applications for prohibition in court files T-2699-96 and T-1127-97. In his letter, counsel for Merck stated his understanding that Nu-Pharm wanted to terminate the proceedings on the basis that they were moot, in that it "... has not or will not be purchasing the remaining inventory of enalapril maleate tablets from Apotex and therefore will not be using or selling such inventory under the Nu-Pharm label". Counsel for Merck therefore proposed to discontinue those proceedings on certain conditions.
+[19]
+By letter dated February 25, 1998, Nu-Pharm sent a third notice of allegation to Merck, under s. 5(3)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+. The notice of allegation referred to the '349 patent and the '351 patent. In its notice of allegation, Nu-Pharm alleged, among other things, that certain claims in the '349 patent were invalid and that its drug, which was not specified, would not infringe the remaining claims in the patent. Nu-Pharm also indicated that its new drug submission would make a comparison or reference to VASOTEC.
+[20]
+On or about April 2, 1998, Apotex purchased a pharmaceutical facility from Nu-Pharm. Apotex renamed the facility Novex Pharma, a division of Apotex. Nu-Pharm continued to operate independently as a sales and marketing organization for pharmaceutical drugs at the same premises as Novex Pharma. Nu-Pharm is presently not a drug manufacturer, but rather acts as a wholesaler of pharmaceutical tablets supplied to it by a manufacturer.
+[21]
+On April 14, 1998, Merck instituted an application, in court file T-733-98, to prohibit the Minister from issuing a notice of compliance in respect of the drug which was the subject of the third notice of allegation.
+[22]
+By letter dated August 24, 1998, counsel for Nu-Pharm wrote to counsel for the Minister and formally withdrew its two notices of allegation dated October 23, 1996 and April 10, 1997. On September 16, 1998, counsel for the Minister acknowledged receipt of that letter and accepted the withdrawals of the two notices of allegation. As a result, Merck filed notices of discontinuance in the prohibition proceedings in court files T-2699-96 and T-1121-97.
+[23]
+On October 28, 1998, a hearing was held before Cullen, J., in court file T-2552-97 on Nu-Pharm's application to compel the Minister to process its abbreviated new drug submission and to issue a notice of compliance for Nu-Enalapril.
+[24]
+On November 19, 1998, Cullen, J., issued an order in which he set aside the Minister's decision refusing to process Nu-Pharm's abbreviated new drug submission, and referred the matter back to the Minister for redetermination in accordance with his reasons for order. The decision of Cullen, J., is reported in
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+[25]
+In his reasons for order, Cullen, J., noted that manufacturer A's drug X (i.e. Apotex' drug Apo-Enalapril) was identical to manufacturer B's drug X (i.e. Merck's drug VASOTEC). In the circumstances, he concluded, at page 632, that "... a drug that is identical to the innovator's drug ... can be used to demonstrate bioequivalence based on pharmaceutical characteristics when [the Minister] is satisfied that the evidence shows that those characteristics are identical". He therefore concluded that the Minister erred in law by finding that manufacturer A's drug X (i.e. Apotex' drug Apo-Enalapril) did not fall within the definition of "Canadian reference product" in s. C.08.001.1(c) of the
+Food and Drug Regulations
+. However, Cullen, J., noted that s. C.08.001.1(c) affords some discretion in that the drug must be "acceptable to the Minister". As a result, Cullen, J., reviewed the Minister's exercise of his discretionary powers and found, at page 637, that the Minister neglected "the most essential factor ...: that the applicant's drug X is identical to that of manufacturer A" (i.e. Nu-Pharm's Nu-Enalapril is identical to Apotex' Apo-Enalapril). In the circumstances, Cullen, J., concluded, at page 637, that the Minister made his decision "... based on an erroneous finding of fact without regard to the material which indicated that the drugs were identical". In short, Cullen, J., concluded that Apo-Enalapril was a "Canadian reference product", within the meaning of s. C.08.001.1(c) of the
+Food and Drug Regulations
+, and he remitted the matter to the Minister for redetermination.
+[26]
+Neither Merck nor Apotex were parties in the proceeding before Cullen, J., and Nu-Pharm did not give Merck any notice of the proceeding. Furthermore, there was no reference in the public record to the identities of manufacturers A and B (i.e. Apotex and Merck), or to their respective drugs Apo-Enalapril and VASOTEC. Merck was therefore completely unaware of the proceedings in court file T-2552-97.
+[27]
+The Minister did not appeal the decision of Cullen, J.
+[28]
+On January 26, 1999, Merck became aware of the proceeding in court file T-2552-97, and the decision of Cullen, J. Almost immediately thereafter, Merck requested that the Minister not issue a notice of compliance until Nu-Pharm complied with the requirements of s. 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+. Merck also instituted prohibition proceedings in an attempt to prevent the Minister from issuing a notice of compliance. In addition to its entreaties to the Minister and its further prohibition proceedings, Merck took various procedural steps, in both the Trial Division and the Court of Appeal, in an effort to have the decision of Cullen, J., reconsidered or appealed. Merck has not succeeded in those efforts. The decision of Cullen, J., is therefore presently fully in effect, and it is not the subject of an appeal.
+[29]
+On February 25, 1999, the Minister issued a notice of compliance, under s. C.08.004 of the
+Food and Drug Regulations
+, to Nu-Pharm for Nu-Enalapril tablets containing the medicinal ingredient enalapril maleate. The tablets were approved in dosages of 2.5 mg, 5 mg, 10 mg and 20 mg. The portion of the notice of compliance entitled "Canadian reference product" contains the notation "[i]dentical to Apo-Enalapril, Apotex Inc., Canada".
+[30]
+The notice of compliance was issued to Nu-Pharm in response to its abbreviated new drug submission that used Apo-Enalapril as the Canadian reference product. Nu-Pharm's abbreviated new drug submission contained no reference or comparison to any form of enalapril maleate manufactured by Merck, and in particular, no reference or comparison to VASOTEC. Apotex had previously obtained its notice of compliance for its Apo-Enalapril brand of enalapril maleate tablets in various dosage strengths by comparing it with Merck's VASOTEC tablets as the Canadian reference product. As a result, the Apo-Enalapril tablets were a generic version of Merck's VASOTEC tablets. There was no data relating to bioavailability or bioequivalency studies in Nu-Pharm's abbreviated new drug submission. Furthermore, Nu-Pharm's abbreviated new drug submission was not considered by officials in the Department of Health to be a "cross-reference submission" to the earlier Apotex new drug submission. In other words, Nu-Pharm did not rely on any demonstration of bioequivalence or bioavailability to establish the safety and efficacy of Nu-Enalapril. Rather, it simply notified the Minister that its Nu-Enalapril tablets had the same formulation as its "Canadian reference product", Apo-Enalapril.
+[31]
+Finally, Nu-Pharm's abbreviated new drug submission was separate and different from the one relating to the third notice of allegation, at issue in court file T-733-98. That latter abbreviated new drug submission made specific reference to VASOTEC.
+[32]
+On March 5, 1999, Merck instituted the present application in which it seeks, among other things, to quash the decision of the Minister to issue a notice of compliance to Nu-Pharm for Nu-Enalapril tablets containing the medicinal ingredient enalapril maleate.
+Issue
+[33]
+The principal question to be determined is whether the Minister erred by issuing a notice of compliance for Nu-Enalapril tablets before Nu-Pharm complied with s. 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+.
+Analysis
+i) introduction
+[34]
+In his decision rendered on November 19, 1998, Cullen, J., concluded that Apo-Enalapril was a "Canadian reference product", within the meaning of s. C.08.001.1(c) of the
+Food and Drug Regulations
+, for the purposes of Nu-Pharm's abbreviated new drug submission for Nu-Enalapril. As a result, he ordered the Minister to process Nu-Pharm's abbreviated new drug submission on that basis. For the reasons previously outlined, the decision of Cullen, J., was never appealed. In the present proceeding, I will not permit Merck to mount a collateral attack on the decision of Cullen, J. My analysis must therefore begin from the premise that Nu-Pharm was entitled to use Apo-Enalapril as the Canadian reference product for Nu-Enalapril for the purposes of the
+Food and Drug Regulations
+, and that the Minister was required by an order of the court to process the abbreviated new drug submission on that basis.
+ii) legislative scheme
+[35]
+The legislative scheme governing the procedure to be followed for obtaining approval to sell a new drug in Canada is contained in two separate sets of regulations, namely the
+Food and Drug Regulations
+, enacted pursuant to the
+Food and Drugs Act
+, R.S.C. 1985, c. F-27, as amended, and the
+Patented Medicines (Notice of Compliance) Regulations
+, enacted pursuant to s. 55.2(4) of the
+Patent Act
+, as amended by S.C. 1993, c. 2, s. 4. As indicated previously, the issue raised in this proceeding turns on the construction of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+. However, in order to place that provision in its proper legislative context, the processes outlined in both the
+Food and Drug Regulations and the Patented Medicines (Notice of Compliance) Regulations
+must be briefly described.
+[36]
+Under the scheme in the
+Food and Drug Regulations
+, a drug manufacturer must satisfy the Minister of the safety and effectiveness of a new drug before selling it in Canada. In Part C, Division 8 of the
+Food and Drug Regulations
+, entitled "New Drugs", various obligations are imposed on a drug manufacturer seeking approval to sell a new drug in Canada in order to ensure that the Minister has sufficient information to assess the overriding requirements of safety and effectiveness. [see footnote 1]
+[37]
+Under s. C.08.002(1) of the
+Food and Drug Regulations
+, a person is prohibited from selling or advertising a new drug unless, among other things, the manufacturer of the new drug has filed a new drug submission or an abbreviated new drug submission that is satisfactory to the Minister, and a notice of compliance has issued in respect of it. Section C.08.002(2) specifies the information and material to be included in a new drug submission to enable the Minister to assess the safety and effectiveness of the new drug. By virtue of s. C.08.002(3), the Minister has the discretion to require the manufacturer of a new drug to provide additional information and material where he considers it necessary to assess the safety and effectiveness of the new drug.
+[38]
+Section C.08.002.1(1) specifies the requirements to be met for the filing of an abbreviated new drug submission. In particular, an abbreviated new drug submission may be filed by a manufacturer where the new drug is the pharmaceutical equivalent of and bioequivalent with the Canadian reference product, the route of administration is the same, and the conditions of use fall within the conditions of use for the Canadian reference product. Section C.08.002.1(2) and (3) follow the same general scheme as s. C.08.002 dealing with a new drug submission, and respectively provide for the filing of mandatory information and material, as well as information and material required in the Minister's discretion, in order to permit the Minister to assess the safety and effectiveness of the new drug. The terms "Canadian reference product" and "pharmaceutical equivalent", as referred to in s. C.08.002.1, are defined in s. C.08.001.1 as follows:
+"C.08.001.1 For the purposes of this Division,
+"'Canadian reference product' means
+(a) a drug in respect of which a notice of compliance is issued pursuant to s. C.08.004 and which is marketed in Canada by the innovator of the drug,
+(b) a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, where a drug in respect of which a notice of compliance has been issued pursuant to s. C.08.004 cannot be used for that purpose because it is no longer marketed in Canada, or
+(c) a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, in comparison to a drug referred to in paragraph (a); (
+produit de référence canadien
+)
+"'pharmaceutical equivalent' means a new drug that, in comparison with another drug, contains identical amounts of the identical medicinal ingredients, in comparable dosage forms, but that does not necessarily contain the same non-medicinal ingredients; ..."
+"C.08.001.1 Les définitions qui suivent s'appliquent au présent titre.
+"'équivalent pharmaceutique' S'entend d'une drogue nouvelle qui, par comparaison à une autre drogue, contient les mêmes quantités d'ingrédients médicinaux identiques, sous des formes posologiques comparables, mais pas nécessairement les mêmes ingrédients non médicinaux. (pharmaceutical equivalent)
+"'produit de référence canadien' Selon le cas :
+a) une drogue pour laquelle un avis de conformité a été délivré aux termes de l'article C.08.004 et qui est commercialisée au Canada par son innovateur;
+b) une drogue jugée acceptable par le ministre qui peut être utilisée pour la détermination de la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, lorsqu'une drogue pour laquelle un avis de conformité a été délivré aux termes de l'article C.08.004 ne peut être utilisée à cette fin parce qu'elle n'est plus commercialisée au Canada;
+c) une drogue jugée acceptable par le ministre qui peut être utilisée pour la détermination de la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, par comparaison à une drogue visée à l'alinéa a). (
+Canadian reference product
+) ..."
+[39]
+Following the filing of the requisite information by the manufacturer, s. C.08.004(1) requires the Minister to issue a notice of compliance where a new drug submission, an abbreviated new drug submission or a supplement to either submission meets the requirements of the corresponding section of the
+Food and Drug Regulations
+.
+[40]
+However, before issuing a notice of compliance under s. C.08.004(1) of the
+Food and Drug Regulations
+, the Minister must determine whether s. 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+prevents its issuance.
+[41]
+At the outset, it is important to note that s. 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+defines "notice of compliance" as follows:
+"2. In these Regulations, ...
+"'notice of compliance' means a notice issued under s. C.08.004 of the Foods and Drug Regulations; (
+avis de conformité
+) ..."
+"2. Les définitions qui suivent s'appliquent au présent règlement. ...
+"'avis de conformité' Avis délivré au titre de l'article C.08.004 du Règlement sur les aliments et drogues. (
+notice of compliance
+) ..."
+[42]
+The definition of "notice of compliance" in s. 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+therefore incorporates by reference s. C.08.004 of the
+Food and Drug Regulations
+, which requires the Minister to issue a notice of compliance in response to a new drug submission, an abbreviated new drug submission or a supplement to either submission where the manufacturer of the new drug has complied with certain prescribed circumstances.
+[43]
+In
+ <FRAGMENT_SUPPRESSED> , at 144  <FRAGMENT_SUPPRESSED> , Iacobucci, J., writing for the court, approved the following general summary of the legislative scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+:
+"The new NOC regime is lucidly summarized in the following excerpt from the judgment of Teitelbaum, J., in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at pp. 131-32:
+'A NOC, which formally authorizes a drug to be sold, is issued by the Minister after a drug manufacturer has complied on two fronts. The first element of compliance concerns the overall safety and efficacy of the drug: (see regulation C.08.004 of the Food and Drug Regulations, C.R.C. 1978, c. 870). The second element of compliance figures on the drug manufacturer's non-infringement of certain patents embodied in the drug. This second, rather more unexpected, patent-related requirement came into existence after changes to the compulsory licensing regime. Formerly, under a compulsory license, a generic drug manufacturer could obtain a licensed supply of a patented drug from the patent owner. The NOC process did not then concern itself with questions of patent infringement. However, with the abolition of compulsory licenses under the
+Patent Act Amendment Act
+, 1992, ... (the "
+Patent Act
+") the regime for obtaining NOCs also changed. Generic drug manufacturers now seeking NOCs must file what is called a Notice of Allegation under s. 5 of the
+Regulations
+.
+. . . . .
+'In effect, under s. 5(3) of the
+Regulations
+, in a "Notice of Allegation", the generic drug manufacturer, the second person, signals its compliance with the patents embodied in a medicine. Under s. 4 of the
+Regulations
+, the patent owner or licensee, usually a brand name drug manufacturer like the applicants, submits a list of the patents that contain claims for the medicine itself or the use of the medicine. Under s. 3 of the
+Regulations
+, the Minister compiles the patent lists into a public document called the "Patent Register".'"
+[44]
+In s. 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+, a "first person" is defined as "the person referred to in s. 4(1)". That provision reads as follows:
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subs. (7) in respect of the drug."
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7)."
+Section 2 defines a "second person" as "the person referred to in s. 5(1)".
+[45]
+Section 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+contains the requirements that must be met in order to trigger the application of the regulations. Section 5(1) provides as follows:
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and wishes to compare that drug with, or make reference to, another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to s. 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed."
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et souhaite en faire la comparaison, ou faire renvoi, à une autre drogue qui a été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas :
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité."
+[46]
+By virtue of s. 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+, the Minister is prohibited from issuing a notice of compliance to a second person in certain prescribed circumstances. In particular, for the purposes of the present proceeding, s. 7(1)(b) prohibits the Minister from issuing a notice of compliance until "the day on which the second person complies with s. 5". In other words, where the provisions of s. 5(1) apply, an express statutory prohibition prevents the Minister from issuing a notice of compliance until the second person (usually the generic manufacturer) has complied with the requirements of s. 5(1). Section 7(1) provides as follows:
+"7(1) The Minister shall not issue a notice of compliance to a second person before the latest of
+(a) [Repealed, SOR/98-166, s. 6]
+(b) the day on which the second person complies with s. 5,
+(c) subject to subs. (3), the expiration of any patent on the register that is not the subject of an allegation,
+(d) subject to subs. (3), the expiration of 45 days after the receipt of proof of service of a notice of any allegation pursuant to s. 5(3)(b) or (c) in respect of any patent on the register,
+(e) subject to subs. (2), (3) and (4), the expiration of 24 months after the receipt of proof of the making of any application under s. 6(1), and
+(f) the expiration of any patent that is the subject of an order pursuant to s. 6(1)."
+"7(1) Le ministre ne peut délivrer un avis de conformité à la seconde personne avant la plus tardive des dates suivantes :
+a) [Abrogé, DORS/98-166, art. 6]
+b) la date à laquelle la seconde personne se conforme à l'article 5;
+c) sous réserve du par. (3), la date d'expiration de tout brevet inscrit au registre qui ne fait pas l'objet d'une allégation;
+d) sous réserve du par. (3), la date qui suit de 45 jours la date de réception de la preuve de signification de l'avis d'allégation visé aux alinéas 5(3)b) ou c) à l'égard de tout brevet inscrit au registre;
+e) sous réserve des par. (2), (3) et (4), la date qui suit de 24 mois la date de réception de la preuve de présentation de la demande visée au par. 6(1);
+f) la date d'expiration de tout brevet faisant l'objet d'une ordonnance rendue aux termes du par. 6(1)."
+The remaining portions of s. 7 are not relevant in the present proceeding.
+iii) principles of statutory interpretation
+[47]
+In order to determine the proper construction of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, the principles of statutory interpretation outlined in the leading case
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1 must be applied. In that decision, Iacobucci, J., writing for the court, outlined the following framework for statutory interpretation, at pages 40-41  <FRAGMENT_SUPPRESSED> :
+"At the heart of this conflict is an issue of statutory interpretation. Consistent with the findings of the Court of Appeal, the plain meaning of the words of the provisions here in question appears to restrict the obligation to pay termination and severance pay to those employers who have actively terminated the employment of their employees. At first blush, bankruptcy does not fit comfortably into this interpretation. However, with respect, I believe this analysis is incomplete.
+"Although much has been written about the interpretation of legislation (see, e.g. Ruth Sullivan,
+Statutory Interpretation
+(1997); Ruth Sullivan,
+Driedger on the Construction of Statutes
+(3rd Ed. 1994) (hereinafter '
+Construction of Statutes
+'); Pierre-André Côté,
+The Interpretation of Legislation in Canada
+(2nd Ed. 1991)), Elmer Driedger in
+Construction of Statutes
+(2nd Ed. 1983) best encapsulates the approach upon which I prefer to rely. He recognizes that statutory interpretation cannot be founded on the wording of the legislation alone. At p. 87 he states:
+'Today there is only one principle or approach, namely, the words of an
+Act
+are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the
+Act
+, the object of the
+Act
+, and the intention of Parliament.'
+"Recent cases which have cited the above passage with approval include:
+ <FRAGMENT_SUPPRESSED> .
+"I also rely upon s. 10 of the
+Interpretation Act
+, R.S.O. 1980, c. 219, which provides that every
+Act
+'shall be deemed to be remedial' and directs that every
+Act
+shall 'receive such fair, large and liberal construction and interpretation as will best ensure the attainment of the object of the
+Act
+according to its true intent, meaning and spirit'.
+"Although the Court of Appeal looked to the plain meaning of the specific provisions in question in the present case, with respect, I believe that the court did not pay sufficient attention to the scheme of the ESA, its object or the intention of the legislature; nor was the context of the words in issue appropriately recognized. I now turn to a discussion of these issues."
+[48]
+The purposive approach to statutory interpretation adopted in
+Rizzo & Rizzo Shoes Ltd. (Re)
+, supra, has been applied by the Supreme Court of Canada in many cases. (See, for example,
+ <FRAGMENT_SUPPRESSED>  Man.R.(2d) 19; 193 W.A.C. 19, at 252 [ <FRAGMENT_SUPPRESSED>  B.C.A.C. 161; 198 W.A.C. 161, at 704 [ <FRAGMENT_SUPPRESSED>  B.C.A.C. 161; 200 W.A.C. 161; 45 C.C.L.T.(2d) 1, at 839  <FRAGMENT_SUPPRESSED> ;
+M & D  <FRAGMENT_SUPPRESSED>  Man.R.(2d) 161; 202 W.A.C. 161; 176 D.L.R.(4th) 585 (S.C.C.), at pp. 597-598 [ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 193 (S.C.C.), at 230 [ <FRAGMENT_SUPPRESSED>  O.A.C. 1; 174 D.L.R.(4th) 235 (S.C.C.), at 291 [ <FRAGMENT_SUPPRESSED>  B.C.A.C. 161; 208 W.A.C. 161; 177 D.L.R.(4th) 94 (S.C.C.), at 112-113  <FRAGMENT_SUPPRESSED>  (S.C.C.); and,
+ <FRAGMENT_SUPPRESSED>  O.A.C. 201; 177 D.L.R.(4th) 1 (S.C.C.), at 14  <FRAGMENT_SUPPRESSED>  (S.C.C.)).
+[49]
+In applying the principles enunciated in
+Rizzo & Rizzo Shoes Ltd. (Re)
+, supra, in several of its recent cases, the Supreme Court of Canada has provided further guidance concerning the proper approach to statutory interpretation. With respect to the evidence to be considered in determining the purpose of an enactment, Cory and Iacobucci JJ., writing for the court in
+ <FRAGMENT_SUPPRESSED>  the
+Criminal Code
+, noted, at page 704  <FRAGMENT_SUPPRESSED> , that "[t]he purpose of the statute and the intention of Parliament, in particular, are to be determined on the basis of intrinsic and admissible extrinsic sources regarding the
+Act
+'s legislative history and the context of its enactment ...".  <FRAGMENT_SUPPRESSED>  J., writing for the court, noted, at page 14  <FRAGMENT_SUPPRESSED> , that "[p]roper statutory interpretation principles ... require that all evidence of legislative intent must be considered, provided that it is relevant and reliable". Finally, in relation to the overall approach to be taken, Cory and Iacobucci, JJ., emphasized in
+ <FRAGMENT_SUPPRESSED>  I-21, in interpreting federal legislation. Section 12 of the
+Interpretation Act
+provides as follows:
+"12. Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects."
+"12. Tout texte est censé apporter une solution de droit et s'interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet."
+[50]
+In determining the proper construction of s. 5(1), I must therefore apply the interpretative principles in the case
+Rizzo & Rizzo Shoes Ltd. (Re)
+, supra and identify the interpretation of s. 5(1) that best furthers the goals of the
+Patented Medicines (Notice of Compliance) Regulations
+. (See the approach taken in
+ <FRAGMENT_SUPPRESSED>  the
+Patented Medicines (Notice of Compliance) Regulations
+were enacted in 1993, pursuant to s. 55.2(4) of the
+Patent Act
+, following the enactment of the
+Patent Law Amendment
+Act
+, S.C. 1993, c. 2 and the abolition of the compulsory licencing system for drug patents. In order to determine the intention of Parliament in enacting those regulations, it is useful to examine the Regulatory Impact Analysis Statement, prepared as part of the regulatory process. As I indicated in
+ <FRAGMENT_SUPPRESSED>  (T.D.), at paragraph 18, a Regulatory Impact Analysis Statement, which accompanies but does not form part of the regulations, reveals the intention of the government and contains "... information as to the purpose and effect of the proposed regulation". (See also
+ <FRAGMENT_SUPPRESSED>  (T.D.), at 140 [ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 293 (F.C.A.), at 296-297  <FRAGMENT_SUPPRESSED>  (F.C.A.)). A review of the Regulatory Impact Analysis Statement, in its entirety, confirms that, following the abolition of the compulsory licencing system, the government enacted the
+Patented Medicines (Notice of Compliance) Regulations
+in order to protect the rights of patentees by preventing generic manufacturers from marketing their drugs until the expiry of all relevant patents. In that regard, the Regulatory Impact Analysis Statement, SOR/93-133,
+Canada Gazette Part II
+, vol. 127, No. 6 states as follows, at page 1388:
+"... As a general rule, judicial remedies are sufficient to address patent infringement. However, with the enactment of Bill C-91 the government has created an exception to patent infringement allowing generic competitors to undertake any activities necessary to work up a submission to obtain regulatory approval of a product. This removes a patent right that may have otherwise been available to patentees to prevent generic competitors from obtaining such regulatory approval of their products.
+"These Regulations are needed to ensure this new exception to patent infringement is not abused by generic drug applicants seeking to sell their product in Canada during the term of their competitor's patent while nonetheless allowing generic competitors to undertake the regulatory approval work necessary to ensure they are in a position to market their products immediately after the expiry of any relevant patents."
+[52]
+In enacting the
+Patented Medicines (Notice of Compliance) Regulations
+, the government therefore chose to accord primacy to the protection of patent rights, but nevertheless permitted generic manufacturers to access the regulatory approval system in order to enable their generic products to be sold immediately following the expiry of the relevant patents. In short, the government designed the
+Patented Medicines (Notice of Compliance) Regulations
+"... to ensure compliance with the
+Patent Act
+". (See
+Regulatory Impact Analysis Statement
+, supra, at page 1389).
+[53]
+Given the express legislative intention underlying the enactment of the
+Patented Medicines (Notice of Compliance) Regulations
+, it is not surprising that this court has consistently and repeatedly affirmed that the basic purpose of the regulations is to prevent patent infringement. (See, for example,
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 11  <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 417 (F.C.A.), at 424 [ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 (F.C.A.), at 314  <FRAGMENT_SUPPRESSED>  (F.C.A.);
+Bayer AG and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 329 (F.C.A.), at pp. 331-332 (F.C.A.)).
+[54]
+Having determined the purpose of the legislative scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+, it is important to consider the relationship between those regulations and the
+Food and Drug Regulations
+. The question of the interaction between the two sets of regulations has been the subject of some judicial comment.  <FRAGMENT_SUPPRESSED>  (F.C.A.), Hugessen, J.A. (as he then was), writing for the court, noted, at page 304  <FRAGMENT_SUPPRESSED> , that the task of interpreting the
+Patented Medicines (Notice of Compliance) Regulations
+was a difficult one "... due to the fact that those regulations, whose clear intention is to facilitate the protection of private commercial patent rights, have been grafted onto a regulatory scheme, the
+Food and Drug Regulations
+... whose sole purpose is the protection of public health and safety. The union is not a happy one". In the recent decision
+ <FRAGMENT_SUPPRESSED>  writing for the court, characterized the scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+, at paragraph 5, as a "... judicial process ... separate and distinct from the long-standing administrative process imposed by the
+Food and Drugs Regulations
+...". He also described them as "parallel processes", noting that "[m]atching them is achieved only through their results: the Minister cannot issue a [notice of compliance] without regard to the findings established by the two processes".
+[55]
+Although the processes in the two sets of regulations are separate and parallel, they are nevertheless expressly linked by the definition of "notice of compliance" in s. 2 of the
+Patented Medicines (Notice of Compliance) Regulations
+. Given that express link and the fact that the requirements of the two sets of regulations must be satisfied prior to the issuance of a notice of compliance, the scheme and the terminology used in the
+Food and Drug Regulations
+must also be considered in order to have a complete contextual framework for the interpretation of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+.
+[56]
+I must now determine the interpretation of s. 5(1) that best furthers the goals of the
+Patented Medicines (Notice of Compliance) Regulations
+.
+[57]
+In his submissions, counsel for the Minister advanced the proposition that "... keeping in mind the scheme of the
+Food and Drug Regulations
+, the plain meaning of the words in s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+is that for those regulations to be engaged, a comparison or reference must have been made by the applicant in its abbreviated new drug submission to a drug in respect of which a patent list has been submitted". Furthermore, in order for the
+Patented Medicines (Notice of Compliance) Regulations
+to apply, Nu-Pharm must be a "second person", within the meaning of s. 2 and s. 5(1). In the opinion of the Minister, the determination of Nu-Pharm's status as a second person depends "... solely on whether, in filing its submission for a notice of compliance for Nu-Enalapril, Nu-Pharm wished to compare that drug with, or make reference to, the applicants' drug VASOTEC". Given the "clear and uncontradicted evidence" that "... in filing its submission for a notice of compliance for Nu-Enalapril, Nu-Pharm did not compare, and did not wish to compare that drug with, or make reference to, the applicants' drug VASOTEC", the Minister submitted that Nu-Pharm was not a "second person" and that the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+did not apply. The submissions of counsel for the Minister concerning the interpretation to be accorded to s. 5(1) were generally adopted by counsel for Nu-Pharm.
+[58]
+An examination of the submissions of counsel for the Minister reveals that he has advanced a "plain meaning" or literal interpretation of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, without making any reference to its significant and fundamental purpose in the legislative scheme. Section 5(1) is the legislative provision that triggers the application of the patent protection mechanism in the
+Patented Medicines (Notice of Compliance) Regulations
+. As such, it plays a pivotal or central role in the legislative scheme. It is therefore critical that s. 5(1) be interpreted purposively and in a large and liberal fashion in order to ensure the attainment of the object of the
+Patented Medicines (Notice of Compliance) Regulations
+, namely the protection of patent rights. As Iacobucci, J., indicated in
+Rizzo & Rizzo Shoes Ltd. (Re)
+, supra, at page 41  <FRAGMENT_SUPPRESSED>  of the decision, the purposive approach requires that the grammatical and ordinary meaning of the words used in the provision must be considered "... 'harmoniously with the scheme of the
+Act
+, the object of the
+Act
+and the intention of Parliament'". As a result, the interpretation of s. 5(1) advanced by counsel for the Minister was not based on a complete analysis.
+[59]
+In interpreting s. 5(1), the first phrase to be considered is "[w]here a person files ... a submission for a notice of compliance in respect of a drug ...".  <FRAGMENT_SUPPRESSED>  expression "submission for a notice of compliance", as used in ss. 4 and 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+, means a new drug submission, an abbreviated new drug submission and a supplement to either of those submissions. That interpretation was supported by the terminology used in both the
+Patented Medicines (Notice of Compliance) Regulations
+and the
+Food and Drug Regulations
+. In the context of the facts of the present case, the expression "submission for a notice of compliance" in s. 5(1) may therefore be replaced by the words "abbreviated new drug submission", as that was the type of submission filed by Nu-Pharm to obtain a notice of compliance for Nu-Enalapril.
+[60]
+The second phrase to be interpreted in s. 5(1) is where the person filing the submission for a notice of compliance "... wishes to compare that drug with, or make a reference to, another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted ...". In order to construe that phrase, assistance may be obtained by examining the context in which the notion of a "comparison" of a new drug with another drug is used in the
+Food and Drug Regulations
+.
+[61]
+The term "comparison" with a drug is found in the
+Food and Drug Regulations
+in s. C.08.002.1 concerning the filing of an abbreviated new drug submission and in the s. C.08.001.1(c) definition of a Canadian reference product, to be used in connection with an abbreviated drug submission. By virtue of s. C.08.002.1, a manufacturer is permitted to file an abbreviated new drug submission where, among other things, "in comparison with a Canadian reference product" the new drug is the pharmaceutical equivalent of and bioequivalent with the Canadian reference product. As indicated in its definition, the term "Canadian reference product" includes, in s. C.08.001.1(c), "a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence ... in comparison to a drug referred to in paragraph (a)", namely a drug marketed in Canada by the innovator under a notice of compliance. Section C.08.001.1(c) of the
+Food and Drug Regulations
+therefore contemplates that a drug, other than the innovator's drug, may be used as a Canadian reference product where it is acceptable to the Minister. However, in order for such a drug to constitute a Canadian reference product, s. C.08.001.1(c) clearly and unequivocally stipulates that it can only be used for the purpose of demonstrating bioequivalence "in comparison to a drug referred to in paragraph (a)", namely the innovator's drug. In other words, as long as the innovator's drug is still marketed in Canada, a Canadian reference product may only be either the innovator's drug or another drug, acceptable to the Minister, that can be used to demonstrate bioequivalence in comparison to the innovator's drug.
+[62]
+The scheme in the
+Food and Drug Regulations
+concerning an abbreviated new drug submission therefore clearly establishes that the new drug must be compared with the innovator's drug either directly or indirectly through another drug acceptable to the Minister. Such a procedure was undoubtedly enacted in order to ensure that the requirements of safety and effectiveness were maintained.
+[63]
+In circumstances where the "submission for a notice of compliance" is an abbreviated new drug submission, a literal reading of s. 5(1) would lead to the conclusion that the drug named in that submission must be the innovator's drug in order to trigger the application of the
+Patented Medicines (Notice of Compliance) Regulations
+. That interpretation is reinforced by the wording indicating that s. 5(1) applies where the person filing the submission for a notice of compliance "wishes" to compare the new drug with or make reference to the innovator's drug. Indeed, as mentioned previously, counsel for the Minister took the position that Nu-Pharm was not a "second person", for the purposes of the
+Patented Medicines (Notice of Compliance) Regulations
+, on the basis that Nu-Pharm's abbreviated new drug submission contained "no reference or comparison" to the innovator's drug VASOTEC, and that Nu-Pharm did not "wish" to compare its new drug with or to make reference to that drug. In my opinion, that submission is seriously flawed.
+[64]
+In circumstances where an abbreviated new drug submission names another drug, and not the innovator's drug, as the Canadian reference product, the person filing that submission cannot avoid the application of the patent protection scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+by simply stating, as in the present case, "I do not wish to compare my new drug to the innovator's drug". As is clear from a review of the
+Food and Drug Regulations
+, the innovator's drug remains the benchmark or the standard of comparison, at least indirectly, for the assessment of bioequivalence, even where another drug is accepted by the Minister as a Canadian reference product. The subjective intention of the person filing a submission cannot be determinative of a matter as significant as the application of a regulatory scheme designed to protect patent interests, particularly having regard to the highly competitive nature of the industry. Given the context of the overall legislative scheme, the term "wishes", as it appears in s. 5(1), must therefore be subjected to an objective standard. Furthermore, even where there is no direct reference in an abbreviated new drug submission to the innovator's drug, in that another drug has been accepted by the Minister for use as a Canadian reference product, the innovator's drug is nevertheless, at least indirectly, the standard underlying the comparison for the purposes of determining the safety and effectiveness of the new drug. Accordingly, any person who wishes to market a new drug, that has been compared either directly or indirectly to the innovator's drug in a submission for a notice of compliance, falls within the meaning of s. 5(1) and must comply with the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+. Any other interpretation of s. 5(1) would not further the goal of patent protection underlying the
+Patented Medicines (Notice of Compliance) Regulations
+.
+[65]
+My interpretation in this matter is also consistent with the overall approach taken to the proper construction of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 74 (F.C.A.). In that case, Nu-Pharm's new drug submissions were cross-referenced to and relied explicitly on the information and materials submitted to the Minister by another generic drug manufacturer. That generic drug manufacturer had previously filed an abbreviated new drug submission incorporating the testing conducted by the patentee. The Minister determined that s. 5(1) applied and that Nu-Pharm was required to comply with the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+before the issuance of a notice of compliance. McDonald, J.A., writing for the court, concluded that s. 5(1) applied, stating as follows, at pages 78-79  <FRAGMENT_SUPPRESSED> :
+"In spite of Mr. Radomski's persuasive arguments to the effect that Nu-Pharm had chosen to compare its product with that of the Generic and the patentee, we are all of the view that the Motions judge was correct in deciding that Nu-Pharm must comply with the requirements of s. 5 of the
+Patent Regulations
+before the Minister will issue a Notice of Compliance. To allow Nu-Pharm to circumvent the requirements of the Regulations on the ground that it cross-referenced its New Drug Submissions to another Generic Drug Company (Generic 1) who had filed an abbreviated New Drug Submission relying on studies of the patentee (the first person) who submitted a patent list would thwart the purpose of the
+Patent Act
+, R.S.C. 1985, c. P-4. The purpose of the
+Patented Medicine Regulations
+was to protect the research and development initiatives of innovator pharmaceutical companies.  <FRAGMENT_SUPPRESSED>  (F.C.T.D.). Section 5 requires that where a submission for a notice of compliance is filed which compares or makes reference to a drug that has been marketed and a patent list submitted one must:
+'(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+'(b) allege that
+(i) the statement made by the first person pursuant to s. 4(2)(b) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.'
+"Subsection 5(1), therefore, puts the patentee on notice that a generic is marketing the same or similar drug. It allows the patentee to protect its legal, economic and proprietary interests by ensuring that they are not affected until after the Notice of Compliance has expired or, if they are, that they have received notice. Indeed, subs. (3) sets out:
+'5(3) Where a person makes an allegation pursuant to s. 1(b) or subs. (2) the person shall:
+(a) provide a detailed statement of the legal and factual basis for the allegation; and
+(b) serve a notice of the allegation on the first person and proof of such service on the Minister.'
+"These subsections, therefore, ensure that a person who seeks a Notice of Compliance for a drug must file an allegation and a detailed statement of its factual and legal basis, and must serve a Notice of Allegation if that person wishes to compare that drug with, or make a reference to, a drug in respect of which a patent list has been submitted. Nu-Pharm can not piggy-back its claim on the Generic Drug Company who relies on the tests of the patentee and then state it need not comply with the
+Act
+because the Generic Company did not issue a patent list. The fact remains that although it is one step removed, Nu-Pharm is relying on the tests and other work done by the patentees, whom the Generic Company relied on. While Nu-Pharm claims to be comparing its drug to Generic 1's, it, nonetheless, is, in essence, comparing it to that of the original patentee, because Generic 1 compared its drug to that of the patentee. It is a question of interpretation which requires the court to construe the words in context so as to be consistent with the purpose of the
+Act
+. Thus, in our view, Nu-Pharm cannot circumvent the
+Regulations
+by cross-referencing its drug submission to a generic, which filed an Abbreviated Drug Submission.
+"As for the argument that the
+Merck Frosst
+case applies to this case on the ground that because Nu-Pharm chose only to compare its product to the Generic, the Generic is the first person and since the Generic did not file a patent list, Nu-Pharm need not comply with s. 5, we are all in agreement that this argument must fail. The facts in <FRAGMENT_SUPPRESSED> were quite unusual in that Merck had entered into an agreement with Zeneca to license the drug and, therefore, they both became first persons. Also, in that case, the Motions judge was not dealing with cross-referenced or abbreviated submissions. Further, in this case, Generic 1 does not constitute a first person within the meaning of s. 4(1)."
+[66]
+In my opinion, my purposive interpretation of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+is consistent with the decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), referred to in the decision
+ <FRAGMENT_SUPPRESSED>  in the present proceeding, the new drug Nu-Enalapril was compared with the Canadian reference product Apo-Enalapril for the purposes of the
+Food and Drug Regulations
+. The new drug Nu-Enalapril was found to be bioequivalent with the Canadian reference product Apo-Enalapril. By virtue of s. C.08.001.1(c) of the
+Food and Drug Regulations
+, Apo-Enalapril was a drug, acceptable to the Minister, that could be used for the purpose of demonstrating bioequivalence in comparison to the innovator Merck's drug VASOTEC. In the circumstances, it would be completely inconsistent with the purpose of the legislative scheme to permit Nu-Pharm to circumvent the application of the
+Patented Medicines (Notice of Compliance) Regulations
+on the basis that it did not "wish" to compare Nu-Enalapril to VASOTEC, or on the basis that there was no direct comparison of Nu-Enalapril with VASOTEC in the abbreviated new drug submission. Accordingly, where a person files an abbreviated new drug submission in which the Canadian reference product is a drug acceptable to the Minister under s. C.08.001.1(c), the innovator's drug constitutes the drug to which a comparison must be made for the purposes of s. 5(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+. That interpretation best furthers the goals of the regulatory scheme.
+v) standard of review
+[68]
+Counsel for Merck and counsel for the Minister agreed that the standard of review to be applied in determining whether the Minister erred in issuing the notice of compliance to Nu-Pharm without invoking the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+is correctness. However, counsel for Nu-Pharm submitted that the court ought not to interfere with the ministerial decision unless it is "patently unreasonable", in that the Minister is a "specialized tribunal" acting within his area of expertise and experience. I agree with counsel for Merck and counsel for the Minister that the standard of review to be applied in the present proceeding is one of correctness. The question of whether the prohibitions in s. 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+applied in the present case was either a pure question of law or a question of mixed fact and law in relation to which the Minister should be entitled to little, if any, deference. In the circumstances, correctness is the proper standard of review. ( <FRAGMENT_SUPPRESSED> , at 1010-1012  <FRAGMENT_SUPPRESSED> ).
+Decision
+[69]
+For the reasons indicated, the Minister was prohibited by s. 7 of the
+Patented Medicines (Notice of Compliance) Regulations
+from issuing a notice of compliance to Nu-Pharm until such time as Nu-Pharm complied with s. 5. In the circumstances, the Minister erred in law by issuing a notice of compliance to Nu-Pharm for Nu-Enalapril.
+[70]
+The application for review is allowed. The question of costs shall be dealt with in either a teleconference or a hearing to be conducted at the earliest available opportunity. In his letter dated September 23, 1999, counsel for Nu-Pharm advised the court that, depending on the outcome of the proceeding, he would request the opportunity to address the question of a stay of my order. Any motion for a stay of my order must be made in compliance with the
+Federal Court Rules
+, 1998, particularly rule 398.
+Footnotes
+1. The meaning of "new drug" is determined by reference to the definition of the term "new drug" in s. C.08.001 of the
+Food and Drug Regulations
+and the definition of the term "drug" in s. 2 of the
+Food and Drugs Act
+. For the purposes of the present proceeding, it is unnecessary to refer to those provisions.
+Application allowed.
+Editor: Giovanni A. Merlini/kaw
+[End of document]

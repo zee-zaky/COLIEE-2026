@@ -1,0 +1,514 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: On the 15th of April, 2004, Novozymes A/S ("Novozymes") requested re-examination of Canadian Patent No. 2,093,422 (the "Genencor Patent") pursuant to subsection 48.1(1) of the
+Patent
+Act
+[see footnote 1], (the "
+Act
+") [see footnote 2]. The re-examination process described in sections 48.1 to 48.4 of the
+Act
+followed. All claims of the Genencor Patent were cancelled with the result that the Genencor Patent was deemed never to have been issued [see footnote 3]. An appeal to this Court by the patentee followed pursuant to section 48.5 of the
+Act
+. The appeal was heard at Montreal on the 6th of February, 2008. The Commissioner of Patents filed only the affidavit of Murray Wilson [see footnote 4], interim Chairperson of the Patent Appeal Board, on the appeal and took no part in the hearing. At the request of the Court, counsel for Genencor International, Inc. ( <FRAGMENT_SUPPRESSED> ) and the Attorney General of Canada (the "Attorney General") filed further written submissions on the 6th of March, 2008, on the issue of standard of review.
+[2]
+These are the reasons of the Court for its decision to dismiss the appeal.
+THE BACKGROUND
+1)
+The legal framework
+[3]
+Sections 48.1 to 48.5 of the
+Act
+read as follows:
+"48.1(1) Any person may request a re-examination of any claim of a patent by filing with the Commissioner prior art, consisting of patents, applications for patents open to public inspection and printed publications, and by paying a prescribed fee.
+"48.1(2) A request for re-examination under subsection (1) shall set forth the pertinency of the prior art and the manner of applying the prior art to the claim for which re-examination is requested.
+"48.1(3) Forthwith after receipt of a request for re-examination under subsection (1), the Commissioner shall send a copy of the request to the patentee of the patent in respect of which the request is made, unless the patentee is the person who made the request.
+"48.2(1) Forthwith after receipt of a request for re-examination under subsection 48.1(1), the Commissioner shall establish a re-examination board consisting of not fewer than three persons, at least two of whom shall be employees of the Patent Office, to which the request shall be referred for determination.
+"48.2(2) A re-examination board shall, within three months following its establishment, determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request for re-examination.
+"48.2(3) Where a re-examination board has determined that a request for re-examination does not raise a substantial new question affecting the patentability of a claim of the patent concerned, the board shall so notify the person who filed the request and the decision of the board is final for all purposes and is not subject to appeal or to review by any court.
+"48.2(4) Where a re-examination board has determined that a request for re-examination raises a substantial new question affecting the patentability of a claim of the patent concerned, the board shall notify the patentee of the determination and the reasons therefor.
+"48.2(5) A patentee who receives notice under subsection (4) may, within three months of the date of the notice, submit to the re-examination board a reply to the notice setting out submissions on the question of the patentability of the claim of the patent in respect of which the notice was given.
+"48.3(1) On receipt of a reply under subsection 48.2(5) or in the absence of any reply within three months after notice is given under subsection 48.2(4), a re-examination board shall forthwith cause a re-examination to be made of the claim of the patent in respect of which the request for re-examination was submitted.
+"48.3(2) In any re-examination proceeding under subsection (1), the patentee may propose any amendment to the patent or any new claims in relation thereto but no proposed amendment or new claim enlarging the scope of a claim of the patent shall be permitted.
+"48.3(3) A re-examination proceeding in respect of a claim of a patent shall be completed within twelve months of the commencement of the proceedings under subsection (1).
+"48.4(1) On conclusion of a re-examination proceeding in respect of a claim of a patent, the re-examination board shall issue a certificate
+(a) cancelling any claim of the patent determined to be unpatentable;
+(b) confirming any claim of the patent determined to be patentable; or
+(c) incorporating in the patent any proposed amended or new claim determined to be patentable.
+"48.4(2) A certificate issued in respect of a patent under subsection (1) shall be attached to the patent and made part thereof by reference, and a copy of the certificate shall be sent by registered mail to the patentee.
+"48.4(3) For the purposes of this Act, where a certificate issued in respect of a patent under subsection (1)
+(a) cancels any claim but not all claims of the patent, the patent shall be deemed to have been issued, from the date of grant, in the corrected form;
+(b) cancels all claims of the patent, the patent shall be deemed never to have been issued; or
+(c) amends any claim of the patent or incorporates a new claim in the patent, the amended claim or new claim shall be effective, from the date of the certificate, for the unexpired term of the patent.
+"48.4(4) Subsection (3) does not apply until the time for taking an appeal has expired under subsection 48.5(2) and, if an appeal is taken, subsection (3) applies only to the extent provided in the final judgment on the appeal.
+"48.5(1) Any decision of a re-examination board set out in a certificate issued under subsection 48.4(1) is subject to appeal by the patentee to the Federal Court.
+"48.5(2) No appeal may be taken under subsection (1) after three months from the date a copy of the certificate is sent by registered mail to the patentee."
+"48.1(1) Chacun peut demander le réexamen de toute revendication d'un brevet sur dépôt, auprès du commissaire, d'un dossier d'antériorité constitué de brevets, de demandes de brevet accessibles au public et d'imprimés et sur paiement des taxes réglementaires.
+"48.1(2) La demande énonce la pertinence du dossier et sa correspondance avec les revendications du brevet.
+"48.1(3) Sur réception de la demande, le commissaire en expédie un double au titulaire du brevet attaqué, sauf si celui-ci est également le demandeur.
+"48.2(1) Sur dépôt de la demande, le commissaire constitue un conseil de réexamen formé d'au moins trois conseillers, dont deux au moins sont rattachés au Bureau des brevets, qui se saisissent de la demande.
+"48.2(2) Dans les trois mois suivant sa constitution, le conseil décide si la demande soulève un nouveau point de fond vis-à-vis de la brevetabilité des revendications du brevet en cause.
+"48.2(3) Le conseil avise le demandeur de toute décision négative, celle-ci étant finale et ne pouvant faire l'objet d'un appel ou d'une révision judiciaire.
+"48.2(4) En cas de décision positive, le conseil expédie un avis motivé de la décision au titulaire du brevet.
+"48.2(5) Dans les trois mois suivant la date de l'avis, le titulaire en cause peut expédier au conseil une réponse exposant ses observations sur la brevetabilité des revendications du brevet visé par l'avis.
+"48.3(1) Sur réception de la réponse ou au plus tard trois mois après l'avis mentionné au paragraphe 48.2(4), le conseil se saisit du réexamen des revendications du brevet en cause.
+"48.3(2) Le titulaire peut proposer des modifications au brevet ou toute nouvelle revendication à cet égard qui n'ont pas pour effet d'élargir la portée des revendications du brevet original.
+"48.3(3) Le réexamen doit être terminé dans les douze mois suivant le début de la procédure.
+"48.4(1) À l'issue du réexamen, le conseil délivre un constat portant rejet ou confirmation des revendications du brevet attaqué ou, le cas échéant, versant au brevet toute modification ou nouvelle revendication jugée brevetable.
+"48.4(2) Le constat est annexé au brevet, dont il fait partie intégrante. Un double en est expédié, par courrier recommandé, au titulaire du brevet.
+"48.4(3) Pour l'application de la présente loi, lorsqu'un constat:
+a) rejette une revendication du brevet sans en rejeter la totalité, celui-ci est réputé, à compter de la date de sa délivrance, délivré en la forme modifiée;
+b) rejette la totalité de ces revendications, le brevet est réputé n'avoir jamais été délivré;
+c) modifie une telle revendication ou en inclut une nouvelle, l'une ou l'autre prend effet à compter de la date du constat jusqu'à l'expiration de la durée du brevet.
+"48.4(4) Le paragraphe (3) ne s'applique qu'à compter de l'expiration du délai visé au paragraphe 48.5(2). S'il y a appel, il ne s'applique que dans la mesure prévue par le jugement définitif rendu en l'espèce.
+"48.5(1) Le titulaire du brevet peut saisir la Cour fédérale d'un appel portant sur le constat de décision visé au paragraphe 48.4(1).
+"48.5(2) Il ne peut être formé d'appel plus de trois mois après l'expédition du double du constat au titulaire du brevet."
+[4]
+Sections 48.1 to 48.5 were added to the
+Act
+in 1987 [see footnote 5]. A cursory review of the Parliamentary history indicates that no particular reference was made in Parliament or in Parliamentary Committee to these provisions. That being said, the purpose of the provisions would appear to be to provide a relatively summary and inexpensive alternative to a full-blown impeachment process by litigation or an opportunity for a patentee to have the Patent Office reconsider the claims of an issued patent.
+[5]
+This would appear to be the first appeal to be considered by this Court from the re-examination process.
+2) The patent at issue
+[6]
+The following description is extracted with little modification from Genencor's amended memorandum of fact and law, paragraphs 13 to 23, which paragraphs are uncontradicted before the Court.
+[7]
+The Genencor Patent is directed to a detergent composition comprising a fungal cellulase which imparts improvements in softening, colour retention/restoration, feel and strength loss to cotton-containing fabrics washed in a wash medium containing such a composition. Cellulases are known in the art to be useful in detergent compositions for the purposes of enhancing the cleaning ability of the composition, for use as a softening agent and for improving the feel of cotton fabrics.
+[8]
+Cellulases are enzymes that break down or hydrolyze cellulose, which is a long chain polymer, into smaller units. These smaller units include glucose, cellobiose and cello-oligosaccharides and the like.
+[9]
+Cellulases are produced in fungi and bacteria. Those produced in fungi have been extensively used because certain fungi produce a complete cellulase system capable of degrading crystalline forms of cellulose and because they can be produced in large quantities.
+[10]
+The softening and colour restoration properties of cellulase have been attributed to the endoglucanase components in cellulase compositions but the exact mechanism of action of the cellulase is not fully understood.
+[11]
+While the benefits associated with the use of cellulase in detergent components are known, there also exists an important drawback. The main disadvantage is that cellulase degrades cotton-containing fabrics resulting in a loss of strength of the fabrics. This has led to a reluctance to use cellulase compositions in commercial detergent applications.
+[12]
+Genencor alleges that it has found that fungal cellulase compositions containing endoglucanases can be used in detergent compositions and if the cellulase compositions contain less than about 5 weight percent of CBH I type components, the detergent compositions will impart less strength loss to the fabrics.
+[13]
+As disclosed in the Genencor Patent, the amount of cellulase, and not the relative rate of hydrolysis of the specific enzymatic components to produce reducing sugars from cellulose impart the desired detergent properties to the cotton-containing fabrics, namely colour restoration, improved softening and improved cleaning to detergent compositions. As such, the claims of the Genencor Patent specify that the detergent composition comprises from about 0.01 to about 5 weight percent of a fungal cellulase composition based on the weight of the detergent composition. The cellulase composition itself comprises one or more EG type components and less than about 5 weight percent of CBH I type components based on the weight of protein in the cellulase composition.
+[14]
+The Genencor Patent, comprising twenty-one (21) claims, has detergent composition claims (claims 1 to 7), method for enhancing the softness of a cotton-containing fabric claims (claims 8 to 14) and method for retaining/restoring the colour of a cotton-containing fabric claims (claims 15 to 21). There is one independent claim for each of these three (3) different sets of claims.
+3) Novozymes' request for re-examination
+[15]
+As previously indicated in these reasons, a firm of patent and trademark agents filed on behalf of Novozymes a request for re-examination of the Genencor Patent, dated the 15th of April, 2004. In the request, Novozymes relied on eight (8) items of prior art of which the first was Canadian Patent Application Number 2,082,279 to Rasmussen et al., filed the 8th of May, 1991 (the "Rasmussen application"). In summary, and in light of the prior part submitted, Novozymes submitted that:
+"1. The subject matter of claims 1-21 of the  <FRAGMENT_SUPPRESSED>  patent was disclosed by Rasmussen in the Rasmussen application which was filed in Canada before the Genencor patent's claim date contrary to paragraph 28.2(1)(c) of the
+Patent Act
+.
+"2. Claims 1 to 21 of the Genencor patent are obvious in view of Rasmussen.
+"3. Claims 1 to 21 of the Genencor patent are anticipated in view of another reference.
+"4. Claims 1 to 21 of the Genencor patent are obvious in view of a combination of two other references.
+"5. Claims 1 to 21 of the Genencor patent are obvious in view of a combination of four other references.
+"6. Claims 1 to 21 of the Genencor patent are obvious in view of a combination of five references including the Rasmussen application.
+"7. Claims 3 to 7, 10 to 14 and 17 to 21 of the Genencor patent are anticipated and/or obvious in view of one other reference."
+[16]
+The Novozymes' submission concludes:
+"In view of the above submissions, a substantial new question of patentability affecting each of claims 1 to 21 in the [Genencor patent] has been raised, and it is submitted that all of the claims are unpatentable and should be cancelled."
+4) The parties
+[17]
+Genencor International Inc. is the patentee of the patent at issue and the Appellant to this Court. The Commissioner of Patents is, through the re-examination board (the "Board"), the source of the decision under appeal.
+[18]
+Notably, Novozymes, the initiator of the request for re-examination, is not a party. That issue, that is to say, the appropriateness of Novozymes being a party to this appeal, was settled by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  Courts Rules
+[see footnote 7] which reads as follows:
+"338.(1) Unless the Court orders otherwise, an appellant shall include as a respondent in an appeal
+(a) every party in the first instance who is adverse in interest to the appellant in the appeal;
+(b) any other person required to be named as a party by an Act of Parliament pursuant to which the appeal is brought; and
+(c) where there are no persons that are included under paragraph (a) or (b), the Attorney General of Canada."
+"338.(1) Sauf ordonnance contraire de la Cour, l'appelant désigne les personnes suivantes à titre d'intimés dans l'appel:
+a) toute personne qui était une partie dans la première instance et qui a dans l'appel des intérêts opposés aux siens;
+b) toute autre personne qui doit être désignée à titre de partie aux termes de la loi fédérale qui autorise l'appel;
+c) si les alinéas a) et b) ne s'appliquent pas, le Procureur général du Canada."
+The Court concluded that Novozymes was not a "party in the first instance" within the meaning of Rule 338(1)(a). It wrote at paragraphs 7 to 9 of its reasons:
+"Re-examination pursuant to sections 48.1 to 48.5 of the
+Act
+is a two-step process. Both stages do not involve the same parties. The first stage involves the filing of a request by a requestor ..., the establishment of a re-examination board by the Commissioner in response to this request ... and the preliminary decision by the re-examination board as to whether the request raises a substantial new question of patentability ... .
+"The second stage follows the re-examination board's determination that a substantial new question of patentability is raised ... . The requestor is not a party to this second phase of the process. Only the re-examination board and the patentee are parties to that phase. Only the patentee is given notice of such determination ... and is entitled to make submissions ..., to propose amendments to the patent ... and to receive a copy of the certificate ... . Only the patentee is given a right of appeal ... .
+"Although Novozymes, as the requestor, triggered the re-examination process, it did not and could not participate in the second stage of the re-examination process." (references to provisions of sections 48.1 to 48.5 of the
+Act
+omitted)
+In light of the above, and particularly given the determination by the Commissioner of Patents not to take an active part in the appeal, pursuant to Rule 338(1)(c), the Attorney General of Canada was added as a Respondent. While the Attorney General, as Respondent, chose not to intervene on the "merits" of the decision under appeal, he did "defend the position that both the process provided by statute and the principles of natural justice were respected in the present instance". The failure of the Court to have before it a respondent speaking to the merits of the decision under appeal resulted in serious difficulties for the Court. In reality, the Court heard only "one side" of the issues on the merits. More will be said about that later in these reasons.
+[19]
+Novozymes sought leave to be added as an intervener in the appeal. That motion was rejected by Prothonotary Tabib. Prothonotary Tabib's Order was appealed [see footnote 8]. The appeal was rejected by Justice Hansen [see footnote 9].
+5) The re-examination process
+[20]
+As earlier noted, by correspondence dated the 15th of April, 2004 and filed the 22nd of April, Novozymes requested re-examination of the Genencor Patent in accordance with subsection 48.1(1) of the
+Act
+. As required by subsection 48.2(1) of the
+Act
+, the Commissioner of Patents established a three-member re-examination board (the "Board") and referred Novozymes' requests to it for determination. Notice of the request for re-examination of the Genencor Patent was given by the Commissioner to Genencor by letter dated the 10th of June, 2004 enclosing a copy of the request for re-examination and a copy of the prior art submitted in support of the request [see footnote 10]. The Commissioner noted that the request fulfilled the requirements of subsections 48.1(1) and (2) of the
+Act
+. He further advised that a re-examination board had been established and advised of the names of the members of that Board. Finally, he advised:
+"Within three months of the date hereof, the Re-examination Board will give notice of its determination as to whether a substantial new question of patentability is raised by the request."
+[21]
+By letter dated the 3rd of September, 2004 [see footnote 11], the members of the Board advised Genencor in part:
+"In summary, the Board is of the opinion that the prior art submitted by the requestor raises a substantial new question of obviousness with respect to claims 1 to 21.
+"Under subsection 48.2(5) the patentee may, within three months of the date of the notice, respond with a submission to the Board on these questions of patentability raised by the Board."
+It is noteworthy that only the issue of obviousness survived the preliminary review.
+[22]
+Genencor responded with extensive submissions under date of the 3rd of December, 2004 [see footnote 12]. It concluded:
+"The prior art referred to by the Board neither discloses nor suggests (alone or in combination) the novel detergent compositions claimed in the Genencor patent or methods for enhancing softness of cotton-containing fabric or retaining/restoring the colour of cotton-containing fabrics using same. The applied references merely teach what was already known in the art, endoglucanases or components having endoglucanase activity and their use in detergent compositions. However, there is no teaching or suggestion in such references of limiting the amount of CBH I type components to less than 5 weight percent, which improvement results in decreased strength loss of the fabric upon washing.
+"Accordingly, it is respectfully requested that the rejection of claims 1 to 21 on the grounds of anticipation and obviousness be withdrawn."
+[23]
+Under date of the 9th of May, 2005, the Board again communicated with Genencor [see footnote 13]. It concluded:
+"... The Board maintains that Rasmussen raises a substantial new question of patentability of the claimed invention with respect to claims 1 to 21."
+It is noteworthy that the Board once again narrowed its concern, in this case to the Rasmussen application reference, but no longer restricted its reliance on that reference to obviousness.
+[24]
+Genencor once again availed itself of the opportunity to respond. By communication dated the 9th of August, 2005 [see footnote 14], it concluded:
+"It is respectfully submitted that claims of the Genencor Patent, when properly construed, do not lack novelty in view of Rasmussen as Rasmussen does not disclose a detergent composition comprising a surfactant or a mixture of surfactants and a fungal cellulase composition comprising one or more
+EG type components
+and less than about 5 weight per cent of
+CBH I type components,
+as defined in the Genencor Patent. Accordingly, it is respectfully requested that the rejection of claims 1 to 21 on the ground of anticipation by Rasmussen be withdrawn." (Emphasis added)
+[25]
+In the affidavit of Murray Wilson before the Court, Mr. Wilson who was at all relevant times chairman of the re-examination board the decision of which is here at issue, attested:
+"During the re-examination process, any correspondence that was sent to the patentee was also sent as a copy to the requestor [Novozymes] as a courtesy. The requestor is routinely copied on correspondence from the re-examination board to the patentee to indicate that the re-examination process is ongoing. At no time after the re-examination process was initiated was correspondence directly addressed to the requestor nor was the requestor invited to respond to any courtesy correspondence that it received from the re-examination board.
+"During various stages during the re-examination process, the requestor did submit additional material at their own discretion. Receipt of this material was never confirmed in writing to the requestor by the re-examination board and generally, as any submissions relating to any patent file, these were placed in the patent file.
+"
+The re-examination board did not consider the additional material in the subsequent submissions by the requestor.
+The Office has no control over the submissions of any person and routinely receives material, which is placed in the patent file without further consideration. Under section 10 of the
+Patent Act
+, there is a requirement for documents filed in connection with a patent to be open to public inspection in the Office, irrespective of any further consideration." (Emphasis added)
+[26]
+In the course of cross-examination on his affidavit, Mr. Wilson provided assurances that none of the submissions of Novozymes provided after the initial request for re-examination were taken into account or, indeed, even read, by any member of the Re-examination Board.
+6) The make-up of the Board and related general practices
+[27]
+As earlier indicated in these reasons, Murray Wilson, the affiant on behalf of the Respondent Commissioner of Patents, chaired the Board. In his affidavit sworn the 24th of November, 2006, he attested that he was "... currently employed as the interim Chairperson of the Patent Appeal Board with the Patent Office ...", a part of the Canadian Intellectual Property Office, that he had been employed as a member of the Patent Appeal Board since 1992, and that he began his employment as a Patent Examiner with the Patent Office in 1971. During his cross-examination on his affidavit, Mr. Wilson attested that, since 1971, he had always been employed within the Intellectual Property Office and that:
+"The Patent Appeal Board has responsibility for administering the re-examination process and the tradition, I guess, has been, in members of the Patent Appeal Board, [sic] is the chairman of the Re-examination Board and two (2) examiners from the examination branch are the other two (2) members, people generally with more expertise in that particular field."
+He attested that, over the four (4) or five (5) years preceding his cross-examination he had been involved in every re-examination that had taken place and that, since the enactment of the re-examination procedure, there had been forty-seven (47) re-examinations. He continued by indicating that, to the date of his examination, all members of re-examination boards had been appointed from within the Intellectual Property Office and that no such Board had included an examiner who had examined the patent application leading to the patent that was under re-examination [see footnote 15]. Finally, at page 465, he attested that in each case with which he was familiar, the report of a re-examination board was written by a member of the Board, other than the Chairman of the Board.
+7) The decision under appeal and the reasons in support of that decision
+[28]
+The decision under appeal and the reasons in support of the decision are attached as an Annex to these reasons. [Annex omitted]
+THE ISSUES
+[29]
+In the Memorandum of Fact and Law filed on behalf of Genencor, the following issues on this appeal are identified:
+1. Did the Board err in improperly construing the claims of the Genencor Patent?
+2. Did the Board err in applying the improper test for anticipation or alternatively in misapplying such test?
+3. Did the Board err in concluding that the Rasmussen application anticipated the claims of the Genencor Patent?
+4. Did the Board err in accepting and considering the new material and evidence submitted by requester Novozymes on March 14, 2005 and September 29, 2005 after the initial request for re-examination under section 48.1 of the
+Act
+was made?
+5. Did the Board breach the principles of natural justice and procedural fairness by failing to inform Genencor of the new material and evidence submitted by requester Novozymes on March 14, 2005 and September 29, 2005?
+6. Did the Board breach the principles of natural justice and procedural fairness by failing to provide Genencor with the opportunity to respond to the adverse submissions made against it on March 14, 2005 and September 29, 2005?
+[30]
+In the Memorandum of Fact and Law filed on behalf of the Attorney General, counsel described the issues the Attorney General would address in the following terms:
+"1. Did the Board fail to respect the procedure set out in the
+Patent
+Act
+and/or breach the principles of natural justice and procedural fairness in rendering its decision dated November 16, 2005?
+"2. Notably, did the Board have a duty to disclose any unsolicited submissions made by Novozymes notwithstanding that these submissions were not read or considered in the decision-making process?"
+[31]
+In essence, the Attorney General ignored the first three (3) issues identified on behalf of Genencor. That position is entirely consistent with the earlier indication in the Attorney General's memorandum that he "... does not intend to intervene on the merits of this decision". I am satisfied that Genencor's first three (3) issues relate to the "merits" of the decision while Genencor's last three (3) issues address matters of natural justice and procedural fairness.
+[32]
+As earlier indicated in these reasons, at the close of hearing, I invited counsel to address the issue of standard of review in supplementary submissions. Both counsel responded to my request by filing, on the 6th of March, 2008, supplementary written submissions with those on behalf of the Attorney General obviously having been prepared first with the result that Genencor's supplementary submissions are in the nature of responding submissions. It is slightly ironic that both sets of submissions were filed the day before the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  review, albeit in the judicial review context, not the statutory appeal context. Despite the differing contexts, the <FRAGMENT_SUPPRESSED> decision is to some degree instructive in this context.
+[33]
+In what follows, I will deal first with the issue of standard of review, secondly, with the issues of procedural fairness and natural justice and finally, with the issues going to the merits of the decision under appeal.
+ANALYSIS
+1) Standard of review
+[34]
+Section 18.5 of the
+Federal Courts
+Act
+[see footnote 17] reads as follows:
+"18.5 Despite sections 18 and 18.1, if an Act of Parliament expressly provides for an appeal to the Federal Court, the Federal Court of Appeal, the Supreme Court of Canada, the Court Martial Appeal Court, the Tax Court of Canada, the Governor in Council or the Treasury Board from a decision or an order of a federal board, commission or other tribunal made by or in the course of proceedings before that board, commission or tribunal, that decision or order is not, to the extent that it may be so appealed, subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with, except in accordance with that Act."
+"18.5 Par dérogation aux articles 18 et 18.1, lorsqu'une loi fédérale prévoit expressément qu'il peut être interjeté appel, devant la Cour fédérale, la Cour d'appel fédérale, la Cour suprême du Canada, la Cour d'appel de la cour martiale, la Cour canadienne de l'impôt, le gouverneur en conseil ou le Conseil du Trésor, d'une décision ou d'une ordonnance d'un office fédéral, rendue à tout stade des procédures, cette décision ou cette ordonnance ne peut, dans la mesure où elle est susceptible d'un tel appel, faire l'objet de contrôle, de restriction, de prohibition, d'évocation, d'annulation ni d'aucune autre intervention, sauf en conformité avec cette loi."
+The appeal here before the Court falls squarely within the parameters of the foregoing section. The
+Act
+expressly provides in section 48.5 for an appeal to this Court from decisions of Re-examination Boards such as the decision here under appeal.
+[35]
+I am satisfied that it is beyond doubt that the Board the decision of which is here before the Court is a decision of a federal board, commission or other tribunal made by or in the course of proceedings before that board, commission or tribunal. In the result, the decision here before the Court is not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with, except in accordance with the
+Patent
+Act
+. Unfortunately, the
+Patent
+Act
+provides no guidance as to the circumstances under which such a decision may be restrained, prohibited, removed, set aside or otherwise dealt with by this Court. In these circumstances, I turn briefly to the guidance in place with regard to judicial review.
+[36]
+In
+Mattel Inc. v. 3894207 Canada Inc. et al.
+[see footnote 18], Justice Binnie, for the Court, wrote at paragraph 33:
+"In choosing the proper standard of review from the available options (correctness, reasonableness, or patent unreasonableness) the Court has regard to the elements of the test set out most recently in
+Dr. Q v. College of Physicians and Surgeons of British Columbia
+... . These elements have not greatly altered since
+U.E.S., Local 298 v. Bibeault
+, ... where Beetz, J., speaking for the Court, said at p. 1088:
+'... the Court examines not only the wording of the enactment conferring jurisdiction on the administrative tribunal, but the purpose of the statute creating the tribunal, the reason for its existence, the area of expertise of its members and the nature of the problem before the tribunal.' (citations and one reference, with related citation, omitted)" <FRAGMENT_SUPPRESSED> [see footnote 19] did not notably modify the nature of the inquiry but did re-identify it by substituting for the concept "pragmatic and functional analysis" the concept "standard of review analysis" [see footnote 20].
+a) Presence or absence of a privative clause or statutory right of appeal
+[37]
+As earlier noted, the
+Act
+here provides a statutory right of appeal. Counsel for Genencor and the Attorney General are in agreement that, given the statutory right of appeal and the lack of guidance to the Court as to the outcomes open to it on the appeal, a more "searching" standard of review is supported by this factor. For this position, counsel cite
+ <FRAGMENT_SUPPRESSED>  applicable to an appeal of a decision of the Commissioner of Patents to refuse a patent under section 41 of the
+Act
+, Justice Bastarache, for the majority wrote at paragraph 149:
+"Though it will not be determinative, the fact that the
+Patent
+Act
+contains no privative clause and gives applicants a broad right of appeal from the decision of the Commissioner is relevant and suggests a more searching standard of review ... ." (citation omitted)
+Justice Bastarache continued at paragraph 151:
+"The above in no way implies that decisions of the Commissioner will always be reviewed according to a correctness standard. If, for example, the question to be decided was whether or not a particular life form such as a fungus should be classified as a higher life form or as a lower life form, the Commissioner's decision would likely be accorded deference. As noted, s. 40 of the
+Act
+states that it is the Commissioner who must be 'satisfied' that a patent should not be issued. In such an instance, the Commissioner's scientific expertise suggests that the courts defer to his decision in respect to whether he is satisfied that the life form falls within a category of patentable subject matter."
+Counsel urge that the language of subsection 48.5(1) of the
+Act
+does not confer as broad a discretion on this Court as is conferred by the language of section 41 of the same
+Act
+where the Court is instructed to "hear and determine" an appeal. With great respect, I do not read as much into the difference between the language of the two (2) sections of the same
+Act
+as do counsel. I will shortly turn to the subject of "deference". For the moment, I determine this factor to be neutral.
+b) The Board's expertise
+[38]
+It was not in dispute before me, and given what has been said earlier in these reasons regarding the makeup of re-examination boards, I do not regard it as disputable, that re-examination boards in general and the particular Board the decision of which is here under appeal reflect considerable expertise in relation to their mandates. This factor justifies a high degree of deference to the Board's decision.
+c) The purpose of the Act and of the re-examination scheme
+[39]
+The written submissions on behalf of the Attorney General on this factor are, I am satisfied, compelling. Counsel for Genencor takes no issue with those submissions. In the circumstances, I will simply repeat them here:
+"21. The purpose of the
+Patent
+Act
+is to 'encourage invention and to regulate the issuance of patents in  <FRAGMENT_SUPPRESSED>  (Canada P.C.) cited in
+ <FRAGMENT_SUPPRESSED>  into the
+Patent Act
+through Bill C-22, '
+An
+Act
+to Amend the Patent Act
+' enacted in 1987.
+"23. Bill C-22 brought a number of fundamental changes to the
+Patent
+Act
+. These included the substantial limitation of compulsory licences as of right, the change from 'first to invent' to 'first to file', deferred examination, compulsory laying open of patent applications for public inspection, term of protection and re-examination. Of all these changes the only issue that appears to have received particular attention from Parliament was the restriction of the compulsory licensing regime for patented drugs.
+"24. There does not appear to be any available extrinsic evidence of Parliamentary intent that could assist this Court in characterizing the re-examination scheme. Except for some minor amendments, there is no reference to the re-examination scheme in either the Parliamentary Debates or Committee Deliberations.
+"25. Viewed in its statutory context,
+in particular in light of the fact that interested parties retain the right to launch impeachment proceedings directly before the Federal Court under s. 60 of the
+Patent Act
+, the re-examination procedure appears designed to offer an inexpensive and simplified means for third parties as well as patentees to put prior art that had not previously been considered before the Board.
+"26. For all practical purposes, the role of third parties in the re-examination process is analogous to their role in the original process. In particular the rights of the requestor under subsection 48.1(1) are analogous to a third party's rights under s. 34.1
+Patent
+Act
+to file prior art with respect to a pending application:
+'34.1(1) Any person may file with the Commissioner prior art, consisting of patents, applications for patents open to public inspection and printed publications, that the person believes has a bearing on the patentability of any claim in an application for a patent.
+'34(2) A person who files prior art with the Commissioner under subsection (1) shall explain the pertinency of the prior art.'
+"27. In this respect, one would expect the standard of review applicable to an appeal of a re-examination decision under s. 48.5 to be the same as the standard applicable to the appeal of an ordinary refusal under s. 41 of the
+Patent
+Act
+.
+"28. Although it might be argued that the summary process and limited participation of the requestor suggest a less rigorous review, from the perspective of the patentee, the decision is functionally equivalent to a decision of the Commissioner under s. 40 of the
+Act
+. The cancellation of a patent under re-examination has exactly the same effect as a refusal to grant after the initial examination process.
+"29. The limited rights on appeal of the requestor can be explained by the fact that the requestor retains the right to launch a full impeachment proceeding under s. 60 of the
+Act
+.
+"30. Although it seems clear that Parliament intended the re-examination procedures to be simplified and inexpensive, because of the consequences, there is no basis to infer that Parliament intended the appeal to be any less substantive than where the matter otherwise comes before the Court." (Emphasis added)
+[40]
+It is only with the last quoted paragraph that I differ. As counsel notes, it can only be inferred from the enactment of the re-examination process that Parliament intended it to be a simplified and relatively inexpensive alternative to impeachment proceedings under section 60 of the
+Act
+. It recognizes the expertise of those who have to date been chosen to make up re-examination boards. Resort to the re-examination process does not foreclose impeachment proceedings in circumstances where it is invoked. It is only in circumstances where re-examination, as here, results in a patent being deemed never to have been issued or to be narrowed, apparently a relatively rare circumstance inferring from experience to date, where an appeal such this is pursued. It does not lie easily in the mouth of patentees to accept without danger of appeal the results in re-examination proceedings and to urge a broad right of appeal in the historically narrow range of cases where the procedure works against them.
+[41]
+I am satisfied that this factor weighs in favour of a more deferential standard of review.
+d) The nature of the questions in dispute
+[42]
+Earlier in these reasons, I divided the issues raised on this appeal by the parties into three (3) categories, namely: standard of review, issues of procedural fairness and natural justice, and issues going to the merits of the decision under appeal. Counsel for the Attorney General urges that each issue should be dealt with against its own appropriate standard.
+[43]
+The issue of standard of review clearly stands apart and is to be dealt with by a "standard of review analysis" as here.
+[44]
+Issues of natural justice and procedural fairness must, of course, be dealt with on a "correctness" standard.
+[45]
+Counsel for Genencor urges that the substantive issues before the Court are issues of "claim construction" and "anticipation" and should be dealt with as the Court would deal with those issues in an impeachment proceeding, which is to say, without deference to the expertise of the members of the re-examination board in the course of examination of patent applications, a process which is not unlike the re-examination process.
+[46]
+I differ from the position urged by counsel for Genencor for the reasons that will follow in a review of provisions of <FRAGMENT_SUPPRESSED> [see footnote 22] that follows.
+e) Dunsmuir and deference
+[47]
+In <FRAGMENT_SUPPRESSED> [see footnote 23], Justice Deschamps, in concurring reasons concurred in by Justice Charron and Justice Rothstein, wrote:
+"[161] Questions before the courts have consistently been identified as either questions of fact, questions of law or questions of mixed fact and law. Whether undergoing appellate review or administrative law review, decisions on questions of fact always attract deference.
+The use of different terminology - 'palpable and overriding error' versus 'unreasonable decision' - does not change the substance of the review. Indeed, in the context of appellate review of court decisions, this Court has recognized that these expressions as well as others all encapsulate the same principle of deference with respect to a trial judge's findings of fact
+:
+ <FRAGMENT_SUPPRESSED>  at paras. 55-56. Therefore, when the issue is limited to questions of fact, there is no need to enquire into any other factor in order to determine that deference is owed to an administrative decision maker.
+"[162] Questions of law, by contrast, require more thorough scrutiny when deference is evaluated, and the particular context of administrative decision making can make judicial review different than appellate review. Although superior courts have a core expertise to interpret questions of law, Parliament or a legislature may have provided that the decision of an administrative body is protected from judicial review by a privative clause.
+When an administrative body is created to interpret and apply certain legal rules, it develops specific expertise in exercising its jurisdiction and has a more comprehensive view of those rules
+. Where there is a privative clause, Parliament or a legislature's intent to leave the final decision to that body cannot be doubted and deference is usually owed to the body.
+"[163] However, privative clauses cannot totally shield an administrative body from review. Parliament, or a legislature, cannot have intended that the body would be protected were it to overstep its delegated powers. Moreover, if such a body is asked to interpret laws in respect of which it does not have expertise, the constitutional responsibility of the superior courts as guardians of the rule of law compels them to insure that laws falling outside an administrative body's core expertise are interpreted correctly. This reduced deference insures that laws of general application, such as the Constitution, the common law and the
+Civil Code
+, are interpreted correctly and consistently. Consistency of the law is of prime societal importance.
+Finally, deference is not owed on questions of law where Parliament or a legislature has provided for a statutory right of review on such questions.
+"[164]
+The category of questions of mixed fact and law should be limited to cases in which the determination of a legal issue is inextricably intertwined with the determination of facts
+. Often, an administrative body will first identify the rule and then apply it.
+Identifying the contours and the content of a legal rule are questions of law.
+Applying the rule, however, is a question of mixed fact and law. When considering a question of mixed fact and law, a reviewing court should show an adjudicator the same deference as an appeal court would show a lower court.
+"[165] In addition, Parliament or a legislature may confer a discretionary power on an administrative body. Since the case at bar does not concern a discretionary power,
+it will suffice for the purposes of these reasons to note that, in any analysis, deference is owed to an exercise of discretion unless the body has exceeded its mandate
+.
+"[166]
+In summary, in the adjudicative context, the same deference is owed in respect of questions of fact and questions of mixed fact and law on administrative review as on an appeal from a court decision. A decision on a question of law will also attract deference, provided it concerns the interpretation of the enabling statute and provided there is no right of review.
+" (Emphasis added)
+[48]
+On the facts of this matter, and subject to what was said earlier with regard to review of issues of natural justice and procedural fairness, the Board made its decision based on its explicit legislative authority and mandate. I am satisfied that the substantive questions that were before it were questions of mixed fact and law and were questions within the extensive expertise of its members in the context of a legislative scheme intended to introduce a significant degree of simplicity, brevity and cost saving into a complex legal regime where determinations or impeachment proceedings have evolved into processes that are long, complex and expensive. In the circumstances, in recognition of the high degree of deference that I am satisfied is owed to the Board in this matter and in matters equivalent to it, I am satisfied that the appropriate standard of review on the substantive issues arising herein is "reasonableness" or, put in language often adopted on appeals, the decision under review for substantive error should not be interfered with in the absence of "palpable and overriding error" [see footnote 24].
+[49]
+ <FRAGMENT_SUPPRESSED>  the
+Trade-marks
+Act
+[see footnote 26], a decision of a Senior Hearing Officer, acting on behalf of the Registrar of Trademarks, was before my colleague, Deputy Justice Strayer. With respect to standard of review, my colleague wrote:
+"I accept the analysis of a majority of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  produced the Registrar's decision should be reviewed on the standard of reasonableness simpliciter. Such is the case here. While this is an appeal without any privative clause, deference must be shown to the Registrar who by the scheme of the
+Act
+must be deemed to have a certain expertise in such matters." (citation omitted)
+On appeal from Justice Strayer's decision, Justice Pelletier, for the Court, wrote at paragraph [11] of his reasons:
+"The matter was appealed to the Federal Court where it was heard by Strayer D.J. After reviewing the facts, the learned judge began by acknowledging that the standard of review of the Senior Hearing Officer's decision was reasonableness, a conclusion which is not open to serious question following the recent decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  matter is one in which the Registrar and his delegated hearing officers have special expertise, and the legal questions involved are squarely within that area of expertise: ..." (two citations of <FRAGMENT_SUPPRESSED> omitted)
+[50]
+The above authority was not cited before me and indeed, in particular, the Court of Appeal's reasons could not have been as they were published after the hearing of this matter was closed. I do not rely on them. That being said, I find they lend support to my foregoing conclusion on standard of review and in particular on the issue of deference.
+2) Natural justice and procedural fairness
+a) General principles
+[51]
+Counsel for Genencor and counsel for the Attorney General both cite the following brief passage from
+Cardinal and  <FRAGMENT_SUPPRESSED>  of procedural fairness lying on every public authority making an administrative decision which is not of a legislative nature and which affects the rights, privileges or interests of an individual: ..." (citations omitted)
+It was not in dispute before me that the Board is a "... public authority making an administrative decision ..." and that the decision under review is not "... of a legislative nature ...". Further, the fact that the administrative decision here under appeal primarily affects Genencor, a corporation, not an individual, is not relied upon to impact on the application of the foregoing principle.
+[52]
+The foregoing being said, both counsel acknowledge that the content of the duty of fairness is variable, depending on the circumstances of the case, the statutory provisions at issue and the nature of the matter to be decided [see footnote 28]. An example of the variable standard that is apt in the circumstances of this matter was noted by this Court in
+ <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> :
+"Tribunals charged with regulating economic activity have not had placed on them the same high standards as tribunals dealing with personal individual rights."
+b) Application of the General Principles to the facts on this matter
+[53]
+On the facts of this matter, it was not in dispute that Novozymes submitted to the Intellectual Property Office on the 14th of March, 2005 and the 29th of September, 2005 submissions directed to the matter that was then before the Board and that were supplementary to the original request for re-examination and related submissions. It was also not in dispute that Novozymes' supplementary submissions were not shared with Genencor and further, and consequentially, Genencor was provided no opportunity to respond to those supplementary submissions.
+[54]
+Counsel for Genencor urges that the failure to provide Genencor with the supplementary submissions of Novozymes and to provide it an opportunity to respond to those submissions constituted a breach of natural justice or procedural fairness. For this proposition, counsel cites
+ <FRAGMENT_SUPPRESSED>  submissions
+of one party
+do more than provide an interpretation of facts before the Commission, if they affect the content of the evidence before that body, the submissions should be disclosed. In my view, procedural fairness requires disclosure where those submissions limit the evidence that is considered, particularly evidence that the
+other party
+has every reason to believe will be considered. ..." (Emphasis added)
+[55]
+Notably, at the dates the supplementary submissions were provided by Novozymes, Novozymes was not a "party" to the re-examination process, nor, under the re-examination scheme of the
+Act
+, could it have been once the re-examination process was instituted. More importantly, Mr. Wilson, the chairman of the Board, has attested in an affidavit before the Court that he likely never saw Novozymes' supplementary submissions, and that if he did, he would not have read them because he was aware that Novozymes was not a party to the re-examination and that therefore its supplementary submissions were irrelevant to the re-examination process. Mr. Wilson was not shaken in this attestation on cross-examination on his affidavit.
+[56]
+Further, during the cross-examination of Mr. Wilson on his affidavit, the following exchange took place between counsel for Genencor and Mr. Wilson:
+"Q - And would it also have made it to the files of your two (2) other board members?
+A - I have asked them specifically about that and they said no, it didn't make it to the file, and they did not read that document." [see footnote 31]
+[57]
+The reference to "that document" in the foregoing quotation was clearly, from the context in the cross-examination, a reference to Novozymes' the 14th March, 2005 supplementary submission. While it did not extend to the further supplementary submission by Novozymes on the 29th of September, 2005, no equivalent question was asked with respect to that submission and I am prepared to assume on the evidence before the Court that the answer would have been the same with respect to that second supplementary submission. While Mr. Wilson's evidence regarding consideration of Novozymes' supplementary submissions by his colleagues on the Board was clearly not firsthand evidence, it was the best evidence before the Court and no objection to its being taken into consideration was made on behalf of Genencor, although counsel urged that it should be given little weight.
+[58]
+ <FRAGMENT_SUPPRESSED>  paragraph 49 of his reasons:
+"It is clear from Madsen and Mercier, that the obligation to disclose submissions arose in the context where those submissions were to be placed before the Commission. The underlying principle was established ten years earlier in
+Radulesco
+. There is nothing in any of these cases which would support the proposition that every exchange between an investigator and an interested party must be disclosed to the other party. The right to know the case to be met and to respond to it arises in connection with material which will be put before the decision maker, not with respect to material which passes through an investigator's hands in the course of the investigation."
+[59]
+I am satisfied that precisely the same might be said here in respect of material that comes into the hands of the Intellectual Property Office during the course of a re-examination process but that does not constitute material which will be put before the Board.
+[60]
+Based on the evidence before the Court, and whether or not Mr. Wilson's affidavit and his responses on cross-examination on that affidavit are given great or little weight, Genencor's case simply cannot succeed on the basis of a breach of natural justice or procedural fairness. The best and only evidence before the Court regarding that issue satisfies the Court that there was no such breach.
+3) Substantive issues
+a) Claim construction
+[61]
+Counsel for Genencor, by reference to
+ <FRAGMENT_SUPPRESSED>  patent specification and that the simple dictionary approach should be rejected. In
+Whirlpool
+, Justice Binnie, for the Court, wrote at paragraph 52 of his reasons:
+"I have already given my reasons for concluding that to the extent the appellants are arguing for a simple 'dictionary' approach to construction of the '803 claims, it must be rejected.  <FRAGMENT_SUPPRESSED>  'conduit' as used in a patent claim. Duff, C.J., ... accepted the proposition that '[y]ou are not to look into the dictionary to see what 'conduit' means, but you are to look at the specification in order to see the sense in which the patentees have used it'. In
+Consolboard
+, ... as mentioned, Dickson, J., considered that the whole of the specification (including the disclosure and the claims) should be looked at 'to ascertain the nature of the invention'... . To the same effect is the statement of Taschereau, J., in
+ <FRAGMENT_SUPPRESSED>  to the entire specifications, and the latter may therefore be considered in order to assist in apprehending and construing a claim, but the patentee may not be allowed to expand his monopoly specifically expressed in the claims "by borrowing this or that gloss from other parts of the specifications".'
+More recently, Hayhurst, ... cautioned that '[t]erms must be read in context, and it is therefore unsafe in many instances to conclude that a term is plain and unambiguous without a careful review of the specification'. In my view, it was perfectly permissible for the trial judge to look at the rest of the specification, including the drawing, to understand what was meant by the word 'vane' in the claims, but not to enlarge or contract the scope of the claim as written and thus understood." (citations omitted)
+[62]
+Whirlpool
+was, of course, an impeachment proceeding. It was not a re-examination proceeding and I am satisfied that the foregoing, in all its implications, was directed to trial judges and to judges of courts of appeal and not to patent examiners in the course of examinations to determine whether applications for patents should be granted or in the course of re-examinations as here.
+[63]
+Counsel for Genencor urged that the Board, on the facts of this matter and the record before the Court, erred in failing to properly construe the Genencor Patent and more particularly, by failing to first construe the terms used in the claims in the Genencor Patent and even more particularly, the terms EG type components and CBH I type components. She urged that the Board repeatedly asserted in its reasons for decision here before the Court that the Rasmussen application preparations comprise less than 5 weight percent of CBH components "because the endoglucanase enzyme is the sole cellulase component, being isolated and purified before its use". Counsel further noted that the Board states: "it is 'clear that Rasmussen teaches a molecularly pure endoglucanase composition that is necessarily devoid of CBH components'".
+[64]
+At page 4 of its reasons for decision, the Board notes six (6) different definitions included in the Genencor Patent claims and concludes that: 1) the claims of the Genencor Patent are not limited to an endoglucanase derived solely from Trichoderma reesei; 2) they do not necessarily encompass an endoglucanase that imparts less strength loss; 3) they may not be limited to enzymes that are traditionally classified as endoglucanase; and 4) they encompass endoglucanases that have properties in detergent compositions
+similar
+to those possessed by endoglucanases derived from Trichoderma reesei.
+[65]
+The Board concluded that the EG definition in the Genencor Patent defined EG more by desired functional attributes than by anything else and did not offer a clear indication of the technical features and physical properties. Further, the Board stated that there was no clear indication that an endoglucanase derived from Humicola insolens as disclosed by the Rasmussen application does not fit this definition. Moreover, the Board noted that this type of enzyme was described in the Rasmussen application "... as having fabric softening and colour retention properties similar to those possessed by endoglucanases derived from Trichoderma reesei." The Board therefore concluded that a reader, skilled in the art, would be able to conclude that the claims of the Genencor Patent encompassed the enzyme disclosed in the Rasmussen application.
+[66]
+Counsel for Genencor further urged that, if the Genencor Patent were properly construed, the Rasmussen application could not anticipate the claims of the Genencor Patent as the Rasmussen application contains no teachings as to the presence or absence of CBH I type components in its detergent composition and no teachings of the beneficial properties associated with the CBH I type components.
+[67]
+Counsel concluded her submissions in this regard by submitting that the Board failed to properly construe CBH I type components in equating this expression with the lack of cellobiohydrolase activity, which is to say activity towards cellobiose p-nitrophenyl and therefore erred in dismissing Genencor's argument as to Example 6 of the Rasmussen application and distinguishing that example, in the absence of any basis for doing so.
+[68]
+With regard to CBH components and in particular example 6 of the Rasmussen application, the Board found that it was in no way determinative on the question of CBH content in the Rasmussen preparations. Rather, the Board concluded that this example set out nothing more than an evaluation of molecularly pure endoglucanase versus impure mixtures for the purpose of "stonewash" evaluations. This test was not undertaken as a strength loss test, even if the tear strength was mentioned in the example "in passing".
+[69]
+Finally, example 16 of the Genencor Patent which evaluates strength loss was undertaken using an entirely different protocol than that used in the Rasmussen application. The conclusion is that example 6 of the Rasmussen application would not lead a person skilled in the art to believe that the endoglucanase preparations in Rasmussen are contaminated with more than 5 weight percent CBH I because the remainder of the specification teaches the complete absence of such contaminants. The Board concluded that the claims in the Genencor Patent are essentially silent on imparting less strength loss and as a consequence cannot be used to clearly distinguish the Genencor Patent from the Rasmussen application.
+[70]
+With great respect, I am satisfied that counsel for Genencor is urging that a re-examination board, based on a generally one-sided presentation before it, and further, in the absence of experts appearing before it and being cross-examined before it, should take on the full role of a court in impeachment proceedings. Taking into account the expertise of the members of the Board and the fact that the proceeding before them is a re-examination only, not a full-blown impeachment proceeding, I am satisfied that counsel for Genencor is urging that the Court place on the Board a burden mandated for courts by the foregoing quotation from
+Whirlpool
+, which is entirely inappropriate to their experience, to their accustomed role and the role that is contemplated for them by the re-examination provisions of the
+Patent Act
+.
+b) Anticipation
+[71]
+Counsel for Genencor quite correctly urged that the test for anticipation is a strict one.  <FRAGMENT_SUPPRESSED>  recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also, it appears from the passage of the statute quoted above [paragraph 28(1)(b) of the
+Patent Act
+as it read at the relevant time], anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that
+a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention
+. ..." (Emphasis added)
+I am satisfied that at least two of the members of the Board the decision of which is here at issue, qualified as "skilled persons" within the meaning of the foregoing quotation.
+[72]
+ <FRAGMENT_SUPPRESSED>  anticipation, the prior art must: (1) give an exact prior description; (2) give directions which will inevitably result in something within the claims; (3) give clear and unmistakeable directions; (4) give information which for the purpose of practical utility is equal to that given by the subject patent; (5) convey information so that a person grappling with the same problem must be able to say 'that gives me what I wish'; (6) given information to a person of ordinary knowledge so that he must at once perceive the invention; (7) in the absence of explicit directions, teach an 'inevitable result' which 'can only be proved by experiment'; and (8) satisfy all tests in a single document without making a mosaic."
+Once again, I am satisfied that at least two (2) members of the Board the decision of which is here at issue are persons of, at least, "ordinary knowledge" as that expression is used in the quotation from
+Cochlear
+, at paragraph [72] of these reasons.
+[73]
+Against the foregoing, counsel for Genencor urged that the Board applied an improper test for anticipation or alternatively misapplied the proper test. Against what I regard to be the appropriate standard of review, whether it be described as "overriding and palpable error" or "reasonableness", I disagree.
+[74]
+In its reasons, the Board concluded that the Rasmussen application disclosed the extensive preparation and purification of endoglucanases as well as molecular cloning methods which teach a detergent composition devoid of CBH I since the fungal cellulase component consists solely of biochemically pure endoglucanase. The Board noted that:
+"... a person skilled in the art would logically understand that there is a complete absence of CBH I type components since such enzymes would necessarily be removed during the extensive purification and preparation procedures clearly taught in the Rasmussen application."
+[75]
+Counsel for Genencor urged that the Rasmussen application which has "essentially no cellobiohydrolase activity"
+could
+have some CBH I type components present ...". The conditional tense in the foregoing statement supports an assumption that Genencor based its submissions on assumptions and that Genencor had not been able to demonstrate that the Rasmussen application relates to a preparation containing more than 5 weight percent CBH I which would distinguish its claim from what is disclosed by the Rasmussen application.
+[76]
+Further, although the Board does not enumerate in its reasons the "essential elements" of the patent in a specific list, I am satisfied that it is possible to deduce from the reasons that each of the issues discussed and analyzed in the decision were "essential" to the Genencor Patent and were all of the issues essential to that patent. The Board, in its analysis of the Genencor Patent highlighted a number of defects and concerns before concluding that the invention disclosed therein was anticipated by the Rasmussen application.
+[77]
+The Board concluded that claims 8 and 15 in the Rasmussen application employed a detergent composition as defined by claim 1 and were directed to enhancing the softness of cotton-containing fabric as well as to a method for restoring the colour of the cotton containing fabric. Based on the foregoing, I am satisfied that the Board's reasons demonstrate that the Rasmussen application discloses all of the essential features of the invention claimed by the Genencor patent. In short, the advantages claimed in the Genencor Patent are immaterial on the question of anticipation because the Board's reasons disclose that the Rasmussen application teaches each element of the claimed invention and provides an enabling disclosure.
+[78]
+For the foregoing reasons, as earlier indicated, I am satisfied that the Board did not apply an improper test for anticipation and did not, in the alternative, misapply the proper test. In the result, against the appropriate standard of review earlier referred to in this portion of these reasons, Genencor, the Appellant, cannot succeed on this ground.
+CONCLUSION
+[79]
+Based on the foregoing analysis, I am satisfied that the Board did not breach natural justice or procedural fairness. Further, based on the foregoing analysis and reading the Board's reasons as a whole, not parsing them microscopically, and acknowledging the expertise of the members of the Board in respect of the subject matter of the Genencor Patent and on the substantive issues before them, I am satisfied that the Board made no palpable and overriding error in deciding as it did and that, put another way, its decision was reasonably open to it. In light of the foregoing, this appeal will be dismissed.
+COSTS
+[80]
+The Respondent, the Attorney General of Canada, will be entitled to his costs of this appeal, determined on the ordinary scale. There will be no order as to costs for or against the Respondent, the Commissioner of Patents.
+POSTSCRIPT
+[81]
+As earlier noted, the Respondent, the Commissioner of Patents, filed no submissions on this appeal and took no part in the hearing of the appeal. Further, the Respondent, the Attorney General of Canada, filed no submissions and made no submissions at hearing on the substantive issues on this appeal. In the result, in the portion of the foregoing reasons relating to substantive issues, this Court was substantially disadvantaged. Particularly if the Court's determinations on the issue of standard of review are found to be incorrect and the appropriate standard is determined to be that applicable on an impeachment action, the position of this Court would have been, and will in the future be, essentially untenable on substantive issues. A solution to this difficulty is, in the opinion of this Judge, a matter of policy for determination by Government or Parliament. It is not a matter within the purview of this Court.
+Appeal dismissed.
+Editor: Angela E. McKay/vnh
+Footnotes
+1. R.S.C. 1985, c. P-4.
+2. Appeal Book, Volume II, page 177.
+3. See: paragraph 48.4(3)(b) of the
+Act
+in paragraph 3 of these reasons.
+4. Supplementary Appeal Book, Tab 1.
+5. Bill C-22, R.S. c. 33 (3rd Supp.), s. 18, subsequently amended, 1993 c. 15.
+6. [2007] F.C.J. No. 480; 361 N.R. 274; 2007 FCA 129, March 28, 2007. Leave to appeal to the Supreme Court denied: [2007] S.C.C.A. No. 272; 380 N.R. 395 (S.C.C.), May 28, 2007.
+7. SOR/98-106.
+8.
+ <FRAGMENT_SUPPRESSED>  (Protho.), April 11, 2007.
+9.
+ <FRAGMENT_SUPPRESSED>  August 15, 2007.
+10. Appeal Book, Volume II, page 193.
+11. Appeal Book, Volume II, page 195.
+12. Appeal Book, Volume II, page 198.
+13. Appeal Book, Volume II, page 218.
+14. Appeal Book, Volume II, page 222.
+15. Supplementary Appeal Book, pages 444 to 455.
+16. 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, March 7, 2008.
+17. R.S.C. 1985, c. F-7.
+18. [2006] 1 S.C.R. 772; 348 N.R. 340.
+19. supra, note 16.
+20. <FRAGMENT_SUPPRESSED> , supra, at para. [63].
+21. [2002] 4 S.C.R. 45; 296 N.R. 1.
+22. supra, note 16.
+23. supra, note 16.
+24. See paragraph [161] from <FRAGMENT_SUPPRESSED> , supra, para. 47 of these reasons, where Justice Deschamps appears to equate "palpable and overriding error" with "unreasonable decision", suggesting that the two expressions are merely a usage of different terminology that does not change the substance of the review.
+25. [2006] F.C.J. No. 1928; 305 F.T.R. 297; 2006 FC 1542, December 21, 2006.
+26. R.S.C., 1985, c. T-13.
+27. [1985] 2 S.C.R. 643; 63 N.R. 353, at 653.
+28.
+Syndicat des employés de production du Québec et de l' <FRAGMENT_SUPPRESSED> ; 302 N.R. 66; 2003 FCA 133, March 14.
+33. [2000] 2 S.C.R. 1067; 263 N.R. 88.
+34. (1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.).
+35. (1995), 102 F.T.R. 81; 64 C.P.R.(3d) 10 (T.D.), at page 34.
+[Annex omitted]
+.
+[End of document]

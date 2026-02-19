@@ -1,0 +1,143 @@
+[1]
+Hansen, J.
+: Teva Pharmaceutical Industries Ltd. ("Teva"), the defendant/plaintiff by counterclaim, brought a motion to strike paragraphs 13 to 36 of Apotex Inc.'s ( <FRAGMENT_SUPPRESSED> ) Amended Defence to Counterclaim. A Prothonotary dismissed the motion. This is an appeal of that decision.
+[2]
+For the purpose of these reasons, a detailed account of the various pleadings in this action is not necessary. Teva, the owner of Canadian Patent No. 2,410,867 ("'867 Patent"), alleges that Apotex infringes a number of the claims of the '867 Patent. In the impugned paragraphs of its defence, Apotex alleges that the '867 Patent is void pursuant to subsection 53(1) of the
+Patent Act
+, R.S.C. 1985, c. P-4 ("
+Act
+") because the "petition ... contains a material allegation that is untrue". In general, Apotex claims in the Defence that the representation in the '867 Application that the persons named in the petition were the inventors and that there was an invention is misleading because the purported invention was, to the knowledge of the petitioners, disclosed in the prior art and was offered for sale by Teva prior to the relevant date at issue.
+[3]
+On the motion to strike, Teva argued that the paragraphs in question are incapable of success because they fail to disclose the essential element of wilfulness required under subsection 53(1) of the
+Act
+.
+[4]
+Subsections 53(1) and (2) of the
+Act
+read:
+"53(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, or if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading.
+(2) Where it appears to a court that the omission or addition referred to in subsection (1) was an involuntary error and it is proved that the patentee is entitled to the remainder of his patent, the court shall render a judgment in accordance with the facts, and shall determine the costs, and the patent shall be held valid for that part of the invention described to which the patentee is so found to be entitled."
+"53(1) Le brevet est nul si la pétition du demandeur, relative à ce brevet, contient quelque allégation importante qui n'est pas conforme à la vérité, ou si le mémoire descriptif et les dessins contiennent plus ou moins qu'il n'est nécessaire pour démontrer ce qu'ils sont censés démontrer, et si l'omission ou l'addition est volontairement faite pour induire en erreur.
+(2) S'il apparaît au tribunal que pareille omission ou addition est le résultat d'une erreur involontaire, et s'il est prouvé que le breveté a droit au reste de son brevet, le tribunal rend jugement selon les faits et statue sur les frais. Le brevet est réputé valide quant à la partie de l'invention décrite à laquelle le breveté est reconnu avoir droit."
+[5]
+The Prothonotary concluded that an argument can be made that the wording of subsection 53(1) does not require wilfulness where the validity of a patent is challenged on the basis of an untrue material allegation in the petition. In reaching this conclusion, the Prothonotary observed:
+"The decision of the Federal Court of Appeal in
+671905  <FRAGMENT_SUPPRESSED>  and the obiter statement of Mr. Justice Binnie in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.) at par. 94 appear to impose wilfulness as a fourth factor that is required to establish the invalidity of a patent where an untrue material allegation in the petition is alleged. However, the two decisions can be distinguished on the grounds that they involved omissions, as opposed to material allegations. In the absence of any decision specifically interpreting the wording of subsection 53(1) in the
+Patent Act
+as imposing wilfulness as an essential element to succeed under the first ground of invalidity, I would simply endorse the decision of this Court in
+ <FRAGMENT_SUPPRESSED>  at par. 22 and the unambiguous statement in
+Hughes and Woodleys on Patents
+, section 17(b), at page 383:
+'This provision of the
+Act
+provides that a patent can be void simply if any material allegation in the petition is untrue; no proof of wilfulness is required.'"
+[6]
+Teva submits that the Prothonotary misinterpreted the decisions in
+671905  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 385 (F.C.A.), and
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 499 (S.C.C.), when he distinguished these cases on the basis that they dealt with "omissions" as opposed to "allegations". Teva argues that this distinction is not tenable because the "omissions" in both cases were construed by the Courts to be "allegations" within the meaning of subsection 53(1).
+[7]
+Teva argues that the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , applying the Supreme Court of Canada decision  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, explicitly rejected the trial judge's narrow interpretation of subsection 53(1) that would require wilfulness for additions and omissions within the specifications or drawings but not for material allegations. Accordingly, having regard to the principle of stare decisis, Teva submits that no weight should be given to the earlier lower court decision relied on by the Prothonotary nor should any weight be given to the referenced doctrinal source.
+[8]
+Although not specifically addressed by the Prothonotary, Teva also argues that the paragraphs at issue are incapable of success because they disclose what is essentially an anticipation argument and an allegation of anticipation cannot give rise to a reasonable defence under subsection 53(1).
+[9]
+Apotex takes the position, based on the wording of subsection 53(1), that wilfulness is not a required element where an untrue material allegation is being advanced. In support of this assertion, Apotex relies on the decisions in
+Rothmans,  <FRAGMENT_SUPPRESSED>  F.T.R. 303 (T.D.). Apotex submits that the Federal Court of Appeal's decision  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , is distinguishable on its facts and does not extend to the type of untrue material allegation at issue in the present case. With respect to Teva's submission that an anticipation argument does not give rise to a defence under subsection 53(1), Apotex argues that the same facts may support different legal arguments and it is entitled to advance all legal arguments open to it.
+[10]
+As the issues raised in Teva's motion are vital to the final issue of the case, this appeal will be determined on the basis of the exercise of my discretion de novo (
+ <FRAGMENT_SUPPRESSED> ).
+[11]
+The issue on this appeal is whether it is "plain and obvious" that the allegation of invalidity claimed in the impugned paragraphs is incapable of success. In particular, is wilfulness an essential element under subsection 53(1).
+[12]
+Subsection 53(1) provides two grounds on which a patent may be found to be invalid: first, an untrue material allegation in the petition and second, the specification and drawings contain more or less than is necessary and such omission or addition is wilfully made with the intent to mislead (
+Rothmans
+, supra, at p. 428).
+[13]
+Regarding the question of what is a "material" allegation, in
+Rothmans
+, supra, Justice Rouleau referred to the decision of Justice Thurlow in
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), where it was held that the "material" allegations of a petition are the allegation that the applicant has made the invention and the allegation of facts that bring the applicant within the statutory prescriptions.
+[14]
+Later, in
+ <FRAGMENT_SUPPRESSED>  the
+Act
+] in the context of a failure to disclose foreign applications and patents. Regarding the requirements of the first ground of invalidity, he identified the following three elements: 1) the allegation is made in the petition; 2) the allegation is untrue; and 3) the allegation is material.
+[15]
+In
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 193 (T.D.), one of the issues centered on inventorship. The plaintiffs alleged that the failure to name two co-inventors constituted an untrue material allegation that rendered the patent invalid on the basis of the first ground in subsection 53(1). The defendants argued that for the plaintiffs to succeed on this ground they had to establish that the untrue allegation was wilfully made for the purpose of misleading. As well, the defendants argued that an inadvertent good faith failure to name the correct inventors will not invalidate a patent.
+[16]
+The trial judge, Justice Wetson, found on the evidence that the two individuals were co-inventors. He noted that the case before him was analogous to the circumstances in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), revd. (1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.), where Justice Walsh stated at pages 28-29:
+"Even without the jurisprudence a careful reading of s. 55(1) [now 53(1)] of the
+Patent Act
+, indicates that a patent can be void if any material allegation in the petition of the applicant is untrue. Since this phrase is followed by the word 'or', and the concluding phrase 'and any such omission or addition is wilfully made for the purpose of misleading' this clearly applies only to the second phrase as the first phrase does not deal with omissions or additions. Subsection (2) allows the court to find that the omission or addition was an involuntary error and to find that the patentee is entitled to the remainder of his patent. It, however, is only applicable to the second and third phrases of s-s. (1). What the court is required to find in the present case, which does not concern omissions or additions to the specifications or drawings, is whether the erroneous allegations in the petition are 'material', no evidence of fraud or intent to mislead being necessary."
+[17]
+As there was no evidence that the failure to name the two co-inventors was wilfully made with the intent to mislead, Justice Wetson framed the issue as whether the failure to name all of the true inventors was material and sufficient to render the patent invalid.
+[18]
+Justice Wetson concluded that the failure to name the co-inventors was not a material allegation. In arriving at this conclusion, he relied on the decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) at page 157, where he held that it is immaterial to the public that an applicant is the sole inventor or one of two co-inventors since this does not have a bearing on the term or substance of the invention or entitlement. He also endorsed the statement in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 193 (T.D.), that courts should strive to protect the rights of true inventors and that innocent errors in inventorship should not be allowed to defeat the presumption of validity of a patent.
+[19]
+On appeal, the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 65 (F.C.A.), found that the two individuals were not co-inventors. Justice Sexton went on to consider section 53 of the
+Act
+in the event that the factual finding was subsequently found to be in error. On the issue of "whether the failure to mention a co-inventor in the petition for a patent constitutes a 'material allegation' within the meaning of section 53 of the
+Patent Act
+sufficient to invalidate a patent", Justice Sexton stated at paragraph 47:
+"I agree with the trial judge's decision that the failure to mention a co-inventor in a patent petition does not constitute an untrue 'material allegation' sufficient to invalidate a patent in accordance with section 53 of the
+Patent Act
+. As Addy, J., held in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), affirmed (1979), 42 C.P.R.(2d) 33 (F.C.A.).38 'it is really immaterial to the public whether the applicant is the inventor or one of two joint inventors as this does not got [sic] to the term or to the substance of the invention nor even to the entitlement'.39 Ibid., p. 157.39 In my view, the trial judge thus correctly concluded that failure to name a co-inventor in a petition for a patent does not constitute a 'material allegation' that results in a patent's invalidity, pursuant to section 53 of the
+Patent Act
+."
+[20]
+Subsequent to the Court of Appeal's decision  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, but before the Supreme Court of Canada rendered its decision in that case,
+Q'Max  <FRAGMENT_SUPPRESSED> , was decided by the Federal Court Trial Division. In this case, the Court had to determine who was the true inventor of the patent at issue. Justice Gibson found on the evidence that a person other than the two named inventors was the true inventor.
+[21]
+Justice Gibson commented that his case was similar to those  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, and
+ <FRAGMENT_SUPPRESSED>  made with the intent to mislead. However, he distinguished
+Wellcome Foundation
+, supra, from his case on the basis that in the former it was a matter of a failure to name co-inventors and not the naming of someone who had been found not to be the inventor. He concluded that the patent was void by reason of an untrue material allegation.
+[22]
+At this juncture in the history of the relevant jurisprudence, the Supreme Court of Canada released its decision  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 499 (S.C.C.). In his consideration of whether the two individuals were wrongly excluded from co-inventorship as alleged by the appellants, Justice Binnie prefaced his analysis with the following:
+"For this argument to benefit the appellants (as opposed to Drs. Broder and Mitsuya), the appellants must further establish that this omission was a 'material' misstatement that was 'wilfully made for the purpose of misleading'. If so, the patent would be void pursuant to s. 53(1) of the
+Patent Act
+."
+[23]
+Following a lengthy discussion regarding the roles played by the two individuals, Justice Binnie concluded that they were not co-inventors of the patent at issue.
+[24]
+Regarding the issue of "materiality of co-inventorship" and Justice Wetson's conclusion that the failure to name the co-inventors in the patent was not a material misrepresentation that would invalidate the patent, Justice Binnie found that there was no need to consider the question of materiality further not only because of the conclusion that the two individuals were not co-inventors, but also because there was no evidence that the omission was made "wilfully made for the purpose of misleading" as required by subsection 53(1).
+[25]
+The most recent decision of relevance to this discussion is the Federal Court of Appeal's decision  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> . With respect to the issue of inventorship, Justice Stone upheld Justice Gibson's finding that the named inventors were not the true inventors. He went on to consider the appellants' argument that it was not open to the trial judge to invalidate the patent pursuant to subsection 53(1) since it was not contended that the misnaming was done "wilfully with the intent to mislead".
+[26]
+Following a review of the earlier jurisprudence, Justice Stone referred to the Supreme Court of Canada decision  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, and Justice Binnie's statements at paragraphs 94 and 109 and concluded at paragraph 31:
+"Thus the position today is that an untrue 'material allegation' that consists of a failure to name co-inventors in a petition for a patent will not render the patent void if the allegation was not 'wilfully made for the purpose of misleading'."
+[27]
+With respect to the argument advanced that the case was distinguishable from the decision  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, because in the latter case the individuals named as inventors were in fact inventors but in the case before the Court the named inventors were found not to be the true inventors, Justice Stone concluded that distinction did not bring the case within subsection 53(1) because the naming of the individuals who were not the inventors was not done "wilfully for the purpose of misleading".
+[28]
+In light of the decision in
+ <FRAGMENT_SUPPRESSED>  part of the individuals who named themselves as inventors, the omission to name the true inventor should not attract the "draconian" measure found in subsection 53(1).
+[29]
+Based on this review of the jurisprudence, I conclude as follows. With respect, I disagree with the Prothonotary's conclusion that the decisions  <FRAGMENT_SUPPRESSED>  Foundation
+, supra, and
+Q'Max  <FRAGMENT_SUPPRESSED> , can be distinguished on the ground that they dealt with "omissions" and not "material allegations". It is clear from the various decisions in both cases that with respect to inventorship it was the first ground of invalidity under subsection 53(1) that was being considered. As well, in both cases, a consideration of whether the failure to name co-inventors or the misnaming of the true inventor constituted a "material" allegation was central to the analysis. Although I agree with the learned Prothonotary that there have been no decisions specifically interpreting the wording of subsection 53(1) as imposing wilfulness as an essential element under the first ground, it is implicit in Justice Stone's reasons that in those circumstances where the named inventor in the petition is not the inventor and the true inventor is not named, then in order for the patent to be found invalid it must be shown that the misnaming was "wilfully made for the purpose of misleading".
+[30]
+With respect to the case of a failure to name a co-inventor, Justice Sexton agreed with Justice Wetson's analysis that this was not a "material" allegation. Given that Justices Binnie and Stone's statements regarding "wilfulness" in this circumstance are obiter and Justice Binnie did not deal with the issue of materiality, it is arguable whether wilfulness is an essential element or whether these kinds of cases will be resolved in the future on the basis of materiality.
+[31]
+Finally, taking into account that:
+a) the two cases dealt specifically with inventorship and not with the kinds of allegations raised in the present case;
+b) the reluctance on the part of the courts to invalidate a patent based on an innocent error in the naming of inventors; and
+c) since the decision of Justice Walsh in
+ <FRAGMENT_SUPPRESSED>  persuaded that in the circumstances of the present case it is settled law that "wilfulness" is an essential element of the first ground of invalidity under subsection 53(1). Accordingly, I am not satisfied that it is "plain and obvious" that the impugned paragraphs are incapable of success. Having reached this conclusion, it is not necessary to consider Teva's second argument.
+[32]
+For these reasons, the appeal is dismissed with costs to Apotex.
+ORDER
+[33]
+THIS COURT ORDERS that the appeal is dismissed with costs to Apotex.
+Appeal dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

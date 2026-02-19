@@ -1,0 +1,199 @@
+Overview
+[1]
+Aronovitch, Prothonotary
+: The underlying proceeding is a patent infringement action brought by Safe Gaming Systems Inc. (Safe Gaming) pursuant to the
+Patent Act,
+RSC 1985, c P-4 (
+Patent Act
+) in respect of electronic gambling activities carried out by the Nova Scotia Gaming Corporation (NS Gaming), the Atlantic Lottery Corporation (Atlantic Lottery) and Tech Link International Entertainment Limited (Tech Link).
+[2]
+Before filing their defences to this action, NS Gaming and Atlantic Lottery, (together, the Defendants), have moved to strike the action as against them on the grounds that the Federal Court lacks personal jurisdiction over them as Crown defendants. The Defendants maintain that while the Federal Court has subject matter jurisdiction over patent infringement actions, it does not have personal jurisdictions in actions against them as agents of the Crown in right of the Province of Nova Scotia.
+[3]
+For the reasons that follow, I am satisfied that, read together, section 20 of the
+Federal Courts Act,
+RSC 1985, c F-7 (
+FCA
+) and sections 2.1 and 54(2) of the
+Patent Act,
+confer personal as well as subject matter jurisdiction upon the Federal Court to entertain the present patent infringement action against NS Gaming and Atlantic Lottery.
+The Facts
+[4]
+In the context of a motion to strike, the facts as alleged must be taken as proven. Extraneous evidence may not be adduced in support of a motion to strike brought under Rule 221(1)(a) of the
+Federal Courts Rules
+, SOR/98-106, save where the ground for striking is that the Court lacks jurisdiction in respect of a claim. The following are the salient relevant facts alleged by the plaintiff in its statement of claim.
+[5]
+Safe Gaming is the owner of Canadian Patent No. 2,331,238, entitled "Safe Gaming System" (238 Patent), which claims a technological solution to proactively prevent problem gambling and to monitor and regulate responsible gaming activities of an individual.
+[6]
+NS Gaming is a Nova Scotia Crown corporation established in 1995 by the provincial
+Gaming Control Act,
+1994-95, c 4 (
+Gaming Control Act
+) for the purpose of carrying out the management function of regulated gaming in Nova Scotia, which includes overseeing the management of the business of gaming in the province. [see footnote 1]
+[7]
+Atlantic Lottery is incorporated under the
+Canada Business Corporations Act,
+RSC 1985, c. C-44, and runs the day-to-day operations of many of the various gaming business lines in Atlantic Canada. In Nova Scotia, Atlantic Lottery is contracted by NS Gaming to operate its video and ticket lottery businesses and to act as agent for NS Gaming in carrying out these objectives. The agency agreement between NS Gaming and Atlantic Lottery along with the Order of the Governor in Council approving the agreement are adduced as evidence in support of this motion.
+[8]
+NS Gaming is a 25 percent shareholder in Atlantic Lottery. Other Atlantic Lottery shareholders include the Queen in Right of the Province of Newfoundland and Labrador, the Lotteries Commission of New Brunswick and the Prince Edward Island Lotteries Commission. Atlantic Lottery conducts, manages and operates lottery schemes in four provinces: Nova Scotia, New Brunswick, Newfoundland and Prince Edward Island.
+[9]
+Together, the Defendants provide socially responsible gaming products and services to Nova Scotians that incorporate the plaintiff's patented responsible gambling features.
+[10]
+The plaintiff's seeks a declaration of infringement of the 238 Patent, a permanent injunction, and damages against all three defendants in connection with their unlicensed use of its patented technology. Safe Gaming also seeks a declaration that NS Gaming has failed to comply with Section 19.1 of the
+Patent Act
+by failing to make efforts to obtain a license to the plaintiff's patent on reasonable commercial terms.
+The Grounds for the Motion
+[11]
+The Defendants rightly point out that the question of whether the Federal Court has jurisdiction over particular subject matter is distinct from whether it has jurisdiction over a particular party:
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ), wherein the Court held that an action in tort/patent infringement against a provincial Crown agent corporation must be brought in provincial court unless a statute expressly provides for Federal Court jurisdiction "
+ratione personae
+" over the Crown.
+[12]
+The Defendants' second argument for striking is that the
+Nova Scotia Proceedings Against the
+Crown
+Act
+, RS 1989, c 360 (
+NSPAC Act
+), requires proceedings against the Crown to be brought in the Supreme Court of Nova Scotia. Thus, as agents of the Crown, any proceedings against them say the Defendants, can only be taken in the Supreme Court of Nova Scotia. [see footnote 2]
+[13]
+To flesh out the Defendants' argument, the
+Gaming Control Act
+provides that NS Gaming is an agent of Her Majesty in right of the Province of Nova Scotia. The statute further provides that the
+NSPAC Act
+applies to actions and proceedings against NS Gaming, and that any reference to the "Crown" in the
+NSPAC Act
+is to be construed as a reference to NS Gaming. [see footnote 3]
+[14]
+The Defendants maintain that a reference to the "Crown" in a statute extends to Crown agents. [see footnote 4] Therefore, by virtue of the agency agreement, and as an agent of the Nova Scotia Crown, the Defendants say that the
+NSPAC Act
+also applies to Atlantic Lottery and compels any suit against Atlantic Lottery to be brought in the Supreme Court of the province.
+The Jurisdiction of this Court
+[15]
+The Federal Court is a statutory court that requires a statutory grant of power to exercise jurisdiction. The elements required to support a finding of jurisdiction in the Federal Court are set out in
+ <FRAGMENT_SUPPRESSED>  at 766 (
+ITO
+) as follows: 1) there is a statutory grant of jurisdiction by the federal Parliament; 2) there is an existing body of federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction; 3) the law on which the case is based must be "a law of Canada" as the phrase is used in section 101 of the
+Constitution Act
+, 1867.
+[16]
+The
+FCA
+and the
+Patent Act,
+together, give subject matter jurisdiction to the Court for remedies claimed in respect of patents. Under section 20(1) of the
+FCA
+, this Court has exclusive original jurisdiction in all cases of patent impeachment and annulment. The Court also has concurrent jurisdiction under section 20(2) of the
+FCA
+in all other cases, for example patented infringement actions, "
+in which a remedy is sought under the authority of any Act of Parliament respecting any patent
+."
+[17]
+The moving parties rest their case primarily upon
+Dableh,
+wherein Justice Dubé struck out a patent infringement action against New Brunswick Power and Hydro Quebec, in part, on the basis that provincial legislation stipulated that actions against them could only be brought in their respective provincial courts. In that case, the Court was called upon to consider the immunity from liability in tort which the Crown enjoys except as abrogated by statute. The Court noted that the
+Patent Act
+did not expressly provide that it was binding on the Crown, and in the absence of express language in the
+Patent Act
+to bind the Crown, Justice Dubé concluded that the concurrent subject matter jurisdiction, between subject and subject, over patent infringement under section 20 of the
+FCA,
+was not sufficient to bind the provincial Crowns and their agents at issue in that case.
+[18]
+Justice Dubé wrote the following regarding the absence of any provisions in the
+Patent Act
+that could bind the Crown:
+La
+Loi sur les brevets
+, S.C.R. 1985, c. P-14, ne fait aucune mention de possibilité de recours devant la cour fédérale du Canada dans le cas de contrefaçon d'un brevet par la Couronne du chef d'une province. On ne retrouve pas non plus dans ce texte de loi une implication nécessaire liant la Couronne provinciale ...
+(at page 551)
+[19]
+The law has changed since Justice Dubé's decision. Section 2.1 of the
+Patent Act
+was amended in 1993 and now states, "
+The Act is binding on Her Majesty in right of Canada or a province
+."
+[20]
+Further, while section 54 of the
+Patent Act
+gives concurrent jurisdiction to the provincial courts in matters of patent infringement, section 54(2) of the
+Patent Act
+provides that "
+Nothing ...impairs the jurisdiction of the Federal Court under section 20 of the Federal Courts Act
+..."
+[21]
+Other than in areas such as patent expungement where it has exclusive jurisdiction, section 20(2) of the
+FCA
+, gives this Court concurrent jurisdiction in all other cases in which a remedy is sought under the authority of any Act of Parliament respecting any patent. The
+Patent Act
+is such an Act of Parliament which now extends patent remedies as against Her Majesty in right of Canada or a province. The remedies that are available under the
+Patent Act
+against the provincial Crown are therefore enforceable in this Court.
+[22]
+The above provisions of the
+FCA
+and the
+Patent Act,
+read together, thus provide an explicit statutory grant of jurisdiction by Parliament, to the Federal Court, over patent remedies that may be sought against the Crown, sufficient, in my view, to satisfy the elements of the
+ITO
+test necessary to find jurisdiction in this Court.
+[23]
+As for the provincial legislation, and the
+NSPAC Act
+in particular, the statute only permits actions in tort against the provincial Crown that are brought pursuant to its provisions. Section 91 of the
+Constitution Act
+, 1867, gives the Federal Parliament exclusive jurisdiction over patents. The provincial legislation does not have the effect of ousting the jurisdiction given by Parliament to the Federal Court in respect of patent actions, or of preventing Parliament from creating a statutory cause of action and attributing jurisdiction in respect of the cause of action to the Federal Court concurrently with the province.
+[24]
+Indeed, within constitutional limits, Parliament may derogate from the jurisdiction of the provincial courts by conferring jurisdiction upon federal courts constituted by statute pursuant to section 101 of the
+Constitution Act
+, 1867, "for the better administration of the laws of Canada." Express statutory language must be used where jurisdiction is intended to be assigned to the Federal Court. [see footnote 5] That is the case in this instance.
+[25]
+I would add that the Defendants' reading of the
+FCA
+and
+Patent Act
+to preclude the jurisdiction of this Court in respect of remedies for patent infringement as against the Crown would result in a multiplicity of proceedings that Parliament would not have intended. The Federal Court has exclusive jurisdiction as relates to the expungement of patents. Thus, should the Defendants wish to defend against the action by attacking the validity of the plaintiff's patent, they would only be able to do so in this Court. As the plaintiff rightly points out, such a scheme would not ensure the best attainment of the objects of section 20 of the
+FCA,
+and of the
+Patent Act,
+in accordance with the interpretive principle set out in section 12 of the
+Interpretation Act
+, RSC 1985, c I-21. [see footnote 6]
+Conclusion
+[26]
+Coupled with the statutory grant of Federal Court jurisdiction in all cases involving remedies under the
+Patent Act
+, section 2.1, in my view, removes any doubt that the Federal Court has concurrent jurisdiction in cases seeking a remedy under the
+Patent Act
+against a provincial Crown. If I am wrong, the motion would fail in any event, as the Defendants have failed to meet their heavy burden in this motion of satisfying the Court that it is "plain and obvious", or free from doubt, that the Federal Court lacks jurisdiction to entertain this action as against the  <FRAGMENT_SUPPRESSED>  (FCA) at para 4.
+[27]
+While my above findings are dispositive of the matter I would add that if the
+NSPAC Act
+were to apply to exclude a suit against the provincial Crown in this Court, it is not clear, or free of doubt, that Atlantic Lottery may be said to be the Crown for the purposes of that statute and thus immune from suit in this Court.
+ORDER
+[28]
+THIS COURT ORDERS that
+:
+1. The motion of the Defendants Nova Scotia Gaming Corporation, and Atlantic Lottery Corporation is denied.
+2. The time for the service and filing of the Defendants' statements of defence is extended to March 28, 2013.
+3. The costs of the motion are payable to the plaintiff, in any event of the cause.
+Motion dismissed.
+Editor: Gary W. McLaughlin/vnh
+Footnotes
+1.
+Gaming Control Act
+, ss 8, 10
+2. Sections 7, 10, and 25 of the
+NSPAC Act
+state as follows:
+7 Subject to this Act, proceedings against the Crown in the Supreme Court shall be instituted and proceeded with in accordance with the
+Judicature Act
+. R.S., c. 360, s. 7.
+10 Nothing in this Act authorizes proceedings against the Crown except in the Supreme Court or a county court. R.S., c. 360, s. 10.
+25(1) Except as provided in this Act, proceedings against the Crown are abolished.
+3.
+Gaming Control Act
+, SNS, 1994-95, c 4, s.36
+4.
+R v Eldorado Nuclear Ltd
+, [1983] 2 SCR 551 at para 68;
+ <FRAGMENT_SUPPRESSED> , at paras 45-46.
+6. "12. Every enactment is deemed remedial and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects."

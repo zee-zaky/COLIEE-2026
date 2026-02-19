@@ -1,0 +1,278 @@
+[1]
+MacKay, J.
+: This action is an appeal from an income tax reassessment by the Minister of National Revenue of the plaintiff's return of income for its 1980 taxation year. A Statement of Claim was filed December 30, 1985 (and subsequently amended December 12, 1986), following an objection to reassessment and confirmation of reassessment dated October 7, 1985, in respect of the matter at issue. Originally there were two grounds of objection and appeal by the plaintiff but one was abandoned before trial.
+[2]
+The issue left in dispute is whether income from the settlement of forward sales contracts for the delivery of silver in the 1980 taxation year is properly included as "resource profits" within the meaning of regulation 1204(1) as it read at the relevant time.
+[3]
+At the hearing of this action, counsel filed the following Agreed Statement of Facts:
+"1. The plaintiff is engaged in the mining and processing of and exploration for precious metals in the Arctic region of Canada.
+"2. In the years 1976 to 1982, the plaintiff operated a silver mine located near Port Radium in the Northwest Territories. All production of silver concentrate from the mine was sold to an unrelated party under long-term sales agreements. The purchase price for the silver concentrate was based on the market value of silver at a date two months from the receipt of the concentrate by the purchaser.
+"3. For the years 1978 to 1980 inclusive, the plaintiff entered into forward sales contracts for silver. No amounts of silver were delivered under the forward sales contracts. Instead, the forward sales contracts were closed out as they became due, or rolled over for other contracts to be closed out at a future date.
+"4. The plaintiff was, at the time in question, a wholly-owned subsidiary of I.U. International, a U.S. company. I.U. International entered into and closed out the forward sales contracts on behalf of the plaintiff.
+"5. An example of how a hedging transaction operates is as follows:
+(a) Assume the market price of a commodity on January 1st is $200 - a price which the producer wishes to 'lock in'.
+(b) Assume in Case 1 that on July 1st the price is $350, and in Case 2 the price on July 1st is $100.
+(c) Assume that on January 1st the producer buys a forward sales contract at $200.
+Case #1
+Case #2
+Gain (loss) on closing out contract
+$(150)
+$100
+Sale of commodity
+350
+100
+Price realized
+$ 200
+$200
+"Thus, through a combination of the sale of the commodity and the gain or loss on the future sales contract, a producer has 'locked in' or 'hedged' today's price.
+"6. In the 1980 taxation year the plaintiff realized a gain of $29,359,967 on the settlement of forward sales contracts for delivery of silver in that year, which amount was included in the plaintiff's income for tax purposes.
+"7. It is agreed that the $29,359,967 is properly included in the income of the plaintiff. The sole issue for determination is whether the said amount is properly included as 'resource profits' within the meaning of Regulation 1204(1)(b)(ii)(B) as it read in 1980."
+[4]
+The plaintiff submits that income from the settlement of forward sales contracts should be included as "resource profits" under the
+Regulations
+, as the amount falls within the meaning of income from the production of minerals in Canada. The defendant submits that it should not be included because the plaintiff received payment from the purchaser of the silver separate and apart from the forward sales contracts entered into by the plaintiff, which contracts in the defendant's view were transactions distinct from the sales of silver by the plaintiff.
+[5]
+For the 1980 taxation year regulation 1204(1) provided in part:
+"1204(1) For the purposes of this Part 'resource profits' of a taxpayer for a taxation year means the amount, if any, by which the aggregate of
+. . . . .
+(b) the amount, if any, of the aggregate of his incomes for the year from
+(i) the production of petroleum, natural gas or related hydrocarbons from oil or gas wells in Canada operated by him,
+(ii) the production in Canada of
+(A) petroleum, natural gas or related hydrocarbons, or
+(B) metals or minerals to any stage that is not beyond the prime metal stage or its equivalent,
+from mineral resources in Canada operated by him,
+. . . . .
+exceeds
+(c) the aggregate of his losses for the year from the sources described in paragraph (b),
+computed in accordance with the Act, on the assumption that he had during the year no incomes or losses except from those sources and was allowed no deductions in computing his income for the year other than
+. . . . .
+(f) such other deductions for the year as may reasonably be regarded as applicable to the sources of income described in paragraph (b), other than a deduction under s. 1201 or subs. 1202(2) or (3), 1207(1) or 1212(1).
+. . . . .
+"1204(3) Income or loss from a source described in paragraph (1)(b) does not include income or loss derived from transporting, transmitting or processing petroleum, natural gas or related hydrocarbons."
+[6]
+The importance of the "resource profits" calculation was, and remains, its use as a base in calculating the deduction available to taxpayers under s. 20(1)(v.1) of the
+Income Tax Act
+, which permits a deduction in respect of "oil or gas wells in Canada or mineral resources in Canada". Section 20(1)(v.1) of the
+Act
+provided:
+"20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto: ...
+. . . . .
+(v.1) such amount as is allowed to the taxpayer for the year by regulation in respect of oil or gas wells in Canada or mineral resources in Canada."
+Regulation 1210 provided that the amount of the deduction for the purposes of s. 20(1)(v.1) was an amount equal to 25 percent of resource profits for the year within the meaning of regulation 1204(1). Regulation 1210(1) provided:
+"1210(1) For the purposes of paragraph 20(1)(v.1) of the Act, there may be deducted in computing the income of a taxpayer for a taxation year an amount equal to 25 per cent of his resource profits for the year within the meaning of subs. 1204(1) if that subsection were read without reference to paragraph (a) or subparagraph (b)(iv) thereof, computed as if no amounts were deducted in computing those resource profits under paragraph 20(1)(c), (d) or (v.1) of the Act or paragraph 1204(1)(d) or (e)."
+A reduction in the "resource profits" amount for the year, as in this case was the result of the reassessment of the plaintiff's income, meant a reduced amount available for deduction under s. 20(1)(v.1). "Resource profits" also served as a base for calculating the plaintiff's earned depletion allowance as authorized by Part XII of the
+Regulations
+and s. 65(1) of the
+Act
+as they applied to the taxation year. Consequential adjustments in amounts deductible pursuant to both s. 20(1)(v.1) and s. 65(1) of the
+Act
+had been made by the Minister of National Revenue following upon reassessment of the plaintiff's "resource profits".
+[7]
+In relation to its submission that the forward sales contracts entered into by the plaintiff in respect of its anticipated production of silver were simply a hedge designed to reduce the risk of wide price fluctuations, the plaintiff produced two expert witnesses, both chartered accountants, John H. Bowles, and Robert B. Parsons.
+[8]
+Counsel for the defendant objected to the testimony of the first expert, Mr. Bowles, on the basis that it had no relevance to the issue to be decided. Counsel submitted that the issue was a purely legal issue, to which the consideration of evidence of the marketing practices of companies engaged in precious metals production and of generally accepted accounting principles was not relevant. In the view of the counsel, the issue was whether income or loss realized from settlement of forward sales contracts is to be considered in calculation of resource profits, even if the plaintiff were found to have engaged in such contracts and settlement as a "hedging" activity. I permitted the evidence to be entered, since I was not persuaded that evidence as to practice in the industry and generally accepted accounting principles relating to that practice was irrelevant to the issue here to be determined.
+[9]
+I now confirm that such evidence is, in my view, admissible evidence. It is true that industry practice and generally accepted accounting principles, if inconsistent with provisions of the
+Income Tax Act
+, cannot override the expressed intention of Parliament. Moreover, as counsel for the plaintiff admitted, industry practice and generally accepted accounting principles do not govern the interpretation of "resource profits" under the
+Act
+. Inasmuch as the definition of "resource profits" includes such basic terms as "income" and "production" and is related to a specific industry or to specific industries, however, the type of evidence tendered by Mr. Bowles, relating to industry practice and accounting practice followed in that industry, is relevant. In my view, such an approach accords with the interpretive approach set out in
+ <FRAGMENT_SUPPRESSED>  at 183; 119 N.R. 101 (S.C.C.), per Dickson, C.J.C., namely that a court should be desirous of assessing "the economic and commercial reality of the taxpayer's actions". Evidence of the sort given by the experts testifying for the plaintiff in this case, is relevant to "the economic and commercial reality" of the taxpayer's operations and those operations are the basis for the report by the taxpayer of income to which the
+Income Tax Act
+and
+Regulations
+are applied.
+[10]
+Mr. Bowles, who produced an expert's report, testified that hedging the price to be received under contracts of sale is a common practice in the mining industry, particularly for producers of precious metals. The means by which hedging is accomplished is through entering into forward sales contracts, in which a producer promises to sell a certain amount of product at some date in the future. Normally the price is the spot market price of the product at the date of execution of the contract. The obligations of the producer are fulfilled usually through the closing out of the contract by the purchase of an equal amount of product on the commodities futures market, and not by actual delivery of the product promised.
+[11]
+By entering into these future sales contracts, the price to the producer is assured to the extent that anticipated future production proves accurate in the result. While the producer is paid by the purchaser of the actual production at a spot market price prevailing at an agreed time, if the price paid is below the price fixed under the future sales contract, the gain on the settlement of the future sales contract will offset the reduction in the price paid for the product at the market price as agreed upon. Conversely, if the price paid for delivery of production is higher than the price fixed under the future sales contract, the loss on the settlement of the future sales contract will offset the increase in price paid for the product as delivered. The arrangement operates as is set out in the examples in paragraph 5 of the Agreed Statement of Facts. The examples assume reasonable matching of actual production with the nominal delivery under the future sales contract, a pattern that may be difficult to establish in practice. In the net result, whether market prices to be paid for future delivery increase or decrease, the producer is assured that he will receive for his product the market price prevailing at the time he concludes the forward sales contract.
+[12]
+Mr. Bowles testified that under generally accepted accounting principles, a producer's gain or loss from its execution of forward sales contracts may be considered a "hedge" and therefore matched against the production of the goods produced, if four conditions are met. These were set out in his report, to which there was no dispute (save for the objection respecting relevancy), as follows:
+"1. The item to be hedged exposes the enterprise to price (or interest rate) risk.
+"2. The futures contract reduces that exposure and is designated as a hedge.
+"3. The significant characteristics and expected terms of the anticipated transactions are identified.
+"4. It is probable that the anticipated transaction will occur."
+In his view, the difference between hedging and speculating is that in the former the company engaged in hedging sells forward or commits a product it has the capability of producing and that it intends to produce: if it has neither the capability nor the intention of meeting its commitments through production it is speculating in engaging in forward sales contracts.
+[13]
+Whether a transaction is a hedge depends upon assessment at the time forward sales contracts are concluded of capacity and intention to produce product committed under those contracts. Where the transaction is a hedge, profits realized on settlement of the contracts are considered a component of the price realized for the product when sold and under accounting practice are included in income from sales. Because of the difficulties of coordinating production and delivery dates with dates of settlement of forward sales contracts, revenue from settlement of the contracts is ordinarily accounted in sales revenues periodically, perhaps on a quarterly basis or a longer period.
+[14]
+Mr. Parsons, an author as well as an accountant, who also produced an expert's report, has experience specifically in tax accounting for companies in the mining industry. He also testified that hedging was very common among producers of precious metals. Mr. Parsons testified that under generally accepted accounting principles, the hedge transaction is considered to be an integral part of the sales transaction and that any gain or loss on the hedge will be recognized at the same time as the production that is the subject matter of the hedged transaction is sold. This accounting treatment applies whether or not the forward sales contract, by which the "hedge" is accomplished, is closed out before the product is actually delivered by the producer. The rationale behind such accounting treatment was said to be that by such treatment the commercial realities of the production of the goods are recognized, for the whole purpose of the hedge is to fix the price, in advance, at a level that the company accepts as a satisfactory price.
+[15]
+In cross-examination, both Mr. Bowles and Mr. Parsons stated that the inclusion of gain or loss from the settlement of forward sales contracts in production revenue could only be accorded if there was sone reasonable relationship of the amount of actual future production and the projected sale under a forward sale contract, as well as of the time at which the payment for production would be received by the producer. In other words, there must be a legitimate attempt to hedge against the risk arising from fluctuations in the price of the product that will be sold by the producer.
+[16]
+In cross-examination Mr. Parsons admitted that there was no generally accepted accounting standard to determine at what point a deviation between the amounts to be sold under the forward sales contracts and the actual production delivered, and the times of the sale under the contract and actual delivery would render the forward sales contracts a speculative endeavour as opposed to a hedge. He emphasized, however, that the time at which a characterization of the forward sales transaction was to be made was at the time of entry into the forward sales contract. If it turned out that the producer had overestimated the amount of future production for purposes of the forward sales contract, it would still be possible to characterize the contract as a hedge. Subsequent accounting treatment would then allocate the portion of the gain or loss corresponding to actual production as revenue from production, while the portion corresponding to any excess over the actual production would be treated as income of a speculative nature.
+[17]
+Mr. Parsons also indicated that if the producer should choose to close out the forward sales contract earlier than it was required to do, by purchasing an equivalent amount of product, this action did not alter the characterization of the gain or loss on the forward sales contract as a hedging transaction. The effect would merely be that during the period from the date of closing out the contract to the date of receipt for production delivered the producer would not be protected from the risk that prices would fall.
+[18]
+The final witness was Ray Jenner, current vice-president of the plaintiff. Mr. Jenner gave evidence respecting the history of the silver mine operated by the plaintiff at Port Radium, and of his understanding of the means by which the hedging operations of the plaintiff were conducted during the 1980 taxation year and of the hedging operations generally carried on since then by the plaintiff in relation to production of precious metals from other mining operations.
+[19]
+It was Mr. Jenner's evidence that the original estimate of silver production for 1980 was 1,702,000 ounces, later revised to 1,367,000. The amount of silver actually produced in that year was 1,335,000 ounces and the amount of production hedged was 1,585,000 ounces. These amounts were queried by counsel for the defendant on cross-examination, on the basis that they did not appear to correspond with evidence from the witness' examination for discovery. My understanding is that the latter evidence, filed as Exhibit 3 of total silver sold forward in 1980 included amounts expected to be produced in that year subsequently. Ultimately there was no dispute with respect to the figures provided by Mr. Jenner in his testimony at trial.
+[20]
+The hedging transactions were carried out by the parent company of the plaintiff, I.U. International, from its offices in Philadelphia. Mr. Jenner, whose association with the plaintiff dates from 1993, could not provide evidence of precise arrangements made in 1980, but he was able to provide information regarding the general manner by which future sales contracts were dealt with, and the accounting treatment of these transactions by the company.
+[21]
+In March of 1980 a decision was made to sell forward the anticipated remaining production of the mine, whose reserves were nearing depletion, and were expected to be depleted in 1981 or at the latest in 1982. It was considered then that prices prevailing in 1980 were favourable, and that risk of their decline in future should be avoided. Amounts to be sold forward were based on estimated reserves remaining for the entire period, and these estimates were revised periodically. There was no evidence of the specific consideration by the parent company of the estimated production from the mine though those estimates would have been known to the parent from regular intercompany reports. Forward sales contracts were arranged by I.U. International for the plaintiff, in the active months for trading on the commodities market, and were apparently settled without particular reference to the time of delivery to or payment by the refiner purchaser. Receipts from actual production and settlement of forward sales contracts were kept in separate ledger accounts by the plaintiff, not by the parent company, and consolidated annually, in accounting for gross revenue from production, for financial statements and thus for income tax purposes. Mr. Jenner's evidence was that the purpose of the forward sales contracts, the hedging activity, was to fix the price for silver expected to be produced in the future at the price prevailing when the forward sales contracts were made. In turn this provided assurance of cash flow, assuming production sufficient to meet forward sales commitments, in order to finance production and ongoing exploration activities of the mine project.
+[22]
+No witnesses were called to testify by the defendant.
+The Positions Of The Parties
+[23]
+The basic positions of the parties differed in accord with their differing views of the relationship between the contracts, and their settlement, for forward sales and the sales of actual production by the plaintiff.
+[24]
+In the plaintiff's submission the forward sales contracts were hedging arrangements, to assure fixed prices for future silver production, and they were an integral aspect of marketing that production. That was their purpose and the results were properly reflected in their inclusion of profits, and implicitly losses if they had not been so successful, arising from settlement of the forward sales contracts as an integral portion of the revenue derived from production of silver.
+[25]
+It was the defendant's view that the forward sales contracts were separate transactions from the production and marketing of the silver product, so separate that their negotiation and settlement could not be considered hedging. Yet, even if the forward sales contracts were considered hedging the transactions were not sufficiently integrated with production and delivery of the silver product that they could be considered to constitute a single business activity. Thus gains on settlement of the contracts were not an aspect of "resource profits" within the meaning of regulation 1204(1).
+[26]
+For the plaintiff it was urged that marketing is an aspect of production, within regulation 1204(1) which speaks of resource profits in terms of income from production. That income was not intended to be limited strictly to revenue derived directly upon delivery of a product, it was urged by reference to the
+Regulations
+. Thus, regulation 1204(3) specifically excludes from calculations of income or loss from a source described under 1204(1)(b), in the case of producers of petroleum, natural gas or hydrocarbons, of income or loss from transporting, transmitting or processing the product. Implicitly, absent that provision, income from these activities would be included. Implicitly income from these activities is included in calculations of income in the case of production of metals or minerals to the prime metal stage, the other activity included within regulation 1204(1)(b), and income from hedging, an activity said to be more closely involved with production than any of those expressly excluded, ought to be included within income from production under 1204(1)(b). Reference was also made to regulation 1210(1), which counsel submitted excluded interest costs as a deduction from the source of income from production of minerals or metals. Finally, paragraphs (c) and (f) of regulation 1204(1) use the word "source" in reference to 1204(1)(b). The regulations, the plaintiff submitted, implied the application of a "sourcing concept" to the recognition of income from production and the inference from this was that income from and expenses of production should not be so narrowly construed as to restrict revenues and expenses to actual sales proceeds and direct lifting costs. Rather, income from production of metals or minerals should include all receipts reasonably related to the production activity.
+[27]
+In assessing the issue in this case it was submitted that principles applicable under other provisions of the
+Act
+should be applied by analogy. Thus, cases dealing with sources of income, in another context, were referred to. Counsel for the plaintiff referred in particular to
+ <FRAGMENT_SUPPRESSED>  D.T.C. 6521; [1986] 2 C.T.C. 459, and
+Imperial Tobacco Co. (of Great Britain and  <FRAGMENT_SUPPRESSED>  (C.A.).
+[28]
+The issue in the two Canadian decisions was whether certain receipts of the taxpayer could be considered income from business or investment income (or in the case of <FRAGMENT_SUPPRESSED> , "foreign investment income"), in the context of determining the taxpayer's refundable dividend tax on hand, in the application of s. 129(4) of the
+Act
+which required a distinction to be made between income from property and income from property used in the course of carrying on a business.
+[29]
+Marsh & McLennan
+involved the determination of whether interest received from short-term investment of insurance premiums held by an insurance broker before remittance to insurers was "Canadian investment income", or whether the interest was income from property used in the business. In the latter case, it would be excluded from "Canadian investment income" and from the refundable dividend tax on hand account. The Federal Court of Appeal by a majority decision, allowed the Crown's appeal. Clement, D.J., held, at 638 F.C., 5189 D.T.C., 242 C.T.C., that "... on the facts of this case there was between the broker's business and the investments an interconnection, an interlacing, an interdependence, a unity embracing the investments and the business", and therefore the interest was income from property used or held in the course of carrying on the business of insurance brokerage. Le Dain, J.A., agreed, finding the test to be whether the fund was employed and risked in the business, which in this case it was since the interest derived was required to meet the insurance broker's obligations to insurers; it was only for a period of a few months that the funds were available to the insurance broker.
+[30]
+In <FRAGMENT_SUPPRESSED> , the taxpayer operated an automobile engine manufacturing business in the Philippines, and was required by Philippine law to bring foreign currency into the country to carry on that business. It accomplished this by complicated banking arrangements, which resulted in the receipt of interest income. Attempting to take advantage of the dividend refund in s. 129 of the
+Act
+, the taxpayer then included this interest income in its "foreign investment income", a component of the refundable dividend tax on hand account. The Minister of National Revenue reassessed on the basis that it was income from an active business or income from property used in the course of carrying on an active business.
+[31]
+The Supreme Court of Canada dismissed the taxpayer's appeal from a Federal Court of Appeal decision which relied heavily on
+Marsh & McLennan
+. Wilson, J., for the court, commenced on the tests set out in
+Marsh & McLennan
+, and preferred the "employed and risked" test set out by Le Dain, J.A. Wilson, J., summarized her reasoning as follows, at 520 S.C.R., 6525-6526 D.T.C., 465 C.T.C.:
+"The test is not whether the taxpayer was forced to use a particular property to do business; the test is whether the property was used to fulfill a requirement which had to be met in order to do business. Such property is then truly employed and risked in the business. Here the property was used to fulfill a mandatory condition precedent to trade; it is not collateral, but is employed and risked in the business of the taxpayer in the most intimate way. It is property used or held in the business."
+[32]
+In reaching that conclusion, she was able to distinguish the situation of investment of trading profits from investment to fulfil a mandatory condition precedent to carrying out business operations on the basis of remoteness of "risk" to which the property is exposed. She stated, at 520 S.C.R., 6525 D.T.C., 464 C.T.C., that "[t]he threshold of the test is met when the withdrawal of the property would 'have a decidedly destabilizing effect on the corporate operations themselves'", quoting from
+ <FRAGMENT_SUPPRESSED>  at 2531 (T.R.B.).
+[33]
+Both counsel referred to these decisions. In the submission of counsel for the plaintiff, the cases illustrate that if income from what might otherwise be considered a separate source is so interwoven with the business, then the distinction in sources is eclipsed. In his view, the tests enunciated in these cases, applied to the facts of this case, led to the conclusion that the receipts on settlement of future sales contracts were an integral aspect of the plaintiff's income from production, of its resource profits. Counsel for the defendant, on the other hand, argued that if the tests set out by these cases are applied to the facts here, the plaintiff fails to satisfy those tests, because of the functional independence of the production contracts and the future sales contracts. The defendant urged that absent the future contracts, the plaintiff's production would not have been affected, but that is not more than a speculative conclusion and is not more helpful than noting that if the plaintiff were not engaged in silver production it would not have undertaken forward sales contracts for silver.
+[34]
+In my view, the tests set out by the Federal Court of Appeal and the Supreme Court of Canada are not directly applicable to the interpretation of the statutory provisions relevant in this matter. Those tests relate to the rather specific language of s. 129(4) of the
+Act
+. The tests were developed to resolve disputes relating to the distinction between investment income and active business income. They were not developed in order to determine whether income was or was not income from the production of metals or minerals within regulation 1204(1).
+[35]
+The
+Imperial Tobacco
+case, supra, a decision of the English Court of Appeal, also cited by the plaintiff, involved the characterization for tax purposes, under then prevailing English legislation, of a gain realized on disposition of a fund of foreign currency held by the taxpayer for purposes of purchasing tobacco leaf abroad. While that decision concerns different legislation and circumstances than in the case before me, and thus it may be distinguished, the principle there relied upon is, it was urged, of persuasive value. There the taxpayer argued the gain was not profit from the company's trade but arose from the temporary investment of capital, but it was held and upheld on appeal that the gain was income from the company's trade. At both trial and on appeal the key factor relied upon by the courts in concluding the profit arose in the course of the taxpayer's regular business was the intention of the taxpayer at the time of acquisition of the foreign currency.
+[36]
+For the defendant, counsel submitted that the words "income from the production in Canada of ... metals and minerals to any stage that is not beyond the prime metal stage ...", as used in regulation 1204(1)(b) (ii), have a narrower meaning than that which might be based on the general concept of "sources" used elsewhere in the
+Act
+, they incorporate a narrow meaning of the word "production". As I understand the argument, income from any activity not directly involved with extraction of the metal or mineral to the prime metal stage is not to be included within income from production.
+[37]
+In support of this argument the defendant cited several cases, dealing in the main with statutory provisions other than regulation 1204(1) but which, it was urged, support a restricted meaning of "production" in this case. Reference was made to
+ <FRAGMENT_SUPPRESSED>  where the Supreme Court of Canada held that the taxpayer's costs of ongoing scientific research were not expenses to be deducted, under then applicable regulation 1201(4), in the calculation of "profits ... reasonably attributable to the production of ... industrial minerals" for purposes of depletion allowance. That same regulation was also dealt with by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.) where it was held that "profits ... reasonably attributable to production of ... prime metal or industrial minerals" did not include earnings on investments of surplus held by the taxpayer for future retirement of debentures. Similarly, the Court held that the earnings from investments were not income "derived from the operation of a mine" within then s. 83(5) of the
+Act
+which provided a 36-month tax exemption for income so derived. There the court clearly based its decision on the conclusion that the investment and mineral production activities of the taxpayer were quite separate business activities.  <FRAGMENT_SUPPRESSED>  (F.C.T.D.) affirmed, Unreported, Court file A-1324-84, December 2, 1985 (F.C.A.), leave to appeal refused (1986), 66 N.R. 77 (S.C.C.), my colleague, Madame Justice Reed, concluded that proceeds of business interruption insurance were not included in the calculation of production profits under regulation 1201 (pre-May 6, 1974) or resource profits under regulation 1204 (post-May 6, 1974). The insurance proceeds were not derived from the production of minerals, at least in that case where there was no production of minerals in the taxation year.
+[38]
+Not referred to by counsel was
+ <FRAGMENT_SUPPRESSED>  D.T.C. 6505 (T.D.) in which this Court had followed the decision in <FRAGMENT_SUPPRESSED> in a case concerning the proceeds of business interruption insurance under s. 83(5) of the
+Act
+and held the proceeds not to be income "derived from the operation of a mine" within that section as it applied to provide tax exemption. That decision was recently reversed by the Court of Appeal (Unreported, Court file A-1051-88, May 11, 1992, per Mahoney, J.A., Stone, J.A., concurring and Linden, J.A. dissenting). That court declined to adopt the reasoning in <FRAGMENT_SUPPRESSED> which dealt with other provisions of the tax regime. The case is instructive in its emphasis on the necessity to deal with provisions of the
+Act
+and
+Regulations
+in terms of their own wording.
+[39]
+In support of its submission that "production" as used in regulation 1204(1) be given a narrow meaning, the defendant also referred to
+ <FRAGMENT_SUPPRESSED>  (T.D.) where McNair, J., held that scientific research expenditures are not included in the taxable production profits based on income and expenditures from "the production of petroleum, natural gas or related hydrocarbons from oil or gas wells in Canada" under former s. 124.2 of the
+Act
+. (Former s. 124.1 provided a parallel definition for "taxable production profits from mineral resources in Canada"). In that case, McNair, J., relied upon
+International Nickel
+and <FRAGMENT_SUPPRESSED> , supra, and upon the definition of "production" by Collier, J., in
+ <FRAGMENT_SUPPRESSED>  at 412 (T.D.), and, with reference to the "sourcing concept" advanced by the Crown in that case as a basis for including research expenditures in calculation of production profits, McNair, J., said (at 6632 D.T.C., 112 C.T.C.):
+"In light of these cases, I am unable to agree with the submission of defendant's counsel that income under ss. 124.1 and 124.2 of the
+Act
+must be computed in accordance with the concept of the source principle. As I read these sections, contrary to what defendant's counsel suggests, the calculation of taxable production profits is independent of the calculation of income for purposes of s. 3 of the
+Act
+. In my opinion, ss. 124.1 and 124.2 set up their own separate scheme of inclusions and exclusions from income for purposes of the special incentive programs."
+Since the hearing of this matter the Court of Appeal has upheld the decision in
+Gulf Canada
+, (Court file A-1007-90, January 10, 1992, per Hugessen, J.A., for the court) [136 N.R. 187], and it specifically reaffirmed McNair, J.'s, comment that "ss. 124.1 and 124.2 set up their own separate scheme of inclusions and exclusions from income for purposes of the special incentive programs". The same comment was later affirmed again, with emphasis, by Mahoney, J.A., for the majority of the court in <FRAGMENT_SUPPRESSED> , supra, at p. 4.
+[40]
+In
+Texaco Exploration
+, supra, my colleague, Mr. Justice Collier, dealing, in part, with the application of then regulations 1200 and 1201 concerning depletion allowance applicable to profits "reasonably attributable to the production of oil or gas", defined production in the following term:
+"In my opinion, the 'production of oil [or] gas', in this suit, means the bringing forth, or into existence and human realization, from underground, a basis substance containing gas, and at the same time other matter."
+I note that in a footnote to his decision, Collier, J., added that he had not overlooked the words of Judson, J., in
+ <FRAGMENT_SUPPRESSED>  at 749; 60 D.T.C. 1219, at 1224; [1960] C.T.C. 275, at 288, that "[n]o company makes an actual profit merely by producing oil. There is no profit until the oil is sold". That same recognition underlies the comment of Mahoney, J.A., in the Court of Appeal in <FRAGMENT_SUPPRESSED> , supra, (at p. 11), in relation to the words "the operation of a mine" as used in then s. 83(5) of the
+Act
+, that "It is the operation of a mine as an economic activity, not the physical acts involved in extracting and processing, that generates income".
+[41]
+The defendant submitted that in order for the gain obtained from the settlement of the forward sales contracts to be considered income from production of metal or minerals in Canada, the settlement of these contracts must be an integral part of the plaintiff's business of producing silver.
+[42]
+In order to constitute an integral part of that business, it was submitted that there must be some relationship between the production contracts and the future sales contracts and their settlement. In the view of counsel there was no evidence that this relationship existed, owing to the functional separation of the two markets, the independence of the two markets from each other, and the fact that there was no immediate correlation between the sale of the concentrate and the settlement of forward sales contracts. Counsel referred specifically in relation to this last point to the lack of evidence of any direct communication between those responsible for carrying out the forward sales contracts operations (in Philadelphia) and the production operations (in Port Radium and Edmonton).
+[43]
+Counsel also submitted that the same activity cannot have two sources of income for tax purposes. This was directed to the opinion of Mr. Parsons that for accounting purposes the gain or loss from hedging transactions to the extent of actual production could be considered production revenue, while any excess gain related to estimated production that did not in fact occur must be considered investment income. I find this argument not persuasive for the issue here is what portion of total income is to be included under regulation 1204(1) in computing resource profits for purposes of allowances or deductions.
+[44]
+Finally, it was submitted that the plaintiff's activities did not constitute hedging because of the failure to match forward sales contracts to production contracts, but that even if the plaintiff's forward sales activities did constitute hedging, these were not integral to the plaintiff's business of mining silver. While hedging may be an integral part of the plaintiff's marketing procedures, this was not sufficient to render income from hedging to be income from silver production.
+[45]
+In support of this final argument counsel for the defendant sought to distinguish
+ <FRAGMENT_SUPPRESSED>  D.T.C. 1232; [1957] C.T.C. 309, where it was held that a gain on foreign exchange, realized in settlement of a line of credit that had been negotiated by the taxpayer in anticipation of devaluation of sterling as a means of protecting its position in purchases abroad, constituted income and not capital, for tax purposes. Rand, J., considered the loan produced working capital used in the course of the company's business, while Locke, J., considered the activity to be "a scheme for profit making in one necessary part of the appellant's trading operations, namely the purchase of sterling funds and part of an integrated commercial operation being the purchase of the supplies and payment for them in that currency" (at 706 S.C.R. 1236-1237 D.T.C., 318 C.T.C.).
+[46]
+I have already noted the defendant's reference to
+Marsh & McLennan Ltd.
+, and <FRAGMENT_SUPPRESSED> , supra, and the submission that the activities of the plaintiff did not meet the tests of integration of activities there set out, namely the "employed and risked test" enunciated by Le Dain, J.A., in the former, and the definition of "risked" as meaning "when withdrawal of the property would have a decidedly destabilizing effect on the corporate operations", as stated by Wilson, J., in <FRAGMENT_SUPPRESSED> .
+[47]
+Finally, reference was made by the defendant to
+ <FRAGMENT_SUPPRESSED>  D.T.C. 602; [1949] C.T.C. 196, where the court held that gains on sale of future contracts to buy sugar, purchased as a one time activity by the taxpayer to ensure its future supply at then-prevailing prices in the expectation of an escalation in the price of raw sugar at the outbreak of the Second World War, constituted income subject to tax as income arising from the regular business activities of the taxpayer. Kerwin, J., concluded that (at 709 S.C.R., 603 D.T.C., 201 C.T.C.):
+"The Company finding itself in an abnormal situation because of the various factors mentioned, ... decided to protect the appellant's financial interests by the operations on the Exchange. The Company was not investing idle capital funds nor was it disposing of a capital asset. In no sense may it be said that the operations were unconnected with the appellant's business and it is at least an added circumstance that the speculation was made in raw sugar. Even if it were the only transaction of that character, it should be held, in the light of all the evidence, that it was part of the appellant's business or calling and therefore a profit from its business within s. 3 of the
+Act
+."
+[48]
+What is particularly interesting in the
+Atlantic Sugar Refineries
+decision, is that the taxpayer, seeking to have the gain characterized as investment income and not as a part of its business operations, attempted to provide evidence that its activities on the Exchange could not be characterized as hedging. Locke, J., Kellock, J., concurring, addressed the evidence in his reasons for judgment, as follows, at 711 S.C.R., 604 D.T.C., 202 C.T.C.:
+"According to the witness, in the ordinary case of a hedge, the selling for future delivery synchronizes with the purchase of the commodity while, in the present case, the short sales were made over the period of a month following the cash purchases. I think that this circumstance does not affect the matter to be determined. While not carried out contemporaneously with the purchases, the short sales were in effect a hedge by the company against a possible loss on the purchases made and it was only the imposition of control on October 2nd [by government under the
+War Measures Act
+] that rendered further hedging operations inadvisable. In trades where natural products are purchased in large quantities, hedging is a common, and in some cases, a necessary practice, and the cost of such operations in trades of this nature is properly allowable as an operating expense of the business. Where, as in the present case, the trader elects to close out his short sales and take a profit, this is, in my opinion, properly classified as profit from carrying on the trade."
+[49]
+Counsel for the defendant urged that the decision in
+Atlantic Sugar Refineries
+was distinguishable from the facts of the dispute before the court in two respects: first, it depended on the extraordinary circumstances there applicable; and secondly, the issue was whether the gain was income from business or a capital gain, a broader distinction than the distinction here in issue, i.e., whether the gain is to be considered from a particular source, "production", within business income.
+Decision
+[50]
+It is my view that the transactions in respect of the forward sales contracts entered into on behalf of the plaintiff constitute "hedging" as that was defined by the plaintiff's expert, Bowles, and accepted by the court and by counsel. I make this finding after full consideration of the submissions advanced on behalf of the defendant that the transactions should not be so considered based on the fact that the transactions were carried out by the plaintiff's parent company, with no evidence before me of close consultation with the plaintiff's officers or employees. Moreover, it is urged that there was insufficient matching, in respect of quantity of production and time of delivery of product and closing out of the forward sales contracts, between the two parallel sets of transactions, but I note that there is no evidence of correlation or lack of it. Rather, the only evidence is that of Mr. Jenner that the forward sales contracts were hedging, undertaken to assure returns by fixing the price for future production in a fluctuating market, that the sales contracts did not exceed anticipated production, and further the admission of counsel that a number of the forward sales contracts were settled in advance of their date for maturity. Mr. Jenner testified that the estimates upon which the forward sales transactions were based, in total, were close approximations of the actual production carried out. Estimates were being continually revised in order that quantities of silver to be sold forward did not exceed actual production. True, the futures market transactions were carried out by officials of the parent company, through instructions to American brokerage firms, but those transactions were carried out for the plaintiff and recorded only in its ledgers, and, in my view, must be considered to have been carried out by the plaintiff. Exact matching was not feasible from a practical point of view, nor is it required in order to constitute hedging. In respect of this final conclusion, I rely on the reasons of Locke, J., in
+Atlantic Sugar Refineries
+, quoted supra.
+[51]
+I turn to the issue whether, if the activities of the plaintiff constituted hedging, there is sufficient interconnection or integration with the business of production of silver that a gain from hedging activities can be considered to be income from that business.
+[52]
+I do not find persuasive the defendant's argument to construe narrowly the words "income ... from ... the production in Canada of ... metals or minerals" as used in regulation 1204(1). The cases cited for this interpretation deal with other legislative provisions and, while they are interesting, they do not resolve the matter. Moreover, this argument seems to me somewhat circular for it presupposes that the forward sales contracts and their settlement, and the payment by the refiner purchaser at prevailing market prices 60 days after delivery of the product by the plaintiff, were quite separate and unrelated activities in the plaintiff's business. But whether that is the case is the issue here.
+[53]
+If one turns to regulation 1204(1), I note that a fuller excerpt of the words used in defining "resource profits" than that offered by the defendant more fully represents the provision. Thus, these profits are defined, in part in paragraph (b), as "the amount ... of the aggregate of ... incomes ... from the production in Canada of ... metals or minerals" [to the primary metal stage]. The use of the words "aggregate" and "incomes", and the implicit inclusion of "income ... derived from transporting, transmitting or processing" [to the primary metal stage] in the case of metals or minerals under 1204(1)(b) which arises from 1204(3), both signify that income from "production" may be generated by various activities provided those are found to be included in production activities. Production activities yield no income without sales. Activities reasonably interconnected with marketing the product, undertaken to assure its sale at a satisfactory price, to yield income, and hopefully a profit, are, in my view, activities that form an integral part of production which is to yield income, and resource profits, within regulation 1204(1).
+[54]
+Counsel for the plaintiff submitted that if the contracts with the refiner purchaser had provided an assured price for future deliveries of silver concentrate, income derived from such sales would clearly have been income from production. In the real world, purchasers of precious metal concentrates, themselves facing a fluctuating market for their own product, do not contract to pay an assured price, for future delivery, divorced from the market price prevailing at the date of delivery. Here the plaintiff took the only course open to it to assure the price for future deliveries, by selling and settling forward sales contracts on the commodities market. That activity was hedging, minimizing the risk of loss on future sales by assuring a return at prices prevailing when the forward sales contracts were negotiated. That return was realized from the proceeds of sales to the refiner purchaser together with the gain or loss on settlement of future sales contracts.
+[55]
+I conclude that the price received by the plaintiff for the silver it produced was the sum of receipts from delivery of actual production and from settlement of forward sales contracts. The business of the plaintiff was silver production. In these circumstances where the plaintiff participated in forward sales contracts and settlements, however, as a hedge against price fluctuations in silver, and in which the commodity traded was silver futures, I do not conclude that the plaintiff was involved in futures speculation for investment purposes. There was a clear business purpose in its sales and settlement of silver futures contracts, a purpose integrated with its sales of product to yield income; the plaintiff was trying to obtain an assured price for the sale of the silver it produced. That activity was similar to the attempt of the taxpayer in
+Tip Top  <FRAGMENT_SUPPRESSED> , to obtain raw materials necessary to its business at an assured price.
+[56]
+Here the forward sales transactions were in respect of the same commodity as the plaintiff's production: both were, in my view, integral aspects of the plaintiff's business of producing silver, and returns from these activities were income from production of metals within regulation 1204(1).
+[57]
+Finally, I find support for the conclusions expressed herein from the decision in
+Atlantic Sugar Refineries
+, a unanimous decision of the Supreme Court. The fact that in this case, the transactions were not isolated but a regular part of the plaintiff's practices, renders, in my view, the reasoning in
+Atlantic Sugar Refineries
+more, not less, persuasive in its application to the case before me.
+[58]
+Furthermore, this result corresponds to business practice and accounting principles, which while not determinative of the taxation treatment of the plaintiff's income from production for the purposes of regulation 1204, nevertheless reflect the reality of the taxpayer's actions. Wherever possible, the courts should attempt to interpret the statutory provisions of the
+Income Tax Act
+and
+Regulations
+in a manner taking into account that reality: see
+ <FRAGMENT_SUPPRESSED>  goods, unless required by the words of the legislation, would be unduly formalistic.
+Conclusion
+[59]
+The plaintiff's appeal is allowed, to the extent that the gain from settlement of forward sales contracts for silver corresponds to the plaintiff's actual silver production for the 1980 taxation year.
+[60]
+The matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accord with these reasons.
+Appeal allowed.
+Editor: Elizabeth M.A. Turgeon/slm
+[End of document]

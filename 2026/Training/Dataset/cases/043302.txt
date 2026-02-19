@@ -1,0 +1,925 @@
+[1]
+Hughes, J.
+: This is an application for prohibition brought under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended (
+NOC Regulations
+). The medicine at issue is rosiglitazone, a derivative of a class of compounds known as thiazolidinediones (TZD). It is used to treat diabetes. The Applicant GlaxoSmithKline Inc. (GSK) sells a rosiglitazone drug under the brand name AVANDIA. The Respondent Pharmascience Inc. wishes to sell a generic version of that drug in Canada. The Applicants seek an order prohibiting the Respondent Minister of Health from issuing a Notice of Compliance to Pharmascience which would otherwise permit it to sell that generic version in Canada until the expiry of Canadian Patent No. 1,328,452.
+[2]
+For the reasons that follow, I find that the application is allowed with costs to the Applicants. The Minister is prohibited from issuing a Notice of Compliance to Pharmascience until after the expiry of Canadian Letters Patent No. 1,328, 452 on April 12, 2011.
+INDEXING
+[3]
+For convenience, the matters considered in these Reasons can be found at the following paragraphs:
+-
+Paras.
+THE PARTIES
+4 to 7
+CANADIAN PATENT NO. 1,328,452
+8 to 25
+EVIDENCE
+26 to 30
+BACKGROUND - DIABETES
+31
+THE DEVELOPMENT OF THE INVENTION
+32
+ISSUES
+33 to 36
+NOC PROCEEDINGS
+37 to 42
+BURDEN OF PROOF
+43 to 44
+PERSON OF ORDINARY SKILL IN THE ART
+-
+--
+(POSITA)
+45 to 52
+--
+CLAIM 41 - CONSTRUCTION
+53 to 58
+--
+OBVIOUSNESS
+59 to 76
+INSUFFICIENCY - UTILITY - LACK OF SOUND
+-
+--
+PREDICTION
+77 to 94
+IS THE SPECIFICATION "SUFFICIENT" ENOUGH TO SUPPORT THE "PROMISED" UTILITY
+95 to 98
+--a)
+Pharmascience's Allegations in a Nutshell
+80 to 81
+--b)
+GSK's Position in a Nutshell
+82
+--c)
+Jurisprudence as to Reading a Specification
+83 to 85
+--d)
+Construing Page 1 of the '452 Patent
+90 to 94
+WHAT WAS THE MOUSE TEST THAT BEECHAM DID
+99 to 118
+CONCLUSIONS AND COSTS
+119 to 121
+JUDGMENT
+-
+THE PARTIES
+[4]
+The Applicant GlaxoSmithKline Inc. (GSK) is called a "first person" in the
+NOC Regulations
+. It has received approval, in the form of a Notice of Compliance, from the Minister of Health to sell a drug in Canada containing rosiglitazone as its active ingredient for use as an adjunct to diet and exercise to reduce insulin resistance and improve glycemic control in patients with type 2 diabetes mellitus. It sells such a drug in different strength tablets containing 1.0 mg, 2.0 mg, 4.0 mg and 8.0 mg rosiglitazone, under the brand name AVANDIA.
+[5]
+The other Applicant is Beecham Group p.l.c. of the United Kingdom (Beecham). Canadian Patent No. 1,328,452 was issued and granted to Beecham on April 12, 1994. It has been joined as a party as required by subsection 6(4) of the
+NOC Regulations
+. Given that there is no evidence to the contrary, Beecham remains the owner of that patent.
+[6]
+The Respondent Pharmascience Inc. is a generic drug company with offices in Montreal. It is called a "second person" in the
+NOC Regulations
+. It delivered a letter dated August 24, 2009, referred to as a Notice of Allegations under the
+NOC Regulations
+, to GSK stating that it was seeking approval from the Minister of Health to market a generic version of GSK's rosiglitazone drug in Canada in the same strengths in tablet form, for the same uses. Pharmascience alleged that the relevant claims of Canadian Patent No. 1,328,452 were invalid, and because they were invalid, would not be infringed by Pharmascience's generic version.
+[7]
+The Respondent Minister of Health is responsible for approving drugs such as that at issue here for sale in Canada by way of issuing Notices of Compliance to drug companies under the
+NOC Regulations
+. The Minister had notice of these proceedings but did not actively participate.
+CANADIAN PATENT NO. 1,328,452
+[8]
+At issue is one patent, Canadian Patent No. 1,328,452 (the '452 Patent). The application for that patent was filed with the Canadian Patent Office on September 2, 1988, which is before October 1, 1989. This means that the provisions of the "old"
+Patent
+Act
+, RSC 1985, c. P-4 pertaining to patents maturing from applications filed before October 1, 1989, apply to the '452 Patent.
+[9]
+Among the matters pertinent to the '452 Patent under the provisions of the "old"
+Patent
+Act
+are:
+a. It endures for a term of seventeen (17) years from the date it was granted. The patent was granted April 12, 1994; therefore, its term will expire April 12, 2011.
+b. The patent and its claims are to be construed as of the date of publication, which in the case of an "old"
+Patent
+Act
+patent is the date of grant, here April 12, 1994, (see
+ <FRAGMENT_SUPPRESSED>  however, it is to be considered having regard to certain kinds of publications and uses earlier than two years before the Canadian filing date that is, before September 2, 1986.
+d. Obviousness, which is an issue in these proceedings, is to be considered as of the "date of invention". That date may be proved in evidence. Unless otherwise provided, it is presumed to be the Canadian filing date, here September 2, 1988. In the present case, the '452 Patent claims "priority" from three applications filed in the British Patent Office on September 4, 1987, November 30, 1987 and February 4, 1988. These applications were not properly put in evidence. If those applications were put in evidence, and if they are shown to disclose the same invention as claimed in the claims at issue of the '452 Patent, then the relevant one or more of those applications can be said to support a date of invention as of their filing date in the British Patent Office.
+[10]
+In the present case, the Applicants are relying only on one claim of the '452 Patent, claim 41. That claim is directed to a specific compound which is set out in a chemical form, but may simply be called rosiglitazone. Claim 41 reads as follows:
+41. A compound according to claim 1 being 5-(4-[2-(N-methyl-N-(2-pyridyl) amino)ethoxy] benzyl)-2,4-thiazolidinedione; or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof.
+The specification begins at page 1 with a general description as to the invention:
+NOVEL COMPOUNDS
+This invention relates to certain substantial thiazolidinedione derivatives, to a process for preparing such compounds, to pharmaceutical compositions containing such compounds and to the use of such compounds and compositions in medicine.
+[11]
+In the next paragraph the '452 Patent acknowledges certain prior art relating to TZDs including a number of published European patent applications and a scientific article (referred to as "Sohda II" in this proceeding) all relating to TZD derivatives:
+European Patent Applications, Publication Numbers 0008203, 0139421, 0155845, 0177353, 0193256, 0207581 and 0208420 relate to thiazolidinedione derivatives which are disclosed as having hypoglycaemic and hypolipidaemic activity. Chem. Pharm. Bull 30 (10) 3580-3600 also relates to certain thiazolidinedione derivatives having hypoglycaemic and hypolipidaemic activities.
+[12]
+Pharmascience relies on many of these patent applications, as well as Sohda II and a related article in the same scientific publication (referred to as Sohda I in these proceedings) as "prior art" for the purpose of arguing obviousness. The named inventor of the '452 Patent, Richard M. Hindley, gave evidence in these proceedings and acknowledged that Sohda I and Sohda II were not only known to him, but formed part of the basis for his research leading to rosiglitazone. (Hindley affidavit paras 9-11). Hindley also acknowledged that at least some of these European patent applications became known to him during the course of his research. (Hindley affidavit paras 28-30). All of this "prior art" originates from a Japanese pharmaceutical company, Takeda.
+[13]
+The next two paragraphs provide the basis for much of the argument in these proceedings, namely, what, if anything, is the "promise" of the patent, and has it been fulfilled:
+It has now surprisingly been discovered that certain novel substituted- thiazolidinedione derivatives show improved blood-glucose lowering activity and are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes.
+These compounds are also indicated to be of potential use for the treatment and/or prophylaxis of other diseases including hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+[14]
+The specification, beginning at the bottom of page 1 to the first two lines at page 8 of the '452 Patent describes the compounds encompassed in the patent, their structure and substituent parts. The number is vast. I will not repeat this section in detail. Rosiglitazone is not specifically mentioned until Example 30 of the '452 Patent, which occurs much later.
+[15]
+The specification of the '452 Patent beginning at page 8, line 5, through to page 18, line 28, describes processes by which the compounds may be prepared.
+[16]
+Beginning at line 30 of page 18 of the '452 Patent and over to page 19, line 20, a number of uses for the compounds are described. In general, the uses are therapeutic properties including treatment of hyperglycaemia, hyperlipidaemia, hypertension, cardiovascular disease, and certain eating disorders.
+[17]
+From line 22, page 19, to the end of page 22, the method of administration, the formulation and dosages of the medicine are described.
+[18]
+At page 21 the patent describes the invention as further providing a method of treatment and/or prophylaxis of a number of human and non-human conditions:
+The present invention further provides a method for the treatment and/or prophylaxis of hyperglycaemia in a human or non-human mammal which comprises administering an effective, non-toxic, amount of a compound of the general formula (I), or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof to a hyperglycaemic human or non-human mammal in need thereof.
+The present invention further provides a method for the treatment of hyperlipidaemia in a human or non-human mammal, which comprises administering an effective, non-toxic, amount of a compound of formula (I), or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof, to a hyperlipidaemic human or non-human mammal in need thereof.
+[19]
+From page 23 to page 79, a number of preparations and examples are provided. Of importance here is Example 30, found at page 78, which is the only Example which specifically discloses rosiglitazone:
+EXAMPLE 30
+5-(4-[2-(N-Methyl-N-(2-pyridyl) amino)ethoxy] benzyl)-2,4-thiazolidinedione
+[Diagram omitted - see printed version]
+The title compound (m.p. 153-5°C; MeOH) was obtained from 5-(4-[ 2-(N-methyl-N-(2-pyridyl)amino)ethoxyl] -benzylidene)-2,4-thiazolidinedione by a similar procedure to that described in Example 1.
+1
+H NMR & (DMSO - d6)
+2.9-3.4 (2H, complex); 3.1 (3H, s); 3.9 (2H, t); 4.15 (2H, t); 4.8 (1H, complex); 6.5-6.85 (2H, complex); 6.8 (2H, d); 7.2 (2H, d); 7.5 (1H, complex); 8.1 (1H, d); 12.05 (1H, broad s, exchanges with D
+2
+0).
+[20]
+The procedure found in Example 1, as referred to in Example 30, appears at pages 51 and 52 of the '452 Patent as follows:
+5-(4-[2-(N-Methyl-N-(2-benzothiazolyl) amino)ethoxy] benzylidene)-2,4-thiazolidinedione (2g) in dry 1,4-dioxan (70ml) was reduced under hydrogen in the presence of 10% palladium on charcoal (3g) at ambient temperature and atmospheric pressure until hydrogen uptake ceased. The solution was filtered through diatomaceous earth, the filter pad was washed exhaustively with dioxan and the combined filtrates were evaporated to dryness under vacuum. The title compound (m.p. 167-8ºC) was obtained after crystallisation from methanol.
+[21]
+The only test data provided in the '452 Patent is set out at pages 80 and 81. It describes a test in which obese (also referred to as ob/ob) mice were fed a powdered diet into which were incorporated compounds of the kind set out in some of the Examples of the patent. It is to be noted that the compound of Example 30, rosiglitazone, is
+not
+among the compounds tested:
+DEMONSTRATION OF EFFICACY OF COMPOUNDS
+Obese Mice, Oral Glucose Tolerance Test.
+C57bl/6 obese (ob/ob) mice were fed on powdered oxoid diet. After at least one week, the mice continued on a powered oxoid diet or were fed powdered oxoid diet containing the test compound. After 8 days on the supplemented diet all of the mice were fasted for 5 hours prior to receiving an oral load of glucose (3 g/kg). Blood samples for glucose analysis were taken 0, 45, 90 and 135 minutes after glucose administration and the results appear below as the percentage reduction in area under the blood glucose curve where test compound treated groups are compared with the control groups. 7 mice were used for each treatment.
+EXAMPLE NO:
+LEVEL IN DIET (μmol kg
+-
+1
+of DIET
+% REDUCTION IN AREA UNDER BLOOD GLUCOSE CURVE
+1
+100
+51
+2
+300
+30
+3
+10
+39
+4
+300
+30
+5
+100
+40
+7
+50
+47
+9
+100
+58
+11
+100
+34
+13
+100
+37
+15
+100
+39
+17
+100
+34
+19
+30
+22
+21
+30
+33
+24
+30
+15
+25
+30
+19
+27
+300
+56
+29
+300
+32
+Toxicology
+No toxicology effects were indicated for any of the compounds of the invention in any of the abovementioned tests.
+[22]
+The claims of the '452 Patent begin at page 82. In all, there are 49 claims. Claims 1 to 42 are directed to compounds. Claims 43 and 46 are directed to a pharmaceutical composition containing the compound(s). Claims 44, 45, 47 and 48 are directed to an "effective amount" of the compound(s) for treatment. Claim 49 is directed to a process for preparing the compound(s).
+[23]
+Claim 1, which is referred to in claim 41, refers to a vast number of compounds (of which rosiglitazone is one although not specifically mentioned) with reference to a general structure. I will repeat only the opening portion as the balance of the claim describes the various substituents that can be used:
+1. A compound of formula (I):
+[Diagram omitted - see printed version]
+or a tautomeric form thereof and/or a phamaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof; wherein:
+[24] Claims 1 and 41 refer to a "tautomeric form" of the compound. No issue was made of in this proceeding as to what a tautomeric form was. For convenience the parties have agreed on the definition of a tautomer as found in Wikipedia as follows (omitting the pictorial representations):
+Tautomers
+are isomers of organic compounds that readily interconvert by a chemical reaction called
+tautomerization
+. It is common that this reaction results in the formal migration of a hydrogen atom or proton, accompanied by a switch of a single bond and adjacent double bond. The concept of tautomerizations is called
+tautomerism
+. Because of the rapid interconversion, chemical structures which are tautomers of each other are generally considered to be the same chemical compound. Tautomerism is a special case of structural isomerism and can play an important role in non-canonical base pairing in DNA and especially RNA molecules.
+[25]
+Claims 1 and 41 also both use the words "pharmaceutically acceptable", which are defined at pages 19 and 20 of the '452 Patent as follows:
+As used herein the term 'pharmaceutically acceptable' embraces compounds, compositions and ingredients for both human and veterinary use: for example the term 'pharmaceutically acceptable salt' embraces a veterinarily acceptable salt.
+EVIDENCE
+[26]
+As is usual in applications of this kind, the evidence was provided in the form of affidavits, transcripts of cross-examinations and related exhibits. No live witnesses appeared before the Court. At one time, there was a Confidentiality Order in place; however, at the request of the parties, that Order was set aside by my Order dated January 11, 2011. Some of the material may still bear a caption to the effect that it is confidential, but that is no longer the case.
+[27]
+The Applicants provided the affidavit evidence of the following witnesses:
+i.
+Carolyn Ann Lister
+, an employee of GSK (a term I use to include its predecessors as well) at the relevant time, in particular, 1988. She received diplomas in biological science and was employed to organize and manage
+in vivo
+testing at these predecessors. She testified as to the testing of compounds including rosiglitazone in ob/ob mice.
+ii.
+Professor Clifford Bailey
+, of Birmingham, UK. He is the Head of Biomedical Research, including Diabetic Research; and Professor of Clinical Science at Aston University, Birmingham, UK. His mandate, as stated at paragraph 12 of his affidavit, was to provide scientific and historical content to research relating to abnormal glucose metabolism and diabetes prior to September 2, 1988 and to comment on certain aspects of the '452 Patent as they relate to the use of animal models in diabetes research and data GSK had generated on rosiglitazone prior to September 2, 1988.
+iii.
+Richard M. Hindley,
+of Surrey UK. He is the named inventor of the '452 Patent. He worked as a chemist in a variety of industries. He joined a predecessor of GSK in 1968. Most of his career was focused on the synthesis of potential new drugs. He testified as to the research and development leading up to the '452 Patent.
+iv.
+Dr. Peter Jurs
+, of Pennsylvania, USA. He received a PhD in chemistry in 1969 and spent much of his career in academia, research and consulting. Before his retirement in 2005, he was Professor of Chemistry at Penn State University. He is now a Professor Emeritus at that University. His mandate, as stated at paragraph 8 of his affidavit, was to provide an opinion on the subject of lipophilicity as it relates to the allegation of obviousness and generally as to the subject of lipophilicity.
+v.
+Professor Peter Wipf
+, of Pennsylvania, USA. He received a PhD in chemistry in 1987 and has spent most of his career in academia, research and consulting. He is currently a Distinguished University Professor of Chemistry at the University of Pittsburgh. He was asked to provide a background as to organic chemistry and to address a number of questions as set out at paragraph 11 of his affidavit:
+Questions addressed
+11. I have been asked to provide my opinion on the following questions:
+(a) Who is the person of ordinary skill in the art to whom the 452 patent is directed?
+(b) What does claim 41 of the 452 Patent claim?
+(c) Is the invention of claim 41 of the 452 Patent obvious in light of the prior art?
+(d) Does the disclosure of the 452 Patent enable a person of ordinary skill in the art to synthesize rosiglitazone?
+vi.
+Christine Ingham
+, law clerk with the Applicants' firm of solicitors. Her affidavit served to put in the Record, as exhibits, a number of documents. This affidavit and the authenticity of these documents are not controversial.
+[28]
+The evidence of Bailey, Jurs and Wipf was tendered as expert evidence. No objection was taken by Pharmascience to this evidence being received by this Court as expert evidence. Each of Lister, Bailey, Hindley, Jurs and Wipf was cross-examined by Counsel for Pharmascience. Ingham was not cross-examined.
+[29]
+The Respondent Pharmascience provided the affidavit evidence of the following witnesses:
+1.
+Dr. Jonathan S. Dordick
+, of Schenectady, New York. He received a PhD in Biochemical Engineering in 1986. He has spent most of his career in academia, research and consulting. He is currently the Howard P. Isermann Professor in the Department of Chemical and Biological Engineering, with a joint appointment in the Department of Biology and Biomedical Engineering at Rensselaer Polytechnic Institute, Troy, NY. He was asked to review a number of documents and to answer certain questions as set out in paragraph 22 of his affidavit:
+22. I have been asked to review Canadian Patent No. 1,328,452 ("'452 Patent") and answer the following questions:
+(1) Who is the "person skilled in the art" to whom the '452 Patent is addressed?
+(2) Is there sufficient information in the patent for a person skilled in the art to understand what the invention is; and is there sufficient information for a person skilled in the art to understand that rosiglitazone will be an effective compound for use or potential use in humans?
+(3) What is the promised utility of the patent? Is there sufficient information in the affidavit of Ms. Lister to show that rosiglitazone has the promised utility and if not, is there sound scientific prediction based on the information in the patent that rosiglitazone will have the promised utility?
+(4) If Dr. Bailey is correct at paragraph 41 that "improved blood glucose lowering activity" simply means that when these TZD derivatives are administered to animals there is an improvement in the blood glucose levels of the animals, then is rosiglitazone obvious?
+2.
+Dr. Barry L. Posner
+, of Montreal, Quebec. He is a medical doctor and currently a Professor of Medicine and Director of Polypeptide Hormone Laboratory at McGill University. He claims expertise in Endocrinology and Diabetology, as well as the mechanism of hormone and drug action. He was given a number of documents to review and was asked to answer certain questions as set out in paragraph 19 of his affidavit:
+19. I have been asked to review Canadian Patent No. 1,328,452 and answer the following questions:
+i. Who is the "person skilled in the art" to whom the '452 Patent is addressed?
+ii. Is there sufficient information in the patent for a person skilled in the art to understand what the invention is; and is there sufficient information for a person skilled in the art to understand that rosiglitazone will be an effective compound for use or potential use in humans?
+iii. What is the promised utility of the patent? Is there sufficient information in the affidavit of Ms. Lister to show that rosiglitazone has the promised utility and if not, is there a sound scientific prediction based on the information in the patent that rosiglitazone will have the promised utility?
+iv. If I accept Dr. Bailey's evidence that all thiazolidinedione derivative compounds would be useful as blood glucose lowering agents and useful in the treatment of diabetes, is it be obvious that rosiglitazone (which is such a compound) would have the same usefulness?
+3.
+Dr. Brian Rodrigues
+, of Vancouver, British Columbia. He received his PhD in Pharmaceutical Sciences in 1989 and spent most of his career in academia. He is also a Director of the Canadian Diabetes Association. He is currently Professor of Pharmacology and Toxicology at the University of British Columbia. He was asked to review a number of documents and provide an opinion as set out in paragraph 12 of his affidavit:
+12. The solicitors for Pharmascience have asked me to review the documents in the above paragraph of my affidavit and to provide my opinion with respect to the issues set out in the Notice of Allegation. Specifically, the solicitors for Pharmascience have asked me to provide my opinion with respect to the following issues:
+(a)
+Sufficiency of Specification
+: is the data disclosed in the '452 Patent sufficient for a person skilled in the art to understand what the invention is?
+(b)
+Utility/Sound Prediction
+what is the promise of the '452 Patent and does Rosiglitazone have the utility as promised in the patent? Does the additional information provided by GSK establish the utility of rosiglitazone as promised in the patent? And if not, is there a sound scientific prediction found in the patent to support the utility of rosiglitazone?;
+(c)
+Obviousness
+: If I accept Dr. Bailey's evidence that all thiazolidinedione derivative compounds would be useful as blood glucose lowering agents and useful in the treatment of diabetes, would is it be [sic] obvious that rosiglitazone (which is such a compound) would have the same usefulness?
+4.
+Professor Alexander M. Klibanov
+, of Boston, USA. He received his PhD in Chemical Enzymology in 1974. He has spent most of his career in academia, research and consulting. He reviewed the '452 Patent and the evidence of Hindley, Lister and Wipf and provided his opinion in respect thereof.
+[30]
+The evidence of each of Dordick, Posner, Rodriguez and Klibanov was put forward by Pharmascience as expert evidence without objection by GSK to this evidence being received by this Court as such. Each was cross-examined by Counsel for GSK.
+BACKGROUND - DIABETES
+[31]
+The '452 Patent is, in large measure, directed to compounds said to be useful in the treatment of conditions related to the level of glucose in the bloodstream of a human body. Of these, diabetes is common. GSK has provided evidence from Dr. Bailey in this regard. Pharmascience's Counsel has advised the Court, by letter dated December 30, 2010, that paragraphs 11 - 18 of Dr. Bailey's affidavit can be accepted by the Court as agreed upon background. Dr. Bailey says at paragraphs 13 to 18:
+Scientific Background
+13. Since the 452 Patent discloses and claims compounds of potential use in diseases associated with abnormal glucose metabolism, including diabetes, it is appropriate to begin with a brief introduction of the basic principles of glucose metabolism and diabetes. The basic principles discussed below would have been known to a person of ordinary skill in the art (defined below) as of September 2, 1988 and the same basic principles are known today.
+Glucose Metabolism
+14. Glucose is a sugar that provides energy to all of the cells in the body. The cells take in glucose from the blood and break it down for energy. The glucose in the blood comes from food. When food is eaten, glucose is absorbed from the intestines and distributed by the bloodstream to all of the cells in the body. In normal, healthy individuals, the level of glucose in the blood is regulated. The body tries to maintain a balance between the amount of glucose available in the bloodstream and its clearance from the bloodstream. In a situation when there is an oversupply of glucose, the body stores the excess glucose in the liver and muscles by making glycogen (long chains of glucose). When there is a short supply of glucose, the body mobilizes glucose from stored glycogen and/or makes glucose from other sources.
+15. To maintain a constant blood glucose level the body depends on certain simultaneously ongoing processes that must occur in a coordinated fashion. After the ingestion of food, the body stimulates secretion of insulin, a hormone that is produced in the pancreas. Insulin is made and secreted by the beta cells ( -cells) of the pancreatic islets, small islands of endocrine cells in the pancreas. Insulin is required by almost all of the body's cells, but its major targets are liver cells, fat cells and muscle cells. The combination of hyperinsulinaemia (i.e., high insulin levels in the blood) and hyperglycaemia (i.e., high glucose levels in the blood) promote glucose uptake by peripheral tissues (primarily muscle) and suppress glucose production in the liver. As such, insulin stores nutrients after the ingestion of food by reducing the concentrations of glucose in the bloodstream and maintains a steady blood glucose concentration in the body. Defects at the level of the β -cell, muscle or liver can lead to the development of glucose intolerance or overt diabetes.
+Diabetes
+16. Diabetes is a disease that affects the body's ability to use glucose. It is classified into two main types: Type 1 and Type 2. Type 1 (also called juvenile diabetes or insulin- dependent diabetes) is caused by a lack of insulin. This type is found in five to ten percent of diabetics and usually emerges in children or adolescents. In these individuals, the β -cells of the pancreatic islets are destroyed either by the person's own immune system, genetic or environmental factors. As a result, these patients have abnormal levels of glucose and little or no insulin in their blood.
+17. Type 2 diabetes (also called adult-onset diabetes or non-insulin-dependent diabetes) occurs through two primary defects. In some patients the primary defect starts at the level of the β -cell and manifests itself as an impairment in insulin secretion. These individuals are represented by lean diabetic patients. In other patients the primary defect starts as an impairment in tissue (muscle and liver) sensitivity to insulin (insulin resistance). These individuals are represented by obese diabetic patients. However, both defects initiate the development of Type 2 diabetes and lead to the development of glucose intolerance. Type 2 diabetes occurs in 90 to 95 percent of diabetics and usually occurs in adults over the age of 40, emerging most often between the ages of 50 and 60.
+Insulin resistance
+18. Insulin resistance is a cardinal feature of Type 2 diabetes. It is defined as a "reduced biological response to physiological amount of insulin." It causes high blood glucose levels during fasting and after a meal (reduced glucose tolerance). Since the body does not respond to insulin, the cells do not take up glucose from the bloodstream, which causes high blood glucose levels. Because cells have no glucose coming into them from the blood, the body "thinks" that it is starving and triggers a number of events. It triggers certain hormones to act on liver and muscles to breakdown stored glycogen and release glucose into the blood. This further raises blood glucose levels.
+THE DEVELOPMENT OF THE INVENTION
+[32]
+The Court has been provided with the evidence of Richard M. Hindley, the person named as the inventor of the '452 Patent and of Carolyn Ann Lister, the person at GSK responsible for testing compounds such as rosiglitazone in mice. Taking their evidence including their affidavits, cross-examination transcripts, and exhibits (in particular Exhibit X to Hindley's affidavit a scientific paper naming Hindley and Lister as authors, called the Cantello paper in these proceedings, and Exhibit C to Hindly's affidavit, a useful chart) the development of the "invention" of the '452 Patent can be outlined as follows:
+a. 1968 after working elsewhere as a chemist, Hindley joined Beecham as a research chemist.
+b. 1981 Hindley was assigned to work on a diabetes research program at Beecham, Cantello was his supervisor. Lister performed or supervised many of the animal tests on compounds made.
+c. 1982 Hindley became aware of the Sohda I and Sohda II papers published by Takeda. They disclosed what Hindley described at paragraph 10 of his affidavit as interesting preliminary results concerning TZD. He considered this to be a starting point for his research.
+d. 1983 a course of experimental research was established using one of the TZD compounds disclosed in Sohda II as a reference, ciglitazone (AD-3878).
+e. By summer 1988, Hindley and his colleagues had made and tested approximately 129 compounds. Some with more blood glucose level reducing activity than ciglitazone, some less.
+f. During the period from 1983 to 1988 Hindley and his colleagues became aware of some of the European Patent Applications published by Takeda as listed in the '452 Patent, including applications 0155845 (EP845) and 0177353 (EP353). These applications were used to direct the areas of research conducted by Hindley.
+g. By August 1, 1988 Hindley had synthesized the compound he called HG 49653 and which we now know as rosiglitazone. Details of this compound, its structure and method of synthesis were provided to Beecham's patent agent and now appear in Example 30 of the '452 Patent.
+h. August, 1988 a sample of rosiglitazone was provided to Lister's group for testing.
+i. In mid August 1988 Lister's group subjected the rosiglitazone compound as well as another compound to testing in mice. The nature of the test is essentially as described for other compounds at page 80 of the '452 Patent. A group of mice called a "control" group were fed only normal feed without any additives. Another group were fed with food including a dosage of the compound to be tested. Only a single dosage level was tested for rosiglitazone. After a period of eight days each group of mice were fasted for five hours; blood samples were then withdrawn from each group over intervals; the glucose levels measured and the results from each group compared. Normally the test would comprise feeding at two different dosage levels but apparently for constraints of space, only one dosage level was used for the rosiglitazone test. The other compound was tested at two levels. The result achieved for rosiglitazone using an area under a curve (not shown), as calculated by computer, showed a 42% reduction of blood-glucose level which is said to be near the top level of what could be expected.
+j. The mice results arrived too late to be given to the Beecham patent department.
+k. September 2, 1988 the application for the '452 Patent was filed in Canada.
+l. Work continued, further compounds were developed.
+m. April 12, 1994 the '452 Patent was issued.
+n. Late 1994 the work of Hindley and Lister was published in the form of the Cantello paper.
+o. 1999 rositiglazone, along with another TZD derivative proglitazone ,was approved for sale as a diabetic treatment in the United States and elsewhere. At the same time a previously approved TZD derivative, troglitazone was removed from the market because of toxic effects on the liver (Posner, Exhibit D).
+p. the Posner affidavit also provides evidence that, in the mid 2000's and onward, concerns have arisen that rosiglitazone may have a detrimental effect on persons with heart conditions. In some countries the drug has been withdrawn. Elsewhere, such as Canada, its use has been restricted. (Posner affidavit paragraphs 56 and 57, Exhibits F and G).
+ISSUES
+[33]
+The primary issue is whether the Applicants have demonstrated, in accordance with subsection 6(2) of the
+NOC Regulations
+, that none of the allegations made by the Respondent Pharmascience in its Notice of Allegation are justified. Those allegations were directed to the validity of certain of the claims of the '452 Patent. Other claims were said to be irrelevant to the proceedings. The claims at issue have been reduced to one: claim 41.
+[34]
+There is no issue as to infringement, Pharmascience's allegation in that respect rests on its allegations as to invalidity; hence, it is alleged, no valid claim is infringed.
+[35]
+As to invalidity of claim 41 of the '452 Patent, Pharmascience, at paragraph 53 of its Notice of Allegation, alleged invalidity on the following grounds:
+a. Obviousness;
+b.  <FRAGMENT_SUPPRESSED>  Disclosed
+[36]
+In its Memorandum, Pharmascience reduced these issues to three:
+1. Inutility (in this regard Pharmascience's Counsel made it clear that it was not arguing that the description in the patent was insufficient as far as the making of the compound is concerned);
+2. Sufficiency; and
+iii) Obviousness.
+NOC PROCEEDINGS
+[37]
+The
+NOC Regulations
+are unique. They are based on the United States
+Hatch-Waxman
+Act
+(Drug Price Competition and Patent Term Restoration
+Act
+of 1984
+, Pub. L. No 98-47, 98 Stat. 1586) and were introduced in 1993 to replace the previous compulsory licence scheme pertaining to drug patents in Canada. There is no question that they were imperfectly drafted, that they have been imperfectly amended and imperfectly interpreted by the Courts.
+[38]
+The
+NOC Regulations
+identify two groups of persons, a "first person", commonly called the "brand", who is the person owning or licensed under a patent and who has received permission to sell a drug somehow relating to that patent in Canada (section 4(1)). A "second person", commonly called a "generic" is a drug company wanting to take advantage of much of the material submitted by the first person in order to obtain approval itself to sell the drug. The second person must notify the first person providing particulars of its application to secure approval and to state that the patent will not be infringed or is invalid or that the second person will wait for the patent to expire. That notification takes the form of a "Notice of Allegation" (NOA).
+[39]
+That Notice of Allegation (NOA) is required by subsection 5(3)(b)(ii) of the
+NOC
+Regulations
+to include "a detailed statement of the legal and factual basis for the allegations". In the present case, the allegations made are that certain claims of the '452 Patent, now restricted to claim 41, are invalid for a number of reasons. When the
+NOC Regulations
+were introduced in 1993, a Notice of Allegation took the form of a simple letter, only a few pages long, in which very generalized statements were made. Matters have evolved. Typical of a current style NOA is that filed in this case which is 50 pages long, containing 173 paragraphs drafted as if it were a legal memorandum of law and fact.
+[40]
+Without comment as to whether they are right or wrong as a matter of "fairness", certain principles have emerged as a result of judicial interpretation as to an NOA, including:
+i. The NOA cannot be amended once legal proceedings have commenced except that certain allegations made can be omitted or no longer relied upon (e.g.
+ <FRAGMENT_SUPPRESSED>  (FC) at paras 72 to 84).
+ii. The Notice of Allegation must be sufficient so as to make the "first person" fully aware of the grounds raised as to invalidity or non-infringement
+( <FRAGMENT_SUPPRESSED>  (FCA) at paras. 19-21).
+iii. A second person cannot, in proceedings taken in Court, present argument and evidence relating to an issue that is outside the scope of its  <FRAGMENT_SUPPRESSED>  (FCA) at para. 25.
+iv. The second party may not shift ground or raise a new ground during the legal proceedings that has not been raised in its NOA (
+ <FRAGMENT_SUPPRESSED>  (FC) at paras 70 - 71).
+[41]
+In the Court proceedings, a first person is required to demonstrate, in accordance with subsection 6(2) of the
+NOC Regulations
+, that "none of those allegations is justified". Thus, the object of the proceedings is to look at the allegations, consider the evidence, apply the law, and determine whether an allegation made in the NOA is justified. Such a determination, for instance, whether an allegation as to invalidity is justified or not, does not preclude that issue from being litigated in an ordinary action respecting the patent, in other words, there is no res judicata (
+ <FRAGMENT_SUPPRESSED>  (FCA) at para. 7).
+[42]
+Therefore, the purpose of the present proceeding is to look at what Pharmascience has alleged in its NOC as to the validity of claim 41 of the '452 Patent and to determine if the allegations are "justified".
+BURDEN OF PROOF
+[43]
+O'Reilly J of this Court has summarized the question of burden of proof where the issue is invalidity in
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 183 (aff'd 2007 FCA 195, leave to appeal refused [2007] SCCA No. 371) at paragraphs 9 and 12:
+9 In my view, the burden on a respondent under the Regulations is an "evidential burden" -- a burden merely to adduce evidence of invalidity. Once it has discharged this burden, the presumption of validity dissolves and the Court must then determine whether the applicant has discharged its legal burden of proof. I believe this is what is meant in those cases where the Court has stated that the respondent must put its allegations "into play". It must present sufficient evidence to give its allegations of invalidity an air of reality.
+. . . . .
+12 To summarize, Pfizer bears the legal burden of proving on a balance of probabilities that Apotex's allegations of invalidity are unjustified. Apotex merely has an evidentiary burden to put its case "into play" by presenting sufficient evidence to give its allegations of invalidity an air of reality. If it meets that burden, then it has rebutted the presumption of validity. I must then determine whether Pfizer has established that Apotex's allegations of invalidity are unjustified. If Apotex does not meet its evidential burden, then Pfizer can simply rely on the presumption of validity to obtain its prohibition order.
+[44]
+ <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 191, I said in respect of the same thing at paragraph 32:
+32 I do not view the reasoning of the two panels of the Federal Court of Appeal to be in substantial disagreement. Justice Mosley of this Court reconciled these decisions in his Reasons in
+ <FRAGMENT_SUPPRESSED>  2007 FC 971 at paragraphs 44 to 51. What is required, when issues of validity of a patent are raised:
+1. The second person, in its Notice of Allegation may raise one or more grounds for alleging invalidity;
+2. The first person may in its Notice of Application filed with the Court join issue on any one or more of those grounds;
+3. The second person may lead evidence in the Court proceeding to support the grounds upon which issue has been joined;
+4. The first person may, at its peril, rely simply upon or, more prudently, adduce its own evidence as to the grounds of invalidity put in issue.
+5. The Court will weigh the evidence; if the first person relies only on the presumption, the Court will the presumption of validity afforded by the Patent Act nonetheless weigh the strength of the evidence led by the second person. If that evidence is weak or irrelevant the presumption will prevail. If both parties lead evidence, the Court will weigh all the evidence and determine the matter on the usual civil balance.
+6. If the evidence weighed in step 5 is evenly balanced (a rare event), the Applicant (first person) will have failed to prove that the allegation of invalidity is not justified and will not be entitled to the Order of prohibition that it seeks.
+PERSON OF ORDINARY SKILL IN THE ART (POSITA)
+[45]
+It has become customary, when the Courts have been asked to consider a patent, to postulate an imaginary person or group of persons to whom the patent is said to be addressed. This is the so-called Person of Ordinary Skill In the Art (POSITA).
+[46]
+The Court is to consider matters such as the construction of the patent and its claims and obviousness from the viewpoint of a POSITA.
+[47]
+The description of a POSITA will be different in every circumstance. The Court, however, should be wary of razor sharp distinctions and quibbles as between the parties in respect of such a description. A simple, robust description is quite sufficient.
+[48]
+In the present case the expert witnesses for each party have made submissions as to an appropriate description for a POSITA. Not surprisingly, since these experts all have a degree in higher learning, the POSITA is said to have such a degree. Medical doctors included medical doctors in the description.
+[49]
+In its written argument GSK proposed the following description:
+Someone with an advanced degree in medical chemistry, pharmacology or biochemistry.
+[50]
+In its written argument Pharmascience proposed:
+(A person with) an advanced degree in pharmacology, biochemistry or medicinal chemistry and with practical experience in studying metabolism in animal models (and) a person with medical training in the treatment of diabetes.
+[51]
+In discussion with Counsel for each party during oral argument, each agreed that these descriptions were pitched too high and would exclude persons such as the named inventor, Hindley who had a great deal of practical experience but no advanced degree. It was further noted that such a person, like so many of the witnesses in this case, would have patents in which they were a named inventor and would be familiar with reading patents. I will discuss this point further when dealing with Lord Hoffman's decision  <FRAGMENT_SUPPRESSED>  infra
+.
+[52]
+I propose therefore to define the person of ordinary skill in the art as it pertains to the '452 Patent as follows:
+A person with considerable knowledge, whether gained by education or practical experience or both, in medicinal chemistry, pharmacology or biochemistry including the preparation and testing of compounds respecting conditions such as diabetes, and with some familiarity in reading patents.
+CLAIM 41 - CONSTRUCTION
+[53]
+The Court must construe the patent and claim(s) at issue before proceeding to issues such as validity and infringement (
+Whirlpool
+, supra. at para 43).
+[54]
+Here, only claim 41 is at issue:
+41. A compound according to claim 1 being 5-(4-[2-(N-methyl-N-(2-pyridyl) amino)ethoxy] benzyl)-2,4-thiazolidinedione; or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof.
+[55]
+Simply to substitute the word "rosiglitazone" for the chemical formula, claim 41 would read:
+41. A compound according to claim 1 being rosiglitazone, or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof.
+[56]
+This is precisely the way claim 41 was described by Pharmascience at paragraph 132 of its NOA:
+"... claim 41 is directed to a compound (i.e. Rosiglitazone) or a tautomeric form thereof and/or a pharmaceutically acceptable salt there of and/or a pharmaceutically acceptable solvate thereof."
+[57]
+This is the construction that I would put on claim 41. GSK does not disagree.
+[58]
+At the hearing, Pharmascience urged that claim 41, when read in light of the disclosure, must include words to the effect that the rosiglitazone itself is pharmaceutically acceptable; for instance, that it is not toxic. I do not accept that interpretation. Furthermore, given the interpretation given by Pharmascience to claim 41 in its NOA, it is not open to Pharmascience at the hearing to urge a different interpretation in argument.
+OBVIOUSNESS
+[59]
+In written argument and at the hearing, Pharmascience asserted that what was claimed as an invention in claim 41 of the '452 patent was obvious, hence invalid, on two different bases:
+i. If the claim is for the compound rosiglitazone, which lowers blood-glucose levels and might possibly be useful in treating conditions such as hyperglycaemia and diabetes, then a person of ordinary skill in the art, given the prior art, would be able to come directly and without difficulty to that compound.
+ii. If the claim is for the compound rosiglitazone which lowers blood-glucose levels when compared to anything else which does not, then it is self-evident that any TZD derivative, including rosiglitazone, could do that.
+[60]
+The first of these is raised in Pharmascience's Notice of Allegation. The allegations are lengthy. I will repeat only a few paragraphs:
+63. PMS alleges that there is no invention in the discovery of substituted-thiazolidinedione derivatives, or their use in the treatment of the hyperglycaemia, Type II diabetes or any of the aforementioned diseases. Indeed, thiazolidinedione derivatives, including those that were substituted, were known prior the relevant date, September 4th, 1987, and formed part of the common general knowledge of a person skilled in the art.
+. . . . .
+Summary of Obviousness
+108. It was known to a person skilled in the art, prior the relevant date, to replace the convertible moiety of the claimed compound by different substituents, including for example (C
+5
+H
+4
+N)N(CH
+3
+)-(CH
+2
+)n-O- so as to arrive to a substituted thiazolidinedione derivative that exhibited the desired known activity. A person skilled in the art would be motivated to make such changes to the glitazone moiety (or backbone) by the prior art, for example in the scientific articles: Sohda et al, "Studies on Antidiabetic Agents. I. Synthesis of 5-[4-(2-Methyl-2-phenypropoxy)benzyl] thiazolidine-2,4-dione (AL-321) and Related Compounds", Chem. Pharm. Bull. 30(10), pp. 3563-3573, 1982 (hereinafter referred to as "Sohda I") and Sohda et al, "Studies on Antidiabetic Agents. II. Synthesis of 5-[4-(1-Methylcyclohexylmethoxy)benzyl] thiazolidine-2,4-dione (ADD-3878) and its Derivatives", Chem. Pharm. Bull. 30(10), pp. 3580-3600, 1982 (hereinafter referred to as "Sohda II"). In fact, the structural similarity between the compounds of the prior art and those claimed in the '452 Patent, in particular Rosiglitazone, highlights the structural relationship and importance of the thiazolidinedione moiety and would thus provide the person skilled in the art the requisite motivation to modify known compounds to obtain the claimed compound, Rosiglitazone. These obvious modifications to the glitazone moiety or backbone, in turn, would have been expected by the person skilled in the art to have similar properties and activities as the known thiazolidinedione compounds.
+. . . . .
+Obviousness of claims 1 to 3, 6 to 11, 41 and 43 to 48 of the '452 Patent
+121. PMS alleges that claim 1 of the '452 Patent, which is directed to a class of compounds falling within the scope of formula (1) and in which Rosiglitazone falls therein, is obvious in light of the teachings of one or more of EP '203, EP '926, EP '845, EP '256, Sohda I and Sohda II and based on the common general knowledge of the person skilled in the art. The fact that there is no teaching in the '452 Patent as to the method of preparing Rosiglitazone, and the omission of experimental data, test results or toxicological data in relation to this compound should be seen and would be understood by the person skilled in the art that such a compound was obvious to a person skilled in the art.
+122. More specifically, each of the prior art documents teaches the use of an ethoxybenzylthiazolidine-2-4-dione backbone on which different substituents (moieties) can be attached to provide compounds having hypolipidaemic and hyperglycaemic activity. Indeed, a person skilled in the art, in light of the prior art, would have known to replace the convertible moiety (or left moiety) of the claimed compound by different substituents, including for example (C
+5
+H
+4
+N)N(CH
+3
+)-(CH
+2
+)n-so as to arrive to a substituted thiazolidinedione derivative having hypoglycaemic and hypolipidaemic activity (i.e. Rosiglitazone).
+. . . . .
+132. PMS alleges that claim 41 is obvious for the same reason as claims 1 to 3 and 6 to 11 are obvious. In addition, claim 41 is directed to a compound, which is 5-(4-[2-(N-Methyl-N-(2-pyridyl)amino)ethoxy] benzyl)-2,4-thiazolidinedione (i.e. Rosiglitazone); or a tautomeric form thereof and/or a pharmaceutically acceptable salt thereof and/or a pharmaceutically acceptable solvate thereof. I light of the teachings of the prior art set out above and his common general knowledge, the person skilled in the art would arrive directly and without difficulty to the subject matter of claim 41. Claim 41 is thus invalid, void and of no effect as being obvious.
+[61]
+The legal test for obviousness, as asserted by Pharmascience at paragraphs 54 to 59 of its Notice of Allegation, and with which I agree, is that as set out by Rothstein J for the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  at paragraph 67:
+67 It will be useful in an obviousness inquiry to follow the four-step approach first outlined by Oliver L.J. in
+ <FRAGMENT_SUPPRESSED>  (C.A.). This approach should bring better structure to the obviousness inquiry and more objectivity and clarity to the analysis. The Windsurfing approach was recently updated by Jacob L.J. in
+ <FRAGMENT_SUPPRESSED>  (p. 872), [2007] EWCA Civ 588, at para. 23:
+In the result I would
+restate
+the Windsurfing questions thus:
+(1)
+(a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4)
+Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention?
+[Emphasis added.]
+It will be at the fourth step of the Windsurfing/Pozzoli approach to obviousness that the issue of "obvious to try" will arise.
+[62]
+To this I would add what Rothstein J wrote at paragraphs 69 and 70:
+69 If an "obvious to try" test is warranted, the following factors should be taken into consideration at the fourth step of the obviousness inquiry. As with anticipation, this list is not exhaustive. The factors will apply in accordance with the evidence in each case.
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the patent addresses?
+70 Another important factor may arise from considering the actual course of conduct which culminated in the making of the invention. It is true that obviousness is largely concerned with how a skilled worker would have acted in the light of the prior art. But this is no reason to exclude evidence of the history of the invention, particularly where the knowledge of those involved in finding the invention is no lower than what would be expected of the skilled person.
+[63]
+This test has been considered by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> to 29 where they said that obviousness did not mean "worth a try", it means "very plain". Merely because the prior art alerts a skilled person to the possibility that something is worth trying, does not make it obvious.
+25 Under the heading "
+Approach to Obviousness in Canada
+", Rothstein J. notes that until now Canadian courts have tended to treat the Beloit test as a statutory prescription that limits the obviousness inquiry (at paragraph 61). The "obvious to try" test can have a useful role under Canadian law (at paragraph 64).
+26 Rothstein J. then focuses on the scope of this test. After noting that the factors set forth in the passage adopted by Lord Hoffmann in
+ <FRAGMENT_SUPPRESSED>  [2008] EWCA Civ 311, which he quotes at paragraph 59, provide useful guidance, he says (at paragraph 64):
+However, the "obvious to try" test must be approached cautiously. It is only one factor to assist in the obviousness inquiry. It is not a panacea for alleged infringers. The patent system is intended to provide an economic encouragement for research and development. It is well known that this is particularly important in the field of pharmaceuticals and biotechnology.
+27 Rothstein J. then hones in on the precise test. At paragraph 66, he says:
+For a finding that an invention was "obvious to try", there must be evidence to convince a judge on a balance of probabilities
+that it was more or less self-evident to try to obtain the invention. Mere possibility that something might turn up is not enough
+. (My emphasis.)
+In the prior paragraph, he made it clear that the word "obvious" in the phrase "obvious to try" is to be given its primary meaning of "very plain".
+28 I take it from this that the test adopted by the Supreme Court is not the test loosely referred to as [page 235] "worth a try". After having noted Apotex' argument that the "worth a try" test should be accepted (at paragraph 55), Rothstein J. never again uses the expression "worth a try" and the error which he identifies in the matter before him is the failure to apply the "obvious to try" test (at paragraph 82).
+29 The test recognized is "obvious to try" where the word "obvious" means "very plain". According to this test, an invention is not made obvious because the prior art would have alerted the person skilled in the art to the possibility that something might be worth trying. The invention must be more or less self-evident. The issue which must be decided in this appeal is whether the Federal Court Judge failed to apply this test.
+[64]
+Obviousness in respect of an "old"
+Act
+patent such as the one at issue here is to be considered as of the "date of invention". GSK does not assert a date of invention earlier than the date of filing the patent application in Canada, September 2, 1988. On the evidence, even if I were to find an earlier date, it would only be a few days earlier, the date upon which Ms. Lister completed the mouse test. September 2, 1988 is an appropriate date of invention in this case.
+[65]
+Pharmascience relies principally upon the evidence of Professor Klibanov in respect of this consideration as to obviousness. His affidavit begins a discussion of obviousness at paragraphs 52 and 53:
+VIII. Obviousness
+52. For purposes of obviousness, I will assume that GSK affiant, Professor Bailey, is correct and the only invention in the '452 Patent are compounds that are better than nothing (the control) (e.g., see the Bailey affidavit's paragraphs 41-43) and that a person skilled in the art would know that TZD derivatives had been shown to reduce blood glucose levels and to ameliorate manifested defects in Type 2 diabetes (e.g., see the Bailey affidavit's paragraph 52).
+53. In my opinion, if one makes the assumptions set out in the preceding paragraph, then there is no invention in the '452 Patent. If researchers knew that TZD derivatives would reduce blood glucose levels, then yet another derivative working the same way is not inventive. Similarly, there is no invention if TZD derivatives were also known to be potentially useful to treat Type 2 diabetes. In other words, if all the hypoglycaemic effect of the compound comes from the TZD portion of its molecule, then there is nothing inventive about whether changes are made to the remaining portion of the molecule. Furthermore, as set out below, the prior art contained directions to certain promising TZD derivatives, and by following the directions of Sohda I, Sohda II, and EP '203, rosiglitazone would be one of the obvious compounds to make toward that end.
+[66]
+Professor Klibanov proceeds to set out what he considers to be the common general knowledge in the area and reviews the articles Sohda I and Sohda II as well as many of the European Patent applications identified as prior art. He concludes that only "minor changes" to the compounds disclosed in the prior art were needed, that testing of the resulting compound would be conventional and routine and that the prior art led to sufficient motivation to look for compounds with improved activity and safety.
+[67]
+GSK relies principally on the expert evidence of Professor Wipf, as well as the factual evidence of Mr. Hindley and Ms. Lister, in reply to Pharmascience's assertion as to obviousness. Evidence was also presented from Dr. Jurs, directed to what was described as the Log P issue. This issue was not pursued by Pharmascience and needs not be discussed further here.
+[68]
+Professor Wipf reviewed the assertion made by Pharmascience and the prior art relied upon. He extensively reviewed the prior art in his affidavit. I repeat some of his conclusions:
+Conclusions on Pharmascience's obviousness allegation
+185. The structure of rosiglitazone was not taught by any of the prior art, alone or in any combination, cited by Pharmascience. There is no teaching in the prior art to create a TZD compound including a 2-pyridyl and a linker consisting of a methylamino moiety and two carbons. The attachment of a 2-pyridyl compound to a linker composed of a methylamino and two carbons was not obvious to one of ordinary skill in the art as of September 1988.
+186. As explained above, I disagree with virtually every premise of Pharmascience's analysis. To support its conclusion and derive the structure of rosiglitazone, Pharmascience creates a teaching of a relationship between lipophilicity and hypoglycaemic or hypolipidemic activity in the prior art where none exists, ignores the teachings of toxicity and unexplained physiological responses in the prior art leading away from a 2-pyridyl TZD compound, ignores the teachings of preferred compounds in the prior art leading away from an unsubstituted 2-pyridyl TZD compound, ignores the lack of teaching of a 2-pyridyl methylamino TZD compound, and misrepresents the teachings of the prior art on which it relies. Pharmascience's strained analysis completely undermines the hindsight reconstruction Pharmascience engages in to derive the structure of rosiglitazone. This analysis bears no resemblance to the way a real world medicinal chemist would have undertaken discovery as of September 1988. Therefore, in view of the prior art, rosiglitazone is not obvious.
+[69]
+Professor Wipf took the
+ <FRAGMENT_SUPPRESSED> 
+questions as to obviousness (as discussed in these Reasons) and considered each of them, concluding at paragraph 205 of his affidavit that the work of Hindley and Lister was not obvious, nor very plain nor obvious to try. He further noted, as did Mr. Hindley, that GSK received an award from the Society of Medicines Research for this work.
+[70]
+In reviewing all of the evidence, including the foregoing, I am satisfied that GSK has sufficiently established that Pharmascience's allegation as to obviousness, as set out in its Notice of Allegation, is not justified. Hindley's work, over the period of several years, was the result of patient research. This research was applauded by the scientific community. Takeda apparently never achieved the result that Hindley did. To take several pieces of prior art as Professor Klibanov did, and select certain compounds, reject others, and then endeavour to trace a path for research which is said to be obvious, is a classic exercise in the application of hindsight. The result was not obvious.
+[71]
+The second argument raised by Pharmascience in its written memorandum and at the hearing as to obviousness was not raised in the Notice of Allegation, and for that reason alone must be rejected. That argument is based essentially on a characterization of statements made by Dr. Bailey in his affidavit and raising an argument in respect of those statements. It is evident that, at the time Pharmascience prepared and delivered its Notice of Allegation, Dr. Bailey's affidavit did not even exist.
+[72]
+This argument as to obviousness turns on a question of construction, not of the claim, but of the description at page 1 of the '452 Patent and in particular the words found in the third paragraph,
+"improved blood-glucose lowering
+activity"
+. Dr. Bailey wrote at paragraph 41 of his affidavit:
+41. In terms of the first component, it is clear from the statements at paragraph 39, above, that the compounds to which this Patent is directed are TZD derivatives that are said to show "improved blood-glucose lowering activity." A person of ordinary skill in the art would understand the phrase "improved blood-glucose lowering activity' to mean that when these novel TZD derivative compounds were administered to animals there was an improvement seen in the blood glucose levels of these animals. A person of ordinary skill in the art would not read the word "improved" as suggesting that this new class of TZD derivatives had been compared to known TZD derivatives and demonstrated "improved" blood glucose lowering activity over those compounds. It simply describes the effect these novel TZD derivatives had on the blood glucose levels of the animals tested.
+[73]
+The evidence presented by Pharmascience on this issue was that provided by its experts in response to a question put to them by Pharmascience's lawyer. Paragraph 22(4) of the affidavit of Dr. Dordick sets out an example of the question:
+22. I have been asked to review Canadian Patent No. 1,328,452 ("'452 Patent") and answer the following questions:
+. . . . .
+(4) If Dr. Bailey is correct at paragraph 41 that "improved blood glucose lowering activity" simply means that when these TZD derivatives are administered to animals there is an improvement in the blood glucose levels of the animals, then is rosiglitazone obvious?
+[74]
+The evidence of Pharmascience's experts can be summarized by referring to the answers provided by Professor Klibanov to questions as set out at pages 167 - 168 of the transcript of his cross-examination:
+Q. You would say regardless of what the promise of the patent is, looking at prior art, and in particular, looking at Sohda I, Sohda II and EP '203, you would be led to rosiglitazone?
+A. I would not say anything. What I wanted to say is stated here, starting in Paragraph 83 and subsequently. I'm just saying that for this analysis that I carry out here, for example subsequent to Paragraph 83, Professor Bailey's opinion, what "improved" means is not germane.
+Q. So based on the prior art, you say ... rosiglitazone is obvious?
+A. Rosiglitazone would be obvious if one makes the assumption or makes the conclusion that is made by Professor Bailey. If one does not make this conclusion, then this whole discussion is - if one were not to make the conclusion that Professor Bailey made, I wouldn't discuss obviousness.
+Q. So if Professor Bailey had not said what he said that you've talked about in Paragraph 52, then you would not say rosiglitazone is obvious?
+A. I don't think that we need to discuss it. My personal view is, as I already explained, my personal view is that the '452 patent lacks utility, it lacks sound prediction. So in other words, the claims are too broad, and these are the reasons why I believe in the statements that I made.
+So there would be no need for me to discuss obviousness if Professor Bailey hadn't made the statement that he made.
+[75]
+I agree, somewhat, with Professor Klibanov. This is not really an obviousness issue. Rather, it is an issue directed to utility and sufficiency, which has to be determined by way of construction of the patent, particularly as to what is said at page 1.
+[76]
+Therefore, since this issue as to obviousness has not been set out in the Notice of Allegation, this Court is not required to determine whether the allegation is justified or not. Issues as to construction, utility and sufficiency will be addressed in these Reasons.
+INSUFFICIENCY - UTILITY - LACK OF SOUND PREDICTION
+[77]
+Pharmascience's arguments as to insufficiency, utility and lack of sound prediction are bound up together. I am mindful that GSK argues that it is not running a sound prediction case at all.
+[78]
+These arguments require that the Court focus on what is said in the second, third and fourth paragraphs at page 1 of the '452 Patent. I repeat them:
+European Patent Applications, Publication Numbers 0008203, 0139421, 0155845, 0177353, 0193256, 0207581 and 0208420 relate to thiazolidinedione derivatives which are disclosed as having hypoglycaemic and hypolipidaemic activity. Chem. Pharm. Bull 30 (10) 3580-3600 also relates to certain thiazolidinedione derivatives having hypoglycaemic and hypolipidaemic activities.
+It has now surprisingly been discovered that certain novel substituted-thiazolidinedione derivatives show improved blood-glucose lowering activity and are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes.
+These compounds are also indicated to be of potential use for the treatment and/or prophylaxis of other diseases including hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+[79]
+The allegations made by Pharmascience are lengthy. Insufficiency, lack of utility, and the lack of sound prediction are bound together. Below are some of these allegations:
+INSUFFICIENCY OF SPECIFICATION
+140. PMS alleges that the specification of the '452 Patent is insufficient since it does not define in clear terms the nature and characteristics of the special attributes or substantial advantages, if any, that are purportedly possessed by the claimed compound of the '452 Patent, more especially, Rosiglitazone, chemically designated as 5-(4-[2-(N-methyl-N-(2-pyridyl)amino)ethoxy] benzyl)-2,4-dione and which is encompassed in claims 1 to 3, 6 to 11, 41 and 43 to 48 of the '452 Patent.
+141. PMS alleges, for Rosiglitazone, that the '452 patent provides no experimental data, test results or toxicological data, nor any reasoned basis to support its claim of allegedly "improved blood-glucose lowering activity" (see page 1, line 23 of the disclosure) compared to other thiazolidinedione derivatives. In fact, the disclosure of the '452 Patent, in relation to Rosiglitazone, is completely silent with respect to data to support the activity of this compound.
+142. PMS alleges that the disclosure of the '452 Patent fails to show that there are unexpected results for the chemical compound designated as 5-(4-[2-(N-methyl-N-(2- pyridyl)amino)ethoxy] benzyl)-2,4-dione (i.e. Rosiglitazone).
+143. The disclosure of the '452 Patent states the following at page 1, lines 12 to 31:
+. . . . .
+144. Even though the disclosure of the '452 Patent (see page 21, line 1 to page 22, line 29) states that the compound of general formula (I) can be used in the treatment and/or prophylaxis of hyperglycaemia, hyperlipidaemia, hypertension, cardiovascular diseases or certain eating disorders, no experimental data, test results or toxicological data is provided for Rosiglitazone. Moreover, the '452 Patent only refers to a potential use of substituted thiazolidinedione derivative "in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes" (see page 1, lines 24 to 26 of the '452 Patent) and "for the treatment and/or prophylaxis of other diseases including hyperlipidaemia, hypertension, cardiovascular diseases and certain eating disorders" (see page 1, lines 28 to 31 of the '452 Patent).
+145. The Table provided on page 80 of the '452 Patent (reproduced hereinbelow), pertaining to the glucose tolerance test, remains completely silent on the experimental data, test results or toxicological data of the chemical compounds corresponding to Examples 6, 8, 10, 12, 14, 16, 18, 20, 22, 23, 26, 28, 30 (Rosiglitazone) and 31.
+146. More particularly, the disclosure provides no experimental data, test results or toxicological data for the chemical compound Rosiglitazone, (corresponding to Example no. 30 ...
+. . . . .
+147. In fact, no experimental data, test results or toxicological data is provided to support the therapeutic activity (with respect to hypoglycaemic and hypolipidaemic activities) of Rosiglitazone, i.e. 5-(4-[2-(N-methyl-N-(2-pyridyl)amino)ethoxy] benzyl)-2,4-thiazolidinedione, over other compounds belonging to the class of thiazolidinediones.
+148. The disclosure of the '452 Patent also states as follows at page 1, lines 21 to 26:
+It has now surprisingly been discovered that certain novel substituted-thiazolidinedione
+derivates show improved blood-glucose lowering activity
+and are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes. (Our emphasis)
+149. There is nothing in the '452 Patent to support the assertion that there was anything "surprising" about the use of 5-(4-[2-(N-methyl-N-(2-pyridyl)amino)ethoxy] benzyl)- 2,4-thiazolidinedione (Rosiglitazone) or other thiazolidinedione derivates, as having "improved blood-glucose lowering activity and are therefore of potential use in the treatment and/or prophylaxis of hyperglycemia and are of particular use in the treatment of Type II diabetes" (see page 1, lines 23 to 26).
+. . . . .
+LACK OF UTILITY/LACK OF SOUND PREDICTION
+157. PMS alleges that claims 1 to 3, 6 to 11, 41 and 43 to 48 of the '452 Patent are invalid on the basis of lack of utility or usefulness. PMS repeats and relies upon the allegations set out under the "Insufficiency of Specification" set out above.
+158. The disclosure of the '452 Patent states the following at page 1, lines 21 to 26:
+"It has now surprisingly been discovered that certain novel substituted-thiazolidinedione derivatives show improved blood-glucose lowering activity and are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes."
+159. PMS alleges that there is nothing "surprising" about the discovery of Rosiglitazone over other thiazolidine derivatives (which were disclosed) since the inventors did not prove its efficacy and as a result provided no proof of the utility of Rosiglitazone, beyond what was known about the usefulness of known glitazone compounds in general in the '452 Patent. Nor was any quantitative or qualitative data provided in this regard.
+160. PMS further alleges that the "surprising" discovery of Rosiglitazone did not meet the requirements of sound prediction since the patent fails to provide the sound line of reasoning to support the "improved" efficacy of the compound (as asserted on page 1 of the '452 Patent lines 21-26).
+161. As established in
+ <FRAGMENT_SUPPRESSED>  an inventor must be able to establish utility, either by demonstration or sound prediction based on the information and expertise available at the time of filing of the priority application or, alternatively, the Canadian filing date.
+162. If the utility of an invention is not demonstrated, then it must be based upon a sound 6prediction. The doctrine of sound prediction has three components, all of which should be satisfied:
+1. there must be a factual basis for the prediction;
+2. the inventor must have at the date of the patent application an articulable and "sound" line of reasoning from which the desired result can be inferred from the factual basis; and
+3. there must be proper disclosure of the factual basis and the line of reasoning.
+163. PMS alleges that the '452 Patent does not disclose any factual basis or sound line of reasoning to support the utility of Rosiglitazone as an hypoglycaemic or hypolipidaemic agent as any more effective than other compounds belonging to the class of thiazolidinediones or shows an "improved blood-glucose lowering activity" (see page 1, line 23 of the description) in respect to these compounds.
+164. Nor does the '452 Patent suggest that Rosiglitazone possesses any beneficial characteristics, clinical or otherwise, in comparison to other known thiazolidinedione derivatives.
+165. Further PMS alleges that the '452 Patent does not provide any experimental data, test results or toxicological data which would support the utility of all of the compounds encompassed in the claims of the '452 Patent, and more particularly for Rosiglitazone (corresponding to Example 30 of the '452 Patent).
+166. Thus, claims 1 to 3, 6 to 11, 41 and 43 to 48 cover compounds and/or compositions that were not shown to be useful, and not soundly predicted as being useful as pharmaceuticals.
+167. Thus, the claims of the '452 Patent must fail for lack of utility and lack of sound prediction.
+a)
+Pharmascience's Allegations in a Nutshell
+[80]
+Pharmascience's allegations in a nutshell as derived from the foregoing paragraphs, is as follows:
+1. The three paragraphs in question at page 1 are not set out in clear and sufficient language;
+2. There is nothing "surprising" about rosiglitazone; it is just another TZD derivative that a skilled person (POSITA) would expect to have some activity;
+3. The specification fails to set out what is "improved" about rosiglitazone; whether it is the best of all known compounds, whether it is the best of all the prior art, or simply better than no medicinal compound at all;
+4. There is a promise that rosiglitazone will treat Type II diabetes, yet there is no data or other information whatsoever in the patent that would lead a skilled person (POSITA) to make a sound prediction that it would be useful to treat Type II diabetes.
+[81]
+GSK has argued that the Notice of Allegation fails to set out this argument clearly. However, I find that the Notice of Allegation does set out this argument and that GSK was well aware of the allegations made and addressed them in its evidence and its argument.
+b)
+GSK's Position in a Nutshell
+[82]
+GSK's position with respect to these allegations can be summarized as follows:
+1. The specification is not perfectly drafted but it should be read with a mind willing to understand;
+2. The specification does not set out any test data with respect to rosiglitazone but that is unnecessary because by the Canadian filing date, September 2, 1988, GSK had made rosiglitazone and subjected it to an initial test which was sufficient to support the allegations of utility as expressed at page 1 of the '452 Patent when fairly read;
+3. The word "surprising" is simply patent agent jargon. The word "improved" means that the compounds such as rosiglitazone are among the better compounds in showing activity against a control group of mice in a test as set out at page 80 in which medicated mice were compared with unmedicated mice.
+c)
+Jurisprudence as to Reading a Specification
+[83]
+There has been considerable jurisprudence as to reading a claim, which is part of the overall specification of a patent, but less jurisprudence as to how to read the description; particularly the "promise" of a patent.
+[84]
+The Supreme Court of Canada has set out the approach to construction of the specification of a patent in
+ <FRAGMENT_SUPPRESSED> ]), being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. There is no occasion for being too astute or technical in the matter of objections to either title or specification for, as Duff C.J.C. said, giving the judgment of the Court in
+Western Electric Company, Incorporated, and  <FRAGMENT_SUPPRESSED> ], at p. 574, "where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction". Sir George Jessel spoke to like effect at a much earlier date in
+ <FRAGMENT_SUPPRESSED>  anxiety to support a really useful invention".
+[85]
+Construction of a patent is for the Court, to be approached from the viewpoint of a skilled person (POSITA) without resort to "technicalities". Pigeon J, for the Supreme Court, wrote at page 563 of
+ <FRAGMENT_SUPPRESSED> :
+With respect, I cannot agree that Claim 17 is invalid because the words "compatible with normal skin" are found before "comprising" instead of after, so that it would be valid, it seems, if the words were rearranged as follows:
+17. An electrocardiograph cream for use with skin contact electrodes comprising a stable aqueous emulsion that is anionic, cationic or non-ionic, containing sufficient highly ionizable salt to provide good electrical conductivity and compatible with normal skin.
+In my view, the rights of patentees should not be defeated by such technicalities. While the construction of a patent is for the Court, like that of any other legal document, it is however to be done on the basis that the addressee is a man skilled in the art and the knowledge such a man is expected to possess is to be taken into consideration. To such a man it must be obvious that a cream for use with skin contact electrodes is not to be made up with ingredients that are toxic or irritating, or are apt to stain or discolour the skin. The man skilled in the art will just as well appreciate this necessity if the cream to be made is described as "compatible with normal skin" as if it is described as containing only ingredients compatible with normal skin.
+[86]
+Expert evidence may be used to assist the Court to explain technical terms, to show the practical workings of an invention and to assist in distinguishing what is old from what is new. However, the construction of the specification is exclusively within the province of the Court; it is a question of law. Duff C.J. for the Supreme Court wrote in
+ <FRAGMENT_SUPPRESSED>  at pages 572 - 573:
+I should add also that not only is the construction of the specification exclusively within the province of the court -- but also it is for the court a question of law.  <FRAGMENT_SUPPRESSED> , at 208.], Lord Buckmaster said,
+My lords, what did the specification of 1906 disclose and what did the patent of 1909 protect? These are the questions that arise for determination on this appeal, and their resolution depends upon the construction of two documents; such construction is the exclusive duty of the court, and this duty can neither be delegated nor usurped. As however in ordinary cases the existing circumstances in which documents were prepared, the relationship of the parties and the interpretation of terms of art are the proper subject-matter of evidence, so in specification of patents the state of knowledge in the craft, art or science to which the specification is directed and the explanation of technical terms, words and phrases are the proper subject-matter of testimony to aid interpretation; but beyond this, evidence affecting construction should not be allowed to stray. Finally, the document must be regarded as addressed to craftsmen in the particular branch of industry to which the alleged invention relates.
+And Lindley, L.J., in
+ <FRAGMENT_SUPPRESSED> , at 73.], expressed himself thus:
+The judge may, and indeed generally must, be assisted by expert evidence to explain technical terms, to show the practical working of machinery described or drawn, and to point out what is old and what is new in the specification. Expert evidence is also admissible, and is often required, to show the particulars in which an alleged invention has been used by an alleged infringer, and the real importance of whatever differences there may be between the plaintiff's invention and whatever is done by the defendant. But after all, the nature of the invention for which a patent is granted must be ascertained from the specification, and has to be determined by the judge and not by a jury, nor by any expert or other witness. This is familiar law, although apparently often disregarded when witnesses are being examined.
+[87]
+Lord Hoffman, writing for the House of Lords, recently addressed the same question in
+ <FRAGMENT_SUPPRESSED>  (H.L.), at paragraphs 32 and 33:
+32. Construction, whether of a patent or any other document, is of course not directly concerned with what the author meant to say. There is no window into the mind of the patentee or the author of any other document. Construction is objective in the sense that it is concerned with what a reasonable person to whom the utterance was addressed would have understood the author to be using the words to mean. Notice, however, that it is not, as is sometimes said, "the meaning of the words the author used", but rather what the notional addressee would have understood the author to mean by using those words. The meaning of words is a matter of convention, governed by rules, which can be found in dictionaries and grammars. What the author would have been understood to mean by using those words is not simply a matter of rules. It is highly sensitive to the context of and background to the particular utterance. It depends not only upon the words the author has chosen but also upon the identity of the audience he is taken to have been addressing and the knowledge and assumptions which one attributes to that audience. I have discussed these questions at some length in
+ <FRAGMENT_SUPPRESSED> .
+33. In the case of a patent specification, the notional addressee is the person skilled in the art. He (or, I say once and for all, she) comes to a reading of the specification with common general knowledge of the art. And he reads the specification on the assumption that its purpose is to both to describe and to demarcate an invention - a practical idea which the patentee has had for a new product or process - and not to be a textbook in mathematics or chemistry or a shopping list of chemicals or hardware. It is this insight which lies at the heart of "purposive construction".
+[88]
+At paragraph 78, Lord Hoffman noted that a person skilled in the art must be assumed to know the basic principles of patentability.
+78. The effect of the construction for which Amgen contends is that claim 1 should be read as including any DNA sequence, whether exogenous or endogenous, which expresses EPO in consequence of the application to the cell of any form of DNA recombinant technology. It would have been easy to draft such a claim. Whether the specification would have been sufficient to support it, in the sense of enabling expression by any form of DNA recombinant technology, is another matter to which I shall return when I deal with validity. But the person skilled in the art (who must, in my opinion, be assumed to know the basic principles of patentability) might well have thought that the claims were restricted to existing technology because of doubts about sufficiency rather than lack of foresight about possible developments. Amgen would have been well aware in 1983 that recombinant technology was developing rapidly and that artificial homologous recombination had been achieved in bacterial and yeast cells and that its use in mammalian cells was regarded as a desirable goal.
+[89]
+The late Dr. Harold Fox in his book "The Canadian Law and Practice Relating to Letters Patent for Invention", 4th ed., 1969, Carswell, Toronto (Fox on Patents) provided a useful insight into this issue at pages 208 - 209 (omitting footnotes):
+IMPARTIAL CONSTRUCTION
+Originally patents were regarded with disfavour as being in the nature of monopolies and there existed a great tendency to be unnecessarily strict in construing patents against the patentee. The tendency then swung to the other extreme and courts were often found construing a patent most benevolently in favour of the patentee who had introduced a new manufacture. It should not be necessary to observe that a construction that is, even in the slightest degree, either too strict or too benevolent, ceases to be an impartial construction and is, therefore, improper. A patent specification is subject to the same impartial canons of construction as ordinarily apply to written documents generally. As Chitty J. observed in  <FRAGMENT_SUPPRESSED>  benevolently; I do say it ought to be construed fairly. It must be read by a mind willing to understand, not by a mind desirous of misunderstanding."
+. . . . .
+The court should, therefore, in construing a specification, be the fair and impartial arbitrator between the patentee and the public. The construction must be reasonable, fair and logical, in accordance with the manner of construction of all written documents according to the true intent. Nothing should be presumed in favour of the patentee or an alleged infringer, although it is proper for the court to endeavour to support a patent if it can be done honestly and fairly and without improper construction, for it is a reasonable presumption that a patentee would not claim anything that would render his patent void.
+d)
+Construing Page 1 of the '452 Patent
+[90]
+I repeat the three paragraphs of page 1 of the '452 Patent that are at issue:
+European Patent Applications, Publication Numbers 0008203, 0139421, 0155845, 0177353, 0193256, 0207581 and 0208420 relate to thiazolidinedione derivatives which are disclosed as having hypoglycaemic and hypolipidaemic activity. Chem. Pharm. Bull 30 (10) 3580-3600 also relates to certain thiazolidinedione derivatives having hypoglycaemic and hypolipidaemic activities.
+It has now surprisingly been discovered that certain novel substituted-thiazolidinedione derivatives show improved blood-glucose lowering activity and are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes.
+These compounds are also indicated to be of potential use for the treatment and/or prophylaxis of other diseases including hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+[91]
+The construction of these paragraphs was the subject of considerable diversity among the experts put forward by each of the parties. An example of the position taken by the Pharmascience experts is that of Dr. Dordick at paragraph 27 of his affidavit:
+27. A person skilled in the art would understand the promise of the patent to be that the compounds have improved activity over the known TZD compounds and that the compounds will be useful in humans. The patent is specific in that all of the billions of compounds within Formula I, not just the selected compounds in the table on p. 80, show such improved activity. This must be the case because rosiglitazone is not included in this table.
+[92]
+Professor Bailey, an expert put forward by GSK, saw the matter differently as put forward at paragraphs 39 to 47 of his affidavit. I repeat paragraphs 40, 41, 44 and 47:
+40. I read these statements as comprising three components: 1) that certain novel TZD derivatives show improved blood glucose lowering activity; 2) that these compounds are of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type 2 diabetes; and 3) that these compounds are of potential use for the treatment and/or prophylaxis of other diseases including hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+41. In terms of the first component, it is clear from the statements at paragraph 39, above, that the compounds to which this Patent is directed are TZD derivatives that are said to show "improved blood-glucose lowering activity." A person of ordinary skill in the art would understand the phrase "improved blood-glucose lowering activity' to mean that when these novel TZD derivative compounds were administered to animals there was an improvement seen in the blood glucose levels of these animals. A person of ordinary skill in the art would not read the word "improved" as suggesting that this new class of TZD derivatives had been compared to known TZD derivatives and demonstrated "improved" blood glucose lowering activity over those compounds. It simply describes the effect these novel TZD derivatives had on the blood glucose levels of the animals tested.
+44. In order to understand the second component of the statements cited in paragraph 39 above, one needs to keep in mind the state of the art regarding TZD derivative compounds at the time the 452 Patent was filed (i.e., September 2, 1988). As discussed above, compounds of this class were known at that time to lower blood glucose levels (e.g., by increasing insulin sensitivity in peripheral tissues) and decrease plasma insulin levels in animal models of Type 2 diabetes. Accordingly, viewing the data reported at page 80 of the 452 Patent, one would appreciate that the reduction in blood glucose reported was an indication of the relative potency of the test compound in its ability to lower blood glucose and concomitantly reduce plasma insulin levels.
+. . . . .
+47. In terms of the third component of the statements cited in paragraph 39, above, a person or ordinary skill in the art would have known that glucose metabolism plays a role in hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders (e.g., obesity). Thus, compounds that improve glucose action would be of potential use for the treatment and/or prophylaxis of diseases including hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+[93]
+The construction of the patent at issue here is not very different from that considered by Justice Snider of this Court in
+ <FRAGMENT_SUPPRESSED>  aff'd (2009), 75 C.P.R. (4th) 443, 2009 FCA 222. I repeat what she wrote at paragraphs 281 and 284 through 287:
+281 In determining this question of the promise of the patent, I must remind myself that: "(...) where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction (...)" ( <FRAGMENT_SUPPRESSED>  at 157).
+. . . . .
+284 The first and most significant reference to the utility of the '196 Patent is contained in three paragraphs on page 3 of the specification:
+Les composés selon l'invention ainsi que leurs sels pos-sèdent des propriétés pharmacologiques intéressantes. Ils exercent notamment une activité inhibitrice sur certaines enzymes, comme les carboxypolypeptidases, lest enkephalinases ou la kininase II. Ils inhibent notamment la transformation du décapeptide angiotensine I en l'octapeptide angiotensine II, responsable dans certains cas de l'hypertension artérielle, en agissant sur l'enzyme de conversion.
+L'emploi en thérapeutique de ces composés permet donc de réduire ou même supprimer 1'activité de ces enzymes responsables de la maladie hypertensive ou de 1'insuffisance cardiaque. L'action sur la kininase II a pour résultat 1'augmentation de la bradykinine circulante et également la baisse de la tension artérielle par cette voie.
+L'invention s'étend aussi aux compositions pharmaceuti-ques renfermant comme principe actif au moins un compose de formule générale I ou un de ses sels d'addi-tion, avec une base ou un acide minéral ou organique, en association avec un excipient inerte, non toxique, pharmaceutiquement acceptable.
+285 I think that there can be no doubt that the promise of ACE inhibition is made, unambiguously and without reservation, in the first paragraph cited above. As translated, this passage states clearly that the compounds inhibit the transformation of the decapeptide angiotensin I to the octapeptide angiotensin II.
+286 The second paragraph refers to the therapeutic use but is to some degree ambiguous. Do the words "permet donc de réduire ou même supprimer 1'activité de ces enzymes ..." mean that all of the compounds will have utility as anti-hypertensive medicines in humans? Or, is the specification of the patent stating that therapeutic use of the compounds may have therapeutic value? This ambiguity is reflected in the disparate views of the experts. If there was one common meaning, I would have expected all of the experts to have come to the same view. They did not.
+287 In my view, the passages cited do not teach that every one of the compounds has the same or any therapeutic use in humans. The better and more reasonable view of the second paragraph, read in its entirety with the balance of the '196 Patent, is that it contains an explanation of how a particular compound could be put to therapeutic use. In other words, the patent teaches that the ACE inhibition exhibited by all of the compounds makes it possible that they could be used to treat hypertension and cardiac insufficiency. I do not read a guarantee into those words as was done by Drs. Gavras, Marshall, Thorsett, McLelland and Brunner.
+[94]
+Having read the whole of the '452 patent, considered what the experts for each party have to say about the construction of what is found at page 1 of that patent, and taking an impartial approach being fair to both the patentee and the public, avoiding technicalities and undue harshness or benevolence, I find that:
+a. the word "
+surprising
+" as used in the third paragraph would be viewed by a skilled person (POSITA) who has some familiarity in reading patents as being language often found in patents as rather self-serving and of little value one way or another in determining what is the real nature of the invention;
+b. the word "
+improved
+" would be understood in light of the kind of test disclosed at page 80 of the patent which is to compare a group of obese mice fed with feed containing the compound under investigation as against a group of mice fed with the same feed but with no compound contained in it;
+c. the phrase "
+are therefore of potential use in the treatment and/or prophylaxis of hyperglycaemia and are of particular use in the treatment of Type II diabetes
+" is clumsily drafted; however, looking at the phrase within the context of the patent as a whole, the phrase does
+not
+mean that the compounds
+will
+treat diabetes. It means that it is of
+potential use
+in treating diabetes. The same can be said of the next paragraph; the compounds are of
+potential use
+in dealing with hyperlipidaemia, etc.
+IS THE SPECIFICATION "SUFFICIENT" ENOUGH TO SUPPORT THE "PROMISED" UTILITY
+[95]
+This case is not one of "sound prediction" where a patentee would have been required to show, in the patent description, a factual basis for the prediction, a sound line of reasoning from which the desired result may be inferred and a proper disclosure (
+ <FRAGMENT_SUPPRESSED>  at para 70). This is a case where the patentee asserts that as of the filing date, September 2, 1988, it did all that was necessary to support the invention disclosed and the utility as promised in the patent.
+[96]
+The requirements respecting disclosure in this context have been recently reviewed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> . There is no requirement for a patent to demonstrate utility in the disclosure so long as the Court finds it to be proven when challenged in Court. Nadon JA for the Court wrote at paragraphs 82 and 85 through 90:
+82 I agree with Pfizer's submission and with the Judge's finding that there is no requirement for a patent to demonstrate utility in the patent disclosure, so long as the trier of fact finds it to be proven upon a legal challenge.
+. . . . .
+85 Similarly, in Ranbaxy, this Court addressed the subsection 27(3) disclosure requirements. There, I wrote as follows at paragraphs 57 and 58:
+[57] Whether or not a patentee has obtained enough data to substantiate its invention is, in my view, an irrelevant consideration with respect to the application of subsection 27(3). An analysis thereunder is concerned with the sufficiency of the disclosure, not the sufficiency of the data underlying the invention. Allowing Ranbaxy to attack the utility, novelty and/or obviousness of the 546 patent through the disclosure requirement unduly broadens the scope of an inventor's obligation under subsection 27(3) and disregards the purpose of this provision.
+[58] While it is true that subsection 27(3) requires that an inventor "correctly and fully describe" his invention, this provision is concerned with ensuring the patentee provide the information needed by the person skilled in the art to use the invention as successfully as the patentee.
+86 The point of Ranbaxy, therefore, was not to dictate the section 2 utility requirements, but rather to elaborate on the section 27(3) disclosure requirements. Ranbaxy says that as far as disclosure requirements are concerned, the patentee need only provide enough information to allow someone else to practice the invention; it does not state that the patentee must demonstrate utility in the patent.
+87 Although there is no jurisprudence dictating whether or not utility need be demonstrated in the patent disclosure, I am of the view that the answer is that it need not be demonstrated in the patent disclosure. First, there is nothing in the
+Act
+which leads one to conclude that such a demonstration is necessary. Second, there is no a priori reason to think that the patent disclosure should contain proof of all the elements required to obtain the patent. Hughes &Woodley, supra, describe the goal of the disclosure as follows at s. 25:
+The description of the invention ... is to give the public adequate details as will enable a workman skilled in the art to which the invention relates to construct or use that invention when the period of the monopoly has expired. In essence what is called for in the specification (including both disclosure and claims) is a description of the invention and the method of producing and constructing it, coupled with a claim or claims which state those novel features in which the applicant wants the exclusive right; the specification must define the precise and exact extent of the exclusive property and privilege claimed.
+88 In other words, the disclosure provides direction, not proof: it tells practitioners how to practice the invention. It does not prove to them its utility, though they can require proof through invalidity proceedings.
+89 Indeed, the Supreme Court's most recent decision on utility, Wellcome (SCC), supra, makes no mention of any requirement to prove utility in the disclosure. At paragraph 56 of his Reasons, Rothstein J. wrote as follows:
+[56] Where the new use is the gravamen of the invention, the utility required for patentability (s. 2) must, as of the priority date, either be demonstrated or be a sound prediction based on the information and expertise available. If a patent sought to be supported on the basis of sound prediction is subsequently challenged, the challenge will succeed if, per Pigeon J. in
+ <FRAGMENT_SUPPRESSED> , at p. 1117, the prediction at the date of the application was not sound, or, irrespective of the soundness of the prediction, "[t]here is evidence of lack of utility in respect of some of the area covered."
+90 The appellant's argument that Pfizer was required to include evidence of demonstrated utility in the patent disclosure is without merit. The requirements for demonstrated utility can be provided in evidence during invalidity proceedings as opposed to in the patent itself. So long as the disclosure makes reference to a study demonstrating utility, there do not appear to be any other requirements to fulfill section 2.
+[97]
+The utility in question is to be determined, on the evidence before the Court, on the basis of what was done at Beecham prior to September 2, 1988. That is to be compared with the utility as promised in the patent. Layden-Stevenson JA for the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  wrote at paragraphs 74 to 76:
+74 Section 2 of the
+Act
+requires that the subject matter of a patent be new and useful. The general principle is that, as of the relevant date (the date of filing), there must have been either demonstration of utility of the invention or a sound prediction of the utility. Evidence beyond that set out in the specification can, and normally will, be necessary.
+75 To establish lack of utility, the alleged infringer must demonstrate "that the invention will not work, either in the sense that it will not operate at all or, more broadly, that it will not do what the specification promises that it will do":
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ).
+76 Where the specification does not promise a specific result, no particular level of utility is required; a "mere scintilla" of utility will suffice. However, where the specification sets out an explicit "promise", utility will be measured against that promise: <FRAGMENT_SUPPRESSED> ;
+ <FRAGMENT_SUPPRESSED>  (Ranbaxy). The question is whether the invention does what the patent promises it will do.
+[98]
+The interpretation that I have put on the "promise" of the patent as set out at page 1 is that certain compounds and in particular rosiglitazone:
+a. Are "improved" in that, in a test where feed containing the compound is fed to obese mice compared to mice just fed ordinarily, a blood glucose lowering is demonstrated in the compound fed mice; and
+b. That the compound, here rosiglitazone, is of
+potential use
+in the treatment and/or prophylaxis of hypoglycaemia, particularly Type II diabetes and other diseases such as hyperlipidaemia, hypertension, cardiovascular disease and certain eating disorders.
+WHAT WAS THE MOUSE TEST THAT BEECHAM DID
+[99]
+There is no dispute that Beecham (Hindley) made rosiglitazone in early August 1988 and handed it over to Lister who used it in a mouse test of the type described at page 80 of the '452 Patent. She ran one test at a one dosage level before September 2, 1988 and it showed a 42% lower blood glucose level in the group of mice fed with feed including rosiglitazone compared with another group fed with feed with no rosiglitazone.
+[100]
+While the test protocol was the usual one, it was also usual to test with three groups of mice, a "control" group fed no medicine, and two groups of mice each group fed at a different dosage of the compound. This is done so that "activity" (which is a measure of lowering the blood glucose) and "potency" (which is a determination as to how small a dose may be administered in order to achieve the desired result) can be seen. Ms. Lister at paragraphs 23, 24 and 25 of her affidavit described the results of the test that was done as follows:
+23. As demonstrated by the data for HG 49653, it exhibited a significant reduction in blood glucose levels as compared to the control group at all time intervals. This demonstrated that the compound was having an effect on the animal's ability to utilise blood glucose.
+24. In addition to reporting the average HG 49653 glucose levels of the mice at each time interval, I also report the percent reduction in the area under the blood glucose curve. The area under the blood glucose curve was calculated by a computer program using the trapezoid rule. As can be seen by the results presented above, HG 49653 reduced the area under the blood glucose curve by 42 percent. This was statistically significant when compared with the control group. Again, this demonstrated that HG 49653 was improving the animal's clearance of blood glucose.
+25. If any of the members of the team that I was supervising, or I, noticed an adverse effect during the screen (i.e., if the mice had a seizure or died) we would make a note of the event on the results sheet. There are no references to such adverse effects on the results sheet for rosiglitazone.
+[101]
+At the time that Ms. Lister's groups ran this test another compound 48972 was also tested. That other compound was tested at two dosage levels whereas rosiglitazone was tested at only one dosage. No reason was given for this. Rosiglitazone was probably tested later at two doses. Ms. Lister in answers to questions 153 to 170 said (omitting certain irrelevant questions and answers):
+153. Q. And so typically, would these tests have been run by technicians or more junior scientists?
+A. Yes, that's likely.
+154. Q. And they were part of the routine screening that was done for compounds of Beecham?
+A. Yes.
+155. Q. And the one that-the test that you're reporting here on rosiglitazone took a week to run. And is that sort of the typical time frame it took you to run these tests?
+A. That was our standard primary screening for that animal model, yes. It was a week of diet-free administration, followed by the glucose tolerance test.
+. . . . .
+158. Q. Can you tell me, why did you run a control at the same time you were running the test on rosiglitazone? Why wouldn't you just use the same control that you had used on the first test you ran on the first compound?
+A. The reason for using the control group is that, within the population of obese mice, there is a certain amount of variability. In setting up the study, as I have described in my affidavit, we weighed all of the animals and allocated them to their perspective treatment groups based on their body weight. So we had a similar spread of body weight in each group. So the purpose of using the control is so that, in that particular study, you are measuring against animals of a similar grouping, I guess.
+159. Q. And so would that be true of comparisons against other compounds? You would want to do it in the same test with the same type of controls that you've got here?
+A. No. That's-I mean, that's not actually necessary, because - because you're testing within one batch of animals. You're always measuring your reduction in area under the curve against a control group of similar animals. So in a subsequent test, again you would be measuring those - the compounds within that test against a control group of similar animals, so there would be no requirement to put two known compounds into the same test.
+160. Q. What was the other compound that you were testing against when you tested rosiglitazone? What is 48972?
+A. Without the structure sheet, I couldn't say. All I can tell you is that it would have been another glitazone.
+161. Q. And do you know why this other compound was chosen to be tested at the same time you tested rosiglitazone?
+A. It would have been the next compound made by the chemists. I mean, the chemists produced compounds and delivered them to us for testing, and we - we would test them as they arrived.
+162. Q. Why did you test the HG48972 at two doses and rosiglitazone at one?
+A. Routinely, we would test compounds at two doses to determine efficacy. Within a study, there was only space for three treatment groups. So in this particular case, we've only tested rosiglitazone at one dose.
+163. Q. Okay. So do you know why, in this case, you weren't testing rosiglitazone at two doses and the other one at one dose?
+A. No, I don't know.
+164. Q. And so you would have had to go back and run another test at two doses for rosiglitazone; is that right?
+A. Looking at that data, yes.
+165. Q. And you say you routinely tested them at two doses for efficacy. And why was that?
+A. The reason for that is that, as I had described earlier with respect to the data sheet on pioglitazone, we would have tested at 3,000 and 1,000 micromolars per kilogram of diet and we've got a maximum response in each case. By testing it two doses, you may then be able to show from that the actual potency of - of the compound.
+166. Q. And I think you've told me earlier that the type - the dose level you were looking for was somewhere around 55 to 65 percent; is that right?
+A. That's - that's the reduction in the area under the ---
+167. Q. Or sorry, reduction ---
+A. Yes.
+. . . . .
+170. Q. So you weren't quite there with 42 per cent; is that right?
+A. The reduction area under the curve, the maximum response - the 42 per cent is pretty close to a maximum response. So, I mean, from the data in this study and on page - in my affidavit on page 9, the 42 per cent we would consider to be pretty close to a maximum response.
+[102]
+Given that this testing as done at Beecham prior to September 2, 1988 does show an improved blood glucose lowering ability, the question is whether the results of the test also would demonstrate to a skilled person (POSITA) that rosiglitazone was of "potential use" in respect of hypoglycaemia, Type II diabetes and the other conditions as set out at page 1 of the '452 Patent.
+[103]
+Professor Bailey, a GSK expert expressed his opinion as to this question at paragraphs 45 and 52 of his affidavit:
+45. Given the level of knowledge concerning TZD derivatives as of September 2, 1988, one would have expected from the data disclosed in the 452 Patent that the tested TZD compounds, which were effective in lowering blood glucose should be increasing insulin sensitivity, decreasing insulin resistance, and lowering plasma insulin levels. Accordingly these compounds would be useful to ameliorate the manifested defects in Type 2 diabetes (e.g., insulin resistance, glucose intolerance, hyperglycaemia) and would be expected to be useful for treating Type 2 diabetes. Thus based on the known effects of the compounds and the animal model used to assay them (i.e., the ob/ob mouse) it would have been clear to anyone routinely familiar with this area that the compounds described by the 452 Patent should be useful for treating Type 2 diabetes.
+. . . . .
+52. Based on the data available to Beecham as of September 2, 1988, the researchers had sufficient information to know that rosiglitazone exhibited improved blood glucose lowering activity as compared to the control. Beecham also knew that TZD derivatives were being used in various animal models of insulin resistance and diabetes and had been shown to reduce blood glucose levels and blood insulin levels indicating an improvement in insulin sensitivity. Since TZD derivatives had been shown to ameliorate manifested defects in Type 2 diabetes and were known to reduce insulin resistance, glucose intolerance and hyperglycaemia, a TZD derivative that exhibited blood glucose lowering activity in the ob/ob mice would be expected to be useful for treating Type 2 diabetes.
+[104]
+In cross-examination Professor Bailey agreed that, while there were indications of potential use of compounds such as rosiglitazone, one would have to perform many more tests before one could know for certain whether the compound was effective. In answer to questions 115 to 118 he said (the OGTT test was the test set out at page 80 of the '452 Patent):
+115. Q. And is it possible to predict the reduction in blood glucose in human based on an OGTT test in a mouse?
+A. That is quite difficult to do. So the appropriate answer to the question probably is that you can gain a good indication, but you can never be certain.
+116. Q. Can you predict the dosing in humans based on a mouse test?
+A. Rarely. Again, you can gain a useful indication.
+117. Q. But what would you have to do then to determine the dosing for a human being? Would you have to progress the drug into larger animals before you could come to that conclusion?
+A. The way you would determine the dose for humans would be to follow the standard procedure.
+118. Q. And the standard procedure would be to go into larger animals; is that right?
+A. The standard procedure would be to take the preclinical evidence as it stands, look at approximately the lowest dose that is effective and the highest dose that is not effective, and somewhere in that level of dose to reduce the dose by either tenfold or one-hundredfold depending upon other parameters that are available to you and start at that very low dose and then work up.
+[105]
+Professor Bailey said the same thing in answer to question 323:
+323. Q. So even though they may have had a general understanding of TZD derivatives without testing the compounds they would not be able to conclude what the mechanism of action was, could they?
+A. They would not know for certain. You are correct in that assumption.
+[106]
+Pharmascience's experts approach the question from a different point of view. They ask whether given the testing done prior to September 2, 1988, one could predict that rosiglitazone
+would be
+useful in the treatment of human beings, including answering the question as to whether or not it would be toxic. Dr. Dordick says at subparagraphs 40(2) and (3) of his affidavit:
+(2) The testing done in the '452 Patent was done at only one dosage strength per compound, and those strengths were not the same for all compounds. In order to make a claim that a compound can be useful in the treatment of humans, the compound has to be tested at more than one dosage. A person skilled in the art will expect to see enough data points to make a dose response curve (at least three for a qualitative and up to 6-10 for a quantitative analysis) that indicates increasing the dose will increase the effect. Varying the dose, i.e., at least three dosages, is critical to assess the "steepness" of a response, as depicted in Figure 1.
+Thus, simply knowing one dose (as in the table on p. 80) will not allow a skilled person to gauge the effectiveness of the compound, and certainly not the effectiveness relative to other compounds, including those closely related structurally.
+Such an argument is affirmed by Wipf (paragraph 117) as follows (with respect to EP '926):
+"A single activity measurement from dosage at a single concentration for each compound is reported relative to ciglitazone. Accordingly, the potency (the dosage of a compound required to effect a defined biological response) is not reported in EP 926. Thus, one skilled in the art cannot compare the activity reported in this patent with activity reported in other prior art patents."
+Without dose response information, one cannot conclude that a drug is efficacious, even in mice. Furthermore, the doses that are found in the '452 Patent will not necessarily directly translate to dosing in humans. Moreover, even if one wanted to make a highly qualitative "rank ordering" of blood glucose lowering activity, one would still need to provide the same dosage for all compounds tested. This was not done according to the results provided in the table on p. 80 of the '452 Patent.
+(3) There is no toxicity testing at all. Before any claim can be made about the use of a drug in humans, there must be some amount of toxicity testing to determine at what dose the drug will become toxic. It is impossible on the basis of a handful of single dose efficacy results to conclude that there will be no toxicity problem for the billions of compounds that are covered by this patent.
+[107]
+In cross-examination Dr. Dordick acknowledged that, while he thought it was splitting hairs, his evidence differed from that of Professor Bailey in that Dr. Dordick was saying that the '452 Patent said it will be useful while Professor Bailey said it was expected to be useful. At pages 113 and 114 of the transcript of his cross-examination we find the following exchange:
+Q. And you've characterized Dr. Bailey as saying in paragraph 52 that simply knowing that a compound is a TZD derivative that exhibits blood glucose lowering activity in the ob/ob mice is sufficient to conclude that it will be a useful compound in treating humans. Correct?
+A. That's correct.
+Q. In fact, he doesn't quite say that, does he?
+A. Well, at the end of his paragraph 52 it talks -- it says a TZD derivative that exhibited blood glucose lowering activity in the ob/ob mice would be expected to be useful for treating type 2 diabetes. So I would say that's pretty close to exact, what I said.
+Q. Well, he said that the compound would be expected to be useful, and you've characterized him as saying that it will be useful. Do you consider those to be comparable to each other?
+A. I'm basing this - my view is it's Bailey providing a conclusion that it would be expected to be useful versus it will be useful. It's pretty close. He could have said may be useful. He's going on and saying would be expected to be. So I think his expectation is that it would be useful. He wrote his own affidavit, I wrote mine. I believe that they're the same thing.
+Q. You don't believe that saying that something will be useful to do something is a stronger statement than saying something would be expected to be useful for doing something?
+A. I think they're pretty similar. I'm not saying absolutely definitely will be. I'm saying it will be useful. Even beyond useful, you could even go as far as to say it will be used in treating humans. I mean, that's pretty definite. But, of course, I didn't say that, nor would anybody. I believe this is splitting hairs. I believe when he said would be expected to be useful, pretty strong statement. Again, he could have said may be useful, potentially useful, possibly useful. But to be expected to be is an indication of in the past they fully expected it to be useful.
+[108]
+Pharmascience's expert Dr. Posner makes the same distinction in his evidence. His position is that the patent promises that
+it will be
+effective in treating diabetes as opposed to whether it has potential to do so. At paragraph 49 of his affidavit he says:
+49. The test data found in Ms. Lister's affidavit is only a preliminary step or "screen" as she acknowledges at paragraph 25. It is only the first of a number of tests required to come to the conclusion that this is a drug that can be progressed into humans. It is thus impossible for a person skilled in the art to conclude that rosiglitazone can be used in the treatment of humans on the basis of a study at a single dose in ob/ob mice.
+[109]
+In cross-examination he gave the following answer as shown at page 45 of the transcript:
+Q. Am I to interpret that as you saying that this patent promises that the compounds of the 452 Patent will be useful in humans?
+A. That's right.
+[110]
+Pharmascience's expert Dr. Rodrigues makes the same distinction. He says that the '452 Patent says that the compound
+will be
+useful as opposed to potentially useful. He writes at paragraph 70 of his affidavit:
+70. I disagree with Dr. Bailey's comments at paragraph 47. It is not possible to make the leap from a single glucose test to the many diseases listed in that paragraph. Assuming Dr. Bailey is correct when he states at paragraph 19 that "there was little understanding of how the existing blood glucose lowering agents used in the treatment of diabetes worked at the molecular or cellular level", there was insufficient understanding to make a quantum leap from reduction in glucose to the treatment of heart problems, hyperlipidaemia and eating disorders.
+[111]
+At pages 79 to 81 of the transcript of his cross-examination he answers in respect of potential use:
+Q. I keep asking you about the use of the word "potential" which -- do you understand what the word means?
+A. I do.
+Q. Okay. What does it mean?
+A. That it could be potentially used as a treatment.
+Q. Right. Not saying it will be; right?
+A. Yes.
+Q. It's not saying it actually will be of use in the treatment of hyperglycaemia, is it?
+A. If the word "potential" means it could be used.
+Q. Right. So there's no promise in this patent that the compound will be useful to treat hyperglycaemia, is there?
+A. No, but I come back to this whole thing about improved, that if it's improved, then it could be potentially used over and above the other compounds.
+Q. Okay, but even if it's not improved, if it lowers blood glucose lowering activity in ob/ob mice, it's a compound that's of potential use in the treatment of hyperglycaemia; correct?
+A. No, because that's what I was saying, that you need to take all of the other tests that would have to be done.
+Q. Before you can conclude -
+A. Before you can conclude that.
+Q. That it will be useful?
+A. That it will be useful.
+Q. Right. I'm talking about potentially useful. If a compound lowers blood glucose activity in the ob/ob mouse in the OGTT test, you can say that that compound is of potential use in the treatment of hyperglycaemia; correct?
+A. But again I said, right - because of the wording in the patent, it says -- it shows improved blood glucose lowering ability and are, therefore, of potential use. So my understanding was that what these guys are trying to show is that because it is improved over the prior art compounds only then could it have been of potential use. So that's my understanding of what this sentence was in this patent and then subsequently in some of the documents that were provided to me.
+[112]
+Pharmascience's expert Professor Klibanov took a similar point of view that no sound prediction could be made from the patent or from the work by Lister that rosiglitazone could be progressed further. He summarized at paragraphs 29(a) and (b) of his affidavit:
+III. Brief Summary of My Opinion
+29. In my opinion,
+(a) The '452 Patent does not provide sufficient information for a person skilled in the art to conclude that rosiglitazone provides improved blood glucose lowering activity over that of known thiazolidinedione compounds and does not provide sufficient information to show that rosiglitazone can be used in treating Type II diabetes. The patent provides neither efficacy nor toxicity data for rosiglitazone. A person skilled in the art would be required to carry out the same research project that the patent inventor carried out to determine whether rosiglitazone reduces blood glucose levels better than the previously known compounds and/or that it could be taken further into human testing.
+(b) The additional information provided by GSK in the Lister affidavit does not establish the utility of rosiglitazone. There was no testing done in it or in the '452 Patent against know TZD compounds to show that rosiglitazone has "improved" blood glucose lowering activity compared to them. There was no toxicity testing done to base a prediction that the compound could be progressed further into humans for use in the treatment of Type II diabetes. There is no factual basis for a sound scientific prediction set out in the '452 Patent to support the utility of rosiglitazone.
+[113]
+In cross-examination Professor Klibanov explained that any compound would have to be thoroughly tested before it could be put to practical use as a drug. At pages 88 and 89 of the transcript he said, with respect to another TZD compound, ciglitazone:
+Q. They go on to say, "Those compounds, however, have not been put to practical use," correct?
+A. That's correct.
+Q. And that when they say "those compounds," that includes ciglitazone, correct?
+A. Yes.
+Q. And they say, "As the reasons, one, insufficient activities, or/and two, serious toxicities may be mentioned," correct?
+A. Yes.
+Q. That teaches you the ciglitazone is not a good compound, right?
+A. I don't know what you mean by a good compound. If the criterion is whether or not a particular compound has been put to practical use, meaning whether or not it has become a drug, compounds don't become drugs for all kinds of reasons, many of which have absolutely noting to do with the intrinsic value of these compounds. So that's the first thing.
+The second thing is that they say that insufficient activities and/or serious toxicities may be mentioned, and whether that refers to ciglitazone, I don't know, and specifically, which one refers to ciglitazone.
+The point is, ciglitazone was a prior art compound that was clearly described repeatedly as a compound with an antidiabetic activity. Is it the perfect compound? No.
+As we are learning, rosiglitazone is not a perfect compound either, although it is an approved drug, but it may have some drawbacks, ciglitazone, and that's what the authors say here.
+[114]
+At page 146 of the transcript Professor Klibanov explained that looking for a new and better compound was a never-ending endeavour:
+Q. And yet these Takeda people continue to do work and file patents, right?
+A. That's what people do. GSK also continued to do work and file patents, even after the '452 patent. That's what pharmaceutical researchers do.
+Q. Because until you make a new compound and test it, you don't know that it's going to work?
+A. No, because you continue looking for a new and better compound. It's a never-ending endeavour. That's why people continue making new compounds and testing them. There's no limit on perfection.
+[115]
+What is clear from the evidence is that as of September 2, 1988 Ms. Lister's group had performed one test of rosiglitazone on mice. That test followed the protocol as set out on page 80 of the '452 Patent. The test demonstrated that rosiglitazone had improved blood glucose reducing capability, pretty close to a maximum response, compared to mice that were not fed any compound. It was a primary screen as explained by Ms. Lister in answer to question 81 put to her cross-examination:
+81. Q. Do you know though if your company -- what the normal course would be to progress a compound? Now, just let me back up. You referred to a primary screen. What do you mean by a primary screen?
+A. Primary screen is the first test that you would, do to look for efficacy. And it's the basis on which our department would progress or wish to progress a compound further.
+[116]
+A patentee is not required to demonstrate the utility of a drug, including lack of toxicity and other features; those are requirements for safety and effectiveness, not patentability. Binnie J for the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  judge's conclusion. In their factum (though not in oral argument), they argue that utility must be demonstrated by prior human clinical trials establishing toxicity, metabolic features, bioavailability and other factors. These factors track the requirements of the Minister of Health when dealing with a new drug submission to assess its "safety" and "effectiveness". See now: Food and Drug Regulations, C.R.C. 1978, c. 870, s. C.08.002(2), as amended by SOR/95-411, s. 4(2), which provides in part:
+A new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug ...
+The prerequisites of proof for a manufacturer who wishes to market a new drug are directed to a different purpose than patent law. The former deals with safety and effectiveness. The latter looks at utility, but in the context of inventiveness. The doctrine of sound prediction, in its nature, presupposes that further work remains to be done.
+[117]
+Rosiglitazone had, before September 2, 1988 passed the primary screen which formed the basis upon which a skilled person could conclude that the compound could progress to further testing. One would not know for certain, at that time, that rosiglitazone would be useful for instance, in treating Type II diabetes. However at that time a "potential" had been established. That is all that the '452 Patent promises. Pharmascience has unreasonably elevated that promise to a promise that rosiglitazone
+will work
+.
+[118]
+Having considered the '452 Patent, the jurisprudence and the evidence, I conclude that GSK has satisfied me that the allegations made by Pharmascience in respect of insufficiency and inability are not justified.
+CONCLUSIONS AND COSTS
+[119]
+I have concluded that GSK has satisfied me that the allegations made by Pharmascience as to the invalidity of the '452 Patent including claim 41, are not justified.
+[120]
+The Applicants are entitled to costs to be assessed at a Column IV level. In assessing costs, including expert fees and disbursements guidance is to be taken from what I said at paragraphs 190 to 192 in
+ <FRAGMENT_SUPPRESSED> :
+190 Costs for two counsel at the hearing, one senior and one junior for the first two days, and one senior for the third, may be taxed. Two counsel, if present, one senior and one junior, in conducting cross-examination, may be taxed. Only one counsel, a senior, is allowed in defending a cross-examination. No costs are allowed for other lawyers, in house or out house, students, paralegal or clerical persons.
+191 I remain concerned that the fees allowed for experts may be excessive. I have tried to limit those fees with regard to having rates and capping these at the rate charged by senior counsel. Fees, of course, may be calculated by multiplying the rate times number of hours, thus one can avoid the hourly fee cap by increasing the hours. This is not what I intend. What I propose here is that the fees be allowed to one particular expert shall not be disproportionately large when compared to the fees charged by any other expert for any other party. In this case, I have not found any particular expert to be significantly more helpful, or put another way, more valuable than another. Apotex is free to pay its experts whatever has been agreed upon but that does not entitle those fees to be taxed at such a rate. I have therefore left the matter to be considered by counsel on the basis that no fee shall be allowed that is disproportionately large.
+192 Further, fees for experts shall be limited to fees for the services only of the experts who attested to affidavits filed by Apotex in this proceeding namely Drs. McClelland, Langer and Cima. No fees are allowed for experts or others who may have been retained by Apotex or by these named experts to assist them.
+[121]
+I invite the parties to provide submissions, no more than three pages in length, within ten (10) days from the release of these Reasons should there be any matter of which the Court is not aware, such as offers to settle or otherwise, that would effect the disposition of or quantum of costs.
+JUDGMENT
+[122]
+FOR THE REASONS PROVIDED,
+[123]
+THIS COURT'S JUDGMENT is that
+:
+1. The application is allowed;
+2. The Minister of Health is prohibited from issuing a Notice of Compliance to Pharmascience Inc. in respect of its rosiglitazone application until after the expiry of Canadian Patent No. 1,328,452 on April 12, 2011;
+3. The Applicants are entitled to costs on the basis as set out in the Reasons.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/vnh
+[End of document]

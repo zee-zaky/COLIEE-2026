@@ -1,0 +1,569 @@
+[1]
+Hughes, J.
+: This is an application to prohibit the Minister of Health from issuing a Notice of Compliance to the Respondent Novopharm Limited (Novopharm) which, if issued, would permit Novopharm to sell 100 mg and 200 mg capsules containing a medicine known as celecoxib in Canada. For the Reasons that follow I find that the application is to be dismissed with costs to the Respondent.
+The Proceedings
+[2]
+These are proceedings commenced by the Applicants, G.D. Searle & Co. and Pfizer Canada Inc. (collectively  <FRAGMENT_SUPPRESSED> ) under the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 as amended (
+NOC Regulations
+).
+[3]
+The proceedings were instituted by a Notice of Application filed June 21, 2005, therefore must be determined before June 21, 2007. The process, but not those proceedings, was commenced by a Notice of Allegation served by Novopharm on the Applicants on May 3, 2005. Those allegations were directed to two patents, Canadian Patent No. 2,177,576 (the ‘576 patent) and Canadian Patent No. 2,267,186 (the ‘186 patent). Novopharm alleged that several claims of those patents were irrelevant, several would not be infringed and several were invalid.
+[4]
+The Applicants engaged some of these allegations in its Notice of Application filed with this Court as to both the ‘576 and the ‘186 patents. During the course of the proceedings including during argument at the hearing, a number of issues were withdrawn. The entirety of the ‘186 patent has been withdrawn as have all but claims 4 and 8 of the ‘576 patent. An allegation as to abandonment as to the whole of the ‘576 patent remained at issue.
+The Issues
+[5]
+The issues in Notice of Compliance proceedings must be stated in a particular way since they are governed in large measure not only by the Rules and practice of this Court, but more particularly by the
+NOC Regulations
+. In brief, s. 4 of those
+Regulations
+permit a first party (Searle) to list certain types of patents on a list kept by the Minister of Health. Section 5 requires that a second party (Novopharm), who seeks a shortcut in obtaining approval to sell a drug in Canada by referencing materials the first party filed with the Minister, to serve a Notice on Searle alleging, inter alia, that the patents listed would not be infringed or are invalid providing a detailed statement of the legal and factual basis for such allegations.
+[6]
+Section 6(1) of the
+NOC Regulations
+permit, but do not require, the person listing the patents (Searle) to file an application with the Court to prohibit the Minister from issuing a Notice of Compliance to the generic until the relevant patents expire. The Applicant is not required to challenge all of the allegations made by the generic, nor to engage all of the patents or claims of a patent addressed in the allegation. From within the Notice of Allegation, the Applicant may pick and choose that which it wishes to engage.
+[7]
+Section 6(2) of the
+NOC Regulations
+is directed to the Court hearing the matter and states:
+"(2) The Court shall make an Order (prohibiting the issue of an NOC) pursuant to subsection (1) in respect of a patent that is the subject of one or more allegations if it finds that none of the allegations is justified."
+"(2) Le tribunal rend une ordonnance en vertu du paragraphe (1) à l’égard du brevet visé par une ou plusieurs allégations si elle conclut qu’aucune des allégations n’est fondée."
+[8]
+Thus the issue before the Court is whether, in respect of any allegation put in play, the allegation is justified.
+Issues
+[9]
+As previously discussed, one patent and several claims of the other have been withdrawn or abandoned. As a result, the following are the issues for determination in these proceedings:
+1. Is the allegation that the application for the ‘576 patent was abandoned, justified?
+2. Are any of the allegations that either or both of claims 4 and 8 of the ‘576 patent are invalid, justified, those allegations being, in brief:
+i. Obviousness;
+ii. Lack of utility; and
+iii. Sufficiency.
+[10]
+If Novopharm were to succeed on any of these issues 1 or 2(a), (b) or (c), this Court would be required to dismiss this application.
+The ‘576 Patent
+[11]
+The only patent now at issue is the ‘576 patent, Canadian Patent No. 2,177,576. The ‘576 patent is entitled "Substituted Pyrazolyl Benzenesulfonamedes for the Treatment of Inflammation" and names John J. Talley and twelve others as inventors.
+[12]
+The application for that patent was filed in the Canadian Patent Office effective November 14, 1994, and, unless otherwise held to be invalid, the patent will expire twenty years from that date, November 14, 2014. The application and patent are to be governed by the relevant provisions of the
+Patent Act
+and
+Rules
+dealing with post October 1, 1989, and post October 1, 1996, applications and patents maturing therefrom. The patent application was laid open for public inspection on June 8, 1995. The patent was issued and granted to Searle on October 26, 1999.
+[13]
+The patent claimed priority from two earlier applications filed in the United States Patent Office, one on November 30, 1993, the other on April 6, 1994. Neither application appears in the Record in these proceedings.
+[14]
+In a general way it can be said that the patent deals with compounds that treat inflammation without troubling the gastric system. There have been steroidal compositions that treat inflammation and non-steroidal (NSAIDS) compositions that do so as well. Aspirin and ibuprofen are commonly known NSAIDS. The patent states that some NSAIDS are known to have side effects such as irritation or ulceration of the gastro-intestinal (GI) tract. An objective of the patent is to provide an anti-inflammatory compound with less harmful side effects. After some discussion, Counsel for the Applicants conceded that both the anti-inflammatory properties and lesser side effects were necessary to the utility of the claimed invention.
+[15]
+A mechanism by which the desired effects were achieved is described in the patent as the COX (cyclooxygenase) theory. At one time it was believed that NSAIDS worked by inhibiting COX as produced in the body. Later, scientists believed that there was two cyclooxygenases in the body, COX I and COX II and that a compound that would selectively inhibit COX II but not COX I could result in the treatment of inflammation without appreciable unwanted side effects. The patent deals with such compounds. It is agreed by the parties that one such compound, given the name celecoxib, is that as claimed in claim 4. It is sold by the Applicants under the name CELEBREX.
+[16]
+Turning to the patent in more detail, page 1 gives a brief introduction followed by statement by way of background:
+"Field of the Invention
+This invention is in the field of anti-inflammatory pharmaceutical agents and specifically relates to compounds, compositions and methods for treating inflammation and inflammation-associated disorders, such as arthritis.
+Background of the Invention
+Prostaglandins play a major role in the inflammation process and the inhibition of prostaglandin production, especially production of PGG2, PGH2 and PGE2, has been a common target of anti-inflammatory drug discovery. However, common non-steroidal anti-inflammatory drugs (NSAIDS) that are active in reducing the prostaglandin-inducted pain and swelling associated with the inflammation process are also active in affecting other prostaglandin-regulated processes not associated with the inflammation process. Thus, use of high doses of most common NSAIDS can produce sever side effects, including life threatening ulcers, that limit their therapeutic potential. An alternative to NSAIDS is the use of corticosteroids, which have even more drastic side effects, especially when long term therapy is involved.
+Previous NSAIDS have been found to prevent the production of prostaglandins by inhibiting enzymes in the human arachidonic acid/prostaglandin pathway, including the enzyme cyclooxygenase (COX). The recent discovery of an inducible enzyme associated with inflammation (named 'cyclooxygenase II (COX II)' or 'prostaglandin G/H synthase II') provides a viable target of inhibition which more effectively reduces inflammation and produces fewer and less drastic side effects."
+[17]
+Certain prior art is set out at pages 2 and following, the most relevant being the first, a patent to Matsuo, in which certain compounds there described become important later in these Reasons. It says:
+"Pyrazoles have been described for use in the treatment of inflammation. U.S. Patent No. 5,134,142 to Matsuo et al describes 1,5-diaryl pyrazoles, and specifically, 1-(4-fluorophenyl)-5-[4-(methylsulfonyl)phenyl] -3-trifluoromethyl pyrazole, as having anti-inflammatory activity."
+[18]
+Commencing at page 4 the patent sets out general classes of compositions, followed by more restrictive and yet more restrictive classes of compounds, and lists many specific compounds of interest. It must be noted that while the discussion at page 4 commences with reference to a general formula, Formula I, it is only a more restricted class of compounds as defined by Formula II set out at page 22 that is the subject of the claims of the patent.
+[19]
+The use of the compounds is set out at pages 7 and 8 of the patent.
+"Compounds of Formula I would be useful for, but not limited to, ... The compounds are useful as antiinflammatory (sic) agents, such as for the treatment of arthritis, with the additional benefit of having significantly less harmful side effects."
+[20]
+The "preferable" way to measure the utility is described at page 8 with respect to the "selectivity" ratio at which COX II is selected over COX I by the compound:
+"The present invention preferably includes compounds which selectively inhibit cyclooxygenase II over cyclooxygenase I. Preferably, the compounds have a cyclooxygenase II Ic50 of less than about 0.2 µM, and also have a selectivity ration of cyclooxygenase II inhibition over cyclooxygenase I inhibition of at least 50, and more preferably of at least 100. Even more preferably, the compounds have a cyclooxygenase I IC50 of greater than about 1 µM, and more preferably of greater than 10 µM. Such preferred selectivity may indicate an ability to reduce the incidence of common NSAID-induced side effects."
+[21]
+Example 2 of the patent at pages 72 and 73 is specific to celecoxib as claimed in claim 4.
+[22]
+A biological evaluation of the compounds, including that of Example 2, commences at page 175 of the patent. Table XI at page 177 presents data as to inflammation inhibition provided by several of the compounds including that of Example 2. Table XII at pages 180 and 181 provides data as to COX I and COX II inhibition provided by the compounds including that of Example 2. Example 2 provides COX II inhibition at less than 0.1 while providing COX I inhibition at 15.0 thus giving a ratio of greater than 150 and well above the minimum desired range of 50 or 100 as discussed at page 8.
+[23]
+The only claims that require consideration are claims 4 and 8 which read:
+"4. Compound of Claim 2 where the compound is 4-[5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-y1] benzenesulfonamide, or a pharmaceutically-acceptable salt thereof."
+[24]
+Claim 2 in turn refers to claim 1 and each simply claims a more general class of compounds which includes the compound of claim 4.
+"8. A pharmaceutical composition for treating inflammation or an inflammation –associated disorder comprising a therapeutically-effective amount of a compound and a pharmaceutically-acceptable carrier or diluent, said compound selected from compounds according to any of Claims 1-7."
+[25]
+Counsel for the Applicants stated in argument that claim 8 was asserted only to the extent that it relied on claim 4.
+Construction of Claims 4 and 8
+[26]
+The Court must, before further consideration of a patent, construe the claims. Much law has been written as to claim construction which need not be repeated here as there is little controversy except as to one point raised  by claim 8, which I will discuss.
+[27]
+Claim 4 recites a single chemical compound and includes a pharmaceutically acceptable salt of the compound. That compound can simply be referred to as celecoxib. No use of that compound is stated in that claim but, as conceded by Counsel for the Applicants, the utility of that compound is set out in the specification as being the duality of treatment of inflammation and reduction of unwanted side effects such as ulcers of the gastrointestinal system. Celecoxib may be depicted as:
+[Diagram omitted - see print version]
+[28]
+Claim 8 is directed to the use of a composition in the treatment of inflammation or an inflammation-associated disorder in which a therapeutically effective amount of celecoxib or other compounds as set out in "any of claims 1-7" is used.
+[29]
+An issue arises as to the meaning of the words "any of claims 1-7". Does this phrase include all compounds in those claims or is it simply a shorthand way of referring to each claim separately instead of having many claims, one referring to claim 1, the next to claim 2 and so forth. Section 27(5) of the
+Patent Act
+post October 1, 1996 (this patent was granted in 1999) provides:
+"(5) For greater certainty, where a claim defines the subject matter of an invention in the alternative, each alternative is a separate claim for the purposes of ss. 2, 28.1 to 28.3 and 78.3."
+"(5) Il est entendu que, pour l’application des articles 2, 28.1 à 28.3 et 78.3, si une revendication définit, par variantes, l’objet de l’invention, chacune d’elles constitue une revendication distincte."
+[30]
+A claim very similar in wording to claim 8 at issue here was considered by this Court, and ultimately the Supreme Court of Canada, in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). In
+Proctor & Gamle
+claim 16 of the patent ‘565, 681 read "a consolidated structure as claimed in claims 7, 8 or 9 in which the tapered ends of the wafers are ragged". Claims 8 and 9 were held to be invalid, only claim 7 was valid. The Federal Court and ultimately the Supreme Court held claim 10 to be valid "as far as it includes claim 7".
+[31]
+By way of contrast, this Court in
+ <FRAGMENT_SUPPRESSED>  (F.C.), held to be invalid a claim where ingredients of a composition were "selected from a group consisting of (a number of individually named compounds)". It was found on the evidence that some of those compounds did not have the requisite utility. I find the <FRAGMENT_SUPPRESSED> claims to be different from claim 8 at issue here. In <FRAGMENT_SUPPRESSED> the claim stated, in effect, that all members of the group were useful whereas at least some were found on the evidence not to be.
+[32]
+Here, I construe claim 8, for purposes of these proceedings, to refer to claims 1 to 7 separately, thus can be construed to refer to claim 4 only. Claim 8 therefore is directed to the use of a drug containing an appropriate quantity of celecoxib for treatment of inflammation or an inflammation related disorder.
+Who Has What Burden
+[33]
+Notice of Compliance proceedings such as these do not follow the normal course expected of actions and applications before the Court. They are governed by the
+NOC Regulations
+and the
+Rules
+of this Court to the extent not otherwise provided in those
+Regulations
+. These proceedings are awkward and almost unfathomable to even the most experienced practitioner outside of the small group of those specializing in the area.
+[34]
+The process begins not with a document filed with the court but a document prepared by a generic (second party) such as Novopharm called a Notice of Allegation served by the generic on the innovator (first party) who has listed patents with the Minister. Jurisprudence has developed to the point where it is established that this Notice must set out all bases upon which issues such as invalidity and infringement are raised. The Notice must include much detail as to the evidence, references and opinions upon which the generic rests its allegations together with substantial legal argument. Amendment is nearly impossible, a fresh document may in some circumstances, be delivered, but that has an effect of starting the process all over and giving the innovator an opportunity to establish a new two year stay on proceedings by the Minister each time a fresh Notice is delivered.
+[35]
+The Notice of Allegation is then the "target" for the innovator, it may choose which of the allegations it wishes to challenge on the basis that they are not "justified". The challenge by the innovator takes the form of a Notice of Application to the Court. The innovator (first party-Applicant) may select which of the allegations that it challenges and set that out clearly in the Notice. In addition, if the innovator wishes to raise a point that would otherwise surprise or "vex" the generic (see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 81 (F.C.), at paragraph 10) it must raise such point in its Notice of Application. The innovator at least has the advantage in that the
+Federal Courts Rules
+provide an opportunity, in appropriate circumstances, to amend the Notice of Application.
+[36]
+Having filed the Notice of Application, the innovator, as Applicant, under the
+Federal Courts Rules
+, must file such evidence as it chooses to support its position that the allegations of the generic which it chose to challenge are not "justified". Section 6(5) of the
+NOC Regulations
+provide that a generic may bring a motion to strike out the proceedings as abusive. If the Notice of Application and evidence fail to establish a case or is otherwise inappropriate, the proceedings or part thereof could be struck out (see
+ <FRAGMENT_SUPPRESSED> ).
+[37]
+After the innovator (Applicant) has filed its evidence, the Rules of the Court require that the generic (Respondent) file its evidence. That evidence is directed to the challenges to the allegations set out in the Notice of Application and evidence of the innovator. A question arises as to whether the generic can, in whole or in part, simply rely on the allegations made in the Notice of Allegation as being themselves in evidence to the extent that the innovator’s evidence fails to address in sufficient fashion that which is alleged. While this matter has not been entirely settled, it would be imprudent for a generic not to support its allegations with appropriate factual and opinion evidence.
+[38]
+Where the issues are directed to validity, there is a complication. The innovator can, in its Notice of Application, invoke the presumption of validity provided in the
+Patent Act
+, s. 43(2) of the post October 1, 1996, version, to the effect that a patent is presumed valid "in the absence of any evidence to the contrary". Having raised the presumption but being forced by the Rules to file evidence first to address the allegations of invalidity, an innovator should file evidence rebutting the allegations as to invalidity. The generic should then file its own evidence supporting its allegations and rebutting the evidence of the innovator.
+[39]
+The question of burden of proof in NOC proceedings, where issues of validity are raised, was canvassed in
+ <FRAGMENT_SUPPRESSED> to 94, and in
+ <FRAGMENT_SUPPRESSED> to12. The Respondent (generic) must put the invalidity allegations in play, the Applicant may respond by asserting the presumption of validity. Should the Applicant lead no evidence as to validity but the Respondent does lead some evidence, the Applicant would place itself at a serious disadvantage. Once the evidence is in, the Applicant bears the ultimate burden to establish that the allegations of invalidity are not justified.
+The Meaning of "Justified"
+[40]
+Section 6(2) of the
+NOC Regulations
+require a determination by the Court as to whether the Applicant has demonstrated that "none of those allegations is justified".
+[41]
+The meaning of the word "justified" or in the French language "fondée", was considered by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  &  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 289 (F.C.A.). It means the ordinary civil burden on a balance of probabilities.
+History of the Development of Celecoxib
+[42]
+Much of what is at issue in these proceedings turns on what was known to the Applicant, Searle, and various persons including Dr. Seibert and her group  <FRAGMENT_SUPPRESSED>  doing biological work , as well as what was done by or known to the inventors named in the patent (Talley et al.), at relevant periods of time and what was disclosed by Searle to the public. This is to be measured against what the evidence shows would have been known to the ordinary person skilled in the art as of the relevant time.
+[43]
+As will be discussed, there is a lack of evidence in many areas that are critical to this discussion. The Court must deal with the Record that it has.
+[44]
+I will first deal with the scheme of the
+Patent Act
+as it pertains to the ‘576 patent, then with the nature of the evidence in the Record and then with the pertinent matters disclosed in that evidence.
+Scheme of the Patent
+Act
+[45]
+The
+Patent Act
+although it is cited as R.S.C. 1985, c. P-4, is actually divided into three parts, one part deals with applications filed before October 1, 1989, the second with applications filed after that date and before October 1, 1993, and the third with applications filed after October 1, 1996. To some extent, the patents resulting from those application will be affected by later versions of the
+Act
+even though the application was filed at a time period pertinent to an earlier version.
+[46]
+The application for the ‘576 patent was filed with the Canadian Patent Office on an effective date of November 14, 1994, thus the version of the
+Patent Act
+for the period between October 1, 1993, and October 1, 1996, is pertinent. However the application continued to be prosecuted in the Canadian Patent Office after October 1, 1996. The patent was ultimately issued on October 26, 1999. Thus post October 1, 1996, provisions of the
+Patent Act
+will be pertinent as well. I will refer to these two version as pre October 1, 1996, and post October 1, 1996. The transitional provisions of the post October 1, 1996, version, s. 78.4 and 78.5 provides as to how the transition, for purposes here, is managed:
+"78.4 Patent applications filed on or after October 1, 1989 - Applications for patents in Canada filed on or after October 1, 1989, but before October 1, 1996, shall be dealt with and disposed of in accordance with subsection 27(2) as it read immediately before October 1, 1996 and with the provisions of this Act as they read on October 1, 1996.
+"78.5 Patents issued on or after October 1, 1989 - Any matter arising in respect of a patent issued on the basis of an application filed on or after October 1, 1989, but before October 1, 1996, shall be dealt with and disposed of in accordance with the provisions of this Act and with subsection 27(2) as it read immediately before October 1, 1996."
+"78.4 Régime applicable au traitement de certaines demandes - La présente loi dans sa version du 1er octobre 1996 de même que le paragraphe 27(2) dans sa version du 30 septembre 1996 s’appliquent aux demandes de brevet déposées le 1er octobre 1989 ou par la suite, mais avant le 1er octobre 1996.
+"78.5 Régime applicable aux affaires relatives à certains brevets - La présente loi de même que le paragraphe 27(2) dans sa version du 30 septembre 1996 s’appliquent aux affaires relatives aux brevets délivrés au titre de demandes déposées le 1er octobre 1989 ou par la suite, mais avant le 1er octobre 1996."
+[47]
+Section 27(2) as referred to in these provision, as it read in the pre October 1, 1996, version of the
+Act
+, dealt with a situation where a patent was previously granted to the applicant in another country before an application was filed in Canada. It said:
+"27(2) Any inventor or legal representative of an inventor who applies in Canada for a patent for an invention for which application for patent has been made in any other country by that inventor or his legal representative before the filing of the application in Canada is not entitled to obtain in Canada a patent for that invention unless his application in Canada is filed, either
+(a) before issue of any patent to that inventor or his legal representative for the same invention in any other country, or
+(b) if a patent has issued in any other country, within twelve months after the filing of the first application by that inventor or his legal representative for patent for that invention in any other country."
+"27(2) Un inventeur ou représentant légal d’un inventeur, qui a fait une demande de brevet au Canada pour une invention à l’égard de laquelle une demande de brevet a été faite dans tout autre pays par cet inventeur ou par sone représentant légal avant le dépôt de sa demande au Canada, n’a pas le droit d’obtenir au Canada un brevet couvrant cette invention sauf si sa demande au Canada est déposée:
+a) soit avant la délivrance d’un brevet à cet inventeur ou à son représentant légal couvrant cette même invention dans tout autre pays;
+b) soit, si un brevet a été délivré dans un autre pays, dans un délai de douze mois à compter du dépôt de la première demande, par cet inventeur ou son représentant légal, d’un brevet pour cette invention dans tout autre pays."
+[48]
+There is a further complexity since the application for the ‘576 patent was filed in Canada under the provisions of the
+Patent Co-Operation Treaty
+(
+PCT
+). That treaty provides that a single application can be filed in an appropriate "receiving office" of one of the countries adhering to that Treaty and obtain a filing date pertinent to all, or a selected group of other of such countries, provided that the applicant enters the "national phase" of such other countries within an appropriate time period. Here the original "international" application was filed in the United States as a receiving office on November 14, 1994, and entered the national phase in Canada on May 28, 1996 (Applicant’s Record, Vol. 3, pg. 613). However, in accordance with the
+Treaty
+, the application is considered to have been filed in the Canadian Patent Office with an effective date of November 14, 1994.
+[49]
+An "applicant" is defined in s. 2 of both versions of the
+Patent Act
+as the inventor and legal representative of the inventor, such as an assignee. Thus the "applicant" is a person standing in the shoes of the inventor(s). Searle is the Applicant because it is the assignee of Talley et al., the named inventors and not otherwise.
+[50]
+As of the Canadian filing date (November 14, 1994), both versions of the
+Patent Act
+(s. 27(1)(c) and (d) pre October 1, 1996, and s. 28.2(a) post October 1, 1996) provide that the invention should not have been previously disclosed in such a manner as to become available to the public before that date except that the applicant or person obtaining knowledge from the applicant has a twelve month grace period prior to that date as to disclosures.
+[51]
+Section 28.3 of the post October 1, 1996,
+Act
+provides that an invention must not have been obvious as of the "claim date" having regard to information disclosed to the public prior to that date, except for information disclosed by the applicant or person gaining knowledge from the applicant, in which case a twelve month grace period prior to the Canadian filing date applies to such information.
+[52]
+Section 28.1 and 28.4 of the post October 1, 1996,
+Act
+provides that the "claim date" is the Canadian filing date unless there has been a proper assertion of one or more priority dates respecting applications filed in another "treaty or convention country disclosing the subject matter defined by the claims". If such priority has been claimed, and such subject matter was disclosed before the Canadian filing date, then the priority date becomes the "claim date" for which obviousness may be tested, provided that it can be shown that the priority application disclosed the same invention as claimed in the ultimate patent as issued. Sections 27 and 28 of the pre October 1, 1996,
+Act
+are to the same effect, except that s. 28 uses the word describe rather than disclose ,the meaning is the same for the purposes of the discussion here.
+[53]
+On a different point, effective October 1, 1996, s. 73 was added to the
+Patent Act
+requiring a "reply in good faith" to requisitions by a patent office examiner, payment of fees and other compliances, failing which an application would become abandoned subject to certain re-instatement opportunities. It reads:
+"73. Deemed abandonment of an application
+"(1) An application for a patent in Canada shall be deemed to be abandoned if the applicant does not
+(a) reply in good faith to any requisition made by an examiner in connection with an examination, within six months after the requisition is made or within any shorter period established by the Commissioner;
+(b) comply with a notice given pursuant to subsection 27(6);
+(c) pay the fees payable under section 27.1, within the time provided by the regulations;
+(d) make a request for examination or pay the prescribed fee under subsection 35(1) within the time provided by the regulations;
+(e) comply with a notice given under subsection 35(2); or
+(f) pay the prescribed fees stated to be payable in a notice of allowance of patent within six months after the date of the notice.
+"(2) Deemed abandonment in prescribed circumstances - An application shall also be deemed to be abandoned in any other circumstances that are prescribed.
+"(3) Reinstatement - An application deemed to be abandoned under this section shall be reinstated if the applicant
+(a) makes a request for reinstatement to the Commissioner within the prescribed period;
+(b) takes the action that should have been taken in order to avoid the abandonment; and
+(c) pays the prescribed fee before the expiration of the prescribed period.
+"(4) Amendment and re-examination - An application that has been abandoned pursuant to paragraph (1)(f) and reinstated is subject to amendment and further examination.
+"(5) Original filing date - An application that is reinstated retains its original filing date."
+"73. Abandon (1) La demande de brevet est considérée comme abandonnée si le demandeur omet, selon le cas:
+a) de répondre de bonne foi, dans le cadre d’un examen, à toute demande de l’examinateur, dans les six mois suivant cette demande ou dans le délai plus court déterminé par le commissaire;
+b) de se conformer à l’avis mentionné au paragraphe 27(6);
+c) de payer, dans le délai réglementaire, les taxes visées à l’article 27.1;
+d) de présenter la requête visée au paragraphe 35(1) ou de payer la taxe réglementaire dans le délai réglementaire;
+e) de se conformer à l’avis mentionné au paragraphe 35(2);
+f) de payer les taxes réglementaires mentionnées dans l’avis d’acceptation de la demande de brevet dans les six mois suivant celui-ci.
+"(2) Idem - Elle est aussi considérée comme abandonnée dans les circonstances réglementaires.
+"(3) Rétablissement - Elle peut être rétablie si le demandeur:
+a) présente au commissaire, dans le délai réglementaire, une requête à cet effet;
+b) prend les mesures qui s’imposaient pour éviter l’abandon;
+c) paie les taxes réglementaires avant l’expiration de la période réglementaire.
+"(4) Modification et réexamen - La demande abandonnée au titre de l’alinéa (1)f) et rétablie par la suite est sujette à modification et à nouvel examen.
+"(5) Date de dépôt originelle - La demande rétablie conserve sa date de dépôt."
+Nature of the Evidence in the Record
+[54]
+The evidence that is pertinent to the issues of obviousness and candor of disclosure consists of the following:
+1. The ‘576 patent itself (Applicant’s Record Vol. 1, Tab 4, pp 25-221);
+2. The file history of the application for the ‘576 patent as it exists in the records of the Canadian Patent Office (Applicant’s Record, Vols. 2 & 3, Tab A, pp. 225-821). This Record includes, among other things, the application as originally filed in the Canadian Patent Office, Vol. 3, pages 616-821. It must be noted that this is not either of the priority applications relied upon in the patent;
+3. The affidavit of Dr. Karen Seibert, Vice-President of Discovery Research  <FRAGMENT_SUPPRESSED>  Inc., together with Exhibits A through J (Applicant’s Record, Vol. 5, Tabs 10 and A through J, pages 1110 – 1201). She is not a named inventor of the ‘576 patent;
+4. Transcript of the cross-examination of Dr. Seibert and Exhibits 1, 2 and 3 thereto (Respondent’s Record, all of Vol. 14, pages 4458-4635); and
+5. The two priority applications relied upon by Searle in the 576 patent (Respondents Record Vol 4, pages 876-1128).
+[55]
+It is important to note what is not in the Record.
+1. Evidence from any inventor named in the ‘576 patent. Dr. Seibert in her cross-examination, pages (4500-4506, Respondent’s Record, Vol. 14) acknowledged that many of them are still alive and can be located;
+2. The exhibits A to J of Dr. Seibert’s affidavits dealing with laboratory work  <FRAGMENT_SUPPRESSED> , are severely redacted so that apparently only references to celecoxib and nothing else, are visible. Although she says in paragraph 8 of her affidavit (Applicant’s Record, Vol. 5, page 1113) that she reviewed the unredacted versions, in cross-examination (Vol. 14 of Respondent’s Record commencing at page 4547) she said the redactions were made by the "legal team" and that she did not compare the copies with the original notebooks. Therefore I have placed little reliance on these documents; and
+3. No other person who would have direct knowledge as to what was happening  <FRAGMENT_SUPPRESSED>  at the relevant time, gave evidence.
+Pertinent Matters Disclosed in Evidence
+[56]
+From the evidence as presented in the Record as described above, I make the following findings:
+1. Commencing in or before 1991, certain teams of scientists  <FRAGMENT_SUPPRESSED>  were investigating the potential use of compounds to treat inflammation that would selectively inhibit what became known as COX II as opposed to COX I, the theory being that such a compound would minimize gastrointestinal side effects experienced with other inflammation treating compounds. (Seibert affidavit, paragraphs 3 to 7, Applicant’s Record, pages 1112-1113);
+2. Dr. Seibert headed up the biology team of those working on the COX II project. Dr. Peter Isakson was the overall team leader. (Seibert cross-examination, Respondent’s Record, page 4490). Dr. Seibert is not listed as an inventor of the ‘597 patent (cross-examination, Respondent’s Record, page 4506) nor is Dr. Isakson (patent cover page, Applicant’s Record, page 26);
+3. Molecules identified in Figure 1 of Exhibit 1 to Dr. Seibert’s cross-examination as 1 (DuPont 697) and 2 (NS-398) became known to Dr. Seibert’s team in the 1992 time frame. (Seibert cross-examination, Respondent’s Record, 4506-4516). This cross-examination makes it clear that Dr. Seibert is not the chemist who developed the compounds, her task was to evaluate them from a biological standpoint. Her testimony does not reveal how knowledge of those compounds or their development came about;
+4. Dr. Seibert’s group in this early 1990’s period were screening randomly a number of compounds including SC-58125, DuP 697 and NS-398 looking for appropriate compounds. They studied different constituents on the structure of those compounds to understand the structure-to-activity relationship. (Seibert cross-examination, Respondent’s Record, pages 4527-4531);
+5. Sometime prior to October 1993, Dr. Seibert’s team was working on celecoxib and other compounds including SC-58125 in addition to DuP 697 and NS-398. (Seibert affidavit, Exhibits A et seq, Applicant’s Record, pages 1131 ff);
+6. By November 1993, Dr. Seibert’s team had established, in vitro that celecoxib selectively inhibits COX-2 more than 250 times more than COX-1. (Seibert affidavit, Applicant’s Record, paragraph 24, page 1117);
+7. November 30, 1993, the first priority application as claimed in the ‘597 patent, was filed in the United States (Respondents Record Vol 4 pages 1006-1128). As will be discussed later the compound now known as celecoxib is not specifically described nor is any biological data given as to that compound. No mention is made of COX 1 or COX 2;
+8. By 1994 the approaches to be taken by scientists to assess gastric toxicity studies for such compounds was pretty well known. (Seibert cross-examination, Respondent’s Record, page 4534);
+9. By February 14, 1994, Dr. Seibert’s team had determined, using a rat model, that celecoxib exhibited both anti-inflammatory and analgesic effects. (Seibert affidavit, Applicant’s Record, paragraph 61, page 1129);
+10. April 6, 1994, the second priority application as claimed in the ‘597 patent was filed in the United States (Respondents Record Vol 4 pages 876-1004). Again no specific disclosure of celecoxib is made nor any biological data as to that compound give nor any mention as to COX 1 or COX 2;
+11. By June 1994, Dr. Seibert’s team had determined that compound SC-58125 exhibited anti-inflammatory properties while not causing gastric toxicity (Seibert cross-examination, Respondent’s Record, pages 4530-4531);
+12. At a meeting in June 1994, Dr. Siebert made a public disclosure that SC-58125 treated inflammation while not causing gastric toxicity. (Seibert cross-examination, Respondent’s Record, page 4531);
+13. In August 1994, Dr. Seibert’s paper respecting  SC-58125 was submitted  to a peer review scientific publication for publication. That paper was published in the December 1994 issue of that publication. That paper disclosed that compound SC-58125 treated inflammation without exhibiting gastric side-effects. (Seibert cross-examination, Respondent’s Record, pages 4527-4534; copy of the published paper, Respondent’s Record, pages 4630-4634);
+14. The compound SC-58125 is one of the compounds that comes within the scope of a patent granted to Matsuo, U.S. Patent 5,134,142 (the ‘142 patent) that is referenced at page 2 of the ‘576 patent. (Exhibit 3 to Seibert cross-examination, Respondent’s Record, page 1635; Moody Affidavit, paragraphs 107-109, Applicant’s Record, page 2258-2259; Knaus Affidavit, paragraphs 146-158, Applicant’s Record, pages 3733-3735);
+15. The difference between the Matsuo ‘142 compound (SC-58125) and one of the Applicants compounds specifically disclosed in the ‘576 patent in Example 17 are illustrated in Exhibit 3 to Dr. Seibert’s cross-examination as follows:
+[Diagram omitted - see print verison]
+The difference is that in the upper left hand corner of the illustration, Matsuo has H3C whereas the Example 17 compound has H3N. This can be described as Matsuo having a methyl group on the sulphonyl (methylsulphonyl) and Example 17 having an amino group on the sulphonyl (aminosulphonyl). Methylsulphonyl is, chemically speaking, an isostere of aminosulfonyl. (Supuran cross-examination, Respondent’s Record, page 4993). The difference between the Matsuo compound and celecoxib is that celecoxib has an H3C at the lower left instead of an F as well as an aminosulponyl rather than a methylsulponyl; and
+16. November 14, 1994, is the effective filing date in the Canadian Patent Office of the application for the ‘597 patent. (Applicant’s Record, Vol. 3, pp 613 ff).
+Conclusions Respecting The Evidentiary Findings and Claim Construction
+[57]
+The evidence in the Record, taken together with the claims of the ‘547 patent as construed herein, lead to the following conclusions to be applied to the allegations made by Novopharm. The question for the Court is whether or not the allegations have been shown by the Applicants, Searle, not to be justified:
+"1. Claim 4 of the ‘576 patent is directed to celecoxib which has dual utility in treating inflammation while reducing unwanted side effects such as ulcers of the gastrointestinal system. Claim 8 is directed to the use of a drug containing an appropriate quantity of celecoxib for treatment of inflammation or an inflammation related disorder;
+"2. Celecoxib was first prepared  <FRAGMENT_SUPPRESSED>  by a team of chemists sometime prior to 1994. That compound, together with many others including DuP 697, NS-398 and SC-58125 prepared by some of these chemists were turned over in or about early 1994 to another team, being biologists led by Dr. Seibert, to test for biological activity such as that in respect of inflammation and gastrointestinal effects. The latter effects were measured using the relative inhibition of COX II to COX I as a surrogate;
+"3. Both the chemical team and the biological team  <FRAGMENT_SUPPRESSED>  were led overall by Dr. Isakson;
+"4. The ‘576 patent names Talley and twelve others as inventors, they assigned their rights to Searle (Applicants Record Vol 2. pages 226-252) Searle therefore stands as 'legal representative' of those inventors for purposes of the
+Patent Act
+;
+"5. Neither Dr. Isakson nor Dr. Seibert or anyone on her team are named as inventors of the ‘576 patent. There is no record of any assignment of any of their interests. As far as the
+Patent Act
+is concerned, Searle is not the 'legal representative' of any of Dr Isakson, Dr Seibert or her team;
+"6. The earliest date respecting celecoxib not just as a compound but one that was determined to have utility in treating inflammation while having reduced unwanted side effects is February 14, 1994, the date when Dr. Seibert’s team made that determination. That team does not apparently include any of the named inventors, Talley, et al.;
+"7. The first disclosure of celecoxib and its properties that is of record in these proceedings is the application filed in Canada in accordance with the Patent Cooperation Treaty having an effective date in Canada of November 14, 1994. I find that neither priority document describes or discloses the same invention as claimed in claim 4 or 8 of the patent at issue. First, neither of the two priority applications specifically discloses celecoxib and neither provide any data as to the biological properties of that compound. Second, the structure (scaffold) disclosed in those priority applications as Formula II is found at page 1031 of the Respondent’s Record for the first priority document and at page 903 for the second. That Formula II is different from Formula II as found in the ‘576 patent which formula the basic structure for all claims of the patent at issue including celecoxib. The priority documents Formula 11 structure contains H3CSO2 at the left portion of the compound whereas Formula II of the ‘576 patent, hence celecoxib, contains H3NSO2. All claims of the priority documents when read in conjunction with the references to the earlier claims (for instance claims 19 and 26 of the second priority document found at pages 986 and 991 of the Respondent’s Record) are references to the H3CSO2 structure and not the H3NSO2 structure of claims 4 or 8 of the ‘576 patent. Thus, the priority documents do not describe or disclose the "same invention" as claims 4 or 8, the structure is different and, importantly as stated before, no utility in treating inflammation with reduced side effects for celecoxib is described or disclosed in the priority documents;
+"8. Dr. Seibert made a public disclosure in June 1994 of the fact that a compound identified as SC-58125 had properties which treated inflammation and had reduced unwanted gastric side effects. This disclosure meant that the person skilled in the art would recognize the compound as a good lead compound for further research. A scientific paper discussing those findings was submitted for publication in August 1994 and published in December 1994;
+"9. SC-58125 has a structure, sometimes called a scaffold, identical to celecoxib and differs only in respect of two substituents on the scaffold. Persons skilled in the art were accustomed to making such substitutions once a lead compound had been identified; and
+"10. While the Talley et al. group named as inventors of the ‘576 patent and Dr. Seibert’s group all worked  <FRAGMENT_SUPPRESSED>  under the common leadership of Dr. Isakson, it is only of Talley et al. that are named as inventors thus Searle can claim to be a legal representative only of Talley et al."
+[58]
+To apply these findings to the scheme of the
+Patent Act
+:
+"1. A public disclosure of a compound closely related to celecoxib, namely SC-58125, described as having the same utility as that described for celecoxib, was made by Dr. Seibert in June 1994. Neither she nor her group are named inventors of the patent at issue nor does the evidence show that they derived this knowledge from the named inventors;
+"2. The knowledge obtained by Dr. Seibert’s group as to the activity of SC-58125 namely as to inflammation and non-gastric was information they developed, not Talley et al Thus the disclosure in June 1994 was not disclosure of information of the named inventors Talley, et al. The fact that Searle is the 'applicant' of the ‘576 patent does not mean that it can claim common ownership of Dr. Seibert’s information since s. 2 of the
+Patent Act
+limits an 'applicant' to a legal representative of the named inventors Talley et al.;
+"3. The disclosure in June 1994 as to SC-58125 pre-dates the earliest date that Searle can rely upon for obviousness is the Canadian filing date of November 14, 1994, since the contents of the priority applications do not describe or disclose the same invention as claimed in claim 4 or 8; and
+"4. By November 14, 1994, Searle clearly knew that SC-58125 was not only one of the many compounds described in the Matsuo ‘142 patent, but a most relevant one. Searle included that Matsuo ‘142 patent as a relevant piece of prior art in its patent application filed with the Canadian Patent Office and discussed it at page 2 of the patent application without disclosing the properties of SC-58125 that it knew about and had publicly disclosed in June 1994 in the patent application nor in responses filed with the Canadian Patent Office during the course of the prosecution of the application."
+Abandonment
+[59]
+The first allegations to be considered as being "justified" are those of abandonment. These allegations as to abandonment are set out in the Notice of Allegation as follows:
+"1.4 The Application that Issued as the '576 Patent (Application) Was Abandoned During its Prosecution and Never Reinstated
+The Canadian patent application that issued as the '576 Patent (hereinafter 'the Application') was deemed to have been abandoned due to the Applicant's failure to respond in good faith to a requisition of an Examiner in connection with the examination of the Application. The Applicant never reinstated the abandoned application pursuant to s. 73(3) of the
+Patent Act
+, therefore the Notice of Allowance issued by the Patent Office was a nullity and the '576 Patent should never have issued.
+"Section 73 of the
+Patent Act
+reads, in part:
+. . . . .
+'The Application was deemed abandoned when the Applicant failed to respond within 6 months in good faith to the requisition by the Examiner (the first office action) dated October 21, 1998.'
+"
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), stands for the proposition that deemed abandonment of a patent application
+prior to
+the issue of a patent is not rectified or overcome by the granting of the patent itself.
+"In the first office action, the Examiner made two specific requisitions of the Applicant. First, the Examiner requisitioned the Applicant pursuant to Rule 29 'to provide an identification of any prior art cited in respect of the corresponding United States and European Patent Office applications and the patent numbers, if granted, subsequent to the International Search Report'.
+"In its Response dated February 16, 1999, the Applicant stated, '[t]he new claims filed herewith [claims 1-16] have been accepted by the EPO [European Patent Office] in the corresponding European application'. The Applicant further reiterated this statement when it stated, 'it is noted that the same patent families were cited in the IPER and that the enclosed claims [claim 1-16] have been accepted over the citation of such references in the EPO'. Finally, the Applicant stated again '[a]s noted above, new claims 1-16 have been accepted in the corresponding European application'.
+"These statements were false at the time they were made, and were known to the Applicant to be false. The statements were made by the Applicant with knowledge that the Examiner would be misled into believing that the EPO had accepted all of claims 1-16. At that time, only 8 claims had been accepted by the European Patent Office in the corresponding EPO application, namely, claims to the compounds of Formula I (and narrowing dependent claims thereto) and one claim for a pharmaceutical composition. None of the use claims (i.e., claims 9-16 as filed by the Applicant in the response of February 16, 1999) had been allowed in Europe as at the date of the Response.
+"Thus, the Applicant's statements that
+all
+of 'the new claims filed herewith' were accepted by the EPO was false and misleading, and was not a good faith response to the requisition by the Examiner.
+"Second, in the first office action, the Examiner rejected all 20 claims (as were then on file) as not complying with s. 28.3 of the
+Patent Act
+because the subject matter would have been obvious on the claim date to a person skilled in the art or science to which they pertain in view of EP 418,845 (Matsuo, M. et al.), CA 959,838 (Rainer, G.) and CA 2,008,835 (Matsuo, M. et al.). The Examiner stated:
+'1,5-(di) aryl/heteroaryl substituted pyrazoles and their anti-inflammatory activity are well known in the art. The claimed pyrazoles (I) differ only in the substitution of those well known aryl/heteroaryl radicals (amino sulfonyl instead of methyl sulfonyl).'
+"The Examiner further stated:
+'Therefore, in view of the art, the claims must be restricted to those
+specific
+pyrazoles (l) for which there is an
+improvement
+over the prior art and for which there is
+full support
+in the description.' [Examiner's emphasis]
+"The Applicant, in its Response dated February 16, 1999, stated the following:
+'The present compounds are characterized by the sulfamyl group attached to the phenyl substituent at position 1 of the pyrazole-moiety of the present compounds.
+This new feature
+common to the claimed subject matter
+shows an effect
+not having been derivable from and nowhere suggested in the art,
+namely the COX-II selectivity
+.' [Emphasis added]
+"By responding in this fashion, the Applicant represented to the Examiner that the claimed compounds are COX-II selective whereas the Matsuo et al. and Rainer compounds
+are not
+. In effect, the Applicant represented that the
+improvement
+over the prior art is the presence of the aminosulfonyl group, which rendered its 1,5-diaryl/heteroaryl substituted pyrazoles COX-II selective whereas the prior art 1,5-diaryl/heteroaryl substituted pyrazoles were not COX-II selective.
+"The Applicant knew that these statements were incorrect and misleading. The Applicant was aware as of February 16, 1999, as is evident from its own earlier 1994 publication (Seibert et al.), that at least one of the compounds taught in EP 418,845 (Matsuo, M. et al.), namely, 1-[(4-methylsulfonyl)phenyl] -3-trifluoromethyl-5-(4-fluorophenyl)pyrazole (the 'Matsuo Compound'), was an anti-inflammatory agent, was analgesic, did not cause gastric toxicity and was a selective inhibitor of COX-2 (i.e., IC50 of less than 0.2 µM and a selectivity ratio of COX-2 inhibition over COX-1 inhibition of at least 50).
+"The Matsuo compound is identical to one of the compounds
+specifically
+claimed in the Applicant's submitted claims 2, 3 and 7, namely, 4-[5-(4-fluorophenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl] benzenesulfonamide (the 'Applicant's Compound'),
+except that the Matsuo compound has a methylsulfonyl group and the Applicant's compound has an aminosulfonyl group
+. The Matsuo compound and the Applicant's compound are illustrated below:
+[Diagram omitted - see print version]
+"Thus, the replacement of the methylsulfonyl group of the Matsuo compound with an aminosulfonyl group (the Applicant's compound) did not result in an improvement over the prior art. For the Applicant to suggest that such a substitution did result in an improvement (i.e., COX-II selectivity), when in fact the Applicant was aware that it was not an improvement, is a failure to respond in good faith to the Examiner's requisition to show that the Applicant's specific pyrazoles were an
+improvement
+over the prior art.
+"In summary, in view of the facts known by the Applicant at the time, for the Applicant to allege that there was an improvement over the prior art was knowingly misleading and was neither a truthful nor a good faith response to the requisition by the Examiner. In the alternative, the Applicant did not adequately point out the improvement of its specific pyrazoles and thus did not respond in good faith to the Examiner's obviousness rejection.
+"As the Applicant did not respond in good faith within 6 months of the date of the office action (i.e., by April 21, 1999), the Application became abandoned as of April 21, 1999. Further, the Application was not reinstated by the Applicant pursuant to s. 73(3) of the
+Patent Act
+within one year of the deemed abandonment. Consequently, there was in fact no valid application extant to support the issuance of the notice of allowance and the subsequent granting of the '576 Patent."
+[60]
+Briefly, the allegations are that Searle misled (Novopharm’s counsel was careful not to use the word fraud) the Canadian Patent Office in two respects during the course of the prosecution of the application for the ‘576 patent. The first was to say that the European Patent Office had allowed claims identical to claims 1 to 16 to proceed to a patent, whereas in fact the European Patent Office had done so in respect of only claims1 to 8. The second was to remain silent in respect of certain information as the Matsuo reference, which appears at page 2 of the patent and later in responses to the examiner. Searle said only that the Matsuo reference, on its face, does not state that at least one of the compounds described in that reference did not cause gastric problems while being effective as against inflammation. In fact, as discussed, Searle had, before the Canadian Patent application had been filed (November 14, 1999) tested at least one of the Matsuo compounds, had found that it was useful in treating inflammation and did not cause gastric problems. As discussed, Dr. Seibert, the head of the biological team  <FRAGMENT_SUPPRESSED>  dealing with the Matsuo compounds, disclosed this finding to the public at a scientific conference held in June, 1994, and in August, 1994, submitted a scientific paper to a peer reviewed journal for publication. The paper was published in a December, 1994, edition of that journal.
+[61]
+There is no provision in the
+Patent Act
+or Rules that directly provides to a third party a right to invalidate a patent for fraud or lack of good faith during the prosecution of the application. Section 53 of the
+Act
+provides that a patent may be invalidated if a material allegation in the petition for the patent is untrue or if the specification of the patent itself was willfully drafted so as to contain or lack a material disclosure so as to mislead. Section 76 provides that a person who provides false information or documents is guilty of an indictable offence.
+[62]
+Section 73 of the
+Patent Act
+, the provision relied upon by Novopharm, was introduced into the
+Act
+in the October 1, 1996, amendments. It requires that a party applying for a patent shall reply "in good faith" to requisitions made by the patent office examiner within a stipulated period of time and that failure to do so will result in abandonment of the application. A process is provided for reinstatement. Can a party such as Novopharm, after the patent has issued, direct the Court’s attention to one or more of these responses and ask the Court to hold that the application was abandoned because the responses were not made "in good faith"?
+[63]
+In the United States there is a well developed body of law dealing with what is called inequitable conduct. The recent decision the Court of Appeal for the Federal Circuit in
+ <FRAGMENT_SUPPRESSED>  (Fed. Cir. C.A.), gives a good explanation as to this law. That Court points out that the inequitable conduct doctrine, serves to invalidate a patent if there was a material misrepresentation intentionally made. It started as a judicially created doctrine and was subsequently codified in Rule 56 which requires an applicant to disclose "information that they are aware of that which is material". That Court discussed the appropriate standard as to what was material and an appropriate standard against which the intent of the applicant was to be measured. It found essentially, that the more material the matter was, the less necessary it was to show deliberate intent.
+[64]
+The Federal Court of Australia very recently in
+ <FRAGMENT_SUPPRESSED>  (Aust. F.C.), considered s. 138(3)(d) of the Australian
+Patent Act
+which expressly provides that a Court may revoke a patent, in whole or in part, where the patent was obtained by fraud, false suggestion or misrepresentation. The jurisprudence as applied by that Court was to the effect that a statement that was calculated substantially to influence the Patent Office’s decision could serve to revoke a patent. It was not necessary to show that the patent would not have been granted but for the statement. There was no requirement for showing that there was a deliberate intent to deceive.
+[65]
+ <FRAGMENT_SUPPRESSED> , and the cases subsequently referring to that case, held that the statement set out in the grant of the patent to the effect that the provisions of the
+Patent Act
+had been complied with, served to preclude attacks on validity based on failure to follow procedural requirements during prosecution. There is no longer, and has not been for decades, an actual grant attached to a patent and no such statement now appears on or with the patent as issued.
+[66]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 221 (F.C.A.), the Federal Court of Appeal considered an argument as to lack of candour, in that case failure to provide certain prior art to the Patent Office during prosecution. It is to be noted that s. 73 of the
+Patent Act
+did not exist at the time of prosecution of the application. That Court held that a duty of disclosure must be one provided for in the statute, rules or jurisprudence and that even if there was such a duty, it would not affect the validity of the patent but could affect equitable remedies. That Court said at paragraphs 30 and 31:
+"[30] At the hearing, counsel for Flexi-Coil relied heavily on the most recent decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (QL) [reported 83 C.P.R.(3d) 289] to suggest a higher duty of disclosure than that already required by law or by the jurisprudence. He referred in particular to the following passage from Mr. Justice Binnie's reasons, at paragraph 46:
+'I do not think that the respondents' reliance on intellectual property law is of much assistance here. It ignores "the bargain" that lies at the heart of patent protection. A patent is a statutory monopoly which is given in exchange for a full and complete disclosure by the patentee of his or her invention. The disclosure is the essence of the bargain between the patentee, who obtains a 17-year monopoly on exploiting the invention, and the public, which obtains open access to all of the information necessary to practice the invention. Accordingly, at least one of the policy objectives underlying the statutory remedies available to a patent owner is to make disclosure more attractive, and thus hasten the availability of useful knowledge in the public sphere in the public interest ...'
+"[31] Counsel reads more into this passage than is permissible. The issue before the Court related to breach of confidence and trade secrets. The 'full and complete disclosure by the patentee of his or her invention' to which Binnie, J., refers can only be, in my view, that which the statute, the rules and the jurisprudence, Notably
+Consolboard Inc.
+, supra, already require. Furthermore, even if the duty of disclosure had been extended as suggested by counsel, the impact of the extension would be felt not at the level of the validity of the patent but at the level of the remedies where equitable considerations might come into play."
+[67]
+Section 73 was introduced into the
+Patent Act
+after the decision  <FRAGMENT_SUPPRESSED> Coil
+. In other sub-sections, s. 73 requires timely payment of appropriate fees.  <FRAGMENT_SUPPRESSED>  (F.C.A.), the Federal Court held that a patent had lapsed for failure to pay sufficient maintenance fees on time. That decision on that point was upheld by the Federal Court of Appeal, [2003] 4 F.C. 67.
+[68]
+In
+ <FRAGMENT_SUPPRESSED>  (F.C.), this Court held that failure to pay the appropriate level of fees at the time of filing the application for a patent served to invalidate the subsequently granted patent. That decision was stayed pending proposed legislative revisions.
+[69]
+Thus, there is precedent for using s. 73 of the
+Patent Act
+as a basis for, in effect, holding a patent to be invalid or lapsed. The Federal Court of Appeal  <FRAGMENT_SUPPRESSED> Coil
+, supra, has held, pre s. 73, that lack of candour can, at least, provide a basis for consideration by the Court as to equitable relief.
+[70]
+The Supreme Court of Canada states in the <FRAGMENT_SUPPRESSED> case, quoted at paragraphs 30 and 31 of
+Flexi-Coil
+, supra, and also in
+ <FRAGMENT_SUPPRESSED> that disclosure by the patentee is an essential part of the bargain for which this country grants the patent monopoly.
+[71]
+Since at least sixty years ago there has been a doctrine of good faith in respect of patents. President Thorson of the Exchequer Court in
+ <FRAGMENT_SUPPRESSED>  act uberrimae fide and give all information known to him that will enable the invention to be carried out to the best effect as contemplated by him.
+[72]
+A patent is a monopoly sought voluntarily by an applicant, there is no compulsion to do so. An application for a patent is effectively an ex parte proceeding, only the applicant and the Patent Office examiner are involved in dialogue. The patent, when issued, is afforded a presumption of validity by the
+Patent Act
+.
+[73]
+A patent is not issued simply to afford a member of the public an opportunity to challenge its validity (see e.g. by way of analogy to revenue legislation
+ <FRAGMENT_SUPPRESSED> ). An obligation arises on those seeking to gain a patent to act in good faith when dealing with the Patent Office. The application for the patent includes a specification and draft claims. The specification is the disclosure for which the monopoly defined by the claims is granted. This disclosure, as the Supreme Court has said, should be full, frank and fair. Further disclosure made in dialogue with the Patent Office examiner. Since at least October 1, 1996, communications with the examiner must be made in good faith. It is to be expected that there will be full, frank and fair disclosure. There is afforded during the prosecution ample opportunity to make further disclosure or to correct an earlier misstatement or shortcoming. It is not harsh or unreasonable, if after the patent issues, and disclosure is found to lack good faith, that the Court deems the application and thus the patent, to have been abandoned.
+[74]
+I find that the representation that claims 1-16 of the European patent applications had been allowed, (the truth being that claims 1-8 had been allowed and the remainder had been transferred to another, divisional, application) does not provide a basis for finding abandonment of the application for lack of good faith. Claims 1-8 include the subject matter of claims 4 and 8 now at issue here. The other claims 9-16 do not relate to claim 4 or 8 at issue here. A subsequent response provided the information that only claims 1-8 had been allowed, even though that information was not specifically referred to or highlighted. There is nothing on the record to indicate that the information materially influenced the examiner, nor is there any information as to the intent of the applicant or its patent agent. The materiality is low and evidence of intent is lacking.
+[75]
+I find otherwise as to the responses dealing with the Matsuo reference. It is clear that the patent as applied for was intended to deal with compositions that not only treated inflammation but also had lesser undesirable side effects. The Applicant, Searle, failed to advise the Patent Office that not only had it already found that at least one of the Matsuo compounds had similar properties but also that Searle had disclosed this fact to the public before the application for the Canadian patent was filed.
+[76]
+I appreciate that if Searle had not made the public disclosure things might have been different. If that were the case, such investigations could be kept secret as they are part of the research and inventive process. However, having made the fact public before filing the Canadian application, the story changes.
+[77]
+I have found that Searle cannot rely on the fact that there was a priority application or two predating the disclosure or rely on provisions of the
+Patent Act
+allowing disclosure by the inventors or those deriving information from the inventors up to one year prior to the Canadian filing date. The essential point is that all appropriate facts should have been stated in the patent application itself, and disclosed to the Patent Office so as to allow the examiner to make an appropriate assessment and, if necessary, require amendment or cancellation respecting the specification and proposed claims. I find, therefore, that "good faith" was not shown originally in submitting the application as filed with the Canadian Patent Office without fuller disclosure as to Matsuo nor was "good faith" shown subsequently in responses to the Patent Office examiner dealing with Matsuo. As a result the application was, as provided in s. 73 of the post-October 1, 1996,
+Act
+, abandoned.
+[78]
+I find therefore, that the Applicants, Searle, have failed to demonstrate that the allegation as to abandonment is not justified.
+Obviousness
+[79]
+Novopharm stated in its Notice of Allegation that celecoxib and its properties in treating inflammation while having reduced gastric side effects, was obvious having regard to a number of previously disclosed compounds which would have led the skilled person to make obvious chemical substitutions and come "directly and without difficulty" to celecoxib.
+[80]
+A page from the Notice of Allegation, which I reproduce here, illustrates some of Novopharm’s selections of what it describes as known anti-inflammatory compositions with less harmful side effects in juxtaposition with celecoxib.
+[Diagram omitted - see print version]
+[81]
+The Notice of Allegation provided a good deal of discussion as to these and other compounds. With respect to the Matsuo compounds (sometimes called the ‘142 patent or SC-58125) previously discussed in these Reasons, it was alleged:
+"It is further of note that some of the inventors on the ‘576 Patent had published results in 1994 on a compound identical to compound 17 taught in the ‘576 Patent, except that the aminosulfonyl group is replaced with a methylsulfonyl group (SC-58125, or 1-[(4-methylsulfonyl)phenyl] -3-trifluoromethyl-5-(4-fluorophenyl)pyrazole; see Seibert et al.). The results showed that SC-58125 inhibited edema at the inflammatory site and was analgesic but did not cause gastric toxicity. It was also shown that SC-58125 was a selective inhibitor of COX-2 (i.e., IC50 of less than 0.2 µM and a selectivity ratio of COX-2 inhibition over COX-1 inhibition of at least 50)."
+[82]
+Searle rejected these allegations. It made no specific rebuttal in its Notice of Application providing only a general denial and an assertion that it relied upon the presumption of validity afforded by the
+Patent Act
+. However, Searle filed a great deal of evidence to the effect that celecoxib would not have been obvious. One of the main assertions Searle made was that the compounds identified by Novopharm would not have been readily identified by a skilled person as logical and readily apparent starting materials nor would substitutions have been easily made that would have "directly and without difficulty" led to celecoxib. Paragraphs 24 to 26 of the affidavit of Dr. Supuran, one of Searle’s expert witnesses, are representative of Searle’s position:
+"24. Novopharm’s arguments are incorrect. Novopharm cites numerous patents that disclose compounds having structural similarities to celecoxib. However, Novopharm’s argument fails to take into account that the primary compounds on which it relies as having structural similarities to celecoxib are actually buried deep within the generic formulas of those patents, apparently never having been synthesized or tested by the inventors (or anyone else) for their anti-inflammatory properties. As a medicinal chemist currently working in the field, I would never begin a new research endeavour by selecting a compound that has never been synthesized or tested, nor would I have done so in 1993 or 1994. In my opinion, no medicinal chemist would ever do so now (nor would he have done so in 1993 or 1994). It would be completely illogical.
+"25. In addition, in my opinion Novopharm’s reliance on the principles of isosterism and bioisosterism is insufficient to sustain the argument that it would have been obvious to predict the biological activity of celecoxib based on the prior art. The concepts of isosterism and bioisosterism are too rudimentary to allow one to predict the biological activities of a compound, as the concepts cannot account for the large physiochemical changes that can occur when switching between isosteres or bioisosteres.
+"26. For these reasons, which I analyze in greater detail below, I disagree with Novopharm’s allegations that in 1993 or 1994 it would have been obvious to a medicinal chemist to synthesize the celecoxib compound and that the compound would have anti-inflammatory activity, or that it would be gastric sparing."
+[83]
+The process commonly followed by drug companies in their researches to discover new compounds with beneficial properties was discussed by several witnesses including one of Novopharm’s experts, Dr. Knaus, in his cross-examination. In brief the process includes:
+1. The setting of the task such as finding a compound that will treat inflammation while sparing the gastric system;
+2. Searching through the literature and other sources such as information already known to the organization or compounds about which there is current "buzz" in the industry so as to identify candidates for potential "lead compounds";
+3. Preparing lead compounds and variants of them and testing the compounds and variants to determine if they exhibit good properties or bad; and
+4. Selecting from the tested compounds those most likely to have sufficient good properties and fewest bad properties for further testing.
+[84]
+It is a long, arduous and expensive process. Some parts of the process may be obvious to a skilled person, the selection of some lead compounds and the making of certain variants may be obvious so as to attain a desired result. The selection of other lead compounds and making certain kinds of variants may be less obvious or not obvious at all. Experts stated that even seemingly minor variants to the makeup of a compound could result in sometimes quite surprising changes. What is relevant for this case is that a key lead compound, Matsuo 142, otherwise identified by Searle as SC-58125, was the subject of a public disclosure in June, 1994.
+[85]
+For purposes of obviousness, Searle can rely upon the Canadian filing date of November 14, 1994, as being the "claim date". No earlier date can be relied upon since the applications relied upon for priority, do not describe or disclose the same invention as claims 4 or 8. We know that the evidence shows that as of February 14, 1994, Dr. Seibert and her team had established, through biological testing, that the compound celecoxib had the essential requirements of inflammation effectiveness without gastric side-effects. However, there is no evidence that the named inventors, Talley et al, did this or knew of it at the time. Therefore, February 14, 1994, is not a date upon which Searle can rely.
+[86]
+Prior to November 14, 1994, the effective filing date of the Canadian application, the Matsuo compound SC-58125 had been disclosed to the public in June, 1994, as being a compound which exhibited inflammation effectiveness without gastric side-effects. It was not, as Searle has asserted, just one of thousands hidden in the literature. The Matsuo compound was isolated, described and shown to have the essential dual utility. It was disclosed to the public as a good "lead compound" as of June, 1994.
+[87]
+What was left to be done to arrive at celecoxib given the disclosure in June, 1994, was to make variations as to the molecules found at various locations on the structure (scaffold) and to determine if those variants were equally effective, or better, or less effective. One such variant is that which would produce Example 17 of the 576 patent by changing a methyl group to an amino group. Novopharm’s witnesses such as Dr. Knaus at paragraph 152 of his affidavit says that substitutions would have been made by a person skilled in the art expecting that the resulting compound would exhibit similar properties. Another of the Novopharm experts, Dr. Moody says the same thing at paragraphs 168 to170 of his affidavit. Searle’s evidence, of which paragraphs 75 to 96 of Dr. McGeer’s affidavit are a good example, focuses on the argument that the compound is not featured in the Matsuo ‘142 patent, it is only one of many, and that this patent in turn is not particularly prominent among the many others. His evidence does not address the fact that the Matsuo compound had been disclosed to the public.
+[88]
+Another of Searle’s witnesses, Dr. Supuran says the same thing at paragraphs 58 to 98 of his affidavit. Dr. Supuran refutes the allegation that a substitution of an amino group for a methyl group would have been readily recognized as producing useful results (particularly paragraphs 73 to 91). In cross-examination, (pages 4994-4995) Dr. Supuran said that while such a substitution could be made, you could not be a hundred percent sure as to its activity until it was tested. Dr. Supuran does not address the situation wherein the Matsuo compound had been disclosed to the public. He does not seem to have been made aware of that.
+[89]
+Thus the issue is, as between the scientists, just how motivated a person skilled in the art would be as of June, 1994, given Searle’s disclosure of the SC-58125 compound and its utility, to make variants. Would they have, with a good level of confidence, expected successful results with substitution? The evidence indicates no technical difficulties in making the substitution on a given lead compound structure (scaffold). Given SC-58125 as an attractive lead compound, the evidence such as that of Dr. Supuran, a Searle expert, at paragraph 53 of his affidavit, is that chemists may be able to determine whether changes to any particular portion of the molecule will influence its activity. This type of research he describes at paragraph 56 as not illogical or irrational. The reason he ascribes to not following Matsuo as a good lead compound is set out at paragraphs 64 to 67 of his affidavit as a lack of data to the effect that it was identified as a good lead. In fact there was the public disclosure of June, 1994 to the effect that it was a good lead. He apparently was not directed to that fact by Searle in giving his evidence.
+[90]
+It is useful to look at the decision of Justice Pumfrey in the English Chancery Division in
+ <FRAGMENT_SUPPRESSED>  European equivalent of the one at issue here, but another patent that also claims compounds having anti-inflammatory properties while sparing gastric side effects. It is not the celecoxib patent (see paragraph 2 of the Reasons). However, it was alleged that what was claimed in the patent at issue there was obvious particularly in view of DuP 697, one of the same prior art compounds asserted as prior art in the case before me. Justice Pumfrey found the claims at issue to be invalid for obviousness. The decision was affirmed on appeal [2001] EWCA Civ 1610.
+[91]
+Justice Pumfrey reviewed the state of the law as to obviousness in the United Kingdom and said in paragraphs 139 and 140 of his Reasons:
+"139. Before turning to the specific documents pleaded, I should set out my understanding of the law. For a claim to be anticipated by a prior disclosure, the prior disclosure must contain a clear description of, or clear instructions to do or make, something that would infringe the patentee’s claim if carried out after the grant of the patentee’s patent. If, on the other hand, the prior publication contains a direction which is capable of being carried out in a manner which would infringe the patentee’s claim, but would be at least as likely to be carried out in a way which would not do so, the patentee’s claim will not have been anticipated, although it may fail on the grounds of obviousness. A signpost, however clear, upon the road to the patentee’s invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee. These propositions are established by the judgment of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  at 484, and represent the modern law as to anticipation by prior disclosure. The objection of obviousness assumes that there is no anticipation of the claim, but that nonetheless there has been no inventive activity on the part of the patentee which justifies the grant of a patent. Obviousness is a question of fact, and the factual analysis is habitually approached in the manner described by Oliver, L.J., in
+ <FRAGMENT_SUPPRESSED>  at 73.
+'There are, we think, four steps which require to be taken in answering the jury question. The first is to identify the inventive concept embodied in the patent in suit. Thereafter, the court has to assume the mantle of the normally skilled but unimaginative addressee in the art at the priority date and to impute to him what was, at that date, common general knowledge in the art in question. The third step is to identify what, if any, differences exist between the matter cited as [forming part of the state of the art] and the alleged invention. Finally, the court has to ask itself whether, viewed without any knowledge of the alleged invention, those differences constitute steps which would have been obvious to the skilled man or whether they require any degree of invention.'
+"There are a number of arguments which are frequently advanced to fend off an attack of obviousness which need to be considered with care. The first (and perhaps the commonest) is that where there is a number of possible courses of action for the skilled man to pursue in the light of a particular disclosure, no particular course is obvious. This is wrong: all of the courses of action which present themselves without the exercise of invention are obvious (see
+ <FRAGMENT_SUPPRESSED> ). The second is that the test in such a case is whether the skilled man could, rather than would, adopt the course of action which would bring him within the claim. A test formulated in this way almost invites the tribunal to consider irrelevant considerations, such as commercial attractiveness (
+ <FRAGMENT_SUPPRESSED> ). In each case, the only question is whether something within the claim was technically obvious to the skilled man in the light of the disclosure relied on. Evidence of what was actually done in the art at the relevant time can be of assistance, but what people actually did may be explicable on many grounds having nothing to do with technical obviousness. For this reason it has been said that such evidence has to be kept in its place and it is necessarily valueless unless the persons whose activities are under examination can be shown both to be aware of the prior art and possessed of the common general knowledge (see
+ <FRAGMENT_SUPPRESSED> ).
+"140. The inventive concept of the patent in suit can be stated compendiously as follows. It is a class of compounds having the structure specified by claim 1 and which possess anti-inflammatory and/or analgesic activity without erosion of the stomach, or with reduced side effects, by reason of their ability selectively to inhibit Cox II."
+[92]
+He then reviewed the evidence as to the prior art and determined at paragraph 171 that the claims were obvious in view of DuP 697:
+"171. Structurally, there is a clear similarity between DuP 697 and its close 3,4 disubstituted analogues. It is a matter of reasonable prediction that they will have similar activity. I think that a medical chemist wishing to investigate the structure/activity relationship of DuP 697 would think of making its 3,4-diaryl analogues, with a view to seeing whether they are active. I also think that confronted with DuP 697 and required to develop a novel compound of similar activity, the 3,4-diaryl substitution is one of the first things which would occur to the medical chemist. The claimants point to DuPont. Why, they say, if it was so obvious to use the 3,4-diaryl substitution, did not DuPont do so. The answer to this is, I think, threefold. First of all, DuP 697 was a good compound: it was not commercialised not because it had poor bioavailability but because it has too long a lifetime in the body. Second, it was comparatively straightforward to synthesise. Third, Dr Galbraith’s evidence suggests that there was a degree of inertia in this field, which was only dissipated with the discovery of the inducible Cox II enzyme. All the evidence gave me the clear picture that the 3,4 diaryl compounds were obvious to try for any skilled person knowing of DuP 697, and the ones which were most obvious to try (Examples 1 and 2 of the specification) are both Cox II selective, anti-inflammatory, and gastric sparing. It follows that in my judgment claim 1 both as granted and as sought to be amended is obvious in the light of Dr Galbraith’s disclosure, which provides the impulse to test for Cox II selectivity. Given also that the existence of the inducible isoform of the COX enzyme was in my view common general knowledge at the priority date, it was obvious to investigate the compound of Gans, which was said to be gastric sparing, to see why."
+[93]
+The law as to obviousness in Canada may be somewhat different, see
+ <FRAGMENT_SUPPRESSED> to113, the difference being the degree of certainty with which a person skilled in the art can be said to have possessed at the relevant time as to whether a claimed invention could have been arrived at "directly and without difficulty".
+[94]
+As I pointed out in paragraph 116 of the Reasons  <FRAGMENT_SUPPRESSED> -Ortho
+, supra, there are differences between a trial with real witnesses and an application under the
+NOC Regulations
+. The question of obviousness can be considered with greater certainty at trial where the witnesses are observed in person and the Court can ask questions. In NOC proceedings the evidence has been presented only by way of affidavits and transcripts of cross-examination. Further, the objective in NOC proceedings is to determine whether, on the Record before the Court, the Applicant has shown that the allegations are not justified.
+[95]
+Having reviewed the evidence in this proceeding as to obviousness, I am satisfied that SC-58125 would have been identified as a lead compound by a person skilled in the art given the public disclosure by Searle in June, 1994, which is before the earliest date of invention that Searle can rely upon of November 14, 1994. The evidence further satisfies me that a person skilled in the art would in the ordinary course have made substitutions to the structure (scaffold) of the compound. I find on the balance of probabilities based on the evidence before me that a person skilled in the art would be sufficiently confident as to the result so that, under Canadian law, the so called invention of celecoxib would have been obvious to a person skilled in the art as of June, 1994, given the disclosure by Searle of the effectiveness of the Matsuo compound. The onus is on Searle to displace the allegations of Novopharm as to obviousness. I find that such allegations have not been shown by Searle not to be justified.
+Lack of Utility
+[96]
+Novopharm in its Notice of Allegation alleged that the relevant claims of the ‘576 patent, were invalid as the patent failed to establish utility whether demonstrated utility or utility based on sound prediction. In so doing, Novopharm alleged that the relevant date for establishing utility was the earliest priority date, November 30, 1993. Novopharm further alleged that if the relevant date was not the earliest priority date, then even as of the second priority date April 6, 1994, no utility had been established for the subject matter of the claims at issue.
+[97]
+As of the date that the Notice of Allegation was served, May 3, 2005, the Supreme Court of Canada had given its decision in the
+AZT
+case,
+Apotex Inc. and  <FRAGMENT_SUPPRESSED> , where it said at paragraphs 71 and 72:
+"[71] It bears repetition that the soundness (or otherwise) of the prediction is a question of fact. Evidence must be led about what was known or not known at the priority date, as was done here. Each case will turn on the particularities of the discipline to which it relates. In this case, the findings of fact necessary for the application of 'sound prediction' were made and the appellants have not, in my view, demonstrated any overriding or palpable error.
+"[72] On March 1, 1985, Glaxo/Wellcome received from the NIH the key results of the in vitro test of AZT against the HIV in a human cell line. This, taken together with Glaxo/ Wellcome’s own data on AZT, including the mouse tests, provided a factual foundation. Glaxo/Wellcome’s knowledge of the mechanism by which a retrovirus reproduces, and the 'chain terminator effect' of AZT, as disclosed in the patent, was found by the trial judge to provide a line of reasoning by which utility could be established as of the date of the U.K. patent application, March 16, 1985, which is also the priority date by which the invention must be evaluated for purposes of the Canadian patent. Although 'sound prediction' was not the precise approach followed by the trial judge, his reasoning as well as his ultimate ruling is entirely consistent with its application."
+[98]
+On the face of it, Novopharm in selecting a priority date as being the relevant date for dealing with the issue of utility, had in mind these passages from the
+AZT
+decision. However, in the
+AZT
+decision the Supreme Court discussed the Canadian filing date as well as the priority date, it was not critical to make a distinction in that case. This caused Justice Mactavish of this Court in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 161 (F.C.), at paragraphs 88 to 96, affirmed by the Federal Court of Appeal (2006), 349 N.R. 183; 46 C.P.R.(4th) 401, at paragraph 30, to conclude that the appropriate date in considering utility was the Canadian filing date, here November 14, 1994, a date not addressed  <FRAGMENT_SUPPRESSED> ’s Notice of Allegation.
+[99]
+The facts as presented, particularly the evidence of Dr. Seibert, demonstrates that as of the earliest of the priority dates, November 30, 1993, insufficient work had been done to establish whether celecoxib would provide the desired combination of effectiveness respecting inflammation while avoiding unwanted side effects.
+[100]
+Dr. Seibert’s evidence indicates that her group  <FRAGMENT_SUPPRESSED>  prepared and tested celecoxib, finding to have desirable properties as to treatment of inflammation while having little unwanted side effects on or about February 14, 1994.
+[101]
+The Canadian patent application, as filed effective November 14, 1994, makes ample disclosure as to the utility of celecoxib; it is described, a process for preparing it is disclosed as Example 2 and data demonstrating effectiveness in dealing with inflammation and having appropriate COX II selectivity is all disclosed.
+[102]
+The law is clear as to utility. There must have been, as of the relevant date, a demonstration of utility or, lacking that, a sound prediction of utility based on the information and science available at the time of the prediction (
+ <FRAGMENT_SUPPRESSED> to 40).
+[103]
+I find that, certainly by the Canadian filing date, Searle had determined and articulated sufficient utility. Since the work had actually been done, there is no need to consider the law as to sound prediction, which comes into play only when the work has not been done.
+[104]
+Novopharm’s counsel argued that it would be inequitable given what he described as a change in the law, to preclude Novopharm from arguing lack of utility as of the Canadian filing date. Since I have found that there was sufficient utility as of that date it is unnecessary to address that argument.
+[105]
+I find, therefore, that Searle has sufficiently demonstrated that Novopharm’s allegations as to lack of utility are not justified.
+Sufficiency
+[106]
+In its Notice of Allegation, Novopharm alleged that claim 8 of the ‘576 patent was invalid in that the words "therapeutically - effective amount of the compound" were insufficiently described and supported in the specification. Some of Novopharm’s evidence described the amounts set out in the specification as little more than a lucky guess.
+[107]
+I find, particularly on the affidavit evidence of Warner, Maskowitz, Bookman and Whittle, that the patent makes sufficient disclosure such that a person skilled in the art, as of the Canadian filing date and even earlier, would readily establish what comprises a therapeutically - effective amount of celecoxib.
+[108]
+Therefore, I find that Searle has demonstrated that Novopharm’s allegations that claim 8 was insufficient is not justified.
+Conclusions
+[109]
+In summary, I have found that Searle has not proven, on the Record before the Court, that Novopharm’s allegations as to abandonment and obviousness are not justified. Searle has proven the allegations as to utility and sufficiency not to be justified. As a result, the application will be dismissed.
+[110]
+As to costs, Searle conceded during argument at trial that Novopharm was entitled to its costs in respect of claims 9 to13 and 16 of the ‘576 patent and in respect of the whole of the ‘186 patent, all of which were abandoned by Searle during the course of the trial. I have taken this into consideration in awarding costs, particularly having in mind Rule 400(3)(i) and the desire to encourage counsel to proceed only on such points as may be most appropriate. In taking all matters into consideration, I award costs to the Respondent, Novopharm, at the middle of Column IV. In assessing costs, I provide the following directions to the assessment officer:
+1. Two counsel, a first counsel and a second counsel, may be permitted for preparation for and appearance at trial, second counsel is entitled to recover 50% of first counsel fees;
+2. Only one counsel shall be permitted in respect of cross-examination of a witness both as to attendance and travel disbursements, if any;
+3. The fees and disbursements charged by witnesses shall be allowed but only if reasonable. The officer shall be guided in that respect by fees charged by first counsel for the Respondent for preparing the evidence of such witnesses and attendance at any cross-examination such that the total fees and disbursements of such witness should not exceed those of such counsel;
+4. Photocopies shall be allowed at a rate of the lesser of $0.25 per page or the rate actually charged to the client;
+5. Disbursements beyond those set out in the tariff shall be allowed only if evidence provided establishes that they are reasonably incurred and at a reasonable rate; and
+6. GST and PST where applicable may be claimed provided that the evidence establishes that the same has been charged to and paid by the Respondent.
+JUDGMENT
+[111]
+FOR THE REASONS GIVEN HEREIN,
+THE COURT ADJUDGES THAT:
+1. The Applicants have discontinued these proceedings in respect of claims 9 to13 and 16 of Canadian Patent 2,177,576 and all of Canadian Patent 2,267,186;
+2. This application is dismissed as to all remaining issues; and
+3. The Respondent, Novopharm, is entitled to recover from the Applicant its costs to be assessed at the middle of Column IV and the assessment officer to be guided by the directions as to costs as set out at the end of the Reasons provided herein.
+Application dismissed.
+Editor: Steven C. McMinniman/gs
+[End of document]

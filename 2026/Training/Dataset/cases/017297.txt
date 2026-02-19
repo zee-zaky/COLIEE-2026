@@ -1,0 +1,327 @@
+[1]
+Richard, J.
+: This is an application by Eli Lilly and Company and Eli Lilly Canada Inc. ( <FRAGMENT_SUPPRESSED> ) for an order pursuant to s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (12 March 1993) (hereinafter
+Regulations
+), prohibiting the Minister of National Health and Welfare ("the Minister") from issuing a Notice of Compliance ("NOC") under s. C.08.004 of the
+Food and Drug Regulations
+, C.R.C. 1978, c. 870, as amended, to Novopharm Inc. ( <FRAGMENT_SUPPRESSED> ) for 20 mg [see footnote 1] capsules of fluoxetine hydrochloride until after the expiration of Canadian Letters Patent 1,051,034 (the "Lilly Patent") on March 19, 1996. In this application, the principal issue before me involves a determination of whether Novopharm's allegation that its supplier does not use the same process as Lilly for the production of the drug PROZAC is justified. Because both parties have provided the court with ample evidence regarding the chemical composition of the drug and the processes involved in producing the product, I have not been required to base my determination on the operation of a legal burden of proof or a statutory or common law presumption, but on the construction of the patent at issue and the weighing of the considerable evidence adduced.
+Background
+[2]
+Pursuant to s. 4(1) of the
+Regulations
+, Lilly submitted on April 6, 1993, three patent lists for NOCs issued to it for 10 mg and 20 mg capsules and 20 mg/5 mL oral suspension of fluoxetine hydrochloride. This product is sold by Lilly under the trademark "PROZAC". In a letter dated July 23, 1993, as part of the procedure to obtain its own NOC, Novopharm provided a Notice of Allegation pursuant to s. 5(1)(b)(iv) of the
+Regulations
+. The Notice states the following:
+"Patent #1,051,034 (Expiry: March 19, 1996) - No Claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling of this drug by Novopharm Ltd. Novopharm's suppliers do not use the processes described in this patent." [See footnote 2.]
+[3]
+On September 9, 1993, Lilly filed the application which is the subject of this proceeding. In support of its application, Lilly filed the affidavits of Fern Arbuckle and Dr. Klaus Schmiegel. The former introduces into evidence Lilly's patent lists and Novopharm's Notice of Allegation. The affidavit of Dr. Schmiegel, co-inventor of fluoxetine hydrochloride, introduces the Lilly Patent into evidence. The relevant claims of the Lilly Patent provide as follows:
+"The embodiments of the invention for which an exclusive property or privilege is claimed are as follows:
+"1. A process for preparing 3-aryloxy-3-phenylpropylamine compounds of the formula I
+[See printed version]
+wherein each R
+1
+and R
+2
+is independently hydrogen or methyl, R
+3
+and R
+4
+are halo, trifluoromethyl, C
+2
+-C
+4
+alkyl, C
+1
+-C
+3
+alkoxy or C
+3
+-C
+4
+alkenyl; and n and m are 0, 1 or 2, with the limitation that both n and m are not 0 when both R
+1
+are methyl and both R
+2
+are hydrogen; and acid addition salts thereof formed with pharmaceutically-acceptable acids; which comprises reacting a N, N-dimethyl 3-pheny1-3-halo-propylamine with a phenol; and if desired demethylating the dimethylamine so obtained to provide the corresponding monomethylamine compound; or reacting a 3-chloro-1-(substituted phenoxy)-propylbenzene with an amine of the formula HN
+R
+, or with sodium azide followed by reduction with sodium borohydride, and if desired forming an acid addition salt with a pharmaceutically-acceptable acid.
+"2. Compounds of the formula
+wherein R
+1
+, R
+2
+, R
+3
+and R
+4
+are as defined in claim 1, and pharmaceutically acceptable acid addition salts thereof, when prepared by the process of claim 1 or by an obvious chemical equivalent thereof.
+. . . . .
+"5. A process for preparing N-methyl 3-(p-trifluoromethylphenoxy)-3-phenylpropylamine hydrochloride which comprises reacting N, N-dimethyl 3-phenyl-3-chloropropylamine with p-trifluoromethylphenol; demethylating; and forming the hydrochloride salt.
+"6. N-methyl 3-(p-trifluoromethylphenoxy)(sic)-3-phenyl-propylamine hydrochloride when prepared by the process of claim 5 or by an obvious chemical equivalent thereof." (Motion Record, vol. I, Tab 3, at pp. 45-46.)
+[4]
+Claims 1 and 5 are commonly characterized as "process" claims, while claims 2 and 6 are referred to as "product-by-process" claims. Notwithstanding the recent decision of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), counsel were in agreement before me that there was no issue regarding the applicability of process claims 1 and 5, since they were included in the product-by-process claims 2 and 6. In essence, claims 1, 2, 5 and 6, as they relate to this proceeding, provide patent protection for fluoxetine hydrochloride when prepared by the processes claimed in claims 1 and 5 or by an obvious chemical equivalent process.
+[5]
+In response to Lilly's application, Novopharm filed an affidavit by Pekka Kairisalo, Vice-President of Fermion Inc., Novopharm's supplier of fluoxetine hydrochloride. This affidavit puts into evidence the process employed by Fermion to produce fluoxetine hydrochloride ("the Fermion process"). In support of its position that Novopharm will be infringing the Lilly Patent, Lilly filed the affidavits of and cross-examinations of four expert witnesses: Dr. E.J. Corey (Professor of Organic Chemistry, Harvard University, and recipient of the 1990 Nobel Prize in Chemistry), Dr. Klaus K. Schmiegel (a second affidavit), Dr. Alexander Fallis (Professor of Chemistry, University of Ottawa) and Dr. Robert T. Morrison (Professor of Chemistry, New York State University, and co-author of Organic Chemistry). In support of its position that the Fermion process does not infringe the Lilly Patent, Novopharm filed the affidavits of and cross-examinations of two expert witnesses, Dr. Robert A. McClelland (Professor of Chemisty, University of Toronto) and Dr. James Hendrickson (Professor of Chemistry, Brandeis University). Since much of the determination in this instance is dependent upon an evaluation of the evidence provided by these experts, I will be reviewing this evidence in further detail below. However, at this point, an outline of the steps involved in each of the processes is useful.
+The Lilly Patent Process
+[6]
+The pharmaceutical product produced by the Lilly process, as claimed in the Lilly Patent, is the chemical compound fluoxetine hydrochloride. The chemical name of this compound is N-methyl 3-(p-trifluoromethylphenoxy)-3-phenyl propylamine hydrochloride. The affidavit of Dr. Fallis provides a good description of the process claimed in the Lilly Patent, which I am adopting for the purposes of this application (Motion Record, vol. III, Tab 24, at pp. 366-368.):
+"7. There are 16 claims in the Lilly patent. Claims 1, 2, 5, and 6 are the claims relevant to fluoxetine hydrochloride.
+a. Claim 1 claims a process for synthesis of a variety of compounds, one of which is fluoxetine hydrochloride.
+b. Claim 2 claims a number of compounds including fluoxetine hydrochloride when made by the process of claim 1 or by obvious chemical equivalents thereof.
+c. Claim 5 of the Lilly patent relates specifically to synthesis of fluoxetine hydrochloride by the process described; and
+d. Claim 6 claims fluoxetine hydrochloride when made by the process of claim 5 or by an obvious chemical equivalent thereof.
+"8. A six (6) step process is described in Canadian Letters patent 1,051,034 for the synthesis of fluoxetine hydrochloride.
+(1) The first step is a Mannich condensation to form a β-dimethyl-amino-propiophenone. (a ketone)
+(2) The second step is a reduction of the ketone to form a hydroxypropylamine. (reduction of the C O to CH-OH)
+(3) The third step is the substitution of the hydroxy group in the hydroxypropylamine by chloride which results in the formation of the chloropropylamine.
+(4) The fourth step is the formation of the ether using a reaction known historically as a Williamson synthesis.
+(5) The fifth step is the deprotection step which removes the methyl protecting group.
+(6) The last (sixth) step is the formation of the hydrochloride salt.
+While all six steps are
+described
+in the patent, only the last three steps, i.e., steps 4, 5, and 6 are
+claimed
+in claims 1, 2, 5 and 6 of the Patent. For convenience I have drawn a box around these last three steps." (Emphasis in original)
+I am in agreement with Dr. Fallis' view that the processes actually claimed in the Lilly Patent include only the latter three steps, which are outlined by the box on the diagram reproduced below. This diagram is a reproduction of exhibit "D" attached to Dr. Fallis' affidavit and identifies the steps described in the Lilly Patent. (Motion Record, vol. III, Tab 28, at p. 442 (with minor modifications).)
+[See printed version]
+The Fermion Process
+[7]
+The affidavit of Dr. Fallis also describes the Fermion process. (Motion Record, vol. III, Tab 24, at pp. 370 to 372.) He based his description on the information provided in the affidavit of Mr. Kairisalo. In my view, this is an accurate description of the Fermion process and of the major differences between it and the process claimed in the Lilly Patent, and I am adopting this description for the purposes of this application:
+"21. I have reviewed the synthetic pathway which is apparently used by the respondents' supplier to produce fluoxetine hydrochloride. As already noted above, this pathway is set out in the Kairisalo affidavit. A diagrammatic representation of that process is in Exhibit 'C' identified as the 'FERMION PROCESS'.
+. . . . .
+"23. As noted in Exhibit 'C', the FERMION PROCESS involves a five step synthetic pathway.
+(1) The first step is the Mannich condensation which is identical to that described in the Lilly patent but for the presence of a benzyl protecting group as opposed to a methyl protecting group ...
+The next step is referred to as Phase II but consists of two steps, a hydrogenation followed by a deprotection. I have labelled these as steps 2 and 3:
+(2) A reduction of the ketone (C O) to the hydroxyl (C-OH); and
+(3) A deprotection step.
+These two steps occur at similar rates, but sequentially. Thus I have set out in Exhibit 'C' the two alternative pathways: the first involving a reduction followed by a deprotection; while the second involves the deprotection first followed by the reduction. Normally the aromatic ketone reduction will precede the deprotection however both intermediates should be present.
+It is instructive to note that the only difference between the intermediate hydroxypropylamine and the compound formed as a result of the second step described in the LILLY PROCESS is that there is a methyl group in the LILLY intermediate whereas in the FERMION PROCESS there is a benzyl group.
+(4) The fourth step is the formation of the ether linkage to make fluoxetine; Looking at the reacting compounds at the beginning of this step, it can be seen that there are two minor differences with the claimed process:
+(a) the first is that in the FERMION PROCESS a mono methyl is employed as opposed to dimethyl;
+(b) the second difference is that the hydroxyl and chlorine groups are reversed from the claimed process.
+(5) the last step is the formation of the hydrochloride salt of fluoxetine, in exactly the same manner set out in the patent."
+Exhibit "C" attached to Dr. Fallis' affidavit is reproduced below. (Motion Record, vol. III, Tab 27, at p. 440 (with minor modifications).)
+[See printed version]
+Novopharm did not dispute this description except that steps (2) and (3), as described by Dr. Fallis, are viewed as a single step. Further, Novopharm maintains that the differences between the two processes with respect to the formation of the ether linkage are more complex and that the Lilly process is not employed on a commercial scale, while the Fermion process is. Both parties agreed that the claimed steps included the ether formation, the demethylation, and the salt formation.
+Nature Of Proceedings
+[8]
+The legislative framework provided for in the
+Patented Medicines (Notice of Compliance) Regulations
+and the
+Food and Drug Regulations
+has been examined by the Court of Appeal in four reported decisions:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) (hereinafter <FRAGMENT_SUPPRESSED> );
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 (F.C.A.) (hereinafter <FRAGMENT_SUPPRESSED> ); and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 209 (F.C.A.).
+[9]
+In <FRAGMENT_SUPPRESSED> , Mr. Justice Mahoney explained the legislative framework as follows:
+"The legislation came into effect early in 1993 (S.C. 1993, c. 2). It is consequent on the abolition of the system of compulsory licences for drug patents. It introduced a new regime whereby, with exceptions for the development of information for regulatory purposes and stockpiling in anticipation of the expiration of a patent, the monopoly rights of the patentee of a medicine are preserved. A medicine cannot be marketed in Canada without a NOC issued by the respondent Minister. If an applicant for a NOC wishes to rely on the previous issuance of a NOC to another, the question whether or not the making or marketing of the medicine under authority of the second NOC would infringe patent rights of the holder of the earlier NOC must now be resolved before the second issues. Sections 55.1 and 55.2 were added to the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended. Authority for making the
+Patented Medicines (Notice of Compliance) Regulations
+, 'the
+Regulations
+', is found in s. 55.2(4). (Supra, at pp. 331-332)"
+In <FRAGMENT_SUPPRESSED> , Mr. Justice Hugessen provided the following description of the scheme:
+"In very abbreviated terms, the scheme permits drug manufacturers, who hold or are licensees under subsisting patents, to file a 'patent list' in respect of each drug for which they hold or obtain a notice of compliance (s. 4). The regulations refer to anyone filing such a list as the 'first person'. In practice they will usually be brand-name pharmaceutical manufacturers.
+"Thereafter, any other manufacturer (the 'second person' - in practice generic pharmaceutical companies) who wishes to apply for a notice of compliance in respect of the same drug must, unless he is prepared to wait until all outstanding patents have expired, make one of the allegations referred to in s. 5(1)(b), in effect asserting that the first person is not the patentee or that the patent has expired or is invalid or would not be infringed by the second person if the notice of compliance were issued. That allegation is made to the Minister in the second person's new drug submission, but notice of it must be served on the first person.
+"Up to this point there have been no court proceedings and, if none are taken, the Minister is entitled, after the expiry of 45 days, and assuming his public health and safety concerns under the
+Food and Drug Regulations
+have been otherwise satisfied, to issue a notice of compliance to the second person.
+"Within that same 45-day period, however, s. 6 allows the first person to apply to the court for an order prohibiting the Minister from issuing a notice of compliance (s. 6(1)) and the court is directed to make such an order unless it finds one or more of the second person's allegations to be 'justified' (s. 6(2)).
+. . . . .
+"Section 7 provides for a successive series of temporary prohibitions (in effect legislative interlocutory injunctions) for the period prior to and during the pendency of the proceedings under s. 6 and extending for as much as 30 months from the date of the launching of the proceedings. Subsections 7(2) and (4) are particularly significant. Section 7(2) provides that the prohibition in s. 7(1)(e) shall cease upon the expiry of the patent or upon a judicial declaration of invalidity or noninfringement. Section 7(4), dealing presumably with a different situation, provides for the ending of the prohibition in the event that the first person's application is withdrawn or finally dismissed by the court.
+"Section 7(5), in providing for judicial discretion to extend or shorten the 30-month period of prohibition, makes it plain that the proceedings are to be dealt with expeditiously. (Supra, at pp. 314-315.)"
+[10]
+These cases also discuss the nature of the proceedings before me. As Mr. Justice Hugessen recognized in <FRAGMENT_SUPPRESSED> , a large measure of the difficulties which occur in interpreting the legislative scheme are due to the fact that the
+Regulations
+, whose clear intention is to facilitate the protection of private commercial patent rights, have been grafted onto a regulatory scheme whose sole purpose is the protection of public health and safety. (Ibid. at p. 304.) However, the following general principles may be deduced from these cases:
+- The purpose of the
+Regulations
+is the prevention of the infringement of a patent: s. 55.2(4) of the
+Patent Act
+makes specific reference to this objective. (Ibid. at p. 314.)
+- The intent of the
+Patent Act Amendment Act
+, S.C. 1993, c. 2, was to thwart the possible appropriation by the generic drug companies of the research and development initiatives of innovator pharmaceutical companies. The legislation was drafted in order to protect their distribution and sales rights to patented drugs. ( <FRAGMENT_SUPPRESSED> , supra, at pp. 752 and 754.)
+- The
+Regulations
+pertain to public law, not private rights of action. (
+David Bull
+, supra, at p. 217.)
+- The legislative scheme does not contemplate a proceeding by way of action. ( <FRAGMENT_SUPPRESSED> , supra, note 11, at p. 337.) The motion involved is for judicial review by way of an application for prohibition under s. 6(1) of the
+Regulations
+. (
+David Bull
+, supra, at p. 215.)
+- The application for prohibition under s. 6(1) is not an action for determining validity or infringement: its object is solely to prohibit the issuance by the Minister of a NOC. (Ibid. at p. 216, and <FRAGMENT_SUPPRESSED> , supra, at pp. 319-320.)
+- Since the
+Regulations
+direct that such issues as may be adjudicated under s. 6 must be addressed through the summary procedure of a judicial review application, this is a fairly clear indication that these issues must be of a limited or preliminary nature. An application for prohibition commenced by a notice of motion is not an action and the notice of motion is not a pleading. The proceedings do not contemplate viva voce evidence as in a trial. (
+David Bull
+, supra, at pp. 213-214, 217.)
+- As a further consequence of the proceeding taking the form of a summary application for judicial review, there is no opportunity for either party to have recourse to discovery, whether oral or documentary. There is no obligation on the respondent to produce any affidavits at all and even when there is an opportunity to cross-examine, such cross-examination is far more limited in scope than examination for discovery. Patent invalidity, like patent infringement, cannot be litigated in this kind of proceeding. ( <FRAGMENT_SUPPRESSED> , supra, at p. 320.)
+- Patentees and generic companies have not been forced to make their sole assertion of their private rights through the summary procedure of a judicial review application. The
+Regulations
+contemplate that there be parallel proceedings instituted by the generic company for a declaration of invalidity or noninfringement which would be binding on the parties. If a full trial of validity or infringement issues is required, this can be obtained in the usual way by commencing an action. (Ibid. and
+David Bull
+, supra, at p. 217.)
+- The
+Regulations
+nowhere create or abolish any rights of action between the parties. Instead they confer a right on a patentee to bring an application for prohibition against the Minister of National Health and Welfare. The
+Regulations
+do not provide for a final determination of the issues of validity or infringement nor is a determination binding on all private parties or preclude future litigation of the same issues. (
+David Bull
+, ibid.) These proceedings are instituted by the patentee and seek a prohibition against the Minister. It is impossible to conceive of them giving rise to a counterclaim by the generic company seeking a declaration of invalidity or noninfringement. ( <FRAGMENT_SUPPRESSED> , supra, at p. 320.)
+- The decision in these proceedings must turn on whether the allegations by the generic company are sufficiently substantiated to support a conclusion for administrative purposes (the issuance of a NOC) that the applicant's patent would not be infringed if the generic's product is put on the market. (
+David Bull
+, supra, at p. 216.) In determining whether or not the allegations are justified, the court must then decide whether, on the basis of such facts as have been assumed or proven, the allegations would give rise in law to the conclusion that the patent would not be infringed by the respondent. The court should start from the proposition that the allegations of fact in the Notice of Allegation are true except to the extent that the contrary has been shown by the applicant. ( <FRAGMENT_SUPPRESSED> , supra, at p. 319.)
+- It is the applicant which, as the initiator of the proceeding, has the carriage of the matter and bears the initial burden of proof. There may be some presumptions, such as s. 43 of the
+Patent Act
+, which may help the applicant and have the effect of displacing the burden of proof. However, the presumption enacted by s. 55.1 is not one of them. The applicant cannot expect to be able to make his case out of the mouth of the respondent. (Ibid. at pp. 319-320. See also
+ <FRAGMENT_SUPPRESSED>  (T.D.); and
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+- The Court of Appeal has applied a purposive approach to s. 5(1) of the
+Regulations
+. ( <FRAGMENT_SUPPRESSED> , supra, at p. 799.)
+[11]
+Regarding the question of the burden of proof in these proceedings, Lilly submitted that it had the benefit of the statutory presumption found in s. 55.1 of the
+Patent Act
+. Section 55.1 reads as follows:
+"55.1 In an action for infringement of a patent granted for a process for obtaining a new product, any product that is the same as the new product shall, in the absence of proof to the contrary, be considered to have been produced by the patented process. (R.S.C. 1985, c. P-4, as amended by the
+North American Free Trade Implementation Act
+, S.C. 1993, c. 44.)"
+Amendments were made to this provision in 1993 as part of the
+NAFTA Implementation Act
+. It refers to "an action for infringement", while art. 1709(11) of the
+North American Free Trade Agreement
+(December 17, 1992) refers to "any infringement proceeding". Lilly submits that, in light of
+NAFTA
+, the proceedings brought pursuant to s. 6 of the
+Regulations
+should be construed to encompass an action for infringement and, accordingly, that it has the benefit of the statutory presumption in s. 55.1. Whether the word "action" in s. 55.1 includes the type of proceeding envisaged by s. 6, a summary application for judicial review, is not determinative since the proceeding referred to must be for infringement of a patent. Although the purpose of s. 6 is to prevent the infringement of a patent, it is not a proceeding for a declaration of infringement of a patent pursuant to ss. 54 and 55 of the
+Patent Act
+, but a proceeding for an order of prohibition against the Minister. This is so even if the allegation is one of noninfringement of a patent. Lilly has accepted that it has the overall burden of proof. However, it cannot, as it claimed, be assisted by the statutory presumption found in s. 55.1 of the
+Patent Act
+in discharging this burden. Counsel for Lilly agreed that whatever evidential burden rested on Novopharm, it had been discharged in this proceeding through the introduction of the evidence of Mr. Kairisalo.
+[12]
+It should be noted that neither Lilly nor Novopharm challenged the vires of the
+Regulations
+and that both accepted, for the purposes of this summary application, that the
+Regulations
+were properly made pursuant to s. 55.2(4) of the
+Patent Act
+and that that subsection authorized the enactment of the
+Regulations
+.
+Issues
+[13]
+Lilly's Memorandum of Points of Argument states the issues as follows:
+"94. Does the Fermion Process infringe claims 1, 2, 5 or 6 of the Lilly Patent?
+"95. Is Novopharm's allegation of noninfringement of the Lilly Patent, by its activities of making, constructing, using and selling fluoxetine hydrochloride, justified on the basis that its supplier of fluoxetine hydrochloride does not use the processes claimed by the Lilly Patent? (Motion Record, vol. VI, Tab 104, at p. 1119.)"
+[14]
+In its memorandum, Novopharm formulates the question before me as follows:
+"60.	Has the respondent Novopharm substantiated the allegations set out in its Notice of Allegation so that the Minister of National Health and Welfare would be justified in issuing Novopharm a Notice of Compliance."
+[15]
+It is clear from the above general principles that the issue before me is not whether, in fact, Novopharm will infringe the Lilly Patent. Instead, as pointed out by Mr. Justice Hugessen in <FRAGMENT_SUPPRESSED> (supra, at p. 319), the court must decide whether, on a balance of probabilities and on the basis of such facts as have been assumed or proven, Novopharm's allegation of noninfringement is justified. In its Notice of Allegation, Novopharm bases its allegation of noninfringement on the alleged fact that its "suppliers do not use the processes described in" the Lilly Patent. Since the Lilly Patent includes claims for any process which is "an obvious chemical equivalent" to those described in claims 1 and 5, the question before me is whether, on the basis of the evidence adduced, the process used by Novopharm's suppliers, the Fermion Process, is an obvious chemical equivalent of the processes described in the Lilly Patent.
+Lilly's Submissions
+[16]
+Lilly submitted that a patent must be construed by a mind willing to understand, not a mind desirous of misunderstanding. The court should not apply an overly technical or astute approach when construing the patent and it should endeavour to give effect to the construction which will give the inventor protection for that which he or she has in good faith invented. This is particularly so for a truly meritorious or "pioneering invention" such as that claimed in the Lilly Patent. (
+ <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 203; 56 C.P.R.(2d) 145, at pp. 524-525 S.C.R., and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 238 (T.D.), at p. 249 F.T.R.) Lilly further submitted that the essence of the invention claimed in the Lilly Patent is the chemical compound fluoxetine hydrochloride. There is no inventive step merely in making new substances by known methods out of known materials. It is the remarkable value of the substance as a drug that confers the quality of inventiveness on the process, as well as the product. (
+ <FRAGMENT_SUPPRESSED>  (H.L.), at pp. 65-66.) Even though the real invention is the product and its remarkable properties, it was a requirement of s. 41(1) of the
+Patent Act
+at the time the Lilly Patent was issued that the product claims be in process-dependent form.
+[17]
+Lilly submitted that the Fermion process utilized by Novopharm's suppliers has reproduced the substance of the Lilly's invention, a process which results in fluoxetine hydrochloride through three steps: ether formation, deprotection and salt formation. Each of the variants of the Fermion process is in respect of unessential features of the claims and has no effect upon the way the invention works: 1) the benzyl protecting group and the methyl group each serve the same purpose and are standard protecting groups; 2) the change in the order of the deprotection step in the reaction sequence takes place after its purpose has been served; and 3) the formation of the ether linkage though a reversal of the hydroxyl and chloride groups performs the same purpose. The resulting product is fluoxetine hydrochloride as claimed and made through the same steps of ether formation, deprotection, and salt formation. Lilly maintains further that it did not intend to exclude variants from the scope of the invention claimed. The process requirements were prescribed by law and not intended by the patentee to be essential limitations to the invention. The variations used by the Fermion process were well-known to those skilled in the art and are therefore obvious variants.
+[18]
+Lilly concluded that since the process employed by Novopharm's suppliers to produce fluoxetine hydrochloride is within the scope of the patented claims, the allegation by Novopharm that its fluoxetine hydrochloride will not infringe the Lilly Patent is not justified.
+Novopharm's Submissions
+[19]
+Novopharm submitted that the claims are limited to the particular process disclosed and claimed. Pursuant to s. 36(1) of the
+Patent Act
+, as it read on the relevant dates, an applicant for a patent was required to describe the invention correctly and fully, including setting forth the various steps in the process and explaining the necessary sequence, if any, of the various steps. Pursuant to s. 36(2), the specifications were required to end with a claim or claims stating distinctly and in explicit terms the things or combinations the applicant regarded as new. On the basis of these provisions, Novopharm argues that it is not possible to construct the claims to be directed to the product per se. In addition, counsel submitted that policy underlying s. 41(1) of the
+Patent Act
+(at the date of the patent) was to preclude patents on the product. [See footnote 3]. Counsel maintained that s. 41(1) limits the scope of the patent to the substance when produced by the process which has been claimed.
+[20]
+Novopharm submitted that the question in each case is:
+"whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked." ( <FRAGMENT_SUPPRESSED> , supra, at p. 266, cited in
+Eli Lilly & Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), at p. 6  <FRAGMENT_SUPPRESSED> , and <FRAGMENT_SUPPRESSED> , supra, at p. 10.)
+Further, a finding of equivalence can not be shown unless it can be shown that the element for which equivalence is claimed can be shown to be in the common general knowledge at the date of the patent. (
+ <FRAGMENT_SUPPRESSED>  whether the two processes are equivalent, there is the issue as to whether the reactions are obvious chemical equivalents.
+Construction Of The Patent
+[21]
+It is not necessary to undertake here an extensive review of the principles relevant to the construction of a patent. For the purposes of these proceedings, I do not believe that it is necessary to go beyond the express words of the claims of the patent to determine whether the respondent Novopharm's allegations are justified. This is not an action for infringement, but a summary application for prohibition. However, I will briefly review the governing principles.
+[22]
+ <FRAGMENT_SUPPRESSED>  patent: (Supra, at p. 249.)
+"The construction of the patent is a question for the court; that construction is to proceed on the basis that the addressee of the patent is a person skilled in the art, having the knowledge that such a person is likely to possess ... The patent must be construed by a mind willing to understand, seeking a construction which is reasonable and fair to both patentee and the public.
+"In construing a patent the claims are the starting point. The claims alone define the statutory monopoly and the patentee has a statutory duty to state in the claims what the invention is that it is desired to protect. In construing the claims recourse to the rest of the specification is: (1) permissible to assist in understanding the terms used in the claims; (2) unnecessary where the words of the claim are plain and unambiguous; and (3) improper to vary the scope or ambit of the claims."
+Both parties agree that the proper approach for the construction of the patent at issue herein is a purposive one. They also agreed that it is the claims in the patent which define the scope of the monopoly sought and that there is no justification in departing from the unambiguous and grammatical meaning of a claim to narrow or extend its scope by reading into it words which are not in it. In my view in this instance, the words of the claims are plain and unambiguous. They adequately define the scope of the patent to include, for the purpose of this proceeding, the production of fluoxetine hydrochloride by the process defined in the claims or any obvious chemical equivalent process.
+[23]
+It appears that two approaches have developed relating to the test for infringement. One line of authority maintains that when determining whether there has been infringement, the court must deal with two issues, namely, whether there has been a literal or textual infringement and if not, whether there has been a taking of the substance or pith and marrow of the claimed invention. This test was adopted by Thorson, P., in
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.). At p. 159, he completes a review of relevant jurisprudence and finds as follows:
+"Thus it is established law that if a person takes the substance of an invention he is guilty of infringement and it does not matter whether he omits a feature that is not essential to it or substitutes an equivalent for it."
+He further concludes that
+"I have no hesitation in finding that the doctrine of equivalency is still effect in Canada and 'available for utilization when the proper circumstances arise'.
+"And I disagree with the submission that the doctrine is antithetical to the modern concept of patent law that claims must be definite and that it is no longer necessary in view of the statutory requirement that an inventor must define his invention. In my opinion, the retention of the doctrine is still necessary to give inventors the protection against infringers to which they are entitled and its abandonment would encourage piracy of inventions by taking their substance and omitting or varying some nonessential feature. (Ibid. at p. 165.)"
+Thus, in determining whether there has been a taking of the substance (or the pith and marrow) of the claimed invention, the first approach would be to determine what the essential features of the claimed invention are. If the alleged infringer has taken these essential features and omitted or substituted an equivalent for the unessential features of the claimed invention, there is infringement. However, if the alleged infringer has omitted or substituted even one feature which is considered essential to the claimed invention, there is no infringement.
+[24]
+More recently, courts have applied a purposive or realistic construction of the claim language, following the decision of Lord Diplock of the House of Lords in
+ <FRAGMENT_SUPPRESSED>  the single question, whether there has been a taking of the claimed invention based on a purposive construction of the claims. The test is whether a person skilled in the art would understand that a particular phrase was intended to be applied strictly so as to exclude any variant, even if it could have no effect on the way the invention worked.
+[25]
+ <FRAGMENT_SUPPRESSED>  passage of the <FRAGMENT_SUPPRESSED> decision:
+"My Lords, a patent specification is a unilateral statement by the patentee, in words of his own choosing, addressed to those likely to have a practical interest in the subject matter of his invention (i.e., 'skilled in the art'), by which he informs them what he claims to be the essential features of the new product or process for which the letters patent grant him a monopoly. It is those novel features only that he claims to be essential that constitute the so-called 'pith and marrow' of the claim.
+A patent specification should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge.
+The question in each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked.
+"The question of course, does not arise where the variant would in fact have a material effect upon the way the invention worked. Nor does it arise unless at the date of publication of the specification it would be obvious to the informed reader that this was so. Where it is not obvious, in the light of then-existing knowledge, the reader is entitled to assume that the patentee thought at the time of the specification that he had good reason for limiting his monopoly so strictly and had intended to do so, even though subsequent work by him or others in the field of the invention might show the limitation to have been unnecessary. It is to be answered in the negative only when it would be apparent to any reader skilled in the art that a particular descriptive word or phrase used in a claim cannot have been intended by a patentee, who was also skilled in the art,
+to exclude minor variants which, to the knowledge of both him and the readers to whom the patent was addressed, could have no material effect upon the way in which the invention worked
+." (Emphasis is the Court of Appeal's)
+[26]
+Both approaches seem to require a determination of whether those skilled in the art would understand from reading the claims that it was intended that a particular word or phrase in the claim was regarded as an essential feature of the claimed invention.
+[27]
+In my view, recourse need not be had to the doctrine of equivalents in order to construe the patent at issue herein except in so far as the doctrine adds meaning to the express protection in claims 2 and 6 of obvious chemical equivalent processes. Further, s. 41(1) of the
+Patent Act
+, as it read when the patent was issued, provided express protection for obvious equivalent processes, even if such was not claimed in the patent. Finally, the
+Regulations
+include in the definition of "claim for the medicine itself" claims for the medicine when prepared by the processes claimed or "by their obvious chemical equivalents".
+[28]
+With respect to the meaning of "obvious" in this context, the following statement by Urie, J., in <FRAGMENT_SUPPRESSED> is instructive. Although he was looking at obviousness in terms of a determination of lack of inventiveness, his formulation of the following question is appropriate to the construction of the Lilly Patent. (Ibid. at p. 27.)
+"The question to be answered is whether at the date of invention ... an unimaginative skilled technician, in light of his general knowledge and the literature and information on the subject available to him on that date, would have led directly and without difficulty to [the] invention."
+Novopharm seemed to suggest that I might conclude that the variants in the Fermion process were not obvious on the basis that they were not disclosed in the patent specification, as required by s. 34 of the
+Patent Act
+. Clearly, such a requirement runs contrary both to the broadened protection afforded in s. 41(1) of the
+Act
+and the purpose of the doctrine of equivalents, which imply that obvious variants need not have expressly been set out in the disclosure.
+[29]
+With this jurisprudence in mind, I will now turn to an evaluation of the evidence before me in order to determine whether, in the circumstances of this case, Lilly has established, on a balance of probabilities, that the allegation of Novopharm is not justified because the Fermion process is an "obvious chemical equivalent" of the processes claimed in the Lilly Patent. As discussed above, in my view claims 1, 2, 5 and 6, claim protection for three steps in the process of preparing fluoxetine hydrochloride: (Affidavit of Dr. Fallis, at pp. 369 and 378 and cross-examination of Dr. Corey, Motion Record, vol. II, Tab 17, at pp. 129-130)
+1. Formation of an ether linkage: This step involves reacting N,N-dimethyl 3-phenyl-3-chloropropylamine with para-trifluoromethylphenol to produce a Carbon-Oxygen-Carbon bond.
+2. Demethylating: This step involves the removal of a methyl group from the compound which had been functioning as a protecting group during earlier steps in the process.
+3. Salt formation: This step involves the formation of the hydrochloride salt.
+Both of the Novopharm's experts are also in agreement with this characterization of the claimed process. (Cross-examination of Dr. Hendrickson, Motion Record, vol. IV, Tab 47, at pp. 787-790, and cross-examination of Dr. McClelland, Motion Record, vol. IV, Tab 43, at p. 684.) No further mention need be made to the salt formation step since both parties were in agreement that both processes formed the hydrochloride salt in the same manner.
+[30]
+In my view, based upon my appreciation of the expert evidence before me, it is the formation of the chemical compound fluoxetine hydrochloride which is the substance of the invention and it is the ether formation step that is the most important part of the process claimed. (Affidavit of Dr. Corey, Motion Record, vol. II, Tab 13, at pp. 100-101.) For the purpose of this proceeding, the "pith and marrow" of the claim is the formation of fluoxetine hydrochloride, which has been described as a pioneering invention which has revolutionized the treatment of depression. (Second affidavit of Dr. Schmiegel, Motion Record, vol. II, Tab 18, at p. 206.) Each of the claimed steps has as its ultimate objective the formation of the chemical compound fluoxetine hydrochloride and each performs a particular function in that process. In determining whether any variant between the steps in the Lilly claimed process and the Fermion process amounts to "an obvious chemical equivalent" I must keep in mind the purpose of the step and the function it fulfils in the overall process.
+[31]
+With respect to the ether formation step, the process claimed has been characterized as a Williamson ether synthesis, a well-known type of reaction which involves the nucleophilic substitution of an alkyl halide ion by a phenoxide ion. The purpose of the reaction is to form an ether linkage (-C-O-C-). In the Lilly claimed process, the ether linkage is formed by reacting a hydroxyl (-OH) with a chlorine compound (-Cl). (Affidavit of Dr. Morisson, Motion Record, vol. III, Tab 21, at pp. 302-303.) Novopharm maintains that the ether formation step in the Fermion process is not a Williamson synthesis, that an aryl halide ion is substituted by an alkoxide ion in the nucleophilic substitution, and that the chemical bonds broken and made during both reactions are different. (Cross-examination of Dr. Hendrickson at pp. 793, 805, 872-873, 879-881, and cross-examination of Dr. McClelland at pp. 666-668.)
+[32]
+I am satisfied, on the basis of the evidence before me and in the circumstances of this proceeding, that the ether formation process employed in the Fermion process is an obvious chemical equivalent to that claimed in the Lilly Patent. The purpose of both reactions is the formation of a -C-O-C- bond. Both the hydroxyl and the chlorine compounds are present in the reaction, but their placement is reversed. In both reactions the hydroxyl is part of the attacking group and the chlorine is part of the leaving group. (Second affidavit of Dr. Schmeigel, at pp. 208-210.) I am in agreement with Lilly's experts that the ether formation step in the Fermion process is a Williamson synthesis and that this alternative mechanism was sufficiently known at the time of the issuance of the patent as to be "obvious". Specifically, the two alternate reactions are set out and described in a chapter of
+Organic Chemistry
+(R.T. Morrison & R.N. Boyd, 2nd Ed. (Boston: Allyn and Bacon Inc., 1966), at pp. 562-565. See also Second Affidavit of Dr. Fallis, at p. 456), the leading introductory undergraduate textbook during the 1970's. This textbook makes it clear that at the time that the patent was issued there were two alternative methods of making an ether linkage using the Williamson synthesis: using either an alkyl halide ion or an aryl halide ion. With respect to the bonds broken and made by both reactions, Novopharm's expert, Dr. Hendrickson, initially indicated that the bonds broken in both processes had totally different properties (cross-examination of Dr. Hendrickson, at pp. 879-881), but upon further cross-examination he confirmed that the bonds broken and made were in fact the same. (Ibid. at pp. 795-799.)
+[33]
+Because of my conclusion regarding the ether formation step, it is not necessary to consider either the differences between the two processes with respect to demethylation or the different ordering of the steps in both processes. This is because a careful reading of claim 1 indicates that the demethylation process is optional and because the ordering of the steps is a direct consequence of the compound used as a protecting group (cross-examination of Dr. Corey, at pp. 181-183, 199-200), not an essential component of the claim. The Lilly process as claimed refers to the second step as "demethylating" because the amino protecting group used in the formation of the propylamine (not a claimed step) is a methyl. The Fermion process uses a benzyl group to perform the same function. In both processes, the protecting group must be removed in order to form fluoxetine hydrochloride. On the basis of the evidence before me, I am satisfied that the substitution of a benzyl group for the methyl group is an obvious chemical equivalent. Both groups serve the same function in the process by temporarily masking a reactive site to prevent an unwanted reaction and both are removed once they have served this function. Also, both the methyl and the benzyl groups were well-known types of amino protecting groups at the time the patent was issued. (Affidavit of Dr. Corey, at pp. 102-103; Affidavit of Dr. Fallis, at pp. 382-383; Second Affidavit of Dr. Schmeigel, at p. 210; and cross-examination of Dr. Schmiegel, at p. 295.)
+[34]
+With respect to the order of the steps in both process, I am not persuaded that altering or reversing the steps will avoid infringement if, as I have concluded, Novopharm takes the substance of the invention, the chemical compound fluoxetine hydrochloride, through a process which is substantially Lilly's process. (
+ <FRAGMENT_SUPPRESSED>  (T.D.), at p. 293.)
+Conclusion
+[35]
+I have no hesitation in reaching the conclusion that, on the basis of such facts as have been assumed or proven in these proceedings, the allegations that the patent would not be infringed by the respondent are not justified and accordingly the application for judicial review is allowed and an order of prohibition is granted.
+Application allowed.
+Editor: Gary W. McLaughlin/nmg
+Footnotes
+1.	While the originating Notice of Motion filed in this proceeding sought an order of prohibition for the 10 mg and 20 mg capsules and 20 mg/5 mL oral suspension of fluoxetine hydrochloride, Novopharm refers only to the 20 mg capsules in its Notice of Allegation and, as such, it is only the 20 mg capsules which are the subject of this proceeding.
+2.	Motion Record, vol. I, Tab 8. I would like to note at this point that the respondent did not provide a detailed statement of the legal and factual basis for its allegations as required by s. 5(3)(a). This was not an issue before me, largely because the respondent filed evidence in this proceeding regarding the process used by its supplier. I would note further that no allegation was made as to the validity of the patent.
+3.	Section 41(1) read as follows:
+"(1) in the case of inventions relating to substances prepared or produced by chemical processes and intended for food or medicine, the specification shall not include claims for the substance itself except when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents."
+[End of document]

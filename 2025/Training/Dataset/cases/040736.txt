@@ -1,0 +1,172 @@
+I. INTRODUCTION
+[1]
+Phelan, J.
+: Apotex Inc. (Apotex), a generic pharmaceutical manufacturer, seeks judicial review of a decision by the Minister of Health (Minister) to refuse to issue a Notice of Compliance (NOC) for Apotex's version of aspirin.
+[2]
+More specifically, the NOC application, which - if granted - would permit the sale of a drug, dealt with Apotex's Abbreviated New Drug Submission (ANDS) for its acetylsalicylic acid (ASA) 81 mg enteric-coated tablets (Apo-ASA).
+[3]
+The relief Apotex initially sought was a mandamus order to issue a NOC; a relief which it conceded was not available. It revised its relief sought to the following:
+"
+Remedy
+"In the alternative, an order in the nature of mandamus compelling the Minister
+to consider the safety and efficacy of the Apo-ASA submission without restricting such consideration to the mere application of the standards for bioequivalence set out in the Report 'B' Guidelines and
+to provide Apotex an intelligible explanation of why the ANDS is not sufficient to demonstrate Apo-ASA to be safe or why the ANDS is not sufficient to demonstrate Apo-ASA to be effective, and compelling the Minister to,
+or in the alternative compelling the Minister to consider whether to
+, thereafter submit any issue still in dispute to an Appeal Panel pursuant to the Minister's Appeal Procedures and the agreement between the Minister and Apotex dated May 24, 2005."
+II. BACKGROUND
+[4]
+ASA, or aspirin, has been available as a medicine in Canada for several decades and is commonly available over the counter in strengths of 325 and 650 mg as well as 80 or 81 mg for paediatric use.
+[5]
+In Apotex's ANDS filing, it included both a fasted and a fed bioequivalence study, as required in the Report B Guidelines (Guidelines). In a bioequivalence study, the new drug is measured against a comparator or reference drug - which, in this case, was Bayer ASA 81 mg enteric-coated tablets (B-ASA).
+[6]
+Apotex filed an ANDS for its Apo-ASA with the Therapeutic Products Directorate (TPD).
+[7]
+Apotex's fasted study met the Minister's bioequivalence standards. However, the fed study included two subjects for which the data did not meet the Minister's standards. The results for these two subjects were outside the range of deviation established by the Guidelines, e.g. 80-125% of the AUC (area under the curve).
+[8]
+It was Apotex's position that the reference drug was defective and that this was the reason for the difference between Apo-ASA and B-ASA. The Apo-ASA delivered more of the drug to the subject than did the B-ASA.
+[9]
+As a result of Apotex's position, it excluded the results from these two subjects from the data analysis when submitting its ANDS.
+[10]
+The TPD issued a Notice of Non-Compliance (NON) on January 26, 2007, indicating, along with some minor deficiencies, the major deficiency of the data exclusion in the fed study. The minor deficiencies were resolved prior to this hearing, leaving the issue in dispute: the problem of the fed study and the Minister's refusal to accept Apotex's position.
+[11]
+Apotex's response to the NON was to repeat its position regarding the B-ASA reference drug. It also claimed that the Grubbs test (an analysis method) for outliers supported the exclusion of the problematic data. However, it recognized that another analysis method provided a different perspective in that it did not identify the two excluded subjects' data as outliers.
+[12]
+Apotex also submitted an expert opinion that the apparent lack of bioequivalence could be attributed to the occasional failure of the reference drug.
+[13]
+On October 5, 2007, the TPD issued a NON Withdrawal letter (NONW) which had the effect of considering Apotex's ANDS withdrawn without prejudice to its right to re-file.
+[14]
+Apotex then asked for a reconsideration in which it asserted that its product was safe and that a failure to prove bioequivalence was not fatal to an application.
+[15]
+On January 15, 2008, TPD's Director General informed Apotex that the Office of Science had completed its review and that the Director General confirmed that the NONW was upheld.
+[16]
+Thereafter there was a series of communications in which Apotex continued to explain why the NOC should be issued. The Minister responded once confirming that no NOC would be issued and otherwise did not respond to further entreaties.
+[17]
+The crux of the Minister's position was set forth in the January 26, 2007 NON:
+"Current TPD practice does not allow for the exclusion of data from the statistical analysis without a valid physiological or clinical justification. Further, the justification provided for the exclusion of data from subject 02 and 23 due to a purported product failure is not acceptable."
+The NON concluded that the standards for bioequivalence had not been proven and as such the safety and efficacy of the Apo-ASA had not been proven either. Lastly, the NON specified that Apotex could conduct a second comparative bioavailability (bioequivalency) study but the results thereof would be combined with the existing study.
+[18]
+In the subsequent NONW, the TPD set out its concern that Apotex's product caused the non-equivalence due to its concentration of SA and that there was no failure of the reference product. The NONW also varied the statement made in the NON by permitting a new study to replace the existing study, rather than necessitating the combination of the two results.
+[19]
+The Minister's letter of February 11, 2008 closed off further debate in confirming that full consideration had been given, that the decision was consistent with TPD policy, and consequently no NOC would be issued based on the existing submitted data.
+[20]
+Apotex raises three issues in this judicial review:
+a. Whether the Minister fettered his discretion by rigidly following its Guidelines;
+b. Whether there were no intelligible reasons for the Minister's decision that the product was not safe and effective; and
+c. Whether there was unfairness in the system used by the Minister, particularly as there was a legitimate expectation of improvement and fair treatment in the system as well as of an external appeal, all of which is said to flow from a Settlement Agreement.
+III. ANALYSIS
+A. Standard of Review
+[21]
+The real issue in dispute is the decision that the ANDS did not have enough data to satisfy the Minister that Apo-ASA was safe and effective. This is a largely factual determination by an expert body and therefore is reviewable on a standard of reasonableness (
+ <FRAGMENT_SUPPRESSED> ).
+[22]
+The issues of intelligibility of the reasons and of legitimate expectation are matters of fairness. As such, they are issues determined either outside the realm of a standard of review analysis or are subject to a correctness standard (see <FRAGMENT_SUPPRESSED> , above, and
+ <FRAGMENT_SUPPRESSED> ).
+B. Fettering Discretion
+[23]
+The regulatory scheme governing NOCs is saturated with Ministerial discretion. The key provision is C.08.002(1) of the
+Food and Drug Regulations
+(
+FDA Regs
+):
+"C.08.002(1) No person shall sell or advertise a new drug unless
+(a) the manufacturer of the new drug has filed with the Minister a new drug submission or an abbreviated new drug submission relating to the new drug
+that is satisfactory to the Minister
+;
+(b) the Minister has issued, pursuant to section C.08.004, a notice of compliance to the manufacturer of the new drug in respect of the new drug submission or abbreviated new drug submission;
+(c) the notice of compliance in respect of the submission has not been suspended pursuant to section C.08.006; and
+(d) the manufacturer of the new drug has submitted to the Minister specimens of the final version of any labels, including package inserts, product brochures and file cards, intended for use in connection with that new drug, and a statement setting out the proposed date on which those labels will first be used."
+"C.08.002(1) Il est interdit de vendre ou d'annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies:
+a) le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle ou une présentation abrégée de drogue nouvelle
+que celui-ci juge acceptable
+;
+b) le ministre a, aux termes de l'article C.08.004, délivré au fabricant de la drogue nouvelle un avis de conformité relativement à la présentation de drogue nouvelle ou à la présentation abrégée de drogue nouvelle;
+c) l'avis de conformité relatif à la présentation n'a pas été suspendu aux termes de l'article C.08.006;
+d) le fabricant de la drogue nouvelle a présenté au ministre, sous leur forme définitive, des échantillons des étiquettes-y compris toute notice jointe à l'emballage, tout dépliant et toute fiche sur le produit-destinées à être utilisées pour la drogue nouvelle, ainsi qu'une déclaration indiquant la date à laquelle il est prévu de commencer à utiliser ces étiquettes." (Emphasis added)
+[24]
+FDA Reg C.08.004(1) provides that where a new drug submission or ANDS meets the above regulation, the Minister shall issue a NOC. If it does not meet the above regulation, the Minister shall notify the manufacturer that it does not comply.
+[25]
+Lastly, FDA Reg C.08.002.1 provides that an ANDS is to contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the drug. That information and material is to include evidence of comparative studies and, where the Minister considers it necessary, bioavailability studies showing the bioequivalence with a Canadian reference product.
+[26]
+The precise wording of the applicable regulation is:
+"C.08.002.1(1) A manufacturer of a new drug may file an abbreviated new drug submission for the new drug where, in comparison with a Canadian reference product,
+(a) the new drug is the pharmaceutical equivalent of the Canadian reference product;
+(b) the new drug is bioequivalent with the Canadian reference product, based on the pharmaceutical and, where the Minister considers it necessary, bioavailability characteristics;
+(c) the route of administration of the new drug is the same as that of the Canadian reference product; and
+(d) the conditions of use for the new drug fall within the conditions of use for the Canadian reference product.
+"(2) An abbreviated new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
+(a) the information and material described in paragraphs C.08.002(2)(a) to (f) and (j) to (l);
+(b) information identifying the Canadian reference product used in any comparative studies conducted in connection with the submission;
+(c) evidence from the comparative studies conducted in connection with the submission that the new drug is
+(i) the pharmaceutical equivalent of the Canadian reference product, and
+(ii) where the Minister considers it necessary on the basis of the pharmaceutical and, where applicable, bioavailability characteristics of the new drug, bioequivalent with the Canadian reference product as demonstrated using bioavailability studies, pharmacodynamic studies or clinical studies;
+(d) evidence that all test batches of the new drug used in any studies conducted in connection with the submission were manufactured and controlled in a manner that is representative of market production; and
+(e) for a drug intended for administration to food-producing animals, sufficient information to confirm that the withdrawal period is identical to that of the Canadian reference product."
+"C.08.002.1(1) Le fabricant d'une drogue nouvelle peut déposer à l'égard de celle-ci une présentation abrégée de drogue nouvelle si, par comparaison à un produit de référence canadien:
+a) la drogue nouvelle est un équivalent pharmaceutique du produit de référence canadien;
+b) elle est bioéquivalente au produit de référence canadien d'après les caractéristiques pharmaceutiques et, si le ministre l'estime nécessaire, d'après les caractéristiques en matière de biodisponibilité;
+c) la voie d'administration de la drogue nouvelle est identique à celle du produit de référence canadien;
+d) les conditions thérapeutiques relatives à la drogue nouvelle figurent parmi celles qui s'appliquent au produit de référence canadien.
+"(2) La présentation abrégée de drogue nouvelle doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d'évaluer l'innocuité et l'efficacité de la drogue nouvelle, notamment:
+a) les renseignements et le matériel visés aux alinéas C.08.002(2)a) à f) et j) à l);
+b) les renseignements permettant d'identifier le produit de référence canadien utilisé pour les études comparatives menées dans le cadre de la présentation;
+c) les éléments de preuve, provenant des études comparatives menées dans le cadre de la présentation, établissant que la drogue nouvelle:
+(i) d'une part, est un équivalent pharmaceutique du produit de référence canadien,
+(ii) d'autre part, si le ministre l'estime nécessaire d'après les caractéristiques pharmaceutiques et, le cas échéant, d'après les caractéristiques en matière de biodisponibilité de celle-ci, est bioéquivalente au produit de référence canadien selon les résultats des études en matière de biodisponibilité, des études pharmacodynamiques ou des études cliniques;
+d) les éléments de preuve établissant que les lots d'essai de la drogue nouvelle ayant servi aux études menées dans le cadre de la présentation ont été fabriqués et contrôlés d'une manière représentative de la production destinée au commerce;
+e) dans le cas d'une drogue destinée à être administrée à des animaux producteurs de denrées alimentaires, les renseignements permettant de confirmer que le délai d'attente est identique à celui du produit de référence canadien."
+[27]
+The FDA Regs explicitly require proof of a drug's safety and efficacy to the Minister's satisfaction (on a reasonable basis). In order to assist manufacturers and sponsors in satisfying the Minister, the department has issued the Report B Guidelines which deal with the methodology for bioequivalence studies for enteric-coated drugs.
+[28]
+The Guidelines state that alternative approaches may be acceptable but should be discussed in advance. Further, the foreword warns that Health Canada reserves the right to require more and other information not prescribed in the Guidelines to allow the department to adequately assess the "safety, efficacy or quality of a therapeutic product".
+[29]
+In sum, the Guidelines set out the general approach to establishing bioequivalency, they allow for exceptions where justified, and they warn that there is no assurance of approval upon filing of the requestor's submissions. That flexibility is consistent with the general public law principle that guidelines, policies, or similar non-legislated documents are permissible (even encouraged) but that they must allow for exceptions where justified.
+[30]
+The Minister's analysis clearly stated its concerns with the Applicant's explanation for the bioequivalence issue. It assessed the evidence and relied on the recommendations of scientific experts.
+[31]
+The Applicant was given every opportunity, including a reconsideration, to submit new or better evidence and submissions. It chose to merely reiterate the arguments it had already made. Repetition did not and could not make the problem disappear.
+[32]
+The process followed showed that the Minister was not blindly following a policy for the mere sake of doing so. The process showed that the Minister remained open to new and better evidence.
+[33]
+It is important to bear in mind that the Guidelines represent an indication of what type of evidence will satisfy the "Minister's opinion". Any departure therefrom must be justified.
+[34]
+The Guidelines represent what the Minister is prepared to support by issuing a NOC. It is the Minister who bears the responsibility for approval and is likely to be held legally responsible (in whole or in part) in the case that harm results from drugs approved despite a departure from established criteria.
+[35]
+It is not unreasonable, nor is it intransigence, for the Minister to demand compliance with the Guidelines in the absence of a clear indication that an alternative approach is justified.
+[36]
+Apotex's reliance on Justice Lemieux's decision in
+ <FRAGMENT_SUPPRESSED>  for the limitation/prohibition on non-statutory instruments is misplaced. In <FRAGMENT_SUPPRESSED> , the applicable policy failed to reflect Parliament's intention to balance unproven science with humanitarian needs in the use of experimental drugs. The Guidelines in this case are not designed, nor are they required, to strike this type of public policy balance. These Guidelines are principally scientific bench marks with ranges of acceptable compliance.
+[37]
+Therefore, the Minister's decision not to accept Apotex's demand for a NOC on the basis of non-compliant data was not unreasonable. The record shows that the Minister applied the Guideline requirements in a manner which recognized a possibility of exceptions; but was not satisfied, on reasonable grounds, that an exception should be granted.
+[38]
+The Minister's decision was based on a lack of evidence presented, and not on an unreasonable refusal to vary the bioequivalence guidelines.
+C. Absence of Intelligible Reasons
+[39]
+The Minister's decision included lengthy and detailed reason for his concerns about the bioequivalence data. The detailed notes of the reviewer are found at page 1155 of the Applicant's Record.
+[40]
+The Minister did not accept Apotex's bare statement that the failure of the bioequivalence data was the result of a defect in the reference drug. While the Minister did not reject the claim as impossible, there was insufficient evidence to satisfy him. This speaks to the reasonableness of the decision and to its intelligibility.
+[41]
+The Minister highlighted to Apotex what his concerns were and what data would be necessary in order to satisfy the Minister that the drug was safe and effective. There is no basis for a claim that the Minister did not provide intelligible reasons.
+[42]
+In the end, one is left with a difference of opinion between the Minister (and his expert staff) and Apotex. It is not the Court's role, in this instance, to resolve that difference. It is sufficient that the Minister's opinion or lack of satisfaction is rationally based and adequately explained. It was.
+D. Breach of Procedural Fairness
+[43]
+Apotex's submissions on this point are that, as a result of a settlement of previous litigation, it had a commitment from the Minister for a better and fairer system for resolving differences of scientific opinion - including a better articulation of the Minister's rationale, and the availability of a scientific panel to resolve disputes.
+[44]
+The evidentiary basis of this claim included part of the settlement agreement, as well as the procedure followed in this case. At issue is whether a new policy which the Minister set complies with the settlement.
+[45]
+Firstly, if there has been a breach of the terms of the settlement, that is a matter of contract which is more properly the subject of an action in this Court. Secondly, there is a lack of an evidentiary base upon which to make any determination of non-compliance with an agreement, much less any conclusion as to the legal ramifications flowing from alleged non-compliance.
+[46]
+Viewing this matter as a whole, I can find no procedural unfairness in the process followed. The Applicant knew what the issues were, had a full opportunity to address those issues, and received a clearly reasoned expression of the Minister's opinion (which was formed on reasonable grounds).
+[47]
+Apotex also complained that the witness put forward by the Minister was inadequate in that she could not answer or refused to answer questions. Apotex asks that an adverse inference be drawn against the Minister based on this.
+[48]
+The witness in question was a "file" witness presented to prove the existence of documents in the Respondent's possession. To ask such a witness technical and scientific questions was knowingly futile. If Apotex wished for a better witness or for real answers to the technical and scientific questions, it took no steps to accomplish this. This is not the basis for drawing an adverse inference.
+IV. CONCLUSION
+[49]
+For all these reasons, this judicial review is dismissed with costs.
+JUDGMENT
+[50]
+THIS COURT ORDERS AND ADJUDGES that this application for judicial review is dismissed with costs.
+Application dismissed.
+Editor: Giovanni A. Merlini/klf
+[End of document]

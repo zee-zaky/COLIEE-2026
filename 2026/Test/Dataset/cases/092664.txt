@@ -1,0 +1,370 @@
+Overview
+[1]
+Aalto, Prothonotary
+: This motion has brought by Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) pursuant to section 6(5)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+(the "
+Regulations
+"). It raises a unique issue which appears not to have been decided in any prior proceeding under the
+Regulations
+. Simply put, the issue is whether a generic manufacturer has to respond to claims in a patent which changed as the result of a disclaimer by the innovator subsequent to the generic's notice of allegation and prior to the commencement of a notice of application to prohibit the issuance of a notice of compliance. Using a football analogy, does the field goal count if the goalposts are moved after the ball is in the air?
+[2]
+In this case, Apotex delivered a Notice of Allegation ("NOA") in respect of Patent No. 2,095,523 (the "'523 Patent"). The NOA addressed the claim set of the '523 Patent as they then existed which was a set of 13 original claims. Subsequently, the Applicants, Janssen-Ortho Inc. and Ortho-McNeil Pharmaceutical, Inc. (collectively "Janssen") requested a disclaimer in respect of
+all
+13 original claims of the '523 Patent and requested that they be replaced with a new claim set. The disclaimer with respect to the '523 Patent was filed and recorded on April 22, 2008. On April 25, 2008 this Notice of Application was commenced. The Application does not deal with the allegations contained in the NOA but asserts that Apotex's NOA is deficient because it does not address the claim set of the '523 Patent but which obviously did not exist at the time of the NOA.
+[3]
+These unusual facts raise the question of whether or not this application for prohibition is bereft of any chance of success. At the time this motion was initially argued there was a dearth of modern authority dealing with disclaimers. Subsequent to the hearing, both Justice Hughes (
+ <FRAGMENT_SUPPRESSED> ) and Justice Martineau (
+ <FRAGMENT_SUPPRESSED> ) have had occasion to consider the effect of disclaimers in different contexts. The parties brought these decisions to the attention of the Court and were invited to make further submissions and did so.
+Chronology of Events
+[4]
+The following chronology puts this unique set of circumstances in perspective:
+September 6, 1991 - Filing date of the United States application which was issued as the '691 US Patent. This patent has two components and requested a monopoly over a "Pharmaceutical composition comprising a tramadol material and acetaminophen, wherein the ratio of the tramadol material to acetaminophen a weight ratio from about 1:1 to about 1:1600"
+September 3, 1992 - Canadian filing date for the '523 Patent. This Patent contains a claim set of 13 original claims. It requests a Canadian monopoly over any "Pharaceutical composition comprising a tramadol material and acetaminophen"
+January 20, 2004 - Request for a reissuance of the '691 U.S. Patent. This request was based upon the patentee's acknowledgement that the claims as originally drafted covered "more or less than the Patentee had the right to claim in the Patent". The reissued claims were narrowed by replacing the words "comprising" with the words "comprising an active ingredient that consists essentially of"
+June 22, 2004 - Issuance date of the Canadian '523 Patent. The claim set included the 13 original claims
+February 1, 2008 - Apotex files its ANDS
+March 11, 2008 - Apotex delivers its NOA in respect of the '523 Patent. The NOA addresses the claims set of the '523 Patent as they then existed. In its NOA Apotex alleges, inter alia, anticipation and claims broader than covered by the '523 Patent
+April 18, 2008 - Janssen requests a disclaimer in respect of the '523 Patent. The disclaimer requests that the entire original claims set be disclaimed and be replaced with a new claim set. Further, Janssen requests that the disclaimer be recorded by April 24, 2008, which was the day before the 45 day period provided by the
+Regulations
+in which to commence an application for prohibition
+April 22, 2008 - Disclaimer in respect of the '523 Patent is filed and recorded. The original 13 claims have been disclaimed and replaced with 13 new claims
+April 25, 2008 - Janssen issued this Notice of Application in respect of Apotex's NOA
+Overview of Motion and Burden of Proof
+[5]
+Section 6(5)(b) of the
+Regulations
+permits a "second person" (in this case, Apotex) to bring a motion to dismiss a prohibition application on the basis that it is "redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process in respect of one or more patents."
+[6]
+The test to be applied, discussed in greater detail below, is that Apotex must demonstrate that the application is "clearly futile" or that it is "plain and obvious" that the proceeding cannot succeed (see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 358 (T.D.), at para. 30).
+[7]
+The Federal Court has held that a motion under section 6(5)(b) of the
+Regulations
+is an "extraordinary remedy that should only be granted in limited circumstances" (see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 21 (F.C. Protho.), affd. [2007] F.T.R. Uned. 331; 58 C.P.R.(4th) 177 (F.C.) at par. 10 (T.D.)). The moving party has a heavy burden as is discussed further below. However, in my view of these unusual circumstances, for the reasons that follow, Apotex has met that burden and this is one of those extraordinary cases where the application should be struck.
+[8]
+Apotex argues that it has complied with all of the provisions of the
+Regulations
+. They say that because they have made allegations of non-infringement and invalidity in their NOA, Janssen cannot now succeed in this application as it has not opposed any of Apotex's allegations of invalidity or non-infringement in the notice of application. Thus, the continuation of this proceeding constitutes an abuse of process and is frivolous, vexatious and a waste of judicial resources.
+[9]
+Janssen, in turn, argues that as Apotex has not made any allegations of invalidity or infingment in respect of the '523 Patent, as disclaimed, Apotex must commence the process over again with a new NOA respecting the revised claims resulting from the disclaimer.
+[10]
+Janssen argues that as section 48 of the
+Patent
+Act
+is a recognized statutory mechanism whereby a patentee may amend a patent to claim less than that was claimed in the original patent. Thus, in order to succeed, Apotex must address the new claims. Not having done so, Janssen says that Apotex cannot resist the prohibition order.
+Issues
+[11]
+This unique circumstance raises a number of issues:
+i) What is the effect of an NOA which deals with the claims of a patent at one point of time and does not address subsequent claims resulting from a disclaimer?
+ii) Is Apotex's NOA only obliged to address the '523 patent as it stood at the time that it filed its ANDS or at the latest, at the time that it served its NOA?
+iii) Are the disclaimers of patent rights prospective in their effect?
+iv) Does section 48(4) of the
+Patent
+Act
+apply to applications?
+v) Does the "frozen register" provision of the regulations apply to the Apotex NOA?
+vi) Is Apotex required to address the '523 Patent as disclaimed?
+Law and Discussion
+[12]
+The '523 Patent is described in claim 1 as a pharmaceutical composition comprising a tramadol material and acetaminophen. It is prescribed for the short term management of acute pain. Each of the claims of the '523 Patent before disclaimer, were either directly or indirectly dependent on claim 1.
+[13]
+In its NOA, Apotex alleged that its product would not infringe the claims of the '523 Patent and that, in any event, the '523 Patent was invalid. The invalidity allegation was founded on the claims of the '523 Patent being overly broad. Apotex also alleged obviousness and anticipation.
+[14]
+Apotex's NOA was and could only be framed in respect of the '523 Patent as it existed on March 11, 2008, the date of the NOA. The disclaimer for '523 Patent was filed on April 18, 2008 by Janssen with the specific request that the disclaimer be recorded by the Commissioner of Patents on or before April 24, 2008, the day before the deadline for bringing this application in response to the NOA.
+The Disclaimer
+[15]
+Janssen's disclaimer stated that the patentee had, by mistake, accident or inadvertence:
+"(a) made the specification too broad, claiming more than that of which the patentee or the person through whom the patentee claims was the inventor;
+"(b) in the specification, claimed that the patentee or the person through whom the patentee claims was the inventor of any material or substantial part of the invention patented of which the patentee was not the inventor, and to which the patentee had no lawful right."
+[16]
+Janssen disclaimed "the entirety of the subject matter of claims 1 to 13, with the exception of the subject matter shown in the following claim set." The new claim 1 was revised to read:
+"1. A pharmaceutical composition comprising a tremadol material and acetaminophen
+as its sole active ingredient, wherein the ratio of the tremadol material to acetaminophen is a weight ratio from about 1:1 to about 1:1600
+." (underlining added)
+Apotex's NOA
+[17]
+As is obvious, as Apotex's NOA pre-dates the disclaimer issued by Janssen, the NOA could not possibly have dealt with the claims of '523 Patent as disclaimed.
+[18]
+The NOA defines and limits the issues between the parties in any resulting notice of application for a prohibition order. While the NOA is not a pleading per se it nonetheless defines the scope of the issues over the notice of application. As noted in the cases it "casts a long shadow" over the issues. The Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 272 (F.C.A.) observed:
+"[19] The detailed statement is not a pleading per se but represent a pivotal step in the process leading up to the issuance of an NOC. By taking that step the second person [here Apotex] puts the patentee [here Janssen]
+on notice of the grounds on which he or she considers that the making, constructing, using or selling of the drug will not infringe the second person's patent rights during the unexpired term of the patent.
+In theory, this procedure ought to enable the patentee to confidently decide within the 45-day period time limit whether to resist the issuance of an NOC. It is to be noted that, subject to business exigencies, the second person had no obligation to make its allegation and provide its detailed statement by an imposed deadline. As much time as the second person deems necessary is available under the scheme of the
+Regulations
+.
+"[20] While it is true that the detailed statement is not filed in a section 6 proceeding, it nevertheless casts a long shadow over that proceeding. Indeed, it is upon the content of that statement that the patentee must decide whether or not to commence a section 6 proceeding and to assess its chances of success or failure. In this sense the allegation and detailed statement assist in an important way in framing the issues and facts to be determined in the section 6 proceedings for in seeking prohibition the patentee is obliged to show that, contrary to what is stated in the detailed statement, the patentee's patent right will be infringed if an NOC for the drug is issued prior to the expiration of the listed patent." (Emphasis added)
+[19]
+It defies logic that Apotex should have to respond to "claims" that were not in existence at the time of either its ANDS or its NOA. Janssen was required to respond to the NOA by commencing a prohibition application. For whatever tactical reasons, it chose to disclaim the claims and then seek a prohibition order. From a simple policy perspective and a consideration of the way in which the
+Regulations
+operate, an innovator should not be able to change the landscape after the patent has been put in play by the NOA.
+[20]
+The allegations in the NOA do not relate to the patent as disclaimed. It is effectively a new patent. It is no answer to say that Apotex should start the process all over again. The rug has been pulled out from under Apotex in a tactical move by Janssen which decided to disclaim all the claims in the '523 Patent. Janssen made the disclaimer on the basis that the '523 Patent claimed more than what was invented and in this application alleges that the Apotex NOA "has no legal effect" because it does not address the '523 Patent as disclaimed. This argument does not withstand scrutiny for the reasons discussed hereafter.
+Frozen Register
+[21]
+Support for the conclusion that Apotex need not address the claims as disclaimed can be found in the "frozen register" concept. It is to be noted that a generic manufacturer, such as Apotex, when filing a submission for an NOC pursuant to section 5 of the
+Regulations
+, is only required to address the patents on the register in respect of the innovative drug as of the filing date. This is often referred to as the "frozen register". In 2006 when the
+Regulations
+were amended the "Regulatory Impact Analysis Statement" accompanying the proposed amendments and published in the
+Canada Gazette
+Part II, Vol. 140, No. 21 described the frozen register requirement as follows:
+"These amendments are intended to restore the balanced policy underlying the
+Patented Medicines (Notice of Compliance) Regulations
+('
+PM (NOC) Regulations
+') by reaffirming the rules for listing patents on the register and clarifying when listed patents must be addressed.
+. . . . .
+"Under the amendments to section 5 a generic manufacturer that files a submission or supplement for a NOC in respect of a generic version of an innovative drug is only required to address the patents on the register in respect of the innovative drug as of that filing date. Patents added to the register thereafter will not give rise to any such requirement. The register will thus be 'frozen' in respect of that generic manufacturer's regulatory submission. Subsequent submissions originating from additional generic manufacturers would each benefit from the same freezing mechanism, as of their respective dates of filing with the Minister. As a corollary to this frozen register concept, generic manufacturers will no longer be permitted to initiate the process for challenging a patent under the
+PM (NOC) Regulations
+(i.e. through the service of a notice of allegation - 'NOA') until that same filing has occurred. The combined effect of these two new rules will significantly curtail the incidence of repeat cases, whether due to multiple NOAs on the part of generic manufacturers or multiple patent listings on the part of the innovators."
+[22]
+It is recognized that this explanatory statement is not part of the
+Regulations
+. However, it assists in understanding the concept and policy behind the amendments to the
+Regulations
+as well as the intention of the regulator. It also puts in context the situation that Apotex faced when it delivered its NOA. It was only required to respond to the patent as listed on the register when it filed for its NOC and therefore its NOA was only required to address the claims of the '523 Patent as it existed as of that date. If the generic is confined to the allegations in the NOA, there is no good reason why the innovator whose patent is in issue should not also be confined to those allegations. In my view, the rights of the respective parties crystallized upon the receipt by Janssen of the Apotex NOA. This fits the scheme of the
+Regulations
+.
+Overbroad Patents
+[23]
+It is an admission by Janssen that the '523 Patent as originally issued claims more than what was invented. A patent which claims more than what has been invented can be found to be invalid as being overly broad. Disclaimers may salvage a finding of invalidity of such a patent if it has not been found to be invalid. There is much authority for this proposition.  <FRAGMENT_SUPPRESSED> ; 267 F.T.R. 243 (F.C.), Justice Harrington usefully summarized the principles of patent construction. Number 8 on that list of principles is the following:
+"8. To overclaim is to lose everything. If the inventor overclaims, the court will not broaden the monopoly interest of the 'spirit' thereof. This often, as in this case, results in layers of claims, each limitation serving as a potential safety net so that if the broadest claims fall, the monopoly may be saved in part by the more modest claims."
+[24]
+A more recent example of the effect of an overbroad claim is found in
+ <FRAGMENT_SUPPRESSED>  wherein Justice Hughes summarized the law in this area as follows:
+"[42] A patent which claims more than what was invented or disclosed can be found to be invalid for being overly broad. As Nadon, JA., for the Federal Court of Appeal wrote at paragraph 115 of
+ <FRAGMENT_SUPPRESSED> :
+'115. It is now settled law that a patent which claims more than what was invented or disclosed can be found invalid for being overly broad. As explained in
+Lovell Manufacturing Co. and  <FRAGMENT_SUPPRESSED>  (Ex. Ct.) at p. 66:
+"
+The other attack was that the claims were too wide and that they claimed more than had been invented
+. This repeats the central them to which I have referred, namely, the contention that all that had been invented were the specific wringer constructions described in the specification and that unless the claims were limited in their application to inventions of the said specific constructions they were too wide and, therefore, invalid.
+There is a simple answer to the contention, If the claims read fairly on what has been disclosed and illustrated in the specification and drawings, as they do, they are not wider than the invention.
+The specific wringer constructions described in the specification are simply embodiments or illustrations of the invention. The claims embrace them and might well embrace similar other embodiments or illustrations. There is nothing in any of the specifications that would limit the claims to one of the specific wringer constructions or to all of them."'
+"[43] Thus a claim which is overly broad in a patent that has not yet been adjudged to be invalid may be saved from a finding of invalidity by a Court if a disclaimer is filed but only if filed in a timely way."
+[25]
+Here, it can reasonably be inferred, given the sequence of events, that Janssen was facing a serious risk of having Apotex's allegation of invalidity of the '523 Patent as originally issued declared invalid as being overbroad. Thus, the disclaimer was requested. This leads to consideration of the effect of the disclaimer.
+Are Disclaimers Retrospective or Prospective in Effect?
+[26]
+Until recently there has been a dearth of modern jurisprudence dealing with disclaimers generally and their impact. However, both Justice Hughes (
+Bristol-Myers Squib
+, supra) and Justice Martineau (
+ <FRAGMENT_SUPPRESSED> ) both have examined the impact of disclaimers in these two recent cases. The
+Bristol Myers
+case offers insights which assist in determining this case as it involved a PM (NOC) proceeding. It is discussed in greater detail below.
+[27]
+A key issue during argument was whether disclaimers have prospective or retrospective effect. That they have prospective effect appears to find support in the jurisprudence. It is a logical result. For example, in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 261 (T.D.) a plaintiff had filed a disclaimer prior to the commencement of an action for infringement. The trial judge held that the "net effect of these disclaimers is to exclude the respective claims from 'reading on' the Lynch and the two Andrus patents." The latter reference is to the prior art. The patents as disclaimed were held valid. However, the trial judge accepted the defendant's argument that damages should only flow for the period after the disclaimer. While not specifically stating that the effect of a disclaimer is prospective, the implication of a damage award subsequent to the disclaimer supports the proposition that indeed a disclaimer should be considered to be prospective.
+[28]
+A further case which bears on this issue is
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 417 (F.C.A.) in which the court held that:
+"The other attack on the validity of the disclaimer rests on subsection 48(4) of the
+Act
+, which states in part, '[n]o disclaimer affects any action pending at the time when it is made ...'. The purpose of the subsection has been the subject of judicial comment.  <FRAGMENT_SUPPRESSED>  (P.C.) it was held that the rights and liabilities of the parties to a pending action are to be ascertained on the footing that the party who disclaims can obtain no advantage in the action from having obtained a disclaimer.
+"At first blush, I thought it doubtful whether the word 'action' used in subsection 48(4) of the
+Act
+could embrace proceedings before the Board: see
+ <FRAGMENT_SUPPRESSED> ]. On further refection, I do not believe that the subsections of any assistance to the Board even if I were to conclude otherwise. Subsection 48(4) does not purport to render disclaimers invalid. It merely serves to confirm that a disclaimer cannot have retroactive effect on proceedings previously begun. This accords with what I understand is ICN's position. ICN accepts that the Board will maintain jurisdiction to examine the pricing of Virazole until at least December 6, 1995, the date the disclaimer was filed. At the same time, it asserts that the disclaimer will have the prospective effect of termination the Board's jurisdiction. In my view, this position is consistent with the spirit and intent of subsection 48(4). This leads me to consider the final argument on this issue."
+[29]
+Notably, the Federal Court of Appeal held that subsection 48(4) of the
+Patent
+Act
+cannot have retroactive effect on "proceedings" previously begun.
+[30]
+In further support of the prospective effect of disclaimers, subsection 48(4) of the
+Patent
+Act
+originally contained language to the effect that a disclaimer "shall thereafter be deemed to be part of the original specification." In 1993, as a result of substantial amendments to the
+Patent
+Act
+, this language was removed.
+[31]
+The Judicial Committee of the Privy Council on appeal from the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (P.C.) also considered the effect of disclaimers. In that case the Supreme Court held, in reasons delivered prior to the formal judgment being entered, that the claims of the patent in suit were too broad and hence the claims were invalid. However, the patentee filed a disclaimer limiting the scope of the claims before the formal judgment was entered and sought a rehearing on the basis that the disclaimer limiting the claims validated the claims. The Supreme Court refused to rehear the matter and an appeal was taken to the Privy Council which dismissed the appeal primarily on the ground that the patentee had accepted the true construction of the original claims as found by the Supreme Court and it was not open to appeal against those findings (p. 294). The Privy Council also noted that a patentee ought not to gain a benefit by virtue of the disclaimer. The Privy Council observed:
+"The disclaimer is an unconditional disclaimer; it must necessarily be unconditional. The statute does not contemplate or authorize a contingent disclaimer. As soon as the disclaimer was filed and recorded in the office of the Commissioner, it was made part of the Patent; the only existing Claims are the Claims as amended by virtue of the disclaimer, and the only invention protected by the Letters Patent is the invention a description whereof is contained in the Specification as so amended. In these circumstances the present Appellants, having filed a disclaimer for the purpose of changing the construction which the Supreme Court had declared to be the true construction of the original Claims, must be taken to have finally accepted that construction as being the true construction of those claims; and it is not open to them to appeal successfully against the Court's declaration of that construction ...
+"Their Lordships, however, do feel able to attribute a meaning to the words 'no disclaimer shall affect any action pending at the time when it is made.' These words, they think, must at least have this effect, viz.:-
+that the rights and liabilities of the parties to a pending action are to be ascertained and declared on the footing that the person who disclaims obtains no advantage in the action from his disclaimer. Upon this view the subsection can be of no assistance to the appellants, who in effect ask that the pending action shall be affected (and to their advantage) by the disclaimer.
+" (p. 294) (Emphasis added)
+[32]
+In effect the Privy Council fixed the effective date of the disclaimer as being the date of its filing. On this basis, the disclaimer in this case ought not to benefit Janssen and should take effect prospectively.
+[33]
+In addition, from a policy perspective to give retroactive effect would undermine the certainty and predictability which courts have spoken of in the area of patents. For example, the Supreme Court of Canada has described the patent system as follows [
+Free World Trust v. Électro Santé Inc. et al.
+(2000), 263 N.R. 150 (S.C.C.)]:
+"41. The scope of patent protection must not only be fair, it must be reasonably predictable. A patent is, after all, a public instrument issued under statutory authority which may result in severe financial consequences for its infringement. The scope of its prohibition should be made clear so that members of the public may know where they can go with impunity. As was said in another public law connection by Gonthier, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 639, precision in public enactments is required to 'sufficiently delineate an area of risk'.
+"42. The patent system is designed to advance research and development and to encourage broader economic activity. Achievement of these objectives is undermined however if competitors fear to tread in the vicinity of the patent because its scope lacks a reasonable measure of precision and certainty. A patent of uncertain scope becomes 'a public nuisance' (
+ <FRAGMENT_SUPPRESSED>  (Eng. C.A.), at p. 195). Potential competitors are deterred from working in areas that are not in fact covered by the patent even though costly and protracted litigation (which in the case of patent disputes can be very costly and protracted indeed) might confirm that what the competitors propose to do is entirely lawful. Potential investment is lost or otherwise directed. Competition is 'chilled'. The patent owner is getting more of a monopoly than the public bargained for. There is a high economic cost attached to uncertainty and it is the proper policy of patent law to keep it to a minimum.
+"43. The patent owner, competitors, potential infringers and the public generally are thus entitled to clear and definite rules as to the extent of the monopoly conferred."
+[34]
+In the language of patent law, the claims of a patent are referred to as the "fences" which delineate the extent of the monopoly granted by the patent. If a disclaimer is given a retrospective effect it would create uncertainty and unpredictability as the "fences" could be changed at any time by a disclaimer leaving the public uncertain as to "where they can go with impunity".
+[35]
+A retrospective disclaimer creates an unintended mischief. What would stop any innovator from disclaiming even a minor part of a patent after receiving a NOA in order to make the NOA non-compliant with the
+Regulations
+. The NOA sets the parameters of the prohibition application and thus Janssen ought not to be able to shift those parameters by a disclaimer with a retrospective effect.
+Crystallizing the Date when the Disclaimer is Effective
+[36]
+If disclaimers have a prospective effect at what date do the claims of the patent have to be construed? Subsection 48(4) of the
+Patent
+Act
+provides that a disclaimer does not affect "any action pending at the time it is made, unless there is unreasonable neglect or delay in making it." Janssen made much of the fact that in this case there was no "action" pending and thus Apotex must deal with the claims as disclaimed. Proceedings under the
+Regulations
+are not an "action", but that is not the end of the analysis. The case law as discussed above regarding the prospective nature of disclaimers and based on the analysis of Justice Hughes in
+Bristol-Myers  <FRAGMENT_SUPPRESSED> , requires that a date be established for construing the claims. As noted by Justice Hughes:
+"[48] ... what is the effect of the disclaimer? These proceedings are not an 'action' as spoken of in subsection 48(4) of the
+Patent
+Act
+, supra. These proceedings are not the kind in which the Court may expunge a patent or claims for invalidity. In these proceedings under the
+NOC Regulations
+all that a Court may do is determine whether the allegations made, in this case by Apotex in its Notice of Allegation, are justified.
+"[49] The Commissioner of Patents has no discretion to exercise upon a disclaimer as filed, it must be accepted as is. However the patentee must accept the possibilities afforded by litigation as to the effect of such disclaimer ... .
+"[52] Justice Stone in the Federal Court of Appeal has held that a Notice of Allegation is a document beyond the reach of a Court's jurisdiction. The Court cannot strike such a document as it is not a document filed with the  <FRAGMENT_SUPPRESSED>  (FCA) he wrote at paragraph 6:
+'6. It seems to us that while a notice of allegation does play an important role in the ultimate outcome of litigation of this nature, is not a document by which the judicial review application may be launched under section 6 of the
+Regulations
+. That document was put in as a piece of evidence by the appellants; it originated with the application filed before the Minister. Because it is not a document that was filed with the Court but with the Minister, in our view the notice of allegation is beyond the reach of the Court's jurisdiction in a judicial review proceeding. That being so, the Court, in our opinion, lacks jurisdiction to strike out the notice of allegation.'
+. . . . .
+"[54] Therefore the Court must consider the various possibilities since the Court cannot amend a Notice of Allegation. If the patentee disclaimed certain claims but did not commence proceedings in the court, the generic would get its Notice of Compliance as soon as the 45 day period provide by subsection 7(1)(d) of the
+NOC
+Regulations
+. If the patentee commenced proceedings and the generic did not defend, the patentee would get judgment prohibiting the generic from receiving a Notice of Compliance until the patent expired.
+If a generic wishes to attack the validity of the claims as reformulated by the disclaimer, it cannot revise its Notice of Application since proceedings, as in this case, have already been commenced. Apotex cannot raise new grounds for invalidity nor allege non-infringement since the proceedings in this Court were initiated immediately after the filing of the Disclaimer thus, in effect, locking in the Notice of Allegation.
+"[55]
+The only proper way to approach the matter is to do so in the way that the Privy Council did in BVD
+namely fix a date prior to the disclaimer for the purpose of construing the claims. The Privy Council fixed that date as the date of the Supreme Court decision even though formal judgment had not yet been entered. Here that date must be April 2, 2007, the date that the Notice of Allegation was served ...
+... A disclaimed claim does not disappear if the disclaimer is invalid. One returns to the original claim. In the present proceeding we are dealing with the original claim as it stood as of the date the Notice of Allegation was served." (Emphasis added)
+[37]
+As in
+Canadian Celanese
+and in
+Bristol-Myers Squibb
+the date that is most appropriate to crystallize the claims is as of the date the NOA was delivered by Apotex to Janssen.
+Position of Janssen
+[38]
+Many of Janssen's arguments in support of its position have been dealt with in the discussion above. However, there are several specific points which should be dealt with.
+[39]
+First, Janssen argues that Apotex will not suffer any "hardship" if the application is allowed to proceed as there is nothing that prevents Apotex from withdrawing its NOA and re-filing in respect of the disclaimed patent. Janssen notes that they are prepared to consent to this relief on a without costs basis. This approach does not reflect the reality of the circumstances nor the law as discussed above.
+[40]
+Apotex is significantly prejudiced as it has filed its NOA on the basis of the patent register as it found it. It has incurred significant cost in so doing. It is through the tactic of Janssen in delaying its disclaimer until the receipt of the NOA that has precipitated these proceedings. As noted above, the scheme of the
+Regulations
+is such that the innovator is given a 45 day window after the receipt of a NOA to determine if it should seek an order of prohibition. That decision is and should be made on the basis of the allegations in the NOA. Obviously, based on Janssen's admission in the disclaimer that the original claims were overbroad, if the decision were made on the basis of the allegations in the NOA this proceeding would not have been brought. Thus, Apotex suffers a hardship if this proceeding is permitted to continue or if it is compelled to effectively restart the clock with a new NOA.
+[41]
+Second, Janssen argues that disclaimed claims are deemed in law to have been in effect since the date of issue. For the reasons set out above, this argument is without merit. As far back as 1939, the Judicial Committee of the Privy Council declared that a party that disclaims ought not to gain any advantage. Further, the claims must be construed as of the date of the NOA (
+Bristol-Myers  <FRAGMENT_SUPPRESSED> ). Janssen is not entitled to have filed a patent that is overbroad and after being found out, seek to retroactively bootstrap its position by disclaiming the claims and thereby obtain an advantage that it otherwise would not have.
+[42]
+Third, as noted above, Janssen makes much of the fact that subsection 48(4) of the
+Patent
+Act
+refers to "action". They argue that as this is not an action but a proceeding under the
+Regulations
+, then the disclaimer is not affected. It is true, and the many authorities which Janssen cites, supports an interpretation that the word action in the
+Patent Act
+must be construed in its ordinary meaning within the
+Federal Courts Rules
+which means that its interpretation does not include a proceeding under the
+Regulations
+. However, the date when a party responds to the claims is the controlling factor which in this case is the date of the NOA.
+[43]
+Fourth, Janssen argues that the "frozen register" concept discussed above does not apply. They argue that as the '523 Patent was added to the register before Apotex filed its ANDS, Apotex is required to make an allegation of infringement and/or invalidity pursuant to paragraph 5(1)(b) of the
+Regulations
+. Apotex have done so in response to the patent as it appeared on the register as of the date of its ANDS and the NOA. In my view, for the reasons discussed herein, the "frozen register" concept applies and Apotex has properly delivered its NOA to the claims in the '523 Patent.
+[44]
+Finally, Janssen argues that the issue on this motion is not whether the disclaimer will have a retrospective application but whether Apotex will infringe the '523 Patent by making, constructing, using or selling the Apotex Product if it receives a notice of compliance. Janssen argues that this issue can only be determined on a full evidentiary record and cannot be resolved on "a theoretical or temporal basis". Temporal is defined in the
+Shorter Oxford English Dictionary
+(3rd Ed.) as meaning, inter alia, "lasting or existing only for a time" or "pertaining to time as the sphere of life". This argument also fails. It is difficult to understand what additional evidence is required to decide the issue before the Court. The essential facts to decide the issue are undisputed. The date of issuance of the '523 Patent is known; the claims of the '523 Patent as of the date of the NOA are known; the contents and date of the NOA are known; the contents and date of the disclaimer are known; and, the heads of relief and grounds in the Notice of Application are known. The evidentiary record on this motion is sufficiently comprehensive to decide. There will be nothing in the way of additional evidence to be adduced which will assist in deciding the issue. Permitting this matter to exist for a further time is an abuse of process.
+The Test to Be Applied on this Motion
+[45]
+As noted above, a motion to strike an application puts a very high onus on the moving party (see, for example,
+ <FRAGMENT_SUPPRESSED>  (F.C.A.)). Recently, the principles governing motions to strike applications for judicial review have very usefully been analyzed in depth and summarized by Justice Mactavish in the case of
+ <FRAGMENT_SUPPRESSED>  (see particularly paras. 22 through 33).
+[46]
+Apotex brings this motion under section 6(5)(b) of the
+Regulations
+. That section provides specifically that "on the motion of a second person, (Apotex) dismiss the application in whole or in part (b) on the ground that it is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process in respect of one or more patents." It is a very wide provision. The Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  had occasion to consider the ambit of this section of the
+Regulations
+and observed as follows:
+"[33] Paragraph 6(5)(b) was added to the
+NOC Regulations
+in 1998 bearing similar language to that employed in the former Rule 419 of the
+Federal Court Rules
+and that in Rule 221 of the current
+Federal Courts Rules
+, SOR/98-106. Accordingly, the Federal Court adopted the principles that had been developed under Rule 419 for striking out pleadings in an action, as explained by Lemieux, J., in
+ <FRAGMENT_SUPPRESSED>  the
+Regulations
+has its source in paragraphs (b), (c) and (f) of Rule 221 of the
+Federal Court Rules
+, 1998, SOR/98-106, which themselves were based on similar paragraphs of Rule 419 of the old
+Federal Court Rules
+, C.R.C. 1978, c. 663, which concerned actions rather than applications.
+'[29] Counsel for Apotex argued Pfizer's application was scandalous, frivolous and vexatious within the meaning of those words in paragraph 6(5)(b) of the
+Regulations
+. The test Apotex had to meet has been set out in a consistent line of cases interpreting former rule 419(1)(c).
+'[30]  <FRAGMENT_SUPPRESSED>  (T.D.), Pratte, J. (as he then was), said this about that aspect of Rule 419 (page 736):
+"Finally, in my view, a statement of claim should not be ordered to be struck out on the ground that it is vexatious, frivolous or an abuse of the process of the Court, for the sole reason that in the opinion of the presiding judge, plaintiff's action should be dismissed. In my opinion, a presiding judge should not make such an order unless it be obvious that the plaintiff's action is so clearly futile that it has not the slightest chance of succeeding, whoever the judge may be before whom the case could be tried. It is only in such a situation that the plaintiff should be deprived of the opportunity of having 'his day in Court'." (Emphasis in original.)
+"[34] Likewise, the Federal Court has on several occasions invoked the following principle from the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED> , to strike out a notice of application under paragraph 6(5)(b) where it is 'plain and obvious' the patentee has no chance of success:
+'Thus, the test in Canada governing the application of provisions like Rule 19(24)(a) of the
+British Columbia
+Rules of Court
+is the same as the one that governs an application under R.S.C. O. 18, r. 19: assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect ranking with the others listed in Rule 19(24) of the
+British Columbia
+Rules of Court
+should the relevant portions of a plaintiff's statement of claim be struck out under Rule 19(24)(a).' (Emphasis added.)
+(See e.g.
+ <FRAGMENT_SUPPRESSED>  at paragraph 23;
+ <FRAGMENT_SUPPRESSED>  at paragraph 2;
+ <FRAGMENT_SUPPRESSED>  ('C.U.P.E.'). In <FRAGMENT_SUPPRESSED> , Arbour, J., provided a thorough explanation of the doctrine of abuse of process as it relates to attempts by parties to relitigate issues already adjudicated. She held that relitigation of an issue can constitute abuse of process and stressed that the key concern motivating the doctrine of abuse of process is preserving the integrity of the adjudicative process:
+'In the context that interests us here, the doctrine of abuse of process engages "the inherent power of the court to prevent the misuse of its procedure, in a way that would ... bring the administration of justice into disrepute" (
+ <FRAGMENT_SUPPRESSED> )). Goudge, J.A., expanded on that concept in the following terms at paras. 55-56:
+"The doctrine of abuse of process engages the inherent power of the court to prevent the misuse of its procedure, in a way that would be manifestly unfair to a party to the litigation before it or would in some other way bring the administration of justice into disrepute. It is a flexible doctrine unencumbered by the specific requirements of concepts such as issue estoppel.  <FRAGMENT_SUPPRESSED>  at p. 358, [1990] 2 All E.R. 990 (C.A.)."
+'One circumstance in which abuse of process has been applied is where the litigation before the court is found to be in essence an attempt to relitigate a claim which the court has already determined.'
+"[36] Proceedings in which the case for the patent holder is clearly futile or plainly has no chance of success because of an earlier, binding authority continue to be impermissible as abuses of process because such proceedings will waste judicial resources and impose hardship on generic drug manufacturers without any corresponding benefit such as a more accurate result. However, applying the principles outlined by Arbour, J., it is evident that the types of proceedings that constitute abuses of process go beyond those that are clearly futile to include cases such as the one at present. Many of the concerns raised by Arbour, J., are applicable to this appeal. Allowing
+Sanofi-Aventis
+to proceed with its application will give rise to the possibility of inconsistent judicial decisions, with one judge holding that the inventors of the '206 patent lacked a sound basis for predicting the utility of their invention and another holding that there was sound prediction. Thus one generic would receive an NOC because of invalidity based on lack of sound prediction while another would be refused an NOC even though its NOA raised the same allegation. As Arbour, J., identified, permitting that type of inconsistency would threaten the credibility of the adjudicative process. Likewise, as Arbour, J., noted, there is no reason to think that a second proceeding under section 6 of the
+NOC Regulations
+will lead to a more accurate result than the first. This scenario is in contrast to an action for a declaration of patent invalidity, where because the parties have the benefit of a full trial and all the attendant procedural safeguards, a more accurate result may arise. That is why the courts have on numerous occasions stated the principle that decisions rendered under the
+NOC Regulations
+are not binding on actions for patent infringement or to declare a patent invalid (see e.g.
+ <FRAGMENT_SUPPRESSED>  at paragraph 25)."
+[47]
+Arising from this analysis by the Federal Court of Appeal, it is apparent that there are many bases upon which an application can be dismissed. Of note is the observation that in cases which are clearly futile or plainly have no chance of success such proceedings should be struck as they will waste judicial resources and "impose hardship on generic drug manufacturers without any corresponding benefit ...". This is such a case. Janssen's application is an abuse of process. It does not respond to the allegations in the NOA dealing with non-infringement and invalidity. To take Janssen's view requires that this proceeding be recast and waste judicial resources.
+[48]
+Keeping in mind the admonition of Justice Mactavish in
+Amnesty International
+regarding the heavy onus on the moving party and the need to read the notice of application as generously as possible, I am not persuaded that this case can succeed.
+[49]
+Further, Janssen's Notice of Application is bereft of any chance of success as the NOA complies with the
+Regulations
+by providing allegations regarding the claims as they stood at the time. The Notice of Application does not oppose any of those allegations but rather seeks a declaration that Apotex is required to "address the claims of the '523 Patent as they now stand and as they are deemed in law to have stood from the date of issue". As Janssen does not oppose the allegations of infringement and invalidity, this application amounts to a waste of judicial resources, is an abuse of process, is frivolous and vexatious and must be struck pursuant to paragraph 6(5)(b) of the
+Regulations
+.
+[50]
+While this is a novel set of circumstances, it was nonetheless brought about by Janssen's changing the landscape after the NOA was received. Thus, they should be liable for the costs of Apotex of both this motion and the application.
+Conclusion
+[51]
+In answer to the issues as posed during the hearing:
+i) What is the effect of an NOA which deals with the claims of a patent at one point of time and does not address subsequent claims resulting from a disclaimer?
+The NOA is valid and responds to the claims of the '523 Patent as it existed on the register at the time the NOA was delivered.
+ii) Is Apotex's NOA only obliged to address the '523 patent as it stood at the time that it filed its ANDS or at the latest, at the time that it served its NOA?
+Yes.
+iii) Are the disclaimers of patent rights prospective in their effect?
+Yes
+iv) Does section 48(4) of the
+Patent
+Act
+apply to applications?
+No
+v) Does the "frozen register" provision of the regulations apply to the Apotex NOA?
+Yes
+vi) Is Apotex required to address the '523 Patent as disclaimed?
+No
+[52]
+The Court issued an order on June 12, 2009 striking the application and awarding costs to Apotex. That order inadvertently failed to include a stay of the effect of the order pending the release of these reasons in order to preserve the status quo among the parties. A further order was made correcting that oversight and staying the effect of the order of June 12, 2009 pending the release of these reasons. The June 12, 2009 order remains in effect and the stay in the subsequent order of June 17, 2009 comes to an end on the release of these reasons.
+[53]
+With respect to the costs of this motion and application, if the parties cannot agree on the quantum of costs, the parties shall submit a brief summary of their position on costs limited to three pages within 30 days of the date of these reasons or the final disposition of any appeal taken from the order of June 12, 2009 which ever is later.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

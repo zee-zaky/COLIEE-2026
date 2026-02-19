@@ -1,0 +1,388 @@
+Background
+[1]
+Richard, J.
+: This is an application by Pfizer Canada Inc. and Pfizer Corporation ("Pfizer") for an Order in accordance with s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, (the "
+Regulations
+") prohibiting the Minister of National Health and Welfare (the "Minister") from issuing a notice or notices under s. C.08.004 of the
+Food and Drug Regulations
+(a "Notice of Compliance" or "NOC") to Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) for 50 mg, 100 mg and 200 mg tablets of fluconazole until after the expiration of Canadian Letters Patent 1,181,076 (the "Pfizer Patent").
+[2]
+Pfizer is the owner of the Pfizer Patent and is joined as a party to these proceedings in accordance with the
+Regulations
+. The Pfizer Patent was included in three patent lists submitted pursuant to s. 4(1) of the
+Regulations
+by Pfizer Canada Inc. for the NOC's issued to it for 50 mg, 100 mg and 200 mg tablets of fluconazole.
+[3]
+Pfizer Canada Inc. obtained the first NOC for fluconazole in Canada. Fluconazole is an anti-fungal drug for the treatment of serious systemic and superficial infections.
+[4]
+The within proceeding was initiated by Pfizer in response to a notice of allegation dated August 16, 1994, from Apotex.
+[5]
+Apotex alleged in its notice of allegation that no claim for the medicine itself and no claim for use of the medicine would be infringed by Apotex's making, constructing, using or selling fluconazole tablets for which it had filed submissions for an NOC. There is no disagreement between the parties that the fluconazole sought to be manufactured by Apotex is identical to the Pfizer patented product fluconazole.
+[6]
+The basis of Apotex's allegation is twofold. First, Apotex states in its notice of allegation that the Pfizer Patent is not valid. The basis of Apotex's assertion that the Pfizer Patent is not valid is that what is claimed in the Pfizer Patent was not new and/or was obvious in light of the disclosure in patent 1,170,263 (the "ICI Patent", also known as the "'263 Patent") which is alleged to have earlier priority.
+[7]
+Second, Apotex states in its notice of allegation that the claims for fluconazole in the Pfizer Patent are limited to fluconazole made in accordance with a certain process or processes, and that the fluconazole to be made by Apotex will be made by a process that does not infringe the Pfizer Patent.
+[8]
+Apotex produced a schematic flow chart of its supplier's process to make fluconazole (the "ACIC Pathway").
+[9]
+There are two other related applications in court File T-1352-93 and in court File T-1299-95. These are applications by Pfizer for an order in accordance with s. 6(1) of the
+Regulations
+prohibiting the Minister from issuing a Notice of Compliance under s. C.08.004 of the
+Food and Drug Regulations
+to Nupharm Inc. ("Nu-Pharm").
+[10]
+In Court File T-1352-93, Nu-Pharm relies upon the same allegation of noninfringement as is relied upon by Apotex in Court File No. T-2389-94. Nu-Pharm initially produced two processes or pathways but withdrew the first and relied only on the second one at the hearing of this application.
+[11]
+In Court File T-1299-95, the same patent invalidity issue raised by Apotex in Court File T-2389-94 is relied on by Nu-Pharm.
+[12]
+Each of the two related proceedings (T-1299-95 and T-1352-93) are in respect of Nu-Pharm's Notice of Compliance for fluconazole and taken together, raise the same issues that are raised by Apotex in Court File T-2389-94, namely a non-infringing process (T-1352-93) and invalidity of the Pfizer Patent (T-1299-95). The three proceedings are related to the Pfizer Patent and have common questions of fact and law which arise out of the same circumstances. The three applications were heard together and the reasons for my decision in Court File T-2389-94 apply to each of the related applications in Court File T-1352-93 and Court File T-1299-95.
+The Pfizer Patent
+[13]
+This proceeding concerns the pharmaceutical fluconazole which is the invention of Dr. Kenneth Richardson of Sandwich, England, currently Director of Discovery Chemistry, Central Research Division, Pfizer Ltd.
+[14]
+The chemical name of fluconazole is 2-(2,4-difluorophenyl)-1,3-bis(1H-1,2,4-triazol-1-yl)-propan-2-ol. The structural formula for fluconazole is the following:
+[Tables and diagrams may be omitted from electronic products or lose their format].
+[15]
+Claims 1 to 9 claim processes for the synthesis of fluconazole.
+[16]
+Claim 10 claims fluconazole when made by the processes of claim 1, 2 or 3 or by an obvious chemical equivalent thereof.
+[17]
+Claim 11 claims fluconazole when made by the processes of claim 6, 7 or 8 or by an obvious chemical equivalent thereof.
+[18]
+Pfizer relies on claim 1(a) and on Claim 10.
+Invalidity
+[19]
+The basis of Apotex's assertion that the Pfizer Patent is not valid is that what is claimed in the Pfizer patent was not new and/or was obvious in light of the disclosure in Canadian Patent 1,170,263 (the "ICI Patent", also known as the "263 Patent") which is alleged to have earlier priority.
+[20]
+It is Pfizer's position that the Pfizer Patent was valid at the date of issue and is in force and continues to be valid.
+Test For Anticipation Or Novelty, And
+Obviousness
+[21]
+The principles to be applied concerning anticipation, obviousness, presumption of validity and the onus on a party attacking a patent are summarized in the reasons for judgment of Mr. Justice Décary in
+Diversified Products
+: [see footnote 1]
+1. Presumption Of Validity
+[22]
+By virtue of s. 43 of the
+Patent Act
+, an issued patent is prima facie presumed valid.
+"...[T]he most accurate description of the presumption is that of Pratte, J., in the <FRAGMENT_SUPPRESSED> [see footnote 2] case:
+'It is clear, however, that this section "deals only with the incidence of proof, not with the standard of proof. It shows
+on whom
+the burden lies to satisfy the court, and not the degree of proof which he must attain":
+ <FRAGMENT_SUPPRESSED>  has introduced evidence, the court, in considering this evidence and in determining whether it establishes the invalidity of the patent, must not take the presumption into account. It cannot be said that the presumption created by s. 47 is, as a rule, either easy or difficult to overcome; in some cases, the circumstances may be such that the presumption will be easily rebutted, while, in other cases the same result may be very difficult or even impossible to obtain.'"
+2. Onus
+[23]
+The test can be formulated as follows:
+"... [A]pplying the tests applicable to the pleas of anticipation and obviousness, which are not easy tests to meet, did the appellant prove, on the usual standard of balance of probabilities, that the patent was invalid as having been anticipated or as being obvious?"
+3. Anticipation
+[24]
+Mr. Justice Décary adopted the formulation of Hugessen, J.A., in <FRAGMENT_SUPPRESSED> : [see footnote 3]
+"It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also, as appears from the passage of the statute quoted above, anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[25]
+He added that when prior knowledge or use is alleged, "evidence of this character should be subjected to the closest scrutiny" and "anyone claiming anticipation on that basis assumes a weighty burden".
+[26]
+He cited the following principles which should be applied to determine whether the prior use or prior art anticipated the invention:
+1) does it teach the combination of all the elements claimed;
+2) does it give the same knowledge as the specifications of the invention itself;
+3) does it contain clear and unmistakable directions so to use it;
+4) whatever is essential to the invention or necessary or material for its practical working and real utility must be found substantially in the prior publication; and
+5) an impractical and inoperable device cannot be an anticipation.
+[27]
+In the <FRAGMENT_SUPPRESSED> case, [see footnote 4] the Supreme Court of Canada ruled that disclosure in the prior document must contain clear instructions to do or make something that would infringe the patent in suit if carried out after the grant. The information in the prior publication must, for purposes of practical utility, be equal to that given by the patent in suit. [see footnote 5]
+[28]
+In the earlier <FRAGMENT_SUPPRESSED> [see footnote 6] case, the Supreme Court of Canada ruled that the proper test of anticipation is that which was stated in
+ <FRAGMENT_SUPPRESSED> . A passage in the judgement ibid., 23, runs thus:
+' <FRAGMENT_SUPPRESSED> , 46, Holker, L.J., expresses himself thus: "We have it declared in
+ <FRAGMENT_SUPPRESSED> , Parker, J. (afterwards Lord Parker), says: "Where the question is solely a question of prior publication, it is not, in my opinion enough to prove that an apparatus described in an earlier specification could have been used to produce this or that result. It must also be shown that the specification contains clear and unmistakable directions so to use it". And the remarks of Lord Dunedin in
+ <FRAGMENT_SUPPRESSED> , are quite in line with these dicta. In the same case the test stated (45 R.P.C. 1, 22), and turning the particular instance to the general may be expressed thus: Would a man who was grappling with the problem solved by the patent attacked, and having no knowledge of that patent, if he had had the alleged anticipation in his hand, have said, "That gives me what I wish".'"
+[29]
+Mr. Justice Pigeon, speaking for the majority in <FRAGMENT_SUPPRESSED> held that to map out, in a general way, the sort of reaction is very far from "giving the same knowledge" or "clear and unmistakeable directions".
+4. Obviousness
+[30]
+Mr. Justice Décary wrote that there is no specific section in the
+Patent Act
+relating to the requirement for inventiveness or inventive ingenuity, but it has been held and is no longer questioned that by use of the words "invention" and "inventor" throughout the
+Act
+, inventiveness or inventive ingenuity is required to obtain a valid patent. It is well-established that a mere "scintilla of invention" is sufficient to support the validity of a patent. The courts have chosen to define "lack of inventiveness" rather than "inventiveness" and have called it "obviousness". Inventiveness can coexist with easiness and simplicity.
+[31]
+In the
+Diversified Products
+[see footnote 8] case, Mr. Justice Décary looked at various factors to determine inventiveness. He recited these factors:
+1. it is novel and superior to what was available until then;
+2. it was since used widely and in preference to alternative devices;
+3. competitors as well as experts in the field had never thought of the combination;
+4. amazement accompanied its first publication; and
+5. commercial success.
+While none of these factors taken in isolation may necessarily be determinative on the issue of obviousness, one can look at their cumulative effect. The evidence on this application establishes that the fluconazole compound was a commercial success and has been widely used, in particular, because it is non-teratogenic.
+[32]
+The respondent's notice of allegation cites only the ICI '263 Patent in respect of its claim of invalidity by reason of lack of novelty or obviousness. The ICI '263 Patent issued on July 3, 1984, well after the filing date of the Pfizer Patent on June 4, 1982. The Pfizer Patent was applied for and issued prior to the amendments to the
+Patent Act
+which occurred in 1987. Consequently, determinations concerning validity are governed by the "
+Old Act
+" [see footnote 9].
+[33]
+The relevant sections of the "
+Old Act
+" for the purpose of considering whether a patent is new are ss. 27(1) and 61, formerly ss. 28(1) and 63 of the
+Patent Act
+were considered by the Supreme Court of Canada in the <FRAGMENT_SUPPRESSED> case: [see footnote 10]
+"Section 28(1) of the
+Patent Act
+requires, in part, that an individual may only obtain a patent for an invention if that invention was not 'known or used by any other person before he invented it'. Section 63(1) of the Act limits the meaning of the phrase 'known or used by any other person'.
+"Section 63(1)(b) applies only in cases where 'conflict proceedings should have been directed'. Section 45(1) states the standard to be applied by the Commissioner of Patents in determining whether a conflict exists:
+'45(1) Conflict between two or more pending applications exists
+(a) when each of them contains one or more claims defining substantially the same invention, or
+(b) when one or more claims of one application describe the invention disclosed in the other application.'"
+[34]
+These sections must be considered since both the Pfizer and ICI Patents were co-pending. Therefore the ICI Patent could, if anticipatory, be cited under these provisions if the ICI Patent defines substantially the same invention or describes the invention disclosed in the other application. If so, the two patent applications should have been in conflict. [see footnote 11]
+[35]
+The ICI Patent is an originating patent while the Pfizer Patent is a selection patent. [see footnote 12] The former claims the genus; the second claims the species. ICI's '263 Patent is directed generally to fungicidal triazoles and imidazoles. Fluconazole is not specifically described and neither were its superior and previously unknown efficacy described or known. The ICI Patent did not include the fluconazole compound. ICI was not the first inventor of this compound and never made it.
+[36]
+It is not disputed that fluconazole is encompassed within the broad generic scope of the claims of the ICI Patent and likewise with respect to the processes, but is not specifically identified therein.
+[37]
+The ICI Patent discloses an enormous class of compounds. The compounds of the ICI Patent which are structurally closest to fluconazole are teratogenic, that is to say, they cause congenital deformities.
+[38]
+Dr. Kenneth Richardson's invention is a selection, from an enormous number of possibilities, of a compound, known as fluconazole, which has a high anti-fungal activity but does not have the undesirable side effect of the compound specifically disclosed by ICI, namely, the teratogenic side effect.
+[39]
+On the issue of invalidity, Pfizer relied on the affidavit evidence of Dr. Peter C. Richardson. Apotex relied on the affidavit of Dr. Robert Allan McClelland. The affidavit of Martin J. Marcus was also filed in support of Nu-Pharm's claim of invalidity in Court File T-1299-95.
+Dr. Peter C. Richardson
+[40]
+Dr. Peter C. Richardson swore two affidavits on behalf of Pfizer in respect of the validity of the Pfizer Patent.
+[41]
+Dr. Richardson is a Doctor of Philosophy in chemistry from the University of Nottingham, England. He is an attorney and a member of the New York and New Jersey state bars and has been engaged in the practice of United States and International patent law since 1975. He is senior Assistant General Counsel and General Patent Counsel of Pfizer Inc.
+[42]
+Dr. Richardson, in his affidavit evidence, explained that in view of its issue date, the ICI Canadian patent cannot be considered for an attack based on lack of novelty or obviousness and that, in any event, the ICI Patent does not, in any way, disclose, exemplify or suggest fluconazole, its preparation, or the starting material therefore. Dr. Richardson further explains that Pfizer has obtained patents in virtually every country in the world in which a patent application was filed for fluconazole as a new compound and novel process for its preparation. Dr. Richardson further explained that fluconazole has unobvious and advantageous therapeutic properties over the compounds specifically disclosed in the ICI Patent, namely, that in addition to being a potent anti-fungicide, fluconazole is not teratogenic.
+[43]
+It is soluble in water and thus can be used for parenteral (injection) administration. In contrast, the 2,4-dichloro derivative of the ICI Patent are teratogenic, and are virtually insoluble in water which would make them unsuitable for parenteral injection. The 4-fluorophenyl derivative is a significantly less potent antifungal agent than fluconazole.
+[44]
+Dr. Richardson also discussed the Finnish Patent Application 75341 to the extent that a limited portion of it has been translated into English. He concluded that it neither anticipates nor renders obvious the Pfizer Patent for fluconazole and the process for its preparation for the same reasons as discussed in respect of the ICI Patent.
+[45]
+Dr. Richardson also commented upon United States ICI Patent 4,205,075 which was also not included in the notice of allegation, in respect of which he noted that the anti-fungal compositions and processes are for combatting fungi in plants and seeds. None of the compounds disclosed in this patent are bis-triazole derivatives and this patent neither discloses nor suggests fluconazole or even a bis-triazole derivative. Accordingly, he concluded that it would not have been obvious from this patent, which pertains to a composition for seeds and plants comprising compounds having only one triazole component, to substitute the chlorine atoms in bis-triazole derivatives.
+Dr. Robert A. McClelland
+[46]
+In his affidavit, Dr. McClelland makes reference to two documents which are not in the notice of allegation, namely Finnish Patent Application 75341 and U.S. Patent 4,205,075.
+[47]
+Dr. McClelland does not suggest that any of the ICI Patent, the Finnish Patent Application or the United States Patent 4,205,075 disclose fluconazole or that the Pfizer Patent is rendered invalid for lack of novelty. Dr. McClelland's entire affidavit is based on obviousness.
+[48]
+Dr. McClelland identifies United States Patent 4,205,075 but again does not state that fluconazole is disclosed in this Patent. He also does not state that this Patent is addressed to the treatment of plants and seeds as compared to humans.
+Martin J. Marcus
+[49]
+Mr. Marcus is a registered patent agent. He testifies that Finnish Patent Application 75341 belongs to the same family as the ICI Patent and compares claims 1 and 2 of the Finnish Patent Application to those of the ICI Patent. He does not provide any opinion evidence as to the validity of the Pfizer Patent.
+[50]
+Dr. Richardson commented on these affidavits.
+[51]
+He reiterated that claims 1 and 2 of the ICI Finnish Patent do not disclose or suggest fluconazole or the unexpected therapeutic advantages of fluconazole.
+[52]
+With respect to the ICI Patent, Dr. Richardson stated:
+"... in the ICI Canadian Patent, there is absolutely no specific disclosure of 2,4-difluorophenyl in the ICI Canadian patent and there is nothing in the ICI Canadian patent that suggests that fluconazole should be made or that sets out its therapeutic advantages.
+"... Dr. McClelland fails to refer to the data presented in the Pfizer Canadian patent establishing that the compounds of the ICI Canadian patent which are structurally closest to fluconazole are teratogenic, that is to say, they cause congenital deformities...
+"Specifically, the Pfizer Canadian patent describes that as a result of teratology studies, the 2,4-dichlorophenyl derivative was proven to be teratogenic while, unexpectedly, fluconazole (the 2,4-difluorophenyl compound) is not teratogenic.
+"Additionally, the 4-fluoro derivative has been shown to be a significantly less potent antifungal agent than fluconazole.
+"In addition, I have been informed by Dr. Kenneth Richardson, the named inventor, and verily believe that fluconazole is soluble in water as compared to the teratogenic 2,4-dichloro derivative which is virtually insoluble. This is crucial with respect to the administration of the pharmaceutical compound. It may be desirous, even critical to be able to inject the drug parenterally, for example, intravenously, intramuscularly or subcutaneously as compared to an oral administration and the compound must be soluble in order to do so.
+"Thus, the great advantage of fluconazole, and the surprising feature of fluconazole as compared to those other compounds, is not only that it is a potent antifungal agent but it is not teratogenic. This combination of properties is not exhibited by the closest structurally similar compounds disclosed in the ICI Canadian patent and this makes fluconazole (the 2,4-difluorophenyl compound) particularly suited to the treatment of human fungal infections. Indeed, it is the only specific compound within the generalized class of compounds set out in ICI's Canadian Patent which has received marketing authorization to be used for the treatment of such infections; none of the exemplified ICI compounds described in the disclosure is suitable for commercial development."
+[53]
+I accept the evidence of Dr. Richardson.
+Finding
+[54]
+I find that fluconazole, the subject matter of the Pfizer Patent, has unexpected and valuable properties which are not possessed by the structurally closest compounds disclosed in the ICI Patent and the Finnish Patent application, to the extent it has been translated, including the fact that fluconazole is not teratogenic.
+[55]
+The invention of the Pfizer Patent has not been disclosed in either of the ICI Canadian or Finnish patent documents relied upon by Nu-Pharm, regardless of priority or publication dates.
+[56]
+Neither the ICI Canadian patent nor the Finnish application as a printed publication was published more than two years prior to the filing date of the Pfizer Patent, to qualify as an anticipation under s. 27(1)(b) of the
+Patent Act
+.
+[57]
+Neither the Finnish Patent Application nor United States Patent 4,205,075, granted to ICI on May 27, 1980, were identified in the notice of allegation of Nu-Pharm dated May 1, 1995 as rendering the Pfizer Patent invalid for lack of novelty and obviousness.
+[58]
+The ICI United States Patent 4,205,075 (the ICI "075 Patent") neither discloses nor suggests fluconazole or even a bis-triazole derivative.
+[59]
+The respondents' allegation of invalidity because of anticipation and obviousness fails.
+Infringement Of The Pfizer Patent
+[60]
+Apotex stated in its notice of allegation that the claims for fluconazole in the Pfizer patent are limited to fluconazole made in accordance with a certain process or processes, and that the fluconazole to be made by Apotex will be made by a process that does not infringe the Pfizer patent.
+[61]
+As I noted earlier, there is no disagreement between the parties that the fluconazole sought to be manufactured for Apotex is identical to the Pfizer patented product fluconazole. It is also common ground that the ACIC process does not literally infringe process claim 1 (a) of the Pfizer Patent.
+[62]
+It is Pfizer's position that the relevant portion of the ACIC Process, allegedly to be used by Apotex's supplier for the manufacture of Apotex's fluconazole, namely the ACIC Pathway, will infringe the Pfizer Patent and therefore, any sale of fluconazole by Apotex will infringe the Pfizer Patent. In particular, the ACIC Pathway, on a purposive construction of the Pfizer Patent, is within the scope of claims 1(a) and 10 of the Pfizer Patent and, as such, on the ground of a non-infringing process, Apotex's allegation is not justified.
+[63]
+In order to assess whether the ACIC Pathway infringes the Pfizer Patent, the patent must first be construed.
+[64]
+While the significant invention was the product, fluconazole and its properties, it was a requirement of s. 41(1) at the time the Pfizer Patent was issued that the product claims be in process dependent form.
+"41(1) In the case of inventions relating to substances prepared or produced by chemical processes and intended for food or medicine, the specification shall not include claims for the substance itself, except when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents." [see footnote 13]
+[65]
+But for s. 41(1), the patentee would have been entitled to a product per se claim to the compound fluconazole when made by any process. The types of reactions included in the claims were general reactions known at the time of the Pfizer Patent and there was nothing inventive in the idea of using these reactions. These were only included to comply with s. 41(1) in order that the claims of the patent include process limitations. Therefore, these features are not essential features. This conclusion is supported by the fact that the underlying invention is fluconazole and not the claimed process.
+[66]
+In addition to the specific wording of claim 10 of the Pfizer Patent to "obvious chemical equivalents", and similar wording in s. 41(1), the
+Patent Regulations
+provide that the process put forward by Apotex must not infringe product by process claims for fluconazole or the obvious chemical equivalents of those processes.
+[67]
+Concerning the question of infringement of the Pfizer Patent by the ACIC Pathway, Dr. E. J. Corey testified on behalf of Pfizer. In support of Apotex's position that the ACIC Pathway process does not infringe the Pfizer Patent, the following witnesses provided affidavit evidence: Dr. Keshava Murthy and Dr. Robert Allan McClelland.
+Dr. Elias J. Corey
+[68]
+Dr. Corey is a world renowned organic chemist who received the Nobel Prize in Chemistry in 1990 for his work in organic synthetic chemistry.
+[69]
+Dr. Corey analyzed both the Pfizer Pathway, claim 1(a), and the ACIC Pathway to determine whether the ACIC Pathway falls within the scope of the claims of the Pfizer Patent and whether the ACIC Pathway is the same as, or chemically equivalent, to any of the processes claimed in the Patent.
+[70]
+Dr. Corey testified that, in respect of the ACIC Pathway, there are a number of steps and intermediates leading to the production of fluconazole, however of these, the only steps which are relevant for the purpose of considering infringement are the last two steps to convert the cyclic sulphate to fluconazole.
+[71]
+In the production of fluconazole, epoxide and cyclic sulfate are functionally equivalent as they both lead to the production of fluconazole via the activation of the same carbon atom to substitution by 1,2,4-triazole, i.e., the epoxide of the Pfizer Pathway in claim 1(a) and the cyclic sulfate of the ACIC Pathway function in the same manner and achieve the same result.
+[72]
+The presence of the cyclic sulfate is only required to activate the terminal carbon atom and subsequently serves no other purpose and as such, in order to synthesize fluconazole must be removed in a subsequent hydrolysis step. As such, the purpose of the cyclic sulfate is identical to that of the epoxide, i.e., the activation of the primary terminal carbon.
+[73]
+The functionally similar and parallel behaviour of an epoxide and a cyclic sulfate in nucleophilic displacement reactions such as those involving the triazole (1,2,4-triazole anion) depicted in each of the Pfizer and ACIC pathways has been repeatedly documented in the literature and is standard in the chemical vocabulary of practising synthetic chemists.
+[74]
+That the cyclic sulfate is a synthetic equivalent of the epoxide is supported by the published literature which has compared the two as: "Cyclic Sulfites and Cyclic Sulfates: Epoxide like Synthons" [see footnote 14].
+[75]
+The cyclic sulfate functional group in the ACIC Pathway is an obvious and very well known chemical and functional equivalent of the epoxide group in the Pfizer Pathway of claim 1(a).
+Dr. Robert Allan McClelland
+[76]
+Dr. McClelland's affidavit provides opinion evidence on the issue of infringement as well as validity. The following are his opinions with respect to infringement.
+[77]
+Dr. McClelland, in his analysis of the ACIC and Pfizer pathways concentrates on the details in the disclosure of the Pfizer Patent when considering the equivalence of the two pathways.
+[78]
+Dr. McClelland states that his position on equivalence is that the overall processes are not equivalent. In arriving at this position, Dr. McClelland is of the opinion that the entire ACIC Pathway must be compared to the entire Pfizer Pathway, the details of which are taken from the disclosure.
+[79]
+However, in respect of claim 1(a) and the corresponding portion of the ACIC Pathway, Dr. McClelland agreed that the epoxide of the Pfizer Pathway and the cyclic sulfate of the ACIC Pathway are equivalent to the extent of permitting the triazole to attach to the terminal carbon, i.e., they achieve the same nucleophilic displacement.
+[80]
+Dr. McClelland also agreed that as soon as the triazole is attached to the terminal carbon of the three carbon chain, i.e., once nucleophilic displacement had occurred, notwithstanding its ability to function as a leaving group, the sulfate ester is removed in order to form fluconazole.
+Dr. Kesheva Murthy
+[81]
+Dr. Murthy is the manager of Research & Development of ACIC and is responsible for the development of the ACIC Pathway.
+[82]
+In his evidence concerning a comparison of the two pathways Dr. Murthy concentrates on the yields and efficiencies of the two processes.
+[83]
+Dr. Murthy's evidence is that the ACIC Process, as set forth in his Exhibit 4 is not an obvious chemical equivalent of the Pfizer Pathway as it produces fluconazole by different reactions, using different intermediates, with greater efficiency and yields.
+[84]
+Dr. Murthy's evidence is that what is most significantly different about the ACIC Process, are the reactions used to make the cyclic sulfate.
+[85]
+On cross-examination, Dr. Murthy gave evidence that with regard to claim 1(a) of the Pfizer Patent, namely the Pfizer Pathway, when compared to the ACIC Pathway, i.e., the conversion of the cyclic sulfate to fluconazole, both pathways:
+(1) activate the terminal carbon wherein the triazole is bonded by nucleophilic displacement;
+(2) require a further step to result in fluconazole: protonation in the Pfizer Pathway, and cleavage (hydrolysis) of the sulfate ester in the ACIC Pathway;
+(3) achieve the same result.
+The Pfizer Pathway
+[86]
+Claim 1(a) sets out the final step or steps in a process for the production of fluconazole from the intermediate compound identified in claim 1(a) and it consists of reacting a 1,2,4 triazole ("triazole") with triazole epoxide ("epoxide") as follows:
+[Tables and diagrams may be omitted from
+electronic products or lose their format].
+[87]
+The purpose of this final step is to bond the triazole to the terminal carbon of the three carbon chain of the fluconazole molecule, i.e., to add on a second triazole. In order to result in fluconazole it is essential that a triazole be present at each end of the three carbon chain.
+[88]
+The epoxide activates the terminal carbon of the three carbon chain.
+[89]
+A reactive nitrogen of triazole is attracted by the activated terminal carbon and reacts with it in a nucleophilic displacement reaction.
+[Tables and diagrams may be omitted from
+electronic products or lose their format].
+[90]
+The product of this reaction is an alkoxide which is then rapidly converted to fluconazole.
+[Tables and diagrams may be omitted from
+electronic products or lose their format].
+The ACIC Pathway
+[91]
+Apotex has alleged that its fluconazole will be supplied to it by ACIC and that the fluconazole will be manufactured by the Second ACIC Process. This process, as set out in the affidavit of Dr. McClelland and Dr. Murthy, is presented as being a multi-step process that is not limited to the steps which convert the cyclic sulphate to fluconazole. In the Second ACIC Pathway, the starting compound which is comparable to the triazole epoxide of the Pfizer Patent in claim 1(a) is the cyclic sulfate.
+[Tables and diagrams may be omitted from
+electronic products or lose their format].
+[92]
+The purpose of the final steps in the ACIC Pathway is to bond the triazole to the terminal carbon of the three carbon chain of the fluconazole molecule, i.e., to add on a second triazole, and then to form the hydroxyl (-OH). In order to result in fluconazole it is essential that a triazole be present at each end of the three carbon chain.
+[93]
+The cyclic sulfate activates the terminal carbon of the three carbon chain. A reactive nitrogen of triazole is attracted by the "activated" terminal carbon and reacts with it in a nucleophilic displacement reaction.
+[94]
+The product of this reaction is a sulfate ester which is then rapidly converted to fluconazole.
+[see picture on following page]
+[Tables and diagrams may be omitted from
+lectronic products or lose their format].
+[95]
+In the preparation of fluconazole, the cyclic sulfate serves no purpose other than to activate the terminal carbon; the resulting NaO
+3
+SO is removed by hydrolysis to give fluconazole.
+Finding
+[96]
+Giving the claims of the Pfizer Patent a purposive construction rather than a purely literal one, and construing the claims with a mind willing to understand the true essentials of the invention, claim 1(a) recites the preparation of the chemical compound fluconazole by the step or steps of converting a triazole epoxide to fluconazole by placement of a second triazole and completion of the fluconazole molecule; which comprises the steps of
+a) nucleophilic substitution by triazole; and
+b) protonation of the alkoxide (formation of the hydroxyl (OH).
+[97]
+Claim 10 is a claim for the compound fluconazole when prepared by a process according to claim 1(a) or an obvious chemical equivalent.
+[98]
+On a purposive construction of the Pfizer Patent and particularly the process of claim 1(a), the ACIC process is within the scope of claim 1(a) and, accordingly, within the scope of claim 10. The only differences between claim 1(a) and the relevant portion of the Second ACIC Pathway are identified below:
+1. The terminal carbon of the three carbon chain is activated by a five-membered ring, cyclic sulfate (ACIC), instead of a three-membered ring, epoxide (Pfizer); and
+2. The sulfate ester, which results from choosing cyclic sulfate to activate the terminal carbon, must be hydrolysed to result in the hydroxyl(OH)(ACIC), while the alkoxide generated in the Pfizer Pathway must be protonated, that is to say, sodium is replaced by a hydrogen to result in the hydroxyl (OH).
+[99]
+A side-by-side comparison of the relevant portions of the two pathways, for the purpose of considering infringement, is set out below:
+[Tables and diagrams may be omitted from electronic products or lose their format].
+[100]
+The claimed step, or operation, occurs very late in the synthesis of fluconazole. Any preceding synthetic steps or operations are, for the purposes of considering infringement, irrelevant. The claimed step is not limited in any way to particular reaction conditions or intermediates. Details concerning reaction solvents and reagents are irrelevant in considering infringement.
+[101]
+A side-by-side comparison of the relevant portions of the two pathways, for the purpose of considering infringement, is set out in the figure below:
+[Tables and diagrams may be omitted from electronic products or lose their format].
+[102]
+Altering or reversing chemical process steps or obtaining different attributes, will not avoid infringement of the patent if Apotex takes the pith and substance of the Pfizer invention.
+"The defendants produce the same result by a process which acts substantially in the same way chemically as the plaintiffs', and, in short, which is substantially the plaintiffs' process. It is said that there is a difference, because in the defendants process steps are used, and it is said that to obtain the rich colours R and RR of the defendants instead of a lighter colour, certain steps are necessary, the steps being these: ... What the defendants have done is this: They have not departed from the nature of the plaintiffs' invention, but they have modified the processes given by the examples." [see footnote 15]
+[103]
+A variant between steps in a claimed process and another process may amount to an obvious chemical equivalent given the purpose of the step and the function it fulfils in the overall process. [see footnote 16]
+[104]
+Also in considering whether processes, and or elements of two processes are chemical equivalents, a finding of synthetic equivalence or that one compound or process is a synthon of another is a finding of chemical equivalence. [see footnote 17]
+[105]
+There are two differences between claim 1(a) and the ACIC Pathway, in the final two steps of the ACIC Pathway.
+1. The terminal carbon of the three carbon chain is activated by a five-membered ring, cyclic sulfate (ACIC), instead of a three-membered ring, epoxide (Pfizer); and
+2. The sulfate ester, which results from choosing cyclic sulfate to activate the terminal carbon, must be hydrolysed to form the hydroxyl (OH)(ACIC), while the alkoxide generated in the Pfizer Pathway must be protonated, that is to say the sodium is replaced by a hydrogen to form the hydroxyl (OH).
+[106]
+The choice of a cyclic sulphate instead of epoxide is not an essential feature of the invention of the Pfizer Patent. The cyclic sulfate, like the epoxide performs the same function of facilitating the placement of a second triazole on the three carbon chain of fluconazole, to give fluconazole.
+[107]
+The fact that the sulfate ester must be hydrolysed when the cyclic sulfate is used, and although the sulfate ester can perform a further function, and operate as a leaving group, if desired, does not make this choice of equivalent any less of an infringement.
+"... if the pith and marrow of the invention is taken it is no excuse to say that you have added something, or omitted something even if the addition or omission be useful and valuable. The superadding of ingenuity to a robbery does not make the operation justifiable." [see footnote 18]
+[108]
+I accept the evidence of Dr. Corey that the cyclic sulfate functional group in the ACIC Pathway is an obvious and very well known chemical and functional equivalent of the epoxide group in the Pfizer Pathway of claim 1(a).
+[109]
+In respect of the production of fluconazole, epoxide and cyclic sulfate are functional equivalents, or chemical "synthons" as they both lead to the production of fluconazole by the activation of the same carbon atom for substitution by 1,2,4-triazole. The functionally similar and parallel behaviour of an epoxide and a cyclic sulfate in such nucleophilic displacement reactions has been repeatedly documented in the published literature and is a standard in the chemical vocabulary of practising synthetic chemists.
+[110]
+On a purposive construction of the Pfizer Patent, Apotex's ACIC Pathway is within the scope of claims 1(a) and 10 as:
+(1) each activate the terminal carbon wherein the triazole is bonded by nucleophilic displacement;
+(2) each require a further step to result in fluconazole: protonation (formation of the hydroxyl (OH)) in the Pfizer Pathway, and cleavage (hydrolysis) of the sulfate ester (formation of the hydroxyl (OH)) in the ACIC Pathway;
+(3) each achieve the same result.
+[111]
+Applying the principles summarized by Reed, J., [see footnote 19], upon a purposive construction of the Pfizer Patent and not engaging in an overclose parsing of the words of the Pfizer Patent:
+(a) The ACIC Process has taken the substance of the applicants' invention, a process which results in fluconazole through the operation of placement of a second triazole to complete the fluconazole molecule;
+(b) Each of the variants of the ACIC Process is in respect of unessential features of claim 1(a) and has no effect upon the way the invention works:
+(1) activation of the terminal carbon wherein the triazole is bonded by nucleophilic displacement;
+(2) a further step to result in fluconazole namely: protonation (formation of the hydroxyl (OH)) in the Pfizer Pathway, and cleavage (hydrolysis) of the sulfate ester (formation of the hydroxyl (OH)) in the ACIC Pathway;
+The resulting product is fluconazole as claimed and made through the placement of a second triazole to complete the fluconazole molecule;
+(c) The patentee did not intend to exclude variants from the scope of the invention claimed. The process requirements were prescribed by law and not intended by the patentee to be essential limitations to the invention. The processes claimed are not limited in the text of the Pfizer Patent. The variations used by the ACIC Process were well known to those skilled in the art and are therefore obvious variants.
+[112]
+As the fluconazole to be made by the ACIC Pathway will be within the scope of the claims, the allegation by Apotex that its fluconazole will not infringe the Pfizer Patent is not justified.
+Conclusion
+[113]
+Accordingly, the application for an order of prohibition is granted.
+Application granted.
+Editor: Angela E. McKay/slm
+Footnotes
+1.
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.).
+2.
+ <FRAGMENT_SUPPRESSED>  at pp. 275-276 (P.C.).
+8.	Supra, see note 1.
+9.
+Patent Act
+, R.S.C. 1970, c. P-4.
+10.	Ibid., at 163.
+11.
+AT & T  <FRAGMENT_SUPPRESSED>  at p. 53 (C.A.).
+13.	Section 41(1) of the
+Patent Act
+, R.S.C. 1970, c. P-4.
+14.	Exhibit I to the affidavit of Dr. Corey.
+3.1.2
+Cyclic Sulfites and Sulfates as Epoxide-like Synthons
+Optically active epoxides play an important role in synthetic organic chemistry as they constitute electrophilic, chiral building blocks with an "unnatural" 1,2-functional group relationship. Additionally, elimination processes in small rings can be stereoelectronically disfavored in certain situations, thereby rendering epoxides more useful than their acyclic equivalents. Many of these beneficial properties of the epoxides are shared by cyclic sulfates and sulfites, with the sometimes useful distinction, that cyclic sulfates are more reactive than oxiranes. Consequently, these compounds can be regarded as synthetic equivalents of epoxides and a number of useful synthetic examples have appeared in the literature over the years.
+15.
+ <FRAGMENT_SUPPRESSED> ; referred back to trial division and upheld (1983), 74 C.P.R.(2d) 95 (F.C.T.D.).
+16.
+ <FRAGMENT_SUPPRESSED> .
+17.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 203 (T.D.).
+18.
+ <FRAGMENT_SUPPRESSED> , at 256 and in
+ <FRAGMENT_SUPPRESSED> , at 146 (F.C.T.D.).
+19.	Supra, note 11.
+[End of document]

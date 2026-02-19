@@ -1,0 +1,398 @@
+[1]
+Joyal, J.
+: These consolidated appeals by the appellant against a number of tax reassessments raise a number of factual and legal issues and, in the course of the trial and of later interventions, have caused counsel for the parties and their witnesses to marshall much evidence and considerable argument. After all this, however, the parties will concede that there is not much conflict on the facts and debate centres generally on the application of various income tax rules to these facts.
+Background
+[2]
+The plaintiff is primarily engaged in the business of producing primary aluminium. Its production facilities are located in Baie Comeau. These facilities were originally built in 1955-1957 when the operations were owned by the British Aluminium Company Ltd. In 1960, Reynolds Metals Company, of Richmond, Virginia, purchased a major interest in the Canadian company and in 1970, took over complete control and made the plaintiff its subsidiary.
+[3]
+The Baie Comeau plant's annual capacity was originally 55,000 metric tons of aluminium. Since that time, a number of major plant expansions have taken place and today, its production is at the level of some 400,000 metric tons. The aluminium plant itself covers some 33 hectares and the whole plant property takes up some 700 hectares.
+[4]
+To produce an annual 400,000 tons of primary aluminium takes a lot of equipment and a large work force. Some 1,900 employees are located there and its financial statements contain figures usually in the seven to nine digit range.
+[5]
+In the course of the taxation years and under appeal, two main issues are raised. One is the capitalization of certain recurring expenditures in production process equipment and the other is whether some of the material which goes into the production process is inventory of a kind to entitle the taxpayer to a 3% inventory allowance under s. 20(1)(gg) of the
+Income Tax Act
+. It is obvious that a determination of either issue calls for an inquiry into the type, nature and characteristics of the process involved in the production of aluminium. The process is far from simple, but the court should nevertheless attempt to summarize its main features or its technology. In this regard, the court has before it the evidence of Dr. N.E. Richards, Manager of the Manufacturing Technology Laboratory of the plaintiff's parent company in the United States, who provided the parties with a 28-page textbook or vade mecum on that subject. There is also evidence of Dr. E.W. Dewing, a consultant in chemical metallurgy, who reports on the chemical reaction created by the electrolysis process and provides additional scientific details.
+Aluminium Production Process
+[6]
+The main earth-source raw material is mineral bauxite. In the case of the plaintiff, this is shipped to a plant in Texas where the bauxite is ground, is digested in a caustic solution and eventually produces a substance called alumina. Alumina is simply aluminium oxide (Al
+2
+O
+3
+). It is 53% aluminium and 47% oxygen. As indicated by Dr. Richards, some 190 tons of alumina are required for every 100 tons of aluminium produced.
+[7]
+Although alumina is the main ingredient in the process, other substances are also involved. These include cryolite (NA
+3
+AlF
+6
+), aluminium fluoride (AlF
+3
+), sodium carbonate (soda ash - NA
+2
+CO
+3
+) and calcium fluoride (fluorspar - CAF
+2
+).
+[8]
+Other material required include coke which, when mixed with pitch, produces a paste which is called anode paste and is made in the form of briquettes. These briquettes may be called the carbon anode.
+[9]
+The purpose for which these various substances are used is that through a process of electrolysis, the oxygen will be reduced from the alumina (Al
+2
+O
+3
+) to produce primary aluminium (Al).
+[10]
+The electrolytic process takes place in a large rectangular steel container called a cell or a pot. These pots are arranged in five series called pot lines. At the relevant time, there were in excess of 800 pots or cells at Baie Comeau. Each pot is lined with refractory material to insulate the box and with carbon (coke, soft pitch and anthracite). In electrolytic terms, this is called the cathode.
+[11]
+Into this is fed a molten solution of the basic ingredients mentioned earlier, namely alumina, cryolite, aluminium fluoride and to which are added fluorspar and soda ash.
+[12]
+The electrolytic process takes place whereby, through a strong electric current, the substances I have described enter into a series of chemical reactions. Carbon electrons from the carbon anode become detached and oxygen ions are attached to form carbon dioxide. The detached electrons are then carried to the molten solution, releasing the oxygen and resulting in metal aluminium. This aluminium is then periodically vacuum-drawn into crucibles, transported to the cast house where it is poured into furnaces, subjected to purification treatment and finally cast into various semi-finished aluminium products.
+[13]
+Problems develop, some of which may be solved without removing the cell from the pot line. Over time, however, more substantial wear and tear to the cell becomes evident. Leaks appear, hard muck is formed, structural and chemical degradation takes place, erosion of the carbon layer allows the bath to overheat the steel shell, and the accumulation of electrically-resistive layers causes a cell voltage which is no longer economical. As a consequence, a periodical clear out of all that each cell contains and a complete reconstruction of its contents are required. It is the cost associated with this relining operation that is one of the issues in dispute. The plaintiff says that such expense is on account of capital to be depreciated in the course of the life expectancy of the lining. The defendant, knowing that in the past, the appellant consistently treated the cost as a recurring expense, sees no reason why it should now be capitalized. The relining operations themselves, as well as the costs charged to them, are not in dispute.
+Cathode Cell Relining
+[14]
+The evidence tells us that where the rectangular steel cell or pot has an average life of some 20 years, the useful or productive life of the lining (or cathode) has historically been much shorter and in the earlier years, somewhere around 20 months. The practice of the plaintiff, at that time, was to charge the replacement cost to current expense. Over the years, however, industry-wide technological improvements, together with plant improvements in the control and monitoring of the electrolytic operations, have slowly but consistently increased the life-span of the cathode. In the relevant taxation years, the functional period had increased to some 45 to 60 months.
+[15]
+Particular attention in the 70's was paid to the tracking of data with respect to insulation or refractory bricks, carbon blocks, pitch paste, and other components of the process. All of this information was computerized. Through strong research and development programs conducted by the plaintiff's parent company, the quality of carbon was improved, energy consumption was reduced, lithium fluoride was added to the bath to allow operations at a lower temperature. The result was a constant improvement in the useful life of the cathode. By 1978, the average life span had reached some four years. By 1992, it had reached in excess of eight years. Tables and graphs filed in the record by the plaintiff provides a pretty clear picture of a constant improvement curve.
+[16]
+It was in 1982 that the plaintiff's auditors reexamined the whole accounting treatment given to the cathode-relining programme. By that time, the cost per replacement unit had reached something close to $60,000. Being in the process of adopting more contemporary methods categorized as the Sumitomo and Péchiney technologies, it was felt that the trend towards an increasing life-span would continue. In the meantime, the current expense approach was creating significant distortions to the plaintiff's balance sheet and profit and loss statements. The cells or pots containing all the cathode components had become significant capital assets. It was accordingly decided to treat each pot as two separate capital items, namely the steel cell itself and the cell's lining.
+The Inventory Issue
+[17]
+As explained earlier, the basic material in the production of aluminium is alumina (Al
+2
+O
+3
+). In the mix, however, is added quantities of cryolite, aluminium fluoride, sodium carbonate and anode carbon. Anode carbon itself comprises coke, pitch and paste. The plaintiff takes the view that these ingredients are inventory of a nature to which s. 20(1)(gg) of the
+Income Tax Act
+, applies, entitling the inventory to a 3% inventory allowance.
+[18]
+The only way to understand the plaintiff's rationale for this claim is to go into somewhat greater detail as to the process which takes place in the cells and how, through electrolysis, the chemical reactions involving these ingredients result in a metal becoming separated or released from its compounds and becoming the element aluminium (Al).
+[19]
+According to Dr. Richards, cryolite (NA
+3
+AlF
+6
+) is the basic electrolyte material into which alumina and the other chemicals are dissolved. Five tons or less are consumed for each 100 tons of metal produced. Then comes aluminium fluoride (AlF
+3
+) to maintain proper chemical balance in the cryolite bath. To this is added calcium fluoride or fluorspar (CaF
+2
+) and sodium carbonate or soda ash (N
+a
+2
+CO
+3
+). The other substances are of course coke and pitch which are mixed to form the anode paste. As Dr. Richards puts it (P-22, p. 15):
+"44. The cathode is comprised of the hearth or layer of prebaked carbon blocks underlying a pool of molten aluminium. This is called the metal pad and the surface in contact with the molten bath is the actual or active cathode. The bath or electrolyte forms a frozen layer of cryolite on the inside surfaces of the carbon sidewalls which protects and accounts for the long life of these sidewalls. The anode of a V.S.S. cell (A-25) is a single, rectangular block of self baking carbon. The extent of immersion and interelectrode distance is regulated by a mechanized jacking and suspension system. The electrodes are connected in a series by massive conductors known as 'the bus work'.
+"45. The anode consists of a single block molded from coke and pitch and baked so that it no longer contains volatile materials. The carbon in the anode is the source of the electrons which are moved around the electrical circuit and end up combined with the Al
+3+
+ions to form the metal aluminium. As electrons are so transferred, the remaining positively charged carbon ions combine with the oxygen-containing anions originating from the alumina (Al
+2
+O
+3
+) to form carbon dioxide (CO
+2
+). The carbon anode is thus consumed while contributing to the production of the metal aluminium.
+"46. The function of the carbon anode is to provide for the separation of the oxygen from the alumina (Al
+2
+O
+3
+) dissolved in the electrolyte. It provides the electrons for the neutralization of positively charged aluminium ions at the cathode which, in turn, form liquid metal aluminium in the cell. The difference in voltage between cells moves these electrons from the anode of one cell to the cathode of the next."
+[20]
+Dr. Richards also explains (at page 19) the chemical reactions as they occur in the cell, namely the electrolyte, the anode and the cathode.
+[21]
+The electrolyte is the molten solution of cryolite, alumina and fluorspar, to which aluminium fluoride and soda ash are added to control and optimize the chemical composition of the bath. Cryolite, alumina and aluminium fluoride, he says, form part of the end product. During electrolysis, they dissociate with the net result that electrons are collected from the carbon anode and are transferred to the aluminium ions in the cathode, ultimately resulting in the liberation of the pure and metal aluminium. Says Dr. Richards at page 20:
+"57. Thus, aluminium from these discrete sources, namely aluminium fluoride, cryolite and alumina, becomes the end product metal aluminium resulting from the electrochemical discharge of Al
+3+
+[...] from these sources [...]"
+[22]
+With respect to anode carbon, Dr. Richards suggests that its function in the electrolytic process is completely different from the function of "reagents" in ore beneficiation (of which more will be heard later in these Reasons). According to Dr. Richards, carbon anodes are consumed, chemically changed and the electrons derived from them are essential to the production of metal aluminium. Indeed, he says, "it is those electrons which give to aluminium all of its characteristic metallic properties".
+[23]
+The plaintiff's position, in terms of the chemical reactions taking place in the cell, is that all the products which have been described are the actual instruments in the process of producing aluminium. The ingenious combination of them, when subjected to electric current, results in a chemical transformation when positive and negative electrons in the respective products are exchanged and some of them become incorporated in the product aluminium. There is therefore no reason, says the plaintiff, why the inventory of these materials should not enjoy the special allowance provided in s. 20(1)(gg).
+The Law On The Capitalization Issue
+[24]
+It has often repeated that the concepts of capital and income expenditures are not defined in the
+Income Tax Act
+. The general approach, of course, has reflected the principles of "lasting value" for one or recurring expenditure for the other. In most cases, the difference is readily apparent and no issue arises. In other cases, however, it happens that all of the historical criteria or principles relied upon to make a finding one way or the other are in a conflict situation, effectively resulting in a balance of considerations. In such cases, the final determination is not so easy.
+[25]
+The problem was expressed by Lord Chief Justice MacDermott back in 1951 in the case of
+ <FRAGMENT_SUPPRESSED>  T.C. 15 (C.A.), where he said at page 42:
+"There is so far as we are aware no single infallible test for settling the vexed question whether a receipt is of an income or a capital nature. Each case must depend on its particular facts and what may have weight in one set of circumstances may have little weight in another. Thus the use of the words 'income' and 'capital' is not necessarily conclusive; what is paid out of profits may not always be income; and what is paid as consideration for a capital asset may on occasion be received as income. One has to look to all the relevant circumstances and reach a conclusion according to the general tenor and combined effect."
+[26]
+It follows from the foregoing that courts must take guidance from somewhere, if only to respect criteria which will assure some consistency in the doctrine and avoid too many conflicting decisions. That kind of guidance must come from case law. This is the view adopted by Estey, J., in
+ <FRAGMENT_SUPPRESSED> , where at p. 70 he quotes the statement of Lord Wilberforce in
+ <FRAGMENT_SUPPRESSED>  cases which raise the question whether a payment is to be treated as a revenue or as a capital payment for indicia to point different ways. In the end the courts can do little better than form an opinion which way the balance lies. There are a number of tests which have been cited in reported cases which it is useful to apply, but we have been warned more than once not to seek automatically to apply to one case words or formulae which have been found useful in another [...] Nevertheless reported cases are the best tools that we have, even if they may sometimes be blunt instruments."
+[27]
+Further enlightenment on the issue was provided more recently by Rouleau, J., of this court in
+ <FRAGMENT_SUPPRESSED> ; at p. 265; 92 D.T.C. 6225, at p. 6228, where he said:
+"The determination as to what constitutes a capital expenditure as compared to a revenue expenditure is often an arduous task. There is no hard and fast rule as to when expenditures made on capital assets will, and when they will not, be considered to be capital expenditures within the meaning of paragraph 18(1)(b) of the
+Income Tax Act
+. Although general principles can be extracted from the jurisprudence, the issue of capital expenditure versus expenses, is largely a question of fact in each case and often a question of degree. The determination cannot be made by the application of any rigid test or definition. Rather, it is derived from an appreciation of the whole set of circumstances, some of which may point to the conclusion that the expenditure is capital in nature and others which indicate it is an expense. What is required is a common sense correlation of the legal principles as set out in the case law with the unique fact situation of any given case."
+[28]
+In a review of jurisprudence where courts had to come to terms with borderline cases, some insight may be gained, at least by analogy, in reviewing briefly the following cases.
+[29]
+ <FRAGMENT_SUPPRESSED>  Martland, J., said at p. 12:
+"Profits from a business subject to any special directives in a statute, must be determined in accordance with ordinary commercial practices."
+[30]
+ <FRAGMENT_SUPPRESSED> , Walsh, J., of this court said at p. 5137:
+"The fact that prior to the 1974 taxation year, the Department of National Revenue had permitted the defendant's predecessor corporations to deduct the type of expenses with which we are here concerned as revenue expenses does not of itself establish that this is a normal commercial or business practice, nor does it estop the plaintiff from adopting a different position for the 1974 taxation year."
+[31]
+ <FRAGMENT_SUPPRESSED>  by the taxpayer contiguous to its open-pit mining operations and necessary to maintain the appropriate wall slope and angle of repose of the overburden constituted a capital outlay or a running expense. Estey, J., reviewed at length the many expressions and comments made in other cases. He cited among others a Privy Council decision in
+ <FRAGMENT_SUPPRESSED> ; [1964] 1 All E.R. 208 (P.C.), at p. 960, to the effect that when defining a capital structure established for an "enduring profit", "enduring" did not necessarily mean permanent nor did it mean perpetual. Estey, J., also cited Romer, L.J., in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at p. 563, to the effect that the issue "[...] depends in no way upon what may be the nature of the asset in fact or in law. Land may in certain circumstances be circulating capital. A chattel or a chose in action may be fixed capital. The determining factor must be the nature of the trade in which the asset is employed". Finally Estey, J., at p. 72 said that "[...] where the taxing statute is not explicit, reasonable uncertainty or factual ambiguity resulting from lack of explicitness in the statue should be resolved in favour of the taxpayer".
+[32]
+In the
+Central Amusement
+case (supra), Rouleau, J., had to decide whether the amounts expended for conversion kits to replace the circuit boards on video games which, through recurring use by the public, had become obsolete, constituted a capital expenditure or a current expense. On the grounds that these circuit boards were changed on a continual and recurring basis, that the advantages gained were temporary (usually six to eight months) and that the costs involved were minor in relation to the value of the equipment, Rouleau, J., ruled the costs as being current in nature.
+[33]
+On the other hand, in
+ <FRAGMENT_SUPPRESSED>  special electrical wiring and washroom\toilet facilities to meet a lessee's requirements were deemed as constituting an enduring benefit and ruled capital expense. (Dumoulin, J., in this case remarked on the irksome task of "airing" a trilogy of leading cases dealing with capital and current expense. He stated, in his own inimitable style, that this was an inescapable obligation if this brand of law, trapping the judicial writer in the dilemma of being plagued with judicial oversight should he omit to quote them, or cursed for boredom if he does. His Lordship chose what appeared to him to be the lesser risk. So am I.)
+[34]
+ <FRAGMENT_SUPPRESSED>  of the cost of a new engine aboard one of the respondent's tugs which the plaintiff wanted to expense. His Lordship, in allowing the Crown's appeal and ruling that it constituted a capital outlay, said at page 171:
+"While the expense of replacing engines is a recurring one in the sense that it recurs in respect to each tug once in five, eight, or ten years. I do not think the expenditure can be classed as one made to meet a continuous demand. There may be more or less continuous demand for repairs to the tug and to the engine in it, but there is no continuous demand for replacement of the engine any more than there is continuous demand for replacement of the hull as a whole. Moreover, in my opinion, the respondent's trade has gained an advantage by the expenditure, in that the expenditure has provided an engine which makes the tug more reliable, keeps it more constantly in service, and enables it to earn greater revenue and at the same time avoids the abnormal repairs formerly required. And such advantage is of an enduring nature in that the anticipated life of the new engine is ten years. No doubt there will be wear and tear each year beyond what is restored by repairs in the year and the advantage will ultimately be exhausted, but in my opinion that does not affect the nature of such advantage as capital. If any deduction from income is to be allowed in respect of such exhaustion, in my view, it must be by way of an allowance of the kind permitted under the exception to s. 12(1)(b)."
+[35]
+ <FRAGMENT_SUPPRESSED>  (H.L.), a majority of the House of Lords ruled that the cost of knives and lasts purchased by the taxpayer for its shoemaking machines constituted a capital outlay. It would not have appeared to their Lordships that the low nominal value of the knives and lasts, nor their useful life of two or three years, made any difference to their determination.
+[36]
+The principle that a capital asset which might be regarded as only a part of a larger asset, as in the case of a tugboat engine, may still be treated separately for tax purposes was recognized in:
+ <FRAGMENT_SUPPRESSED> , in regards to the replacement of steel tanks carried aboard tank trucks; and in
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.), with regards to drop lines connecting distribution cables to a subscriber's house.
+[37]
+As one may observe from all of the foregoing cases, the basic principles of "enduring asset" or "recurring expenditure" have been applied fairly consistently. Where some of these cases, however, might be more than "blunt instruments", the rationale in the determination of each particular issue implies different perceptions, approaches, constructs and terms which are harmonious with the ultimate opinion expressed in the judgment call made. The logical conclusion, in effect, is that each hard case needs to be particularized.
+The Law On Inventory
+Allowance (s. 20(1)(gg))
+[38]
+The relevant statutory provision of the
+Income Tax Act
+reads as follows:
+"20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may be reasonably be regarded as applicable thereto:
+Inventory Allowance
+(gg) an amount in respect of any business carried on by the taxpayer in the year, equal to that portion of 3% of the cost amount to the taxpayer, at the commencement of the year, of the tangible property (other than real property or an interest therein) that was
+(i) described in the taxpayer inventory in respect of the business, and
+(ii) held by him for sale for the purpose of being processed, fabricated, manufactured, incorporated into, attached to, or otherwise converted into or used in the packaging of, property for sale in the ordinary course of the business"
+[39]
+This special allowance was put into the statute book in 1977. The Federal Court of Appeal noted in the case of
+ <FRAGMENT_SUPPRESSED>  D.T.C. 5034 (F.C.A.), that
+"[...] its obvious purpose was to allow some relief to businesses from the increased tax liability due to 'false' profits created by the effect of high inflation on year-end inventories. (This special provision of the
+Income Tax Act
+was rescinded in 1986.)"
+[40]
+In the case at bar, the materials which are in dispute consist of coke, pitch, anode paste, cryolite, aluminium fluoride and sodium carbonate. The material which does appear to be in dispute consists of alumina, which, as noted before, is the basic raw material from which aluminium is produced. In argument, however, counsel for the defendant conceded that some aluminium (Al) is obtained from cryolite and aluminium fluoride.
+[41]
+It was said in
+ <FRAGMENT_SUPPRESSED>  (T.D.), at p. 6461, that four preconditions must be met before a taxpayer may benefit from a s. 20(1)(gg) allowance. The first condition is that the allowance must be claimed on the cost amount of the property at the beginning of the year. The second condition is that the property must be tangible property other than real estate or an interest therein. The third condition is that the property be described in the inventory in respect of the taxpayer's business. There is no dispute with respect to these conditions.
+[42]
+The fourth condition is the one in issue, namely whether the impugned products are
+"[...] being processed, fabricated, manufactured, incorporated into, attached to or otherwise converted into [...] property for sale in the ordinary course of business."
+[43]
+The court is not aware whether or not an electrolytic process of the nature described was in the minds of the legislators when that particular statutory provision was adopted. The chemical reaction whereby, through electrolysis, electrons released from carbon run to aluminium compounds and in turn release the oxygen therein is a pretty arcane or esoteric process. The parties agree, however, that the matter has not been previously subjected to judicial test and that very little case law exists to guide the court.
+[44]
+Nevertheless, a similar but not identical process was scrutinized by Teitelbaum, J., in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 5357 (T.D.), whose learned and considered judgment was later confirmed by the Federal Court of Appeal ((1992), 142 N.R. 79; 92 D.T.C. 6252). In that case, the mining company had a process to form copper, zinc and lead concentrates from the raw ore extracted from an open pit operation. The raw ore was put through various crushers until pulverized into a granular form or coarse powder.
+[45]
+To produce the concentrates, a flotation process was used. This is described at p. 5359 as follows:
+"Flotation is a physico-chemical method of concentrating finely ground ores. The process involves chemical treatment of an ore pulp to create conditions favourable for the attachment of certain mineral particles to air bubbles. The air bubbles carry the selected minerals to the sources of the pulp and form a stabilized froth which is skimmed off while the other minerals remain submerged in the pulp."
+[46]
+The chemical treatment involved consists of flotation reagents categorized as conditioners, modifiers, activators, depressants, frothers and collectors. Different categories of reagents are used for different purposes and different amounts are added to the pulp depending on what mineral is involved. When air bubbles are fed into the pulp, the reagents cause one or more of the minerals to cling to the bubbles and rise to the surface. There, the minerals are skimmed off and the residue is slag. The operation is several times repeated to achieve the required level of concentration.
+[47]
+The company claimed that these reagents were inventory and entitled to the 3% inventory allowance. Establishing that treating the reagents as inventory was a good and well-accepted accounted practice, the company argued that the reagents were fully covered by s. 20(1)(gg)(ii) in that they were held for the purposes of being processed, fabricated, manufactured, incorporated into, attached to or otherwise converted for sale of the concentrates.
+[48]
+The company also relied on Interpretation Bulletin IT-435R issued June 23, 1982, which at paragraph 17 states as follows:
+"17. With regard to the requirements in 14(b) above, the Department's position is that the inventory must be physically used or be an actual ingredient in the finished product, but it is not necessary that the inventory be identifiable in the finished product. An example of a raw material which is an essential ingredient of the finished product is a chemical used to make a product, where the chemical is not identifiable in the end product. Examples of materials which are not physically used or an actual ingredient in the finished product are supplies and spare parts used to maintain and repair machinery essential to production or a combustible material, such as coal, used to generate the energy necessary to operate the equipment."
+[49]
+In his decision, Teitelbaum, J., carefully analyzed the function and the purpose of the reagents and how they are used. He found that they create conditions favourable to the adherence of the minerals to the air bubbles, resulting in the required separation. He found that the bulk of the reagents remain in the tailings and only minute particles are present in the saleable concentrate. They in fact disappear altogether in the final refining process.
+[50]
+Teitelbaum, J., then concluded that the reagents were not property that could be said to be "processed
+into
+" or "incorporated
+into
+" property for sale and therefore were not entitled to an inventory allowance.
+[51]
+Another case cited is
+ <FRAGMENT_SUPPRESSED> , where the issue was whether regulators to vary gas pressure in the delivery of gas to consumers were, under the
+Excise Tax Act
+, exempt from tax as being "machinery and apparatus sold to or imported by manufacturers or producers for use by them directly in the manufacture or production of goods".
+[52]
+In confirming the earlier Tariff Board decision that the regulators did not qualify for an exemption, the Federal Court of Appeal said at p. 6440:
+"[...] it was still open to the Board on the material before it to regard as it did the gas itself as the 'goods' referred to in the statute and to find, as it also did, that the pressure regulators had not changed the commercial qualities or characteristics of that gas to such an extent as to amount to 'manufacture or production' of gas in the common meaning or sense of that expression.
+"In my opinion, it was also open to the Board to find, as it did, as a concomitant to this conclusion that the change in pressure was but a change in pressure at which the gas was delivered, for to my mind it appears from the evidence that the successive steps in reducing the pressure of the gas to move it safely and economically through the appellant's distribution system and the pressure maintained at the several stages of movement of the gas through that system could be regarded as features or characteristics of that system and as dictated by its needs and the need to deliver the gas to consumers at the sufficiently high range of pressure to enable the final regulator to maintain the supply at a low but constant pressure."
+[53]
+One may observe from the foregoing cases that the conditions for an inventory allowance have certainly not been interpreted in a fashion that would bring all property in inventory within the terms of the benefit. In other words, when interpreting such terms as "processed into" or "incorporated into" or "manufactured into" or "attached to", the courts so far have resisted a reductio approach and have shied away from adopting the doctrine of analogous grounds too readily.
+Findings
+The Capitalization Issue
+[54]
+There is no penury of evidence in respect of the electrolyte or cathode as property and as to its identity in the process of producing metal aluminium. That evidence from the plaintiff's witnesses seems to be in sync on both the nature and the characteristics of that property and on its periodic replacement costs as constituting a capital outlay.
+[55]
+The story told from the earlier years of the Baie Comeau operations up to the taxation years in question and beyond is pretty conclusive in explaining why the plaintiff should have decided that the replacement costs, hitherto expended annually, should later be capitalized.
+[56]
+I must find that in terms of definable property, in terms of its function in the production process, in terms of its increasing life-span, it certainly fits into the various categories of capital assets which case law has long established and recognized. Whether one is dealing with an engine in a tugboat, washroom facilities in a building, knives and lasts in the fabrication of shoes, or a steel tank aboard a tank truck, the same principle of "lasting asset" or "enduring benefit" applies.
+[57]
+The evidence of the plaintiff on the technological progress made over the years to improve the life-span of the cathodes -- from 20 months to 45-60 months and currently running at some eight or nine years -- is pretty persuasive of how a particular cost may evolve from being one on current account to one of capital expense.
+[58]
+I am also satisfied that on the evidence, the periodic relining of the cathode is effectively a replacement cost. The steel cell, after removal from the pot-line, is literally scoured of all its contents before the relining operation takes place. This involves the installation of insulation material, refractory bricks, coke, pitch and paste, briquettes and steel rods to carry the electric current. In the relevant period, the operation required some 28 man days to complete and the cost ran from $46,000 to $60,000. This might not be a big item in a big plant when each cathode is examined individually. It will be recalled, however, that the plaintiff runs five pot-lines with a total in excess of 800 cells, which one can measure as requiring annually some 150 relinings. Currently, the plant has in excess of 1,000 cells and relining costs have now reached something close to $100,000 each.
+[59]
+The evidence is also clear that classifying this expenditure as a capital outlay is in accordance with Generally Accepted Accounting Principles (GAAP). Mr. D. Filion, a chartered accountant, is quite satisfied that the cathode is readily identifiable as tangible property and although its earlier life-span might not have made of it property of lasting value, the longer life later experienced invited another look. From a purely accounting point of view, capitalizing the cost of that property provides a more accurate and more objective analysis of the plaintiff's balance sheet and of its profit and loss statements. Mr. Filion also suggested that if the relining costs had remained constant, the distortion under the earlier scheme might have been minimal, but the cost escalation over a period of time made the issue more substantial.
+[60]
+The evidence of Mr. Ian Hume, also a chartered accountant, confirms that of Mr. Filion in declaring without hesitation that the capitalization of the cathode costs is very much in accordance with GAAP. In this regard, Mr. Hume considered a number of sources dealing with the subject of current expenditures and capital costs, including the Canadian Institute of Chartered Accountants'
+Handbook
+, Mr. R.M. Skinner's
+Accounting Principles
+(CICA 1972), and other authorities as well.
+[61]
+The witness quotes from R.M. Skinner's book, which states at p. 88 that:
+"In theory, any tangible asset acquired for use and not for resale and having a usefulness extending beyond one yearly accounting period is a capital asset."
+[62]
+It might be argued that such a theoretical approach does not always meet the realities of a situation, but in my view, its application creates no problem in the case at bar.
+[63]
+Mr. Hume also cites authority in respect of the dissociation of certain component parts of an asset if such parts were to have a useful life different from the asset as a whole. In this respect, he cites as examples an aircraft and its engine, a building and its roof and its plumbing, which might be separately accounted and depreciated accordingly.
+[64]
+The defendant, however, invites the court to step back from the cathodic process and take a much broader view of aluminium production as a whole. Included in the assets of the plant are harbour facilities, discharging equipment, storage silos, huge suction elevators, cells, forms and crucibles. These, says defendant's counsel, are obviously capital assets. Not so, however, for the production process where the cathodes, being an integral part of that process, are simply consumable stores applied against the revenue-producing process.
+[65]
+I will concede that such an approach to the subject matter is arguable and in other circumstances might even be conclusive. In my respectful view, however, the cathodes involved are identifiable and separable as are indeed the steel cells themselves. The situation in that respect is no different from that recognized by courts in some of the cases I have cited and in many others as well, namely:
+ <FRAGMENT_SUPPRESSED>  industry practice with respect to similar methods of production and to what extent a breakdown of several components in a total production process has been established for expense purposes. Nor has the court any rebuttal evidence to vary or alter the plaintiff's position on the facts it has presented. I can only observe that even if everything were equal, if no statutory bar were to intervene, and if the position were in accordance with accounting principles, there is left to a taxpayer in those circumstances a residual discretion which, in my view, should be respected.
+The Inventory Allowance
+[67]
+This issue between the parties is somewhat more vexing. The electrolytic process in aluminium production is not an assembly job. Nor is it one where a slab of steel is added to asbestos or other refractory substances to create a firewall. It is a process of electrical energy, where indigenous substances are submitted to a chemical chain-reaction. The substances in suit are cryolite, aluminium fluoride, coke, pitch and anode paste. Of these, the defendant's counsel has pretty much conceded that as the aluminium in cryolite and in aluminium fluoride becomes part of or is added to the volume of the final product, it might very well appear to come within the kind of property described in s. 20(1)(gg) of the
+Income Tax Act
+. There is therefore left to consider the other substances, namely coke, pitch and anode paste.
+[68]
+The position taken by the plaintiff is that all of these substances, together with alumina, aluminium fluoride and cryolite are all chemically transformed by electrolysis and become components of the end product aluminium.
+[69]
+The process, says counsel, requires that the positively charged aluminium ions (Al
+3+
+) which have been discharged from all of the aluminium compounds be neutralized by negative ions which are discharged from coke, pitch and anode paste (collectively the anode carbon) in the form of electrons. These electrons from the carbon anode unite with the aluminium ions found in the aluminium compounds.
+[70]
+As I understand counsel's argument, it is these electrons which are incorporated into the product aluminium and as such fall into the provisions of s. 20(1)(gg) of the
+Act
+. On that basis, counsel argues that:
+1. The metal aluminium would not exist without these electrons, and these electrons are a recognizable, beneficial and integral part of the end product.
+2. The electrons are contributed by the carbon anode and the oxygen which is liberated from the oxides unites with carbon to change its composition from carbon to carbon dioxide.
+3. The chemical changes involved are neither accidental, nor incidental, nor residual in producing the end product; they are for the very purpose intended, i.e. the liberation of pure aluminium.
+[71]
+The plaintiff's counsel goes to some length in distinguishing these substances from the reagents used in the flotation process described in the <FRAGMENT_SUPPRESSED> case (supra) where it was ruled that such reagents did not qualify as inventory for inventory allowance purposes. As to these reagents, counsel suggests that:
+1. The flotation process is more a physical beneficiation of the ore involved.
+2. The separation process is through difficult physical properties in the ore itself, whereby through magnetic or electrostatic forces, metallic elements adhere to bubbles and float to the surface.
+3. The reagents do not react with or interchange any particle of their composition with the ore product.
+4. The residual reagents left in the concentrate have not changed their nature or characteristics, nor have they absorbed any component elements in the concentrate; in fact, they remain as distinct impurities in the concentrate and are eliminated when further refining of the product takes place.
+[72]
+The foregoing exposé might appear to be pretty persuasive, but before analyzing it further, it might be wise to recapitulate the process which takes place in the cell. It appears to me that the basic chemical transformation which takes place is that the carbon anode releases electrons to the alumina and the oxygen ions in the alumina are transmitted to the carbon to form carbon dioxide. This transformation or decomposition is literally at the atomic level of change and according to the evidence, the electrons themselves become incorporated into the aluminium product.
+[73]
+This is all very well, but it must be kept in mind that the cell itself is lined not only with refractory bricks, but also with carbon made up of coke, soft pitch and anthracite. This lining forms the cathode and the surface in contact with the molten bath, consisting of alumina, cryolite and aluminium fluoride (and other conducive agents as well), constitutes the actual or active cathode.
+[74]
+Yet, the evidence discloses that all the different materials in the cathode cell are also transformed by the chemical process. This transformation has been called structural and chemical degradation, creating among other things an erosion of the carbon blocks on the cell base and sidewalls, allowing the cell to overheat, and an accumulation of electrically resistive layers where the voltage required is no longer economical.
+[75]
+I would therefore observe that if the carbon blocks and paste in the cell's lining are also chemically transformed over time, an anomaly might be created in treating the carbon blocks and the carbon anode differently. Having found that the carbon blocks constitute part of the capital outlay, they can no longer be part of the inventory.
+[76]
+As stated by Gibson, J., in
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), at p. 197:
+"[...] inventory in my view should not be given the broadest meaning that could be attached to it, but instead, the whole
+Act
+should be looked at to give it a reasonable and practical meaning, specially when, for example, there are sections of the
+Act
+which in themselves constitute a complete code [...]"
+[77]
+And later:
+"Depreciable assets fit the description of 'inventory' in the
+Act
+, but cannot be such because if classified as inventory, then s. 1102(1)(b) of the
+Regulations
+precludes a capital cost allowance deduction."
+[78]
+Of course, I need not resolve that seeming anomaly for purposes of this case, but I nevertheless should point out that if both carbon blocks and carbon anode are to be treated separately, the total cost of their common ingredients would have to be segregated.
+[79]
+In any event, it appears to me that the only product which is left in issue in this inventory business is the anode carbon, consisting of coke, pitch and paste formed into briquettes. These briquettes in turn are dipped into the electrolyte bath. As we have seen, the anode carbon provides electrons for the reduction of alumina and provides the end product aluminium. The evidence before the court is that the typically shiny appearance of the metal reflects the optical properties of these electrons that give it such high electrical and thermal conductivity.
+[80]
+All this might be true, in a sense. The question may be asked, however, whether it is in that sense that the legislators perceived an inventory allowance when s. 20(1)(gg) was enacted.
+[81]
+First of all, the inventory allowance does not apply to all products which a taxpayer may have in inventory. It only applies to a product which is
+processed
+into property for sale, or
+fabricated into
+property for sale, or
+incorporated into
+property for sale, or
+attached
+or otherwise
+converted into
+property for sale. What meaning may be ascribed to this family of words?
+[82]
+The
+Concise Oxford Dictionary
+(7th Ed.), at p. 820, defines "process" as a course of action; a series of operations in manufacture; natural or involuntary operation; series of changes.
+[83]
+At p. 345, "fabricate" is defined as "construct; manufacture" (especially product in final shape from semi-finished metal stock).
+[84]
+At p. 507, "incorporate" is said to mean unite (in one body, with another thing); combine (ingredients) into one substance.
+[85]
+On the face of it, the product involved would include, as the statute defines it a multiple of tangible assets. In my view, however, it is the
+product
+which somehow or other must be processed, manufactured, incorporated into, attached to or converted into the product for sale. Heaven knows how many such assets are part of a taxpayer's inventory, but the statute makes no mention of assets or products which are
+used
+to make a product, or
+employed
+,
+consumed
+,
+applied
+or
+exploited
+for that purpose.
+[86]
+The closest that plaintiff's argument can come to is that some electrons from the carbon anode are electrolytically liberated and find their way in the end product aluminium. The flaw in that argument is that the product itself, namely carbon, does not find itself processed, or manufactured or incorporated
+into
+the product aluminium. In my view, it is only when the product goes into the product for sale can it be classified as inventory enjoying special treatment.
+[87]
+In any event, if it can be said that the total electrolytic process creates chemical reactions and transformations in the cell as well as in the bath, one might wonder why all of the coke, pitch and paste used in the process should not similarly be treated. In other words, the reduction process which is evident in the plaintiff's argument might have to run parallel with the reduction process in the cell itself, a position which, in the light of the capitalization issue, it would be difficult for the plaintiff to take.
+[88]
+I have earlier observed that it was an open question as to whether the kind of chemical process involved in the production of aluminium or of any other product was in the minds of the legislators when the statute, as drafted, was enacted. The relevant case law I have cited has evidently recognized the limitations as to the kind of inventory products which obviously do not enjoy preferential treatment. I interpret the reasoning of Teitelbaum, J., in the <FRAGMENT_SUPPRESSED> case (supra) as imposing on the scheme a condition that the product must find its way into the product for sale and that in the absence of that product in the product for sale, the inventory allowance does not apply to it. Teitelbaum, J., fully explored the interpretative arguments advanced by the taxpayer to the effect that the reagents added to the ore are essential raw material for the production of metal concentrates and that the process cannot be commercially viable without these reagents. He concedes that the taxpayer's reasoning on this was correct. Nonetheless, he concludes that the reagents did not find their way into the products for sale, namely the concentrates.
+[89]
+On the facts before me, I should arrive at the same conclusion. A contrary finding would, in my view, give an extended meaning to the text of s. 20(1)(gg), a meaning which, on my analysis, it will not bear. If the carbon anode is said to be consumed, it is not consumed in the aluminium product, an element which contains
+no
+carbon. It is consumed, as the evidence discloses, into carbon dioxide.
+[90]
+Included in the inventory which does not benefit from the inventory allowance are the other products, namely fluorspar and soda ash. These products are not in dispute. There is left, of course, the other ingredients which fall into s. 20(1)(gg), namely alumina (Al
+2
+O
+3
+), cryolite (NA
+3
+AlF
+6
+) and aluminium fluoride (AlF
+3
+).
+Conclusion
+[91]
+These reasons dispose of both the capitalization and the inventory allowance issues. In the reassessments for the relevant tax years, however, a number of other contentious matters were raised. Subsequent to the trial and through the able collaboration and mutual understanding of both counsel, these other concerns were settled and simply require the court's endorsement. They are as follows:
+1. Plaintiff's 1977 Taxation Year
+(a) The plaintiff's appeal with respect to the amount of $4,723,535, representing the plaintiff's accrued net gain at the end of its 1977 taxation year in respect of its sales made in United States dollars to affiliated companies, is dismissed.
+(b) Legal expenses in the amount of $14,314.00, incurred by the plaintiff to earn income from a Canadian resource company, are deductible as a Canadian exploration expense in accordance with s. 66.1(3) of the
+Income Tax Act
+.
+(c) Canadian exploration expenses in the amount of $26,341.59, incurred by the plaintiff as a participant in a joint venture, are deductible as a Canadian exploration expense in accordance with s. 66.1(3) of the
+Income Tax Act
+.
+(d) The amounts of $14,314 and $26,341.59, described in subparagraph 1. (b) and (c) above, are to be included in the plaintiff's earned depletion base and the deduction permitted pursuant to s. 65(1) of the
+Income Tax Act
+should be calculated in accordance thereof.
+2. Plaintiff's 1979 Taxation Year
+(a) Legal expenses in the amount of $3,270, incurred by the plaintiff to earn income from a Canadian resource company, are deductible as a Canadian exploration expense in accordance with s. 66.1(3) of the
+Income Tax Act
+.
+(b) The amount of $3,270, described in subparagraph 2. (a) above, is to be included in the plaintiff's earned depletion base and the deduction permitted pursuant to s. 65(2) of the
+Income Tax Act
+should be calculated in accordance thereof;
+(c) An additional amount of $85,462.73 will be included in the plaintiff's earned depletion base and the deduction permitted pursuant to s. 65(1) of the
+Income Tax Act
+should be calculated in accordance thereof.
+3. Plaintiff's 1980 Taxation Year
+(a) The amount of $1,330,620, representing the price of aluminium in respect of which title did not pass to the plaintiff's parent and customer during the 1980 taxation year, should not be included in its income for the year.
+[92]
+The court is aware that other tax consequences flow from the determination made with respect to what has been referred to as the capitalization issue and the inventory allowance issue. These consequences might include appropriate adjustments on capital cost allowance, on investment tax credits and on the earned depletion base, and perhaps include other adjustments as well. Such adjustments, in my view, flow logically and necessarily from the disposition of the plaintiff's claim to capitalize the relining costs of its cathode cells. Other adjustments might also flow from the disposition of the plaintiff's claim to an inventory allowance and which might fall into the same category of logic and necessity.
+[93]
+Where I would normally issue a formal judgment dealing with all substantive issues, including all appropriate adjustments for the relevant taxation years, it might be more prudent to request counsel for the parties to prepare and agree on the appropriate draft judgment and submit it to me for endorsement. In this way, there will be more assurance that all items in dispute will have been covered and that no outstanding issues are left.
+[94]
+Costs, including the costs of expert witnesses, are awarded to the plaintiff. These are limited to the costs of the trial, the parties having agreed that they are to absorb their own costs relative to the issues settled on consent.
+[95]
+I may of course be spoken to if counsel cannot reach full agreement on the terms of the draft judgment. In the meantime, of course, I remain seized of the case.
+Order accordingly.
+Editor: Gary W. McLaughlin/dlr
+[End of document]

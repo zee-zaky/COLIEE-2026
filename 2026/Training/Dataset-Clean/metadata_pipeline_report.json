@@ -1,0 +1,7 @@
+{
+  "preset": "train_2026",
+  "output_clean_dir": "2026/Training/Dataset-Clean",
+  "cleaned_cases_dir": "2026/Training/Dataset-Clean/CleanedCorpus",
+  "metadata_file": "2026/Training/Dataset-Clean/processed_cases.json",
+  "num_cases_processed": 7708
+}

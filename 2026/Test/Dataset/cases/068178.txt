@@ -1,0 +1,1214 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: The plaintiffs, as owner in the case of Baker Petrolite Corporation ("Petrolite"), as predecessor in title to Petrolite in the case of Petrolite Holdings Inc., and as exclusive licensee for Canada in the case of Baker Hughes Canada Company ("Petrolite Canada"), seek relief against the defendants for infringement of Canadian Letters Patent 2,005,946 ("the Patent"). The Patent issued on the 7th of February, 1995 for an invention of Edward P. Dillon entitled "Composition and Method for Sweetening Hydrocarbon".
+[2]
+The defendant Canwell Enviro-Industries Ltd., ( <FRAGMENT_SUPPRESSED> ), as plaintiff by counterclaim, seeks relief against the plaintiffs on the ground that the Patent is invalid and that it has suffered damage by reason of the plaintiffs' actions in holding out, over many years commencing before the Patent issued, that the Patent is valid, and that Canwell infringes the Patent in the course of its business.
+THE PATENT IN SUIT
+[3]
+As previously indicated, the Patent is entitled "Composition and Method for Sweetening Hydrocarbon". The application for the Patent was filed the 19th of December, 1989 by Quaker Chemical Corp. (Delaware). The application was laid open on the 23rd of June, 1990. Quaker Chemical Corp. (Delaware) assigned its interest in the application to Petrolite Holdings, Inc. on the 27th of July, 1993. Petrolite Holdings Inc. in turn assigned its interest in the application to Petrolite Corporation on the 8th of July, 1994. The Patent issued to Petrolite Corporation on the 7th of February, 1995. Petrolite Corporation changed its name to Baker Petrolite Corporation on the 9th of July, 1997.
+[4]
+The field of the invention disclosed by the Patent, the background of the invention and a summary of the invention are well described in the disclosure to the Patent in the following terms:
+"
+Field of the Invention
+The present invention relates to a method and composition for sweetening gaseous and/or liquid hydrocarbon streams. More specifically, this invention relates to a method and composition for reducing the hydrogen sulfide and organic sulfide levels in such streams, particularly natural gas streams.
+Background of the Invention
+Natural gas is a naturally occurring mixture of hydrocarbon and non-hydrocarbon gases found in geologic formations beneath the earth's surface, often in association with petroleum. As obtained from oil and gas wells, raw or sour natural gas contains a number of impurities which must be removed before being introduced into a pipeline. The principal impurities in natural gas are water, carbon dioxide, hydrogen sulfide and condensable hydrocarbons, such as propane, butane and pentane. These undesirable components are conventionally removed from raw natural gas streams in gas processing plants. The processing plants are normally located in the field and vary in size from small units to large, centrally located plants.
+The composition of raw natural gas varies widely from field to field. For example, the methane content can vary between 45 percent and 96 percent by volume, while the hydrogen sulfide content may range from 0.1 ppm to 150,000 ppm. Since hydrogen sulfide is corrosive in the presence of water and poisonous in very small concentrations, it must be almost completely removed from natural gas streams before use and preferably before transport. As a result, many pipeline specifications limit the amount of hydrogen sulfide to less than 0.25 gr per 100 cu. ft. of gas.
+The technology known in the art for removing hydrogen sulfide from raw natural gas was developed for large processing plants to remove hydrogen sulfide in continuous processes. These large processing plants are fed by one or more natural gas wells, each of which produces over 10 million cubic feet of natural gas per day. Many of these processes utilize commodity chemicals or proprietary materials to lower the hydrogen sulfide levels in natural gas to pipeline specifications. Also, many of these processes not only sweeten sour natural gas to pipeline specifications, but also regenerate most, if not all, of the sweetening compositions involved.
+Generally, there are several methods for sweetening sour gas, i.e., for reducing the hydrogen sulfide content of new gas. For example, various chemicals may be added or injected 'in-line' to natural gas pipelines. For example, these sweetening products may be injected at the well head, separators, glycol units, coolers, compressors, etc., to provide contact with the natural gas.
+Materials used with such 'in-line' injection systems include, e.g., various aldehydes. The hydrogen sulfide reacts rapidly with the aldehyde compounds producing various types of addition products, such as polyethylene sulfide, polymethylene disulfide and trithiane. Such a process is disclosed, e.g., in Walker, J.F.,
+Formaldehyde
+, Reinhold Publishing Company, New York, page 66 (1953).
+U.S. Patent No. 4,748,011 [the 'Baize Patent'] discloses a method for the separation and collection of natural gas comprising the use of a sweetening solution. The sweetening solution consists of an aldehyde, a ketone, methanol, an amine inhibitor, sodium or potassium hydroxides and isopropanol. The amine inhibitor includes alkanolamines to adjust the pH.
+Although the aldehydes (e.g., formaldehyde) are effective in the reduction of the hydrogen sulfide level of natural gas and selective for sulfide compounds, they are known to form trithiane compounds upon reaction with the sulfides. The trithianes are solids which do not easily dissolve and therefore, clog gas lines.
+Also, aldehydes are unstable, temperature sensitive and have the tendency to polymerize. Moreover, aldehydes are known carcinogens and environmental hazards. Accordingly, the use of aldehydes for sweetening natural gas has come under disfavor.
+Alkanolamines may also be used to sweeten sour gas streams, e.g., in such 'in-line' injection systems. Various alkanolamines may be used in such systems, e.g., monoethanolamine, diethanolamine, methyldiethanolamine and diglycolamine. For example, U.S. Patent No. 2,776,870 discloses a process for separating acid components from a gas mixture comprising adding to the gas an absorbent containing water-soluble alphatic amines and alkanolamines, preferably ethanolamine.
+However, the alkanolamines are not selective in their reaction with hydrogen sulfide. That is, alkanolamines absorb the total acid-gas components present in the gas stream, e.g., carbon dioxide, as well as H
+2
+S. Such non-selectivity is not desirable in many applications and therefore, the usage of alkanolamines has also come under disfavor for this reason.
+Another method used for the reduction of the hydrogen sulfide level in gas streams is the use of an H
+2
+S scrubber tower which causes the gas to contact a sweetening medium. The bubble tower processes are batch or one-step processes which increase the opportunity for contact between the natural gas and the sweetening product by providing a gas diffusion zone by way of, e.g., disparges, pall rings, wood chips, etc.
+Sweetening materials used in such scrubber tower apparatuses include, e.g., the so-called 'iron-sponges'. The iron-sponge is actually a sensitive, hydrated iron oxide supported on wood chips or shavings. The iron oxide selectively reacts with the hydrogen sulfide in the gas to form iron sulfide. Although effective, the iron-sponge method is disadvantageous in that the final product is not easily disposed of (see, e.g.,
+The Field Handling of Natural Gas
+, p. 74, 3rd Ed (1972)).
+Slurries of zinc oxide and iron oxides have also been used in such scrubber towers to effect sweetening in much the same way as the iron-sponge. However, disposal problems also exist with these slurries.
+Caustic-based systems, such as those containing nitrites, may also be used in scrubber towers. Although effective, such systems produce elemental sulfur solids. An example of such a system is marketed by NL Industries under the trademark 'SULFACHECK' and disclosed in U.S. Patent No. 4,415,759. 'SULFACHECK' is a buffered aqueous solution of sodium nitrite which is injected into scrubber towers to sweeten natural gas. This solvent is designed for use in a one-step batch process, wherein the hydrogen sulfide is removed from a raw natural gas stream through a reaction with the sodium nitrite.
+Such caustic-based sweetening materials are undesirable since, as noted above, they produce solids (i.e., elemental sulfur). Accordingly, such systems cannot be used in 'in-line' injection systems and may only be used in bubble towers. Moreover, such caustic-based sweetening systems are not regenerable, i.e., they must be used in a batch process.
+Another known method for sweetening natural gas is the chemical solvent process. The chemical solvent process is a continuous process, whereby a sweetening solution is contacted with the gas stream in an absorber tower. In such a process, the total acid gases, including hydrogen sulfide and carbon dioxide are stripped off of the sweetening solution which is then regenerated. The chemical solvent processes cannot be performed in-line.
+Alkanolamines of various types may also be used in these chemical solvent processes. However, as discussed above, the use of alkanolamines is limited due to their lack of selectivity for hydrogen sulfide and other organic sulfides in the gas streams.
+Other chemicals solvents known in the art and used for sweetening gas streams include piperazinone, as disclosed in U.S. Patent No. 4,112,049; 1-formylpiperidine, as disclosed in U.S. Patent No. 4, 107, 270; iron (III) complexes of N-(2-hydroxyethyl) EDTA, as disclosed in U.S. Patent No. 4, 107,270; and iron complexes of nitriloacetic acid, as disclosed in U.S. Patent Nos. 4,436,713 and 4,443,423.
+Accordingly, there is a need in the art for a method for the reduction in the levels of hydrogen sulfide and organic sulfides from sour hydrocarbon streams which not only substantially reduces the sulfide levels therein, but which is also unaffected by storage temperature, stream temperature or the sulfide reaction temperature; which causes little or no health hazards; which selectively reacts with hydrogen sulfide; and which does not form a precipitate upon reaction with hydrogen sulfide and organic sulfides.
+Summary of the Invention
+The above objectives have been obtained by the present method for selectively reducing the levels of hydrogen sulfide and organic sulfides from gaseous and/or liquid hydrocarbon streams which comprises contacting the stream with a composition comprising the reaction product of (i) a lower alkanolamine with (ii) a lower aldehyde. This method may be used in a variety of installations, including for example, in-line injection systems, H
+2
+S scrubber systems or chemical solvent systems. There is also disclosed a method for reducing the levels of hydrogen sulfide, organic sulfides and water, using the present method with the addition of a glycol."
+[5]
+The disclosure of the Patent goes on to provide a detailed description of the preferred embodiments. The preferred lower alkanolamine is indicated to be monoethanolamine ("MEA"). The preferred lower aldehyde is indicated to be formaldehyde or acetaldehyde. While the disclosure indicates that the molar ratio of the lower alkanolamine to the lower aldehyde may be from about 1:0.25 to about 1:10, the preferable molar ratio is indicated to be from about 1:1 to about 1:1.5. The reaction product of monoethanolamine and formaldehyde is indicated to be N, N
+1
+-methylene bisoxazolidine ("bisoxazolidine"); 0,1,3,5 tri-(2-hydroxyethyl)-hexahydro-S-triazine ("triazine") and mixtures thereof.
+[6]
+The expert testimony before me was unanimous in indicating that bisoxazolidine has never been conclusively identified as a reaction product of MEA and formaldehyde. By contrast, the expert testimony was unanimous that a predominant reaction product of MEA and formaldehyde is triazine.
+[7]
+Following disclosure of a "Preparation Example" and a "Use Example", there follow 77 process claims the first of which is in the following terms:
+"A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid hydrocarbon streams or mixtures thereof comprising contacting said streams with a composition comprising the reaction product of (i) an alkanolamine comprising 1 to about 6 carbon atoms with (ii) an aldehyde comprising 1 to about 4 carbon atoms, in an amount and for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams."
+[8]
+In his opening statement, counsel for the plaintiffs identified the claims at issue as falling into four (4) series. The first series consists of claims 44 to 50 and the second series consists of claims 19 to 21, 28 and 29 and 34. The third series consists of claims 3 to 6, claims 8 and 10, claims 13 to 16, claims 24 and 25 and claims 32 and 36. The fourth series consists of claims 57, 58, 66 and 67.
+[9]
+The chemical structure of the predominant reaction product of MEA and formaldehyde, that is to say triazine, is depicted as follows:
+[diagram omitted]
+THE PLAINTIFFS
+[10]
+The plaintiff Baker Petrolite Corporation is a corporation incorporated under the laws of Delaware. Its principal place of business is  <FRAGMENT_SUPPRESSED> , Texas. It is, for the purposes of these reasons, the same corporation as Petrolite Corporation to whom the Patent issued. As earlier indicated, Petrolite Corporation changed its name to Baker Petrolite Corporation on the 9th of July, 1997.
+[11]
+The plaintiff Petrolite Holdings Inc. is a corporation also incorporated under the laws of Delaware. Its principal place of business is in the state of Delaware. As previously indicated in these reasons, it was an assignee of the rights to the application for the Patent from Quaker Chemical Corp. (Delaware) which filed the application. Petrolite Holdings Inc. assigned its interest in the Patent to Petrolite Corporation on the 8th of July, 1994.
+[12]
+Petrolite Canada Inc. was a federal corporation when the Patent was first acquired by Petrolite Holdings Inc. in 1993. On the 25th of September, 1997, Petrolite Canada Inc. was continued as an Alberta corporation and discontinued as a federal corporation.
+[13]
+Petrolite Canada Inc. amalgamated with two other corporations as Baker Hughes Canada Inc., an Alberta corporation, on the 1st of October, 1997. Baker Hughes Canada Inc. was continued as a Nova Scotia corporation and discontinued as an Alberta corporation on the 21st of December, 1998. Baker Hughes Canada Inc. amalgamated with a number of other companies as Baker Hughes Canada Company on the 1st of January, 1999.
+[14]
+Since the 27th of July, 1993, Baker Hughes Canada Company, either under its current name or in one of its former incarnations, has been licensed under the Patent, or the application for the Patent, by either Petrolite Holdings Inc. or Baker Petrolite Corporation either by way of oral licence or confirmatory and written licence dated the 18th of September, 1996. Baker Hughes Canada Company has its principal place of business in Halifax, Nova Scotia.
+PETROLITE CANADA'S "SULFA SCRUB" PRODUCTS
+[15]
+Petrolite Canada has sales representation in British Columbia, Alberta, Saskatchewan, Manitoba and Newfoundland. It markets products to the oil and gas industry with its largest market being in the province of Alberta. In addition to its hydrogen sulfide scavenging product line, among other things, it markets corrosion inhibitors, demulsifiers, scale inhibitors, paraffin compounds, foamers and anti-foamers. [see footnote 1] With regard to its hydrogen sulfide scavenging product line, Mr. Don McDougall, Canadian product manager for Baker Petrolite Corporation, a division of Petrolite Canada, testified:
+"There's three products we have. Currently on the water soluble side they're all triazine base materials. The HSW-705 is the original triazine. The 2001 has an additional formaldehyde product added to it. And the PM-9513 has a little bit of ethylene glycol added to the 705." [see footnote 2]
+Petrolite Canada's hydrogen sulfide scavengers are sold under the trademark or trade name "SULFA-SCRUB".
+[16]
+Petrolite Canada's sale representatives are provided with at least introductory training on the application of SULFA-SCRUB products, together with an extensive marketing support manual [see footnote 3]. They are also provided with the support of technical support representatives. Before they are in a position to actually make a proposal regarding use of a SULFA-SCRUB product, they would take a three-day training session in gas conditioning. Included in the marketing support manual are the following diagrams illustrating the reaction of the SULFA-SCRUB product HSW-705 with hydrogen sulfide and the process by which, when the product is exhausted, it may be regenerated so that it can be reused.
+[diagram omitted]
+[17]
+Sales proposals in relation to SULFA-SCRUB products are designed by "application specialists" within Petrolite Canada. Each sales proposal is uniquely tailored to the needs of a potential customer. The witness Mr. McDougall described the range of pre-sales and post-sales services provided by Petrolite Canada in the following terms:
+"The first service would be to develop an overall plan and help the customer design a facility that would best treat that particular gas. Because of different gas conditions, pressures, temperatures, flow regimes, liquid streams, et cetera, that join with the gas, it takes a little bit of I'll call it engineering, quote, unquote, I guess, to develop a proper treating program. Once the account has been acquired by our company, then we provide technical support, some training on the -- site training on how to deal with the product, how to deal with issues of health and safety, et cetera. Then we also offer troubleshooting services. If they have problems with the facility, then we would troubleshoot why the problems are there and try to evaluate what may have caused those particular problems. And then we also offer to customers that request it, disposal services for that product, for the spent product." [see footnote 4]
+[18]
+In response to the question "and does your company offer any periodic servicing of the accounts", Mr. McDougall replied:
+"Yes. The sales representatives would make routine calls on the customer's facility to make sure that the product is working to their satisfaction. They would take inventory readings of fresh material versus spent product. They would also offer, I would think, some information regarding when the next tower change would be required based on the information that they derive over time.
+And who pays for these services?
+The customer pays for those services.
+How would that be paid for?
+That would be in the price of the product.
+Does your company also offer guarantee with its scavenger products?
+Yes, they do. If the customer uses the product, the way it was designed or the way we had recommended using the product, then we guarantee that it would bring their H
+2
+S levels down to the levels that they require." [see footnote 5]
+[19]
+Petrolite Canada's hydrogen sulfide scavenging product HSW-705 consists substantially of triazine, the reaction product of MEA and formaldehyde, in water. HSW-2001 is essentially the same as HSW-705 except that it contains some excess formaldehyde so that when the triazine reacts with hydrogen sulfide and frees-up some MEA, that freed-up MEA reacts with the excess formaldehyde to produce a reaction product of triazine. Thus, HSW-2001 is to some extent self-regenerating. Petrolite Canada's hydrogen sulfide scavenging product PM-9513 is, once again, substantially similar to HSW-705 with a small amount of ethylene glycol added to aid in ensuring that the reaction product of hydrogen sulfide and triazine, which is water soluble, remains in a liquid state even in cold temperatures or in circumstances where there might be insufficient water present to otherwise ensure that result.
+THE DEFENDANTS, AND CANWELL'S SCAVENGING PRODUCTS
+[20]
+Canwell Enviro-Industries Ltd. is a corporation incorporated under the laws of the province of Alberta and has its principal place of business in Calgary, Alberta. It was incorporated on the 1st of December, 1985. The defendant Clive Titley ("Mr. Titley") has been associated with Canwell since its inception. Indirectly, he is the sole shareholder of Canwell. He is also the sole director and sole officer of Canwell.
+[21]
+Two witnesses commented on Mr. Titley's role  <FRAGMENT_SUPPRESSED> . The first was Mr. Anthony Galloway, a graduate of the University of British Columbia in chemical engineering and a professional engineer. In 1986, Mr. Galloway went to work for Quaker Chemical Corp. (Delaware) "... as general manager of Quaker Chem. Canada in Oakville, Ontario." [see footnote 6]
+[22]
+During his employment with Quaker Chem. Canada, which continued until 1992, Mr. Galloway was involved with the introduction of SULFA-SCRUB to Canada. The product was introduced in late 1990. It was produced by a company called Quaker Petroleum Chemical Company, a sister company to Quaker Chem. Canada. It was a product designed to react with hydrogen sulfide to sweeten sour gas. In 1992, Quaker Chemical Corp. (Delaware) closed its Canadian operation. In the result, Mr. Galloway was unemployed. He established his own consulting firm and, through that firm, contracted with Petrolite Canada to facilitate the transfer of Quaker Chem. Canada's Canadian SULFA-SCRUB customers to Petrolite Canada. His role in that regard terminated in 1993 and at that time he was asked by Mr. Titley to join Canwell on contract in the role of operations manager. In his testimony, Mr. Galloway described Mr. Titley's role  <FRAGMENT_SUPPRESSED>  in the following terms:
+"Clive Titley was certainly the -- the boss. He ran the company, and basically, he supervised my activities." [see footnote 7]
+Mr. Galloway indicated that he had no responsibility for any accounting or financial aspects of the business. He testified:
+"My understanding was Mr. Clive Titley did that." [see footnote 8]
+When asked whether he had any responsibility for the formulation of the 300 SX product, the only gas sweetening product that Canwell was then marketing, Mr. Galloway testified that that was not his responsibility. He testified that it was his understanding that Mr. Titley "... had that" and Mr. Titley "... really ran the company". Later in his testimony, when asked, generally speaking, what Mr. Titley's role was in the entire Canwell operation, Mr. Galloway testified:
+"Well, assuming Mr. Titley's role was in the supervisory capacity -- and, as I mentioned, I had no responsibility for accounting and advertising and even -- and the formulation. So Mr. Titley's role was quite an active role in the company. We met on a fairly regular basis. We discussed problems that were coming up and operational items. He dealt -- he communicated, I think, on a regular basis with Ron Levang [Canwell's '... service individual here in Alberta. ...'] in a similar arrangement with me. And Mr. Titley's role, I think, was quite an active one, I would say." [see footnote 9]
+[23]
+Mr. Vince Downey joined Canwell in December of 1995 and remained with the company until March of 1998. He testified that:
+"Well, my title was -- on my business card was general manager, but my position was more of a sales manager's job." [see footnote 10]
+In explanation of the foregoing, Mr. Downey testified:
+"Well, Clive Titley was president and owner of the company, and he was very involved in the day-to-day business, so his position was more general manager than mine was. I looked after the sales and some of the technical aspects of it." [see footnote 11]
+Mr. Downey testified Mr. Titley had been responsible for developing, not only the 300-SX hydrogen sulfide scavenger, but a second hydrogen sulfide scavenging product marketed by Canwell during Mr. Downey's tenure that was known as CW-1000.
+[24]
+Unlike Petrolite Canada, essentially the whole of Canwell's business throughout the relevant period of time was the marketing of hydrogen sulfide scavenging products. As noted, those products were designated 300-SX, and more recently a variant on 300-SX, and CW-1000. Canwell's equivalent to Petrolite Canada's designation SULFA-SCRUB was "Cansweet" and that term was used in association with both the 300-SX and CW-1000 products.
+[25]
+It was not in dispute before me that Cansweet 300-SX contains a reaction product of MEA and formaldehyde. The molar ratio of MEA to formaldehyde to produce the 300-SX reaction product is in the range of 1:0.9 (5) to about 1:1.1. Further, it was not in dispute that the reaction product produced is triazine. Like SULFA-SCRUB HSW-2001, Cansweet CW-1000 also contains a reaction product of MEA and formaldehyde with excess formaldehyde present.
+[26]
+Also like Petrolite Canada, Canwell provides a full range of services in relation to the hydrogen sulfide scavenging products that it sells. Canwell refers to its full service policy as "cradle to grave service". Canwell's cradle to grave service is succinctly described in what Mr. Galloway described as "... an advertising piece of literature that was produced  <FRAGMENT_SUPPRESSED> ." That piece is exhibit P-5 in this proceeding and is reproduced as Schedule 1 to these reasons.
+[27]
+The defendant the City of Medicine Hat is a municipal corporation incorporated by or pursuant to the laws of the province of Alberta. It is situated approximately 180 miles southeast of the city of Calgary, on the Trans-Canada Highway and not far from the Alberta/Saskatchewan border. The city of Medicine Hat operates a large number of gas wells indicated in the read-ins from the transcript of the examination for discovery of a representative of the city of Medicine Hat to be approximately 900 in April of 1996. Testimony before the Court during the trial indicates that that number is now substantially higher. As at April of 1996, only one natural gas well operated by the city of Medicine Hat produced gas containing sufficient quantities of hydrogen sulfide that it had to be processed to scavenge the hydrogen sulfide to meet pipeline specifications. That well was drilled in March of 1991 but was left "shut in" for a period of time and was only put on stream in January of 1994.
+[28]
+Some time in 1993, the city, in contemplation of putting the shut in well into production, contacted Alberta Energy ("AEC Oil and Gas") which persons in the employ of the city knew was treating "sour gas", that is to say, natural gas containing sufficient quantities of hydrogen sulfide so that it did not meet pipeline specifications, with a chemical process. AEC Oil and Gas advised the representatives of the city that they were using a Canwell product and loaned the city three barrels of the product for test purposes. Tests conducted by the city using the Canwell product proved successful. In the result, the city contacted Canwell and in November of 1993 Canwell made a proposal to the city using the 300-SX product in a down-hole injection treatment process.
+[29]
+The city of Medicine Hat accepted the Canwell proposal and put the natural gas well in question into production in January of 1994 using Cansweet 300-SX to scavenge the hydrogen sulfide from the gas.
+[30]
+The down-hole injection treatment process that had been proposed by Canwell and accepted by the city proved to be inefficient. Canwell consulted with city officials both at the well site and otherwise. On the 6th of May, 1994 Canwell made another proposal to the city recommending a more cost-effective method of treatment. This proposal made specific reference to Canwell's cradle to grave service program. The revised proposal was implemented in November of 1994 although once again, the treatment process was not implemented and operated without difficulty. Throughout this phase of operation, Canwell provided its full cradle to grave service program to the city.
+[31]
+In November of 1995, on the recommendation of Canwell, the city switched from the use of Cansweet 300-SX to the use of Canwell's CW-1000 product.
+PRIOR DISCLOSURE OF THE SUBJECT - MATTER OF THE PATENT
+[32]
+Counsel for the defendants called and examined a witness, Mr. Ray Watts, who had worked from sometime in 1986 for a company in the United States that was purchased by a corporation in the Quaker group of companies. After the purchase, the witness continued in employment with Quaker as a technical representative or technical consultant to salesmen and "the field people". He acknowledged that he could reasonably be described in his employment as a consultant and a "troubleshooter".
+[33]
+The witness attested that in August or September of 1987, Quaker Petroleum Chemical Company began marketing a hydrogen sulfide scavenging product to gas producers in western Oklahoma, the geographical area in which the witness was employed. He described the scavenging product as a formaldehyde solution that was found to be temperature sensitive so that when the weather began to get colder through the autumn, problems were encountered. The witness felt compelled, in the interest of maintaining sales of the hydrogen sulfide scavenging product, to find a solution to the temperature sensitivity problem.
+[34]
+The witness consulted with Ed Dillon, a formulating chemist in the employ of Quaker Petroleum Chemical Company and the named inventor on the Patent. The witness attested that Mr. Dillon provided him with two samples of product that might provide a solution to the temperature sensitivity problem and that he and Mr. Dillon together produced two additional samples. Apparently Mr. Dillon also provided the witness with some MEA "... to adjust pH on the samples that I had brought from Houston [where Ed Dillon worked]."
+[35]
+In late November of 1987, the witness field tested the samples in western Oklahoma and found that they did not solve the temperature sensitivity problem.
+[36]
+The witness testified that he experimented with mixing the MEA that had been provided to him by Ed Dillon with Quaker's formaldehyde hydrogen sulfide scavenging product and, he acknowledged quite serendipitously, discovered that the resulting product solved the temperature sensitivity problem. He attested "... it [the mixture] showed some [affinity] for hydrogen sulfide removal, a pretty good [affinity]." [see footnote 12]
+[37]
+The witness attested that by December 9, faced with continuing problems in the field with regard to Quaker's hydrogen sulfide scavenger, he had mixed up a 500 gallon "batch" of the MEA and formaldehyde mixture, had disclosed the success of the mixture to his superiors and on December 10th delivered the 500 gallon batch for use as a hydrogen sulfide scavenging product at a Standard Oil of Ohio well in western Oklahoma. A delivery receipt indicating the sale of the 500 gallon batch to Standard Oil of Ohio was put into evidence as exhibit B-9. Further delivery receipts and invoices, all dated in December of 1997 and subsequent months, were put into evidence to demonstrate further sales of the hydrogen sulfide scavenging product which was now designated as W-3053. Those sales were to Standard Oil of Ohio and other customers of Quaker in the western Oklahoma region.
+[38]
+In relation to the December sales of W-3053 to Standard Oil of Ohio, the following exchange is recorded between counsel for the defendants and the witness:
+"And to your knowledge, did Standard Oil sell its gas commercially?
+Yes, they did.
+Now, we've seen the delivery receipts for your December deliveries. Were there any conditions or restrictions placed on Standard Oil that accompanied the sale of the W-3053 product?
+Not to my knowledge, no." [see footnote 13]
+[39]
+It was not in dispute before me that Quaker's W-3053 product was in commercial sale by the spring of 1988. It was evident from the course of the examination and cross-examination of the witness that two matters concerning W-3053 were at issue: who was the true inventor of the W-3053 product; and whether the sales of the product made during December of 1987 were commercial sales.
+RELIEFS REQUESTED
+[40]
+The reliefs sought by the plaintiffs as disclosed in the statement of claim as amended to the 17th of March, 1999, and subsequently limited to delete a claim for damages, as an alternative to an accounting of profits, are the following:
+- a declaration that claims 3 to 6, 8 to 51 and 53 to 77 of the Patent are valid and have been infringed by the activities of the defendants;
+- a declaration that the defendants have induced or contributed to third parties infringing claims 3 to 6, 8 to 51 and 53 to 77 of the Patent;
+- a declaration that the claims of the Patent have been infringed by the defendants' activities from the day the application for the Patent was laid open, namely, the 23rd of June, 1990;
+- a declaration that the defendants have induced or contributed to third parties infringing the claims of the Patent from the day the application for the Patent was laid open, namely, the 23rd of June, 1990;
+- a permanent injunction restraining the defendants, by themselves, their directors, officers, employees, agents or otherwise, and all those in privity with or under the control of the defendants, from:
+(a) infringing the Patent; and
+(b) manufacturing, importing, exporting, selling or offering for sale, in Canada or from Canada, any Cansweet and equivalent products;
+- delivery up to the plaintiffs of all Cansweet and equivalent products, as well as any apparatus, documents or other things within the possession, power or control of the defendants and which may offend the injunction sought;
+- an accounting of profits;
+- reasonable compensation for damages sustained after the 23rd of June, 1990 for acts that would have constituted an infringement of the Patent if the Patent had been granted on the 23rd of June, 1990;
+- exemplary damages;
+- pre- and post-judgment interest on profits from the date they arose to the date of payment;
+- pre- and post-judgment interest on such reasonable compensation for damages in respect of the time period from the day the application for the Patent was laid open to grant, all from the date they arose to the date of payment;
+- costs of the action; and
+- such further and other relief as this Court considers just.
+[41]
+The defendants seek dismissal of the action with costs payable to them.
+[42]
+The defendant Canwell, plaintiff by counterclaim, seeks the following reliefs as disclosed in the statement of defence and counterclaim as amended to the 12th of March, 1999;
+- a declaration that the Patent and each claim thereof is invalid and void;
+- an order expunging the Patent;
+- an interlocutory and permanent injunction to restrain the plaintiffs, defendants by counterclaim, by themselves, their directors, officers, employees, agents or otherwise from representing to the customers and potential customers of Canwell that the use of Canwell's CANSWEET product infringes the Patent;
+- damages for false and misleading statements contrary to s. 7(a) of the
+Trade-marks Act
+[see footnote 14];
+- punitive and exemplary damages;
+- pre- and post-judgment interest on such damages from the date they arose to the date of payment;
+- costs of the counterclaim; and
+- such further and other relief as this Court considers just.
+THE ISSUES
+[43]
+The issues arising out of the claim by the plaintiffs and the counterclaim by the defendant Canwell go to infringement of the Patent by the defendants, the validity of the Patent and whether or not the plaintiffs have made false or misleading statements that have tended to discredit the business, wares and services of Canwell contrary to s. 7(a) of the
+Trade-marks Act
+. Further issues arise in relation to the claimed reliefs.
+[44]
+With regard to infringement, the following issues arise:
+- the applicable law given amendments to the relevant provisions of the
+Patent Act
+that came into effect on the 1st of October, 1989 and on the 1st of October, 1996; and
+- whether the City of Medicine Hat and Canwell, or either of them, by their actions, infringed any of the claims of the Patent in any or all of the following four series of claims:
+- claims 44 to 50;
+- claims 19 to 21, 28 and 29 and 34;
+- claims 3 to 6, 8, 10, 13 to 16, 24, 25, 32 and 36; and
+- claims 57, 58, 66 and 67.
+[45]
+Claims 1 and 2 of the Patent and the claims set out in each of the four series of claims referred to above are set out in full in Schedules 2 to 6 to these reasons.
+[46]
+In relation to the validity of the Patent, the following issues arise:
+- once again, the applicable law; and
+- whether or not the Patent is invalid by reason of:
+- anticipation;
+- obviousness;
+- sufficiency; or
+- material misrepresentation as to the identified inventor in the petition for the Patent.
+[47]
+With regard to Canwell's claim against the plaintiffs for contravention of s. 7(a) of the
+Trade-marks Act
+, the issues that arise are first, the jurisdiction of this Court to entertain the claim and secondly, assuming jurisdiction, whether or not the claim of contravention is made out.
+[48]
+The further issues arising out of the claimed reliefs can be briefly summarized as follows: first, assuming infringement by the City of Medicine Hat, what reliefs are appropriate against it and, if liability to the plaintiffs for profits is among the appropriate reliefs, what profits, if any were made by the City arising out of such infringement; secondly, assuming infringement by Canwell, what reliefs are appropriate against it and, if liability to the plaintiffs for profits and/or reasonable compensation is among the appropriate reliefs, what is the measure of profits following the issue of the Patent and what is the measure of reasonable compensation for damages sustained by the plaintiffs after the 23rd of June, 1990 and before the issue of the Patent; thirdly, what is the measure of exemplary damages sustained by the plaintiffs, if such are appropriate; fourthly, what is the appropriate measure of pre- and post-judgment interest on profits and or reasonable compensation for damages determined to be due to the plaintiffs; fifthly, whether Mr. Titley is personally liable to the plaintiffs under principles enunciated in
+ <FRAGMENT_SUPPRESSED>  plaintiffs for contravention of s. 7(a) of the
+Trade-marks Act
+is made out, what is the appropriate measure of damages and, if appropriate, punitive and exemplary damages, and of pre- and post-judgment interest in relation to any such damages.
+[49]
+As in all cases such as this, the issue of an appropriate costs award arises.
+ANALYSIS
+[50]
+I will deal first with the issue of the applicable law which is relevant both to the issue of validity and the issue of infringement. I will then turn to the issue of validity as, of course, validity is a condition precedent to infringement. I will then turn to the issue of infringement, to the issue of contravention of s. 7(a) of the
+Trade-marks Act
+, to issues as to remedies and finally to the issue of costs.
+1) The Applicable Law
+[51]
+Three iterations of the
+Patent Act
+[see footnote 16] (the "
+Act
+") are, at least arguably, relevant to the issue of validity, or to the issue of infringement, or to both such issues on the facts of this matter: first, the
+Act
+as it read prior to amendments that became effective on the 1st of October, 1989 (the "
+Old Act
+"); second, the
+Act
+as it read when the amendments that became effective on the 1st of October, 1989 are read into it but without reference to amendments that became effective on the 1st of October, 1996, (the "1989
+Act
+"); and third, the
+Act
+as it reads with the amendments that became effective the 1st of October, 1996 incorporated into it (the "1996
+Act
+").
+a) The Old Act
+[52]
+Under the
+Old Act
+, entitlement to a patent and therefore validity of a patent, was based on the "first to invent" principle as represented by section 43 of the
+Old Act
+. The Commissioner of Patents, when faced with conflicting applications for the same invention, was required to determine the first inventor in accordance with a procedure described in section 43.
+[53]
+Neither counsel for the plaintiffs nor counsel for the defendants urged that the
+Old Act
+, and therefore the "first to invent" principle, applies in determining the validity of the Patent here at issue. I accept the position of both counsel given the fact that the application for the Patent was filed after the coming into force of the 1st of October, 1989 amendments.
+b) The 1989 Act
+[54]
+The amendments to the
+Act
+that became effective on the 1st of October, 1989 brought Canada's patent law into line with the law of forty-three (43) other countries that, together with Canada, were members of the
+Patent Cooperation Treaty
+of 1970 [see footnote 17] . The most significant change for the purposes of this matter was a shift from the "first to invent" principle of the
+Old Act
+to the "first to file" principle. In the result, the critical dates for determination of novelty became the filing and priority dates, the former being the date the application was filed in Canada and the latter being defined in section 2 of the
+Act
+as the date on which an application for a patent describing the same invention was first filed in another country referred to in section 28. The grace period for filing in Canada was established at twelve (12) months after the priority date [see footnote 18].
+[55]
+Counsel for the plaintiffs drew the Court's attention specifically to the fact that the application for the Patent was filed in Canada on the 19th of December, 1989 and issued on the 7th of February, 1995. Thus, the version of the
+Act
+that was before the Commissioner of Patents throughout the time when consideration was being given to the application leading to issuance of the Patent was the 1989
+Act
+.
+c) The 1996 Act
+[56]
+The 1996 amendments to the
+Act
+, which came into force on the 1st of October, 1996 after the Patent issued, formed part of an
+Act
+entitled the
+Intellectual Property Law Improvement Act
+[see footnote 19]. The definition "priority date" in section 2 of the
+Act
+was repealed. In its place, the following definitions were added:
+"'claim date' means the date of a claim in an application for a patent in Canada, as determined in accordance with section 28.1;
+'filing date' means, in relation to an application for a patent in Canada, the date on which the application is filed, as determined in accordance with section 28;"
+"'la date de la revendication' (n'a jamais été officiellement traduit)
+'date de dépôt' La date du dépôt d'une demande de brevet, déterminée conformément à l'article 28."
+[57]
+The defined terms appear, in reverse order, in a new subsection 28(1) and a new section 28.1 which read as follows:
+"28(1) The filing date of an application for a patent in Canada is the date on which the Commissioner receives the documents, information and fees prescribed for the purposes of this section or, if they are received on different dates, the last date.
+. . . . .
+"28.1(1) The date of a claim in an application for a patent in Canada (the 'pending application') is the filing date of the application, unless
+(a) the pending application is filed by
+(i) a person who has, or whose agent, legal representative or predecessor in title has, previously regularly filed in or for Canada an application for a patent disclosing the subject-matter defined by the claim, or
+(ii) a person who is entitled to protection under the terms of any treaty or convention relating to patents to which Canada is a party and who has, or whose agent, legal representative or predecessor in title has, previously regularly filed in or for any other country that by treaty, convention or law affords similar protection to citizens of Canada an application for a patent disclosing the subject-matter defined by the claim;
+(b) the filing date of the pending application is within twelve months after the filing date of the previously regularly filed application; and
+(c) the applicant has made a request for priority on the basis of the previously regularly filed application.
+"(2) In the circumstances described in paragraphs (1)(a) to (c), the claim date is the filing date of the previously regularly filed application."
+"28(1) La date de dépôt d'une demande de brevet est la date à laquelle le commissaire reçoit les documents, renseignements et taxes réglementaires prévus pour l'application du présent article. S'ils sont reçus à des dates différentes, il s'agit de la dernière d'entre elles.
+. . . . .
+"28.1(1) La date de la revendication d'une demande de brevet est la date de dépôt de celle-ci, sauf si:
+a) la demande est déposée, selon le cas:
+(i) par une personne qui a antérieurement déposé de façon régulière, au Canada ou pour le Canada, ou dont l'agent, le représentant légal ou le c) le prédécesseur en droit l'a fait, une demande de brevet divulguant l'objet que définit la revendication,
+(ii) par une personne qui a antérieurement déposé de façon régulière, dans un autre pays ou pour un autre pays, ou dont l'agent, le représentant légal ou le prédécesseur en droit l'a fait, une demande de brevet divulguant l'objet que définit la revendication, dans le cas où ce pays protège les droits de cette personne par traité ou convention, relatif aux brevets, auquel le Canada est partie, et accorde par traité, convention ou loi une protection similaire aux citoyens du Canada;
+b) elle est déposée dans les douze mois de la date de dépôt de la demande déposée antérieurement;
+c) le demandeur a présenté, à l'égard de sa demande, une demande de priorité fondée sur la demande déposée antérieurement.
+"(2) Dans le cas où les alinéas (1)a) à c) s'appliquent, la date de la revendication est la date de dépôt de la demande antérieurement déposée de façon régulière."
+[58]
+Section 28.2, also new, deals for the first time with the impact of early disclosure "... in such a manner that the subject-matter became available to the public in Canada or elsewhere". A new section 28.3, for the first time, codifies the concept of "obviousness".
+[59]
+Section 28.2(1) and section 28.3 read as follows:
+"28.2(1) The subject-matter defined by a claim in an application for a patent in Canada (the 'pending application') must not have been disclosed
+(a) more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant, in such a manner that the subject-matter became available to the public in Canada or elsewhere;
+(b) before the claim date by a person not mentioned in paragraph (a) in such a manner that the subject-matter became available to the public in Canada or elsewhere;
+(c) in an application for a patent that is filed in Canada by a person other than the applicant, and has a filing date that is before the claim date; or
+(d) in an application (the 'co-pending application') for a patent that is filed in Canada by a person other than the applicant and has a filing date that is on or after the claim date if
+(i) the co-pending application is filed by
+(A) a person who has, or whose agent, legal representative or predecessor in title has, previously regularly filed in or for Canada an application for a patent disclosing the subject-matter defined by the claim, or
+(B) a person who is entitled to protection under the terms of any treaty or convention relating to patents to which Canada is a party and who has, or whose agent, legal representative or predecessor in title has, previously regularly filed in or for any other country that by treaty, convention or law affords similar protection to citizens of Canada an application for a patent disclosing the subject-matter defined by the claim,
+(ii) the filing date of the previously regularly filed application is before the claim date of the pending application,
+(iii) the filing date of the co-pending application is within twelve months after the filing date of the previously regularly filed application, and
+(iv) the applicant has, in respect of the co-pending application, made a request for priority on the basis of the previously regularly filed application.
+. . . . .
+"28.3 The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(a) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(b) information disclosed before the claim date by a person not mentioned in paragraph (a) in such a manner that the information became available to the public in Canada or elsewhere."
+"28.2(1) L'objet que définit la revendication d'une demande de brevet ne doit pas:
+a) plus d'un an avant la date de dépôt de celle-ci, avoir fait, de la part du demandeur ou d'un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, l'objet d'une communication qui l'a rendu accessible au public au Canada ou ailleurs;
+b) avant la date de la revendication, avoir fait, de la part d'une autre personne, l'objet d'une communication qui l'a rendu accessible au public au Canada ou ailleurs;
+c) avoir été divulgué dans une demande de brevet qui a été déposée au Canada par une personne autre que le demandeur et dont la date de dépôt est antérieure à la date de la revendication de la demande visée à l'alinéa (1)a);
+d) avoir été divulgué dans une demande de brevet qui a été déposée au Canada par une personne autre que le demandeur et dont la date de dépôt correspond ou est postérieure à la date de la revendication de la demande visée à l'alinéa (1)a) si:
+(i) cette personne, son agent, son représentant légal ou son prédécesseur en droit, selon le cas:
+(A) a antérieurement déposé de façon régulière, au Canada ou pour le Canada, une demande de brevet divulguant l'objet que définit la revendication de la demande visée à l'alinéa (1)a),
+(B) a antérieurement déposé de façon régulière, dans un autre pays ou pour un autre pays, une demande de brevet divulguant l'objet que définit la revendication de la demande visée à l'alinéa (1)a), dans le cas où ce pays protège les droits de cette personne par traité ou convention, relatif aux brevets, auquel le Canada est partie, et accorde par traité, convention ou loi une protection similaire aux citoyens du Canada,
+ii) la date de dépôt de la demande déposée antérieurement est antérieure à la date de la revendication de la demande visée à l'alinéa a),
+(iii) à la date de dépôt de la demande, il s'est écoulé, depuis la date de dépôt de la demande déposée antérieurement, au plus douze mois
+(iv) cette personne a présenté, à l'égard de sa demande, une demande de priorité fondée sur la demande déposée antérieurement.
+. . . . .
+"28.3 L'objet que définit la revendication d'une demande de brevet ne doit pas, à la date de la revendication, être évident pour une personne versée dans l'art ou la science dont relève l'objet, eu égard à toute communication:
+a) qui a été faite, plus d'un an avant la date de dépôt de la demande, par le demandeur ou un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs;
+b) qui a été faite par toute autre personne avant la date de la revendication de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs."
+[60]
+Finally, the 1996 amendments added the following transitional provisions to the
+Act
+:
+"78.4(1) Applications for patents in Canada filed on or after October 1, 1989, but before this section came into force, shall be dealt with and disposed of in accordance with
+(a) subsection 27(2) as it read immediately before this section came into force; and
+(b) the provisions of this Act, including subsection 27(2), as they read immediately after this section came into force.
+"(2)
+Any matter arising
+in respect of a patent issued on the basis of an application filed on or after October 1, 1989, but before this section came into force, shall be dealt with and disposed of in accordance with
+a) subsection 27(2) as it read immediately before this section came into force; and
+(b) the provisions of this Act, including subsection 27(2), as they read after this section came into force and as amended from time to time." (emphasis added)
+"78.4(1) Les demandes de brevet déposées le 1er octobre 1989 ou par la suite, mais avant l'entrée en vigueur du présent article, sont régies par le paragraphe 27(2) dans sa version antérieure à l'entrée en vigueur du présent article et par les dispositions de la présente loi, y compris le paragraphe 27(2), dans leur version ultérieure à l'entrée en vigueur du présent article.
+"(2)
+Les affaires survenant
+relativement aux brevets délivrés au titre de demandes de brevet déposées le 1er octobre 1989 ou par la suite, mais avant l'entrée en vigueur du présent article, sont régies par le paragraphe 27(2) dans sa version antérieure à l'entrée en vigueur du présent article et par les dispositions de la présente loi, y compris le (a) paragraphe 27(2), dans leur version modifiée par la présente loi et par toute modification ultérieure." (je souligne)
+d) Positions of the parties and conclusion
+[61]
+Counsel for the plaintiffs urged that the plain meaning of subsection 78.4(2) supports the position that the 1989
+Act
+should be applied to issues relating to the validity of the Patent and perhaps also to issues of infringement of the Patent.
+[62]
+As previously noted, the application for the Patent was filed in Canada on the 19th of December, 1989. The Patent issued on the 7th of February, 1995. Thus, the version of the
+Act
+that was before the Commissioner of Patents at all times when the application for the Patent was being considered was the 1989
+Act
+. Further, counsel for the plaintiffs noted that the transitional provision quoted above, in particular subsection 78.4(2), provides that any matter arising in respect of a patent issued on the basis of an application filed in the time frame here at issue should be dealt with in accordance with the former subsection 27(2) and the provisions of the 1996
+Act
+, including the new subsection 27(2). He urged that the validity of the Patent was a matter not arising after the 1996
+Act
+came into force but rather was a matter that arose immediately upon the issuance of the Patent, or at the very latest at the time this action was commenced which is to say, the 2nd of May, 1995, a further date within the period when the 1989
+Act
+remained in force. Counsel urged that the transitional provision should not be interpreted so as to render it possible that a patent, valid on the date it was issued, was subsequently invalidated by reason of the coming into force of the 1996
+Act
+.
+[63]
+Counsel for the plaintiffs further alleged that the issue of applicable law was of critical importance because, if the 1989
+Act
+were determined to be applicable, the citations to be considered in the determination of anticipation and obviousness would be reduced. Counsel pointed out that, of the bases for anticipation and obviousness here alleged, two United States patents (the "Baize" and the "Arundale" patents) and the alleged commercial sale in the United States of W-3053 in the period commencing as early as December, 1987, neither the Baize patent, issued on the 31st of May, 1988, nor the alleged commercial sale of W-3053, would be relevant under the 1989
+Act
+if I were to determine, as counsel urged I should, that there was no commercial sale of W-3053 prior to December 23,1987.
+[64]
+Finally, counsel for the plaintiffs urged that since the 1989
+Act
+did not change the law as to obviousness, in contrast with the 1996
+Act
+which at the very least codified the judicially defined law as to obviousness, the Arundale patent would not, of itself, be sufficient to establish obviousness and thus would not invalidate the Patent.
+[65]
+Counsel for the defendants urged that, on all issues, the 1996
+Act
+should be applied. In particular, he urged that the issue of validity of the Patent was, in the terms of the transitional provision, subsection 78.4(2) quoted above, a "matter arising" on the day on which this Court is called upon to determine the validity of the Patent and that I should thus apply, not only subsection 27(2) of the 1989
+Act
+, but also the provisions of the 1996
+Act
+, including subsection 27(2) as it read after the coming into force of the 1996
+Act
+. Further, he urged, I should determine the critical date regarding citations as to anticipation and obviousness, to be one year before the filing of the application for the patent, which took place on the 19th of December, 1989. Thus, he urged, both the Baize patent and the alleged commercial sale of W-3053 in December, 1988 are valid citations.
+[66]
+I adopt the position urged by counsel for the defendants. Parliament entitled the amendments reflected in Chapter 15 of the Statutes of Canada, 1993, the
+Intellectual Property Law Improvement Act
+. Clearly, Parliament envisaged the changes that it adopted as improvements to the
+Patent Act
+and to other statutes. I am satisfied that it would be perverse to adopt an interpretation of section 78.4, as enacted with the 1996 amendments, that would preserve in force almost five (5) years after that section came into force and more than eight (8) years after it was enacted, a regime of law that Parliament considered to be in need of improvement, if another interpretation is reasonably open. I am satisfied that another interpretation is reasonably open and is to be preferred. The question of when the matters here in issue arose is, I am satisfied, irrelevant. The only relevant consideration is that, whenever they arose, they arose, to paraphrase subsection 78.4(2), in respect of a patent issued on the basis of an application filed after October 1, 1989 and before October 1, 1996. Thus this action should be dealt with and disposed of in accordance with subsection 27(2) of the 1989
+Act
+and the provisions of the 1996
+Act
+, including subsection 27(2). References in the balance of these reasons to the "
+Act
+" should therefore be read as to the
+Patent Act
+as it read following the coming into force of the 1996 amendments.
+2) Validity of the Patent
+a) Presumption of validity
+[67]
+Section 43(2) of the
+Act
+reads as follows:
+"43(2) After the patent is issued, it shall, in the absence of any evidence to the contrary, be valid and avail the patentee and the legal representatives of the patentee for the term mentioned in section 44 or 45, whichever is applicable."
+"43(2) Une fois délivré, le brevet est, sauf preuve contraire, valide et acquis au breveté ou à ses représentants légaux pour la période mentionnée aux articles 44 ou 45."
+Section 43(2) of the
+Act
+is essentially the same as the equivalent portion of section 43 in the 1989
+Act
+.
+[68]
+In
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  of validity provision of the
+Act
+, wrote at page 359:
+"... in my view, the most accurate description of the presumption is that of Pratte, J. (as he then was), in the case of
+ <FRAGMENT_SUPPRESSED>  of proof, not with the standard of proof. It shows on whom the burden lies to satisfy the court, and not the degree of proof which he must attain": ... Moreover, once the party attacking the patent has introduced evidence, the Court, in considering this evidence and in determining whether it establishes the invalidity of the patent, must not take the presumption into account. It cannot be said that the presumption created by s. 47 is, as a rule, either easy or difficult to overcome; in some cases, the circumstances may be such that the presumption will be easily rebutted, while, in other cases the same result may be very difficult or even impossible to obtain.'
+"See also,
+ <FRAGMENT_SUPPRESSED>  follows: applying the tests applicable to the pleas of anticipation and obviousness, which are not easy tests to meet as we shall see, did the appellant prove, on the usual standard of balance of probabilities, that the patent was invalid as having been anticipated or as being obvious?" (citations omitted)
+[69]
+The defendant Canwell attacks the validity of the Patent on four (4) grounds: first, anticipation based upon the "Baize Patent" earlier referred to in the quotation from the Patent that is included in paragraph [4] of these reasons, U.S. Patent No. 2,731,393, the "Arundale Patent", and Quaker Chemical's sale of the product designated W-3053, earlier referred to; secondly, on the basis of obviousness based upon the Baize, Arundale and W-3053 references; thirdly, on the basis insufficiency in the disclosure of the Patent; and finally, on the basis of an alleged material misrepresentation in the petition filed with the application for the Patent. Against the foregoing guidance on the impact of the presumption of validity, each of the four attacks on the validity of the Patent are considered in turn in the following paragraphs of these reasons.
+b) Anticipation or Lack of Novelty
+[70]
+The relevant portion of subsection 28.2(1) of the
+Act
+reads as follows:
+"28.2(1) The subject-matter defined by a claim in an application for a patent in Canada (the 'pending application') must not have been disclosed
+(a) more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant, in such a manner that the subject-matter became available to the public in Canada or elsewhere;
+(b) before the claim date by a person not mentioned in paragraph (a) in such a manner that the subject-matter became available to the public in Canada or elsewhere; ..."
+"28.2(1) L'objet que définit la revendication d'une demande de brevet ne doit pas:
+a) plus d'un an avant la date de dépôt de celle-ci, avoir fait, de la part du demandeur ou d'un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, l'objet d'une communication qui l'a rendu accessible au public au Canada ou ailleurs;
+b) avant la date de la revendication, avoir fait, de la part d'une autre personne, l'objet d'une communication qui l'a rendu accessible au public au Canada ou ailleurs; ..."
+"Claim date" as referred to in s. 28.2(1)(b) is defined in section 2 of the
+Act
+by reference to section 28.1. I will not pursue the definition of that term further because I am satisfied that against that term both the Baize patent and the Arundale patent are proper citations. The citation of prior use of W-3053 is governed by s. 28.2(1)(a) which refers to the "filing date" which, as earlier indicated, for the patent in suit, was the 19th of December, 1989.
+[71]
+ <FRAGMENT_SUPPRESSED>  statutory provision for the purpose of assessing the plea of anticipation in the present proceedings is s. 28(1)(b) of the
+Patent Act
+. That paragraph directs an inquiry as to whether the claimed invention is
+'28(1) ...
+. . . . .
+(b) ... described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition ...'
+. . . . .
+"It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and the common general knowledge. Also, as appears from the passage of the statute quoted above, anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case, and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+It is to be noted that Mr. Justice Hugessen, in the foregoing quotation, was commenting on anticipation or lack of novelty under the terms of the
+Old Act
+that also contemplated anticipation or lack of novelty based upon prior public use or sale in Canada.
+[72]
+ <FRAGMENT_SUPPRESSED>  quotation from <FRAGMENT_SUPPRESSED> , as adopted by Mr. Justice Décary in
+Tye-Sil
+[see footnote 23], commented on the reasons of Mr. Justice Décary, concurred in by Justices Marceau and Pratte, otherwise than on the issue of obviousness, to the following effect at page 553 of <FRAGMENT_SUPPRESSED> :
+"He [Mr. Justice Décary] added ... that when prior knowledge or use is alleged, 'evidence of this character should be subjected to the closest scrutiny' and 'anyone claiming anticipation on that basis assumes a weighty burden'. He [Mr. Justice Décary] cited the following principles which should be applied to determine whether the prior use or prior art anticipated the invention:
+1) does it teach the combination of all the elements claimed;
+2) does it give the same knowledge as the specification of the invention itself;
+3) does it contain clear and unmistakable directions so to use it;
+4) whatever is essential to the invention or necessary or material for its practical working and real utility must be found substantially in the prior publication; and
+5) an impractical and inoperable device cannot be an anticipation."
+[73]
+ <FRAGMENT_SUPPRESSED>  the test for anticipation from <FRAGMENT_SUPPRESSED> as one that is "difficult to meet", continued at paragraph [26]:
+"The legal question is whether the Solov'eva article [here the Baize patent or, the Arundale patent] contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, 'the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill' ... In other words, was the information given by Solov'eva 'for [the] purpose of practical utility, equal to that given in the patents in suit'?
+ <FRAGMENT_SUPPRESSED>  will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.'" (citations omitted)
+The principles that can be derived from <FRAGMENT_SUPPRESSED> [see footnote 25] and
+Free World Trust
+[see footnote 26] would appear to apply equally to anticipation by prior public use or sale. In
+Tye-Sil
+[see footnote 27], Mr. Justice Décary wrote at pages 360 and 361:
+"As was mentioned by Urie, J., in
+Beecham
+, ..., the defences of prior knowledge,
+prior use
+, prior publication and
+prior sale
+are 'very much intermingled' and are referred to as 'anticipation'. I have noted throughout the cases that there does not appear to be any distinction in principle between these various defences and that what is said with respect, for example, to anticipation through prior knowledge is applicable, mutatis mutandis, to anticipation through prior publication." (citation omitted, emphasis added)
+[74]
+Counsel for the defendants referred me to a number of English cases that would appear to stand for the proposition that the test for anticipation by public use or sale is more easily met than the test enunciated in the foregoing cases. The last quotation above from
+Tye-Sil
+is, I am satisfied, binding on me and I will therefore not engage in an analysis of the cases to which counsel referred me.
+[75]
+I turn then to a brief review of the cited prior art and the allegation of commercial sale of W-3053 prior to December 23, 1987 and the acknowledged commercial sale at least as early as the Spring of 1988.
+i) The Baize Patent
+[76]
+The Baize patent issued out of the United States Patent Office on the 31st of May, 1988. It is entitled "Method and Apparatus for Sweetening Natural Gas". The description of the preferred embodiments of the Baize patent reads in part as follows:
+"This invention is based on the discovery that sour natural gas may be sweetened by injection of a sweetening solution into the produced gas line from well head through collection and separation systems. The sweetening solution is atomized into the flowing gas stream and reacts with the hydrogen sulphide in line to meet industry requirements. This sweetening method, and the apparatus used to carry it out, can be used with any conventional, i.e., prior art, system of apparatus for collection of natural gas and separation of condensate therefrom."
+[77]
+Under a heading "A Preferred Embodiment of the Method and Apparatus for Sweetening Natural Gas Flowing in the Sales Gas Line from the Gas/Condensate Separation System", the following appears:
+"The sweetening liquid is a solution comprising 10-50% wt. of formaldyhyde or other low molecular weight aldehyde, such as acetaldehyde, propionaldehyde, butyraldehyde, or the like, or a low molecular weight ketone, such as acetone, methyl ethyl ketone, diethyl ketone, methyl propyl ketone, or the like; 20-80% water; 10-50% methanol; 1-25% amine inhibitor; 0-5% sodium hydroxide or potassium hydroxide, and 2-5% isopropanol, where the percentages total one hundred, and at a pH 6.8-14. The amine inhibitors are water soluble oxidation and corrosion inhibitors including alkyl pyridines, quaternary ammonium salts, alkyl amines, such as mono-,di-, and/or tri-methyl, ethyl, or propyl amines, alkanolamines, such as mono methanol, ethanol, or propanol amines, di-methanol, ethanol, or propanol amines, tri-methanol, ethanol, or propanol amines, dimethyl ethanol amine, methyl diethanol amine, dimethyl amino ethanol, or morpholine.
+. . . . .
+"In operation, tank 60 [by reference to a drawing] is filled with a sweetening solution of 30% wt. formaldehyde; 30% water; 30% methanol; 5% imidazoline inhibitor; 2.0% sodium hydroxide and 3% isopropanol."
+[78]
+Counsel for the plaintiffs urged that the Baize patent does not anticipate the Patent in suit because it discloses the possible use of ketones in place of aldehydes, discloses the possible use of amines other than alkanolamines and does not indicate that a reaction product results from the interaction of the amine, or for that matter a ketone, with the aldehyde. In essence, counsel for the plaintiffs identified the Patent, in relation to Baize, as a selection patent that discloses a sweetening solution that, against the test in <FRAGMENT_SUPPRESSED> [see footnote 28], a person skilled in the art would not "in every case and without the possibility of error" be led to by Baize.
+[79]
+ <FRAGMENT_SUPPRESSED>  that
+Sprengel's
+Specification pointed to the use of a number of substances as explosives, within which are included the explosives employed by
+Lamm
+, the Patentee. Now that may be perfectly true.
+Sprengel's
+is an extremely wide Specification ... Obviously, it would include the mixing of a vast number of substances. It is what
+Sir Frederick Abel
+calls a very, very large class. Within that very, very large class is the much more limited class, to the use of which
+Lamm
+confines himself."
+Lord Herschell continues at page 478:
+"... it is said there was no invention because these particular nitrates which he uses were amongst a greater number which Sprengel said might be used for explosive purposes. What of that? Is it the less an invention because somebody beforehand has pointed to a number of substances which may be used for explosive purposes, when a chemist comes and selects from amongst them those which, if used in a particular way, will produce an article of commerce better than has been produced before. I really have difficulty in seeing how any answer but one can be given to such a question as that ... He [Lamm] has discovered, and he has let the public know, that by taking certain substances and treating them in a particular way he can produce this beneficial result."
+[80]
+To the same effect, Mr. Justice Richard, as he then was, wrote in <FRAGMENT_SUPPRESSED> [see footnote 30] at page 556:
+"The ICI Patent is an originating patent while the Pfizer Patent is a selection patent. The former claims the genus; the second claims the species. ICI's '263 Patent is directed generally to fungicidal triazoles and imidazoles. Fluconazole is not specifically described and neither were its superior and previously unknown efficacy described or known. The ICI Patent did not include the fluconazole compound. ICI was not the first inventor of this compound and never made it.
+"It is not disputed that fluconazole is encompassed within the broad generic scope of the claims of the ICI Patent and likewise with respect to the processes, but is not specifically identified therein."
+I am satisfied that precisely the same could be said here of the Patent in suit in relation to the Baize patent.
+[81]
+Counsel for the defendants relied on the following quotation from
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+[see footnote 31]. At page 90, the learned author noted:
+"Three general propositions may be asserted: First, a selection patent to be valid must be based on some substantial advantage to be secured by the use of the selected members. (The phrase will be understood to include the case of a substantial disadvantage to be thereby avoided.) Secondly, the whole of the selected members must possess the advantage in question. Thirdly, the selection must be in respect of a quality of a special character that can fairly be said to be peculiar to the selected group."
+[82]
+Counsel for the defendants urged that, against the Baize patent, the Patent cannot be said to be valid. I do not agree. The mere commercial success of the plaintiffs' hydrogen sulphide scavenging product line, as demonstrated by the aggressive manner in which this litigation has been pursued by the plaintiffs, attests to the degree to which the Patent fulfils Dr. Fox's three propositions.
+[83]
+I am satisfied that the Patent must be viewed as an inventive selection over Baize. Put another way, the Patent in suit is not anticipated by the Baize patent.
+ii) The Arundale Patent
+[84]
+The Arundale patent issued the 17th of January, 1956, more than thirty (30) years before the application for the Patent in suit was filed. The expert statement of Dr. Peter D. Clark filed on behalf of the defendants [see footnote 32], describes the disclosure of Arundale in the following terms:
+"32. Arundale discloses a process for sweetening mixtures of hydrocarbons that contain compositions of sulphur, for example hydrogen sulphide ... The process includes contacting the hydrocarbon with a 'treating mixture' comprising 'an amine, an alkali metal carbonate or bicarbonate, and an aldehyde' ... The amine is specified as including 'primary and secondary alkanolamines' ... Monoethanolamine [MEA] is in the class of compounds 'primary alkanolamines'. Formaldehyde (in the form of a 37% aquaeous solution known as Formalin) is specified as 'especially preferred' ... Thus, Arundale discloses a treating mixture which comprises an alkanolamine and formaldehyde, which are also the preferred components of the reaction product described in [the Patent in suit]." (cross-references to the Arundale Patent omitted)
+[85]
+As noted by counsel for the plaintiffs, there was no evidence put before the Court that the Arundale patent was ever practised. In such circumstances, "a mere paper anticipation" must "... satisfy a very strict test if it is to prevail". [see footnote 33] The foregoing principle was adopted in more colourful language in
+ <FRAGMENT_SUPPRESSED>  study those developments of the art which are bright with use in the channels of trade than to delve into abandoned scrap heaps of dust-covered books which tell of hopes unrealized and flashes of genius quite forgotten."
+[86]
+Against the foregoing analysis with regard to anticipation by the Baize patent, I conclude that the Arundale patent, like the Baize patent, does not anticipate the Patent in suit. Indeed, I am satisfied that it is even more evident that the Arundale patent does not anticipate the Patent in suit.
+iii) The Alleged Commercial Sale of W-3053 in December of 1987
+[87]
+As earlier indicated in these reasons, it was not in dispute before me that W-3053 was in commercial sale at least as early as the spring of 1988. I find the documentary evidence before me with regard to unconditional sales of W-3053 prior to the 23rd of December, 1987 to be compelling, particularly when this documentary evidence was corroborated before the Court by the testimony of Mr. Ray Watts, previously referred to in these reasons. While I entertain doubts as to the reliability of Mr. Watts' testimony regarding inventorship, and more will be said about that later, I entertain no doubt with regard to the reliability of his testimony on unconditional sales of W-3053 in western Oklahoma prior to the 23rd of December, 1987.
+[88]
+Equally, on the evidence before me, there can be no doubt that W-3053, even in December of 1987, was for all intents and purposes the invention described in the Patent in suit. The sole issue then is whether the December, 1987 and later but still time-relevant sales of W-3053 amounted to a making available to the public in Canada or elsewhere of the subject-matter of the Patent.
+[89]
+What was in dispute before me was whether the composition of W-3053 was available to the public prior to the 23rd of December, 1987. While much expert testimony before me was directed to the question of whether of not, given the prevailing technology at that time, and the knowledge of persons skilled in the art at the time, W-3053 was capable of being analysed and reproduced, assuming a suitable sample of it could have been obtained, counsel for the plaintiffs urged that the evidence showed that a sample for analysis could not have been obtained. I disagree. At all relevant times, substantial quantities of W-3053 were in the hands of commercial purchasers without any evidence of restrictions on use. I am satisfied that the evidence as a whole as to industry practices demonstrated that a sample for analysis could readily have been obtained.
+[90]
+I found the expert evidence as to efforts at analysis that have been made over the years, including efforts in the context of this litigation, to be ambivalent and, in totality, to be quite unsatisfactory. On behalf of the plaintiffs, Professor Brian Hunter in his reply statement [see footnote 36] wrote at paragraph 6:
+"As will be set out, due to: (i) the extremely complex nature of the reaction mixture of W-3053; (ii) the limitations of chemical analysis; and (iii) the time dependent degradation of W-3053, it is my opinion that a skilled chemist would not be able to determine the composition of W-3053 nor its starting materials. To do so would take an inordinate amount of skill, a great deal of luck and even then it would only be possible with a fresh sample of W-3053. The sale of W-3053 simply does not provide the same information provided by the Patent. In my opinion, the sale of W-3053 does not anticipate the Patent."
+While the final sentence of the foregoing paragraph is a determination for this Court to make, not for Professor Hunter or any other expert witness before the Court, Professor Hunter clearly leaves no doubt as to his expert opinion on the subject.
+[91]
+Professor John MacRae Mellor, on behalf of the defendants, reached a very different conclusion. After carefully reviewing the various efforts made to analyse W-3053 that are disclosed in the evidence, he concluded as follows at paragraph 63 of his expert statement [see footnote 37]:
+"In my opinion:
+(a) based on the available analytical test results, W-3053 contained triazine as a major component and little or no bisoxazolidine;
+(b) a skilled analytical chemist using only analytical techniques available prior to 1988 would have been able to identify the components of W-3053 that were present in significant quantities, would have identified triazine as a major component and would have attributed the hydrogen sulphide scavenging properties of W-3053 to the triazine;
+(c) a skilled analytical chemist would have recognized that the triazine component of W-3053 could be produced as a reaction product of monoethanolamine and formaldehyde;
+(d) it would have been obvious to any competent organic chemist to evaluate the scavenging properties of W-3053 by varying the molar ratios of monoethanolamine and formaldehyde to include 1:1."
+[92]
+Mr. Justice Décary in
+Tye-Sil
+[see footnote 38] wrote at page 363:
+"It will be useful to recall that when, as here, prior knowledge or use is alleged, 'evidence of this character should be subjected to the closest scrutiny' and 'anyone claiming anticipation on that basis assumes a weighty burden':"
+For this proposition, which I am satisfied is determinative, Mr. Justice Décary cites
+ <FRAGMENT_SUPPRESSED>  Court regarding attempts to successfully analyse and reconstruct W-3053, I simply cannot conclude that the defendant Canwell has successfully discharged the burden on it to establish that the commercial sales of W-3053 that took place in western Oklahoma prior to the grace period preceding filing of the Patent in suit, anticipated the invention disclosed by the Patent in that they amounted to a making available to the public in Canada or elsewhere of the subject-matter of the Patent.
+c) Obviousness
+[94]
+The test for obviousness is set out in section 28.3 of the
+Act
+. That section reads as follows:
+"28.3 The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(a) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(b) information disclosed before the claim date by a person not mentioned in paragraph (a) in such a manner that the information became available to the public in Canada or elsewhere."
+"28.3 L'objet que définit la revendication d'une demande de brevet ne doit pas, à la date de la revendication, être évident pour une personne versée dans l'art ou la science dont relève l'objet, eu égard à toute communication:
+a) qui a été faite, plus d'un an avant la date de dépôt de la demande, par le demandeur ou un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs;
+b) qui a été faite par toute autre personne avant la date de la revendication de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs."
+[95]
+The test for obviousness was characterized by Mr. Justice Hugessen in <FRAGMENT_SUPPRESSED> [see footnote 40] in the following terms at page 294:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+Referring to section 28.3 of the
+Act
+quoted above, on the facts of this matter the reference in the foregoing quotation to "... at the claimed date of invention, ..." should now be to the claim date, defined in section 2 of the
+Act
+to mean the date of a claim in an application for a patent in Canada, as determined in accordance with section 28.1 of the
+Act
+.
+[96]
+ <FRAGMENT_SUPPRESSED>  wrote at pages 80 and 81:
+"There appears, however, to be a significant difference in the abilities of the English hypothetical skilled technician and the Canadian one. Indeed, making inquiries or testing, seems to be something outside the ken of the notional Canadian skilled technician. In
+Cabot Corp. v. 318602 Ontario Ltd.
+..., Rouleau, J. [of this Court], quoted H.G. Fox in
+Canadian Law and Practice Relating to Letters Patent for Inventions
+..., as stating in part:
+'In order that a thing shall be "obvious", it must be something that would directly occur to someone who was searching for something novel, a new manufacture, or whatever it might be,
+without the necessity of his having to do any experimenting
+or serious thought, or research, whether the research be in the laboratory or amongst literature.' (my emphasis)
+"Thus, although one would normally imagine that this mythical person's laboratory is filled with mythical test tubes and Petri dishes and that his or her daily life is spent in experimentation, for the purposes of this legal exercise, no research of any kind can be contemplated. So, although it may have been logical to an actual skilled person at the time, based on the state of the art, to conduct certain testing, that is not open to the mythical skilled technician. The mythical researcher cannot have an inquiring or thinking mind which ultimately would lead him or her to the answer but rather he or she is expected to instantly and spontaneously exclaim, without more, 'I already know the answer and it is obvious'. Nor is it appropriate to say that there were significant telltales which pointed the way for the mythical expert or that there were sufficient clues which made the invention 'worth a try'. In
+Farbwerke Hoechst  <FRAGMENT_SUPPRESSED>  stated:
+'Using the magnifying spectacles of hind-sight (a half borrowed phrase), it is easy to say that any experiment, if time and expense are unlimited ... is or was worth a try.'
+"On appeal, the Supreme Court of Canada affirmed this position ... and stated at p. 155:
+'Very few inventions are unexpected discoveries. Practically all research work is done by looking in directions where the "state of the art" points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed that way.'
+"Presumably, that is why Hugessen, J., stated that the question he posed in <FRAGMENT_SUPPRESSED> , ..., about the mythical creature is 'a very difficult test to satisfy'." (citations omitted)
+Mr. Justice Lederman's decision was affirmed on appeal [see footnote 42] and leave to appeal to the Supreme Court of Canada was dismissed. [see footnote 43]
+[97]
+Taking into account the foregoing authorities to the effect that obviousness is "... a very difficult test to satisfy", that the question to be answered is whether the invention disclosed by the Patent was, in the light of the prior art previously cited and the prior commercial sale of W-3053 "plain as day" or "crystal clear" to a technician skilled in the art at the date of the invention, I simply cannot conclude, based on the totality of the evidence before me, that the defendants have discharged their burden to establish that the invention disclosed by the Patent was obvious on the claim date in relation to the Patent to a person skilled in the art to which the Patent pertains such that they would have come "directly and without difficulty" to the solution taught by the Patent.
+[98]
+Counsel for the defendants drew the Court's attention to earlier decisions in the European Patent Office and in a United States court with respect to, in the first case, a patent application, and in the latter case, a patent for the invention here at issue. Both those decisions were adverse to the plaintiffs' interest in this action. Given the unusual circumstances surrounding those decisions, as brought to my attention by counsel for the plaintiffs during the course of the trial of this matter, I conclude that neither of those decisions is of any aid to the defendants in any aspect of this matter.
+d) Insufficiency of the Disclosure of the Patent
+[99]
+The relevant portions of subsection 27(3) of the
+Act
+read as follows:
+"(3) The specification of an invention must
+(a) correctly and fully describe the invention and its operation or use as contemplated by the inventor;
+(b) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct, compound or use it;
+. . . . .
+(d) in the case of a process, explain the necessary sequence, if any, of the various steps, so as to distinguish the invention from other inventions."
+"(3) Le mémoire descriptif doit:
+a) décrire d'une façon exacte et complète l'invention et son application ou exploitation, telles que les a conçues son inventeur;
+b) exposer clairement les diverses phases d'un procédé, ou le mode de construction, de confection, de composition ou d'utilisation d'une machine, d'un objet manufacturé ou d'un composé de matières, dans des termes complets, clairs, concis et exacts qui permettent à toute personne versée dans l'art ou la science dont relève l'invention, ou dans l'art ou la science qui s'en rapproche le plus, de confectionner, construire, composer ou utiliser l'invention;
+. . . . .
+d) s'il s'agit d'un procédé, expliquer la suite nécessaire, le cas échéant, des diverses phases du procédé, de façon à distinguer l'invention en cause d'autres inventions."
+[100]
+ <FRAGMENT_SUPPRESSED>  subsection 27(3) of the
+Act
+]. While my judgment in that case was reversed there was no dissent from my comments on these requirements. There I said, at page 316:
+'
+Two things must be described in the disclosures of a specification, one being the invention, and the other the operation or use of the invention as contemplated by the inventor, and with respect to each the description must be correct and full
+. The purpose underlying this requirement is that when the period of monopoly has expired the public will be able, having only the specification, to make the same successful use of the invention as the inventor could at the time of his application.
+The description must be correct; this means that it must be both clear and accurate
+. It must be free from avoidable obscurity or ambiguity and be as simple and distinct as the difficulty of description permits. It must not contain erroneous or misleading statements calculated to deceive or mislead the persons to whom the specification is addressed and render it difficult for them without trial and experiment to comprehend in what manner the invention is to be performed. It must not, for example, direct the use of alternative methods of putting it into effect if only one is practicable, even if persons skilled in the art would be likely to choose the practicable method.
+The description of the invention must also be full; this means that its ambit must be defined, for nothing that has not been described may be validly claimed. The description must also give all information that is necessary for successful operation or use of the invention, without leaving such result to the chance of successful experiment
+, and if warnings are required in order to avert failure such warnings must be given. Moreover, the inventor must act uberrima fide and give all information known to him that will enable the invention to be carried out to its best effect as contemplated by him.'" (emphasis in original)
+[101]
+The defendant Canwell alleged a number of insufficiencies in the Patent which are summarized, fairly I think, on behalf of the plaintiffs as follows:
+- first, tri-alkanolamines do not form reaction products as disclosed in the Patent;
+- second, precipitates occur following a reaction between hydrogen sulphide and triazine, itself the reaction product of MEA and formaldehyde, and the reality of resulting precipitates simply is not disclosed in the Patent;
+- third, one of the by-products of the reaction between hydrogen sulphide and triazine, namely, MEA reacts with carbondioxide and thus triazine is not selective as claimed in the Patent;
+- fourth, a molar ratio of 1:3 of MEA to formaldehyde is more efficient in scavenging, and thus is preferred over molar ratios with less formaldehyde-like substances in them, notwithstanding assurances to the contrary in the Patent; and
+- fifth and finally, the efficacy of the hydrogen sulphide reaction production is impacted by the temperature and pressure at which the reaction occurs and this simply is not disclosed in the Patent.
+[102]
+Counsel for the defendants urged that the evidence before me supported all of the foregoing allegations and I agree that, to a greater or lesser degree, that is correct.
+[103]
+ <FRAGMENT_SUPPRESSED>  Court, wrote at page 159:
+"It is, in my view, contrary to the spirit of these judgments [judgments previously referred to] to split up s. 36(1) [a predecessor to subsection 27(3) of the
+Act
+] into parts and require a standard for each part. To quote Fox , ...:
+'The persons to whom the specification is addressed are "ordinary workmen", ordinarily skilled in the art to which the invention relates and possessing the ordinary amount of knowledge incidental to that particular trade. The true interpretation of the patent is to be arrived at by a consideration of what a competent workman reading the specification at its date would have understood it to have disclosed and claimed.'
+"The rule had been explicitly endorsed by this Court in [earlier cases cited] as follows:
+'If one has to look at first principles and see what the meaning of a Specification is ... why is a Specification necessary? It is a bargain between the State and the inventor: the State says, "If you will tell what your invention is and if you will publish that invention in such a form and in such a way as to enable the public to get the benefit of it, you shall have a monopoly of that invention for a period of fourteen years." That is the bargain.
+The meaning which I think, in my view of the patent law, has always been placed on the object and purpose of a specification, is that it is to enable, not anybody, but a reasonably well informed artisan dealing with a subject-matter with which he is familiar, to make the thing, so as to make it available for the public at the end of the protected period
+.'
+and
+'The question here is whether that has been done.
+Now it appears to me that the mode in which one ought to face that question is to look – and I should say so not only of the Specification of a Patent, but of every instrument – at the whole of the instrument to see what it means – not to take one isolated passage out of it and make that inconsistent with the general invention
+, but to see substantially what the inventor really means, and when you arrive at that, then see whether the language is within
+the test that I have suggested as the proper test to apply to such a Specification and is such as will enable a typical workman to give the public the benefit of the invention
+.'" (citations omitted)
+[104]
+Counsel for the plaintiffs urged that in recent judgments, courts have demonstrated a reluctance to invalidate patents on the basis of technical objections. He urged that the insufficiencies raised by the defendants are just that, technical objections, not within the substance and spirit of the foregoing guidance provided by the Supreme Court of Canada.
+[105]
+In support of counsel for the plaintiffs' foregoing submission he cited
+ <FRAGMENT_SUPPRESSED>  217-218:
+"The objection is therefore purely technical. The specification in effect fully describes not only the invention, as the learned trial Judge found, but also its operation or use. Although, in terms, the various steps are described only for the chloro-ethane process, in fact the same steps are involved when using the bromo-ethane starting material and any person skilled in the art knows that this is what should be expected in the absence of any mention of an anomaly in the behaviour of the bromo-ethane compound. It does not appear to me that a patent should be invalidated on account of such a technicality and I do not think that s. 36(1) so requires. A specification is addressed to persons skilled in the art and, therefore, is to be construed by the standard of what such a person would understand on reading it. The evidence is clear that a competent chemist reading the specification and setting out to prepare thioridazine by the bromo-ethane process would understand that the same steps are to be taken as for the chloro-ethane process."
+[106]
+While the alleged misrepresentations here are quite different from those to which Mr. Justice Pigeon was alluding, I am satisfied that the same principles apply. I am satisfied that the evidence is clear that a person reasonably skilled in the art to which the Patent is directed, reading the specification and setting out to utilize the invention, would understand what the inventor really means and would thus be able to give the public the benefit of the invention. Thus, the specification serves the purpose to which it is directed, that being to make available to the public the claimed invention at the end of the protected period.
+[107]
+In the result, this basis to the defendant Canwell's claim to invalidity of the Patent also fails.
+e) Material Misrepresentation in the Petition
+[108]
+The defendant Canwell alleges that the inventor identified in the Patent, Edward T. Dillon, was not the true inventor but rather, the true inventor was Mr. Ray Watts who appeared as a witness before me and whose testimony is earlier referred to. I indicated in an earlier reference to the testimony of Mr. Watts that I had some reservations about Mr. Watts' testimony in which he claimed to be the inventor of the invention disclosed in the Patent. His evidence was clear that he was faced with a problem in his employment in western Oklahoma in the autumn of 1997. He sought aid and advice from Mr. Dillon. Mr. Dillon provided that aid and advice. Mr. Watts testified that that aid and advice did not immediately solve his problem but led, I am satisfied, Mr. Watts at least impliedly to the contrary, to the solution that came to be known as W-3053. Put at the highest in Mr. Watts' favour, I conclude that at best he was a co-inventor with Mr. Dillon.
+[109]
+Section 27(2) of the
+Act
+provides, among other things, that the application for a patent must be filed by the inventor or the inventor's legal representative and the application must contain a petition. Section 49 of the
+Act
+deals, once again among other things, with the question of to whom a patent may be granted. Section 53(1) provides that a patent is void if any material allegation in the petition is untrue. The same subsection deals with an omission or addition in the specification which will also void the patent if the omission or addition is willfully made for the purpose of misleading. Section 53(2) provides relief against an omission or addition to the specification where a court is satisfied that the omission or addition was an involuntary error. No equivalent provision for relief in respect of a material misstatement is provided.
+[110]
+In
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  Failure to Name the True Inventors", dealt with this issue at some length. He wrote at pages 264-5:
+" <FRAGMENT_SUPPRESSED>  53(1)] of the
+Patent Act
+, indicates that a patent can be void if any material allegation in the petition of the applicant is untrue. Since this phrase is followed by the word "or", and the concluding phrase "and any such omission or addition is wilfully made for the purpose of misleading" this clearly applies only to the second phrase as the first phrase does not deal with omissions or additions. Subsection (2) allows the court to find that the omission or addition was an involuntary error and to find that the patentee is entitled to the remainder of his patent. It, however, is only applicable to the second and third phrases of s-s. (1). What the court is required to find in the present case, which does not concern omissions or additions to the specifications or drawings, is whether the erroneous allegations in the petition are "material", no evidence of fraud or intent to mislead being necessary.'
+"Likewise, in my opinion, the issue in this case is not whether the alleged error was made wilfully with the intent to mislead, there being no evidence of this, but rather whether the naming of the inventors is an untrue material allegation." (citation omitted)
+[111]
+I am satisfied that the issue here is the same. No allegation was made before me that the alleged error in naming only Mr. Dillon and not including Mr. Watts was made wilfully with the intent to mislead. Mr. Justice Wetston continued:
+"It has been held that the only allegations which are material to a patent are those which relate to the subject-matter of the patent: ...
+. . . . .
+"It has also been found that in some circumstances it is immaterial to the public whether all of the co-inventors are named or not: ..." (citations omitted)
+[112]
+Mr. Justice Wetston concluded, on the facts before him, that the failure to name certain persons as co-inventors was not a material allegation as contemplated by section 53 of the
+Act
+. I reach the same conclusion here assuming, without deciding, that Mr. Watts was in fact a co-inventor with Mr. Dillon.
+[113]
+Once again, on this ground, the defendant Canwell's allegation of invalidity of the Patent fails.
+f) Conclusion Regarding Validity
+[114]
+To summarize then on the question of validity or invalidity, I conclude that on all of the grounds on which the defendant Canwell alleges invalidity in its counterclaim, the counterclaim fails.
+3) Infringement
+a) The Claims in Issue
+[115]
+As earlier noted, the plaintiffs alleged infringement of claims in four series designated as series 1 to 4. The claims in each series are quoted in full in Schedules 3 to 6.
+[116]
+The first series of claims alleged to be infringed consist of claims 44 to 50. Counsel for the plaintiffs acknowledged that claims 45 through 50 are all directly or indirectly dependent on claim 44. For ease of reference, that claim is repeated here:
+"44. A method for sweetening gaseous or liquid hydrocarbon streams or mixtures thereof containing hydrogen sulfide and organic sulfides comprising contacting said streams with a composition comprising the reaction product of (i) monoethanolamine and (ii) formaldehyde, for a period of time sufficient to sweeten said streams wherein the molar ratio of the said monoethanolamine to said formaldehyde is from about 1:0.25 to about 1:1.5."
+Counsel for the plaintiffs urged that the essence of claim 44 is a method for reducing hydrogen sulphide and organic sulphides in gaseous or liquid hydrocarbon streams or mixtures thereof by contacting the stream with a chemical sweetener containing a reaction product of MEA and formaldehyde in molar ratios from about 1:0.25 to about 1:1.5. The Patent teaches that, when the molar ratio is about 1:1, the reaction product is triazine. Counsel urged that any sweetening composition composed of MEA and formaldehyde within the range of molar ratios specified falls within the scope of the claim.
+[117]
+Claims 45 to 50 respectively have the following additional limitations: the molar ratios specified in claim 45 are in the range from about 1:1 to about 1:1.5; claim 46 prescribes that the reaction product is triazine; claim 47 specifies that the hydrocarbon stream contacted by the reaction product is a sour natural gas stream; claim 48 specifies contact in a hydrogen sulphide scrubber tower; claim 49 contains the same specification as claim 48 but with a specified rate of application; and claim 50 contains the same specification as claims 48 and 49 but provides that sweetening is allowed to occur until the sweetening composition is spent.
+[118]
+The second series consists of claims 19, 20, 21, 28, 29 and 34. Counsel for the plaintiffs acknowledged that claims 20, 21, 28, 29 and 34 are all directly or indirectly dependent on claim 19. Claim 19 reads as follows:
+"19. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid hydrocarbon streams or mixtures thereof comprising contacting said streams with a composition comprising a triazine, in an amount and for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams."
+[119]
+The words "selectively reducing" in claim 19 relate to the preferential reaction of the sweetening composition with hydrogen sulphide and organic sulphides as opposed to with carbon dioxide, a preference earlier referred to and alleged on behalf of the defendants to not be entirely accurate. Claim 19 specifically refers to contacting a gaseous or liquid hydrocarbon stream with a composition comprising triazine, without reference to triazine as a reaction product of MEA and formaldehyde.
+[120]
+The dependent claims to claim 19 include the following limitations: first, in the case of claim 20, a specific triazine is specified; second, in the case of claim 21, a composition comprising "... at least about ..." 70% triazine is specified; third in claim 28, the same triazine specified in claim 20 is identified but the hydrocarbon stream is required to be gaseous; fourth, claim 29 repeats the limitations of claim 28 and further requires that the hydrocarbon stream be sour natural gas; and fifth, claim 34, once again reflecting the terms of claim 20, further requires that the hydrogen sulphide be "... substantially completely ..." removed.
+[121]
+The third series of claims consists of claims 3 to 6, 8, 10, 13 to 16, 24 and 25, 32 and 36. Counsel for the plaintiffs acknowledged that each of the foregoing claims is dependent directly or indirectly on claim 1. Claim 1, which is quoted in Schedule II, is repeated here for convenience:
+"1. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid hydrocarbon streams or mixtures thereof comprising contacting said stream with a composition comprising the reaction product of (i) an alkanolamine comprising 1 to about 6 carbon atoms with (ii) an aldehyde comprising 1 to about 4 carbon atoms, in an amount and for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams."
+[122]
+The plaintiffs, for this series, focussed on claim 5 which is further dependent on one or more of claims 2, 3 and 4 which each in turn are dependent on claim 1. Once again, for ease of reference, claim 5 which, as all other claims in series III, is quoted in Schedule V, is repeated here for ease of reference:
+"5. A method as in any one of claims 2, 3, or 4, wherein (i) is monoethanolamine and (ii) is formaldehyde."
+[123]
+The remaining claims in series III are, as noted, all directly or indirectly dependent upon claim 1 but have further additional limitations.
+[124]
+Finally, series IV consists of claims 57, 58, 66 and 67. The latter three of those claims are acknowledged to be directly or indirectly dependent on claim 57. Claim 57 which, together with the other series IV claims is quoted in Schedule VI, is repeated here for ease of reference:
+"57. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid streams containing hydrocarbon or mixtures thereof comprising contacting said streams with a composition comprising at least about 70% of a triazine, for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams."
+As with the other series of claims at issue, the remaining claims in this series, 58, 66 and 67, reflect additional limitations to those provided in claim 57.
+b) Infringement?
+[125]
+Counsel for the plaintiffs urged that determination of infringement here is without difficulty, given the evidence before the Court as to the nature of Canwell's scavenging process and products. It is clear, he urged, that each of those products comprises a reaction product of MEA and formaldehyde and contains triazine. Further, he urged, the regeneration of Canwell's sweetening products, by the addition of formaldehyde to spent 300-SX, as evidenced in the processes used by the City of Medicine Hat, directly utilizes the processes claimed in the Patent. Against the applicable judicial guidance, counsel urged that infringement is clear. He further submitted that, in the case of processes utilizing the 300-SX product, the infringement is of all of the claims in each of series 1 to 4 and that the same applies with respect to the alternate formulation 300-SX product, sometimes known as 500-SX.
+[126]
+With respect to processes involving Canwell's CW-1000 product, counsel urged that, on a broad interpretation of the evidence before me, all of the claims in series 1 to 3 are infringed but not the claims in series 4. On a narrower interpretation, based upon the expert evidence of Dr. Bachelor, he urged that all claims in series 2, other than claim 21, are infringed and all claims in series 3 other than claims 3, 4, 6 and 36 are infringed while, once again, none of the claims in series 4 are infringed.
+[127]
+I turn briefly to a review of guidance as to infringement provided by jurisprudence.
+[128]
+In
+Cabot Corp. et al. v. 318602 Ontario Ltd. et al.
+[see footnote 48], Mr. Justice Rouleau wrote at page 164:
+"An immaterial difference between the patent and the defendants' product is not a defence to infringement. As Mahoney, J., stated in
+ <FRAGMENT_SUPPRESSED>  improvement on that of the connector patent.
+. . . . .
+'The principle to be applied was stated in
+ <FRAGMENT_SUPPRESSED>  invention and not the mere form is to be looked to. It has been stated in many cases that if an infringer takes the principle and alters the details, and yet it is obvious that he has taken the substance of the idea which is the subject matter of the invention, and has simply altered the details, the Court is justified in looking through the variation of details and see [sic] that the substance of the invention has been infringed and consequently can protect the inventor. And the question is not whether the substantial part of the machine or method has been taken from the specification, but the very different one, whether what is done by the alleged infringer takes from the patentee the substance of his invention."
+'In my view, the defendant has appropriated the invention of the connection patent.'" (citations omitted)
+[129]
+More recently, in
+Free World Trust
+[see footnote 49], Mr. Justice Binnie wrote at pages 183-4:
+"The appeal in this Court was essentially directed to the infringement issues. It has been established, at least since
+Grip Printing and  <FRAGMENT_SUPPRESSED>  the invention but nevertheless appropriates its substance (or 'pith and marrow'). This extended protection of the patentee is recognized in Anglo-Canadian law, and also finds expression in modified form in the United States under the doctrine of equivalents, which is said to be available against the producer of a device that performs substantially the same function in substantially the same way to obtain substantially the same result; ...
+"It is obviously an important public policy to control the scope of 'substantive infringement'. A purely literal application of the text of the claims would allow a person skilled in the art to make minor and inconsequential variations in the device and thereby to appropriate the substance of the invention with a copycat device while staying just outside the monopoly. A broader interpretation, on the other hand, risks conferring on the patentee the benefit of inventions that he had not in fact made but which could be deemed with hindsight to be 'equivalent' to what in fact was invented. This would be unfair to the public and unfair to competitors. It is important that the patent system be fair as well as predictable in its operation.
+"The argument for the respondents is that even if the patents are valid, the appellant is not sticking to the bargain it made. It is pushing the envelope of the doctrine of 'substantive infringement' beyond anything disclosed or claimed in its patent specifications. The inventor brought together known components to achieve a useful and ingenious result, but now attacks the respondents' device which brings together
+different
+components to achieve a comparable result.
+"The appeal thus raises the fundamental issue of how best to resolve the tension between 'literal infringement' and 'substantive infringement' to achieve a fair and predictable result."
+Mr. Justice Binnie then goes on to discuss at some length six (6) propositions identified by him that address the issue of how best to resolve the tension between "literal infringement" and "substantive infringement".
+[130]
+Counsel for the plaintiffs urged that I need not address Mr. Justice Binnie's six propositions in these reasons because the evidence here discloses literal infringement. He urged that the Canwell process and sweetening composition are literally within the claims of the Patent and involve essentially no minor or inconsequential variation from the invention disclosed by the Patent that would require an examination of whether or not, notwithstanding that there was not literal infringement, there was nonetheless substantive infringement. In support of this proposition, he urged that customers of Canwell, such as the City of Medicine Hat, have their gas sweetened using Canwell's composition and using Canwell's process. Those compositions comprise a reaction product of MEA and formaldehyde in molar ratios within the scope of the claims, and contain triazine. In addition, the use of a regenerated sweetening product by customers such as the City of Medicine Hat, under Canwell's direction, further utilizes the plaintiffs' claimed method.
+[131]
+Counsel for the defendants urged that the evidence before me clearly establishes that Canwell's 300-SX product and the process by which it is used to scavenge hydrogen sulphide is not selective in its reaction with hydrogen sulphide and is therefore outside the scope of the claims of the Patent. With respect to Canwell's 500-SX product, by reference to
+ <FRAGMENT_SUPPRESSED>  Canwell's product line, is outside the scope of the statement of claim herein in its latest iteration and therefore Canwell's process utilizing this product was never in issue in this action.
+[132]
+Finally, counsel for the defendants urged that Canwell's CW-1000 product and related process does not infringe any claims in suit that limit the molar ratio of MEA to formaldehyde to 1:1.5. He urged that I should reject the plaintiff's argument that, even though the molar ratio of MEA to formaldehyde in CW-1000 is above the claimed range of 1:1.5, it nevertheless infringes on the basis that the triazine formed in the CW-1000 product derived from a molar ratio of 1:1 and the subsequent addition of more formaldehyde does not, of itself, involve further creation of a reaction product of MEA and formaldehyde.
+[133]
+I adopt the position of counsel for the plaintiffs. I am satisfied that both Canwell's 300-SX and CW-1000 products, utilized by the process adopted by Canwell and recommended by it to its customers, infringe the claims of the Patent identified in the four series earlier referred to with the exceptions acknowledged on behalf of the plaintiffs even based on a broad interpretation. Canwell's 500-SX product is essentially equivalent to its 300-SX product. Indeed, while the evidence indicates it has been separately identified within Canwell as 500-SX, the evidence further indicates that it is sold as 300-SX. I am satisfied that Canwell simply cannot escape a finding of infringement by incorporating a minor or inconsequential variation within its 300-SX product and internally redesignating that product. To the extent that the 300-SX product and the process by which it is used infringe the claims of the Patent, I am satisfied that the 500-SX product and related process also infringe and are within the scope of this action.
+(c) Infringement by whom?
+[134]
+Having determined that Canwell's 300-SX, variant 500-SX and CW-1000 products, the processes by which Canwell recommends they be used, and the use in accordance with those recommendations infringe the Patent, on the evidence before me, I can only conclude that the City of Medicine Hat, through its acknowledged use of both the 300-SX and CW-1000 products in accordance with processes recommended by Canwell, infringed the Patent.
+[135]
+Counsel for the plaintiffs urged that Canwell itself performed the claimed method using its products through the range of services and the advice provided by it as typified by the services and advice provided to the City of Medicine Hat and thus, itself, directly infringed the Patent. I cannot agree with this submission. While the extensive system design and operational advice and assistance provided by Canwell to the City of Medicine Hat was impressive and its "cradle to grave" service program was extensive, I cannot conclude that Canwell itself performed hydrogen sulphide scavenging services for the City of Medicine Hat. The City of Medicine Hat was, at all relevant times, directly in control of scavenging operations conducted at its gas well site, notwithstanding that it was, to a large extent, dependent upon the advice, services and assistance provided by Canwell.
+[136]
+That being said, I am satisfied that the evidence before me clearly demonstrates that Canwell induced infringement by the  <FRAGMENT_SUPPRESSED>  inducement. An early Canadian precedent in this area is
+ <FRAGMENT_SUPPRESSED>  law might be framed to meet the case of one who provided the materials for the infringement, and for his own ends and benefit procured or induced another to infringe a patent ... I do not see that infringements of patents can in this respect be distinguished from other wrongs ...'
+"This early statement has been little qualified over the years and lists the essential ingredients in an inducement action. More recently they were confirmed in
+ <FRAGMENT_SUPPRESSED>  was completed by the direct infringer ...
+'2) Completion of the act of infringement was influenced by the acts of the inducer. Without said influence, infringement would not otherwise take place ...
+'3) The influence must knowingly be exercised by the seller, i.e. the seller knows his influence will result in the completion of the act of infringement.' (citations omitted)
+"These are the three criteria which must be met in an action for inducing infringement, and in each case it is a question of fact as to whether inducement is proved." (citations omitted)
+[137]
+Further authority stands for the proposition that where, as here, an article is sold to a customer for only one purpose, together with instructions to use the article in an infringing process, the seller is also liable for infringement. [see footnote 52]
+[138]
+Further, once again, there is extensive authority for the proposition that where a defendant such as Canwell provides to a purchaser such as the City of Medicine Hat instructions or directions as to the method of using an invention, it induces infringement of the method claims of a patent. [see footnote 53]
+[139]
+I am satisfied that, on the totality of the evidence before me, Canwell is beyond doubt liable for infringement on the basis that it induced infringement by the City of Medicine Hat.
+4) Section 7(a) of the Trade-marks Act
+[140]
+The relevant portion of section 7 of the
+Trade-marks Act
+[see footnote 54] reads as follows:
+"7. No person shall
+(a) make a false or misleading statement tending to discredit the business, wares or services of a competitor; ..."
+"7. Nul ne peut:
+a) faire une déclaration fausse ou trompeuse tendant à discréditer l'entreprise, les marchandises ou les services d'un concurrent; ..."
+[141]
+Mr. Justice MacGuigan, in
+ <FRAGMENT_SUPPRESSED>  Court of Canada in
+ <FRAGMENT_SUPPRESSED>  s-s. 7(e) had any constitutional validity, but it would appear that the remaining subsections of s. 7 were not found unconstitutional by the Chief Justice."
+At page 325, he concludes:
+"In sum, the effect of the <FRAGMENT_SUPPRESSED> case, in my opinion, is that s. 7(b) is intra vires of the Parliament of Canada, 'insofar as it may be said to round out regulatory schemes prescribed by Parliament in the exercise of its legislative power in relation to patents, copyrights, trade marks and trade names'.
+"However, since this is a dictum of the chief justice rather than the ratio decidendi of the case, the matter must be looked at more closely in relation to precedent and principle."
+Finally, at page 328, Mr. Justice MacGuigan further concludes:
+"In s-s. 7(b), Parliament has chosen to protect the goodwill associated with trade marks. In this way, as Chief Justice Laskin put it, it 'rounds out' the statutory scheme of protection of all trade marks. As such, the civil remedy which it provides in conjunction with s. 53 is 'genuinely and bona fide integral with the over-all plan of supervision': ... It has, in sum, a rational functional connection to the kind of trade marks scheme Parliament envisaged, in which even unregistered marks would be protected from harmful misrepresentations.
+"In my view, s-s. 7(b) is clearly within federal constitutional jurisdiction under s-s. 91(2) of the
+Constitution Act, 1867
+." (citations omitted)
+[142]
+I am satisfied that the same conclusion should be reached with regard to s. 7(a) of the
+Trade-marks Act
+insofar as it may be said to round out a regulatory scheme prescribed by Parliament in the exercise of its legislative authority in relation to patents, copyrights and trade-marks.
+[143]
+That being said, in light of my conclusions with regard to validity of the Patent and infringement by Canwell, this issue is essentially moot. Correspondence before me emanating from one or other of the plaintiffs, or a predecessor of one of them, describing Canwell, either directly or by membership in a class as a "potential patent violator" or an "infringer" cannot be said to be correspondence containing false or misleading statements tending to discredit the business, wares or services of Canwell.
+[144]
+In the result, Canwell's counterclaim for relief under s. 7(a) of the
+Trade-marks Act
+will be dismissed.
+RELIEFS
+1) As Against Canwell and the City of Medicine Hat
+[145]
+A declaration will go to the effect that, as between the plaintiffs and the defendants, claims 3 to 6 , 8, 10, 13 to 16, 19 to 21, 24, 25, 28, 29, 32, 34, 36, 44 to 50, 57, 58, 66 and 67 of the Patent, being the claims constituting the four series of claims alleged to be infringed in this action, are valid and have been infringed. A further declaration will go that Canwell has induced or contributed to third parties infringing the same claims. A further declaration will go that Canwell has induced or contributed to third parties infringing the same claims of the patent since the date the patent was laid open, which is to say the 23rd of June, 1990, and that the City of Medicine Hat infringed some or all of the aforementioned claims between in or about January 1994 and in or about August 1997.
+[146]
+A permanent injunction will go against the City of Medicine Hat restraining it by itself, its directors or equivalent, officers, employees, agents or otherwise and all those in privity with or under the control of it from infringing the Patent.
+[147]
+A permanent injunction will go against Canwell restraining it, by itself, its directors, officers, employees, agents or otherwise, and all those in privity with or under its control from infringing the Patent and from manufacturing, importing, exporting, selling or offering for sale, in Canada or from Canada, any Cansweet and equivalent products. That injunction will, of course, reach Mr. Titley as a director and officer of Canwell and as a person in privity with Canwell.
+[148]
+Judgment will go against Canwell requiring it to deliver to the plaintiffs all Cansweet and equivalent products as well as any apparatus, documents or other things within its possession, power or control and which may contribute to Canwell infringing the injunction that will issue against Canwell.
+[149]
+Judgment will go for payment to the plaintiffs of profits of the City of Medicine Hat flowing from its infringement of the Patent, as determined by these reasons and for a nominal amount as reasonable compensation for damages sustained by the plaintiffs by reason of the actions of the City, prior to the date of issue of the Patent, that would have constituted infringement had the Patent issued earlier.
+[150]
+Judgment will go for payment to the plaintiffs of profits of Canwell from the date of issue of the Patent and of a nominal amount as reasonable compensation for damages sustained by the plaintiffs by reason of the actions of Canwell after the 23rd of June, 1990 and before the date of issue of the Patent that induced or contributed to actions of third parties that would have constituted infringement of the Patent if the Patent had been granted on the 23rd of June, 1990, as determined by these reasons.
+[151]
+Judgment will go in favour of the plaintiffs for pre- and post-judgment interest on the awards equal to profits referred to in the two foregoing paragraphs.
+[152]
+The plaintiffs' claim for exemplary damages, not having been pursued at trial, will be dismissed.
+[153]
+I turn then to the issues of the measure of profits and reasonable compensation on which substantial evidence was adduced before me.
+a) Accounting of Profits
+[154]
+ <FRAGMENT_SUPPRESSED>  "
+Damages and accounting for profits distinguished
+":
+"It is most important to remember that the principles governing the awarding of damages to the owner of a patent, which is the remedy ordinarily chosen and which is of course strictly a legal one, must of necessity be quite different from those involved in applying the purely equitable remedy of requiring a wrongdoer to account for all profits derived from his illegal act. In the latter case, the position of the successful plaintiff insofar as any harm or damage he might or might not have suffered is completely irrelevant and, therefore, must not be taken into consideration.
+"As to the nature of an equitable accounting for profits improperly made in industrial property cases, one finds the following statement in 38 Hals., 3rd ed., pp. 647-8, para. 1059:
+. . . . .
+'In taking an account, of profits, which is an equitable relief, the damage which the plaintiff has suffered is totally immaterial; the object of the account is to give the plaintiff the actual profits which the defendant has made and of which equity strips him as soon as it is established that the profits were improperly made.'"
+Mr. Justice Addy continued at page 209:
+"Where the defendant, as in the present case, has been found at fault and has been ordered to account, that obligation to account rests without reservation entirely on him. There exists no onus whatsoever in this respect on the owner of the property. The judgment obliges the defendant to account for the full amount of all revenue received from the use of the property. Negligent or wilful failure to declare any such amounts might well render the infringer guilty of contempt of court. The amount so declared becomes payable to the rightful owner of the property and is subject to be reduced only by such bona fide expenses or disbursements as the infringer can by positive evidence establish as having been actually incurred ..."
+There was no allegation in this matter that the defendant Canwell failed to account for the full amount of all revenue received from its hydrogen sulphide scrubbing operations up to the close of business on the 30th of November, 2000, the close of its 2000 fiscal year. Further, there was no allegation that the City of Medicine Hat failed to fully cooperate in accounting for the full amount of all revenue received from its gas well in the operation of which Canwell's hydrogen sulphide scrubbing process and products were used.
+[155]
+Mr. Justice Addy continued at page 210 of <FRAGMENT_SUPPRESSED> :
+"Having regard to the principles which should govern an accounting of profits in equity where a person has been illegally deprived of his property in a patent of invention, I find that justice requires that this method [the differential or direct cost accounting method] of determining net profits be adopted. It would be contrary to the basic principles of equity to allow the infringer to deduct, as opposed to the increase of fixed expenses attributable to the infringing operation, such part of all its fixed costs as might be attributable proportionately to the operation. This would constitute in effect unjust enrichment of the infringer."
+[156]
+Finally, Mr. Justice Addy concluded at page 213:
+"To summarize: the infringer is entitled to deduct only those expenses, both variable and fixed, which actually contributed to the sums received and for which he is liable to account. It follows that no part or proportion of any expenditure which would have been incurred had the infringing operation not taken place, is to be considered as deductible."
+[157]
+Against the foregoing principles, and based upon the expert statement of Gary Timm, a chartered accountant designated by the Canadian Institute of Chartered Accountants as a specialist in investigative and forensic accounting, the profit claimed by the plaintiffs from the 8th of February, 1995, the day following the issuance of the Patent, to the 30th of November, 2000, including pre-judgment interest to the 1st of May, 2000 at rates determined in accordance with the Alberta
+Judgment Interest Regulations
+[see footnote 58], is $8,094,325.39. In arriving at this figure, against the foregoing principles from <FRAGMENT_SUPPRESSED> , certain costs that Canwell alleged are proper charges against income and that the plaintiffs urged have not been justified as deductible from income, were not allowed. Those costs include depreciation, legal fees relating to this action, bonuses paid to Mr. Titley, plant processing fees paid to a related company, and certain charges not attributable to the services and products covered by the Patent.
+[158]
+On an equivalent basis, the profit claimed against the City of Medicine Hat, once again including pre-judgment interest to the 1st of May, 2001, amounts to $621,421.07.
+[159]
+Not surprisingly, with the aid of an accountant in the employ of the City of Medicine Hat and a chartered accountant and Fellow of the Institute of Chartered Accountants practising in the province of Alberta as a partner in a firm specialising in insolvency, corporate restructuring and forensic and litigation accounting, both of whose experts statements were before the Court, counsel for the defendants put forward a profit figure for the City of Medicine Hat and a net income figure for Canwell during the relevant time, which figures were far lower than those identified on behalf of the plaintiffs. For the City of Medicine Hat, the main items of costs in dispute were administration costs and depletion allowances.
+[160]
+Counsel for the defendants urged that sweetening costs represented only a very small portion of the overall costs of producing the natural gas from the City of Medicine Hat well in question and therefore some reasonable apportionment was appropriate. For this proposition, counsel for the defendants cited
+ <FRAGMENT_SUPPRESSED>  entirely distinguishable on the facts and that no apportionment is here warranted.
+[161]
+In relation to Canwell's profits, counsel for the defendants urged that since Canwell is essentially a single product-line and service business, none of the expenses set out in its financial statements would have been incurred had Canwell not carried out the activities that I have found to have induced or contributed to infringement, that Canwell derives no significant revenue from other than inducing or contributing activities and that against this backdrop, no expenses would have been incurred but for the activity that I have found to have induced or contributed to infringement with the result that the differential method of accounting and the full cost method of accounting should produce the same result. On the basis of that analysis, counsel urged a substantially lower profit figure than that put forward on behalf of the plaintiffs..
+[162]
+Counsel for the defendants noted that, as between the contrasting experts' opinions with respect to Canwell, the most significant item is the treatment of Mr. Titley's annual bonuses which, on average, were in very substantial amounts.
+[163]
+Counsel for the defendants referred me to
+ <FRAGMENT_SUPPRESSED>  this Court, in refusing to disallow as expenses amounts paid by way of commission to a sales agent, which amounts were alleged to have been made for the purpose of stripping profits from the corporate defendant, wrote at page 220:
+"I have some doubt that Ogawa Fashion Planning Corporation is a bona fide sales agent for Erom Roche Inc. However, cash payments were actually made to that company and it appears there was a formal agency agreement signed in 1993. While this action had been commenced at the time, the plaintiffs were in the process of commencing and expanding their business of selling fur garments in Japan at the time.
+"I cannot, on a balance of probabilities, conclude that the Ogawa commission arrangement was a sham with its sole or primary purpose that of reducing the profits of Erom Roche Inc."
+Counsel for the defendants urged that, on the reasoning of Justice Rothstein, I should not, on a balance of probabilities, conclude that bonuses paid to Mr. Titley were a sham with its sole or primary purpose being that of reducing Canwell's profits.
+[164]
+There is some merit in counsel's submissions. Certainly the expert accounting evidence before me on both sides urged, or at least acknowledged, that there was a legitimate tax-based justification for the very substantial bonus amounts. In each case, it would appear that the bonuses were designed to, or at least had the effect of, reducing Canwell's taxable income to just below the threshold at which a substantially higher corporate income tax rate would apply. The experts were in agreement that actions to achieve such a result were common practice in single-owner companies such as Canwell. That being said, there was absolutely no evidence before me as to any relationship between the bonuses and reasonable compensation to Mr. Titley. Indeed, it would appear, to me at least, that the only income that Mr. Titley drew from Canwell was in the form of bonuses and those in very substantial amounts.
+[165]
+Mr. Titley chose not to testify before me. His evidence as to his role  <FRAGMENT_SUPPRESSED>  and the relationship between that role and his bonus income would have been very enlightening. For the purposes of this aspect of this matter and perhaps one other to which I will shortly refer, I am prepared to draw an adverse inference out of Mr. Titley's failure to testify. On the basis of that adverse inference, I will distinguish Mr. Justice Rothstein's comments earlier referred to. On the basis of the adverse inference, I conclude, on a balance of probabilities, that the bonuses paid to Mr. Titley were a series of sham transactions with their sole purpose, albeit with a legitimate motivation given the income tax considerations, being that of reducing the profits of Canwell. Whether a secondary motivation existed for the reduction of profits of Canwell is not, in this context, at issue. In the result, I conclude that the disallowance of the bonuses paid to Mr. Titley, as proposed on behalf of the plaintiffs, was entirely appropriate and that Canwell and Mr. Titley simply failed to discharge the onus on them to justify allowance of the bonuses as an expense for the purposes of this matter.
+[166]
+On the basis of all of the foregoing considerations, I adopt without modification the amounts put forward on behalf of the plaintiffs as appropriate in respect of relief in the nature of an accounting of profits of the City of Medicine Hat and Canwell. Those amounts are adopted with the incorporated amounts for pre-judgment interest to the 1st of May, 2001 as the method of calculation and the rates used in calculation were not objected to by counsel for the defendants. If counsel, in consultation with the parties, are unable to settle pre-judgment and post-judgment interest post the 1st of May, 2001, I may be spoken to.
+[167]
+Profits of Canwell for the period from the 1st of December to the date of judgment may remain at issue. If such be the case, I can be spoken to and they can be made the subject of a supplementary judgment, on consent or otherwise, if required.
+b) Reasonable Compensation for Damages
+[168]
+As regards reasonable compensation from the date of laying open of the Patent to the date of its issue, subsection 55(2) of the
+Act
+reads as follows:
+"55(2) A person is liable to pay reasonable compensation to a patentee and to all persons claiming under the patentee for any damage sustained by the patentee or by any of those persons by reason of any act on the part of that person, after the application for the patent became open to public inspection under section 10 and before the grant of the patent, that would have constituted an infringement of the patent if the patent had been granted on the day the application became open to public inspection under that section."
+"55(2) Est responsable envers le breveté et toute personne se réclamant de celui-ci, à concurrence d'une indemnité raisonnable, quiconque accomplit un acte leur faisant subir un dommage entre la date à laquelle la demande de brevet est devenue accessible au public sous le régime de l'article 10 et l'octroi du brevet, dans le cas où cet acte aurait constitué une contrefaçon si le brevet avait été octroyé à la date où cette demande est ainsi devenue accessible."
+Neither counsel was able to cite any jurisprudence directly interpreting subsection 55(2) or its predecessor. That being said, the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  1935
+Patent Act
+in which the expression "... a reasonable compensation for the use thereof, ... appeared, wrote:
+"The principle applied in the course of administering a similar provision of the
+Patents Act
+of Great Britain is that reasonable compensation means such price or consideration 'as would be arrived at between a willing licensor and a willing licensee bargaining on equal terms': ..."
+[169]
+Counsel for the plaintiffs referred me to comments on the concept of a reasonable royalty in
+ <FRAGMENT_SUPPRESSED>  the heading "...
+What is a reasonable royalty rate
+?"
+"A reasonable royalty rate is 'that which the infringer would have had to pay if, instead of infringing the Patent, [the infringer] had come to be licensed under the  <FRAGMENT_SUPPRESSED>  licensor and a willing licensee." (citations omitted)
+[170]
+In the absence of any evidence whatsoever as to damages sustained and a rate that might result from negotiations of the nature cited by Deputy Justice Heald, counsel for the plaintiffs urged that damages should be equated with profits or income and reasonable compensation should be equated with a reasonable negotiated royalty rate. Further, and in the absence of any evidence whatsoever as to what such a rate might be, counsel urged that a rate of 15% of gross sales in relation to Canwell and 10% of the value of the gas sold by the City of Medicine Hat from the well where the offending process was used should be adopted.
+[171]
+I find the cited caselaw and the submissions of counsel for the plaintiff to be unhelpful. The Court in
+ <FRAGMENT_SUPPRESSED>  reasonable compensation for the use thereof, ...". Here, by contrast, subsection 55(2) of the
+Act
+refers to "... reasonable compensation ... for any damage sustained ...". While the plaintiffs may well have sustained damage by reason of the actions of the defendants during the time between the laying open of the Patent application and the grant of the Patent, no damage sustained and no quantum of damages were proved before me. Without evidence, I am not prepared to assume significant damage, as logical as such an assumption might be, or to equate reasonable compensation to some percentage, related to a reasonable royalty rate on the profits or income of Canwell and the city of Medicine Hat in the relevant period. Thus, in this regard, the plaintiffs having simply failed to make out their case for other than nominal compensation, the award as against Canwell and the City of Medicine Hat will be $1.00 each without pre- or post-judgment interest.
+2) As Against Mr. Titley
+[172]
+Given Mr. Titley's multi-faceted relationship with Canwell, his entrepreneurial spirit as demonstrated by the evidence before me and the absence of any direct evidence from him in the course of the trial, a permanent injunction will go against him restraining him, by himself, and by all those in privity with or under his control from infringing the Patent and from manufacturing, importing, exporting, selling or offering for sale, in Canada or from Canada, any Cansweet or equivalent products. I am satisfied that such an injunction is justified notwithstanding the fact that, as previously noted, Mr. Titley will be restrained by the injunction against Canwell in all of his relationships with Canwell. I have no confidence that Mr. Titley might not act in a manner inconsistent with my judgment herein outside of all of his relationships with Canwell.
+[173]
+Counsel for the plaintiffs urged that Mr. Titley should be made personally liable, presumably jointly and severally with Canwell, for all amounts for which I have determined Canwell to be liable to the plaintiffs. They urged this proposition on two grounds: first on the basis of principles that can be derived from <FRAGMENT_SUPPRESSED> [see footnote 63]; secondly, as a director of Canwell, under a fiduciary obligation to act in the best interests of Canwell, and a statutory personal liability pursuant to section 13 of the Alberta
+Business Corporation Act
+[see footnote 64]; and finally, by virtue of principles of constructive trust and unjust enrichment through the wrongful acquisition of property.
+[174]
+In <FRAGMENT_SUPPRESSED> , Mr. Justice Le Dain, for the Federal Court of Appeal, after reviewing a number of decisions from courts in the United States, wrote at page 174:
+"I do not think we should go so far as to hold that the director or officer must know or have reason to know that the acts which he directs or procures constitute infringement. That would be to impose a condition of liability that does not exist for patent infringement generally. I note such knowledge has been held in the United States not to be material where the question is the personal liability of directors or officers ... But in my opinion there must be circumstances from which it is reasonable to conclude that
+the purpose of the director or officer was not the direction of the manufacturing and selling activity of the company in the ordinary course of his relationship to it but the deliberate, wilful and knowing pursuit of a course of conduct that was likely to constitute infringement or reflected an indifference to the risk of it.
+The precise formulation of the appropriate test is obviously a difficult one. Room must be left for a broad appreciation of the circumstances of each case to determine whether as a matter of policy they call for personal liability. Opinions might differ as to the appropriateness of the precise language of the learned trial Judge in formulating the test which he adopted – '
+deliberately or recklessly embarked on a scheme, using the company as a vehicle, to secure profit or custom which rightfully belonged to the plaintiff
+' – but I am unable to conclude that in its essential emphasis it was wrong." (emphasis added)
+[175]
+In <FRAGMENT_SUPPRESSED> [see footnote 65], Mr. Justice Rothstein, then of the Trial Division of this Court, considered the issue of personal liability of a director against the test for personal liability prescribed by <FRAGMENT_SUPPRESSED> . He wrote at page 223:
+"There has been
+dishonesty
+exhibited by Mr. Iwata as a course of conduct with respect to the acquisition of garments from the plaintiffs, the manufacture of garments through Erom Roche Inc. that infringed the plaintiffs' patent and the sale of garments in Japan. There has been a
+deliberate attempt to strip Erom Roche Inc. of assets to render any judgment obtained by the plaintiffs uncollectible
+.
+"Given the
+deceptive
+and
+deliberately reckless
+behaviour Mr. Iwata has shown with regard to the plaintiffs and the infringement, it is clear that his conduct cannot be justified as merely directing the manufacturing and selling activity of Erom Roche Ltd. in the ordinary course of his relationship to it as a director. Rather, he engaged in the
+wilful and knowing pursuit of a scheme that constituted infringement and that reflected an indifference to the risk of it.
+Therefore, on the principles set out  <FRAGMENT_SUPPRESSED> , I find that his participation in the infringing acts of Erom Roche give rise to personal liability on his account." (emphasis added)
+[176]
+ <FRAGMENT_SUPPRESSED>  the reasons, I noted:
+"I found the testimony of Mrs. Sicoli, to reflect arrogance, disrespect for the process of the Court and evasiveness. Like her son, she appeared to ensure that she was in a position to testify only to that which was in the interests of herself and the corporations that are co-defendants and of which I conclude that she is the directing mind."
+At page 177, I concluded:
+"Against the formulation of the test set out in <FRAGMENT_SUPPRESSED> , I am satisfied that the evidence before me demonstrates that Mrs. Sicoli, the directing mind behind the enterprises of the corporate defendants throughout the period that is relevant for the purposes of this matter, and apparently, also at the relevant times, the sole director and shareholder of the corporate defendants, reflected, at the very least,
+an indifference to the risk that the course of conduct on which the corporate defendants engaged was likely to constitute infringement of copyright or, in turn, reflected an indifference to the risk of the copyright infringement
+that I have found took place. In the circumstances, I find Mrs. Sicoli personally liable for the infringement, ..." (emphasis added)
+My decision  <FRAGMENT_SUPPRESSED> -Press
+is currently under appeal.
+[177]
+It is worth noting certain of the language used in the foregoing citations. Mr. Justice Rothstein referred to "dishonesty", to a "deliberate attempt to strip [a corporation] of assets to render any judgment ... uncollectible", to "deceptive and deliberately reckless behaviour" and to "willful and knowing pursuit of a scheme that constituted infringement and that reflected an indifference to the risk of it". In
+Ital-Press
+, having had the opportunity to view the individual in question as a witness, to observe her conduct and demeanor and to consider her responses to questions, I reflected negatively on her testimony. I found on her part "... an indifference to the risk that the course of conduct on which the corporate defendants engaged was likely to constitute infringement or ... reflected an indifference to the risk".
+[178]
+By contrast, Mr. Justice MacKay of this Court, in
+ <FRAGMENT_SUPPRESSED>  this action it is urged for the defendants that since the farming operations were legally those of the corporate defendant, it alone should be liable in any relief awarded and Mr. Schmeiser should not be personally liable. For the plaintiffs it is urged that payments for the canola from the 1998 crop were made to and in the name of Percy Schmeiser, not to the company. Further, the plaintiffs rely upon authorities which deal with the issue of the personal liability of a director for infringing acts done in the name of a corporation.
+"My reading of those cases is that it is exceptional when a director is held personally liable, at least in damages or monetary awards in these circumstances. In <FRAGMENT_SUPPRESSED> ..., Le Dain, J.A., for the Court of Appeal, upheld a decision to assign no personal liability to a director whose conduct could not reasonably be said to be outside the normal relationship of the director to his company, and otherwise so deliberate as to cause, or entirely indifferent to the risk of, infringement. In <FRAGMENT_SUPPRESSED> , ... Mr. Justice Rothstein, then of this Court, held a director personally liable where his conduct exhibited dishonesty and an attempt to strip the corporate party of assets that might otherwise satisfy any judgment that might be rendered.
+"I am not persuaded that Mr. Schmeiser's conduct, though deliberate and however uncooperative it appeared to the plaintiffs, was such that personal liability in regard to damages or interest is here warranted.
+Of course any claim to profits could only be in relation to the corporate defendant
+. As for the other orders here authorized, i.e. the injunction, the order for delivery up, should be directed to both defendants. Mr. Schmeiser is the directing mind and the active director of Schmeiser Enterprises. He may be made responsible for carrying out those orders. Judgment for damages or recovery of profits will be awarded against Schmeiser Enterprises only." (citations omitted, emphasis added)
+No authority for the sentence that I have highlighted in the foregoing quotation is cited by Mr. Justice MacKay. I have some difficulty understanding the rationale for the sentence, particularly in cases where, as here, an accounting of profits has been opted for in lieu of, not in addition to, damages. I note that in <FRAGMENT_SUPPRESSED> , the plaintiffs had elected for an accounting of profits and that would appear not to have inhibited Justice Rothstein in finding personal liability on the part of a director.
+[179]
+I have earlier noted that  <FRAGMENT_SUPPRESSED> -Press
+, I had the advantage of having the individual against who I found personal liability appear before me as a witness. That appearance was a significant factor influencing my decision to find personal liability. Here, Mr. Titley did not appear as a witness. There was no evidence before me on which I could conclude, as did Mr. Justice Rothstein in respect of the individual that he found to be personally liable, that there was dishonesty on the part of Mr. Titley. Equally, there was no evidence before me on which I could conclude that Mr. Titley's practice of ensuring the payment of large bonuses to himself constituted a deliberate attempt to render any judgment against Canwell uncollectible. The only evidence before me as to Mr. Titley's possible intent was in no sense offensive. That evidence was to the effect that, like many others, he and Canwell were acting on professional advice and within the law to minimize income tax liability. There was no evidence of deception on the part of Mr. Titley. There was no evidence on his part of deliberate and reckless behaviour. What there might have been was evidence of a wilful and knowing pursuit of a scheme that constituted infringement or that reflected an indifference to the risk of infringement, albeit Mr. Titley might reasonably have had professional advice as to the validity or invalidity of the Patent contrary to what I have here found.
+[180]
+Earlier in these reasons, I drew a negative inference regarding Mr. Titley's failure to testify in this proceeding. That was in the context of calculation of Canwell's profits, a subject-matter that I regard as substantially less problematic than a piercing of the corporate veil to impose personal liability on Mr. Titley. I am not prepared to draw a negative inference from failure to appear as a witness for the purpose of imposing personal liability, particularly where it was acknowledged before me that there was a legitimate motivation for the reduction of Canwell's profits, albeit it may not have been the sole motivation.
+[181]
+I conclude that the plaintiffs cannot succeed personally against Mr. Titley on the principles of <FRAGMENT_SUPPRESSED> .
+[182]
+Counsel for the plaintiffs urged that my foregoing conclusion is not the end of the matter of personal liability of Mr. Titley. He urged that Mr. Titley, as the sole director of Canwell, is under a fiduciary obligation to Canwell and, given that duty, was precluded from paying bonuses to himself as indirect sole owner, sole director and chief executive officer, or in any one of those capacities, in circumstances where he had reasonable grounds to believe that Canwell would, as a result, be unable to meet its contingent liabilities potentially flowing from this action.
+[183]
+On the evidence before me, I am satisfied that I can conclude that Mr. Titley was aware of the claims of the plaintiffs, and of this action, and therefore of Canwell's potential liability. He would also have been aware that, if the Patent in suit were found valid, as it has been, in the absence of something up his sleeve that certainly this Court is not aware of, Canwell's income stream, and therefore its ability to meet a judgment against it from future earnings, would be substantially wiped out.
+[184]
+I find no merit in this argument on behalf of the plaintiffs. If Mr. Titley has a fiduciary obligation to Canwell as a director of Canwell, that is a matter between he and the corporation. If any such fiduciary duty exists, Canwell might be well situated in law to seek recovery under the fiduciary obligation in its favour. I find no basis whatsoever on which the plaintiffs in this action can themselves enforce, through this proceeding or any other that I am aware of, any obligation that Mr. Titley might have to Canwell.
+[185]
+Finally, the plaintiffs urged that Canwell is a constructive trustee in favour of the plaintiffs for any profits received by Canwell by reason of its infringing activities. As such, it was urged, when payments such as those represented by the bonuses paid by Canwell to Mr. Titley are made to Mr. Titley as chief executive officer when he is at one and the same time effectively the sole shareholder of Canwell and its sole director, the constructive trust attaches to such payments.
+[186]
+ <FRAGMENT_SUPPRESSED>  proceeds on the basis that the defendant is being treated as the plaintiff's trustee. In the text written by T.A. Blanco White entitled
+Patents for Inventions
+, ..., it is explained as follows: 'An account of profits (under which the defendant's business, so far as it relates to infringements of the patent concerned, is treated as having been carried on on behalf of the patentee) ...'. And, in
+Fisher and Smart on Patents
+... 'In electing to take such profits the plaintiff condones the infringement, and adopts what was done by the defendant, who may in the enquiry be regarded as the agent or trustee of the plaintiff. ...'" (citations omitted)
+Thus, on the reasoning of Madame Justice Reed, and on the authorities she  <FRAGMENT_SUPPRESSED> , having notice of the plaintiffs' Patent and, at least from the time this action was commenced, of their claim for relief by way of an accounting of profits, was a trustee for the plaintiffs in the event that they were successful in their action. The plaintiffs urged that since Canwell was a trustee in favour of the plaintiffs in light of their claim for an accounting of profits, and since Mr. Titley was at all times the sole director of Canwell, he in turn was imposed with the trust as a constructive trustee in favour of the plaintiffs and, in effectively procuring Canwell to pay out to himself large bonuses which effectively stripped Canwell of the greater part of the profits of which it was a trustee, he indirectly breached a fiduciary obligation to the plaintiffs or, in the alternative, unjustly enriched himself.
+[187]
+While I reach the conclusion that the plaintiffs urge on me in this regard, I find it unnecessary to find Mr. Titley, as a sole director, to himself be seized of the trust obligations of Canwell. I am satisfied that he remained a stranger to the trust.
+[188]
+In
+Air Canada v. M & L. Travel Ltd., Martin and Valliant
+[see footnote 69], Mr. Justice Iacobucci, for the majority, wrote at page 826:
+"I would therefore 'take as a relevant description of fraud "the taking of a risk to the prejudice of another's rights, which risk is known to be one which there is no right to take".' In my opinion, this standard best accords with the basic rationale for the imposition of personal liability on a stranger to a trust which was enunciated in
+In re Montagu's Settlement Trusts
+, ..., namely, whether the stranger's conscience is sufficiently affected to justify the imposition of personal liability. In that respect, the taking of a knowingly wrongful risk resulting in prejudice to the beneficiary is sufficient to ground personal liability." (citation omitted)
+[189]
+Adopting Madame Justice Reed's reasoning that, where a claim for profits is made in an action such as this one, a trust is imposed on a defendant such as Canwell that carries on business in a manner that potentially exposes it to liability in the nature of an accounting of profits, if the stranger to the trust in Mr. Justice Iacobucci's foregoing quotation is Mr. Titley, the question becomes whether Mr. Titley's conscience is sufficiently affected by the payment from Canwell to himself of bonuses that substantially impair Canwell's ability to fulfil its duties under the trust, to justify the imposition of personal liability. I am satisfied that it is.
+[190]
+As sole owner, director and chief executive officer of Canwell, I am prepared to find that Mr. Titley was, at all relevant times aware of the plaintiffs' claim for an accounting of profits. I am further prepared to conclude that he knowingly took the risk of impairing Canwell's ability to meet its trust obligations and thus contributed to the prejudice of the beneficiaries of the trust, the plaintiffs. I am further satisfied that the fact that there was a reasonable rationale for the payment of the bonuses, namely reduction of income tax liability, did not make the risk of prejudice to the plaintiffs resulting from the payment of the bonuses any less wrongful. [see footnote 70] [see footnote 71]
+[191]
+Against the foregoing reasoning, subject to what is reflected in the following paragraphs, I would be prepared to impose on Mr. Titley personal liability, jointly and severally with Canwell, to the plaintiffs for the cumulative amount of bonuses paid to him since the commencement of this action together with pre- and post-judgment interest on that sum calculated in the same manner in which pre- and post-judgment interest has been and will be calculated on amounts for which I have found Canwell and the City of Medicine Hat to be liable to the plaintiffs. Once again, if agreement could not be reached on the quantum of pre- and post-judgment interest in this regard, I could be spoken to.
+[192]
+The foregoing paragraph is written in the conditional tense by reason of a decision of the Federal Court of Appeal, binding on me, that issued after the trial of this action was completed. I determined not to reconvene with counsel because the direction given by the Court of Appeal is, I am satisfied, clear and unequivocal.
+[193]
+ <FRAGMENT_SUPPRESSED>  wrote at paragraphs 19 and following of his reasons:
+"In particular, a constructive trust will not be imposed unless the plaintiff can point to property in the hands of the defendant that is identifiable as the property, or its proceeds, that was transferred by or obtained from the plaintiff without a juristic reason,
+or that the defendant could not otherwise retain in good conscience
+. That is, the constructive trust attaches to specific assets of the defendant that represent the enrichment; it is not a charge on the defendant's general assets for the amount of the plaintiff's claim.
+"Thus, after concluding in Chase Manhattan, ..., that a constructive trust was in principle available as a remedy for the recovery of money paid by the plaintiff under a mistake of fact, Goulding, J. ... directed an inquiry as to what had become of the money 'and what assets (if any) in the possession of the defendant now represent the said sum or any part thereof ...'.
+"The requirement that a constructive trust will only be imposed on property in the hands of the defendant that is identifiable as property that the defendant cannot conscionably retain was the basis on which this Court dismissed the appeal in
+ <FRAGMENT_SUPPRESSED>  without any inquiry to ascertain if the money that it had mistakenly paid, or its proceeds, could be identified in the hands of the Crown.
+"I recognize that the constructive trust is rapidly emerging in Canada as a very flexible equitable remedy that may be imposed in a wide variety of contexts to prevent unjust enrichment and, more generally, to prevent individuals from keeping property that in good conscience they should not retain, particularly, for example, when the property was obtained by a wrongful act, such as the breach of a fiduciary duty: see, in particular, the judgment of McLachlin, J. (as she then was), in
+ <FRAGMENT_SUPPRESSED>  enrichment and profiting from unconscionable conduct, the constructive trust may have lost its proprietary basis: Lord Goff of Chieveley and Gareth Jones,
+The Law of Restitution
+, ...
+"Thus, in the course of a broad reformulation of some of the basic principles applicable to proprietary remedies in the law of restitution of
+ <FRAGMENT_SUPPRESSED>  result, in Chase Manhattan, ... because it presupposed that the mistaken payer retained an equitable interest in the money when it was paid. This reasoning, he said, was inconsistent with the more flexible nature of the constructive trust when imposed as a remedy to prevent unjust enrichment. Thus, he concluded ...:
+'Although the mere receipt of the moneys, in ignorance of the mistake, gives rise to no trust, the retention of the moneys after the recipient bank learned of the mistake may well have given rise to a constructive trust.'
+"However, despite its new-found flexibility as an equitable remedy, the constructive trust has not shed all the limitations that flow from its proprietary character. Thus, Lord Browne-Wilkinson did not suggest  <FRAGMENT_SUPPRESSED>  Landesbank
+..., that Goulding, J., had erred in
+Chase Manhattan
+, ... when he ordered an inquiry into whether the mistaken payment could be identified in the defendant's assets. Such an inquiry would only have been ordered if Goulding, J., had thought that tracing was still required to determine the availability of a constructive trust.
+"Accordingly, since Michelin provided no evidence that its overpayments could be traced, the remedy of a constructive trust is not available to it on the basis of the agreed facts." (emphasis added, citations omitted)
+The references to
+ <FRAGMENT_SUPPRESSED>  Against the foregoing, I conclude that it is only open to me to conditionally impose on Mr. Titley personal liability, jointly and severally with Canwell, on the basis of principles of constructive trust and unjust enrichment, if the moneys paid by Canwell to Mr. Titley as bonuses since the commencement of this action or some portion of them can be traced to "... specific assets of [Mr. Titley] that represent the enrichment." The plaintiffs provided the Court with no evidence that such bonuses or some portion of them could be traced. That being said, I further take it from the foregoing that it is open to me to direct an inquiry as to what has become of the money that constituted those bonus payments and what assets, if any, in the possession of Mr. Titley, now represent the aggregate amount, or any part thereof, of those bonus payments. My judgment will direct such an inquiry, in the event that the plaintiffs wish to pursue it. If it is pursued, and, in the result, assets of Mr. Titley are identified that represent the enrichment, my judgment will provide for liability of Mr. Titley, jointly and severally with Canwell, to the plaintiffs to the value of those assets with pre- and post-judgment interest, as previously noted.
+SUMMARY OF CONCLUSIONS
+[194]
+I find the Patent in suit to be valid and the defences of anticipation or lack of novelty, obviousness, insufficiency in the disclosure and material misrepresentation in the petition not to be made out.
+[195]
+I find the actions of the City of Medicine Hat to have infringed certain claims of the Patent. I find the actions of Canwell to have induced or contributed to third parties infringing certain claims of the patent. In the result, a range of reliefs more particularly described in these reasons and in my judgment will go against them. Further, judgment will go against Mr. Titley personally in the form of an injunction. A reference relating to bonuses paid to him, as previously described, will be provided for.
+[196]
+Canwell's counterclaim under s. 7(a) of the
+Trade-marks Act
+is not made out and will be dismissed, as will all other aspects of the counterclaim.
+COSTS
+[197]
+The plaintiffs are entitled to their costs of the action assessed in accordance with Column III of the Table to Tariff B of the
+Federal Court Rules, 1998
+[see footnote 74], jointly and severally as against the defendants. The plaintiffs are further entitled to their costs of the counterclaim, assessed on a similar basis, as against the plaintiff by counterclaim, Canwell.
+Judgment for plaintiff;
+counterclaim dismissed.
+Editor: Steven C. McMinniman/klf
+SCHEDULE I
+(See paragraph [26] of the reasons)
+CANWELL ENVIRO-INDUSTRIES
+LTD.
+"CRADLE TO GRAVE SERVICE"
+The CANWELL "CRADLE TO GRAVE SERVICE" provides the customer with a no hassle approach to the H
+2
+S treatment of natural gas in the 0 to 2000 ppm v/v range. The "CRADLE TO GRAVE SERVICE" is designed to allow the gas producer to focus on the production of gas rather than on the treatment of the gas for H
+2
+S or the concern about chemical handling or occupational health and safety.
+If you commit to utilizing
+CANSWEET 300SX
+as your treating chemical then our commitment to you as part of the CRADLE TO GRAVE PROGRAM will be:
+- To provide a COST EFFECTIVE CHEMICAL, OPERATOR FRIENDLY TREATING METHODOLOGY and CHEMICAL MANAGEMENT SYSTEM for your treating facility.
+- To provide PROCESS ENGINEERING, EQUIPMENT DESIGN and SUPPLY for your operation.
+- To provide SYSTEM TROUBLE SHOOTING, OPERATOR TRAINING and on going FIELD SUPPORT.
+- To provide SPENT CHEMICAL DISPOSAL or REUSE and REGENERATION as required by the operation.
+With your commitment to the use of
+CANSWEET 300SX
+as your treating chemical these services are provided to you
+at no additional cost to you over the cost of the CANSWEET 300SX.
+If you are interested in learning more about the "
+CRADLE TO GRAVE PROGRAM"
+and what services we can provide to you please do not hesitate to contact us at:
+CANWELL ENVIRO-INDUSTRIES LTD.
+Suite 900, 7th Avenue S.W.
+CALGARY, ALBERTA, CANADA
+T2P 3G2
+Tel: (403) 290-1331 FAX: (403) 266-4855
+SCHEDULE II
+(See paragraphs [44] and [45]
+of the reasons)
+Claims 1 and 2 of the Patent
+1. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid hydrocarbon streams or mixtures thereof comprising contacting said stream with a composition comprising the reaction product of (i) an alkanolamine comprising 1 to about 6 carbon atoms with (ii) an aldehyde comprising 1 to about 4 carbon atoms, in an amount and for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams.
+2. A method as in claim 1, wherein the molar ratio of the said alkanolamine to said aldehyde is from about 1:0.25 to about 1:10.
+SCHEDULE III
+Series I Claims of the Patent: (see
+paragraphs [44] and [45] of the reasons)
+44. A method for sweetening gaseous or liquid hydrocarbon streams or mixtures thereof containing hydrogen sulfide and organic sulfides comprising contacting said streams with a composition comprising the reaction product of (i) monoethanolamine and (ii) formaldehyde, for a period of time sufficient to sweeten said streams wherein the molar ratio of the said monoethanolamine to said formaldehyde is from about 1:0.25 to about 1:1.5.
+45. A method as in claim 44, wherein the molar ratio of the said monoethanolamine to said formaldehyde is from about 1:1 to about 1:1.5.
+46. A method according to either claim 44 or claim 45 wherein said reaction product comprises 1, 3, 5 tri-(2-hydroxyethyl)-hexahydro-S-triazine.
+47. A method according to either claim 44 or claim 45 wherein said streams comprise sour natural gas streams.
+48. A method according to claim 47 wherein said composition is contacted with said streams in an H
+2
+S scrubber tower.
+49. A method according to claim 48 wherein said composition is contacted with said streams in an amount of about 0.05 to about 0.15 gallons per ppm H
+2
+S per Mmscf of gas in the streams.
+50. A method according to claim 48 wherein said composition is charged to said tower and contacted therein with gaseous hydrocarbon streams to sweeten said streams until said composition is spent.
+SCHEDULE IV
+Series II Claims of the Patent: (see
+paragraphs [44] and [45] of the reasons)
+19. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid hydrocarbon streams or mixtures thereof comprising contacting said streams with a composition comprising a triazine, in an amount and for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams.
+20. A method as in claim 19, wherein said triazine is 1, 3, 5 tri-(2-hydroxyethyl)-hexahydro-S-triazine.
+21. A method as in claim 19, wherein said composition comprises at least about 70% triazine.
+28. A method according to claim 20 wherein said streams are gaseous hydrocarbon streams.
+29. A method according to claim 28 wherein said streams are sour natural gas streams.
+34. A method according to claim 20 wherein said hydrogen sulfide is substantially completely removed from said streams.
+SCHEDULE V
+Series III Claims of the Patent: (see
+paragraphs [44] and [45] of the reasons)
+3. A method as in claim 1, wherein the molar ratio of the said alkanolamine to said aldehyde is from about 1:0.25 to about 1:1.5.
+4. A method as in claim 1, wherein the molar ratio of said alkanolamine to said aldehyde is from about 1:1 to about 1:1.5.
+5. A method as in any one of claims 2, 3, or 4, wherein (i) is monoethanolamine and (ii) is formaldehyde.
+6. A method as in any one of claims 2, 3, or 4, wherein said reaction product is selected from the group consisting of triazine, bisoxazolidine and mixtures thereof.
+8. A method as in any one of claims 2, 3, 4, wherein said reaction product comprises 1, 3, 5 tri-(2-hydroxyethyl)-hexahydro-S-triazine.
+10. A method as in any one of claims 2, 3 or 4, wherein the reaction takes place at a temperature of not greater than about 200
+°
+F.
+13. A method as in any one of claims 2, 3 or 4, wherein said composition is contacted with said streams in an H
+2
+S scrubber tower.
+14. A method as in any one of claims 2, 3 or 4, wherein said composition is injected in-line into said streams.
+15. A method as in claim 14, wherein said composition is injected at a well-head.
+16. A method as in any one of claims 2, 3 or 4, wherein said composition further includes methanol.
+24. A method according to claim 5 wherein said streams are gaseous hydrocarbon streams.
+25. A method according to claim 24 wherein said streams are sour natural gas streams.
+32. A method according to claim 5 wherein said hydrogen sulfide is substantially completely removed from said streams.
+36. A method according to claim 5 wherein said hydrogen sulfide is reduced to a level of about 3ppm or less
+SCHEDULE VI
+Series IV Claims of the Patent: (see
+paragraphs [44] and [45] of the reasons)
+57. A method for selectively reducing the levels of hydrogen sulfide and organic sulfides present in gaseous or liquid streams containing hydrocarbon or mixtures thereof comprising contacting said streams with a composition comprising at least about 70% of a triazine, for a period of time sufficient to substantially reduce the levels of hydrogen sulfide and organic sulfides in said streams.
+58. A method as in claim 57, wherein said triazine is 1, 3, 5 tri-(2hydroxyethyl)-hexahydro-S-triazine.
+66. A method according to claim 57, wherein said streams containing hydrocarbon are gaseous streams.
+67. A method according to claim 66, wherein said triazine is 1, 3, 5 tri(2-hydroxyethyl)-hexahydro-S-triazine.
+Footnotes
+1. The description of the business of Petrolite Canada is drawn from the testimony of Don McDougall which commences at page 225 of the Transcript, volume 1, March 26, 2001.
+2. Transcript, pages 229 and 230, volume 1, March 26, 2001.
+3. See plaintiffs' exhibits, volume XII, exhibit 39 and related tabs 1 to 8.
+4. Transcript, pages 248 and 249, volume II, March 27, 2001.
+5. Transcript, pages 249 and 250, volume II, March 27, 2001.
+6. Transcript, page 514, volume III, March 28, 2001.
+7. Transcript, page 521, volume III, March 28, 2001.
+8. Transcript, page 522, volume III, March 28, 2001.
+9. Transcript, pages 535 and 536, volume III, March 28, 2001.
+10. Transcript, pages 557 and 558, volume III, March 28, 2001.
+11. Transcript, page 558, volume III, March 28, 2001.
+12. Transcript, page 987, volume V, March 30, 2001.
+13. Transcript, page 1000, volume V, March 30, 2000.
+14. R.S.C. 1985, c. T-13.
+15. (1978), 22 N.R. 161; 40 C.P.R.(2d) 164 (F.C.A.) (hereinafter " <FRAGMENT_SUPPRESSED> ").
+16. R.S.C. 1985, c. P-4.
+17. See R.T. Hughes and J.H. Woodley,
+Hughes and Woodley on Patents
+(Toronto: Butterworths, 1994) (looseleaf) at 315-3. (This citation to Hughes and Woodley was not cited before me).
+18. See R.S.C. 1985, c. 33 (3rd supp.), sections 1, 8 and 10.
+19. S.C. 1993, c. 15.
+20. (1991), 125 N.R. 218; 35 C.P.R.(3d) 350 (F.C.A.) (hereinafter "
+Tye-Sil
+").
+21. (1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.) (hereinafter " <FRAGMENT_SUPPRESSED> ").
+22. (1997), 77 C.P.R.(3d) 547 (F.C.T.D.) (hereinafter " <FRAGMENT_SUPPRESSED> ").
+23.
+Tye-Sil
+, supra, note 20.
+24. (2000), 263 N.R. 150; 9 C.P.R.(4th) 168 (S.C.C.) (hereinafter "
+Free World Trust
+").
+25. <FRAGMENT_SUPPRESSED> , supra, note 21.
+26.
+Free World Trust
+, supra, note 24.
+27.
+Tye-Sil
+, supra, note 20.
+28. <FRAGMENT_SUPPRESSED> , supra, note 21.
+29. (1895), 12 R.P.C. 470 (C.A.).
+30. <FRAGMENT_SUPPRESSED> , supra, note 22.
+31. Fox, H.G., 4th Ed. (Toronto: Carswell, 1969).
+32. Exhibit D-2.
+33.
+ <FRAGMENT_SUPPRESSED> , at 407-8 (S.C.C.).
+40. <FRAGMENT_SUPPRESSED> , supra, note 21.
+41. (1995), 60 C.P.R.(3d) 58 (Ont. Gen. Div.).
+42. (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.).
+43. [1998] S.C.C.A. No. 563; 239 N.R. 200; 124 O.A.C. 199 (S.C.C.).
+44. (1967), 35 Fox Pat. C. 174 (Exch. C.C.).
+45. (1981), 35 N.R. 390; 56 C.P.R.(2d) 145 (S.C.C.).
+46. (1972), 8 C.P.R. 210 (S.C.C.).
+47. (1998), 145 F.T.R. 161; 79 C.P.R.(3d) 193 (T.D.); judgment varied on appeal to the Federal Court of Appeal in a manner not relevant to the passages here relied on: [2001] F.C.A. 495; leave to appeal to the Supreme of Canada granted: [2000] S.C.C.A. No. 610.
+48. (1988), 17 F.T.R. 54; 20 C.P.R.(3d) 132 (T.D.).
+49.
+Free World Trust
+, supra, note 24.
+50. (1998), 146 F.T.R. 301; 81 C.P.R.(3d) 44 (T.D.).
+51. (1996), 199 N.R. 57; 68 C.P.R.(3d) 129 (F.C.A.).
+52.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1, at 19 (T.D.), affd. (1995), 184 N.R. 113; 61 C.P.R.(3d) 417, at 443-4 (F.C.A.).
+53. See for example,
+Preformed Line Products Co. and  <FRAGMENT_SUPPRESSED> , at 9 (F.C.T.D.), affd. (1977), 16 N.R. 283; 34 C.P.R.(2d) 141 (F.C.A.).
+54. Supra, note 14.
+55. (1987), 80 N.R. 9; 14 C.P.R.(3d) 314 (F.C.A.).
+56. (1976), 7 N.R. 477; 22 C.P.R.(2d) 1 (S.C.C.).
+57. (1982), 68 C.P.R.(2d) 204 (F.C.T.D.).
+58. Alta. Reg. 364/84 as amended.
+59. (1998), 151 F.T.R. 250; 82 C.P.R.(3d) 466 (T.D.).
+60. (1997), 125 F.T.R. 311; 72 C.P.R.(3d) 214 (T.D.) (hereinafter "
+Paula Lishman
+").
+61. [1949] S.C.R. 613.
+62. (1998), 142 F.T.R. 241; 78 C.P.R.(3d) 129 (T.D.).
+63. <FRAGMENT_SUPPRESSED> , supra, note 15.
+64. S.A. 1981, c. B-15.
+65.
+Paula  <FRAGMENT_SUPPRESSED> , note 60.
+66. (1999), 170 F.T.R. 66; 86 C.P.R.(3d) 129 (T.D.).
+67. [2001] F.C.J. No. 436; 202 F.T.R. 78 (T.D.), online: QL (FCJ).
+68. (1987), 12 F.T.R. 37; 16 C.P.R.(3d) 15 (T.D.).
+69. [1993] 3 S.C.R. 787; 159 N.R. 1; 67 O.A.C. 1.
+70. For an interesting discussion of constructive trusts in the context of gains by fiduciaries who are in "knowing receipt" of trust property, see: E.E. Gillese,
+The Law of Trusts
+, Concord, Ont.: Irwin Law, 1997 at 106 and, more particularly, at 118; (not cited before me).
+71. To somewhat the same effect as my conclusion here, see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 49 (Sup. Ct.).
+72. [2001] F.C.J. No. 707; 271 N.R. 183 (C.A.), online: QL (FCJ).
+73. [1981] Ch. 105 (Ch.).
+74. SOR/98 - 106.
+[End of document]

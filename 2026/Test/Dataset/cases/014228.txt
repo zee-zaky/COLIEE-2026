@@ -1,0 +1,702 @@
+..................................................
+I.
+Introduction
+[1]
+Boswell, J.
+: The Applicant is a citizen of China who came to Canada on January 9, 2009. Claiming to be a Christian whose underground house church had been raided by the Public Security Bureau, he was granted refugee protection on May 4, 2011, by the Refugee Protection Division of the Immigration and Refugee Board. He became a permanent resident of Canada on August 21, 2012.
+[2]
+In November, 2012, the Applicant applied for a Chinese passport, allegedly because he wanted something to prove his identity in case his permanent resident card would not be sufficient if he ever traveled outside Canada. The passport was issued to him on January 14, 2013, and he used it to travel to China on March 23, 2013 to arrange his mother's funeral. The Applicant returned to Canada on April 23, 2013.
+[3]
+On October 23, 2013, the Minister of Citizenship and Immigration applied to the Refugee Protection Division [RPD] of the Immigration and Refugee Board [IRB] to cease the Applicant's refugee protection pursuant to subsection 108(2) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [
+Act
+]. The Minister alleged that the Applicant had re-availed himself of China's protection by his actions, and that country conditions had changed enough that the Applicant was no longer afraid of returning to China. On June 13, 2014, the RPD agreed the Applicant had re-availed himself of China's protection within the meaning of paragraph 108(1)(a) of the
+Act
+, and therefore ceased his status as a protected person. The Applicant's loss of his status as a protected person also caused his permanent resident status to be lost because of paragraph 46(1)(c.1) of the
+Act
+.
+[4]
+The Applicant now applies for judicial review of the cessation decision pursuant to subsection 72(1) of the
+Act
+, asking the Court to set the RPD's decision aside and return the matter to a different panel of the RPD. The Applicant further alleges that the loss of his permanent resident status under paragraph 46(1)(c.1) of the
+Act
+infringes both sections 7 and 12 of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11 [
+Charter
+].
+II.
+Issues
+[5]
+This application for judicial review raises the following issues:
+1. What is the standard of review for the RPD's decision?
+2. Should the RPD have assessed whether the Applicant would be at risk in China?
+3. Did the RPD err in determining that the Applicant had re-availed himself of China's protection?
+4. Should the constitutional issues be decided?
+5. If so, does paragraph 46(1)(c.1) of the
+Act
+infringe section 7 of the
+Charter
+or section 12 of the
+Charter
+?
+6. If any
+Charter
+rights are infringed, is paragraph 46(1)(c.1) saved by section 1 of the
+Charter
+?
+III.
+Consequences of Cessation under Paragraph 108(1)(a)
+[6]
+Before addressing the issues raised by this application, it is useful to note the consequences of cessation under paragraph 108(1)(a) of the
+Act
+. Once refugee protection is conferred by subsection 95(1) of the
+Act
+, refugees have a relatively straightforward path to permanent residency. Subject to a few conditions and exceptions, they can become permanent residents so long as "they have made their application in accordance with the regulations and ... are not inadmissible on any ground referred to in section 34 or 35, subsection 36(1) or section 37 or 38" (
+Act
+, s 21(2)). Until recently, the Minister generally did not endeavour to cease protecting refugees who became permanent residents, since cessation did not affect their permanent resident status (
+ <FRAGMENT_SUPPRESSED> Imm LR (4th) 123). This position changed, however, when sections 18 and 19(1) of the
+Protecting Canada's Immigration System Act
+, SC 2012, c 17 [
+PCISA
+] came into force on December 15, 2012 (
+Order Fixing December 15, 2012 as the Day on which Certain Sections of the Act Come into Force
+, SI/2012-95, (2012) C Gaz II, 2982).
+[7]
+Now, for refugees whose protection is ceased under paragraphs 108(1)(a) to (d) of the
+Act
+, paragraph 46(1)(c.1) of the
+Act
+provides that:
+46.
+(1) A person loses permanent resident status
+...
+(
+c.1
+) on a final determination under subsection 108(2) that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(
+a
+) to (
+d
+);
+46.
+(1) Emportent perte du statut de résident permanent les faits suivants:
+...
+c.1
+) la décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l'un des alinéas 108(1)
+a
+) à
+d
+), la perte de l'asile;
+[8]
+Former refugees whose protection is ceased lose any rights they had acquired as a permanent resident, including "the right to enter and remain in Canada" (
+Act
+, s 27(1)). As foreign nationals, they cannot work in Canada without a work permit (
+Act
+, s 30(1);
+Immigration and Refugee Protection Regulations
+, SOR/2002-227, s 196 [
+Regulations
+]). They may lose any job they have and might not even be able to apply for a work permit from within Canada (
+Regulations
+, s 199). They will also likely lose access to many social services, although they may still receive whatever healthcare benefits are afforded to rejected refugee claimants (see
+Order Respecting the Interim Federal Health Program, 2012
+, SI/2012-26, (2012) C Gaz II, 1135, s 1,
+sub verbo
+"person whose refugee claim has been rejected";
+Canadian Doctors for  <FRAGMENT_SUPPRESSED>  Imm LR (4th) 1).
+[9]
+A further consequence of cessation under paragraph 108(1)(a) arises by virtue of subsection 40.1(2) of the
+Act
+. This subsection provides that:
+40.1
+... (2) A permanent resident is inadmissible on a final determination that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(
+a
+) to (
+d
+).
+40.1
+... (2) La décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l'un des alinéas 108(1)
+a
+) à
+d
+), la perte de l'asile d'un résident permanent emporte son interdiction de territoire.
+[10]
+Persons like the Applicant thus become subject to removal proceedings under section 44 of the
+Act
+. If a removal order is issued and becomes enforceable, then "the order must be enforced as soon as possible" (
+Act
+, s 48(2)). Former refugees do not have many options to prevent their removal from happening. Cessation decisions cannot be appealed to the Refugee Appeal Division of the IRB (
+Act
+, s 110(2)(e)), and a judicial review application does not automatically stop removal proceedings from commencing.
+[11]
+In addition, subsection 108(3) of the
+Act
+deems a successful cessation application to be a rejection of the protected person's claim. This means that former refugees suffer additional consequences provided for in the
+Act
+: subsection 24(4) prevents them from applying for temporary resident permits for one year; paragraph 112(2)(b.1) prohibits them from receiving a pre-removal risk assessment [PRRA] for at least one year (or three years if they are from a designated country of origin); and paragraph 25(1.2)(c) precludes them from applying for any humanitarian and compassionate grounds exemptions for one year, unless they fall within the exceptions set out in subsection 25(1.21).
+IV.
+The RPD's Decision
+[12]
+In granting the Minister's cessation application on the ground that the Applicant had re-availed himself of China's protection, the RPD relied upon certain passages from the United Nations High Commissioner for Refugees' [UNHCR]
+Handbook on Procedures and Criteria for Determining Refugee Status under the 1951 Convention and the 1967 Protocol relating to the Status of Refugees
+, (Geneva: UNHCR, 1992) [Handbook], and noted that re-availment had to be (1) voluntary, (2) intentional, and (3) actual, before it could ground a claim for cessation. The RPD found all three requirements for cessation were met with respect to the Applicant. There were no extenuating circumstances which had forced the Applicant to apply for a Chinese passport. Although he testified that he wanted the passport for identification purposes, the RPD noted that he already had a permanent resident card and he never made any effort to ask Canadian officials about alternative courses of action.  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the RPD determined that issuance of the passport raised a presumption that the Applicant intended to re-avail himself of China's protection. The RPD found that the Applicant did not rebut this presumption, and by using his passport to return to China he had obtained China's protection.
+[13]
+According to the RPD, the fact the Applicant went to China to arrange his mother's funeral was irrelevant. The Applicant's counsel had compared the return to China with an example in the UNHCR Handbook which said visiting a sick parent might not be re-availment. However, the RPD said this possibility was stated in the context of someone traveling with documentation other than a passport. By traveling on a genuine passport, the RPD found the Applicant had alerted the Chinese authorities to his presence and, moreover, the RPD did not believe the Applicant when he said he had assistance when exiting China. The Applicant testified he was in hiding during his time in China, but the RPD noted that the Applicant "did stay in the same urban area of which he was a native, he did make his presence known to various relatives, and he failed to take any steps to shorten his stay." The RPD thus decided the Applicant was "implicitly expressing confidence in the state of China to protect him," and it ceased the Applicant's protection because of paragraph 108(1)(a) of the
+Act
+. Since this determination was sufficient to allow the Minister's application, the RPD found it unnecessary to consider whether the reasons for which the Applicant had originally sought refugee protection had ceased to exist (citing
+ <FRAGMENT_SUPPRESSED> FTR 1 [ <FRAGMENT_SUPPRESSED> ]).
+V.
+Analysis
+A.
+What is the standard of review?
+[14]
+A full analysis of the applicable standard of review with respect to the RPD's interpretation of paragraph 108(1)(a) and its application to the facts is not necessary since the jurisprudence has already satisfactorily determined the standard of review (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]).
+[15]
+This Court has reviewed cessation decisions on the reasonableness standard, not only with respect to the RPD's interpretation of paragraph 108(1)(a), but also its application of such paragraph to the facts (
+Canada (Public Safety and  <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> at paragraph 9; <FRAGMENT_SUPPRESSED> at paragraph 12). Accordingly, the RPD's decision should not be set aside so long as "the reasons allow the reviewing court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes" (
+Newfoundland and  <FRAGMENT_SUPPRESSED> ). The Court can neither reweigh the evidence nor substitute its own view of a preferable outcome (
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> ).
+[16]
+As for the constitutional challenges to a statutory provision such as paragraph 46(1)(c.1) of the
+Act
+, the standard of review is typically correctness ( <FRAGMENT_SUPPRESSED> at paragraph 58;
+ <FRAGMENT_SUPPRESSED> ). In this case though, the RPD never made any decision about the constitutionality of paragraph 46(1)(c.1) because that provision was never challenged in the RPD proceedings. Whether the constitutional issue now raised by the Applicant on this judicial review application is properly before the Court will be discussed below.
+B.
+Should the RPD have assessed whether the Applicant would be at risk in China?
+[17]
+The RPD did not consider whether the Applicant faced any ongoing risk in China. The Applicant submits that the RPD had a responsibility to reassess the risk in China before it could cease protecting him.  <FRAGMENT_SUPPRESSED>  (QL) at paragraph 2, 179 NR 11 (CA) [ <FRAGMENT_SUPPRESSED> ], the Applicant states that the only question, and therefore the only test, is that derived from the definition of Convention Refugee: does the Applicant now have a well-founded fear of persecution? In the Applicant's view, the RPD's failure to answer this question violates the principle of non-
+refoulement
+articulated in article 33 of the
+Convention Relating to the Status of Refugees
+, 28 July 1951, 189 UNTS 150, Can TS 1969 No 6 [
+Refugee Convention
+], and in article 3 of the
+Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment
+, 10 December 1984, 1465 UNTS 85 [
+Convention against Torture
+]. The Applicant emphasizes that he has no access to a PRRA, and the lack of a risk assessment at the cessation stage thus exposes him to
+refoulement
+. The Applicant also criticizes the Canada Border Services Agency for establishing a quota whereby 875 cessation and vacation cases are referred to the RPD per year, a policy which he says is contrary to Canada's international obligations.
+[18]
+However, article 33 only protects
+refugees
+, and the
+Refugee Convention
+"conceives of refugee status as a transitory phenomenon that comes to an end if and when a refugee can reclaim the protection of her own state or has secured an alternative form of enduring national protection" (James C Hathaway & Michelle Foster,
+The Law of Refugee Status
+, 2d ed (Cambridge: Cambridge University Press, 2014) at 462)
+.
+This objective is enshrined in article 1C of the
+Refugee Convention
+, which provides several situations where refugee protection will cease:
+C.
+This Convention shall cease to apply to any person falling under the terms of section A if
+(1) He has voluntarily re-availed himself of the protection of the country of his nationality; or
+(2) Having lost his nationality, he has voluntarily re-acquired it; or
+(3) He has acquired a new nationality, and enjoys the protection of the country of his new nationality; or
+(4) He has voluntarily re-established himself in the country which he left or outside which he remained owing to fear of persecution; or
+(5) He can no longer, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, continue to refuse to avail himself of the protection of the country of his nationality;
+Provided that this paragraph shall not apply to a refugee falling under section A(1) of this article who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself of the protection of the country of nationality;
+(6) Being a person who has no nationality he is, because of the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence;
+Provided that this paragraph shall not apply to a refugee falling under section A (1) of this article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
+So long as a claimant falls within any of these provisions, he or she is no longer a refugee and no longer enjoys the protection of article 33 of the
+Refugee Convention
+. Subsection 108(1) of the
+Act
+largely mirrors the criteria in article 1C, so the question is whether article 1C and its domestic counterpart can apply only to refugees who face no risk in their countries of origin.
+[19]
+With respect to this question, it is helpful to turn to the UNHCR Handbook which, generally, "must be treated as a highly relevant authority in considering refugee admission practices" (
+ <FRAGMENT_SUPPRESSED> , La Forest J, dissenting but not on this point (see paragraph 119)). The UNHCR Handbook advises (at paragraphs 112 and 116) that the cessation clauses should be interpreted and applied strictly because refugees need to be assured "that their status will not be subject to constant review in the light of temporary changes - not of a fundamental character - in the situation prevailing in their country of origin" (see <FRAGMENT_SUPPRESSED> at paragraph 44).
+[20]
+Even with a strict interpretation though, I disagree with the Applicant's argument that risk needs to be determined for every ground of cessation. Nothing in the Handbook supports any such interpretation. Furthermore, the last two grounds explicitly deal with changed country conditions or risk, which implies that a change in such conditions is not necessary for cessation to apply under the other four grounds. Each of those other grounds involves situations where a refugee voluntarily submits to another form of protection, either that of his former country of origin or that of another country. As stated by the authors of
+The Law of Refugee Status
+(at 464):
+The refugee may elect to entrust her safety to the state of origin by way of re-availment of its former protection, by re-acquisition of its nationality, or by re-establishment in its territory.
+Behaviour of any of these three sorts is understood to reflect a determination by the refugee to entrust her well-being to her country of origin, an exercise of individuated self-determination in which international law can but acquiesce
+.
+[Emphasis added; footnotes omitted]
+[21]
+This is entirely consistent with the concept of refugee protection. Objective risk is not the only criterion for refugee protection; a claimant must also "subjectively fear persecution" (
+ <FRAGMENT_SUPPRESSED> ). Each of the conditions in articles 1C (1), (2) and (4) contemplate situations where the element of subjective fear no longer exists, and it is appropriate that refugee protection should then expire. As stated in the UNHCR Handbook (at paragraph 116): "if a refugee, for whatever reasons, no longer wishes to be considered a refugee, there will be no call for continuing to grant him refugee status and international protection."
+[22]
+The only case upon which the Applicant relies to support his interpretation of section 108 is <FRAGMENT_SUPPRESSED> , where the Federal Court of Appeal stated that "the only question, and therefore the only test, is that derived from the definition of Convention Refugee ...: does the claimant now have a well-founded fear of persecution?" The Applicant's reliance upon <FRAGMENT_SUPPRESSED> , however, is misguided. <FRAGMENT_SUPPRESSED> was not a cessation case at all; it was about whether refugee protection should be granted in the first place. The principle governing that case was simply that a grant of refugee protection must be forward-looking. <FRAGMENT_SUPPRESSED> stands for nothing more. To the extent that <FRAGMENT_SUPPRESSED> refers to "changed circumstances," that comment could only apply to articles 1C (5) and (6), and it does not affect the other grounds of cessation.
+[23]
+The Applicant further submits that the cessation hearing before the RPD is his last chance for any kind of risk consideration. He says there was already a conditional removal order issued against him when he first came to Canada, that it has now been triggered by the RPD's cessation decision, and that there are no further safeguards against his removal. Ostensibly, this could raise concerns under article 3 of the
+Convention against Torture
+, which prohibits
+refoulement
+"where there are substantial grounds for believing that he would be in danger of being subjected to torture."
+[24]
+However, the Applicant's concerns in this regard are unfounded. There likely was a conditional removal order issued against him when he first came to Canada, but "[a] removal order that has not been enforced becomes void if the foreign national becomes a permanent resident" (
+Act
+, s 51). Thus, despite the fact that section 40.1 of the
+Act
+makes the Applicant inadmissible, he could not be deported until the removal process in section 44 is engaged. He would be entitled to whatever safeguards that process might entail (see e.g.
+ <FRAGMENT_SUPPRESSED> ; but see
+ <FRAGMENT_SUPPRESSED> ). If a removal order is issued, the Applicant will still have the opportunity to ask for removal to be deferred and some section 97 risks can be considered then (see e.g.
+ <FRAGMENT_SUPPRESSED> Imm LR (4th) 169).
+[25]
+In conclusion with respect to this issue, therefore, any concerns about non-
+refoulement
+do not affect the criteria for ceasing refugee protection. Prospective risk does not prevent refugee protection from ceasing under paragraph 108(1)(a) of the
+Act
+(
+ <FRAGMENT_SUPPRESSED> ).
+C.
+Did the RPD err in determining that the Applicant had re-availed himself of China's protection?
+[26]
+The cessation criteria in the
+Refugee Convention
+are incorporated into the
+Act
+through section 108. Subsection 108(2) permits the Minister to apply to cease someone's protection on any of the grounds set out in subsection 108(1), and paragraph 108(1)(a) stipulates that:
+108.
+(1) A claim for refugee protection shall be rejected, and a person is not a Convention refugee or a person in need of protection, in any of the following circumstances:
+(
+a
+) the person has voluntarily reavailed themself of the protection of their country of nationality;
+108.
+(1) Est rejetée la demande d'asile et le demandeur n'a pas qualité de réfugié ou de personne à protéger dans tel des cas suivants:
+a)
+il se réclame de nouveau et volontairement de la protection du pays dont il a la nationalité;
+[27]
+The UNHCR Handbook (at paragraph 119) sets out three criteria for re-availment. These criteria have been adopted by this Court, so "the refugee must: (1) act voluntarily; (2) intend by his action to reavail himself of the protection of the country of nationality; and (3) actually obtain such protection" ( <FRAGMENT_SUPPRESSED> at paragraph 46). The RPD correctly identified these criteria in this case.
+[28]
+After identifying the three criteria, the RPD reasonably found that the Applicant had voluntarily applied for a passport. While the Applicant contends that his return to China was not voluntary because he was responding to his mother's death, that contention does not affect his reasons for applying for a passport some five months prior to her death.
+[29]
+The RPD next applied the presumption that someone who voluntarily applies for a passport from their country of origin intends to re-avail himself of that country's protection. The Applicant attempted to rebut this presumption by saying he just wanted identification and a way to travel to the United States. However, the RPD noted that he already had a permanent resident card and that he did not require the passport for anything. Hence, the RPD determined that the Applicant "made the [passport] application solely for reasons of convenience."
+[30]
+The presumption attached to acquiring a passport has been criticized in
+The Law of Refugee Status
+for shifting the burden on a refugee to "disprove a presumed - but factually highly unlikely - premise that securing or renewing a passport evinced the refugee's intention to renounce refugee status in favour of the country of origin's protection" (
+The Law of Refugee Status
+at 468). The authors opine that "when most persons approach consular or diplomatic authorities to secure the documentation needed for such purposes as travel, enrollment in school, or professional accreditation, they do so simply as a matter of routine, with no thought to the legal ramifications of their act" (
+The Law of Refugee Status
+at 465).
+[31]
+Regardless of the merits of that argument against this presumption, the presumption is supported in the UNHCR Handbook (at paragraph 121), and it also has received judicial approval ( <FRAGMENT_SUPPRESSED> at paragraph 14; <FRAGMENT_SUPPRESSED> at paragraph 59;
+ <FRAGMENT_SUPPRESSED> ). It was reasonable for the RPD to rely on this presumption, and it is understandable why the Applicant's explanations for his actions did not convince the RPD that re-availment was not intended.
+[32]
+As to the final criterion of actual re-availment, it is instructive to look to the UNHCR Handbook, which states the following (at paragraph 122):
+The most frequent case of 're-availment of protection' will be where the refugee wishes to return to his country of nationality. He will not cease to be a refugee merely by applying for repatriation. On the other hand, obtaining an entry permit or a national passport
+for the purposes of returning
+will, in the absence of proof to the contrary, be considered as terminating refugee status.
+[Emphasis added]
+[33]
+In this case, the RPD did not find that the Applicant had obtained his passport "for the purposes of returning" to China. However, once the Applicant's mother died and he used his passport to return to China, the RPD determined that he "did actually obtain the protection of Chinese authorities, thereby fulfilling the third requirement." The RPD reasoned as follows:
+[23] ...the respondent not only obtained the services and assistance of Chinese officials in obtaining a new passport, as he was entitled to do as a citizen of China, but ... his visit there with a valid passport in his own identity meant that he was alerting officials to his presence in the country. As set out above, the panel found that the respondent did not provide credible evidence of any efforts he made to avoid coming to their attention, either in entering or departing China. While he testified that he did not stay in his own home or venture out in public much, the respondent did stay in the same urban area of which he was a native, he did make his presence known to various relatives, and he failed to take any steps to shorten his stay. The respondent thereby was implicitly expressing confidence in the state of China to protect him, although he was granted refugee protection on the basis of his fear of agents of the state ...
+[34]
+The Applicant complains that the RPD's credibility finding that he had not taken any measures to avoid exit controls was unreasonable inasmuch as it was based on a plausibility finding. However, the RPD's assessment of how the Applicant exited China did not rely on a plausibility finding at all; the RPD simply found the Applicant's testimony was inconsistent. The Applicant said at first that he was helped by his friend who assisted him in exiting China, but he later said it was actually his uncle's friend or relative. He also stated that he was not clear about the details on how he bypassed the exit controls, but then said he thought the person assisting him was an airport official. It was reasonable for the RPD to not believe the Applicant in light of these inconsistencies and elaborations. As the Court stated in
+ <FRAGMENT_SUPPRESSED> : "contradictions in the evidence, particularly in a refugee claimant's own testimony, will usually afford the RPD a reasonable basis for finding the claimant to lack credibility." The credibility finding by the RPD that the Applicant had not taken any measures to avoid exit controls was reasonable.
+[35]
+However, the RPD's conclusion that the Applicant had actually re-availed himself of China's protection contradicted its other factual findings and, therefore, was not reasonable. On the one hand, the RPD accepted that the Applicant was hiding from the Public Security Bureau [PSB] by living at his cousin's house and seeing only relatives, that the PSB had been looking for him on the day of his mother's funeral, and that he had avoided attending his mother's funeral out of fear that the PSB would find him there; but, on the other, it found that he had re-availed himself of China's protection because he remained in the same general area and received visitors. Whether he was hiding perfectly, however, the fact of the matter is that he was still hiding.
+[36]
+In these circumstances, a finding of actual re-availment cannot be justified and is unreasonable. How could the Applicant intentionally and actually re-avail himself of China's protection while actively avoiding -- and fearing -- the entities charged with that responsibility? How could someone who fears that the state of China will persecute him be "implicitly expressing confidence in the state of China to protect him" from its own officials and laws? The RPD's findings on these points were contradictory and, hence, unreasonable. The RPD's decision should therefore be set aside on this basis and the matter returned to the RPD for redetermination.
+D.
+Should the constitutional issues be decided?
+[37]
+The RPD's cessation decision having been set aside, paragraph 46(1)(c.1) of the
+Act
+no longer applies to the Applicant unless the RPD, upon redetermination of this matter, again decides to cease his protection. In the interests of judicial restraint, constitutional pronouncements should not be made in circumstances where they are unnecessary (
+ <FRAGMENT_SUPPRESSED> DLR (4th) 541). Any such pronouncements about paragraph 46(1)(c.1) of the
+Act
+in this case are unnecessary given the finding above that the RPD's decision should be set aside.
+[38]
+Moreover, there are several reasons aside from judicial restraint as to why the constitutional issues raised by the Applicant should not be considered in this case.
+[39]
+First, the evidentiary record is weak, so this is not a suitable case to decide the constitutional issues in any event. All of the evidence is derived from the record before the RPD, and the Applicant's affidavit focuses only on the events leading to the cessation application. There is almost no evidence of the personal effect that losing permanent residence has had on the Applicant. He testified during the hearing before the RPD that his wife and children are presently in Canada, so that might support an inference that forcing him to leave Canada would separate him from his family. However, there is no evidence as to what status his family has in Canada, whether they are established here, or what else has happened to the Applicant. Has he lost his job? Has he been able to secure a work permit? Has the loss of permanent resident status affected the quality or frequency of any medical attention he or his family have sought? Have removal proceedings been initiated against him? There are no answers to these sorts of questions to be found in the record, which means that most of the constitutional analysis in this case would need to be decided on the basis of abstract predictions about the likely effect of the loss of permanent residence. As the Supreme Court stated in
+ <FRAGMENT_SUPPRESSED> :
+Charter
+decisions should not and must not be made in a factual vacuum. To attempt to do so would trivialize the
+Charter
+and inevitably result in ill-considered opinions. The presentation of facts is not, as stated by the respondent, a mere technicality; rather, it is essential to a proper consideration of
+Charter
+issues. A respondent cannot, by simply consenting to dispense with the factual background, require or expect a court to deal with an issue such as this in a factual void.
+Charter
+decisions cannot be based upon the unsupported hypotheses of enthusiastic counsel.
+[40]
+Second, the Applicant never raised any constitutional issues with respect to paragraph 46(1)(c.1) before the RPD. Reviewing courts generally will not decide an issue "where the issue could have been but was not raised before the tribunal" (
+Alberta (Information and  <FRAGMENT_SUPPRESSED>  [
+Alberta Teachers
+]). Just because the constitutional issues would likely be reviewed on a correctness standard does not change this principle from
+Alberta Teachers
+(
+ <FRAGMENT_SUPPRESSED> [
+Forest Ethics
+]). If anything, the Federal Court of Appeal has asserted that it is all the more important that constitutional issues be raised at first instance, so as to gain the insights of the tribunal and establish the very factual foundation which is absent from the present case (
+Forest Ethics
+at paragraphs 42-45).
+[41]
+This, however, presumes that the RPD would have had jurisdiction to consider the constitutional questions now raised by the Applicant (
+Forest Ethics
+at paragraph 40). The Respondent argues that the RPD only has jurisdiction to apply section 108. Any collateral consequences arising from that determination are not the RPD's concern, and it therefore does not have the authority to interpret paragraph 46(1)(c.1) or determine its constitutionality.
+[42]
+In ordinary circumstances though, an argument that the RPD lacks jurisdiction should not relieve parties of the obligation to raise a constitutional issue with the RPD first. As with all divisions of the IRB, the RPD has "sole and exclusive jurisdiction to hear and determine all questions of law and fact,
+including questions of jurisdiction
+" (
+Act
+, s 162(1) (emphasis added)). Furthermore, "an administrative tribunal that has the power to decide questions of law arising under a particular legislative provision will be presumed to have the power to determine the constitutional validity of that provision" (
+ <FRAGMENT_SUPPRESSED> ). Whether the RPD has jurisdiction to consider the constitutionality of paragraph 46(1)(c.1), therefore, is essentially a question of statutory interpretation, something which typically attracts deference from the Court (
+Alberta Teachers
+at paragraphs 30, 34). By inviting the Court to make this determination now, the parties are at least sidestepping the RPD on the jurisdictional question, and the RPD deserves the first chance to answer that question just as much as it does the constitutional one (
+Forest Ethics
+at paragraphs 42-45).
+[43]
+Admittedly, the RPD has previously considered the same issues and declined jurisdiction, essentially accepting the arguments made by the Respondent in this case (see:
+Re X
+, 2014 CanLII 66637 at paragraphs 19-25). It may seem excessively formalistic to insist that a litigant must first raise a constitutional issue at the RPD even when there is prior authority to suggest that jurisdiction may be declined. However, in the absence of any decision by the RPD in this case as to such issues, they form no part of the decision under review.
+VI.
+Certified Questions
+[44]
+The Applicant proposed the following certified questions at the conclusion of the hearing of this matter:
+1. When deciding whether to allow an application by the Minister for cessation of refugee status pursuant to s. 108(1)(a) of the Immigration and Refugee Protection Act based on past actions, can the Board allow the Minister's application without addressing whether the person is at risk of persecution upon return to their country of nationality at the time of the cessation hearing?
+2. Is it unconstitutional under s. 7 of the Charter to revoke permanent residency automatically, without a process and without a risk assessment for persons previously found to be refugees?
+[45]
+ <FRAGMENT_SUPPRESSED> , the Federal Court of Appeal stated as follows:
+[9] It is trite law that to be certified, a question must (i) be dispositive of the appeal and (ii) transcend the interests of the immediate parties to the litigation, as well as contemplate issues of broad significance or general importance. As a corollary, the question must also have been raised and dealt with by the court below and it must arise from the case, not from the Judge's reasons ...
+[46]
+Since no constitutional issues were considered in the foregoing reasons for judgment, the second question proposed by the Applicant clearly is not appropriate for certification.
+[47]
+As for the first question, although it does arise from the case because the RPD did not address whether the Applicant would be at risk of persecution upon return to China at the time of the cessation hearing, that was not dispositive of this matter: as noted above, the RPD's decision is unreasonable because of its contradictory findings.
+VII.
+Conclusion
+[48]
+The RPD's decision was unreasonable since its findings of fact were inconsistent with its conclusion that the Applicant intentionally and actually re-availed himself of China's protection. Therefore, the decision will be set aside and the matter returned to the RPD for redetermination. There is no reason to consider whether paragraph 46(1)(c.1) of the
+Act
+is constitutional.
+JUDGMENT
+[49]
+THIS COURT'S JUDGMENT is that:
+the application for judicial review is allowed; the matter is returned to the Refugee Protection Division for redetermination by a different panel member; and there is no question of general importance for certification.
+.........................
+ <FRAGMENT_SUPPRESSED>  Boswell
+[Traduction]: Le demandeur est un citoyen de la Chine qui est venu au Canada le 9 janvier 2009. Prétendant être un chrétien dont l'église clandestine avait fait l'objet d'une rafle de la part du Bureau de la sécurité publique (le BSP), il s'est vu accorder l'asile, le 4 mai 2011, par la Section de la protection des réfugiés (la SPR) de la Commission de l'immigration et du statut de réfugié (la CISR). Il est devenu résident permanent du Canada le 21 août 2012.
+[2]
+En novembre 2012, le demandeur a présenté une demande de passeport chinois, prétendument parce qu'il voulait quelque chose pour prouver son identité au cas où sa carte de résident permanent ne serait pas suffisante si jamais il voyageait à l'extérieur du Canada. Le passeport lui a été délivré le 14 janvier 2013, et il s'en est servi pour se rendre en Chine, le 23 mars 2013, afin d'organiser les funérailles de sa mère. Le demandeur est revenu au Canada le 23 avril 2013.
+[3]
+Le 23 octobre 2013, le ministre de la Citoyenneté et de l'Immigration a présenté à la SPR de la CISR une demande de constat de perte de l'asile du demandeur, conformément au paragraphe 108(2) de la
+Loi sur l'immigration et la protection des réfugiés
+, LC 2001, c 27 (la Loi). Le ministre a allégué que le demandeur, par ses actes, s'était réclamé de nouveau de la protection de la Chine et que la situation dans le pays avait changé suffisamment pour faire en sorte que le demandeur ne craigne plus de retourner en Chine. Le 13 juin 2014, la SPR a convenu que le demandeur s'était réclamé de nouveau de la protection de la Chine au sens de l'alinéa 108(1)
+a
+) de la Loi et qu'il avait donc perdu son statut en tant que personne protégée. Cette perte de statut a également causé la perte de son statut de résident permanent en application de l'alinéa 46(1)
+c.1
+) de la Loi.
+[4]
+Le demandeur sollicite maintenant le contrôle judiciaire de la décision de constat de perte de l'asile, conformément au paragraphe 72(1) de la Loi, et demande à la Cour d'annuler la décision de la SPR et de renvoyer l'affaire à un tribunal différemment constitué de la SPR. Il allègue en outre que la perte de son statut de résident permanent au titre de l'alinéa 46(1)
+c.1
+) de la Loi enfreint les articles 7 et 12 de la
+Charte canadienne des droits et libertés
+, partie I de la
+Loi constitutionnelle de 1982
+, constituant l'annexe B de la Loi 1982 sur le Canada (R.-U.), 1982, c 11 (la
+Charte
+).
+II.
+Les questions en litige
+[5]
+La présente demande de contrôle judiciaire soulève les questions suivantes:
+1. Quelle est la norme de contrôle de la décision de la SPR?
+2. La SPR aurait-elle dû évaluer si le demandeur serait en danger en Chine?
+3. La SPR a-t-elle commis une erreur lorsqu'elle a décidé que le demandeur s'était réclamé de nouveau de la protection de la Chine?
+4. Les questions constitutionnelles devraient-elles être tranchées?
+5. Le cas échéant, l'alinéa 46(1)
+c.1
+) de la Loi contrevient-il à l'article 7 ou à l'article 12 de la
+Charte
+?
+6. Si des droits garantis par la
+Charte
+sont violés, l'alinéa 46(1)
+c.1
+) est-il sauvegardé par l'article premier de la
+Charte
+?
+III.
+Les conséquences de la perte de l'asile suivant l'alinéa 108(1)
+a
+)
+[6]
+Avant d'aborder les questions soulevées dans le cadre de la présente demande, il est utile de faire état des conséquences de la perte de l'asile suivant l'alinéa 108(1)
+a
+) de la Loi. Une fois que l'asile est conféré au titre du paragraphe 95(1) de la Loi, il s'avère relativement simple pour les réfugiés d'obtenir la résidence permanente. Sous réserve de quelques conditions et exceptions, une personne peut devenir résidente permanente dans la mesure où « elle a présenté sa demande en conformité avec les règlements et qu'elle n'est pas interdite de territoire pour l'un des motifs visés aux articles 34 ou 35, au paragraphe 36(1) ou aux articles 37 ou 38 » (paragraphe 21(2) de la Loi). Jusqu'à récemment, le ministre n'a pas tenté, de manière générale, de cesser de protéger les réfugiés qui sont devenus résidents permanents, puisque la perte de l'asile n'avait pas d'incidence sur leur statut de résident permanent (
+ <FRAGMENT_SUPPRESSED>  Imm LR (4th) 123, aux paragraphes 80 à 83. Cette position a changé, cependant, lorsque l'article 18 et le paragraphe 19(1) de la
+Loi visant à protéger le système d'immigration du Canada
+, LC 2012, c 17 (la LVPSIC), sont entrés en vigueur le 15 décembre 2012 (
+Décret fixant au 15 décembre 2012 la date d'entrée en vigueur de certains articles de la loi
+, TR/2012-95, (2012) Gaz C II, 2982).
+[7]
+Maintenant, pour les réfugiés qui ont perdu l'asile au titre des alinéas 108(1)
+a
+) à
+d
+) de la Loi, l'alinéa 46(1)
+c.1
+) de la Loi prévoit ce qui suit:
+46. (1) Emportent perte du statut de résident permanent les faits suivants:
+[...]
+c.1) la décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l'un des alinéas 108(1)
+a
+) à
+d
+), la perte de l'asile;
+46. (1) A person loses permanent resident status
+...
+(c.1) on a final determination under subsection 108(2) that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(
+a
+) to (
+d
+);
+[8]
+Les anciens réfugiés qui ont perdu l'asile perdent les droits qu'ils avaient acquis en tant que résidents permanents, notamment « le droit d'entrer au Canada et d'y séjourner » (paragraphe 27(1) de la Loi). En tant qu'étrangers, ils ne peuvent pas travailler au Canada sans détenir un permis de travail (paragraphe 30(1) de la Loi; article 196 du
+Règlement sur l'immigration et la protection des réfugiés
+, DORS/2002-227 (le Règlement)). Ils risquent de perdre l'emploi qu'ils ont et pourraient même ne pas être en mesure de demander un permis de travail depuis le Canada (article 199 du Règlement). Ils perdront également probablement l'accès à de nombreux services sociaux, bien qu'ils puissent toujours recevoir les prestations de santé accordées aux demandeurs d'asile déboutés (voir
+Décret concernant le Programme fédéral de santé intérimaire
+, 2012, TR/2012-26, (2012) Gaz C II, 1135, article 1, sous l'expression « personne dont la demande d'asile a été rejetée »;
+Médecins canadiens pour les soins aux réfugiés c Canada (Procureur général)
+, 2014 CF 651, 28 Imm LR (4th) 1).
+[9]
+Une autre conséquence de la perte de l'asile suivant l'alinéa 108(1)
+a
+) résulte du paragraphe 40.1(2) de la Loi, qui prévoit ce qui suit:
+40.1 [...] (2) La décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l'un des alinéas 108(1)
+a
+) à
+d
+), la perte de l'asile d'un résident permanent emporte son interdiction de territoire.
+40.1 ... (2) A permanent resident is inadmissible on a final determination that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(
+a
+) to (
+d
+).
+[10]
+Des personnes comme le demandeur font donc l'objet de procédures de renvoi en vertu de l'article 44 de la Loi. Si une mesure de renvoi est prise et devient exécutoire, alors « la mesure d[oit] être exécutée dès que possible » (paragraphe 48(2) de la Loi). Peu de choix s'offrent aux anciens réfugiés pour empêcher leur renvoi. Les décisions de constat de perte de l'asile ne peuvent faire l'objet d'un appel auprès de la Section d'appel des réfugiés de la CISR (alinéa 110(2)
+e
+) de la Loi), et une demande de contrôle judiciaire n'arrête pas automatiquement la procédure de renvoi.
+[11]
+En outre, le paragraphe 108(3) de la Loi assimile le constat de perte de l'asile au rejet de la demande d'asile. Cela signifie que les anciens réfugiés subissent d'autres conséquences prévues dans la Loi: selon le paragraphe 24(4), ils ne peuvent demander un permis de séjour temporaire pendant un an; selon l'alinéa 112(2)
+b.1
+), ils ne peuvent faire l'objet d'un examen des risques avant renvoi (ERAR) pendant au moins un an (ou trois ans s'ils viennent d'un pays d'origine désigné); selon l'alinéa 25(1.2)c), ils ne peuvent demander une dispense pour considérations d'ordre humanitaire pendant un an, sauf s'ils sont visés par les exceptions énoncées au paragraphe 25(1.21).
+IV.
+La décision de la SPR
+[12]
+En accordant la demande de constat de perte de l'asile présentée par le ministre au motif que le demandeur s'était réclamé de nouveau de la protection de la Chine, la SPR s'est fondée sur certains passages du
+Guide des procédures et critères à appliquer pour déterminer le statut de réfugié au regard de la Convention de 1951 et du Protocole de 1967 relatifs au statut de réfugiés
+du Haut-Commissaire des Nations Unies pour les réfugiés (le HCR), (Genève, HCR, 1992) (le Guide), et a signalé que le fait de se réclamer de nouveau de la protection d'un pays devait être (1) volontaire, (2) intentionnel et (3) effectif avant qu'il soit possible de justifier une demande de constat de perte de l'asile. La SPR a conclu que les trois conditions avaient été satisfaites relativement au demandeur. Aucune circonstance atténuante n'avait contraint le demandeur à demander un passeport chinois. Il a témoigné qu'il voulait le passeport à des fins d'identification, mais la SPR a fait observer qu'il détenait déjà une carte de résident permanent et qu'il n'avait jamais fait le moindre effort pour s'informer des solutions de rechange possibles auprès des représentants canadiens. Citant l'arrêt
+ <FRAGMENT_SUPPRESSED> , au paragraphe 15 ( <FRAGMENT_SUPPRESSED> ), la SPR a décidé que la délivrance du passeport créait une présomption d'intention de la part du demandeur de se réclamer de nouveau de la protection de la Chine. La SPR a conclu que le demandeur n'avait pas réfuté cette présomption et que, en utilisant son passeport pour retourner en Chine, il avait obtenu la protection de la Chine.
+[13]
+Selon la SPR, le fait que le demandeur soit allé en Chine pour organiser les funérailles de sa mère importait peu. L'avocate du demandeur avait comparé le retour en Chine à un exemple tiré du Guide du HCR, à savoir que le fait de rendre visite à un parent souffrant peut ne pas équivaloir au fait de se réclamer de nouveau de la protection du pays. Toutefois, la SPR a précisé que cette situation était signalée dans le contexte d'une personne voyageant avec des documents autres qu'un passeport. En voyageant muni d'un passeport authentique, le demandeur, de l'avis de la SPR, avait signalé sa présence aux autorités chinoises. En outre, la SPR n'a pas cru le demandeur lorsque celui-ci a affirmé qu'il avait eu de l'aide lors de son départ de la Chine. Le demandeur a déclaré qu'il se cachait lorsqu'il était là-bas, mais la SPR a fait observer qu'il « a[vait] tout de même habité dans la région urbaine où il vivait, il a[vait] révélé sa présence à divers membres de sa parenté et il n'a[vait] pas cherché à réduire la durée de son séjour ». La SPR a donc conclu que le demandeur « comptait donc implicitement sur la protection de la Chine » et qu'elle constatait la perte de l'asile du demandeur en application de l'alinéa 108(1)
+a
+) de la Loi. Puisque cette décision était suffisante pour accueillir la demande du ministre, la SPR a jugé inutile d'examiner si les raisons pour lesquelles le demandeur avait demandé l'asile avaient cessé d'exister (citant
+ <FRAGMENT_SUPPRESSED>  FTR 1 ( <FRAGMENT_SUPPRESSED> ), au paragraphe 25).
+V.
+Analyse
+A.
+Quelle est la norme de contrôle?
+[14]
+Une analyse complète relative à la norme de contrôle applicable en ce qui a trait à l'interprétation que donne la SPR de l'alinéa 108(1)
+a
+) et à son application aux faits n'est pas nécessaire, puisque la jurisprudence a déjà établi de manière satisfaisante la norme de contrôle (
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ), aux paragraphes 57 et 62).
+[15]
+La Cour a examiné les décisions de constat de perte de l'asile selon la norme de la décision raisonnable, non seulement en ce qui concerne l'interprétation que donne la SPR de l'alinéa 108(1)
+a
+), mais aussi pour l'application de celui-ci aux faits
+(Canada (Sécurité publique et Protection civile c Bashir
+, 2015 CF 51 ( <FRAGMENT_SUPPRESSED> ), aux paragraphes 24 et 25; <FRAGMENT_SUPPRESSED> , au paragraphe 9; <FRAGMENT_SUPPRESSED> , au paragraphe 12). Par conséquent, la décision de la SPR ne devrait pas être annulée dans la mesure où les motifs « permettent à la cour de révision de comprendre le fondement de la décision du tribunal et de déterminer si la conclusion fait partie des issues possibles acceptables » (
+Newfoundland and  <FRAGMENT_SUPPRESSED> , au paragraphe 16). La Cour ne peut ni soupeser à nouveau la preuve ni substituer la solution qu'elle juge elle-même appropriée (
+ <FRAGMENT_SUPPRESSED> , aux paragraphes 59 et 61.
+[16]
+En ce qui a trait à la contestation constitutionnelle d'une disposition législative telle que l'alinéa 46(1)
+c.1
+) de la Loi, la norme de contrôle est généralement la décision correcte ( <FRAGMENT_SUPPRESSED> , au paragraphe 58;
+ <FRAGMENT_SUPPRESSED> , au paragraphe 43). En l'espèce, cependant, la SPR n'a jamais rendu de décision au sujet de la constitutionnalité de l'alinéa 46(1)
+c.1
+), parce que cette disposition n'a jamais été contestée dans le cadre de l'instance devant la SPR. La question de savoir si la question constitutionnelle maintenant soulevée par le demandeur dans le cadre de la présente demande de contrôle judiciaire est régulièrement soumise à la Cour sera examinée ci-dessous.
+B.
+La SPR aurait-elle dû évaluer si le demandeur serait en danger en Chine?
+[17]
+La SPR n'a pas examiné si le demandeur était exposé à un risque persistant en Chine. Celui-ci soutient que la SPR avait la responsabilité de réévaluer le risque existant en Chine avant de faire le constat de perte de son asile. Citant l'arrêt  <FRAGMENT_SUPPRESSED>  (QL), 179 NR 11 (CA) ( <FRAGMENT_SUPPRESSED> ), au paragraphe 2, le demandeur affirme que la seule question à résoudre, et par conséquent le seul critère à appliquer, est ce qui découle de la définition de réfugié au sens de la Convention: le demandeur craint-il avec raison, actuellement, d'être persécuté? De l'avis du demandeur, le défaut de la SPR de répondre à cette question viole le principe de non-refoulement énoncé à l'article 33 de la Convention relative au statut des réfugiés, 28 juillet 1951, 189 RTNU 150, RT Can 1969 n° 6 (la Convention sur les réfugiés), et à l'article 3 de la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, 10 décembre 1984, 1465 RTNU 85 (la Convention contre la torture). Le demandeur souligne qu'il n'a pas droit à un ERAR et l'absence d'une évaluation des risques à l'étape de la perte de l'asile l'expose ainsi au refoulement. Il critique également l'Agence des services frontaliers du Canada pour l'établissement d'un quota où 875 demandes relatives à la perte de statut ou à l'annulation sont déférées à la SPR chaque année, une politique qui, selon lui, contrevient aux obligations internationales du Canada.
+[18]
+Cependant, l'article 33 ne protège que les
+réfugiés
+, et la Convention sur les réfugiés [traduction] « conçoit le statut de réfugié comme un phénomène transitoire qui prend fin lorsqu'un réfugié peut se réclamer de nouveau la protection de son propre pays ou bénéficie d'autres formes de protection nationale durable » (James C Hathaway et Michelle Foster,
+The Law of Refugee Status
+, 2e éd. (Cambridge: Cambridge University Press, 2014), à la page 462). Cet objectif est énoncé à la section C de l'article premier de la Convention sur les réfugiés, qui prévoit plusieurs situations où il y aura perte de l'asile:
+C.
+Cette Convention cessera, dans les cas ci-après, d'être applicable à toute personne visée par les dispositions de la section A ci-dessus:
+(1) Si elle s'est volontairement réclamée à nouveau de la protection du pays dont elle a la nationalité; ou
+(2) Si, ayant perdu sa nationalité, elle l'a volontairement recouvrée; ou
+(3) Si elle a acquis une nouvelle nationalité et jouit de la protection du pays dont elle a acquis la nationalité; ou
+(4) Si elle est retournée volontairement s'établir dans le pays qu'elle a quitté ou hors duquel elle est demeurée de crainte d'être persécutée; ou
+(5) Si, les circonstances à la suite desquelles elle a été reconnue comme réfugiée ayant cessé d'exister, elle ne peut plus continuer à refuser de se réclamer de la protection du pays dont elle a la nationalité;
+Étant entendu, toutefois, que les dispositions du présent paragraphe ne s'appliqueront pas à tout réfugié visé au paragraphe 1 de la section A du présent article qui peut invoquer, pour refuser de se réclamer de la protection du pays dont il a la nationalité, des raisons impérieuses tenant à des persécutions antérieures;
+(6) S'agissant d'une personne qui n'a pas de nationalité, si, les circonstances à la suite desquelles elle a été reconnue comme réfugiée ayant cessé d'exister, elle est en mesure de retourner dans le pays dans lequel elle avait sa résidence habituelle;
+Étant entendu, toutefois, que les dispositions du présent paragraphe ne s'appliqueront pas à tout réfugié visé au paragraphe 1 de la section A du présent article qui peut invoquer, pour refuser de retourner dans le pays dans lequel il avait sa résidence habituelle, des raisons impérieuses tenant à des persécutions antérieures.
+Dans la mesure où le demandeur est visé par l'une de ces dispositions, il n'est plus un réfugié et ne bénéficie plus de la protection de l'article 33 de la Convention sur les réfugiés. Le paragraphe 108(1) de la Loi met largement en évidence la section C de l'article premier, de sorte que la question est de savoir si cette section et son équivalent national peuvent s'appliquer seulement aux réfugiés qui ne sont exposés à aucun risque dans leur pays d'origine.
+[19]
+En ce qui concerne cette question, il est bon de revenir au Guide du HCR qui, en règle générale, « doit être considéré comme un ouvrage très pertinent dans l'examen des pratiques relatives à l'admission des réfugiés » (
+ <FRAGMENT_SUPPRESSED> , au paragraphe 46, le juge La Forest est dissident, mais pas sur cette question (voir le paragraphe 119)). Le Guide du HCR avise (aux paragraphes 112 et 116) que les clauses de cessation doivent être interprétées et appliquées de manière restrictive parce que les réfugiés doivent être assurés « que leur statut ne sera pas constamment remis en question à la suite de changements de caractère passager - et non fondamental - de la situation existant dans leur pays d'origine » (voir <FRAGMENT_SUPPRESSED> , au paragraphe 44).
+[20]
+Même avec une interprétation stricte, néanmoins, je ne souscris pas à l'argument du demandeur selon lequel le risque doit être déterminé pour chaque motif relatif à la perte de l'asile. Rien dans le Guide n'appuie une telle interprétation. En outre, les deux derniers motifs traitent expressément du changement dans la situation du pays ou du risque, ce qui sous-entend qu'un changement dans la situation en question n'est pas nécessaire pour que s'applique la perte de l'asile dans le cadre des quatre autres motifs. Chacun de ces autres motifs comporte des situations où un réfugié se soumet volontairement à une autre forme de protection, que ce soit celle de son ancien pays d'origine ou celle d'un autre pays. Comme l'affirment les auteurs de
+The Law of Refugee Status
+(à la page 464):
+[traduction]
+La réfugiée peut décider de confier sa sécurité au pays d'origine en se réclamant de nouveau de son ancienne protection, en recouvrant sa nationalité ou en retournant s'établir dans le pays.
+Il est entendu que l'une ou l'autre de ces trois actions traduisent une détermination de la part de la réfugiée à confier son bien-être à son pays d'origine, un exercice d'autodétermination individuelle auquel ne peut qu'acquiescer le droit international
+.
+[Non souligné dans l'original; renvois omis.]
+[21]
+Cela est entièrement conforme à la notion de protection des réfugiés. Le risque objectif n'est pas le seul critère pour la protection des réfugiés; un demandeur doit également éprouver « une crainte subjective d'être persécuté »
+(Canada (Procureur général) c Ward
+, [1993] 2 RCS 689, à la page 723, 103 DLR (4th) 1). Les conditions énoncées aux paragraphes 1), 2) et 4) de la section C de l'article envisagent des situations où il n'existe plus de crainte subjective et où il est approprié de ne plus assurer la protection du réfugié. Ainsi qu'il est mentionné dans le Guide du HCR (au paragraphe 116): « Il va sans dire que si, pour une raison quelconque, un réfugié ne souhaite plus être considéré comme tel, il n'y aura pas lieu de continuer son statut de réfugié et de lui accorder la protection internationale. »
+[22]
+L'affaire <FRAGMENT_SUPPRESSED> est la seule sur laquelle se fonde le demandeur pour étayer son interprétation de l'article 108, où la Cour d'appel fédérale a déclaré: « la seule question à résoudre, et par conséquent le seul critère à appliquer, est celle qui découle de la définition de réfugié au sens de la Convention [...]: le demandeur du statut a-t-il actuellement raison de craindre d'être persécuté? » Cependant, il est malavisé que le demandeur s'appuie sur <FRAGMENT_SUPPRESSED> . En effet, il ne s'agissait pas du tout d'un cas de perte de l'asile; il s'agissait plutôt de savoir si la protection devait être en fait accordée au réfugié. Cette affaire ne reposait que sur le principe selon lequel l'octroi de l'asile devait être de nature prospective. L'affaire <FRAGMENT_SUPPRESSED> ne s'en tient qu'à cela. Dans la mesure où l'arrêt <FRAGMENT_SUPPRESSED> fait référence au « changement de situation », cette observation ne pouvait s'appliquer qu'aux paragraphes 5) et 6) de la section C de l'article premier et n'a aucune incidence sur les autres motifs relatifs à la perte de l'asile.
+[23]
+Le demandeur soutient en outre que l'audience relative à la perte de l'asile tenue devant la SPR constitue sa dernière chance de voir tous les risques éventuels pris en considération. Il affirme qu'une mesure de renvoi conditionnelle a déjà été prise contre lui lorsqu'il est venu pour la première fois au Canada, que cette mesure est maintenant déclenchée par la décision de la SPR relative à la perte de l'asile et qu'il n'y a pas d'autres garde-fous contre son renvoi. Manifestement, cela pourrait soulever des inquiétudes au regard de l'application de l'article 3 de la Convention contre la torture qui interdit de refouler une personne là « où il y a des motifs sérieux de croire qu'elle risque d'être soumise à la torture ».
+[24]
+Cependant, les préoccupations du demandeur à cet égard ne sont pas fondées. Une mesure de renvoi conditionnelle a vraisemblablement été prise contre lui lorsqu'il est venu pour la première fois au Canada, mais « [l]a mesure de renvoi inexécutée devient périmée quand l'étranger devient résident permanent » (article 51 de la Loi). Ainsi, malgré le fait que l'article 40.1 de la Loi rend le demandeur interdit de territoire, il ne pouvait pas être expulsé tant que le processus de renvoi de l'article 44 n'était pas engagé. Il aurait droit à tous les garde-fous que ce processus pourrait ajouter (voir p. ex.,
+ <FRAGMENT_SUPPRESSED> , aux paragraphes 26 à 42; mais voir aussi
+ <FRAGMENT_SUPPRESSED> , aux paragraphes 29 à 34). Si une mesure de renvoi est prise, le demandeur aura toujours la possibilité de demander que le renvoi soit reporté, et certains risques visés par l'article 97 pourront alors être examinés (voir p. ex.,
+ <FRAGMENT_SUPPRESSED>  Imm LR (4th) 169, aux paragraphes 149 à 175).
+[25]
+En conclusion, en ce qui concerne cette question, toute inquiétude donc au sujet du non-refoulement n'a pas d'incidence sur les critères associés à la perte de l'asile. Le risque prospectif n'empêche pas la perte de l'asile au titre de l'alinéa 108(1)
+a
+) de la Loi (
+ <FRAGMENT_SUPPRESSED> et 20).
+C.
+La SPR a-t-elle commis une erreur lorsqu'elle a décidé que le demandeur s'était réclamé de nouveau de la protection de la Chine?
+[26]
+Les critères relatifs à la perte de l'asile, qui sont inscrits dans la Convention sur les réfugiés
+,
+sont repris à l'article 108 de la Loi. Le paragraphe 108(2) permet au ministre de faire une demande de constat de perte de l'asile pour n'importe quel fait mentionné au paragraphe 108(1) qui est ainsi libellé:
+108. (1) Est rejetée la demande d'asile et le demandeur n'a pas qualité de réfugié ou de personne à protéger dans tel des cas suivants:
+a) il se réclame de nouveau et volontairement de la protection du pays dont il a la nationalité;
+108. (1) A claim for refugee protection shall be rejected, and a person is not a Convention refugee or a person in need of protection, in any of the following circumstances:
+(a) the person has voluntarily reavailed themself of the protection of their country of nationality;
+[27]
+Le Guide du HCR (au paragraphe 119) établit trois critères relatifs au fait de se réclamer de nouveau de la protection d'un pays. Ces critères ont été adoptés par la Cour; donc « [l]e réfugié doit: 1) agir volontairement; 2) accomplir intentionnellement l'acte par lequel il se réclame de nouveau de la protection du pays dont il a la nationalité; 3) obtenir effectivement cette protection » ( <FRAGMENT_SUPPRESSED> , au paragraphe 46). La SPR a correctement circonscrit ces critères en l'espèce.
+[28]
+Après avoir circonscrit les trois critères, la SPR a raisonnablement conclu que le demandeur avait volontairement présenté une demande de passeport. Le demandeur prétend que son retour en Chine n'était pas volontaire parce qu'il devait prendre des mesures à la suite du décès de sa mère, mais cette affirmation n'a aucune incidence sur les raisons pour lesquelles il a fait une demande de passeport environ cinq mois avant le décès.
+[29]
+La SPR a ensuite appliqué la présomption selon laquelle une personne qui présente volontairement une demande de passeport de son pays d'origine a l'intention de se réclamer de nouveau de la protection de ce pays. Le demandeur a tenté de réfuter cette présomption en affirmant qu'il voulait simplement une pièce d'identité et un moyen pour se rendre aux États-Unis. Toutefois, la SPR a fait observer qu'il avait déjà une carte de résident permanent et qu'il n'avait pas besoin du passeport. Par conséquent, elle a conclu que le demandeur avait « seulement fait cette demande [de passeport] pour des raisons de commodité ».
+[30]
+La présomption relative à l'acquisition d'un passeport a été critiquée dans
+The Law of Refugee Status,
+parce qu'elle fait peser sur un réfugié le fardeau de [traduction] « réfuter une présumée prémisse, mais dans les faits très peu probable, selon laquelle l'obtention ou le renouvellement d'un passeport révélait l'intention du réfugié de renoncer au statut de réfugié en faveur de la protection du pays d'origine » (
+The Law of Refugee Status,
+à la page 468). Les auteurs estiment que [traduction] « lorsque la plupart des gens s'adressent aux autorités consulaires ou diplomatiques pour obtenir les documents nécessaires à des fins telles qu'un voyage, une inscription scolaire ou une accréditation professionnelle, ils le font simplement par habitude, sans penser aux répercussions juridiques de leur acte » (
+The Law of Refugee Status,
+à la page 465).
+[31]
+Peu importe le bien-fondé de cet argument contre la présomption, celle-ci est étayée par le Guide du HCR (au paragraphe 121), et a également reçu l'approbation judiciaire (
+Nsende,
+au paragraphe 14;
+Bashir,
+au paragraphe 59;
+ <FRAGMENT_SUPPRESSED> ). Il était raisonnable pour la SPR de s'appuyer sur cette présomption et il est compréhensible que les explications données par le demandeur pour justifier ses actes n'aient pas permis de convaincre la SPR, à savoir qu'il n'avait pas l'intention de se réclamer de nouveau de la protection de la Chine.
+[32]
+Quant au dernier critère relatif au fait de se réclamer effectivement de nouveau de la protection d'un pays, il est instructif de consulter le Guide du HCR qui énonce ce qui suit (au paragraphe 122):
+[...] Le cas le plus fréquent de réclamation de la protection du pays sera celui où le réfugié veut retourner dans le pays dont il a la nationalité. Il ne cessera pas d'être un réfugié du simple fait qu'il demande le rapatriement. En revanche, l'obtention d'une autorisation de rentrer dans le pays ou d'un passeport national
+aux fins de retourner dans le pays
+sera considérée, sauf preuve contraire, comme entraînant la perte du statut de réfugié. [...]
+[Non souligné dans l'original.]
+[33]
+En l'espèce, la SPR n'a pas conclu que le demandeur avait obtenu son passeport « aux fins de retourner » en Chine. Cependant, après que la mère du demandeur est décédée et que celui-ci a utilisé son passeport pour retourner en Chine, la SPR a conclu qu'il « a[vait] effectivement obtenu la protection des autorités chinoises et qu'il répond[ait] ainsi à la troisième condition ». La SPR a formulé le raisonnement suivant:
+[23] [...] l'intimé a non seulement recouru aux services et à l'aide de responsables chinois pour obtenir un nouveau passeport, comme il en a le droit en tant que citoyen de la Chine, mais [...], en allant en Chine au moyen d'un passeport valide et sous sa véritable identité, il a sciemment alerté les autorités de sa présence. Comme il a été mentionné précédemment, le tribunal conclut que l'intimé n'a pas fourni d'éléments de preuve crédible attestant qu'il a cherché à éviter d'attirer l'attention des autorités, que ce soit au moment d'entrer en Chine ou de quitter le pays. Bien que l'intimé ait déclaré ne pas avoir habité chez lui et ne pas s'être beaucoup aventuré en public, il a tout de même habité dans la région urbaine où il vivait, il a révélé sa présence à divers membres de sa parenté et il n'a pas cherché à réduire la durée de son séjour. [...] l'intimé comptait donc implicitement sur la protection de la Chine, bien qu'il ait obtenu l'asile parce qu'il disait craindre les agents de l'État.
+[34]
+Le demandeur se plaint du fait que la conclusion tirée par la SPR quant à la crédibilité, selon laquelle il n'avait pas pris de mesures pour éviter le contrôle des sorties, était déraisonnable en ce sens qu'elle reposait sur une conclusion concernant la plausibilité. Toutefois, l'appréciation par la SPR de la manière dont le demandeur a quitté la Chine ne repose pas du tout sur une conclusion concernant la plausibilité. La SPR a tout simplement conclu que le témoignage du demandeur était incohérent. Celui-ci a d'abord affirmé que son ami l'avait aidé à quitter la Chine, puis il a mentionné par la suite qu'il s'agissait en fait d'un ami ou d'un parent de son oncle. Il a également affirmé qu'il n'a pas donné de précisions sur la façon dont il avait contourné le contrôle des sorties, mais il a mentionné ensuite qu'il pensait avoir été aidé par un représentant de l'aéroport. Il était raisonnable pour la SPR de ne pas croire le demandeur, compte tenu des incohérences et des ajouts. Comme l'a déclaré la Cour dans la décision
+ <FRAGMENT_SUPPRESSED> : « les contradictions relevées dans la preuve, particulièrement dans le témoignage du demandeur d'asile, donneront généralement raison à la SPR de conclure que le demandeur manque de crédibilité ». La conclusion de la SPR quant à la crédibilité, selon laquelle le demandeur n'avait pas pris de mesures pour éviter le contrôle des sorties, était raisonnable.
+[35]
+Cependant, la conclusion de la SPR, à savoir que le demandeur s'était effectivement réclamé de nouveau de la protection de la Chine, contredisait ses autres conclusions de fait et, par conséquent, n'était pas raisonnable. D'une part, la SPR a ajouté foi au fait que le demandeur se cachait du BSP en vivant chez son cousin et en ne voyant que les membres de sa parenté, que le BSP était à sa recherche le jour des funérailles de sa mère et qu'il avait évité d'y assister, de peur que les agents du PSB ne le retrouvent là. Toutefois, elle a conclu, d'autre part, que le demandeur s'était réclamé de nouveau de la protection de la Chine, parce qu'il vivait dans le même voisinage et qu'il accueillait des visiteurs. Indépendamment du fait qu'il se cachait totalement ou non, le fait est cependant qu'il se cachait toujours.
+[36]
+Dans ces circonstances, une conclusion selon laquelle le demandeur s'était effectivement réclamé de nouveau de la protection de la Chine ne peut être justifiée et est déraisonnable. Comment pouvait-il intentionnellement et effectivement se réclamer de nouveau de la protection de la Chine tout en évitant activement et tout en craignant les entités chargées de cette responsabilité? Comment quelqu'un qui craint d'être persécuté par l'État chinois peut-il compter « implicitement sur la protection de la Chine » à l'encontre de ses propres fonctionnaires et de ses lois? Les conclusions de la SPR à cet égard étaient contradictoires et, par conséquent, déraisonnables. La décision de la SPR devrait donc être annulée sur ce fondement, et l'affaire renvoyée à la SPR, pour qu'elle rende une nouvelle décision.
+D.
+Les questions constitutionnelles devraient-elles être tranchées?
+[37]
+La décision de la SPR relative à la perte de l'asile ayant été annulée, l'alinéa 46(1)
+c.1
+) de la Loi ne s'applique plus au demandeur, sauf si la SPR, en rendant une nouvelle décision sur l'affaire, décide une fois de plus qu'il y a constat de perte de l'asile. La retenue judiciaire exige de ne pas faire de déclarations sur un point de droit constitutionnel dans les situations où cela est inutile (
+ <FRAGMENT_SUPPRESSED>  DLR (4th) 541, aux paragraphes 66 et 67). De telles déclarations au sujet de l'alinéa 46(1)
+c.1
+) de la Loi, en l'espèce, sont inutiles, compte tenu de la conclusion ci-dessus, à savoir que la décision de la SPR devrait être annulée.
+[38]
+En outre, mis à part la retenue judiciaire, plusieurs raisons justifient le fait que les questions constitutionnelles soulevées par le demandeur ne doivent pas être examinées en l'espèce.
+[39]
+Premièrement, compte tenu de la faiblesse de la preuve, la présente affaire ne permet pas, en tout état de cause, de trancher les questions constitutionnelles. L'ensemble des éléments de preuve découle du dossier présenté à la SPR et l'affidavit du demandeur porte uniquement sur les événements ayant donné lieu à la demande de constat de perte de l'asile. Pratiquement aucun élément de preuve ne fait état de l'incidence personnelle qu'a eue sur le demandeur la perte du statut de résident permanent. Lors de l'audience devant la SPR, il a déclaré que son épouse et ses enfants étaient alors au Canada, de sorte que cela pouvait appuyer l'hypothèse voulant que, s'il était obligé de quitter le Canada, il serait séparé de sa famille. Cependant, il n'a pu préciser quel était le statut de sa famille au Canada, si son épouse et ses enfants étaient établis ici ou s'il lui était arrivé autre chose. A-t-il perdu son emploi? A-t-il pu obtenir un permis de travail? La perte du statut de résident permanent a-t-elle eu une incidence sur la qualité ou la fréquence des soins médicaux demandés par lui et sa famille? Une procédure de renvoi a-t-elle été engagée contre lui? Aucune réponse à ce genre de questions ne figure dans le dossier, ce qui veut dire que la plupart des questions constitutionnelles en l'espèce devraient être tranchées d'après des prédictions abstraites au sujet des conséquences probables découlant de la perte de la résidence permanente. Comme l'a affirmé la Cour suprême dans l'arrêt
+ <FRAGMENT_SUPPRESSED> :
+Les décisions relatives à la Charte ne doivent pas être rendues dans un vide factuel. Essayer de le faire banaliserait la Charte et produirait inévitablement des opinions mal motivées. La présentation des faits n'est pas, comme l'a dit l'intimé, une simple formalité; au contraire, elle est essentielle à un bon examen des questions relatives à la Charte. Un intimé ne peut pas, en consentant simplement à ce que l'on se passe de contexte factuel, attendre ni exiger d'un tribunal qu'il examine une question comme celle-ci dans un vide factuel. Les décisions relatives à la Charte ne peuvent pas être fondées sur des hypothèses non étayées qui ont été formulées par des avocats enthousiastes.
+[40]
+Deuxièmement, le demandeur n'a jamais soulevé de questions constitutionnelles devant la SPR en ce qui concerne l'alinéa 46(1)
+c.1
+). Les cours de révision ne trancheront pas en règle générale une question, « lorsque la question en litige aurait pu être soulevée devant le tribunal administratif mais qu'elle ne l'a pas été » (
+Alberta (Information and  <FRAGMENT_SUPPRESSED>  (
+Alberta Teachers
+), au paragraphe 23). Le fait que les questions constitutionnelles seraient probablement examinées selon la norme de la décision correcte ne change pas ce principe adopté dans l'arrêt
+Alberta Teachers
+(
+ <FRAGMENT_SUPPRESSED>  (
+Forest Ethics
+), aux paragraphes 37 à 58). En fait, la Cour d'appel fédérale a affirmé qu'il était primordial que les questions constitutionnelles soient soulevées en première instance afin d'obtenir les éclairages du tribunal et d'établir le fondement factuel même qui est absent de la présente affaire (
+Forest Ethics,
+aux paragraphes 42 à 45).
+[41]
+Cependant, cela suppose que la SPR aurait eu compétence pour examiner les questions constitutionnelles soulevées maintenant par le demandeur (
+Forest Ethics
+, au paragraphe 40). Le défendeur soutient que la SPR n'a compétence que pour l'application de l'article 108. Les effets collatéraux découlant de cette décision ne concernent pas la SPR, et celle-ci n'a donc pas le pouvoir d'interpréter l'alinéa 46(1)
+c.1
+) ou de statuer sur sa constitutionnalité.
+[42]
+Dans des circonstances normales, cependant, l'argument selon lequel la SPR n'a pas compétence ne devrait pas dispenser les parties de l'obligation de soulever d'abord une question constitutionnelle devant la SPR. À l'instar de toutes les sections de la CISR, la SPR « a compétence exclusive pour connaître des questions de droit et de fait -
+y compris en matière de compétence
+» (paragraphe 162(1) de la Loi (non souligné dans l'original)). En outre, « le tribunal administratif investi du pouvoir de trancher les questions de droit découlant de l'application d'une disposition législative particulière sera présumé avoir le pouvoir de se prononcer sur la constitutionnalité de cette disposition » (
+Nouvelle-Écosse (Workers ' <FRAGMENT_SUPPRESSED> , au paragraphe 36). La question de savoir si la SPR a compétence pour examiner la constitutionnalité de l'alinéa 46(1)
+c.1
+) est donc essentiellement une question d'interprétation de loi, qui, habituellement, commande la déférence de la Cour (
+Alberta Teachers,
+aux paragraphes 30 et 34). En invitant la Cour à rendre cette décision maintenant, les parties contournent à tout le moins la SPR sur la question de la compétence; or, la SPR mérite d'être la première à avoir l'occasion de répondre à cette question, au même titre qu'à la question constitutionnelle (
+Forest Ethics
+, aux paragraphes 42 à 45).
+[43]
+Certes, la SPR a déjà examiné les mêmes questions et décliné compétence; elle a accepté essentiellement les arguments avancés par le défendeur en l'espèce (voir:
+Re X,
+2014 CanLII 66637, aux paragraphes 19 à 25). Il peut sembler excessivement formaliste d'insister sur le fait qu'un plaideur doit d'abord soulever une question constitutionnelle auprès de la SPR, même s'il existe des précédents donnant à penser que la compétence peut être déclinée. Cependant, en l'absence d'une décision de la SPR, en l'espèce, relativement à ces questions, celles-ci ne font pas partie de la décision faisant l'objet du contrôle judiciaire.
+VI.
+Les questions en vue de la certification
+[44]
+Le demandeur a proposé les questions suivantes en vue de la certification, à l'issue de l'audience en l'espèce:
+[traduction]
+1. Lorsqu'elle est appelée à décider s'il faut accueillir une demande du ministre de constat de perte de l'asile au titre de l'alinéa 108(1)
+a
+) de la
+Loi sur l'immigration et la protection des réfugiés
+, en fonction d'un comportement adopté dans le passé, la Commission peut-elle accueillir la demande du ministre sans examiner, au moment de l'audience relative à la perte de l'asile, la question de savoir si la personne risque d'être persécutée en retournant dans son pays de nationalité?
+2. Est-il inconstitutionnel, au titre de l'article 7 de la
+Charte,
+de révoquer la résidence permanente automatiquement, sans qu'un processus soit en place et sans qu'une évaluation des risques ait été effectuée pour les personnes dont la qualité de réfugié a déjà été reconnue?
+[45]
+Dans l'arrêt
+ <FRAGMENT_SUPPRESSED> , la Cour d'appel fédérale a déclaré ce qui suit:
+[9] Il est de droit constant que, pour être certifiée, une question doit i) être déterminante quant à l'issue de l'appel, ii) transcender les intérêts des parties au litige et porter sur des questions ayant des conséquences importantes ou qui sont de portée générale. En corollaire, la question doit avoir été soulevée et examinée dans la décision de la cour d'instance inférieure, et elle doit découler de l'affaire, et non des motifs du juge [...]
+[46]
+Puisque aucune question constitutionnelle n'a été examinée dans les motifs du jugement exposés ci-dessus, la deuxième question proposée par le demandeur n'est manifestement pas appropriée aux fins de la certification.
+[47]
+En ce qui concerne la première question, bien qu'elle découle de l'affaire parce que la SPR n'a pas examiné, au moment de l'audience relative à la perte de l'asile, la question de savoir si le demandeur risquait d'être persécuté en retournant en Chine, elle n'a pas permis de trancher le litige: comme il a été mentionné précédemment, la décision de la SPR est déraisonnable en raison des conclusions contradictoires qu'elle a tirées.
+VII.
+Conclusion
+[48]
+La décision de la SPR était déraisonnable, puisque ses conclusions de fait contredisaient sa conclusion selon laquelle le demandeur s'était intentionnellement et effectivement réclamé de nouveau de la protection de la Chine. Par conséquent, la décision sera annulée, et l'affaire sera renvoyée à la SPR pour nouvelle décision. Il n'y a pas lieu d'examiner la question de savoir si l'alinéa 46(1)
+c.1
+) de la Loi est constitutionnel.
+JUGEMENT
+[49]
+LA COUR STATUE que:
+la demande de contrôle judiciaire est accueillie; l'affaire est renvoyée à la Section de la protection des réfugiés pour qu'un autre commissaire rende une nouvelle décision; aucune question de portée générale n'est certifiée.
+Application allowed.
+Editor: Sharon McCartney
+[End of document]

@@ -1,0 +1,703 @@
+ <FRAGMENT_SUPPRESSED>  temporarily in rough form.
+ <FRAGMENT_SUPPRESSED>  Sajeda Almalki, by her Litigation Guardian Khuzaimah Kalifah, Muaz Almalki, by his Litigation Guardian Khuzaimah Kalifah, Zakariyy A Almalki, by his Litigation Guardian Khuzaimah Kalifah, Nadim Almalki, Fatima Almalki, Ahmad Abou-Elmaati, Badr Abou-Elmaati, Samira Al-Shallash, Rasha Abou-Elmaati, Muayyed Nureddin, Abdul Jabbar Nureddin, Fadila Siddiqu, Mofak Nureddin, Aydin Nureddin, Yashar Nureddin, Ahmed Nureddin, Sarab Nureddin and Byda Nureddin (respondents)
+(DES-1-11; 2015 FC 1278)
+ <FRAGMENT_SUPPRESSED>  2015.
+Counsel:
+Derek Rasmussen, Lorne Ptack and Craig Collins-Williams, for the applicant;
+François Dadour and John Norris, AMICI.
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the applicant;
+Philip Tunley, Stockwoods, Barristers, Toronto, Ontario, for the respondents;
+Barbara Jackman, Jackman and Associates, Toronto, Ontario, for the respondents;
+François Dadour, Poupart, Dadour et associés, Montreal, Quebec, Amicus Curiae;
+John Norris, Simcoe Chambers, Toronto, Ontario, Amicus Curiae.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Mosley, J.
+: Bill C-44, an
+Act to Amend the Canadian Security Intelligence Service Act and other Acts
+was introduced in the House of Commons on October 27, 2014. The Bill received Royal Assent on April 23, 2015 and was brought into force as the
+Protection of Canada from Terrorists Act
+, S.C. 2015, c. 9.
+[2]
+The legislation amended subsection 18 (1) of the
+Canadian Security Intelligence Service Act,
+R.S.C., 1985, c. C-23 [
+CSIS Act
+], which makes it an offence to disclose the identity of an employee of the Canadian Security Intelligence Service [CSIS or the Service], and created a new section 18.1.
+[3]
+Section 18.1 now provides that the identity of human sources or information that would disclose the identity of human sources is to be "kept confidential in order to protect their life and security and to encourage individuals to provide information to the Service".
+[4]
+This is an interlocutory decision regarding the application of these two provisions to proceedings initiated prior to the enactment of the legislation. In this matter, the Attorney General of Canada has applied for an Order with respect to the disclosure of information that is the subject of discovery proceedings in actions brought by the respondents in the Superior Court of Justice of Ontario. In those actions, Messrs. Abdullah Almalki, Ahmad Abou-Elmaati and Muayyed Nureddin, joined by members of their families, seek compensatory damages from the Government of Canada for, among other things, alleged complicity by Canadian officials, departments and agencies in their detention and torture in Syria (and Egypt, in the case of Mr. Elmaati) and breach of their rights under the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act
+, being Schedule B to the Canada Act, 1982 (U.K.), 1982, c.11 (the
+Charter
+).
+[5]
+In addition to being the applicant in these proceedings, the Attorney General of Canada is also, pursuant to the
+Crown Liability and Proceedings Act
+, R.S., 1985, c. C-50, s 23, the representative defendant in the underlying civil actions on behalf of the public servants and government departments and agencies alleged to have been complicit in the harms suffered by the respondents. The application is brought in the Federal Court under section 38.04 (1) of the
+Canada Evidence Act
+, R.S.C. 1985, c. C-5 [
+CEA
+].
+[6]
+The information which is the subject matter of this application is in the possession of departments and agencies of the Government of Canada. It has been withheld from the respondents in the discovery process pursuant to the claim of national interest privilege, a statutory prohibition on disclosure of information that would be injurious to Canada's national defence, national security or international relations if released to the public, set out in paragraph 38.02 (1) (a) of the
+CEA
+.
+[7]
+The Attorney General seeks to have the prohibition of disclosure based on claims of injury to the protected national interests [the s 38 claims] confirmed by the Court. Alternatively, the Attorney General requests that the Court exercise its discretion under subsection 38.06 (2) of the
+CEA
+to disclose the information in the form and subject to such conditions as are most likely to limit any injury to national security, national defence or international relations.
+[8]
+The respondents request an order authorizing the disclosure of all information relevant to their civil actions that the applicant seeks to withhold or, in the alternative, the disclosure of summaries or substitutions that would meet the public interest including their interests in obtaining disclosure to the fullest degree possible in each case. The information they seek includes the identities of CSIS employees, and human source information that may be in the collection of documents before the Court, and if so, presently withheld from disclosure.
+[9]
+The Court was advised by counsel for the Attorney General of Canada following the coming into force of Bill C-44 that its provisions may have some bearing on the issues before the Court in these proceedings. As a result, the Court has received oral and written submissions with regard to the interpretation and application of the new and revised legislation.
+[10]
+It is not my intention in these reasons to refer to the test established in
+ <FRAGMENT_SUPPRESSED>  affirmed 2003 FCA 246 [ <FRAGMENT_SUPPRESSED> ] with regard to disclosure of the contested information. Nor do I intend to discuss the application of the <FRAGMENT_SUPPRESSED> principles to the redacted identities or information that may tend to identify any CSIS employees or human sources that may be in the collection of documents before the Court. That task, if necessary, will be undertaken as part of the Court's overall review of the disputed information which is currently underway.
+[11]
+However, in the interests of greater transparency relating to the Court's interpretation and application of the recent amendments, I consider it necessary to address the Court's interpretation of the recent changes to the law in these public reasons. In doing so, I will not refer to any of the information received during the closed proceedings. These reasons do not reflect any conclusions reached with respect to the application of the <FRAGMENT_SUPPRESSED> test to the disputed information.
+[12]
+In these reasons I outline the background of the application, describe the applicable legal framework, and discuss the legal arguments raised by the parties and the principles I have relied upon in determining whether the amended subsection 18 (1) and new section 18.1 ought to apply in these proceedings.
+[13]
+For convenience, reference in these reasons to section 38 encompasses sections 38 to 38.16 of the
+CEA
+.
+II.
+PROCEDURAL HISTORY
+[14]
+The respondents' claims in the Superior Court of Justice were initiated following the
+Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar
+, and the consequent report (the O'Connor Inquiry Report). In his report, Mr. Justice Dennis O'Connor recommended that the cases of the three principal respondents be reviewed but in a manner more appropriate than a full-scale public inquiry because of the national security issues involved. As a result, the Honourable Frank Iacobucci, Q.C. was appointed to conduct the
+Internal Commission of Inquiry into the Actions of Canadian Officials in Relation to Abdullah Almalki, Abou-Elmaati, and Muayyed Nureddin
+(the Iacobucci Inquiry).
+[15]
+The proceedings before the Superior Court were held in abeyance pending the outcome of the Iacobucci Inquiry and resumed following the issuance of the Report. In April, 2009, the parties agreed to conduct mediations. To that end, in July 2009, counsel for the Attorney General disclosed approximately 486 documents to the respondents, of which 290 contained redactions. The 486 documents had been specifically requested by the respondents because of references to them in the Iacobucci Report. For reasons unknown to this Court the mediation did not proceed as planned in November 2009 and the litigation resumed. Notice was given to the Attorney General pursuant to section 38.01(1) of the
+CEA
+in January 2010 that 289 of the documents disclosed to the respondents for discovery purposes contained sensitive or potentially injurious information. This number was later reduced to 268 as the Attorney General authorized additional disclosures. A Notice of Application under subsection 38.04 (1) of the
+CEA
+was filed on February 9, 2010.
+[16]
+The initial s 38 proceeding continued in this Court under Federal Court file number DES-1-10 leading to a public decision released in November 2010:
+ <FRAGMENT_SUPPRESSED>  [
+Almalki 2010
+]. A confidential Order was also issued at that time with an attached Annex listing the redacted information for which protection claims were made and the Court's decisions in relation to each claim. Disclosure of certain of the withheld information was ordered in either full text or summary form.
+[17]
+In DES-1-10, the respondents sought disclosure of certain human source information and the names of specified CSIS employees that were redacted in the documents under review or, in the alternative, consistent aliases for those employees. With respect to the employees, they cited in particular those whose names were known publicly because they identified themselves to the respondents by leaving business cards with their names, telephone numbers and other contact information as CSIS officers.
+[18]
+In rendering judgment on the application in DES-1-10, I accepted that the identity of covert human sources and information provided by such sources that would tend to identify them could be subject to public interest privilege and that the Court should be conscious of the effect that a decision to order disclosure of such information might have on the recruitment of human sources. I found that the privilege was not absolute, considering the case by case analysis called for by Justice Simon Noël  <FRAGMENT_SUPPRESSED>  (Re)
+, 2009 FC 204.
+[19]
+In that decision, Justice Noël applied the four fundamental conditions for extending or recognizing a common law privilege set out in
+Wigmore on Evidence
+:
+1) The communications must originate in a confidence that they will not be disclosed.
+2) This element of confidentiality must be essential to the full and satisfactory maintenance of the relation between the parties.
+3) The relation must be one which in the opinion of the community ought to be sedulously fostered.
+4) The injury that would inure to the relation by the disclosure of the communication must be greater than the benefit thereby gained for the correct disposal of the litigation.
+[
+The New Wigmore: Evidentiary Privileges
+(New York: AspenLaw & Business, 2002) at 3.2.3]
+[20]
+Justice Noël concluded, at paragraph 31, that the relationship between the Service and a covert human intelligence source in that particular case met the conditions for establishing the privilege and that the identity of the source should be protected.
+[21]
+At paragraphs 169 and 170 of
+Almalki 2010,
+I stated the following:
+However, I do not accept that the privilege should apply in every instance to persons who provide information to CSIS. The Service tends to treat virtually everyone who provides information as a confidential source whether there is any real expectation of confidentiality on the part of the source, a risk of harm to the source or likelihood that they would not be forthcoming without such assurances. This extends to employees of law enforcement agencies, public utilities and business corporations who provide information that may be publicly available. In reviewing documents for disclosure, Service officials routinely redact the names of such persons and related identifying information. In my view, the Service approach is overbroad.
+I recognize that the redacted information may be of little or no relevance to the underlying proceedings. However, if relevant, as discussed above, the Court has to consider whether injury would result from disclosure and whether the privilege is justified on a case by case basis. In some instances, this will not be difficult as the circumstances relating to the recruitment and development of the source will make it clear that the information should be treated as privileged. However, the public interest in nondisclosure of the information will not in every case outweigh the public interest in disclosure. That assessment has to be made in the third and final stage of the inquiry.
+[22]
+This discussion was based in part on the Court's understanding of the very broad definition of "human source" employed by the Service which encompassed anyone who provided information to CSIS or otherwise facilitated its operational activities. The Service drew distinctions in its management of human sources through internal policies and procedures.
+[23]
+The Order issued  <FRAGMENT_SUPPRESSED>  2010
+did not authorize the disclosure of the names of CSIS employees nor the identities of human sources but did authorize the release of information in some documents from which the Attorney General argued the identity of a human source could be inferred. I was not persuaded that disclosure of the information would reveal the identity of the source. The Attorney General appealed the Order in relation to that information and information in a number of documents respecting information received from foreign agencies.
+[24]
+The Federal Court of Appeal issued its decision in
+ <FRAGMENT_SUPPRESSED>  [
+Almalki FCA 2011
+]. This Court's treatment of the privilege issue was upheld, at paragraphs 29-30, but its application to the documents in question was reversed. A motion for reconsideration was dismissed by the Court of Appeal on October 13, 2011 and an application for leave to appeal was dismissed by the Supreme Court of Canada on January 12, 2012.
+[25]
+No information that would identify covert human sources or the names of CSIS employees was disclosed to the respondents as a result of the Orders issued by this Court in <FRAGMENT_SUPPRESSED> 2010
+and by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  FCA 2011
+.
+[26]
+The current review of the claims in relation to the redacted information was initiated by Order of this Court on September 19, 2011. In that Order, the Court appointed the same two security cleared members of the private bar who had served as
+amicus curiae
+in DES-1-10, Messrs. Bernard Grenier and François Dadour of Montreal. Mr Grenier resigned the appointment in 2014 and was replaced by Mr John Norris of Toronto.
+[27]
+It is worth noting that the collection of documents in DES-1-10 was limited to a specific group identified by the respondents based on their review of the Iacobucci Report and, initially at least, was for the purpose of facilitating the mediations between the parties that were ultimately suspended. The collection of documents in DES-1-11 is much broader and encompasses all of the material within the possession of the Government of Canada that is considered by the Attorney General to be relevant to the underlying civil actions. This stems from the Attorney General's obligation to produce documents to the respondent plaintiffs in the pre-trial discovery process. Consequently, the information contained in the documents under review in the present proceeding is much more comprehensive in relation to the facts alleged in the pleadings.
+[28]
+The respondents submit that they have been unable to discern from the public reasons for decision of both courts in DES-1-10 the basis upon which their requests for disclosure were not given effect. They contend that the names of at least six CSIS employees are known to them because they had interactions with those employees, and further, that those names are in the public domain (on social media and in a book published about their experiences). At the relevant time, the CSIS policy for the conduct of interviews generally required members to identify themselves as employees of the Service.
+[29]
+The respondents note that those employees may or may not be among the Attorney General's list of 10 proposed but unnamed CSIS witnesses offered in the synopses of testimony to be led at trial.
+[30]
+The six publicly named persons said to be CSIS employees had been added to the list of defendants in the civil actions before the Ontario Superior Court. Those names have now been withdrawn as a result of undertakings by the Attorney General that the named persons would be produced for pre-trial examination during the discovery process. Should liability ultimately be found at trial for any of their acts or omissions respecting the respondents, liability would attach to the Federal Crown vicariously.
+[31]
+In their written and oral submissions in these proceedings, the respondents have maintained their request for disclosure of the redacted names of any CSIS employees that may appear in the collected documents or, in the alternative, consistent aliases so that they may be able to understand which anonymous employees played a significant role in the documented events.
+[32]
+The Attorney General has consistently taken the position, on behalf of the Service, that the identification of CSIS employees - particularly those who engage in covert activities - would impair the Service's ability to investigate threats to the security of Canada. He has also argued that identifying Service personnel could endanger their personal safety or that of their families. The Attorney General contends that this information falls within a category that the Court has consistently protected in applying the test established in
+ <FRAGMENT_SUPPRESSED> . See for example
+ <FRAGMENT_SUPPRESSED> .
+[33]
+With respect to the issue of human sources,  <FRAGMENT_SUPPRESSED>  2010
+, at paras 168-170, I accepted as a general proposition that the identity of covert human sources and information provided by such sources that would tend to identify them would be subject to public interest privilege and that an order to disclose such information would have an adverse effect on the ability of CSIS to recruit such sources. I did not accept that the privilege should apply in every instance to persons who provide information to CSIS and found that the public interest in disclosure may, in some instances, outweigh that of non-disclosure.
+[34]
+The Court of Appeal agreed that there was no class privilege for information obtained from CSIS human sources:
+Almalki FCA 2011
+, at para 34. It maintained that position in
+ <FRAGMENT_SUPPRESSED> in the context of a security certificate proceeding. That aspect of the decision was upheld by the Supreme Court of Canada in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED>  (
+Harkat SCC
+), at para 85.
+[35]
+In
+Harkat SCC,
+the majority of the Supreme Court agreed with the Federal Court of Appeal that the common law police informer privilege did not attach to CSIS human sources. Among other reasons cited, the majority noted that police have an incentive not to promise confidentiality except where truly necessary because doing so can make it harder to use an informer as a witness. CSIS was not so constrained in collecting intelligence. The majority observed, at paragraph 87, that it was open to Parliament to create a new class privilege should it deem it desirable that CSIS human sources' identities and related information be privileged.
+[36]
+During the course of the current s 38 proceedings in DES-1-11, Bill C-44 was introduced and enacted by Parliament. In light of representations made by the parties and
+amici
+, I considered that the interpretation and application of subsection 18 (1) and section 18.1 of the
+CSIS Act
+must be determined in order to complete my review. As such, I requested that the
+amici
+and the Attorney General make submissions on this issue, and
+ex parte
+oral arguments were heard
+in camera
+at the Court's secure facilities on September 1, 2015. Written submissions filed by the
+amici
+and the Attorney General were made public and available to the respondents. Written submissions were also received from the respondents. Counsel for the Attorney General submitted a public reply and additional brief classified
+ex parte
+representations.
+III.
+LEGAL FRAMEWORK
+[37]
+When legislation is amended or replaced, provisions are often included to deal with the transition from the old law to the new law. Bill C-44 does not contain any such transitional provisions which would govern the coming into operation and effect of the amendments related to the
+CSIS Act.
+In the absence of such provisions and in conformity with subsection 5(2) of the
+Interpretation Act
+, R.S.C. 1985, c. I-2, the date of commencement of the amendments is the day the Bill received Royal Assent, April 23, 2015.
+[38]
+Prior to the amendments, section 18 read as follows:
+18.
+(1) Subject to subsection (2), no person shall disclose any information that the person obtained or to which the person had access in the course of the performance by that person of duties and functions under this Act or the participation by that person in the administration or enforcement of this Act and from which the identity of
+(a) any other person who is or was a confidential source of information or assistance to the Service, or
+(b) any person who is or was an employee engaged in covert operational activities of the Service can be inferred
+Exceptions
+(2) A person may disclose information referred to in subsection (1) for the purposes of the performance of duties and functions under this Act or any other Act of Parliament or the administration or enforcement of this Act or as required by any other law or in the circumstances described in any of paragraphs 19(2)(a) to (d).
+Offence
+(3) Everyone who contravenes subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+18.
+(1) Sous réserve du paragraphe (2), nul ne peut communiquer des informations qu'il a acquises ou auxquelles il avait accès dans l'exercice des fonctions qui lui sont conférées en vertu de la présente loi ou lors de sa participation à l'exécution ou au contrôle d'application de cette loi et qui permettraient de découvrir l'identité:
+a) d'une autre personne qui fournit ou a fourni au Service des informations ou une aide à titre confidentiel;
+b) d'une personne qui est ou était un employé occupé à des activités opérationnelles cachées du Service.
+Exceptions
+(2) La communication visée au paragraphe (1) peut se faire dans l'exercice de fonctions conférées en vertu de la présente loi ou de toute autre loi fédérale ou pour l'exécution ou le contrôle d'application de la présente loi, si une autre règle de droit l'exige ou dans les circonstances visées aux alinéas 19(2)a) à d).
+Infraction
+(3) Quiconque contrevient au paragraphe (1) est coupable:
+a) soit d'un acte criminel et passible d'un emprisonnement maximal de cinq ans;
+b) soit d'une infraction punissable par procédure sommaire
+[39]
+Section 19 of the
+CSIS Act
+, which was not amended by Bill C-44, authorizes the disclosure of information obtained in the performance of the duties and functions of the Service in the circumstances described in paragraphs 19 (2) (a) to (d):
+19.
+(1) Information obtained in the performance of the duties and functions of the Service under this Act shall not be disclosed by the Service except in accordance with this section.
+Idem
+(2) The Service may disclose information referred to in subsection (1) for the purposes of the performance of its duties and functions under this Act or the administration or enforcement of this Act or as required by any other law and may also disclose such information,
+(a) where the information may be used in the investigation or prosecution of an alleged contravention of any law of Canada or a province, to a peace officer having jurisdiction to investigate the alleged contravention and to the Attorney General of Canada and the Attorney General of the province in which proceedings in respect of the alleged contravention may be taken;
+(b) where the information relates to the conduct of the international affairs of Canada, to the Minister of Foreign Affairs or a person designated by the Minister of Foreign Affairs for the purpose;
+(c) where the information is relevant to the defence of Canada, to the Minister of National Defence or a person designated by the Minister of National Defence for the purpose; or
+(d) where, in the opinion of the Minister, disclosure of the information to any minister of the Crown or person in the federal public administration is essential in the public interest and that interest clearly outweighs any invasion of privacy that could result from the disclosure, to that minister or person.
+Report to Review Committee
+(3) The Director shall, as soon as practicable after a disclosure referred to in paragraph (2) (
+d
+) is made, submit a report to the Review Committee with respect to the disclosure.
+19.
+(1) Les informations qu'acquiert le Service dans l'exercice des fonctions qui lui sont conférées en vertu de la présente loi ne peuvent être communiquées qu'en conformité avec le présent article.
+Idem
+(2) Le Service peut, en vue de l'exercice des fonctions qui lui sont conférées en vertu de la présente loi ou pour l'exécution ou le contrôle d'application de celle-ci, ou en conformité avec les exigences d'une autre règle de droit, communiquer les informations visées au paragraphe (1). Il peut aussi les communiquer aux autorités ou personnes suivantes:
+a) lorsqu'elles peuvent servir dans le cadre d'une enquête ou de poursuites relatives à une infraction présumée à une loi fédérale ou provinciale, aux agents de la paix compétents pour mener l'enquête, au procureur général du Canada et au procureur général de la province où des poursuites peuvent être intentées à l'égard de cette infraction;
+b) lorsqu'elles concernent la conduite des affaires internationales du Canada, au ministre des Affaires étrangères ou à la personne qu'il désigne à cette fin;
+c) lorsqu'elles concernent la défense du Canada, au ministre de la Défense nationale ou à la personne qu'il désigne à cette fin;
+d) lorsque, selon le ministre, leur communication à un ministre ou à une personne appartenant à l'administration publique fédérale est essentielle pour des raisons d'intérêt public et que celles-ci justifient nettement une éventuelle violation de la vie privée, à ce ministre ou à cette personne.
+Rapport au comité de surveillance
+(3) Dans les plus brefs délais possible après la communication visée à l'alinéa (2) (
+d
+), le directeur en fait rapport au comité de surveillance.
+[40]
+In
+Almalki FCA 2011
+, above, at para 28, the Federal Court of Appeal observed that section 18 created an offence for a person to disclose the information mentioned therein, unless he or she was authorized to do so by subsection 18 (2) and section 19. The Court of Appeal further stated that section 18
+...does not create an absolute prohibition against disclosure as the informer class privilege does. Indeed, subsection 18 (2) allows a person to disclose the information "as required by any other law". This is compatible with section 38 of the Act which allows for disclosure pursuant to an order issued by a designated judge in the exercise of the discretion conferred by that section.
+[41]
+With the enactment of Bill C-44, section 19 remains unchanged. Section 18 was amended as follows:
+Offence to disclose identity
+18.
+(1) Subject to subsection (2), no person shall knowingly disclose any information that they obtained or to which they had access in the course of the performance of their duties and functions under this Act or their participation in the administration or enforcement of this Act and from which could be inferred the identity of an employee who was, is or is likely to become engaged in covert operational activities of the Service or the identity of a person who was an employee engaged in such activities.
+Exceptions
+(2) A person may disclose information referred to in subsection (1) for the purposes of the performance of duties and functions under this Act or any other Act of Parliament or the administration or enforcement of this Act or as required by any other law or in the circumstances described in any of paragraphs 19(2)(
+a
+) to (
+d
+).
+Offence
+(3) Everyone who contravenes subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction
+Infraction - communication de l'identité
+18.
+(1) Sous réserve du paragraphe (2), nul ne peut sciemment communiquer des informations qu'il a acquises ou auxquelles il avait accès dans l'exercice des fonctions qui lui sont conférées en vertu de la présente loi ou lors de sa participation à l'exécution ou au contrôle d'application de cette loi et qui permettraient de découvrir l'identité d'un employé qui a participé, participe ou pourrait vraisemblablement participer à des activités opérationnelles cachées du Service ou l'identité d'une personne qui était un employé et a participé à de telles activités.
+Exceptions
+(2) La communication visée au paragraphe (1) peut se faire dans l'exercice de fonctions conférées en vertu de la présente loi ou de toute autre loi fédérale ou pour l'exécution ou le contrôle d'application de la présente loi, si une autre règle de droit l'exige ou dans les circonstances visées aux alinéas 19(2)
+a
+) à
+d
+).
+Infraction
+(3) Quiconque contrevient au paragraphe (1) est coupable:
+a) soit d'un acte criminel et passible d'un emprisonnement maximal de cinq ans;
+b) soit d'une infraction punissable par procédure sommaire.
+[42]
+Bill C-44 thus maintained the offence of disclosing information about a CSIS employee in subsection 18 (1), with changes. It removed the offence of disclosing information about a CSIS source and amended the English version to include the requirement that the offence be committed
+knowingly
+, presumably to reflect the constitutional requirement of
+mens rea
+for criminal offences, and clarified that the offence related to information from which the identity of an employee who
+was, is or is likely to become
+engaged in Service covert operational activities
+could
+be inferred or
+the identity
+of a person who was a Service
+employee engaged in such activities
+. The French version was also amended in similar terms. Both versions now more clearly provide that the scope of the offence is limited to persons employed by CSIS or otherwise associated with the enforcement of the
+CSIS Act.
+The section no longer prohibits the disclosure of the identity of a confidential source of information or assistance to the Service.
+[43]
+At the same time, a new section 18.1 was created by Bill C-44. In the words of the Bill's sponsor, the Minister of Public Safety and Emergency Preparedness, the purpose of this amendment is to "give greater protection to the Canadian Security Intelligence Service's human sources":
+Bill C-44
+, summary.
+[44]
+The new section 18.1 reads as follows:
+Human Sources
+18.
+1 (1) The purpose of this section is to ensure that the identity of human sources is kept confidential in order to protect their life and security and to encourage individuals to provide information to the Service
+Prohibition on disclosure
+(2) Subject to subsections (3) and (8), no person shall, in a proceeding before a court, person or body with jurisdiction to compel the production of information, disclose the identity of a human source or any information from which the identity of a human source could be inferred.
+Exception - consent
+(3) The identity of a human source or information from which the identity of a human source could be inferred may be disclosed in a proceeding referred to in subsection (2) if the human source and the Director consent to the disclosure of that information.
+Application to judge
+(4) A party to a proceeding referred to in subsection (2), an
+amicus curiae
+who is appointed in respect of the proceeding or a person who is appointed to act as a special advocate if the proceeding is under the Immigration and Refugee Protection Act may apply to a judge for one of the following orders if it is relevant to the proceeding:
+(a) an order declaring that an individual is not a human source or that information is not information from which the identity of a human source could be inferred; or
+(b) if the proceeding is a prosecution of an offence, an order declaring that the disclosure of the identity of a human source or information from which the identity of a human source could be inferred is essential to establish the accused's innocence and that it may be disclosed in the proceeding.
+Contents and service of application
+(5) The application and the applicant's affidavit deposing to the facts relied on in support of the application shall be filed in the Registry of the Federal Court. The applicant shall, without delay after the application and affidavit are filed, serve a copy of them on the Attorney General of Canada.
+Attorney General of Canada
+(6) Once served, the Attorney General of Canada is deemed to be a party to the application.
+Hearing
+(7) The hearing of the application shall be held in private and in the absence of the applicant and their counsel, unless the judge orders otherwise.
+Order - disclosure to establish innocence
+(8) If the judge grants an application made under paragraph (4)(b), the judge may order the disclosure that the judge considers appropriate subject to any conditions that the judge specifies.
+Effective date of order
+(9) If the judge grants an application made under subsection (4), any order made by the judge does not take effect until the time provided to appeal the order has expired or, if the order is appealed and is confirmed, until either the time provided to appeal the judgement confirming the order has expired or all rights of appeal have been exhausted.
+Confidentiality
+(10) The judge shall ensure the confidentiality of the following:
+(a) the identity of any human source and any information from which the identity of a human source could be inferred; and
+(b) information and other evidence provided in respect of the application if, in the judge's opinion, its disclosure would be injurious to national security or endanger the safety of any person.
+Confidentiality on appeal
+(11) In the case of an appeal, subsection (10) applies, with any necessary modifications, to the court to which the appeal is taken.
+Sources humaines
+18.
+1 (1) Le présent article vise à préserver l'anonymat des sources humaines afin de protéger leur vie et leur sécurité et d'encourager les personnes physiques à fournir des informations au Service.
+Interdiction de communication
+(2) Sous réserve des paragraphes (3) et (8), dans une instance devant un tribunal, un organisme ou une personne qui ont le pouvoir de contraindre à la production d'informations, nul ne peut communiquer l'identité d'une source humaine ou toute information qui permettrait de découvrir cette identité
+Exception - consentement
+(3) L'identité d'une source humaine ou une information qui permettrait de découvrir cette identité peut être communiquée dans une instance visée au paragraphe (2) si la source humaine et le directeur y consentent.
+Demande-à-un-juge
+(4) La partie à une instance visée au paragraphe (2),
+l'amicus curiae
+nommé dans cette instance ou l'avocat spécial nommé sous le régime de la Loi sur l'immigration et la protection des réfugiés peut demander à un juge de déclarer, par ordonnance, si une telle déclaration est pertinente dans l'instance:
+a) qu'une personne physique n'est pas une source humaine ou qu'une information ne permettrait pas de découvrir l'identité d'une source humaine;
+b) dans le cas où l'instance est une poursuite pour infraction, que la communication de l'identité d'une source humaine ou d'une information qui permettrait de découvrir cette identité est essentielle pour établir l'innocence de l'accusé et que cette communication peut être faite dans la poursuite.
+Contenu et signification de la demande
+(5) La demande et l'affidavit du demandeur portant sur les faits sur lesquels il fonde celle-ci sont déposés au greffe de la Cour fédérale. Sans délai après le dépôt, le demandeur signifie copie de la demande et de l'affidavit au procureur général du Canada
+Procureur général du Canada
+(6) Le procureur général du Canada est réputé être partie à la demande dès que celle-ci lui est signifiée.
+Audition
+(7) La demande est entendue à huis clos et en l'absence du demandeur et de son avocat, sauf si le juge en ordonne autrement.
+Ordonnance de communication pour établir l'innocence
+(8) Si le juge accueille la demande présentée au titre de l'alinéa (4)b), il peut ordonner la communication qu'il estime indiquée sous réserve des conditions qu'il précise.
+Prise d'effet de l'ordonnanc
+e
+(9) Si la demande présentée au titre du paragraphe (4) est accueillie, l'ordonnance prend effet après l'expiration du délai prévu pour en appeler ou, en cas d'appel, après sa confirmation et l'épuisement des recours en appel.
+Confidentialité
+(10) Il incombe au juge de garantir la confidentialité:
+a) d'une part, de l'identité de toute source humaine ainsi que de toute information qui permettrait de découvrir cette identité;
+b) d'autre part, des informations et autres éléments de preuve qui lui sont fournis dans le cadre de la demande et dont la communication porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d'autrui.
+Confidentialité en appel
+(11) En cas d'appel, le paragraphe (10) s'applique, avec les adaptations nécessaires, aux tribunaux d'appel.
+[45]
+"Human source" is defined in s 2 of the
+CSIS Act
+as follows:
+"Human source" means an individual who, after having received a promise of confidentiality, has provided, provides or is likely to provide information to the Service;
+« source humaine » Personne physique qui a reçu une promesse d'anonymat et qui, par la suite, a fourni, fournit ou pourrait vraisemblablement fournir des informations au Service.
+IV.
+THE ISSUES TO BE DETERMINED
+[46]
+The issues to be determined are as follows:
+1) Does subsection 18 (1) of the
+CSIS Act
+prohibit the disclosure of CSIS employees' identities under s 38 of the
+CEA
+.
+2) Does the statutory human source privilege established through the enactment of section 18.1 of the
+CSIS Act
+apply to the information at issue in these proceedings?
+V.
+DISCUSSION
+A.
+Interpretation and application of section 18 (1)
+[47]
+The parties are generally in agreement on this issue. The Attorney General acknowledges that subsection 18 (1) does not bind the Court so as to preclude the disclosure of the names of Service employees under s 38 should the Court find that it is necessary to do so in the public interest. Subsection 18 (1) applies only to CSIS employees or others involved "in the administration or enforcement" of the
+CSIS Act
+, not to the Courts or other sources of official disclosure acting under other lawful authority such as s 38.
+[48]
+The parties differ over what weight, if any, the enactment of subsection 18 (1) should be given under the <FRAGMENT_SUPPRESSED> test. The Attorney General asks the Court to recognize that subsection 18 (1) is a strong expression of Parliament's intent to protect the names of CSIS employees, and that this should weigh heavily in the Court's analysis at the balancing stage of the <FRAGMENT_SUPPRESSED> test. The respondents contend that it is incorrect to assert that disclosure of the identities of
+all
+CSIS employees would be potentially injurious.
+[49]
+The application of the previous version of section 18 to the public identification of a CSIS employee was raised in
+Jaballah (Re)
+, 2009 FC 279. In that matter, the Ministers of Citizenship and Immigration and Public Safety and Emergency Preparedness requested that a Service witness be permitted to testify in public identified only by their first name for "operational security reasons". At the outset of her public reasons, Justice Eleanor Dawson noted that this would be an exception to the open court principle, referring to
+ <FRAGMENT_SUPPRESSED> .
+[50]
+Counsel for Mr. Jaballah objected on the ground that the witness should be identified by their full name and position unless there was a compelling reason to deprive the public of this knowledge. The Ministers based their request that the identity of the service witness not be disclosed in public upon subsection 18 (1) of the
+CSIS Act
+and paragraph 83 (1) (d) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27. However, they did not make detailed submissions with respect to subsection 18 (1) of the
+CSIS Act
+and, therefore, Justice Dawson did not comment extensively on its application in her public reasons. I have had the benefit of reading her closed reasons for decision.
+[51]
+In that case, the most significant concern about protecting the identity of the witness stemmed from the fact that their identity had previously been disclosed to Mr. Jaballah. As Justice Dawson noted at paragraph 21 of her public reasons, "[o]ne cannot protect information as being confidential if the information has lost the necessary quality of confidentiality." Having heard evidence
+in camera
+, however, Justice Dawson was satisfied that Mr. Jaballah was unable to identify the officer other than by their first name and that their full name was not otherwise public. As such, the officer's identity retained the necessary quality of confidentiality such that it was appropriate to protect it.
+[52]
+As a matter of general principle, Justice Dawson was satisfied that Canada's national security does require that CSIS officers who engage, or will engage, in operational activities not be hindered or prevented from continuing such activities, or be put at risk, by the disclosure of their identities in court proceedings.
+[53]
+At this time I do not need to determine the likelihood of any injury that may result from the release of CSIS employee identities or whether the public interest in disclosure of that information outweighs the public interest in non-disclosure. I have heard evidence and submissions on these questions and, as noted above, the determination of whether injury will result and the balancing of the competing public interests will be made in my overall review of the disputed information.
+[54]
+The scope of the offence in subsection 18 (1), as it read prior to the enactment of Bill C-44 and as it reads now in the amended
+Act
+, is limited by the exception set out in subsection 18 (2) and the disclosures authorized under section 19. Accordingly, information relating to CSIS employees engaged in covert activities may be disclosed for the purposes of the performance of duties and functions under any other act of Parliament or as required by any other law. This includes disclosure mandated by a designated judge of this Court who is discharging his or her duties under s 38 of the
+CEA.
+This is consistent with the statement by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  FCA 2011
+, above, at para 28, that section 18 as it read prior to the recent amendments did not limit the application of any other Act of Parliament.
+[55]
+On this understanding of the law, this Court will consider the application of the <FRAGMENT_SUPPRESSED> principles to any redacted information that may include the names of CSIS employees or any other information from which their identities may be inferred. In considering whether injury would result to a protected national interest, the Court will carefully consider the Attorney General's submissions about the risks of harm to the Service's operational effectiveness and to the individuals concerned and their families. These will also be factors to consider when determining whether the public interest in disclosure of the information outweighs that in its non-disclosure.
+B.
+Interpretation and application of section 18.1
+[56]
+Before discussing the submissions of the parties, it may be helpful to begin with some fundamental principles of statutory interpretation, specifically two common law principles governing the temporal application of legislation.
+[57]
+First, as Professor Ruth Sullivan explains in
+Statutory Interpretation
+, 2nd ed (Toronto: Irwin Law, 2007), at p. 248, it is strongly presumed that the legislature does not intend its laws to apply either retroactively or retrospectively. This rule is "rooted in common-law values, primarily rule of law, fairness, and the protection of private property": Sullivan, at p. 254. Despite their importance, these presumptions may be rebutted by express statutory language or by necessary implication: Sullivan, at p. 260.
+[58]
+The distinction between retrospective and retroactive application can be difficult to ascertain.  <FRAGMENT_SUPPRESSED> Justice Michel Shore explained:
+While legislation of retroactive application operates to "change the past legal effect of a
+past
+situation" and legislation of retrospective application operates to "change the
+future
+legal effect of a
+past
+situation", legislation of immediate application operates to "change the
+future
+legal effect of an
+on-going
+situation" [emphasis added] (Professor Ruth Sullivan,
+Sullivan on the Construction of Statutes
+, 5th ed (Markham: LexisNexis, 2008) at 669).
+[59]
+Second, it is well established at common law that if a legislative provision is purely procedural it is presumed to have immediate effect, including with respect to ongoing litigation. The Supreme Court of Canada was clear on this point in
+Application under s. 83.28 of the Criminal Code (Re)
+, 2004 SCC 42 [
+Application Under s. 83.28
+]:
+62 At common law, procedural legislation presumptively applies immediately and generally to both pending and future acts. As  <FRAGMENT_SUPPRESSED> 
+, discusses at p. 582, the presumption of immediate application has been characterized in a number of ways: that there is no vested right in procedure; that the effect of a procedural change is deemed beneficial for all; that procedural provisions are an exception to the presumption against retrospectivity; and that procedural provisions are ordinarily intended to have immediate effect. The rule has long been formulated in the following terms:
+. . . where the enactment deals with procedure only, unless the contrary is expressed, the enactment applies to all actions, whether commenced before or after the passing of the Act.
+(
+ <FRAGMENT_SUPPRESSED> , at p. 235.
+[60]
+Rules of evidence are typically classified as procedural. However, in the same case, the Supreme Court of Canada noted that there are exceptions to this rule:
+57 Driedger and Sullivan generally describe procedural law as "law that governs the methods by which facts are proven and legal consequences are established in any type of proceedings":  <FRAGMENT_SUPPRESSED> , at p. 583. Within this rubric, rules of evidence are usually considered to be procedural, and thus to presumptively apply immediately to pending actions upon coming into force:
+ <FRAGMENT_SUPPRESSED> . Examples of such rules include solicitor-client privilege and legal presumptions arising out of particular facts.
+[61]
+Thus, if a rule of evidence is not purely procedural but also affects substantive or vested rights it is presumed to apply prospectively- that is, only in cases commenced after the law is engaged. The Supreme Court of Canada clarified this point again in
+R v Dineley
+, 2012 SCC 58 [
+Dineley
+]:
+[10] There are a number of rules of interpretation that can be helpful in identifying the situations to which new legislation applies. Because of the need for certainty as to the legal consequences that attach to past facts and conduct, courts have long recognized that the cases in which legislation has retrospective effect must be exceptional. More specifically, where legislative provisions affect either vested or substantive rights, retrospectivity has been found to be undesirable. New legislation that affects substantive rights will be presumed to have only prospective effect unless it is possible to discern a clear legislative intent that it is to apply retrospectively (
+ <FRAGMENT_SUPPRESSED>  (CanLII), [2004] 2 S.C.R. 248, at para. 57;
+ <FRAGMENT_SUPPRESSED> , at pp. 331-32). However, new procedural legislation designed to govern only the manner in which rights are asserted or enforced does not affect the substance of those rights. Such legislation is presumed to apply immediately to both pending and future cases (
+Application under s. 83.28 of the Criminal Code (Re)
+, at paras. 57 and 62; <FRAGMENT_SUPPRESSED> , at p. 331).
+[11] Not all provisions dealing with procedure will have retrospective effect. Procedural provisions may, in their application, affect substantive rights. If they do, they are not purely procedural and do not apply immediately (P.-A. Côté, in collaboration with S. Beaulac and M. Devinat,
+The Interpretation of Legislation in Canada
+(4th ed. 2011), at p. 191).
+Thus, the key task in determining the temporal application of the Amendments at issue in the instant case lies not in labelling the provisions "procedural" or "substantive", but in discerning whether they affect substantive rights
+[My emphasis].
+[62]
+These principles of interpretation will yield when there is clear statutory language to the contrary. In this instance, given the absence of any statutory language signaling Parliament's intent, the question before me is whether section 18.1 affects substantive rights.
+(1) Is the application of section 18.1 in these proceedings retrospective?
+[63]
+If section 18.1 applies in these proceedings it will oust the jurisdiction of this court to adjudicate the disclosure of information which may identify a human source under s 38 of the
+CEA
+. If it does not apply, the Court's jurisdiction remains undisturbed. As previously noted, the legislation itself is silent as to its temporal application. While all parties agree that section 18.1 should not apply retroactively or retrospectively, they differ as to whether its application in these proceedings would be prospective.
+[64]
+The Attorney General asserts that as of April 23, 2015, section 18.1 applies to all proceedings regardless of when they began, so long as there was no disclosure of human source information prior to that date. They highlight that section 18.1 (2) refers only to a precise event of disclosure within a proceeding before a court, person or body with jurisdiction to compel the production of information; not a proceeding writ large. Therefore, the fact that a s 38 review was already underway when Bill C-44 came into force is irrelevant so long as disclosure had not yet occurred. Without any instance of previous disclosure in DES-1-11, it cannot be said that the Attorney General is seeking to apply section 18.1 to a past event. Its application in this proceeding would be prospective.
+[65]
+To support this argument, the applicant relies on section 10 of the
+Interpretation Act,
+R.S.C. 1985, c. I-21:
+The law shall be considered as always speaking, and where a matter or thing is expressed in the present tense, it shall be applied to the circumstances as they arise, so that effect may be given to the enactment according to its true spirit, intent and meaning.
+[66]
+The Attorney General notes that section 18.1 is written in the present tense. Accordingly, the provision ought to be applied to circumstances as they arise; the "circumstances" being a specific instance of disclosure.
+[67]
+The respondents insist that this argument begs the question. The circumstances to which section 18.1 applies is not disclosure, but rather the creation of a privilege that arises when a person is promised confidentiality and information is transferred from that person to CSIS as required by the definition of "human source" in s 2 of the
+Act
+. Consequently, precluding the disclosure of pre-existing human source information in these proceedings would be retroactive, or at the very least, retrospective. What the Attorney General seeks is to confer a new legal status on past events. For this reason, the respondents assert that section 18.1 must only apply to human sources who were or will be given the promise of confidentiality in exchange for information after Bill C-44 came into effect.
+[68]
+The Attorney General argues that this proposition is "completely unworkable" because such an interpretation would require a detailed analysis of every relationship before the provision's application could be ascertained. While some amount of review would certainly be necessary, I fail to see why this would be such a difficult undertaking given the Attorney General's assertion that section 18.1 only arises in the context of litigation. The Service keeps very detailed records of their relationships with human sources and the history of each developed source would be well documented. The Court has had some experience with cases in which the Service has relied on information obtained from human sources and has seen such records. In each case there would be a finite number of human sources, and the inquiry would be limited to determining when the relationship was established and when the source was promised confidentiality.
+[69]
+The Attorney General also suggests that applying section 18.1 only to those who were promised confidentiality after the provision came into force could not have been Parliament's intent as it would render the legislation "utterly ineffective". Again, this argument is overstated and unpersuasive. The Attorney General has failed to demonstrate that the legislation could not function effectively on a going forward basis. There is nothing in the excerpts from the Parliamentary record included in the Attorney General's submissions that suggests that Parliament considered the application of the provision to matters that were still underway before the Courts as the legislation was being considered.
+[70]
+If, as the Attorney General suggests and appears likely, the legislation was intended by Parliament as a response to the decision of the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , the intent was to create a class privilege which the courts, including the Supreme Court of Canada, had declared did not exist at common law. The legislation could have clearly stated, as has been done in other instances, that it was meant to be applied to proceedings that arose before it was enacted and continued thereafter. For any fresh proceedings, section 18.1 would be effective at protecting the confidentiality of those engaged as human sources after April 23, 2015.
+[71]
+In proceedings that arose before the legislation was enacted, pre-existing human sources would continue to be protected as necessary by the
+CEA
+s 38 regime. The Attorney General has pointed to no example where the identity of a human source, or information from which the identity of a human source could be inferred, has been disclosed in a proceeding under s 38. In the present matter, the Attorney General may lead evidence and present argument that non-disclosure is necessary to protect the life and security of human sources, or to encourage them to provide information to the Service, under the injury and balancing branches of the <FRAGMENT_SUPPRESSED> test.
+[72]
+In the particular context of this case, the relationships with human sources which may be at issue would have been developed by the Service at least thirteen or fourteen years earlier than the date of enactment of the legislation. In some instances they may go back decades. The underlying actions against the government were initiated more than ten years ago and have been actively pursued over the course of the past five years. In my view, applying section 18.1 to information that was obtained by the Service many years earlier to prevent its disclosure post-enactment is to give the legislation retrospective effect. Having arrived at that conclusion, the question to be resolved is whether the legislation affects substantive or vested rights.
+(2) Does section 18.1 affect substantive rights?
+[73]
+I would note at the outset of this discussion that, as presently defined in the legislation following the enactment of Bill C-44, there is no limitation on the scope of the term "human source" other than that those persons described as such have received a promise of confidentiality and have or will provide information to the Service. There is no statutory recognition in the definition of a distinction between sources who may have received such a promise at the discretion of a CSIS officer, and sources that require protection because of genuine risks to their safety. Nor does the amended
+Act
+take into account, as experience has demonstrated in other cases, that sources may be motivated to assist the Service for a variety of reasons some of which may undermine their credibility despite the efforts of the Service to corroborate or otherwise verify the information. See for example,
+Re Almrei
+2009 FC 1263 at para 436-437.
+[74]
+Under the scheme envisaged by the amendments, the Court would have no role in determining whether protection was necessary in any specific case. The Court is also prohibited from examining the circumstances under which the promise of confidentiality was made or the source's reasons for providing information that may, in the light of other facts, be proven to be false. Those questions would be entirely left to CSIS to determine without any oversight by the Court. A broad class privilege such as that enacted does not allow for the weighing of competing public and private interests in assessing the information.
+[75]
+As the majority  <FRAGMENT_SUPPRESSED>  SCC
+noted, at para 85, while "the police have an incentive not to promise confidentiality except where truly necessary because doing so can make it harder to use an informer as a witness" there is no similar constraint on CSIS. It is concerned primarily with obtaining security intelligence and can extend promises of confidentiality to anyone under any circumstances to achieve that purpose and without regard to whether the information will be admissible in court.
+[76]
+Prior to the recent amendments, the Court would have exercised great care before it authorized the disclosure of source information. As I stated in
+Almrei,
+at para 160:
+The Court is sensitive to the fact that human sources are an important component of the resources available to security intelligence agencies in collecting information to protect national security.
+[77]
+And  <FRAGMENT_SUPPRESSED>  2010,
+at para 168, I noted that "the Court should be conscious of the effect that a decision to order disclosure of such information may have on the recruitment of human sources ... [CSIS's] ability to do so is a public interest of considerable importance."
+[78]
+The Court closely protects human source information when it is presented in support of applications for warrants or other proceedings such as security certificates. In most instances it has been unnecessary for the Court to know the identity of a human source or to order that information disclosed to the special advocates or
+amici curiae.
+Frequently, it proved sufficient for the Court to rely upon a synopsis of the Service's records in relation to the human sources.
+[79]
+Additionally, the Court was habitually provided with information pertaining to the source's reasons for cooperating with the Service such as loyalty to Canada or financial compensation. This, together with other evidence, helped the Court determine what weight, if any, should be given to the source information in making its overall determination on the merits of the application.
+[80]
+Should the new section 18.1 apply in the present circumstances, the Court would have no opportunity to consider whether there was an overwhelming public interest in disclosure to offset these considerations absent a determination that the individual is not, in fact, a human source. There is virtually no scope left by the legislation to make that determination or to identify the source subject to, in criminal proceedings, the innocence at stake exception set out in subsection 18.1 (4). That exception has no application in a civil matter such as the underlying actions and is, it has been suggested, constitutionally under inclusive given that it does not recognize the role that human sources play in security certificate or other administrative law applications. (See Roach, Kent,
+The Problems with the New CSIS Human Source Privilege in Bill C-44,
+2014 61 CLQ 451).
+[81]
+Turning now to the submissions, the applicant,
+amici
+and respondents agree that section 18.1 sets out a process for adjudicating claims pertaining to the disclosure of information identifying human sources, or from which their identity may be inferred, and thereby creates a new rule of evidence. Where they differ is on whether the application of the provision affects substantive rights.
+[82]
+The respondents and the
+amici
+argue that section 18.1 codifies a new class privilege which creates a substantive right for human sources. The right created is the protection of a human source's identity. This, the respondents contend, is analogous to solicitor-client privilege. In order to ensure that right is protected, the legislature included corresponding rules of evidence which prohibit the disclosure of identifying information. The rules of evidence are procedural in nature.
+[83]
+In their submissions, the parties refer to the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]. In
+Wildman,
+at p. 331-332
+,
+Justice Lamer (as he then was) differentiated between the substantive nature of solicitor-client privilege and a new rule of evidence related to the competence and compellability of spouses:
+Some rules of evidence must nevertheless be excluded for they are not merely procedural, they create rights and not merely expectations and, as such, are not only adjectival but of a substantive nature. Such has been found to be the case for rules or laws creating presumptions arising out of certain facts. (See, for example, as regards the presumption of advancement in questions of ownership of property as between husband and wife,
+ <FRAGMENT_SUPPRESSED> .) P. Roubier, in
+Le droit transitoire
+, 2nd ed., Paris, Dalloz et Sirey, 1960, at p. 237, rationalizes their exclusion because, says he, [TRANSLATION] "As these rules are independent of the existence of an issue, they are not affected by the fact that there is litigation in progress". Such is also the case of the lawyer-client privilege resulting from a person's right to the confidentiality of his lawyer, irrespective of whether there is litigation, (see
+ <FRAGMENT_SUPPRESSED> ) ...But such is not the case as regards a spouse's incompetence to testify.
+Spouses do not have a substantive right to the confidentiality as to what either was seen doing by the other or to the confidentiality of what was to the other communicated by either.
+The incompetence and uncompellability of s. 4 of the
+Canada Evidence Act, supra,
+is not the result of a substantive right to confidentiality and is merely procedural.
+[84]
+The respondents and
+amici
+contend that like solicitor-client privilege, the right to confidentiality conferred by section 18.1 is substantive. This, they argue, is because the right stems from a person's status as a source which is attained as soon as certain events occur. Further still, both the right and status exist irrespective of whether there is litigation. Therefore, they submit, what is created by section 18.1 is not merely a new rule of evidence, but rather a class privilege.
+[85]
+The respondents also rely on the Supreme Court of Canada's ruling  <FRAGMENT_SUPPRESSED>  SCC,
+which arguably regarded the introduction of a class privilege as not merely a substantive change, but one that is so fundamental that it is generally beyond the law-making authority of the courts:
+[87] Nor, in my view, should this Court create a new privilege for CSIS human sources. This Court has stated that "[t]he law recognizes very few 'class privileges'" and that "[i]t is likely that in future such 'class' privileges will be created, if at all, only by legislative action":
+ <FRAGMENT_SUPPRESSED> , at para. 42. The wisdom of this applies to the proposal that privilege be extended to CSIS human sources:
+ <FRAGMENT_SUPPRESSED> , at paras. 29-30, per Létourneau J.A. If Parliament deems it desirable that CSIS human sources' identities and related information be privileged, whether to facilitate coordination between police forces and CSIS or to encourage sources to come forward to CSIS (see reasons of Abella and Cromwell JJ.), it can enact the appropriate protections.
+[86]
+The Attorney General submits that the analogy between solicitor-client privilege and the privilege accorded to human sources is flawed. They argue instead, that similar to the facts in <FRAGMENT_SUPPRESSED> , the rule created by section 18.1 is purely procedural. Not only does the privilege created by section18.1 arise solely in the context of a legal proceeding, rules governing privilege are rules of evidence, which are generally considered procedural. Litigants do not have a vested right in procedure or in the manner or mode of proof, and rules of procedure and rules of evidence can be changed and will be applied in ongoing proceedings:
+ <FRAGMENT_SUPPRESSED>  rev'd 2013 ONCA 89, at para 91.
+[87]
+In support of this argument the applicant refers to the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED> 
+.
+In that case, a new provision of the
+Combines Investigation Act
+that had changed the admissibility and effect of documentary evidence was found to be purely procedural. The court held:
+[w]hile s. 41 makes a revolutionary change in the law of evidence, it creates no offence, it takes away no defence, it does not render criminal any course of conduct which was not already so declared before its enactment, it does not alter the character or legal effect of any transaction already entered into; it deals with a matter of evidence only and, in my opinion, the learned trial judge was right in holding that it applied to the trial of the charge before him.
+[88]
+This reasoning was cited by the Supreme Court of Canada in
+Dineley,
+above, at para 66
+,
+when concluding that "[p]rovisions which make evidence admissible that was previously inadmissible or change the conditions under which evidence may be admitted are procedural."
+[89]
+A second argument advanced by the respondents and the
+amici
+is that section 18.1 has substantive effects because the privilege it creates directly impacts the scope of permissible disclosure. Under the s 38 regime there is a right to disclosure of information pertaining to human sources where the public interest in that disclosure outweighs the public interest in non-disclosure. This test is a rigorous one, but the test for disclosure under section 18.1 is even more stringent. Information which could have been disclosed under the <FRAGMENT_SUPPRESSED> test may be barred from disclosure under section 18.1. The effect of its application, argue the respondents, is therefore substantive and not merely procedural, once again invoking the presumption against retroactivity and retrospectivity.
+[90]
+The
+amici
+also refer to the Ontario Court of Appeal's decision in
+R v Bengy,
+2015 ONCA 397, at paras 45-50 [
+Bengy
+]. In that decision it was found that amendments to the
+Criminal Code,
+R.S.C. 1985, c.C-46, through the
+Citizen's Arrest and Self-defence Act
+S.C. 2012, c. 9, were substantive and not merely procedural. The Court held that the amendments altered the legal test for self-defence by changing the nature of what was relevant to the defence. Thus, the changes impacted the content and existence of the defence, not merely the manner in which it was presented. This, the Court noted, was "an indication that substantive rights are affected":
+Bengy
+, above, at para 45. The
+amici
+contend that section 18.1 similarly alters the legal test for disclosure of human source identifying information. The new test does not simply affect the procedure by which disclosure is achieved; it directly impacts the content and scope of the disclosure.
+[91]
+Finally, the respondents argue that if section 18.1 is applied in this specific case it would interfere with the vindication of their
+Charter
+rights. Relying on the Supreme Court of Canada's decision in
+Dineley
+, above, at para 21, they assert that where a provision affects constitutional rights it is necessarily substantive in effect:
+However, the conclusion that the infringement is justified in the context of the new legislation does not alter the fact that constitutional rights are affected. This is a further indication that the new legislation affects substantive rights, since constitutional rights are necessarily substantive. When constitutional rights are affected, the general rule against the retrospective application of legislation should apply.
+[92]
+The respondents have brought the underlying civil actions, they assert, as an attempt to vindicate their constitutional rights which they allege were violated by the Attorney General and his agents. Without expressing a view on the merits of those allegations, this Court may reasonably infer that the application of section 18.1 in these proceedings could have an adverse effect on the respondents' ability to establish those claims in the Superior Court.
+[93]
+Having considered these arguments, I am satisfied that the new legislation establishes a class privilege and that this privilege creates substantive rights for human sources and could have a substantive effect on the scope of permissible disclosure in these proceedings. Should it have such an effect, I am satisfied that it would limit the ability of the respondents to prove their claims against the defendant and their ability to establish that their constitutional rights were infringed. I conclude that section 18.1 should not be applied to the information at issue in these proceedings and that the information should continue to be subject to the <FRAGMENT_SUPPRESSED> test for disclosure.
+(3) Do the respondents have a vested right to the disclosure of human source identifying information, subject to s 38?
+[94]
+Although I have found that section 18.1 affects substantive rights and should, therefore, not apply to the disputed information in these proceedings, I think it appropriate to address the parties' alternative submissions. The respondents argue that they have a vested right to the disclosure of human source information, subject to s 38. Conversely, the Attorney General asserts that there is no right to the continuation of a statutory regime, and as such, nothing bars the immediate application of section 18.1 in these proceedings.
+[95]
+I will once again begin with the principles of statutory interpretation. As noted above, when a rule of evidence impinges on either substantive or vested rights it is presumed not to have immediate effect unless Parliament has clearly expressed its intent to the contrary:
+Application Under s. 83.28
+, above, at para 57. Similarly, the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , at p. 282 [
+Gustavson Drilling
+], noted:
+The rule is that a statute should not be given a construction that would impair existing rights as regards person or property unless the language in which it is couched requires such a construction:
+ <FRAGMENT_SUPPRESSED>  unless the intention of the legislature is clear applies whether the legislation is retrospective or prospective in operation.
+A prospective enactment may be bad if it affects vested rights and does not do so in unambiguous terms. This presumption, however, only applies where the legislation, is in some way ambiguous and reasonably susceptible of two constructions [My emphasis].
+[96]
+The principle underlying this rule was expounded by Justice Duff, in
+ <FRAGMENT_SUPPRESSED> , at p. 417:
+the rule that statutory enactments generally are to be regarded as intended only to regulate the future conduct of persons is, as Parke said in
+ <FRAGMENT_SUPPRESSED>  only be widely inconvenient but a flagrant violation of natural justice to deprive people of rights acquired by transactions perfectly valid and regular according to the law of the time.
+[97]
+The test to determine when a right has vested was outlined by Justice Bastarache in
+ <FRAGMENT_SUPPRESSED> citing the work of transitional law scholar Pierre-André Côté:
+Côté maintains that an individual must meet two criteria to have a vested right: (1) the individual's legal (juridical) situation must be tangible and concrete rather than general and abstract; and (2) this legal situation must have been sufficiently constituted at the time of the new statute's commencement [...].
+[98]
+Finding that a right has vested does not end the inquiry. Professor Sullivan tells us that the weight of the presumption must also be assessed. This requires the court to consider how "arbitrary or unfair it would be to apply the new legislation to the facts in question and whether these unwarranted consequences are necessary or warranted by the goals to be achieved":
+Sullivan on the Construction of Statutes,
+6th Ed (Markham: LexisNexis, 2014) at p. 826.
+[99]
+The respondents and the
+amici
+argue that the right to disclosure under s 38 has vested in this case. The respondents have moved well past the mere possibility of availing themselves of a particular legal right. To the contrary, the s 38 process was engaged and was actively being pursued for five years prior to the enactment of Bill C-44. Furthermore, the respondents assert that there has already been a binding and final determination in this case regarding the right to the disclosure of human source information.
+[100]
+As discussed above, in DES-1-10, the Attorney General claimed that the common law informer privilege extended to CSIS sources thereby preventing the disclosure of identifying information. I found that such an absolute privilege did not exist in the context of intelligence sources, and that the disclosure of source identities would be decided in accordance with the <FRAGMENT_SUPPRESSED> test. I also acknowledged that while human source information was not a significant issue in those proceedings, it was necessary to address the matter "given the likelihood of future proceedings involving other documents that may be produced on discovery to the respondents":
+Almalki 2010
+, above, at para 163. The Court of Appeal affirmed my decision, finding no error in the conclusion that the informer privilege rule did not extend to CSIS human sources: <FRAGMENT_SUPPRESSED> FCA 2011
+, above, at para 34. The Attorney General did not appeal that determination further.
+[101]
+The collection of documents before me in DES-1-10 was specifically requested by the respondents as a subset of full production in order to allow the parties to begin mediation. It was anticipated that further documents would be subject to a s 38 review should the civil claims proceed to trial. For this reason, it has been recognized in DES-1-11 that, despite the fact that a new application was commenced, there is in substance just one s 38 review process over which the legal determinations made in DES-1-10 have binding effect.
+[102]
+The respondents contend that the judgement of the Federal Court of Appeal in DES-1-10, released June 13, 2011, settled the law on the protection afforded CSIS sources in this case. They further submit that the determination of the Courts in DES-1-10 applies in these proceedings not only as a matter of
+stare decisis
+, but as a matter of
+res judicata.
+In
+Régie des rentes du  <FRAGMENT_SUPPRESSED>  Justice Wagner writing for the majority of the Supreme Court of Canada explained how
+res judicata
+applies to judgments:
+[30] Before going further in my analysis, I must highlight a distinction between two concepts that are central to the resolution of this appeal: that of a "final judgment" and that of a "final judgment that ultimately determines the rights and obligations of the parties". A judgment need not dispose of the litigation in its entirety to be final. If it disposes of any substantive interlocutory
+issue
+,
+res judicata
+will apply. On the other hand,
+res judicata
+will also apply to a final judgment that ultimately determines the rights and obligations of the parties, but it then disposes of the
+case
+in its entirety and makes any further proceedings unnecessary.
+[103]
+The respondents also highlight the Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], which made it clear that
+res judicata
+not only applies to claims that were raised in a prior proceeding, but to issues that could have been raised:
+[26] Issue estoppel applies to preclude relitigation of an issue which has been conclusively and finally decided in previous litigation between the same parties or their privies (
+Angle and Doering, supra
+). It applies not only to issues decided finally and conclusively, but also to arguments that could have been raised by a party in exercise of reasonable diligence (
+ <FRAGMENT_SUPPRESSED>  an issue has been decided in one action between the parties, and renders that decision conclusive in a later action between the same parties, notwithstanding that the cause of action may be different (
+ <FRAGMENT_SUPPRESSED>  (C.A.)). The second cause of action, however, must involve issues of fact or law which were decided as a fundamental step in the logic of the prior decision. Issue estoppel does not arise if the question arose collaterally or incidentally in the earlier proceedings. The test for such an inquiry is whether the determination on which it is sought to found the estoppel is so fundamental to the substantive decision that the latter cannot stand without the former (
+Angle
+, supra;
+ <FRAGMENT_SUPPRESSED> ).
+[104]
+The respondents assert that the judgement of the Court of Appeal in DES-1-10 meets the criteria set out  <FRAGMENT_SUPPRESSED> .
+They describe Justice Létourneau's findings as squarely and conclusively granting the respondents a vested right to the disclosure of human source information, subject only to the determination of relevance, injury and balancing of interests under s 38. They also contend that such a finding was a necessary step towards the conclusion of the proceeding.
+[105]
+As the Attorney General submits, in order for
+res judicata
+to apply, three elements must be established: (1) the same question has been decided; (2) the judicial decision which is said to create the estoppel was final; and (3) the parties to the judicial decision were the same as the parties to the proceeding in which the estoppel is raised:
+ <FRAGMENT_SUPPRESSED> .
+[106]
+The question at issue in DES-1-10 and  <FRAGMENT_SUPPRESSED>  SCC
+, was whether the common law informer privilege extended to CSIS human sources. This is a different question than the one before me now. At that time the class privilege created by section 18.1 did not exist. Thus, the previous judgments could not have decided the issue of whether the privilege created by section 18.1 applies within a s 38 review.
+[107]
+The Attorney General maintains that the respondents do not have a vested right to have human source claims determined under s 38. Again, the applicant relies upon an understanding of disclosure as a precise event within a proceeding, and argues that because disclosure has not yet taken place the respondents have no vested rights to human source information. To find in favour of this argument I would have to accept that in a s 38 review the right to information is not vested until the very moment it is disclosed. I have difficulty with that proposition because the right to discovery is part of the trial process from the outset. The question to be determined in a s 38 review is whether information in the discovery production can be protected from disclosure on public interest grounds.
+[108]
+The Attorney General rightly contends that there is no vested right in the continuation of a statutory regime. To support this proposition, the applicant relies on Justice Dickson's majority decision  <FRAGMENT_SUPPRESSED>  Drilling
+, above, at p. 283, which holds "[t]he mere right existing in the members of a community or any class of them at the date of the repeal of a statute to take advantage of the repealed statute is not a right accrued". But in this context we are not dealing with the repeal of an existing statute or even of an existing common law privilege.
+Harkat SCC
+established definitively that the privilege did not exist at common law.
+[109] <FRAGMENT_SUPPRESSED> dealt with tax legislation and the Court was clear: "[t]he only rights which a taxpayer in any taxation year can be said to enjoy with respect to claim for exceptions are those which the Income Tax Act of that year give him":
+Gustavson Drilling
+, above, at p. 282. The analogy to this case is weak. The Supreme Court found that there was nothing ambiguous about the procedural nature of taxing statutes. It is a overreaching in my view to compare the right to disclosure in an ongoing proceeding with the right to a specific tax exemption where annual changes ought to be anticipated by tax payers, if not expected.
+[110]
+I am satisfied that at the time s 18.1 was brought into force the respondents had a vested right to the established disclosure regime for the duration of these s 38 proceedings. Under that regime, human source identifying information is subject to a determination of the public interest privilege claims asserted by the Attorney General. The balancing of the competing public interests of full disclosure and national security can be achieved in this proceeding through the <FRAGMENT_SUPPRESSED> test without ousting the vested rights of the respondents.
+VI.
+CONCLUSION
+[111]
+The Court has determined that application of section 18.1 in these proceedings would be retrospective, and creates a new privilege that affects the substantive rights of the respondents. The Court has also determined that, subject to the weighing of the competing public and private interests under s 38, the respondents have a vested right to disclosure of human source identifying information in order to support their claims in the Ontario Superior Court. Thus, the retrospective application of s 18.1 is held to be invalid. The Court will proceed to consider whether release of the information would cause injury to one of the protected national interests and, if so, whether the risk of that harm outweighs the public interest in disclosure.
+[End of document]

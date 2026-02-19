@@ -1,0 +1,217 @@
+[1]
+Dubé, J.
+: The plaintiff in this patent infringement case ("Computalog") is an Alberta Corporation with head office at Calgary. The patent in issue (No. 1,224,937) was awarded to Ramesh Sah on August 4, 1987, in respect of an invention entitled "Well Plug Quality Testing". The defendant ("Comtech") is a British Columbia Corporation with head office at Fort St. John, B.C. Both parties are involved in the business of placing cement plugs in the boreholes of abandoned oil or gas wells in order to isolate geological strata and zones within the ground.
+[2]
+Computalog claims that Comtech has, at least since August 1988, without the consent of Computalog, used for its own benefit the method protected by the patent to determine the density, quality, existence of contamination and position of cement plugs in boreholes in Western Canada. Computalog alleges that Comtech has therefore infringed claims 1 and 2 (the two claims of the patent) and should therefore be enjoined from doing so and be held liable for damages. By agreement, if liability is established, the damages will be assessed by way of a reference.
+[3]
+At the outset, I should note that Comtech, while admitting the existence of the patent issued to Ramesh Sah, challenged the plaintiff's title to the patent. The proper documents of assignment having been filed at the hearing, I find that Computalog is the rightful owner of the patent in suit and is therefore entitled to protection under the Patent Act [see footnote 1]. I should also point out that in its counterclaim the defendant alleged that the plaintiff uttered false statements which tended to discredit the defendant's business contrary to s. 7(a) of the Trade Marks Act [see footnote 2]. That allegation was dropped at the hearing.
+[4]
+In its pleadings Comtech has advanced all the traditional defences usually put forward in patent infringement cases. However, at the hearing Comtech has limited itself to denying the infringement and attacking the validity of the patent on the grounds of ambiguity and obviousness.
+1. The Construction Of The Patent
+[5]
+It is trite law that the first duty of the court, as a question of law, is to construe the claims of the patent alleged to be infringed. I must thereafter decide as a question of fact, by comparing the alleged infringing method with the words of the claims, whether the defendant's method falls within the scope of the claims. If it does, there is infringement [see footnote 3]. It is also well-established that the claims, as well as the disclosure, are directed to the skilled workman and must be construed by a mind willing to understand, not one desirous of misunderstanding. In other words, the specification ought to be given a purposive rather than a purely literal construction.
+[6]
+As mentioned earlier, the front page title of the patent is "Well Plug Quality Testing". The first page title is somewhat more descriptive: "Method for testing the quality of cement plugs in wells". The first paragraph under the title reads as follows:
+"This invention relates to a method of testing the quality or purity of a cement mixture or slurry placed in the borehole of a well while it is still fluid and prior to its becoming set. More particularly, this invention relates to testing for the contamination of cement plugs being placed within the borehole of an abandoned well to isolate geological strata and zones within the ground."
+[7]
+As background to invention, it is outlined in the patent that the regulatory authorities require that a number of cement plugs, in the form of cement slurry, be placed at different depths in abandoned boreholes drilled for the exploration of oil and gas. The purpose of those plugs is to prevent the fluids in the deeper horizons from contaminating the watertable. The patent notes that procedures for inserting such plugs may be found in a list of previously published patents, including four American and two Canadian patents.
+[8]
+A typical procedure is to position a cement plug, generally 10 to 50 meters in length, between zones requiring isolation. A measured quantity of cement slurry is pumped down from the surface to the desired depth of the borehole utilizing the rig's tubular string. Once the slurry has displaced the drilling mud at the desired level, the drill string is withdrawn while the cement hardens.
+[9]
+The patent goes on to explain that there are two techniques which are currently used for that purpose. One technique is to use the rig's tubular string and to "feel" for the plug by the procedure known as "tagging", once the cement of the plug has hardened. The other method involves utilizing a radioactive material mixed in the cement at the surface. Once the slurry has hardened below, a measuring device, usually a scintillation gamma ray detector, is lowered to the top of the plug. An increase in the reading of the gamma ray indicates the plug's position: "Both techniques only measure the 'position' of the plug". The patent then describes the essence of the invention, as follows:
+"While previous efforts have been focused on techniques for locating the position of the cement plug being installed in a borehole, or testing the quality of the cement bond between pipe casings and adjacent formations, this invention relates to the testing of the quality, purity or degree of contamination of the cement forming the plug itself."
+[10]
+Under the heading "Objects of the Invention", the patent further describes the purpose of the invention as follows:
+"It is an object of this invention to provide a method by which the presence of contaminating materials in a cement slurry deposited in a borehole to serve as a plug may be detected.
+"It is a further object of this invention to provide a method by which the quality of material in a cement plug deposited in a borehole after being exposed to potentially contaminating materials may be measured."
+[11]
+The embodiments of the invention in which an exclusive property or privilege is claimed are defined in the two claims:
+"1. A method of determining the presence of a contaminant in a fluid cement slurry located at a predetermined position within a borehole, wherein said slurry when pure has a specific density and which slurry has been exposed, before being placed in position is said borehole, to a potential contaminating substance having a density that differs from the density of the cement slurry to a measurable degree and which will, when mixed with the cement slurry produce a mixture having a composite density that differs from that of a pure cement slurry by a measurable degree, comprising:
+(1) measuring, when said slurry is in a relatively pure, uncontaminated condition, the density of the fluid cement;
+(2) measuring the density of said slurry after it has been inserted down a borehole to a predetermined position, and after said slurry may have been exposed to a potentially contaminating substance, by progressively lowering a measuring device down a borehole into and through a portion of the zone of the cement slurry when in situ; and
+(3) comparing the density of the cement slurry as measured when in situ within the borehole, and the relative values of the measured density as said measuring device passes into and through various stages of said zone portion, with the density of said slurry when said slurry is in a relatively pure, uncontaminated condition, and thereby determining the presence of a contaminating substance within the slurry.
+"2. A method as in claim 1 wherein the density of the cement slurry when pure is measured on the surface before said slurry is inserted down the borehole."
+[12]
+For additional clarity, the two figures in the patent are reproduced as follows. Figure 1 is described as a schematic cross-section of a borehole which is filled with drilling mud and a cement slurry placed therein at a predetermined in depth to eventually harden and form a plug.
+[Diagram omitted. See printed version.]
+[13]
+Figure 2 is a schematic illustration of the data that may be recorded on surface by a recording system connected to a transducer lowered down the borehole through drilling mud and cement slurry.
+[Diagram omitted. See printed version.]
+2. The Alleged Infringement
+[14]
+The plaintiff claims that the defendant is infringing the patent in that Comtech is using Computalog's method so as to determine the location of a plug in a borehole. On the other hand, Comtech argues that the essence of the plaintiff's patent is to determine the purity of the cement plug and not to detect its location in the borehole.
+[15]
+The expert witness for the plaintiff was A. Frank Bosworth, a professional engineer with vast experience in the exploration and production of oil and gas. In his affidavit he states that the patent in issue "relates to a method of testing the quality or purity of a cement mixture or slurry placed in the borehole of a well while it is still fluid and prior to it becoming set". In his view, the patent "teaches that by knowing the quality of the cement, one can determine the location of the top of the cement plug". He says that the patent "teaches a method of not only measuring the position of the plug but also evaluating its integrity as opposed to the tagging method". The expert asserts that claim 1 of the patent has six elements in the preamble and three elements in the body of the claim. They are:
+"(A) A method of determining the presence of a contaminant in a fluid cement slurry
+"(B) The slurry is located at a predetermined position within a borehole
+"(C) The slurry when pure has a specific density
+"(D) The slurry has been exposed, before being placed in position in the borehole, to a potential contaminating substance
+"(E) The potential contaminating substance has a density that differs from the density of the cement slurry to a measurable degree
+"(F) The potential contaminating substance will, when mixed with the cement slurry produce a mixture having a composite density that differs from that of a pure cement slurry by a measurable degree,
+"I - measuring, when the slurry is in a relatively pure, uncontaminated condition, the density of the fluid cement
+"II - measuring the density of the slurry after it has been inserted down a borehole to a predetermined position and after the slurry may have been exposed to a potentially contaminating substance by progressively lowering a measuring device down a borehole into and through a portion of the zone of the cement slurry when in situ
+"III - and comparing the density of the cement slurry as measured when in situ within the borehole and the relative values of the measured density as the measuring device passes into and through various stages of the zone portion
+"with
+"the density of the slurry when the slurry is in a relatively pure, uncontaminated condition
+"and thereby determining the presence of a contaminating substance within the slurry."
+[16]
+The expert then reviews the Comtech system. According to him, "Comtech measures the density of the fluid materials in the borehole using its tool, a modified gravel pack tool". The density is inversely related to the count rate: the greater the counts per second, the lesser the density. The tool is lowered through the material above the cement slurry, into and part way or all the way through the cement slurry. The counts per second are recorded as a function of depth. When the Comtech tool enters a transition region between drilling mud and sufficiently pure cement, that transition region is indicated on the log: "at a reading higher than 194 counts per second, the cement slurry is considered by Comtech and the government authorities to be too contaminated with mud and/or water to form a viable plug".
+[17]
+In the expert's opinion, Comtech's method "locates the top of a cement plug which is to be formed from cement slurry having a density of at least 1600 kg/m
+3
+. Comtech locates the top by comparing the measured density of the material in the borehole with a reference reading for its density tool (194 counts per second) which corresponds to a density of 1600 kg/m
+3
+. The reference reading of 1600 kg/m
+3
+is a density where the cement slurry is sufficiently pure that it will harden or cure to a cement having sufficient strength to act as a viable plug and satisfy the appropriate government authority. He concludes as follows at paragraph 47 of his affidavit:
+"47. Thus Comtech locates the top of a viable plug by comparing the density reading of the material in the borehole with a reading of 194 counts per second, which corresponds to sufficiently pure cement. Comtech notes where the cement slurry in the borehole changes from having a density less than 1600 kg/m
+3
+to having a density equal to or greater than 1600 kg/m
+3
+and calls this point the 'cement top'."
+[18]
+He further concludes at paragraph 70:
+"70. In my opinion, the Comtech method utilizes the key lesson taught by the Sah patent to determine where the mud is located, where the region of mixed mud and cement slurry is located, where the 'top' of the cement plug is located and to determine the integrity of the uppermost length of the plug (the latter of which is required by the respective provincial regulatory authority)."
+[19]
+Mr. Bosworth also states that the elements of claim 2 in the patent are found in the method used by the defendant in that the density of the cement slurry when pure is measured on the surface before it is inserted down the borehole: the evidence is to the effect that Comtech visually inspects the cement at the surface by dipping a styrofoam cup into the mixing tub and pulling out a sample of the cement and letting it harden. The time it takes to set and whether it hardened are noted. The density or specific gravity of the cement used is then recorded by Comtech.
+[20]
+On the other hand, the defendant's basic argument is that the plaintiff's patent relates to a method of testing
+the quality
+of the cement in a cement plug, whereas the defendant's method is for determining
+the position
+of the cement plug: therefore the defendant has not infringed the patent.
+[21]
+The expert called by the defendant, Rory Henderson, filed an affidavit attacking the validity of the plaintiff's patent. Mr. Henderson is a petroleum engineer and the manager of Windward Resources Ltd., an oilfield supervision consulting firm. In his affidavit, he describes the three methods which were most commonly used in Canada prior to January 1985, "the probable date of the invention", to locate cement plugs in abandoned open holes. They are as follows:
+"(1) Waiting on the cement slurry until the cement had set and had developed sufficient compressive strength to 'feel' the plug with the drill string. This entailed 'waiting on cement', usually for eight hours, lowering drill pipe into the well until a reduction in weight was noted on the drilling rig's weight indicator, and measuring the length of drill pipe required to accomplish this. The top of the cement plug was assumed to be at the point where the reduction in weight was noted. This method is probably the most reliable, but also usually the most expensive due to time required to 'wait on cement' for each plug run.
+"(2) Adding a small amount of radioactive material, or 'R.A. marker' to the first cement slurry of acceptable density pumped down the drill pipe. When the plug was in place the slurry containing the R.A. marker would ideally be situated at the top of the cement plug. The drill pipe would then be drawn out of the plug until it's bottom was well above the calculated cement top. A gamma ray detector would be lowered on electric wireline and the depth at which a marked increase in gamma radiation occurred noted. This was assumed to be the top of the abandonment plug.
+"(3) I have reviewed the application of Shorty's Oilfield Services to the Energy Resources Conservation Board of Alberta and based on that information I conclude that Shorty's Oilfield Services offered another method from the summer of 1984 on. The cement slurry was pumped through the drill pipe and positioned, and the drill pipe raised above the plug as in the two methods described above. A commercially available mechanical pressure recorder was lowered into the wellbore. Hydrostatic pressure was recorded every 5-10 metres, generally from 30 metres above to 30 metres below the volumetrically calculated plug top. The average fluid density between each two points of measurement was determined as follows:
+Density
+1-2
+= (P
+2
+- P
+1
+)
+(0.00981 X (D
+2
+- D
+1
+)
+Where: Density
+1-2
+is the average fluid density between Depth 1 (D
+1
+) and Depth 2 (D
+2
+) in kilograms/cubic meter.
+D
+1
+is the first depth in metres.
+D
+2
+is the next incremental depth in metres.
+P
+1
+is the pressure recorded at Depth 1 in kilopascals.
+P
+2
+is the pressure recorded at Depth 2 in kilopascals.
+0.00981 is a constant related to the force of gravity.
+"A graph or 'log' of fluid density versus depth is prepared and the cement top is assumed to occur at the depth which the fluid density in the wellbore is 200 kg/m
+3
+lower than the average density of the cement plug."
+[22]
+He concludes therefrom that the third method, the one employed by Shorty's Oilfield Services, does not differ fundamentally from that described in the patent in suit. He describes the essence of the plaintiff's patent in these words:
+"I conclude that Canadian Patent 1224937 attempts to protect a method of determining contaminants in a cement abandonment plug while the cement is still in a 'slurry' state, using commercially available tools and equipment."
+[23]
+In his oral examination and cross-examination he testified that from time to time he employs either the plaintiff or the defendant to place cement plugs in abandoned wells. In his opinion, the purpose of the patent in suit is to determine the purity of the cement slurry and not the location of the plug. He admits that either the plaintiff's or the defendant's method may be employed to locate the plug. He is adamant that what the patent in suit teaches is the purity of the cement slurry. The purity or integrity of the cement slurry may be related to a function of density, and thus the location of the plug, provided the contaminants involved have lesser density than the cement. That may not always be the case. In other words, one must assume that the cement has greater density than the contaminants, otherwise the plaintiff's method would not work for the purpose of locating the plug. But, in general it does work out.
+[24]
+A review of my earlier construction of the patent does indeed show, from the two titles, all the way through the background, the objects, the summary of the invention, and the two claims, that the essence of the patent is a method for testing the quality of the cement of the plugs in boreholes. Of course, the method may be used, and is being used, to locate the plug but that is not what the patent teaches. Furthermore, it is not the pith and substance of the patent. On cross-examination, Mr. Bosworth, the plaintiff's expert, was hard put to locate any reference in the patent which would indicate that its purpose is to determine the location of the plug. He did attempt to show that the six elements in the preamble and the three elements in the body of the claim were present in the method followed by Comtech, but he did not, in my view, establish that Comtech was guilty of literal infringement or that it had stolen the pith and substance of Computalog's patent.
+[25]
+In short, the plaintiff finds itself on the well-known horns of a patent dilemma. If it postulates a broad construction of the claims of its patent so as to catch the defendant's operations, it risks invalidation on the grounds of prior art or obviousness. If it favours a narrower interpretation, then the plaintiff may find that the defendant's operations are outside the net.
+[26]
+After all, one must bear in mind that infringement must be against the patent itself and not against the method followed by the patentee to achieve an objective not contemplated by the patent.
+[27]
+The inventor, Ramesh C. Sah, wrote to his patent agent on November 22, 1982, asking him to make arrangements to process his application for a "Plug Quality and Locator Log". The first two paragraphs of the application read as follows:
+"The Plug Quality Log is designed to measure and analyze the chemical and physical properties of borehole fluids, thus measuring the quality and strength of a cement plug placed in a well bore drilled for oil and gas.
+"The Plug Locator Log: A reflector plug is pumped in the borehole along with the cement slurry. After the slurry is positioned, a high energy burst is transmitted down hole through the pipe from the surface. The reflected energy at the surface is measured and the elapsed time is recorded which gives the depth of the cement plug."
+[28]
+It appears from these two paragraphs, and from the inventor's own evidence at the trial, that there were two prongs to his original application: first, a method to test the quality of a cement plug and second to locate the plug by way of a reflector. The inventor testified that he dropped the reflector method. He also testified that his main problem was that the quality of the plug must be sufficient to prevent leakage, as he observed that from 10% to 30% of abandoned wells were still leaking. He added that the main consideration of his patent was to insure cement quality, but that the quality could determine the location of the plug through a density device.
+[29]
+The inventor also filed another document which he says he forwarded to his patent lawyer in January 1983. The title of the document is "Method and Apparatus for Cement Plug Quality Log". The following paragraph describes how the proposed invention differs from the existing techniques:
+"The invention differs from the above mentioned techniques in that it records not only the position of the plug, but it measures its' quality and hence its' ability to provide zone isolation. The quality of the plug will be determined from measuring cement parameters, namely density and/or dielectric constant. Any contamination of the plug from mud or water will vary the density from the actual cement slurry measurements made at surface. Then, a comparison of the downhole and surface slurry measurements will indicate any deterioration in plug quality."
+[30]
+It appears from the evidence that the defendant is not interested in the purity or quality of the cement slurry in the plug. Its sole objective is to follow the instructions of the Energy Resources Conservation Board of Alberta. The procedure it follows is not very complex. Comtech sends a density tool down the borehole of a well and runs a log. There is a correlation of counts on that tool to the depth. The counts can be correlated to density. The benchmark is 194 counts, set by the Board. The Board has informed the defendant that 194 counts equate 1600 kg/m
+3
+. Once that count level has been reached, the top of the plug has been located. The instructions of the Board direct the defendant to log a further 25 meters down the borehole. If the count remains at, or above 194 counts, Comtech stops and has satisfied the Board's requirements. The benchmark of 194 counts, or 1600 kg/m
+3
+, is not a description of the purity or quality of the slurry, it is solely an indication that it has reached the density required by the Board.
+[31]
+As to the proper cement mix, it is provided at the surface by a ready mix cement company which is required by the Board to provide a given density.
+[32]
+The preamble of claim 1 refers to "a method of determining the presence of a contaminant in a fluid cement slurry". Obviously, that does not include the method of the defendant which is not directed to detecting a contaminant, but merely to locating the cement plug. As to the claim in paragraph 1(1), measuring the slurry in its pure form, that is done by the ready mix cement company at ground level. Paragraph 1(2) refers to the measuring of the density at a
+predetermined
+position, whereas the defendant's method purports to locate the position of the plug in accordance with norms prescribed by the Board. Paragraph 1(3) is rather poorly drafted. If it means comparing the density of the cement slurry in situ within the borehole with the density of a pure slurry, then the following words in the centre of the paragraph are useless:
+"... and the relative values of the measured density as said measuring device passes into and through various stages of said zone portion."
+[33]
+In paragraphs 119 to 123 of his affidavit, Mr. Bosworth addresses that particular claim and states that in his opinion, "Comtech has calibrated their system to conclude that a reading of 194 counts per second corresponds to cement which is of sufficient purity to achieve a viable plug". In his view, that comparison of a reading to this standard is the same as comparing the reading to the density of pure cement slurry. However, he has left the above disputed passage unexplained. As to the defendant's expert, Mr. Henderson, he could not understand the meaning of that paragraph. So, one must look at the disclosure so as to properly understand it. Under Summary of the Invention, the second paragraph of page 5 reads as follows:
+"By a further application of the invention the measuring of the cement slurry's density when at its predetermined location is done by progressively lowering a measuring device down the borehole into and through a portion of the zone of the cement slurry when in situ and by comparing the relative values of the measured density as it passes into and through various stages of that zone portion."
+My construction of that passage of claim 1(3) is that the patent teaches a third comparison which is the measurement of cement density throughout the zone occupied by the cement slurry.
+[34]
+Again, the defendant is not interested in comparing the density of the slurry through various stages to the density of that slurry in a pure state at the surface. Comtech merely searches downwards for 194 counts, or a layer of slurry of 1600 kg/m
+3
+. The defendant does not know if that layer is contaminated and is not preoccupied with that problem. It might be a density of pure cement or a density of contaminated cement. Furthermore, the defendant does not take any reading of pure cement at the surface. The ready mix cement company does that (with the exception of the two or three samples taken at the early stages where the defendant tried to take a reading and correlate it, and could not). The ready mix cement company provides the measurements and it is recorded on the log. I therefore conclude that there is no literal (or textual) infringement of claim 1(3).
+[35]
+Claim 2 refers to the measuring of the density at the surface: the defendant is not involved in that operation.
+[36]
+As to substantial infringement, it is abundantly clear, as mentioned earlier, that the essence of the patent in issue is a method to determine the quality or purity of cement slurry in a plug, whereas the method used by the defendant is not to determine the purity of the cement slurry but to establish the location of the plug in the borehole. The two objects are not the same and the methods used to achieve them are different.
+3. The Validity Of The Patent
+[37]
+In his counterclaim the defendant seeks a declaration that claims 1 and 2 of the patent are invalid and void. As already mentioned, Comtech has advanced in its pleadings all the traditional defences available in such cases, but limited itself at the hearing to attacking the validity of the patent on the grounds of ambiguity and obviousness. Under s. 43 of the Patent Act a patent is deemed to be valid. The onus is on the party attacking the patent to prove its invalidity and the onus is not an easy one to discharge [see footnote 4].
+[38]
+Section 34(2) of the Patent Act stipulates that the patent, or more particularly the specification referred to in s. 34(1), shall end with a claim or claims "stating distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege". The applicant must define the nature of the invention and describe how it is put into operation. A failure to meet the first condition would invalidate the application for ambiguity, while a failure to meet the second invalidates it for insufficiency. However, the claim as well as the disclosure are directed to the skilled workman and must be construed by a mind willing to understand, not desirous of misunderstanding. The specifications should be given a purposive rather than a purely literal construction. Moreover, the claim should be read in light of the disclosure in order to understand the claim.
+a) The alleged ambiguity
+[39]
+With these well-known principles now in place, I will examine the allegation of ambiguity advanced by the defendant. It specifically attacks paragraph 1(3) of the first claim, discussed earlier. As mentioned, I agree with the defendant that the paragraph does not show good draftsmanship, but I cannot find that it is ambiguous to the point of voiding the claim.
+[40]
+Where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court as a rule will endeavour to give effect to that construction. Paragraph 1(3) can be understood by reference to the specification in the patent.
+b) The alleged obviousness
+[41]
+A more serious issue raised by the defendant is that of obviousness. It is trite law that invention is an essential attribute of patent ability and that a determination of invalidity on the ground that the invention lacks inventiveness or ingenuity is one of fact [see footnote 5]. The test of obviousness was stated by Hugessen, J.A., of the Federal Court of Appeal in  <FRAGMENT_SUPPRESSED>  technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[42]
+The learned judge also added that excessive reliance on expert testimony in the area of obviousness ought to be avoided. He said at page 295 C.P.R.:
+"While the evidence of experts is, in my view, properly admissible even on an 'ultimate issue' question such as obviousness, it seems to me that it must be treated with extreme care.
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"
+[43]
+The knowledge of the notional skilled technician with the characteristics noted above is to be assessed as of the date of the invention. The first step therefore is to determine the date of the invention.
+[44]
+The defendant claims that the date of the invention has to be the date of the application for the patent, or January 16,
+1985
+. It should be recalled however that on November 22, 1982, the inventor sent an application for a two-fold invention titled "Plug Quality and Locator Log". He later dropped the plug locator process and sometime in January
+1983
+(before he took his winter holidays) sent to his patent lawyer, a more refined document titled "Method and Apparatus for Cement Plug Quality Log". In my view, that second document sufficiently describes the essence of the patent in suit to establish January 1983 as the date of the invention.
+[45]
+The expert called by the defendant, Mr. Rory Henderson, described the state of the art as at January 1,
+1985
+. He said that, at the time, many wireline logging companies used density tools of a type similar to that referred to in the patent in suit and that those tools were used to determine fluid density in productive wellbores. He added that both mechanical and electronic pressure recorders were also in common use. After describing the three methods referred to earlier in these reasons, Mr. Henderson concluded that the method employed by Shorty's Oilfield Services does not differ fundamentally from that in the patent, other than the manner in which the fluid density is determined.
+[46]
+Clark Molsberry, the inventor of Shorty's method, first applied to the Energy Resources Conservation Board for a formal testing of his method on March 6, 1984. Prior to that date, the only prior art for which evidence was adduced in court are the patents referred to in the patent in suit, specifically the American Armentrout patent and the Canadian Campbell patent. Both patents teach a method of locating a cement slurry in a well. The Armentrout patent does that by measuring electrical resistivity, inductance or dielectric capacitance. The Campbell patent locates the slurry by measuring radioactive emissions.
+[47]
+However, no evidence was submitted to show how a skilled workman would have used those two patents to solve the problems that existed at the time. Obviously, those two patents, along with the other four, were brought to the attention of the patent office as they were placed in the body of the patent by the inventor's patent agent. Neither the patent agent nor the patent office considered the patent in suit to have been obvious to the notional skilled workman. Mr. Sah, the inventor himself, testified that those patents taught him nothing and that is the only evidence presented on this issue.
+[48]
+Another factor that may be considered under the heading of obviousness is the commercial success, or lack thereof, of the invention [see footnote 7]. Commercial success by itself is not sufficient to establish the existence of an invention but it can be strong evidence leading to that conclusion [see footnote 8]. The plaintiff company is clearly enjoying substantial commercial success. It presently employs five hundred persons and the dollar value of logging services from its inception in 1986 to the end of July 1990 was of $4,500,000.00.
+4. The Disposition Of The Action
+[49]
+My conclusion, therefore, is that the patent in suit is valid. It is valid as a method to define the purity of cement slurry in a plug situated in a borehole. It does not, however, extend a monopoly to the plaintiff on all methods to locate a plug in a borehole. The defendant did not infringe the plaintiff's patent.
+[50]
+Consequently, the action is dismissed with costs.
+Action dismissed.
+Editor: Elizabeth M.A. Turgeon/nmg
+Footnotes
+1. R.S.C. 1985, c. P-4.
+2. R.S.C. 1985, c. T-13.
+3. Fox, Canadian Patent Law (4th), pp. 353-354.
+4. See DeFrees and  <FRAGMENT_SUPPRESSED> . Hugues and Woodley on Patents (at p. 345).
+6. (1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.).
+7.  <FRAGMENT_SUPPRESSED> , at 248.
+[End of document]

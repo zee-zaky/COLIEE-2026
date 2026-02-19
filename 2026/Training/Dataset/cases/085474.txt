@@ -1,0 +1,340 @@
+[1]
+Wetston, J.
+: This action involves Canadian Letters Patent No. 980,688 ("the patent"). The patent relates to the formulation of a tablet containing the active medicinal ingredients of a 2,4-diaminopyrimidine with a sulphonamide, the best known of which are sulphamethoxazole ("SMX") and trimethoprim ("TMP"), such formulations being suitable for oral administration and used for the treatment of microbic infections. The plaintiffs allege that the defendant infringed certain claims of the patent. The defendant challenges the validity of the patent on the ground of obviousness, having abandoned all other grounds concerning validity before the hearing of this matter.
+[2]
+The plaintiff Wellcome Foundation Ltd. ( <FRAGMENT_SUPPRESSED> ) is a corporation duly incorporated under the laws of the United Kingdom, and carries on, by itself and through its subsidiaries and affiliates, the business of developing, manufacturing, and distributing pharmaceutical products in the United Kingdom and throughout the world.
+[3]
+The plaintiff Glaxo Wellcome Inc. ( <FRAGMENT_SUPPRESSED> ) is a company incorporated pursuant to the laws of Canada. Glaxo carries on business in Canada as a manufacturer and distributor of pharmaceutical products in dosage form.
+[4]
+Glaxo was formed through the amalgamation of Burroughs Wellcome Inc. ("BW") and Glaxo Canada Inc. on July 1, 1995.
+[5]
+BW was a company incorporated pursuant to the laws of Canada and carried on business in Canada as a manufacturer and distributor of pharmaceutical products in dosage form.
+[6]
+The defendant Novopharm Limited ("Novopharm") is a company incorporated pursuant to the laws of Canada, and carries on business in Canada and elsewhere as a manufacturer and distributor of, inter alia, pharmaceutical products in dosage form.
+Tablet Formulation
+[7]
+Tablets are, in general, a compressed mixture of active ingredient(s) and various non-medicinal excipient. Generally, the purpose of the tablet is to act as a container for a predetermined amount of active ingredient, and to deliver that active ingredient to the patient in such a manner that therapeutically acceptable concentration time profiles of the drug in the patient's bloodstream are obtained.
+[8]
+The selection of a particular method of making a tablet depends on several factors including the solubility and concentration of the active ingredient, and its other physical properties. Tablets are usually formulated using various excipient such as fillers, binding agents, granulating agents, lubricants and disintegrating agents. Fillers provide for a convenient tablet size and often act as a carrier for small amounts of active ingredients. Binding agents bring about a cohesive bond between the particles. Granulating agents, used in tablets prepared by granulation techniques, form small granules of active material and excipient which may then be compressed into a tablet. Lubricants reduce friction in the manufacturing process, permitting the free flow of active and excipient through the machinery and assisting in the ready ejection of the tablets from the die. Disintegrating agents cause the compressed tablet to break apart, or disintegrate, when the tablet is exposed to fluids in the gastro-intestinal tract releasing the active ingredients contained in the tablets so that it is readily available for entry into the patient's bloodstream.
+[9]
+Tablets are normally made by direct compression, or by a granulation process. In direct compression, the drug and the excipient are dry mixed and compressed in a tablet press. This process can be used when the properties of the drug and the excipient permit the formulation of a stable tablet, i.e., if the active and excipient are sufficiently cohesive and flowable that they can be directly compressed into tablets.
+[10]
+The principal method of granulation is wet granulation. In this process, granules are formed by bringing the component powders together in the presence of a fluid such as water or organic solvents such as alcohol. An adhesive binder, or granulating agent is usually incorporated, either in solution or suspension in the granulating fluid, or added dry to the other components before wet massing. The purpose of the binder is to add strength and improved physical properties to the granule as the fluid is removed or drying. The characteristic features of wet granulation are the mixing of powders followed by wet massing, wet screening or milling the granules to size, and finally drying. Additional excipients such as disintegrants and lubricants are then normally added to the resulting granules prior to the tablet compaction stage.
+[11]
+In general, high dosage tablets, which often contain more than about 35% active ingredient, are most commonly manufactured using a wet granulation technique.
+[12]
+The ideal tablet size is difficult to determine. A tablet must be large enough that it can be easily seen and handled, but in general should not be over 400mg to 500mg in size, over which limit the tablet may become difficult to swallow.
+[13]
+Tablets containing a combination of the active ingredients of SMX and TMP were introduced by Hoffman LaRoche in 1968 under the brand name BACTRIM. In the same year, Wellcome introduced tablets with the active ingredients SMX and TMP under the brand name SEPTRIN. The background of the arrangements between Hoffman-LaRoche and Wellcome in relation to marketing tablets containing the SMX/TMP combination is set out by Madame Justice Reed in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 217 (T.D.).
+[14]
+The administration of the SEPTRIN tablets frequently met with difficulties owing to their necessarily large size. They were alleged to be difficult to swallow, and thus raised concerns of acceptability by patients.
+[15]
+On February 13, 1975, Wellcome filed Canadian Patent Application No. 219,982, claiming priority from British Patent Application No.: 6758/74 filed February 14, 1974, which ultimately issued as Canadian Patent No. 988,688, the patent at issue in this action. The Canadian patent was issued to Wellcome on December 30, 1975. Wellcome was the registered owner of the patent until it expired on December 30, 1992. BW was a licensee under the patent from December 30, 1975 until December 30, 1992.
+Agreed Facts
+[16]
+To set out the background of the dispute between the parties in this case, I refer to facts upon which the parties have agreed, in their Agreed Statement of Facts, as follows:
+a. Wellcome's Septrin Tablets
+[17]
+In about 1968, Wellcome began to sell a pharmaceutical preparation containing SMX and TMP, under the name SEPTRIN.
+[18]
+The specifications and components of Wellcome's SEPTRIN and SEPTRIN DS Mark I (large) and Mark II (small) tablets as sold were as set out in the following Master Formulae as from the respective dates set out therein:
+(a) SEPTRIN Mark I (single strength) Confidential Document, IA, 15;
+(b) SEPTRIN Mark II (single strength) Confidential Document 1A, 19 and
+(c) SEPTRIN Mark II (double strength) Confidential Document, 1A, 22.
+[19]
+The same formulations applied to the tablets sold in Canada by BW under the names SEPTRA and SEPTRA DS. In the SEPTRA tablets sold from 1968, the specified maximum particle size for each of the SMX and the TMP was 90 µm each. This was not public knowledge. In the SEPTRA tablets, as marketed from 1968 onward, the particle size of the combination of SMX and TMP, measured as a weight median diameter (WMD), and determined in the manner set out in the Particle Size Report of Susan Ann Taylor, Pharmaceutical Scientist, dated September 13, 1995, was less than 40 µm. This was not public knowledge.
+[20]
+By at least 1968, a product called Primojel had become commercially available for use as a disintegrating agent for use in the manufacture of tablets in Europe. In 1970, after registration by the FDA of a Drug Master File under number 1635 for Primojel, the product was also available for use by the American pharmaceutical industry.
+[21]
+Primojel was then and continued to be a product manufactured by persons other than Wellcome and was commercially available for use by tablet manufacturers.
+[22]
+In about November 1973, Wellcome devised the test set out in the '688 Patent to measure the swelling capacity of various disintegrants, including Primojel. The swelling capacity, as determined in the manner set out in the Swelling Capacity Report of Susan Ann Taylor, Pharmaceutical Scientist, dated September 13, 1995, of Primojel was, in 1973 and at all material times since 1973, greater than five ml/g.
+[23]
+Wellcome continued to sell its original formulation of SEPTRIN tablets until at least 1978, and from 1975 to 1978 was selling two formulations of their SEPTRIN tablets, one with about 70 percent active material and one (using Primojel) with about 95 percent active material.
+[24]
+Throughout the period from 1968 to 1992, the maximum particle sizes of each of the SMX and TMP used by Wellcome was 90 µm, and the particle size of the combination of SMX and TMP, measured as a WMD, as determined in the manner set out in the Particle Size Report of Susan Ann Taylor, Pharmaceutical Scientist, dated September 13, 1995, was less than 40 µm, but these points were not public knowledge.
+b. Novopharm's Novo-Trimel Tablet
+[25]
+Since as early as June 1980, Novopharm manufactured and sold in Canada tablets containing trimethoprim (TMP) and sulphamethoxazole (SMX) under the names Novo-Trimox and Novo-Trimox DS, and subsequently Novo-Trimel and Novo-Trimel DS.
+[26]
+Novo-Trimel tablets contained 400 mg of sulphamethoxazole and 80 mg of trimethoprim.
+[27]
+Novo-Trimel DS tablets contained 800 mg of sulphamethoxazole and 160 mg of trimethoprim.
+[28]
+The double strength tablets had a total weight of 1400 mg, corresponding to about 68 percent active ingredient, and the single strength tablets had a weight of 700 mg, corresponding to about 68 percent active ingredient.
+[29]
+Each of the tablets contained, in addition, a disintegrating agent, including ones sold under the trade names Primojel, and Explotab.
+[30]
+Such tablets also contained lactose, gelatin, stearic acid, glycerin, sodium starch glycolate, magnesium stearate and talc.
+[31]
+Between June 1980 and April 1981, Novopharm made Novo-Trimel tablets containing less than 80% of the combination of TMP and SMX.
+[32]
+The disintegrating agent in such tablets was Explotab, and the granulating agent was purified water, gelatin, and glycerin.
+[33]
+In or about 1981, Novopharm changed to a smaller tablet. The reason for this change was an impression of patient acceptance.
+[34]
+Since that time, the combination of sulphamethoxazole and trimethoprim in Novopharm's Novo-Trimel and Novo-Trimel DS tablets has constituted not less than 89% by weight of those tablets. The combination of the disintegrating agent and the granulating agent has constituted not more than 11% by weight.
+[35]
+All Novo-Trimel tablets sold by Novopharm during the period of alleged infringement complied with the specifications set out in the Master Formulae provided by Novopharm, and in particular, the following documents, viz: Sidney Smith Discovery, Exhibit 8, Tabs 1 to 18, more particularly, documents referred to in Sidney Smith's Further Affidavit of Documents, dated May 20, 1994.
+[36]
+The particle size of the combination of SMX and TMP, prior to its incorporation into the said tablets, measured as a weight median diameter (WMD) of that combination, determined in the manner set out in the Particle Size Determination Report of Susan Ann Taylor, Pharmaceutical Scientist, dated September 13, 1995, was less than 40 µm and greater than 1 µm.
+[37]
+The swelling capacity of the disintegrating agent in the said tablets, as determined in the manner set out in the Swelling Capacity Report of Susan Ann Taylor, Pharmaceutical Scientist, dated September 13, 1995, was greater than five ml/g.
+[38]
+Wellcome knew that since about 1980, Novopharm was selling tablets containing a TMP/SMX combination in Canada, and obtained samples of those tablets for testing as early as January 1984.
+[39]
+Wellcome regularly monitored the marketplace in Canada.
+d. Testing Of Novo-Trimel Tablets By Wellcome
+[40]
+Novopharm's tablets were listed in the Compendium of Pharmaceuticals and Specialties as early as 1981, under the trade names Novo-Trimox and Novo-Trimox DS and from 1982 onwards under the trade names Novo-Trimel and Novo-Trimel DS.
+[41]
+Wellcome, by itself or through BW, acquired samples of Novo-Trimel tablets from time to time during a period from at least as early as January 1984 to December 1992.
+[42]
+Included in those samples acquired by Wellcome were samples of Novo-Trimel tablets acquired by Mr. Keene of BW and sent to Wellcome for testing in January 1984, July 1985, September 1987, and January 1988.
+[43]
+The samples sent to Wellcome by Mr. Keene were tested in the laboratories of Wellcome.
+[44]
+In September 1994, samples of Novopharm's SMX and TMP identified by QC. No. 41181 and QC. No. 41252, respectively were provided by Novopharm to Wellcome,  <FRAGMENT_SUPPRESSED> 's request, and were tested by Wellcome to determine the particle size of the TMP/SMX combination in Novopharm's tablets.
+[45]
+At no time prior to the commencement of this action did Novopharm itself provide any information directly to Wellcome itself as to the actual composition of its Novo-Trimel tablets.
+e. The Allegations Of Infringement
+[46]
+In March 1988, the Directors of Wellcome authorized the sending of a warning letter to Novopharm and, if no adequate response was received, the starting of an action for patent infringement, once the confirmatory analysis of Novopharm's tablets were completed. No action was instituted against Novopharm at that time.
+[47]
+On or about May 30, 1988, Kevin Murphy, a Canadian patent agent acting for Wellcome, wrote to Mr. Leslie Dan, President of Novopharm, alleging that Novopharm was infringing the patent. This was the first allegation of infringement of the '688 Patent made by Wellcome to Novopharm.
+[48]
+An exchange of correspondence continued between Mr. Dan, Mr. Malcolm Johnston, a lawyer acting for Novopharm, and Mr. Murphy, which ended with a letter of November 15, 1988, from Mr. Murphy to Mr. Johnston. Neither Mr. Johnston nor Novopharm ever responded to Mr. Murphy's letter of November 25, 1988, to Mr. Johnston.
+[49]
+Wellcome did not contact Novopharm again until November 1991, when Mr. I. Goldsmith, Q.C., wrote to Mr. Johnston.
+f. Novopharm's Compulsory Licence
+[50]
+On May 18, 1977, Novopharm applied for a compulsory licence pursuant to the provisions of the
+Patent Act
+then in effect under Canadian Patents Nos. 689, 179; 898,814; 904,865; and 978,954, all owned by Wellcome and relating to inter alia trimethoprim, and processes for its preparation.
+[51]
+That application was approved. A Compulsory Licence No. 406 under the said patents for trimethoprim/sulphamethoxazole was granted to Novopharm on or about November 17, 1978, by the Commissioner of Patents.
+[52]
+Compulsory Licence 406 remained in force until the expiration of Patent No. 978,954, which issued on December 2, 1975, and expired on December 2, 1992.
+[53]
+Except for the second quarter of 1988 and the entire year of 1990, Novopharm paid royalties to Wellcome and submitted royalty reports to Wellcome as required by the terms of Compulsory Licence 406.
+[54]
+At no time between November 17, 1978, and December 2, 1992, did Wellcome purport to terminate Compulsory Licence 406, or give Novopharm any notice of any alleged breach of the terms of that Licence.
+[55]
+Novopharm could have applied for a compulsory licence under the patent at issue in this case, at any time up until at least October 1, 1989, but did not do so. Such an application, if filed, would probably have resulted in the grant of a compulsory licence under the patent.
+[56]
+Any such compulsory licence granted to Novopharm would have remained in full force and effect (in the absence of any breach by Novopharm of the terms of that licence) until at least December 2, 1992.
+[57]
+The statement of claim in this action was filed on December 2, 1991.
+Construction Of The Patent
+[58]
+Before considering the issues of infringement and validity, the patent must be examined to arrive at the appropriate construction and scope of the claims:
+Unilever plc v. Procter & Gamble Inc.
+(1995), 184 N.R. 378; 61 C.P.R.(3d) 499, at p. 506  <FRAGMENT_SUPPRESSED>  (F.C.A.). The task of construing the patent must be done separately, without regard to whether the claims are valid or infringed.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1, at p. 12  <FRAGMENT_SUPPRESSED>  (T.D.), affd. (1992), 150 N.R. 207; 45 C.P.R.(3d) 449 (F.C.A.). It is an error to introduce matters of validity or infringement into claim construction:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 129, at p. 143  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[59]
+Although the construction of a patent is a matter for the court, the court must construe the claims as they would be understood by a person skilled in the art. This skilled understanding is revealed through evidence given by experts which is accepted at trial:
+Unilever plc v. Procter & Gamble Inc.
+, supra. The interpretation of the patent must be purposive, not purely literal or technical:
+ <FRAGMENT_SUPPRESSED> ; affd. [1982] R.P.C. 183 (H.L.). The court must read and construe the patent with a mind willing to understand:
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), in which President Thorson considered a statement he had given in
+ <FRAGMENT_SUPPRESSED> , at p. 38 (Ex. Ct.). He states in <FRAGMENT_SUPPRESSED> at p. 129:
+"The statutory presumption is not confined to the attribute of inventiveness but extends to the other attributes that an invention must have if it is to be patentable under the
+Act
+, such as novelty and utility. The three attributes of patentability, namely, novelty, utility, and inventiveness are all presumed to be present in an invention for which a patent has been granted under the
+Act
+until the contrary is clearly shown.
+"On further consideration, I am of the opinion that this statement is not as wide as the terms of the
+Act
+warrant. It must follow from the provision of the
+Act
+that a patent granted under it 'shall thereafter be prima facie valid' and avail its grantee and his legal representatives for the term of the patent that the onus of showing that it is invalid lies on the person attacking it, no matter what the ground of attack may be, and that until it has been shown to be invalid the statutory presumption of its validity remains."
+[61]
+Glaxo asserts, on the basis of President Thorson's holding, the proposition that the court must construe the patent in such a way as to exclude any interpretation which would make the patent invalid. Since Novopharm has abandoned all grounds of challenge against validity but obviousness, Glaxo maintains that the construction of the patent under scrutiny cannot include an interpretation which would render the patent invalid on grounds of, for example, inutility or overbreadth of the claims, thus stressing that the patent must be interpreted in such a way as to be, prima facie, valid in all respects.
+[62]
+I agree that, for the purposes of construction, the court approaches the patent presuming it is valid. The defendant must adduce some evidence that the patent is invalid before any consideration of invalidity is made, though how much evidence will depend upon the circumstances:
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), at p. 359 [ <FRAGMENT_SUPPRESSED>  fully adopt Glaxo's suggestion that the statutory presumption of validity requires avoiding interpretations that render the patent invalid on grounds which have been abandoned or not pleaded. Whether the grounds of invalidity have been pleaded or not, clearly, the principles of construction forbid a reading of the patent in such a way as to defeat it. As observed above, the construction of the patent must be conducted without regard to issues of validity or infringement.
+[64]
+Both Novopharm and Glaxo argue that it is an error to resort to the disclosure of the invention or to experts if the claims can be plainly understood. Certainly, there is jurisprudence that the patentee's exclusive right must be found only in the claims:
+ <FRAGMENT_SUPPRESSED> . However, to interpret the claims, the court is entitled to look at the patent as a whole:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 146 (S.C.C.), at p. 157  <FRAGMENT_SUPPRESSED> . The court may have recourse to the remainder of the specification to assist in understanding terms used in the claims. In doing so, the court must not use the disclosure to limit the claims where no limit exists on a fair reading:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 470, at p. 475 (F.C.A.). Thus, for the purposes of construing a patent, the disclosure is of interpretive assistance to the extent such assistance is necessary.
+[65]
+Experts are also of assistance for understanding the invention and interpreting the claims, although their role is clearly different than that of the disclosure. A judge cannot be expected to construe claims as they are understood by a person versed in the art to which the patent relates when that art has not been revealed. Such arts as organic chemistry and pharmaceutics are not immediately accessible or self-apparent. The judge must be educated as to the specific concepts and terminology of the relevant art to arrive at an informed and accurate interpretation of the claims, and that is the contribution of the experts. Clearly, the experts are to play this instructive role without themselves construing the patent, which would be improper since construction is a question for the court:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 161 (S.C.C.).
+[66]
+The experts whose testimony is of relevance to the matter of construction in this case were Dr. John Rees and Dr. Christopher Rhodes. Dr. Rees testified on behalf of Glaxo. He has extensive industrial and academic experience in the field of pharmaceutics. He was a professor in the School of Pharmacy and Pharmacology at the University of Bath until November 1977 and after his retirement became a consultant in pharmaceutics and in particular matters of tablet formulation. He gave evidence in parallel litigation in England in 1992 concerning the U.K. patent which is the priority patent in the present case. There is some indication that his expertise has in the past been focussed upon the specialized area of coatings, however, Novopharm and Dr. Rhodes admit that he is qualified to give opinions in matters of tablet formulation generally.
+[67]
+Dr. Rhodes testified on behalf of Novopharm. He is a professor of Applied Pharmaceutical Sciences at the University of Rhode Island. He has been involved in the field of pharmaceutics and particularly in the development of oral dosage forms of medicines for over forty years, working with "name brand" pharmaceutical companies, excipient manufacturers and suppliers, research organizations, standard setting groups and generic manufacturers. He has acted as an expert witness in Canada, the United States, Israel and Korea.
+[68]
+Both Dr. Rees and Dr. Rhodes suggested that the patent is directed to persons skilled in the art of pharmaceutics, who are engaged in the formulation of tablets using known actives, and in particular SMX and TMP, and to those doing research into and advising on tablet formulation. I am satisfied that the art to which the patent relates is the field of pharmaceutics. I am also satisfied that the patent is addressed to the skilled worker in that art.
+[69]
+The date at which the patent is to be construed is the application date:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 238, at pp. 260-261  <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> , at p. 141 (Can. P.C.). In this case, the date of application is based on the date of application for the U.K. priority patent, February 14, 1974, which is agreed to be the date of invention. No earlier date of invention is claimed.
+[70]
+There are altogether 22 claims in the patent, all relating to formulations of a tablet containing the combination of a 2,4-diaminopyrimidine with a sulphonamide, such formulations being suitable for oral administration and used for the treatment of microbially infected animals and human beings.
+[71]
+The invention is revealed in claim 1 of the patent, which is defined as follows:
+"A tablet, which comprises from 80 to 98% (w/w) of a combination of a 2,4-diaminopyrimidine with a sulphonamide, in a ratio of said 2,4-diaminopyrimidine to said sulphonamide of from 1:20 to 20:1, a disintegrating agent and a granulating agent, the total amount of both agents not being more than 20% (w/w) of the tablet, wherein the particle size measured as a weight median diameter of the combination is less than 40 µm and the disintegrating agent has a swelling capacity, greater than five ml/g."
+[72]
+The disclosure provides several definitions of technical terms used in claim 1. The term "(w/w)" is defined as the ratio of a weight of a specified excipient or active ingredient to the total weight of the tablet. "Combination" is defined as a combination of a 2,4-diaminopyrimidine with a sulphonamide. "Particle size" of the active ingredient is defined in terms of the "weight median diameter" (W.M.D.), wherein each particle is considered as a sphere having a volume identical with the actual particle and the W.M.D. is that diameter wherein 50% by weight of the hypothetical spheres have a larger diameter than that figure and 50% (by weight) a smaller diameter than that figure.
+[73]
+The disclosure teaches that the W.M.D. may be determined using a Coulter counter in which the medicinal ingredient is introduced into an aqueous solution and passed through a tube on either side of which is immersed an electrode. Dr. Rees testified, however, that there are numerous different ways in which the particle size of a material in powder form can be measured, including wire mesh sieving. He drew attention to the word
+may
+in reference to the use of the Coulter counter.
+[74]
+Claim 1 contains only a reference to the W.M.D., i.e., that the particle size measured of the combination must be below 40 µm. I agree that how one measures the W.M.D. i.e., by what method the particle size of the actives are measured, or whether the actives are measured together or separately, is not an essential part of the invention, so long as the result when combined meets the limit of being below 40 µm.
+[75]
+Dr. Rees testified that a person versed in the art would understand claim 1, and specifically, the term "a tablet" to imply a tablet with good tablet characteristics such as an appropriate disintegration time, hardness value and friability value, which is a measure of the loss in weight suffered by a tablet exposed to abrasion or shock, as defined in the disclosure at p. 13 of the patent, followed by a test for friability on pp. 13-14. In support of this opinion he pointed to the problem the invention purports to address, which is stated in the disclosure at p. 3 of the patent in reference to tablets comprised of the combination of the medicinal ingredients of a 2,4-diaminopyrimidine with a sulphonamide, as follows:
+"At present, the administration of these tablets frequently meets with difficulties owing to their necessarily large size even when the amount of active ingredient is as low as 400mg and constitutes a proportion of the tablet as 80% (w/w). Moreover, these difficulties increase when a larger amount of active ingredient, for example greater than 600mg, is given to an adult patient in a single dose, as is often the case. Thus it is usually found that a patient is reluctant to swallow such tablets unless their size is reduced.
+"In addition, it is unfortunate that an increase in the proportion of active ingredient to above 80% (w/w), thereby reducing the overall size of the tablet, has hitherto resulted in poor tablet characteristics, such as high disintegration or dissolution time, a high friability value or a low hardness value. These characteristics obviously assume the utmost importance primarily for the reason that they may not comply with certain medical standards required by the Health Authorities in many countries. For instance, poor tablet characteristics may well result in abrasion or fragmentation of the tablets during transportation and the patient would not therefore receive the required amount of active ingredient."
+[76]
+Novopharm argues that the disintegration time, and hardness and friability values are not defined by claim 1 as Dr. Rees asserts, and that to include them in the interpretation of the claim would be reading in limits which are not claimed. While I can agree that a person versed in the art would infer from reading the problem together with claim 1 that the disintegration time and hardness and friability values were factors in rejecting the process of merely reducing the excipient, such values are not mentioned in the claim, and I am not satisfied that they constitute essential features of the invention.
+[77]
+The essential features of the invention, according to Glaxo are: (1) a high range of percentage of active ingredient 80 to 98% (w/w) of a combination of a 2,4-diaminopyrimidine with a sulphonamide, in a ratio of said 2,4-diaminopyrimidine to said sulphonamide of from 1:20 to 20:1, (2) a disintegrating agent with a swelling capacity, greater than 5 ml/g and a granulating agent, the total amount of both agents not being more than 20% (w/w) of the tablet, and (3) the particle size measured as a weight median diameter of the combination is less than 40 µm.
+[78]
+Claim 1 is therefore said to give rise to an invention that is comprised in the combination of the essential features, namely, of the high range of percentage of the active, the particle size of the SMX/TMP combination being under 40 µm, and the use of a disintegrant with a swelling capacity, greater than five ml/g, which when combined with the granulant comprises 20% (w/w) or less.
+[79]
+Dr. Rees explained that, as such, the invention was not merely in making a smaller tablet, but in making a tablet which combines and balances the three essential features of the invention such that a tablet is produced with good tablet characteristics. Glaxo also pointed out that the patent does not address dosages and that the claim is made in terms of ranges of percentages for each of the three essential elements.
+[80]
+Dr. Rhodes disagreed that a person to whom the patent is addressed would understand claim 1 to be for a combination of the essential ingredients as asserted by Dr. Rees. He defines the patent as the solution to the problem of needing to make a smaller pill from the large SEPTRIN tablets on the market, which could be difficult to swallow. He states the invention as follows: to provide a tablet having a high percentage 80-98% (w/w) of active ingredient, namely SMX and TMP, in which the particle size of the combination measured as a W.M.D. is less than 40 µm and the swelling capacity of the disintegrating agent is greater than 5.0 ml/g.
+[81]
+I agree with Dr. Rhodes that claim 1 does not claim an invention the essence of which is a combination of the essential elements. In my opinion, the person to whom the patent is addressed would not tend to surmise from reading the claim that the invention is in the combination, since formulation claims for a tablet most often would include the combination of active ingredients and excipient. I am satisfied that the problem to which the patent is addressed is to make a smaller tablet to improve market acceptability by making the pill easier to swallow, as is stated in the disclosure. Claim 1 defines the invention which is the solution, as expressed by the terms of the claim.
+[82]
+Claims 2 and 3 increase the percentage of the combination of active ingredients from 80% to 85% and 90% (w/w) respectively.
+[83]
+Claim 11 refers to a minimum particle size of one µm. However, Dr. Rees conceded that a person skilled in the art would not use such a low particle size due to problems of flowability and static electricity.
+[84]
+Claims 12 and 13 depend on claim 11 and specify particular amounts of SMX and TMP in the tablet.
+[85]
+Claims 17, 19 and 20 specify particular drugs and particular amounts in the tablet.
+[86]
+Claim 22 refers specifically to the use of the disintegrant Primojel.
+Obviousness
+[87]
+The sole challenge Novopharm raises against the validity of the patent is that the patent was obvious having regard to the common knowledge in the art at the time of the alleged invention.
+[88]
+The burden is on Novopharm to establish obviousness, which is ultimately a question of fact:
+Lovell Manufacturing Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289, at p. 294  <FRAGMENT_SUPPRESSED>  (F.C.A.). In this case, the date is agreed to be February 14, 1974, the date of the priority application.
+[89]
+The test for obviousness is found in
+ <FRAGMENT_SUPPRESSED>  having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether the mythical creature (the man in the Clapham omnibus of patent law) would, in light of the state of the art and of common general knowledge as at the claimed date of the invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[90]
+The general question to be resolved is whether or not the alleged invention required the exercise of inventive ingenuity:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 241 (F.C.A.). The court must first determine what common general knowledge should be imputed to the skilled addressee, and then, together with all relevant prior art, assess whether the inventive step in fact required inventive ingenuity:
+ <FRAGMENT_SUPPRESSED>  (C.A.), at p. 370;
+ <FRAGMENT_SUPPRESSED>  as discussed above, is a person skilled in the art of pharmaceutics. Both parties asserted, for the purposes of construction, that the patent was addressed to Dr. Rees and Dr. Rhodes. However, for the purposes of assessing obviousness, the addressee is not an expert of such high standing and ingenuity, but rather the unimaginative technician skilled in pharmaceutics. Regarding the evidence of Dr. Rees and Dr. Rhodes pertaining to obviousness, I am mindful of the caution of Mr. Justice Hugessen in
+ <FRAGMENT_SUPPRESSED>  an 'ultimate issue' question such as obviousness, it seems to me that it must be treated with extreme care.
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known to say, 'I could have done that'; before the assertion can be given any weight one must have a satisfactory answer to the question 'Why didn't you?'"
+[92]
+Novopharm raises the principle that there is no inventiveness in following an obvious and well-charted route using known techniques and processes involving known compositions unless the inventor encounters difficulties that could not have been reasonably expected by a person versed in the art or overcome by the application of ordinary skill:
+ <FRAGMENT_SUPPRESSED>  at pp. 240-244, 273-286 (C.A.). Novopharm submits that there is no inventiveness in workshop improvements:
+Leithiser and  <FRAGMENT_SUPPRESSED>  emphasizes that the invention in question is a combination. Glaxo argues that, in the case of combination patents, the combination cannot be dissected into constituent parts to examine whether the use of each part was obvious or not. They rely on the case of
+ <FRAGMENT_SUPPRESSED>  (C.A.), in which Lord Justice Greene held at p. 40:
+"The dissection of a combination into its constituent elements and the examination of each element in order to see if its use was obvious or not is, in our view, a method which ought to be applied with great caution since it tends to obscure the fact that the invention claimed is in the combination. Moreover, this method also tends to obscure the fact that the conception of a combination is what normally governs and precedes the selection of the elements of which it is composed and that the obviousness or otherwise of each act of selection must in general be examined in the light of this consideration. The real and ultimate question is: Is the combination obvious or not?"
+The holding of Greene, J.A., was cited with approval by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , at pp. 12-13.
+[94]
+I turn to the first step of the assessment, determining the general knowledge to be attributed to the notional addressee of the patent and the prior art.
+[95]
+The parties agreed, in their Agreed Statement of Facts, as to the following prior art:
+1. The patents listed below were issued on or about the dates set out below; copies of the patents were made available to the public on those dates or shortly thereafter.
+a) U.S. Patent No. 2,888,455 issued May 26, 1959.
+b) U.S. Patent No. 3,034,911, issued May 15, 1966.
+c) U.S. Patent No. 3,424,842, issued January 28, 1969.
+d) U.S. Patent No. 3,619,292, issued November 9, 1971.
+e) U.S. Patent No. 3,622,677, issued November 23, 1971.
+f) U.S. Patent No. 3,632,778, issued January 4, 1972.
+g) U.S. Patent No. 3,639,169, issued February 1, 1972.
+h) U.S. Patent No. 3,679,794, issued July 25, 1972.
+i) U.S. Patent No. 3,725,556, issued April 3, 1973.
+j) Belgian Patent No. 671,982, issued May 9, 1966.
+k) Canadian Patent No. 887,036, issued November 30, 1971.
+2. Each of the following articles are printed publications which were published or appeared in printed publications on or about the dates indicated, and in any event, before February 14, 1974.
+a) Khan and Rhodes, "Efficiency of Disintegrants in Tablet Formulations", Manufacturing chemist & Aerosol News, 1973 (September) p. 48;
+b) "Martindale - The Extra Pharmacopoeia", 1972, p. 575;
+c) Khan and Rhodes, "A Comparative Evaluation of Some Alginates as Tablet Disintegrants", Pharmaceutica ACTA Helvetiae, vol. 47, p. 41, 1972;
+d) Mendell, "Direct Compression Method of Producing Solid Dosage Forms", Manufacturing Chemist & Aerosol News, 1972 (June), p. 31;
+e) Eyles and Coleman, "Synergistic Effect of Sulfadiazine and Daraprim Against Experimental Toxoplasmosis in the Mouse", Antibiotics and Chemotherapy, vol. III, no. 5, p. 483 (May 1953);
+f) Jaminet, Delattre et al., "Influence Des Adjuvants sur la Vitesse De Solubilisation in Vitro du Phenobarbital à partir de Différentes Formules de Comprimés", Pharm. ACTA Helv. 44, 1969, p. 418;
+g) Khan and Rodes, "Effect of Disintegrant Concentration on disintegration and Compression Characteristics of Two Insoluble Direct Compression Systems", Canadian Journal of Pharmaceutical Science, vol. 8, no. 3, 1973, p. 77;
+h) Hitchings, "A Biochemical Approach to Chemotherapy", The New York Academy of Sciences, pp. 700-708.
+[96]
+The principle concern of the pharmaceutical industry until the 1960's was simply to get the right amount of medicinal ingredients into a stable tablet. This did not, however, always ensure that the right amount of the active ingredient entered the patient's bloodstream. In the early 1960's there was an increased interest in the question of bioavailability, that is, the rate at which, and the extent to which, a drug enters a patient's bloodstream.
+[97]
+Up until the 1960's, there was no immediate way of measuring the concentration of a drug in the blood system. As methods were developed, more research could be done on the factors affecting that concentration. The Health Protection Branch of Canada took a leading role in trying to define standards for bioavailability for various drugs.
+[98]
+One factor already recognized in the 1960's as important in bioavailability was the total surface area of the drug. That area is a measure of the amount of a drug that is in contact with bodily fluids. The surface area of a given amount of a medicine has an effect on the rate of absorption of the specified amount of the drug into the body. If a drug is ground into a fine powder, the effective surface area of the drug is increased and thus the rate of dissolution may be expected to increase.
+[99]
+Particle size became generally recognized as a factor in bioavailability by about 1965.
+[100]
+It was also recognized by the mid-1960's that disintegration times for a conventional uncoated compressed tablet should be no longer than 15 minutes, and preferably less than 10 minutes or even five minutes. This was recorded in the British Pharmacopeia, which also sets out the test for disintegration time. Persons practicing the art would typically, as a practical matter, aim for disintegration times substantially below 15 minutes.
+[101]
+Factors affecting the disintegration time of tablets were studied in the 1960's. These factors included the mechanical apparatus used to make tablets and the manner in which they were made, the particular formulations used and the techniques involved in the tablet formulation. In general a disintegration time of about 15 seconds to a minute is desirable, allowing the tablet to disintegrate rapidly to expose all the contents of the tablet to the stomach.
+[102]
+There was some difference of opinion between Dr. Rees and Dr. Rhodes as to whether, at the relevant time, it was known exactly how disintegrating agents worked. Dr. Rees took the position that the mechanism of action was not known, and, consequently, the parameters that one needed to consider, when choosing a disintegrant, were not known. He maintained that a disintegrant that was good in one system would not necessarily be effective or desirable in another system containing different active ingredients. He emphasized that this was particularly the case in tablets where a high percentage of active was required, as with the percentage of 2,4-diaminopyrimidines and sulphomides in the patent under scrutiny, which is over 80% of active.
+[103]
+In general, Dr. Rees portrayed the state of common knowledge concerning tablet formulation in 1974 as uncertain. In examination, he often returned to the observation that, given the complex interaction between the factors of tablet formulation, and the necessity of having to balance these factors especially in instances where a high percentage of active was required, formulation was extremely difficult, and could not be accomplished without trial and error. He maintained, for example, that with high dose drugs with properties not conducive to tableting, maximum flexibility was required with regard to the quantity and range of excipient is highly desirable. Achieving a minimum tablet size was, in his opinion, therefore usually extremely difficult.
+[104]
+Dr. Rees maintained that in 1974 it was relatively uncommon to set out specifications for the physical properties of particulate solid materials used in the manufacture of compressed tablets. He also maintained that the effect of particle size is complex, being highly dependent on factors which influence deformation behaviours, such as the chemical structure of the active and the presence of impurities, and was not, therefore, well known in 1974.
+[105]
+Dr. Rhodes portrayed much less uncertainty in the common knowledge which developed between the early 1960's and 1974. He testified that, at the beginning of the 1960's, there was work published on various disintegrants which indicated some of the limitations of some of the excipient commonly used at that time. Corn starch and other starches such as potato or rice starches were commonly used until the 1960's. However, these starches had disadvantages such as variability, low disintegration efficiency, and the potential for serious microbiological contamination.
+[106]
+He testified that, in 1962, US Patent 3,034,911 was issued for an improved ungelatinized (semi-synthetic) cold water dispersible starch. It was recognized that the new starches resulted in improved disintegrants that allowed a significant reduction in the amount of disintegrant required, to as little as 1% (w/w) of the total tablet formulation, with times for tablet disintegration under 5 minutes being obtained.
+[107]
+By the 1960's, many groups were looking at so-called "super disintegrants", including Roquette Freres and Buckeye Cellulose. One of these new super disintegrants was a sodium starch glycolate under the name brand Primojel, sold by Edward Mendell Co. Inc., a company owned by Edward Mendell. In the Agreed Statement of Facts, it is acknowledged that Primojel became commercially available in 1968.
+[108]
+Dr. Rhodes testified that, at that time, Mendell gave demonstrations of the properties of Primojel directly to pharmaceutical manufacturers. He would place tablets containing only 1-2% disintegrant in water on a petri dish mounted on an overhead projector. Representatives of the manufacturers would witness the tablet rapidly disintegrating to form fine particles. Dr. Rhodes suggests that since the effective area of the fine particles was much greater than the original tablet, it could reasonably be concluded that the dissolution of the drug, and hence probably its bioavailability, could be improved through the use of Primojel.
+[109]
+Mendell also wrote a paper, printed at the International Tableting Symposium in Basle in May, 1972, wherein he concluded that Primojel was recommended for evaluation in all formulations in which sufficiently rapid disintegration could not be obtained with starches alone.
+[110]
+In 1971, Dr. Rhodes co-authored a paper for the British Pharmaceutical Conference held in Glasgow. The paper, which is agreed to be within the prior art, was entitled "Effect of Disintegrant Concentration on Disintegration and Compression Characteristics of Two Insoluble Direct Compression Systems" wherein he evaluated the properties of five disintegrants and the effect of the concentration of the disintegrants on disintegration time, tablet density and hardness, and dissolution profiles. His results indicated that sodium starch glycolate (Primojel) gave much lower disintegration times than corn starch, at equal concentrations, and that the minimum effective concentration was less than 2.5% for the sodium starch glycolate as opposed to 15% for the corn starch.
+[111]
+The Jaminet paper mentioned in the agreed prior art concluded that most tablets containing a disintegrating agent which is well distributed throughout the tablet yielded better results both with respect to speed and extent of disintegration. He also concluded that Primojel had excellent disintegrating properties, and could be used at lesser concentrations than other disintegrants. In the opinion of Dr. Rhodes, such research was a clear communication to tablet formulators that the use of such new disintegrants permitted lower disintegrant concentrations than were required with conventional disintegrants.
+[112]
+Novopharm argues that the alleged invention was obvious since the only step Glaxo took was to substitute such super disintegrants as Primojel, which was a known, commercially available product, for its former disintegrants, and use granulants such as Povidone, also a known and commercial available product, in order to reduce the size of its tablets. The reduction in tablet size is contended to be the direct result of switching from the former excipient to such products as Primojel and Povidone. In keeping with the principles articulated in
+ <FRAGMENT_SUPPRESSED>  to be merely the result of a well charted course to solve the problem of reducing tablet size.
+[113]
+Glaxo concedes that, taken separately, the essential elements, namely the limiting of particle size, the use of super disintegrants, and name brand granulants were known. However, Glaxo argues in keeping with
+ <FRAGMENT_SUPPRESSED>  contended to be a combination providing the definition of ranges in which the essential elements could be successfully employed to make a smaller tablet with a higher active ingredient with good tablet characteristics. As such, it is contended that the patent is not obvious since such a combination was not in the common knowledge in respect to SMX and TMP, where in respect of a high, 80-90% (w/w), percentage of the active, the particle size measured as a W.M.D. of the SMX/ TMP combination is limited to under 40 µm, and the swelling capacity of the disintegrating agent is greater than 5.0 ml/g, comprising together with the granulant not more than 20% (w/w).
+[114]
+Glaxo argues primarily, on the basis of the evidence of Dr. Rees, that there is nothing in the prior art which teaches the specific balancing that must take place as between the amount of active, the particle size, and use of a disintegrant with a swelling capacity greater than 5.0 ml/g and a granulant comprising together not more than 20 (w/w). Dr. Rees expressed his opinion that there was a general lack of predictability involved in putting the essential features together, especially when dealing with high amounts of active requiring a proportional decrease in excipients, such that he would not know, from the prior art, whether such a combination would work without testing and studying the results.
+[115]
+Novopharm argues that predictability is not required to establish obviousness. Indeed, it is submitted that the question of obviousness does not focus on the invention as it is expressed in the claims, but on what as a factual matter the inventors did in arriving at the invention, and whether the alleged inventive step contained the required ingenuity or inventiveness.
+[116]
+Novopharm points out, and I agree, that there is little evidence as to what steps Glaxo took to arrive at the invention. There was a significant gap in time between the marketing of the Mark I and II SEPTRIN tablets in 1968 and the application for the priority patent in 1974. Little evidence was presented as to what activities took place, or for what duration during that time period.
+[117]
+Novopharm argues that one of the essential features of the patent is the requirement that the particle size measured as a W.M.D. of the combination of SMX/TMP must be below 40 µm. However, there is no indication that there was any change in the particle sizes of the SMX /TMP combination when the formulation was changed in 1975 under the patent. This was confirmed on the examination for discovery of Mr. Jackson who attended on behalf of Glaxo. It is therefore argued that the inventive step had nothing to do with particle size, but rather consisted in making the substitution from the old excipients to Primojel and its equivalents, and Povidone or its equivalents.
+[118]
+This argument is strengthened because it appears that an expert in the field would be reluctant to change particle size due to the risk of affecting bioavailability, which in turn would affect product acceptability in terms of international standards. Glaxo would likely be reluctant to take such a risk with a successful tablet merely to make it smaller. Indeed, Dr. Rees admitted in crossexamination that if it had turned out that the particle size had to be changed from the original formula, Glaxo would likely have to go back to the drawing board.
+[119]
+I find that the activities of Mendell in advertising the success of Primojel as a disintegrant with the capability of affording a significant reduction of excipient, along with his publications and those of Dr. Rhodes, would lead the notional skilled person, who would be concerned not to change the particle size, to use Primojel along with a name-brand granulant, especially when a high percentage of active and a lesser percentage of excipient is required. In particular, the 1974 paper of Mendell, presented in 1972, concerning the replacement of Avicel at 21.7% (w/w) with Primojel with the result of 2.5% (w/w), where the active was 86.5% (w/w) is persuasive in this respect.
+[120]
+While the notional person who would find the use of a super disintegrant such as Primojel obvious to solve the problem of reducing tablet size, it may be that such a person would not establish ranges by which to balance the complex factor of particle size with the use of a disintegrant and a granulant. Glaxo maintains that the particle size of its SMX/TMP formula was not public knowledge. However, Dr. Rhodes testified that to his knowledge all commercially available SMX and TMP was within the range of the patent, and pointed out that nowhere in the patent is there a comparison of the properties of tablets made from particles having sizes outside this range.
+[121]
+Therefore, I do not find that an inventive step lies in balancing the essential feature of particle size with the excipient to arrive at a smaller tablet with a higher proportion of active ingredients with good characteristics. On the evidence, the alleged inventive step in fact involved maintaining the particle size while using a super disintegrant to replace a less efficient disintegrant, and a granulant. This step was clearly advocated by Mendell and recommended by Dr. Rhodes, among others, before 1974 and therefore lacks the necessary inventiveness.
+[122]
+In conclusion, I find that the patent is invalid on the ground that it was obvious at the date of the invention.
+Infringement
+[123]
+In the instance that my conclusions on the issues of construction or obviousness are in error, I will consider the issue of infringement.
+[124]
+Novopharm concedes that some of the product made by Novopharm since 1985, when it introduced a smaller SMX/TMP combination tablet, infringed at least claims 1 and 2 of the patent. However, Novopharm makes this concession only if the limits proposed by Dr. Rees regarding desirable tablet characteristics such as disintegration time, hardness and friability were not found to be an essential part of the invention. Novopharm maintains that there is no evidence as to the hardness and friability values of the Novo-Trimel tablets. If disintegration time, hardness and friability are construed as essential features of the invention, then it is argued that Glaxo has not established infringement in respect of the essential features of hardness and friability, and on that basis Novopharm would withdraw its concession that it infringed at least claims 1 and 2 of the patent since 1985. I have found, however, that the tablet characteristics proposed by Dr. Rees are not essential features of the invention. Therefore, Novopharm's admission that since 1985 it infringed at least claims 1 and 2 of the patent stands.
+[125]
+I note that  <FRAGMENT_SUPPRESSED> 's opinion, the Particle Size Determination Report conducted by Susan Anne Taylor was uncontradicted. However, Novopharm made submissions that the Taylor report was unreliable. Novopharm argued that the value or reliability of the Taylor report was uncertain because the dates and times at which the tests are reported to have been conducted were inaccurate. Dr. Rees, who was present during the testing, explained that this was merely a technical flaw, and was likely due to the clocks on the computers being set incorrectly. I do not consider Novopharm's argument to impugn the Taylor report.
+[126]
+Novopharm also contended that the method used to determine the W.M.D. in the Taylor report was different than that specified in the patent. The patent is alleged to indicate that the W.M.D. is determined by using a Coulter counter, and the actives TMP and SMX had to be measured in combination, rather than separately. However, I have found that claim 1 does not require that the W.M.D. must be determined by using the Coulter counter only, or that the active must be combined before the particle size is determined.
+[127]
+If I had concluded that the patent was valid, I would have found, on the basis of Novopharm's admissions, the Agreed Statement of Facts, and the Taylor report, that claims 1, 2, 3, 11, 12, 13, 17, 19, 20, and 22 were infringed.
+Conclusion
+[128]
+I note in conclusion that the parties made extensive submissions as to the election between damages and an accounting of profits. Glaxo argued that, should I find the patent valid and infringed, they should retain the right to elect damages or an accounting of profits. Since I have made the finding that the patent is invalid and that there is no infringement, I do not think it is necessary to set out the lengthy arguments in support of Glaxo's position. I recently expressed my views on the election between damages and an accounting of profits in
+ <FRAGMENT_SUPPRESSED>  (T.D.). I find no reason to depart from those views in respect to the case at bar. Specifically, no reason was given as to why damages would not be a completely satisfactory and more efficient remedy in this case. Therefore, on a finding of infringement, I would award damages rather than an accounting of profits.
+[129]
+The patent is invalid on the ground of obviousness. The action for infringement shall therefore be dismissed.
+[130]
+Costs shall be awarded to the defendant.
+Action dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

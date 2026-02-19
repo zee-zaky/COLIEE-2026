@@ -1,0 +1,283 @@
+ <FRAGMENT_SUPPRESSED> )
+Indexed  <FRAGMENT_SUPPRESSED> 
+Federal Court
+Locke, J.
+November 27, 2015.
+Counsel:
+Alexandra Peterson and James Gotowiec, for the plaintiffs/defendants by counterclaim;
+Heather Watts and Sarah Mavula, for the defendant/plaintiff by counterclaim.
+Solicitors of Record:
+Torys, LLP, Toronto, Ontario, for the plaintiffs/defendants by counterclaim;
+Deeth Williams Wall, LLP, Toronto, Ontario, for the defendant/plaintiff by counterclaim.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+Overview
+[1]
+Locke, J.
+: The plaintiffs, Alcon Canada Inc., Alcon Laboratories, Inc., Alcon Pharmaceuticals Ltd., and Alcon Research, Ltd. (collectively referred to as Alcon), appeal from an Order of Prothonotary Martha Milczynski dated September 24, 2015, dismissing Alcon's motion to strike certain paragraphs from the Statement of Defence and Counterclaim of the defendant, Actavis Pharma Company (Actavis).
+[2]
+The key issues in dispute in this appeal concern:
+i. the applicable standard of review, and
+ii. whether the Prothonotary erred in dismissing Alcon's motion to strike.
+[3]
+For the reasons set out below, I have concluded that Alcon's appeal should be dismissed.
+II.
+Facts
+[4]
+This appeal arises in the context of a patent infringement action by Alcon against Actavis concerning Canadian Patent No. 2,447,924 (the 924 Patent) which covers stable topically administrable solutions containing approximately 0.17% to 0.62% (w/v) of olopatadine. In its Statement of Defence and Counterclaim, Actavis raises a number of defences against the infringement claim and asserts, by way of counterclaim, that the patent in suit is invalid and further that Actavis is entitled to compensation from Alcon pursuant to section 8 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the
+Regulations
+).
+[5]
+The paragraphs from the Statement of Defence and Counterclaim that Alcon seeks to have struck concern alleged anti-competitive behaviour by Alcon. The paragraphs in issue are as follows:
+[From the defence:]
+ix. Anti-competitive behaviour/
+Ex Turpi Causa
+80. In addition, Actavis pleads that the Plaintiffs are disentitled from recovering damages for infringement of the 924 Patent by virtue of their inequitable conduct. Specifically, the Plaintiffs engaged in conduct contrary to the common law rules against restraint of trade and contrary to sections 45 75, 76 and 78 of the
+Competition Act
+.
+81. In addition to Actavis' 0.2% olopatadine product, an Actavis ophthalmic formulation containing 0.1% olopatadine is available for sale in the Canadian market. The 0.1% olopatadine product does not infringe the 924 patent.
+82. Actavis pleads that the Plaintiffs conspired to take steps to ensure: (a) that Actavis was unable to sell its 0.1% olopatadine product in the Canadian pharmaceutical market; and (b) that purchasers and insurers of same purchased its higher priced 0.2% PATADAY product instead.
+83. As the Plaintiffs' 0.2% PATADAY sales were the by-product of this inequitable conduct, the Plaintiffs are not entitled to recover for any putative lost sales said to arise from Actavis' alleged infringing sales.
+84. As the aforesaid inequitable conduct involved the use of the 924 patent, the Plaintiffs are not entitled to recover any other measure of infringement damages.
+85. In the alternative, Actavis pleads that the Plaintiffs' damages should be reduced by the amount it earned from PATADAY sales as a result of its inequitable conduct.
+[From the counterclaim:]
+114. Actavis pleads and relies on its allegations set out in its Statement of Defence under the heading "Anti-competitive behaviour/
+Ex Turpi Causa
+".
+[6]
+Essentially, Actavis asserts that Alcon should be denied damages for infringement of the 924 Patent, either partially or entirely, because of its alleged inequitable conduct. During the hearing however, Actavis' counsel clarified that its assertion is not that Alcon should be entirely denied its claim for damages simply by virtue of its conduct. I agree. Among other things, the remedy that Actavis seeks to deny to Alcon is a
+legal
+remedy, whereas an
+ex turpi causa
+argument normally can be relied on only to deny an
+equitable
+remedy. Rather, Actavis asserts that Alcon's sales of its patented product were improperly increased as a result of its conduct, thus making its damages from the alleged patent infringement appear higher than they would have been if Alcon had not engaged in such conduct. Whether Alcon's conduct in issue would result in damages being denied entirely (as asserted in paragraphs 80 to 84 of the Statement of Defence and Counterclaim) or simply reduced (per paragraph 85) would depend on the extent to which such conduct could be shown to have affected the amount of any damages. I refer to this below as Actavis' characterization of its allegations in issue.
+III.
+Standard of Review
+[7]
+The parties are agreed that the Federal Court of Appeal (FCA) decision in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], provides the proper starting point for determining the standard of review to be applied to the Prothonotary's decision under appeal in this case. However, the parties differ on how <FRAGMENT_SUPPRESSED> should be interpreted and applied.
+[8]
+For the present purposes, it is useful to examine the decision in <FRAGMENT_SUPPRESSED> . Under the heading "The standard of review", Justice Robert Décary (speaking for a 2-1 majority) quoted the FCA's earlier decision in
+ <FRAGMENT_SUPPRESSED>  [
+Aqua-Gem
+], in which a majority held that discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+a. they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+b. they raise questions vital to the final issue of the case.
+[9]
+Justice Mark R. MacGuigan, for the majority in
+Aqua-Gem
+, went on to say:
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion
+de novo
+.
+[10]
+These extracts from
+Aqua-Gem
+were quoted by Justice Décary at paragraph 17 of <FRAGMENT_SUPPRESSED> . At paragraph 18, Justice Décary went on to quote Justice MacGuigan explaining that whether a question is vital to the final issue of the case is to be determined without regard to the actual answer given by the prothonotary:
+[...] It seems to me that a decision which can thus be either interlocutory or final depending on how it is decided, even if interlocutory because of the result, must nevertheless be considered vital to the final resolution of the case. Another way of putting the matter would be to say that for the test as to relevance to the final issue of the case, the issue to be decided should be looked to before the question is answered by the prothonotary, whereas that as to whether it is interlocutory or final (which is purely a
+pro forma
+matter) should be put after the prothonotary's decision. Any other approach, it seems to me, would reduce the more substantial question of "vital to the issue of the case" to the merely procedural issue of interlocutory or final, and preserve all interlocutory rulings from attack (except in relation to errors of law).
+[11]
+Later, in
+ <FRAGMENT_SUPPRESSED>  (
+Peter G. White
+), Justice Hugessen, in
+obiter dicta
+at para 2, took the view that
+Aqua-Gem
+"makes it quite clear that it is not what was sought but what was ordered by the prothonotary which must be determinative of the final issues in order for the judge to be required to undertake
+de novo
+review." In light of the comments of the majority in
+Aqua-Gem
+, and specifically the quote in the previous paragraph, I do not understand Justice Hugessen's position. It appears to be inconsistent with
+Aqua-Gem
+.
+[12]
+The foregoing discussion is important in the present case because Alcon's motion sought to strike paragraphs from the Statement of Defence and Counterclaim (which would therefore have had an effect that was final if the motion had been granted), but the motion was dismissed such that its effect was interlocutory (since the allegations in question remain). If one focuses on what was
+sought
+ <FRAGMENT_SUPPRESSED> 's motion, it is final. However, if one focuses on the
+result
+of the motion, it is interlocutory.
+[13]
+Justice Décary continued in <FRAGMENT_SUPPRESSED> :
+[19] To avoid the confusion which we have seen from time to time arising from the wording used by MacGuigan J.A., I think it is appropriate to slightly reformulate the test for the standard of review. I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read:
+Discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+a) the questions raised in the motion are vital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.
+[14]
+Justice Hugessen, in
+Peter G. White
+, again at para 2 and again in
+obiter dicta
+, stated as follows with regard to Justice Décary's use of the phrase "the questions raised in the motion" in the preceding passage:
+I am quite sure that he did not mean by that the motion which was before the prothonotary but rather the motion (see Rule 51) which was before the judge on appeal from the prothonotary. Put briefly, barring extraordinary circumstances, a decision of a prothonotary not to strike out a statement of claim is not determinative of any final issue in the case. In determining the standard of review the focus is on the Order as it was pronounced, not on what it might have been.
+[15]
+Again, I do not agree with Justice Hugessen here. Justice Décary in <FRAGMENT_SUPPRESSED> was reformulating the test set out earlier in
+Aqua-Gem
+by reversing the order of points to be addressed. It is clear that the "question" referred to in the test as it was formulated in
+Aqua-Gem
+concerned the question before the prothonotary, not the question before the judge on appeal from the prothonotary. As quoted by Justice Décary in <FRAGMENT_SUPPRESSED> at para 17, Justice Hugessen said:
+[...] discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+[16]
+Accordingly, it is discretionary orders of prothonotaries which must raise questions vital to the final issue of the case in order to disturb them on appeal. Justice Décary makes it clear that this is what he believes in <FRAGMENT_SUPPRESSED> at para 18. He states that:
+[...] [Justice MacGuigan, in
+Aqua-Gem
+] uses the words "they (being the orders)
+raise questions
+vital to the final issue of the case", rather than "they (being the orders)
+are
+vital to the final issue of the case". The emphasis is put on the subject of the orders, not on their effect. In a case such as the present one, the question to be asked is whether the proposed amendments are vital in themselves, whether they be allowed or not. If they are vital, the judge must exercise his or her discretion
+de novo
+.
+[Emphasis in original.]
+[17]
+There is no suggestion in <FRAGMENT_SUPPRESSED> that the motion referred to in Justice Décary's reformulation of the
+Aqua-Gem
+test was intended to be the motion on appeal from the prothonotary. I note that support for my concern about Justice Hugessen's decision in
+Peter G. White
+is found in the decision of Justice Sandra Simpson in
+ <FRAGMENT_SUPPRESSED> . After discussing the decision in
+Peter G. White
+, Justice Simpson stated as follows:
+[25] However, I have reviewed the Federal Court of Appeal's decisions in
+Aqua-Gem
+and
+Merck 2003
+and for the following reasons, have reached a conclusion which is contrary to that reached by Mr. Justice Hugessen.
+[26] In
+Aqua-Gem
+, the respondent had moved to have the case dismissed for want of prosecution. The Prothonotary dismissed the motion so the action remained extant. While the question before the Prothonotary was vital in the sense that the action could be dismissed, the order was not determinative of the final issues. The judge who heard the appeal from the Prothonotary's order considered it
+de novo
+and the Federal Court of Appeal upheld this approach. The only possible rationale for this conclusion, in my view, is that the Court of Appeal considered the issue of vitality based on the question before the Prothonotary. This conclusion, again in my view, is borne out by a review of the Decision.
+[18]
+I have taken note of the several other decisions of this Court cited by Actavis which have followed
+Peter G. White
+and found that a prothonotary's decision
+not
+to dismiss a claim is not normally "vital to the final issue of the case", and I acknowledge that there appears to be a split within the Federal Court on this issue. However, I prefer Justice Simpson's approach. I note also that in both
+ <FRAGMENT_SUPPRESSED>  the Federal Court found a question to be vital to the final issue even where the prothonotary whose decision was under review had refused to strike the action or the paragraphs in issue.
+[19]
+I conclude therefore that the "question" to be assessed as to whether it is "vital to the final issue of the case" is the question that was before the prothonotary.
+[20]
+Having reached this conclusion, it is now necessary to consider what makes a question vital. This issue was addressed by Justice Décary in <FRAGMENT_SUPPRESSED> at paras 22 to 25:
+[22] The test of "vitality", if I am allowed this expression, which was developed in
+Aqua-Gem
+, is a stringent one. The use of the word "vital" is significant. It gives effect to the intention of Parliament, as so ably described by Isaac C.J. at pages 454 and 455 of his minority reasons in
+Aqua-Gem
+(I pause here to note that the learned Chief Justice's analysis of the role of the prothonotaries in the Federal Court remains basically unchallenged in the majority opinion written by MacGuigan J.A.):
+[...] such a standard [of review] is consistent with the parliamentary intention embodied in section 12 of the [Federal Court] Act, that the office of prothonotary is intended to promote "the efficient performance of the work of the Court".
+In my respectful view it cannot reasonably be said that a standard of review which subjects all impugned decisions of prothonotaries to hearings
+de novo
+regardless of the issues involved in the decision or whether they decide the substantive rights of the parties is consistent with the statutory objective. Such a standard conserves neither "judge power" nor "judge time". In every case, it would oblige the motions judge to re-hear the matter. Furthermore, it would reduce the office of a prothonotary to that of a preliminary "rest stop" along the procedural route to a motions judge. I do not think that Parliament could have intended this result.
+[23]
+One should not, therefore, come too hastily to the conclusion that a question, however important it might be, is a vital one. Yet one should remain alert that a vital question not be reviewed
+de novo
+merely because of a natural propensity to defer to prothonotaries in procedural matters.
+[24]
+In
+Aqua-Gem
+, at p. 464, MacGuigan J.A. distinguished on the one hand between "routine matters of pleadings", words used by Lord Wright in
+ <FRAGMENT_SUPPRESSED>  (Ont. C.A.) at 438, and, on the other hand, between "questions vital to the final issue of the case, i.e. to its final resolution".
+[25]
+When is an amendment a routine one as opposed to a vital one? It would be imprudent to attempt any kind of formal categorization. It is much preferable to determine the point on a case by case basis (see
+ <FRAGMENT_SUPPRESSED>  per O'Keefe J. at para. 7, aff'd 2003 FCA 428). I note that amendments that would advance additional claims or causes of action have consistently been found, in the Federal Court of Canada, to be vital for the purposes of the
+Aqua-Gem
+test (see
+ <FRAGMENT_SUPPRESSED>  (Snider J.).
+[21] Based on the foregoing passage, the issue of vitalness should be determined on a case by case basis, but "amendments that would advance additional claims or causes of action" would normally be considered vital. The reasoning seems to be that, if an amendment of this kind is not allowed, the party asserting it will be prevented from asserting the claim or cause of action in question. By the same reasoning, a
+motion to strike
+a distinct claim or cause of action would likewise normally be considered vital.
+[22] The key in the present case then is to determine whether the paragraphs sought to be struck  <FRAGMENT_SUPPRESSED> 's motion concern a distinct claim or cause of action, or just a "routine matter of pleadings". Not all passages that are proposed to be added to or struck from a pleading are vital to the final issue.
+[23]  <FRAGMENT_SUPPRESSED>  Justice Robert Barnes considered a number of decisions in which the question had been found to be vital to the case and focused on the nature of the allegations that the plaintiffs were seeking to strike:
+[8] It seems to me that the above cases raise very different considerations from those which arise from a decision like this one, which concerns a refusal to strike out isolated allegations in a pleading. Other considerations may well apply where the challenged allegations in a pleading would be fundamental to the prosecution of a claim or, more obviously, where important or central allegations are struck from a pleading. In this situation, however, I am not satisfied that the impugned pleadings are vital to the resolution of the action. Even in the absence of these allegations, the action would go forward with the Counterclaim and its principal allegations substantially intact. [...]
+[24] So I must determine whether the paragraphs that Alcon seeks to have struck in the present case are more in the nature of "isolated allegations" or rather "important or central allegations". A similar approach was used in
+ <FRAGMENT_SUPPRESSED> [
+BMS
+], where Justice Luc Martineau considered whether the amendments that the defendant there sought to make to its Fourth Amended Statement of Defence and Counterclaim were "vital amendments" or rather "routine amendments".
+[25] There is a temptation in the present case to see the allegations in question as important, central or vital. For one thing, paragraphs 80 to 85 of Actavis' defence constitute an entire section thereof under the heading "Anti-competitive behaviour/
+Ex Turpi Causa
+". Striking those paragraphs would strike that whole section. Also, finding the question before the prothonotary to have been vital to the case would seem to be more consistent with the test she applied in deciding not to strike in the first place: whether it is plain and obvious that the defence asserted in those paragraphs is doomed to fail. The reason for this stringent test is that, as stated frequently in the jurisprudence (
+e.g.
+ <FRAGMENT_SUPPRESSED> ), a party should not be easily "driven from the judgment seat". If we are concerned that a party faces being driven from the judgment seat in the event that certain paragraphs from a pleading are excluded, then it seems counter-intuitive that the prothonotary's decision to exclude or not exclude those paragraphs is not vital to the case.
+[26]
+However, I have considered Actavis' characterization of the paragraphs Alcon seeks to have struck. As discussed above, Actavis does not assert that Alcon should be denied its claim for damages simply by virtue of its conduct, but rather that the amount of Alcon's damages should be reduced, either partially or entirely, after accounting for the effect of its allegedly inequitable conduct. Based on this characterization of Actavis' pleading, I view the paragraphs that Alcon seeks to have struck more as isolated allegations not vital to the case since their removal would not exclude an entire claim or cause of action. This view also covers paragraph 114  <FRAGMENT_SUPPRESSED> ' counterclaim which likewise would not exclude an entire claim or cause of action if it were struck.
+[27]
+Having determined that the questions raised in the motion before Prothonotary Milczynski are not vital to the final issue of the case, then I should not disturb her Order unless it is "clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts".
+[28]
+Before moving on from this section, I wish to note that, but for Actavis' characterization of the allegations in issue, I would be inclined to find that the questions raised are vital to the final issue, which would lead to a
+de novo
+consideration of Alcon's motion.
+IV.
+Did the Prothonotary Err in her Decision?
+A.
+Paragraphs 80 to 85 of Defence
+[29]
+In arguing that Prothonotary Milczynski erred in dismissing its motion to strike, Alcon places considerable weight on what it calls a "bright-line test" set out in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> FCA], with regard to assertions of inequitable conduct denying claims for equitable relief. At para 16 of <FRAGMENT_SUPPRESSED> FCA, the Court wrote that "a party claiming equitable relief will not be disentitled to that relief by virtue of inappropriate conduct on its part unless that conduct relates directly to the subject matter of that party's claim and the equitable relief sought." Regarding allegations of inequitable conduct by a plaintiff in a patent infringement action (as in the present case), the FCA stated at para 18 that it was unable to conclude that such conduct on the part of the plaintiff "casts a shadow over its rights" in respect of the patent in suit.
+[30]
+By reference to decisions of the Federal Court in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], and
+BMS
+, Alcon argues that, in order for Actavis to avoid having its inequitable conduct allegations struck, those allegations must cast a shadow either on Alcon's title in the 924 Patent or on the question of whether infringement has occurred. There seems to be no dispute that the inequitable conduct allegations in the present case do neither of these things, and further that this legal test as asserted by Alcon is applicable in the right circumstances.
+[31]
+However, in my view this test is not applicable in the present case because it concerns disentitlement to
+equitable
+relief. Not only is this explicit in the words of the test, but it makes sense since it is well-settled that a claim for equitable remedies can be denied when the party making the claim comes to the Court with unclean hands. The inequitable conduct allegations contemplated in the test are essentially allegations that the claiming party has unclean hands.
+[32]
+As discussed above, the claims sought to be limited by the inequitable conduct allegations in the present case concern only damages, which are a legal remedy and not an equitable remedy.
+[33]
+In any case, a review of Prothonotary Milczynski's September 24, 2015 Order indicates clearly that she understood the legal principle arising from <FRAGMENT_SUPPRESSED> FCA. Alcon does not dispute this. Alcon also does not dispute that Prothonotary Milczynski properly summarized the inequitable conduct allegations in issue.
+[34]
+Prothonotary Milczynski concluded saying:
+At this juncture, while the Defendants may have a steep hill to climb, I am not satisfied that they should be denied an opportunity to advance their defence as drafted or that it is plain and obvious that they are doomed. It is a unique set of facts that the Defendant seeks to prove to advance the argument that the availability of a remedy to the Plaintiffs should be considered in light of the Plaintiffs' alleged inequitable conduct concerning their olopatadine products and is or should be tied to infringement. The issue may remain whether, to the extent they improperly moved the market to the 0.2% olopatadine product the Plaintiffs ought to be denied a remedy or have any damages that might be awarded reduced.
+[35]
+Having considered the relevant facts and the applicable law, I am unable to conclude that Prothonotary Milczynski was clearly wrong in her conclusion, either in the sense that she based her decision upon a wrong principle or that she misunderstood the facts.
+[36]
+I am also unable to agree with Alcon's assertion that Prothonotary Milczynski failed to properly apply the legal test to the facts. Having properly described the applicable law and the relevant facts, it was not an error to conclude that, due to the uniqueness of the facts in this case, it was not plain and obvious that the inequitable conduct allegations were doomed to fail.
+[37]
+As discussed above, Actavis has indicated that its allegations in issue are not intended to deny Alcon damages for infringement simply because Alcon engaged in the alleged inequitable conduct. Rather, Actavis' allegations seek to reduce (or eliminate) those damages to reflect the effect of any improperly increased sales of Alcon's patented product. In my view, this is a reasonable reading of these allegations, and a sound basis for dismissing Alcon's motion to strike.
+B.
+Paragraph 114 of Counterclaim
+[38]
+Alcon also argues that Prothonotary Milczynski erred in failing to address its motion to strike paragraph 114 from Actavis' counterclaim which refers to alleged inequitable conduct. In my view, it was not necessary for Prothonotary Milczynski to make separate reference to that paragraph, as her reasoning for refusing to strike the inequitable conduct defence applied equally to the counterclaim.
+[39]
+Alcon argues that its alleged inequitable conduct could not affect the amount of compensation to which Actavis could be entitled under section 8 of the
+Regulations
+. Alcon argues that the compensation that can be awarded under section 8 cannot be more than the loss actually suffered by Actavis during the relevant period. Therefore, no conduct by Alcon could have the effect of increasing the compensation to which Actavis may be entitled beyond the amount of its actual loss.
+[40]
+Actavis notes that subsection 8(5) of the
+Regulations
+contemplates taking into account inequitable conduct by
+either
+side. It provides:
+8.
+(5) In assessing the amount of compensation the court shall take into account all matters that it considers relevant to the assessment of the amount, including any
+conduct of the first or second person
+which contributed to delay the disposition of the application under subsection 6(1).
+[Emphasis added.]
+8.
+(5) Pour déterminer le montant de l'indemnité à accorder, le tribunal tient compte des facteurs qu'il juge pertinents à cette fin, y compris, le cas échéant,
+la conduite de la première personne ou de la seconde personne
+qui a contribué à retarder le règlement de la demande visée au paragraphe 6(1).
+[Mon soulignement.]
+[41]
+Moreover, during the hearing of the present motion, Actavis' counsel acknowledged that its allegation does not seek compensation beyond the amount of its actual loss. Actavis argues that it is not plain and obvious that inequitable conduct on the part of the "first person" in a claim under section 8 of the
+Regulations
+can never be relevant. I agree.
+[42]
+Before concluding, I note that my decision is based on Actavis' characterization of its inequitable conduct allegations and its acknowledgement that it does not seek section 8 compensation beyond its actual loss. My decision might have been different but for this characterization and acknowledgement.
+V.
+Conclusion
+[43]
+For the foregoing reasons, I will dismiss Alcon's appeal and maintain Prothonotary Milczynski's September 24, 2015 Order, with costs of the present appeal to Actavis.
+ORDER
+[44]
+THIS COURT ORDERS that
+the present motion in appeal of Prothonotary Milczynski's Order of September 24, 2015, is dismissed with costs.
+[End of document]

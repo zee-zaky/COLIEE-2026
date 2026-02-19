@@ -1,0 +1,1512 @@
+1. Introduction
+[1]
+Snider, J.
+: Both the Plaintiffs and the Defendants in this action are in the business of manufacturing and selling vertical feed mixers, mainly to the agricultural market. Almost exclusively, this useful machine is purchased by farmers who use the vertical feed mixer to mix the components of feed for their livestock. Its operation is quite simple. Bales of hay and other substances, such as grains, corn and medications, are dumped into the top of the tub of the mixer in measured amounts. A centre, vertical, rotating auger, having helical flighting edged with cutting blades, acts to evenly mix the components. The mixed feed is ultimately delivered from the bottom of the vertical feed mixer to the livestock.
+[2]
+Canadian Patent No. 2,316,092 (the '092 Patent) describes a vertical feed mixer which was the invention of Mr. Jacob Tamminga, the principal of both JAY-LOR International Inc. (JAY-LOR International) and JAY-LOR Fabricating Inc. (JAY-LOR Fabricating) (collectively referred to as JAY-LOR or the Plaintiffs). JAY-LOR Fabricating has been manufacturing and selling a vertical feed mixer as described in the '092 Patent since 1999. The '092 Patent has a claim date of August 13, 1999, was laid open for public inspection on February 13, 2001 and was issued on April 22, 2003 in the name of JAY-LOR Fabricating. By Patent Assignment dated August 10, 2000 and registered on January 17, 2005, JAY-LOR Fabricating assigned its interest in the '092 Patent to JAY-LOR International. Diagrams of the patented vertical feed mixer and its centre auger are included as Figures 1 and 2 in Appendix A.
+[3]
+Mr. Glenn Buurma is the principal of both the defendants in this action - Penta Farm Systems Ltd. (Penta Farm) and Penta One Limited (Penta One) (collectively referred to as Penta or the Defendants). From 1995 until 2001, before the Defendants' relationship with JAY-LOR ended, Penta was a dealer for the JAY-LOR vertical feed mixer. Beginning in 2001, Penta began building and selling its own brand of vertical feed mixer, using one design up to April 30, 2005 (the original Penta vertical feed mixer) and with a design change after that date (the redesigned Penta vertical feed mixer).
+[4]
+While the patent in issue describes the whole of a vertical feed mixer, the portion of the mixer that is of the most interest in this trial is the auger inside the drum portion of the machine. In particular, the Plaintiffs submit that, primarily because of the auger used in both the original Penta vertical feed mixer and the redesigned mixer,  the  Penta  vertical  feed  mixers infringethe '092 Patent. The Defendants argue that: (a) neither of their designs infringes on the '092 Patent; and, (b) in any event, the '092 Patent is invalid on the grounds of both being obvious and anticipated.
+[5]
+If both validity and infringement are established, the Plaintiffs have elected to be compensated by damages. The Defendants dispute the level of damages sought by the Plaintiffs.
+[6]
+For assistance to the reader, I have set out an outline of these reasons for judgment.
+-
+Para.
+1. Introduction
+[1]
+2. Issues
+[7]
+3. Background
+[8]
+--3.1 Identification of the problem
+[9]
+--3.2 Mr. Tamminga's solution to the problem
+[14]
+--3.3 Impact on the vertical feed mixer market
+[17]
+--3.4 Relationship between JAY-LOR and Penta
+[19]
+4. Standing of JAY-LOR Fabricating
+[23]
+5. Construction of the '092 Patent
+[39]
+--5.1 Claims in Issue
+[40]
+--5.2 Principles of Construction
+[44]
+--5.3 Evidence on the construction of the '092 Patent
+[50]
+--5.4 View of the Court on Construction
+[53]
+--5.4.1 Characteristics of an "essential element"
+[53]
+--5.4.2 The purpose of the invention
+[55]
+--5.4.3 Claim 1
+[57]
+--5.4.4 Claim 2
+[67]
+--5.4.5 Claims 4, 8 and 11
+[71]
+6. Validity of the '092 Patent
+[72]
+--6.1 Obviousness
+[73]
+--6.2 Anticipation
+[93]
+7. Infringement
+[100]
+--7.1 Infringement by the original Penta vertical feed mixer
+[104]
+--7.2 Infringement by the redesigned Penta vertical feed mixer
+[105]
+--7.3 Conclusion on Infringement
+[108]
+8. Damages
+[109]
+--8.1 General Principles of Damages
+[113]
+--8.2 Reasonable Royalty
+[125]
+--8.2.1 Relevance of published royalty rates
+[127]
+--8.2.2 Expert Witnesses
+[130]
+--8.2.3 Methodologies for assessing a royalty
+[136]
+--8.2.3.1 <FRAGMENT_SUPPRESSED> Approach
+[137]
+--8.2.3.2 Analytical Approach
+[138]
+--8.2.3.3 Anticipated Profits Approach
+[141]
+--8.2.3.4 Preferred Approach
+[144]
+-8.2.4 Application of anticipated profits methodology
+[150]
+--8.2.4.1 Determination of Penta's anticipated profit
+[150]
+--8.2.4.2 Appropriate royalty
+[159]
+---(a) Transfer of technology
+[160]
+---(b) Differences in the practice of the invention
+[161]
+---(c) Non-exclusive licence
+[162]
+---(d) Territorial limitations
+[163]
+---(e) Term of the licence
+[164]
+---(f) Competitive technology
+[165]
+---(g) Competition between licensor and licensee
+[166]
+---(h) Demand for the product
+[167]
+---(i) Risk
+[168]
+---(j) Novelty of invention
+[169]
+---(k) Compensation for research and development
+[170]
+---(l) Displacement of business
+[171]
+---(m) Capacity to meet market demand
+[172]
+--8.2.5 Royalty determination - the conclusion
+[174]
+--8.3 Period 1 Damages
+[176]
+--8.4 Period 2 Damages
+[183]
+--8.4.1 Apportionment
+[190]
+--8.4.2 Number of Penta sales and comparable JAY-LOR models
+[200]
+--8.4.3 Number of lost sales
+[206]
+--8.4.4 Estimated lost profits
+[222]
+--8.4.4.1 Capacity
+[226]
+--8.4.4.2 Cost/Expense adjustments for lost sales
+[231]
+---(a) Rebates and Promotions
+[236]
+---(b) R&D Expenses
+[237]
+---(c) Administrative Wages
+[239]
+---(d) Telephone expenses
+[241]
+---(e) Office expense
+[244]
+---(f) Bad debt
+[246]
+---(g) Additional expenses
+[247]
+--8.4.4.3 Conclusion as to lost profits
+[249]
+--8.4.5 Royalty on remaining Period 2 sales
+[251]
+9. Punitive Damages
+[256]
+10. Summary of Findings
+[259]
+11. Conclusion
+[261]
+2. Issues
+[7]
+The issues to be determined are as follows:
+1. Does JAY-LOR Fabricating have standing to bring this action and claim damages?
+2. What is the proper construction of the claims of the '092 Patent?
+3. Is the '092 Patent invalid for the reason that:
+a. It was anticipated; or
+b. It was obvious having regard to the prior art described in five documents pleaded by the Defendants?
+4. Do either or both of the original Penta vertical feed mixer or redesigned Penta vertical feed mixer infringe any of the claims of the '092 Patent?
+5. If at least one claim of the '092 Patent is found valid and infringed, then what are the Plaintiffs' damages?
+3. Background
+[8]
+To place this litigation into context, it would be helpful to describe some of the factual background to the dispute.
+3.1 Identification of the problem
+[9]
+Every invention solves a problem. This is so even if the problem is not universally recognized or encountered by all users. Thus, I begin by identifying the problem.
+[10]
+Vertical feed mixers were first introduced into the North American market in the mid-1980s. It appears that they were enthusiastically accepted as an improvement over the older horizontal mixers. Mr. Glenn Buurma testified that the reason that vertical feed mixers came into the market was that they can handle the large round and square hay bales. As I understand the market, the early designs were similar and included a flat, dome or cone cap on the centre auger post. According to Mr. Tamminga, a problem with these early mixers, including those with dome, cone or flat-topped augers, was that feed material could get stuck at the top of the auger as the auger rotated or could be wedged between the top of the auger and the mixer side wall.
+[11]
+The existence of this problem was confirmed by Mr. Carl Alexander, a witness for the Plaintiffs, who has been employed for 22 years in Alabama as a dealer in farm machinery. He has sold JAY-LOR mixers for about 15 years. Mr. Alexander described the problem with the early vertical feed mixers with a flat top auger as follows:
+"[...] it took for ever to process a bale of hay. When you put a bale of hay in it took for ever to get it to go down in the machine where it would process it.
+. . . . .
+"[The bale of hay] would sit on top. In other words it couldn't get to the bottom where it could process."
+[12]
+For purposes of these reasons, it will become important to consider whether there was a problem with early vertical feed mixer designs. Not all of the evidence supports the existence of a problem as described by Mr. Tamminga and Mr. Alexander. In his testimony, Mr. Buurma stated that he had never seen a bale of hay jam, no matter what shape of top was used, unless the bale was "way too big for the tub". Mr. Franklin Martin is a dairy farmer and a dealer for Penta vertical feed mixers. He testified that he was not aware of any issues in his sales area regarding the jamming of large bales. I note first that Mr. Buurma is not a disinterested party to these proceedings and that his comments may well have been made with respect to the present day mixers, which have or may have features in addition to the auger top which would overcome any jamming problem. Mr. Martin has a much smaller dealer area and has been a dealer for far less time than Mr. Alexander. Thus, it may be that Mr. Martin has simply not the experience - either geographically or with time - to opine on whether there was a problem in the mid-1980s with jamming.
+[13]
+Accordingly, I accept that, as of the date of the invention, there was a problem with the jamming of hay bales in the vertical feed mixer designs in the market. However, it also appears that the extent of the problem was not universal. If a farmer had (or has today) no need to process large bales, the use of a dome, flat or cone-shaped auger top may not cause a problem. That does not mean that the problem seen and solved by Mr. Tamminga did not exist.
+3.2 Mr. Tamminga's solution to the problem
+[14]
+JAY-LOR Fabricating began building vertical feed mixers in 1992, with its first vertical feed mixer produced in 1993. As Mr. Tamminga testified, he identified the problem of jamming hay bales and attempted to solve the problem in many ways, none of which really worked:
+"Q. At that time did you consider designing anything to assist with that problem, to solve the problem?
+A. We went to Kansas. We tried to build posts on top of the auger, on the side of the auger so the auger would actually be off centre or the post was off centre so it would knock the bale loose.
+We failed in that because the tube, whatever we welded on top would keep bending or breaking off. I then basically took the mixer back and we did a lot of prototyping on this at home over the next several years. We tried bigger posts. We tried smaller posts. We tried on different spots at the top of the auger, thinking that it would make a difference. It did not. Not enough anyways."
+[15]
+Finally, after one and a half to two years of trying, Mr. Tamminga accidentally stumbled upon a solution to the problem:
+"A. [...] Then at one point we decided to put a very heavy post on as a result we actually bent and twisted the top of the auger so we cut it out to replace it and when we cut it out, it was like light bulbs come on. Said what happens if we try it like this so that the bale no longer has anything to sit on except for the flight with the knife on it.
+. . . . .
+A. [...] So what we did is put the post on there, because there you had room there, but we twisted the actual tubing of the auger. So we cut it out to replace it and then we got to looking at it and saying the flight itself is till immensely strong but the bale doesn't have anything to sit on any more, with the exception of the actual flight, like it is shown there. We left it open for the next loads and it worked absolutely awesome. It was impossible for the bale to stay up on top.
+Q. So how did you cut that post?
+A. The first one was just cut on an angle and subsequently we put the cap on it also."
+[16]
+The sloped top auger, in the context of the rest of the vertical feed mixer, solves the problem of hay bales getting jammed in two ways. First, the sloped top, by virtue of its angle, does not allow hay bales to sit on top of the auger. Second, the asymmetrical design of the auger top, relative to the centre axis, imparts a significant force on any stuck bale as it rotates. The cumulative effect is that a bale is unlikely to get stuck. This function of the auger with the sloped top was confirmed by two witnesses. Mr. Craig Hanson, an expert for the Plaintiffs (whose credentials are outlined below), described the passive function of the sloped top, while the auger is rotating, as "to bump or dislodge a bale as it sits on top of the auger". In the words of Mr. Carl Alexander, a dealer in JAY-LOR machines:
+"[...] Then they came up with a slope top which eliminated the bale sitting on top of the screws. In other words, now is that slope, that hay is sitting on it and it's turning. Not only does it let the hay fall down but it pushes the hay. Instead of just a smooth cylinder spinning on the hay like a top."
+3.3 Impact on the vertical feed mixer market
+[17]
+JAY-LOR began selling the vertical feed mixers with the newly designed sloped top in September 1999. Mr. Tamminga's testimony was that the introduction had a "great impact" on JAY-LOR's sales. The impact is borne out by the evidence of JAY-LOR sales history.
+[18]
+In light of JAY-LOR's success with the '092 Patent, competitors in the industry began to adopt the same design. Two of these competitors began marketing vertical feed mixers with sloped top augers, but decided to stop after being alerted to JAY-LOR's '092 Patent.
+3.4 Relationship between JAY-LOR and Penta
+[19]
+Penta was a dealer for JAY-LOR vertical feed mixers from about January 1995 to January 2001. Initially, Penta's sales territory included New York, Michigan and most of Ontario. Over time, the sales territory diminished as JAY-LOR placed more dealers into the territory. Penta's sales of JAY-LOR vertical feed mixers declined dramatically from 1999 (about 45 new JAY-LOR units) to 2000 (six units). Mr. Buurma attributed the decline to the reduction in his sales territory. In October 2000, Penta made the decision to design and sell its own vertical feed mixer. After only three months and only one or two prototypes, the first Penta vertical feed mixer was in the marketplace in March 2001.
+[20]
+Although Penta had hoped to maintain some relationship with JAY-LOR, JAY-LOR terminated the dealership relationship in a telephone call on January 19, 2001 and by letter dated January 22, 2001.
+[21]
+In his testimony, Mr. Buurma acknowledged that the original Penta mixer used a sloped top auger design, although he conceded that he could have used a more conventional dome or cone top. Overall, Penta's design was not identical to JAY-LOR's patented design. Penta redesigned some aspects of the vertical feed mixer to incorporate a lower profile, a stainless steel conveyor and certain other components, and smoothly-curved flighting (rather than the square-cut flighting used by JAY-LOR). Penta continued using the sloped auger top design in spite of being aware of JAY-LOR's patent application as early as December 2002.
+[22]
+It is agreed that Penta used this original design until April 30, 2005, when it redesigned the auger top. The redesigned stainless steel auger top was flat with a stainless steel wedge or prism welded on top. A sketch of the redesigned auger is included in Appendix A, Figure 3. When asked about why he changed the auger top design, Mr. Buurma testified that it was redesigned in response to a problem on one farm where the sloped top auger did not provided adequate mix of the feed.
+4. Standing of JAY-LOR Fabricating
+[23]
+The first issue to consider is the standing of JAY-LOR Fabricating to bring this action.
+[24]
+The Defendants argue that JAY-LOR Fabricating failed to meet its onus to establish that it has an entitlement to sue under s. 55(1) of the
+Patent Act
+, R.S.C. 1985, c. P-4. More specifically, Penta urges me to conclude that the failure of JAY-LOR International, as holder of the patent, to demonstrate the existence of a licence agreement, is fatal to the action by JAY-LOR Fabricating. In short, their submission is that, absent a licence, JAY-LOR Fabricating has no standing to bring this action. Such a finding would be of serious consequences for JAY-LOR International's claim for damages. This is because, in the view of the Defendants, JAY-LOR International cannot prove that it has suffered any damages as a result of infringement (if any) by the Defendants.
+[25]
+The Plaintiff companies are related in that International owns Fabricating. Mr. Jacob Tamminga is the sole shareholder of International and is the President of both companies. JAY-LOR Fabricating, the subsidiary, makes the vertical feed mixers. JAY-LOR International is a holding company with title to the property and equipment that JAY-LOR Fabricating uses to manufacture the vertical feed mixers. JAY-LOR International also holds title to the '092 Patent, through an assignment of the patent dated August 10, 2000 and registered on January 17, 2005. JAY-LOR Fabricating pays rent to JAY-LOR International for the use of the manufacturing facilities and profits of Fabricating flow through to International. Although the Plaintiffs took care to draft corporate documents to evidence the financial relationship between the two companies, there is no written licence agreement between International and Fabricating. This, in the Defendants' submission, is a fatal flaw in the claim of JAY-LOR Fabricating.
+[26]
+The Defendants point to the "planned and deliberate decision made by Mr. Tamminga" that there would be two separate companies. They argue that, because this and other corporate decisions - such as the assignment of the patent - were consciously made and documented, the decision not to license the patent must also have been "planned and deliberate". They argue that I should draw an adverse inference from the failure of International to formally license the use of its patent to JAY-LOR Fabricating. I am not prepared to draw this inference.
+[27]
+I agree with the Defendants on the question of whether JAY-LOR International and JAY-LOR Fabricating had a verbal licence; there was no such agreement. In spite of Mr. Tamminga's statement in cross-examination that there was a verbal licence agreement, no evidence exists of a conscious or specific event that constitutes the granting of a licence by JAY-LOR International to JAY-LOR Fabricating. When questioned, Mr. Tamminga was unable to identify any terms of such a verbal agreement.
+[28]
+However, what is clear is that the two companies organized their affairs in a manner consistent with the existence of a licence for the '092 Patent. JAY-LOR International received rent from JAY-LOR Fabricating for the use of the plant facilities and profits from the sale of vertical feed mixers. While there was no fee for the use of the licence reflected in the financial statement of either company, the fact that the profits of JAY-LOR Fabricating were sent to JAY-LOR International is strong evidence, in my view, that the companies intended their relationship to be one of licensee and licensor. In other words, a reasonable conclusion is that there was an implied licence in place.
+[29]
+Nor do I believe that there was a deliberate decision by JAY-LOR International not to make JAY-LOR Fabricating a licensee under the patent, as suggested by the Defendants. It is true that Mr. Tamminga took concrete steps to incorporate JAY-LOR International and to assign the '092 Patent from JAY-LOR Fabricating to JAY-LOR International. Further, it is also correct that Mr. Tamminga and Mr. Arnold Ludwig, the Accounting Controller for JAY-LOR, provided vague and somewhat confusing answers during cross-examination on this point. However, I did not find these witnesses to be "evasive" as suggested by the Defendants. Rather, they both appeared unable to assist the Defendants' counsel simply because they were unfamiliar with the legal concept of licensee and licensor. On the stand, they did their best to explain the relationship between JAY-LOR International and JAY-LOR Fabricating, which relationship involved some legal, documented decisions as to company structure and other arrangements that seem not to have been documented. In my view, the evidence does not support a conclusion that Mr. Tamminga made a conscious decision, on behalf of JAY-LOR International, not to license the technology of the '092 Patent to JAY-LOR Fabricating.
+[30]
+The argument of the Defendants on this issue is, in effect, that, absent a licence, JAY-LOR Fabricating has no standing to bring this action. In my respectful view, the Defendants give too narrow an interpretation of the words of s. 55(1) of the
+Patent Act
+. That provision of the
+Patent Act
+provides as follows:
+"55(1) A person who infringes a patent is liable to the patentee and
+to all persons claiming under the patentee
+for all damage sustained by the patentee or by any such person, after the grant of the patent, by reason of the infringement." (Emphasis added)
+"55(1) Quiconque contrefait un brevet est responsable envers le breveté
+et toute personne se réclamant de celui-ci
+du dommage que cette contrefaçon leur a fait subir après l'octroi du brevet." (Non souligné dans l'original)
+[31]
+The available jurisprudence appears to support the Plaintiffs on this issue.
+ <FRAGMENT_SUPPRESSED> , has been cited for the proposition that the existence of a parent-subsidiary relationship is sufficient evidence of a licence. However, I agree with the Defendants that each case falls to be determined on its own facts.
+Electric Chain
+does not, in my view, stand for the proposition that simply because two parties are related, each will automatically qualify under s. 55(1) of the
+Patent Act
+.
+[32]
+More recently,  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED> ; 145 F.T.R. 161; 79 C.P.R.(3d) 193 (T.D.), affd. (2000), 262 N.R. 137; 10 C.P.R.(4th) 65 (F.C.A.) (referred to as <FRAGMENT_SUPPRESSED> ), the court considered the relationship between the two related companies who had brought an action for infringement and provided some helpful analysis on the issue of the right to assert rights under s. 55(1) of the
+Patent Act
+. In that case, Glaxo Wellcome Inc. (GWI) claimed that it was entitled to bring an infringement action because it was exclusively licensed by the Wellcome Foundation Ltd. to import, manufacture, use and sell the invention described in the patent. Wellcome was listed as the owner of the patent. Although, no written licence was produced to establish GWI as a licensee, GWI maintained that the licence was implied.
+[33]
+The arguments of the plaintiffs in <FRAGMENT_SUPPRESSED> were very similar to those made by the Defendants in this case. The plaintiffs asserted that GWI failed to meet its onus to establish that it had an entitlement to sue under s. 55(1) of the
+Patent Act
+. They argued that a licence, like any other contract, must be proven according to its terms and effects.
+[34]
+In <FRAGMENT_SUPPRESSED> , at paras. 360-361, Justice Wetston provided the following comments on the interpretation of s. 55(1):
+"Canadian jurisprudence has provided a broad interpretation of 'persons claiming under' the patentee. A range of interests is held to have been contemplated, including the exclusive licensee, the non-exclusive licensee, the purchaser of a patented articles and sales agents. This interpretation is embodied in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), per Hugessen, J.A., at p. 211:
+'It matters not by what technical means the aquisition of the right to use might have taken place. It may be a straightforward assignment of a licence. It may, as I have indicated, be a sale of an article embodying the invention. It may also be a lease thereof. What matters is that the claimant asserts a right in the monopoly and that the source of that right may be traced back to the patentee.'"
+[35]
+In the <FRAGMENT_SUPPRESSED> case, Justice Weston did not find that a parent/subsidiary relationship exist between GWI and Wellcome. However, the two companies were under the ownership, common care and control of Glaxo Wellcome plc. The evidence was that licences were seldom written. Based upon his review of the facts of the case, Justice Wetston concluded, at para. 367, that "GWI is indeed able to trace an interest under the patent to the patentee in virtue of the corporate practices with respect to implied licensing within the group of companies under the care and control of Glaxo Wellcome plc".
+[36]
+In sum, what I can take from the <FRAGMENT_SUPPRESSED> case and other jurisprudence is that the ability of a party to claim under a patentee depends on whether the party can trace an interest under the patent to the patentee and does not necessarily require the existence of an express licence. Where no express licence exists, each case will be determined on its facts.
+[37]
+In the case before me, I am satisfied, on a balance of probabilities, that JAY-LOR Fabricating has met the burden of demonstrating that it can trace an interest under the patent to JAY-LOR International. The key facts supporting this conclusion can be summarized as follows:
+- Both JAY-LOR Fabricating and JAY-LOR International are under the same control of Mr. Tamminga;
+- No other licence has been granted - either explicitly or by implication - to any third party; and
+- The two companies have structured their affairs in a manner consistent with a licensee-licensor relationship.
+[38]
+In conclusion, I am satisfied on this point that JAY-LOR Fabricating has standing to bring this action.
+5. Construction of the '092 Patent
+[39]
+Before turning to the issues of invalidity and infringement, as taught by the Supreme Court of Canada, I must construe the patent in question, meaning that I must identify the essential elements of the invention claimed in the '092 Patent (
+ <FRAGMENT_SUPPRESSED>  at para. 43;
+ <FRAGMENT_SUPPRESSED>  at para. 15).
+5.1 Claims in Issue
+[40]
+The '092 Patent, whose title is "Vertical Feed Mixer with Auger Having Centre Post with Sloped Top", sets out 13 claims. Claim 1, which is an independent claim, and claims 2, 4, 8 and 11, which are dependent on Claim 1, are at issue in these proceedings.
+[41]
+Claim 1 reads as follows:
+"A vertical feed mixer comprising a mixing chamber containing a substantially vertical rotatable auger having a center post with a generally helical flight that is tapered to converge from bottom to top, said flight extending around said center post and having a periphery, with power means to rotate said auger about a longitudinal center axis, said mixing chamber having at least one opening to receive and discharge said feed, said center post having an upper surface that is inclined relative to said center axis."
+[42]
+The other Claims in issue are as follows:
+"2. A feed mixer as claimed in Claim 1 wherein the upper surface lies substantially in one plane.
+"4. A vertical feed mixer as claimed in Claim 1 wherein said periphery of said flight has cutting means thereon.
+"8. A vertical feed mixer as claimed in any one of Claims 1, 2 or 3 wherein said periphery of said flight is smoothly curved.
+"11. A vertical feed mixer as claimed in any one of Claims 1, 2 or 3 wherein said upper surface has a slope greater than a slope of that part of said flight extending around said upper surface."
+[43]
+Included with the description of the invention are a number of diagrams. Figure 1 to the patent is a partial cut-away perspective of the patented vertical feed mixer and Figure 2 is a perspective of the auger. These two figures are set out in Appendix A to these reasons.
+5.2 Principles of Construction
+[44]
+In construing this patent, I am mindful of the guidance from the decisions of the Supreme Court of Canada (
+Whirlpool
+, above;
+Free World Trust
+, above). These cases teach that patent claims are to be construed in an informed and purposive fashion and that excessive literalism is to be avoided. As Justice Binnie explained in
+Whirlpool
+, above at para. 45, the "key to purposive construction is therefore the identification by the court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention".
+[45]
+Who is the "skilled reader"? Stated in different terms, what level of knowledge or experience should the Court assume when it construes the patent? In
+Free World Trust
+, above at para. 44, Justice Binnie provided the following guidance:
+"The patent is not addressed to an ordinary member of the public, but to a worker skilled in the art described by Dr. Fox as
+'a hypothetical person possessing the ordinary skill and knowledge of the particular art to which the invention relates, and a mind willing to understand a specification that is addressed to him. This hypothetical person has sometimes been equated with the "reasonable man" used as a standard in negligence cases. He is assumed to be a man who is going to try to achieve success and not one who is looking for difficulties or seeking failure.' (Fox, supra, at p. 184)"
+[46]
+In this case, each of the parties put forward an expert to assist the Court in the construction of the '092 Patent. The Plaintiffs provided the expert report and oral testimony of Mr. Craig Hanson and the Defendants put forward Mr. Reinhard G. Hartwig.
+[47]
+With specific reference to the patent at issue in this trial, Mr. Hanson described the "worker skilled in the art" in his report (the Hanson Report), at paras. 25 - 27, as follows:
+"25. In my view, the '092 Patent is addressed to someone with strong practical experience in agricultural machinery generally, as well as a sound understanding of the mechanical and structural aspects of such machinery. In other words, the '092 Patent is addressed to a broad range of people having a wide variety of practical experiences and/or varying levels of education.
+"26. A skilled addressee would include someone who works with feed mixing equipment on a regular basis, such as a farm operator, but is not involved in the research, development or manufacture of such feed mixing equipment. Such a person would also have a solid familiarity with the components and mechanics of such feed mixing equipment, including terminology of components. A skilled addressee would also include someone who is employed to research, develop, manufacture, test, service and/or repair agricultural machinery generally, such as a welder, machinist or engineer. With respect to this latter skilled addressee, he/she may: (1) have formal training in relevant areas, such as a college or university degree in a mechanical-oriented program and at least a minimal amount (i.e., two years) of practical experience; or (2) have a body of knowledge concerning machinery from extensive years of practical experience.
+"27. In sum, a skilled person would generally understand how a vertical mixer and its various components work, as well as the result that such a mixer produces a uniform mix of shredded hay and/or additional feed products. Furthermore, such a skilled person would understand the need to prevent bales of hay or parts thereof from becoming stuck or resting on top of the auger, or otherwise get wedged between the auger and the wall of the chamber."
+[48]
+In my view, Mr. Hanson has provided a comprehensive and appropriate description of the "person skilled in the art" for purposes of the task before me.
+[49]
+Finally, in respect of the general principles of patent construction, I note that the relevant date for the construction of the patent is the date of the publication or the date upon which the patent was laid open (
+Free World Trust
+, above at paras. 53-54). In this case, that date is February 13, 2001.
+5.3 Evidence on the construction of the '092 Patent
+[50]
+As noted, JAY-LOR's expert in matters of claims construction and validity was Mr. Craig Hanson. His qualifications, which include over 25 years of practical experience using agricultural equipment, are impressive. In summary form, I note the following:
+- He is the owner and operator of a 4,000 acre grain farm in western Canada;
+- He holds a Bachelor of Science in Agricultural Engineering, a Master of Science in Mechanical Engineering and a Postgraduate Diploma in Agricultural and Bioresource Engineering;
+- From 1984 to 1987, he worked for John Deere Limited, during which time he assisted in resolving technical problems with agricultural machinery;
+- From 1987 to 1997, he was employed by the Prairie Agricultural Machinery Institute (PAMI) as a field test supervisor, project engineer and project manager. Of particular relevance, he was exposed to and conducted testing on a vertical feed mixer in about 1996; and
+- On two occasions, he has given expert evidence involving the construction of patents for equipment, before the courts.
+[51]
+Mr. Hanson is qualified to testify as to the matter of claims construction and validity. Of significance at this point in these reasons is his evidence on the issue of the proper construction of the claims in the '092 Patent.
+[52]
+Mr. Hanson provided a detailed and careful analysis of the elements of Claims 1, 2, 4, 8 and 11. His conclusions on patent construction were not materially disputed by the Defendants' expert.
+5.4 View of the Court on Construction
+5.4.1 Characteristics of an "essential element"
+[53]
+I begin by considering, in general, what makes an element essential. A useful explanation was provided by Lord Diplock in the House of Lord's decision in
+ <FRAGMENT_SUPPRESSED>  (H.L.), at 242-243 (cited in
+Whirlpool
+, above at para. 44):
+"My Lords, a patent specification is a unilateral statement by the patentee, in words of his own choosing, addressed to those likely to have a practical interest in the subject matter of his invention (i.e. 'skilled in the art'), by which he informs them what he claims to be the essential features of the new product or process for which the letters patent grant him a monopoly.
+It is those novel features only that he claims to be essential that constitute the so-called 'pith and marrow' of the claim
+. A patent specification should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge.
+The question in each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention
+so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked." (Emphasis added)
+[54]
+As related to the '092 Patent, an essential element was described by Mr. Hanson as follows:
+"An element that, if it were changed, would affect how the invention works. If we changed this within a vertical feed mixer to something else, it would affect how it works."
+5.4.2 The purpose of the invention
+[55]
+To give a purposive construction to a patent, it is logical to move next to consider the purpose of the invention. As stated by Justice Binnie in
+Whirlpool
+, above at para. 49, "A 'mind willing to understand' necessarily pays close attention to the purpose and intent of the author." In this case, the purpose of the invention embodied in the '092 Patent is set out in the specifications as follows:
+"This invention relates to a vertical feed mixer for use in mixing animal feed and, in particular, hay in any form including round bales with other animal feed. In particular, this invention relates to a vertical feed mixer having an auger with a center post and a helical flight extending around said post where the post has an upper surface that is inclined relative to said center axis.
+"Feed mixers of various forms are known and, in particular, feed mixers for mixing round bales of hay or haylage of any size, including large and small bales with other animal feedstuffs including corn silage, commodities, byproducts and concentrates are known. Previous vertical feed mixers have a vertically mounted auger having a helically-shaped expanding periphery that is narrowest at a top and increases in size towards the base [...] Sometimes, with previous mixers, when a large bale is inserted into the mixer, the bale becomes wedged between a wall of a mixing chamber and the auger with one part of the bale resting on the top of the auger. When a bale is inserted in this position, the bale can remain in that position for a relatively long time before ultimately being broken up by the auger. The time involved obviously varies with the positioning of the bale, but the wrong bale positioning can lead to serious problems. For example, the operator of the mixer might physically attempt to dislodge the blockage and that can be dangerous or unsafe. Also, the efficiency of the mixer is greatly reduced when this type of blockage occurs."
+[56]
+There are, of course, certain aspects of a vertical feed mixer that would be common to all such machines. A person skilled in the art construing the patent, as of the date the patent was laid open, would recognize that a number of the features outlined in Claim 1 were common to all vertical feed mixers at that time. Mr. Hanson described what a person skilled in the art would understand by the term "vertical feed mixer":
+"One skilled in the art, as is defined above, would understand what a vertical feed mixer is. Such a person would know that it generally includes a tub or container that is typically elongated, but may alternatively be circular in shape. Such a tub or container would be open at its top so as to allow the insertion of feed product. Inside the tub would be a mechanical device for mixing the feed product. Such a device would probably be rotary in nature, including an auger of almost any kind that rotates on a vertical axis. The end result of a vertical mixer that mixes feed product is to provide a uniform food mix to livestock such as cattle." (Hanson Report, para. 39.)
+5.4.3 Claim 1
+[57]
+In this context of the purpose of the invention and, in general, of a vertical feed mixer, Mr. Hanson concluded that the following were essential elements of Claim 1 of the '092 Patent:
+- a vertical feed mixer capable of mixing various bales of hay and other animal feed (although Mr. Hanson described this as an essential element, I would think that this is more appropriately a purpose of the invention; in other words, it arises as a result of the components or elements of the invention);
+- a mixing chamber;
+- an auger that rotates about its longitudinal axis and is mounted in a substantially vertical orientation inside the mixing chamber;
+- an auger having a centre post with a helical flighting that is tapered to converge from bottom to top;
+- flighting of the auger that extends around the centre post and has a periphery;
+- the rotation of the auger about its longitudinal centre using a power means;
+- a mixing chamber having at least one opening to receive and discharge feed; and
+- the centre post having an upper surface that is inclined relative to the longitudinal centre axis.
+[58]
+As described by Mr. Hanson, and not disputed by Penta's expert, there are a number of elements that are essential to the invention, in that, without these components, we would not have a vertical feed mixer. In effect, such things as the mixing chamber, auger and flighting were well-known components of a vertical feed mixer as of the date the patent was laid open. These parts of Mr. Tamminga's invention came to be included in the claim as elements of an ingenious combination. While all of the components listed in Claim 1 contribute to the description of the invention as a whole, not all could be considered "novel features" ( <FRAGMENT_SUPPRESSED> , above at 242-243) and, thus, "essential" in the sense contemplated by the teachings of Justice Binnie in
+Whirlpool
+or
+Free World Trust
+, above.
+[59]
+When construing Claim 1, it is evident that the primary focus of the invention is on the final element of the claim. Specifically, the patent teaches the use of a sloped top to the auger to assist in the even feeding and mixing of materials in the vertical feed mixer. An auger post top surface that is inclined relative to the centre axis is essential to the fulfillment of the purpose of the invention claimed in the '092 Patent. Stated in another way, a vertical feed mixer that has a mixing chamber, auger and flighting - all of which are described as "essential" by Mr. Hanson - would not necessarily infringe on the '092 Patent. It is only when these features are combined with a "centre post having an upper surface that is inclined relative to said centre axis" that we have the invention described in Claim 1.
+[60]
+What is meant by the phrase "said centre post having an upper surface that is inclined relative to said centre axis"? How inclined must the surface be? How much of the upper surface must be inclined? Mr. Hanson provided further assistance on what precisely is included in this essential feature of the '092 Patent. In his Report and his testimony, Mr. Hanson described the upper surface as follows:
+- a surface that is substantially flat or generally resembles a plane;
+- it may have a slight curvature, but it is generally flat; and
+- sufficiently inclined to such a degree as a bale of hay or portion thereof, or other feed, would slide off that sloped upper surface.
+[61]
+All of these descriptions are consistent with the words of Claim 1 and the stated purpose of the patent. To this point, I am in agreement with Mr. Hanson's description of this element of Claim 1.
+[62]
+Mr. Hanson continued his construction of Claim 1 by stating as follows:
+"It is clear from the above excerpt of the '092 Patent description that an 'upper surface' of claim 1 need not be a surface that covers off the entire upper end of the auger centre post. An upper surface extending substantially from one side of the centre post to the other side of the centre post will accomplish the purpose of the invention of hay sliding off and force being applied during rotation by that upper surface. Furthermore, there are no limitations claimed anywhere in the '092 Patent concerning the degree to which an upper surface extends across the centre post. Accordingly, in my opinion, the inventor never intended that the 'upper surface' of claim 1 be construed to cover the entire top of the auger centre post, as the purpose of the invention may be accomplished without such a narrowly construed 'upper surface'." (Hanson Report, para. 67).
+[63]
+In other words, Mr. Hanson opines that, while the sloped upper surface should constitute a "fairly large" part of the total upper surface, it need not include the entire upper surface. It is at this point that I have difficulty with Mr. Hanson's construction. While I agree that the words of Claim 1 contain "no limitations ... concerning the degree to which an upper surface extends across the centre post", I do not believe that this means that any significant portion of slope on the upper surface is caught by Claim 1. We need only look at the drawings of the auger contained in Figures 1, 2, 3 and 4 of the '092 Patent to see that the inventor never contemplated anything other than a full planar surface. I also refer to the description contained in the patent specification:
+"The sloped upper surface extends substantially across the center post and lies substantially within the same plane though the sloped surface could be somewhat concave or convex or have a varying slope and a bale would still slide off the surface [...] The upper surface is preferably substantially flat."
+In my view, construing Claim 1 in the expansive manner proposed by Mr. Hanson expands the '092 Patent beyond its reasonable limits.
+[64]
+As stated by Justice Binnie in
+Free World Trust
+, above at paras. 42-43:
+"[42] The patent system is designed to advance research and development and to encourage broader economic activity. Achievement of these objectives is undermined however if competitors fear to tread in the vicinity of the patent because its scope lacks a reasonable measure of precision and certainty. [...]
+"[43] The patent owner, competitors, potential infringers and the public generally are thus entitled to clear and definite rules as to the extent of the monopoly conferred. This in turn requires that the subjective or discretionary element of claims interpretation (e.g., the elusive quest for 'the spirit of the invention') be kept to the minimum, consistent with giving 'the inventor protection for that which he has actually in good faith invented' (
+ <FRAGMENT_SUPPRESSED> ). Predictability is achieved by tying the patentee to its claims; fairness is achieved by interpreting those claims in an informed and purposive way."
+[65]
+By permitting the construction proposed by Mr. Hanson, I would be providing the inventor with more protection than he has, in good faith, invented. In my view, it is consistent with the principles of patent construction to construe Claim 1 as requiring that the entire upper surface is to be contained in one plane. This interpretation provides both protection to the patentee for his invention and certainty to potential competitors. The limits of Claim 1 are clear and predictable. Most importantly, however, this construction provides a purposive construction to Claim 1.
+[66]
+In sum, I conclude that Claim 1 of the patent teaches an agricultural implement, commonly known as a vertical feed mixer, with certain known features, and having the essential feature of a centre post with an entire upper surface that is inclined relative to the longitudinal centre axis. Thus, a person skilled in the art (as described above) would have understood that a vertical feed mixer that includes an auger with the upper surface of the auger post inclined relative to the vertical axis, lying in one plane, falls within the scope of Claim 1.
+5.4.4 Claim 2
+[67]
+As noted above, Claim 2 is for "A feed mixer as claimed in Claim 1 wherein the upper surface lies substantially in one plane".
+[68]
+A dependent claim must be construed consistently with its corresponding independent claim. A dependent claim is necessarily more limiting than its corresponding independent claim (
+ <FRAGMENT_SUPPRESSED>  at para. 65).
+[69]
+Claim 2 was interpreted by Mr. Hanson as follows:
+"Claim 2 represents a limitation that is being placed on the previously defined 'upper surface' of claim 1. The skilled person would, in view of the analysis of element (h) of claim 1 above, understand the meaning of the upper surface lying substantially in one plane. That is, unlike in claim 1 where an upper surface had no structural limitations placed on it, the inclined upper surface under claim 2 has the limitation that it must be substantially in one plane (i.e., substantially flat or level, and free of discontinuities, but not necessarily exactly flat or level, or free of any gradual curvature)." (Hanson Report, para. 69).
+[70]
+In other words, Claim 2 imposes the limitation that the upper surface lies substantially in one plane. In Mr. Hanson's opinion, the words of Claim 2 contain an acknowledgement that the upper surface is "as flat as we can get it, for all practical purposes". I accept this construction.
+5.4.5 Claims 4, 8 and 11
+[71]
+Construction of Claims 4, 8 and 11 is not in dispute. Nor is their construction of significant relevance to this litigation. I do not propose to consider them further.
+6. Validity of the '092 Patent
+[72]
+Once a patent is issued, there is a presumption that, in the absence of evidence to the contrary, the patent is valid (
+Patent Act
+, s. 43(2)). The onus is thus on the Defendants to show that the Commissioner of Patents erred in allowing the patent (
+ <FRAGMENT_SUPPRESSED>  at para. 24;
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  at paras. 43-44). In this case, the Defendants argue that the patent is invalid because it was both obvious and anticipated. I will consider each of these arguments.
+6.1 Obviousness
+[73]
+The Defendants submit that the invention embodied in the '092 Patent would have been obvious to a skilled technician as of the claimed date of invention. In particular, the Defendants point to the simplicity of the invention and the prior art embodied in United States Patent 4,949,916 issued August 21, 1990 (the Wroblewski patent).
+[74]
+As Justice Binnie stated in
+ <FRAGMENT_SUPPRESSED>  hard coinage of new, ingenious, useful and unobvious disclosures." Thus, an invention should not be patentable if the subject matter was obvious. The test for obviousness of an invention uses the concept of a skilled technician and is examined as of the claimed date of invention. Pursuant to s. 28.3 of the
+Patent Act
+, the "claimed date of invention" should now be to the claim date, defined in s. 2 of the
+Patent Act
+to mean the date of a claim in an application for a patent in Canada (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 76 (T.D.), at 99, affd. (2002), 291 N.R. 168; 21 C.P.R.(4th) 129 (F.C.A.)).
+[75]
+A helpful description of the "skilled technician" that this Court and experts giving evidence in this proceeding must contemplate when considering an allegation of obviousness was provided by Justice Hugessen for the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289; 38 A.C.W.S.(2d) 415 (F.C.A.), at 294:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+This test has been widely cited and followed by this Court.
+[76]
+Turning to the invention embodied in the '092 Patent, I note that the sloped upper surface of the invention provides a mechanically simple solution to the problem of jamming bales of hay. However, its apparent simplicity does not lead inextricably to the conclusion that the JAY-LOR vertical feed mixer is obvious and not worthy of a patent. "It is well-established that evidence of a 'mere scintilla of invention' is sufficient to support the validity of a patent" (
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), at 365). Therefore, the simplicity of an invention is not a bar to patent validity.
+[77]
+In the case before me, I must determine whether a mythical skilled agricultural technician would be led, based on the state of the art, to the claimed invention without conducting further experiments, serious thought or research (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145, at 155-156;
+Diversified
+, above at 365-366;
+SmithKline Beecham Pharma Inc.
+, above at 99-100).
+[78]
+With respect to the state of the art, as of the date of the application for the patent - August 13, 1999 - Mr. Hanson confirmed that vertical feed mixers had: mixing chambers which were open at the top to receive feed; at least one opening to discharge feed; a substantially vertical rotatable auger; an auger with a centre post with helical flighting, which was tapered to converge from bottom to top; flighting that extended around the entire centre post and which had a periphery; power means to rotate the auger, knives or cutting means on the periphery of the flighting; and a smoothly curved flight. In short, the state of the art, as it existed on August 13, 1999 and as it would be understood by the ordinary skilled technician, includes almost all of the elements of Claim 1 of the '092 Patent. The only exception relates to the auger top.
+[79]
+The key question is this: Would our mythical skilled technician directly and without difficulty have determined that an inclined upper surface on the auger would solve the problem of jamming or hung up hay bales? On the basis of the prior art disclosed by the Wroblewski patent, the Defendants argue that he would. I am not so persuaded.
+[80]
+The Defendants' expert, Mr. Reinhard G. Hartwig, spoke to this issue. In addition to a life-time of farming experience, Mr. Hartwig holds a Bachelor of Science in Mechanical Engineering and a 3rd Class Power Engineering Certificate. From 1997 to 2005, he worked for Supreme International Limited as a design engineer and, ultimately, as Vice-President of Engineering. Of particular relevance, Mr. Hartwig was responsible for the design of new models and optimization of existing models of vertical feed mixers. Mr. Hartwig's father is the named inventor on two Supreme patents and was responsible for the original vertical feed mixer manufactured by Supreme. In Mr. Hartwig's expert opinion, as stated in his report (the Hartwig Report), at paras. 21, 25 - 26:
+"It is also obvious to anyone skilled in the art to build a centre post top with as steep a slope as possible to avoid concentrations of mineral supplements, medications, or nutrient additives as this could also be harmful to the animals. In other words, it is important that clumps or portions of such additives do not sit or hang up on the-centre post but slide downward to mix in with the other feed material. Anyone familiar with vertical feed mixers understands this simple problem and, therefore, the obvious need for a sloped top.
+. . . . .
+"As discussed, the centre post of an auger must have a top or cap to prevent feed material from entering into the centre post. A centre post having an upper surface that is inclined relative to the centre axis is not only shown in the Worblewski, 839 Hartwig and 375 Hartwig Patents, but is also self evident. When manufacturing any type of auger for use in a vertical feed mixer, the first consideration is to work with physics, not against it. It is self evident to design a top that would be sloped so that the feed material or a bale would slide off the surface. It would blatantly obvious to anyone in this industry that a sloped top is preferable to a flat top, so that feed material would not remain on the top of the centre post of the auger.
+"Although the Worblewski Patent does not refer to a vertical feed mixer, but rather a device for disintegrating material, the principal is the same. The Worblewski Patent clearly teaches the use of a drum which may be rotatable having an upper inclined surface that serves to prevent the material from clogging during downward movement."
+[81]
+The first problem that I have with the comments of Mr. Hartwig is with respect to the Hartwig Patents. In both of these patents, the upper surface of the auger post is concentric or symmetrical around the centre axis. In other words, the upper surface is perpendicular to the centre axis of the auger post at the point of intersection. As I have already determined, it is essential to the '092 Patent that the upper surface is inclined relative to the centre axis. Thus, I am not persuaded that the teachings of the Hartwig Patents would lead the skilled technician directly and without difficulty to the embodiment of the '092 Patent.
+[82]
+The Defendants, in final submissions, relied extensively on the prior art of the Wroblewski patent. The Wroblewski patent was issued August 21, 1990 with the title "Device for disintegrating material, such as waste". As described by the Defendants, the invention is a mixing device with a vertical auger-like centre referred to as a counterbody. The counterbody has an inclined upper surface - much like that included in the '092 Patent. The similarities between the two patents, argue the Defendants, are clear. Further, they assert, not only does the top of the counterbody physically resemble the top of JAY-LOR's patented vertical feed mixer, its purpose matches that of the '092 Patent. As stated in the Wroblewski patent:
+"The polygonal cross section of the counterbody further prevents the material from clogging during its downward movement,
+an effect intensified by the inclined surface terminated the pyramid body
+." (Emphasis added)
+[83]
+In spite of the capable submissions of the Defendants and Mr. Hartwig on the use that a skilled technician could make of the Wroblewski patent, I am not persuaded that this patent assists the Defendants in establishing obviousness.
+[84]
+Initially, I note that the Wroblewski patent is for a device that crushes and disintegrates material. The patent discloses no use as a feed mixer. As acknowledged by Mr. Hartwig, the patent describes a device that tumbles, disintegrates and crushes elongated metal chips. He also conceded that the Wroblewski machine could also crush hay. In other words, the Wroblewski device is intended to crush rather than mix.
+[85]
+Reading the Wroblewski patent exposes far more differences than similarities between the two devices. For example:
+- The entire drum of the Wroblewski device rotates;
+- The counterbody is shown as stationarily mounted inside the drum (although the description provides that it could be made rotatable, preferably in a direction of rotation opposite to that of the drum);
+- The counterbody is described as "a hexagonal truncated pyramid" in shape, narrowing from top to bottom, and almost filling the drum at the bottom; and
+- Helical "members" are affixed to the inside of the drum as well as to the counterbody.
+[86]
+Mr. Hartwig expressed the view that a skilled technician could have easily adapted the Wroblewski patented device to a vertical feed mixer. Mr. Hanson did not agree. Nor do I.
+[87]
+My first problem is with Mr. Hartwig's description of a skilled technician. In his view, the skilled technician should have several years of direct design experience with vertical feed mixers, experience which he has. Mr. Hartwig spent eight years working as a design engineer for a vertical feed mixer manufacturer. I would expect that such a position would require inventiveness and intuition - something more than a capable and competent technician. While a design engineer would be expected to carry out far-reaching and imaginative research and to bring inventiveness to his position, these qualities extend beyond those to be attributed to our notional skilled technician. Thus, while Mr. Hartwig or any other design engineer may have thought to carry out the necessary research and make intricate modifications to the Wroblewski device, it is not reasonable to expect our technician skilled in the art to do so.
+[88]
+It is not apparent to me that the Wroblewski invention would ever have come to the attention of our skilled technician in August 1999. Would our skilled technician think to seek solutions to the problem of hay jamming by carrying out research outside the area of agricultural implements? I do not think so.
+[89]
+However, even if the skilled technician had been made aware of the Wroblewski patent, there is little likelihood that he could come directly and without difficulty to the conclusion that a sloped auger top would help reduce jamming hay bales. First, the technician would have noted that the Wroblewski disintegrating machine does not even have a rotating centre auger. The technician would have had to separate the interrelated functions of: a rotating drum; fixed, broad-based, pyramid-shaped centre section; flighting on both the inside of the drum and on the counterbody; and, the inclined surface of the top. This would require much more than the skills of our technician. Stated in other terms, to turn the Wroblewski device into the JAY-LOR vertical feed mixer would require enhancements to the Wroblewski device that consist of much more than "workshop improvements" (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 10; 58 A.C.W.S.(3d) 847 (T.D.), at 33).
+[90]
+In sum, I am not persuaded that a skilled technician would have come directly and without difficulty to the conclusion that he or she could take the sloped surface of the top of the counterbody of the Wroblewski patent and use it as a sloped top surface of the auger in a vertical feed mixer to solve the problem of jamming hay bales.
+[91]
+Finally, I would like to address the factors related to obviousness. A number of these were outlined by Justice Décary in
+ <FRAGMENT_SUPPRESSED> ; 253 F.T.R. 279; 2004 FC 791, at para. 22, this Court set out a number of relevant considerations. In considering the question of obviousness and based on the evidence before me in this case, I would adopt the following factors as relevant:
+1. Was the invention novel and superior to what was available prior to the invention? Before the introduction of the JAY-LOR vertical feed mixer, no mixer had a sloped top to its auger. Further, it is clear from the evidence that the sloped top assisted in preventing jamming of large hay bales.
+2. Has the invention been, since its introduction to the market, used widely and in preference to alternative devices? Immediately upon its introduction, JAY-LOR sales of vertical feed mixers increased dramatically.
+3. Did competitors as well as experts in the field ever think of the combination? There was no evidence before me that the combination of the elements of the JAY-LOR vertical feed mixer was ever considered. This factor is addressed in detail under the heading of "Anticipation" below.
+4. Was there amazement expressed by the community at its first publication? Mr. Carl Alexander, who works for a dealer in agricultural machinery in Alabama, spoke of his early exposure to the patented invention. In his testimony, Mr. Alexander described his initial response to the redesigned mixer as, "I didn't think it would work." Once convinced that the design would work, Mr. Alexander used the slope top auger feature as a selling point. While this may not qualify as "amazement" on the scale of - for example - the invention of penicillin, it is certainly an indication that the invention came as a surprise to and was appreciated by the community in which the vertical feed mixer is sold.
+5. Did the invention enjoy commercial success? The success of the invention can be measured concretely by the increase in the sales of JAY-LOR vertical feed mixers after they were introduced to the market.
+6. Has there been imitation of the invention since its introduction? The evidence is that other manufacturers of vertical feed mixers re-designed their products to include a sloped top to the auger. According to the testimony of Mr. Tamminga, two of JAY-LOR's competitors - Lucknow and Patz - began marketing mixers with sloped tops. After being alerted to JAY-LOR's patent, both changed their design. One other manufacturer, Kuhn Knight, initially went to sloped top and has now developed and patented an off-set auger to achieve the same functionality.
+7. Did the inventor come easily to the invention? Mr. Tamminga testified that he worked on the problem for almost two years, trying a number of designs before he accidentally stumbled on the solution of an inclined auger post top. He developed a number of prototypes of the new version of the vertical feed mixer.
+[92]
+In summary, the JAY-LOR vertical feed mixer was an invention that was not intuitive, that took significant time and effort to develop, that demonstrated immediate commercial success and that was copied by competitors. Cumulatively, the effect of these factors is "simply irresistible" ( <FRAGMENT_SUPPRESSED> , above at 296); the patent was inventive and not obvious. Stated in words that mirror those of Justice Hugessen in <FRAGMENT_SUPPRESSED> , above, the mythical creature (the man in the Clapham omnibus of patent law) would not, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. The claim of obviousness fails and the '092 Patent is not invalid by reason of obviousness.
+6.2 Anticipation
+[93]
+The Defendants also argue that the '092 Patent is invalid on the grounds of anticipation. They submit that the teachings of the '092 Patent are embodied in two patents that existed as of August 1999. These patents (collectively referred to as the Hartwig Patents) are as follows:
+1. United States Patent No. 5,615,839 titled "Mixer" issued April 1, 1997 to Alteen Distributors, Ltd., naming Gert Hartwig as inventor; and
+2. United States Patent No. 5,803,375 titled "Vertical mixer" issued September 8, 1998 to Alteen Distributors, Ltd., naming Gert Luthar Hartwig as inventor.
+[94]
+It is well established that anticipation must be found in a single document which teaches a person skilled in the art on the means to construct the invention. One must be able to look at a prior, single art and find in it all the information that, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill and possibility of error ( <FRAGMENT_SUPPRESSED> , above at 297). As stated by Justice Hugessen in <FRAGMENT_SUPPRESSED> , above at 297, "[t]he prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention".
+[95]
+In making their submissions, the Defendants relied on the expert evidence of Mr. Hartwig. Mr. Hartwig analyzed and compared a number of patents, including the '092 Patent and the Hartwig Patents, and concluded that the elements of Claim 1 of the '092 Patent were also present in the Hartwig Patents. Specifically with respect to the final component of Claim 1 of a "centre post having an upper surface that is inclined relative to said centre axis", Mr. Hartwig stated, in his report, that both of the Hartwig Patents have such a feature.
+[96]
+The Plaintiffs' expert, Mr. Hanson, disagreed. In his view:
+"[...] The Hartwig Patents in no way accomplish the same purpose of the claimed invention of the '092 Patent. Based on my construction of this element of claim 1 ... not only do neither of the Hartwig Patents teach an upper surface, but also the Hartwig Patents are examples of previous vertical mixer designs that the invention described and claimed in the '092 Patent substantially improves upon." (Hanson Reply Report, at para. 45.)
+On this issue, I agree with the Plaintiffs.
+[97]
+Both of the Hartwig Patents include a domed top. That is, the upper surface of the auger post is concentric and symmetrical in relation to the axis of the centre post. Mr. Hartwig would have me conclude that any non-flat top surface, no matter how constructed, meets the requirement of Claim 1 of the '092 Patent that the centre post have a surface that is inclined relative to the centre axis. Thus, on his interpretation of this aspect of the '092 Patent, a domed top would meet the requirements of Claim 1. The problem with this analysis is that it ignores the construction of the '092 Patent. As discussed above, an essential element of the '092 Patent is that the upper surface is inclined relative to the centre axis. Further, the skilled person would understand the upper surface of Claim 1 to be of a generally planar nature. Thus, the Hartwig Patents differ fundamentally from the '092 Patent.
+[98]
+In addition, Mr. Hartwig ignores the function of the upper surface of the '092 Patent. Contrary to the submissions of Mr. Hartwig, the auger top for the '092 Patent does not merely operate "to prevent feed material from entering the centre post". When a vertical feed mixer is constructed in accordance with the teachings of the '092 Patent, the inclined upper surface actually causes the raw materials to be pushed into the path of the other components. A domed top, as taught by the Hartwig Patents, is inherently different. While a bale of hay may slide off a domed shaped top, it would not be pushed off by the angled rotation of the upper surface contemplated by the '092 Patent.
+[99]
+In conclusion on this point, the Hartwig Patents do not anticipate Claim 1 of the '092 Patent. The '092 Patent is not invalid on the basis of anticipation.
+7. Infringement
+[100]
+Having concluded that the '092 Patent is valid, I turn to the question of whether the Penta versions of the vertical feed mixer infringe upon that patent. It is not disputed that Penta has used two different designs for the upper surface of the auger post. From March 2001 to May 2005, Penta sold vertical feed mixers with a sloped top centre auger post. Mr. Buurma, in his testimony, did not dispute that the top of the auger used in the original Penta design is identical to the JAY-LOR patented design.
+[101]
+Since May 2005, Penta has sold a vertical feed mixer with a flat auger post top to which a wedge or prism shape has been attached.
+[102]
+Using the words of Chief Justice MacLachlin, "the main purpose of patent protection is to prevent others from depriving the inventor, even in part and even indirectly, of the monopoly that the law intends to be theirs: only the inventor is entitled, by virtue of the patent and as a matter of law, to the
+full
+enjoyment of the monopoly conferred" ( <FRAGMENT_SUPPRESSED> , above at para. 43).
+[103]
+As discussed above, a vertical feed mixer that includes an auger with the upper surface of the auger post inclined relative to the vertical axis, lying in one plane, falls within the scope of Claim 1. It would also fall within Claim 2.
+7.1 Infringement by the original Penta vertical feed mixer
+[104]
+Given the construction of the '092 Patent, there is little question that Penta's original design infringes. The original Penta vertical feed mixer includes all of the elements of Claim 1. In particular, the original Penta vertical feed mixer utilizes an auger with the upper surface of the auger post inclined relative to the vertical axis, lying in one plane. With a sloped top the Penta mixer would serve the same purpose of causing jammed bales of hay to be dislodged. I am satisfied that the Penta original vertical feed mixer takes the essential elements of the invention embodied in Claim 1 and Claim 2. More specifically, those Penta vertical feed mixers manufactured between March 2001 and April 30, 2005 infringe the '092 Patent.
+7.2 Infringement by the redesigned Penta vertical feed mixer
+[105]
+The question with respect to the Penta mixer with the redesigned auger top is different. The wedge top of the redesigned auger no longer presents a single-plane solution to the problem of preventing the jamming of hay bales. As can be seen in Appendix A, Figure 3, the wedge top includes multiple planes at various angles. As a whole, the redesigned auger top begins with a flat surface rather than an inclined surface. Although a portion of the top is inclined relative to the centre axis of the auger post, the portion is much smaller relative to the entire surface than that described in the '092 Patent.
+[106]
+The redesigned Penta mixer may well provide another solution to the problem of jamming bales. However, if it provides that function, it does so without taking the essential elements of the '092 Patent.
+[107]
+In my view, the redesigned Penta vertical feed mixer does not infringe Claims 1 or 2 of the '092 Patent. With respect to the balance of the Claims in the '092 Patent, I note that each of Claims 4, 8 and 11 refers to "A vertical feed mixer as claimed in Claim 1". It follows that an alleged infringing vertical feed mixer can only infringe if it also infringes on Claim 1. Since I have concluded that the redesigned Penta vertical feed mixer does not infringe on Claim 1 of the '092 Patent, it cannot infringe on any of the dependent claims.
+7.3 Conclusion on Infringement
+[108]
+In conclusion, I am satisfied that the Penta original design infringes the '092 Patent. However, I am not persuaded that the redesigned Penta vertical feed mixer infringes the '092 Patent.
+8. Damages
+[109]
+For the reasons set out above, I have concluded that the Defendants infringed the '092 Patent until April 30, 2005, when they stopped manufacturing and selling the original Penta vertical feed mixer. I turn now to consider the remedy to the Plaintiffs. A patentee whose patent has been infringed may elect, as a remedy, either an accounting of profits or an award in damages. In this case, the Plaintiffs have elected damages rather than an accounting of profits.
+[110]
+In considering the calculation of damages, two periods must be considered. For the period from the grant of the patent (in this case, April 22, 2003), s. 55(1) of the
+Patent Act
+applies.
+"55(1) A person who infringes a patent is liable to the patentee and to all parties claiming under the patentee for all damage sustained by the patentee or by any such person, after the grant of the patent, by reason of the infringement."
+"55(1) Quiconque contrefait un brevet est responsable envers le breveté et toute personne se réclamant de celui-ci du dommage que cette contrefaçon leur a fait subir après l'octroi du brevet."
+[111]
+Prior to the grant of the patent and after the patent application is laid open for public inspection (February 13, 2001, in this case), s. 55(2) of the
+Patent Act
+provides that:
+"55(2) A person is liable to pay reasonable compensation to a patentee and to all persons claiming under the patentee for any damage sustained by the patentee or by any of those persons by reason of any act on the part of that person, after the application for the patent became open to public inspection under section 10 and before the grant of the patent, that would have constituted an infringement of the patent if the patent had been granted on the day the application became open to public inspection under that section."
+"55(2) Est responsable envers le breveté et toute personne se réclamant de celui-ci, à concurrence d'une indemnité raisonnable, quiconque accomplit un acte leur faisant subir un dommage entre la date à laquelle la demande de brevet est devenue accessible au public sous le régime de l'article 10 et l'octroi du brevet, dans le cas où cet acte aurait constitué une contrefaçon si le brevet avait été octroyé à la date où cette demande est ainsi devenue accessible."
+[112]
+I will refer to the two periods of time as follows:
+- Period 1 - from February 13, 2001 to April 21, 2003; and
+- Period 2 - from April 22, 2003 to April 30, 2005.
+8.1 General Principles of Damages
+[113]
+What is the significance of the election made by the Plaintiffs for damages?
+[114]
+Courts have considered the distinctions between damages and an accounting of profits.  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 151, at 156 (Sup. Ct.), 102 A.C.W.S.(3d) 406, affd. (2002), 155 O.A.C. 117; 16 C.P.R.(4th) 417 (C.A.), Justice Lederman described the difference in this way:
+"[...] While the goal of each remedy is the same, the underlying principles are very different. An award of damages seeks to compensate the plaintiff for any losses suffered by the plaintiff as a result of the infringement. The amount of profits earned by the infringing party is irrelevant. An accounting of profits, on the other hand, aims to disgorge any profits improperly received by the defendant as a result of its wrongful use of the plaintiff's property. Such profits, having been earned through the use of the plaintiff's property, rightly belong to the plaintiff. [...]"
+[115]
+The Federal Court has accepted the principle that "[i]t is irrelevant whether the defendant could not have damaged the plaintiff just as much if instead of infringing he had taken steps to avoid the claims of the patent: the infringing acts were unlawful acts and the only question is what damages have they caused" (
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at 73, varied (1986), 3 F.T.R. 289; 10 C.P.R.(3d) 53; 9 C.I.P.R. 139 (T.D.), at 61-62). The fact that a defendant might have competed under a licence is as immaterial as the argument that an infringer could have sold a non-infringing product (
+Domco Industries
+, above at 73).
+[116]
+In
+United Horse-Shoe and  <FRAGMENT_SUPPRESSED>  differences between damages and an accounting of profits. Of interest to this case, the House of Lords also commented on and rejected the possibility of assessing damages on only a small part of an invention. This is the notion of apportionment. In short, the House of Lords was clear that an election of damages entitled the plaintiff to recover its lost profits on the entire patented machinery:
+"When a patentee elects to claim the profits made by the unauthorised use of his machinery, it becomes material to ascertain how much of his invention was actually appropriated, in order to determine what proportion of the net profits realised by the infringer was attributable to its use. It would be unreasonable to give the patentee profits which were not earned by the use of his invention; but the case is altogether different when the patentee of machinery who does not grant licenses claims damages from an infringing manufacturer who competes with him by selling the same class of goods in the same market. In that case the profit made by the infringer is a matter of no consequence. However large his gains he is only liable in nominal damages so long as his illegal sales do not injure the trade of the patentee; and however great his loss, he cannot escape from liability to make full compensation for the injury which his competition may have occasioned. Every sale of goods manufactured, without license, by patent machinery, is and must be treated as an illegal transaction in a question with the patentee; and its inherent illegality is not affected by the circumstance that the infringement consisted in using a small, and, it may be, the least useful part of the invention."
+[117]
+This passage from
+United Horse-Shoe
+has been cited in
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), at 133, and
+Domco Industries
+, above at 73. In this case and in spite of this general rule, the Defendants submit that apportionment is appropriate. This issue is discussed below.
+[118]
+The onus rests on the plaintiff to establish the amount of loss. That is, the plaintiff bears the burden of demonstrating that it would have made the sales of its patented product had the infringing product not been on the market.
+[119]
+Where the patentee actually engages in the sale of its patented product and does not normally license use of its invention, it is entitled to the profits on the sales it would have made but for the presence of the infringing product in the market. For those sales made by the infringer that the patentee would not have made, the patentee is entitled to a reasonable royalty (
+ <FRAGMENT_SUPPRESSED> , at 45;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 129; 77 A.C.W.S.(3d) 1056, at 138 (T.D.), affd. (1999), 235 N.R. 185; 86 C.P.R.(3d) 324 (F.C.A.)). The award of a royalty, where the plaintiff cannot prove a lost sale, is recognition of the fact that
+every
+sale by an infringing party is an illegal transaction.
+[120]
+As noted above, a plaintiff is also entitled to "reasonable compensation" for infringement during the laid open period. Reasonable compensation has been described as being in the nature of a reasonable royalty, the onus being on the party claiming to prove what a reasonable royalty would be (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 193 (T.D.), at para. 253, revd. [2003] 1 F.C. 49; 288 N.R. 201; 17 C.P.R.(4th) 478 (F.C.A.)). It is obvious that recovery of reasonable compensation, pursuant to s. 55(2) of the
+Patent Act
+, may only be granted if the patent in question has issued, and, if challenged, has been held to be valid. Beyond
+Baker Petrolite
+, there is no jurisprudence discussing what is meant by "reasonable compensation" in s. 55(2).
+[121]
+The Plaintiffs urge me to award damages on the lost sales for Period 1. That is, the Plaintiffs seek the same type of damages for Period 1 as for the period after the grant of the '092 Patent.
+[122]
+In my view, such an award is not warranted. In addition to relying on the comments of Justice Gibson in
+Baker Petrolite
+, I base this view on my reading of the relevant statutory provisions. For the period after the grant of the patent, s. 55(1) of the
+Patent Act
+provides that "a person who infringes a patent is liable ... for all damage sustained by the patentee". In contrast, s. 55(2) provides that a person is liable to pay "reasonable compensation ... for all damage sustained by the patentee" during the laid open period. In s. 55(2), Parliament could have provided for the same assessment of damages as in s. 55(1). It did not do so. Accordingly, to give effect to the different words in the two provisions, I believe that the better view is that "reasonable compensation" during Period 1 must be something other than damages as contemplated by s. 55(1). It may be that there are other means to provide reasonable compensation beyond a royalty. However, in the case before me, no alternatives were presented. Thus, in this case, I intend to equate "reasonable compensation" to a "reasonable royalty".
+[123]
+In sum, since the Plaintiffs have elected damages, the following general principles apply:
+- An award of damages seeks to compensate the plaintiff for any losses suffered by the plaintiff as a result of the infringement.
+- The profits made by the defendant are irrelevant.
+- Every sale of an infringing product is an illegal transaction for which the plaintiff is entitled to recover damages.
+- In assessing the award, the plaintiff is entitled to the profits on the sales it would have made but for the presence of the infringing product in the market.
+- For those sales made by the defendant that the plaintiff patentee would not have made or cannot persuade the Court it would have made but for the presence of the infringing product, the plaintiff is entitled to a reasonable royalty.
+- Apportionment is generally not available to limit the damages payable by the defendant.
+- The period between the laying open of the patent to the grant of the patent, the plaintiff is entitled to a reasonable royalty on all sales of infringing products made by the defendant.
+- The plaintiff bears the burden of proving: (a) the sales that it would have made but for the presence of the infringing product; and (b) what a reasonable royalty would be.
+[124]
+With these principles in mind, I turn to the facts presented to the Court in this case. I will begin with the question of a reasonable royalty since this concept will have application to all sales during Period 1 and to some of the sales during Period 2.
+8.2 Reasonable Royalty
+[125]
+A reasonable royalty rate has been described as "that which the infringer would have had to pay if, instead of infringing the Patent, [the infringer] had come to be licensed under the Patent ... The test is what rate would result from negotiations between a willing licensor and a willing licensee" ( <FRAGMENT_SUPPRESSED> , above at 176).
+[126]
+This notion is premised on the assumption that someone who wishes to use patented technology would normally have sought permission and been willing to pay a royalty for its use. The patentee, if prepared to license its invention, would then negotiate the terms of the licence, including the amount of royalty, with the intended licensee. The construct is obviously artificial in the sense that the infringer, in this case, did not make the choice to seek permission from the patentee when it began to use the patented technology in its own device. Assumptions on how parties might have negotiated must be made. However, licensing is a very common practice in the intellectual property field and has developed into an area of academic study. It appears that the methodology is well established and somewhat consistent. Accordingly, evidence of how parties negotiate licence agreements and the theory applicable to the negotiations is available. In other words, from studying what is happening in the real world of licensing practices and applying generally-accepted methodology to the known facts in a specific case, we can form an opinion as to what would have happened in hypothetical negotiations between the parties in this case.
+8.2.1 Relevance of published royalty rates
+[127]
+One point that was raised was the use to be made of actual data on royalties. Mr. Martindale, an accounting expert produced by the Defendants, provided a chart containing information on seven royalties that he had located (Martindale Report, p. 12). Each of the arrangements was in respect of agricultural machinery. The licensing agreements listed provided a range of licence royalties between 1% and 10% of sales. The information was obtained from a company called Royalty Source. Mr. Martindale described Royalty Source as "a company that tracks royalty rates and licence agreement transactions that are generally public in nature." In his oral testimony, Mr. Martindale stated that:
+"The chart is a summary of the most relevant items. What I tried to do was marry the theoretical or the generally-accepted rule of thumbs, and in the late 1990s, early 2000s, on or about the infringement date, tried to establish what I might or what a reasonable person would try to gain as background information prior to going into a hypothetical or real negotiation. [...]"
+[128]
+At first blush, there is some attraction to using this information to assist the Court in reaching a reasonable royalty. Why not use real world data or industry norms? Unfortunately, in my view, the information in this chart is not useful. The problem with these data is that they are lacking in important details. Under cross-examination, Mr. Martindale acknowledged that he did not know:
+- The market conditions that drove these concluded arrangements;
+- What business the licensor was in;
+- What different products the licensor sells;
+- Whether the licensor and licensee are competitors or related companies;
+- The term of the patents; and
+- Whether the market is growing or shrinking.
+[129]
+Also during cross-examination, Mr. Martindale agreed that it would be incorrect "to rely on market transactions without adequate background to be the sole indicator of a royalty rate". In his view, these royalty rates could be used as a "sanity check or to support other methodologies". I agree with this assessment of the minimal usefulness of this information. It may provide a "sanity check". Even then, it appears to me that one should prefer the results that are based on the application of a generally accepted methodology to the specific facts of the case at hand. Absent the relevant facts listed above, there is little use that can or should be made of the data in the Royalty Source information bank.
+8.2.2 Expert Witnesses
+[130]
+The Plaintiffs presented Dr. Bernard I. Friedlander as an expert on the question of determining a reasonable royalty in the context of damages for a patent infringement action. He presented an expert report (the Friedlander Report) and testified orally.
+[131]
+Dr. Friedlander, who holds a Ph.D. in Chemical Engineering, has been involved in technology management and licensing for over 35 years. In his practice, he is currently involved, among other things, in licensing programs and strategy. Between 1966 and 1985, he was employed by Union Carbide, where his licensing responsibilities included the Agricultural Products Division. Dr. Friedlander also has extensive experience in professional organizations concerned with technology development and commercialization. In 1992, he was President of the Licensing Executives Society for both Canada and the United States. Dr. Friedlander has also devoted substantial time to the education and training of others in the field of technology licensing. Of direct relevance, he served as the Director of the Institute for Technology Transfer and Licensing Studies at the University of Bridgeport in Connecticut. Finally, Dr. Friedlander has published a number of articles on the subject of licensing.
+[132]
+I have no difficulty in accepting that Dr. Friedlander is qualified to provide this Court with opinions on the reasonable royalty to be used in this matter.
+[133]
+The Defendants put forward Mr. Ron Martindale Jr. to provide a written report "Critique of the Statement of Bernard I. Friedlander" and to testify orally.
+[134]
+Mr. Martindale is a professional accountant. He testified that 30% to 50% of his work is dedicated to business evaluation and litigation support. The Defendants asked that I qualify Mr. Martindale as an expert able to give opinion evidence on accounting matters respecting business valuations, including royalties. However, Mr. Martindale acknowledged that he had never negotiated a royalty licence agreement.
+[135]
+Mr. Martindale has considerable expertise in business accounting and business valuations. Such valuations would likely require knowledge of licensing of patent technology. However, this experience would not, in my mind, provide him sufficient expertise in the area of negotiation of a licence between a willing licensor and willing licensee. Accordingly, while I accepted Mr. Martindale as an expert on matters related to accounting and business valuations, I do not accept him as an expert to provide opinions on royalty methodologies. Nevertheless, I accept Mr. Martindale as an expert able to provide opinions that are directed to the underlying accounting principles inherent in the various royalty methodologies. This somewhat limited qualification of Mr. Martindale did not, as it turned out, become much of an issue, as Mr. Martindale did not provide contradictory opinions on the methodologies applied by Dr. Friedlander. Rather, he supported Dr. Friedlander in his evaluation of the utility of the methodologies and provided helpful comments on certain of the steps of analysis of Dr. Friedlander. Indeed, Mr. Martindale was very helpful to the Court on a number of issues related to the Friedlander Report and Dr. Friedlander's testimony.
+8.2.3 Methodologies for assessing a royalty
+[136]
+Dr. Friedlander helpfully provided three different methodologies for calculating a reasonable royalty rate. These three methodologies were described as the <FRAGMENT_SUPPRESSED> approach, the analytical approach and the anticipated profits approach. Each approach applies the notion of hypothetical negotiations between a willing licensor and a willing licensee.
+8.2.3.1 AlliedSignal Approach
+[137]
+Since the first approach was the one used by the Court in <FRAGMENT_SUPPRESSED> , it was seen as having some precedential value. In <FRAGMENT_SUPPRESSED> , the Court stated that a reasonable royalty for patented technology was between 25% and 33.3% of the plaintiff's incremental profits before tax using differential cost accounting. Dr. Friedlander agreed that this royalty range applied to the manufactured goods market and is commonly considered without regard to the technology at issue. In assessing where in the range the applicable royalty would fall, the Court in <FRAGMENT_SUPPRESSED> applied a series of 13 factors that could tend to increase or decrease the royalty within the range. For example, the fact that the parties to the litigation had been direct competitors would tend to increase the royalty rate. On his assessment of the 13 factors, Dr. Friedlander opined that the royalty should be 33.3%. Applying this result, he concluded:
+"Based on the information [provided], I understand JAY-LOR's incremental profit averages to [
+REDACTED
+] %. Accordingly, a range of 25%-33.3% of the JAY-LOR's profit before tax based on a differential cost accounting calculation represents a royalty rate of about [
+REDACTED
+] % - [
+REDACTED
+] % of the Defendants' sales in this case. Therefore, in view of the factual backdrop of the hypothetical negotiations in this case, in my opinion a reasonable royalty in this case would be [
+REDACTED
+] % of net sales of Penta's vertical mixers and associated parts and services." (Friedlander Report, para. 36.)
+8.2.3.2 Analytical Approach
+[138]
+As described by Dr. Friedlander, the starting point for the analytical approach is that the infringer, before infringing, had a certain profit margin and that, after infringement, his anticipated profit margin will increase. Since the increase is due to the patented invention, the royalty payable to the licensor is this increased profit margin.
+[139]
+One problem that Dr. Friedlander had in applying this model was that he did not have the data on Penta's financial situation and business model. He made the assumption that JAY-LOR and Penta, both being located in the same geographic area, would have similar costs of doing business and that he could use JAY-LOR's financial situation and business model as being a "good indicator" of what Penta's might be. In summary form, Dr. Friedlander's application of the analytical approach proceeded as follows:
+- Penta's anticipated retail or dealer's gross margin was (
+REDACTED
+) % based on the Manufacturer's Suggested Retail Price (MSRP) of vertical feed mixers.
+- Penta could reasonably expect to have a manufacturing gross margin (revenues minus cost of sales and research and development expenses) of about (
+REDACTED
+) %.
+- By manufacturing and selling a vertical feed mixer using JAY-LOR's patented technology, it would be reasonable to expect Penta's profits to be approximately (
+REDACTED
+) % based on the profit both at the manufacturing level and at the retail level.
+- Assuming that Penta would make 70% of their sales through distributors (where they would make only the (
+REDACTED
+) % margin as the manufacturer) and 30% through their own stores (where they would see the entire (
+REDACTED
+) % profit), the effective gross margin Penta would have seen would be about (
+REDACTED
+) % (that is, 70% of sales at (
+REDACTED
+) % margin and 30% of sales at (
+REDACTED
+) % margin).
+[140]
+On the analytical approach, Dr. Friedlander concluded as follows:
+"Using the analytical approach, the reasonable royalty is considered to be the difference between the gross margin Penta was in fact experiencing, which I understand was approximately [
+REDACTED
+] % based on the financial documents shown to me and attached at Schedule B-17, and Penta's anticipated gross margin of [
+REDACTED
+] % explained above. This results in a difference in gross margins of approximately 20% between Penta's situation pre and post (alleged) infringement. In my opinion it is appropriate that the difference, which in this case is 20%, ought to be shared between licensor and licensee. Thus, the reasonable royalty payable using the analytical method is 10% of net sales of Penta's vertical mixers and associated parts and services." (Friedlander Report, para. 43.)
+8.2.3.3 Anticipated Profits Approach
+[141]
+Finally, Dr. Friedlander applied the anticipated profits approach. In this method, a reasonable royalty rate could be established by Penta determining its anticipated profits arising from the sale of the patented invention and then paying a portion of those profits to JAY-LOR.
+[142]
+Under this methodology, Dr. Friedlander first considered the dealer gross margin of (
+REDACTED
+) % of the MSRP. Since JAY-LOR, as a manufacturer had a gross margin of about (
+REDACTED
+) %, the overall gross margin for manufacturer and dealer would be about (
+REDACTED
+) %. The average gross margin (again based on 70% of sales to other distributors and 30% of sales made directly to customers) would be about (
+REDACTED
+) %. Dr. Friedlander's understanding, from his review of Penta's information, is that Penta's general, sales and administrative costs (GSA) averaged about (
+REDACTED
+) % over the past four years. Thus, he concluded, for purposes of a hypothetical negotiation, Penta would have anticipated a net profit of 20%.
+[143]
+To this 20%, Dr. Friedlander applied the royalty rate of 33.3% based on the same factors as used in the <FRAGMENT_SUPPRESSED> approach. The result would be an anticipated royalty of 7% (rounded up from 6.66%). In Dr. Friedlander's opinion, this should be increased to 8% based on: (a) Penta's anticipated penetration into the vertical feed mixer market through the use of JAY-LOR's successful patented technology; and, (b) the upside potential of being both a manufacturer and a dealer.
+8.2.3.4 Preferred Approach
+[144]
+As described above, there are some fundamental differences among the three approaches. Which methodology would produce the most meaningful result?
+[145]
+In <FRAGMENT_SUPPRESSED> , Justice Heald concluded that a reasonable royalty was between 25% and 33.3% of the plaintiff's incremental profits before tax. Dr. Friedlander was directed by counsel for the Plaintiffs to apply this methodology. However, it is clear from his testimony that he would not normally use the <FRAGMENT_SUPPRESSED> approach. His reasons for not doing so and for using an anticipated profits methodology are, in my view, persuasive. Dr. Friedlander's views are confirmed in the following exchange.
+"THE COURT: [...] So my question is, whether there is one of these approaches of the three that you think achieves the best results?
+THE WITNESS: In the absence of Court directions, in the real world, the anticipated profits -- I believe, my opinion -- I believe is the appropriate way to determine a reasonable royalty.
+THE COURT: Yes. That's the last of the three.
+THE WITNESS: That's the last of the three. [...]
+THE COURT: [...] Now when you're working as an expert then your preference would be to use the anticipated profits approach. Then what are the weaknesses in that AlliedSignal approach that would move you away from that approach?
+[. . . . .]
+THE WITNESS: Well, the issue I take -- the first conclusion or part of the opinion that I really take issue with is the idea of using 'the incremental profit' in the <FRAGMENT_SUPPRESSED> case. I think that's not appropriate and certainly in the real world that is not what people do. I understand that he did that or she did that for a specific reason, and that was they wanted to be consistent with the base that was to be used or the profit -- the word profit to be used and they didn't want a different profit to be used for one part of the case and lost profits use a different measure of profits. So they chose -- he chose one. I would suggest he chose the wrong one but that's my opinion.
+The real world uses anticipated profit. The key is always the anticipated economic benefit in the hands of the licensee. What we always attempt to do, is whether I am the licensor or the licensee, is we produce financial forecasts for the business and those are 'anticipated'. They're forecast numbers. They are always the one thing that's difficult to forecast is the future.
+So you use whatever factors you have at hand, whatever hard data you have at hand, to try to develop a model of what the business will look like and see what the anticipated profit is, and as licensee then we look at it and say okay, this is the profit. This is the maximum we could afford to pay and yet make our required rates of return, and this is the minimum that we'd love to pay, and that's my range going in as licensee.
+THE COURT: Yes.
+THE WITNESS: The licensor, on the other hand, looks and models the business the same way, and looks at that profit and says this is probably the maximum that we can imagine getting, realistically, but this is what we'd like to get. There is usually -- you've got two ranges and there's going to be an overlap and somewhere in that overlap is going to be the number that is arrived at in the negotiation. The better negotiator will push it up to either the top of that range of overlap or it will go to the bottom, depending upon who's the best negotiator.
+But it's always based upon anticipated economic benefit. That's the gut issue.
+[. . . . .]
+THE COURT: [...] You produced three different numbers. Which of those numbers, then, is the most reasonable, in your view?
+THE WITNESS: I would -- personal, personal preference -- I would throw out the AlliedSignal and I would say it's either some kind of -- the analytical approach is giving us a 10. The anticipated profits is giving us an 8 or 7. [...] My opinion would be 8 per cent."
+[146]
+During his oral testimony, the Defendants' expert, Mr. Martindale, supported Dr. Friedlander:
+"Q. Would you please advise the Court, in your view, which of these four approaches you think would be the most helpful in determining what an appropriate and reasonable royalty rate would be in this case?
+A. Based on my training as a chartered business valuator, where one of the primary methodologies and methods -- methodologies that we use, it often is, What is happening with cash?
+At the end of the day, the economic situation, it tends to override what we look at. I think that mirrors Dr. Friedlander's comments, in terms of it is the economics of what the licensee would be expecting to make or to earn in the transaction.
+The model that most closely resembles that is the anticipated profit approach, which is: What does the licensee know when they enter negotiations, what do they think they are going to make from it, and then how would that be split?
+Q. All right. So that briefly put, your answer to that question is the same as Dr. Friedlander's? The anticipated profit approach is the most helpful one?
+A. Yes."
+[147]
+The context in which the Court in <FRAGMENT_SUPPRESSED> developed its approach to establishing a reasonable royalty should be considered. Justice Heald heard evidence from experts on both sides on the calculation of royalties. While they disagreed as to the percentage, it does not appear that there was any disagreement that the percentage (whether it was to be 50% or in the range of 25% to 33 1/3%) was to be calculated on the amount of profit before tax. That is, both experts put forward the same methodology with the only difference being the percentage to be used. There was no discussion in the trial of any other methodology or approach to calculating a reasonable royalty. Had Justice Heald been presented with another approach - such as the anticipated profits approach - he may well have accepted the logic of that approach. I do not accept that the <FRAGMENT_SUPPRESSED> case stands for the proposition that the Court must apply the same approach to calculating royalties. Indeed, based on the expert testimony before me from the experts for both parties, I believe that the <FRAGMENT_SUPPRESSED> approach of a calculation based on incremental profits before tax should be discarded. That is not to say that the approach might not be applicable in other situations; that will, of course, depend on the evidence in those cases. Further, the case is also useful for its list of factors to be used to determine where the royalty should fall within the 25% to 33.3% range. I note that Dr. Friedlander had regard to these factors in the context of the anticipated profits approach.
+[148]
+As noted by Lord Wilberforce in
+ <FRAGMENT_SUPPRESSED>  practice, as regards royalty, in the relevant trade or in analogous trades, perhaps of expert opinion expressed in publications or in the witness box, possibly of the profitability of the invention; and any other factor on which the judge can decide the measure of loss. Since evidence of this kind is in its nature general and also probably hypothetical, it is unlikely to be of relevance, or if relevant, of weight, in the face of the more concrete and direct type of evidence referred to [above]. But there is no rule of law which prevents the court, even when it has evidence of licensing practice, from taking these more general considerations into account.
+The ultimate process is one of judicial estimation of the available indications
+." (Emphasis added)
+[149]
+On the evidence before me, I conclude that the anticipated profits approach is the methodology that will lead to the best "judicial estimation" of a reasonable royalty.
+8.2.4 Application of anticipated profits methodology
+8.2.4.1 Determination of Penta's anticipated profit
+[150]
+Using the anticipated profits methodology, Penta would negotiate a reasonable royalty by estimating its anticipated profits arising from the sale of the patented invention and then paying a portion of those profits to JAY-LOR. Thus, the first step is to assess, as a percentage, what Penta would have anticipated as a profit once it began selling the vertical feed mixer with the patented technology. The key to the anticipated profits approach is an estimation of the anticipated economic benefit in the hands of the licensee. Going into the hypothetical negotiations, what profit would Penta hope to make from the sale of the patented technology?
+[151]
+For purposes of the hypothetical negotiations, both parties are assumed to know all of the facts. Since, at that time, Penta did not have a financial plan and had no intention of negotiating with JAY-LOR, we need to reconstruct the anticipated profits from what was known at the time and from the actual financial information that has come available through this litigation and over time. We also, I believe, need to assume that parties heading into negotiations would prepare carefully. With a profitable future riding on the negotiations, it would be reasonable for a potential licensee to engage professional assistance as necessary. On the specific facts of this case, Penta would have a distinct advantage going into negotiations. Specifically, having been a JAY-LOR dealer for a number of years, Penta would likely have a good overall understanding of JAY-LOR's business.
+[152]
+The first number of significance is the dealer margin. As a dealer, Penta would be well aware of that number. Dr. Friedlander accepted that the dealer margin was (
+REDACTED
+) % of MSRP. This number was based on actual sales figures of JAY-LOR. Mr. Martindale expressed his view that a 7% discount should be deducted from this margin since his information was that it was not "customary" for customers to pay MSRP. In his report, Mr. Martindale stated that he formed this opinion from discussions with Mr. Buurma and a Penta dealer. In oral testimony, he expanded his source to "industry participants". While such a discount may be customary now, there is no evidence that parties negotiating in 2002 would have anticipated a discount. Accordingly, I accept an anticipated dealer margin of (
+REDACTED
+) %.
+[153]
+After the negotiations, Penta would expect to benefit as a manufacturer as well as a dealer. So, in addition to the dealer margin, Penta would anticipate receiving a manufacturer's gross margin. Dr. Friedlander defined manufacturer's gross margin as revenues minus cost of sales and R&D expenses. On the basis of information provided to him by the Plaintiffs, he accepted that this number would be (
+REDACTED
+) % (Friedlander Report, para. 40). Since Penta was not, at that time, a manufacturer, it would not come to the negotiations with a specific knowledge of this number. There was significant discussion of Penta's expectation during cross-examination of Dr. Friedlander:
+"Q. What is the basis for your belief that Penta would have reasonably expected that number [of [
+REDACTED
+] %] given that Penta did not have the knowledge as to what Jay-Lor Fabricating's gross margin was?
+A. The basis for my statement is that one can, I believe, can reasonably assume that the prospective licensee is not saying to themselves I'm going to make less money or I'm not as capable an operator as the prospective licensor is and that I should be able to make at least as much, and probably more than the licensor because I'm more efficient, all of the ego comes into play, and there is no reason to believe that a licensor would ever say that I'm going to be less successful and a poorer operator than the licensor.
+Certainly the licensee is not going to say it's a terrible business and we have a history of making poor products and our margins have always been lousy and they will be worse in the future. They don't go into a licensing negotiation with that kind of rational else why bother taking the licence.
+Q. But you understand as a matter of fact that Penta in this case had no prior history as a manufacturer?
+A. That is correct.
+Q. Had no information about what the manufacturing gross margin of Jay-Lor Fabricating was?
+A. That is correct.
+Q. So while naturally they would assume that they could do as well as, if not better than, Jay-Lor manufacturing, where they become a licensee, they still don't know what the number is that Jay-Lor Fabricating is generating?
+A. That is correct except -- again it's a but -- but a reasonable licensee would, if only on the back of an envelope, attempt to anticipate or speculate about what kind of margins a manufacturer would have.
+The leap I'm able to make, because I'm the hypothetical negotiator on both sides, is that I have this crystal ball which tells me what the actual margins of the licensor is or are, but a rational licensee would be able to look at business in general, maybe manufacturing specifically, and come up with a good estimate of what manufacturing gross margins might be.
+Q. It would still be a rational conclusion for a licensee in the position of Penta to come up with a number that was perhaps somewhat less than the number set out in the first sentence of paragraph 40 of your report?
+[. . . . .]
+Q. My question simply was that a prospective licensee in the position of Penta could have concluded that the manufacturing gross margin might be somewhat less than the number set out in the first sentence of your paragraph 40 of the report, and that conclusion would still be rational, to use the word that you used? I didn't say a third or one per cent, I said somewhat less.
+A. It could."
+[154]
+As I understand the testimony of Dr. Friedlander on this point, he felt that Penta would be able to do a "back of the envelope" calculation to reach the (
+REDACTED
+) % figure. However, he also acknowledged that Penta
+could
+rationally have concluded a somewhat lower number. I am prepared to accept the (
+REDACTED
+) % figure. The use of the actual manufacturer's gross margin of (
+REDACTED
+) % is one that Penta could easily have calculated on a rough basis. In fact, in a friendly negotiation, JAY-LOR may well have given Penta an indication of that number or the financial information to do so. Thus, in my view, it is reasonable to assume that the company would have used a figure close to (
+REDACTED
+) %.
+[155]
+In his report, Mr. Martindale stated that, "Based on our inspection of Penta's financial records ... we understand that their manufacturing gross profit was approximately [
+REDACTED
+] %." (Martindale Report, p. 20) Thus, in Mr. Martindale's opinion, Penta would have anticipated a gross manufacturing margin of (
+REDACTED
+) % and not (
+REDACTED
+) % as predicted by Dr. Friedlander. Mr. Martindale was questioned on this number during cross-examination. He acknowledged that the number he was using was Penta's actual margin for 1999 and 2000. The problem with using this number is that it does not reflect the fact that, after negotiating a licence, Penta would expect an increase in its overall profit. I prefer the (
+REDACTED
+) % figure used by Dr. Friedlander.
+[156]
+By accepting the assumptions of both the manufacturing and dealer gross margins, it follows that the overall gross margin for both manufacturing and selling vertical feed mixers would be anticipated to be approximately (
+REDACTED
+) %. The calculations to arrive at this number are as follows:
+- First, the dealer gross margin is calculated on the MSRP; that is (
+REDACTED
+) % of MSRP. This is the gross margin that would go to Penta as a dealer.
+- The manufacturing gross margin is then calculated on the remaining (
+REDACTED
+) % of MSRP. In this case (
+REDACTED
+) %, of (
+REDACTED
+) % equals (
+REDACTED
+) % of MSRP. Thus, if Penta both manufactured and sold a vertical feed mixer, it could expect a total gross margin of (
+REDACTED
+) % plus (
+REDACTED
+) %, which equals (
+REDACTED
+) % -- (
+REDACTED
+) % when rounded up. This is the gross profit that Penta would anticipate earning if it both manufactured and sold vertical feed mixers.
+- However, it was estimated that Penta would sell about 30% of the vertical feed mixers directly and 70% through dealerships. Where it sells through dealers, Penta would only earn the (
+REDACTED
+) % manufacturer's margin, whereas direct sales would see the entire (
+REDACTED
+) % gross margin.
+- Calculating 70% of sales through dealership at a margin of (
+REDACTED
+) % and 30% of sales directly at a (
+REDACTED
+) % margin would result in an effective overall gross margin of (
+REDACTED
+) %.
+[157]
+Of course, Penta would need to consider its expenses. What would be a reasonable deduction from the overall gross margin to account for GSA? For this number, Dr. Friedlander referred to the actual GSA for Penta over the last few years. He noted that the GSA varied from about (
+REDACTED
+) % to (
+REDACTED
+) % and, in the last four years (during which time it was selling the infringing vertical feed mixers), the average GSA was about (
+REDACTED
+) % (Friedlander Report, para. 46). Mr. Martindale did not disagree with the use of (
+REDACTED
+) % for GSA. This number is subtracted from the overall gross margin of (
+REDACTED
+) % to result in an anticipated net profit of 20%.
+[158]
+In conclusion on this point, I find that, in negotiations between a willing licensor and a willing licensee, Penta would have anticipated a net profit of 20%.
+8.2.4.2 Appropriate royalty
+[159]
+Having established the profits anticipated by Penta, we next must determine what portion of those profits would be paid to JAY-LOR. Both Dr. Friedlander and Mr. Martindale accepted the range of 25% to 33.3% as an appropriate royalty (or sharing) range in this case. The question to be addressed is where in the range the royalty should be set on the "available indications" before me. For this task, Justice Heald, in <FRAGMENT_SUPPRESSED> at 179, considered 13 factors (or "available indications") in determining where within the 25% to 33.3% range a reasonable royalty rate should fall. Dr. Friedlander and Mr. Martindale provided their opinions on the application of these factors. In dealing with each of the 13 factors below, I will consider the evidence of these two witnesses.
+(a) Transfer of technology
+[160]
+Dr. Friedlander opined that consideration of the transfer of technology would tend to increase the royalty rate since Penta, as a JAY-LOR dealer, had access to the '092 Patent information and the parts suppliers of JAY-LOR. Initially, Mr. Martindale expressed the view that this would be countered by the obviousness of the '092 Patent. In my view, Dr. Freidlander's opinion on this factor is to be preferred.
+(b) Differences in the practice of the invention
+[161]
+In <FRAGMENT_SUPPRESSED> , above at para. 179, Justice Heald noted that the two parties used different processes to create their products and that this fact would reduce the royalty. In the case before me, the two products are very similar and would have used similar manufacturing techniques. In addition, Penta was able to access some of the same suppliers. Both Dr. Friedlander and Mr. Martindale agreed that this would tend to increase the royalty. I agree.
+(c) Non-exclusive licence
+[162]
+The Defendants would not have been granted an exclusive licence. On this factor, Dr. Friedlander opined that the factor is only material where a sole or exclusive licence can be granted, which is not the case with the '092 Patent. In his opinion, with which Mr. Martindale did not disagree, this factor does not affect the royalty rate. I agree.
+(d) Territorial Limitations
+[163]
+In Dr. Friedlander's view, it would have been likely that the parties would have agreed to allow the Defendants the same territory they were selling into. In that event, this factor would have a neutral effect. Dr. Friedlander also expressed the view that an agreement to expand the territory might have been reached in which case the factor would increase the royalty. On this last aspect, I agree with Mr. Martindale that there is no evidence that the Defendants were in any position at that time to expand their territory. Thus, I consider this factor to be neutral.
+(e) Term of the licence
+[164]
+The '092 Patent does not expire until August 10, 2020. Dr. Friedlander thought that a licence granted for this length of term would tend to bias the royalty rate upwards. Mr. Martindale did not agree. In my view, one would have to take into account the entry of other competitors into the marketplace, thus diminishing the value of the long patent term. I tend to agree with Mr. Martindale on this point. The evidence shows that the vertical feed mixer market is very competitive. Other companies have been entering the market with solutions to the problem of jamming hay bales. In a hypothetical negotiation, one could reasonably assume that the competition would, over time, diminish the value of the patent monopoly. Thus, I see this factor as biased against JAY-LOR.
+(f) Competitive technology
+[165]
+In <FRAGMENT_SUPPRESSED> , above at 179, the Court noted that the availability of competing technologies would reduce the royalty rate. In considering this factor, Dr. Friedlander noted that, while Penta could have used non-infringing technology, it did not. I do not see how this factor is relevant to the hypothetical negotiations. However, Dr. Friedlander also pointed out that other companies were using the '092 Patent technology, thus demonstrating that the patented technology was highly desirable. For this reason, I agree with Dr. Friedlander that this factor tends to raise the royalty.
+(g) Competition between licensor and licensee
+[166]
+As stated by Dr. Friedlander, entry of the Penta vertical feed mixer into the market made the Plaintiffs and the Defendants direct competitors. By agreeing to allow Penta to manufacture and sell the patented technology, JAY-LOR would be accepting the loss of sales that it arguably could have made. This factor is very much in favour of the Plaintiffs; the royalty would increase.
+(h) Demand for the product
+[167]
+The parties have agreed that demand for vertical feed mixers is increasing. Dr. Friedlander thought that this tends to increase the royalty rate. I note that there is evidence that some buyers may not need a vertical feed mixer that incorporates the essential elements of the JAY-LOR invention. Thus, the market for vertical feed mixers as taught by the '092 Patent may not be growing as quickly as the market in general. However, as seen from the success of the JAY-LOR vertical feed mixer on its introduction, it is clear that the invention is desirable. I am quite certain that the needs of farmers would be considered during any negotiations and this factor would, in my view, tend to raise the royalty rate, albeit less than anticipated by Dr. Friedlander.
+(i) Risk
+[168]
+With a growing market for vertical feed mixers, there is little risk to the Defendants. The '092 Patent is proven. This factor would tend to increase the royalty rate.
+(j) Novelty of invention
+[169]
+At the time of its invention, the vertical feed mixer embodied in the '092 Patent showed a significant improvement to the known technology. Both experts are in agreement that this would tend to increase the royalty rate.
+(k) Compensation for research and development
+[170]
+Dr. Friedlander was advised that JAY-LOR engaged in extensive research and development (R&D), at significant cost, to arrive at its invention. I do not entirely agree. The R&D was carried out by employees and in the facilities of the Plaintiffs. The length of time for the R&D was not excessive. The $(
+REDACTED
+) that JAY-LOR claims it invested is not excessive in the context of technology development. Nevertheless, there were some R&D costs that would tend to increase the royalty slightly.
+(l) Displacement of business
+[171]
+Dr. Friedlander noted that vertical feed mixers are the only product that the Defendants manufacture and sell, thus, leading to a higher royalty. Although Mr. Martindale stated that the Defendants sell other products, he also acknowledged that, since the vertical feed mixer sales are a significant portion of the Defendants' business, the royalty would increase on this factor. I agree.
+(m) Capacity to meet market demand
+[172]
+Dr. Friedlander noted that the Plaintiffs would have had the capacity to manufacture all of the vertical feed mixers needed to satisfy the demand that would be met by the Defendants. While there may be some minor issues with respect to the painting facilities of the Plaintiffs (discussed below), as pointed out by Mr. Martindale, I think the evidence generally supports Dr. Friedlander's opinion. On this evidence, the royalty rate would increase.
+[173]
+In sum, there are ten factors that tend to increase the royalty rate. However, for a number of those factors, I have assessed the impact as less favourable to the Plaintiffs than has Dr. Friedlander. I recognize that we are dealing with hypothetical negotiations where absolute predictability is impossible; it seems to me that the best I can do is to provide a relative analysis. Dr. Friedlander recommends a royalty rate of 33.3% based on his analysis. For some of the factors, I have concluded that his assessment of the impact was too generous. Accordingly, I concluded that the royalty rate should be somewhat lower than that proposed by Dr. Friedlander. I find that the royalty to be applied for purposes of the anticipated profits approach is 30%.
+8.2.5 Royalty Determination - the conclusion
+[174]
+The reasonable royalty that results from my findings above would be calculated at 30% of Penta's anticipated net profits of 20%; or, 6% of the Defendant's sales. In Dr. Friedlander's opinion, this should be increased by 1% based on: (a) Penta's anticipated penetration into the vertical feed mixer market through the use of JAY-LOR's successful patented technology; and, (b) the upside potential of being both a manufacturer and a dealer. I agree. Thus, I find that, utilizing the anticipated profits approach, a reasonable royalty rate would be 7%.
+[175]
+As noted above, this royalty rate will be applied to all of the infringing sales during Period 1. The 7% royalty will also be applied to those sales made by the Defendants in Period 2 that the Plaintiffs: (a) would not have made; or (b) cannot persuade the Court they would have made but for the presence of the infringing product.
+8.3 Period 1 Damages
+[176]
+To assist the Court in the calculation of damages in each of the relevant periods, the Plaintiffs presented Mr. Gary Timm, a Managing Director with the firm of Navigant Consulting. He is a Chartered Accountant with significant experience in the practice of forensic accounting, litigation support and investigations. I accepted Mr. Timm as an expert in this litigation relating to the issue of quantification of losses to the Plaintiffs due to Penta's infringement. He provided expert opinions in respect of each of Periods 1 and 2. Since I have determined that there was no infringement after the Defendants introduced the redesigned Penta vertical feed mixer, there is no need to consider damages for the time after April 30, 2005. I begin with Period 1 - from February 13, 2001 to April 21, 2003.
+[177]
+In his report (the Timm Report), at p. 17, Mr. Timm stated that Penta sold the following number of units with total sales revenues as listed:
+Dates
+Number of units sold
+Total sales revenues
+February 13 to December 31, 2001
+51
+$1,633,648.00
+January 1 to December 31, 2002
+117
+$3,752,072.00
+January 1 to April 21, 2003
+44
+$1,466,578.00
+TOTAL - Period 1
+212
+$6,852,298.00
+[178]
+Mr. Timm's table is based on the listing of alleged infringing sales listed in Appendix B1 to his report. In that Appendix, every sale made by Penta is listed. I have assumed that the selling price listed for each Penta sale is stated in Cdn$ whether the unit was sold in Canada or the United States.
+[179]
+Each and every one of the Penta vertical feed mixers sold during Period 1 infringed the '092 Patent. Thus, the Plaintiffs are entitled to a royalty of 7% of the Defendants' sales during this period. In final argument, the Defendants acknowledged that this would be the necessary calculation where a royalty is to be assessed.
+[180]
+The Plaintiffs also argued that, for Period 1, they should also be entitled to $129,148 of "estimated additional costs". They assert that, because of the infringement, they incurred two areas of expense. In the first place the Plaintiffs were forced into providing competitive allowances and discounts to their customers, in order to avoid losing even further sales to the Defendants. After reviewing the relevant financial records, Mr. Timm calculated this amount as $(
+REDACTED
+) for Period 1. Secondly, the Plaintiffs submit that the entry of Penta into the market forced them to incur higher selling costs. They were forced to hire additional salespersons. Based on the payroll information provided to him, Mr. Timm calculated an amount of $(
+REDACTED
+) for the entire period from 2002 to 2006. It appears that Mr. Timm assigned $(
+REDACTED
+) to Period 1.
+[181]
+I have difficulty including these "estimated additional costs" where a royalty is being assessed for infringement. The Plaintiffs have chosen to offer discounts and to hire more sales staff due to the competition from the Defendants. In my view, these are expenses related to impacts that have already been factored into the calculation of a reasonable royalty. Had the parties negotiated a licence agreement, the royalty would have taken the increased competition into account. As discussed above, the existence of competition between Penta and JAY-LOR was a factor that increased the royalty within the 25% to 33.3% range. If I were to award compensation to the Plaintiffs for the costs of adding sales staff and providing discounts, I would be double counting the effect of competition between the Plaintiffs and the Defendants. I decline to award these "estimated additional costs".
+[182]
+In summary, I find that a reasonable compensation for Period 1 is $479,661.
+8.4 Period 2 Damages
+[183]
+During Period 2, s. 55(1) of the
+Patent Act
+provides that the Plaintiffs are entitled to "all damages sustained ... by reason of the infringement".
+[184]
+Mr. Timm, the Plaintiffs' expert, provided his assessment of the losses to the Plaintiffs. During examination, and based on information supplied by the Plaintiffs after the preparation of his report, he varied those numbers from those initially set out in his report. In summary form, Mr. Timm provided a revised assessment of damages for Period 2 (from April 22, 2003 to April 30, 2005) as follows:
+Mr. Timm's Estimate of Damages in Period 2
+-
+Estimated lost profits on Penta sales that JAY-LOR would have attained
+$1,477,765.00
+Estimated lost reasonable royalties on Penta sales that JAY-LOR would not have attained
+$227,451.00
+Estimated additional costs
+$173,412.00
+Prejudgment interest
+$140,745.00
+TOTAL
+$2,019,373.00
+[185]
+During his testimony, and based on information supplied by the Plaintiffs after the preparation of his report, Mr. Timm revised his total down to $1,977,608.
+[186]
+Mr. Timm described the sales of Penta vertical feed mixers during Period 2 as follows:
+Penta Sales of Mixers in Period 2
+-
+-
+Dates
+Number of units sold
+Total sales
+April 22 to December 31, 2003
+97
+$2,961,386.00
+January 1 to December 31, 2004
+181
+$5,441,387.00
+January 1 to April 30, 2005
+62
+$1,820,805.00
+TOTAL - Period 2
+340
+$10,223,578.00
+[187]
+Mr. Timm acknowledged that JAY-LOR would not have acquired all of the Penta sales if Penta had not been on the market with the infringing vertical feed mixer. Other competitors would have likely picked up additional sales. For those Penta sales that JAY-LOR would not have attained, the parties agree that a reasonable royalty should be assessed.
+[188]
+Thus, for Period 2, the assessment of damages is more complex, involving the following steps:
+1. establish the number and pricing of sales of infringing Penta vertical feed mixers;
+2. compare those units to the equivalent JAY-LOR vertical feed mixer models and prices, converting all prices to Canadian currency;
+3. determine what portion of the infringing sales would have been attained by JAY-LOR;
+4. quantify the JAY-LOR profits from the Penta sales that it would have attained but for the infringement; and
+5. for those units that would not have been sold by JAY-LOR, calculate a reasonable royalty at a rate of 7%.
+[189]
+I was assisted by the expert testimony of Mr. Gary Timm, for the Plaintiffs, and Mr. Bruce Barran, for the Defendants. Each witness was qualified as an expert to give opinion evidence as to the calculation of damages in a patent infringement case. The extensive and relevant qualifications of both these witnesses were not disputed. Both witnesses provided valuable assistance in helping the Court understand some of the difficult accounting details and concepts.
+8.4.1 Apportionment
+[190]
+Before embarking on this section of the reasons, one issue raised by the Defendants should be addressed. The Defendants submit that, if infringement is found, damages should be apportioned. Their argument is based on the fact that they have made significant improvements to the JAY-LOR vertical feed mixer. Most significantly, they have included stainless steel components and lowered the profile of the machine. These improvements, in their submission, have driven the demand for their version of the vertical feed mixer. Thus, they argue, if JAY-LOR is compensated in damages for the entire vertical feed mixer, JAY-LOR will have received a windfall. In their view, damages (either as to lost sales or a reasonable royalty) should be limited to the auger component of the vertical feed mixer. I do not agree.
+[191]
+As noted above, in general, an election of damages entitles a plaintiff to recover its lost profits on the entire patented machinery. As stated in
+United Horseshoe
+, above at 267:
+"[...] Every sale of goods manufactured, without license, by patent machinery, is and must be treated as an illegal transaction in a question with the patentee; and its inherent illegality is not affected by the circumstance that the infringement consisted in using a small, and, it may be, the least useful, part of the invention. [...]"
+[192]
+This, then, is the starting point. Every sale of by the Defendants is an illegal sale of an entire vertical feed mixer. The Plaintiffs have lost sales of their patented vertical feed mixer.
+[193]
+I acknowledge that, where a patented article forms only part of the whole, there may be circumstances where a patentee may be entitled to damages based upon the whole article. In such a case, a patentee is entitled to damages assessed upon the sale of non-infringing components when there is a finding of fact that such sale arose from infringing the patented component (
+Colonial Fastener
+, above at 41-42). However, here the patented article is not just the auger; the '092 Patent is for an entire vertical feed mixer, including the unique auger that sets JAY-LOR's invention apart. There is no evidence whatsoever before the Court indicating that the '092 Patent ought to be construed as limited to the auger or the "upper surface".
+[194]
+Further, the evidence is that both Penta and JAY-LOR were selling into the vertical feed mixer market and not into the parts market. Although the auger can be replaced in a mixer, this is not the business that either party was in.
+[195]
+There is another aspect of apportionment to consider. As stated in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 26 (F.C.A.), at 33:
+"[...] But if some part of Imperial's profit on the infringing sales can be shown to have been due not to the appropriation of the Lubrizol invention but to some other factor where is the equity? ... And even if no other patents were involved, to allow Lubrizol to take profits which Imperial succeeds in showing were solely attributable to some non-infringing feature of its motor oil would be to judicially sanction Lubrizol's unjust enrichment at Imperial's expense."
+[196]
+Thus, if the Defendants are able to prove that sales of the infringing vertical feed mixers were solely attributable to the improvements that were made to the JAY-LOR invention, their argument of apportionment could succeed. In this task, the onus is on the Defendants to prove that the demand for their product arose from circumstances other than the patented features.
+[197]
+In my view, the evidence presented by the Defendants falls far short of satisfying me that customers bought the infringing units due not to the appropriation of the JAY-LOR invention but to changes made by Penta. I agree that the changes introduced by Penta may have assisted some of the sales. However, this does not mean that the purchasers were indifferent to the design of the auger. There is little doubt that the auger is the most important part of a vertical feed mixer. Without an auger that functions to mix the ingredients introduced to the mixer, loading height and stainless steel components are irrelevant. I have no evidence from customers as to what drove their sales decisions. Given the importance of the auger, would the customers not have examined the auger in the Penta vertical feed mixer before considering the other features? I am not able to conclude, as a finding of fact, that the Penta sales were made on the basis of its changes to the JAY-LOR invention.
+[198]
+Finally, I note one further related argument by the Defendants. They submit that the costs of certain components - most notably, the conveyors - should not be included in the assessment of costs. In their view, these are separate "add-ons", and are not part of the vertical feed mixer. The problem with this argument is that the conveyor and other add-ons are sold with a vertical feed mixer and form part of the same sale. Although conveyors are mentioned briefly, as an option to transport the mixture, in the specifications of the '092 Patent, JAY-LOR would not have sold a vertical feed mixer without a conveyor. When JAY-LOR lost a sale of a vertical feed mixer to Penta, it also lost the sale of the conveyor and other add-ons. Therefore, the Plaintiffs' damages include the loss of the sale of the conveyors. The costs of any add-ons, sold as a unit with the vertical feed mixer, should not be artificially severed from the assessment of the Plaintiffs' losses.
+[199]
+In sum, this is not a case where the losses to the Plaintiffs should be apportioned and limited to the auger in the patented vertical feed mixer or to exclude add-ons. The assessment of damages on lost sales should be made on the entire vertical feed mixer as sold to the customer.
+8.4.2 Number of Penta sales and comparable JAY-LOR models
+[200]
+As indicated, the first step is to identify the number of Penta sales during Period 2 (April 22, 2003 to April 30, 2005). Every one of the sales during this period was an infringing sale. Based on his review of Penta's sales records, Mr. Timm concluded that Penta sold 340 vertical feed mixers during this period with total sales amount of $10,223,578 (Timm Report, p. 17). Mr. Timm then equated the Penta sales to equivalent JAY-LOR models and sales prices, converting the US$ amounts to Cdn$, where applicable. After this exercise, carried out on a unit-by-unit basis, Mr. Timm concluded that the net Cdn$ price for the 340 units would be $9,935,090.34 (see Timm Report, App. B1, p. 14/22). I find his methodology to be reasonable.
+[201]
+For the same period, Mr. Barran adjusted these numbers, based on additional information, and identified 337 units at a total sales amount of $10,122,731. Mr. Barran identified three units in Mr. Timm's list that, in his view, should not have been included. In summary form, Mr. Barran, in incorporating Mr. Timm's JAY-LOR equivalent models and pricing for each, would have excluded the following amounts:
+Mr. Barran's Excluded Sales in Period 2
+-
+-
+-
+-
+Sale Date
+Territory
+Penta Sale Price
+JAY-LOR Equivalent Cdn$ Price
+Reason for exclusion
+Dec 01/03
+Minnesota
+$34,794.84
+$28,824.65
+Date in listing incorrect
+Mar 25/04
+Minnesota
+$40,734.18
+$35,576.50
+Used machine
+Dec 27/04
+Virginia
+$24,952.18
+$27,692.02
+Exchanged for returned Penta machine
+TOTAL
+-
+-
+$92,093.17
+-
+[202]
+In addition, Mr. Barran calculated currency exchanges on two sales (June 1, 2003 and August 23, 2004) that differed from those of Mr. Timm, for a difference of $365.95.
+[203]
+I am satisfied that the three vertical feed mixers identified by Mr. Barran should not have been included in the Period 2 sales and will deduct those amounts from the Period 2 total Cdn$ selling price for purposes of calculating lost profits.
+[204]
+However, I have no satisfactory reason for deducting a further $365.95 for currency exchange and have not done so. Mr. Timm converted US$ into Canadian funds using the Bank of Canada average annual exchange rate for the year in which the sale was made. In my view, Mr. Timm's approach to determining the appropriate exchange rate is reasonable.
+[205]
+In the end result, for purposes of calculating lost profits, I find that:
+- Penta sold 337 infringing vertical feed mixers during Period 2; and
+- had these mixers been sold by JAY-LOR, they would have had a Cdn$ selling price of $9,842,997.17.
+8.4.3 Number of lost sales
+[206]
+JAY-LOR is only entitled to receive damages for lost sales during Period 2. That is, damages are to be calculated on those sales that Penta made during Period 2 that would likely have been made by JAY-LOR if Penta had not been in the market. Both the Plaintiffs and the Defendants presented expert evidence on the assessment of lost sales based on a market share approach. As described in <FRAGMENT_SUPPRESSED> , above at 141:
+"[...] Essentially, this approach allows the plaintiff to claim that, notwithstanding the presence of acceptable, non-infringing substitutes in the market, it would have captured a proportion of the infringer's sales equivalent to its market share."
+[207]
+In final argument, the Defendants submitted that the Plaintiffs had failed to satisfy the Court that they had lost any sales. The Defendants argued that no customers had been called to present evidence that they would have bought from JAY-LOR if Penta had not been on the market. Indeed, they referred to the analysis as "just marshmallow" and the evidence as "a foundation of sand". In support, they pointed to the decision of this Court in <FRAGMENT_SUPPRESSED> , where Justice Heald required an examination of each customer.
+[208]
+The biggest problem with this argument is that the Defendants' own witness, Mr. Barran, an expert in these matters, presented his estimate of JAY-LOR lost sales using a market share approach. Mr. Barran appeared to have no doubt that a reliable estimate of lost sales could be obtained on the information provided to him. Had this case involved sales of only a few infringing products, more customer-specific evidence might have been required, as was the case in <FRAGMENT_SUPPRESSED> , above at 141:
+"It should be noted that courts usually avoid 'requiring the plaintiffs to establish ... that any definite number of retailers would have come to the plaintiffs if the defendants had not supplied infringing instruments' (
+ <FRAGMENT_SUPPRESSED>  (C.A.), at 161, per Cozens-Hardy, M.R.). However, in the case at bar, there are only nine customers in question, and as a factual matter it is clear that a review of the evidence on a customer-by-customer basis is necessary. [...]"
+[209]
+In this case, with a total of over 800 sales during the time of the alleged infringement, the market share approach is an appropriate methodology for establishing lost sales. Such methodology is not "just marshmallow".
+[210]
+Accordingly, the next step is to calculate the percentage of those 337 sales that would have been made by JAY-LOR. The 337 sales were made in a number of market territories. Each of Mr. Timm and Mr. Barran provided an opinion on what percentage of sales into those markets would have been captured by JAY-LOR but for the Penta entry into the markets. Their estimates are summarized in the following table:
+Experts' Estimates of Percentage of Lost Sales by Territory
+-
+-
+Territory
+Timm Report %
+Barran Report %
+Ontario
+100
+20-100 range (depending on area in Ontario)
+Michigan
+100
+10-100 range
+New York
+100
+50
+P.E.I.
+100
+50
+Iowa
+46
+25
+Illinois
+0
+20
+Indiana
+85
+20
+Kentucky
+100
+10
+Tennessee
+100
+25
+Virginia
+66.6
+10
+Minnesota
+50
+15
+Missouri
+50
+40
+Ohio
+75
+40
+Pennsylvania
+85
+55
+Washington
+53
+25
+Wisconsin
+25
+10
+[211]
+Applying the percentages set out above to his sales figures, Mr. Timm estimated that JAY-LOR would have attained 245 sales made by Penta for a total of $7,101,918 (Timm Report, App. B2) and would not have attained 95 sales (Timm Report, App. B3).
+[212]
+In general, I think that the percentages proposed by Mr. Timm are high. Mr. Timm's percentages represent an average of sales from February 13, 2001 to October 12, 2006 and were based on JAY-LOR's historic sales prior to that time. The problem is that the evidence shows that third party competition has been steadily increasing. By the end of Period 1 and through Period 2, new entrants into the vertical feed mixer market would likely have taken up at least some of the sales. Mr. Barran, in his Report pointed out that, by fiscal 2003, there were at least six manufacturers, besides Penta and JAY-LOR, with dealers and representatives in the vertical feed mixer market. Thus, while JAY-LOR may have lost 100% of sales in Ontario in 2001, I believe that the penetration of other vertical feed mixers into Ontario would have taken at least a portion of the JAY-LOR market during Period 2.
+[213]
+The Plaintiffs argue that the Defendants did not adduce any evidence regarding competitive market share and that, therefore, the percentages should not be reduced to accommodate competition. This, in my view, ignores both the inexact science that is involved in this exercise and the market realities facing the vertical feed mixer market. Given the competitive nature of the market, it is simply unrealistic to conclude that JAY-LOR would have captured 100% of sales in any territory. On the stand, Mr. Barran testified:
+"The fact that there are additional manufacturers entering into the vertical feed mixer industry would have an impact on anybody maintaining their market place and their sales.
+"The fact that there are additional players in the field does not mean, in my opinion, that it would be likely that JAY-LOR would achieve all of the sales that Penta received had it not entered into the marketplace."
+[214]
+Although neither expert provided a figure in this regard, I have concluded that, in general, JAY-LOR's market would likely have been reduced by about 20% in any given territory.
+[215]
+A further difficulty that I have with Mr. Timm's estimates is that they are based solely on a list provided by JAY-LOR. Mr. Timm did not carry out any independent research although he appears to have tested the JAY-LOR numbers against his own knowledge of markets. Mr. Barran, in contrast, reached his estimated percentages after considering a series of factors that I believe are very relevant (Barran Report, p. 8ff):
+- The JAY-LOR information as reflected in Mr. Timm's Report;
+- Information obtained from Penta management;
+- Historic sales by JAY-LOR in the territories claimed;
+- Identification of customers who had never dealt with JAY-LOR prior to Penta becoming a manufacturer;
+- Increased competition; and
+- Different features on the Penta vertical feed mixers that may have caused the Penta sale (lower loading height, stainless steel components).
+[216]
+Other than the last factor, all of the considerations taken in to account by Mr. Barran are relevant. For example, it is obvious that, in an area where JAY-LOR had historically made many sales, Penta's sales, for the most part, would have been picked up by JAY-LOR. This is particularly true given Penta's former position as a JAY-LOR dealer. On the other hand, it is difficult to see how JAY-LOR would have significantly penetrated an area where it had few sales prior to Penta's market entry.
+[217]
+The last factor - the different features on the Penta mixers - is more difficult to relate to Penta sales. It is likely true that many customers appreciate the lower loading height or the stainless steel features of that Penta added to its vertical feed mixers. However, there is no direct evidence from customers that these features were more important than the auger. As acknowledged by Mr. Buurma, during examination for discovery, the auger is the "heart of the mixer". In his oral testimony, Mr. Alexander, who is a very experienced dealer in vertical feed mixers, also confirmed that the auger is the most important part of a vertical feed mixer. We also know that the Defendants could have chosen another auger configuration, leading to the inference that the Defendants felt that incorporating the essential element of the JAY-LOR invention had market value. Thus, I do not agree that the different features of the Penta vertical feed mixer sold during Period 2 would have any material impact on the percentage of sales that would have gone to JAY-LOR.
+[218]
+In summary, my approach to this issue involves the following key factors:
+- JAY-LOR had introduced a patented invention that was very attractive to the market and had, with this introduction, gained a large overall market share.
+- JAY-LOR's pre-Penta share of the larger markets of Ontario, New York and Kentucky was very strong. In these markets, I have concluded that the competition would have eroded 20% of JAY-LOR sales, leaving 80% to JAY-LOR.
+- For markets where Penta recorded 8 or fewer sales in Period 2, I have assumed an overall 50% level of capture by other vertical feed mixer competitors. Territories in this category include Prince Edward Island, Missouri, Iowa, Tennessee, Virginia and Washington. This averages a number of suggested percentages and is, I believe, an overall reasonable estimate.
+- In general, Mr. Barran's reliance on the different features of the Penta mixers tended to unduly lower his market share estimates.
+- In general, Mr. Timm's almost exclusive reliance on information provided by the Plaintiffs tended to unduly raise his market share estimates.
+[219]
+With the foregoing as guidance and after weighing all of the relevant factors, I conclude that the percentages set out below are reasonable indicators of lost sales:
+Court Estimate of Percentage of Sales Lost by Territory
+-
+Territory
+Court Estimate % of Market Share
+Ontario
+80
+Michigan
+80
+New York
+80
+P.E.I.
+50
+Iowa
+50
+Illinois
+0
+Indiana
+60
+Kentucky
+80
+Tennessee
+50
+Virginia
+50
+Minnesota
+30
+Missouri
+50
+Ohio
+55
+Pennsylvania
+65
+Washington
+50
+Wisconsin
+15
+[220]
+By applying these percentages to the sales information contained in Mr. Timm's Report (App. B2 and B3), I can determine a reasonable estimate of JAY-LOR's lost sales. The following chart contains that information. Once again, I have excluded from this exercise the three machines identified by Mr. Barran.
+ESTIMATE OF LOST SALES BY TERRITORY
+Territory
+Total # Penta Sales
+Total Revenues (based on JAY-LOR comparable models) in Cdn$
+% to be applied
+#Units (rounded to nearest 0.1 unit)
+Lost Revenues
+Ontario
+59
+$1,774,791.00
+80
+47.2
+$1,419,833.00
+Michigan
+53
+$1,573,515.00
+80
+42.4
+$1,258,812.00
+New York
+10
+$310,037.00
+80
+8
+$248,030.00
+Wisconsin
+20
+$574,078.00
+15
+3
+$86,112.00
+Indiana (IN)
+38
+$996,681.00
+60
+22.8
+$598,009.00
+Kentucky
+9
+$267,625.00
+80
+7.2
+$214,100.00
+Minnesota
+82
+$2,446,873.00
+30
+24.6
+$734,062.00
+Ohio
+10
+$261,518.00
+55
+5.5
+$143,835.00
+Pennsylvania
+19
+$481,486.00
+65
+12.4
+$312,966.00
+P.E.I.
+1
+$21,680.00
+50
+0.5
+$10,840.00
+Missouri (MO)
+6
+$157,992.00
+50
+3
+$78,996.00
+Iowa (IA)
+3
+$75,272.00
+50
+1.5
+$37,636.00
+Tennessee
+5
+$142,946.00
+50
+2.5
+$71,473.00
+Virginia
+5
+$146,734.00
+50
+2.5
+$73,367.00
+Washington
+2
+$74,053.00
+50
+1
+$37,027.00
+TOTAL
+322
+$9,305,281.00
+-
+184.1
+$5,325,096.00
+[221]
+In sum, I find that, but for the actions of the Defendants in manufacturing and selling the infringing vertical feed mixers, the Plaintiffs would have sold 184 vertical feed mixers with a total sales revenue of $5,325,096.
+8.4.4 Estimated Lost Profits
+[222]
+The general rule is that the measure of damages is to be, so far as possible, the sum of money which will put the injured party in the same position as he would have been in if he had not sustained the wrong (
+ <FRAGMENT_SUPPRESSED>  feed mixers, JAY-LOR would have incurred expenses that must be considered and deducted from the lost sales revenues. Otherwise, I would be placing JAY-LOR in a better position than it would otherwise have been.
+[223]
+Both parties agree that the appropriate method of determining the Plaintiffs' lost profits is the differential cost accounting method. That differential approach requires that, from the lost  sales revenue, one deducts all the costs that would have been incurred -- all the variable costs that would have incurred to produce those sales, plus any changes in fixed cost that would have resulted from the production of the additional units (see, <FRAGMENT_SUPPRESSED> , above at 156). A fixed cost remains steady, regardless of the number of units produced. A variable cost changes with each unit of production.
+[224]
+The Plaintiffs' expert, Mr. Timm, applied this approach to estimate the lost profits for each of the periods. His conclusions for Period 2 are set out in the following Table:
+Mr. Timm's Estimate of Lost Profits
+-
+Estimated lost sales
+$7,101,918.00
+Estimated cost of sales
+$4,880,095.00
+Estimated lost margin
+$2,221,823.00
+Estimated variable costs
+$648,779.00
+Profit after variable costs
+$1,573,044.00
+Additional incremental costs
+$95,278.00
+Estimated lost profits
+$1,477,766.00
+[225]
+There is one problem immediately apparent. That is, I have come to a different number for the estimated lost sales revenues. Since Mr. Timm began his calculations with the number of $7,101,918, at least some of his numbers are overstated. Once I have examined the reasonableness of his differential cost accounting assumptions and conclusions, I will be able to undertake a new calculation of lost profits with the starting point of $5,325,096 in lost sales revenues.
+8.4.4.1 Capacity
+[226]
+One question that needs to be addressed relates to capacity. Would the Plaintiffs have had the capacity to manufacture the 184 units that it would have sold but for the actions of Penta? If JAY-LOR did not have the ability to build an extra 184 units during Period 2 (or any portion of the 184 vertical feed mixers), fixed or variable costs of acquiring the necessary capacity must be accounted for.
+[227]
+The evidence presented by the Plaintiffs and their expert, Mr. Timm, confirms that the Plaintiffs have significant idle capacity in their plant. The Plaintiffs undertook major plant additions in 2000 and 2001 to accommodate additional demand that never materialized. Mr. Tamminga stated that an additional shift could be added, with no additional overhead, if demand were to increase. Mr. Timm's view was that JAY-LOR is not fully utilizing its capacity using only one production shift (Timm Report, p. 25).
+[228]
+Mr. Barran seriously questioned the capacity of JAY-LOR's paint shop. He opined that the Plaintiffs did not have the capacity in the paint shop to achieve the sales that they claim would have been made but for the Defendants. Mr. Barran noted that the paint shop was not expanded at the same time as the balance of the facilities. In his view, the paint shop deficit would result in an average capacity shortfall of 65 units per year over the period 2002 to 2005 (see Table at p. 16 of the Timm Report). The deficit was determined using Mr. Timm's estimate of lost sales.
+[229]
+The first response to Mr. Barran's opinion is that I have found the lost sales over Period 2 to be fewer than that proposed by Mr. Timm. Instead of the 245 units set out in the Timm Report, I have concluded that lost sales would be 184 units. This alone would reduce the alleged shortfall from 65 units to about 35 per year. Secondly, even Mr. Barran, during cross-examination and in his report, appeared unconvinced of his own assessment. I am not persuaded that there is a capacity constraint in the paint shop. In any event, the painting of vertical feed mixers is one small part of the overall manufacturing. It is reasonable to assume that JAY-LOR could make minor changes in its processes to accommodate extra painting needs.
+[230]
+In conclusion, I am satisfied on this point that the Plaintiffs would have had the capacity to manufacture the lost units. Accordingly, no adjustment to the Plaintiffs' lost profits is required to account for increased capacity.
+8.4.4.2 Cost/Expense adjustments for lost sales
+[231]
+As noted, both experts agreed that the profits that would have been generated on the lost sales should be calculated by the differential/incremental cost accounting method. As explained by Mr. Timm (at s. 7.4 of the Timm Report):
+"Under the differential cost accounting method, the costs to be deducted would include:
+(i) the variable costs/expenses (eg. cost of sales plus other variable costs) directly attributable to the lost sales; and
+(ii) any increase in fixed costs attributable to producing and selling the additional mixer units."
+[232]
+I begin with variable costs. The Plaintiffs' expert, Mr. Timm, opined that the following costs would vary with sales:
+- Cost of sales - material and assemblies, including costs of raw materials and labour;
+- Cost of sales - manufacturing overheads, including warranty expense, repairs and maintenance, shop supplies;
+- Advertising and promotion; and
+- Selling and commission wages.
+[233]
+Mr. Timm based his analysis on the Plaintiffs' historic financial statements for the years ending December 31, 2000 to 2005. Based on his review and calculations, Mr. Timm concluded that estimated profits after variable costs have averaged (
+REDACTED
+) % over the years 2000 to 2005.
+[234]
+In addition to the variable costs, Mr. Timm identified other costs that would be incurred. While he acknowledged that fixed costs, by definition do not vary directly and proportionately with additional sales, he stated that "certain fixed costs may vary once a certain level of production or sale is met" (Timm Report, p. 31). In his view, three types of expenses would fall into this category - administrative wages, telephone expenses and office expenses.
+[235]
+Differences of opinion between Mr. Timm and Mr. Barran arose with respect to certain of the adjustments. The areas of divergence related to the factors below.
+(a) Rebates and Promotions
+[236]
+Mr. Barran opined that the lost sales revenues should be reduced by 1.95% in Period 2 to account for rebates and discounts. In his testimony, he stated that his understanding, based on discussions with Mr. Buurma and Mr. Ludwig, is that such discounts and rebates are common in the marketplace. Accordingly, he felt that the selling price for lost sales should be stated as net of these rebates. Mr. Barran's opinion on this reduction was formed on the basis of discussions and is not founded on clear evidence. I am not persuaded that such a reduction should be applied in this case.
+(b) R&D Expenses
+[237]
+One area of disagreement related to Scientific Research and Experimental Development (SRED) expenses. In general terms, the discussion deals with research and development (R&D) expenses - SRED being a term used in relation to a specific aspect of the Canadian tax system. Mr. Barran was of the view that Mr. Timm had not included, as a variable cost, R&D expenses, on the basis that the costs would have been incurred in any event; that is, R&D expenses were incurred independent of the number of units produced. Mr. Barran was of the opposite view, stating, at p. 13 of his Report:
+"If JAY-LOR had not carried out SRED they would not have developed new product in mixers of comparable size to Penta. The expense incurred is a 'by-product' of SRED and, in its own context, is manufacturing. The fact that there is a special tax incentive in Canada to carry out SRED does not change the nature of the expense from variable to fixed. Therefore, we do not believe that the expense in the cost of sales calculation should be eliminated. [...]"
+[238]
+On this point, I agree with Mr. Timm. In my view, R&D expenses would be accounted for as overhead and would not vary on the basis of the number of units. Further, while we know that JAY-LOR continued to incur R&D expenses, there is no persuasive evidence to demonstrate that those expenses varied with the number of sales or would have increased had JAY-LOR manufactured the 184 lost sales units.
+(c) Administrative wages
+[239]
+Mr. Timm expressed the view, at s. 7.6, p. 32 of the Timm Report, "that one extra administrative position would be required due to increased paperwork and administrative interaction with customers." The cost of this position was included as a variable expense at 1.1% of the lost sales. Mr. Barran suggested that 3.3% would be a more appropriate rate to use to calculate administrative wages. Mr. Ludwig, the Accounting Controller of JAY-LOR, testified that he treats administrative wages as overhead and does not attempt to allocate administrative wages to the production.
+[240]
+In this case, I prefer the evidence of Mr. Timm. It is not unreasonable to conclude that one extra administrative employee would be required to manage all aspects of the manufacture and sale of 184 vertical feed mixers during Period 2. I am also satisfied with Mr. Timm's allocation of 1.1% of lost sales to this position.
+(d) Telephone expenses
+[241]
+Mr. Timm felt that an additional $5,000 per year would be incurred for telephone charges "due to increased telephone interaction with customers". He valued this cost at 0.1% of the incremental or lost sales.
+[242]
+Mr. Barran did not agree. He reviewed JAY-LOR's average telephone cost during the historic period at 0.42% of sales. Thus, Mr. Barran concluded that the "more representative value to use would be 0.25% of sales".
+[243]
+In his testimony, Mr. Ludwig noted that telephone costs have actually decreased over time even though volume has increased. This suggests that Mr. Barran's estimate of 0.25% of sales is high. In my view, the 0.1% applied by Mr. Timm is appropriate.
+(e) Office expense
+[244]
+Mr. Timm submitted that an additional $5,000 per year - 0.1% of total sales - in office expenses would be required due to increased paperwork associated with the lost sales. Noting that historically office expense has been 0.58%, Mr. Barran suggested that 0.5% would be a more reasonable cost.
+[245]
+The increase in office expenses due to the lost sales would, in my view, be minimal. I accept Mr. Timm's assessment of 0.1%.
+(f) Bad debt
+[246]
+In his report, at pp. 13-14, Mr. Barran stated that the expenses of bad debts should have been included as a variable cost. However, during cross-examination, he acknowledged that, if it can be shown that the debts are unrelated to the sale of vertical feed mixers, they would not form part of the variable costs. I am satisfied that the bad debts are not related to the sale of vertical feed mixers. These expenses need not be assessed against the lost sales.
+(g) Additional expenses
+[247]
+Under the headings of: (a) advertising and promotion; and (b) selling and commission wages, Mr. Timm took into account two additional variable expenses. Based on his review of the circumstances surrounding Penta's entry into the market with its infringing vertical feed mixer, Mr. Timm concluded that the Plaintiffs had incurred additional expenses that should be accounted for. In the first place, the Plaintiffs were forced into providing competitive allowances and discounts to their customers, in order to avoid losing even further sales to the Defendants. Secondly, JAY-LOR was forced to hire additional salespersons, particularly in markets that were most impacted by the loss of Penta as a dealer. Mr. Timm adjusted downwards his estimate of (a) advertising and promotion; and (b) selling and commission wages, to exclude these costs from his calculations. For Period 2, Mr. Timm concluded that the competitive allowances and sales rebates totaled $(
+REDACTED
+). For the additional salespersons salaries, Mr. Timm provided a breakdown on a calendar year. For the period 2003 to 2004 (roughly corresponding to Period 2) these salaries plus benefits were calculated at $(
+REDACTED
+).
+[248]
+These expenses were first discussed in section 8.3 of these reasons dealing with the reasonable royalty (starting at para. 180). For purposes of determining a reasonable royalty, I found that the effects of additional competition from a willing licensee were compensated for in the payment of a royalty. For that reason, I declined to consider the "estimated additional costs" for Period 1 or in relation to any sales for which a royalty is payable. However, the situation is different for calculation of damages for the lost sales. There is a causal connection between the incurring of the additional selling expenses and Penta's entry into the market. For this reason, I am inclined to agree with Mr. Timm that an accounting should be done to reflect these costs. Further, I am prepared to accept his calculation of the adjustment. This adjustment has been accounted for in the determination of lost profits, thereby reducing the estimated costs and, consequentially, increasing the total estimated lost profits.
+8.4.4.3 Conclusion as to lost profits
+[249]
+Having reviewed the evidence before me, I am satisfied that the analysis carried out by Mr. Timm (set out in the Table in para. 224, above) is reasonable. As noted, Mr. Timm's starting number of estimated lost sales is higher than I have found. Specifically, I concluded that the estimate of lost sales is $5,325,096, rather than $7,101,918; this is approximately 75% of the estimate of Mr Timm. In addition to applying Mr. Timm's percentages to establish Variable Costs, I would also adjust the Additional Incremental Costs downwards to reflect a portion of those expenses equal to the ratio of my finding of the amount of lost sales to that of Mr. Timm (that is, 75%). Accordingly, I have recalculated the numbers in Mr. Timm's Table and prepared the following:
+Final Determination of Lost Profits
+-
+Estimated lost sales
+$5,325,096.00
+Estimated cost of sales
+$3,660,071.00
+Estimated lost margin
+$1,665,025.00
+Estimated variable costs
+$486,584.00
+Profit after variable costs
+$1,178,441.00
+Additional incremental costs
+$71,459.00
+Estimated lost profits
+$1,106,982.00
+[250]
+Because of rounding errors, this total should be increased by $331 to $1,107,313. In summary, I find that the Plaintiffs' estimated lost profits for Period 2 are $1,107,313.
+8.4.5 Royalty on remaining Period 2 sales
+[251]
+For those sales by Penta that JAY-LOR would not likely have attained in Period 2, damages must be assessed as a reasonable royalty. In this case, I have already determined that 7% is a reasonable royalty.
+[252]
+How many such sales took place in Period 2? In addition to the 322 sales listed in the above chart, Penta made an additional 15 sales into territories where both Mr. Timm and Mr. Barran agree JAY-LOR would not have made any sales. A royalty will be assessed for each of these 15 sales. Next, I will add to this number the unit that was listed incorrectly as being sold on December 1, 2003 for a Penta selling price of $34,794.84. While I cannot conclude that this unit was sold in Period 2, it is obvious that it was sold at some point and should attract a royalty. Finally, a royalty will be assessed in respect of those sales not included in the 184 sales identified above; that is, 138 (322 minus 184) sales. Thus, I find that damages in respect of the 154 Penta sales made during Period 2 are to be assessed on the basis of the 7% royalty rate, calculated on the sales revenues earned by Penta, using their pricing.
+[253]
+Since I have used aggregate numbers to quantify sales lost to JAY-LOR, it is impossible to calculate the exact sales revenues on a unit-by-unit basis (except for the 15 sales into territories where there were no lost sales). However, I believe that a reasonable approximation can be obtained by first determining the arithmetic mean of Penta's selling price for all 338 units. (This number includes the vertical feed mixer listed as being sold on December 1, 2003.) This average is then multiplied by the total number of units sold less those units lost to JAY-LOR. I have assumed that all Penta sales (as set out in Appendix B1 to the Timm Report) have been stated in Cdn$ whether the sale was made in the United States or Canada.
+[254]
+The following sets out the steps in this calculation:
+1. All sales for Period 2 are added (not including the sales of Mar 25/04 for $40,734.18 and Dec 27/04 for $24,952.18) to obtain the total sales revenue to Penta for the 338 units sold in Period 2. This sum is $10,157,891.89.
+2. The arithmetic mean or average Penta selling price for Period 2 is calculated by dividing the total from step 1 by the 338 total number of units. The average obtained is $30,053 (rounded to the nearest dollar).
+3. The arithmetic mean determined in step 2 is multiplied by 154 to obtain an approximate aggregate sales revenue for units where JAY-LOR would not have attained the sales. The aggregate sales revenue is $4,628,162.
+4. The royalty payable is calculated by taking 7% of the approximate aggregate sales revenue determined in step 3. The result is $323,971.
+[255]
+Thus, in my view, the royalty to be assessed against the Defendants for Period 2 sales that would not have been attained by JAY-LOR is $323,971.
+9. Punitive Damages
+[256]
+The Plaintiffs seek $100,000 in punitive damages. They submit that punitive damages have been awarded in patent infringement actions (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.)). In <FRAGMENT_SUPPRESSED> , Justice Lefsrud summarized the situation where punitive damages would be warranted, at paras. 110-111:
+"The test ... is whether the Defendant's misconduct was so outrageous that punitive damages are rationally required to act as deterrence.
+"In summary, punitive or exemplary damages are awarded where the actions of the Defendant have been outrageous or high-handed, so as both to punish the Defendant for wrongdoing and to make an example of him in order to deter others."
+[257]
+In this case, I am not persuaded that punitive damages are warranted. Although Penta acknowledges receiving a "cease and desist letter" from JAY-LOR's counsel dated December 19, 2002, no other formal notice of infringement was ever provided to Penta or Mr. Buurma. Indeed, the testimony of Mr. Buurma was that, when Mr. Tamminga first viewed the Penta vertical feed mixer at a trade show in Louisville, Kentucky, Mr. Tamminga expressed concern only about the shape of the flighting and not the auger. At that time, it is fair to conclude that Mr. Buurma had a reasonable belief that his version of the vertical feed mixer was not infringing. We also heard Mr. Buurma testify that, after reviewing the patent, he did not believe that his vertical feed mixer would infinge on the JAY-LOR patent.
+[258]
+In sum, I would not characterize Penta's behaviour as "outrageous or high-handed". Punitive damages will not be awarded.
+10. Summary of Findings
+[259]
+Having completed the foregoing analysis, a summary of my key findings is as follows:
+- JAY-LOR Fabricating has standing to bring this action.
+- The '092 Patent is valid; it is not invalid due to anticipation or obviousness.
+- The '092 Patent was infringed by the Defendants by the manufacture and sale of the original Penta vertical feed mixer design:
+- during the period of time from the date the patent was laid open to the date of the grant of the '092 Patent (February 13, 2001 to April 21, 2003 - Period 1); and
+- from the date the patent was granted to the date that the Defendants began to manufacture and sell the re-designed Penta vertical feed mixer (April 22, 2003 to April 30, 2005 - Period 2).
+- The '092 Patent was not infringed by the manufacture and sale of the redesigned Penta vertical feed mixer on or after May 1, 2005.
+- This is not a case where the losses to the Plaintiffs should be apportioned and limited to the auger in the patented vertical feed mixer and to exclude add-ons. The assessment of damages on lost sales and for royalty purposes should be made on the entire vertical feed mixer as sold to the customer.
+- Utilizing the anticipated profits approach, a reasonable royalty rate is 7%.
+- For Period 1, "reasonable compensation" is to be assessed as a reasonable royalty.
+- Reasonable compensation for Period 1 is $479,661, based on the sale of 212 infringing vertical feed mixers for a total sales revenue of $6,852,298 and a 7% royalty rate.
+- During Period 2, but for the actions of the Defendants in manufacturing and selling the infringing vertical feed mixers, the Plaintiffs would have sold 184 vertical feed mixers with a total sales revenue of $5,325,096.
+- The Plaintiffs' lost profits for Period 2 are $1,107,313.
+- Damages for Period 2 sales that the Plaintiffs would not have obtained is to be assessed as $323,971, based on the sale of 154 infringing vertical feed mixers for a total of $4,628,162 and a 7% royalty rate.
+- Punitive damages will not be assessed against the Defendants.
+[260]
+Given these findings, I conclude that the Plaintiffs are entitled to total damages, for Period 1 and Period 2, in the amount of $1,910,945.
+11. Conclusion
+[261]
+In conclusion, judgment will issue in favour of the Plaintiffs.
+[262]
+In their final submissions, the Plaintiffs sought an Order:
+A. Declaring Canadian Patent No. 2,316,092 (the "Patent") valid;
+b. Declaring that the Defendants have infringed claims 1, 2, 4, 8 and 11 with respect to the pre-May 1, 2005 Penta vertical mixers including the period of time in which the Patent was laid open, and claims 1, 2, 4, and 8 with respect to the post-May 1, 2005 Penta vertical mixers;
+c. Enjoining the Defendants, by themselves, their directors, officers, employees, agents, related or affiliated companies, or otherwise, and all those in privity with or under the control of the Defendants, from infringing any one of the claims of the Patent, and from manufacturing, using and selling a vertical feed mixer that infringes any one of the claims of the Patent;
+d. In the amount of $5,202,495 in respect of the Plaintiffs' damages, which is inclusive of reasonable compensation under s. 55(2) of the
+Patent Act
+and pre-judgment interest;
+e. In respect of the scheduling of steps for the hearing of a reference concerning the calculation of damages for the period of October 2006 to the date of any injunction;
+f. Delivery up to the Plaintiffs of all vertical feed mixers, as well as any apparatus, parts, attachments, components, specifications, documents or things within the possession, power or control of the Defendants and which may offend the injunction sought;
+g. In the amount of $100,000 in respect of punitive damages;
+h. In respect of post-judgment interest;
+i. Goods and Services Tax; and
+j. The Plaintiffs' costs.
+[263]
+Given my conclusions, it is apparent that certain of the items of the requested Order will not be included. In particular, the Plaintiffs will not have a declaration of infringement for the period beginning May 1, 2005, for the reason that I have not found the re-designed Penta vertical feed mixers to have infringed the '092 Patent. Given that the Defendants have not manufactured an infringing vertical feed mixer since May 1, 2005, there is no need, in my view, for an injunction or for an order for delivery up of infringing units. Further, a reference to determining damages from October 2006 is unnecessary. Lastly, there will be no order for payment of punitive damages.
+[264]
+Accordingly, the Plaintiffs are entitled to judgment on the following terms:
+(a) A declaration that the '092 Patent is valid;
+(b) A declaration that the Defendants have infringed the '092 Patent with respect to the pre-May 1, 2005 Penta vertical mixers including the period of time in which the '092 Patent was laid open;
+(c) Damages payable by the Defendants to the Plaintiffs in the amount of $1,910,945, which amount is inclusive of damages pursuant to s. 55(1) of the
+Patent Act
+and reasonable compensation under s. 55(2) of the
+Patent Act
+;
+(d) Pre-judgment and post-judgment interest determined in accordance with the laws of the province of Ontario; and
+(e) Goods and Services Tax.
+[265]
+In addition, the Plaintiffs are entitled to costs. In the event that the parties cannot agree on the amount of costs within 35 days, they may make submissions to this Court, such submissions are not to exceed four pages. The parties will have a further 15 days to make reply submissions, if they choose, not to exceed two pages.
+[266]
+Finally, pursuant to Rule 394 of the
+Federal Court Rules
+, SOR/98-106, the Plaintiffs are directed to prepare for endorsement a draft order implementing the Court's conclusions, approved as to form and content by the Defendants or, where the parties cannot agree on the form and content of the order, to bring a motion for judgment in accordance with Rule 369. Such draft order or motion is to be submitted to this Court on or before April 12, 2007.
+Judgment for plaintiff.
+Editor: Elizabeth M.A. Turgeon/klf
+[Diagram omitted - see printed version]
+[End of document]

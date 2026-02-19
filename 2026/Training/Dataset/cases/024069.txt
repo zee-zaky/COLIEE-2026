@@ -1,0 +1,650 @@
+1. Background
+[1]
+Dubé, J.
+: This rather complex patent infringement case involves claims in three Canadian patents owned by the plaintiff ("VISX") and generally directed to an apparatus used in performing surgical operations upon the cornea of the eye by means of an excimer laser so as to correct conditions such as myopia (nearsightedness) and astigmatism (irregular curvature).
+[2]
+VISX is a corporation incorporated in June 1988, pursuant to the laws of the State of Delaware, U.S.A., with head office at Santa Clara, California. It manufactures and sells apparatus for performing ophthalmological surgery of the cornea in Canada and abroad and holds a number of patents relating to the methods and apparatus for such surgery in various jurisdictions.
+[3]
+The defendant ("Nidek") is a corporation based in Gamagori, Japan. It manufactures an apparatus for performing ophthalmological surgery known as the EC-5000 which is sold in many countries, including Canada, for the performance of operations upon the eyes of patients. Some of the operations are known as PRK (photorefractive-keratectomy) and LASIK (laser in-stitu keratomileusis).
+[4]
+Among the surgeons who use the EC-5000 in Canada are the two defendants, Dr. Howard Gimbel and Dr. Donald Johnson. Dr. Gimbel is an ophthalmologist who maintains offices throughout Canada and abroad, but is primarily based in Calgary, Alberta. Dr. Donald Johnson is an ophthalmologist who also maintains offices in Canada and abroad, but is primarily based in New Westminster, British Columbia.
+[5]
+The three patents at issue are as follows:
+"(i)
+The '732 patent
+- Canadian Patent No. 1,243,732 filed October 1984, claiming a priority of November 1983, and granted October 1988;
+"(ii)
+The '813 patent
+- Canadian Patent No. 1,271,813 filed June 1986, claiming a priority of June 1985, and granted July 1990; and
+"(iii)
+The '658 patent
+- Canadian Patent No. 1,254,658 filed May 1986, claiming no priority, and granted May 1989.
+All patents name Francis A. L'Esperance as the only inventor."
+[6]
+To facilitate the comprehension of these reasons, the '732 patent will be referred to as "the Myopia Patent" as its object is to effect a myopia-reducing corrective change in the curvature of the cornea. The '813 patent will be referred to as "the Astigmatism Patent" as its object is to achieve a cylindrical astigmatism-reducing anterior-curvature change. The '658 patent will be referred to as "the Topography Patent" as it claims a combination of three units revolving around a topography-display unit.
+[7]
+Both the Myopia and the Astigmatism Patents are closely related as both deal with a laser technique for reshaping the cornea. The Myopia Patent discloses that the technology may be used for a variety of conditions of the eye, including astigmatism, but does not claim astigmatism. The Astigmatism Patent purports to claim the same technique but as applied exclusively to astigmatism. The disclosure and claims of both patents are nearly identical.
+[8]
+On the other hand, the Topography Patent deals with the measurements and display of topography, that is the surface area of the cornea and the linking of that information, via computer, to an idealized corneal surface, thereby automating the laser to create the desired shape of the cornea.
+2. Construction
+2.1 Basic Principles Of Construction
+[9]
+It is common ground that the first duty of the court in such proceedings is to "construe" the patent. Claim construction must be effected before dealing with the alleged infringement or the validity of the patent. The construction of a patent is a question of law to be decided by the court. Consequently, the claims must be construed without reference to prior art or to alleged infringing activities. A patent must be given a purposive construction rather than a purely literal one derived from the mere application of meticulous and verbal analysis. In other words, the claims must be interpreted "by a mind willing to understand, not by a mind desirous of misunderstanding" [see footnote 1].
+[10]
+The court must look to the whole of the disclosure and the claims to ascertain the nature of the invention and methods of its performance being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. This is not an occasion for being too astute or technical [see footnote 2]. The learned author W.L. Hayhurst has adopted a useful set of guidelines for construction, drawn from relevant Canadian jurisprudence [see footnote 3]:
+"(i) the relevant date for construction is the effective date of filing the patent application;
+(i) construction is for the court, viewed through the spectacles of a person skilled in the art;
+(ii) the specification must be construed as a whole;
+(iii) a specification is construed without reference to other documents;
+(iv) construction precedes consideration for validity and infringement;
+(v) construction must be purposive, neither benevolent nor harsh.
+i) What is 'essential' is a question of construction.
+ii) The same principles of construction apply to all patent specifications.
+iii) Where more than one construction may reasonably be reached, the court favours one that upholds the patent.
+iv) Where possible, different meanings should be ascribed to different claims."
+[11]
+It is also common ground that, as with any legal document, a patent is to be construed on the basis of the content of the document itself. Moreover, a patent must be interpreted with regard to the knowledge of a person skilled in the art to which the patent pertains [see footnote 4]. Consequently, expert evidence is permissible to assist the court in construing the claims by providing evidence as to technical matters and a patent is to be construed as of the date it is issued.
+2.2 Expert Witnesses
+[12]
+The court benefited from the learned opinions of several expert witnesses. On behalf of VISX, first appeared Dr. Neal A. Sher, an ophthalmologist and refractive surgeon practising in Minneapolis, Minnesota. He has extensive experience with corneal laser surgery systems as well as other methods of refractive surgery. He gave evidence relating to the anatomy of the eye, refractive conditions of the eye such as myopia, astigmatism, hyperopia and the ophthalmological aspects of the patents in issue. He is also familiar with the EC-5000 apparatus of Nidek.
+[13]
+The second expert witness on behalf of VISX was Dr. J. Gary Eden, a professor of Electrical and Computer Engineering at the University of Illinois. He is an expert on optical systems and ultraviolet lasers with extensive experience in matters of optics generally and optical physics in particular. He gave evidence relating to the basic concepts underlying the laser and optical systems, as well as to the concept of topography.
+[14]
+On behalf of Nidek, Mr. Kan Ohtsuki has a degree in engineering specializing in precision mechanical matters particularly relating to optical systems. He is also the designer of the alleged infringing apparatus EC-5000 as well as an employee of Nidek. He gave expert evidence as to the design and construction of the EC-5000. He testified in Japanese with the assistance of an interpreter.
+[15]
+Dr. Stephen D. Klyce is a professor of ophthalmology and anatomy, department of ophthalmology, Louisiana State University Medical Centre, New Orleans, Louisiana, U.S.A. He specializes in the area of eye surgery research, particularly the area of corneal surgery and topography relating to surgery of the cornea. He gave evidence on the topic of topography.
+[16]
+Dr. Peter Oesterlin holds a PhD in physics from the University of Freiburg, Germany, granted to him in 1979. He carried on post-doctoral research at Stanford University, California, USA, in the field of scientific laser applications. He gave evidence about prior art and issues related to focusing and imaging.
+[17]
+The defendant, Dr. Howard Gimbel, is a Clinical Assistant Professor, Department of Surgery, University of Calgary, Alberta. He gave expert evidence on photorefractive keratectomy.
+[18]
+All the expert witnesses provided valuable technical information to the court. Although, as expected in such cases, their opinion evidence mostly favoured the party that called them, they nevertheless honestly enlightened the court on these complex matters. They were not in agreement on some of the key issues. My own impartial interpretation of the claims of the patents in issue is based on a purposive view "through the spectacles" or, more appropriately in this case, at the focal point of the experts' lenses. Obviously, I came to the hearing with no preconceived opinion in the highly specialized fields of ophthalmology and keratectomy.
+2.3 The Myopia Patent (The '732 Patent)
+[19]
+In broad terms, the Myopia Patent relates to an apparatus for performing ophthalmological surgery by selective ablation of the anterior surface of the cornea through the removal of tissue within the optically functioning area of the cornea for the purpose of effecting a myopia-reducing corrective change in the curvature of the cornea. It contemplates the use of a scanning laser characterized by ultraviolet radiation. The flux density of the beam radiated by the laser is controlled in order to achieve a desired depth of ablation. The scanning may be controlled to change the front surface of the cornea so that the cornea becomes the corrective lens, thus dispensing with a contact or other corrective lens.
+[20]
+The disclosure titled "
+Method and Apparatus for Ophthalmological Surgery
+" stipulates that the invention is concerned with operations upon the external surface of the cornea. Traditionally such operations required skilled manipulation of a cutting instrument which could be damaging to several layers of cells on both sides of the entry of the instrument. The CO
+2
+laser was employed to minimize such surgical damage. The beam of such a laser is characterized by an infrared wavelength (10.6 microns) with a negative side effect: cells adjacent to the ablated tissue are charred. But radiation at ultraviolet wavelengths is characterized by high photon energy causing molecules of tissue to be decomposed on photon impact, resulting in tissue ablation by photodecomposition.
+[21]
+The object of the invention is to provide an improved apparatus and technique by using a sculpture apparatus for operation upon the external surface of the cornea of the eye. The apparatus comprises three components. First, laser means having a chassis and providing an output beam in the ultraviolet portion; second, scan-deflection means positioned for deflection of said beam; third, body-engageable means for steadying one eye of the patient.
+[22]
+The invention also provides a circumferentially continuous hollow annular ring as an article of manufacture in aid of corneal surgery.
+[23]
+The apparatus can be used for reducing a myopic, a hyperopic and an astigmatic condition of an eye and in performing corneal-transplant operations. It includes automatic means for safely applying ultraviolet irradiation. It effectively fixes the position of an eye with respect to a scanning laser characterized by ultraviolet radiation. The scanning laser can provide an ultraviolet radiation, at an energy level capable of achieving controlled ablative photodecomposition of the cornea, namely, of the epithelium, Bowman's membrane, and stroma levels of the cornea.
+[24]
+The irradiated flux density and exposure time are so controlled as to achieve the desired depth of the ablation, which is a local sculpturing step. The scanning may be so controlled as to change the front surface of the cornea from a greater to a lesser spherical curvature, thus effecting reduction in a myopic condition. (The patent also provides scanning from a lesser to a greater spherical curvature so as to affect a hyperopic condition but that aspect is not in issue.)
+[25]
+The detailed description is accompanied by 12 drawings. The first six figures are reproduced below:
+[see printed version]
+[26]
+Fig. 1 is a schematic diagram in perspective, to show the general arrangement of the operative components of the invention. Clamp means 10 is shown for fixed retention of the head of a patient (reclined, face up) such that the eye 11 to be operated upon is fixedly aligned with a downwardly folded portion 12 of the central axis 12' of beam output from a stationary laser device 13, and scanner means 14 is provided for programmed deflection of laser-beam output, with respect to the central axis 12. The laser device 13 is served by a suitable power supply 15, and the scanner means 14 includes selectively operable control means, symbolized at 16, for determining scan pattern, effective limits of scan action, and, if desired, the time-varying profile of one or more dimensional components of scan action.
+[27]
+The laser selected for use at 13 preferably emits in the ultraviolet radiation, namely at wavelengths of less than substantially 400 nanometers. More particularly, at 193 nm for argon fluoride lasers. One of the existing commercial excimer laser products of Lambda Physik GmbH, Gottingen, Germany, for example their model EMG 103 operating with argon-fluoride, is satisfactory for use as laser 13; for this product, maximum energy per pulse is 200 millijoules, with a pulse-repetition rate of 200 per second, 3 x 105 shots being available from a single charge before reducing to 50 percent of specified power at this repetition rate. Pulse width is about 15 nanoseconds, and typical beam dimensions at 25 centimeters (10 inches) are 10 mm x 22 mm. To bring this down to an illustratively useful rounded-square spot size of 0.5 mm by 0.5 mm at the eye 11, corrective lens elements at 26 will be understood to include a cylindrical element and a spherical element whereby beam size is reduced while the rectangular section is compressed to a substantially square section.
+[28]
+Fig. 2 is a simplified view in longitudinal section, showing an eye-retaining fixture used with the apparatus of Fig. 1.
+[29]
+Figs. 3 and 4 are simplified diagrams to illustrate different scan patterns performed with apparatus as in Fig. 1.
+[30]
+These scan actions are rectilineal. For this purpose, a suitable scanner, known as "Microscan 771" is commercially available. The programming of scan action is such that predetermined depth of ultraviolet laser incision can be made to effectively recharacterize the external contour of the cornea within the entire predetermined field boundary. This is done by progressive precise photodecomposition of the corneal tissue as to a depth limit of 0.35 mm.
+[31]
+Figs. 5 and 6 are simplified sectional views to illustrate different sculptured surface curvatures achieved with either of the scan patterns of Figs. 3 and 4.
+[32]
+The situation depicted in Fig. 5 refers to a myopic eye and the dashed line 31 represents the ultimate curvature to which the external surface of a cornea 32 may be modified to achieve a change in optical properties in the involved eye. This is achievable by programming the microprocessor to progressively reduce the radius of the boundary circle 30.
+2.4 Construction Of The Claims 1 And 2
+Of The Myopia Patent (The ‘732 Patent)
+[33]
+Only claims 1 and 2 of the Myopia Patent are in issue. Claim 1 provides as follows:
+"Apparatus for performing ophthalmological surgery by selective ablation of the anterior surface of the cornea with varied penetration up to a predetermined maximum penetration into the stroma to achieve an anterior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a pulsed laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the cornea with an intensity to produce tissue penetration to a depth per pulsed exposure which is but a fraction of said predetermined maximum; said means including means for selectively (a) determining and controlling one circular area of exposure to the extent of at least said fractional depth and (b) determining and controlling a different circular area of exposure to the extent of at least said fractional depth, each of said circular areas being within the optically functioning area of the cornea and concentrically disposed with respect to the optical axis of the cornea; whereby the cumulative penetration of the cornea for both said areas of exposure can effect a myopia-reducing corrective change in the curvature of the cornea."
+[34]
+"
+Apparatus for performing ophthalmological surgery ...
+". The claim does not teach a method for effecting the operation but relates to an apparatus which is a machine equipped with a combination of several elements.
+[35]
+"
+... by selective ablation of the anterior surface of the cornea ...
+". According to the plaintiff's experts, the anterior surface of the cornea is the surface which would present itself to the surgeon at the exact moment of the ablation. The cornea has five basic layers, the epithelium, Bowman's membrane, stroma, Descemet's membrane and endothelium. In order to reach the stroma, the ablation must penetrate the anterior surface of the cornea which would include the top two layers, namely the epithelium, and the Bowman's membrane before reaching the stroma as appears in Dr. Sher's drawing set out at para. 39 of his statement, (exhibit P-5):
+[see printed version]
+[36]
+Dr. Sher agreed that, normally, the anterior surface of the cornea would be the epithelium but claims that where the epithelium has been scraped off previously by the surgeon, the layer then exposed would become the anterior surface. However, in Dr. Gimbel's view, the anterior surface of the cornea, as described in the patent, means the epithelium. During his cross-examination he said that after the epithelium has been scraped off prior to the laser operation, you could not call the layer below "the anterior surface anymore than we could call the 'shoulders' the 'head' after a decapitation".
+[37]
+As mentioned earlier, the disclosure refers to "operations upon the external surface of the cornea". It is an object of the invention "to provide an improved apparatus and technique for surgically operating upon the outer surface of the cornea" and "the invention provides a sculpture apparatus for operation upon the external surface of the cornea". Exhibit P-7 is a drawing published by VISX showing that the cornea has five basic layers (the tear filming is not a layer) showing clearly the epithelium to be the "anterior" surface and the endothelium being the "posterior" surface.
+[see printed version]
+[38]
+This meaning is confirmed at pp. 3(a) and 4 of the specifications of the patent as follows:
+"The apparatus effectively fixes the position of an eye with respect to a scanning laser characterized by ultraviolet radiation, at an energy level capable of achieving controlled ablative photodecomposition of the cornea, namely, of the epithelium, Bowman's membrane, and stroma levels of the cornea."
+Also at p. 12, line 12 where a cornea transplant procedure is described as one in which the beams are said to be "...
+thereby excising at least the epithelium ...
+".
+[39]
+"
+... with varied penetration up to a predetermined maximum penetration into the stroma ...
+". It is common ground that the penetration must extend into the stroma but cannot extend beyond the stroma and that the maximum penetration must be predetermined. By far the greatest proportion of the corneal thickness lies in the stroma.
+[40]
+"
+... to achieve an anterior-curvature change ...
+". The apparatus, through its ablation of the anterior surface of the cornea, must achieve a change in the anterior-curvature of the cornea (to deal with myopia).
+[41]
+"
+... by volumetric removal of tissue within the optically functioning area of the cornea ...
+". The anterior curvature change must be effected by removing a volume of tissue, and the tissue removed must lie within the optically functioning area of the cornea which is that portion of the cornea centrally disposed about the optical axis.
+[42]
+"
+... said apparatus comprising: a laser producing a pulsed laser beam in the ultraviolet region of the electromagnetic spectrum;
+". After the preamble this clause describes the elements of the claim. The pulsed laser beam must have a wavelength which lies within the ultraviolet region, namely between approximately 100 nanometers to 400 nanometers. The specifications stipulate (at p. 7) "193 nm for argon fluoride lasers".
+[43]
+"
+... means for shaping, focusing and directing the beam toward the cornea ...
+". The three verbs "shaping, focusing and directing" have been given different interpretations by the two experts knowledgeable in the field of excimer laser, Dr. Eden for Visx's witness and Dr. Oesterlin for Nidek.
+[44]
+Dr. Eden defined "shaping" as follows in para. 55 of his statement (exhibit P-27):
+"55. The term 'shaping' has both an ordinary non-technical meaning and a similar meaning specific to laser engineers and optical physicists such as myself. The non-technical meaning is 'changing the shape'. The technical meaning is '
+changing the cross-sectional shape of the laser beam output from the laser
+'. Shaping can involve the use of lenses and/or diaphragms, slits or other physical elements placed in the beam path or combinations of these components." (my emphasis)
+[45]
+He defined "focusing" as follows in his para. 56:
+"56. 'Focusing' has a specific technical meaning for an optical physicist such as myself. Focusing refers to
+altering the path of optical rays
+(with a refractive optical element such as a lens)
+so as to cause the rays to converge
+." (my emphasis)
+[46]
+On the other hand, Dr. Oesterlin, Nidek's witness, gave the following meaning to the word "shaping" at para. 47 of his statement (exhibit D-104):
+"47. In the context of a laser beam, the word '
+shaping
+' means
+that the form (or cross-section) of the beam as it exists the laser is altered
+. A laser beam, such as exists in the Lambda Physik Model EMG 103 is rectangular in cross-section and, as described in the patent, the shape is
+changed to a round-square spot
+through optical elements." (my emphasis)
+[47]
+With reference to "focusing", Dr. Oesterlin stated that there were two separate meanings as follows:
+"48. In optical science, generally the word '
+focusing
+' is used to describe
+two different
+manipulations. One such manipulation is where the original source such as a
+light is made as small as possible by some optical apparatus
+, such as when a person uses a magnifying glass to focus the rays of the sun to a small spot so as to ignite paper or small pieces of wood.
+"49.
+The other meaning
+of the word '
+focusing
+' is in relation to the focusing of the image of an object. This a person would do when '
+focusing
+' a camera, or '
+focusing
+' the image of a slide on a screen with a slide projector. In this context, '
+focusing
+' means to adjust optical elements in a way to achieve an image as sharp as possible, with the least blur possible. In contrast to the first meaning of 'focusing', this is not intended to create the smallest beam size." (my emphasis)
+[48]
+In his view, the first of these two meanings is the proper interpretation in the context of the patent.
+[49]
+Of course, where there is ambiguity the claim in question is invalid for ambiguity. But the mere fact that two experts from different parties do not agree does not ipso facto create an ambiguity. As mentioned earlier, the court must give a purposive construction to a claim without trying to be too astute or technical. If there were more than one construction that can reasonably be reached, the court must favour the construction that upholds the patent.
+[50]
+I am more inclined to accept the opinion of Dr. Eden who after two rounds of examinations, cross-examinations and re-examinations (in chief and in rebuttal) was logical and transparent in his definitions of the terms. Exhibit D-109 reflects the views of both experts on focusing and shaping as follows:
+[see printed version]
+[51]
+Dr. Oesterlin's view on focusing and shaping appears on the upper part of the exhibit and Dr. Eden's view on the lower part. As can be seen, Dr. Oesterlin views the three laser beams, as deflected by the lens, focusing on the focal point and then pursuing their respective directions to the cornea. In his view, focusing occurs only when the objective is to produce the smallest possible spot at the focal point. In Dr. Eden's view, the three beams converging toward a point are being focussed by the lens before they actually reach the focal point. Thus, an object placed into the path of the beams before they reach the focal point will result in a spot on that object that is larger than at the focal point. But focusing is occurring, regardless of where an object is placed before the focal point. Dr. Eden refers to the definition of "focusing" in Van Nostrand's
+Scientific Encyclopedia
+[see footnote 5], as follows:
+"The process of controlling the convergence and divergence of a beam of particles or radiations."
+[52]
+In other words, "focusing" refers to altering the path of optical rays (with a refractive optical element such as a lens) so as to cause the rays to converge. "Imaging" according to Dr. Eden is a special case of focusing. "Imaging" is the optical process in which an intensity pattern at one plane is reproduced, or transferred, to another plane known as the image plane. "Imaging" requires focusing from equipment built into the apparatus, such as a lens or spherical mirrors, whereas "shaping", as mentioned earlier, means changing the cross-sectional shape of the laser beam output from the laser. "Shaping" can involve the use of lenses and/or diaphragms, slits or other physical elements placed in the beam path or combinations of these components.
+[53]
+The ordinary meaning of "directing" suggests that the path of the beam is altered to cause it to reach the cornea. At p. 8 of the patent, the disclosure describes the "shaping" of the rectangular beam (10 mm x 22 mm) produced by the laser into a smaller beam of different cross-sectional shape, as follows:
+"To bring this down to an illustratively useful rounded-square spot size ... corrective lens elements at 26, as of quartz, calcium fluoride, or magnesium fluoride, will be understood to include a cylindrical element and a spherical element whereby beam size is reduced while the rectangular section is compressed to substantially square section."
+[54]
+"
+... with an intensity to produce tissue penetration to a depth per pulsed exposure ...
+". A certain minimum intensity must be achieved, sufficient to cause the laser beam to penetrate into the tissue of the cornea. The reference to "a depth" makes it clear that the depth of penetration is constant for each pulse to which the corneal tissue is exposed.
+[55]
+"
+... which is but a fraction of said predetermined maximum ...
+". The amount of tissue penetration achieved by a single pulse which is exposed on the corneal tissue is only a fraction of the predetermined maximum penetration into the stroma.
+[56]
+"
+... said means including means for selectively ...
+". This clause refers back to "means for shaping, focusing and directing" and requires that such means include some mechanism to selectively determine and control areas of exposure, as described in the following clauses.
+[57]
+"
+... (a) determining and controlling one circular area of exposure ...
+". There must be a first circular area of exposure on the cornea. The selective mechanism described above must both determine the area of exposure, which, given the context, must relate to its diameter, and control the exposure to accord with the diameter so determined.
+[58]
+"
+... to the extent of at least said fractional depth and ...
+". Within the circular area of exposure, there must be a minimum depth of ablation which corresponds to the "depth per pulsed exposure" described above.
+[59]
+"
+... (b) determining and controlling a different circular area of exposure ...
+". This clause corresponds to the comparable wording of clause (a), with the restriction that the second circular area of exposure must be different from that of the first area of exposure. In light of the wording discussed below that these areas are concentrically disposed with regard to the same axis, and in light of the requirement that the depth of ablation correspond to the above-described depth per pulsed exposure, this must require that the diameter of the circular areas of exposure be different.
+[60]
+"
+... to the extent of at least said fractional depth, ...
+". This has the same meaning as for the first circular area of exposure above referred to.
+[61]
+"
+... each of said circular areas being within the optically functioning area of the cornea and ...
+". Both the first and second circular areas must lie within the optically functioning area of the cornea, which as described earlier, was limited to the central area about the optical axis of the cornea.
+[62]
+"
+... concentrically disposed with respect to the optical axis of the cornea ...
+". Both circular areas of exposure must be concentric about the optical axis of the cornea.
+[63]
+"
+... whereby the cumulative penetration of the cornea for both said areas of exposure can effect a myopia-reducing corrective change of the curvature of the cornea
+". The penetration of the laser in the two different circular areas of exposure will accumulate so that the inner, or smaller, area of exposure will have a total tissue penetration greater than the larger area of exposure. The cumulative effect described above must result in a myopia reducing effect by a flattening of the cornea.
+[64]
+Claim 2 of the Myopia Patent reads as follows:
+"2. Apparatus for performing opthalmological surgery by selective ablation of the anterior surface of the cornea with varied penetration up to a pre-determined maximum penetration into the stroma, to achieve an interior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the cornea with an intensity to produce tissue penetration to a depth per unit time exposure which is but a fraction of said predetermined maximum; said means including means for selectively (a) determining and controlling one circular area of exposure to the extent of at least said fractional depth, and (b) determining and controlling a different circular area of exposure to the extent of at least said fractional depth, each of said circular areas being within the optically functioning area of the cornea and concentrically disposed with respect to the optical axis of the cornea; whereby the cumulative penetration of the cornea for both said areas of exposure can effect a myopia-reducing effective change in the curvature of the cornea."
+[65]
+The wording is identical to claim 1 with two exceptions. First, the laser needs not be pulsed; second, the words "with an intensity to produce tissue penetration to a depth per pulsed exposure" is replaced with the words "with an intensity to produce tissue penetration to a depth per unit time exposure". Unlike claim 1, the laser need not be pulsed but claim 2 does not exclude it.
+2.5 The Astigmatism Patent
+(The ‘813 Patent)
+[66]
+Claims 10, 11, 16 and 17 of this patent are in issue. Claim 10 reads as follows:
+"10. Apparatus for performing ophthalmological surgery to reduce an ascertained astigmatic condition by selective ablation of the anterior surface of the cornea with varied penetration up to a predetermined maximum penetration into the stroma to achieve an anterior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a pulsed laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the cornea with an intensity to produce tissue penetration to a depth per pulsed exposure which is but a fraction of said predetermined maximum; said means including means for selectively (a) determining and controlling one rectangular area of exposure to the extent of at least said fractional depth, and (b) determining and controlling a different rectangular area of exposure to the extent of at least said fractional depth, said rectangular areas being of varying width and symmetrical about a central axis through the optical axis of the cornea and oriented in accordance with the ascertained astigmatic condition; whereby the cumulative penetration of the cornea for both said areas of exposure can effect an astigmatism-reducing corrective change in the curvature of the cornea."
+[67]
+With the exception of the following clauses this claim's wording is identical to the corresponding wording of the Myopia Patent.
+[68]
+"
+...to reduce an ascertained astigmatic condition ...
+". This clause merely indicates that the apparatus is designed specifically to reduce astigmatism.
+[69]
+"
+... (a) determining and controlling one rectangular area of exposure ...
+". Self-explanatory.
+[70]
+"
+... (b) determining and controlling a different rectangular area of exposure ...
+". In light of the wording discussed below to the effect that these rectangular areas are of varying width and are both symmetric about a central axis, the difference must lie in the varying width of the rectangular areas of exposure.
+[71]
+"
+... said rectangular areas being of varying width and symmetrical about a central axis through the optical axis of the cornea and ...
+". Each rectangular area of exposure must be symmetrically disposed around the central axis. Thus the larger rectangular area of exposure will extend an equal distance on either side further from the central axis than the smaller rectangular area of exposure.
+[72]
+"
+... oriented in accordance with the ascertained astigmatic condition ...
+". The central axis must bear some relation to the astigmatic condition so that the astigmatic correction which will be accomplished will be aligned with the axis of astigmatism.
+[73]
+"
+... can effect an astigmatism-reducing change in the curvature of the cornea
+". The cumulative effect described above must reduce astigmatism by the flatting of the cornea along its steep axis. Since the cumulative effect tends to remove more tissue approximate to the central axis, this axis will be flattened with regard to the area which lies outside of the smaller area of exposure and within the larger area of exposure.
+[74]
+Claim 11 of the Astigmatism Patent reads as follows:
+"11. Apparatus for performing ophthalmological surgery to reduce an ascertained astigmatic condition by selective ablation of the anterior surface of the cornea with varied penetration up to a predetermined maximum penetration into the stroma to achieve an anterior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the cornea with an intensity to produce tissue penetration to a depth per unit time exposure which is but a fraction of said predetermined maximum; said means including means for selectively (a) determining and controlling one rectangular area of exposure to the extent of at least said fractional depth and (b) determining and controlling a different rectangular area of exposure to the extent of at least said fractional depth, said rectangular areas being of varying width and symmetrical about a central axis through the optical axis of the cornea and oriented in accordance with the ascertained astigmatic condition; whereby the cumulative penetration of the cornea for both said areas of exposure can effect an astigmatism-reducing corrective change in the curvature of the cornea."
+[75]
+This claim of the Astigmatism Patent differs from the wording of claim 10 in the same manner that claim 2 of the Myopia Patent differs from claim 1 thereof. Consequently, the construction of the changed wording will have the same meaning as described with respect to claim 2 of the Myopia Patent.
+[76]
+Claim 16 of the Astigmatism Patent provides as follows:
+"16. Apparatus for performing ophthalmological surgery by selective ablation of the anterior surface of the cornea with varied penetration up to a predetermined maximum penetration into the stroma to achieve a cylindrical astigmatism-reducing anterior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a pulsed laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the eye with an intensity to produce tissue penetration to a depth per pulsed exposure which is but a fraction of said predetermined maximum; said means including means for selectively first determining and controlling a first rectangular area of exposure to the extent of at least said fractional depth and thereafter determining and controlling a second and different rectangular area of exposure to the extent of at least said fractional depth, each of said rectangular areas being symmetrically disposed on opposite sides of one and the same meridian of the cornea and within the optically functioning area of the cornea, wherein said meridian is selectable for orientation related to the axis of astigmatism to be reduced, and wherein the width of said rectangular area varies from one to the next rectangular area; whereby the cumulative penetration of the cornea for both said areas effects an astigmatism-correcting change in the curvature of the cornea."
+[77]
+With the exception of the following clauses, this claim's wording is identical to the corresponding wording of claim 10 of the Myopia Patent, and would have an identical construction to it.
+[78]
+"
+... to achieve a cylindrical astigmatism-reducing anterior-curvature change ...
+". Again merely to show that the apparatus is designed to reduce astigmatism.
+[79]
+"
+... each of said rectangular areas being symmetrically disposed on opposite sides of one and the same meridian of the cornea, and ...
+". The rectangular areas are symmetrically disposed on opposite sides of a meridian, which is a line through the optical axis.
+[80]
+"
+... within the optically functioning area of the cornea ...
+". Self-explanatory.
+[81]
+"
+... wherein said meridian is selectable for orientation related to the axis of astigmatism to be reduced, and ...
+". The central axis must be oriented in relation to the astigmatic condition, so that the astigmatic correction will be aligned with the axis of astigmatism.
+[82]
+"
+... effects an astigmatism-correcting change in the curvature of the cornea
+". Results in the correction of astigmatism.
+[83]
+Claim 17 of the Astigmatism Patent reads as follows:
+"17. Apparatus for performing opthalmological surgery by selective ablation of the anterior surface of the cornea with varied penetration up to a predetermined maximum penetration into the stroma to achieve a cylindrical astigmatism-reducing anterior-curvature change by volumetric removal of tissue within the optically functioning area of the cornea, said apparatus comprising: a laser producing a laser beam in the ultraviolet region of the electromagnetic spectrum; means for shaping, focusing and directing the beam toward the eye with an intensity to produce tissue penetration to a depth per unit time exposure which is but a fraction of said predetermined maximum; said means including means for selectively first determining and controlling a first rectangular area of exposure to the extent of at least said fractional depth and thereafter determining and controlling a second and different rectangular area of exposure to the extent of at least said fractional depth, each said rectangular area being symmetrically disposed on opposite sides of one and the same meridian of the cornea within the optically functioning area of the cornea, wherein said meridian is selectable for orientation related to the axis of astigmatism to be reduced, and wherein the width of said rectangular area varies from one to the next rectangular area; whereby the cumulative penetration of the cornea for both said areas effects an astigmatism-correcting change in the curvature of the cornea."
+[84]
+This claim differs from the wording of claim 16 in the same manner that claim 2 of the Myopia Patent differs from the claim 1 thereof. Consequently, the construction of the changed wording will have the same meaning as described with respect to claim 2 of the Myopia Patent.
+2.6 The Topography Patent
+(The '658 Patent)
+[85]
+The purpose of the invention is to provide instrumentation to assist in performing refractive corrective surgery on the cornea in a three-fold manner. First, by determining the topography of the interior surface of the cornea in the form of digitized data entered into computer storage. Second, by determining the local thickness of the cornea along multiple axes also in the form of digitized data entered into computer storage. Third, by providing a CAD/CAM display of both categories of data, for the assistance of the surgeon.
+[86]
+The stated object of the invention is to provide an improved method and apparatus for use in aid of non-invasive corneal surgery to achieve refractive correction of an eye.
+[87]
+There are six drawings for the comprehension of the claims as follows:
+[see printed version]
+[88]
+Fig. 1 is a block diagram schematically indicating apparatus and manipulative steps involved in the invention. Figs. 2, 3 and 4 are simplified diagrams to illustrate alternative displays. Figs. 5 and 6 are simplified diagrams to illustrate alternatives for a CAD/CAM display.
+[89]
+The diagram of Fig. 1 depicts all components for performing corneal evaluation and analysis, as well as those involved in incisional or sculpting keratoplasty operations which are based on the analysis.
+[90]
+The evaluation portion comprises three modules, A, B and C. Module A determines the topography of the corneal surface. Module B comprises pachymetric means for making multiple determinations of the precise thickness of the cornea, to within thousandths of a millimeter, at plural locations on the surface of the cornea. Module C comprises a computer supplied by the topographical digital data and by the thickness digital data. Module D provides an additional CAD/CAM display which utilizes both the topographical and thickness measurement data supplied to Module C, as well as additional digitized information from Module E. The examined eye parameter data from Module E is entered into Module F.
+2.7 Construction Of Claim 1
+Of The Topography Patent
+[91]
+Claim 1 - the only claim in issue in the Topography Patent reads as follows:
+"1. In combination, for performing ophthalmological surgery by selective ablation of the optically used central area of the anterior surface of the cornea with penetration into the stroma to achieve a predetermined sculpturing volumetric removal of corneal tissue, said ablation being substantially without formation of scar tissue and therefore not impairing the optical transparency of remaining corneal tissue, a topography-display unit with provision for storage of digital data and adapted to present from storage a comparative display of measured and desired ideal curvatures of the cornea, an ultraviolet-laser unit with means to direct ultraviolet radiation to the optically used central area of the anterior surface of the cornea to selectively ablate the same by photodecomposition, and means connected to both said units for controlling stroma-penetrating volumetric removal of corneal tissue from the optically used central area in accordance with the difference between said measured and desired ideal curvatures of the cornea."
+[92]
+"
+In combination ...
+". The opening of claim 1 establishes that the claim is a combination of several elements.
+[93]
+"
+... for performing ophthalmological surgery ...
+". This wording brings the Topography Patent in line with the Myopia Patent and the Astigmatism Patent all three being for a similar purpose.
+[94]
+"
+... by selective ablation of the optically used central area of the anterior surface of the cornea with penetration into the stroma ...
+". As mentioned earlier with reference to the other two patents, the central area to be ablated is the central area of the epithelium which is the top layer of the cornea above Bowman's Membrane and the stroma with penetration through to the stroma. Again, the ablation must penetrate the top two layers to reach the stroma.
+[95]
+"
+... to achieve a predetermined sculpturing volumetric removal of corneal tissue ...
+". The sculpturing must be predetermined prior to the performance of the surgery.
+[96]
+"
+... said ablation being substantially without formation of scar tissue and therefore not impairing the optical transparency of remaining corneal tissue ...
+". The sculpturing must not create any substantial scar tissue that would have the effect of impairing the optical transparency of the remaining corneal tissue.
+[97]
+"
+... a topography-display unit with provision for storage of digital data and ...
+". The unit must have a two-fold capability, that is for displaying a topography and for storage of digital data. The meaning of the word "topography-display unit" is a bone of contention to the ophthalmology experts. In an article titled
+Corneal Topography in Refractive Keratectomy
+, Dr. Klyce (Nidek's expert) shows an example of corneal topography at p. 25 (exhibit D-20). It is a detailed representation of the dimensions of the cornea measured at thousands of points. The five drawings appearing on that page show colour-coded contour maps of the corneal surface of the eye. In direct examination, Dr. Klyce said that "a topography display unit is a common word that means the colour-coded contour map".
+[98]
+In cross-examination, Dr. Sher (Visx's expert) was shown Dr. Klyce's article and the colour-coded contour maps and asked if the Topography Patent requires "that you measure topography of the kind we see here in Dr. Klyce's article, but measuring thousands of spots across the cornea. And you use that information to put it into a computer which controls ultimately the laser. And it is that information from thousands of spots that can be displayed on the CAD/CAM display, that's what the patent talks about?". He answered: "It does".
+[99]
+"
+... adapted to present from storage a comparative display of measured and desired ideal curvatures of the cornea ...
+". The presentation must come from the storage of digital data associated with the topography-display unit. The unit must display the measured curvature of the cornea and the desired ideal curvature of the cornea.
+[100]
+"
+... an ultraviolet-laser unit with means to direct ultraviolet radiation ...
+". There must be a unit which has an ultraviolet laser and a mechanism by which ultraviolet radiation can be directed to a desired destination. The laser chosen must have a radiation which lies in the ultraviolet region of the electromagnetic spectrum.
+[101]
+"
+... to the optically used central area of the anterior surface of the cornea ...
+". This clause requires that the desired destination of the ultraviolet radiation must lie within the above-described optically used central area of the anterior surface of the cornea, that is the epithelium.
+[102]
+"
+... to selectively ablate the same by photodecomposition, and ...
+". The impact of the ultraviolet radiation on the optically used central area of the anterior surface of the cornea must cause ablation, and the ablation must be selectively controlled.
+[103]
+"
+... means connected to both said units ...
+". This language implies that the third element of the combination must be connected to the first two elements, namely the topography-display unit and the ultraviolet laser unit.
+[104]
+On that score, Nidek submits that there are several methods and instruments that may be used to give measurements of the cornea. There is the keratometer, an instrument used prior to the year 1900 which measures along two principal axes of the cornea. These measurements are referred to as "K readings". Also, the keratoscope, a simple instrument that projects a series of concentric circles onto the cornea. According to Dr. Sher, neither of these two devices can map the three dimensional features of a surface. However, in the 1980's, the video keratoscope was developed. According to Dr. Klyce, this device is able to measure corneal surface at several thousand points over the whole cornea.
+[105]
+Nidek submits that the obvious conclusion to be drawn by the court is that the language above requires a measurement of the surface of the cornea at thousands of points, either by a video keratoscope or an equivalent device and this information is used to control the laser during the refractive correction. In fact, the meaning is confirmed at p. 6, line 25 of the Topography Patent which suggest that "A suitable equipment for use in Module A is the PKS-1000 photokeratoscope commercially available from the Japanese firm ... ".
+[106]
+"
+... for controlling stroma-penetrating volumetric removal of corneal tissues from the optically used central area in accordance with the difference between said measured and desired ideal curvatures of the cornea
+". The function of the third element is to control the removal of a volume of corneal tissue in the optically used central area. Said removal must correspond to the difference between the measured curvature of the cornea and the desired ideal curvature of the cornea, which curvatures are displayed on the topography-display unit.
+3. Infringement
+3.1 General Principles
+[107]
+Infringement is not specifically defined in the
+Patent Act
+[see footnote 6] but any Act which interferes with the full enjoyment of the monopoly granted to the patentee is an infringement. The question of infringement is a mixed question of fact and law. Whether the defendants' activities fall within the scope of the patent is a question of fact but the construction and scope of the patent is a matter of law. As mentioned earlier, the first task in the approach to a question of infringement is to construe the claim. The burden is on the patentee to prove on the balance of probabilities that infringement has occurred [see footnote 7]. In considerating infringement, the court must bear in mind the language in which a patentee has cast his claim. It has been referred to as a "fence" within which the patentee claims protection from trespassers and outside of which others are free to roam [see footnote 8]. A patentee is not justified in claiming an invention in such a way as to put a person wishing to enter the field in a position of doubt and fear as to whether he is infringing upon the monopoly or not [see footnote 9].
+3.2 The Nidek's EC 5000
+Delivery System
+[108]
+Nidek's machine has been schematically described in the following drawing (exhibit D-52) filed by Nidek.
+[see printed version]
+[109]
+A description of that apparatus, titled "The Nidek machine", appears in the Reasons for Order of Mr. Justice Neuberger of the High Court of Justice (Chancery Division) [see footnote 10] in an action between Visx and Nidek (and two other defendants) released on October 19, 1998. Although the patent in issue is not identical to any of the three patents in the instant case, the alleged offending machine is described by the learned judge from a drawing similar to exhibit D-52. That judgment was not appealed and his description of "The Nidek Machine" was not challenged in the instant action. I find it therefore appropriate and convenient to reproduce it:
+"
+The Nidek machine
+"This uses an excimer laser from which a beam, after being turned through 900 by a mirror, passes through an attenuator and is then reflected again through 900 this time by a linear scanning mirror, which is driven by a cam to a stepper motor then to an image rotator, whose rotation is synchronised with the movement of the linear scanning mirror. After rotation, the beam passes through an iris diaphragm and a separate variable slit aperture, which restrict the size of the beam, and the beam then passes through a projection lens to a dichroic mirror which again bends the beams through 900 and impinges it on to the cornea of the patient's eye. The correct alignment of the beam on the cornea is effected with the aid of a microscope and an alignment index projector and illuminator system. All components of the Nidek machine are controlled by the system main board which receives input from various switches and controls.
+"For the treatment of myopia and astigmatism, the scanning mirror is synchronised with the pulsing of the excimer laser, so that one traverse of the scanning mirror normally contains up to 10 laser pulses. When the scanning mirror reaches the end most position of its range, the image rotator rotates by 1200 and the scanning mirror moves back in the reverse direction. The resultant scanning pattern is that of 10 parallel pulses followed by another 10 offset by an angle of 600, and so it continues until scanning stops. For myopic correction, the size of the iris diaphragm is generally increased from about 2mm to a predetermined maximum value, and the number of scans of maximum size is calculated by a computer attached to the system main board before the procedure commences. The beam scanning is repeated until the desired ablation depth is achieved, and that depth is effectively determined by the precalculated number of scans. While it will be necessary to consider the functioning of the Nidek machine in relation to the treatment of myopia in a little more detail on the question of infringement, the normal treatment of myopia involves a total of 22 scans, each scan having between four and 10 pulses. The cross-sectional area of the beam when it impinges on the cornea varies between a minimum of 0.03mm2 and a maximum of 10.76mm2.
+"Although I refer to the beam being 'scanned' in the Nidek machine, the scanning and rotating of the beam are effected in order to homogenise the beam: unlike in the 869 Patent teaching, the Nidek machine does not achieve the controlled ablation of corneal tissue by the scanning movement of the beam: the scanning movement is irrelevant in that connection. The Nidek machine achieves controlled ablation by the operation of the iris; thus where the beam passes through the middle, the beam size is grater than when it only is allowed through the edge, of the iris aperture. Similarly the beam area is greater when that aperture is fully open than when it is partially open. Professor Ulrich Sowada, Nidek's laser expert, said, and I did not understand him to have been challenged on this, that 'the Nidek machine does not and could not achieve control of variation in ablation simply by scanning the beam'.
+"The treatment is much the same for astigmatic correction, save that the orientation of the slit can be adjusted to achieve the desired cylindrical correction to the cornea. The cross-sectional area of the beam at the point of impingement on the cornea for the treatment of astigmatism varies between 0.16mm2 and 10.76mm2."
+3.3 Infringement Issues
+[110]
+The parties are agreed that at issue in these Canadian proceedings is the apparatus made by the defendant Nidek Co. Ltd. in Japan and delivered by the defendant Nidek Co. Ltd. to surgeons in Canada under the name EC-5000. They also agreed that the specific areas of contention relate to the following terms: 1) "anterior surface of the cornea"; 2) "means for shaping, focusing and directing the beam toward the cornea"; 3) "topography-display unit" and 4) "means connected to both said units". These four topics have already been dealt with under the chapter of construction and I will now draw the relevant conclusions with reference to infringement.
+3.4 Does The EC-5000 Ablate The
+Anterior Surface Of The Cornea?
+[111]
+In my view, the EC-5000 does not "ablate the anterior surface of the cornea". If the "anterior surface of the cornea" referred to in the patents in issue is not the epithelium but any surface that presents itself to the surgeon, then the terms are ambiguous and the claim is invalid.
+[112]
+There are two manners in which the corneal surgery for treatment of myopia and astigmatism is practised in Canada. As earlier described, one procedure is known as PRK (photorefractive-keratectomy) and the other is known as LASIK (laser institu keratomileusis).
+[113]
+As stated by the experts on both sides, PRK involves the removal of the epithelium by the surgeon followed by the application of the laser beam to the exposed Bowman's membrane and deeper into the stroma of the cornea. While the epithelium could, in theory, be removed by the laser, in practice it is removed by the surgeon by scraping the epithelium with a specific type of knife used for that purpose.
+[114]
+Dr. Gimbel explained that for the PRK procedure "the epithelium was removed manually with care being taken to make sure that Bowman's Membrane was as clean as possible because any bit of epithelium on the Bowman's Membrane would translate down in the ablation to a little bump on the stroma after the stroma has been removed". According to Dr. Ohtsuki, special optional software (transepithelial software) is required to enable the surgeons to remove the epithelium with the EC-5000 apparatus. It is true that, tehnically, a laser such as the EC-5000 could be used to remove the epithelium, as opposed to manual means, but that method would not dispose of all of the epithelium material and therefore is not recommended, according to Dr. Ohtsuki.
+[115]
+As to the LASIK procedure, it was described by Dr. Sher and Dr. Gimbel as requiring that the surgeon first cut a flap in the cornea with a knife or plane called a microkeratome. The knife cuts into the stroma about a third of the depth creating a flap which comprises the epithelium, Bowman's membrane and a portion of the stroma. The flap is folded over and the laser is applied to the exposed stroma to remove the required amount. The flap is then replaced above the exposed stroma and quickly seals itself. For that procedure exhibit D-69 clearly demonstrates that the laser does not impinge upon the anterior surface of the cornea but rather upon the interior stroma.
+[116]
+Thus, the "anterior surface of the cornea", if properly construed, refers to the epithelium and there is no infringement on the part of the EC-5000 apparatus. If the "anterior surface" be given a broader meaning embracing any surface, then the terms are ambiguous and the patent is invalid.
+3.5 Means For Shaping, Focusing And
+Directing The Beam Toward The Cornea
+[117]
+A simplified diagram of the optical path of the Nidek EC-5000 apparatus was filed at the hearing by Nidek as exhibit D-18. The drawing appears as follows:
+[see printed version]
+[118]
+The words "means for shaping, focusing and directing the beam toward the cornea", in my view, must mean the narrowing and concentrating the entirety of an originally rectangular beam to its smallest practical spot on the cornea. But, unlike the patent, the Nidek EC-5000 apparatus does not have a cylindrical lens in its optical path which would cause the beam to converge, according to Mr. Ohtsuki. The Nidek EC-5000 apparatus uses an iris diaphragm to treat myopia and a variable slit to treat astigmatism: no such devices are disclosed in either the Myopia Patent or the Astigmatism Patent.
+[119]
+As shown in exhibit D-18, the optical path of the Nidek scanner is directed through the aperture of a diaphragm or through a slit.The laser in EC-5000 apparatus makes a series of 10 pulses across the diaphragm and a typical procedure involves over 100 scans. Only those portions of the beam not blocked by the diaphragm pass through the aperture or the slit. Thus, there is no "shaping or focusing" of the beam with a cylindrical lens in its optical path as called for in the patents in issue. With the EC-5000 apparatus, the entirety of the beam is not concentrated onto the cornea but the aperture in the diaphragm only allows to go through those portions of the beam which are required for the operation. The Nidek EC-5000 apparatus projects a sharp or crisp image of the aperture onto the cornea. This imaging takes place past the focal point and onto an area described by Dr. Eden as the "de-focusing" zone. Thus the Nidek EC-5000 apparatus is more an "imaging system", whereas the patent calls for a "focusing system".
+[120]
+The Myopia Patent and the Astigmatism Patent both teach the use of a 0.5 mm rounded square spot which is rastered across the surface of the designated area. Again, those two patents do not teach the use of an iris diaphragm or a variable slit.
+[121]
+Unlike the teachings of the patents, a typical myopic correction effected by the EC-5000 apparatus through the aperture projects an image of approximately 0.5 mm in diameter for only the first of 137 scans. After the fourth scan, the diameter of the image is over twice the maximum diameter called for in the patents. Furthermore, no refractive correction occurs until after a minimum of 30 scans and the entire refractive correction procedure with the Nidek EC-5000 apparatus is not completed until all 137 scans have been executed.
+[122]
+Consequently, Nidek is not guilty of infringement in relation to "shaping, focusing and directing".
+3.6 "Topography-Display Unit"
+[123]
+As mentioned earlier in the construction chapter, "corneal topography" means the surface area of the cornea measured over thousands of locations. Dr. Sher, Visx's expert, acknowledged that the Nidek EC-5000 apparatus does not measure the thousands of spots required for corneal topography. He agreed with the question, put to him in cross-examination, that the Nidek EC-5000 apparatus does not do that but that it "just takes four spots and then uses an average of those to make a picture or idealized surface" but cannot "give you this kind of graphical topographic information" required under the patent.
+[124]
+The information entered into the Nidek EC-5000 apparatus is a "K reading" obtained by a keratometer from measurements at four points in the cornea. These K readings are taken in another room prior to the use of the EC-5000 apparatus. Once they are entered into the EC-5000 apparatus, there is an optional button (F3) which may be pressed by the surgeon to show a cross-sectional view of the cornea. In normal use, no schematic of the corneal surface or cross section appears on the display screen of the EC-5000 apparatus. Thus, it does not show topography but merely offers a representation of the keratometric values.
+[125]
+Consequently, since corneal topography data is not inputted into, measured by, or displayed on the EC-5000 apparatus, there is no infringement of the Topography Patent.
+3.7 "Means Connected"
+[126]
+The Topography Patent requires that there be "
+... means connected to both said units (topography-display and laser) for controlling stroma-penetrating volumetric removal of corneal tissue ...
+". Since the Nidek EC-5000 apparatus does not have a topography-display unit, there can be no "
+means connected to such unit
+".
+3.8 No Infringement By Nidek
+[127]
+I would agree with Mr. Justice Neuberger of the Chancery Division (at p. 46), that "in broad terms, the Nidek machine is undoubtedly similar in purpose and nature to the apparatus described in the 869 patent" (the Visx's patent). The learned judge continued: "Its purpose is the performance of photorefractive keratectomy on the eye for correction of myopia, hyperopia and astigmatism ... it uses an excimer laser which produces pulses of radiation having a wavelength of 193nm". However, he noted (at 56) that "the differential ablation of corneal tissue is achieved by the Nidek machine through the use of varying the size, shape and direction of the beam, through the mechanism of an aperture". He reached the conclusion that the Nidek machine does not infringe the claims in issue before him.
+[128]
+In conclusion, I find in the instant case that Nidek has not infringed any valid claim of any of the patents at issue by the use the EC-5000 apparatus. My construction of the Myopia Patent and Astigmatism Patent words "anterior surface of the cornea", if not ambiguous, must mean the epithelium. The words "shaping, focusing and directing the beam", if not ambiguous, must mean that the entire beam is reduced to a small spot of about half a millimetre in diameter or less which spot is scanned across the cornea. That small spot is not produced by the EC-5000 apparatus.
+[129]
+As to the proper construction of the Topography Patent, the terms "
+anterior surface of the cornea
+" mean as mentioned above. The words "topography-display unit", if not ambiguous, must mean the entire surface of the cornea as measured across a large number of points. The words "
+means connected to both said unit
+", if not ambiguous, must mean that the data generated from the measurement of the surface area of the cornea, as measured across a large number of points, must be linked to a computer that controls the laser. That type of connection is not part of the Nidek EC-5000 apparatus.
+[130]
+Consequently, I find that there is no infringement.
+4. Validity
+4.1 Issues
+[131]
+The defendants have denied infringement in their defence and attacked the validity of all three patents in their counterclaim. Consequently, although I have found no infringement on the part of the defendants, the issue of validity must be resolved.
+[132]
+It is trite law that prima facie a patent is deemed to be valid and the party attacking a patent has the burden of proof on the balance of probabilities. It is also common ground that if a patent or phrasing of a claim cannot be construed, then the patent on the claim is said to be ambiguous and therefore invalid. However, I have construed the several phrases in issue in a purposive manner and found them not to be ambiguous. I have also found that the language in which the patentee has cast his claims offers him no protection against the use of the Nidek EC-5000 apparatus. In other words, while I have found that the patents are not invalid because of ambiguity, I must still determine whether they are invalid on other grounds. The grounds of attack launched by the defendants have conveniently been outlined by counsel for the defendants as follows:
+"(1) Has there been an 'Invention' made or just an 'Idea' expressed?
+"(2) Is the 'Invention'
+claimed
+broader than the 'Invention' disclosed?
+"(3) Has the 'Invention' been sufficiently described and claimed, or are the claims ambiguous?
+"(4) Has an essential element been omitted from the claims?
+"(5) Was the 'Invention' obvious?
+"(6) Was the 'Invention' previously known, used and disclosed by another person?
+"(7) Does the South African Patent invalidate the '813 patent?"
+[133]
+I will now deal with these seven issues in turn.
+4.2 Has There Been An "Invention" Made
+Or Just An "Idea" Expressed?
+[134]
+The jurisprudence has clearly established that there can be no patent granted for merely an "idea". For an invention to be patentable there must be an "idea" reduced to a definite and practical shape [see footnote 11].
+[135]
+In that context, Nidek points out that the inventor, Dr. Francis L'Esperance, was not called upon by Visx to testify as to the nature of his invention. And there are no charts, no tables, no photographs, no drawings showing what tests or trials, if any, were carried out by the inventor in his progression towards the invention. Dr. Sher, on behalf of Visx, agreed on cross-examination that the normal progression leading to this type of invention would have been to use the excimer laser, first on dead animals, then on blind persons and afterwards on fully sighted eyes of persons "bold enough ... to take that first giant step for mankind".
+[136]
+I cannot subscribe to the proposition that there is no invention. Section 2 of the
+Patent Act
+defines "invention" as "any new and useful art, process, machine, manufacture or composition of matter". An invention must show sufficient skill and ingenuity exercised in the discovery thereof so as to be patentable. It must not be obvious to the workmen skilled in the field of endeavour to which it pertains.
+[137]
+The patents in issue teach a combination of several elements working together to achieve the results defined in the claims. The invention teaches a complex apparatus that attracted the attention of many, since its creation, including several ophthalmologists and excimer experts. The patents have been analysed, attacked and defended by nine lawyers and six experts for 14 days in the course of this trial. (Not to mention a judge slaving and lucubrating over their multifarious facets for long hours thereafter). This invention is not a simple idea, nor a pie in the sky.
+[138]
+It has never been a proposition of Canadian patent law that the various steps taken in experimenting and testing an invention have to be described by the inventor before a patent is issued.
+[139]
+Neither should there be an adverse inference drawn from the failure of Visx to call the inventor to testify in this proceeding. In fact, Dr. L'Esperance has testified on several previous occasions with reference to these patents and Nidek could have called him as a witness if it had wished to do so.
+[140]
+And Nidek has not pleaded that the invention is useless.
+4.3 Is The "Invention" Claimed Broader
+Than The "Invention" Disclosed?
+[141]
+Nidek argues that if the claims must be construed more broadly than the court is prepared to construe them, then the claims are invalid because they are no longer within the scope of the disclosure. The function of the description in the specifications is to enable the construction and use by other skilled persons of the devices contained therein after the expiry of the patents. And also to enable others to ascertain the boundaries of the exclusive privilege upon which they must not trespass during the grant [see footnote 12].
+[142]
+However, Nidek has not pleaded overbreadth with respect to the wordings "anterior surface of the cornea" and "means for shaping, focusing and directing". And I have found that the boundaries of the privilege, although not broad enough to outlaw the Nidek EC-5000 apparatus, are within the scope of the disclosure.
+4.4. Has The "Invention" Been
+Sufficiently Described?
+[143]
+Nidek submits that a claim must be read in light of the specification so that the apparently broad language in the claim cannot be sustained where the specification, fairly read, cannot support such an interpretation. The description must be such as to enable a person skilled in the art or field of the invention, with only the instructions contained in the disclosure, to use the invention as successfully as the inventor could at the time of his application.
+[144]
+However, "insufficiency" is not a corollary to construction and overbreadth. It amounts to an entirely new line of attack on the validity of the patent and "insufficiency" has not been specifically pleaded by Nidek. "Insufficiency" is a separate ground of invalidity from "ambiguity". "Insufficiency" is directed to the issue whether the description is sufficient to enable those persons to whom the specification is addressed to understand how the subject matter of the patent has to be made. However, "ambiguity" is directed to the issue whether the invention is sufficiently described and ascertained so as to enable the public to understand the scope of the monopoly granted by the Letters Patent. This distinction is further emphasized by the fact that sufficiency is a question of fact, whereas ambiguity is a question of law [see footnote 13].
+4.5 Has An Essential Element Been
+Omitted From The Claims?
+[145]
+Nidek states that where a claim, properly construed, claims more than what was disclosed in the patent, or fails to include an essential element disclosed in the specification, the claim is invalid [see footnote 14]. Both the Myopia Patent and the Astigmatism Patent teach that "
+body-engageable means for steadying one eye of the patient with respect to the chassis
+" is an essential element of the invention. Dr. Sher described it as follows: "The patent calls for a method holding the eye and holding the head. Belt in suspenders, so to speak." And in an article written by him in 1991 (exhibit D-126) Dr. Sher stated that accurate, predictable and safe refractive surgery requires immobilization of the eye.
+[146]
+However, in his evidence Dr. Sher also said that he, in fact, did not use the "body-engageable means". Witnesses tendered by both parties testified that head and eye immobilization remained a matter of the surgeon's choice and to some extent, patient preference. Generally, surgeons prefer to place a steadying hand on the head of the patient, as a measure of comfort and security for the patient.
+[147]
+Thus, an essential element has not been omitted from the claims.
+4.6 Was The "Invention" Obvious?
+[148]
+The court must assess whether a skilled workman, possessed with a general knowledge of the subject matter, at the alleged date of invention, would come to the claimed invention directly and without difficulty. It is a question of fact [see footnote 15]. There is no inventive faculty if the adaptation to a new purpose of a known appliance is analogous to the purpose to which it had already been applied, and if the mode of application is also analogous [see footnote 16].
+[149]
+The invalidity ground of "obviousness" is necessarily linked to the construction of the patent. And I have not construed the patents in issue so broadly as to encompass any treatment of any surface of the cornea by any part of an excimer laser beam.
+[150]
+Nidek raised three instances of prior art as of November 17, 1983, the priority date of the Myopia Patent, it being the earliest "date of invention" relied upon by Visx for the activities of Dr. L'Esperance.
+[151]
+First, surgeons had proposed lasers such as CO
+2
+lasers, to create a small spot controlled by microcomputers to perform surgery upon the cornea. Reference was made to
+Keates et al.
+, "
+Carbon Dioxide Laser Beam Control for Corneal Surgery
+" and to the statements of Dr. Peter Oesterlin. However, Keates described the CO
+2
+lasers as being "ideal" thus teaching away from the use of the excimer laser. The proposed surgery was the making of cuts and not the volumetric removal of tissue. The cuts were made outside of the optically functioning area of the cornea and the proposed surgery was demonstrated to be completely useless because of the scarring that resulted from the thermal effects of the CO
+2
+lasers.
+[152]
+Secondly, a system almost identical to that of the L'Esperance patents, but without specifying what type of laser, had been proposed by Karp in his German patent application published in June 1983. In fact, Karp did not propose a laser and the excimer laser was not discussed. Rather, Karp discussed the making of cuts outside of the optically functioning area of the cornea.
+[153]
+Thirdly, the excimer laser was shown by Srinivasan to ablate tissue such as muscle, hair, and to a lesser extent, bone and teeth, without thermal damage (Srinivasan et al..,
+Far-UV Photoetching of Organic Material
+"). But Srinivasan's work and his material would not be known to a person of ordinary skill in ophthalmology.
+[154]
+None of these three references deal with overlapping areas of exposure with cumulative penetration effects in myopia or astigmatism reducing corrective change to the curvature of the cornea, as required by the claims of the Myopia Patent and the Astigmatism Patent.
+[155]
+Nidek submits that Dr. L'Esperance merely expressed, in the form of a patent application, that an excimer laser could be substituted for the CO
+2
+laser which had been shown to be unsatisfactory. Dr. L'Esperance reproduced a "paper patent" which did not describe how the "invention" could overcome the fears, expressed by ophthalmologists, of operating on the cornea without causing scarring, cancers or blindness.
+[156]
+In this instance an "unimaginative skilled technician" would be an ophthalmologist having a general knowledge of prior art laser eye surgery techniques, but no particular knowledge of excimer lasers. In 1983, Dr. Sher was such a person and his evidence convinces me that the invention would not have been obvious to him at that time. In November 1983, Dr. Sher had been working with ophthalmological lasers (not excimer lasers) for about seven years. He said that it did not occur to him in 1983 that a laser could be used to ablate the optically used area of the cornea so as to effect a refractive change: indeed the laser with which he was familiar could not have been used for that purpose. He concluded that "I was both astonished and delighted when I first became aware of the potential use of the excimer laser for refractive surgery".
+4.7
+Was The "Invention" Previously
+Known Or Used By Another Person And
+Disclosed To The Public?
+[157]
+According to s. 27(1)(a) and s. 61(1)(a) of the
+Patent Act
+, a patent is invalid if, before the inventor is shown to have made the invention, the invention was previously "known or used" by some other persons who had "disclosed or used the invention in such a manner that it had become available to the public". The prior person does not have to assert that an invention was made by him, but only that what the patentee asserts was "known or used" by him.
+[158]
+In respect to the Myopia Patent, the plaintiff claims no earlier invention date than November 17, 1983, the date Dr. L'Esperance filed his U.S. application no. 552,983. Nidek alleges that the evidence establishes that the alleged invention claimed in the Myopia Patent and in the Astigmatism Patent was known or used by Dr. Stephen L. Trokel and Dr. R. Srinivasan prior to November 17, 1983.
+[159]
+In 1980-1981, Srinivasan and his colleagues at IBM discovered the phenomenon of ablative photodecomposition. They discovered that polymers and tissues could be ablated with ultraviolet laser. IBM filed a patent application in 1982 describing the use of ultraviolet radiation from an excimer laser of 193 nm.
+[160]
+However, IBM's patent application made no explicit reference to the eye.
+[161]
+Dr. Stephen L. Trokel was interested in excimer lasers for optical surgical techniques in 1981. He came across the work of one Dr. Taboada who had published work describing the interaction of a 193 nm and 248 nm excimer lasers and corneal tissue of rabbits. Trokel learned of Srinivasan's work through a mutual colleague and eventually went to visit him at his IBM lab in 1983. He made two further visits to Srinvasan's lab in 1983 to conduct experiments on enucleated veal eyes. Both Trokel and Srinivasan apparently talked to a small group of people in July 1983. There was further conversation on July 1, 1983, between Trokel and Charles Munnerlyn. Trokel, Srinivasan and Braren published a paper in August 1983. The draft paper contained a disclosure of the work of Srinivasan describing the use of a 193 nm argon fluoride laser to ablate corneal tissue. Visx's "best information" is that the work of Trokel, Srinivasan and Braren was disclosed to Dr. L'Esperance in August 1983.
+[162]
+However, there is no solid evidence that these disclosures dealt with specific claims of the two inventions or that they were really made available to the public. Dr. Srinivasan acknowledged under cross-examination that his purported disclosures did not amount to more than just a general concept of ablating the cornea with the excimer laser. None of the purported disclosures dealt with ablation in overlapping areas of exposure, the use of circular areas of exposure to reduce myopia, the use of rectangular areas of exposure to reduce astigmatism, or the reduction of these conditions by the cumulative effect of the overlapping areas of exposure. Dr. Trokel made it clear in his testimony, as read by Nidek, that there was no publication before December 15, 1983.
+[163]
+Nidek also refers to the U.S. interference proceedings. Dr. L'Esperance obtained U.S. patent no. 4,665,913 on May 19, 1987, entitled "Method For Ophthalmological Surgery". He had been accorded the benefit of U.S. Serial No. 552,983 filed November 17, 1983 (the U.S. application upon which the Myopia Patent claimed priority). Claims 1 and 2 of that patent claimed, inter alia, "the method of changing optical properties of an eye by operating solely upon the anterior surface of the cornea". Trokel initiated interference proceedings against Dr. L'Esperance in 1988 claiming that he was the prior inventor of the subject matter of those two claims. The interference was settled between the two. Dr. L'Esperance requested entry of an adverse judgment in the interference. It was determined that Trokel was the prior inventor of the subject matter of the two claims and that Dr. L'Esperance was not entitled to a patent on those claims.
+[164]
+In any event, these two claims are merely broadly worded method claims. They do not claim means for shaping, focusing and directing, nor do they refer to myopia or astigmatism reducing correction. There is no claim of overlapping areas of exposure, nor of refractive correction by the accumulation of such areas. There is no claim of circular areas to correct myopia, nor of rectangular areas to correct astigmatism.
+[165]
+Hence, that ground of attack cannot succeed.
+4.8 Does The South African Patent
+Invalidate The Astigmatism Patent?
+[166]
+Under s. 27(2) of the
+Patent Act
+, an application for a patent in Canada must be filed in Canada before a patent for the same invention has been issued in any other country, or filed in Canada within 12 months from the filing of an application for that patent in that foreign country. South African Patent number 84/7841 was issued on May 29, 1985, that is more than one year before the application for the Astigmatism Patent was filed in Canada and before the priority date respecting that patent.
+[167]
+However, the claims in suit in the Astigmatism Patent and the supporting disclosure nowhere appear in the South African Patent. The fundamental difference between the Astigmatism Patent and the South African Patent is how the astigmatism correction is accomplished. The Astigmatism Patent unequivocally establishes that the correction requires the accumulation of varying width overlapping rectangular areas of exposure of constant ablation depth. On the other hand, the South African Patent accomplishes this by a single area of exposure of varying speed and ablation depth.
+[168]
+Moreover, a foreign patent cannot be said to be issued until it becomes enforceable by the patentee. The evidence as to the law of South Africa shows that a South African patent cannot be enforced by the patentee as a right until nine months after grant. This would not have taken place before the priority date of the Astigmatism Patent.
+5. The Defendant Doctors
+[169]
+Counsel for the defendant doctors supported actively Nidek's arguments with reference to construction, infringement and validity. It follows that they are successful as well as Nidek with reference to the first two issues. With reference to validity, they added arguments of their own, mostly to the effect that the three patents in issue are directed to surgical procedures which do not constitute an invention as defined by s. 2 of the
+Patent Act
+. "Invention" which, as mentioned earlier, is defined as follows:
+"'invention' means any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter."
+[170]
+The defendant doctors raised "the Professional Skill Defence". In short, they claim that the use limitation in the apparatus claims does not relate to an "art" or "process" within the definition but teaches "professional surgical procedures" which do not qualify under the "invention" definition. They refer to jurisprudence to the effect that a claim based on a new use for an old product or apparatus is invalid if the new use involves professional skill. For instance, if a surgeon were to devise a method of performing a certain type of operation he cannot obtain an exclusive property or privilege therein [see footnote 17].
+[171]
+According to s. 11.10.02 of the
+Patent Office Manual of Practice
+, as amended in October 1996, "method of use claims directed to medical use are rejected under s. 2 of the
+Patent Act
+in view of
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.)". The section further stipulates as follows:
+"v. Similarly, product claims containing either a use or method definition are acceptable, provided that the method is not a method of medical treatment" [see footnote 18].
+[172]
+And it was held by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  matter that would otherwise be not patentable.
+[173]
+In my view, the Professional Skill Defence is not available to attack the validity of the three patents in issue. These patents do not teach professional skills to surgeons. They deal with an apparatus, a machine, a combination of several components. In that sense, the apparatus is similar to other medical equipment, as x-ray machines, dentist drills, scalpels, all of which are patentable if they teach an invention. The invention in the Visx patents does not pose a limitation upon the surgeons' skills. On the contrary, it is meant to assist a surgeon in his operation on the human eye. It focusses, directs and shapes the beam. It determines and controls a circular area of exposure and does the ablation. All the surgeon does is prepare the patient and enter the basic measurements into the computer. He then steps on the pedal to start the machine. Moreover, in accordance with Dr. Sher's evidence, myopia, hypermyopia and astigmatism are not diseases, they are human conditions.
+6. Disposition
+[174]
+Consequently, the aforementioned reasons lead me to two conclusions: first, the three patents are valid and, second, the defendants are not guilty of infringement. It follows that the plaintiff is responsible for all the costs of this action except for costs related to the defendants' counterclaims.
+Action dismissed.
+Editor: Jocelyne M. Caissie/aga
+Footnotes
+1.
+ <FRAGMENT_SUPPRESSED>  at pp. 105-106.
+2.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145 (S.C.C.), at pp. 156-157, per Dickson, J.
+3.	W.L. Hayhurst, "
+THE ART OF CLAIMING AND READING A CLAIM
+", 1993 National Judicial Institute, Intellectual Property Patent Law, at pp. 186-199 (Nidek's Brief of Authorities, Tab 13).
+4.
+ <FRAGMENT_SUPPRESSED> , at p. 104, per Pigeon, J.
+5.	Eighth Edition, 1995, at p. 1302.
+6.	R.S.C. 1985, c. P-4.
+7.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 72 (T.D.), per Rothstein, J., at p. 77, affd. (1996), 71 C.P.R.(3d) 146 (F.C.A.),
+8.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 176 (F.C.A.), per Stone, J.A., at pp. 188-189.
+9.
+ <FRAGMENT_SUPPRESSED> , per Romer, L.J., at p. 85 (Eng. C.A.).
+10.
+Visx Incorporated and Nidek Co. Limited et al.
+, CH 1996-V-No. 7408.
+11.
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), per Decary, J.A., at pp. 364-365  <FRAGMENT_SUPPRESSED>  and Marceau, J.A., at p. 370 ( <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 223; 25 C.P.R.(3d) 257, per Lamer, J., at p. 1636  <FRAGMENT_SUPPRESSED>  - (Nidek's Brief of Authorities, Tab 1).
+13.
+ <FRAGMENT_SUPPRESSED>  (C.A.), at pp. 235-236;
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), at p. 99, and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 473 (F.C.A.), at p. 473.
+14.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 193 (F.C.A.), per Urie, J.A., for the court, at pp. 201-205  <FRAGMENT_SUPPRESSED> .
+15.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 202, and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.).
+18.
+Manual of Patent Office Practice
+, October, 1996, s. 11.10.02.
+19.	(1981), 56 C.P.R.(2d) 204 at p. 206 (F.C.A.).
+[End of document]

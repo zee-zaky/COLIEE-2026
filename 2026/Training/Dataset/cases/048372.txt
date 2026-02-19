@@ -1,0 +1,1206 @@
+[1]
+Martineau, J.
+: This motion arises in the context of an infringement action whereby the plaintiffs allege that the defendant has infringed Canadian Patent No. 1,281,505 (the '505 Patent), Canadian Patent No. 1,338,303 (the '303 Patent) and Canadian Patent No. 1,330,186 (the '186 Patent) (collectively, the patents in suit).
+[2]
+The defendant moves for summary judgment dismissing all claims in this action and declaring that the patents in suit are invalid, void and of no effect. The defendant further requests impeachment of same, and the costs of this motion and of this action.
+[3]
+The defendant alleges, inter alia, in its pleadings that the applicants for the patents in suit did not pay the prescribed filing fees and completion fees. The defendant submits that neither the
+Patent Act
+, R.S.C. 1985, c. P-4 (the
+Patent Act
+), as amended, nor the
+Patent Rules
+, C.R.C. 1978, c. 1250 (the
+Patent Rules
+), as amended, grant the Commissioner of Patents (the Commissioner) any discretion to give an application a filing date where the prescribed fee had not been paid nor to waive any portion of the prescribed fee. Therefore, the defendant concludes that the applications for the patents in suit were either never validly filed with the Commissioner, or deemed to be permanently abandoned since the applicants failed to take corrective action within the statutory time limits for doing so after the date of filing.
+[4]
+The plaintiffs oppose the present motion on different grounds which are discussed later on in reasons. But first, it is necessary to give an overview of the applicable legal framework, which will be followed by a short summary of the relevant facts which are not in dispute.
+LEGAL FRAMEWORK
+[5]
+Canadian patent law is entirely statutory. A person's right to obtain a patent and the requirements an applicant must satisfy to do so, arise solely from the
+Patent Act
+and the
+Patent Rules
+promulgated thereunder. In Canada, a patent is granted by the Commissioner when all of the requirements for the issuance of a patent are met. The relevant provisions of the
+Patent Act
+and the
+Patent Rules
+are reproduced at Appendix A. The patents in suit were issued after October 1, 1989, on the basis that all the applications were filed before that date, most notably the '186 Patent. Accordingly, the patents in suit are to be dealt with in accordance with the provisions of the
+Patent Act
+, other than s. 46 (the term of patent), as they read immediately before October 1, 1989 (current
+Patent Act
+, s. 78.2(2)).
+[6]
+The
+Patent Act
+and
+Patent Rules
+specify all aspects of the application process and delineate the role and powers of the Commissioner in receiving and processing patent applications and in issuing patents. To obtain a patent, an inventor, or his legal representatives, must present a petition to the Commissioner and comply with all other requirements of the
+Patent Act
+(s. 27 of the
+Patent Act
+). Among these requirements, every application must be "completed" within twelve months of its initial filing (s. 30(1) of the
+Patent Act
+). The
+Patent Rules
+define "completion" to require the applicant to submit certain documents and pay certain "prescribed fees" to the Commissioner (ss. 32 and 34 of the
+Patent Rules
+).
+[7]
+The fees that may be charged in respect of the filing of applications for patents or the taking of other proceedings under the
+Patent Act
+and any rule or regulation thereunder, as well as the payment of any such fees, including the time when and the manner in which those fees shall be paid, are determined by the rules and regulations made by the Governor in Council (s. 12(1) of the
+Patent Act
+). "On filing" an application for a patent, the applicant must pay a prescribed filing fee. The exact fee that must be paid to file and complete an application is specified in Schedule II of the
+Patent Rules
+(s. 11 of the
+Patent Rules
+). The amount of this fee depends upon whether or not the applicant is a "small entity" on filing. A small entity refers to an "independent inventor" or a "small business concern". Those expressions are in turn defined in s. 2 of the
+Patent Rules
+. In construing these definitions, a small entity is defined to exclude individuals who have transferred any right in the subject invention to an entity who has, in turn, licensed any rights in the invention to a company having more than one hundred employees or a gross annual revenue of more than two million dollars. That being said, Schedule II, Item 8 of the
+Patent Rules
+also prescribes an additional fee that must be paid "to complete an application not completed on its filing date". This completion fee is an additional amount the applicant must pay over and above the filing fee if all of the completion requirements listed in ss. 32 and 34 of the
+Patent Rules
+are not satisfied on the day the application is filed.
+[8]
+Moreover, pursuant to s. 30(1) of the
+Patent Act
+, if the application is not completed within twelve months of its filing, it is "deemed to have been abandoned". In such a case, s. 30(2) of the
+Patent Act
+provides that an abandoned application may be reinstated on petition presented to the Commissioner within twelve months after the date on which it was deemed to have been abandoned, and on payment of the prescribed fee, if the applicant satisfies the Commissioner that the failure to complete or prosecute the application within the time specified was not reasonably avoidable. Section 61 of the
+Patent Rules
+states that a petition for the reinstatement of an abandoned application shall be verified by affidavit. Section 30(3) of the
+Patent Act
+provides that "[a]n application reinstated under subsection (2) shall retain its original filing date".
+[9]
+On October 1, 1989, amendments to the
+Patent Act
+came into effect to require, among other things, the payment of maintenance fees. Sections 27.1 and 46 of the amended
+Patent Act
+were the result of these amendments with respect to the said requirement. Section 27.1(1) of the
+Patent Act
+provides that an applicant for a patent shall, to maintain the application in effect, pay to the Commissioner such fees, in respect of such periods, as may be prescribed. Pursuant to s. 27.1(2) of the
+Patent Act
+, an application for a patent shall be deemed to have been abandoned if such fees have not been paid by the applicant before the expiration of that period. Moreover, s. 27.1(3) of the
+Patent Act
+provides that an application deemed to have been abandoned may be reinstated on petition by the applicant presented to the Commissioner within such period as may be prescribed and on payment of a prescribed fee, and an application so reinstated shall retain its original filing date and its priority date, if any.
+[10]
+As will be set out in detail below, the defendant alleges that on the date of filing, the applicants only paid the fees applicable to a small entity. Later on, outside the 12 month period provided in s. 30(2) of the
+Patent Act
+for the reinstatement of an abandoned application, the applicants sought to "top up" the filing fee to that of a large entity, by paying a sum equivalent to the difference between the filing fee for a large entity and the filing fee for a small entity. The Commissioner appears to have accepted this additional amount, without completion fee, to correct the filing fee deficiency and allowed the prosecution of the applications to continue to issuance. Prior to the decisions rendered by this Court and the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  it was the practice of the Commissioner to permit deficiencies in the payment of the prescribed fees to be cured by "top-up" payments. It apparently did not matter when such top-up payments were made. Top-up payments were received even after the deadline for the payment of the fee and the deadline for any corrective measures permitted by the
+Patent Act
+.
+[11]
+However, in
+Dutch Industries Ltd.
+, supra, this Court and the Federal Court of Appeal both held that the Commissioner did not have jurisdiction to accept the top-up payments received after the deadline set out in the
+Patent Act
+. As a consequence, because of the strict interpretation of the statute and limited power of the Commissioner to accept late corrective payments, patent applicants and patent holders can find themselves in the situation of having underpaid a fee and having no recourse to correct these payment errors.
+[12]
+It is apparent that this Court and the Federal Court of Appeal were well aware of the harsh consequences their ruling would have on patent applicants and patent holders who did not pay the prescribed fees. As stated by Sharlow, J.A., in
+Dutch Industries Ltd.
+, "In the context of the administration of the Patent Office, the likely consequence (...) is that no patent applicant or patent holder will dare to pay any fee on the 'small entity' scale,
+because any error in the determination of small entity status could lead to the loss of all rights under the patent application and any resulting patent, unless the error is discovered and corrected within the statutory time limits for late fee payments
+." (para. 4) (My emphasis)
+[13]
+On August 8, 2003, the Government of Canada announced its intention to amend the
+Patent Act
+in response to the decisions of this Court and the Federal Court of Appeal in
+Dutch Industries Ltd.
+, supra. According to the announcement made that day by the Government, "[t]he proposed amendments to the
+Patent Act
+will provide a mechanism for the retroactive correction of past fee payments in situations where a fee was incorrectly paid at the lower small entity fee level instead of the higher large entity fee level".
+[14]
+That being said, no such amendments have been adopted by Parliament. At this time, the content of any future legislative amendments which might be retroactive is a matter of pure speculation and not of law. In the case at bar, the defendant has the right to have this proceeding determined on the law which currently governs it. I will now summarize the relevant facts for the disposal of the present motion for summary judgment.
+FACTUAL BACKGROUND
+[15]
+The patents in suit generally relate to balloon expandable "stents" or "articulated stents", which are devices used to expand and reinforce blood vessels in the body. A stent is a device which acts like scaffolding to support the walls of a body passageway to keep the lumar of the passageway open.
+[16]
+From the date of issuance or reissuance of the respective patents until February 26, 1999, the plaintiff Expandable Grafts Partnership (EGP), has owned the patents in suit. From February 26, 1999 until July 13, 1999, the plaintiff, Cordis Corporation (Cordis), has owned the patents in suit. On July 13, 1999, Cordis sold, assigned and transferred its whole right, title and interest for Canada in and to the patents in suit to the plaintiff, Johnson & Johnson (J & J).
+[17]
+EGP is a general partnership created by an agreement dated December 30, 1985, between Julio C. Palmaz (Palmaz), Richard Schatz (Schatz) and Philip J. Romano. Its purpose is mainly to develop and market the expandable intraluminal vascular graft (the invention) which is the object of the patents in suit. Palmaz's contribution to the partnership was an assignment of "the entire right, title and interest for the United States and all foreign countries" in the invention. In particular, Palmaz assigned to EGP United States patent application no. 796,009, filed November 7, 1985 (the US '009 application) and all foreign equivalents of that application.
+[18]
+On August 27, 1986, with the full knowledge of Palmaz and Schatz, EGP entered into a licence agreement with Ethicon Inc. (Ethicon), a company having more than one hundred employees and having reserves of over two million dollars, and who manufactures and markets medical and surgical devices such as sutures and ligatures. That licence agreement granted Ethicon (a wholly-owned subsidiary of Johnson & Johnson) a worldwide exclusive licence under certain defined "Patent Rights", which included any foreign equivalents of the US '009 application. On March 15, 1989, EGP's licence to Ethicon was amended to include all world-wide patents relating to any expandable intraluminal graft that named either of Palmaz or Schatz as an inventor. Pursuant to paragraph 4.01(a) of the licence agreement, Ethicon was obligated to pay to EGP the sum of $3,600,000 upon the signing of the agreement, which occurred in August of 1986. Following execution of the licence agreement in favour of Ethicon, the sum of $3,600,000 was credited on September 2, 1986 to a bank account in the name of Expandable Grafts Partnership/Ethicon. That account was closed on October 7, 1986 and the balance of $3,624,320 was deposited into an account in the name of Expandable Grafts Partnership only. Cheques were then drawn on the Expandable Grafts Partnership only account, payable to the principals of EGP.
+[19]
+On November 6, 1986, Palmaz presented to the Commissioner, by his patent agents, two petitions and patent applications for the invention, which were assigned application nos. 522,324 (the '324 application) and 522,325 (the '325 application) (collectively, the 1986 applications). The 1986 applications claimed priority, from the first US '009 application filed on November 7, 1985. The '325 application also claimed priority from a second United States application, filed on November 3, 1986. The '324 application was eventually issued as Canadian Patent No. 1,281,504, which itself was reissued as the Canadian Patent No. 1,338,303 (the '303 Patent). The '325 application was eventually issued as the Canadian Patent No. 1,281,505 (the '505 Patent). Both patents were issued in the name of Palmaz.
+[20]
+In the two cover letters and executed petitions Palmaz submitted to the Commissioner on November 6, 1986 in respect of the 1986 applications, Palmaz, by his agents, stated that Palmaz was a small entity. The fees accompanying the 1986 applications were calculated on the basis that Palmaz was indeed a small entity. As Palmaz, by his agents, later admitted, the fees were deficient because Palmaz was not, in fact, a small entity on November 6, 1986. No action was taken to correct the fees' deficiency within the statutory periods defined in s. 30 of the
+Patent Act
+.
+[21]
+On June 30, 1989, two letters were sent to the Commissioner wherein the patent agents for Palmaz informed the Commissioner that Palmaz was not entitled to claim small entity status for the 1986 applications. As a result, Palmaz paid the Intellectual Property Office a sum of $150.00 for each application which was equivalent to the difference between the filing fee for a large entity and the filing fee for a small entity. No other fee, such as completion fees, was ever submitted. The Commissioner appears to have accepted this additional amount, without completion fees, to correct the filing fee deficiency and allowed the prosecution of the applications to continue to issuance.
+[22]
+On March 23, 1989, Palmaz and Schatz, by their agents, purported to file another Canadian patent application relating to the invention. The Commissioner later designated this as application No. 594,694 (the 1989 application). The 1989 application was ultimately issued as the Canadian Patent No. 1,330,186 (the '186 Patent). As had been the case with the 1986 applications, in the cover letter and executed petition, Palmaz and Schatz submitted to the Commissioner that they were a small entity. As Schatz and Palmaz, by their agents, later admitted, the fee was deficient because Palmaz and Schatz had not been a small entity on March 23, 1989.
+[23]
+On November 10, 1989, Palmaz and Schatz, by their agents, advised the Commissioner that they were not a small entity on March 23, 1989 and were not entitled to pay the small entity fee. Palmaz and Schatz, by their agents, then purported to file an additional amount to retroactively "top-up" the initial fee deficiency. However, no additional fee, such as completion fees, was ever submitted. The Commissioner appears to have accepted the additional amount to correct the filing fee's deficiency and allowed the prosecution of the 1989 application to continue to issuance.
+[24]
+No maintenance fee which is required under s. 27.1 or 46 of the amended
+Patent Act
+was ever remitted with respect to the 1989 application.
+[25]
+In the meantime, on March 29, 1988, United States Patent No. 4,733,665 (the U.S. '665 Patent) was issued. The U.S. '665 Patent is for the same invention as the '303 Patent. On April 26, 1988, United States Patent No. 4,739,762 (the U.S. '762 Patent) was issued. The U.S. '762 Patent is for the same invention as the '505 Patent. Both U.S. '762 Patent and '505 Patent claim priority from U.S. '009 application filed on November 7, 1985. As well, both the U.S '665 Patent and the '303 Patent claim priority from U.S. '009 application.
+PROCEEDINGS BEFORE THIS COURT
+[26]
+The defendant's motion for summary judgment was heard on June 24, 2003, together with a similar motion made by Arterial Vascular Engineering Canada Inc., Medtronic Ave, Inc., and Medtronic of Canada Ltd. (the other defendants) who are also sued by the plaintiffs in another action alleging infringement of the patents in suit and of a fourth patent not in issue here (file T-808-98). In this regard, the reasons provided in the present proceeding are referred to and included in the reasons for order issued concurrently in file T-808-98 and which concern the similar motion made by the other defendants.
+[27]
+Days before the hearing of these two motions, plaintiffs sought an adjournment pending the coming into force of the
+Rules Amending the Patent Rules
+, which were published in part II of the
+Canada Gazette
+on June 18, 2003 as SOR/2003-208. I dismissed their request for an adjournment. At the hearing, I therefore heard argument on the merits of the summary judgment motions. That being said, I allowed the parties to file supplementary written submissions on the impact, if any, of the aforementioned pending regulatory changes which came into effect on January 1, 2004.
+[28]
+Moreover, during the time the case was under advisement, on August 8, 2003, the Government of Canada announced its intention to present to Parliament retroactive amendments to the
+Patent Act
+, L.R.C. 1985, c. P-4, in response to the decisions of this Court and the Federal Court of Appeal in
+Dutch Industries Ltd.
+, supra.
+[29]
+On November 2, 2003, upon motion by the plaintiffs pursuant to paragraph 50(1)(b) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 (the
+Federal Courts Act
+), I ordered a stay of proceedings for a period of one year. The stay was granted on two grounds: 1) the anticipated (retroactive) legislative changes; 2) a pending leave application to appeal to the Supreme Court of Canada from the
+Dutch Industries Ltd.
+case. The stay order was appealed. The Federal Court of Appeal dismissed the appeal (
+ <FRAGMENT_SUPPRESSED> ), Sexton, J.A., who gave the reasons of the Federal Court of Appeal stated that "it was clearly appropriate for the Motion Judge to grant a stay based upon the pending leave application in
+Dutch Industries Ltd.
+, supra." With respect to the other ground for the stay, while making no comment, Sexton, J.A., nevertheless mentioned that "it is a rare circumstance where the Court will decline to proceed because of anticipated legislative changes."
+[30]
+Since the above stay was granted, a whole year has passed. In the meantime, the Supreme Court of Canada refused to grant leave in the
+Dutch Industries Ltd.
+, supra, case and the anticipated retroactive legislation has not been enacted. Taking into consideration the particular circumstances of this case and the relevant jurisprudence, I have refused to extend the stay as requested by the plaintiffs. This leaves the present motion for summary judgment which has to be decided on the law which currently governs it.
+ISSUES IN DISPUTE AND PARTIES' POSITION
+[31]
+The issues to be decided here are relatively straightforward. This motion raises the question of whether the pleadings disclose any genuine issue regarding the validity of the patents in suit. The relevant facts are not in dispute. Essentially, the Court is asked to determine whether the individual applicants for the patents in suit, Palmaz and Schatz, were entitled to claim small entity status at the date of filing of same. If they were not, what are the legal consequences which result from the applicants' failure to pay the prescribed filing fees (and completion fees as well) within the statutory twelve month period prescribed at paragraph 30(1) of the
+Patent Act
+? Are the applications for the patents in suit deemed to have been permanently abandoned since no reinstatement petition was presented to the Commissioner?
+[32]
+The defendant submits that there is no genuine issue for trial. More particularly, the defendant argues that the patents in suit are invalid, void and of no effect. As a result of the large sum of money paid to EGP pursuant to the licence agreement entered on August 27, 1986 with Ethicon, Palmaz and Schatz were not entitled to claim small entity status. In order to correct the applications filed, the applicants paid, on June 30, 1989, to the Commissioner the sum which was equivalent to the difference between the filing fee for a large entity and the filing fee for a small entity. Alternatively, if this Court determines that the 1986 applications were given a filing date of November 6, 1986, those applications were deemed abandoned on November 6, 1987, for failure to complete the application by paying the prescribed filing fee for a large entity and the completion fee pursuant to s. 30(1) of the
+Patent Act
+. As no petition to reinstate the 1986 applications were made prior to November 6, 1988, the defendant argues that those applications became permanently abandoned. Alternatively, if this Court determines that the 1986 applications were accorded a filing date of June 30, 1989, the date on which the whole of the prescribed fee for a large entity was paid, the defendant submits that the '505 and '303 Patents are invalid by virtue of the prior issuance of the U.S. '762 Patent and the U.S. '665 Patent pursuant to paragraph 27(2)(b) of the applicable (post October 1, 1989)
+Patent Act
+.
+[33]
+In regards to the '186 Patent, the defendant submits that it is and has always been invalid, void and of no effect, as the prescribed fee for a large entity was not paid on the filing date. If it is determined that the 1989 application is accorded a filing date of March 23, 1989; the date where the application was first made in Canada, then the defendant argues that the application was deemed abandoned on March 23, 1991, for failure to complete the application by paying the prescribed fee for a large entity and the completion fee pursuant to s. 30(1)
+Patent Act
+. Furthermore, the defendant notes that no petition to reinstate the 1989 application was made prior to March 23, 1991, and therefore the 1989 application became permanently abandoned as of that date. Alternatively, if this Court finds that the 1989 application is accorded a filing date of November 10, 1989; the date on which the whole of the prescribed filing fee was paid, then the defendant argues that the 1989 application was deemed abandoned on November 10, 1991, by virtue of s. 73 of the applicable (post October 1, 1989)
+Patent Act
+for failure to pay the maintenance fee required pursuant to s. 27.1(1) of the applicable (post October 1, 1989)
+Patent Act
+. The defendant also points out that no petition to reinstate the 1989 application was made prior to November 10, 1992. Therefore, the 1989 application became permanently abandoned as of that date.
+[34]
+For their part, the plaintiffs submit that proceeding by way of summary judgment is not appropriate in this particular case. First, they argue that the defendant should have proceeded by way of judicial review since the defendant is challenging the decision of the Commissioner. Second, the plaintiffs point out that s. 59 of the
+Patent Act
+provides that a defendant "(...) may plead as a matter of defence any fact or default which by this
+Act
+or by law renders the patent void". In this regard, they argue that the defendant has not specifically pleaded s. 59. The plaintiffs submit that even if the defendant has pleaded s. 59, this provision may only be relied upon to support pleadings "as a matter of defence", and therefore it does not afford the relief sought in the motion (which, by result of the counterclaim made by the defendant, and s. 60 of the
+Patent Act
+, seeks a declaration of invalidity). (Please note that in file T-808-98, the other defendants expressly refer to both ss. 59 and 60 of the
+Patent Act
+).
+[35]
+The plaintiffs further submit that the patents in suit were properly issued, as the proper fees were paid. The plaintiffs submit that the determination as to whether the applicant was a small entity should have been determined when the patent regime was first engaged which, in this case, was at the time of filing of the first U.S. applications, on November 7, 1985 (the "priority date"), pursuant to s. 28(1) of the
+Patent Act
+. Accordingly, the applicant was entitled to claim small entity status.
+[36]
+The plaintiffs further argue that s. 77 of the
+Patent Act
+creates the "legal fiction" that all preconditions to a valid patent issuance have been met for the patents in suit and therefore the patents in suit are deemed to have been properly issued.
+[37]
+The plaintiffs further rely on s. 4(1) of the
+Patent Act
+and Rules 32, 34 and 137 of the
+Patent Rules
+, which deal with the powers of the Commissioner. As a result, the plaintiffs note that in 1985, the Commissioner established a procedure to accept the additional fees or in other words the payment of a correcting fee where small entity status had been claimed erroneously. The procedure was published in a Bulletin available to the public and provided that where the application was filed with an incorrect claim to small entity status, the applicant should notify the Patent Office of the error and remit the additional amount to correct the filing fee. Therefore the plaintiffs submit that the published procedure was followed and the additional fees were tendered and accepted. In light of the above, the plaintiffs are of the opinion that the patents at issue in this case were given filing dates which the Commissioner chose not to change when he accepted the additional fees. Furthermore, the plaintiffs submit that the Commissioner did not treat these applications as incomplete or abandoned, nor did the Commissioner state that they were.
+DECISION
+[38]
+I have determined that the present motion as well as the similar motion made by the other defendants in file T-808-98 should be granted. There is no genuine issue for trial. I entirely accept the arguments submitted in this regard by the defendant and by the other defendants in file T-808-98 in their respective pleadings which I do not need to reproduce here. I also dismiss the arguments made by the plaintiffs. I have already exposed the applicable legal framework and summarized the relevant facts which are not in dispute. That being said, I will complete my reasons by addressing specific issues in the order which I have just presented the arguments made by the plaintiffs.
+SHOULD THE DEFENDANT HAVE PROCEEDED BY WAY OF JUDICIAL REVIEW?
+[39]
+The plaintiffs submit that the defendant is attacking the authority of the Commissioner. More specifically, the defendant is alleging that the Commissioner erred in issuing the patents. As such, the plaintiffs submit that the relief contemplated by the defendant is overriding the Commissioner's exercise of his statutory duties. The plaintiff therefore concludes that the defendant should have proceeded by way of judicial review. The plaintiffs rely on s. 18(3) of the
+Federal Courts Act
+, which provides that the remedies sought by defendant can only be obtained through a judicial review application as they were in
+Dutch Industries Ltd.
+, supra.
+[40]
+It is trite law that not all administrative acts are "decisions" under s. 18.1 of the
+Federal Courts Act
+. It must be a "decision" made in the exercise of the powers conferred by an Act of Parliament (
+ <FRAGMENT_SUPPRESSED> ; 172 F.T.R. 210 (T.D.)). It must also be a "decision" which has the legal effect of settling the matter or purports to have such legal effect (
+ <FRAGMENT_SUPPRESSED>  (T.D.);
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.)). Once the tribunal has exercised its jurisdiction; in this case when the Commissioner has issued the patent, then the matter is decided. In <FRAGMENT_SUPPRESSED> , supra, it has been established that the issuance of a patent is a final "decision". However, this case, the defendant is not seeking a judicial review of the Commissioner's decision regarding its own patent applications. The defendant is attacking the issuance of the patents in suit in favour of the plaintiffs.
+[41]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 377 (T.D.), Jerome, A.C.J., was dealing with an application for an order extending the time to commence an application for judicial review of a decision of the Commissioner. Although the situation is different from the application at issue, his words are timely, at page 379:
+"I am not prepared to grant the application. The provisions of the
+Patent Act
+clearly demonstrate that Parliament has provided a comprehensive scheme for challenging the decisions of the Commissioner of Patents. The procedure set out in the
+Act
+and the <FRAGMENT_SUPPRESSED> does not contemplate the type of judicial review proceedings which the applicant in the present case seeks to commence."
+[42]
+Further on, Jerome, A.C.J., refers to s. 42 which is now s. 41 of the
+Patent Act
+, and goes on to say:
+"The right of appeal is given only to those persons who have failed to obtain a patent by reason of a refusal or a rejection from the Commissioner, in the present case, the respondent Eli Lilly. A third party such as Cangene does not have such right."
+[43]
+I accept that the procedure found in ss. 59 and 60 of the
+Patent Act
+, which is available to a defendant being sued in an infringement action or any other interested persons provides a comprehensive scheme for challenging any decision of the Commissioner which has ultimately led to issuance of a patent. This includes any ground of invalidity based on an excess of jurisdiction.
+[44]
+That being said, in the present case, the defendant has a competitive commercial interest and as such is not "directly affected by the matter" as provided for under s. 18.1 of the
+Federal Courts Act
+. There is a consistent body of jurisprudence which stands for the principle that such an interest cannot amount to a standing to challenge administrative decisions affecting a rival (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 29 (F.C.A.), affing. (1987), 16 F.T.R. 81; 18 C.P.R.(3d) 206 ( <FRAGMENT_SUPPRESSED> ; 161 F.T.R. 76 (T.D.), Pinard, J., of this Court was dealing with an application by Pharmascience for judicial review of the decision of the Commissioner who had granted the respondent G.D. Searle & Co. a late entry allowance. Pinard, J., dismissed the application on the ground that Pharmascience had not satisfactorily explained its one year delay in seeking judicial review and further that Pharmascience lacked standing as it was not a party directly affected by the decision. Pinard, J., stated as follows at paragraph 9:
+"Pharmascience lacks standing. Section 18.1(1) of the Federal Court Act limits judicial review to '
+anyone directly affected by the matter in respect of which relief is sought
+'. In my view the only person 'directly affected by decisions taken during the prosecution of a patent application before the Canadian Patent Office is generally, the patent "applicant" as defined in s. 2 of the
+Patent Act
+.'" (My emphasis)
+[46]
+Furthermore, it is obvious in this case that the defendant would never have sought to have the patents in suit adjudged invalid, had the plaintiffs not sued the defendant in the first place. Moreover, when the decisions were made by the Commissioner to accept the late payment made by the applicants which eventually led to the issuance of the patents in suit, the applicants were the only ones aware of these decisions. In light of the reasons stated above, it is clear that a procedure under judicial review would not be appropriate in this case.
+IS THE DEFENDANT ENTITLED TO OBTAIN A DECLARATION THAT THE PATENTS IN SUIT AND ALL CLAIMS THEREOF ARE INVALID AND VOID?
+[47]
+In view of what has been mentioned above, the question then becomes what options for having a patent declared invalid or void are available to a defendant within the scheme of the
+Patent Act
+with reference to a plaintiff's infringement claim? As part of its defence, the defendant may plead that the patents in suit should be declared void pursuant to s. 53(1) of the
+Patent Act
+if any material allegation in the petition of the applicant in respect of the patent is untrue, or if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading. Alternatively, the defendant may launch an action (or as the case may be, make a counterclaim) under s. 60 of the
+Patent Act
+to have the patent declared invalid or void even though the patent has been issued ( <FRAGMENT_SUPPRESSED> , supra). As a matter of defence, a defendant may also rely on s. 59 of the
+Patent Act
+which provides that in any action for infringement of a patent, the defendant may plead as matter of defence any fact or default which renders the patent void.
+[48]
+The defendant relies on ss. 59 and 60 of the
+Patent Act
+. In the case at bar, the defendant also initially relied upon the provisions relating to void patents contained in s. 53 of the
+Patent Act
+, and stated in its defence and counterclaim that: "(...) a patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue (...)". However, in the course of the hearing of the present motion for summary judgment, the defendant withdrew its s. 53 allegation, and amended its memorandum of fact and law filed in support of its notice of motion, so as to remove all of the submissions dealing with "material allegations". As a result, for the purposes of the present motion for summary judgment, the defendant only seeks determination of the issue of the invalidity of the patents in suit due to the plaintiffs' failure to correctly pay the filing fees and the plaintiffs' subsequent failure to complete the patent applications within the time set forth at s. 30 of the
+Patent Act
+.
+[49]
+Strictly speaking, under s. 59 of the
+Patent Act
+, the defendant is not entitled to a declaration in rem that the patent is invalid. A dismissal of a patent infringement action on the basis of s. 59 of the
+Patent Act
+constitutes a judgment inter partes and not a judgment in rem on the invalidity of the patent (
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.)). Therefore, while an impeachment action under s. 60 of the
+Patent Act
+determines the validity of a patent throughout Canada, the dismissal of an infringement action under s. 59 of the
+Patent Act
+would have the same effect on the parties, but would only be res judicata as between the parties to the action (
+ <FRAGMENT_SUPPRESSED> ). Accordingly, a defendant may rely upon s. 59 as a matter of defence against the infringement action and may also obtain a declaration that the patent is invalid as between the parties, or, in reliance upon s. 60 of the
+Patent Act
+, the defendant may obtain a declaration in rem that the patent is invalid or void. That being said, a s. 60 claim must originate out of an original action or a counterclaim (
+ <FRAGMENT_SUPPRESSED> ; 67 F.T.R. 241 (T.D.), appealed on other grounds). Conversely, a s. 59 claim does not need to be pleaded as a counterclaim as it is a statutory defence ( <FRAGMENT_SUPPRESSED> , supra), and may be pleaded in a statement of defence.
+[50]
+I must now determine what are the consequences are, if any, of the defendant not having made specific reference to ss. 59 and 60 of the
+Patent Act
+in its "amended fresh as amended statement of defence and counterclaim, dated February 11, 2002 (the amended defence).
+[51]
+The plaintiffs submit that a failure to adequately plead an essential element of a claim or action is sufficient grounds for dismissal. To support their arguments, the plaintiffs rely on
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 44 (T.D.), at 58-59, where it was stated that a motion for summary judgment may be dismissed on that basis. In <FRAGMENT_SUPPRESSED> , supra, the Court held that the failure to plead the subject matter of the motion (i.e. the allegedly infringing product) in the statement of defence and counterclaim meant that the allegedly infringing product was never in issue in the action, and, accordingly, Dupont could not allege that such product infringed their patent. This omission was deemed to be material to the determination of the facts and, as such, essential to the determination of the case. This is not the situation in the present case.
+[52]
+This Court recognizes the importance of pleadings as they identify both for the Court and for the opposing party the position which a party is advancing (
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 179;
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at 58-59;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 78 (F.C.A.), at 90). In this case, I find that the essence of the pleadings filed by the defendant indicate the specific remedies sought by the defendant as well as the specific facts and provisions of the
+Patent Act
+upon which the defendant relies to plead that the patents in suit are void and invalid. The Court expects parties to adhere to the rules of pleading so that each side will know the case they are required to meet at trial, thereby preventing either party from being taken by surprise. That the plaintiffs were aware of the substance of the defendant's pleadings with respect to ss. 59 and 60 of the
+Patent Act
+is evident from the fact that the plaintiffs responded to such pleadings. It has become an accepted and common defence for a defendant to include in its counterclaim a claim that the patent in question is invalid.  <FRAGMENT_SUPPRESSED>  not go about seeking to have patents invalidated, usually, unless or until they have been sued for infringement of patent. In some, perhaps many circumstances, a defendant's solicitor could well be visited with a suit for professional negligence if such solicitor did not include it in the defence or counterclaim for a judgment declaring the patent-in-suit to be invalid."
+[53]
+Rule 174 of the
+Federal Court Rules
+, 1998, SOR/98-106 (the
+Federal Court Rules
+) states that "every pleading shall contain a concise statement of the material facts on which the party relies". As stated by Lord Denning, M.R., in
+Vandervell's Trust (No. 2)
+, Re, [1974] 3 All E.R. 205, at p. 213:
+"It is sufficient for the pleader to state the material facts. He need not state the legal result. If, for convenience, he does so, he is not bound by, or limited to, what he has stated. He can present, in argument, any legal consequence of which the facts permit."
+[54]
+The rules of pleadings require only that the material facts be pleaded (
+384238  <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 676 (F.C.A.), at page 678;
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at pages 351-352;
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at page 435  <FRAGMENT_SUPPRESSED> ). The legal consequences that arise from the facts do not have to be pleaded, and, to the extent that they are, the pleader is not bound by or limited to those legal consequences (
+Entreprises A & B  <FRAGMENT_SUPPRESSED>  (Tax Ct.)).
+[55]
+First, I note that at paragraphs 51 to 56 of its amended defence, the defendant pleads that the patents in suit are invalid, void and of no effect: 1) as a result of an untrue allegation of entitlement to small entity status made in the petition for each patent and the payment of the small entity filing fee only. Specific reference is made in this regard to s. 53(1) of the
+Patent Act
+; 2) as a result of not having paid the prescribed fee for a large entity the 1986 and 1989 applications could not have received a filing date and were never properly filed; 3) if the 1986 and 1989 applications are accorded a filing date they were deemed abandoned and permanently abandoned for failure to complete same by paying the prescribed filing fee for a large entity and the completion fee and to present a petition to reinstate same within the statutory periods mentioned at s. 30(1) and (2) of the
+Patent Act
+.
+[56]
+Second, at paragraph 58 of its amended defence, the defendant makes a counterclaim and repeats and relies on the allegations set out in its amended defence, which include paragraph 51 to 56 of its amended defence.
+[57]
+Third, at paragraph 59 of its amended defence, the defendant specifically asks for a declaration of invalidity and also seeks impeachment of the patents in suit.
+[58]
+Accordingly, the fact that the defendant neglected to cite the relevant section numbers of the
+Patent Act
+is not a fatal error, and the defendant may rely upon ss. 59 and 60 of the
+Patent Act
+in order to have the patents in suit invalidated.
+IS A MOTION FOR SUMMARY JUDGMENT THE CORRECT AVENUE FOR THE RELIEF SOUGHT BY THE DEFENDANT?
+[59]
+Motions for summary judgment are regulated by rules 213 to 219 of the
+Federal Court Rules
+. The relevant principles governing the determination of such motions have been summarized by Tremblay-Lamer, J., in
+ <FRAGMENT_SUPPRESSED>  (T.D.), in the following manner:
+1. The purpose of the provisions is to allow the Court to summarily dispense with cases which ought not proceed to trial because there is no genuine issue to be tried (
+Old Fish Market Restaurants Ltd. v. 1000357 Ontario Inc. et al.
+, (1994), 58 C.P.R.(3d) 221 (F.C.T.D.));
+2. There is no determinative test (
+ <FRAGMENT_SUPPRESSED> . It is not whether a party cannot possibly succeed at trial, it is whether the case is so doubtful that it does not deserve consideration by the trier of fact at a future trial;
+3. Each case should be interpreted in reference to its own contextual framework (
+ <FRAGMENT_SUPPRESSED> .);
+5. This Court may determine questions of fact and law on the motion for summary judgment if this can be done on the material before the Court (this is broader than Rule 20 of the Ontario
+Rules of Civil Procedure
+) (
+ <FRAGMENT_SUPPRESSED>  (T.D.);
+6. On the whole of the evidence, summary judgment cannot be granted if the necessary facts cannot be found or if it would be unjust to do so (
+ <FRAGMENT_SUPPRESSED>  (T.D.)).
+[60]
+While the legal onus in a motion for summary judgment rests upon the moving party to establish that there is no genuine issue for trial, both parties must "put their best foot forward" to enable the Court to decide whether or not there is a genuine issue that should go to trial (
+ <FRAGMENT_SUPPRESSED>  (T.D.)). The moving party also bears the burden of establishing that all of the issues can be properly decided upon the evidence before the Court, and that there are no issues that can only be fairly resolved after trial (
+ <FRAGMENT_SUPPRESSED>  allegations or denials of the pleadings of the moving party, but must set out specific facts showing that there is a genuine issue for trial. The Court is required to take "a hard look" at the merits and, if it is satisfied that there is no genuine issue for trial, it must grant summary judgment (Rule 216(1)). However, where the Court is satisfied that the only genuine issue is a question of law, the Court may determine the question and grant summary judgment (Rule 216(1) and (2)). Further, where the Court finds there is a genuine issue for trial, it may grant summary judgment in whole or in part if it is able to do so on the facts before it (Rule 216(3)). Where summary judgment is granted only in part, the Court may order the action, or the issues in the action not disposed of by summary judgment, to proceed to trial in the usual way or order that the action be conducted as a specially managed proceeding (Rule 216(4)).
+[62]
+Motions for summary judgment are not yet a matter of routine in patent cases or other intellectual property cases. In general, there is judicial reluctance to determine patent issues in a motion for summary judgement.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 26 (T.D.), Teitelbaum, J., opined at page 41 that:
+"(...) summary judgment should not be granted on an issue where either on the whole of the evidence the judge cannot find the necessary facts or it would be unjust to do so. I am of the view that summary judgment should only be granted in circumstances where the facts are clear. I am also of the opinion that, in general, summary judgment is not the proper means to obtain judgment where the issues before the court involve the infringement or the invalidity of a patent."
+[63]
+Noël, J. (as he then was), commented on this general statement regarding summary judgment in patent cases in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 216 (T.D.), where he wrote at page 220:
+"Obviously, what Teitelbaum, J., had in mind is that generally speaking, infringement issues turn on facts and as such they are better left to trial proceedings. However, he did not suggest that summary judgment could not be had in all infringement cases as evidenced by the fact that he went on to allow the defendants' motion for summary judgment on the basis of Rule 432.3(4)."
+[64]
+With respect to the motion for summary judgment before him, Noël, J., further wrote at page 220:
+"The only issue before the court is whether or not the offending product falls within the claim of the patent. If it does, then infringement has been established. All that is required to resolve the question of infringement, then, is the construction of the patent. This properly stands to be decided by way of a summary judgment."
+[65]
+On the basis of the jurisprudence, it is evident that the critical issue in determining whether the test for summary judgment has been met is whether there is a "genuine issue for trial". That determination depends on the evidence presented in support of the motion. Moreover, it can also be seen that, in general, judicial reluctance to determine a patent issue in a motion for summary judgment is due to the difficulty in establishing the facts without a trial, particularly when there exists contradictory evidence where the Court determines that the credibility of that evidence should be tested through viva voce testimony and cross-examination. Clearly, this is not the case here.
+[66]
+I agree that the outcome of a patent infringement action often depends to a very large extent on the assessment by the Court of the expert evidence offered by each of the parties. That assessment is generally considered to require an opportunity to see and hear the witnesses. Courts are therefore reluctant to base summary judgment on expert opinion that may or may not be accepted depending upon the Court's assessment of the credibility of such expert witnesses (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 186 ( <FRAGMENT_SUPPRESSED>  C.P.R. (3d) 277 (T.D.)). However, in the present case, in order to dispose of the issues raised by the defendant in its motion, it is not necessary to base the summary judgment on such expert opinion. The particular facts related to the filing of the 1986 and 1989 applications and the eligibility of the individual applicants to claim small entity status are mostly of a documentary nature and are not in dispute. The defendant does not base the present motion on untrue material allegations under s. 53 of the
+Patent Act
+(which may have required the defendant to prove that the applicants knew that they were making untrue allegations). It is strictly a question of determining what the filing date of each application is and what the legal consequences are of not having paid, if required, the prescribed filing fees and completion fees within the statutory periods mentioned at s. 30(1) and (2) of the
+Patent Act
+.
+[67]
+In the present case, the parties have made numerous submissions with respect to the main infringement action and the motion for summary judgment. They have filed multiple affidavits and memoranda of fact and law. In my view, however, the defendant has succeeded in discharging its burden and has established that the issues in this motion for summary judgment can be properly decided upon the evidence before the Court. Unlike the decisions cited above relating to judicial reluctance to determine patent issues in a motion for summary judgment, the issue is whether there is sufficient evidence to determine whether the plaintiff's patents are in fact invalid or void due to their failure to comply with the provisions in the
+Patent Act
+relating to entity size and completion of patent applications. I conclude that there is sufficient evidence to make this determination with respect to each of the patents in suit.
+[68]
+Moreover, I find the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ), at paragraphs 49-50 applicable in this case:
+"The
+Federal Court Rules, 1998
+empower a motions judge to make findings of fact or law necessary to dispose of the motion, provided the relevant evidence is available on the record, and does not involve a 'serious' question of fact or law which turns on the drawing of inferences. In essence, where a trial would add detail, but not significant additional evidence, it is better for the motions judge to determine the question of law or fact in issue (see
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+" <FRAGMENT_SUPPRESSED> urges that the issues it raises under its special circumstances argument are best left for trial, and not for a motions judge. In my analysis, however, McKeown, J., was in as good a position as a trial judge to interpret the
+Eli Lilly
+decision and determine whether it raised an issue for trial. He concluded, correctly, that no such issue was raised. In the circumstances of this case, a trial would have added detail, but not significant additional evidence."
+[69]
+Similarly, I find that a trial would not add significant additional evidence to the questions of fact and law at issue in this case. I am in as good a position as a trial judge to interpret the Federal Court of Appeal's decision in
+Dutch Industries Ltd.
+, supra. Accordingly, I conclude that this is an appropriate case for summary judgment pursuant to Rule 216 of the
+Federal Court Rules
+.
+WHAT IS THE DATE OF DETERMINATION AS TO WHETHER OR NOT THE APPLICANTS MEET THE DEFINITION OF SMALL ENTITY CONTAINED IN THE PATENT RULES?
+[70]
+The definition of "small entity" applicable when the 1986 and 1989 applications were filed with the Commissioner (November 6, 1986 and March 23, 1989) was the following:
+"'small entity' means an 'independent inventor' or a 'small business concern'"
+where the definition of "independent inventor" read as follows:
+"'independent inventor', in relation to an invention, means an individual, but does not include
+(a) an individual who has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a small business concern,
+or
+(b) an individual who has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to any other individual or a small business concern if the individual has knowledge of any subsequent assignment of, or of any subsisting contractual or other legal obligation to assign, any right in the invention to a person described in paragraph (a),"
+and the definition for "small business concern" was as follows:
+"'small business concern', in relation to an invention, means a person who is not an individual and whose gross annual revenue is not more than two million dollars (in this definition referred to as a 'business concern'), but does not include a business concern that
+(a) is engaged in manufacturing and employs more than one hundred employees,
+(b) is engaged in other than manufacturing and employs more than fifty persons,
+(c) has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a person who qualifies as a small business concern under the portion of this definition that precedes this paragraph, or
+(d) has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to an individual or to a person who qualifies as a small business concern under the portion of this definition that precedes paragraph (c) if the business concern has knowledge of any subsequent assignment of, or of any subsisting contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a person who qualifies as described in this paragraph."
+[71]
+As already mentioned, on August 27, 1986, the plaintiffs entered into a license agreement with Ethicon, a subsidiary of Johnson & Johnson, pursuant to which Ethicon was obligated to pay the plaintiff the sum of $3,600,000. As such, the plaintiffs ceased to meet the definition of "small entity" on August 27, 1986, since they no longer qualified as either an "independent inventor" or a "small business concern". Moreover, although I do not need to rely on the following finding, I also note that the licence to Ethicon was made subject to earlier licences granted by Palmaz to the United States Government (as evidenced by the letter dated October 31, 1985, from the Veterans' Administration to Palmaz) and the University of Texas (letter dated August 8, 1985, from Charles B. Mullins to Palmaz). These licences were the result of Palmaz' status as an employee of the United States Government and of the University of Texas. I entirely accept the defendant's evidence and arguments in this regard. As such, Palmaz was not entitled to claim small entity status even earlier than the date of the execution of the licence agreement with Ethicon on August 27, 1986. Indeed, neither of these two entities (United States Government and the University of Texas) qualify as an "independent inventor" or a "small business concern". Therefore, Palmaz was not entitled to claim small entity status when it filed its patent application in the United States on November 7, 1985. Accordingly, whether the filing date for the 1986 applications is November 6, 1986 or November 7, 1985, in both cases, Palmaz did not qualify as a small entity. Moreover, because of the licence agreement with Ethicon entered on August 27, 1986, it is clear that neither Palmaz or Schatz qualified as a small entity at the date of filing of the 1989 application (whether it is March 28, 1988 or March 23, 1989).
+[72]
+I will nevertheless address the
+Dutch Industries Ltd.
+, supra, decisions with respect to the proper date of determining small entity status. My reading of the Federal Court of Appeal decision and of the
+Patent Act
+and
+Patent Rules
+lead me to conclude that the date for determining small entity status should be the Canadian filing date.
+[73]
+In
+Dutch Industries Ltd.
+, supra, the issue was the effect of an applicant's improper payment of reduced government fees as a "small entity". The inventor filed a first patent application claiming entitlement to "small entity" status. Later, he transferred rights in this invention to Barton No-Till Inc. and Flexi-Coil Ltd, who did not qualify as a "small entity". Thereafter, the inventor filed a second application, still claiming "small entity" status and continued to pay "small entity" maintenance fees for the patent that issued from the first application. Upon realizing the error, top-up fees were submitted to the Patent Office for the issued patent and the second application.
+[74]
+In August 2001, the Federal Court - Trial Division invalidated the patent and ruled that the second application was permanently abandoned because the proper fees were submitted after the deadline for doing so under the
+Patent Act
+and
+Patent Rules
+. Notwithstanding that the top-up payments had been accepted by the Commissioner, the Court held that it was an improper exercise of the Commissioner's discretion, and not within his jurisdiction. The decision was appealed to the Federal Court of Appeal, which confirmed that the acceptance of top-up payments by the Commissioner was not allowed by law (
+Dutch Industries Ltd.
+, supra). However, the Court of Appeal reversed the decision of the Federal Court - Trial Division in part, holding that entity status is determined only once; "when the patent regime is first engaged (generally, when submitting a patent application)" and that the applicant maintains that status in relation to that patent application and any resulting patent throughout its term. Leave to appeal to the Supreme Court of Canada was dismissed with costs on December 11, 2003.
+[75]
+The plaintiffs submit that the date for the determination of whether an applicant meets the definition of small entity is when the patent regime is first engaged in any country and not only in Canada. They further contend that the date for determining small entity status is the "filing date" for the patent application. They rely upon the decision of the Federal Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (T.D.), for their submission that the "filing date" under the
+Patent Act
+in effect prior to October 1, 1989, is the effective or priority filing date to which an applicant is entitled by virtue of Canada's international treaty obligations, and not simply the actual filing date in Canada. As such, they allege the correct dates for determining small entity status were the dates on which the plaintiffs filed the U.S. applications: on November 7, 1985, with respect to the '505 and '303 Patents and on March 28, 1988, with respect to the '186 Patent.
+[76]
+The defendant submits that the date for determining small entity status should be the Canadian filing date. The defendant relies on the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), for their submission that the "filing date" on which the patent regime is first engaged should be the date on which the Canadian application was filed. In that case, the Federal Court of Appeal affirmed the decision of the Federal Court - Trial Division and found that the "filing date" for the purposes of the
+Patented Medicines (Notice of Compliance) Regulations
+was the date on which the Canadian patent application was filed, and not a priority date.
+[77]
+That being said, in
+Dutch Industries Ltd.
+, supra, in the absence of any mention of a temporal element in the definition of "small entity", the Federal Court of Appeal stated at paragraph 46 that the date for determining small entity status was the date "when the patent regime is first engaged (generally, when submitting a patent application)". In determining whether the respondents met the definition of "small entity", the Federal Court of Appeal used the date on which the patent application was filed in Canada as the date on which the patent regime was first engaged. A brief review of the decisions of the Federal Court of Appeal and the Federal Court - Trial Division in
+Dutch Industries Ltd.
+, supra, as well as CIPO's Canadian Patent Database do not reveal the existence of a priority filing date for the patents at issue in that case. However, I can find nothing in the decision in
+Dutch Industries Ltd.
+, supra, which would suggest that the correct date for determining small entity status must be the "priority date".
+[78]
+Given the context of the scheme of the
+Patent Act
+, the
+Patent Rules
+and with regard to the intention of Parliament, I conclude that the date for determining small entity status is the date on which the Canadian patent regime is engaged, i.e. the date on which the Canadian patent application is filed. However, even if I am incorrect, and the date on which small entity status is determined is the "priority date", as discussed above, the plaintiffs were not entitled to claim small entity status on November 7, 1985, for the '303 and '505 Patents due to the licences to the United States Government and the University of Texas, and were not entitled to claim small entity status on March 28, 1988, with respect to the '186 Patent due to the aforementioned licences and the licence agreement with Ethicon.
+[79]
+The proper approach to the interpretation of the provisions of the
+Patent Act
+must follow the principle stated in Sullivan and Driedger,
+Construction of Statutes
+(4th Ed., Toronto: Butterworths, 2002), at page 1, as follows:
+"Today there is only one principle or approach, namely the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament."
+[80]
+This modern principle with respect to the interpretation of statutes, which focuses on a multi-dimensional approach to statutory interpretation, has been declared to be the preferred approach of the Supreme Court of Canada, and has been explicitly adopted by the Federal Court of Appeal (
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1, at 41). See also
+ <FRAGMENT_SUPPRESSED> ; [2002] S.C.J. No. 43;
+ <FRAGMENT_SUPPRESSED> ; 248 N.R. 201 (F.C.A.). Statutory interpretations should be justified in terms of their compliance with the legislative text, their promotion of legislative intent and their compliance with established legal norms.
+[81]
+As noted by the Federal Court of Appeal in
+Dutch Industries Ltd.
+, supra, there are no words in the definition of "small entity" that stipulate a date on which the facts are to be determined. In its analysis, the Federal Court of Appeal determined that, in the absence of an express provision as to time, factual determinations as to qualification for small entity status must be made only once, as of the date on which the first fee relating to the applicant's status is payable (the date upon which the application for a patent is submitted). Accordingly, the first such date the applicant would have to pay a small entity fee to the Commissioner would be on the date on which it submitted its Canadian patent application.
+[82]
+With respect to the question of legislative intent, at paragraph 30 of
+Dutch Industries Ltd.
+, supra, the Federal Court of Appeal summarized the statutory objective in the small entity scheme as follows:
+"The fees payable under the
+Patent Act
+and
+Patent Rules
+are intended to defray part or all of the cost of the Patent Office. Fees are set at a lower scale for "small entities" to provide modest monetary relief to inventors that are presumed to be of limited means."
+[83]
+The plaintiffs filed their Canadian patent applications on November 6, 1986 with respect to the '505 and '303 Patents and on March 23, 1989, with respect to the '186 Patent. At the time of each their Canadian filings, due to the execution of the licence agreement with Ethicon in August 1986, the plaintiff was no longer an inventor of limited means, and did not require the protections of the small entity scheme. Moreover, I can find nothing in the
+Patent Act
+or
+Patent Rules
+which would suggest that an applicant's small entity status should be determined at the time a patent application is filed in some other country (i.e. the priority date). Contrary to the submissions of the plaintiffs, this interpretation is not required by Canada's international treaty obligations (which require Canada to permit applicants to claim the benefit of a filing date in another country of the Union within the applicable period). It seems clear on this basis that the Canadian patent application fees for small entity should be determined at the time that the Canadian patent regime is engaged; generally when the Canadian patent application is filed.
+[84]
+Moreover, it is clear that the applicants recognized their error in filing the applications as a small entity. On June 30, 1989, for the applications relating to the '505 and '303 Patents, the agents for the applicants wrote to the Commissioner that "We are presently advised that the factual situation at the time of filing this application was such that the application was not entitled to small entity status". Similarly, on November 10, 1989, with respect to the applications for the '186 Patent, the patent agents for the applicants advised the Commissioner that they were not entitled to small entity status. The agents for the applicants subsequently paid to the Commissioner, for each application, a sum equivalent to the difference between the small entity fee and the large entity fee.
+[85]
+Based on the foregoing, it is clear that the date for determination of small entity status is the date when the patent regime is first engaged in Canada (i.e. the date on which the Canadian patent applications are filed). Accordingly, the date for determining small entity status for each of the applications is as follows: (1) for the '505 and '303 Patents the date is November 6, 1986, and (2) for the '186 Patent the date is March 23, 1989. Therefore, the plaintiffs incorrectly paid the filing fee for a small entity for each of the Canadian patent applications they filed on November 6, 1986, and March 23, 1989, and none of the applications were validly filed with the Commissioner.
+WHAT IS THE EFFECT OF NOT HAVING PAID THE ENTIRE APPLICATION FEE AT THE DATE OF FILING?
+[86]
+Section 34 of the applicable
+Patent Rules
+provides that an application is complete only when the requirements of s. 32 of the
+Patent Rules
+have been complied with and the fees relating to the application (including fees for extra claim and for completion) have been paid. Rule 32 of the applicable
+Patent Rules
+provides as follows:
+"(1) The filing date of an application shall be the date when the prescribed fee for filing it has been paid and the following documents relating to it have been filed:
+(a) a petition executed by the applicant or a patent agent on his behalf;
+(b) a specification, including claims;
+(c) any drawing referred to in the specification; and
+(d) an abstract of the disclosure, which abstract may be inserted at the beginning of the specification.
+"(2) Where paragraphs 1(a) to (c) have been complied with in respect of an application, the application may, notwithstanding that the whole of that subsection has not been complied with, be given a filing date by the Commissioner if the Commissioner is satisfied that it would be unjust not to do so, and in such case, the filing date given to the application is the day on which paragraphs 1(a) to (c) were complied with by the applicant."
+[87]
+The plaintiffs submit that s. 32(2) requires compliance only with subss. (a) to (c) of s. 32(1), and that the section has been interpreted by the Commissioner to mean that a patent application can be given a filing date corresponding to the submission even where the filing fee is deficient. The plaintiffs rely upon the comments of Sharlow, J.A., relating to statutory interpretation in
+Dutch Industries Ltd.
+, supra, where she found that statutory interpretation resulting in a "disproportionate consequence" should not be favoured.
+[88]
+I am not persuaded by the arguments of the plaintiffs. While Rule 32(2) of the
+Patent Rules
+has given the Commissioner the discretion to give an application a filing date where an abstract was not filed (the requirement contained in paragraph 32(1)(d)), the provision does not give the Commissioner the discretion to give an application a filing date where the prescribed fee has not been paid. The plaintiffs' conclusion is not consonant with the ordinary or normal meaning of the words in the provision, nor is it the result of a proper approach to the interpretation of statutes, as stated above. Moreover, what is at issue in this case is whether the patent application was complete and validly filed with the Commissioner, rather than the filing date given to the application by the Commissioner.
+[89]
+I am bound to follow the decisions made by this Court and the Federal Court of Appeal in
+Dutch Industries Ltd.
+, supra. Applying the same logic and reasoning to the facts of this case, the applicants' failure to correctly pay the prescribed filing fee meant that each of the patent applications were incomplete, and were deemed abandoned twelve months after the filing of the application pursuant to s. 30(1) of the
+Patent Act
+(i.e. November 6, 1987, for the '505 and '303 Patent, and March 23, 1990, for the '186 Patent). Furthermore, each of these applications became permanently abandoned pursuant to s. 30(2) of the applicable
+Patent Act
+when the plaintiffs failed to petition the Commissioner to reinstate the applications within twelve months after the date on which it was deemed to have been abandoned (November 6, 1988, for the '505 and '303 Patent, and March 23, 1991, for the '186 Patent).
+[90]
+On June 30, 1989, (well after November 6, 1988, when the patent applications were permanently abandoned), the agents for the applicants sought to top up the application fee for the applications relating to the '505 and '303 Patents. At no time did the applicants petition the Commissioner to reinstate the applications or pay the fees set forth in Schedule II of the applicable
+Patent Rules
+pertaining to the reinstatement of abandoned applications or for the completion of applications not completed on filing. Accordingly, the 1986 applications relating to the '505 and '303 Patents were never completed and became permanently abandoned.
+[91]
+On November 10, 1989, the agents for the applicants sought to top up the application fee for the 1989 application relating to the '186 Patent. In order to complete the application, the applicants were required to pay the whole of the prescribed filing fee for a large entity and the completion fee. Schedule II of the applicable
+Patent Rules
+provides for a fee of $200.00 to be paid for completing an application not completed on its filing date. While the large entity fee was paid prior to March 23, 1990, the plaintiffs never paid a completion fee. Accordingly, the 1989 application was never completed and was deemed abandoned on March 23, 1990. In accordance with s. 30(2) of the
+Patent Act
+, in the absence of a petition for reinstatement or the payment of the fee for reinstatement, the 1989 application relating to the '186 Patent was permanently abandoned on March 23, 1991.
+[92]
+The plaintiffs submit that s. 137 of the
+Patent Rules
+provides the Commissioner with a broad discretion to set procedure for the completion and the prosecution of an application where the procedure is not otherwise provided for in the
+Patent Act
+or the
+Patent Rules
+, and that this discretion extends to the discretion of the Commissioner to accept a payment less of less than (I) the fee required upon the filing of an application, and (ii) any additional fees required (such as a completion fee or any reinstatement fees). Accordingly, they submit that the procedure for the payment of a correcting fee set forth in a bulletin issued by the Commissioner in 1985 (the "1985 Bulletin") was within the power of the Commissioner.
+[93]
+In
+Dutch Industries Ltd.
+, supra, the Court found that Rule 157 of the
+Patent Rules
+(which applies to applications filed between October 1, 1989, and September 30, 1996,) specifically removed the discretion of the Commissioner to extend deadlines for the payment of maintenance fees. The plaintiffs allege that there is no such removal of the powers granted to the Commissioner under ss. 4, 40 and 77 of the
+Patent Act
+and Rule 137 of the
+Patent Rules
+. Accordingly, they rely upon this distinction for their allegation that the Commissioner was not only authorized to extend the deadline for the payment of fees, but that the Commissioner was authorized to waive a portion of the application fees and the payment of the completion and reinstatement fees in their entirety.
+[94]
+I find this submission to be without merit. In the absence of any provision to the contrary, I conclude that neither the
+Patent Act
+nor the
+Patent Rules
+grant the Commissioner the discretion to waive any portion of the filing fee. The Commissioner has the authority to extend deadlines pursuant to Rule 26 of the current
+Patent Rules
+. However, the applicant must request the extension and pay the applicable extension fee before the deadline. This was not done in the present case. Even in the absence of provisions excluding the application of Rule 26 to the payment of application fees, I find (as did the Federal Court of Appeal in
+Dutch Industries Ltd.
+, supra) that the authority of the Commissioner to extend deadlines or to waive the payment of required fees, in whole or in part, is limited by any contrary provision in the
+Patent Act
+or the
+Patent Rules
+. Rule 137 of the
+Patent Rules
+does not permit the Commissioner to make guidelines of general application, or to make rules or regulations or to issue any guidelines regarding the payment of any fees. As submitted by the defendant in this case, pursuant to s. 12 of the
+Patent Act
+, only the Governor in Council may make rules or regulations regarding the payment of any fees, including the time when and the manner in which those fees shall be paid. Accordingly, I conclude that there is no authority in the Commissioner to waive any portion of the fee payable upon filing an application, or to waive the payment of the completion and reinstatement fees in their entirety.
+DOES SECTION 77 OF THE PATENT ACT CURE DEFECTS MADE IN THE PATENT APPLICATION?
+[95]
+The plaintiffs submit that s. 77 of the
+Patent Act
+(repealed by S.C. 1993, c. 15, s. 54) created a rebuttable presumption that upon issuance, a patent has been validly and properly issued. Section 77 provided that:
+"77. Every patent issued before, on or after August 1, 1935 shall be deemed to have been properly issued if all the conditions of the issue of a valid patent that may have been or shall be in force, either at the date of the application therefor or at the date of the issue thereof, have been satisfied, but any provisions in force from time to time relating to the continued validity of patents after issue apply to all patents whenever granted."
+"77. Tout brevet délivré avant ou après le 1er août 1935, ou à cette date, est réputé avoir été régulièrement délivré si toutes les conditions de la délivrance d'un brevet valide qui ont pu être ou seront en vigueur, soit à la date de la demande du brevet, soit à la date de sa délivrance, ont été remplies. Toutefois, les dispositions en vigueur concernant la validité continue de brevets après leur délivrance s'appliquent à tous les brevets à quelque époque qu'ils aient été accordés."
+[96]
+I find that s. 77 of the
+Patent Act
+does not cure defects in a patent application. In my view, the plaintiffs' submission is without merit. As explained in the defendant's submissions, s. 77 of the
+Patent Act
+was a transitional provision intended to ensure that changes in statutory requirements for obtaining a patent did not affect a previously issued patent. To give effect to the interpretation put forward by the plaintiffs would mean that patents, once issued, could never be invalidated. This is clearly not a valid interpretation of s. 77 with regard to the intention of Parliament or with regard to the interpretation accorded to s. 77 by the courts.
+[97]
+Section 77 created only a presumption of validity, but this presumption is rebuttable (see
+ <FRAGMENT_SUPPRESSED> ; 9 C.P.R.(4th) 90 (F.C.A.)). Moreover, by failing to complete their patent applications pursuant to ss. 32 and 34 of the
+Patent Rules
+, the plaintiffs failed to comply with the requirement in s. 77 that "the conditions of the issue of a valid patent that may have been or shall be in force, either at the date of the application therefor or at the date of the issue thereof, have been satisfied". Accordingly, due to this failure to meet the condition set forth in s. 77, the plaintiffs cannot be permitted to rely on the rebutable presumption of validity offered by s. 77.
+WHAT IS THE EFFECT OF THE COMING INTO FORCE ON JANUARY 1, 2004 OF SECTION 3.1 OF THE PATENT RULES
+[98]
+This last part of the present reasons addresses the effect of the coming into force on January 1, 2004 of certain amendments to the
+Patent Rules
+set out in SOR/2003-208. More particularly, the plaintiffs wish to rely on s. 3.1 of the
+Patent Rules
+which reads as follows:
+"3.1(1) Subject to subsection 6(1), if, before the expiry of a time limit for paying a fee set out in Schedule II, the Commissioner receives a communication in accordance with which a clear but unsuccessful attempt is made to pay the fee, the fee shall be considered to have been paid before the expiry of the time limit if
+(a) the amount of the fee that was missing is paid before the expiry of the time limit;
+(b) if a notice is sent in accordance with subsection (2), the amount of the fee that was missing, together with the late payment fee set out in item 22.1 of Schedule II, are paid before the expiry of the two-month period after the date of the notice; or
+(c) if a notice is not sent, the amount of the fee that was missing, together with the late payment fee set out in item 22.1 of Schedule II, are paid before the expiry of the two-month period after the day on which the communication was received by the Commissioner.
+"(2) Subject to subsection 6(1) and unless the person making the communication did not provide information that would allow them to be contacted, if the Commissioner has received a communication in the circumstances referred to in subsection (1), the Commissioner shall, by notice to the person who made the communication, request payment of the amount of the fee that was missing together, if applicable, with the late payment fee referred to in subsection (1).
+"(3) Subsections (1) and (2) do not apply in respect of the fees set out in items 9 to 9.4 and 22.1 of Schedule II. SOR/2003-208, s. 2."
+"3.1(1) Sous réserve du paragraphe 6(1), si, avant l'expiration du délai fixé pour le versement d'une taxe prévue à l'annexe II, le commissaire reçoit une communication dans laquelle une personne fait une tentative manifeste mais infructueuse pour verser la taxe, celle-ci est réputée avoir été reçue avant l'expiration du délai dans les cas suivants:
+a) la taxe impayée est versée avant l'expiration du délai;
+b) dans le cas où un avis est envoyé conformément au paragraphe (2), la taxe impayée, accompagnée de la surtaxe pour paiement en souffrance prévue à l'article 22.1 de l'annexe II, est versée dans les deux mois suivant la date de l'avis;
+c) dans le cas où aucun avis n'est envoyé, la taxe impayée, accompagnée de la surtaxe pour paiement en souffrance prévue à l'article 22.1 de l'annexe II, est versée dans les deux mois suivant la date à laquelle le commissaire a reçu la communication.
+"(2) Sous réserve du paragraphe 6(1) et à moins que l'auteur de la communication au commissaire ne soumette pas les renseignements permettant de communiquer avec lui, si le commissaire reçoit la communication dans les circonstances visées au paragraphe (1), il demande, par avis, à la personne qui lui a envoyé la communication de verser la taxe impayée, accompagnée, s'il y a lieu, de la surtaxe pour paiement en souffrance visée au paragraphe (1).
+"(3) Les paragraphes (1) et (2) ne s'appliquent pas aux taxes prévues aux articles 9 à 9.4 et 22.1 de l'annexe II. DORS/2003-208, art. 2."
+[99]
+At the time s. 3.1 was referred to this Court, it was not yet in force, and accordingly, the plaintiffs were asking this Court to defer the present decision so that they would have the opportunity to exercise their rights under s. 3.1 of the
+Patent Rules
+. It appears that this particular aspect of the case has become largely academic since a stay of the proceedings was ordered in November 2003 for other reasons.
+[100]
+That being said, I find that the amendments that came into force on January 1, 2004 do not affect the determination of the motion under reserve. The law applicable to the motion for summary judgment has never been in controversy between the parties. Since the applications for each of the impugned patents had filing dates prior to October 1, 1989, ss. 78.1 and 78.2 of the current
+Patent Act
+dictate that the validity of these patents is to be judged in accordance with the provisions of the
+Patent Act
+as they read immediately before October 1, 1989. Furthermore, the
+Patent Rules
+applicable to determine whether the applications for the impugned patents were completed on filing, were those in effect prior to 1989.
+[101]
+Anyhow, even if the new <FRAGMENT_SUPPRESSED> could find application in the case at bar, s. 3.1 does not allow the plaintiffs to avoid the legal consequences of the payment of the wrong fee or, in other words, the small entity filing fee for the impugned patents. As a regulation, s. 3.1 is subordinated to its enabling statute, the
+Patent Act
+. The twelve month period specified for the completion of a patent application is contained in s. 30 of the
+Patent Act
+, not the
+Patent Rules
+, and is not affected by changes to the
+Patent Rules
+. In other words, s. 3.1 represents a change to the
+Patent Rules
+, but not to the
+Patent Act
+itself. In effect, s. 3.1 does not purport to affect an applicant's statutory obligation under the
+Patent Act
+to complete its patent application within twelve months of the filing date. Therefore, contrary to what the plaintiffs submit, s. 3.1(2) of the new <FRAGMENT_SUPPRESSED> does not allow the patent applicant to evade its obligation under the
+Patent Act
+.
+[102]
+Moreover, s. 3.1 is not a remedial provision for the problem identified in
+Dutch Industries
+decision regarding the Commissioner of Patent's acceptance of a "top-up" fee after the expiry of the time limit for paying particular fees. None of the regulatory documents associated with the new rules makes any mention of the
+Dutch Industries
+case. I believe that it would be highly unusual, if not unprecedented, for regulations to be amended to "fix a problem" without any mention of the purported problem in any of the documents leading up to and accompanying the regulations and while the judicial decision giving rise to the purported problem was still before the courts. Section 3.1 is intended to permit an applicant or patentee who unsuccessfully attempts to pay a prescribed fee to correct that incorrect fee payment upon notice from the Commissioner, provided that an additional late payment fee is paid. The amendments are simply a serie of administrative, house keeping amendments with respect to fee changes.
+[103]
+On another note, s. 3.1 does not purport to retroactively resurrect patents already deemed abandoned by s. 30 of the
+Patent Act
+. Section 3.1 is not construed to have retroactive effect to resurrect patents already deemed permanently abandoned under s. 30 of the
+Patent Act
+. In fact, legislation is presumed to apply to future acts and conditions. In other words, statutes are not to be construed as having retroactive operation unless such a construction is expressly set out in the statute or is required as a necessary implication of the language used (
+ <FRAGMENT_SUPPRESSED> ; 7 N.R. 401). There must be sufficient indication that the legislation is meant to apply not only to ongoing and future acts but also to past acts which is not the case here (
+ <FRAGMENT_SUPPRESSED>  at para. 19).
+[104]
+Moreover, I find that the applicants for the impugned patents never made a "clear, but unsuccessful attempt" to pay the fees that the defendants' summary judgment motion asserts were deficient. The Regulatory Impact Analysis Statement published along with the amendments to the
+Patent Rules
+on June 18, 2003 gives one example of a "clear but unsuccessful attempt" to pay a fee. That example, found on page 1659, is the payment of an incorrect fee by miscalculating an exchange rate. The present situation is completely different. Section 3.1 allows the patent applicant to correct an inadvertent error in connection with the payment of the fee but does not allow the patent applicant to correct an error related to the fee itself, especially when the error is due to a bad assumption or a deliberate improper claim to small entity status.
+CONCLUSION
+[105]
+In accordance with the analysis above, an application is not completed until the fee for filing an application is paid in full. If the application fee is not paid in full at the time of filing the application, a completion fee must be paid. If the application fee and the completion fee are not paid in full before the end of the twelve month period set forth in s. 30(1) of the
+Patent Act
+, the patent application is deemed abandoned. Furthermore, incomplete patent applications become permanently abandoned pursuant to s. 30(2) of the
+Patent Act
+if the applicants fail to petition the Commissioner to reinstate the applications within twelve months after the date on which it was deemed to have been abandoned. At this point, applicants must pay the full fee for filing an application, a completion fee and a reinstatement fee. By failing to comply with the following sequence of required actions, the applicants permanently abandoned each of the applications for the patents in suit, and, as such, each of the patents were invalid at the time of filing.
+[106]
+For the reasons stated above and for the additional reasons pleaded by the defendant in the alternative, an order shall issue below granting this motion for summary judgment, dismissing all claims in this action that are founded on the patents in suit and declaring that the patents in suit are invalid, void and of no force or effect.
+[107]
+As indicated at the close of the hearing, the Court will make no order at this time as to costs. Accordingly, parties are directed to serve and file their submissions on costs and any request for further directions in this regard within 45 days of the present decision.
+ORDER
+[108]
+THIS COURT ORDERS:
+1. The motion for summary judgment brought forward by the defendant is granted.
+2. All claims in this action that are founded on Canadian Patent No. 1,281,505, Canadian Patent No. 1,338,303 and Canadian Patent No. 1,330,186 (the patents in suit) are dismissed.
+3. The patents in suit are declared to be invalid, void and of no force or effect.
+4. There will be no determination at this time as to costs. Parties are directed to serve and file their submissions on costs and any request for further directions in this regard within 45 days of the present order.
+Motion granted.
+Editor: Elizabeth M.A. Turgeon/gs
+APPENDIX A
+These are the relevant provisions cited within the present reasons for order.
+Relevant transitional provision (found in the current Patent Act)
+"78.2(1) Subject to subsection (3), any matter arising on or after October 1, 1989 in respect of a patent issued before that date shall be dealt with and disposed of in accordance with sections 38.1 and 45 and with the provisions of this Act, other than section 46, as they read immediately before October 1, 1989.
+"(2) Subject to subsection (3), any matter arising on or after October 1, 1989 in respect of a patent issued on or after that date on the basis of an application filed before that date shall be dealt with and disposed of in accordance with sections 38.1, 45, 46 and 48.1 to 48.5 and with the provisions of this Act, other than section 46, as they read immediately before October 1, 1989.
+"(3) The provisions of this Act that apply as provided in subsections (1) and (2) shall be read subject to any amendments to this Act, other than the amendments that came into force on October 1, 1989 or October 1, 1996.
+S.C. 1993, c. 15, s. 55; 2001, c. 10, s. 3."
+"78.2(1) Sous réserve du paragraphe (3), la présente loi dans sa version du 30 septembre 1989, à l'exception de l'article 46, s'applique aux affaires survenant, le 1er octobre 1989 ou par la suite, relativement aux brevets délivrés avant le 1er octobre 1989. Ces affaires sont également régies par les articles 38.1 et 45.
+"(2) Sous réserve du paragraphe (3), la présente loi dans sa version du 30 septembre 1989, à l'exception de l'article 46, s'applique aux affaires survenant, le 1er octobre 1989 ou par la suite, relativement aux brevets délivrés ce jour ou par la suite au titre de demandes déposées avant le 1er octobre 1989. Ces affaires sont également régies par les articles 38.1, 45, 46 et 48.1 à 48.5.
+"(3) Les dispositions visées aux paragraphes (1) et (2) s'appliquent compte tenu des modifications apportées à la présente loi sauf celles de ces modifications entrées en vigueur le 1er octobre 1989 et le 1er octobre 1996.
+L.C. 1993, ch. 15, art. 55; 2001, ch. 10, art. 3."
+Relevant sections of the Patent Act as they were before October 1, 1989.
+"4(1) The Governor in Council may appoint a Commissioner of Patents who shall, under the direction of the Minister, exercise the powers and perform the duties conferred and imposed on that officer by or pursuant to this Act.
+"(2) The Commissioner shall receive all applications, fees, papers, documents and models for patents, shall perform and do all acts and things requisite for the granting and issuing of patents of invention, shall have the charge and custody of the books, records, papers, models, machines and other things belonging to the Patent Office and shall have, for the purposes of this Act, all the powers that are or may be given by the Inquiries Act to a commissioner appointed under Part II of that Act.
+"(3) The Commissioner holds office during pleasure and shall be paid such annual salary as may be determined by the Governor in Council.
+"(4) The Commissioner may, after consultation with the Minister, delegate to any person he deems qualified any of his powers, duties and functions under this Act, except the power to delegate under this subsection.
+"(5) Any decision under this Act of a person authorized to make the decision pursuant to subsection (4) may be appealed in the like manner and subject to the like conditions as a decision of the Commissioner under this Act.
+R.S.C. 1985, c. P-4, s. 10.
+"12(1) The Governor in Council, on the recommendation of the Minister, may make such rules and regulations as may be deemed expedient
+(a) for carrying into effect the objects of this Act or for ensuring the due administration thereof by the Commissioner and other officers and employees of the Patent Office;
+(b) for carrying into effect the terms of any treaty, convention, arrangement or engagement that subsists between Canada and any other country; and
+(c) in particular, but without restricting the generality of the foregoing, with respect to the following matters:
+(i) the form and contents of applications for patents,
+(ii) the form of the Register of Patents and the indexes thereto,
+(iii) the registration of assignments, transmissions. licences, disclaimers, judgments or other documents relating to any patent,
+(iv) the form and contents of any certificate issued pursuant to the terms of this Act,
+(v) the fees that may be charged in respect of the filling of applications for patents or the taking of other proceedings under this Act or under any rule or regulation made pursuant to this section, or in respect of any services or the use of any facilities provided thereunder by the Commissioner or any person employed in the Patent Office, and
+(iv) the payment of any fees prescribed by any rule or regulation made pursuant to this section, including the time when and the manner in which those fees shall be paid and the circumstances in which fees previously paid may be refunded in whole or in part.
+"(2) Any rule or regulation made by the Governor in Council has the same force and effect as if it has been enacted herein.
+R.S.C. 1985, c. P-4, s.12.
+"12(1) The Governor in Council may make rules or regulations
+(a) respecting the form and contents of applications for patents;
+(b) respecting the form of the Register of Patents and of the indexes thereto;
+(c) respecting the registration of assignments, transmissions, disclaimers, judgments or other documents relating to any patent;
+(d) respecting the form and contents of any certificate issued pursuant to this Act;
+(e) prescribing the fees or the manner of determining the fees that may be charged in respect of the filing of applications for patents or the taking of other proceedings under this Act or under any rule or regulation made pursuant to this Act, or in respect of any services or the use of any facilities provided thereunder by the Commissioner or any person employed in the Patent Office;
+(f) prescribing the fees or the manner of determining the fees that shall be paid to maintain in effect an application for a patent or to maintain the rights accorded by a patent;
+(g) respecting the payment of any prescribed fees including the time when and the manner in which such fees shall be paid, the additional fees that may be charged for the late payment of such fees and the circumstances in which any fees previously paid may be refunded in whole or in part;
+h) for carrying into effect the terms of any treaty, convention, arrangement or engagement that subsists between Canada and any other country;
+i) notwithstanding anything in this Act, for carrying into effect the terms of the Patent Cooperation Treaty at Washington on June 19, 1970;
+j) respecting the entry on, the maintenance of and the removal from the register of patent agents of the names of persons and firms, including the qualifications that must be met and the conditions that must be fulfilled by a person or firm before the name of the person or firm is entered thereon and to maintain the name of the person or firm on the register;
+(k) prescribing any other matter that by any provision of this Act is to be prescribed; and
+(l) generally, for carrying into effect the objects and purposes of this Act or for ensuring the due administration thereof by the Commissioner and other officers and employees of the Patent Office.
+S.C. 1987, c. 41, s. 3.
+"27(1) Subject to this section, any inventor or legal representative of an inventor of an invention that was
+(a) not known or used by any other person before he invented it,
+(b) not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned, and
+(c) not in public use on sale in Canada for more than two years prior to his application in Canada,
+may, on presentation to the Commissioner of a petition setting out the facts, in this Act termed the filling of the application, and on compliance with all other requirements of this Act, obtain a patent granting to him an exclusive property in the invention.
+"(2) Any inventor or legal representative of an inventor who applies in Canada for a patent for an invention for which application for patent has been made in any other country by that inventor or his legal representative before the filing of the application in Canada is not entitled to obtain in Canada a patent for that invention unless his application in Canada is filed, either
+(a) before issue of any patent to that inventor or his legal representative for the same invention in any other country, or
+(b) if a patent has issued in any other country, within twelve months after the filing of the first application by that inventor or his legal representative for a patent for that invention in any other country.
+"(3) No patent shall issue for an invention that has an illicit object in view, or for any mere scientific principle or abstract theorem.
+R.S.C. 1985, c. P-4, s. 27.
+"28(1) An application for a patent filed in Canada by any person entitled to protection under the terms of any treaty or convention relating to patents to which Canada is a party who has, or whose agent or other legal representative has, previously regularly filed an application for a patent for the same invention in any other country that by treaty, convention or law affords similar privilege to citizens of Canada, has the same force and effect as the same application would have if filed in Canada on the date on which the application for a patent for the same invention was first filed in that other country, if the application in Canada is filed within twelve months after the earliest date on which any such application was filed in that other country.
+"(2) No patent shall be granted on an application for a patent for an invention that had been patented or described in a patent or publication printed in Canada or any other country more than two years before the date of the actual filing of the application in Canada, or had been in public use or on sale in Canada for more than two years prior to that filing.
+R.S.C. 1985, c. P-4, s. 28.
+"30(1) Each application for a patent shall be completed within twelve months after the filing of the application, and in default thereof, or on failure of the application within six months after any examiner, appointed pursuant to section 6, has taken action to the applicant, the application shall be deemed to have been abandoned.
+"(2) An abandoned application may be reinstated on petition presented to the Commissioner within twelve months after the date on which it was deemed to have been abandoned, and on payment of the prescribed fee, if the petitioner satisfies the Commissioner that the failure to complete or prosecute the application within the time specified was not reasonably avoidable.
+"(3) An application reinstated under subsection (2) shall retain its original filing date.
+R.S.C. 1985, c. P-4, s. 32.
+"40. Whenever the Commissioner is satisfied that an applicant is not by law entitled to be granted a patent, he shall refuse the application and, by registered letter addressed to the applicant or his registered agent, notify the applicant of the refusal and of the ground or reason therefor.
+R.S.C. 1985, c. P-4, s. 40.
+"53(1) A patent is void if any material allegation in the petition of the applicant in respect of the patent is untrue, or if the specification and drawings contain more or less than is necessary for obtaining the end for which they purport to be made, and the omission or addition is wilfully made for the purpose of misleading.
+"(2) Where it appears to a court that the omission or addition referred to in subsection (1) was an involuntary error and it is proved that the patentee is entitled to the remainder of his patent, the court shall render a judgment in accordance with the facts, and shall determine the costs, and the patent shall be held valid for that part of the invention described to which the patentee is so found to be entitled.
+"(3) Two office copies of the judgment rendered under subsection (1) shall be furnished to the Patent Office by the patentee, one of which shall be registered and remain of record in the Office and the other attached to the patent and made a part of it by a reference thereto.
+R.S.C. 1985, c. P-4, s. 55.
+"59. The defendant, in any action for infringement of a patent may plead as matter of defence any fact or default which by this Act or by law renders the patent void, and the Court shall take cognizance of that pleading and of the relevant facts and decide accordingly.
+R.S.C. 1985, c. P-4, s. 61.
+"60(1) A patent or any claim in a patent may be declared invalid or void by the Federal Court at the instance of the Attorney General of Canada or at the instance of any interested person.
+"(2) Where any person has reasonable cause to believe that any process used or proposed to be used or any article made, used or sold or proposed to be made, used or sold by him might be alleged by any patentee to constitute an infringement of an exclusive property or privilege granted thereby, he may bring an action in the Federal Court against the patentee for a declaration that the process or article does not or would not constitute an infringement of the exclusive property or privilege.
+"(3) With the exception of the Attorney General of Canada or the attorney general of a province, the plaintiff in any action under this section shall, before proceeding therein, give security for the costs of the patentee in such sum as the Federal Court may direct, but a defendant in any action for the infringement of a patent is entitled to obtain a declaration under this section without being required to furnish any security.
+R.S.C. 1985, c. P-4, s. 64.
+"77. Every patent issued before, on or after August 1, 1935 shall be deemed to have been properly issued if all the conditions of the issue have been or shall be in force, either at the date of the application therefor or at the date of the issue thereof, have been satisfied, but any provisions in force from time to time relating to the continued validity of patents after issue apply to all patents whenever granted.
+R.S.C. 1985, c. P-4, s. 77."
+"4(1) Le gouverneur en conseil peut nommer un commissaire aux brevets. Sous la direction du ministre, celui-ci exerce les pouvoirs et fonctions qui lui sont attribués en conformité avec la présente loi.
+"(2) Le commissaire reçoit les demandes, taxes, pièces écrites, documents et modèles pour brevets, fait et exécute tous les actes et choses nécessaires pour la concession et la délivrance des brevets; il assure la direction et la garde des livres, archives, pièces écrites, modèles, machines et autres choses appartenant au Bureau des brevets, et, pour l'application de la présente loi, est revêtu de tous les pouvoirs conférés ou qui peuvent être conférés par la Loi sur les enquêtes à un commissaire nommé en vertu de la partie II de cette loi.
+"(3) Le commissaire occupe son poste à titre amovible et reçoit le traitement annuel fixé par le gouverneur en conseil.
+"(4) Le commissaire peut, après consultation avec le ministre, déléguer à toute personne qu'il estime compétente les pouvoirs et fonctions que lui confère la présente loi, sauf le pouvoir de déléguer prévu au présent paragraphe.
+"(5) Il peut être interjeté appel d'une décision prise en vertu de la présente loi par une personne autorisée conformément au paragraphe (4) de la façon dont il peut être interjeté appel d'une décision du commissaire prise en vertu de la présente loi, et aux mêmes conditions.
+S.R.C. 1985, ch. P-4, art. 10.
+"12(1) Sur recommandation du ministre, le gouverneur en conseil peut établir les règles et prendre les règlements jugés utiles:
+a) pour rendre exécutoire les objets de la présente loi, ou pour assurer l'application régulière par le commissaire et le personnel du Bureau des brevets;
+b) pour rendre, effectives les stipulations de tout traité, conventions, arrangement ou engagement qui subsiste entre le Canada et tout autre pays;
+c) notamment su r les matières suivantes:
+(i) la forme et la teneur des demandes de brevets,
+(ii) la forme du registre des brevets et de ses index,
+(iii) l'enregistrement des cessions, transmissions, licences, renonciations, jugements ou autres documents relatifs à un brevet,
+(iv) la forme et la teneur de tout certificat délivré conformément aux termes de la présente loi,
+(v) les taxes qui peuvent être imposées relativement à la production de demandes de brevets ou à d'autres formalités remplies en vertu de la présente loi ou en vertu d'une règle ou d'un règlement pris en conformité avec le présent articles, ou relativement à des services ou à l'utilisation d'installations qui y sont prévus par le commissaire ou par toute personne employée au Bureau des brevets,
+(vi) le paiement de toutes taxes prescrites par une règles ou un règlement pris en conformité avec le présent article, y compris le moment auquel et la manière selon laquelle de telles taxes doivent êtres payées ainsi que les circonstances dans lesquelles de telles taxes antérieurement payées peuvent être remboursées en tout ou en partie
+"(2) Toute règle ou tout règlement pris par le gouverneur en conseil a la même force et le même effet que s'il avait été édicté aux présentes.
+S.R.C. 1985, ch. P-4, art. 12.
+"12(1) Le gouverneur en conseil peut, par règle ou règlement:
+a) prévoir la forme et le contenu des demandes de brevet;
+b) prévoir la forme du registre des brevets et de ses index;
+c) prévoir l'enregistrement de tous les documents-cessions, transmissions, renonciations, jugements ou autres-relatifs à un brevet;
+d) prévoir la forme et le contenu des certificats délivrés sous le régime de la présente loi;
+e) prescrire les taxes qui peuvent être levées pour le dépôt des demandes de brevet ou les autres formalités d'application de la présente loi ou de ses règles ou règlements ou pour des services ou l'utilisation d'installation qui y sont prévus par le commissaire ou par tout fonctionnaire du Bureau des brevets ou prescrire les modalités de la détermination de ces taxes;
+f) prescrire les taxes à payer pour le maintien en état des demandes de brevet ainsi que des droits conférés par les brevets ou les modalités de leur détermination;
+g) prévoir le paiement des taxes réglementaires, y compris le moment et la manière selon laquelle ces taxes doivent être payées, les surtaxes qui peuvent être levées pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les taxes peuvent être remboursées en tout ou en partie;
+h) rendre effectives les stipulations de tout traité, convention, accord ou entente qui subsiste entre le Canada et tout autre pays;
+i) par dérogation aux autres dispositions de la présente loi, rendre effectives les dispositions du Traité de coopération en matière de brevet fait à Washington le 19 juin 1970;
+j) prévoir l'inscription, le maintien et la suppression des noms de personne et d'entreprise dans le registre des agents de brevets, et notamment les conditions que doit remplir toute personne ou entreprise pour que son nom soit ainsi inscrit et maintenu;
+k) prendre toute autre mesure d'ordre réglementaire prévue par la présente loi;
+l) prendre toute autre mesure d'application de la présente loi ou pour en assurer la mise en oeuvre par le commissaire et le personnel du Bureau des brevets;
+L.C. 1987, ch. 41, art. 3.
+"27(1) Sous réserve des autres dispositions du présent article, l'auteur de toute invention ou le présent article, l'auteur de toute invention ou le représentant légal de l'auteur d'une invention peut, sur présentation au commissaire d'une pétition exposant les faits, appelée dans la présente loi, obtenir un brevet qui lui accorde l'exclusive propriété d'une invention qui n'était pas:
+a) connue ou utilisée par une autre personne avant que lui-même l'ait faite;
+b) décrire dans un brevet ou dans une publication imprimée au Canada ou dans tout autre pays plus de deux ans avant la présentation de la pétition ci-après mentionnée;
+c) en usage public ou en vente au Canada plus de deux ans avant le dépôt de sa demande au Canada.
+"(2) Un inventeur ou représentant légal d'un inventeur, qui a fait une demande de brevet au Canada pour une invention à l'égard de laquelle une demande de brevet a été faite dans tout autre pays par cet inventeur ou par son représentant légal avant le dépôt de sa demande au Canada, n'a pas le droit d'obtenir au Canada un brevet couvrant cette invention sauf si sa demande au Canada est déposée:
+a) soit avant la délivrance d'un brevet à cet inventeur ou à son représentant légal couvrant cette même invention dans tout autre pays;
+b) soit, si un brevet a été délivré dans un autre pays, dans un autre délai de douze mois à compter du dépôt de la première demande, par cet inventeur ou son représentant légal, d'un brevet pour cette invention dans tout autre pays.
+"(3) Il ne peut être délivré de brevet pour une invention dont l'objet est illicite, non plus que pour de simples conceptions théoriques.
+S.R.C. 1985, ch. P-4, art. 27.
+"28(1) Une demande de brevet déposée au Canada par toute personne ayant le droit d'être protégée aux termes d'un traité ou d'une convention se rapportant aux brevets et auquel ou à laquelle le Canada est partie, qui a, elle-même ou par son agent ou autre représentant légal, antérieurement déposé de façon régulière une demande de brevet couvrant la même invention dans un autre pays qui. par traité, convention ou législation, procure un privilège similaire aux citoyens du Canada, a la même force et le même effet qu'aurait la même demande si elle avait été déposée au Canada à la date où la demande de brevet pour la même invention a été en premier lieu déposée dans cet autre pays, si la demande au Canada est déposée dans un délai de douze mois à compter de la date la plus éloignée à laquelle une telle demande a été déposée dans cet autre pays.
+"(2) Aucun brevet ne peut être accordé sur une demande de brevet pour une invention qui a été brevetée ou décrite dans un brevet ou dans une publication imprimée au Canada ou dans un autre pays, plus de deux ans avant la date du dépôt réel de la demande au Canada, ou qui a été d'un usage public ou en vente au Canada depuis plus de deux ans avant ce dépôt.
+S.R.C. 1985, ch. P-4, art. 28.
+"30(1) Chaque demande de brevet doit être complétée dans un délai de douze mois à compter du dépôt de la demande, à défaut de quoi, ou sur manquement du demandeur de poursuivre sa demande dans les six mois qui suivent toute action que l'examinateur, nommé conformément à l'article 6, a prise concernant la demande et dont l'avis a été donné au demandeur, une telle demande est tenue pour avoir été abandonnée.
+"(2) Une demande peut être rétablie sur présentation d'une pétition au commissaire dans un délai de douze mois à compter de la date à laquelle cette demande a été tenue pour abandonnée, et contre paiement de la taxe réglementaire, si le pétitionnaire démontre à la satisfaction du commissaire que le défaut de compléter ou de poursuivre la demande dans le délai spécifié n'était pas raisonnablement évitable.
+"(3) Une demande ainsi rétablie garde la date de son dépôt original.
+S.R.C. 1985, ch. P-4, art. 32.
+"40. Chaque fois que le commissaire s'est assuré que le demandeur n'est pas fondé en droit à obtenir la concession d'un brevet, il rejette la demande et, par courrier recommandé adressé au demandeur ou à son agent enregistré, notifie à ce demandeur le rejet de la demande, ainsi que les motifs ou raisons du rejet.
+S.R.C. 1985, ch. P-4, art. 40.
+"53(1) Le brevet est nul si la pétition du demandeur, relative à ce brevet, contient quelque allégation importante qui n'est pas conforme à la vérité, ou si le mémoire descriptif et les dessins contiennent plus ou moins qu'il n'est nécessaire pour démontrer ce qu'ils sont censés démontrer, et si l'omission ou l'addition est volontairement faite pour induire en erreur.
+"(2) S'il apparaît au tribunal que pareille omission ou addition est le résultat d'une erreur involontaire, et s'il est prouvé que le breveté a droit au reste de son brevet, le tribunal rend jugement selon les faits et statue sur les frais. Le brevet est réputé valide quant à la partie de l'invention décrite à laquelle le breveté est reconnu avoir droit.
+"(3) Le breveté transmet au Bureau des brevets deux copies authentiques de ce jugement. Une copie en est enregistrée et conservée dans les archives du Bureau, et l'autre est jointe au brevet et y est incorporée au moyen d'un renvoi.
+S.R.C. 1985, ch. P-4, art. 55.
+"59. Dans toute action en contrefaçon de brevet, le défendeur peut invoquer comme moyen de défense tout fait ou manquement qui, d'après la présente loi ou en droit, entraîne la nullité du brevet; le tribunal prend connaissance de cette défense et des faits pertinents et statue en conséquence.
+S.R.C. 1985, ch. P-4, art. 61.
+"60(1) Un brevet ou une revendication se rapportant à un brevet peut être déclaré invalide ou nul par la Cour fédérale, à la diligence du procureur général du Canada ou à la diligence d'un intéressé.
+"(2) Si une personne a un motif raisonnable de croire qu'un procédé employé ou dont l'emploi est projeté, ou qu'un article fabriqué, employé ou vendu ou dont sont projetés la fabrication, l'emploi ou la vente par elle, pourrait, d'après l'allégation d'un breveté, constituer une violation d'un droit de propriété ou privilège exclusif accordé de ce chef, elle peut intenter une action devant la Cour fédérale contre le breveté afin d'obtenir une déclaration que ce procédé ou cet article ne constitue pas ou ne constituerait pas une violation de ce droit de propriété ou de ce privilège exclusif.
+"(3) A l'exception du procureur général du Canada ou du procureur général d'une province, le plaignant dans une action exercée sous l'autorité du présent article fournit, avant de s'y engager, un cautionnement pour les frais du breveté au montant que le tribunal peut déterminer. Toutefois, le défendeur dans toute action en contrefaçon de brevet a le droit d'obtenir une déclaration en vertu du présent article sans être tenu de fournir un cautionnement.
+S.R.C. 1985, ch. P-4, art. 64.
+"77. Tout brevet délivré avant ou après le 1er août 1935, ou à cette date, est réputé avoir été régulièrement délivré si toutes les conditions de la délivrance d'un brevet valide qui ont pu être ou seront en vigueur, soit à la date de la demande du brevet, soit à la date de sa délivrance, ont été remplies. Toutefois, les dispositions en vigueur concernant la validité continue de brevets après leur délivrance s'appliquent à tous les brevets à quelque époque qu'ils aient été accordés.
+S.R.C. 1985, ch. P-4, art. 77."
+Relevant sections of the Patent Act after October 1, 1989
+"12(1) The Governor in Council may make rules or regulations
+(a) respecting the form and contents of applications for patents;
+(b) respecting the form of the Register of Patents and of the indexes thereto;
+(c) respecting the registration of assignments, transmissions, disclaimers, judgments or other documents relating to any patent;
+(d) respecting the form and contents of any certificate issued pursuant to this Act;
+(e) prescribing the fees or the manner of determining the fees that may be charged in respect of the filing of applications for patents or the taking of other proceedings under this Act or under any rule or regulation made pursuant to this Act, or in respect of any services or the use of any facilities provided thereunder by the Commissioner or any person employed in the Patent Office;
+(f) prescribing the fees or the manner of determining the fees that shall be paid to maintain in effect an application for a patent or to maintain the rights accorded by a patent;
+(g) respecting the payment of any prescribed fees including the time when and the manner in which such fees shall be paid, the additional fees that may be charged for the late payment of such fees and the circumstances in which any fees previously paid may be refunded in whole or in part;
+h) for carrying into effect the terms of any treaty, convention, arrangement or engagement that subsists between Canada and any other country;
+i) notwithstanding anything in this Act, for carrying into effect the terms of the Patent Cooperation Treaty at Washington on June 19, 1970;
+j) respecting the entry on, the maintenance of and the removal from the register of patent agents of the names of persons and firms, including the qualifications that must be met and the conditions that must be fulfilled by a person or firm before the name of the person or firm is entered thereon and to maintain the name of the person or firm on the register;
+(k) prescribing any other matter that by any provision of this Act is to be prescribed; and
+(l) generally, for carrying into effect the objects and purposes of this Act or for ensuring the due administration thereof by the Commissioner and other officers and employees of the Patent Office.
+S.C. 1987, c. 41, s. 3.
+"27(1) Subject to this section, any inventor or legal representative of an inventor of an invention may, on presentation to the Commissioner of a petition setting out the facts (in this Act termed the filling of the application) and on compliance with all other requirements of this Act, obtain a patent granting to the applicant an exclusive property in the invention unless
+(a) in the case of an application to which section 28 applies,
+(i) an application for a patent describing the same invention was filed in Canada by any other person before the priority date of the application, or
+(ii) an application for a patent describing the same invention and to which section 28 applies is filed in Canada by any other person at any time and the priority date of that application precedes the priority date of the application;
+(b) in the case of any other application,
+(i) an application for a patent describing the same invention was filed in Canada by any other person before the filing of the application, or
+(ii) an application for a patent describing the same invention and to which section 28 applies is filed in Canada by any other person after the filing of the application precedes the date of filing of the application;
+(c) the invention was, before the date of the application or before the priority date of the application, if any, disclosed by a person referred to in paragraph (d) in such a manner that it became available to the public in Canada or elsewhere; or
+(d) the invention was, more than one year before the date of filing of the application, disclosed by the applicant or by a person who obtained knowledge of the invention, directly or indirectly, from the applicant, in such a manner that it became available to the public in Canada or elsewhere.
+"(1.1) Any inventor or legal representative of an inventor of an invention may, within twelve months after the filing of an application for a patent for the invention, file a second application for a patent describing the same invention.
+"(1.2) A second application for a patent that is filed in accordance with subsection (1.) shall, for the purposes of this Act, be deemed to have been filed on the date of filing of the second application, the first application
+(a) has not been withdrawn, abandoned or refused;
+(b) has not been opened tot he inspection of the public under section 10; and
+(c) has not served as a basis for claiming a right of priority in any other country.
+"(1.3) Subsection (1.2) does not apply in respect of a second application for a patent un less the applicant, within six months of the filing of that application, claims the protection afforded by that subsection and informs the Commissioner of the filing date and number of the first application.
+"(1.4) Where a second application for a patent is filed in accordance with subsection (1.1), the first application shall, for the purpose of this Act, be deemed to have been withdrawn on the day immediately after the date of filing of the second application.
+"(1.5) For the purposes of subsection (1), when an application is filed or is deemed to have been filed on the date on which another application describing the same invention is filed or deemed to have been filed, each, application shall be examined and a patent shall be allowed to issued without regard to the existence of the other application.
+"(1.6) For the purposes of subsection (1), an application that is withdrawn before it is open to the inspection of the public under section 10, shall be deemed never to have been filed.
+S.C. 1987, c. 41, s. 8.
+"(2) Any inventor or legal representative of an inventor who applies in Canada for a patent for an invention for which application for patent has been made in any other country by that inventor or his legal representative before the filing of the application in Canada is not entitled to obtain in Canada a patent for that invention unless his application in Canada is filed, either
+(a) before issue of any patent to that inventor or his legal representative for the same invention in any other country, or
+(b) if a patent has issued in any other country, within twelve months after the filing of the first application by that inventor or his legal representative for a patent for that invention in any other country.
+"(3) No patent shall issue for an invention that has an illicit object in view, or for any mere scientific principle or abstract theorem.
+R.S.C. 1985, c. P-4, s. 28.
+"27.1(1) An applicant for a patent shall, to maintain the application in effect, pay to the Commissioner such fees, in respect of such periods, as may be prescribed
+"(2) and (3) [Repealed, S.C. 1993, c. 15, s. 32]
+S.C. 1987, c. 41, s. 9.
+"28(1) Subject to subsection (2), an application for a patent for invention filed in Canada by any person entitled to protection under the terms of any treaty or convention relating to patents to which Canada is a party who has, or whose agent, legal representative or predecessor in title has, previously regularly filed an application for a patent describing the same invention in any other country that by treaty, convention or law affords similar protection to citizens of Canada, has the same force and effect as the same application would have if filed in Canada on the date on which the application for a patent for the same invention was first filed by that person or by the agent, legal representative or predecessor in title of that person in any other country, if the application in Canada is filed within twelve months after that date.
+"(2) subsection (1) does not apply in respect of an application for a patent for an invention filed in Canada unless the applicant, within six months of the filing of the application, claims the protection afforded by that subsection and informs the Commissioner, in the manner prescribed, of the country of filing, the filing date and the number of each application on which the applicant bases the claim.
+"(3) Where a person or agent, legal representative or predecessor in title of that person has, at the time an application for a patent is filed in Canada, previously regularly filed two applications for a patent describing the same invention in a country referred to in subsection (1), the second of those for the purposes of that subsection, be deemed to be the application that was first filed by that person or the agent, legal representative or predecessor in title of that person in that country if, on the date of filing of the second application, the first application has been withdrawn, abandoned or refused, without having been opened to public inspection and without leaving any rights outstanding, and has not served as a basis for claiming a right of priority in any country including Canada.
+"(4) Multiple priorities may be claimed in respect of one patent application notwithstanding the fact that the priorities are based on patent applications filed in different country and may be claimed for any one claim in a patent application but, where multiple priorities are claimed, the time limit set out in subsection (1) shall run from the earliest date of priority.
+"(5) If one or more priorities are claimed in respect of a patent application, the right of priority shall apply only in respect of those elements of the patent application that are described in the patent application or applications for which the priority is claimed.
+"(6) For the purposes of this section, 'predecessor in title' includes any person through whom an applicant for a patent in Canada claims the right to the patent.
+R.S.C. 1985, c. 33, s. 10.
+"28(1) The filing date of an application for a patent a in Canada is the date on which the Commissioner receives the documents, information and fees prescribed for the purposes of this section or, if they are received on different dates, the last date.
+"(2) The Commissioner may, for the purposes of this section, deem prescribed fees to have been received on a date earlier that the date of their receipt if the Commissioner considers it just to do so.
+S.C. 1993, c.15, s. 33.
+"30. was repealed
+[Repealed, S.C. 1993, c. 15, s. 35]
+"46(1) A patentee of a patent issued by the Patent Office under this Act after the coming into force of this section shall, to maintain the rights accorded by the patent, pay to the Commissioner such fees, in respect of such periods, as may be prescribed.
+"(2) Where the fees payable under subsection (1) are not paid within the time provided by the regulations, the term limited for the duration of the patent shall be deemed to have lapse on the expiration of such further period as may be prescribed.
+R.S.C. 1985, c. 33, s. 16.
+"73(1) An application for a patent in Canada shall be deemed to be abandoned if the applicant does not
+(a) reply in good faith to any requisition made by an examiner in connection with an examination, within six months after the requisition is made or within any shorter period established by the Commissioner;
+(b) comply with a notice given pursuant to subsection 27(6);
+(c) pay the fees payable under section 27.1, within the time provided by the regulations;
+(d) make a request for examination or pay the prescribed fee under subsection 35(1) within the time provided by the regulations;
+(e) comply with a notice given under subsection 35(2); or
+(f) pay the prescribed fees stated to be payable in a notice of allowance of patent within six months after the date of the notice.
+"(2) An application shall also be deemed to be abandoned in any other circumstances that are prescribed.
+"(3) An application deemed to be abandoned under this section shall be reinstated if the applicant
+(a) makes a request for reinstatement to the Commissioner within the prescribed period;
+(b) takes the action that should have been taken in order to avoid the abandonment; and
+(c) pays the prescribed fee before the expiration of the prescribed period.
+"(4) An application that has been abandoned pursuant to paragraph (1)(f) and reinstated is subject to amendment and further examination.
+"(5) An application that is reinstated retains its original filing date.
+S.C. 1993, c.15, s. 52.
+"77. was repealed
+S.C. 1993, c. 15, s. 54."
+"12(1) Le gouverneur en conseil peut, par règle ou règlement:
+a) prévoir la forme et le contenu des demandes de brevet;
+b) prévoir la forme du registre des brevets et de ses index;
+c) prévoir l'enregistrement de tous les documents-cessions, transmissions, renonciations, jugements ou autres-relatifs à un brevet;
+d) prévoir la forme et le contenu des certificats délivrés sous le régime de la présente loi;
+e) prescrire les taxes qui peuvent être levées pour le dépôt des demandes de brevet ou les autres formalités d'application de la présente loi ou de ses règles ou règlements ou pour des services ou l'utilisation d'installation qui y sont prévus par le commissaire ou par tout fonctionnaire du Bureau des brevets ou prescrire les modalités de la détermination de ces taxes;
+f) prescrire les taxes à payer pour le maintien en état des demandes de brevet ainsi que des droits conférés par les brevets ou les modalités de leur détermination;
+g) prévoir le paiement des taxes réglementaires, y compris le moment et la manière selon laquelle ces taxes doivent être payées, les surtaxes qui peuvent être levées pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les taxes peuvent être remboursées en tout ou en partie;
+h) rendre effectives les stipulations de tout traité, convention, accord ou entente qui subsiste entre le Canada et tout autre pays;
+i) par dérogation aux autres dispositions de la présente loi, rendre effectives les dispositions du Traité de coopération en matière de brevet fait à Washington le 19 juin 1970;
+j) prévoir l'inscription, le maintien et la suppression des noms de personne et d'entreprise dans le registre des agents de brevets, et notamment les conditions que doit remplir toute personne ou entreprise pour que son nom soit ainsi inscrit et maintenu;
+k) prendre toute autre mesure d'ordre réglementaire prévue par la présente loi;
+l) prendre toute autre mesure d'application de la présente loi ou pour en assurer la mise en oeuvre par le commissaire et le personnel du Bureau des brevets;
+L.C. 1987, ch. 41, art. 3.
+"27(1) Sous réserve des autres dispositions du présent article, l'inventeur ou son représentant légal peut, sur présentation au commissaire d'une pétition circonstanciée-appelée dans la présente loi 'dépôt de la demande' - et à condition de satisfaire aux autres obligations de cette loi, se faire délivrer un brevet lui donnant la propriété exclusive de l'invention en cause, sauf dans les cas suivants:
+a) s'agissant d'une demande visée par l'article 28, sa date de priorité est postérieure:
+i) soit à la date de dépôt au Canada par toute autre personne d'une autre demande de brevet décrivant la même invention,
+ii) soit à la date de priorité d'une autre demande de brevet décrivant la même invention et également visée par l'article 28 et déposée au Canada à un moment quelconque;
+b) s'agissant d'une demande non visée par l'article 28:
+i) ou bien, avant la date de son dépôt, une autre demande de brevet décrivant la même invention est déposée au Canada par toute autre personne,
+ii) ou bien la date de son dépôt au Canada par toute personne d'une autre demande de brevet, visée par l'article 28, décrivant la même invention mais postérieure à la date de priorité de cette dernière demande;
+c) avant le dépôt de la demande ou avant la date de priorité de celle-ci, l'invention a, de la part d'une personne non visée à l'alinéa d), fait l'objet d'une communication qui l'a rendue accessible au public au Canada ou ailleurs;
+d) plus d'un ans avant la date de dépôt de la demande, l'invention a fait l'objet de la part du demandeur, ou d'un tiers ayant eu l'information à cet égard de façon directe ou autrement, d'une communication qui l'a rendue accessible au public au Canada ou ailleurs.
+"(1.1) L'inventeur ou son représentant légal peut, dans les douze mois suivant le dépôt d'une demande de brevet pour l'invention, déposer une deuxième demande qui décrit la même invention.
+"(1.2) Cette deuxième demande est présumée, pour l'application de la présente loi, avoir été déposée à la date du dépôt de la première demande si celle-ci remplit, à la date du dépôt de la deuxième demande, les conditions suivantes:
+a) elle n'a pas été retirée, abandonnée ou refusée;
+b) elle n'est pas devenue accessible pour consultation sous le régime de l'article 10;
+c) elle n'a pas été invoquée pour réclamer un droit de priorité dans tout autre pays.
+"(1.3) Le paragraphe (1.2) n'est pas applicable à l'égard d'une deuxième demande de brevet, sauf si le demandeur, dans les six mois du dépôt de celle-ci, réclame la protection prévue à ce paragraphe et avise le commissaire de la date du dépôt et du numéro de la première demande.
+"(1.4) Dans le cas du dépôt d'une deuxième demande conformément au paragraphe (1.1), la première demande est présumée, pour l'application de la présente loi, avoir été retirée le lendemain de ce dépôt.
+"(1.5) Pour l'application du paragraphe (1), en cas de simultanéité, réelle ou présumée, du dépôt des demandes décrivant la même invention, chaque demande est examinée et un brevet est accordé sans égard à l'autre demande.
+"(1.6) Pour l'application du paragraphe (1), la demande retirée avant d'être devenue accessible au titre de l'article 10 est réputée n'avoir jamais été déposée.
+L.C. 1987, ch. 41, art. 8.
+"(2) Un inventeur ou représentant légal d'un inventeur, qui a fait une demande de brevet au Canada pour une invention à l'égard de laquelle une demande de brevet a été faite dans tout autre pays par cet inventeur ou par son représentant légal avant le dépôt de sa demande au Canada, n'a pas le droit d'obtenir au Canada un brevet couvrant cette invention sauf si sa demande au Canada est déposée:
+a) soit avant la délivrance d'un brevet à cet inventeur ou à son représentant légal couvrant cette même invention dans tout autre pays;
+b) soit, si un brevet a été délivré dans un autre pays, dans un autre délai de douze mois à compter du dépôt de la première demande, par cet inventeur ou son représentant légal, d'un brevet pour cette invention dans tout autre pays.
+"(3) Il ne peut être délivré de brevet pour une invention dont l'objet est illicite, non plus que pour de simples conceptions théoriques.
+S.R.C. 1985, ch. P-4, art. 28.
+"27.1(1) Le demandeur est tenu de payer au commissaire, afin de maintenir sa demande en état, les taxes réglementaires pour chaque période réglementaire.
+"(2) et (3) [Abrogé, L.C. 1993, ch. 15, s. 32]
+L.C. 1987, ch. 41, art. 9.
+"28(1) Sous réserve du paragraphe (2), la demande de brevet d'invention déposée au Canada par quiconque dont les droits sont protégés par un traité ou une convention relatifs aux brevets auquel ou à laquelle le Canada est partie et qui a personnellement ou dont l'agent, le représentant légal ou le prédécesseur en droit a déposé selon les règles une demande de brevet décrivant la même invention dans un autre pays qui par traité, convention ou loi accorde une protection similaire aux citoyens canadiens, a la même force et le même effet qu'aurait cette demande si elle avait été déposée en premier lieu dans cet autre pays. La demande doit toutefois être déposée au Canada dans les douze mois suivant cette date.
+"(2) Le paragraphe (1) n'est pas applicable à l'égard d'une demande de brevet déposée au Canada sauf si le demandeur, dans les six mois suivant le dépôt, réclame la protection prévue à ce paragraphe et avise le commissaire, en la forme réglementaire, du nom du pays où la demande a été déposée, de la date du dépôt et du numéro de chacune des demandes sur lesquelles le demandeur fonde sa réclamation.
+"(3) Dans les cas où une personne ou son agent, représentant légal ou prédécesseur en droit a déjà, lors du dépôt d'une demande de brevet décrivant la même invention dans un pays visé au paragraphe (1), la deuxième des demandes déposées en premier lieu par cette personne, son agent, son représentant légal ou prédécesseur en droit si, à la date du dépôt de la deuxième demande, la première demande a été retirée, abandonnée ou refusée, sans avoir été accessible pour consultation et sans laisser subsister de droit, et n'a pas été invoqué pour réclamer un droit de priorité au Canada ou ailleurs.
+"(4) Des priorités multiples peuvent être réclamées pour une demande de brevet même si elles sont fondées sur des demandes déposées dans des pays différents, et pour toute revendication contenue dans une demande de brevet. Le délai prévu au paragraphe (1) court cependant à compter de la première date de priorité.
+"(5) Le droit de priorité s'applique, dans le cas d'une réclamation de priorité, même multiple, aux éléments décrits dans les demandes de brevet sur lesquelles est fondée la réclamation de priorité.
+"(6) Pour l'application de présent article, est assimilé à un prédécesseur en droit toute personne par l'intermédiaire de laquelle un demandeur de brevet au Canada réclame le droit à celui-ci.
+S.R.C. 1985, ch. 33, art. 10.
+"28(1) La date de dépôt d'une demande de brevet est la date à laquelle le commissaire reçoit les documents, renseignements et taxes réglementaires prévus pour l'application du présent articles. S'ils sont reçus à des dates différentes, il s'agit de la dernière d'entre elles.
+"(2) Pour l'application du paragraphe (1), le commissaire peut, s'il estime que cela est équitable, fixer une date de réception des taxes antérieure à celle à laquelle elles ont été reçues.
+L.C. 1993, ch.15, art. 33.
+"30. a été abrogé
+[Abrogé, L.C. 1993, ch. 15, art. 35]
+"46(1) Le titulaire d'un brevet délivré par le Bureau des brevets conformément à la présente loi après l'entrée en vigueur du présent article est tenu de payer au commissaire, afin de maintenir les droits conférés par le brevet en état, les taxes réglementaires pour chaque période réglementaire.
+"(2) En cas de non-paiement dans le délai réglementaire des taxes réglementaires, le brevet est périmé à l'expiration du délai supplémentaire réglementaire.
+S.R.C. 1985, ch. 33, art. 16.
+"73(1) La demande de brevet est considérée comme abandonnée si le demandeur omet, selon le cas:
+a) de répondre de bonne foi, dans le cadre d'un examen, à toute demande de l'examinateur, dans les six mois suivant cette demande ou dans le délai plus court déterminé par le commissaire;
+b) de se conformer à l'avis mentionné au paragraphe 27(6);
+c) de payer, dans le délai réglementaire, les taxes visées à l'article 27.1;
+d) de présenter la requête visée au paragraphe 35(1) ou de payer la taxe réglementaire dans le délai réglementaire;
+e) de se conformer à l'avis mentionné au paragraphe 35(2);
+f) de payer les taxes réglementaires mentionnées dans l'avis d'acceptation de la demande de brevet dans les six mois suivant celui-ci.
+"(2) Elle est aussi considérée comme abandonnée dans les circonstances réglementaires.
+"(3) Elle peut être rétablie si le demandeur:
+a) présente au commissaire, dans le délai réglementaire, une requête à cet effet;
+b) prend les mesures qui s'imposaient pour éviter l'abandon;
+c) paie les taxes réglementaires avant l'expiration de la période réglementaire.
+"(4) La demande abandonnée au titre de l'alinéa (1)f) et rétablie par la suite est sujette à modification et à nouvel examen.
+"(5) La demande rétablie conserve sa date de dépôt.
+L.C. 1993, ch. 15, art. 52.
+"77. a été abrogé
+L.C. 1993, ch. 15, art. 54."
+Relevant rules of the Patent Rules as they were before October 1, 1989.
+"2. 'small entity' means an 'independent inventor' or a 'small business concern'
+'independent inventor', in relation to an invention, means an individual, but does not include
+(a) an individual who has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a small business concern,
+or
+(b) an individual who has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to any other individual or a small business concern if the individual has knowledge of any subsequent assignment of, or of any subsisting contractual or other legal obligation to assign, any right in the invention to a person described in paragraph (a), and the definition for 'small business concern' was as follows:
+'small business concern', in relation to an invention, means a person who is not an individual and whose gross annual revenue is not more than two million dollars (in this definition referred to as a 'business concern'), but does not include a business concern that
+(a) is engaged in manufacturing and employs more than one hundred employees,
+(b) is engaged in other than manufacturing and employs more than fifty persons,
+(c) has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a person who qualifies as a small business concern under the portion of this definition that precedes this paragraph, or
+(d) has assigned, or is under a contractual or other legal obligation to assign, any right in the invention to an individual or to a person who qualifies as a small business concern under the portion of this definition that precedes paragraph (c) if the business concern has knowledge of any subsequent assignment of, or of any subsisting contractual or other legal obligation to assign, any right in the invention to a person who is neither an individual nor a person who qualifies as described in this paragraph.
+Patent Rules, SOR/85-383, s. 1.
+"11(1) Where a person takes any proceeding or request that any service be rendered by the Office, he shall pay a fee in an amount equal to the amount set out in Schedule II for that proceeding or service.
+"(2) Fees payable under this section shall be forwarded to the Commissioner at Ottawa in the form of legal tender, cheques (certified if so requested by the Office), bank drafts or money orders and shall be made payable to the Receiver General.
+"(3) The amount of the fee payable pursuant to subsection (1) shall be taken or rendered, as the case may be, after deductions for collection, exchange, tax and other charges.
+"(4) repealed by SOR/81-241
+"(5) repealed by SOR/78-790
+"(6) The Commissioner shall, in accordance with Schedule III, refund fees paid under these Rules to the person who paid the fees or to his legal representative.
+Patent Rules, C.R.C. 1978, c. 1250, s. 11.
+"32(1) The filing date of an application shall be the date when the prescribed fee for filing it has been paid and the following documents relating to it have been filed:
+(a) a petition executed by the applicant or a patent agent on his behalf;
+(b) a specification, including claims;
+(c) any drawing referred to in the specification; and
+(d) an abstract of the disclosure, which abstract may be inserted at the beginning of the specification.
+"(2) Where paragraphs (1) (a) to (c) have been complied with in respect of an application, the application may, notwithstanding that the whole of that subsection has not been complied with, be given a filing date if the Commissioner is satisfied that it would be unjust not do so, and in such case, the filing date given to the application shall be the day on which the said paragraphs (1)(a) to (c) were complied with.
+Patent Rules, C.R.C. 1978, c. 1250, s. 32.
+"34. An application is completed only when the requirements of section 32 have been complied with, the fees relating to the application, including the fees for extra claims and for completion, have been paid and the following documents relating to it have been filed:
+(a) a petition in Form 1, 2, 3, 4, 5, 6, 7, 8, 9 or 10 of Schedule I, as the case may be;
+(b) a specification, including claims, in Form 24 of Schedule I;
+(c) one extra copy of the claims;
+(d) drawings in duplicate (one on Bristol board and one on tracing cloth or strong white paper) if drawings are referred to in the specification;
+(e) where required, pursuant to subsection 33(4), an appointment of agent in Form 11 of Schedule I;
+(f) where required by these Rules, an appointment of an associate agent in Form 12 of Schedule I;
+(g) if the applicant is not the inventor, evidence that the applicant is a legal representative of the inventor;
+(h) if the applicant does not appear from the petition to reside or carry on business at a specified address in Canada, a nomination of representative and, where the nomination of representative is not filed by the representative, a signed statement from the representative accepting the nomination as representative; and
+(i) an abstract of the disclosure, in duplicate.
+Patent Rules, C.R.C. 1978, c. 1250, s. 34.
+"61(1) A petition for the reinstatement of an abandoned application shall be verified by affidavit and shall set out the facts that resulted in the abandonment, the date of discovery of the abandonment and the steps taken towards reinstating the application between that date and the presentation of the petition.
+"(2) No petition for the reinstatement of an abandoned application shall be granted unless the Commissioner is satisfied that there has been no unnecessary delay in presenting the petition and unless the applicant has, on or before the day of its presentation, taken the action that he should have taken within the time specified in section 32 of the Act in order to avoid the abandonment of the application or satisfies the Commissioner that he is unable to take such actions but will be able to do so within a time fixed by the Commissioner.
+Patent Rules, C.R.C. 1978, c. 1250, s. 61.
+"137. The Commissioner may require such action, not otherwise provided for in the Act or these Rules, as is proper and necessary for the completion or prosecution of an application and for the reproduction of copies of patents.
+Patent Rules, C.R.C. 1978, c. 1250, s. 137."
+"2. 'petite entité' s'entend d'un inventeur indépendant ou d'une petite entreprise
+'inventeur indépendant' s'entend d'un particulier qui est l'auteur d'une invention, sauf
+a) un particulier qui a cédé ou qui est tenu, par un contrat ou une autre obligation légale, de céder un droit sur l'invention à une personne qui n'est ni particulier ni une petite entreprise,
+b) un particulier qui a cédé ou qui est tenu, par un contrat ou une autre obligation légale, de céder un droit sur l'invention à un autre particulier ou à une petite entreprise, et qui est au courant de la cession future d'un droit sur l'invention à une personne visée à l'alinéa a), ou de l'existence d'un contrat ou d'une autre obligation légale prévoyant la cession d'un tel droit à cette dernière;
+'petite entreprise' désigne, dans le cas d'une invention, une personne qui n'est pas un particulier et dont les recettes annuelles brutes ne dépassent pas deux millions de dollars (ci-après appelée 'entreprise' dans la présente définition) à l'exclusion d'une entreprise
+a) qui se livre à des activités de fabrication et a à son service plus de 100 employés,
+b) qui se livre à des activités autres que de fabrication et a à son service plus de 50 employés,
+c) a cédé ou est tenue, par un contrat ou une autre obligation légale, de céder un droit sur l'invention à une personne qui n'est ni un particulier ni une petite entreprise au sens du paragraphe a) ou b), ou
+d) a cédé ou est tenue, par un contrat ou une autre obligation légale, de céder un droit sur l'invention à un particulier ou une petite entreprise au sens du paragraphe c), et qui est au courant de la cession future d'un droit sur l'invention à une personne qui n'est ni particulier ni une personne décrite dans le présent alinéa, ou de l'existence d'un contrat ou d'une autre obligation légale prévoyant la cession d'un tel droit à cette dernière;
+Règles sur les brevets, DORS/85-383, art. 1.
+"11(1) Lorsqu'une personne remplit une formalité quelconque ou demande la dispensation d'un service par le Bureau, elle doit verser la taxe qui est indiquée à l'annexe II pour cette formalité ou ce service.
+"(2) Les taxes exigibles en vertu du présent article doivent être envoyées au commissaire à Ottawa, en monnaie légale, ou sous forme de chèques (visés si le Bureau l'exige), traites bancaires ou mandats de postes et doivent être établis à l'ordre du Receveur général.
+"(3) Le montant de toute taxe payable en vertu du paragraphe (1) doit être celui qui est indiqué à l'annexe II pour la formalité remplie ou le service rendu, selon le cas, après déductions pour la perception, le change, l'impôt et autres frais.
+"(4) abrogé par DORS/81-241
+"(5) abrogé par DORS/78-790
+"(6) Le commissaire doit, conformément à l'annexe III, effectuer les remboursements de taxes versées aux termes des présentes règles à la personne qui a versé les taxes ou à son représentant légal.
+Règles sur les brevets, C.R.C. 1978, ch. 1250, art. 11.
+"32(1) La date de dépôt attribuée à une demande sera celle à laquelle la taxe de dépôt prescrite aura été versée et à laquelle les pièces suivantes qui y ont trait auront été déposées:
+a) une pétition souscrite par le demandeur ou par un agent des brevets en son nom;
+b) un mémoire descriptif, comprenant les revendications;
+c) tout dessin dont il est question dans le mémoire descriptif; et
+d) un précis de la divulgation, qui peut être inséré au début du mémoire descriptif.
+"(2) Lorsque les prescriptions contenues aux alinéas (1)a) à c) ont été suivies à l'égard d'une demande, on peut, même si les conditions que referme ledit paragraphe n'ont pas toutes été remplies, attribuer une date de dépôt à ladite demande si le commissaire est convaincu qu'il serait injuste de ne pas le faire, et, dans un tel cas, la date de dépôt attribuée à la demande doit être celle où l'on s'est conformé aux alinéas (1)a) à c).
+Règles sur les brevets, C.R.C. 1978, ch. 1250, art. 32.
+"34. Une demande est censée complète seulement lorsque les conditions de l'article 32 ont été remplies, les taxes relatives à la demande, y compris les taxes prescrites à l'égard des revendications supplémentaires ainsi que du complètement, ont été versées et les documents suivants qui s'y rapportent ont été déposés:
+a) une pétition selon les formules 1à 10 de l'annexe I selon le cas;
+b) un mémoire descriptif, comprenant les revendications selon la formule 24 de l'annexe I;
+c) une copie supplémentaire des revendications;
+d) des dessins, en double (un sur un carton Bristol et un sur toile à calquer ou sur papier fort blanc), s'il est question de dessins dans le mémoire descriptif;
+e) une nomination d'agent selon la formule 11 de l'annexe I lorsqu'elle est exigée aux termes du paragraphe 33 (4);
+f) une nomination de co-agent, lorsque le présent règlement l'exige, formule 12 de l'annexe I;
+g) une preuve attestant que le demandeur, s'il n'est pas l'inventeur, est un représentant légal de l'inventeur;
+h) une désignation de représentant, si, d'après la pétition, il semble que le demandeur ne réside ni ne fait des opérations à une adresse spécifiée au Canada, et une déclaration signée par le représentant qui accepte la désignation à ce titre, lorsque la désignation de représentant n'est pas déposée par ce dernier; et
+i) un précis de la divulgation, en double.
+Règles sur les brevets, C.R.C. 1978, ch. 1250, art. 34.
+"61(1) Toute pétition demandant le rétablissement d'une demande abandonnée doit être attestée par affidavit et énoncer les faits qui ont causé cet abandon, la date de découverte de cet abandon, ainsi que les démarches faites en vue du rétablissement de la demande depuis cette date jusqu'à la présentation de ladite pétition.
+"(2) Aucune pétition pour le rétablissement d'une demande abandonnée ne sera agréée à moins que le commissaire ne soit convaincu que sa présentation n'a comporté aucun retard inutile, et que le demandeur n'ait fait, avant ou à la date de sa présentation, les démarches qu'il aurait dû faire dans le délai spécifié à l'article 32 de la Loi afin d'éviter l'abandon de la demande, ou qu'il n'explique à la satisfaction du commissaire qu'il est dans l'impossibilité de faire des démarches mais qu'il sera en mesure de les faire dans un délai que déterminera le commissaire.
+Règles sur les brevets, C.R.C. 1978, ch. 1250, art. 61.
+"137. Le commissaire peut exiger l'application de toute mesure, non autrement prévue par la Loi ou les présentes règles, qui est convenable et nécessaire pour qu'une demande soit complétée ou poursuivie et que des copies de brevets soient reproduites.
+Règles sur les brevets, C.R.C. 1978, ch. 1250, art. 137."
+Relevant items of the Patent Rules' Schedule 2 before October 1, 1989
+1. On filing an application for a patent:
+-
+--By a small entity
+$150.00
+--By other than small entity
+$300.00
+2. Final fee:
+-
+--By a small entity
+$350.00
+--by other than a small entity
+$700.00
+plus, in either case, for each page of specification and drawings in excess of 100 pages
+$4.00
+6. On requesting the reinstatement of an abandoned application
+$400.00
+8. On completing an application not completed on its filing date
+$200.00
+Patent Rules
+, C.R.C. 1978, c. 1250, as amended by SOR/78-673, filed August 24/78, gazetted September 13/78; 78-790, filed October 23/78, gazette November 8/78; 79-257, filed March 16/79, gazetted March 28/79; 81-241, filed March 20/81, gazetted April 8/81; 82-391, filed April 1/82, gazetted April 14/82; 83-416, filed May 9/83, gazetted May 25/83; 83-816, filed October 21/83, gazetted November 9/82; 84-398, filed May 25/84, gazetted June 13/84; 85-383, filed April 25/85, gazetted May 15/85; 86-691, filed June 19/86, gazetted July 9/86.
+1. Dépôt d'une demande de brevet:
+-
+--Petite entité
+$200,00
+--Personne autre qu'une petite entité
+$400,00
+2. Taxes finale:
+-
+--Petite entité
+$350,00
+--Personne autre qu'une petite entité
+$700,00
+--plus, pour chaque page du mémoire descriptif et des dessins en sus de 100 pages
+$4,00
+6. Demande de rétablissement d'une demande abandonnée
+$200,00
+8. Complètement d'une demande non complète à la date son dépôt
+$200,00
+Règles sur les brevets, C.R.C. 1978, ch. 1250, tel qu'amendées par DORS/78-673, déposé le 24 août 1978, publié le 13 septembre 1978; 78-790, déposé le 23 octobre 1978, publié le 8 novembre 1978; 79-257, déposé le 16 mars 1979, publié le 28 mars 1979; 81-241, déposé le 20 mars 1981, publié le 8 avril 1981; 82-391, déposé le 1 avril 1982, publié le 14 avril 1982; 83-416, déposé le 9 mai 1983, publié le 25 mai 1983; 83-816, déposé le 21 octobre 1983, publié le 9 novembre 1982; 84-398, déposé le 25 mai 1984, publié le 13 juin 1984; 85-383, déposé le 25 avril 1985, publié le 15 mai 1985; 86-691, déposé le 19 juin 1986, publié le 9 juillet 1986.
+Relevant rules of the Patent Rules after October 1, 1989.
+"26(1) Subject to subsection (2) and any other provision of these Rules, except in respect of Part V, the Commissioner is authorized to extend the time fixed by these Rules or by the Commissioner under the Act for doing anything, subject to both the extension being applied for and the fee set out in item 22 of Schedule II being paid before the expiry of that time, where the Commissioner is satisfied that the circumstances justify the extension. (2) Where, for the purposes of paragraph 73(1)(a) of the Act, the Commissioner establishes a shorter period for replying in good faith to any requisition made by an examiner in connection with an examination, the Commissioner is not authorized to extend the time for replying beyond six months after the requisition is made.
+Patent Rules, SOR/96-423.
+"157. Section 26 does not apply in respect of the times set out in sections 154, 155 and 156.
+Patent Rules, SOR/96-423."
+"26(1) Sous réserve du paragraphe (2) et des autres dispositions des présentes règles, sauf pour l'application de la partie V, le commissaire est autorisé à proroger tout délai prévu aux présentes règles ou fixé par lui en vertu de la Loi pour l'accomplissement d'un acte, s'il est convaincu que les circonstances le justifient et si, avant l'expiration du délai, la prorogation a été demandée et la taxe prévue à l'article 22 de l'annexe II a été versée.
+"(2) Lorsque, pour l'application de l'alinéa 73(1)a) de la Loi, le commissaire détermine un délai plus court pour permettre de répondre de bonne foi, dans le cadre d'un examen, à toute demande de l'examinateur, il n'est pas autorisé à proroger le délai de réponse au-delà des six mois suivant la demande.
+Règles sur les brevets, DORS/96-423.
+"157. L'article 26 ne s'applique pas aux délais prévus aux articles 154, 155 et 156.
+Règles sur les brevets, DORS/96-423."
+Relevant items of the Patent Rules' Schedule 2 after October 1, 1989.
+1. On filing an application for a patent:
+-
+-- By a small entity
+$150.00
+-- By other than small entity
+$300.00
+2. Final Fee:
+-
+--(a) On an application filed before October 1, 1989
+-
+---(i) By a small entity
+$350.00
+---(ii) By other than a small entity
+$700.00
+--(b) On an application filed after October 1, 1989
+-
+---(i) By a small entity
+$150.00
+---(ii) By other than a small entity
+$300.00
+--plus, for each page of specification and drawings in excess of 100 pages
+$4.00
+6. On requesting the reinstatement of an abandoned application
+$200.00
+8. On completing an application not completed on its filing date
+$200.00
+38. For maintaining an application for a patent in effect
+-
+--(a) On or before each of the second, third and fourth anniversaries of the date of the filing of the application in Canada:
+-
+---(i) By a small entity
+$50.00
+---(ii) By other than a small entity
+$100.00
+--(b) On or before each of the fifth, sixth, seventh, eighth and ninth anniversa- ries of the date of the filing of the application in Canada:
+-
+---(i) By a small entity
+$75.00
+---(ii) By other than a small entity
+$150.00
+--(c) On or before each of the tenth, eleventh, twelfth, thirteenth and fourteenth anniversaries of the date of the filing of the application in Canada:
+-
+---(i) By a small entity
+$100.00
+---(ii) By other than a small entity
+$200.00
+--(d) On or before each of the fifteenth, sixteenth, seventeenth, eighteenth and nineteenth anniversaries of the date of the filing of the application in Canada:
+-
+---(i) By a small entity
+$200.00
+---(ii) By other than a small entity
+$400.00
+Patent Rules, SOR/85-383; SOR/89-452; SOR/91-595.
+1. Dépôt d'une demande de brevet:
+-
+--Petite entité
+$200,00
+--Personne autre qu'une petite entité
+$400,00
+2. Taxes finale:
+-
+--a) Demande déposée avant le 1er octobre 1989
+-
+---(i) Petite entité
+$350,00
+---(ii) Personne autre qu'une petite entité
+$700,00
+--b) Demande déposée après le 1er octobre 1989
+-
+---(i) Petite entité
+$150,00
+---(ii) Personne autre qu'une petite entité
+$300,00
+--plus, pour chaque page du mémoire descriptif et des dessins en sus de 100 pages
+$4,00
+6. Demande de rétablissement d'une demande abandonnée
+$200,00
+8. Complètement d'une demande non complète à la date son dépôt
+$200,00
+38. Maintien en état d'une demande de brevet:
+-
+--a) Au plus tard les deuxième, troisième et quatrième anniversaires du dépôt de la demande au Canada:
+-
+---(i) Petite entité
+$50,00
+---(ii) Personne autre qu'une petite entité
+$100,00
+--b) Au plus tard les cinquième, sixième, septième, huitième et neuvième anniversaires du dépôt de la demande au Canada:
+-
+---(i) Petite entité
+$75,00
+---(ii) Personne autre qu'une petite entité
+$150,00
+--c) Au plus tard les dixième, onzième, douzième, treizième et quatorzième anniversaires du dépôt de la demande au Canada:
+-
+---(i) Petite entité
+$100,00
+---(ii) Personne autre qu'une petite entité
+$200,00
+--d) Au plus tard les quinzième, seizième, dix-septième, dix-huitième et dix-neuvième anniversaires du dépôt de la demande au Canada:
+-
+---(i) Petite entité
+$200,00
+---(ii) Personne autre qu'une petite entité
+$400,00
+Règles sur les brevets, DORS/85-383; DORS/89-452; DORS/91-595.
+[End of document]

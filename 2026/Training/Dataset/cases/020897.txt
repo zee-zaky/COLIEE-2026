@@ -1,0 +1,1596 @@
+I. Introduction
+[1]
+Snider, J.
+: Apotex Inc. (Apotex), the Plaintiff in this action, sells a generic version of ramipril - a drug used mainly to treat hypertension - into the Canadian market. Sanofi-Aventis Canada Inc. (Sanofi), one of the Defendants in this action, holds or has held patent rights to a brand-name version of ramipril - ALTACE.
+[2]
+In spite of the fact that Apotex received certain regulatory approvals from Health Canada in 2004, it was unable to commence sales of Apo-ramipril until December 12, 2006, when it received its Notice of Compliance (NOC) pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the
+PM (NOC) Regulations
+or the
+Regulations
+). In whole or in part, the delay was caused by the actions of Sanofi, which exercised its rights under the
+Regulations
+to a statutory stay of the issuance of an NOC to Apotex. In this action, Apotex claims that Sanofi, Sanofi-Aventis (Sanofi France) and Sanofi-Aventis Deutschland GmbH (Sanofi Germany) are liable to Apotex for the loss it suffered during the period from April 26, 2004 to May 2, 2008, as provided for in s. 8(1) of the
+PM (NOC) Regulations
+.
+[3]
+The Defendant, Sanofi, is a Canadian corporation and a manufacturer, vendor and distributor of pharmaceutical products. Sanofi has several corporate predecessors, including Hoechst Marion Roussel Canada Inc. (Hoechst), Rhône-Poulenc Rorer Canada Inc., and Aventis Pharma Inc. (Aventis). The name  <FRAGMENT_SUPPRESSED>  will be used in these Reasons for Judgment to refer to Sanofi and its corporate predecessors, unless the context suggests otherwise.
+[4]
+Subject to validity issues raised in its pleadings, Sanofi acknowledges and accepts that Apotex is entitled to damages under s. 8. However, Sanofi disputes many elements of Apotex's claim, including: (a) the relevant dates for computing the loss; and (b) the various assumptions and projections built into the assessment of damages.
+[5]
+Sanofi's claim of invalidity of s. 8 of the
+PM (NOC) Regulations
+was separately argued in a hearing involving this action and similar issues in Court File No. T-1161-07 (
+ <FRAGMENT_SUPPRESSED> ). In addition, by Order of Prothonotary Milczynski, dated May 31, 2011, all of the claims of Apotex with respect to Sanofi France and Sanofi Germany have been bifurcated. Thus, these Reasons do not include a consideration of the invalidity claims of Sanofi or of Apotex's claims against Sanofi France and Sanofi Germany.
+[6]
+My overarching objective is to assess the amount of compensation to be awarded to Apotex. Following the teachings of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> NR 279 [
+Norfloxacin (FCA)
+], this requires that I consider the hypothetical question: What would have happened if Sanofi had not brought an application for prohibition? In other words, I must construct a hypothetical, or "but for", world during a defined period of time in the past in order to determine what share of the ramipril market Apotex would have captured
+if
+it had been able to sell its generic ramipril. In addition to some of the common issues arising on an assessment of damages, one of the key tasks before me involves an examination of various provisions of the
+PM (NOC) Regulations
+. Well-established principles of statutory interpretation will guide me in establishing what I believe to be the correct meaning.
+[7]
+In the reasons that follow, I address the many issues raised by this action. Three of my key conclusions are as follows:
+1. The period of liability (the Relevant Period) for the assessment of Apotex's losses is April 26, 2004 to December 12, 2006.
+2. The Court should have regard to the possibility of multiple market entrants during the Relevant Period, but is not required to establish a single "but for" world that will apply to all possible s. 8 claims. On the facts of this case, it is more likely than not that a generic authorized by Sanofi (an authorized generic or AG) would have entered the generic market on July 26, 2004, with Teva Canada Limited  <FRAGMENT_SUPPRESSED>  following on August 1, 2006.
+3. In assessing Apotex's damages, no adjustment should be made for: (a) a second "ramp-up"; or (b) sales made in respect of an unapproved indication.
+[8]
+This action was one of three s. 8 damages actions brought against Sanofi by generic manufacturers with respect to ramipril. This was the second action heard. The first action was
+ <FRAGMENT_SUPPRESSED>  action took place immediately before the commencement of this trial and has resulted in a decision released concurrently with these Reasons. The third action is
+ <FRAGMENT_SUPPRESSED>  have set out a brief overview of the many fact and expert witnesses who appeared in this trial and the areas to which they testified in Appendix A. For the experts, I have described the matters in respect of which I found them to be qualified to provide me with their expert opinions. More detailed references to the witnesses' evidence and testimony are contained in the appropriate sections of these Reasons.
+II. Table of Contents
+[10]
+To assist the reader, the following Table of Contents is provided. The paragraph number for the beginning of each noted section is set out.
+-
+Para.
+I. Introduction
+1
+II. Table of Contents
+10
+III. Issues
+11
+IV. Essential Background
+13
+--A. Statutory framework under the PM (NOC) Regulations
+13
+--B. Ramipril patents
+26
+--C. Apotex's regulatory submissions and litigation
+29
+V. Relevant Period
+37
+--A. Commencement date
+37
+--B. End date
+56
+---(1) Apotex's date: May 2, 2008
+59
+---(2) Sanofi's date: June 27, 2006
+65
+---(3) Alternative date: December 12, 2006
+81
+--C. Conclusion on Relevant Period
+83
+VI. Overall Size of the Ramipril Market
+84
+VII. Size of the Generic Market
+105
+--A. Market penetration
+107
+--B. Formulary listings
+115
+--C. Conclusion on Generic Market
+123
+VIII. Apotex's Share of the Generic Market
+124
+--A. Sanofi's view of the "but for" world
+128
+--B. Other generics
+140
+---(1) Teva
+151
+---(2) Riva
+161
+---(3) Authorized generic
+169
+----(a) Do the Regulations preclude an AG?
+174
+----(b) Would Sanofi have decided to launch an AG?
+181
+----© When would the AG have entered the market?
+191
+---(4) Conclusion on other generics in the "but for" world
+203
+--C. Apotex's share of the Generic Market
+204
+---(1) Apotex's percentage share
+204
+---(2) Pipeline adjustment
+221
+IX. Apotex's Lost Gross Sales
+227
+X. Apotex's Net Lost Profits
+237
+--A. Sales returns
+241
+--B. Trade spend
+244
+--C. Cost of API
+255
+--D. Other potential costs or adjustments
+260
+---(1) Medichem
+261
+---(2) Plant capacity
+262
+---(3) Subsequent ramp up
+265
+XI. Unapproved Indications
+272
+XII. Conclusions
+296
+Appendix A - List of Witnesses
+-
+III. Issues
+[11]
+In very general terms, the assessment of Apotex's damages involves five steps:
+1. determine the duration of the period of liability (the Relevant Period);
+2. determine the overall size of the ramipril market during the Relevant Period (the Ramipril Market);
+3. determine the portion of the Ramipril Market that would have been retained by Sanofi and the portion that would have been held by generic manufacturers during the Relevant Period (the Generic Market);
+4. determine the portion of the Generic Market that would have been held by Apotex (Apotex's Lost Volumes); and
+5. quantify the damages that would have been suffered by Apotex in respect of Apotex's Lost Volumes (Apotex's Net Lost Profits).
+[12]
+In the case before me, these steps require consideration of a number of issues where the parties are in disagreement. These issues are as follows:
+1. What is the appropriate date for the commencement of the Relevant Period for which loss can be claimed by a second person under s. 8 of the
+Regulations
+:
+a. April 26, 2004, the date Health Canada's review of Apotex's drug submission was completed and Apotex was advised that an NOC would not issue until the requirements of the
+Regulations
+were met (referred to as the "patent hold" date; see Exhibit 1, Tab 2); or
+b. December 13, 2005, the date of expiry of Canadian Patent No. 1,246,457 (the '457 Patent), which was the subject of a Prohibition Order (the Prohibition Order or the Order) granted by Justice Simpson in
+ <FRAGMENT_SUPPRESSED>  FTR 233 [
+Ramipril NOC #2 (FC)
+];
+2. What is the appropriate date for the ending of the Relevant Period, having regard to whether Apotex was a "second person" for purposes of the
+Regulations
+:
+a. May 2, 2008, the date of the dismissal of the last prohibition proceeding in Court File No. T-87-06 by Order of Prothonotary Aalto;
+b. June 27, 2006, the date of dismissal of Court File No. T-1499-04; or
+c. December 12, 2006, the date of Apotex's NOC for ramipril?
+3. What would have been the size of the Ramipril Market over the Relevant Period?
+4. What would have been the size of the Generic Market during the Relevant Period?
+5. What would have been Apotex's Lost Volumes during the Relevant Period? Subsidiary to this question are the following sub-issues:
+a. In assessing Sanofi's liability under s. 8, is Sanofi's liability to be assessed on the basis of a single "but for" world which includes all potential generic manufacturers?
+b. What other generics would likely have come to market during the Relevant Period and when? Specifically, would any or all of Teva, Laboratoire Riva Inc. (Riva) and/or Pharmascience Inc. (Pharmascience or PMS), or an authorized generic have launched during the  <FRAGMENT_SUPPRESSED>  other words, what would have been Apotex's Lost Volumes?
+6. Based on my finding as to Apotex's Lost Volumes, what is Apotex's Lost Gross Sales, having regard to the pricing of Apo-ramipril during the Relevant Period, considering the provincial formularies?
+7. Based on my finding as to Apotex's Lost Volumes, what is Apotex's Net Lost Profits, having regard to relevant matters, including:
+a. sales returns;
+b. likely trade spend (including discounts and allowances) that would have been paid by Apotex to pharmacists and distributors to stock Apo-ramipril;
+c. likely price of the active pharmaceutical ingredient (API); and
+d. other potential adjustments?
+8. Is a second person entitled to recover under s. 8 of the
+Regulations
+for lost sales that would have been made as a result of prescriptions that were aimed at unapproved indications?
+IV. Essential Background
+A.
+Statutory framework under the PM (NOC) Regulations
+[13]
+This action arises solely out of the operation of the
+PM (NOC) Regulations
+. Quite simply, Apotex was kept off the market for a period of time by the actions of Sanofi that were ultimately found to be unsustainable. In his decision in
+ <FRAGMENT_SUPPRESSED>  [
+Alendronate (FC)
+], Justice Hughes provides a comprehensive history and rationale of the
+Regulations
+and s. 8, in particular. Although the decision in
+Alendronate (FC)
+was overturned in part by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> , rev'g 2008 FC 1185, leave to appeal to SCC refused [2009] SCCA No 347 [
+Alendronate (FCA)
+], Justice Hughes's description of the background to the
+PM (NOC) Regulations
+remains a valuable tool. Rather than restate this history here, I commend the identified passages to the reader.
+[14]
+The damages suffered by Apotex are statutory in that they arise only because of the operation of s. 8 of the
+PM (NOC) Regulations
+. The liability of Sanofi, in this case, is better understood if s. 8 is examined in the context of the entire statutory scheme. I will provide a brief overview of the statutory scheme that gives rise to Apotex's claim. Ms. Anne Bowes, the Director of the Office of Patented Medicines and Liaison Therapeutic Products Directorate, Health Canada, was helpful in explaining the operation of the applicable regulations and policies engaged on the facts of this case.
+[15]
+Before a pharmaceutical company can market a prescription drug in Canada, it must comply with the provisions of the
+Food and Drug Regulations
+, CRC, c 870 [
+F&D Regulations
+]. Section C.08.002 of the
+F&D Regulations
+provides, in part that:
+(1) No person shall sell or advertise a new drug unless
+(
+a
+) the manufacturer of the new drug has filed with the Minister a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission relating to the new drug that is satisfactory to the Minister;
+(
+b
+) the Minister has issued, under section C.08.004 or C.08.004.01, a notice of compliance to the manufacturer of the new drug in respect of the submission;
+(1) Il est interdit de vendre ou d'annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies:
+a) le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel que celui-ci juge acceptable;
+b) le ministre a délivré au fabricant de la drogue nouvelle, en application des articles C.08.004 ou C.08.004.01, un avis de conformité relativement à la présentation;
+[16]
+As provided for in s. C.08.002(1)(a) of the
+F&D Regulations
+, anyone who wishes to sell a drug in Canada must submit, to the Minister of Health (through Health Canada), either a new drug submission (NDS) or an abbreviated new drug submission (ANDS). An NDS is filed by an innovative drug company, or "first person", seeking approval to market a new drug product. In contrast and in very general terms, an ANDS is filed by a generic manufacturer, or "second person", that wishes to market a generic version of a drug that has already been approved. The second person may rely on much of the technical, health and safety information originally filed as part of the NDS by the first person. In other words, it may compare its drug with, or make reference to, a brand name drug (
+F&D Regulations
+, above at s. C.08.002.1.(1)).
+[17]
+An essential element of the regulatory scheme is the "Patent Register". The
+PM (NOC) Regulations
+allow an innovator who has filed an NDS or a supplement to a new drug submission (SNDS) to submit a list of the associated patents to the Minister of Health (Minister) for inclusion on the register of patents (Patent Register or Register) (s. 4(1)). The
+Regulations
+require that the Minister maintain a register of all listed patents (s. 3(2)). Subsections 4(2) and (3) of the
+Regulations
+describe the eligibility requirements for listing.
+[18]
+If a patent is listed on the Patent Register, s. 5 of the
+PM (NOC) Regulations
+provides that the second person, with respect to each patent on the Patent Register, must, in its application for an NOC:
+• state that it accepts that the NOC will not issue until the patent expires (s. 5(1)(a)); or
+• allege that:
+o the first person is not the patentee or licensee of the listed patent (s. 5(1)(b)(I));
+o the patent has expired (s. 5(1)(b)(ii));
+o the patent is not valid (s. 5(1)(b)(iii)); or
+o the second person will not infringe the listed patent (s. 5(1)(b)(iv)).
+The second person identifies its election on the Form V submitted with its application.
+[19]
+If a second person alleges that an NOC should issue in spite of the listed patents, it must serve a notice of allegation on the first person (
+Regulations
+, above at s. 5(3)). The first person may, within 45 days after service, apply to the Federal Court for an order prohibiting the Minister from issuing an NOC until the expiration of a patent that is the subject of the notice of allegation (
+Regulations
+, above at s. 6(1)).
+[20]
+The specific circumstances during which the Minister may not issue the NOC are dealt with in s. 7(1) of the
+PM (NOC) Regulations
+. Of relevance to these proceedings, the Minister may not issue an NOC to a second person before the latest of:
+• the day on which the second person complies with the requirements of s. 5 (s. 7(1)(b));
+• the expiration of any patent on the Register that is not the subject of an allegation (s. 7(1)©);
+• the expiration of 45 days after the receipt of proof of service of a notice of allegation under paragraph 5(3)(a) in respect of any patent on the Register (s. 7(1)(d));
+• the expiration of 24 months after the receipt of proof of the making of any application under s. 6(1) (s. 7(1)(e)); and
+• the expiration of any patent that is the subject of an order of prohibition pursuant to s. 6(1) (s. 7(1)(f)).
+[21]
+Regardless of the election made by a second person under s. 5(1) of the
+Regulations
+, Health Canada will process the application for all health and safety considerations and will assign a drug identification number (DIN) (
+F&D Regulations
+, above at s. C.01.014.2.(1)). However, no NOC will be issued until the relevant patents on the Patent Register either expire (assuming an election to await expiry) or until all such patents have been addressed through the
+PM (NOC) Regulations
+process. The day on which a generic drug product would have otherwise received its NOC is called the "patent hold date".
+[22]
+The 24 months referred to in s. 7(1)(e) of the
+Regulations
+is referred to as a "statutory stay" or "automatic stay"; the Minister is enjoined for a period of up to 24 months from issuing the NOC while the first person pursues its rights in the Federal Court.
+[23]
+After hearing the application, the court may dispose of an innovator's prohibition application in several ways. First, if the court finds that none of the generic's allegations are justified, it must issue an order prohibiting the Minister from issuing an NOC to the generic (
+Regulations
+, above at s. 6(2)). In that case, the generic will not receive its NOC until patent expiry (unless the decision of the Federal Court is overturned on appeal).
+[24]
+Alternatively, the court may dismiss the innovator's application in whole or in part (
+Regulations
+, above at s. 6(5)), or the application may be withdrawn or discontinued by the first person. If an application is dismissed, withdrawn, or discontinued, the generic will quickly receive its NOC. Most relevant to this case, the generic will also be able to invoke s. 8 of the
+Regulations
+. Section 8 allows a generic to bring an action against an innovator for compensation for the period it was kept off the market as a result of the innovator's unsuccessful prohibition application.
+[25]
+The full text of s. 8 is set out below:
+8. (1) If an application made under subsection 6(1) is withdrawn or discontinued by the first person or is dismissed by the court hearing the application or if an order preventing the Minister from issuing a notice of compliance, made pursuant to that subsection, is reversed on appeal, the first person is liable to the second person for any loss suffered during the period
+(
+a
+) beginning on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of these Regulations, unless the court concludes that
+(I) the certified date was, by the operation of An Act to amend the Patent Act and the Food and Drugs Act (The Jean Chrétien Pledge to Africa), chapter 23 of the Statutes of Canada, 2004, earlier than it would otherwise have been and therefore a date later than the certified date is more appropriate, or
+(ii) a date other than the certified date is more appropriate; and
+(
+b
+) ending on the date of the withdrawal, the discontinuance, the dismissal or the reversal.
+(2) A second person may, by action against a first person, apply to the court for an order requiring the first person to compensate the second person for the loss referred to in subsection (1).
+(3) The court may make an order under this section without regard to whether the first person has commenced an action for the infringement of a patent that is the subject matter of the application.
+(4) If a court orders a first person to compensate a second person under subsection (1), the court may, in respect of any loss referred to in that subsection, make any order for relief by way of damages that the circumstances require.
+(5) In assessing the amount of compensation the court shall take into account all matters that it considers relevant to the assessment of the amount, including any conduct of the first or second person which contributed to delay the disposition of the application under subsection 6(1).
+(6) The Minister is not liable for damages under this section.
+8. (1) Si la demande présentée aux termes du paragraphe 6(1) est retirée ou fait l'objet d'un désistement par la première personne ou est rejetée par le tribunal qui en est saisi, ou si l'ordonnance interdisant au ministre de délivrer un avis de conformité, rendue aux termes de ce paragraphe, est annulée lors d'un appel, la première personne est responsable envers la seconde personne de toute perte subie au cours de la période:
+a) débutant à la date, attestée par le ministre, à laquelle un avis de conformité aurait été délivré en l'absence du présent règlement, sauf si le tribunal conclut:
+(I) soit que la date attestée est devancée en raison de l'application de la Loi modifiant la Loi sur les brevets et la Loi sur les aliments et drogues (engagement de Jean Chrétien envers l'Afrique), chapitre 23 des Lois du Canada (2004), et qu'en conséquence une date postérieure à celle-ci est plus appropriée,
+(ii) soit qu'une date autre que la date attestée est plus appropriée;
+b) se terminant à la date du retrait, du désistement ou du rejet de la demande ou de l'annulation de l'ordonnance.
+(2) La seconde personne peut, par voie d'action contre la première personne, demander au tribunal de rendre une ordonnance enjoignant à cette dernière de lui verser une indemnité pour la perte visée au paragraphe (1).
+(3) Le tribunal peut rendre une ordonnance aux termes du présent article sans tenir compte du fait que la première personne a institué ou non une action en contrefaçon du brevet visé par la demande.
+(4) Lorsque le tribunal enjoint à la première personne de verser à la seconde personne une indemnité pour la perte visée au paragraphe (1), il peut rendre l'ordonnance qu'il juge indiquée pour accorder réparation par recouvrement de dommages-intérêts à l'égard de cette perte.
+(5) Pour déterminer le montant de l'indemnité à accorder, le tribunal tient compte des facteurs qu'il juge pertinents à cette fin, y compris, le cas échéant, la conduite de la première personne ou de la seconde personne qui a contribué à retarder le règlement de la demande visée au paragraphe 6(1).
+(6) Le ministre ne peut être tenu pour responsable des dommages-intérêts au titre du présent article.
+B.
+Ramipril patents
+[26]
+Sanofi, either as patentee or licensee, holds the rights to a series of Canadian patents that include claims to ramipril or its uses. The initial patent was Canadian Patent No. 1,187,087 (the '087 Patent), a product-by-process patent for ramipril, issued May 14, 1985. The '087 Patent was set to expire on May 14, 2002, after 17 years of patent protection. Sanofi, in efforts to extend patent protection for ramipril, proceeded to obtain a further series of patents and protect those patents through listings on the Patent Register. Sanofi describes these subsequent patents and the measures it took, through litigation and under the
+PM (NOC) Regulations
+, as "Altace Lifecycle Management" (Exhibit 89, Tab 373 at 23). Others - including generic manufacturers - have referred to the subsequent patents as "evergreening".
+[27]
+The following chart describes those subsequent patents involving ramipril or its uses and identifies when each patent was listed on the Patent Register:
+Canadian Patent No.
+Issue Date
+Patent Register Listing
+Subject Matter/Indications
+1,246,457 (the '457 Patent)
+December 13, 1988 (expired December 13, 2005)
+February 21, 2001
+Ramipril for the treatment of cardiac insufficiency
+1,341,206 (the '206 Patent)
+March 20, 2001
+April 11, 2001
+Composition-of-matter patent
+2,055,948 (the '948 Patent)
+November 12, 2002
+June 25, 2004
+Use of ramipril together with a calcium antagonist for the treatment of proteinuria
+2,023,089 (the '089 Patent)
+January 14, 2003
+November 10, 2003
+Use of ramipril in the treatment of cardiac and vascular hypertrophy and hyperplasia
+2,382,549 (the '549 Patent)
+March 15, 2005
+March 17, 2005
+Use of ramipril in the prevention of cardiovascular events
+2,382,387 (the '387 Patent)
+June 21, 2005
+June 28, 2005
+Use of ramipril in the prevention of stroke, diabetes and/or congestive heart failure
+[28]
+The '549 and '387 Patents are referred to, collectively, as the HOPE Patents after the Heart Outcomes Prevention Evaluation study (HOPE study), discussed in more detail below.
+C.
+Apotex's regulatory submissions and litigation
+[29]
+Between July 2003 and May 2008, Apotex was continuously engaged in litigation under the
+PM (NOC) Regulations
+with respect to ramipril. The chart that follows describes this history:
+Patent No.
+Notice of Allegation
+Notice of Application/Court File No.
+Outcome
+'206 Patent
+June 20, 2003
+September 23, 2003/T-1742-03
+Mactavish J. dismisses on September 20, 2005 (
+ <FRAGMENT_SUPPRESSED>  FTR 1 [
+Ramipril NOC #1 (FC)
+])
+'457 Patent
+August 20, 2003 (non-infringement)
+October 8, 2003/T-1851-03
+Simpson J. issues Prohibition Order until expiry of '457 Patent on October 6, 2005
+Ramipril NOC #2 (FC)
+'457 Patent
+November 10, 2003 (invalidity)
+December 29, 2003/T-2459-03
+Tremblay-Lamer J. dismisses on November 4, 2005 (
+ <FRAGMENT_SUPPRESSED>  FTR 171 [
+Ramipril NOC #3 (FC)
+])
+'089 Patent
+November 17, 2003
+January 5, 2004/T-11-04
+von Finckenstein J. dismisses on October 27, 2005 (
+ <FRAGMENT_SUPPRESSED>  FTR 1 [
+Ramipril NOC #4
+(FC)
+])
+'948 Patent
+June 28, 2004
+August 16, 2004/T-1499-04
+Order of Dismissal, on Consent, dated on June 27, 2006 [
+Ramipril NOC #5 (FC)
+]
+'549, '387 Patents (HOPE Patents)
+November 29, 2005
+January 17, 2006/T-87-06
+By Order, Aalto P. dismisses as moot on May 2, 2008 [
+Ramipril NOC #6 (FC)
+]
+[30]
+Even though Justice Mactavish, in
+Ramipril NOC #1 (FC)
+, dismissed Sanofi's Notice of Application in respect of the '206 Patent, there were other patents on the Patent Register that needed to be addressed before an NOC could be issued to Apotex. In particular, Apotex had to clear the hurdles caused by Sanofi's decision to commence prohibition proceedings with respect to the '457, '089, '948, '549 and '387 Patents.
+[31]
+Ultimately, and as a result of the decision of the Supreme Court of Canada in
+AstraZeneca Canada lnc v Canada (Minister of Health)
+, 2006 SCC 49, [2006] 2 SCR 560 [
+AstraZeneca (SCC)
+], the Minister of Health determined that Apotex did not need to address the HOPE Patents. An NOC was issued to Apotex on December 12, 2006.
+[32]
+The following day, Sanofi filed an application for judicial review (T-2196-06), seeking, among other things, an order quashing the decision to issue an NOC to Apotex, an order prohibiting the issuance of an NOC to Apotex, a declaration that the Minister had misinterpreted
+AstraZeneca (SCC)
+and s. 5(1) of the
+PM (NOC) Regulations
+, and an interim order pursuant to s. 18.2 of the
+Federal Courts Act
+, RSC 1985, c F-7, staying the effect of the decision to issue the NOC. In an Interlocutory Order dated December 29, 2006, Justice von Finckenstein granted the stay. The Order stayed the operation of the NOC and required Apotex and the Minister to comport themselves as if the NOC had not been issued. A stay of Justice von Finckenstein's Order was granted on January 8, 2007 by the Court of Appeal (
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 402), thereby removing any impediment to the operation of the NOC which had issued on December 12, 2006. Other than the short period between Justice von Finckenstein's Order on December 29, 2006 and the Court of Appeal's stay of that Order on January 8, 2007, Apotex's NOC has been in full force and effect since December 12, 2006.
+[33]
+At the end of the litigation, Sanofi was only ever successful in one proceeding; that is,
+Ramipril NOC #2 (FC)
+, where Justice Simpson issued an Order of Prohibition to be in force until the expiry of the '457 Patent. Apotex commenced an appeal of that decision (Court of Appeal File No. A-494-05), which appeal was discontinued on October 13, 2006.
+[34]
+To provide a complete picture, it should be noted that Apotex was not the only company challenging the "evergreening patents"; beginning in February 2003 and continuing up to December 2006, Pharmascience, Riva, Teva, Cobalt Pharmaceuticals Inc. (Cobalt) and Sandoz Canada Inc. served notices of allegation. In each and every case, except for Cobalt's notice of allegation in August 2006, Sanofi chose to commence prohibition applications under the
+Regulations
+.
+[35]
+After its loss in
+Ramipril NOC #1 (FC)
+, Sanofi commenced an action against Apotex claiming that Apotex had infringed the '206 Patent (Court File No. T-161-07). In a decision dated June 29, 2009, this Court dismissed the action and a companion action against Teva (then Novopharm Inc.), in Court File No. T-1161-07, and declared the '206 Patent to be invalid (
+ <FRAGMENT_SUPPRESSED>  FTR 165). This decision was affirmed by the Court of Appeal (
+ <FRAGMENT_SUPPRESSED>  NR 196). At the time of writing, Sanofi's application for leave to appeal to the Supreme Court of Canada remains pending.
+[36]
+This discussion of the statutory framework, the ramipril patents and the relevant NOC proceedings forms the context for these Reasons for Decision.
+V. Relevant Period
+[37]
+A critical determination for the Court is the commencement and end dates of the Relevant Period. The parties do not agree on either the beginning or the end date for the Relevant Period.
+A.
+Commencement date
+[38]
+As set out in s. 8(1)(a) of the
+PM (NOC) Regulations
+, a first person (Sanofi) is liable to a second person (Apotex) for any loss suffered during the period:
+(a) beginning on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of these Regulations, unless the court concludes that
+. . .
+(ii) a date other than the certified date is more appropriate ...
+a)
+débutant à la date, attestée par le ministre, à laquelle un avis de conformité aurait été délivré en l'absence du présent règlement, sauf si le tribunal conclut:
+. . .
+(ii) soit qu'une date autre que la date attestée est plus appropriée;
+[39]
+In
+Alendronate (FC)
+, above at paragraphs 106-116, Justice Hughes explained that s. 8 thus gives the Court discretion to select a more appropriate date for the beginning of the liability period, although the presumptive period begins on the patent hold date.
+[40]
+Here, the parties appear to agree that "the date, as certified by the Minister, on which a notice of compliance would have been issued" is April 26, 2004. This patent hold date is set out in a letter dated April 29, 2004 from Health Canada to Apotex (Exhibit 1, Tab 2). Apotex submits that this should be the date used for the commencement of the Relevant Period. Sanofi disagrees, arguing that December 13, 2005 is the appropriate date for the commencement of the Relevant Period.
+[41]
+Sanofi's argument is founded on the existence of a Prohibition Order of Justice Simpson arising from her decision in
+Ramipril NOC #2 (FC)
+. The Prohibition Order prohibited the Minister from issuing an NOC to Apotex until the expiry of the '457 Patent. Since the application upon which the Prohibition Order was based was never withdrawn, discontinued, dismissed or reversed on appeal, Sanofi claims that Apotex cannot allege that it has a s. 8 claim in respect of this application. Sanofi's principal argument is that I cannot ignore the Prohibition Order. Based on that Order, regardless of what transpired with respect to other notices of application, Apotex would not have been able to come to market until December 13, 2005, when the '457 Patent expired.
+[42]
+I do not accept Sanofi's arguments on this point. In light of the subsequent decision of Justice Tremblay-Lamer in
+Ramipril NOC #3 (FC)
+, the Prohibition Order of Justice Simpson had, in my view, no effect on either the issuance of an NOC to Apotex or Apotex's s. 8 claim. This is due to the unusual facts of this case.
+[43]
+As set out above, Apotex served a first notice of allegation with respect to the '457 Patent, alleging non-infringement, in August 2003. In response, Sanofi commenced a prohibition application in Court File No. T-1851-03. On October 6, 2005, in
+Ramipril NOC #2 (FC)
+, Justice Simpson found that Apotex's allegation of non-infringement was not justified and issued the Prohibition Order, prohibiting the Minister from issuing an NOC to Apotex until after the expiry of the '457 Patent. Apotex commenced an appeal of Justice Simpson's Order, but abandoned it in October 2006, following the expiry of the '457 Patent.
+[44]
+In November 2003, Apotex served a second notice of allegation with respect to the '457 Patent, this time alleging invalidity. On December 29, 2003, Sanofi commenced a prohibition application in Court File No. T-2459-03. On November 4, 2005, in
+Ramipril NOC #3 (FC)
+, Justice Tremblay-Lamer dismissed Sanofi's application, concluding that Apotex's invalidity allegation based on obviousness was justified. Sanofi appealed.
+[45]
+The '457 Patent then expired, and Apotex moved to dismiss Sanofi's appeal on the ground of mootness. Apotex's arguments found favour with the Court of Appeal which, in
+ <FRAGMENT_SUPPRESSED>  NR 316 [
+Ramipril NOC #3
+(FCA)
+], dismissed the appeal as moot. Moreover, the Court of Appeal refused to exercise its discretion to hear the appeal in any event, because Sanofi had failed to show that the decision would have any practical effect.
+[46]
+In support of its assertion that Apotex could not have entered the market prior to the expiration of the '457 Patent, Sanofi relies on the words of the Court of Appeal in
+Ramipril NOC #3 (FCA)
+, above at paragraph 20, where the court stated, "Simpson J.'s prohibition order has remained in effect until the expiration of the '457 patent". Sanofi's reliance on this sentence, however, ignores the context of that decision. Apotex brought its motion to dismiss Sanofi's appeal
+after
+the expiry of the '457 Patent. In
+Ramipril NOC #3 (FCA)
+, the court was
+not
+asked to rule on whether the Prohibition Order was enforceable or of practical effect
+before
+the expiry of the '457 Patent, because of Justice Tremblay-Lamer's decision in
+Ramipril NOC #3 (FC)
+. When the Court of Appeal stated that the Prohibition Order "remained in effect", it was not expressing any opinion on the enforceability of the Order after the decision in
+Ramipril NOC #3 (FC)
+. That is the precise question before me.
+[47]
+In my view, the second '457 Patent decision in
+Ramipril NOC #3 (FC)
+effectively "unlocked" the door for Apotex to receive an NOC vis-à-vis that particular patent. The logical result was that the first decision was subsumed or "trumped" by the second. As of the decision of Justice Tremblay-Lamer, Apotex had addressed the '457 Patent; the Prohibition Order of Justice Simpson was no longer enforceable or of any practical effect.
+[48]
+Stated differently, although Justice Simpson's Prohibition Order regarding Apotex's allegation of non-infringement of the '457 Patent was neither a nullity nor void
+ab initio
+, as a result of Justice Tremblay-Lamer's subsequent finding that Apotex's allegation of invalidity was justified, the Prohibition Order nonetheless could not be acted upon. In particular, it cannot be used as a basis for holding that Apotex could not have entered the market until after the expiry of the '457 Patent.
+[49]
+The logic of this result is reinforced when one considers what the outcome would have been if Apotex had served one notice of allegation raising both its non-infringement and invalidity allegations. Had that happened, a court would have likely found that:
+• the allegation of non-infringement was not justified (as Justice Simpson found); and
+• the allegation of invalidity was justified (as Justice Tremblay-Lamer concluded).
+Even though Apotex would likely have been unsuccessful on one of its allegations, Sanofi's Application would have been dismissed. There would have been no Prohibition Order.
+[50]
+There is no principled reason why the result should be any different just because Apotex served and pursued two notices of allegation rather than one.
+[51]
+Sanofi argues that Apotex, having pursued two separate notices of allegation in respect of the '457 Patent, should live with the result of its litigation strategy. This argument is without merit. Certainly, it would have been more efficient to serve one notice alleging both non-infringement and invalidity. However, this inefficiency does not mean that the Prohibition Order remains in force and effect until the expiry of the '457 Patent. Indeed, one could argue that Sanofi's litigation strategy in responding to the second notice of allegation - which turned out to be without merit -contributed to or even caused the "mess" that we are now in. Apotex's litigation strategy is not to blame for Sanofi's unsuccessful challenge to the second '457 allegation.
+[52]
+Both parties put forward case law that they argue supports their respective positions. The problem, of course, is that none of the jurisprudence directly answers the question of the enforceability of a "prohibition order" after a subsequent application is dismissed with respect to the same patent.
+[53]
+For its part, Apotex points to several cases which it says support the proposition that a second person who has been prohibited on one notice of allegation may receive an NOC if it succeeds on a subsequent, discrete allegation. In this regard, Apotex places the most reliance on the decision in
+ <FRAGMENT_SUPPRESSED>  [
+Nizatidine
+]. While
+Nizatidine
+is authority for the proposition that a prohibition order "must be confined to the specific allegations advanced in those proceedings" (
+Nizatidine
+, above at para 24), that case does not directly address the practical effect of an earlier prohibition order with respect to the same patent, as the first notice of allegation in
+Nizatidine
+was based on non-infringement due to a licence, while the second alleged a non-infringing process. Apotex's reliance on the decisions regarding the drug norfloxacin, which are summarized in
+ <FRAGMENT_SUPPRESSED> FTR 137 [
+Norfloxacin (FC)
+], is similarly wide of the mark. In particular, and as Apotex acknowledged in argument, none of those decisions explicitly considered the effect of a prohibition order on a subsequent notice of allegation.
+[54]
+Sanofi relies on
+ <FRAGMENT_SUPPRESSED>  NR 372 [
+AB Hassle
+]. In that case, both the Federal Court and the Court of Appeal held that Apotex could not use its success in a third NOC case to set aside two prohibition orders in prior NOC cases, involving different patents. In other words, a second person cannot "unlock" the NOC door until and unless all patents are addressed.
+AB Hassle
+was a situation where the extant prohibition orders were in respect of different patents for the same drug; the second person had failed to address those different patents. That is not the same - despite Sanofi's arguments to the contrary - as the situation where the subsequent dismissal is in respect of exactly the same patent that is the subject of the prohibition order. In the case before me, Apotex "unlocked" the door by fully addressing the '457 Patent in a subsequent proceeding; there were no prohibition orders with respect to other patents.
+[55]
+In sum on this point, I conclude that the Prohibition Order, as of the date of
+Ramipril NOC #3 (FC)
+, could not have prevented Apotex from obtaining an NOC with respect to the '457 Patent. It follows that December 13, 2005 is not an appropriate date for the commencement of the Relevant Period. I find that April 26, 2004, the date of the "patent hold", is the appropriate date to begin the liability period.
+B.
+End date
+[56]
+I now turn to a discussion of the proper "end date" for the Relevant Period. As set out in s. 8(1)(b), a first person is liable to a second person "for any loss suffered during the period . . . ending on the date of the withdrawal, the discontinuance, the dismissal or the reversal". The drafters of the
+Regulations
+may have contemplated a much simpler scenario than has been placed before me. In the "normal" circumstances, the NOC would issue as soon as an application for prohibition is "withdrawn or discontinued by the first person or is dismissed by the court hearing the application".
+[57]
+Here, there are five different dismissal dates relating to five separate prohibition applications. This case also presents the very unusual situation in which the second person received an NOC prior to the disposition of the last prohibition proceeding.
+[58]
+The parties disagree on the question of the end date. Apotex would like me to conclude that the Relevant Period ends on May 2, 2008; Sanofi argues that June 27, 2006 is the correct end date. For the reasons explained below, neither Apotex's nor Sanofi's preferred date can be accepted. The Relevant Period must end on December 12, 2006.
+(1) Apotex's date: May 2, 2008
+[59]
+Apotex submits that the Relevant Period ends on May 2, 2008, that being the date of the dismissal of the last prohibition proceeding in
+Ramipril NOC #6 (FC)
+. In Apotex's view, "[t]he plain wording of section 8 entitles Apotex to claim its damages to this date".
+[60]
+The sequence of events in the ramipril history under the Regulations led to some unusual results. As described in Part IV.C of these Reasons, Apotex filed its sixth and final notice of allegation with respect to ramipril and the HOPE Patents on November 29, 2005. Sanofi commenced prohibition proceedings on January 17, 2006 (Court File No. T-87-06). On December 8, 2006, the Minister advised Apotex that Apotex was not required to address the HOPE Patents. However, the Minister determined that Apotex could not receive an NOC until Apotex had disposed of the prohibition proceeding in T-87-06, as the Minister held that he remained bound by the 24-month stay imposed by the
+Regulations
+(Exhibit 37, Tab 11). On December 12, 2006, after receiving representations from counsel for both Apotex and Sanofi, the Minister decided that Apotex was "no longer considered to be a 'second person'" in respect of the HOPE Patents, and that therefore s. 7 of the
+Regulations
+was "not applicable to prohibit the issuance of the NOC". Apotex accordingly received an NOC for Apo-ramipril on December 12, 2006, and proceeded to launch its product following a brief delay (described earlier in these Reasons). However, the prohibition application in T-87-06 was not technically disposed of until May 2, 2008, when, upon motion by Sanofi, Prothonotary Aalto dismissed the application (
+Ramipril NOC #6 (FC)
+).
+[61]
+As correctly pointed out by Apotex, s. 8(1)(b) of the
+Regulations
+requires that the liability period end on the date of the dismissal (or withdrawal, discontinuance, or reversal) of the relevant prohibition application. In
+Alendronate (FC)
+, above at paragraphs 106-109, Justice Hughes observed that, although s. 8(1)(a) allows the Court to choose a more appropriate date for the beginning of the liability period, s. 8(1)(b) does not give the Court any discretion to choose an end date other than "the date of the withdrawal, the discontinuance, the dismissal or the reversal". In this case, Apotex argues that the end date is May 2, 2008, the date on which T-87-06 was dismissed. I do not agree.
+[62]
+In his Order (
+Ramipril NOC#6 (FC)
+), Prothonotary Aalto concluded that the underlying prohibition application in respect of the HOPE Patents was moot as of the date of the issuance of the NOC to Apotex. As stated by Prothonotary Aalto, "[t]here is little doubt that this Application is moot and became moot when the NOC was issued to Apotex". Stated differently, the prohibition application was effectively dismissed as of that date.
+[63]
+Moreover, May 2, 2008, being the date of
+Ramipril NOC#6 (FC)
+, has no rational meaning within the context of the
+Regulations
+. It is merely an arbitrary date on which Prothonotary Aalto dealt with a motion before him. This order could just as easily have been brought on December 13, 2006 or as late as today. Nothing changes the fact that the prohibition application became moot on December 12, 2006. Even if a motion for dismissal had never been brought, I cannot imagine that the situation would be any different. Surely, Sanofi's liability does not stretch to infinity merely because neither party thought to bring a motion in respect of a matter that had become moot.
+[64]
+Thus, for the purposes of s. 8(1)(b) of the
+Regulations
+, December 12, 2006 - and not May 2, 2008 - must be considered to be the date of dismissal of the prohibition application.
+(2) Sanofi's date: June 27, 2006
+[65]
+Sanofi argues that the end date of the Relevant Period should be June 27, 2006, on the basis that Apotex ceased to be a second person as of that date.
+[66]
+The ability to claim damages under s. 8 of the
+Regulations
+is undeniably linked to a claimant being a "second person" under the
+Regulations
+. Subsection 8(1) states that the first person's liability is "to the second person". Under s. 8(2), a "second person" may apply to the court for an order requiring the first person to compensate "the second person for the loss referred to in [s. 8(1)]".
+[67]
+Sanofi submits that, with respect to NOC proceedings related to the HOPE Patents (T-87-06), Apotex was
+never
+a second person. Accordingly, it argues, Apotex can have no claim under s. 8(1) related to any period involving the NOC proceedings in T-87-06. Accepting that Apotex was a second person for all other patents on the Patent Register, Sanofi then asserts that Apotex ceased to be a second person as of the date of the dismissal of the final prohibition application where it was a second person; that was on June 27, 2006, the date when the prohibition application related to the '948 Patent was dismissed (
+Ramipril NOC#5 (FC)
+).
+[68]
+This argument amounts to an assertion that the HOPE Patent NOC Proceedings were void
+ab initio
+and is founded on Sanofi's interpretation of the jurisprudence in
+AstraZeneca (SCC)
+and
+ <FRAGMENT_SUPPRESSED> , aff'd 2007 FCA 276 [ <FRAGMENT_SUPPRESSED> ].
+[69]
+Contrary to the submissions of Sanofi, neither
+AstraZeneca (SCC)
+nor <FRAGMENT_SUPPRESSED> goes so far as to declare that Apotex was never a second person or that the HOPE proceedings were void
+ab initio
+.
+[70]
+The question before the Supreme Court in
+AstraZeneca (SCC)
+was whether the
+Regulations
+required a generic manufacturer to address patents on the Patent Register that had been listed subsequent to the drug "copied" by the generic manufacturer (in that case, Apotex). In concluding that the later patents did not need to be addressed, Justice Binnie stated at paragraph 39 that:
+In my view, s. 5(1) of the
+NOC Regulations
+requires a patent-specific analysis, i.e. the generic manufacturer is only required to address the cluster of patents listed against submissions relevant to the NOC that gave rise to the comparator drug, in this case the 1989 version of
+Losec 20
+.
+[71]
+The Supreme Court was not asked to consider, nor did it consider, whether its decision would strip Apotex of its claim to damages under s. 8. Nor did the Supreme Court declare that Apotex was never a second person or that the prohibition application initiated by Astrazeneca was void
+ab initio
+. In effect, all that the Supreme Court decided was that the Minister could issue an NOC to Apotex.
+[72]
+In <FRAGMENT_SUPPRESSED> , Justice Hughes was faced with five separate applications for judicial review, all of which dealt with actions taken by the Minister following the release of
+AstraZeneca (SCC)
+, above. In addition to ruling on the five individual applications for judicial review of the Minister's decisions, Justice Hughes provided general remarks on the application of
+AstraZeneca (SCC)
+; in other words, he provided further guidance on when a generic manufacturer was obligated to address a patent on the Patent Register. In his decision, Justice Hughes framed the question in terms of when a generic is a "second person" for the purposes of s. 5(1) of the
+Regulations
+. For example, at paragraph 61, he states:
+If section 5(1) is not triggered, then the generic is not a "second person" and is not required to file a notice of allegation. The
+NOC Regulations
+do not come into play. The Supreme Court said [in
+AstraZeneca (SCC)
+], at paragraph 41 of its Reasons:
+41. However, it is clear that AstraZeneca did not market any product pursuant to the subsequent NOCs and that the preconditions to any obligations of Apotex under s. 5(1) were therefore not triggered.
+[Emphasis in original]
+[73]
+I acknowledge that <FRAGMENT_SUPPRESSED> appears to support Sanofi's view. However, I think that <FRAGMENT_SUPPRESSED> unnecessarily frames the issue in
+AstraZeneca (SCC)
+(i.e. whether a generic needs to address a subsequently listed patent) in terms of whether the generic is a "second person". In particular, at paragraph 26 of <FRAGMENT_SUPPRESSED> , Justice Hughes states that a generic will be placed on "patent hold" until it has either successfully dealt with the listed patents, the patents expire, or "as
+AstraZeneca
+points out, the generic can demonstrate that it is not a 'second person' as described in the Regulations and thus does not need to address the patents at all". Again, at paragraphs 59-60, Justice Hughes writes that:
+[59] [...] Section 5(1) of the
+NOC Regulations
+are specific in stating that a person is only required to take steps to issue a notice of allegation to the innovator who has listed patents (thus become a "second person") if:
+• that person has filed for an NOC;
+• that person has compared reference or made reference to another drug;
+• for the purposes of demonstrating bioequivalence;
+• and that other drug has been marketed in Canada pursuant to an NOC; and
+• there is a patent list pertinent to that NOC.
+[60] These requirements are cumulative. Thus, if there is no comparison or reference for the purpose of bioequivalence, section 5(1) is not triggered.
+[74]
+However, the Supreme Court did not frame this as an issue of being a "second person". Rather, Justice Binnie wrote at paragraph 39 that "s. 5(1) of the
+NOC Regulations
+requires a patent-specific analysis, i.e. the generic manufacturer is only required to address the cluster of patents listed against submissions relevant to the NOC that gave rise to the comparator drug".
+[75]
+In <FRAGMENT_SUPPRESSED> , Justice Hughes was not asked to consider, nor did he consider, whether his decision would strip Apotex of its claim to damages under s. 8. Nor did he declare that Apotex was never a second person or that some of the prohibition applications initiated by Ferring Inc. or Sanofi, in that case, were void
+ab initio
+. In effect, all that Justice Hughes decided was whether or not the Minister could issue an NOC in the circumstances.
+[76]
+As I read these two decisions, the impact of
+AstraZeneca (SCC)
+and <FRAGMENT_SUPPRESSED> is two-fold:
+• in respect of newly-initiated submissions for generic drug approval under the
+PM (NOC) Regulations
+, a generic manufacturer is no longer required to address certain patents on the Patent Register; in which case, it will never be a second person vis-à-vis those patents; and
+• for prohibition applications commenced before the decisions in
+AstraZeneca (SCC)
+and <FRAGMENT_SUPPRESSED> , and where certain patents on the Patent Register do not now need to be addressed, the generic will immediately receive its NOC (assuming that all other relevant patents have been addressed), in which case, it will cease being a second person upon the issuance of the NOC.
+In no way do I interpret
+AstraZeneca (SCC)
+and <FRAGMENT_SUPPRESSED> as stripping generic manufacturers who have been kept off the market due to the actions of a brand company of their right to claim s. 8 damages.
+[77]
+While Apotex raised the additional argument that the doctrines of election and estoppel apply to prevent Sanofi from arguing that Apotex was not a second person, I do not need to consider this argument given my conclusion that Apotex was a second person in relation to the HOPE Patents.
+[78]
+I also note that Apotex was treated by the Minister as a second person in relation to the HOPE Patents until December 12, 2006, when the Minister decided to issue an NOC to Apotex. The Minister's letter of December 8, 2006, in which it advised Apotex that it was not required to address the HOPE Patents, does not contain any determination that Apotex was not a "second person". In the Minister's letter of December 12, 2006 the Minister stated simply that Apotex was "
+no longer
+considered to be a 'second person' in respect of the '387 and '549 patents" [emphasis added]. This carefully-worded statement by the Minister is, in my view, a correct interpretation of the teachings of the Supreme Court in
+Astrazeneca (SCC)
+.
+[79]
+Finally, rejecting June 27, 2006 as an end date is consistent with the fact that s. 8 compensates a second person for the loss occasioned by the operation of the statutory stay (see
+Alendronate (FCA)
+, above at para 71). In this case, Apotex did not receive an NOC until December 12, 2006. The dismissal of the proceeding in T-1499-04 on June 27, 2006 did not allow Apotex to enter the market at that time. Accordingly, June 27, 2006 cannot be accepted as the end of the Relevant Period.
+[80]
+In sum, I am satisfied that there are no grounds to support Sanofi's view that June 27, 2006 is the "end date".
+(3) Alternative date: December 12, 2006
+[81]
+Both parties point to December 12, 2006 as an alternative end date for the Relevant Period. Apotex notes that this is the date on which it received an NOC for Apo-ramipril, while Sanofi submits that, if Apotex was a second person, then its status as such terminated when it was no longer required to address the HOPE Patents and received an NOC.
+[82]
+As discussed above, in my view, December 12, 2006 is the correct end date for the Relevant Period.
+C.
+Conclusion on Relevant Period
+[83]
+I find that the Relevant Period for the assessment of Apotex's losses is April 26, 2004 to December 12, 2006.
+VI. Overall Size of the Ramipril Market
+[84]
+Having determined the Relevant Period of April 26, 2004 to December 12, 2006, three major steps remain before I can begin an assessment of Apotex's Lost Profits:
+1. estimate the size of the total ramipril market during the Relevant Period (i.e. the Ramipril Market);
+2. estimate the portion of the Ramipril Market that would have been acquired by generic manufacturers during the Relevant Period (i.e. the Generic Market); and
+3. estimate the share of the Generic Market that would have accrued to Apotex.
+[85]
+The first step requires me to estimate the size of the total ramipril market during this hypothetical period. Stated in different terms, I must estimate the total number of capsules of ramipril that would have been sold by all manufacturers during the Relevant Period. In this task, I was assisted by two economists, Dr. Aidan Hollis (produced by Apotex) and Dr. Robert Carbone (produced by Sanofi). Each of these experts prepared forecasts to estimate the overall Ramipril Market, the share of the market that would have been captured by the generic manufacturers and Apotex's share of that market. Dr. Hollis, in a simple and effective diagram, depicted the general problem as follows:
+[Diagram omitted - see printed version]
+[86]
+In addition, I had the evidence of Dr. Iain Cockburn, whose mandate was, as I see it, to do no more or less than to criticize Dr. Hollis's expert opinion. Dr. Cockburn made no estimates of the size of the Ramipril Market. He had a myriad of criticisms of Dr. Hollis, referred to by Apotex in final argument quite aptly as a "scorched earth attack". Most of Dr. Cockburn's criticisms were addressed during the course of the testimony of all of the experts.
+[87]
+We know what the actual sales for ALTACE were between April 26, 2004 and December 12, 2006. The key question is what impact the entry of generic manufacturers, or "genericization", would have had on those actual sales. Dr. Carbone's opinion on the size of the Ramipril Market reflects a considerable impact of genericization, while Dr. Hollis concludes that the "estimated effect of generic entry on ramipril sales is very modest" (Exhibit 44, vol 1 at para 37).
+[88]
+For each of a series of possible scenarios, Both Dr. Carbone and Dr. Hollis began their tasks using the actual ramipril sales made by Sanofi for the period April 26, 2004 to December 12, 2006. Both experts used a time series forecasting model to estimate the sales that would have been made after December 2006 in the absence of genericization. This enabled the experts to come up with a "generic effect". In his responding report, Dr. Hollis explains the overall approach as follows (Exhibit 47 at para 16):
+[Dr.] Carbone's report and my report take a similar approach in estimating the total ramipril volume during the damages period, had a generic entry taken place in 2004. In order to do this, we both construct a model to predict the likely sales volume of ramipril, had there been no generic entry . . . in December 2006. We then compare these predicted values to the actual values to try to estimate the effect of generic entry on total sales of ramipril.
+[89]
+Although the overall approach of each expert was similar, there were substantial differences in the details of their analyses.
+[90]
+Dr. Carbone's methodology involves four phases:
+•
+Phase One
+: Dr. Carbone uses market data for the period prior to the actual formulary listing of generic ramipril to forecast the size of the ramipril market after December 12, 2006, assuming that no generics ever entered the market.
+•
+Phase Two
+: Dr. Carbone next subtracts the forecasted sales of ramipril after the formulary listing date (the quantity forecasted in Phase One) from actual sales of ramipril after the formulary listing date. He then divides this difference by the forecasted sales. His calculation produces a series of "impact percentages" which represent the impact of generic competition on the size of the ramipril market. The results at this point of the analysis are presented in Table 7 of Dr. Carbone's report. He observes that generic competition reduced the size of the ramipril market over time for all formulations, with the exception of the 1.25 mg strength (Exhibit 94, vol 1 at paras 65-66).
+•
+Phase Three
+: Dr. Carbone constructs an "impact model" using a process called Bass Diffusion modelling (the Impact Model). This technique estimates the change in ramipril sales over time based on how demand reacts to influences on product diffusion such as advertising, media coverage and word of mouth by customers already using the product (Exhibit 94, vol 1 at Appendix J). The purpose of the Impact Model is to predict the (negative) linear trend in ramipril market size based on the impact percentages calculated in Phase Two (see Exhibit 94, vol 1 at Appendix K for the modelling results.)
+•
+Phase Four
+: Dr. Carbone subtracts the values generated by the Impact Model from the size of the ramipril market (without generic competition) forecasted in Phase One. The result is the total forecasted size of the Ramipril Market over the Relevant Period.
+[91]
+Overall, Dr. Carbone concludes that there would be a significant reduction in the size of the Ramipril Market during the Relevant Period. Dr. Carbone attributes much of this reduction to the cessation of promotion by Sanofi (Exhibit 94, vol 1 at paras 67-70). This particular factor, however, may not be as relevant in the case of ramipril as it is in other instances.
+[92]
+While I accept that an innovator will usually stop promoting a product after its genericization, this did not happen immediately or completely in the case of ALTACE. As acknowledged by Mr. Benoit Gravel, Sanofi's vice president of sales, promotion of ALTACE continued until the end of March 2007 - some three months after genericization. In addition, Sanofi introduced a combination formulation - ALTACE HCT - into the market in November 2006 and continued promoting that product after the genericization of ramipril. Dr. Carbone agreed that there would be a benefit to ALTACE sales arising from promotion of ALTACE HCT.
+[93]
+In addition, Dr. Carbone's rationale does not accord with a recently published report of the Patented Medicine Prices Review Board (PMPRB), entitled "The Impact of Generic Entry on the Utilization of the Ingredient", September 2011 (the PMPRB Report) (Exhibit 48). The purpose of the study carried out by the PMPRB was to determine whether, upon genericization, a drug continues to be utilized to the same extent. This is exactly the question that Dr. Carbone and Dr. Hollis addressed in their reports. The authors of the PMPRB Report studied seven top-selling - "blockbuster" - drugs that had lost patent protection in the period between 2000 and 2006. The conclusion of the PMPRB at page 25 was:
+Generally, this research shows that there is very little change in the trend in utilization once the first generic version is launched. Typically the number of claims and market share following generic entry continue the trend established by the brand name under market exclusivity. In most cases the changes in utilization that are identified cannot be directly and/or solely attributable to generic entry. (PMPRB Report, above at 25).
+[94]
+During his oral testimony, Dr. Carbone expressed very negative views of every aspect of the PMPRB Report. I give little weight to his criticisms, most of which were seriously undermined during cross-examination. In any event, I am not relying on the PMPRB Report as the foundation of my decision on the Ramipril Market. Rather, the PMPRB Report simply shows that, directionally, the conclusion of Dr. Hollis is preferable to that of Dr. Carbone.
+[95]
+One of the more significant criticisms of Dr. Carbone's work was of his use of the proprietary "Futurcast" system to forecast the size of the non-genericized ramipril market after December 2006 in Phase One of his analysis. Dr. Hollis opined that, while Futurcast might be perfectly appropriate "to prognosticate into the future", where one is attempting simply to predict future sales of ramipril, the software is not as useful to predict "sales in the past", because it fails to take into account actual information over the Relevant Period that is pertinent to the analysis. This, says Dr. Hollis, "constrains the utility and accuracy of Futurcast" (Exhibit 47 at para 18).
+[96]
+In contrast, Dr. Hollis's approach was much simpler and did not rely on proprietary software.
+[97]
+At this stage of his analysis, Dr. Hollis uses an econometric (regression analysis) model to estimate the Ramipril Market size in the "but for" world pre-December 2006 using nationally aggregated data from the actual ramipril market in and after December 2006. He finds that his model estimates track very closely the actual effects of genericization post-December 2006. Dr. Hollis also performs an "alternative" modelling analysis using time series and provincially disaggregated data as a "check" on his preferred method. In contrast to Dr. Carbone, Dr. Hollis also uses additional available data - including the total volume of sales of other ACE inhibitors -to refine his forecasts.
+[98]
+The simplicity of Dr. Hollis's approach at this stage has much to recommend it. Rather than attempting to construct a complex econometric model that might account for the direct influence of advertising behaviour, diffusion of product information, the introduction of alternative formulations (such as ATLACE HCT) or other explanatory variables, Dr. Hollis uses a relatively simple model based on the assumption that the overall Ramipril Market can be predicted mainly by the time after generic entry. Given the accuracy of this simple model in predicting trends in the real world ramipril market, and absent any apparent differences in the "but for" world that would affect total market size, it is likely unnecessary to include more explanatory variables to create a reliable model.
+[99]
+One potential drawback of Dr. Hollis's approach is that he cannot distinguish the individual causal factors that drive changes in the size of the Ramipril Market. This "drawback", however, is significant only if there is reason to believe that some factor would have operated in the "but for" world that did not operate in the real world, or vice versa. Since the goal here is not to explain market dynamics but to make an accurate quantitative prediction about the "but for" world, I do not see this "drawback" as a reason to reject Dr. Hollis' approach.
+[100]
+Another criticism of Dr. Hollis's analysis was his use of national data. In the face of vigorous cross-examination, Dr. Hollis was clear and consistent in defending his approach. Dr. Hollis explained that the use of national data is appropriate where there is nothing "very different" happening across provinces between the Relevant Period and the time period that was being modelled after December 2006:
+So if there isn't, in fact, a substantial change in what's happening across the provinces, if you expect things are going to be materially the same, there is no reason to add extra complication by worrying about the provinces.
+[101]
+Nonetheless, it is significant that, although Dr. Hollis's estimates closely track real world trends at the aggregate national level, they diverge to a greater degree once they are disaggregated at the provincial level. For example, Dr. Hollis's graphs showing the predicted and actual doses of ramipril for Prince Edward Island and Saskatchewan demonstrate that the "fitted values" tend to be a poorer predictor of the growth of the Ramipril Market post-generic entry at the provincial level than they are at the national level (Exhibit 44, vol 1 at Tab 6).
+[102]
+My final criticism of Dr. Hollis's approach at this stage concerns his explanation of his model's "conservative" estimate of the effect of generic entry on the Ramipril Market (Exhibit 44, vol 1 at para 38):
+In this model, greater sales of other ACE inhibitors is found to increase ramipril sales. Thus, if there is a reduction in promotion of ramipril after generic entry that leads to an increase in sales of other ACE inhibitors, the effect will be to increase the predicted values, relative to actual values. And this will, by definition, increase ... the estimated impact of genericization on ramipril sales.
+[103]
+This explanation, in my view, is entirely speculative. Dr. Hollis has provided no evidence to suggest that a reduction in the promotion of ramipril, if it occurred in the real world, would cause sales of other ACE inhibitors to increase. He offers no justification for presuming that his estimates are conservative on this basis.
+[104]
+Even with the above concerns in mind, I am satisfied that Dr. Hollis's analysis represents a sound approach to predicting the size of the Ramipril Market in the "but for" world. I prefer his model - and hence his results - to quantify the size of the Ramipril Market.
+VII. Size of the Generic Market
+[105]
+Having determined the size of the overall Ramipril Market for the Relevant Period, I must now establish the size of the Generic Market. The notion that generics will acquire a portion of the Ramipril Market is described as "market penetration". Looking at this from Sanofi's perspective, Dr. Carbone referred to this as market "erosion". Stated in different terms, the issue is to determine how ALTACE and generic versions of ramipril would have shared the Ramipril Market.
+[106]
+Once again, Drs. Hollis, Carbone and Cockburn provided expert opinions on this step of the analysis. The different views of the parties on the size of the Generic Market appear to relate to two significant areas: (1) modelling to account for the degree of market penetration; and (2) timing of formulary listings. I will consider each issue in turn.
+A.
+Market penetration
+[107]
+In predicting the size of the Generic Market, Dr. Hollis uses the same conceptual foundation as he applied to determine the size of the Ramipril Market. In other words, Dr. Hollis begins with the presumption that the available observed data from the ramipril market post-generic entry is an accurate predictor of the "but for" world, unless there is good reason to believe that there are significant differences between these two worlds.
+[108]
+Although Dr. Hollis's opinion was harshly criticized, I see little reason to doubt either his approach or his conclusion that the regulatory conditions would have been the same or very similar between the real world and the "but for" world.
+[109]
+Dr. Carbone's prediction of erosion in the "but for" world differs from Dr. Hollis in one significant regard. In particular, Dr. Carbone opines that markets with fewer generic entrants will demonstrate a slower erosion of the brand name manufacturer's market share. The basis of Dr. Carbone's opinion is a multivariate regression analysis set out at Appendix O to his report (see Exhibit 94, vol 1 at Tab O). I agree with Apotex that there are "methodological and logical flaws that make the[se] results difficult to rely upon".
+[110]
+A serious problem that I have with Dr. Carbone's opinion is his use of over 100 "Bass Diffusion" estimations. These estimations were performed with a formula that was not provided in his reports. Indeed, as we discovered in Dr. Carbone's cross-examination, the Bass Diffusion formula set out in Appendix J to his report was not the formula that he (or his assistants) actually used to reach his predictions.
+[111]
+A further problem arose with the number of discrepancies found in the coefficients contained in Appendix P when compared with the coefficients for the same molecules in Appendices L and N. As pointed out by Apotex:
+For the 53 of 112 values where the source variables were provided, at least 8 (or 15%) of the values did not correspond to the values in the source Appendices.
+[112]
+These and other problems identified by Apotex give me reason to discount - at least to some extent - the final opinions of Dr. Carbone on the important question of erosion during the Relevant Period.
+[113]
+That is not to say that Dr. Hollis's evidence is perfect. Dr. Hollis responds, in part, to Dr. Carbone's claim that markets with fewer generic entrants will demonstrate a slower erosion by indicating that Dr. Carbone has inferred a causal relationship between the number of generic entrants and the erosion rate that is not supported by the evidence. Dr. Hollis posits that the important explanatory variable is not the number of entrants but the size of the overall market. He argues that larger markets can be expected to generate faster erosion rates, which may explain the differences observed by Dr. Carbone. In my view, Dr. Hollis's presumed causal relationship between market size and the erosion rate is subject to the same criticism that he directs at Dr. Carbone. Dr. Hollis performs no statistical analysis to test his hypothesis. He could have attempted to model this relationship in his responding report, but he opted not to do so.
+[114]
+Having said that, I find Dr. Hollis's logic that, in effect, other determinants beyond the number of generics in the market must explain why some drug markets support multiple generic entrants, while others motivate only one generic entrant, to be reasonably persuasive. Some "other" factor or factors must underlie generic manufacturers' choices to enter a given market or not. It follows that Dr. Carbone's attempt to distinguish between the"but for" world and the real world based on the number of generic entrants is at best an incomplete explanation and, in my view, insufficient to deviate from the baseline assumption that the size of the generic market in the real world is a good predictor of that market in the "but for" world.
+B.
+Formulary listings
+[115]
+The second substantial area of difference between the parties is the question of formulary listing dates. Dr. Hollis carried out his own inquiries into formulary listing dates. In contrast, Dr. Carbone relied on the formulary listing dates provided to him by Mr. Palmer. Mr. Palmer's assumptions differed from Dr. Hollis's.
+[116]
+As stated by Dr. Hollis in his Expert Report, "[a]n important determinant of sales of pharmaceuticals in Canada is listing on provincial formularies" (Exhibit 44, vol 1 at para 62). Dr. Hollis explained why this was so (Exhibit 44 at paras 62-63 [footnotes omitted]):
+62. [...] The reason for this is that, generally speaking, across Canada, the cost of prescription pharmaceuticals for seniors and the indigent is covered by the provincial drug benefit plans once the drugs achieve formulary listing. Collectively, this makes the provincial drug benefit plans the largest payers for prescription pharmaceuticals, accounting for approximately 40% of expenditures in 2005. For generic pharmaceuticals, the listing on formularies is even more critical because, typically, formulary listings permit and, in some cases require, the pharmacist to substitute a lower-priced generic version of the branded drug product.
+63. For ramipril, as for most other drugs, retail sales increase markedly when listed on provincial formularies (although significant wholesale sales can occur before then in the expectation of formulary listings). In constructing the hypothetical sales data, therefore, it is important to account for the likely listing dates on provincial formularies. [. . . .]
+[117]
+Dr. Hollis's analysis of this factor is again built on the reasonable assumption that the available observed data from the ramipril market post-generic entry is an accurate predictor of the "but for" world unless there is good reason to believe that there are significant differences between the two worlds. Dr. Hollis "tested" this assumption against the average listing delays for Apotex products for the period 2004 to 2006.
+[118]
+Having carried out his analysis, Dr. Hollis concludes that: (1) there is no significant difference between the average speed of formulary listing in 2004 as compared to 2006; (2) there is no difference in the average number of days on which the provinces approved Apotex products between 2004 and 2006; and (3) the same speed of approval for Apo-ramipril as actually happened would have been possible in the "but for" world, since the relevant committees approved other drugs at about the same time as they could have approved Apo-ramipril (Exhibit 44, vol 1 at para 70).
+[119]
+Again, I see no reason to doubt Dr. Hollis's conclusion that the regulatory conditions would have been the same or very similar between the real world and the "but for" world, leading to approximately the same times to formulary listings.
+[120]
+In final argument, Sanofi disputed only one aspect of Dr. Hollis's formulary listing dates. Specifically, Sanofi pointed to a portion of Mr. Palmer's testimony where he opined that:
+I do note the date listed for BC is January 27th, and that is the correct date. That is different from the date that Dr. Hollis had in his report, which is I believe April.
+[121]
+On the basis of this one statement, Sanofi suggests that "applying Dr. Hollis's approach starts erosion 86 days (or almost 3 months) early in British Columbia, thus over-stating the generic share of the market". In reaching this conclusion, Sanofi ignores the balance of the cross-examination of Mr. Palmer, where he acknowledged that his revised estimates for Alberta and British Columbia were, in fact, consistent with those of Dr. Hollis.
+[122]
+I therefore accept, as reasonable and more probable than not, the formulary listing dates developed and relied on by Dr. Hollis in assessing the size of the Generic Market.
+C.
+Conclusion on Generic Market
+[123]
+In conclusion on the Generic Market, I accept the analysis of Dr. Hollis over that of Dr. Carbone and, where applicable, Mr. Palmer. Of particular significance to the next step of the analysis (establishing Apotex's share of the Generic Market), I accept Dr. Hollis's opinion that the size of the Generic Market would not be materially impacted by the number of generic entrants or the timing of their entry. To the extent that it is necessary to predict formulary entries in the hypothetical world, I would apply the estimates used by Dr. Hollis over those used by Mr. Palmer.
+VIII. Apotex's Share of the Generic Market
+[124]
+The next step in the analysis is to determine Apotex's share of the Generic Market for ramipril. This assessment provides an estimate of Apotex's Lost Volumes over the Relevant Period.
+[125]
+I begin by observing that Sanofi does not argue that Apotex would have been unable to produce sufficient quantities of generic ramipril to supply whatever market share it would have acquired in the "but for" world. The evidence before me is clear and compelling that Apotex would have had the means to obtain sufficient quantities of API and incipient ingredients and sufficient plant capacity to meet market demand throughout the Relevant Period. The only caveat is that Apotex
+may
+have been required to add further machinery or to run additional shifts. This could result in higher production costs, a matter considered later in these Reasons.
+[126]
+Having found that Apotex had the physical capacity to have supplied the entire market, the question is whether it would have done so alone or with competitors.
+[127]
+Before I begin a detailed assessment of this issue, Sanofi raises a question that must be addressed. Should Apotex's share of the Generic Market be assessed on the basis of one "but for" world? Once I have responded to this question, I will move to the next steps of determining:
+• the participants in the hypothetical world and the timing of their entries; and
+• the market share of Apotex (i.e. Apotex's Lost Volumes).
+A.
+Sanofi's view of the "but for" world
+[128]
+Sanofi asserts that there can be only one "but for" world that should apply to all s. 8 claims for ramipril. In Sanofi's view, a second person would receive an inappropriate windfall if all other generics were not considered. Sanofi explains that, absent a single finding as to the overall generic market in the "but for" world, the result could be "absurd consequences".
+[129]
+Sanofi attempted to illustrate the potential "absurdity" of Apotex's position through the use of a hypothetical example. In the example, Sanofi assumed three generic manufacturers, with A approvable at year 0, B approvable at year 1 and C approvable at year 2. The other assumptions were:
+• total generic market of 20 units/year;
+• NOC proceedings against each generic;
+• NOC proceeding against A dismissed at year 3;
+• all generics enter at year 3; and
+• each generic advances a s. 8 claim.
+[130]
+If each of A, B and C commence an action for recovery of damages under s. 8 and if the claims are assessed as three independent "but for" markets with no other hypothetical entrants, the results, as posited by Sanofi, would be the following:
+• A would claim three years at 20 units/year for a total of 60;
+• B would claim two years at 20 units/year for a total of 40 units; and
+• C would claim one year at 20 units/year for a total of 20 units.
+[131]
+This would constitute a total generic recovery of 120 units, whereas the total generic market over that period would be only 60 units. The result would be that Sanofi's liability would be double that which would rationally be possible.
+[132]
+I do not disagree with Sanofi's arithmetic. I also acknowledge that, if this were to happen, the result would be, if not "absurd", at least questionable. That said, Sanofi's argument contains a number of flaws.
+[133]
+The first issue that I take with Sanofi's argument is that it misrepresents Apotex's position. Apotex is not arguing that the hypothetical world under the
+Regulations
+must consider Apotex to be a sole-source manufacturer with no competitors throughout the Relevant Period. Rather, as I understand Apotex's argument, Apotex is submitting that other entrants in the market must be considered on a case-by-case basis.
+[134]
+While I agree with Sanofi that the "but for" world must consider the inclusion of potential competitors, I do not go so far as Sanofi asserts. In other words, I reject Sanofi's urging that I establish one "but for" world that will apply in this case and in any others involving the genericization of ramipril.
+[135]
+The assessment of damages can and should be made on the facts of each case. To the extent that there are common elements that impact on the quantification of damages, these will more likely than not come forth during the trial.
+[136]
+Another serious flaw  <FRAGMENT_SUPPRESSED> 's argument is that the evidence in one case may establish a different Relevant Period than in another case. This will impact on many elements of the assessment of damages. In this case, for example, I have determined that Apotex would have entered the market on April 26, 2004. This finding means that different considerations will come into play with respect to the possible entry of an authorized generic than if I had concluded that an entry date of December 13, 2005 was more appropriate. In the companion Teva case (Court File No. T-1161-07), I have concluded that a different Relevant Period is established and different considerations were relevant. Following Sanofi's urging would accordingly require that I disregard evidence in either Teva's case or this one.
+[137]
+By their very nature, damages in this action are hypothetical. It follows that estimates must be made and a market constructed that will not be perfect. As I re-write history, hypotheses must be constructed and evaluated. Those hypotheses will necessarily change depending on the facts of
+each
+case. I am striving to be reasonable and fair - I cannot achieve perfection. As pointed out by Lord Shaw in
+ <FRAGMENT_SUPPRESSED>  at 118 (HL):
+The restoration by way of compensation is therefore accomplished to a large extent by the exercise of a sound imagination and the practice of the broad axe.
+[138]
+With respect to ramipril, Sanofi has identified only Teva, Apotex and Riva as participants in the "but for" world. I am quite certain that the damages in those three actions will not be greatly - if at all - in excess of the award of damages that would be made had the three cases been joined and one "but for" world established. Since Sanofi is the defendant in all three cases, it is well aware of the total damages being claimed. If that amount raised a real threat that Sanofi's total liability would exceed the bounds of rationality, Sanofi could urge the Court to consider an adjustment to the compensation pursuant to s. 8(5) of the
+Regulations
+.
+[139]
+There may be a situation where Sanofi's fear has some merit. It certainly is not this case.
+B.
+Other generics
+[140]
+Having determined that the particular facts before me will inform my conclusions on this issue, the next task is to establish which generics would have entered the market during the Relevant Period and when they would have entered. The parties put forward evidence related to three possible entrants into the "but for" market - Teva, Riva and an authorized generic.
+[141]
+Before I examine the individual market entrants, I note some disagreement as to the burden.
+[142]
+While both parties agree that Apotex bears the burden of proving its losses, they disagree on the specific issue of generic competition in the "but for" world. For its part, Sanofi says that Apotex "must prove on a balance of probabilities what position it would have been in 'but for' the prohibition proceedings", including that it would have been able to obtain an NOC and enter the ramipril market in the period alleged, that no AG or other generic would have done so until the dates alleged, and the pricing of its product.
+[143]
+Apotex submits that Sanofi bears the burden of proving "affirmative defences" and that Apotex is not required to disprove those defences. In particular, Apotex submits that Sanofi bears the burden of proving that any generic competitors or an AG would have entered the hypothetical market.
+[144]
+It is trite law that there are both legal and evidential burdens in a trial.  <FRAGMENT_SUPPRESSED>  at para 8(3) (CA), 205 NR 331, the Court of Appeal explained that,
+[The primary] burden, known in a civil case as either the "persuasive burden" or the "legal burden", is the burden of establishing a case to the civil standard of proof. By contrast, the "evidential burden" consists of the burden of putting an issue in play and means that a party has the responsibility to ensure that there is sufficient evidence of the existence or nonexistence of a fact or an issue on the record to pass the threshold for that particular fact or issue.
+[145]
+The legal burden does not shift over the course of a trial, but the evidential burden does. Once there is "
+prima facie
+proof or presumption of the truth of an allegation, which ought therefore to be found true in the absence of further evidence", the evidential burden shifts to a defendant "to adduce evidence in answer to the
+prima facie
+proof" (
+Ontario Equitable Life and  <FRAGMENT_SUPPRESSED>  at 308-309 [
+Baker
+]). At the end of a case, the court must weigh all of the evidence called by both parties (
+Baker
+, above).
+[146]
+It cannot be Apotex's burden to call every potential participant in the market and prove that they would not have launched a ramipril product. In this regard, the position of Apotex is much like the situation faced by the defendant in
+ <FRAGMENT_SUPPRESSED> . In that case, involving an action in tort, Rainbow was seeking damages from Canadian National Railway (CN) for,
+inter alia
+, negligent misrepresentation in respect of a catering contract. CN argued that the claimed loss was not all attributable to CN since Rainbow would have entered into other contracts. On the issue of burden, at page 15, the Supreme Court states that:
+Once the loss occasioned by the transaction is established, the plaintiff has discharged the burden of proof with respect to damages.
+A defendant who alleges that a plaintiff would have entered into a transaction on different terms sets up a new issue.
+It is an issue that requires the court to speculate as to what would have happened in a hypothetical situation. It is an area in which it is usually impossible to adduce concrete evidence. In the absence of evidence to support a finding on this issue, should the plaintiff or defendant bear the risk of non-persuasion? Must the plaintiff negate all speculative hypotheses about his position if the defendant had not committed a tort or must the tortfeasor who sets up this hypothetical situation establish it?
+[Emphasis added]
+[147]
+In holding that CN bore the burden, the Supreme Court comments as follows, at page 16:
+The appellant CN alleged that the loss was not all attributable to the misrepresentation because Rainbow would have entered into a different contract on other terms which would have resulted in at least some of the loss. What the respondent would have done had it not been for the tortious act requires a great deal of speculation, and, on the basis of the principles which I have reviewed above, I would apply the legal burden of proof against the appellant.
+[148]
+In the context of an undertaking in damages, a successful defendant bears the onus of proving its loss (see e.g.
+Les Laboratoires Servier and another v Apotex Inc and others
+, [2008] EWHC 2347 (Ch) (QL), [2008] All ER (D) 79 (Oct), rev'd on other grounds [2010] EWCA Civ 279,[2010] All ER (D) 238 (Nov)). However, in
+ <FRAGMENT_SUPPRESSED> , the Federal Court of Appeal held that an unsuccessful plaintiff bears the burden of proving cannibalization where that issue was raised by the plaintiff:
+[T]he existence of cannibalization was a question which was introduced into the debate as a result of plaintiff's allegations. Accordingly, it was for plaintiff to prove it, not for defendant to show, as the Trial Judge said, that it "would not have occurred".
+[149]
+Taking all of this into consideration, in my view, the proper approach is the following: Once Apotex has led
+prima facie
+evidence of its losses, the evidential burden shifts to Sanofi to adduce evidence in response. Sanofi cannot simply allege that other generics would have entered the market without leading evidence in support of such assertions.
+[150]
+In this case, Apotex does not, at least initially, bear the burden of disproving the hypothetical sales of third party generics. However, Apotex, at all times, bears the legal burden of proving its losses, and the evidence adduced by Apotex must ultimately be weighed against any evidence adduced by Sanofi establishing sales by third party generics. To the extent that Sanofi succeeds in discharging its evidential burden by proving third party sales, Apotex must address that evidence in order to discharge its legal burden.
+(1) Teva
+[151]
+Sanofi produced evidence and asserts that Teva would have been part of the Generic Market.
+[152]
+There are two aspects to the question of whether Teva would have commenced sales in the hypothetical world. The first step is to examine the regulatory context to determine whether there were regulatory impediments to Teva's entry. The analysis of this question will lead to a determination of the possible entry date for Teva's launch of a generic version of ramipril. As a second step, I must address the practical considerations that would have likely arisen as of the hypothetical entry date. Such matters as plant capacity, access to API and motivation are relevant at this second step.
+[153]
+Neither Apotex nor Sanofi questions Teva's physical capacity to manufacture ramipril during the Relevant Period. Thus, the focus of my examination is on the first step of the analysis. In other words, the determinative question is: From a regulatory and legal perspective, would Teva have been able to come to market and, if so, when?
+[154]
+Sanofi subpoenaed Mr. Barry Fishman, the president and chief executive officer of Teva, to speak to Teva's potential participation in the hypothetical market. As confirmed by Mr. Fishman, the following steps were taken by Teva to come to market:
+• Teva filed its ANDS on December 24, 2001 (Exhibit 126, Tab 3);
+• Teva's certified "patent hold" date, limited to 2.5, 5 and 10 mg ramipril capsules, was October 14, 2003, as of which date, Teva had agreed to wait until the expiry of the '457 Patent on December 13, 2005 (Exhibit 126, Tabs 6, 8);
+• on September 12, 2005 ('206 Patent) and September 14, 2005 ('089, '948, '549 and '387 Patents), Teva served notices of allegation;
+• on October 31, 2005 (Court File No. T-1965-05, with respect to '206 Patent) and November 2, 2005 (Court File No. T-1979-05, with respect to '089, '948, '549 and '387 Patents), Sanofi commenced prohibition applications;
+• on September 25, 2006, the Federal Court dismissed T-1965-05 as "an abuse of process" (
+ <FRAGMENT_SUPPRESSED>  FTR 56);
+• on December 8, 2006, the Minister advised that Teva was required to address the '089 and '948 Patents but not the '549 or '387 Patents;
+• on December 15, 2006, Teva withdrew the portion of its notice of allegation relating to the '549 and '387 Patents;
+• on April 27, 2007, the Federal Court of Appeal dismissed T-1979-05 as an abuse of process (
+ <FRAGMENT_SUPPRESSED>  rev'g 2006 FC 1547); and
+• on May 2, 2007, Teva received its NOC.
+[155]
+One very relevant fact related to Teva is that, as part of its ANDS, Teva certified that it would await expiry of the '457 Patent. Moreover, when it finally served its notices of allegation on Sanofi in September 2005, it did not address the '457 Patent. In other words, the record demonstrates that Teva was not seeking regulatory approval to enter the market before December 13, 2005, when the '457 Patent expired. Thus, Teva's
+earliest
+possible entry date in this case is December 13, 2005.
+[156]
+Apotex submits that Teva would not have been able to come to market until the end of October 2007. In the actual world, Teva effectively "unlocked" the regulatory door by following on the footsteps of Apotex. Apotex explains that the "but for" world should be constructed on the basis that Sanofi had not commenced prohibition proceedings against Apotex. For that starting point, Apotex points to the Federal Court of Appeal decision in
+Norfloxacin (FCA)
+, above at paragraph 75, where the Court of Appeal noted that,
+[I]t must be remembered that the Federal Court had to assess Apotex's damages on the basis of a hypothetical question: what would have happened had Merck not brought an application for prohibition?
+[157]
+Applied to this case, this means that I must assess the s. 8 damages on the basis that Sanofi had not commenced T-1742-03, in respect of Apotex's notice of allegation for the '206 Patent. Apotex correctly observes that, if Sanofi had not commenced T-1742-03, there would have been no decision and order of Justice Mactavish in
+Ramipril NOC #1 (FC)
+. In the real world, Teva was able to leverage Apotex's success in T-1742-03 to have T-1965-05 dismissed as an abuse of process. If there had been no decision in
+Ramipril NOC #1 (FC)
+, Teva would not have been able to have T-1965-05 dismissed as an abuse of process. Teva would have had to pursue its arguments, in T-1965-05, that its allegations of invalidity of the '206 Patent were justified. As acknowledged by Mr. Fishman, Teva, in those circumstances, would only have expected to receive its NOC towards the end of the 24-month stay period in T-1965-05; that is, towards the end of October 2007.
+[158]
+Conceptually, the logic of Apotex's argument is inescapable. It is not only Teva's reluctance to address the '457 Patent, but its delay in serving a notice of allegation with respect to the '206 Patent, that creates an impediment to its market entry into the "but for" world.
+[159]
+The only problem that I can see with Apotex's argument is that it has ignored the NOC proceedings of Riva. Riva served its notice of allegation with respect to the '206, '457 and '089 Patents on June 10, 2004, with Sanofi commencing T-1384-04 on July 23, 2004. Without Apotex's challenge to the '206 Patent in T-1742-03, the NOC proceedings in T-1384-04 would have likely unfolded in the ordinary course with the result that the Court would have dismissed Sanofi's prohibition application no later than July 2006. I am assuming that the result of the Riva NOC proceedings would have been that Riva's allegation of invalidity of the '206 Patent would have been justified - a reasonable assumption given what happened in the real world. Teva would then have been able to leverage Riva's success to obtain a dismissal of T-1965-05 as an abuse of process within a few days of the dismissal of T-1384-04. As in the real world, a success by Riva would likely have set into motion a sequence of events that would have resulted  <FRAGMENT_SUPPRESSED>  receiving an NOC very shortly thereafter, in spite of the continued existence of other use patents.
+[160]
+In sum, for purposes of this action, I will assume that Teva would have been able to come to market on or about August 1, 2006.
+(2) Riva
+[161]
+Some scenarios discussed during the trial involved the possible participation of Riva in the "but for" world. As with the possible participation of Teva in the hypothetical market, there are two aspects to Riva's entry during the Relevant Period. The first step is to examine the regulatory context to determine whether there were regulatory impediments to Riva's entry. The second step is to address the practical considerations that would have likely arisen as of the hypothetical entry date. Such matters as plant capacity, access to API and motivation are relevant at this second step.
+[162]
+The evidence before me establishes that Riva could not have received an NOC for its ramipril during the Relevant Period. Thus, even if Riva could have made arrangements to market ramipril in some or all parts of Canada, it could not have come to market in the Relevant Period due to a regulatory impediment.
+[163]
+Riva's path to regulatory approval of its generic ramipril in the real world was as follows:
+• on June 8, 2004, Riva submitted its ANDS to Health Canada for ramipril capsules, cross referencing Pharmascience's ANDS (Exhibit 107, Tabs 74 and 66 at 3);
+• on June 10, 2004, Riva served a notice of allegation with respect to the '206, '457 and '089 Patents;
+• Riva's "patent hold" date was June 18, 2004;
+• on July 23, 2004, Sanofi commenced a prohibition application (Court File No. T-1384-04) in response to Riva's notice of allegation regarding the '206, '457 and '089 Patents;
+• on September 8, 2004, Riva served a notice of allegation with respect to the '948 Patent;
+• on October 22, 2004, Sanofi commenced a prohibition application (Court File No. T-1888-04) regarding the '948 Patent;
+• on December 5, 2006, Riva served a notice of allegation with respect to the '549 and '387 Patents;
+• on January 19, 2007, Sanofi commenced a prohibition application (Court File No. T-127-07) regarding the '549 and '387 Patents;
+• on May 17, 2007, the Court dismissed T-1384-04 and T-1888-04 (
+ <FRAGMENT_SUPPRESSED>  FTR 59);
+• on March 4, 2008, the Court dismissed T-127-07 (
+ <FRAGMENT_SUPPRESSED>  FTR 259); and
+• Riva received its NOC on March 14, 2008.
+[164]
+A serious problem arose for Riva from its decision to cross-reference the submission of Pharmascience for pms-ramipril.
+[165]
+As confirmed by Ms. Bowes, Health Canada's policy and its advice to Riva was that it would not receive an NOC for ramipril in advance of Pharmascience obtaining its NOC. Riva was informed of this regulatory hurdle in a letter from Health Canada dated April 24, 2007 (Exhibit 107, Tab 66 at 4) which advised Riva as follows:
+[W]e would note that, since Riva's submission has been cross-referenced with another submission, the NOC will not be issued to Riva until the NOC is issued for the cross-referenced submission for pms-ramipril, in accordance with Health Canada's Policy entitled "Filing of Supplemental New Drug Submissions, Supplemental Abbreviated New Drug Submissions, Notifiable Changes and Cross-Referenced Submissions".
+[166]
+On May 24, 2007, Riva brought an application for judicial review of Heath Canada's decision (Exhibit 107, Tab 67; Court File No. T-896-07). Health Canada subsequently reversed its position and, in a letter dated June 21, 2007 (Exhibit 107, Tab 69), Riva was informed as follows:
+[...] Health Canada is no longer of the view that Riva cannot receive a notice of compliance until such time as the Pharmascience submission to which Riva's product is 'cross-referenced' is itself approved. As a result, should Riva ultimately be successful in the prohibition proceedings ongoing in T-127-07, and otherwise meet all of its obligations under the
+Patented Medicines (Notice of Compliance) Regulations
+, it will be eligible to receive a notice of compliance, regardless of whether the Pharmascience submission has fully complied with the
+NOC Regulations
+and received a notice of compliance.
+[167]
+Riva accordingly discontinued its application for judicial review. However, the fact is that, separate and apart from any notice of allegation proceedings under the
+Regulations
+, Riva could not have entered the ramipril market before Health Canada changed its position on Riva's cross-referenced ANDS. The earliest that Riva could have obtained an NOC is June 21, 2007, after the end of the Relevant Period in this trial. Neither Sanofi nor Apotex presented evidence or argument that Riva could have entered the market during the Relevant Period.
+[168]
+Given the facts before me in this case, I conclude that Riva would
+not
+have been a participant in the Generic Market during the Relevant Period.
+(3) Authorized generic
+[169]
+The final potential market entrant is an authorized generic manufacturer. In this trial, Sanofi submits that it would have launched an authorized generic, or AG, simultaneously with - or shortly after - Apotex's launch of Apo-ramipril in the "but for" world.
+[170]
+As described by a number of witnesses, the term "authorized generic" refers to a drug that is manufactured by an innovative drug company -in this case, Sanofi - but sold by a generic company under the generic's name. While the composition of the authorized generic product is identical to the innovator's product, it has a separate DIN and NOC. Authorized generics obtain regulatory approval by submitting an administrative NDS instead of an ANDS. No bioequivalence study is required, as the innovator manufactures the authorized generic product. As a result, AGs quickly obtain approval. The generic company simply files an administrative NDS referencing and relying upon the innovator's submission, and the innovator provides a letter of access that allows the authorized generic to cross-reference its submissions.
+[171]
+The introduction of an AG allows an innovator to participate in both the brand and generic markets, as the innovator effectively sells two distinct, but identical products. The brand company can thus recoup some of the market that has been lost to generics. It is obvious that a brand company will not introduce a generic until and unless there is an unauthorized or "true" generic manufacturer coming on to the market. Otherwise, the AG would only have the result of cannibalizing sales of the brand drug.
+[172]
+When ramipril was finally genericized in late 2006, the first market entrant was ratiopharm inc. (ratiopharm) operating as an AG of Sanofi. Anticipating a generic entrant, Sanofi had entered into an agreement with ratiopharm allowing it to rely on Sanofi's regulatory filings to obtain an NOC ahead of the pack. Would Sanofi have launched an authorized generic during the Relevant Period?
+[173]
+Apotex argues against the inclusion of an AG in the hypothetical world. Its key arguments, in brief, are that:
+1. section 8 of the
+Regulations
+should be interpreted as precluding the presence of an AG;
+2. Sanofi has not established that it would have introduced an AG;
+3. if an AG had been launched, it would not have come to market until four months after Apotex's launch; and
+(a)
+Do the Regulations preclude an AG
+?
+[174]
+Apotex asserts that the predominant purpose of an AG is "to truncate section 8 rights of a second person". Thus, Apotex submits that:
+[T]he Court should not permit the intent of the section to be defeated in this manner, particularly as it creates a windfall for the originator who has been found not to be entitled to its monopoly.
+[175]
+It is unarguably the case that the inclusion of an AG in the "but for" world results in a lower award of damages to the second person. However, I am not persuaded that s. 8 precludes the consideration of an AG in assessing the second person's losses.
+[176]
+As pointed out by Sanofi, the
+Regulations
+, as a whole, contemplate the existence of AGs. This can be seen, for example, at s. 7(3), pursuant to which a generic manufacturer can obtain an NOC with the consent of the first person. An AG is a manufacturer entering with the consent of the first person.
+[177]
+Generic drug companies have raised the allegation of inequities caused by AGs in the past. The Regulatory Impact Analysis Statement (RIAS) that accompanied the 2006 amendments contains the following remarks (Regulatory Impact Analysis Statement, (2006) C Gaz II, 1503 at 1525 [emphasis added]):
+As a final note, certain generic drug companies also argued very forcefully that the Government should incorporate measures in these amendments to address what they perceive as diminishing market incentives in their industry. More specifically, they contend that innovators are increasingly entering into licencing arrangements with willing generic companies (so-called "authorized generics") in order to pre-empt genuine generic competitors and retain market share past patent expiry. This practice, which is also said to be prevalent in the US, is currently being studied by the US Federal Trade Commission. While
+the Government is of the view that there is insufficient information on the impact of this practice on market dynamics in the industry to support regulatory action at this time,
+it will be examining this practice more closely in response to these concerns.
+[178]
+At that time, the Governor in Council was aware that there was an issue surrounding AGs and chose not to make amendments to s. 8 to exclude consideration of AGs in a claim under s. 8. In the absence of clear statutory language, I cannot simply, as urged by Apotex, exclude the AG from the s. 8 assessment.
+[179]
+Section 8 damages compensate a second person for losses it suffered as a result of the automatic stay (
+Alendronate (FCA)
+, above at para 71). Excluding an AG where the evidence demonstrates that an AG would have been present would artificially increase Apotex's compensation under s. 8. This is because, in such a situation, there would have been no impediment to the launch of an AG by Sanofi. It follows that, by excluding the AG from the "but for" world, Apotex's damages would exceed the revenues it would have earned had Sanofi not brought a prohibition application.
+[180]
+In brief, I share the concerns expressed by Apotex. Nevertheless, I can see no legitimate means to exclude the existence of an AG (where demonstrable on the facts) from the "but for" market. The Governor in Council would have to make that decision.
+(b)
+Would Sanofi have decided to launch an AG?
+[181]
+The next question is whether it was more likely than not that Sanofi would have decided to launch an AG in the "but for" world. Apotex's expert, Dr. Hollis, opined that there was a 60% probability that Sanofi would have used an AG in a scenario where Apotex entered on April 26, 2004, Teva entered on December 13, 2005, and ratiopharm entered on January 26, 2005 (Exhibit 44, vol 1 at para 150). However, in final argument, Apotex asserted that the probability was only 25%.
+[182]
+There are a number of factors that lead me to conclude that it is more likely than not that Sanofi would have decided to launch an AG as soon as possible after the launch of Apo-ramipril on April 26, 2004.
+[183]
+Mr. Gravel provided very credible testimony about Sanofi's approach to AGs. He acknowledged that Sanofi does not launch AGs for all of its products upon genericization. Mr. Gravel explained that Sanofi considers a number of factors before deciding whether to launch an authorized generic.
+[Redacted]
+[184]
+One of the most important factors in determining whether Sanofi would have decided to launch an AG is the importance of ALTACE to Sanofi. Mr. Gravel testified that, following the publication of the HOPE study, ALTACE sales "increased significantly year-over-year and became the leading product in Canada". He also stated that at one point, ALTACE was Sanofi's largest product.
+[185]
+A second factor weighing heavily in favour of an AG launch in 2005 is the real world action of Sanofi in authorizing ratiopharm to market ramipril in 2006.
+[186]
+Apotex points to a number of instances of "large products" where Sanofi did not launch an AG. On cross-examination, Mr. Gravel acknowledged that Sanofi did not launch an AG upon the genericization of many drugs. The key consideration for Sanofi is obviously financial. A further important consideration, which also affects the financial viability of an AG, is the business arrangements under which the drug is sold. Thus, for example, the partnership with Bristol-Myers Squibb for PLAVIX provides a reasonable explanation for not introducing an AG for that drug. The failure to introduce an AG for a drug being sold in a partnership arrangement or where the economics do not support its introduction does not lead me to conclude that Sanofi would have come to the same decision with respect to ALTACE.
+[187]
+The evidence clearly establishes that Sanofi had contemplated the possibility of generic entry and the launch of an AG for ramipril since at least 1999. This is because the '087 Patent was due to expire in May 2002. Mr. Leprince testified that Sanofi considered the same options in response to the expiry of the '087 Patent as it considered with respect to many patents, and that the "usual process" involved allowing a company called Altimed to market an AG two or three months prior to patent expiry. In that regard, Mr. Leprince spoke to a document which contemplated generic entry in mid-2002. While the document Mr. Leprince spoke to did not actually model the introduction of an AG, it is clear that Sanofi considered that possibility.
+[188]
+Although the issuance of the '206 Patent in 2001 averted the threat of generic entry for a time, Mr. Leprince testified that that threat resurfaced in 2003, when Pharmascience filed a notice of allegation, followed quickly by Apotex. Sanofi also points out that Dr. Sherman's patent application for a ramipril formulation came to its attention on April 16, 2003. This application would have raised the threat of an attack on ALTACE by Apotex.
+[189]
+Mr. Gravel similarly testified that Sanofi was considering the possibility of generic entry into the ramipril market when he became involved with ALTACE at the end of 1999 and beginning of 2000.
+[190]
+In view of the evidence before me, I am persuaded that it is more likely than not that Sanofi would have determined that it would launch an AG during the Relevant Period to respond to the generic entry by Apotex and Teva.
+©
+When would the AG have entered the market?
+[191]
+The final question is to determine when Sanofi and a generic manufacturer would have completed all of the steps necessary to commence sales of the AG.
+[192]
+Sanofi does not agree that it would have been caught off guard by Apotex's entry into the ramipril market. As noted above, Sanofi points to a patent application by Dr. Sherman for a ramipril formulation as a "warning sign" that, together with "market intelligence", would have had Sanofi on notice that Apotex was about to launch a generic version of ramipril.
+[193]
+Given Sanofi's view of the strength of the '206 Patent and its aggressive litigation strategy, I do not believe that the patent application, in and of itself, would have caused Sanofi to enter into the complex negotiations and preparations for an AG launch. As for "intelligence", no witness for Sanofi described any particular knowledge that would have been of assistance. More directly, when asked for an example of a situation where an employee of Sanofi found out about a generic having submitted an ANDS for a Sanofi product, Mr. Gravel responded that he did not recall any.
+[194]
+Beyond that, we know from many witnesses - including Ms. Bowes on behalf of Health Canada -that Apotex's ANDS and all of its subsequent regulatory activity are kept confidential. In the "but for" world, Apotex would not have served notices of allegation on Sanofi.
+[195]
+I am satisfied that it is more likely than not that the launch by Apotex would have been a surprise in the "but for" world.
+[196]
+In the actual world, in December 2006, Sanofi launched an AG - ratio-ramipril - almost simultaneously with Apotex's launch. However, in that case, Sanofi was well aware of the entry of multiple generics in or around December 2006.
+[Redacted]
+In a surprise launch, Sanofi would have had to begin from a "standing start" to introduce an AG. Apotex says this would have taken four months; Sanofi asserts that an AG would have been ready to launch in 44 days.
+[197]
+There are basically two stages to launching an AG: (a) select a drug company and conclude negotiations for an AG agreement; and (b) obtain the required regulatory approvals and physically prepare to launch. These steps are well-established in a number of documents presented at trial.
+[Redacted]
+[198]
+[Redacted]
+[199]
+The problem is that the Business Review and other such planning documents are prepared in the abstract and may not reflect what would actually happen. Thus, the real world 2006 experience of Sanofi with its launch of an AG for ramipril is more helpful in determining what likely would have happened in 2004. In that case, Sanofi had some - but not much - warning.
+[Redacted]
+Ratiopharm received its NOC on December 13, 2006 and had AG product on the market within a few days of receiving its NOC.
+[Redacted]
+It appears that Sanofi pulled out all stops to launch the AG
+[Redacted]
+and likely could have accomplished a similar timeline in 2004, once a letter of intent was in place.
+[200]
+The only time that needs to be added to this
+[Redacted]
+estimate is the time required to negotiate a letter of intent and AG agreement. Sanofi would have had to select and then negotiate with a generic manufacturer. Apotex submits that it would have taken two to four months for Sanofi to internally reach a decision on how to proceed, to find a partner and to come to an agreement. In his report (Exhibit 26, Appendix 12), Mr. Derek Rostant, Apotex's accounting expert, estimates a timeline of over seven months from the identification of an AG partner to the final signing of a formal agreement. I think that this timeframe is unreasonably long. First, contrary to the assertion of Apotex, I do not believe that, in 2004, Sanofi would have had to obtain approval from Sanofi France, Sanofi Germany and Sanofi's North American head office. Moreover, with the pressure of time, many of the steps to the agreement could have been compressed.
+[201]
+On the other hand, I find Sanofi's estimate of seven days to conclude a letter of intent to be overly optimistic. Sanofi has not, it appears, factored in the selection of an appropriate generic manufacturer. However, I accept that the motivation to launch the AG would be a powerful driver of the selection and negotiations. In circumstances such as a surprise launch, it is common sense to assume that negotiations could be concluded quickly. In my estimation, Sanofi could have selected a generic manufacturer (likely ratiopharm) and concluded an AG agreement within one month.
+[202]
+With a month to finalize an AG agreement and two months to complete the steps to launch, I find that it is more likely than not that Sanofi would have been able to launch its AG version of ramipril by July 26, 2004 - three months after the beginning of the Relevant Period.
+(4) Conclusion on other generics in the "but for" world
+[203]
+With respect to other generic entrants, I conclude that the Generic Market during the Relevant Period would more likely than not have included an AG, as of July 26, 2004, and Teva, as of August 1, 2006.
+C.
+Apotex's share of the Generic Market
+(1) Apotex's percentage share
+[204]
+My next task is to determine how these three market entrants would have shared the Generic Market over the Relevant Period and, specifically, to estimate Apotex's Lost Volumes over the Relevant Period.
+[205]
+Dr. Carbone acknowledged that the order of generic entry "appears to matter with respect to market share distribution" (Exhibit 94, vol 1 at para 98). However, in the absence of information on rebates, he felt that it was not reasonably possible "to apply any rule other than to assume an even allocation of market share in the case of a simultaneous market entry". In a scenario where there were two or three participants entering at different times, Dr. Carbone opined as follows (Exhibit 94, vol 1 at 53, fn 38):
+If only one generic is present, the next one entering would tend to capture 50% of the total volume as time elapses. If a third generic manufacturer subsequently enters the marketplace, it would capture 50% of the volume previously allocated to the second entrant. Henceforth, if three generic companies compete the first generic manufacturer eventually captures, as time elapses, 50% of the total volume, the second and third entrant 25% each.
+[206]
+It appears that an application of Dr. Carbone's "rule" would result  <FRAGMENT_SUPPRESSED>  capturing 100% of the market from April 26, 2004 to July 26, 2004. Upon entry of the AG, this market share would drop to 50%. When Teva entered on August 1, 2006, Teva would capture its market share from the AG, leaving Apotex with its 50% share.
+[207]
+The biggest problem that I have with Dr. Carbone's "rule" is that it is completely arbitrary. It does not differentiate between a second generic that enters within six months and a second generic that enters after two years; in both cases, Dr. Carbone would conclude that the second generic would capture 50% of the generic market. Dr. Carbone also fails to explain why a third generic, under his model, reduces only the second generic's share of the market and not the first entrant's.
+[208]
+In his report, Dr. Hollis acknowledges that the task of allocating the Generic Market is "complex", given that the timing of entry in the "but for" scenarios is different from that experienced in the actual world (Exhibit 44, vol 1 at para 76). I agree that this is a difficult assignment. Whereas the estimates of the size of the Ramipril Market and the Generic Market were reasonably based on the total ramipril market and total generic market in the real world, there are no comparables in the real world to assist us in assigning a hypothetical market share to Apotex in the "but for" world.
+[209]
+Nevertheless, Dr. Hollis attempts the impossible! He uses a series of econometric models to estimate Apotex's relative share of the Generic Market using data from drug markets other than ramipril with two or more generic entrants. As in Step 1, I find that Dr. Hollis's econometric approach at this stage is generally reliable, subject to any caveats I note below. A serious problem, however, is that Dr. Hollis was not asked to model the scenario that I have found for this case; nor am I certain that his model could accommodate such a scenario.
+[210]
+In its overall design, Dr. Hollis's model deviates from what might be considered a more conventional approach to estimating market share. Rather than estimating a single time-series model that includes time factors as independent explanatory variables, Dr. Hollis opts to estimate a separate model corresponding to each time quarter in his dataset. Which model is selected will ultimately depend on the number of generic entrants and the timing of entry that defines the "but for" world. The downside of this approach is that fewer observations are available to estimate each model. All else being equal, an econometric model with more observations yields more accurate predictions compared to a model that includes fewer observations.
+[211]
+That being said, Dr. Hollis's approach appears to be reasonably robust for four reasons:
+• First, the models by and large yield statistically significant estimates for each of the independent variables - meaning that the individual coefficients estimated are considered to be reasonably reliable using standard statistical criteria.
+• Second, the R-squared values (which represent the models' "goodness of fit"), are close to or above 50% in most cases, meaning that the independent variables account for approximately half of the observed variation in the dependent variable (i.e. Generic Market share).
+• Third, the models yield reasonably stable coefficient predictions for a given independent variable across all models. For example, as one moves across the rows in Exhibit AH-17 (Exhibit 44, vol 2 at Tab 17), the coefficient estimates for a given variable tend not to fluctuate dramatically.
+• Fourth, within a given model, the timing of entry variables collectively estimate the kind of linear trend that one would expect to see based on Dr. Hollis's theory. For example, as one moves down the rows of coefficient estimates in the Quarter 9 model in Exhibit AH-17 (-0.123, -0.116,-0.198, -0.210, -0.215, etc.), the impact of late entry on market share generally becomes increasingly negative as the lateness of the entry increases. This trend supports the hypothesis that, all else being equal, later generic entrants capture a relatively smaller proportion of the Generic Market.
+[212]
+Because of the way that Dr. Hollis has constructed his model, he is not able to account for the interaction between the number of generic entrants and the timing of generic entry. For example, consider two generic manufacturers, A and B. Assume that A enters the market in Quarter 1 and B enters the market in Quarter 4. We might expect that the effect of B's "late entry" would differ depending on the number of generic manufacturers already competing in the market. However, Dr. Hollis's model is designed in such a way that we cannot isolate this interactive effect.
+[213]
+Dr. Hollis prefers predictions from the real world ramipril market post-December 2006 over his model estimates whenever the "but for" world is likely to mirror real world experience. If Dr. Hollis observes that Apotex faced a "more competitive" ramipril market in the real world compared to a given "but for" scenario, he chooses to apply Apotex's actual market share rather than the market share predicted by his model (Exhibit 44, vol 1 at para 88). While this appears to be a reasonable approach in theory, Dr. Hollis fails to define in more detail what he means by a "more competitive" ramipril market. If by "more competitive" he is referring simply to cases where a greater number of generic manufacturers are operating in the market, this criterion would fail to account for the significant effect of entry timing on competition predicted by his own model.
+[214]
+As a result, I am not convinced that Dr. Hollis's model is particularly helpful for my purposes.
+[215]
+As any judge in my position will say, the assessment of damages can never be exact. The allocation of market share amongst the generic entrants appears to be too complex to estimate with any accuracy. Nevertheless, I must do my best to come up with Apotex's market share in the Generic Market, recognizing that perfection is impossible.
+[216]
+A very helpful piece of evidence before me on this particular question was an internal Sanofi market analysis report, to which Mr. Gravel testified (Exhibit 89, vol 1 at Tab 297). This report analyzed prospective market shares post-genericization and was based on a careful review of IMS CompuScript data in respect of a number of drugs. The most helpful findings of the report were that:
+•
+[Redacted]
+•
+[Redacted]
+[217]
+The report does not address the situation where the AG lags the first entrant by three months, as in the case before me. In that circumstance, I would expect that the AG's share of the Generic Market would not achieve the
+[Redacted]
+rate seen with simultaneous entry. I would estimate a market share of about 30% when averaged over two years.
+[218]
+In this case, there are three phases to the Generic Market:
+•
+Period 1
+: April 26, 2004 to July 26, 2004, when Apotex is alone in the market;
+•
+Period 2
+: July 26, 2004 to August 1, 2006, when Apotex and an AG are the only participants; and
+•
+Period 3
+: August 1, 2006 to December 12, 2006, when Apotex, Teva and an AG are sharing the Generic Market.
+[219]
+In my view, a reasonable assumption of Apotex's market share over the course of the Relevant Period, with the market participants and entry timing that I have identified, would be as follows:
+• Period 1: 100%
+• Period 2: 70%
+• Period 3: 50%
+[220]
+In general terms, Apotex's Lost Volumes during the Relevant Period are calculated by multiplying the volumes estimated as the Generic Market by the percentage of market share allocable to Apotex. My conclusions as to the market shares, unfortunately, do not match any of the scenarios modelled by the experts. Moreover, the task is somewhat complicated by the different percentages in each of three periods. I have not carried out these calculations but expect that Mr. Rostant and Mr. Ross Hamilton, Sanofi's accounting expert, would be very able to do so.
+(2) Pipeline adjustment
+[221]
+One issue that arises with respect to the calculation of Apotex's Lost Volumes is what is referred to as a "pipeline adjustment" or "channel stuffing". Before a sale of a drug product by a pharmacist can occur, a company must sell the product to distributors - either a retailer directly or a wholesaler who then sells the drug to a pharmacy. In general, sales of specific drugs are tracked through IMS EUTRx data. IMS data records sales made at the pharmacy level and does not include the sales made "ex factory" to supply the product pipeline.
+[222]
+In determining Lost Volumes, however, we need to account for the time lag between Apotex making a sale and a pharmacist dispensing the Apo-ramipril capsules. Each of Mr. Hamilton, Mr. Rostant and Dr. Hollis agreed that it was appropriate to make such an adjustment, where one is working with IMS data. This adjustment results in an addition to the forecasted Lost Volumes.
+[223]
+Mr. Hamilton used Dr. Carbone's forecasts for his calculations. Since Dr. Carbone's forecast did not account for the pipeline adjustment, Mr. Hamilton applied an inventory adjustment of an additional two months of capsule sales (Exhibit 120, vol 1, Schedule 2.4 at fn 5). This adjustment was based on Mr. Hamilton's comparison of Apotex's invoiced sales over a 24-month period in 2007-2008 with IMS data over the same period (Exhibit 118, vol 1 at paras 35-38).
+[224]
+Mr. Rostant made an adjustment to account for what he referred to as "channel stuffing". Mr. Rostant's calculation was made by determining incremental sales as a percentage of IMS data over the period January 2007 to April 2007 (Exhibit 26 at 32, Appendix 13). Based on his analysis of only four months of sales from the IMS data, Mr. Rostant's adjustment was roughly equal to 2.4 months of additional sales. I agree with Mr. Hamilton that this adjustment is too high (Exhibit 119 at paras 66-68).
+[225]
+Dr. Hollis undertook the most rigorous analysis of this problem. He calculated the average invoiced amount of Apo-ramipril sales for the two four-month periods following Apotex's entry into the ramipril market: January to April 2007 and May to August 2007. He then calculated Apo-ramipril sales for the same two periods using IMS data. He then compared the ratio of the average of the first four months IMS data to the actual invoice data to the ratio for the second period. He completed this exercise for each dosage strength. His results showed that the ratios (coefficients) when using IMS data were lower. Dr. Hollis next used these coefficients to adjust hypothetical sales volumes in the first four months of the Relevant Period (Exhibit 44, vol 1 at paras 96-99). Dr. Hollis's final projections of lost sales incorporate this into his overall forecasts of lost sales. Dr. Carbone criticizes Dr. Hollis's adjustment at paragraph 52 of his responding statement on the basis that it "fails to account for the subsequent draw down of the load-in inventories as wholesalers balance demand and supply as time elapses". Dr. Carbone says that Dr. Hollis erroneously assumes that wholesalers would continue to maintain a level of inventory similar to the load-in values (see Ex. 95). I agree with this criticism.
+[226]
+I agree that an inventory adjustment is appropriate. On balance, I prefer Mr. Hamilton's simple but effective method for calculating the appropriate amount of the adjustment. Accordingly, I would direct that a pipeline adjustment, computed in accordance with Mr. Hamilton's methodology be applied. That would result in an addition to the Lost Volumes of an additional two months of Apo-ramipril capsule sales for each capsule dosage strength.
+IX. Apotex's Lost Gross Sales
+[227]
+The next step is a calculation of revenues attributable to Apotex's lost gross sales. This calculation of Apotex's gross lost sales revenues is based on the number of Apo-ramipril capsules that Apotex would have sold during the period (the adjusted Lost Volumes determined in Part VIII.C(2) of these Reasons) and the prices at which Apotex would have sold the capsules (Lost Gross Sales). Simplistically stated, the product of Lost Volumes and the selling price equals the estimated lost gross sales. This step requires an analysis of pricing throughout the Relevant Period. The parties disagree with respect to the pricing of Apo-ramipril.
+[228]
+Pricing of drugs is set by provincial formularies and can differ province to province. In general, private pricing follows the public prices set out in the formularies (Exhibit 113, vol 1 at para 37). For generic drugs, pricing is set by each formulary as a percentage of the brand price. In general terms, pricing will be dependent on two variables: The number of generic manufacturers on the market; and, the regulatory pricing in place under the different provincial formularies.
+[229]
+Ontario is the most significant player in the pricing of generic drugs. In his report, Mr. Rostant set out his understanding of the pricing for the Ontario Drug Benefit (ODB) formulary (Exhibit 26 at 17). Between April 26, 2004 and December 31, 2005, the first generic would enter at 70% of the brand price. Upon second and subsequent generic entries, the price would have dropped to 63% of the brand price.
+[230]
+In June 2006, Ontario enacted Bill 102,
+Transparent Drug System for Patients Act
+, 2nd Sess, 38th Leg, Ontario, 2006 [Bill 102]. Under this legislation, which came into force in late 2006, the reimbursement level for a generic could not exceed 50% of the price of the brand product. One question that came up was the effective date for the lowering of existing prices pursuant to Bill 102. Mr. Fraser, speaking from his position of knowledge as director of drug program services with the Ontario Public Drug Programs, within Ontario's Ministry of Health, testified that there was a transition period between October 2006 and January 2007. Mr. Fahner's testimony was that Apotex only reduced its actual invoice prices to 50% as of January 1, 2007. As that date is after the end of the Relevant Period on December 12, 2006, Bill 102 is not relevant to the assessment of Apotex's losses.
+[231]
+I accept that, in Ontario, the price of Apo-ramipril would have been at a 70% level until July 26, 2004 (while Apotex was the only generic on the market); and 63% between July 26, 2004 and December 12, 2006, the end date of the Relevant Period.
+[232]
+The experts appear to agree that prices in Canada during the Relevant Period tended to be uniform across all provinces with the ODB formulary being the driver. For the period between April 2004 and December 2006, Mr. Rostant carried out his calculations for multi-generic scenarios based on an across-the-board price of 63%, except for Alberta where he used a price of 67.5% (see Exhibit 27, Appendix 1). Mr. Palmer used a price of 68% for British Columbia but 63% for Alberta.
+[233]
+For the other Canadian provinces, then, I accept, as reasonable and rationally supported by the evidence of both Mr. Palmer and Mr. Rostant, an average price of 65% of the ALTACE listed prices for the period from July 26, 2004 to December 12, 2006.
+[234]
+The remaining period - April 26, 2004 to July 26, 2004 - is that during which Apo-ramipril was the only generic brand on the market. For a single generic entrant, Mr. Rostant used a 75% price for Alberta and a 70% price for the rest of Canada. Mr. Palmer consistently used 70% across all provinces (Exhibit 113, vol 2 at Appendix H). In my view, given the short period of time and lower volumes that would have been sold in this period due to ramp-up, I am satisfied that a 70% price overall is not unreasonable.
+[235]
+Apotex submitted that it would have been able to negotiate a higher price for Apo-ramipril while it was the sole generic. In general, I accept that there are many instances, across the country, where a sole-source generic has been able to achieve a higher price for its product. I am also aware, however, that higher prices are
+not
+normally permitted and entail negotiations with provincial regulatory authorities. In the case before me I do not believe that the three months of being sole source would have permitted Apotex to obtain a price higher than the regulated formulary listings.
+[236]
+As a result, I conclude that Apotex's Lost Gross Sales should be calculated on the basis that the price for Apo-ramipril during the Relevant Period, expressed as a percentage of the ALTACE listed price, would have been:
+• 70% from April 26, 2004 to July 26, 2004; and
+• 65% from July 26, 2004 to December 12, 2006.
+I expect that Mr. Hamilton and Mr. Rostant will be able to perform the necessary calculations.
+X. Apotex's Net Lost Profits
+[237]
+Having determined the basis upon which Apotex's Lost Gross Sales should be calculated, I must address the deductions from this quantum to come up with Apotex's Net Lost Profits.
+[238]
+Mr. Hamilton applied an "incremental cost approach" to estimate Apotex's Net Lost Profits. Simply stated, Mr. Hamilton used a two-step methodology: He estimated Apotex's sales revenues for the Relevant Period and deducted incremental expenses that Apotex would have incurred in earning the lost sales revenues (Exhibit 118 at para 24). Schematically, this methodology utilizes the following steps:
+Estimate of Apotex's Lost Volumes (A)
+Estimate of lost sales revenues (A x weighted average cost of ramipril capsules = B
+)
+Less: Rebates and allowances ©
+Less: early payment discounts (D)
+Estimate of lost net sales revenue (B - © + D) = E)
+Less: cost of sales (F)
+Estimate of lost gross profit (E - F = G)
+Less: sales commissions (H)
+Less: freight and distribution expense (I)
+Estimate of lost incremental profit (G - (H + I) = J)
+Pre-judgment interest (K)
+TOTAL = J + K
+[239]
+In his second report, Mr. Rostant described his methodology and Mr. Hamilton's as a "Contribution Margin Approach" (Exhibit 27 at 4). Mr. Hamilton also opined that his incremental cost approach and Mr. Rostant's methodology were the same and that he did not note any "material differences" in the two approaches (Exhibit 119 at para 18).
+[240]
+As I understand the submissions made in final argument, there are three substantial areas of disagreement:
+• sales returns;
+• trade spend; and
+• cost of API.
+A.
+Sales returns
+[241]
+Mr. Rostant included in his calculations an amount of 0.37% as "sales returns". In his Report, he described how, when he analyzed actual sales for Apo-ramipril for the period post-genericization, he observed that the average sales returns as a percentage of gross sales was 0.37% (Sales Return Rate) (Exhibit 26 at 19). From total gross sales he deducted an amount equal to the product of the Sales Return Rate and the total gross Apo-ramipril sales.
+[242]
+Mr. Hamilton did not make any such deduction because "the sales projections provided by Dr. Carbone are based on IMS script sales (i.e. prescriptions provided to patients) which are net of sales returns" (Exhibit 119 at para 30).
+[243]
+If sales projections - i.e. Apotex's Lost Volumes - are based on "IMS script sales", then I agree with Mr. Hamilton. The problem is that I am not able to make that determination at this time, given the uncertainty with respect to the calculation of Apotex's Lost Volumes.
+B.
+Trade spend
+[244]
+One of the most significant costs to Apotex would be the allowance or "trade spend" paid to pharmacists or distributors to "entice" them to carry Apo-ramipril as a product. For the purposes of these Reasons, trade spend includes allowances provided to pharmacists and the distribution allowance paid to wholesalers but excludes prompt payment discounts. These are expenses that must be deducted from Apotex's Lost Gross Sales as a cost of sale. The parties are in disagreement as to the appropriate level of this allowance. The higher the trade spend, the lower the profit that Apotex would have earned and the lower the award of damages.
+[245]
+One point that is not in dispute is that a manufacturer's trade spend is much higher when it is selling a product into a multi-generic market. The reason is simple; in a multi-generic market, a company faces stiff competition to convince pharmacies and wholesalers to stock its version of a generic product. Once the product becomes part of a multi-generic market, allowances rise dramatically.
+[246]
+In the case before me, Apotex would have been on the market by itself for the short period of April 26, 2004 to July 26, 2004; competing with one other generic for the period between July 26, 2004 and July 31, 2006; and competing with two generics from August 1, 2006. What would have been the levels of allowances during that period of time?
+[247]
+Both Mr. Rostant and Mr. Hamilton gave their opinions with respect to the likely levels of trade spend. Mr. Rostant provided an analysis based on Apotex's experience with trade spend (a) for Apo-ramipril beginning in December 2006; and (b) for other Apotex products. The range of allowances that he provided was as follows:
+• Apotex as an exclusive manufacturer:
+[Redacted]
+;
+• Apotex with one other generic competitor:
+[Redacted]
+; and
+• Apotex with more than one competitor:
+[Redacted]
+.
+[248]
+Mr. Hamilton was asked to assume a sole-source rate of
+[Redacted]
+and a multi-source rate of
+[Redacted]
+. He assessed the reasonableness of the rebates and allowances assumptions by reviewing Apotex's actual experience with Apo-ramipril since its launch.
+[249]
+During the course of their testimony, Mr. Hamilton and Mr. Rostant came very close to an agreement that
+[Redacted]
+was a reasonable rate for a scenario with multiple participants.
+[250]
+Initially, there was some disagreement between the two experts as to the appropriate sole-source rate. Mr. Rostant admitted that "gremlins" had resulted in an erroneous sole-source rate of
+[Redacted]
+. During his oral testimony, he agreed that the correct number was
+[Redacted]
+. Thus, the range that he found for other products, where Apotex was an exclusive supplier, should have been
+[Redacted]
+.
+[251]
+As acknowledged by a number of witnesses (including Dr. Sherman, Mr. Woloschuk and Mr. Fishman), allowance rates have increased over time. Thus, by using data that post dates December 2006, Mr. Rostant may have actually overstated the likely trade spend during the Relevant Period. On the other hand, as pointed out by Mr. Hamilton, legislative initiatives in Ontario and Quebec in late 2007 limit allowances, thereby dampening the effect of increasing trade spend rates (Exhibit 118, vol 1 at para 60).
+[252]
+Apotex, in final argument, submitted that any discount allowance rate for the Relevant Period "requires a downward adjustment from any use of 2007 allowance rates". Apotex argues that the rates should be:
+[Redacted]
+for sole-source ramipril;
+[Redacted]
+for dual source (with an AG); and
+[Redacted]
+when Apotex was competing with multiple entrants. These rates are unsupportable on the evidence, except anecdotally and - perhaps -wishfully. The careful assessments by Mr. Rostant and Mr. Hamilton are to be preferred.
+[253]
+Sanofi argues that Mr. Rostant's dual-source rate of
+[Redacted]
+is too low. I acknowledge that Mr. Rostant's analysis was based on a small number of data points. However, given that the only competitor during the dual-source period would be an AG, I do not believe that
+[Redacted]
+is an unreasonable rate.
+[254]
+In sum, I am satisfied that the trade spend rates, inclusive of all allowances and discounts except for early payment discounts, should be applied as follows:
+•
+[Redacted]
+, for the period when Apotex would have been alone on the market;
+•
+[Redacted]
+, for the period when Apotex and an AG would have competed; and
+•
+[Redacted]
+, for the period when Apotex, Teva and an AG would have been on the market.
+C.
+Cost of API
+[255]
+The calculation of Apotex's damages must take into account the cost of materials used to produce Apo-ramipril in the Relevant Period. Stated simply, the higher the cost of materials, the lower the profit that Apotex would have earned and the lower the award of damages. One area of disagreement between the parties is the cost at which Apotex could have acquired the API for ramipril during the Relevant Period.
+[256]
+Mr. Rostant observed that, during the period December 2006 to April 2008, Apotex purchased API from a third party supplier and from Apotex Pharmachem Inc. (Pharmachem), a related company (Exhibit 26 at 26-27). Prices charged by Pharmachem (
+[Redacted]
+) were significantly higher than third party purchases (
+[Redacted]
+). Accordingly, Mr. Rostant did not use the non-arm's length purchase price. Rather, he used the API prices from Tektrade Ltd., the third party supplier; that is,
+[Redacted]
+.
+[257]
+For his calculations, Mr. Hamilton's estimates of API price were based on Apotex's "weighted average cost of ramipril for 2007 and 2008, which were
+[Redacted]
+and
+[Redacted]
+respectively" (Exhibit 118, vol 1 at para 84). Mr. Hamilton also noted that a portion of these actual purchases were made through a related company and commented as follows (para 84):
+If I had assumed that during the Delay Periods that Apotex would have purchased all of its ramipril from Tektrade (Aarti Industries) and therefore, would have paid
+[Redacted]
+, my estimate of Apotex's incremental cost of sales would have been reduced, and Apotex's lost incremental profits would be increased . . .
+[258]
+I prefer Mr. Hamilton's assessment on the basis of actual costs of ramipril API to Apotex in 2007 and 2008; this price reflects a "blend"of third party and Pharmachem purchases. As stated by Mr. Hamilton in his responding report (Exhibit 119 at para 52):
+I do not agree that Apotex Pharmachem's invoiced costs of ramipril (ranges from
+[Redacted]
+) should be excluded in determining Apotex's costs in the delay period. These costs are as a result of Apotex's actual decisions in acquiring ramipril upon entering the market in December 2006. As such, I have assumed that Apotex would have acted in a similar fashion if they entered the market earlier in April 2004.
+[259]
+I agree with this observation. This is also supported by the evidence of Dr. Sherman that, in 2004, the company would have bought its API from the predecessor to Pharmachem. In all likelihood, Apotex would have taken the same business decision in 2004 that it took in 2007 to buy a portion of its API at a premium from a related company. Accordingly, the price used by Mr. Hamilton in his calculations is supportable on the evidence and preferable to the API pricing used by Mr. Rostant. Specifically, I accept Mr. Hamilton's assessment of ramipril API cost as
+[Redacted]
+for 2003 to 2007.
+D.
+Other potential costs or adjustments
+[260]
+Sanofi, in final argument, raises two other areas which might require adjustments and Apotex raises one topic.
+(1) Medichem
+[261]
+The first area relates to a non-arm's length company referred to as Medichem. As described by Mr. Fahner, Medichem is "a company that Apotex utilizes in respect to payment of its allowances to customers". Medichem apparently is paid a service fee of a flat 0.75% of all allowances. Sanofi submits that this amount should be added to Apotex's cost of sales. In my view, this expense would be captured in the overall trade spend rate. No further adjustment is necessary.
+(2) Plant capacity
+[262]
+The second possible additional cost of sales could be the added costs of increasing plant capacity to accommodate the Apotex Lost Volumes. As observed by Mr. Hamilton during his testimony, there may be additional costs associated with increased production:
+My point was simply that if there is a capacity pinch, where they were getting close to running at full capacity, what Mr. Fahner suggested is he could, you know, reduce inventory carrying time or he could run a six-day shift -- a shift on a sixth day, or buy an additional piece of equipment.
+So my only point is, that being the case, I accept that, and we just need to factor that into our costing. So if there is a sixth day sometimes on the weekends, you know, there will be a shift premium you have to pay. If you are buying another piece of, I think, encapsulation equipment, you know -- and I think Mr. Fahner said about half a million, then I think, you know, we just need to factor that into the costing.
+I don't mean to suggest that they wouldn't produce it, simply that in order to produce it, they're going to have to make some sort of investment. We need to factor that into the costing. It is not currently in the costing.
+[263]
+Mr. Rostant, during his testimony agreed that these matters would have to be accounted for.
+[264]
+It seems to me that Sanofi is correct in this assertion. At this stage, I have no evidence before me that would enable me to determine that any such costs would be incurred during the Relevant Period. Accordingly, I would direct the parties to determine whether, over the Relevant Period, there would be a need for added encapsulating machinery or other added costs (such as shift premiums) - not already accounted for - to produce the Lost Volumes.
+(3) Subsequent ramp-up
+[265]
+Apotex claims that it should be entitled to recover an amount that it refers to as a second "ramp-up" or "ramp-up damages". Sanofi submits that Apotex is not entitled to any such recovery.
+[266]
+In general terms, as I understand it, the term "ramp-up" refers to the period of time that it takes a drug manufacturer after initial approval of its drug to reach its final level of sales. It takes some time to negotiate agreements with pharmacies and distributors, to get formulary listings and to physically get product to drug stores. In the hypothetical world, Apotex would have experienced a ramp-up period for which it does not seek compensation. However, Apotex
+does
+seek compensation in respect of its "real world" or "duplicate" ramp-up which it argues was only incurred because of Sanofi's actions.
+[267]
+Mr. Rostant described this "ramp up" during the "Subsequent Loss Period" (i.e. after December 12, 2006) as follows (Exhibit 26 at 33):
+When Apotex launched Apo-Ramipril in December 2006, there was a "ramp up" period before it earned profits on a fully functional basis ("Ramp Up Period"). After receiving its NOC, Apotex commenced the marketing and sale of Apo-Ramipril, including obtaining formulary listings. Had Apotex commenced sale of Apo-Ramipril at the start of the Initial Loss Period, it would have only experienced the "ramp up" at that earlier date, such that, in the period in December 2006 and following, it would have made its sales on a fully functional basis.
+. . . . [t]he lost profit associated with the ramp up period in the Subsequent Loss Period is the difference between what Apotex would have sold had it ramped up in the Initial Loss Period and what it sold in the Subsequent Loss Period when it ramped up.
+[268]
+According to the calculations of Mr. Rostant, the lost profits suffered by Apotex during the subsequent ramp-up were $9,205,121. Mr. Hamilton calculated this amount as $7,211,327 (Exhibit 119, Schedule 9).
+[269]
+Although the value of the second or duplicate ramp-up period is obviously a loss to Apotex, it is a loss occurring after the Relevant Period. The scope of a claim under s. 8 of the
+PM (NOC) Regulations
+was addressed by the Court of Appeal in
+Alendronate (FCA)
+, above. In that case, Apotex had pleaded that, under s. 8 of the
+Regulations
+, it was entitled to damages in respect of "lost sales and permanent market share" (see
+Alendronate (FC)
+, above at para 118). Most relevant to the question before me, the Court of Appeal held that s. 8 does not include damages for "future losses", such as decreased market share due to delayed entry into the generic market. It is worthwhile repeating the determinative portion of the decision, at paragraphs 99 to 102:
+[99] According to the analysis of the Federal Court Judge, the losses claimed by Apotex were
+caused
+during the period since that is when Apotex was prevented from occupying the market and obtaining the market share which, based on its claim, it would otherwise have had. No one takes issue with this reasoning. The question is whether the decrease in sales which occurs in future years as a result of this decreased market share comes within section 8. The Federal Court Judge, by allowing the claim for losses beyond "May 26, 2005" to proceed, answered this question in the affirmative.
+[100] When regard is had to the broad grant of authority conferred by subsection 55.2(4) of the
+Patent Act
+, it seems clear that the measure of the compensation which can be awarded under the
+PM(NOC) Regulations
+is a matter within the discretion of the Governor-in-Council. It is also clear that in keeping with the purpose of the
+PM(NOC)
+Regulations and the balance which the
+Patent
+Act seeks to achieve, a range of compensation was open to the Governor-in-Council in the exercise of this discretion.
+[101] In this case, we have the advantage of knowing that in 1998 the Governor-in-Council focused on this very issue, and chose to limit the measure of the losses which can be compensated by way of damages to those
+suffered
+during the period. No issue of principle flows from this. The Governor-in-Council could have extended the measure of the losses to include those
+caused
+during the period, regardless of when they are
+suffered
+. However, it did not do that.
+[102] The Governor-in-Council's clearly expressed intent must be given effect to. This excludes compensation for losses occurring in future years since such losses cannot be said to have been suffered during the period. It follows, for instance, that Apotex's entitlement to damages for lost sales resulting from the alleged decrease in its market share must be confined to sales that can be shown to have been lost within the period. In order to be compensated, the losses must be shown to have been incurred during the period. I therefore conclude that the appeal should be allowed on this limited point. [Emphasis in original]
+[270]
+Apotex argues that the decision of the Court of Appeal in
+Alendronate (FCA)
+did not extend to a claim for subsequent ramp-up. I do not agree. The holding of the Court of Appeal is directly applicable to this type of loss. Apotex is claiming for a loss that may have been caused during the Relevant Period but that was not incurred during that time. The claimed loss - however named - falls squarely within the exceptions set out in
+Alendronate (FCA)
+and, unfortunately, is not recoverable.
+[271]
+If I am wrong in my application of
+Alendronate (FCA)
+to the facts before me, I have made no attempt to reconcile the differences between Mr. Rostant's $9,205,121 and Mr. Hamilton's $7,211,327.
+XI. Unapproved Indications
+[272]
+One final issue to deal with relates to the possibility of an adjustment to Apotex's Net Lost Profits to reflect the sale of Apo-ramipril for unapproved indications.
+[273]
+Sanofi, in its pleadings, claims that:
+• Apotex was not in a position to market or sell Apo-ramipril . . . for any use other than for the treatment of hypertension (Amended Statement of Defence at para 23); and
+• Apotex's ramipril product is only approved for a limited indication (Amended Statement of Defence at para 36).
+[274]
+From the evidence and arguments presented before me in this trial, it is clear that the factual context of Sanofi's argument is specifically the "HOPE indications", which are discussed in greater detail below. By Order dated November 25, 2011, this Court dismissed an appeal from an Order of Prothonotary Aalto, in which he denied a motion by Sanofi to amend its pleadings to include specific reference to the HOPE indications. In that Order, I stated that Sanofi was not precluded from presenting its legal argument that s. 8 does not contemplate recovery of damages in respect of lost sales of a generic product for an unapproved indication.
+[275]
+Sanofi submits that the "loss" referred to in s. 8 of the
+PM (NOC) Regulations
+does not contemplate recovery by a second person for sales attributable to an unapproved indication or use. Thus, Sanofi argues, the damages awarded to Apotex should include a "downward significant adjustment to Apotex's recoverable loss" to reflect sales of Apo-ramipril that would have been attributable to the HOPE indications.
+[276]
+Sanofi put forward Dr. Peter Lin, a physician, to describe the HOPE study and its effects on practising physicians. Dr. Lin provided great assistance in understanding the HOPE indications, drugs useful in the treatment and prevention of cardiovascular events and the prescribing practices of physicians.
+[277]
+As described by Dr. Lin and other witnesses, the HOPE study was a Canadian-led study, apparently undertaken with the involvement of Sanofi's predecessor company, Hoechst. The study assessed the role of ramipril in patients who were at high risk for cardiovascular events but who did not have left ventricular dysfunction or heart failure (Exhibit 122 at Tab 4: The Heart Outcomes Prevention Evaluation Study Investigators, "Effects of an Angiotensin-Converting-Enzyme Inhibitor, Ramipril, on Cardiovascular Events in High-Risk Patients" (January 20, 2000) 342:3 NEJM 145 at 145 [NEJM]). The investigators found that ramipril was "beneficial in a broad range of patients without evidence of left ventricular systolic dysfunction or heart failure who are at high risk for cardiovascular events" (NEJM, above at 150). In particular, the investigators reported that "[t]reatment with ramipril reduced the rates of death, myocardial infarction, stroke, coronary revascularization, cardiac arrest, and heart failure as well as the risk of complications related to diabetes and of diabetes itself" (NEJM, above at 150). Thus, the term "HOPE indications" has come to be associated with the patient profiles from the HOPE study where vascular protection was demonstrated.
+[278]
+The results of the HOPE study were first presented in August 1999 at the European Society of Cardiology meeting in Barcelona, and later reported in the January 20, 2000 edition of the New England Journal of Medicine (Exhibit 122 at fn 3, Tab 4). Sales of ALTACE immediately increased quite dramatically (Exhibit 82 at 1932).
+[279]
+ALTACE was approved for the HOPE indications on February 13, 2001. However, as shown in the table at paragraph 27 of these Reasons, Sanofi did not protect its claim to the use of ALTACE for the HOPE indications until 2005, when the two HOPE Patents were granted and Sanofi obtained two listings on the Patent Register. By that time, the rate of increase of sales of ALTACE had started to slow down.
+[280]
+One of the last steps in a drug approval process is the finalization of the product monograph. The product monograph, in part, sets out the uses or indications for which the drug is intended. The NOC issues with reference to the product monograph. From time to time, negotiations take place between Health Canada and a generic manufacturer as to what the approved indications will be. Apotex, having initially included the HOPE indications in its product monograph, removed those indications on December 14, 2006. In our hypothetical world, it is therefore likely that Apotex's final product monograph, as of April 26, 2004, would not have included reference to anything other than hypertension. In other words, as of April 26, 2004, Apotex would likely have launched Apo-ramipril with no reference to the use of ramipril to treat proteinuaria ('948 Patent) or the HOPE indications ('549 and '387 Patents). As we know, Sanofi had listed these patents on the Patent Register.
+[281]
+In spite of the "limited approval", it is more likely than not that some sales of ramipril during the Relevant Period would have related to the HOPE indications. The question is whether Apotex can recover for those sales.
+[282]
+Sanofi submits that Apotex is not entitled to recover in respect of ramipril sales during the Relevant Period that would have been made to address the HOPE indications. Since Apotex would have had no entitlement to make sales of Apo-ramipril for the HOPE indications during the Relevant Period, it therefore cannot now claim a loss attributable to those sales.
+[283]
+While Sanofi's argument has logical appeal, it is not supported by the facts (or - in my view - the law) which demonstrate that sales of generic drugs for unapproved or "off-label" prescriptions can and do, legally, take place. There are a number of arguments that run counter to Sanofi's submission:
+• the fact that generic manufacturers do not promote drug products for specific indications;
+• the fact that off-label prescribing and substitution take place and that product monographs are not relevant to physicians;
+• the fact that, in the real world, Sanofi did not oppose the listing of Apo-ramipril as fully interchangeable with ALTACE; and
+• the availability to Sanofi of an action for patent infringement with respect to the HOPE Patents.
+[284]
+I will discuss each of these.
+[285]
+First, I observe that generic products are not promoted for specific uses, but are instead sold as drug products. Dr. Sherman's testimony in this regard is clear and credible:
+Q. Who do you promote your products to, sir?
+A. Only to pharmacists.
+Q. And --
+A. Just for the filling of prescriptions, not for the writing [of] prescriptions.
+Q. In promoting to pharmacists, what use, if any, do you make of monographs?
+A. We don't.
+Q. Okay. Does Apotex market its products to patients?
+A. No.
+Q. Does Apotex sell its products directly to patients?
+A. No.
+[286]
+Sanofi places much emphasis on the various versions of product monographs submitted by Apotex, some of which included reference to the HOPE indications. It is true that the originally-filed product monograph for Apo-ramipril included unapproved indications. As explained by Dr. Sherman, this is because Health Canada's policy is that generic monographs should mirror as closely as possible the monograph of the brand product. Sanofi's argument could have some traction if the product monograph formed the basis on which ramipril was marketed or sold. This is not the situation.
+[287]
+It appears that approved indications in product monographs are not determinative in the promoting, prescribing or selling of drugs. Dr. Lin, during cross-examination, acknowledged that he was not aware if any of the Apo-ramipril monographs were distributed to doctors, pharmacists or patients.
+[288]
+Dr. Lin testified that doctors started prescribing ALTACE for the HOPE indications immediately after the presentation of the HOPE study results in August 1999. This was some 18 months before Sanofi received its NOC with respect to the HOPE indications. This was "off-label" prescribing, or the prescription of a product for a use that is not set out in a product monograph. This practice was common, particularly with a known drug such as ALTACE. As stated by Dr. Lin:
+Q. And you say that off-label prescribing is a common and accepted practice?
+A. When there is a trial that is ahead of the indication. So, in other words, we follow what the trials are saying. If there is benefit for people, then often times we would prescribe that medication to protect those people, especially because the medication is already there.
+[289]
+There appears to be nothing "illegal" about off-label prescribing. Nor does Sanofi plead illegality.
+[290]
+It seems that a significant number of physicians would have prescribed generic ramipril for the HOPE indications during the Relevant Period, even if those indications were not included in the generic's product monograph. While I did not hear evidence from any front-line pharmacist, I am prepared to accept that the more usual practice would be for the pharmacist to substitute, even where ALTACE is written on the prescription. As Dr. Lin pointed out, this result would have likely occurred in any event as a result of mandatory generic substitution (Exhibit 124 at 2889).
+[291]
+I have no evidence that, at the time when Apo-ramipril was launched in late 2006, Sanofi opposed the listing of Apotex's product as fully interchangeable; or that Sanofi required Apotex (or any other generic entrant) to obtain a limited listing for its product.
+[292]
+It is, therefore, more likely than not that Apotex would have been able to make sales for the HOPE indications during the Relevant Period, without objection. It follows that any sales made during the Relevant Period which were solely related to the HOPE indications are still lost sales that Apotex would have made in the absence of Sanofi's statutory stay, and losses for which Apotex is entitled to recover under s. 8.
+[293]
+If Sanofi believes that Apotex is infringing or inducing infringement of the HOPE Patents, then Sanofi has a cause of action under the
+Patent Act
+, RSC 1985, c P-4. In that regard, I note that, since Apotex and other generics began selling generic ramipril, Sanofi - who is no stranger to litigation - has not brought an action against any of the manufacturers for infringement of the HOPE Patents.
+[294]
+Even if Sanofi is correct, and s. 8 prevents a second person from recovering for sales for an unapproved use, there is insufficient evidence to merit a reduction of Apotex's damages on the facts of this case.
+[295]
+I conclude that Apotex is not precluded from recovering losses associated with the HOPE indications. That is not to say that a second person may
+always
+recover for unapproved indications. Another s. 8 claim may provide a clear defence in the pleadings and a different set of facts that would warrant a different finding or a downward adjustment to the second person's damages pursuant to s. 8(5) of the
+Regulations
+. But, not in this case.
+XII. Conclusions
+[296]
+In concluding, I would like to make a general comment. As noted at the beginning of these Reasons, right before the trial of this matter, I heard a companion case in Court File No. T-1161-07 -
+ <FRAGMENT_SUPPRESSED>  two cases. However, each case proceeded separately, with a different record. I wish to assure the parties and the readers that my decision in each case was made completely on the basis of the arguments made and the records before me in the applicable case.
+[297]
+Having addressed all of the issues before me, I am quite disappointed that I cannot finalize a quantum of damages. However, I am hopeful that Sanofi and Apotex, with the capable assistance of their lawyers and experts can quickly agree on a final amount to be paid by Sanofi to Apotex based on these Reasons for Judgment.
+[298]
+In summary, the key findings that I have made, on the basis of the record before me, are as follows:
+1. The Relevant Period for the determination of Apotex's Net Lost Profits commences on April 26, 2004 and ends on December 12, 2006.
+2. The Ramipril Market during the Relevant Period should be quantified in accordance with the calculations of Dr. Hollis.
+3. The Generic Market during the Relevant Period should be quantified in accordance with the calculations of Dr. Hollis.
+4. Apotex's Lost Volumes should be calculated on the basis that Apotex would have entered the market as of April 26, 2004, an authorized generic would have entered on July 26, 2004 and Teva would have entered on August 1, 2006, with Apotex holding the following shares of the Generic Market:
+a. April 26, 2004 to July 26, 2004 (Period 1) - 100%;
+b. July 26, 2004 to August 1, 2006 (Period 2) - 70%; and
+c. August 1, 2006 to December 12, 2006 (Period 3) - 50%.
+5. A pipeline adjustment, computed in accordance with Mr. Hamilton's methodology should be applied, resulting in an addition to the Lost Volumes of an additional two months of Apo-ramipril capsule sales for each capsule dosage strength.
+6. With respect to the calculation of Apotex's Net Lost Profits:
+• pricing of Apo-ramipril during the Relevant Period, expressed as a percentage of the ALTACE listed price, would have been:
+o 70% during Period 1; and
+o 65% during Periods 2 and 3;
+• if necessary, an amount for "sales returns" should be accounted for;
+• allowances (trade spend) in the following percentages, including distribution allowances, sales discounts, credit card discounts and cost of free goods, should be included as a cost of sales at the rates of:
+o
+[Redacted]
+for Period 1;
+o
+[Redacted]
+for Period 2; and
+o
+[Redacted]
+for Period 3;
+• a price of
+[Redacted]
+for API should be applied;
+• no adjustment should be made in respect of Medichem;
+• the parties are to direct their minds to the Apotex Lost Volumes to determine whether, over the Relevant Period, there would be a need for added encapsulating machinery or other added costs (such as shift premiums)- not already accounted for - to produce the Lost Volumes and, if so, to account for these costs;
+• no adjustment is to be made with respect to the duplicate ramp-up period; and
+• no adjustment should be made in respect of unapproved indications.
+7. Pre-judgment and post-judgment interest is payable on the award of damages as follows:
+• pre-judgment interest, not compounded, calculated separately for each year since April 26, 2004 at the average annual bank rate established by the Bank of Canada at the minimum rate at which the Bank of Canada makes short-term advances to the banks listed in Schedule 1 of the
+Bank Act
+, SC 1991, c 46; and
+• post-judgment interest, not compounded, at the rate of 5% established by the
+Interest Act
+, RSC 1985, c I-15, s. 4.
+[299]
+In addition, there is the question of costs. I would hope that the parties can agree on costs. In the event that the parties cannot agree on the amount of costs by June 15, 2012, they may make submissions to this Court, such submissions not to exceed ten pages. The parties will have a further 15 days to make reply submissions, if they choose, not to exceed five pages.
+[300]
+I wish to express my gratitude to counsel for their diligence, competence and professionalism throughout the pre-trial matters and the trial. You brought me solutions not problems! Thank you.
+POSTSCRIPT
+[301]
+The Confidential Reasons for Judgment were released to the parties on May 11, 2012. Upon release of the Confidential Reasons, the parties were requested to advise the Court of portions of the Reasons and Judgment that they wished redacted for the Public Reasons. This version of the reasons contains redactions of small portions of the Confidential Reasons for Judgment. Each of Sanofi and Apotex were very reasonable in their requests and, with one exception, I have accepted that all of the suggested redactions will be incorporated into the Public Reasons and Judgment. In each case, I am satisfied that the risks to a party of the release of the sensitive commercial information outweigh any public interest in having access to that information. Moreover, even with the redactions, I believe that a reader is able to understand the nature of the evidence and the reasoning applied to reach the relevant finding. Parallel redactions have also been made to paragraph 2(f)(iv) and 2(f)(v) of the Judgment.
+[302]
+The one exception is contained in paragraph 216, where I have redacted some, but not all, of the requested portions. In my opinion, the fact that Sanofi had prepared an internal market analysis report is not surprising or commercially sensitive. In addition, this report formed the basis for some of my findings on market share. Thus, while I have redacted the specific numbers and other details regarding the report, the overall reference to the report remains for context and understanding.
+[303]
+Also, post-release of the Reasons and Judgment, Apotex commented on three parts of the Judgment that did not accord with the Reasons. Apotex was right. The following amendments have been made to the Judgment:
+1. The reference in paragraph 1 to "2.5, 5 and 10 mg capsules of Novo-ramipril" should be to "1.25, 2.5, 5 and 10 mg capsules of Apo-ramipril".
+2. The reference in paragraph 2(d)(f)(i), third bullet, to"50% during Period 3" should be to "65% during Period 3".
+3. Paragraph 2 of the Judgment indicates that "Sanofi is ordered and directed to calculate and pay . . .". Apotex points to paragraphs 297 (as well as paragraphs 220, 236 and 264) and inquires whether it was the Court's intention to have both parties, Sanofi and Apotex, and their respective counsel and experts undertake a joint calculation necessary to arrive at the lost profits damages". That was certainly the Court's intention and the Judgment is amended to reflect that intention.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/vnh
+Appendix A - List of Witnesses
+I. List of Witnesses
+A.
+Plaintiff's fact witnesses
+(1) Dr. Bernard Charles
+Sherman
+Dr. Bernard Charles Sherman is the chairman and chief executive officer of Apotex. He testified regarding Apotex, the development of Apo-ramipril, and the pharmaceutical and generic markets. Dr. Sherman also discussed various hypothetical scenarios.
+(2) Mr. Gordon
+Fahner
+Mr. Gordon Fahner is Vice President, Business Operations and Finance  <FRAGMENT_SUPPRESSED> . Mr. Fahner discussed sales, formulary listing and pricing, Apotex's capacity, and the costs of production.
+(3) Ms. Anne
+Bowes
+Ms. Anne Bowes is the director of the Office of Patented Medicines and Liaison Therapeutic Products Directorate at Health Canada. Between 2006 and 2007, Ms. Bowes was manager and associate director of that unit. She participated in various discussions regarding the issuance of Apotex's NOC for Apo-ramipril. Ms. Bowes spoke to the submissions and patents relating to ALTACE; the submissions for Apo-ramipril, including the effect of the decision in
+AstraZeneca (SCC
+), above; the effect that the Prohibition Order would have had on the issuance of an NOC to Apotex following the dismissal of
+Ramipril NOC #3 (FC)
+; the submissions for Novo-ramipril and Riva-ramipril.
+B.
+Plaintiff's expert witnesses
+(1) Mr. Derek Anthony
+Rostant
+Mr. Derek Anthony Rostant was qualified by the Court as an expert in forensic accounting, financial investigations, business valuation and quantification of economic loss. Mr. Rostant provided opinions on Apotex's lost profits, as well as the issue of the second ramp-up.
+(2) Dr. Aidan
+Hollis
+Dr. Aidan Hollis was qualified by the Court as an expert in industrial organization and economics, with particular expertise in pharmaceutical markets and pricing competition and incentives therein. Dr. Hollis gave opinion evidence on Apotex's lost volumes in various scenarios, the likely price at which Apo-ramipril would have been sold, and the probability of various scenarios.
+C.
+Defendant's fact witnesses
+(1) Mr. Jean-François
+Leprince
+Mr. Jean-François Leprince was president and chief executive officer of Hoechst from 1998 until early 2000. Following the transition of that company into Aventis, Mr. Leprince retained the position of president until the end of 2004. After the acquisition of Aventis Pharma by Sanofi, Mr. Leprince remained the advisor and consultant to the company's new chief executive officer until 2005. Mr. Leprince testified regarding the possibility of Sanofi launching an authorized generic and the applicable approval process. Mr. Leprince also spoke to the effect of the HOPE study on ALTACE sales.
+(2) Mr. Bohdan (Bob)
+Woloschuk
+Mr. Bob Woloschuk was the vice president of business development for ratiopharm from early 2003 until August 2010, and was then employed by Teva in an integration role until October 2010. Mr. Woloschuk described ratiopharm's interest in being an authorized generic for ramipril, the company's agreement with Sanofi, the launch of its product, and subsequent amendments to the agreement. Mr. Woloschuk also discussed the profitability of authorized generics, including ratiopharm's ramipril product, and trade spend in the generic ramipril market.
+(3) Mr. Brent
+Fraser
+Mr. Brent Fraser is the director of drug program services with the Ontario Public Drug Programs, within Ontario's Ministry of Health. He has held that position since 2005, having joined the Ministry in 1997. Between 2002 and 2005, Mr. Fraser was the associate director of pharmaceutical services coordination, and then director of the drug system secretariat. In his testimony, Mr. Fraser discussed Ontario's formulary, pricing, interchangeability, reimbursement and drug submission regimes. Mr. Fraser also spoke to the regulation of rebates and professional allowances.
+(4) Ms. Franca
+Mancino
+Ms. Franca Mancino is a director with Sanofi and is responsible for regulatory affairs and pharmacovigilance. She has been employed by Sanofi or its predecessors since 1993. Ms. Mancino discussed her involvement in regulatory activities related to ALTACE and ratiopharm's authorized generic; authorized generics; the indications for ALTACE; and Sanofi's patent listings with respect to ALTACE. Ms. Mancino also testified regarding Apotex's status with respect to the HOPE Patents.
+(3) Mr. Benoit
+Gravel
+Mr. Benoit Gravel is vice president of sales for Sanofi. He first joined one of Sanofi's predecessors in 1987. Mr. Gravel became involved with ramipril in 2000 as vice president of commercial affairs, and was responsible for marketing and sales of ALTACE until 2005. Mr. Gravel discussed Sanofi's response to the possibility of generic entry into the ramipril market, as well as the steps Sanofi would have taken to prepare for generic entry in the "but for" world; the launch of an authorized generic for ramipril; and the promotion of ALTACE in the real and hypothetical worlds. Mr. Gravel also testified regarding the circumstances in which Sanofi launches authorized generics and Sanofi's experience with authorized generics. In addition, Mr. Gravel discussed the ALTACE and ramipril markets, as well as Apotex's status with respect to the HOPE Patents.
+(4) Mr. Barry
+Fishman
+Mr. Barry Fishman is president and chief executive officer of Teva. Mr. Fishman testified regarding Teva's capacity to supply the Canadian market for ramipril from 2003 onwards; the development and launch of Novo-ramipril; the actions Teva would have taken in certain hypothetical scenarios; and various aspects of the generic pharmaceutical market, including authorized generics.
+(5) Dr. David
+Goodman
+Dr. David Goodman is the chief executive officer of Pharmascience. He testified regarding a number of topics, including the actions Pharmascience would have taken had Riva obtained an NOC in 2004 or if Pharmascience had been the sole generic; Pharmascience's cross-licenses with Riva; Pharmascience's ability to supply the Canadian market for ramipril from 2004 onwards; and the price of API and other ingredients for ramipril.
+(6) Ms. Manon
+Decelles
+Ms. Manon Decelles is Sanofi's director of business development and acquisitions. She was involved in the launch of an authorized generic for ALTACE, and described her work in that area, as well as Sanofi's practice with respect to authorized generics.
+(7) Mr. Olivier
+St. Denis
+Mr. Olivier St. Denis did not appear as a witness in this trial, but his testimony from the Teva trial was accepted as evidence in this proceeding. Mr. St. Denis is Riva's executive vice president of business development. Mr. St. Denis spoke to a number of topics including the indications for Riva's ramipril product; the cross-license between Riva and Pharmascience; the actions Riva would have taken had it gained market entry in 2004; and Riva's presence outside of Quebec.
+D.
+Defendant's expert witnesses
+(1) Dr. Robert
+Carbone
+Dr. Robert Carbone was qualified by the Court as a pharmaceutical industry consultant with expertise in forecasting methods, data analysis and quantitative economics. Dr. Carbone opined on the calculation of Apotex's lost sales in various hypothetical scenarios.
+(2) Mr. W. Neil
+Palmer
+Mr. W. Neil Palmer was qualified by the Court as a pharmaceutical industry consultant with expertise in the formulary listing, market access, reimbursement policies and pricing regimes of the Canadian pharmaceutical marketplace. Mr. Palmer provided opinions on likely formulary listing dates and prices for generic ramipril manufacturers in various but for scenarios, as well as the regulatory framework for the pharmaceutical marketplace more generally. In addition, Mr. Palmer discussed the relationship between public and private pricing.
+(3) Mr. Ross
+Hamilton
+Mr. Ross Hamilton was qualified by the Court as a chartered accountant with expertise in investigative forensic accounting and quantification of damages in commercial and intellectual property disputes. Mr. Hamilton provided opinions on the assessment and quantification of Apotex's lost profits in various hypothetical scenarios.
+(4) Dr. Peter
+Lin
+Dr. Peter Lin was qualified by the Court as a physician and a director at the Canadian Heart Research Centre, with expertise in the practice of family/general medicine, including the treatment of cardiovascular diseases. Dr. Lin opined on the impact of the HOPE indications on the prescription of ramipril and sales of ramipril; physicians' prescribing practices with respect to ramipril and the HOPE indications; and whether certain product monographs for Apo-ramipril included the HOPE indications. In addition, Dr. Lin discussed some of the conditions referenced in various patents relating to ramipril.
+(5) Dr. Iain A.
+Cockburn
+Dr. Iain A. Cockburn was qualified by the Court as an economist with expertise in pharmaceutical marketplaces. Dr. Cockburn provided opinions on the factors that impact the Canadian pharmaceutical marketplace, the factors that influence market demand for ramipril, and the relative merits of time series forecasting and econometric models for analysing pharmaceutical market outcomes.

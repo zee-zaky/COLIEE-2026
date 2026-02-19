@@ -1,0 +1,490 @@
+[1]
+Kane, J.
+: This is an appeal by AbbVie Biotechnology Ltd. [AbbVie] of a decision dated March 27, 2014 by the Commissioner of Patents refusing to grant a patent on Canadian Patent Application No. 2,385,745 [the '745 Application]. The appellant contests the Commissioner's finding that claims 1-12 and 27-51 [the Claims] were not patentable under section 2 of the
+Patent Act
+, RSC 1985, c P-4 [the Act], because they were directed to methods of medical treatment.
+Overview
+[2]
+The appellant submits that the Commissioner erred by applying the wrong definition of a "method of medical treatment" by failing to rely on the established case law dealing with the proper interpretation of "invention" in the Act and, by misinterpreting the jurisprudence and inappropriately acting on the basis of a new policy that is inconsistent with the prevailing jurisprudence. The appellant submits that because the Commissioner erred in law, the Court should apply the standard of correctness and arrive at its own conclusions on the evidence presented.
+[3]
+The appellant describes the new patent as a "one size fits all" patent. The claim clearly provides a fixed dosage at a fixed interval and no skill or judgment needs to be exercised. The expert evidence does not indicate that any adjustments to the dosage or its frequency would be needed. Therefore, the patent does not restrict methods of medical treatment or the skill and judgment of the physician, because no skill or judgment is needed to be exercised within the claim.
+[4]
+The appellant submits that if the Court agrees that the Commissioner erred, then the Court should direct that the patent issue. The Commissioner has already determined that the claims at issue are not anticipated and not obvious, and there are no other issues to examine. The patentee has been delayed for several years by these proceedings and no further delay should occur.
+[5]
+The respondent submits that the Commissioner identified and applied the correct legal tests. The Commissioner's determination that the claims were not statutory subject matter is a finding of fact that should be reviewed on the standard of reasonableness whereby interference on behalf of the Court is only warranted if there is palpable and overriding error, given the deference owed to the Commissioner's special expertise.
+[6]
+The respondent emphasizes that the claims at issue are use claims which include a bi-weekly dosage and, as such, are not vendible products. The respondent submits that any claim that includes a dosage, whether fixed or in a range, restricts the physician's exercise of skill and judgment and seeks to patent a method of medical treatment.
+[7]
+The respondent submits that the Commissioner made reasonable findings based on the evidence and the common general knowledge.
+[8]
+For the reasons that follow, I find that the issues raise a question of law which is reviewable on the standard of correctness. The Commissioner erred in interpreting the jurisprudence and in finding that the patent claimed a method of medical treatment. The appeal is allowed and the Commissioner of Patents is directed to allow the claims at issue.
+Background
+[9]
+The appellant is the owner of a patent for anti-human TNF Antibodies (known as "Humira" or "D2E7") [Humira], which is commonly used to treat autoimmune diseases, such as rheumatoid arthritis, and intestinal disorders, such as inflammatory bowel disease. This patent is valid until February 10, 2017.
+[10]
+On May 10, 2002, the appellant filed the '745 Application, which claims the use of Humira in the treatment of these diseases, using a fixed dosage amount (40 mg) on a fixed schedule (bi-weekly).
+[11]
+On March 22, 2011 an Examiner issued a Final Action rejecting the application, pursuant to subsection 30(3) of the
+Patent Rules
+, SOR/96-423 [the Rules]. The appellant responded on September 22, 2011 and replaced its 203 Final Action Claims with 126 Amended Claims [the Amended Claims]. The Examiner decided that the Amended Claims did not overcome all the defects and referred the Application to the Patent Appeal Board [the Board].
+[12]
+On August 20, 2013, the Board invited the appellant to submit one set of proposed claims [the Proposed Claims] addressing all outstanding defects. The appellant did so on November 5, 2013. The Proposed Claims include: claims 1-12 (the syringe claims), claims 13-26 (the kit claims), claims 27-39 (Swiss-type use claims) and, claims 40-51 (use claims).
+[13]
+There is no dispute about the construction of the claims. The essential elements are: a preloaded syringe of 40 mg of the drug Humira for the treatment of arthritic disease or an inflammatory bowel disease; administered subcutaneously; for use on an every other week dosing interval of 14 days (i.e., bi-weekly).
+The Decision of the Commissioner of Patents
+[14]
+On March 27, 2014 the Commissioner accepted the Board's recommendation and refused the '745 Application.
+[15]
+The Board's analysis begins with a construction of each of the Amended Claims. Several of the appellant's resubmitted Proposed Claims (i.e. claims 13-26 and claims 1-12) were transformed from product claims to use claims in order to overcome the identified defects. The applicant included a new use limitation - that Humira be limited to a specific dosage (40 mg) and a specific dosing schedule (bi-weekly/every 14 days).
+[16]
+Upon re-examination, the Board found that this limitation caused the claims to be directed to a method of medical treatment and were, therefore, unpatentable.
+[17]
+The Board noted the general distinction in the case law between claims to vendible products which are patentable and claims related to professional skill and judgment of the medical profession which are not patentable. It acknowledged the applicant's submissions and reliance on the Federal Court's decisions in
+ <FRAGMENT_SUPPRESSED>  FTR 113 (Eng) [
+Merck 1
+],
+ <FRAGMENT_SUPPRESSED>  FTR 1 (Eng) [
+Merck 2
+] and
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 14, where the Court had construed similar use claims as vendible products.
+[18]
+However, the Board interpreted the case law as having established "that the mere presence of these two features [i.e., a fixed dosage and fixed dosing schedule] in a claim is not always sufficient to avoid the method of medical treatment prohibition". The Board noted that this fact
+was first
+addressed in
+ <FRAGMENT_SUPPRESSED>  FTR 311 (Eng) [ <FRAGMENT_SUPPRESSED> ] where the Federal Court held that claims which cover an area for which a physician's skill or judgment is expected to be exercised constitute methods of medical treatment.
+[19]
+In
+Janssen,
+the Court relied on expert evidence to find that the titration regimen claimed was only a recommendation to physicians; effective patient management could require on-going individualized surveillance and dosing adjustments. The Court concluded that it was an unpatentable method of medical treatment because it "covers an area for which a physician's skill or judgment is expected to be exercised" (above, at para 26).
+[20]
+The Board noted that <FRAGMENT_SUPPRESSED> had been recently affirmed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  NR 17 [ <FRAGMENT_SUPPRESSED> ].
+[21]
+With respect to the claims before it, the Board noted that the appellant had shown that unlike the claims in <FRAGMENT_SUPPRESSED> or <FRAGMENT_SUPPRESSED> , the statements in the claims that suggested that physicians were expected to determine the dosage, were simply boiler plate language and, in fact, the dosage was as set out in the claims.
+[22]
+However, the Board did not agree with the appellant that the concern underlying <FRAGMENT_SUPPRESSED> - that is, the interference with the ability of physicians to exercise their skill and judgment -- is limited to claims which cover a range of doses and/or dosing intervals from which a medical practitioner could be required to make a selection. The Board noted that, as in <FRAGMENT_SUPPRESSED> , the "concern with patenting a dosage regimen is that the physician may be prevented from exercising skill and judgment in using a known compound for an established purpose absent a licence from the patentee".
+[23]
+The Board concluded at paragraph 155 of its decision:
+Therefore, consistent with the reasoning  <FRAGMENT_SUPPRESSED> , which we are bound by, the granting of monopoly rights to a dosage regimen featuring biweekly, subcutaneous administration of a dose amount of 40 mg would place restrictions on "how and when" the old and known human monoclonal anti- TNF α antibodies are to be administered. This would interfere with the ability of physicians to exercise their judgment in the administration of generic versions of the drug which will eventually become available, or indeed with the administration of Humira ™ absent a licence for the regimen.
+[24]
+The Board found that the claims at issue are directed to methods of medical treatment and are not patentable.
+The Issues
+[25]
+The first issue is whether the applicable standard of review governing this decision of the Commissioner of Patents is that of correctness or reasonableness. If the appropriate standard of review is reasonableness, the issue is whether the Commissioner's decision "falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" (
+ <FRAGMENT_SUPPRESSED> [2008] SCR 190 [ <FRAGMENT_SUPPRESSED> ]).
+The Standard of Review
+The appellant's position
+[26]
+The appellant submits that the applicable standard of review is correctness because the matter raises the question whether the Commissioner applied the correct definition of invention in section 2 and correctly interpreted a "method of medical treatment", which is a question of law. The question requires the interpretation of the jurisprudence which the Courts are as well suited to answer as the Commissioner.
+[27]
+The appellant notes that if the issue focussed on the content of the claims and, for example, engaged questions of science or medical practice, these would be questions of fact and the Commissioner would be owed deference (
+ <FRAGMENT_SUPPRESSED>  DLR (4th) 577 [
+Amazon
+])
+.
+The appellant argues that the respondent has not identified any question of fact in dispute that would be reviewed on a standard of reasonableness.
+[28]
+The appellant also submits that the Commissioner does not have any discretion to refuse a patent on policy grounds (
+ <FRAGMENT_SUPPRESSED>  [
+Harvard College
+]).
+[29]
+In this case, the appellant submits that the claims were already found to be new, useful and non-obvious; if this Court finds, on a correctness analysis, that they also fall within the scope of section 2 of the Act, the Court should direct the Commissioner to issue the patent.
+The respondent's position
+[30]
+The respondent submits that the Board and Commissioner considered a large amount of evidence and the common general knowledge to make findings of fact, which included findings about prescribing practices.
+[31]
+The respondent submits that the Commissioner correctly identified the legal tests for "methods of medical treatment" and the construction of the claims, and that the real issue is the Commissioner's application of these tests to the particular facts. The appeal does not raise a pure question of law, but of mixed fact and law and, therefore, should be reviewed on the standard of reasonableness.
+[32]
+The respondent suggests that the appellant misunderstands the principle in
+Harvard College
+; in that case, the Court dealt with, for the first time, the issue of whether a higher life form could be patented which it found to be a question of law reviewable on the standard of correctness. However, the Court noted, at paragraph 151, that a standard of review analysis may be needed depending on the question before the Court.
+[33]
+The respondent submits that the question here is not whether a use claim is patentable but whether the claims at issue are methods of medical treatment which is a factual determination.
+[34]
+The respondent argues that, even if questions of law are engaged, the Commissioner is still owed some deference. The Court should conduct a standard of review analysis to determine whether deference is warranted (
+Harvard College
+, above, at paras 119-120, 151; <FRAGMENT_SUPPRESSED> ,
+above
+, at paras 55-56).
+[35]
+The respondent further submits that the reasonableness standard can apply in the context of the Act, as found in
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 424 [
+Newco Tank
+].
+The Standard of Review is Correctness
+[36]
+The Supreme Court of Canada's decisions in
+Harvard College
+,
+ <FRAGMENT_SUPPRESSED>  [2002] SCR 153 [
+AZT
+] and the Federal Court of Appeal's decision in
+Amazon
+support the appellant's position that the applicable standard of review is correctness.
+[37]
+In
+Harvard College
+the issue was whether section 2 of the Act encompassed higher life forms. The Court determined that this issue was reviewable on the standard of correctness since it dealt with a pure determination of the law which had significant precedential value, making the Courts just as suited to decide the issue as the Commissioner (
+Harvard College
+, above, at para 119). The Court acknowledged that, in some cases, decisions to refuse or grant patents may be accorded deference, but in the case before it, the nature of the question was determinative- and the question was a pure question of law.
+[38]
+As the respondent remarks, in
+Harvard College,
+the Court noted that the standard of review of the decision of the Commissioner of Patent would not always be correctness and a standard of review analysis may be required, but found, after considering the factors in the standard of review analysis, that the correctness standard was applicable.
+[39]
+Justice Bastarache, writing for the majority, noted at paragraph 119:
+While the decision to refuse to grant a patent may in some cases be accorded deference, the nature of the question is in this case determinative. In my view, the courts are as well placed as the Commissioner to decide whether the definition of invention in s. 2 of the Patent Act encompasses higher life forms, since this question approaches a pure determination of law that has significant precedential value.
+[40]
+In
+AZT
+(released concurrently), the Court affirmed its decision in
+Harvard College
+, noting that the statutory limits of patentable subject matter is a question of law reviewable on a standard of correctness. In
+AZT
+, the issue focussed on whether the claimed invention met the statutory test of utility which is a question of mixed fact and law (at para 42). It was, therefore, reviewable on a reasonableness standard and required the Court to assess whether the Commissioner's decision could withstand a somewhat probing examination (at para 44).
+[41]
+The respondent also raised
+Newco Tank
+in support of the reasonableness standard. However, in that case the question was one of mixed fact and law and the parties had agreed that the standard of review should be the reasonableness standard.
+[42]
+In
+Amazon,
+Justice Sharlow cited
+Harvard College
+and agreed that the question whether the claimed invention is within the scope of the definition of "invention" in section 2 of the Act is a question of law reviewable on the standard of correctness (at para 17). Questions of patent construction are also questions of law, but "any factual determinations made by the Commissioner in connection with the construction of the patent should be reviewed on the standard of reasonableness" (para 18).
+[43]
+The issues raised in the present case involve a question of law rather than the application of specific facts to a given test. The Commissioner's focus was on determining "the statutory limits of patentable subject matter" (
+AZT
+, above, para 42) - that is, the nature and extent of the prohibition against methods of medical treatment. Once he made this determination, he went on to consider whether the claim as construed fell within the limits as he (and the Board) had interpreted them from the jurisprudence relied upon.
+[44]
+Although, this question of law is about the definition of "invention" under section 2, it is not a question of statutory interpretation. Rather, the question is about the application of the principles derived from the jurisprudence. Despite the expertise of the Commissioner of Patents, the Courts are well qualified to interpret the jurisprudence.
+[45]
+The Commissioner relied on the interpretation of one case,
+Janssen,
+which the Board and Commissioner found to be binding. Whether the Commissioner properly interpreted that case is a question of law.
+[46]
+As in
+Harvard College
+, the question at issue - whether the claim includes a method of medical treatment that would not be patentable subject matter - has significant precedential value, which also suggests that no deference is owed to the Commissioner.
+[47]
+This determination also has precedential value because it marks either a departure from the established law or a refinement of the established law, which also injects a new policy rationale not set out in the case law prior to <FRAGMENT_SUPPRESSED> and not reiterated in the subsequent case law which was brought to the Court's attention.
+[48]
+There are no facts in dispute. The appellant is not pursuing the kit claims. As noted above, there is no dispute about the construction of the claims. The Commissioner found that the claims were not anticipated and not obvious. Therefore, the only issue is the Commissioner's interpretation of patentable subject matter, and more specifically, the scope of the prohibition on methods of medical treatment.
+[49]
+Therefore, the appeal raises a question of law and the standard of review is correctness.
+Is the Commissioner's decision that the claims were directed to a method of medical treatment correct?
+The appellant's position
+[50]
+The appellant submits that the claims at issue, with a fixed dosage amount and fixed dosage interval, fall properly within the definition of "invention" under section 2 of the Act and are consistent with the policies underlying that provision.
+[51]
+The appellant notes that the Act encourages invention and improvements on existing inventions and that the present invention is such an improvement. The invention was described by the expert as a "game changer"; it is new, useful and not obvious and although it was not expected to work, it was found to be surprisingly effective for use in the form of the syringe with 40 mg of the drug to be administered bi-weekly.
+[52]
+The appellant notes that the basic concept of a patent is to restrict the use by others of the invention, unless there is consent or a licence by the patentee. Accordingly, the focus of the Commissioner and the respondent on the notion that physicians and other users would be restricted in exercising their choice to use the invention is misplaced. The focus should rather be on whether that choice is restricted by the claims. The choices made and the skill and judgment exercised outside the claims of the patent (i.e., when determining whether the particular drug should be prescribed and used as set out in the claim) are not restricted.
+[53]
+The appellant submits that Commissioner's concern regarding the potential to limit prescribing practices of physicians is a concern that applies to almost
+any
+pharmaceutical claim. However, this concern has never made claims unpatentable.
+[54]
+The appellant argues that the Commissioner applied the wrong legal test to determine whether the claims were directed to methods of medical treatment and came to an incorrect decision; the claims at issue are
+not
+directed to methods of medical treatment.
+[55]
+The appellant notes that jurisprudence regarding the prohibition against claims to methods of medical treatment can be traced back to the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED>  DLR (3d) 459 [
+Tennessee Eastman
+] where the Court found that claims to a surgical method of closing incisions in animal tissue did not constitute a "process" as used in the definition of "invention" under section 2 of the Act (at paras 15, 2-5).
+[56]
+The principle  <FRAGMENT_SUPPRESSED>  Eastman
+is not limited to health care; rather, it is that claims to the exercise of professional skill are not inventions and cannot be patented and monopolized. As noted in
+Amazon,
+the focus should be on the governing principles.
+[57]
+The appellant submits that
+Tennessee Eastman
+, which remains good law, as applied in the context of drug patents, should be understood as follows: when claims are found to be directed to methods of medical treatment and, therefore, are not inventions, it is because their subject matter is non-economic; not because section 2 of the Act is directed toward prohibiting restrictions on the ways in which doctors treat patients. In other words, the principle applies to prohibit restrictions on the exercise of any professional skill, not only that of health care professionals (
+ <FRAGMENT_SUPPRESSED> FTR 160 (Eng) [ <FRAGMENT_SUPPRESSED> ]).
+[58]
+The appellant submits that the respondent's reliance on
+AZT
+as support for the proposition that the "how and why" cannot be patented is too broad and must be put in context, including that
+AZT
+was about sound prediction and the Supreme Court of Canada only devoted three paragraphs to the issue of patentable subject matter.
+[59]
+Moreover, there is a distinction between the concept that patents may cause certain treatment choices to be infringing (which is a reality for compound, formulation, and use claims), and the concept that there can be no invention for an idea that tells skilled professionals how to exercise their skill. It is only the latter concept that improperly "fences in" or restricts the skill and judgment of the professional.
+[60]
+The appellant submits that the jurisprudence has established the approach to determining whether a claim is a method of medical treatment which is not patentable or a vendible product which is patentable; the Board has followed the same approach in its own decision-making (
+Allergan Inc, Re
+, (2009) 79 CPR (4th) 161 (PAB) at para 93 [
+Allergan
+]). The test is as follows: where the invention involves a physician exercising skill and judgment to pick a dosage or the emphasis is on a dosage range, there is no "invention"; but, where the dosage in a claim is specific and does not cover a range of choices presented to the professional, there is an "invention".
+[61]
+However, the distinction is not simply whether or not the patent claims a dosage range. The issue is whether the claims contain within them the restriction on choice - i.e., whether they restrict the use of skill. A dosage range signals that the exercise of skill is being monopolized. However, if there is no range claimed, there is no attempt to monopolize the exercise of skill since none is needed.
+[62]
+The appellant argues that the Commissioner erred in distinguishing
+Merck 1
+and
+Merck 2
+and by relying on
+Janssen.
+The case law is consistent - but the facts of the cases differ, as do the results. The present claims are analogous to
+Merck 1
+and
+2
+rather than
+Janssen.
+The claims are vendible products requiring a specific dosing amount to be taken on a specific dosing schedule, and no skill or judgment is brought to bear.
+[63]
+The appellant submits that in <FRAGMENT_SUPPRESSED> , the Court applied the same long-standing principles, but based on the expert evidence that was accepted by the Court, Justice Barnes found that the claims at issue did not set out a specific dosage on fixed schedule and rather dealt with a method of medical treatment because the titration regime, which itself included ranges, was also found by the experts to require monitoring and adjustments by the physician.
+[64]
+Similarly, in <FRAGMENT_SUPPRESSED> , the claim involved two fixed dosage amounts with an interval of "about one a year" which the experts indicated really meant between six to twelve months. As such, it encompassed a range of professional choices, making it unpatentable.
+[65]
+The appellant points out that the Commissioner acknowledged that the present claims differed from <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> and that, unlike in those cases, "there is nothing in the description or claims to suggest that an appropriate dosage regimen includes a range of doses and/or range of dosing intervals from which a medical practitioner would be required to make a selection." However, the Commissioner still found the claims to be unpatentable. The appellant submits that there is no factual foundation to support this finding. The only basis for the conclusion of the Commissioner was his reliance on
+Janssen,
+which he misread. <FRAGMENT_SUPPRESSED> does not change the law.
+[66]
+The appellant also argues that the respondent's attempt to distinguish the applicable jurisprudence is without merit. The cases relied upon, with the exception of
+Re Allergen
+, are
+Patented Medicines (Notice of Compliance) Regulations
+cases, but the same principles about patentability apply. Similarly, the majority of the cases relied on address claims for use and the same principle regarding patentable subject matter applies regardless of whether the claim is a use or a product claim.
+[67]
+The appellant submits that the Commissioner's decision implements a recent change in policy, set out in the Canadian Intellectual Property Office [CIPO] document, entitled Examination Practice Respecting Medical Uses, PN 2013-14, dated June 10, 2013 [the Guidelines], and it attempts to create a new exclusion. This policy provides that "inventions preventing physicians from exercising their skill and judgment in using a known compound for an established purpose effectively cover a method of medical treatment". This policy is not based on the Act and inappropriately seeks to import considerations of anticipation (the notion of known compounds for established purposes) into the subject matter analysis under section 2.
+[68]
+The appellant argues that it is an error of law for the Commissioner to import this additional policy rationale regarding access to health care into the definition in 2 of the Act
+.
+The Commissioner cannot deny a patent on policy grounds; where the criteria of the Act are met, the patent must be issued (
+Harvard College
+, above at para 152). If Parliament intends to restrict patents for this reason, it should amend the Act.
+The respondent's position
+[69]
+The respondent agrees that the Act encourages innovation. The role of the Commissioner is to grant patents to innovations, but the Commissioner must be satisfied that the definition of invention under section 2 is met.
+[70]
+The respondent submits that the Commissioner correctly identified and applied the law, and that the appellant is challenging the factual findings of the Commissioner, which should be reviewed on a reasonableness standard.
+[71]
+The respondent notes that the claims at issue were originally product claims that were amended to overcome defects and transformed into use claims. While such amendments are not unusual, the respondent suggests that as use claims, the application of the principle that methods of medical treatment are not patentable, is different.
+[72]
+In addition, the respondent argues that the appellant misunderstands the Commissioner's reasons and the jurisprudence governing the unpatentability of claims that "fence in" the skill and judgment of a medical practitioner.
+[73]
+In
+AZT
+, the Supreme Court of Canada found that the patent at issue did not seek to "fence in" an area of medical treatment, noting that "[H] ow and when, if at all, AZT is employed is left to the professional skill and judgment of the medical profession." (at para 50). It was, therefore patentable. The respondent argues that, where the claim
+does
+fence in the method of medical treatment, it is not patentable.
+[74]
+The respondent argues that the drug, Humira, which is patented, was already in a syringe. The only difference now is the 40 mg fixed amount and the bi-weekly dosage. This element adds the "how and when" and "fences in" the prescribing practice. If physicians must decide not to prescribe it because 40 mg bi-weekly is not appropriate for the patient, this "fences in" the prescribing practice.
+[75]
+The respondent submits that the appellant is stuck on terminology and has focussed on fixed dosages and schedules as opposed to ranges, rather than considering the broader principle. The method of medical treatment prohibition aims to prevent monopolies over the exercise of professional skills and judgment (
+Tennessee Eastman
+). There is a distinction between claims for drugs and claims for how and when drugs are used. The respondent argues that the inclusions of a fixed dosage or a fixed schedule are not the deciding factors.
+[76]
+The respondent disputes the appellant's argument that there is no exercise of skill, and hence no method of medical treatment, in using a fixed dosage amount and fixed schedule.
+[77]
+The respondent points out that Justice Barnes repeated the prohibition against claiming the "how and when, if at all" of employing a compound in <FRAGMENT_SUPPRESSED> , stating that: "What I take from the above authorities is that a patent claim over a method of medical treatment that, by its nature, covers an area for which a physician's skill or judgment is expected to be exercised is not patentable in Canada" ( <FRAGMENT_SUPPRESSED> , above, at para 26).
+[78]
+The respondent also relies on <FRAGMENT_SUPPRESSED> to support the Commissioner's understanding of the underlying purpose of the prohibition.
+[79]
+The respondent distinguishes the claims from those  <FRAGMENT_SUPPRESSED>  1
+and
+2
+because in those cases the claims did not direct the prescribing practice because the product was new and vendible, i.e., it was a pill and the physician would determine how many to administer. The respondent suggests
+Merck 1
+and
+2
+were not medical use claims. The present claims direct the use of the drug in a dosage of a 40 mg syringe. In addition, the claims direct the prescribing practice as bi-weekly and this element interferes with the exercise of skill and judgment and is a method of medical treatment.
+[80]
+The respondent notes that if a yearly dosage was found not to be patentable  <FRAGMENT_SUPPRESSED> ,
+then a bi-weekly dosage should also not be patentable.
+[81]
+The respondent agrees that the policy set out in the Guidelines is not the law, but notes that it reflects <FRAGMENT_SUPPRESSED> , and the Commissioner did not err by relying on <FRAGMENT_SUPPRESSED> . The respondent explains that the Guidelines set out policy but do not fetter the Commissioner's discretion in applying the Act. To the extent that the Guidelines are not consistent, the Act and case law govern.
+[82]
+The respondent also suggests that physicians may have been prescribing Humira in a bi-weekly dosage and by patenting the dosage claimed, the exercise of the physicians' skill will be restricted and the existing prescribing practice will risk infringing the patent.
+The Commissioner erred; the case law was misinterpreted
+[83]
+The appellant and respondent fundamentally disagree about the nature of the prohibition against methods of medical treatment and about the jurisprudence that governs.
+[84]
+Based on a chronological review of the relevant jurisprudence, I agree with the appellant that the principle first established  <FRAGMENT_SUPPRESSED>  Eastman,
+which has evolved and been adapted to apply to patents for drugs and the use of drugs, has been applied consistently by the Courts to the facts before them.
+The relevant jurisprudence
+[85]
+In
+Merck 1
+, the patent claimed the use of a 70 mg tablet to be administered once a week, for the treatment of male baldness. Justice Mosley considered the principle  <FRAGMENT_SUPPRESSED>  Eastman
+prohibiting methods of medical treatment, which would include the work of a physician which requires the exercise of skill. Justice Mosley found that the claim at issue was for a vendible product, having real economic value and was patentable.
+[86]
+In Axcan,
+the patent claimed the use of 13-15 mg of the drug per kg of the patient's weight per day, for the treatment of primary biliary cirrhosis. Justice Harrington considered the relevant case law including
+Tennessee Eastman
+and
+AZT
+and found that the claim was for a method of medical treatment and not patentable. Justice Harrington noted that "it is up to the physician based on his or her knowledge of the patient's rate of metabolism and other factors to determine the appropriate daily dosage" (at para 46).
+[87]
+Justice Harrington distinguished
+Merck 1
+, noting, at paragraph 48, that the claim was for tablets with a strict dosing regime and the "how and when" of administration was not part of the patent, whereas in <FRAGMENT_SUPPRESSED> "the number of capsules to prescribe is a matter between the patient and her doctor, and does not form part of a monopoly protected by Letters Patent. Therefore, the patent is invalid because it claims a method of medical treatment." He also noted, at paragraph 51, that "there is a distinction between the dosage in a capsule and a dosage range based on the patient's weight. As I read the claim, the emphasis is on the dosage range, and a dosage range is not a vendible product".
+[88]
+In Allergan Inc,
+the Patent Appeal Board considered a claim for the use of 50-300 units of botulinum toxin, (i.e., botox) for the treatment of pain associated with muscle disorders. The Board referred to
+Tennessee Eastman
+,
+Merck 1
+, and <FRAGMENT_SUPPRESSED> noting that "[f]rom this limited jurisprudence we may take that, if a dosage is claimed as part of the patent monopoly it must not be in the form of a range, such that in order to determine the appropriate dosage for a particular patient, specific knowledge of that patient is required, and judgment is required based on that knowledge, matters which fall within the skills of the physician, and are therefore unpatentable. As Mr. Justice Harrington put it, the dosage must be in "vendible product" form, and not in the form of a guideline to physicians" (at para 93).
+[89]
+The Board determined that the particular dosage within the range would be based on the physician's professional judgment of the physiology of the patient. The Board concluded, "[t]he claim seeks to fence in a range within which physicians must exercise their professional skill and judgement in any given case, and therefore, the claims are directed to an unpatentable method of medical treatment" (para 95).
+[90]
+In Merck
+2
+, the patent claimed the use of a 1.0 mg of the drug for the treatment of osteoporosis which Justice Hughes construed as a daily dosage.
+[91]
+Justice Hughes reviewed the case law to determine whether the claim was directed to a method of medical treatment. He noted Justice Harrington's "careful and thorough analysis" in <FRAGMENT_SUPPRESSED> , which had led him to find "the claim to be invalid because it was directed to a dosage range in which it was left to the physician to make an appropriate selection" (at para 112).
+[92]
+Justice Hughes referred to
+Tennessee Eastman
+and
+Merck 1
+and also cited
+Re Allergan
+, with approval. He noted that
+Re Allergan
+is not different than <FRAGMENT_SUPPRESSED> as the claims were also directed to a range of dosages within which a physician would make a selection (at para 113).
+[93]
+Justice Hughes noted that "a distinction must be made between claims that rely upon the skill and judgment of a medical practitioner and those that deal with a vendible product, be it a scalpel, X-ray machine or 1 mg tablet that are to be used or prescribed for use by such practitioner. In the present case, we have a 1.0 mg tablet taken as a daily dose. No skill or judgment is brought to bear. It is a vendible product and not a method of medical treatment" (at para 114).
+[94]
+In <FRAGMENT_SUPPRESSED> , the patent claimed the use of galantamine to treat Alzheimer's disease in a titration regimen of a first dosage of 8 mg/day for 2-10 weeks, followed by 16 mg/day followed by 24 mg/day, each with a duration of 2-4 weeks.
+[95]
+Justice Barnes reviewed the jurisprudence regarding the prohibition on patenting methods of medical treatment and the expert evidence and concluded that the claim was unpatentable. Justice Barnes summarized the jurisprudence, including
+ <FRAGMENT_SUPPRESSED>  16 CPR (4th) 251, <FRAGMENT_SUPPRESSED> and
+Merck 2,
+at para 26:
+[26] What I take from the above authorities is that a patent claim over a method of medical treatment that, by its nature, covers an area for which a physician's skill or judgment is expected to be exercised is not patentable in Canada. This would include the administration of a drug whereby the physician, while relying upon the dosage advice of the patentee, would still be expected to be alert and responsive to a patient's profile and to the patient's reaction to the compound.
+[96]
+In analyzing the claim in question, Justice Barnes scrutinized the expert evidence and based on the expert evidence that he accepted, noted that the administration of the drug involved "... considering a number of individualized factors" and "does not begin and end with the manufacturer's dosing advice. In this context, the titration regimen claimed by Janssen can only be seen as a recommendation to physicians. Effective patient management may require on-going individualized surveillance and concomitant dosing adjustments" (at para 50).
+[97]
+At paragraph 51, Justice Barnes noted his concerns about patents for methods of medical treatment:
+[51] The argument by Janssen and its witnesses that the '950 Patent is helpful to physicians and therefore does not interfere with their skill and judgment misses the point of concern in the authorities. The concern with the patenting of a dosage regimen is that the physician may be prevented from exercising skill and judgment in using a known compound for an established purpose absent a license from the patentee. It is surprising to me that the Janssen witnesses failed to address the problem of imposing a monopoly over the prescribing practices of the medical profession. When Dr. Gauthier was asked about this, it was evident that he had no idea that the enforcement of the '950 Patent might impose practice limitations on physicians attempting to prescribe galantamine. When counsel for Mylan pressed Dr. Gauthier on this point, Janssen's counsel responded that this was really a question of law that the witness was not qualified to answer. While there is undoubtedly a legal aspect to this question, all of Janssen's witnesses could have been asked to comment on how the '950 Patent's proposed monopoly over a medicinal dosing regimen using an old drug for an established purpose might affect the ability of physicians to appropriately treat their patients. It is only within that framework that the question of whether the '950 Patent covers a method of medical treatment could be fairly and properly addressed - and here the Janssen witnesses failed to squarely speak to it.
+[98]
+Justice Barnes concluded at paragraph 52 that the relevant claims covered a method of medical treatment.
+[99]
+In addition to the conclusion about the particular claim, Justice Barnes noted that a physician attempting to administer a generic version of galantamine to treat Alzheimer's disease by the method claimed by the '950 Patent (i.e., the titration regimen) would infringe unless the physician had a licence or permission from Janssen.
+[100]
+Justice Barnes also addressed whether the principle  <FRAGMENT_SUPPRESSED>  Eastman
+should be revisited and noted at paragraph 53:
+[53] "Notwithstanding the intervening repeal of s 41, Tennessee  <FRAGMENT_SUPPRESSED> , remains good law in Canada because the policy concerns it recognized continue to be valid. Quite apart from the problem of "evergreening", the rationale for excluding such patents is that, for ethical and public health reasons, physicians should not be prevented or restricted from applying their best skill and judgment for fear of infringing a patent covering a pure form of medical treatment (as distinct from a vendible medical or pharmaceutical product). This is a particularly obvious concern in a case like this where the '950 Patent effectively blocks the use of a known compound (galantamine) for an established purpose (treating Alzheimer's disease) using a well-known treatment methodology (titration)."
+[101]
+In <FRAGMENT_SUPPRESSED> , the patent claims at issue were directed to the use of zoledronic acid for the treatment of osteoporosis. Claims 10 and 11 did not claim any dosage range, but claimed administration at intervals of about one year. Claim 13 claimed a dosage range from about 2 mg to about 10 mg. Claims 14, 15 and 16 claimed a specific dosage of about 5 mg.
+[102]
+In considering whether the claims were directed to a method of medical treatment, Justice Hughes reviewed the jurisprudence beginning with
+Tennessee Eastman, Merck 1, Merck
+2,
+Axcan,
+and
+Re Allergen.
+[103]
+Justice Hughes then noted the more recent decision in <FRAGMENT_SUPPRESSED> , regarding the use of galantamine in a titration regimen to treat Alzheimer's disease. He noted (at para 89) that Justice Barnes had reviewed the law and concluded that "claims of a patent which cover an area for which a physician's skill or judgment is expected, is not patentable" and based on the evidence before him, Justice Barnes had found that the claims covered a method of medical treatment.
+[104]
+Justice Hughes then summarized at paragraphs 91-92:
+[91] What the jurisprudence establishes is that a claim to a vendible product, including a substance intended for the treatment of a medical condition, can be good subject matter for a patent claim. Thus, claims such as the following are proper subject matter:
+∙ the substance X for the treatment of Y
+∙ the substance X in the form of a 5 mg tablet for the treatment of Y
+[92] What is improper subject matter is a claim that encompasses the skill of a medical professional, such as:
+∙ the closure of a surgical incision by the use of adhesive X
+∙ the use of substance X in a dosage range between A and B for the treatment of X
+[105]
+Justice Hughes concluded that because each claim at issue included treatment by intermittent dosages, some with a range and others with a specific dosage, and some requiring more frequent intervals of dosing than others, the claims covered "that which lies within the skill of the medical practitioner and are thus invalid" (at para 99).
+[106]
+In <FRAGMENT_SUPPRESSED> , the claims at issue were directed to the use of a composition (estrogen and gestagen) drug, in oral dosage form, for contraception. All the claims except claim 8 provided for a range of dosages for one or both of the estrogen and gestagen components. Justice Hughes referred to his review of the law on the method of medical treatment  <FRAGMENT_SUPPRESSED> .
+He then summed up the issue before him at paragraph 162:
+[162] The point, however, is not whether a commercial product is provided with fixed dosages and regimens. The point is, what do the claims say? All claims at issue are use claims, not product claims. All but claim 8 claim the use as a contraceptive of a two-component drug with each component to be selected from a choice of components, and with each component to be furnished at a dosage within a range of dosages. Claims 1, 2, 6 and 7 are not proper subject matter for a Canadian patent, as they do not claim a vendible product; they provide for a choice to be made by those prescribing or providing contraceptive drugs to choose between a variety of components and a variety of dosage ranges. Only claim 8 survives, as it is directed to a single dosage of each of two compounds.
+The Jurisprudence is Consistent
+[107]
+The appellant views the prohibition against "fencing in" or restricting professional skill as targeting claims which include a range of activities within which a professional operates. Fixed dosages and precise scheduling regimes in the claim do not involve the exercise of discretion or skill on the part of the professional. Therefore, this should be permissible.
+[108]
+The respondent views the prohibition as preventing any patenting of the "how and when" in the administration of a drug. This broad prohibition would target all claims to dosage regimes, whether they are fixed or fall within a range, or whether they involve some professional judgment or none at all. The respondent's position, more generally, is that the inclusion of any dosage and dosage interval, no matter how specific, in a patent is fatal.
+[109]
+On the respondent's interpretation, the claims in <FRAGMENT_SUPPRESSED> 1
+and
+2
+and claim 8  <FRAGMENT_SUPPRESSED> ,
+which were all use claims, should have all been impermissible. The respondent's interpretation could also prohibit the patenting of any drug that is pre-packaged and required to be taken at a fixed interval and "as is" - just as proposed for Humira.
+[110]
+The respondent's approach appears to overlook that the professional- in this case the physician- must still exercise their skill and judgment to decide whether or not the claimed invention should be used as claimed (i.e., whether it is appropriate for a particular patient). Once that is determined, there may be no further need to exercise skill and judgment to vary the claimed way to use the invention. It is not expected and it is not necessary. The expert evidence about the invention will inform whether skill and judgment is expected or necessary to be exercised.
+[111]
+In the present case, there is no evidence to suggest that the bi-weekly dosage is not fixed and precise and that further skill and judgment would be expected to be exercised. The Commissioner acknowledged this, yet still found that the claims sought to patent the exercise of skill and judgment.
+[112]
+The respondent cautioned against relying on catch phrases rather than principles. In my view, the jurisprudence reflects that approach - the principle has been applied regardless of the Courts' references to "fencing in" or to "fixed dosages". The issue in every case has been whether the patent claims a method of medical treatment. In applying the same principles, claims to fixed dosages and schedules which do not involve any professional decision-making have been accepted as patentable.
+[113]
+However, just because the claims involve a fixed dosage and schedule does not mean that they are automatically patentable, nor does it mean that they constitute unpatentable subject matter. The fixed dosage and schedule may be a good signal or starting point, but the evidence about that claimed dosage regime and schedule may indicate that it is not exactly as it is claimed and that adjustments are needed which requires skill and judgment.
+[114]
+The review of the relevant case law supports the appellants' understanding of the principles from the jurisprudence and demonstrates that the Courts have consistently found that a claim directed to the exercise of professional skill or judgment is not patentable. However, a claim which does not restrict, or interfere with, or otherwise engage professional skill or judgment - including a claim for a fixed dosage and or a fixed dosage schedule or interval- is not impermissible subject matter where there is no evidence to contradict that claimed dosage. Contrary to the Commissioner's decision and the respondent's position, <FRAGMENT_SUPPRESSED> has not changed the law.
+[115]
+The present claim is for a vendible product. It does not restrict the physician's choice or skill that would be relied on at the outset to determine whether that vendible product should or should not be prescribed. The case law has established that a use claim may be a vendible product.
+[116]
+The Commissioner and respondent rely on <FRAGMENT_SUPPRESSED> to support the position that the patent claims the exercise of professional skill and judgment and that this is contrary to the policy underlying the prohibition. However, this position may have overlooked the specific facts of <FRAGMENT_SUPPRESSED> and that Justice Barnes' comments arose from those facts.
+[117]
+In <FRAGMENT_SUPPRESSED> , the claims involved a range with several variables; the titration regimen is itself a type of range and the physician must start slowly and adjust the dosage amount, over time, based on the progress of the patient. In addition, the expert evidence indicated that the physician would be required to monitor the patient's progress and make adjustments to the amount and to know when to increase the amount (that is, exercise his skill and judgment). Justice Barnes also noted that the patent claimed a known drug for an established purpose using the well-known titration treatment or approach. The patenting of that dosage regime, which was found to require the same exercise of skill and judgment as always, could not be patented and was a method of medical treatment.
+[118]
+Justice Barnes noted that the jurisprudence taught that a patent which claimed a method of medical treatment that covers an area "for which a physician's skill or judgment is expected to be exercised" would not be patentable. He noted that this would include a claim with dosage advice where the physician "would still be expected to be alert and responsive to a patient's profile and to the patient's reaction to the compound" (at para 26, emphasis added).
+[119]
+Justice Barnes' comment that physicians "should not be prevented or restricted from applying their best skill and judgment for fear of infringing a patent covering a pure form of medical treatment" does not, in my view, support the Commissioner's or the respondent's broader position that a dosage regimen in a claim is contrary to policy. Justice Barnes referred to a patent "covering a pure form of medical treatment (as distinct from a vendible medical or pharmaceutical product)" (at para 53). That remains the issue in every case - to determine if what is claimed, is a form of medical treatment or a vendible product.
+[120]
+The Commissioner and respondent have seized on this passage as the policy or law to be applied and which is also reflected in the new Guidelines, above. However, this must be examined in the context of the claims that Justice Barnes was presented with. The patent claimed a "pure form of medical treatment" - a titration regimen that would require adjustments to the dosage and when to increase it and was already the known approach. The concern expressed by Justice Barnes about the restrictions such a patent would impose does not arise in every claim and is not a new principle. The principle remains the same - where the patent claims a method of treatment or the exercise of professional (in this context, the physician's) skill and judgment, such that it restricts or interferes with it, it is not patentable.
+[121]
+In the present case, the physician's skill is not expected to be exercised within the claim. The prescribing practices are not restricted. The physician must exercise skill and judgment to determine if the claimed use is appropriate for the patient. The physician decides to prescribe it as is or not at all. If prescribed, there would be no restriction on the exercise of skill or judgment. The evidence is that this dosage with the bi-weekly interval is appropriate for all those to whom it is administered.
+[122]
+The claims of the present case do not claim the exercise of the physician's skill and judgment. It would not be needed or expected because the fixed dosage does not require adjustments. In addition, the bi-weekly dosage is a new approach. It was found to be not obvious and not anticipated. Unlike <FRAGMENT_SUPPRESSED> , it does not seek to claim a well-known approach.
+[123]
+The appellant also submits that the Commissioner sought to implement a new policy exclusion in the Guidelines, and argues that this is inconsistent with the policy articulated by the Supreme Court of Canada which is based on the notion that patents must be directed to economic matters involving trade and commerce, and not to professional judgment or skill in any area, including medicine.
+[124]
+The respondent agrees that the Act and the jurisprudence govern, rather than the Guidelines, if there is inconsistency. However, the respondent argues that the Commissioner relied on
+Janssen,
+which the Commissioner indicated he was bound by, rather than the new policy exclusion.
+[125]
+I find that the Commissioner erred in interpreting <FRAGMENT_SUPPRESSED> as a change in the law rather than an application of the prevailing jurisprudence to the particular claims and the evidence. Similarly, the Commissioner's reliance on the references in <FRAGMENT_SUPPRESSED> to underlying policy concerns to support the Commissioner's decision that the claims "would place restrictions on "how and when" the old and known human monoclonal anti- TNF Antibodies are to be administered" and "would interfere with the ability of physicians to exercise their judgment in the administration of generic versions of the drug which will eventually become available or indeed with the administration of Humira ™, absent a licence for the regimen" ignore that in <FRAGMENT_SUPPRESSED> , Justice Barnes' policy concerns were directed at a pure form of medical treatment. To the extent the Commissioner sought to advance a new policy direction to vendible products, he went too far.
+[126]
+As the appellant notes, in
+Harvard College,
+at paragraph 119
+,
+Justice Bastarache confirmed that the Commissioner cannot refuse a patent on policy ground
+:
+Nor do I agree with the minority of the Federal Court of Appeal's position that the Commissioner's decision is owed deference for the reason that he has a discretion to refuse a patent on public policy grounds. To refuse a patent, the Commissioner must be satisfied that the applicant is not "by law" entitled to the patent, wording which indicates that the Commissioner has no discretion independent of the
+Patent Act
+to consider the public interest when granting or denying a patent.
+[127]
+I find that the claims do not violate the prohibition against methods of medical treatment and that, applying the correct law, the claims in this case would be patentable.
+The Remedy
+[128]
+The appellant submits that where the correctness standard applies and the Court finds that the decision is not correct, the Court can and should order that the patent issue. In this case, the only issue to be determined is whether the claims are patentable subject matter.
+[129]
+The appellant notes that the kit claims are not being appealed. The remaining claims at issue are claims 1- 12 (the syringe claims) and claims 27-51 (the Swiss use and use claims).
+[130]
+The appellant disputes the respondent's argument that the claims should still be re- examined by the Commissioner. The appellant notes that there is no dispute about the common general knowledge or the person of skill in the art, which are the only two points raised by the respondent. There is no reason to send this back to the Commissioner for re-examination as there is nothing remaining to be re-examined.
+[131]
+Once all the requirements of the
+Patent Act
+are met, the Commissioner has no discretion to refuse the patent.
+[132]
+The respondent concedes that the amended and proposed claims are properly before the Commissioner. The respondent originally argued that the Proposed Claims were only considered with regard to overcoming the defects identified in the Amended Claims and were not comprehensively examined for compliance with the Act and the Rules. However, this argument and the application of new rules which came into force shortly before the Commissioner made the decision is not being pursued.
+[133]
+The respondent argues that, even if the Court finds that the Commissioner did not apply the correct legal principles, the Court should send the application back to the Commissioner to re-examine the claims applying his subject matter expertise in accordance with the Court's reasons or directions.
+[134]
+I find that the appellant has established that the only issue to be resolved is the patentability of the subject matter claimed. The Commissioner had already found the claims to be not anticipated and not obvious. The claims were examined, amended, and re-examined and the Commissioner conducted his careful analysis throughout this process. There is nothing more to re- examine.
+[135]
+The Commissioner incorrectly determined that the claims covered a method of medical treatment and were not patentable. The claims are patentable and should, therefore, issue.
+[136]
+In the result, the appeal is allowed and pursuant to section 41 of the Act, the Patent Commissioner is directed to allow the claims at issue of the '745 Application.
+JUDGMENT
+[137]
+THIS COURT'S JUDGMENT is that
+:
+1. The appeal is allowed;
+2. Canadian Patent Application No. 2,385,745 ('745 Application) is amended pursuant to s.31(d) of the
+Patent Rules
+as follows:
+i) All claims currently on file are cancelled; and
+ii) Proposed Claims Nos. 1-12 and 27-51 as referenced in paragraph 12 of the Reasons are added and renumbered consecutively beginning with claim No. 1;
+3. The Commissioner is directed to notify the applicant as soon as feasible that the amended '745 Application is allowable; and
+4. The appellant shall have its costs of the appeal.
+Appeal allowed.
+Editor: Elizabeth M.A. Turgeon/bk
+[End of document]

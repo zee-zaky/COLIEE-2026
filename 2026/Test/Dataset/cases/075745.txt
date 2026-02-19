@@ -1,0 +1,1053 @@
+Editor's Note: The following explanatory note was included on the back of the face page (Page 2) of the original version of the judgment distributed by the court "Words Found in Square Brackets Were Inserted by the Court, and Are Either: (1) Summaries of Redacted Portions of the Top Secret Reasons for Order and Order, Or; (2) substitutes for Words in the Top Secret Reasons for Order and Order That Would Be Injurious to National Security or Endanger the Safety of Any Person If Disclosed. Also, the Length of Certain Redactions, Reflected by the Blacked out Bar in the Within Reasons, Does Not Accurately Reflect the Actual Length of the Redacted Portions of the Top Secret Reasons for Order and Order."
+Note that in the Maritime Law Book web version of the case found at www.mlb.nb.ca, the redactions may appear as ~~~~~~ .
+INDEX
+(by paragraph numbers)
+I. Introduction
+1
+II. Background
+2-20
+III. Issue
+21
+IV. Legal Framework
+22-71
+--A. Standard of Proof
+29-30
+--B. Burden of Proof
+31-59
+--C. Derivative Evidence
+60-72
+V. Service Policy with respect to Torture
+73-95
+VI. Analytical approach and factors to be considered
+96-115
+--A. The applicability of factors considered in
+Almrei (Re)
+and
+Harkat (Re)
+99
+--B. The usefulness of the jurisprudence on non-refoulement
+100-103
+--C. The nature of the information obtained
+104-115
+VII. Categories of Information at Issue
+116-229
+--A. Information originating from ▬▬▬▬▬▬▬▬ from unknown source
+117-168
+--B. Information originating from ▬▬▬▬▬▬▬▬ that is the product of an interrogation
+169-207
+--C. Egyptian convictions arising from the Returnees of Albania Trial
+208-229
+VIII. Conclusion
+230
+"The use of torture is dishonourable. It corrupts and degrades the state which uses it and the legal system which accepts it."
+Lord Hoffman (
+A & Ors
+, at para. 82)
+I.
+Introduction
+[1]
+Blanchard, J.
+: On February 22, 2008, a certificate naming Mohamed Zeki Mahjoub as a person inadmissible to Canada on grounds of national security was referred to the Federal Court pursuant to section 77 of the
+Immigration and Refugee Protection
+Act
+, S.C. 2001, c. 27 (
+IRPA
+). The hearing on the reasonableness of the certificate has not yet commenced. These reasons address a preliminary motion brought by Mr. Mahjoub with respect to the admissibility of information relied on by the Ministers, which was obtained from foreign agencies. Mr. Mahjoub seeks to have excluded from the record information that is relied upon by the Ministers that is believed on reasonable grounds to have been obtained as a result of the use of torture or cruel, inhuman or degrading treatment or punishment, pursuant to subsection 83(1.1) of the
+IRPA
+.
+II.
+Background
+[2]
+The commencement of the reasonableness hearing was originally scheduled for February 22, 2010; this date was set on June 18, 2009. Events that unfolded, which are well known to the parties, caused that date to be postponed and the commencement of the hearing to be adjourned. In the context of rescheduling the reasonableness hearing, the issue of the timing for litigating the applicability of s. 83(1.1) of the
+IRPA
+was raised. On March 11, 2010, the parties agreed that the applicability of s. 83(1.1) of the
+IRPA
+was a discrete issue and that there would be no prejudice to Mr. Mahjoub or to the Ministers to have the matter dealt with by way of a preliminary motion. Mr. Mahjoub's consent was subject to the Canadian Security Intelligence Service (the Service) making a witness available for cross-examination. The Ministers consented to this. On this basis, the parties agreed to proceed with the applicability of subsection 83(1.1) of the
+IRPA
+as a preliminary motion.
+[3]
+The parties adduced evidence and were heard in open session on the motion. Evidence was also received in closed session followed by submissions by the Special Advocates and the Ministers.
+[4]
+The Ministers produced two witnesses who testified on the behalf of the Service, Paul Vrbanac in the public portion of the hearing and ▬▬▬▬▬ in closed session. Mr. Vrbanac has been an intelligence officer with the Service since 1985, and as such he has worked in counter intelligence and counter terrorism operations. He currently holds the position of Director General of the Toronto Region. Prior to this, he held a number of positions, including: Director General of Foreign Liaisons and Visits in Ottawa, Chief of the Counter Intelligence Branch in Ottawa, Investigator for Counter Intelligence and Counter Terrorism in Ottawa and Liaison Officer for the Service in Washington D.C. Mr. Vrbanac testified about the Service's mandate, its policies and practices regarding investigations, arrangements with foreign agencies and information sharing with these agencies. He also gave evidence regarding the Service's policies and practices with respect to information suspected to have been obtained by the use of torture.
+[5]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ has been an intelligence officer with the Service since 1991. He currently holds the position of ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[6]
+Mr. Mahjoub adduced the evidence of following six expert witnesses: Professor Fawaz Gerges, John Sifton, Professor Wesley Wark, Henry Garfield Pardy, Ahmed Ghappour, and Ezat Mossallanajed. The Ministers agreed to have Mr. Mossallanajed's affidavit filed as evidence and did not request that he be called for cross-examination. Mr. Sifton, Professor Gerges and Mr. Ghappour were qualified as experts by consent of the parties. The qualifications of Mr. Pardy and Professor Wark were contested. In each case the Court conducted a voir-dire and determined, based on the criteria set out in
+ <FRAGMENT_SUPPRESSED> ;
+Mahmoub (Re)
+, [2010] F.T.R. Uned. 237; 2010 FC 380). I will review the areas of expertise for each of the expert witnesses.
+Professor Gerges
+[7]
+Professor Gerges is a social scientist with a Ph.D. in philosophy from Oxford University, specializing in Arab and Islamic politics, social movements, political Islam, American foreign policy towards the Muslim world and, relations between the West and the world of Islam. He also holds a Master's Degree in international history from the London School of Economics and political Science, London University, with a particular focus on relations between the European colonial powers and the Muslim world. He holds a second Master's Degree in international relations from the University of Southern California, which focuses particularly on Muslim politics and the international relations of the Middle East. He is currently a Professor in Middle Eastern Politics and International Relations at the London School of Economics and political Science, London University. From 1994 to 2009, he held the Christian A. Johnson Chair in Middle Eastern Studies and International Affairs at the Sarah Lawrence College, in New York. He authored the following books:
+Journey of the Jihadist: Inside Muslim Militancy
+(Orlando: Harcourt Press, 2006), and;
+The Far Enemy: Why Jihad Went Global
+(Cambridge: Cambridge University Press, 2005). Professor Gerges has spent several years conducting extensive field research in Egypt, and interviewing political activists and civil society leaders.
+[8]
+The Parties agreed to have Professor Gerges qualified as an expert to give evidence on the following matters, for the purpose of this motion:
+1. Human rights abuses in Egypt in relation to Islamists and Jihadists, including what happens to those who are rendered to Egypt.
+2. The impact of the Jihadist and Islamist movements on U.S. foreign relations with the Arab world.
+Mr. Sifton
+[9]
+Mr. Sifton is an attorney currently serving as Director of One World Research, an international research and investigative firm. He worked for the U.S. based Human Rights Watch from 2001 to 2007 as Senior Researcher on Terrorism and Counterterrorism. His research for Human Rights Watch from 2005 to 2007 focused on the Egyptian government's human rights record with respect to the arrest and detention of terrorism suspects. He conducted extensive research in 2007 for the report of Human Rights Watch entitled
+Anatomy of a State Security Case: The "Victorious Sect" Arrests
+(December 2007), which discusses a particular set of arrests of alleged terrorists carried out in Cairo in 2006. Through his research with Human Rights Watch he interviewed Egyptian human rights experts, attorneys practicing in Egypt, victims of human rights abuses, and former detainees held by Egyptian authorities, as well as other experts and sources with first-hand knowledge of Egyptian authorities' law enforcement and intelligence gathering practices.
+[10]
+Mr. Sifton also directed the research project of Human Rights Watch on the U.S. Central Intelligence Agency (CIA) black sites and rendition program, from 2004 to 2007, and he continues to work with Human Rights Watch on this issue as a consultant. He testified before the European Parliament subcommittee and before the Parliamentary Assembly of the Council of Europe on the methodology of the CIA rendition program and the rendition activities of the CIA in Europe.
+[11]
+The parties agreed to have Mr. Sifton qualified as an expert, on the basis of his experience as an attorney and a human rights worker associated with Human Rights Watch, to give evidence on the following matters, for the purpose of this motion:
+1. The methodology of Human Rights Watch for researching human right abuses.
+2. The various intelligence agencies in Egypt, including the Egyptian domestic intelligence service (ESS) as well as the military and security courts.
+3. The relationship in Egypt between state security investigations and the legal framework of the emergency and counterterrorism laws.
+4. The ESS as an investigative entity of the military and security courts.
+5. Security cases and the ESS.
+6. Whether the methods used by the ESS have resulted in false information or false confessions.
+7. The project of Human Rights Watch, which took place from 2004 to 2007, and involved the investigation into the CIA black sites, the misinformation that emanates from those sites and the CIA renditions.
+Mr. Ghappour
+[12]
+Mr. Ghappour currently works as an associate attorney for the law firm Swift & McDonald in Seattle. Mr. Ghappour worked as an attorney for Reprieve UK from September 2008 to December 2009, an organization based in London, England which, amongst other activities, provides legal services to prisoners of the U.S. "war on terror". Reprieve UK also investigates CIA black sites, the rendition program and countries that are complicit or have cooperated with the U.S. in these endeavours. Mr. Ghappour, in his work for Reprieve UK, challenged the unlawful detention of over 35 prisoners, held at Guantanamo Bay. In so doing he visited and worked from Guantanamo Bay. Mr. Ghappour continues to represent prisoners of Guantanamo Bay pro bono. Mr. Ghappour collaborated on civil corporate accountability suits brought by Reprieve UK and the American Civil Liberties Union challenging the complicity of aircraft manufacturers in the CIA rendition program. Mr Ghappour also participated in fact development for prosecution efforts against Portugal, German, Italy and the United Kingdom for their complicity in the CIA rendition program.
+[13]
+The parties agreed to have Mr. Ghappour qualified to give opinion evidence with respect to following, as it relates to the U.S. "war on terror":
+1. The practices of U.S. authorities in relation to the use of physically and mentally coercive techniques, and other such practices as renditions and black sites.
+2. The responses developing in the U.S. courts to these practices.
+Mr. Pardy
+[14]
+Mr. Pardy worked for the Department of Foreign Affairs from 1967 to 2003. Throughout his career Mr. Pardy held various functions that required him to interact with foreign governments as well as foreign and Canadian intelligence agencies. He worked at the National Security Section of the Security Liaison Division of Foreign Affairs from 1972 to 1975. In that capacity he obtained information on potential terrorism threats from Foreign Affairs missions overseas and domestic agencies for the purpose of informing the Canadian government so that appropriate security policies and measures could be developed for the Montreal Olympics. When posted in Washington D.C. between 1978 and 1982, in his capacity as Intelligence Liaison Officer, he provided to and received from American agencies, including the CIA, information and intelligence on behalf of the government of Canada regarding non-proliferation issues. He was Director of the Consular Operations Division of Foreign Affairs between 1992 and 1995, and was Director General of the Consular Affairs Bureau between 1995 and 2003. As Director General he managed all aspects of the consular program of assistance to Canadians in foreign countries including assistance to Canadian detainees held abroad.
+[15]
+This Court found Mr. Pardy to be qualified to give opinion evidence based on his experience in diplomatic and consular functions, with respect to the following:
+1. Consular services and the consular program in Canada.
+2. Flow of information from nation to nation through diplomatic and/or consular channels.
+3. The amount of sharing of information through diplomatic and/or consular channels.
+4. Factors affecting the reliability of the information, received through diplomatic and/or consular channels.
+5. The assessment of information, including intelligence, received through diplomatic and/or consular channels.
+6. The conditions of detention and treatment of detainees held abroad.
+Professor Wark
+[16]
+Professor Wark is an associate professor at the University of Toronto for the Department of History, and a visiting research professor for the Graduate School of Public and International Affairs at the University of Ottawa.
+[17]
+Professor Wark has extensive professional experience in security and intelligence matters. Professor Wark is a member of the Editorial Advisory Board of several journals including
+Intelligence and National Security
+. He was the commissioning editor for the
+Studies in Intelligence
+series published by Frank Cass and Co., London, U.K. from 1994 to 2002, a publication containing book-length studies on issues of intelligence and national security. He has been president of the Canadian Association for Security and Intelligence Studies, a national organization aimed at drawing academics, experts and other interested members into a broad-based study and public dialogue on intelligence and security.
+[18]
+Professor Wark was appointed for two terms on the Prime Minister's Advisory Council on National Security from 2005 to 2009. He was a consultant for the Intelligence Assessment Secretariat of the Privy Council Office from 1996 to 1998. Professor Wark testified before the Senate and House of Commons committees relating to Security and National Defence, the
+Anti-Terrorism
+Act
+and Afghanistan. He prepared a research paper for the Judicial Inquiry into Air India on the cooperation between the Service and the Royal Canadian Mounted Police (RCMP). He was an invited expert at a roundtable of Canadian experts on national security accountability for the Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar ("Arar Inquiry"). Professor Wark also gave opinion evidence in the case of Mr. Harkat on the nature of the membership in and evolution of al-Qaeda.
+[19]
+This Court found Professor Wark to be qualified to give opinion evidence based on his knowledge of the information that is in the public domain, his personal experiences, and his observations arising from his review of unclassified and declassified materials with respect to the following:
+1. Service policies and practices in relation to information sharing.
+2. The sources of information and intelligence available to the Service concerning terrorist organizations and activities, rooted in Egypt.
+3. The Service's capacity independently to investigate and evaluate that information and intelligence.
+Mr. Mossallanejed
+[20]
+Mr. Mossallanejed is a counsellor and policy analyst with the Canadian Centre for Victims of Torture (the Centre); he has worked with the Centre since 1992. The Centre helps survivors of torture to overcome the lasting effects of torture and war. Through this experience Mr. Mossallanejed has had daily contact with persons who have survived torture. He worked with the Jesuit Refugee Service as a policy analyst, educator and coordinator from 1991 to 1992. He has a Ph.D. in Political Economy and a Master's Degree in International Affairs. He authored:
+Torture in the Age of Fear
+(Hamilton, Ontario: Seraphim Editions, 2005). Mr. Mossallanejed is a survivor of torture. His affidavit is based on his research and writing, his experience with victims of torture, and his personal experience with torture. In it he addresses the practice of torture and other forms of cruel, inhuman or degrading treatment, including its widespread use, its nature, and its purpose.
+III.
+Issue
+[21]
+The following issue is raised by this motion: Is any of the information relied on by the Ministers in their case against Mr. Mahjoub inadmissible pursuant to s. 83(1(h)) and s. 83(1.1) of the
+IRPA
+, by reason that there are reasonable grounds to believe that the information was obtained by the use of torture within the meaning of sections 269.1 of the
+Criminal Code
+or cruel, inhuman or degrading treatment or punishment within the meaning of the Convention against Torture?
+IV.
+Legal Framework
+[22]
+The relevant statutory provisions of the
+IRPA
+are as follows:
+"76. The following definitions apply in this Division.
+. . . . .
+'information' means security or criminal intelligence information and information that is obtained in confidence from a source in Canada, the government of a foreign state, an international organization of states or an institution of such a government or international organization.
+. . . . .
+"77(2) When the certificate is referred, the Minister shall file with the Court the information and other evidence on which the certificate is based, and a summary of information and other evidence that enables the person who is named in the certificate to be reasonably informed of the case made by the Minister but that does not include anything that, in the Minister's opinion, would be injurious to national security or endanger the safety of any person if disclosed.
+. . . . .
+"83(1) The following provisions apply to proceedings under any of sections 78 and 82 to 82.2:
+(a) the judge shall proceed as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit;
+. . . . .
+(h) the judge may receive into evidence anything that, in the judge's opinion, is reliable and appropriate, even if it is admissible in a court of law, and may base a decision on that evidence;
+"83(1.1) For the purposes of paragraph (1)(h), reliable and appropriate evidence does not include information that is believed on reasonable grounds to have been obtained as a result of the use of torture within the meaning of section 269.1 of the Criminal Code, or cruel, inhuman or degrading treatment or punishment within the meaning of the Convention Against Torture."
+"76. Les définitions qui suivent s'appliquent à la présente section.
+. . . . .
+'renseignements' Les renseignements en matière de sécurité ou de criminalité et ceux obtenus, sous le sceau du secret, de source canadienne ou du gouvernement d'un Ètat étranger, d'une organisation internationale mise sur pied par des Ètats ou de l'un de leurs organismes.
+. . . . .
+"77(2) Le ministre dépose en même temps que le certificat les renseignements et autres éléments de preuve justifiant ce dernier, ainsi qu'un résumé de la preuve qui permet à la personne visée d'être suffisamment informée de sa thèse et qui ne comporte aucun élément dont la divulgation porterait atteinte, selon le ministre, à la sécurité nationale ou à la sécurité d'autrui.
+. . . . .
+"83(1) Les règles ci-après s'appliquent aux instances visées aux articles 78 et 82 à 82.2:
+a) le juge procède, dans la mesure où les circonstances et les considérations d'équité et de justice naturelle le permettent, sans formalisme et selon la procécdure expéditive;
+. . . . .
+h) il peut recevoir et admettre en preuve tout élément - même inadmissible en justice - qu'il estime digne de foi et utile et peut fonder sa décision sur celui-ci;
+"83(1.1) Pour l'application de l'alinéa (1)h), sont exclus des éléments de preuve dignes de foi et utiles les renseignements dont il existe des motifs raisonnables de croire qu'ils ont été obtenus par suite du recours à la torture, au sens de l'article 269.1 du Code criminel, ou à d'autres peines ou traitements cruels, inhumains ou dégradants, au sense de la Convention contre la torture."
+[23]
+Section 269.1 of the
+Criminal Code
+, R.S.C. 1985, c. C-46, states:
+"269.1(1) Every official, or every person acting at the instigation of or with the consent or acquiescence of an official, who inflicts torture on any other person is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years.
+"269.1(2) For the purposes of this section,
+'official' means
+(a) a peace officer,
+(b) a public officer,
+(c) a member of the Canadian Forces, or
+(d) any person who may exercise powers, pursuant to a law in force in a foreign state, that would, in Canada, be exercised by a person referred to in paragraph (a), (b), or (c), whether the person exercises powers in Canada or outside Canada;
+'torture' means any act or omission by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person
+(a) for a purpose including
+(i) obtaining from the person or from a third person information or a statement,
+(ii) punishing the person for an act that the person or a third person has committed or is suspected of having committed, and
+(iii) intimidating or coercing the person or a third person, or
+(b) for any reason based on discrimination of any kind, but does not include any act or omission arising only from, inherent in or incidental to lawful sanctions.
+"269.1(3) It is no defence to a charge under this section that the accused was ordered by a superior or a public authority to perform the act or omission that forms the subject-matter of the charge or that the act or omission is alleged to have been justified by exceptional circumstances, including a state of war, a threat of war, internal political instability or any other public emergency.
+"269(4) In any proceedings over which Parliament has jurisdiction, any statement obtained as a result of the commission of an offence under this section is inadmissible in evidence, except as evidence that the statement was so obtained."
+"269.1(1) Est coupable d'un acte criminel et passible d'un emprisonnement maximal de quatorze ans le fonctionnaire qui - ou la personne qui, avec le consentement expès ou tacite d'un fonctionnaire ou à sa demande - torture une autre personne.
+"269.1(2) Les définitions qui suivent s'appliquent au présent article.
+'fonctionnaire' L'une des personnes suivantes, qu'elle exerce ses pouvoires au Canada ou à l'étranger:
+(a) un agent de la paix;
+(b) un fontionnaire public;
+(c) un membre des forces canadiennes;
+(d) une personne que la loi d'un Ètat étranger investit de pouvoirs qui, au Canada, seraient ceux d'une personne mentionnée à l'un des alinéas a), b) ou c).
+'torture' Acte, commis par action ou omission, par lequel une douleur ou des souffrances aiguës, physiques ou mentales, sont intentionellement infligées à une personne:
+a) soit afin notamment:
+(i) d'obtenir d'elle ou d'une tierce personne des renseignements ou une déclaration,
+(ii) de la punir d'un acte qu'elle ou une tierce personne a commis ou est soupçonnée d'avoir commis,
+(iii) de l'intimider ou de faire pression sur elle ou d'intimider une tierce personne ou de faire pression sur celle-ci;
+b) soit pour tout autre motif fondé sur quelque forme de discrimination que ce soit. La torture ne s'entend toutefois pas d'actes qui résultent uniquement de sanctions légitimes, qui sont inhérents à celles-ci ou occasionnés par elles.
+"269.1(3) Ne constituent pas un moyen de défense contre une accusation fondée sur le présent article ni le fait que l'accusé a obéi aux ordres d'un supérieur ou d'une autorité publique en commettant les actes qui lui sont reprochés ni le fait que ces actes auraient été justifiés par des circonstances exceptionnelles, notamment un état de guerre, une menace de guerre, l'instabilité politique intérieure ou toute autre situation d'urgence.
+"269.1(4) Dans toute procédure qui relève de la compétence du Parlement, une déclaration obtenue par la perpétration d'une infraction au présent article est inadmissible en preuve, sauf à titre de preuve de cette infraction."
+[24]
+Cruel, inhuman or degrading treatment or punishment (hereafter CIDT) is not specifically defined in the
+United Nations Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment
+, December 10, 1984, Can. T.S. 1987 No. 36 (CAT). The only article of the CAT which refers to CIDT is article 16, which requires signatory States to prevent "cruel, inhuman, or degrading treatment or punishment which do not amount to torture", within any territory under their jurisdiction when such acts are committed by, at the instigation, or with the consent or acquiescence of public officials. It is therefore necessary to examine the meaning that has been given to CIDT through the interpretation of Article 16 of the CAT by the Committee against Torture (the Committee).
+[25]
+The Committee has not expressly defined CIDT in its work. In its jurisprudence, the Committee has only explicitly found a violation of Article 16 in
+ <FRAGMENT_SUPPRESSED>  burning and destruction of houses [in a Roma settlement] constitute, in the circumstances, acts of cruel, inhuman or degrading treatment or punishment. The nature of these acts is further aggravated by the fact that some of the complainants were still hidden in the settlement when the houses were burnt and destroyed, the particular vulnerability of the alleged victims and the fact that the acts were committed with a significant level of racial motivation (at para. 9.2)."
+[26]
+The Committee has provided numerous examples of what it considers to be CIDT in its conclusions and recommendations on the compliance of signatory States with the CAT. These examples provide guidance as to the meaning of CIDT under CAT. I reproduce below some of these examples:
+- The use of electroshock devices to restrain persons in custody (CAT,
+Consideration of Reports Submitted by State Parties under Article 19 of the Convention
+: U.S.A. UNCAT 36th Sess., (2006) UN Doc. CAT/C/USA/CO/2, at para. 35)
+- Deplorable detention conditions in extremely cold temperatures, with lack of drinking water and no electricity (CAT,
+Report of the Committee Against Torture
+, UNCAT 56th Sess., (2001) Un Doc. A/56/44, at para. 183).
+- Harsh disciplinary measures inflicted on soldiers during their compulsory military service which caused serious injury and even loss of life (Ibid. at para. 95).
+- Long periods of pre-trial detention and delays in judicial procedure, which together with overcrowding of prisons, resulted in prisoners awaiting trial being held in police stations and other places of detention not adequately equipped for long periods of detention (Ibid. para. 119)
+- Certain methods of capital punishment (CAT,
+Report of the Committee against Torture
+, UNCAT 51st Sess. (1996) UN Doc. A/51/44, at para. 148).
+- The excessive use of force by law enforcement bodies in dissolving riots and demonstrations (Manfred Nowak & Elizabeth McArthur,
+The United Nations Convention against Torture: a Commentary
+(Oxford: Oxford University Press, 2008), at 567).
+[27]
+Determining whether alleged treatment amounts to CIDT, within the meaning of the CAT, will turn on the circumstances of each case, informed by past decisions and observations of the Committee.
+[28]
+Useful guidance is also provided by Manfred Nowak,
+Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment
+. He observes that the decisive criteria for distinguishing CIDT from torture is not the intensity of the pain or suffering inflicted but rather: "the purpose of the conduct, the intention of the perpetrator and the powerlessness of the victim" (Manfred Nowak,
+Report of the Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment
+, UNGA Human Rights Council, 13th Sess., (2010) Un Doc. A/HRC/13/39/Add.5, at para. 188 (
+Report of the Special Rapporteur
+). He states that cruel, inhuman treatment or punishment therefore means the infliction of severe pain or suffering without purpose or intention and outside a situation where a person is under the defacto control of another, although it can also arise where the person is under the control of another (Ibid.). He also observes that degrading treatment or punishment can be defined as: "the infliction of pain or suffering, whether physical or mental, which aims at
+humiliating
+the victim", even where the pain or suffering inflicted is not severe (Nowak & McCarthur, at 558; Manfred Nowak,
+Civil and Political Rights, Including the Question of Torture and Detention
+, UNESC, Commission on Human Rights, 66th Sess., (2006) Un Doc. E/CN.4/2006/6, at para. 38.
+A. Standard of Proof
+[29]
+Subsection 83(1.1) clearly articulates the standard of proof, which is "reasonable grounds to believe" that information was obtained by the use of torture or CIDT. There is no dispute between the parties with respect to the interpretation of this standard. Both parties relied on the following authorities in explaining the standard of reasonable grounds to believe:
+ <FRAGMENT_SUPPRESSED>  (
+Jaballah I
+), at paragraph 43.
+[30]
+The reasonable grounds to believe standard requires something more than mere suspicion but less than the standard applicable in civil matters, which is proof on the balance of probabilities ( <FRAGMENT_SUPPRESSED> , at para. 114). The standard connotes a degree of probability found on credible evidence even though this degree is less than that which is required by the balance of probability standard (
+Jaballah I
+, at para. 43). The Supreme Court of Canada, in <FRAGMENT_SUPPRESSED> , stated that: "... In essence, reasonable grounds will exist where there is an objective basis for the belief which is based on compelling and credible information" (at para. 114, (citations omitted)).
+B. Burden of Proof
+[31]
+Subsection 83(1.1) of the
+IRPA
+expressly provides for the exclusion of evidence obtained by torture or CIDT but is silent on who bears the burden of establishing that the information was so obtained. In addressing the question of the burden of proof, I will begin by setting out the respective position of the parties.
+Ministers' position
+[32]
+The Ministers argue that, having regards to paragraphs 83(1(a) and 83(1)(h) of the
+IRPA
+as well as the context of Division 9 of the
+IRPA
+, it is clear Parliament did not intend the Court to be restricted by the evidentiary strictures imposed in other courts of law. The Ministers also argue that in
+Charkaoui, Re
+(2008), 376 N.R. 154; 2008 SCC 38 (
+Charkaoui II
+), at paragraph 47, the Supreme Court of Canada mandated a more nuanced approach in the context of security certificates. On this basis, the Ministers argue that Parliament did not intend the normal rules on burden of proof relating to the admissibility of evidence, to apply. The Ministers therefore contend that the onus for demonstrating that evidence is inadmissible because there are reasonable grounds to believe it was obtained by torture or CIDT lies with the named person.
+[33]
+The Ministers rely on
+A et al. v. United Kingdom (Secretary of State for the Home Department)
+, [2005] N.R. Uned. 168; [2005] UKHL 71, a judgment from the House of Lords to argue that a generalized and unsubstantiated allegation of torture by the named person should not impose a duty on the state to prove the absence of torture, as this would be too onerous a burden when considering that it may be impossible for the state to know or determine the circumstances in which the information was first obtained (at para. 119). In
+A & Ors
+, persons certified pursuant to section 21 of the
+Anti-terrorism, Crime and Security Act 2001
+, (U.K.), 2001 c. 24, in force at the time, claimed that evidence used against them had been obtained by torture.
+[34]
+The Ministers also contend, however, that the House of Lords' finding in
+A & Ors
+that the burden of proof is not to be imposed on the certified person is not applicable in the Canadian context. The Ministers rely on
+Almrei, Re
+(2009), 355 F.T.R. 222; 2009 FC 1263, at paragraph 487 to argue that in comparison with the system in the United Kingdom, the Canadian security certificate procedure affords the named person a much higher level of disclosure and greater protection through the Special Advocates and it is, therefore, appropriate to place the burden on the named person.
+Mr. Mahjoub's position
+[35]
+Mr. Mahjoub argues that the burden of proof falls on the Ministers. First, he submits that because it is the Ministers who are seeking to adduce the evidence, they must establish its admissibility. Mr. Mahjoub refers to the principle in
+ <FRAGMENT_SUPPRESSED> that it is for the party seeking to adduce evidence to establish its admissibility. Second, Mr. Mahjoub argues that because he does not have access to the information relied on by the Ministers nor does he know the identity of the foreign agencies that provided a substantial portion of the information on which the Ministers rely, he is in no position to demonstrate the likelihood that a given piece of information is tainted by torture or CIDT.
+[36]
+Mr. Mahjoub also asks the Court to consider
+A & Ors
+, specifically the conclusion of the Law Lords that placing the burden on the certified person was inappropriate (at paras. 55 and 116). Mr. Mahjoub acknowledges and accepts that he must establish a basis on which to challenge the admissibility of the evidence but maintains that the legal burden remains on the Ministers. Based on
+A & Ors
+at paragraph 56, Mr. Mahjoub argues that he should only be required to discharge the burden of advancing some "plausible reason" why the information relied on by the Ministers was obtained by torture or CIDT.
+The position of the Special Advocates
+[37]
+The Special Advocates support the position of Mr. Mahjoub on the burden of proof. They also refer to
+A & Ors
+, but maintain that the conclusion of the Law Lords to place the burden on the Special Immigration Appeals Commission (SIAC) is inapplicable in the Canadian context. They argue that, in the Canadian context, the only relevant and important principle which can be drawn from
+A & Ors
+is that the burden of proof cannot be placed on the named person.
+[38]
+The Special Advocates argue that such a principle is supported by the Canadian jurisprudence, for example in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 335, the Supreme Court of Canada confirmed that placing the burden of proof on the accused with respect to a fact which was not rationally open to him to prove or disprove could not be justified. The Special Advocates also point out that  <FRAGMENT_SUPPRESSED>  (Re)
+, 304 F.T.R. 290; 2006 FC 1503, at paragraphs 33 to 36, Justice Tremblay-Lamer followed the approach of
+A & Ors
+, and only required that the named person offer a plausible explanation why the evidence was likely to have been obtained by torture.
+[39]
+In reply to the Ministers, the Special Advocates argue that their role does not allow them to assist Mr. Mahjoub sufficiently so as to compensate for the inherent limitations placed upon him, and therefore the burden should be on the Minister.
+[40]
+The Special Advocates further argue that it is not unreasonable to place the burden on the Ministers when considering the greater capabilities of the Ministers to put evidence before this Court concerning the admissibility of the evidence with respect to subsection 83(1.1), relative to those of the named person or of the Special Advocates. The Ministers and more specifically the Service can: make inquiries of foreign agencies concerning the provenance of information it has received from those agencies; present evidence with respect to the conduct of foreign agencies from which it receives information, as it does when it seeks to obtain approval for a foreign agency arrangement pursuant to section 17 of the
+Canadian Security Intelligence Service
+Act
+, R.S.C. 1985, c. C-23 (
+CSIS
+Act
+); and can call on the Service's expert personnel who are uniquely qualified to opine on the information received as well as the conduct and practices of the originating agency at the time the information was received, particularly the Security Liaison Officers (SLO), now called Foreign Collection Officers (FCO), who may be in-station at the time the information was provided.
+Analysis
+[41]
+The absence of a clear assignment of the burden of proof in subsection 83(1.1) necessitates a review of first principles.
+[42]
+The general principle that applies in respect of the admissibility of evidence is that relevant evidence is admissible unless it is subject to a exclusionary rule (
+ <FRAGMENT_SUPPRESSED>  at 201  <FRAGMENT_SUPPRESSED> ). It is a basic rule of evidence that the party seeking to introduce evidence must satisfy the Court that it is admissible ( <FRAGMENT_SUPPRESSED> , at para. 46). In the context of security certificate proceedings, since the
+IRPA
+does not expressly provide otherwise, the burden of satisfying the Court of the admissibility of information relied on in the Security Intelligence Report concerning Mr. Mahjoub (SIR) rests with the Ministers.
+[43]
+Paragraph 83(1)(h) of the
+IRPA
+provides that the designated judge "may receive into evidence anything that, in the judge's opinion, is reliable and appropriate, even if it is inadmissible in a court of law, and may base a decision on that evidence".
+[44]
+In
+Jaballah, Re
+(2010), 363 F.T.R. 160; 2010 FC 224 (
+Jaballah II
+) at paragraphs 62 to 64, Justice Dawson considered paragraphs 83(1)(h) and characterized the provision as follows:
+"[62] On its face, paragraphs 83(1)(h) appears intended to facilitate the admission of evidence that would otherwise be inadmissible. The provision recognizes the type of information and intelligence that is collected in the context of national security investigations. An example would be information obtained from a reliable foreign agency. The Court may be satisfied that the information is reliable and appropriate, but under traditional rules of evidence it would be inadmissible as hearsay.
+"[63] Notwithstanding that purpose, the use of broad and permissive words and phrases such as 'may', 'in the judge's opinion' and 'reliable and appropriate' confer broad discretion upon the designated judge to control, on a principled basis, the information and evidence received by the Court.
+"[64] Support for that view is found in subsection 83(1.1) of the
+Act
+which states:
+'
+Clarification
+'83(1.1) For the purposes of paragraph (1)(h), reliable and appropriate evidence does not include information that is believed on reasonable grounds to have been obtained as a result of the use of torture within the meaning of section 269.1 of the Criminal Code, or cruel, inhuman or degrading treatment or punishment within the meaning of the Convention Against Torture.'
+'
+Précision
+'83(1.1) Pour l'application de l'alinéa (1)h), sont exclus des éléments de preuve dignes de foi et utiles les renseignements dont il existe des motifs raisonnaable de croire qu'ils ont été obtenus par suite du recours à la torture, au sens de l'article 269.1 du Code criminal, ou à d'autres peines ou traitements cruels, inhumains ou dégradants, au sens de la Convention contre la torture.'"
+[45]
+I agree with Justice Dawson's characterization of paragraph 83(1)(h) of the
+IRPA
+. While the provision affords the designated judge broad discretion it also requires that information to be received in evidence be reliable and appropriate.
+[46]
+It follows that the Ministers, who bear the burden of satisfying the Court of the admissibility of evidence they seek to introduce in support of their case against the named person, must satisfy the Court that the information is both reliable and appropriate in order for it to be admitted in evidence.
+[47]
+Subsection 83(1.1) of the
+IRPA
+provides that information that is believed on reasonable grounds to have been obtained from torture or CIDT is not reliable and appropriate for the purposes of paragraph 83(1)(h). Subsection 83(1.1) was considered by Justice Dawson  <FRAGMENT_SUPPRESSED>  II
+. At paragraph 65 of her reasons she adopted the following interpretation of the provision, with which I agree:
+"The clause by clause analysis of Bill C-3 states that subsection 83(1.1) was added to clarify that reliable and appropriate evidence does not include information believed on reasonable grounds to have been obtained by torture. That subsection 83(1.1) is simply a 'clarification' reflects, in my view, Parliament's intent that information or evidence tainted by unreliability or inappropriateness should not be received by the Court."
+[48]
+The Ministers argue that the burden of establishing "reasonable grounds to believe" under subsection 83(1.1) rests with the named person. I disagree. The purpose of paragraph 83(1)(h), as clarified by subsection 83(1.1), is to expressly set out a category of information that is inadmissible because it is regarded as unreliable and inappropriate. The provision does not place the burden of establishing "reasonable grounds to believe" on the named person. Indeed, the provision is silent on the issue of who bears the burden of establishing "reasonable grounds to believe". Therefore, nothing in the provision shifts the burden of proof away from the Ministers who must establish the admissibility of the evidence they rely upon.
+[49]
+Further, the exceptional nature of certificate proceedings supports the above interpretation of paragraph 83(1)(h) and subsection 83(1.1). The named person is unaware of much of the information relied on by the Ministers against him. Justice Tremblay-Lamer, in <FRAGMENT_SUPPRESSED> , recognized the inherent limitations on the named person in such proceedings. At paragraph 33 of her reasons she wrote:
+"In my view, my colleagues' approaches to the burden of proof suggest an appropriate consideration of the special nature of matters such as these, and a recognition of the inherent limitations placed upon individuals such as the applicant. I find such an approach preferable to that proposed by the respondents in the special circumstances of the present context."
+[50]
+The Ministers, on the other hand, who are seeking to adduce in evidence the information relied on in the SIR are in a better position to put evidence before this Court in respect of the provenance of that information.
+[51]
+As stated earlier, both the parties and the Special Advocates rely on the House of Lords decision in
+A & Ors
+in support of their respective positions. Although the opinions of the Law Lords in
+A & Ors
+were given in the context of legislative schemes that differ significantly from the one before me, the opinions highlight the need to be sensitive to the interests in play. That is, on the one hand, the interest of the named person who is unable to access much of the information relied on against him and, on the other hand, the state's obligation to protect the security of the public in Canada. Underlying the weighing of these interests is the fundamental need to ensure the fairness of the proceeding and the integrity of the administration of justice.
+[52]
+In
+A & Ors
+, the House of Lords did not place the burden on the detainee. At paragraph 116, Lord Hope of Craighead for the majority found that:
+"... It would be wholly unrealistic to expect the detainee to prove anything, as he is denied access to so much of the information that is to be used against him. He cannot be expected to identify from where the evidence comes, let alone the persons who have provided it. All he can reasonably be expected to do is to raise the issue by asking that the point be considered by SIAC ..."
+[53]
+Justice Tremblay-Lamer in <FRAGMENT_SUPPRESSED> considered the opinions of the Law Lords on this issue and adopted a similar approach. After reviewing the jurisprudence of this Court she opined at paragraph 34 of her reasons:
+"In my opinion, in light of the preceding jurisprudence, where the issue is raised by an applicant offering a plausible explanation why evidence is likely to have been obtained by torture, the decision maker should then consider this issue in light of the public and classified information. Where the decision maker finds there are reasonable grounds to suspect that evidence was likely obtained by torture, it should not be relied upon in making a determination."
+[54]
+Here, Mr. Mahjoub does not dispute that the named person has an obligation to raise the issue. In my view the approach adopted by Justice Tremblay-Lamer and the House of Lords is applicable in the context of subsection 83(1.1).
+[55]
+The approach articulated by Justice Tremblay-Lamer in <FRAGMENT_SUPPRESSED> is also consistent with the analytical framework followed by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> . That case involved a criminal matter and considered the burden of proof on the accused regarding derivative use immunity. While I accept that the principles of criminal law may not find direct application in certificate proceedings, they can provide useful guidance in terms of the analytical framework and basic principles (See:
+Charkaoui II
+, at paras. 47-55). At paragraph 5 of <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada stated the following:
+"At pages 565-66 of
+S.(R.J.)
+, Iacobucci, J., discussed the burden of proof on the accused regarding derivative use immunity. He stated that the general
+Charter
+rule would operate, namely, the party claiming a
+Charter
+breach must establish it on a balance of probabilities. Iacobucci, J., went onto state that as a practical matter the Crown will likely bear the burden of responding because it is the Crown which can be expected to know how evidence was, or would have been, obtained. This means that the accused has the evidentiary burden of showing a plausible connection between the compelled testimony and the evidence sought to be adduced. Once this is established, in order to have the evidence admitted, the Crown will have to satisfy the court on a balance of probabilities that the authorities would have discovered the impugned derivative evidence absent the compelled testimony."
+[56]
+In the cited passage, the Supreme Court recognized the practicality of imposing the burden on the Crown because it was in a better position to know "how the evidence was, or would have been obtained". In the result, the accused was only required to show "a plausible connection" between the compelled testimony and the evidence sought to be adduced. While the circumstances here are different, the analogy is nonetheless useful. In the instant case, the Ministers, similarly, are in a far better position than Mr. Mahjoub to know and address issues concerning the provenance of the information and the circumstances surrounding its collection.
+[57]
+I acknowledge that since <FRAGMENT_SUPPRESSED> was issued, the Special Advocates program was introduced following the passage of Bill C-3, along with other amendments to the
+IRPA
+. The Ministers argue that the named person's ability to test the relevance, reliability and sufficiency of the evidence is augmented by the Special Advocates whose role it is to protect the interest of the named person with respect to the confidential information.
+[58]
+While the Special Advocates have access to the closed information, the Ministers retain a significant advantage. They not only know the provenance of the information, but also have the means to return to agencies suspected of obtaining information from torture or CIDT for further inquiry.
+[59]
+In conclusion, in security certificate proceedings, the Ministers bear the burden of establishing that information they rely upon is reliable and appropriate. They must establish that the information is admissible. By virtue of paragraph 83(1)(h) and subsection 83(1.1) information believed on reasonable grounds to have been obtained by the use of torture or CIDT is not admissible. Where torture or CIDT is alleged by the named person, it is for the named person to raise the issue that information relied upon by the Ministers is obtained as a result of the use of torture or CIDT. In my view, to meet this initial burden, the named person need only show a plausible connection between the use of torture or CIDT and the information proffered by the Ministers. Depending on the cogency of the evidence of the named person, the Ministers may adduce responding evidence. The Court will then, after hearing submissions, decide on all of the evidence before it whether the proposed evidence is believed on reasonable grounds to have been obtained as a result of the use of torture or CIDT.
+C. Derivative Evidence
+[60]
+The next question to be addressed relates to derivative evidence and whether it is also excluded pursuant to section 83 of the
+IRPA
+. Derivative evidence is defined as physical evidence discovered as a result of an unlawfully obtained statement (
+ <FRAGMENT_SUPPRESSED>  at para. 116). In the context of this motion, derivative evidence is information or evidence discovered as a result of the information obtained from torture or CIDT. Mr. Mahjoub argues that derivative evidence is also caught by subsection 83(1.1). The Ministers contend that derivative evidence does not fall within the ambit of subsection 83(1.1).
+[61]
+Much of the jurisprudence concerning derivative evidence relates to challenges pursuant to subsection 24(2) of the
+Charter of Rights and Freedoms
+, part 1 of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act, 1982
+, c. 11. In the context of a subsection 24(2)
+Charter
+challenge, the judge is now required to consider a number of factors in determining whether to admit derivative evidence. These factors include: police conduct in obtaining the statement; the impact of the breach on the
+Charter
+-protected interest of the accused and; the public interest in having a trial adjudicated on its merits. The weighing exercise left to the judge in each case could result, for example, in the admission of derivative evidence under subsection 24(2) of the
+Charter
+, in circumstances where reliable evidence is discovered as a result of a good faith infringement that did not greatly undermine the accused's protected interests.
+[62]
+The circumstances here are far different. In my view, the above stated constitutional rule has no application in the circumstances and is of little assistance in interpreting subsection 83(1.1).
+[63]
+In interpreting the provision, I am guided by the principles of statutory interpretation set out by the Supreme Court of Canada in
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1. These provide that statutory interpretation cannot be founded on the wording of the legislation alone. The words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament.
+[64]
+The language of subsection 83(1.1) aims to clarify that "information that is believed on reasonable grounds to have been obtained as a result of the use of torture [...], or cruel, inhuman or degrading treatment or punishment" is not considered to be reliable and appropriate evidence for the purposes of paragraph 83(1)(h).
+[65]
+The choice of the word "information" is broader than "statement" as used in the article 15 of the CAT and subsection 269.1(4) of the
+Criminal Code
+, which pertain to the exclusion of statements obtained by torture. This would suggest that Parliament intended that the exclusion in subsection 83(1.1) not be limited to coerced statements; that is, information directly obtained from torture. Rather, the words of the provision would appear to encompass any kind of information obtained from torture, including information discovered as a result of coerced statements.
+[66]
+The objects of the provision under consideration are well-known and are reflected in the following three propositions: first, information obtained as a result of the use of torture is inherently unreliable; second, the exclusion of such information in court proceedings, effectively discourages the use of torture and; third, the admission of such evidence is antithetical to and damages the integrity of the judicial proceeding.
+[67]
+Further, a review of the legislative history of the provision assists in understanding Parliament's intention on the issue. Subsection 83(1.1) did not appear in the text of Bill C-3 at the first reading, it was the result of an amendment made by the House of Commons Standing on Public Safety and National Security. A number of options were considered and in the end the current wording of the provision was ultimately adopted by Parliament.
+[68]
+What is clear is that members of Parliament were very much aware of the issue of derivative evidence being captured by the proposed amendment. The debate, in part, focused on the need not to prevent law enforcement authorities from pursuing investigative leads initiated as a result of derivative evidence but acknowledged that the amendment may well affect the subsequent admissibility of the evidence in a court of law. The following exchange is instructive on the issue:
+"Hon. Roy Cullen: I'd like to ask the officials to comment if we approve this amendment, could it lead to a judge excluding valid information derived from a statement made under torture? It would be derivative evidence, I guess.
+. . . . .
+Mr. Daniel Therrien: The main difference we see between this particular phraseology and both the amendment that Mr. Ménard proposed and the amendment made by the government side is exactly on the derivative use of information, as you raised.
+In the two other motions we're talking about excluding statements obtained by torture. Here we're looking more broadly at information obtained as a result of the use of torture. I will just comment technically that between the two wordings, this particular wording would seem to deprive law enforcement authorities, or at least could quite possibly be interpreted by the courts as not allowing law enforcement authorities, to pursue the investigative lea[d] you mentioned earlier.
+Hon. Ujjal Dosanjh: Mr. Therrien, would it be correct to say that it would not actually prevent the investigations from going on but it may affect the subsequent admissibility of that evidence in a court of law?
+Mr. Daniel Therrien: I would agree with that.
+Hon. Ujjal Donsanjh: Yes, so it doesn't prevent the investigation from going on. It doesn't prevent a crime from happening. If they get the information, they pursue it.
+Mr. Daniel Therrien: It would prevent the use, possibly, of that, yes.
+Hon. Ujjal Dosanjh: Subsequently in the court of law.
+Mr. Daniel Therrien: Yes.
+Hon. Ujjal Dosanjh: That's what we're trying to do. We are trying to prevent evidence that's been obtained by torture to be evidence against individuals.
+Mr. Daniel Therrien: Well, it would prevent not only the direct evidence obtained by torture, but also the findings of the investigate body, because a court might well -
+Hon. Ujjal Dosanjh: I hear you, but it would not prevent the law enforcement authorities from pursuing the criminal and preventing the crime at that particular moment, which is a big difference.
+The Chair: You can think about that Mr. Therrien, and comment in a moment.
+Mr. Cullen.
+Hon. Roy Cullen: That is a concern as well, but let's say there's information in front of a Federal Court judge, and there's an individual who's potentially going to be detained under a security certificate. The lawyer for the detainee says this information in front of the judge was derived by torture. Let's say there's no debate around that, that everyone agrees. But because the information was obtained under torture, that led the authorities to collect some evidence that was not hearsay evidence or unsubstantiated but evidence that clearly linked this particular person to some terrorist activities or involvement. A clever lawyer might say that evidence was derivative, it was obtained indirectly or directly by torture, so it's not admissible to the judge.
+That's my concern. Could that happen?
+Mr. Daniel Therrien: I think it could.
+The Chair: Okay, this has been a very good discussion. If there are no more comments, we'll have the vote on this."
+(House of Commons, Standing Committee on Public Safety and National Security, 'Evidence' in
+Official Report of Debates
+(
+Hansard
+), (Thursday, December 6, 2007) at 12)."
+[69]
+The issue of derivative evidence was clearly before the House of Commons. The Honourable Dosanjh, reporting to the House on the amendment statement:
+"Fourth, and most important of all, we were actually able to successfully make a very broad amendment that dealt with the issue of evidence that may be the product of torture, whether it is the primary evidence or derivative evidence. Based on the amendment, if the judge that might be hearing the case believes, on reasonable grounds, that the evidence may be the product of torture,
+directly or indirectly
+, that evidence would not be admissible in the proceedings before the judge with respect to the particular detainee (
+House of Commons Debates
+, No. 041" (31 January 2008) at 1550, (emphasis added)).
+[70]
+Members of Parliament knew that the amendment dealt with the inadmissibility of evidence "that may be the product of torture, directly or indirectly". Considering the totality of the debates on the issue, by adopting the amendment it is clear that Parliament intended to exclude from these proceedings both primary and derivative evidence obtained as a result of the use of torture or CIDT.
+[71]
+In the result, upon considering the words of the
+Act
+, read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the
+Act
+, the object of the
+Act
+, and the intention of Parliament, I interpret paragraph 83(1)(h) subsection 83(1.1) to exclude from these proceedings both primary and derivative evidence obtained as a result of the use of torture or CIDT. A similar conclusion was reached in the context of derivative use immunity  <FRAGMENT_SUPPRESSED>  II
+, at paragraph 103 to 105.
+[72]
+Whether evidence is derivative evidence is a factual finding to be determined on the basis of the record adduced in each case. If the evidence alleged to be derivative of torture or CIDT is evidence relied upon by the Ministers, the burden of admissibility will rest with the Ministers. In this circumstance, the named person need only offer a plausible connection between the previous excluded evidence and the proffered evidence. The Court will then approach the analysis as discussed in paragraph 59, above.
+V.
+Service Policy with respect to Torture
+[73]
+In their submissions, the Ministers contend the Service's policies and guidelines are aimed at ensuring that information received by the Service from foreign agencies is not information that was obtained from torture. Mr. Mahjoub argues that the Service's polices and the practices do not prevent the Service from receiving information that was obtained from torture.
+[74]
+At issue is whether the Service's policies and practices are sufficient to ensure that information that is obtained by it meets the admissibility criteria of paragraph 83(1)(h) and subsection 83(1.1) of the
+IRPA
+. In considering the matter, it is useful at the outset to review the Service's statutory mandate which sets out the ambit of its activities, as well as its policies and practices with respect to information sharing with countries with poor human rights records.
+[75]
+The following sections of the
+CSIS
+Act
+set out the essence of the Service's duties and functions:
+"12. The Service shall collect, by investigation or otherwise, to the extent that it is strictly necessary, and analyse and retain information and intelligence respecting activities that may on reasonable grounds be suspected of constituting threats to the security of Canada and, in relation thereto, shall report to and advise the Government of Canada.
+"13(1) The Service may provide security assessments to departments of the Government of Canada.
+"13(2) The Service may, with the approval of the Minister, enter into an arrangement with
+(a) the government of a province or any department thereof, or
+(b) any police force in a province, with the approval of the Minister responsible for policing in the province,
+authorizing the Service to provide security assessments.
+"13(3) The Service may, with the approval of the Minister after consultation by the Minister with the Minister of Foreign Affairs, enter into an arrangement with the government of a foreign state or an institution thereof or an international organization of states or an institution thereof authorizing the Service to provide the government, institution or organization with security assessments.
+"14. The Service may
+(a) advise any minister of the Crown on matters relating to the security of Canada, or
+(b) provide any minister of the Crown with information relating to security matters or criminal activities,
+that is relevant to the exercise of any power or the performance of any duty or function by that Minister under the Citizenship Act or the Immigration and Refugee Protection Act.
+"15. The Service may conduct such investigations as are required for the purpose of providing security assessments pursuant to section 13 or advice pursuant to section 14.
+. . . . .
+"17(1) For the purpose of performing its duties and functions under this Act, the Service may,
+(a) with the approval of the Minister, enter into an arrangement or otherwise cooperate with
+(i) any department of the Government of Canada or the government of a province or any department thereof, or
+(ii) any police force in a province, with the approval of the Minister responsible for policing in the province; or
+(b) with the approval of the Minister after consultation by the Minister with the Minister of Foreign Affairs, enter into an arrangement or otherwise cooperate with the government of a foreign state or an institution thereof or an international organization of states or an institution thereof.
+"17(2) Where a written arrangement is entered into pursuant to subsection (1) or subsection 13(2) or (3), a copy thereof shall be given forthwith to the Review Committee."
+"12. Le Service recueille, au moyen d'enquêtes ou autrement, dans la mesure strictement nécessaire, et analyse et conserve les informations et renseignements sur les activités dont il existe des motifs raisonnables de soupçonner qu'elles constituent des menaces envers la sécurité du Canada; il en fait rapport au gouvernement du Canada et le conseille à cet égard.
+"13(1) Le Service peut fournir es évaluations de sécurité aux minstères du gouvernement du Canada.
+"13(2) Le Service peut, avec l'approbation du ministre, conclure des ententes avec:
+a) le gouvernement d'une province ou l'un de ses minstères;
+b) un service de police en place dans une province, avec l'approbation du ministre provincial chargé des questions de police.
+"Ces ententes autorisent le Service à fournir des évaluations de sécurité.
+"13(3) Le Service peut, avec l'approbation du ministre, après consultation entre celui-ci et le ministre des Affaires étrangères, conclure avec le gouvernement d'un État étranger ou l'une de ses institutions, ou une organisation internationale d'États ou l'une de ses institutions, des ententes l'autorisant à leur fournir des évaluations de sécurité.
+"14. Le Service peut:
+a) fournir des conseils à un minstre sur les questions de sécurité du Canada;
+b) transmettre des informations à un ministre sur des questions de sécurité ou des activités criminelles,
+dans la mesure où ces conseils et informations sont en rapport avec l'exercice par ce ministre des pouvoirs et fonctions qui lui sont conférés en vertu de la Loi sur la citoyenneté ou de la Loi sur l'immigration et la protection des réfugiés.
+"15. Le Service peut mener les enquêtes qui son nécessaires en vue des évaluations de sécurité et des conseils respectivement visés aux articles 13 et 14.
+. . . . .
+"17(1) Dans l'exercice des fonctions qui lui sont conférées en vertu de la présente loi, le Service peut:
+a) avec l'approbation du ministre, conclure des ententes ou, d'une façon générale, coopérer avec:
+(i) les ministères du gouvernement du Canada, le gouvernement d'une province ou l'un de ses ministères,
+(ii) un service de police en place dans une province, avec l'approbation du ministre provincial chargé des questions de police;
+b) avec l'approbation du ministre, après consultation entre celui-ci et le ministre des Affaires étrangères, conclure des ententes ou, d'une façon générale, coopérer avec le gouvernement d'un État étranger ou l'une de ses institutions, ou une organisation internatioinale d'États out l'une de ses institutions.
+"17(2) Un exemplaire du texte des ententes écrites conclues en vertu du paragraphe (1) ou des paragraphes 13(2) ou (3) est transmis au comité de surveillance immédiatement après leur conclusion."
+[76]
+The exercise of the Service's activities is further dictated by the limits and controls enunciated in the Ministerial Directions (at s. 6(2) of the
+CSIS
+Act
+and by the Service's own operational policies and guidelines.
+[77]
+Section 17 of the
+CSIS
+Act
+requires the Service to obtain the approval of the Minister of Public Safety and consult with the Department of Foreign Affairs and International Trade prior to entering into an information sharing arrangement with a foreign agency. In this process the Service must inform the Minister of the human rights record of the agency for which approval is sought. According to the operational police entitled "OPS-402: section 17 Arrangements with Foreign Governments and Institutions" dated May 21, 2002, arrangements with countries that do not share Canada's respect for democratic or human rights will only be considered where there is a definite requirement to protect the security of Canada. A case by case assessment is conducted to determine whether, on the basis of the above-noted criterion, the Service can enter into an information sharing arrangement with such a country.
+[78]
+The Ministerial Direction to the Director of the Service entitled "information Sharing with Foreign Agencies" dated May 14, 2009 (Ministerial Direction), acknowledges that the government is steadfast in its abhorrence of and opposition to the use of torture by any state or agency for any purpose whatsoever, including the collection of intelligence. Consequently, in order to avoid any complicity in the use of torture, the Service is directed to:
+"Take all other reasonable measures to reduce the risk that any action on the part of the Service might promote or condone, or be seen to promote or condone the use of torture, including, where appropriate, the seeking of assurances when sharing information with foreign agencies."
+In addition, the Minister Direction specifies and directs the Service to "not knowingly rely upon information which is derived from the use of torture, and to have in place reasonable and appropriate measure to identify information that is likely to have been derived from the use of torture".
+[79]
+Prior to the issuance of the Ministerial Direction, the Deputy Director of Operations had also issued the "Directive on Information Sharing with Agencies with Poor Human Rights Records", dated November 19, 2008 (DDO Directive), which stipulates that employees must inform their supervisors if they know or suspect a foreign agency has engaged in mistreatment of any person (at para. 6). Employees are also expected to be familiar with human rights agency and country profiles and to consider these records when seeking or accepting information from foreign agencies (at para. 8). When receiving such information employees are directed to assess the human rights record of the agency and the origin of the information. Where there are concerns that the information may have been obtained through mistreatment, a caveat must be placed on the information. Where there is "an indication or proof" that the information may have been obtained from mistreatment, approval to receive further information from the agency is required from the ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ (at para. 17).
+[80]
+The operational policy entitled "OPS-501: Operational Reporting", dated March 27, 2009, also added a requirement that when a report writer is uploading, in the Services Databank, information originating from a foreign agency with a documented history of mistreatment, the report writer must include a caveat on the information to the effect that the information may have been obtained from torture (at para. 4.3). Such a requirement was not found in the three previous operational policies (OPS-501), which are dated ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+Ministers' position
+[81]
+In support of their position that the Service does not rely on information obtained by torture, the Ministers refer to the above policies and directives. The Ministers argue that, although the Ministerial Direction and the DDO Directive only came into effect subsequent to 2008, these policies reflect the Service's previous practices. In support of this position the Ministers point to the operational police entitled "OPS-201: Conduct of Operations - General" dated August 28, 2003, which stipulates that in all Service operations, the rule of law is to be observed.
+[82]
+Further, the Ministers noted that the mandate of the Service may require it to receive information from countries with poor human rights records, since it is required to inform the Canadian government on suspected threats to the security of Canada. Due to its particular mandate, which is to be distinguished from the law enforcement mandate of police agencies, the Service is required to collect information on a broader basis. The Ministers argue such a mandate is in keeping with the
+CSIS
+Act
+, and that one would not want to restrict the collection of information by the Service.
+Mr. Mahjoub's position
+[83]
+Mr. Mahjoub argues that notwithstanding the Service's stated policy to "not knowingly rely upon information which is derived from the use of torture", the Service will never know whether information was in fact obtained from torture.
+[84]
+Mr. Mahjoub contends that information provided by a foreign agency will never contain an explicit indication that it was derived from torture or CIDT. He further contends that the Service does not have the ability or the inclination to assess whether the information they receive has been obtained by the use of torture or CIDT. In support of the latter proposition, Mr. Mahjoub points to the evidence of Mr. Vrbanac who acknowledged in cross-examination that the Service does not conduct its own investigations with respect to allegations of torture and that it does not, in fact, have the means to independently verify whether torture occurred. Mr. Vrbanac also testified that he was not aware if anyone at the Service had the training or expertise to determine whether a piece of information was obtained from torture. He further acknowledged on cross-examination that the Service cannot know, in fact, whether information was obtained from torture (Transcript of Proceedings, Vol. 8, at 18).
+[85]
+Mr. Mahjoub therefore argues that the Service has not adopted any reasonable or appropriate measures to identify information that is likely to have been derived from the use of torture. He argues that the policy of "not knowingly rely on torture" does not, in fact, prevent the Service from receiving information obtained from torture. Mr. Mahjoub contends this is all the more so during the period prior to the implementation of the above-noted policy, when the Service's policy was simply to respect the rule of law.
+[86]
+Mr. Mahjoub also argues that the Service's main preoccupation, when receiving information from countries with poor human rights records, is the reliability of the information and whether it can be corroborated. He contends that the Service does not seek to ensure that the information it obtains is not tainted by torture. In this respect, Mr. Mahjoub relies on the report of the Arar Inquiry, wherein Commissioner O'Connor noted the following:
+"Another CSIS representative confirmed that CSIS had no personnel who are trained in assessing whether intelligence is the product of torture. Rather, CSIS' assessment focuses on whether the Service can corroborate the information" (
+Report of the Events Relating to Maher Arar: Factual Background
+, Vol. 1 (Ottawa: The Commission, 2006), at 319).
+Mr. Mahjoub also relies on the
+International Inquiry into the Actions of Canadian Officials in relation to Abdullah Almalki, Ahmad Abou-Elmaati and Muayyed Nureddin
+(Ottawa: Public Works and Government Services of Canada, 2008), at pages 158 to 159 ("Iacobucci Inquiry"), where the following was noted by Commissioner Iacobucci:
+"When asked whether CSIS had considered approaching the Syrian authorities about Mr. Elmaati's claims of torture, a CSIS official stated that it was not something that he concerned himself with at the time and he did not recall having discussed it; in his view, like that of the RCMP, was that it was the responsibility of DFAIT."
+[87]
+Mr. Mahjoub therefore maintains that in deciding what information in its holdings it would rely on and include in the SIR, the Service was required to sift through and exclude information there were reasonable grounds to believe was obtained from torture or CIDT. If doubts existed as to the source of a particular piece of information the Service wished to rely on, the Service had the obligation to request from the foreign agency particulars with respect to the source of this information. Mr. Mahjoub argues that the Ministers have not presented any evidence that such steps were taken to ensure that the information relied on met the admissibility criteria of subsection 83(1.1) of the
+IRPA
+.
+Analysis
+[88]
+It is widely recognized that the international sharing of information is a vital component to safeguard Canada's national security. As such, pursuant to section 17 of the
+CSIS
+Act
+, and in accordance with Ministerial Directives, the Service may be authorized to enter into information sharing arrangements with foreign agencies. This may include agencies of countries with poor human rights records. This is necessary to allow the Service to report and advise the Government of Canada on activities that may on reasonable grounds be suspected of constituting threats to the security of Canada.
+[89]
+I pause to observe that nothing in these reasons should be interpreted to reflect adversely on the work of the Service in carrying out its responsibilities under the
+CSIS
+Act
+. That is not the issue before the Court. The issue here concerns admissibility in evidence of information collected by the Service and relied upon by the Ministers for the purposes of a Court proceeding, more particularly a proceeding to determine the reasonableness of a security certificate issued against Mr. Mahjoub.
+[90]
+In proceeding, the Ministers argue, that because of the Service policies and practices, discussed above, they have not relied on information obtained from torture or CIDT. In my view, these policies and practices, do not provide for an effective mechanism to ensure that such information is actually excluded from the evidence relied on by the Ministers to be adduced before the Court.
+[91]
+The process discussed earlier, in relation to the receipt of information from countries with poor human rights records, provides no insight on how the information is actually ▬▬
+[filtered]
+to exclude information obtained by torture. Pursuant to the Service's policies and practices, employees of the Service must alert their supervisors if they know or suspect an agency to have engaged in mistreatment of any person. Employees must also assess whether information being received from a foreign agency may have been obtained through mistreatment. In conducting their assessment, employees are required to consider the human rights agency and country profiles prepared by the Service. ▬▬▬▬▬▬▬▬▬▬▬▬▬ agency profiles are often at odds with what is reported by human rights organizations and reputable country conditions reports, such as Amnesty International reports. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[92]
+The Service appears to rely on the experience of their employees to assess and ▬▬▬
+[filter]
+information that is from a country or agency with a questionable human rights record. There is no evidence that employees, trained in the art of intelligence collection, have specific expertise in assessing whether information comes from torture or not. The evidence from the Arar Inquiry is to the effect that, prior to 2005, the Service did not have any internal expertise to determine whether information was obtained by torture. In this respect, Mr. Vrbanac was unable to confirm that the Service now has such expertise.
+[93]
+It is also clear from the record that the Service does not have the means to independently investigate whether the information is obtained from torture. Indeed, the evidence of Mr. Vrbanac suggests that the Service is ill equipped to conduct an inquiry into the provenance of information to ensure that it is not from torture.
+[94]
+Notwithstanding the implementation of the above discussed policies, the process for ▬▬▬
+[filtering]
+information is still essentially an exercise of corroboration for the purpose of ensuring the reliability of the information being collected. The record before me indicates that information received from countries with poor human rights records is ▬▬▬
+[filtered]
+in this manner. If it is information that can be corroborated it is essentially found to be reliable and is used by the Service in pursuing its mandate under the
+CSIS
+Act
+.
+[95]
+In my view, notwithstanding the policies and practices implemented by the Service, the approach adopted by the Service in ▬▬▬
+[filtering]
+information collected in compliance with its mandate, is insufficient to ensure that all the information obtained from countries with a poor human rights record meets the admissibility criteria of paragraph 83(1)(h) and subsection 83(1.1). This is particularly so in respect to information relied by the Ministers in this proceeding, which was collected prior to the implementation of the above discussed policies.
+VI.
+Analytical approach and factors to be considered
+[96]
+I now turn to the approach to be taken and the factors to consider in determining whether there are reasonable grounds to believe that any of the information relied on by the Ministers was obtained as a result of the use of torture or CIDT. The parties agree that a termination by this Court, pursuant to subsection 83(1.1), with respect to the admissibility or inadmissibility of specific evidence or information is a fact-based analysis. I agree with this proposition.
+[97]
+Both parties, as well as the Special Advocates, have pointed to certain factors which they believe are relevant to the Court's analysis of whether information was obtained by the use of torture or CIDT. The parties do not allege these proposed factors to be exhaustive.
+[98]
+The specific factors proposed by the parties and the Special Advocates will be discussed in the context of the evidence adduced for each relevant category of information at issue in this motion. However, certain propositions or factors advanced by the parties as appropriate considerations in determining whether information was obtained by the use of torture or CIDT, are best dealt with at the outset. These are:
+a) The applicability of the factors considered in
+Almrei (Re)
+and
+Harkat (Re)
+;
+b) The usefulness of the jurisprudence on non-refoulement; and
+c) The nature of the information obtained.
+A. The applicability of factors considered in Almrei (Re) and Harkat (Re)
+[99]
+The Ministers argue that the factors considered by the Court in
+Almrei (Re)
+, at paragraphs 59 and 60 and
+Harkat, Re
+(2005), 261 F.T.R. 52; 2005 FC 393, at paragraphs 94 and 95, with respect to the assessment of confidential information are also applicable in deciding whether information was obtained by the use of torture or CIDT. Both cases dealt with the assessment of confidential information in the context of the reasonableness of the certificate. The factors discussed in those decisions relate to relevance, reliability and weight of the evidence in the overall assessment of the information adduced. The context is far different than that of the current proceeding which calls for a determination of whether information is inadmissible because it was obtained by the use of torture. In my view the factors considered in
+Almrei (Re)
+and
+Harkat (Re)
+have little direct application to this proceeding. An exercise calling for the weighing of relevance, reliability and overall assessment of information is not helpful in determining if the information was obtained by the use of torture or CIDT.
+B. The usefulness of the jurisprudence on non-refoulement
+[100]
+Both Mr. Mahjoub and the Ministers rely on Canadian jurisprudence relating to non-refoulement and on findings of the Committee against Torture in cases pursuant to Article 3 of the CAT, which embodies the principle of non-refoulement.
+[101]
+The Ministers rely on this jurisprudence in support of their contention that to establish that information was obtained by the use of torture requires more than simply pointing to the poor human rights records of a given country. Mr. Mahjoub points to the same jurisprudence in support of the proposition that in certain cases, country conditions may be sufficient to establish that the claimant faces a risk of torture, and that by analogy, country conditions may be sufficient to establish that information obtained from such countries is likely from torture.
+[102]
+I find the case law with respect to non-refoulement to be of limited use in the circumstances of this proceeding. In non-refoulement proceedings, a claimant is required to demonstrate a personalized risk of torture in order not to be refouled. These cases call for the assessment of the future risk of torture for a claimant and require consideration of the claimant's personal situation in relation to the country of removal. The issue here is different, the question is not so much about the future risk of a particular claimant being tortured if returned, but rather whether information sought to be admitted in evidence was obtained by the use of torture or CIDT.
+[103]
+The non-refoulement cases may be useful in considering country condition evidence. However, it seems clear that no general rule can be taken from this jurisprudence as to whether country condition evidence is, in and of itself, sufficient to establish that information was obtained by torture or CIDT.
+C. The nature of the information obtained
+Ministers' position
+[104]
+The Ministers contend that the nature of the information is a helpful indicator in assessing whether the information obtained from a foreign agency was obtained by the use of torture. In this respect they point to both the degree of specificity of the information and its reliability.
+[105]
+The Ministers argue that if the information is general it is more likely not be from torture. By contrast if the information provided by a foreign agency consist of a detailed account of events, it is more likely to be a product of torture. In support of these propositions, the Ministers rely on the testimony given by Professor Richard J. Ofshe in the Arar Inquiry, on June 8, 2005, at page 6023, and ▬▬▬▬▬▬▬▬▬
+[a report that looks like a backgrounder, a background on an investigation that]
+did not appear to have been obtained by torture because ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[106]
+The Ministers also argue that reliability is an indicator that information was not obtained by torture or CIDT. They contend that if the information can be corroborated and is therefore reliable, it is an indicator that it was not obtained by torture or CIDT. The Ministers rely on the evidence of ▬▬▬▬▬, who stated that certain information from ▬▬▬▬▬▬▬▬ did not appear to be a product of torture because it was later corroborated by the Service, or was consistent with the Service's own investigation. The Ministers also rely on the expert evidence given by Professor Ofshe in the Arar Inquiry, at page 5984, and on the following statement made by Mr. Sifton:
+"... some of the things that are a tip-off that torture has been used, are incoherence, seeming absurdity of the intelligence, the seeming, the ostensible absurdity of the intelligence, the extraordinary characteristics of the intelligence, certainly those can be tip-offs. ... One last thing, non-corroborated, the fact that something is just out of the blue and there is no other piece of information except for it, that can be a factor as well" (Transcript of Proceedings, Vol. 12, at 44.)
+[107]
+On the basis of the above, the Ministers' position is that where the information has been corroborated and is reliable, it is less likely to have been obtained by torture or CIDT.
+Position of the Special Advocates
+[108]
+The Special Advocates argue that corroboration and the accuracy of the information are not material considerations in deciding whether the information is admissible under subsection 83(1.1). They contend that if the information is obtained by the use of torture, it matters not if it can be corroborated or if it is accurate information. Such information is inadmissible in any event. Similarly, the Special Advocates submit that the level of detail of the information is not an indicator on whether torture was used to obtain the information.
+[109]
+As for the evidence of ▬▬▬▬ the Special Advocates first note that ▬▬▬▬ has no expertise in identifying the indicia of torture, nor did the Ministers intend to qualify ▬▬▬▬ as an expert in this area. The Special Advocates argue that he testified from an operational perspective providing information on how the Service tests the reliability of information as opposed to providing a "forensic" analysis of the information.
+Analysis
+[110]
+With respect to reliability, the evidence supports the proposition that incoherence and non-corroboration can be an indication that the information was obtained by torture. However, in my view the evidence does not support the converse. Mr. Sifton's testimony, relied on by the Ministers, is clear on this point, that is to say reliable evidence does not lead to the conclusion that it was not obtained from torture. He testified that: "If somebody confesses to a coherent set of facts that you know actually took place, that doesn't mean they weren't tortured" (Transcript of Proceedings, Vol. 12, at 56-57). Professor Ofshe also noted in his evidence before the Arar Inquiry that: "... Torture can produce compliance and can certainly, I think, produce reliable information as well" (at 6021). ▬▬▬▬▬ acknowledged, during cross-examination, that a person who was tortured could tell the truth and therefore that torture could produce both reliable and unreliable results ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[111]
+With respect to the Ministers' argument on lack of detail, Professor Ofshe's evidence does little in my view to support the Ministers position on the issue. Professor Ofshe gave specific evidence in the Arar Inquiry that lack of detail in the information would not be an indication as to whether torture had been used or not:
+"Mr. Fothergill: To the extent that a statement is missing the kind of detail, does that tell you anything about whether or not it is likely a product of coercion?
+"Mr. Ofshe: Not the product of coercion. It tells me something about the skill of the interrogators. It might suggest something about what the interrogators were trying to accomplish, but it wouldn't necessarily tell you anything about coercion itself (at 6025)."
+[112]
+Further, Mr. Vrbanac, the Ministers' witness, specifically acknowledged that the level of detail of a statement or piece of information would not permit the drawing of an inference as to whether it was obtained by torture or not. Mr. Vrbanac agreed that the lack of detail could reflect the skill of the interrogator and added "it also could reflect what the [foreign] agency wanted to provide" (Transcript of Proceedings, Vol. 8, at 100). This demonstrates that lack of detail is not indicative that torture or CIDT was not used to obtain the information.
+[113]
+In my view, information on its face without details surrounding the context in which it was obtained does not provide an indication as to its provenance. Professor Ofshe opined that it is not possible to assess whether coercion was used by basing oneself solely on the statement at issue, without information as to how that statement was collected. On this point he stated:
+"I just don't think there is any way to get from the output statement back to the circumstances under which it was collected without independent information about the circumstances of the interrogation" (at 6022).
+[114]
+The Service witness, Mr. Vrbanac agreed with the above observation and acknowledged that the information or statement itself would not permit one to assess the circumstances under which that piece of information or statement was collected.
+[115]
+Based on the evidence, I conclude that the level of detail or the reliability of the information are not, on their own, useful factors in assessing whether there are reasonable grounds to believe the information was obtained by torture or CIDT.
+VII.
+Categories of Information at Issue
+[116]
+The information at issue in this motion is the information that was sourced directly or indirectly from ▬▬▬▬▬▬▬▬. The confidential information and evidence demonstrates that the ▬▬▬▬▬▬▬▬ information was received by the Service from ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. The Special Advocates argue that the information sourced from ▬▬▬▬▬▬▬▬ directly or indirectly, falls into two categories: information from unknown sources and; information that is the product of interrogation. Upon a review of the record, I believe this to be a fair categorization of the information at issue. I would add for consideration as a separate category, Egyptian convictions from the Returnees of Albania trial. I propose to review these categories of information separately and in so doing I will consider the application of various factors proposed by the parties in relation to the stated categories of information. That is to say, factors other than those identified and dealt with beginning at paragraph 98 above.
+A. Information originating from ▬▬▬▬▬▬▬ from unknown sources
+[117]
+This category relates to information relied on by the Ministers, which originates from ▬▬▬▬ but whose source or provenance is unknown. Information in this category would essentially be information contained in ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. The information is considered unsourced because the originating agency gives no indication of how the information was obtained. In their exchange of information, foreign agencies do not always and in fact do not often specify the source of the information on which they rely, in terms of whether the information comes from a technical intercept, a human source, an interrogation, etc. As a result, much of the information in evidence consists only of the raw information without attribution to any particular source.
+Mr. Mahjoub's position
+[118]
+In determining whether such unsourced information was obtained by torture or CIDT, Mr. Mahjoub argues that the Court must assess whether the country or agency providing the information is one which uses torture. Mr. Mahjoub contends that the following factors, drawn from Mr. Pardy's evidence, are relevant and ought to be considered by the Court in making such a determination:
+- Evidence that the state engages in consistent, gross, flagrant or mass violations of human rights, as based on reports of human rights agencies, international organizations an state reports, such as the United States Department of State Annual Country Reports (US DOS);
+- The structure of the government, that is to say whether the government is a civilian or military regime, and whether there is a dictatorial form of government;
+- The states's stability including any internal armed conflict, state of siege or emergency, and/or acts of political violence against the government;
+- Whether the state engages in the targeting of individuals who fit a particular profile, or a particular class;
+- The state's handling of security matters. This factor includes the consideration of whether the state has separate security agencies, courts or tribunals to deal with security related offence and separate detention areas for persons representing security threats;
+- The independence of the judiciary;
+- The existence or lack of safeguards to protect persons against torture, including: effective complaint mechanisms for victims; reviews of detention such as
+habeas corpus
+; detention notification requirements and record keeping; minimization of time in police custody; inadmissibility of evidence obtained under torture, access to lawyers and legal assistance, and;
+- The independence of the media and the legal profession.
+[119]
+Mr. Mahjoub contends that not all of the above factors need to be met in order for the Court to find that a state uses torture. He relies on the following observation made by Mr. Pardy:
+"These factors should not be used collectively in order to demonstrate whether or not torture is used by a foreign government. Rather the factors should be applied individually and, in some circumstances one or another may be sufficient to demonstrate that torture or acts of cruel, inhuman or degrading treatment is used."
+[120]
+Mr. Mahjoub argues that where the evidence demonstrates a state practice of systematic and pervasive torture, it is open to the Court to draw a reasonable inference that specific information before it, originating from the state but whose source is undetermined, was obtained by torture or CIDT. Mr. Mahjoub contends this would not be to engage in speculation and points to the observations of Commissioner Iacobucci in the Iacobucci Inquiry, where he states at page 337:
+"... drawing reasonable inferences from the evidence before me is not speculation. Speculation involves making guesses in the absence of evidence. Drawing inferences involves making rational connections between facts in evidence and other facts for which direct evidence is not available. Inference drawing of this kind is well accepted in both legal and non-legal settings ... "
+[121]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[This paragraph contains a summary of a part of the public evidence that is relevant to the decision.]
+[122]
+The Special Advocates agree with Mr. Mahjoub's position that from the evidence of a state's practice of torture, a reasonable inference can be drawn that particular information originating from that state was obtained by torture, unless evidence is adduced to the contrary. In further support of this position, the Special Advocates rely on
+ <FRAGMENT_SUPPRESSED>  [2009] All E.R. (D) 220 (Mar) (C.A.), where the English Court of Appeal drew such an inference when considering the conviction of Mr. Al-Sirri by the Egyptian Military Court.
+[123]
+In that case, the particular evidence relied on to convict Mr. Al-Sirri before the Egyptian Military Court was unknown. The tribunal, under review, made the determination that the evidence before the Egyptian Military Court was probably obtained from torture. On this basis, the Court of Appeal found that there was a real probability that the evidence used to convict Mr. Al-Sirri was obtained by torture, and therefore his Egyptian conviction had to be excluded. The Special Advocates contend that the Court of Appeal drew a reasonable inference from the general evidence that the Egyptian Military Court relies on evidence obtained from torture to make the particular finding that the conviction of Mr. Al-Sirri was based on evidence obtained by torture, even though it had no direct evidence in support of this.
+[124]
+The Special Advocates also rely on
+Almrei (Re)
+at paragraph 149 to 153, where Justice Mosley stated, without deciding the matter, that is was open to the Court to find that information obtained by members of the U.S. military or intelligence agencies from detainees captured in the aftermath of 9/11 was obtained as a result of torture or CIDT because so-called "enhanced interrogation techniques" had been approved for use by U.S. interrogators in the circumstances. The Special Advocates recognize that Justice Mosley's comments were made in obiter, but note that this is because the Ministers "properly" withdrew the information at issue and rendered it unnecessary for the Court to rule on the matter.
+[125]
+Based on the above, the Special Advocates argue that since the Ministers adduced no evidence to the contrary, a reasoned inference should be drawn from the general evidence of torture in ▬▬▬▬▬▬▬ that there are reasonable grounds to believe unsourced information originating from ▬▬▬▬▬▬▬ was obtained from torture or CIDT.
+Ministers' position
+[126]
+In response, the Ministers argue that the general evidence presented with respect to ▬▬▬▬▬▬▬▬ does not allow one to conclude that there are reasonable grounds to believe that any and all information originating from ▬▬▬▬▬▬▬▬ was obtained by torture or CIDT. The Ministers argue that the reasonable grounds to believe standard requires the judge to consider whether there is an objective basis which is based on credible and compelling evidence that the information is obtained by torture or CIDT. The Ministers contend that the general country condition evidence in this instance, does not meet this standard.
+[127]
+The Ministers argue that one cannot conclude that information was obtained from torture solely on the basis of reports or prior human rights abuses. In this regard, the Ministers note that when considering the human rights reports of international agencies such as Human Rights Watch and Amnesty International, it must be remembered that such agencies rely on anecdotal evidence and that their objective is to encourage the countries in question to desist from torture. The Ministers submit that what is required is a case by case and textured analysis.
+[128]
+I do not take the Ministers to suggest that the reports are consequently unreliable, but simply that the reports must be approached mindful of the above stated caveat and that "a case by case and textured analysis" is required.
+[129]
+The Ministers further argue that there is compelling evidence that ▬▬▬▬▬▬▬▬ do not use torture as their main mode of operation, and rather that they have a vast array of tools at their disposal. For this position the Ministers rely on documentary evidence, the evidence given by ▬▬▬▬▬▬▬▬ the evidence of ▬▬▬▬▬▬▬▬ as well as Service documentation.
+[130]
+In deciding whether an inference can be drawn that the unsourced information at issue, originating from ▬▬▬▬▬▬▬▬ was obtained from torture or CIDT, I will consider the factors discussed above and the evidence submitted by the parties. I accept that consideration of the factors identified by Mr. Pardy at paragraph 118 above, and relied upon by Mr. Mahjoub to be appropriate.
+Mr. Mahjoub's evidence
+[131]
+▬▬▬▬▬▬▬▬▬▬ evidence was adduced by Mr. Mahjoub on the country conditions ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. As stated above, this evidence includes reports from Amnesty International, Human Rights Watch, and the UN Committee against Torture for the years for which information was gathered that is relied on by the Ministers in this proceeding. It is widely accepted that these reports represent the best evidence available since there is very little direct evidence of torture. The reports included in the record are well known, credible and heavily relied upon internationally. These are the same reports regularly relied on by the Minister of Citizenship and Immigration under the
+IRPA
+in refugee cases before the Immigration and Refugee Board and this Court (See also: <FRAGMENT_SUPPRESSED> , at paras. 72-73).
+[132]
+I also find the ▬▬▬▬▬▬▬▬
+[evidence]
+called on behalf of Mr. Mahjoub, ▬▬▬▬▬▬▬▬ to be credible and ▬▬▬▬▬▬▬▬ compelling.
+[133]
+Overall, the evidence adduced by Mr. Mahjoub establishes that torture is used systematically ▬▬▬▬▬▬▬▬. In the period between ▬▬▬▬▬▬▬▬ Human Rights watch and Amnesty International consistently report that torture of detainees is systematically practiced by ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[134]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[135]
+The evidence is that persons most targeted by torture in ▬▬▬▬▬▬ are political detainees, and more specifically alleged members or sympathizers of armed ▬▬▬▬ groups, or their relatives ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ particularly targeted persons affiliated with ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. These assertions are supported by the evidence of ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[136]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[137]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[138]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. This is confirmed by Amnesty International, ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[139]
+The evidence is also to the effect that ▬▬▬▬▬▬▬▬ act with impunity. Amnesty International reports that widespread torture ▬▬▬▬▬▬▬▬ was facilitated by the states's failure to investigate allegations of torture ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[140]
+The Special Advocates, in support of Mr. Mahjoub's position, point to ▬▬▬▬▬▬▬▬▬▬▬. The evidence at issue is contained in ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. This evidence documents that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+The Ministers' evidence
+[141]
+In support of their contention that ▬▬▬▬▬▬▬▬▬▬▬▬ not use torture as their main mode of operation, the Ministers point to the Service's evaluation of ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[142]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[143]
+The Ministers also rely on the evidence of ▬▬▬▬▬ who stated the following with respect to ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[144]
+When ▬▬▬▬▬ was asked to comment on the allegation ▬▬▬▬▬▬▬▬ routinely engages in torture, he stated:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[145]
+Further, the Ministers note that ▬▬▬▬▬▬▬▬ that not every source of information used by ▬▬▬▬▬▬▬▬ engages torture. They point to ▬▬▬▬▬▬▬▬.
+[146]
+According to the Ministers, ▬▬▬▬▬▬ a variety of sophisticated tools and methods other than torture to collect information, including ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[147]
+The Ministers' witness, ▬▬▬▬, testified that the ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[148]
+The Ministers contend ▬▬▬▬▬▬▬▬▬▬▬ demonstrates the use of methods, other than torture ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ did not appear to be the product of torture but rather appeared to come from other methods of intelligence gathering. ▬▬▬▬▬▬ testified, with respect to ▬▬▬▬▬▬ that the information appeared to come from ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ also testified that information in ▬▬▬▬ was probably obtained by ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+The Special Advocates response to the Ministers' evidence in closed session
+[149]
+The Special Advocates raise a number of arguments to challenge the evidence of the Ministers. With respect to the ▬▬▬▬▬▬▬▬ the Special Advocates note that, in the period from ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. The Special Advocates point out that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ the Service relies on ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Special Advocates argue that this is not a sustainable conclusion given ▬▬▬ reports by Amnesty International ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ use of torture on political detainees is systematic.
+[150]
+With respect to the ▬▬▬▬▬▬▬▬ the Special advocates juxtapose the ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ and the Service's policy of "not knowingly" relying on information obtained from torture. The Special Advocates argue that the Service's conclusions in ▬▬▬▬▬▬▬▬ are meaningless because the Service has neither the motive nor the capacity to investigate whether human rights abuses have occurred with respect to the information they are provided.
+[151]
+As for the evidence of ▬▬▬▬▬ the Special Advocates argue that ▬▬▬▬▬ evidence with respect to the professionalism of ▬▬▬▬▬▬▬▬ should be given little weight since it is non-expert, unconvincing and based solely upon ▬▬▬▬▬ very limited experience with ▬▬▬▬▬▬▬. In support of this position, the Special Advocates argue that ▬▬▬▬▬▬▬▬ has no experience in dealing with ▬▬▬▬▬▬▬▬ "on the ground" ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. The Special Advocates note that ▬▬▬▬▬▬▬▬ has no experience with ▬▬▬▬▬▬▬▬ whatsoever, and that he has only dealt with a limited part of ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. They note that both of these experiences were subsequent to the relevant time period when ▬▬▬▬▬ collected the information, which is relied on by the Ministers in this case.
+[152]
+The Special Advocates argue that ▬▬▬▬▬ viewed that ▬▬▬▬▬ sophisticated and nuanced is based solely on ▬▬▬▬▬▬▬▬▬▬▬▬ sophistication in this respect is irrelevant.
+[153]
+Finally, with respect to ▬▬▬▬ conclusions that certain information from ▬▬▬▬▬▬▬ appears to come from ▬▬▬▬▬▬▬▬▬▬ as opposed to being the product of torture, the Special Advocates point out that ▬▬▬▬ does not, in fact, know the provenance of the information. They argue the information could just as well have come from coercion and that nothing in the information itself is indicative that it, in fact, came from ▬▬▬▬▬▬▬▬▬▬▬▬▬. As noted above, the Special Advocates also argue that ▬▬▬▬▬ does not have any particular expertise in analyzing the provenance of information and that he testified from an operational perspective as opposed to providing a "forensic" analysis of the information.
+Analysis
+[154]
+▬▬▬▬▬▬▬▬▬▬▬
+[The evidence called on behalf of Mr. Mahjoub is clear.]
+▬▬▬▬▬▬ not only ▬▬▬ with impunity, but ▬▬▬▬▬▬ torture as ▬▬▬ primary means of gathering information and intelligence ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ I am satisfied that the evidence establishes that, at the time information relied on by the Ministers in the case against Mr. Mahjoub was gathered, torture was used systemically ▬▬▬▬▬ on persons detained or under ▬▬▬▬ control. In my view, Mr. Mahjoub has offered a plausible connection between the use of torture and CIDT in ▬▬▬▬▬▬▬▬ and the unsourced information, originating from ▬▬▬▬▬▬▬▬ proffered by the Ministers.
+[155]
+The Ministers led very little evidence to counter the evidence of the experts in respect to the systematic use of torture in ▬▬▬▬▬▬▬▬. I have not been persuaded otherwise by the Ministers' evidence adduced in closed session, which consists of the ▬▬▬▬▬▬▬▬ and the testimony of ▬▬▬▬▬▬.
+[156]
+The Agency Profiles ▬▬▬▬▬▬▬ for the years in question rely on reports issued by Amnesty International. A review of the Amnesty International reports for the years at issue all indicate that torture is practiced ▬▬▬▬▬▬▬ with impunity and that its use was systematic. The Service's conclusion ▬▬▬▬▬▬▬▬▬▬▬▬▬ is unsupported by the Amnesty International reports. Further, the undisputed evidence is that the Service has no capacity to independently investigate allegations of torture. I therefore find the Service's assessment of ▬▬▬▬▬▬▬▬ to be of little probative value.
+[157]
+With respect to the ▬▬▬▬▬▬▬▬▬▬▬▬▬. As discussed above, the policies and practices of the Service with respect to information sharing with countries with poor human rights records did not provide, at the pertinent time, a meaningful process to evaluate whether the information provided by these countries was obtained by torture. As a consequence ▬▬▬▬▬ of little assistance in addressing whether ▬▬▬▬▬ torture.
+[158]
+With respect to the evidence of ▬▬▬▬▬, I note that ▬▬▬▬▬▬▬▬ at the time the information relied on by the Ministers was being gathered for this case. Further, the record indicates that ▬▬▬▬▬ has had no exposure to ▬▬▬▬▬▬▬▬ advances essentially the following proposition in his evidence: that ▬▬▬▬▬▬▬▬ nuanced and sophisticated and that ▬▬▬▬ main operational methodology does not include torture. Based on his lack of experience with ▬▬▬▬▬▬ and in light of the abundant evidence on the record indicating the systematic use of torture by ▬▬▬▬▬▬▬ against individuals of interest under ▬▬ control, I do not find ▬▬▬▬ evidence on the issue to be persuasive and therefore give it little weight.
+[159]
+▬▬▬▬▬▬ conclusions that certain information ▬▬▬▬▬▬▬▬▬▬ appears to come from ▬▬▬▬▬▬▬▬▬ are also unconvincing. A review of ▬▬▬▬▬▬▬▬ at issue, reveals no indication as to the provenance of the information.
+[160]
+I now turn to consider other evidence, in the context of the issue to be decided in relation to unsourced information. It is particularly useful to consider the collection methods employed by ▬▬▬▬▬▬ in the context of the human rights record of ▬▬▬▬▬▬▬▬.
+[161]
+The record shows that other means of gathering information that do not include the use of torture were employed by ▬▬▬▬▬▬▬▬ to obtain information at the relevant time.
+[162]
+As stated earlier, ▬▬▬▬▬▬▬▬▬▬▬▬▬ use a variety of tools to collect information other than torture. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[163]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[164]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬ gave evidence that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[165]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[166]
+The evidence also indicates that in ▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[167]
+The above evidence demonstrates that ▬▬▬▬▬▬▬▬ sophisticated, well funded and ▬▬▬▬▬▬ with impunity. Further ▬▬▬▬▬▬▬. It also establishes that ▬▬▬▬▬▬▬▬▬▬▬ collected information through methods other than torture or CIDT. The information obtained as a result of ▬▬▬▬▬▬▬▬. This is indicative of the kind of information that could have been obtained ▬▬▬▬▬▬▬▬ and relied on by the Ministers in this proceeding. The record also indicates that in ▬▬▬▬▬▬▬▬▬▬▬. This further supports the contention that ▬▬▬▬▬▬▬▬▬▬ in ▬▬ investigation of such terrorist organizations ▬▬▬▬▬▬▬▬ a method that does not directly involve the use of torture.
+[168]
+As stated above, the "reasonable grounds to believe" standard requires something more than mere suspicion but less than the standard applicable in civil matters of proof on the balance of probabilities. In essence, reasonable grounds will exist where there is an objective basis for the belief which is based on compelling and credible information. I do not find, based on the record before me, that there is an objective basis for the belief that all unsourced information, which originates from ▬▬▬▬▬▬▬ was obtained by torture or CIDT. The evidence establishes that significant information is gathered ▬▬▬▬▬▬▬▬ by methods that do not include the use of torture or CIDT. Further, there is evidence that information relevant to Islamic terrorist organizations, which is essentially the kind of information obtained ▬▬▬▬▬▬▬▬▬▬▬ and relied on by the Ministers in this proceeding, was obtained as a result of ▬▬▬▬▬▬▬▬ as discussed above.
+B. Information originating from ▬▬▬▬▬▬▬ that is the product of an interrogation
+[169]
+I now turn to information known to be the product of an interrogation. This category of information essentially concerns information having been provided by an identifiable individual in the custody or under the control of ▬▬▬▬▬▬▬▬. In the context of this proceeding this category essentially concerns information provided by ▬▬▬▬▬▬▬▬. The information with respect to ▬▬▬▬▬▬▬▬ interrogation is classified and therefore unknown to Mr. Mahjoub. His submissions therefore relate to information attributable to identifiable individuals in the custody of a foreign state and the evidence he adduced regarding the treatment of detainees ▬▬▬▬▬▬▬▬.
+Mr. Mahjoub's position
+[170]
+Mr. Mahjoub contends that in circumstances where information is obtained from an identifiable individual under the control or in the custody of a foreign state, it is unlikely the foreign agency sharing the information will disclose the circumstances surrounding the detention and interrogation of this individual. Where there is no direct evidence of torture, Mr. Mahjoub argues that the Court must consider all of the circumstances and determine whether an inference can be drawn, on the evidence before it, that the person providing the information was tortured or suffered CIDT. He argues that the follow factors are relevant to the Court's determination. These are essentially drawn from the factors proposed by Mr. Pardy in his testimony:
+- Was the person detained when he provided the information, or prior to providing the information?
+- How inculpatory is the nature of the information given by the person?
+- Whether the individual has engaged in political or other activity within or outside the State concerned which would appear to make him/her particularly vulnerable to being subject to torture and other forms of CIDT by that State.
+- The nature of the allegations against the individual: whether they are rooted in national security concerns or crimes against the state? And whether the allegations have been disclosed?
+- Whether the detained person had access to outsiders, such as lawyers or family members? Whether there was any delay in the detainee being able to contact the outside world. Was access granted only in the presence of state authorities?
+- Where the person is detained, how long was the detention and whether there was a lawful process in compliance with international standards of fundamental justice, both in respect of the initial arrest and the continued detention?
+- Whether there are any safeguards in place to protect against the use of torture or CIDT?
+- Are there claims of torture from others in the same class or group of persons, as the individual in question?
+[171]
+Mr Mahjoub argues that in the case of certain countries ▬▬▬▬▬▬▬, it is at the point of detention that the person becomes vulnerable to torture. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[172]
+Mr. Mahjoub further relies on ▬▬▬▬▬▬ numerous reports by various human rights groups, such as Amnesty International, Human Rights Watch, local human rights groups, the United Nations, and the US DOS reports, which have addressed the mistreatment of detainees held ▬▬▬▬▬▬▬▬▬▬▬▬. These reports have recorded and documented a large number of cases in which ▬▬▬▬▬▬▬▬▬▬▬▬▬ repeatedly and routinely violated the fundamental human rights of persons in ▬▬▬ custody. ▬▬▬▬▬▬▬▬ a particularly poor record with respect to the use of specific forms of torture which have been documented by human rights groups, international bodies, the US DOS reports. The documented treatment includes: severe beatings, hanging detainees by their arms or legs, binding detainees in painful positions, whipping detainees with cable or straps, subjecting detainees to prolonged sleep deprivation, and using electro-shock torture.
+[173]
+Mr. Mahjoub argues that, in the face of such evidence, ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ an inference can be drawn that the person was tortured or suffered CIDT.
+[174]
+Mr. Mahjoub maintains that other factors with respect to the circumstances surrounding the person's detention can also be indicative that the person was tortured. For example where a person does not have access to a lawyer or family members, or whether there was a delay in providing access, there is higher likelihood of torture or mistreatment. According to Mr. Mahjoub, most human rights agencies assert that there is a greater risk of torture during periods of incommunicado detention when access to the outside world is prohibited.
+[175]
+With respect to the nature of the information given, Mr. Mahjoub argues that the more inculpatory the nature of the information provided, the less likely the information was voluntarily provided, particularly where it could support a prosecution leading to conviction, the imposition of a lengthy prison term, hard labour, or the death penalty. The question to consider is whether it is plausible that a person would have provided that information voluntarily.
+[176]
+With respect to specific groups being targeted by the state, Mr. Mahjoub argues that if the person falls within a class that is targeted ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ persons connected with terrorism, this person is particularly vulnerable to being tortured or mistreated.
+[177]
+Where the person's detention is not in compliance with a lawful process, either for the initial arrest or the continued detention, Mr. Mahjoub argues there is a higher risk of torture. In this respect, Mr. Mahjoub provides the example of extraordinary rendition. Mr. Mahjoub relies on the evidence adduced by Mr. Sifton and Mr. Ghappour that the practice of rendition has come to be almost synonymous with torture and CIDT. Mr. Sifton gave the example of well-known cases of rendition to Egypt, where the persons rendered claimed to have been tortured. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[178]
+Mr. Mahjoub also argues that where the State has few or no safeguards in place to protect against torture, there is a greater risk that a detained person may have been tortured to obtain evidence. In this respect, Mr. Mahjoub points to the observations of Mr. Nowak, the U.N.
+Special Rapporteur
+, who described the circumstances which in his view foster the use of torture (
+Report of the Special Rapporteur
+, at paras. 45-56). These include: impunity, lack of effective complaint mechanisms for victims, lack of preventive safeguards such as notification and detention records, length of police custody, admissibility of evidence obtained under torture, limited access to lawyers and legal assistance, and lack of forensic examinations (Ibid).
+[179]
+Mr. Mahjoub contends that the accounts given by others alleging torture or mistreatment in similar situations is evidence that may be indicative that torture was used. He notes that in the Arar Inquiry, the appointed fact finder Professor Stephen J. Toope relied, in part, on the commonality of experiences of Abdullah Almalki, Muayyed Nureddin, Ahmed El Maati and Mr. Arar to conclude that Mr. Arar's claim of torture was credible (
+Report of Professor Stephen J. Toope: Fact Finder
+(Ottawa: The Commission, 2005), at 5).
+[180]
+In support of Mr. Mahjoub's position, the Special Advocates argue that the information obtained from the interrogation ▬▬▬▬▬▬▬▬ should be excluded because the process by which ▬▬▬▬▬▬▬ was detained, ▬▬▬▬▬▬▬▬, and his subsequent detention and interrogation ▬▬▬▬▬▬▬▬ support the inference that he was tortured and that, consequently, the information he provided was obtained from torture.
+[181]
+The Special Advocates argue that ▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[182]
+The Special Advocates further argue that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[183]
+The Special Advocates maintain that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[184]
+The Special Advocates also point to the cross-examination of ▬▬▬▬▬▬▬ where he agreed that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[185]
+With respect to ▬▬▬▬▬▬ detention, the Special Advocates argue that the evidence adduced in the public portion of the proceeding establishes that torturing detainees during interrogations is the standard practice of ▬▬▬▬▬▬▬▬▬▬▬ particularly when members of ▬▬▬▬▬▬▬▬▬▬▬▬ are being interrogated. In support of their submission, the Special Advocates rely on the ▬▬▬▬▬ Amnesty International report ▬▬▬▬▬▬ which covers the relevant period, ▬▬▬▬▬ when ▬▬▬▬▬ would have been detained and interrogated. The report states:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+Ministers' position
+[186]
+The Ministers argue that although detention can be a factor in determining whether a person was tortured, it is not determinative. The Ministers note that such a factor is not considered determinative by the Committee Against Torture and cite
+ <FRAGMENT_SUPPRESSED>  that the fact that ▬▬▬▬▬▬ was detained ▬▬▬▬▬▬▬▬ is not conclusive on the issue of whether ▬▬ was tortured. The Ministers argue that the ▬▬▬▬▬▬▬ and not that he was tortured during his interrogation.
+[188]
+The Ministers further argue that evidence demonstrating that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ is not sufficient for a finding that the person was tortured or suffered CIDT ▬▬▬▬▬▬▬▬ and that there are reasonable grounds to believe that the information was obtained as a result of torture or CIDT. The Ministers argue that it does not flow from ▬▬▬▬▬▬▬▬ also ▬▬▬▬▬▬▬▬ in systematic torture.
+[189]
+The Ministers submit that it is highly unlikely that ▬▬▬▬▬ was tortured ▬▬▬▬▬▬▬. For this position, the Ministers rely on ▬▬▬▬▬ evidence that the information provided by ▬▬▬▬▬ did not appear to be a product of torture.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬".
+[190]
+The Ministers argue that no allegations were made ▬▬▬▬ that he was tortured while in detention ▬▬▬▬▬▬. The Ministers contrast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. Further, the Ministers argue that there are no accounts in any of the human rights reports, such as Amnesty International and Human Rights Watch that specifically allege or say the ▬▬▬▬ was tortured.
+[191]
+Based on the above, the Ministers argue that in the circumstances, there is no basis in the evidence for the Court to draw an inference that ▬▬▬▬▬ was tortured.
+The Special Advocates response to the Ministers' evidence in closed session
+[192]
+The Special Advocates argue that the Ministers have not provided any evidence to counter the evidence adduced by Mr. Mahjoub, nor have they provided any evidence on the particular circumstances of ▬▬▬▬▬▬▬ interrogation.
+[193]
+The Special Advocates dispute the evidence adduced by ▬▬▬▬▬▬ who testified that it does not appear that the information from ▬▬▬▬▬▬ was obtained from torture because of ▬▬▬▬▬▬ when the information was obtained. The Special Advocates point to the fact that ▬▬▬▬ acknowledged, in cross-examination, that detainees at the hands of foreign services, ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ are tortured:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[194]
+Based on the above, the Special Advocates argue that the only conclusion that can be reached is that ▬▬▬▬▬▬ was tortured, and therefore all the information received ▬▬▬▬▬▬ which was obtained from his interrogation must be excluded.
+Analysis
+[195]
+Mr. Mahjoub has shown a plausible connection between the use of torture and CIDT against persons detained and interrogated ▬▬▬▬▬▬▬▬ and the information provided by ▬▬▬▬▬ while under the custody ▬▬▬▬▬▬▬▬. The issue therefore, is whether based on the circumstances surrounding ▬▬▬▬▬▬▬▬ detention and interrogation, there are reasonable grounds to believe that the information ▬▬▬ provided was obtained by torture or CIDT.
+[196]
+Considering the relevant factors proposed by Mr. Mahjoub, noted above, I find the following facts and circumstances surrounding ▬▬▬▬ detention and interrogation to be relevant in making the determination of whether there are reasonable grounds to believe ▬▬▬ was tortured or suffered CIDT.
+[197]
+The evidence is uncontested that ▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬. The record indicates that ▬▬▬▬▬▬▬▬▬ was detained ▬▬▬▬▬▬▬▬. Therefore from the perspective of ▬▬▬▬▬▬▬▬ was clearly associated with ▬▬▬▬▬▬▬▬ and consequently detained for political and security reasons.
+[198]
+Human Rights Watch reports that most individuals ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. In particular, Human Rights Watch investigated the circumstances surrounding ▬▬▬▬▬▬▬▬ held for an extended period of incommunicado detention ▬▬▬▬▬▬▬▬ without access to their attorneys or family members ▬▬▬▬▬▬▬▬. Further, the uncontested evidence ▬▬▬▬▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[199]
+An individual with ▬▬▬▬▬▬ profile and in ▬▬▬▬▬▬▬▬ circumstances would likely be subjected to torture ▬▬▬▬▬▬▬▬. The documentary evidence establishes that ▬▬▬▬▬▬▬▬ systematically tortures detainees. The evidence also shows that persons held in incommunicado detention and those affiliated with ▬▬▬▬▬ groups, that is to say political detainees, are particularly at risk of torture ▬▬▬▬▬▬▬▬ Amnesty International reported:
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[200]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Human Rights Watch has also reported that torture ▬▬▬▬▬▬ is particularly widespread and persistent with respect to the interrogation of security suspects ▬▬▬▬▬▬▬▬.
+[201]
+Both Amnesty International and Human Rights Watch note that torture is facilitated by incommunicado detention and that torture during incommunicado detention ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[202]
+The documentary evidence establishes that persons ▬▬▬▬▬▬▬▬▬ and detained in circumstances similar to those of ▬▬▬▬▬▬▬▬ are tortured. Specific individuals who have been ▬▬▬▬▬ have claimed that they were tortured, and have presented credible evidence that they were in fact tortured ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬."
+[203]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬. He claimed to have been brutally tortured ▬▬▬▬▬▬▬▬ using electric shock, beatings and such methods. Medical records ▬▬▬▬▬▬▬▬▬ demonstrate that he had various injuries consistent with his allegations as well as a number of psychological and mental health problems which resulted from the torture.
+[204]
+On the evidence adduced, I find that there are reasonable grounds to believe that ▬▬▬▬▬ was held in incommunicado detention and tortured ▬▬▬▬▬▬▬▬. This leaves the issue of whether the information obtained from ▬▬▬▬▬ was obtained as a result of torture or CIDT.
+[205]
+The Ministers argue that it is highly unlikely that ▬▬▬▬▬ was tortured ▬▬▬▬▬▬▬ during the interrogation in which ▬▬▬ provided the information because ▬▬▬▬▬▬ I am not persuaded by this argument. In my view, ▬▬▬▬.
+[206]
+Further, even if it were established that ▬▬▬▬▬▬ was not tortured during the time ▬▬▬▬▬▬▬ this changes little. ▬▬▬▬▬▬▬ was nevertheless being detained and interrogated ▬▬▬▬▬▬▬▬ notorious in its use of torture. The question is whether, in the circumstances of ▬▬▬▬▬▬▬▬ detention, it can be said that the information he provided ▬▬▬▬▬▬ was obtained without coercion. On the record before me, I think not. Even if it were shown that ▬▬▬▬▬▬ was not tortured ▬▬▬▬▬▬▬ that does not mean the information was not obtained as a result of the use of torture. ▬▬▬▬▬▬▬▬▬▬▬▬▬ Further, there is little evidence of the circumstances surrounding ▬▬▬▬▬▬▬▬ There is no evidence that ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬.
+[207]
+In the totality of the circumstances, I am satisfied that there are reasonable grounds to believe that the information collected from the interrogation of ▬▬▬▬▬▬▬▬ was obtained by the use of torture. It follows that the information so obtained is inadmissible pursuant to paragraph 83(1)(h) and subsection 83(1.1).
+C. Egyptian convictions arising from the Returnees of Albania Trial
+[208]
+I now turn to the Egyptian convictions arising from what is referred to as the Returnees of Albania Trial.
+[209]
+The trial took place before the Egyptian Higher Military Court from February to April of 1999 (Consolidated Public Summary of the SIR, at para. 30; Amnesty International 2001, at 28). A total of 107 defendants stood trial, including 44 who were tried in person, while the rest, including Mr. Mahjoub, were tried in absentia. According to the Consolidated Public Summary of the SIR, the trial prosecuted individuals who were involved in the Egyptian Islamic Jihad or al-Jihad for inciting violent operations in Egypt and for setting up camps in foreign states to train members in military operations with a view of carrying out terrorist operations in Egypt. Mr. Mahjoub was convicted in absentia in Egypt for his involvement with the al-Jihad, and was sentenced to 15 years in prison. ▬▬▬▬▬▬▬▬
+[others referred to in the public SIR]
+were also convicted in this trial, and their convictions are also discussed in the SIR and relied on by the Ministers in their case against Mr. Mahjoub.
+Mr. Mahjoub's position
+[210]
+Mr. Mahjoub argues that his Egyptian conviction arising from the Returnees of Albania trial is tainted by torture and therefore inadmissible. He argues the evidence demonstrates that the Returnees of Albania trial did not respect the international standards of due process and was irredeemably tainted by torture. In support of this position Mr. Mahjoub relies on the evidence adduced by Professor Gerges, Mr. Sifton, Professor Wark, and on relevant documentary evidence. Mr. Mahjoub notes that, in the public domain, there are credible reports that many of the individuals who were tried and convicted at this trial were rendered to Egypt, detained and tortured to extract confessions and information that was used as evidence in the trial.
+[211]
+Further, Mr. Mahjoub argues that the following factors support the conclusion that there are reasonable grounds to believe that a conviction from the Returnees of Albania trial or any other trial before an Egyptian military or security court was obtained by torture: the use of separate military and security courts to prosecute alleged terrorists; the lack of fair trial safeguards; the use of evidence obtained by torture; and the lack of accountability through the regular court system. Mr. Mahjoub points to the evidence of the expert witnesses who testified in respect to such factors.
+Ministers' position
+[212]
+The Ministers argue the fact that Egypt has a poor human rights record does not necessarily mean that convictions by Egyptian courts are tainted by torture and therefore inadmissible. The Ministers note that the convictions at issue have to be carefully scrutinized. The Ministers further note that Mr. Agiza has initiated a lawsuit against the Swedish government based on the allegation that he was tortured by the Egyptian authorities while being detained in Egypt. They argue that this demonstrates that there is not a complete breakdown of the system of justice in Egypt.
+Analysis
+[213]
+I am satisfied that a plausible connection has been established between torture or CIDT by Egyptian authorities and the convictions from the Returnees of Albania trial, proffered by the Ministers as evidence. The issue to be addressed is whether there are reasonable grounds to believe that the convictions by the Egyptian Higher Military Court, in the Returnees of Albania trial, are the result of evidence obtained by the use of torture or CIDT.
+[214]
+Evidence was adduced by Mr. Mahjoub to support the following propositions in relation to Egyptian military and security courts: (1) they do not respect fair trial procedures; (2) they often accept information and confessions alleged to have been obtained by torture; and (3) persons convicted in these courts are often held in incommunicado detention prior to the trials. In support of these propositions, Mr. Mahjoub relied on the testimony of Mr. Sifton, Professor Gerges and Professor Wark and reports by Human Rights Watch and Amnesty International.
+[215]
+Mr. Sifton testified that the detainees tried before the Egyptian military and security courts lacked adequate access to counsel. On numerous occasions, the courts did not allow defence attorneys to call witnesses and often limited their access to key documents relied on by the prosecution. Further, no appeals were provided for. Human Rights Watch and Amnesty International have observed and documented such practices in specific trials (Human Rights Watch 2005 at 33; Amnesty International 2001, at 28).
+[216]
+The evidence also indicates that many of the accused persons before military or security courts are held incommunicado prior to their trial. Mr. Sifton testified that often in security cases referred to these courts, counsel for the accused person is unable to communicate with the person and does not know where the person is being detained. Amnesty International also notes in its 1994 report on Egypt that: "Before coming to trial defendants were routinely held in prolonged secret incommunicado detention and tortured to extract confessions" (Amnesty International 1994).
+[217]
+With respect to the military and security courts accepting evidence or information that was alleged to have been obtained by torture, Amnesty International states that:
+"In many security or political cases, statements allegedly extracted under torture or other ill-treatment have been accepted as evidence by the court and have formed the basis for convictions, although the defendants in question have retracted such statements in the courtroom." (Amnesty International,
+Egypt - Systematic abuses in the name of security
+(2006), at 26)
+[218]
+With regard to allegations of torture by accused persons before these courts, Amnesty International reports that:
+"[...] courts often fail to investigate defendants' allegations of torture and other ill-treatment fully and to ensure that 'confessions' or other incriminating statements were freely given. Courts have repeatedly sentenced defendants to death or lengthy prison terms on the basis of 'confessions' and other statements that defendants alleged were extracted from them using torture or other ill-treatment, while they were held incommunicado in pre-trial detention." (Amnesty International,
+Egypt - Justice subverted: trials of civilians before military courts
+(2007) at 4)
+[219]
+In addition to the above evidence on the general practices of military and security courts, the record contains specific evidence that persons accused in the Returnees of Albania trial were rendered from third countries to Egypt and tortured during the detention prior to the trial.
+[220]
+According to Mr. Sifton, Professor Gerges and Professor Wark, as well as the reports of Human Rights Watch and Amnesty International, many of the individuals tried in the Returnees of Albania case were captured abroad and handed over to Egyptian authorities from countries such as Albania, Saudi Arabia, and Azerbaijan. (Human Rights Watch,
+Human Rights Watch World Report 2000 - Egypt
+(December 1, 1999); Amnesty International,
+Amnesty International's Briefing to the Human Rights Committee on the Arab Republic of Egypt
+(2002), at 23).
+[221]
+Professor Gerges stated in his testimony that Hafez Abu Saada, the attorney of many of the detainees in the trial, compiled a report of the claims of torture by the detainees. The report essentially indicates that every detainee claimed that he was tortured. They were subjected to electric shocks to the genitals and beatings, among other methods of torture. Professor Gerges testified that:
+"We know that many, if not most, were tortured. As you know there were many - even in the courtroom, they were shouting to reporters that 'we were tortured'. Attorneys also reported the fact of their torture" (Transcript of Proceedings, Vol. 11, at 125).
+[222]
+Human Rights Watch documented the rendition and trial of five of the accused in the Returnees of Albania case. It notes that all five men were held in incommunicado detention for extended periods of time prior to their trial, without access to their attorneys or family members. The men all alleged that they had been tortured and all presented similar accounts of the torture they endured. The men also alleged their confession statements were coerced (Human Rights Watch 2005, at 22-23). Further, according to Amnesty International:
+"More than a dozen defendants in the so-called 'Returnees from Albania trial' - in which the verdicts were given on 18 April 1999 by the Supreme Military Court - 'claimed that they were tortured while held in the pre-trial detention at State Security Intelligence (SSI) branches.' The records of the investigating prosecution have noted torture allegations by several defendants. Some of the defendants stated in court that they were tortured while held in incommunicado detention, including being subjected to electric shocks (Amnesty International 2001, at 28)."
+[223]
+Professor Wark, in his evidence, deals with the allegation of torture made by Ibrahim al-Najjar, a key defendant in the trial. Professor Wark reports that in his interrogation, Mr. al-Najjar revealed the names of a large number of his partners and gave detailed information about the support he got from the Islamic Organization's leaders. According to Mr. Wark, the confession of Mr. al-Najjar was an essential aspect of the Egyptian government's case, which allowed it to go ahead with the trial and also expand the scope of the trial.
+[224]
+Professor Wark further testified that there is no public information to contradict the allegations that the accused in the Returnees of Albania trial were tortured. Mr. Wark concludes as follows in his report: "the Returnees of Albania trial, in which Mr. Mahjoub was snared, is irredeemably tainted, in my view, by the allegations of torture and by the evidence of rendition that precipitated it".
+[225]
+Details about Mr. Mahjoub's conviction are contained in the Egyptian "aide-memoire" regarding Mr. Mahjoub, produced by Egypt's Public Prosecutor's Office, which is relied on by the Ministers. The Egyptian "aide-memoire" establishes that another individual accused in the Returnees of Albania case, "accused number 58", provided information to the Egyptian authorities, relied on by the Egyptian Higher Military Court to convict Mr. Mahjoub.
+[226]
+I note that the translation of this document is contested by Mr. Mahjoub. He provided an alternate translation of the original Arabic document by a certified translator. I have examined both translations and noted the discrepancies particularly with respect to the information provided by accused number 58. I find the discrepancies to be of no consequence for the purpose of this motion.
+[227]
+Irrespective of which version of the translation is used, it is clear that accused number 58 provided information to the Egyptian authorities relied on by the Egyptian Higher Military Court in convicting Mr. Mahjoub.
+[228]
+Upon considering the above evidence relating to the practice of Egyptian authorities to coerce confessions and information from persons accused and tried in military courts for political and security reasons, and the specific evidence that the accused in the Returnees of Albania case were tortured, I am left to conclude that there are reasonable grounds to believe that accused number 58 was tortured or suffered CIDT when he provided inculpatory statements to the Egyptian authorities which resulted in Mr. Mahjoub's conviction. I therefore find that there are reasonable grounds to believe that Mr. Mahjoub's conviction in the Returnees of Albania case is the product of torture and therefore inadmissible.
+[229]
+With respect to the convictions of ▬▬▬▬▬▬▬▬
+[others referred to in the public SIR]
+I also find such convictions to be inadmissible on the basis of the above evidence. I note that in the
+Al-Sirri
+case, discussed above, the English Court of Appeal drew a reasoned inference from the general evidence that the Egyptian Military Court relies on evidence obtained from torture to conclude that there was a real probability that the evidence used to convict Mr. Al-Sirri was obtained by torture. I adopt a similar reasoning here. I accept that, as a general practice, the Egyptian military courts rely on evidence obtained from torture, and that there is credible evidence that they relied on such evidence in the Returnees of Albania case. On this basis, I find that there are reasonable grounds to believe that the evidence used to convict ▬▬▬▬▬▬▬▬
+[others referred to in the public SIR]
+was obtained by torture and that their convictions are consequently inadmissible as evidence in the case against Mr. Mahjoub.
+VIII.
+Conclusion
+[230]
+Based on the evidence before me and for the above reasons, I summarize below my findings on the motion:
+1. The Ministers bear the burden of establishing that information they rely upon is reliable and appropriate. They must establish that this information is admissible. Where torture or CIDT is alleged by the named person, it is for the named person to raise the issue that information relied upon by the Ministers is obtained as a result of the use of torture or CIDT. To meet this initial burden, the named person need only show a plausible connection between the use of torture or CIDT and the information proffered by the Ministers. Depending on the cogency of the evidence of the named person, the Ministers. Depending on the cogency of the evidence of the named person, the Ministers may adduce responding evidence. The Court will then, after hearing submissions, decide on all the evidence before it whether the proposed evidence is believed on reasonable grounds to have been obtained as a result of the use of torture or CIDT;
+2. On the record before the Court, notwithstanding the policies and practices implemented by the Service, the approach adopted by the Service in ▬▬▬▬▬▬
+[filtering]
+information collected in compliance with its mandate is insufficient to ensure that all the information obtained from countries with a poor human rights record and relied upon by the Ministers in this proceeding meets the admissibility criteria of paragraph 83(1)(h) and subsection 83(1.1) of the
+IRPA
+;
+3. Paragraph 83(1)(h) and subsection 83(1.1) exclude from the security certificate proceedings both primary and derivative evidence believed on reasonable grounds to have been obtained as a result of the use of torture or CIDT;
+4. On the record, there are not reasonable grounds to believe that all unsourced information which originates from ▬▬▬▬▬▬▬▬ was obtained by torture or CIDT;
+5. There are reasonable grounds to believe that the information collected from the interrogation of ▬▬▬▬▬▬▬▬ was obtained by the use of torture. It follows that the information is inadmissible pursuant to paragraph 83(1)(h) and subsection 83(1.1) of the
+IRPA
+; and
+6. There are reasonable grounds to believe that the convictions of Mr. Mahjoub, ▬▬▬▬▬
+[and others referred to in the public SIR]
+from the Returnees of Albania trial were obtained as a result of the use torture. It follows that the information is inadmissible pursuant to paragraph 83(1)(h) and subsection 83(1.1) of the
+IRPA
+.
+[231]
+THIS COURT ORDERS
+that the motion is allowed on the following terms:
+1. In accordance with the above reasons and findings, the Ministers are to review the information relied upon in the Security Intelligence Report (SIR) for the purpose of excluding there from any information that is inadmissible pursuant to paragraph 83(1)(h) and subsection 83(1.1) of the
+IRPA
+.
+2. The Ministers and the Special Advocates are to file jointly a table identifying the information and corresponding source references in the SIR agreed to be excluded, within ten days from the date of this Order with the view of having the Ministers prepare an amended SIR and a revised public SIR.
+3. With regard to information and source references that are disputed, if any, the Ministers and the Special Advocates shall file separate tables identifying the information and source references in dispute within ten days from the date of this Order.
+4. The scheduling of litigation regarding the disputed information, if required, shall be discussed after the hearing of the motion brought by public counsel on June 14, 2010 in Toronto.
+5. Further direction will be provided on June 14, 2010, regarding the eventual issuance of a public version of the within Reasons for Order and Order.
+6. The parties and the Special Advocates may apply to the Court for further clarification of the within Order, if needed.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/vnh
+[End of document]

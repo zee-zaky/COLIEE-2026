@@ -1,0 +1,146 @@
+..................................................
+[1]
+Martineau, J.
+: These reasons accompany the interlocutory injunction and preservation order issued on June 22, 2015 in this matter pending before the Court, which involves the Information Commissioner of Canada [Information Commissioner or applicant] and the Minister of Public Safety and Emergency Preparedness [Minister or respondent].
+[2]
+In her review application filed on May 14, 2015 [Application], pursuant to paragraph 42(1)(a) of the
+Access to Information Act
+, RSC 1985, c A-1 [Act], the Information Commissioner, Ms Suzanne Legault, seeks from the Court the following:
+1. A declaration that the Minister, in his capacity as head of the government institution responsible for the Royal Canadian Mounted Police [RCMP], has failed to provide access to responsive records requested under the Act; and,
+2. An Order directing the Minister to process the request made on March 27, 2012 by Mr Bill Clennet [complainant] in keeping with the Information Commissioner's recommendations made on March 26, 2015 following her investigation [Section 37 Report] within thirty days of judgment.
+[3]
+The Application has been filed with the consent of the complainant. The responsive records requested by the complainant under the Act (RCMP Institutional File No. A-2012-00085; OIC Investigation File No. 3212-01427) include an electronic copy of all records contained in the Canadian Firearms Registry [Registry] related to the registration of non-restricted firearms, commonly referred to as "long-guns". In particular, information related to the registration of non-restricted firearms is contained within the Canadian Firearm Information System [CFIS]. The data fields in the CFIS for firearm information are the same for firearms, whether they are restricted, prohibited or non-restricted.
+[4]
+The following salient facts emerge from the Application, motion records, affidavits, documentary and oral evidence (including the transcript of the examination of Jennifer Walsh) and public instruments referred to by the parties or their counsel.
+[5]
+On April 5, 2012, the
+Ending the Long-gun Registry Act
+, SC 2012, c 6 [ELRA] came into force. Subsection 29(1) of the ELRA requires the Commissioner of Firearms to destroy "as soon as feasible" all records in the Registry which are related to the registration of non-restricted firearms. Despite the assurances given by the Minister to the Information Commissioner in May 2012 that "[w]ith respect to your question on destruction of records in the [Canadian Firearms Information System], please be assured that the RCMP will abide by the right of access described in section 4 of the Act and its obligations in that regard", between October 25 and October 29, 2012, the RCMP apparently destroyed all electronic records (live database and back-up tapes), including those from National Archives, relating to the registration of non-restricted firearms in the CFIS, other than those registered to residents of Quebec.
+[6]
+On February 1, 2013, the complainant made a complaint to the Information Commissioner regarding records missing from the response he received from the RCMP. On February 5, 2013, the Minister informed the Information Commissioner that "[w]ith respect to your question on destruction of records in the CFIS, I am assured by the RCMP Commissioner that the RCMP will abide by the right of access described in section 4 of the Act and its obligations in that regard."
+[7]
+On July 8, 2014, the Information Commissioner issued an order for the production of records pursuant to paragraph 36(1)(a) of the Act and on July 28, 2014, she issued a further production order. The RCMP completed its response to these production orders on October 31, 2014, but as later confessed by a RCMP official, "[t]he RCMP can in no way recreate the destroyed records pertaining to non-restricted firearms."
+[8]
+On January 15, 2015, the Information Commissioner wrote to the Commissioner of the RCMP to inform him that she had reached the preliminary view that the information provided by the RCMP to the complainant did not constitute all of the responsive records and requested assurances from the Commissioner that the RCMP would ensure the records she had identified as being responsive would be preserved. On January 19, 2015, the Information Commissioner wrote to the Commissioner of the RCMP to provide him with an opportunity to make representations with respect to the Information Commissioner's preliminary findings, pursuant to paragraph 35(2)(b) of the Act.
+[9]
+On February 20, 2015, the RCMP Commissioner provided his comments. He has taken the position that "[i]t was not until January 7, 2013 that the [Office of the Information Commissioner] first indicated that A-2012-00183 would not be responsive to A-2012-0085", while "[t]he information relating to non-restricted firearms outside of Quebec had by that time been deleted." Moreover, the RCMP Commissioner indicates: "While the original request, A-2012-0085, was never actioned (as the issue of fees was not resolved until after the deletion of records relating to non-restricted firearms), the RCMP is of the position that the requestor did receive the information to which they are entitled". Finally, the RCMP Commissioner indicated that it would not "re-process the remaining records relating to non-restricted firearms within the CFIS" and that "[t]he complainant has already received the records relating to non-restricted firearms for Quebec residents within the disclosure package of A-2012-00183."
+[10]
+On March 26, 2015, the Information Commissioner wrote to the Minister pursuant to subsection 37(1) of the Act reporting the results of her investigation. In her Section 37 Report, the Information Commissioner has determined that the complaint is well-founded. She recommends not only that the RCMP process and release to the complainant all of the information responsive to his request that had not been destroyed between October 25 and October 29, 2012, but also that it preserve these responsive records until the conclusion of her investigation and any related proceedings.
+[11]
+Also on March 26, 2015, pursuant to subsection 63(2) of the Act, the Information Commissioner referred to the Attorney General of Canada information relating to the possible commission of an offence under paragraph 67.1(1)(a) of the Act, which provides that no person shall, with the intent to deny a right of access under the Act, destroy, mutilate or alter a record. The Information Commissioner indicated that the investigation conducted by the Office of the Information Commissioner had established that the RCMP destroyed records responsive to an outstanding access to information request with the knowledge that these records were subject to the right of access guaranteed by subsection 4(1) of the Act.
+[12]
+On March 27, 2015, the Supreme Court of Canada dismissed an appeal by the Attorney General of Quebec with respect to the constitutionality of section 29 of the ELRA and in a split decision (5-4), concluded that the province of Quebec had no legal right to obtain the data of the long-gun registry concerning Quebec residents (
+ <FRAGMENT_SUPPRESSED>  [
+Quebec (Attorney General)
+(SCC)]). On April 3, 2015, the RCMP expired 1.6 million non-restricted firearm registration records for residents of Quebec. Between April 10 and April 12, 2015, the RCMP permanently destroyed the 1.6 million Quebec non-restricted firearm registration records in CFIS. However, this time, a back-up copy of the deleted information was kept [the records at issue].
+[13]
+Prior to the expiration of the Quebec registration records for non-restricted firearms, two steps were taken by the institution to retain the records that had not been already destroyed between October 25 and October 29, 2012:
+1. First, the RCMP made a complete copy of CFIS as it existed on April 3, 2015; the same resides currently on a virtual server within the RCMP Data Centre [final back-up];
+2. Second, the RCMP created a copy of the Quebec registration records for non-restricted firearms, selecting any data that may have been associated to the 64 fields identified by the Information Commissioner as relevant to registration records. This data, in a delimited text file, resides on an external hard drive [hard drive].
+[14]
+On April 30, 2015, in response to the Section 37 Report referred to earlier, the Minister informed the Information Commissioner that, in light of the representations made to her by the RCMP, he was of the view that the complainant had already received the records responsive to his request and that he had no intention of following her recommendations to process additional information. The Minister also indicated that it seemed the RCMP had kept a copy (final back-up) of the relevant documents for the purpose of the access to information investigation.
+[15]
+On May 7, 2015, Bill C-59 entitled "
+An Act to implement certain provisions of the budget tabled in Parliament on April 21, 2015 and other measures
+" received a first reading in the House of Commons. The Information Commissioner understood that section 230 of Bill C-59 would, in effect, amend section 29 of the ELRA as it now read, and retroactively authorize the destruction of all records in the long-gun registry (and copies), despite the existence of a request for information under the Act and despite the present Application. The amendments would exclude the application of the Act retroactively as of October 25, 2011 with respect to the destruction of long-gun registry records (and copies) and records with respect to their destruction. Furthermore, the amendments would also retroactively immunize the Crown, Crown servants, the Commissioner of Firearms, a government institution or the head of a government institution from any administrative, civil or criminal proceedings with respect to the destruction of the long-gun registry information on or after April 5, 2012, and also, for any act or omission done between October 25, 2011 and the date section 231 would come into force in purported compliance with the Act in relation to the long-gun registry information in the Registry.
+[16]
+On May 14, 2015, the present Application was filed with the Court. The government wanted to move quickly with the proposed legislative changes. A May 25, 2015
+Globe and Mail
+story reported that Government House Leader Peter Van Loan stated that the government's priority was passing its budget, which would be enacted by Bill C-59, before the House of Commons adjourns on June 23, 2015. At that time, Bill C-59 had received the second reading and was referred to committee. This is what prompted, on June 3, 2015, the making of the present motion by the Information Commissioner and concurrent letter of request to the Judicial Administrator for a special sitting of the Court to hear the same on an urgent basis. Justice Harrington, who was the Duty Judge that week, was seized of this urgent matter. On June 5, 2015, this matter was put under special management, upon having received an undertaking by the Attorney General of Canada on behalf of the Minister and the Commissioner of Firearms that "the
+status quo
+will be maintained concerning the preservation of data in question (as referenced in Exhibits H, J, K and HH of Mr. O'Brien's affidavit) pending a resolution of this interim/interlocutory motion, even if Bill C-59 comes into force in the interim."
+[17]
+On June 11, 2015, the Case Management Judge (Prothonotary Tabib) issued Directions which provided for the prompt filing of the respondent's affidavits, cross-examinations and respondent's motion record, and the motion was set down for hearing before the undersigned Judge on June 22, 2015. In the meantime, on June 5, 2015, the Standing Committee of Finance reported Bill C-59 without amendment. The third reading of Bill C-59 in the House of Commons happened on June 15, 2015. In the Senate, Bill C-59 received a first reading on June 15, 2015, a second reading on June 17, 2015 and was referred to the Standing Senate Committee on National Finance on June 17, 2015. When the Court heard the motion on June 22, 2015, the Senate had not yet voted with respect to the third reading of Bill C-59.
+[18]
+While at the hearing, Counsel for the respondent recognized that should the Application have been decided on the merits that day, the Court would have had access to the records at issue (sealed in an envelope) and full consultation would be unnecessary (samples would be sufficient), Counsel made it clear before the Court that the government would not make a commitment not to destroy the records at issue pending the final determination of the Application, which meant that the protection of these records could only be guaranteed by the issuance of an interlocutory Order of the Court.
+[19]
+Rule 373 of the
+Federal Court Rules
+, SOR/98-106 [Rules], provides that the Court may grant an interlocutory injunction, while Rule 377 empowers it to make an order for the custody or preservation of property that is, or will be, the subject-matter of a proceeding or as to which a question may arise therein. These are discretionary decisions. The three test part of
+ <FRAGMENT_SUPPRESSED>  [
+RJR-Macdonald
+] applies to both types of order. Therefore, the applicant must demonstrate that there is a serious issue to be tried; that the applicant will suffer irreparable harm if the relief is not granted; and that the balance of convenience favours the moving party.
+[20]
+Being satisfied that all three conditions were met by the applicant, late afternoon, on June 22, 2015, the Court ordered from the bench:
+1. The records at issue in this Application shall be preserved in their current form and shall not be destroyed by the Minister and the Commissioner of Firearms or any person acting on their behalf until the final disposition of this Application or the Court orders otherwise;
+2. The Minister and the Commissioner of Firearms shall ensure that the external hard drive, as described in paragraph 13 of the affidavit of Jennifer Walsh affirmed on June 15, 2015, shall be delivered in person to the Registry of the Federal Court no later than 10:00 a.m. on June 23, 2015;
+3. The external hard drive shall be filed with the Registry of the Federal Court under seal until the final disposition of this Application (and all other appeals have been exhausted) or the Court orders otherwise;
+4. Without costs; and
+5. The reasons for this Order will follow.
+[21]
+The applicant has presented compelling arguments that there are serious issues to be tried. On the basis of the evidence and material before the Court, I am satisfied that the complainant (and other persons in a similar situation who have made requests for access to the RCMP) will suffer irreparable harm if the relief requested by the Information Commissioner is not granted. Finally, the balance of convenience clearly favours the maintenance of the
+status quo
+and the preservation of the final back-up and the conservation of the hard drive pending a final determination of the present review application. I generally endorse the reasoning made by the Information Commissioner at paragraphs 67 to 108 of her memorandum of fact and law. I dismiss the arguments for dismissal made by the Minister. Clearly, it is in the interest of justice to preserve from destruction the records at issue (final back-up) and the data contained on the hard drive.
+[22]
+In the Court's opinion, the Application is neither vexatious nor frivolous. The threshold for meeting the serious issue branch of the test is a low one and involves an "extremely limited review of the case" (
+RJR-Macdonald
+, at 348). The applicant argued that the issue to be tried in the Application was whether the respondent was without justification in refusing to further process the complainant's request and in refusing to provide to the complainant the records at issue. The applicant also argued that in order to be able to determine the merits of the Application, the Court and counsel must have access to the records at issue since an application pursuant to section 42 of the Act is a
+de novo
+hearing. The respondent took no position on these issues except to state that courts are bound to apply the laws as they currently exist, subject to the power of the judicial branch to examine their constitutionality.
+[23]
+Section 29 of the ELRA, as it read when the Court made the Order, made no reference whatsoever to the Act, and the evidence submitted to the Court by the Information Commissioner clearly established that the Minister always considered that the ELRA did not prevent the complainant and other members of the public from pursuing or making requests under the Act to access information contained in the Registry. Subject to the constitutional challenge of Bill C-59, the Court will eventually have to decide on the proper interpretation and scope of sections 230 and 231, and whether, as claimed by the Information Commissioner, the complainant has a vested right of access. By that time, the issue raised by the applicant may or may not be moot, or may have evolved, but those are external factors which should have no bearing on the serious question analysis. It would be improper for the motion Judge to express at this stage any opinion on the merits of the Application.
+[24]
+On the second branch of the test, the preservation of the records at issue is fundamental to safeguarding the complainant's right of access to government information and this right will be irreparably harmed if the final back-up or the hard drive are permanently destroyed prior to the final determination of this Application, as there is no ability to recreate deleted records once the final back-up, as well as the hard drive, are destroyed. As stated by Justice Blanchard in
+ <FRAGMENT_SUPPRESSED>  [
+Quebec (Attorney General)
+(QCCS)], "[c]learly, for the party claiming the information in the registry, its destruction is an irreparable loss" (at para 58). Again, the respondent took no position with respect to irreparable harm and I have no reason not to endorse the applicant's arguments.
+[25]
+Moreover, the risk of destruction alleged by the applicant in this case is not speculative. Past emails and briefing notes produced by the Information Commissioner show that the Minister was apparently attempting to accelerate the destruction of the long-gun registry information, while at the same time he was apparently giving assurances to the Information Commissioner that the
+status quo
+would be maintained. Therefore, the Information Commissioner's suspicions are grounded on the evidence on record. Absent an explicit order directed to the Minister and the Commissioner of Firearms, or any person acting on their behalf, precious material evidence for the purpose of the present Application may well disappear forever.
+[26]
+Finally, section 46 of the Act expressly states that "[n]otwithstanding any other Act of Parliament or any privilege under the law of evidence, the Court may ...examine any record to which this Act applies that is under the control of a government institution,
+and no such record may be withheld from the Court on any grounds
+" [emphasis added]. The broad scope of this provision has already been recognized by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  destruction of the records at issue completely deny the Information Commissioner's right to seek judicial review and undermine her mandate, but the Court's power of examination under section 46 of the Act will become meaningless if these records no longer exist. It is therefore necessary to ensure that the courts -the Federal Court included- who are responsible to uphold the Rule of Law are not be confronted with a "fait accompli."
+[27]
+On the third branch of the test, the balance of convenience clearly favours the applicant. Indeed, the interim injunctive relief sought by the applicant simply seeks to maintain the
+status quo
+, while there will be no prejudice to the respondent if the back-up is preserved and the hard drive - which will be kept in a secure area - is delivered to the Court's Registry. On the other hand, if the order is refused, the complainant's right of access will be eradicated and the Court's ability to engage in the second level of independent review under the Act will be ousted. In making this assessment, the Court also considered the arguments made by the respondent with respect to "public interest" in light of what has been said notably by the Supreme Court of Canada  <FRAGMENT_SUPPRESSED> -Macdonald
+and
+ <FRAGMENT_SUPPRESSED>  [
+Metropolitan Stores
+].
+[28]
+Although Bill C-59 was not yet law and was not in force when the Court made its Order, the respondent argued that the Court should proceed on the basis that Bill C-59 was directed to the public good and served a valid public purpose, and that once enacted, it should be presumed to be valid and constitutional (
+Metropolitan Stores
+, at para 56). The respondent also argued that sections 230 and 231 of Bill C-59 reflect a policy choice of the government and that these provisions constitute a lawful exercise of Parliament's criminal law legislative power, as decided by the Supreme Court of Canada in the
+Reference re Firearms Act (Can)
+, 2000 SCC 31 and reiterated recently in
+Quebec (Attorney General)
+(SCC). The respondent also distinguished the interlocutory relief issued by the Superior Court in the case of
+Quebec (Attorney General)
+(QCCS), since the present Application does not directly question the constitutionality of Bill C-59 and concerns solely the right of access by one individual to records that Parliament has determined should be destroyed. At the hearing, respondent's counsel ventured to suggest that Bill C-59 was pursuing the same public interest aims as the ERLA: assuring public safety and restoring the privacy rights of all long-guns owners in Canada.
+[29]
+It is not surprising that the constitutionality of Bill C-59 has not been directly questioned in the Application as there is case law from this Court which suggests that such an attack would be premature: "The courts exercise a supervisory jurisdiction once a law has been enacted. Until that time, a court cannot review, enjoin or otherwise engage in the legislative process unless asked by way of a reference framed under the relevant legislation."
+ <FRAGMENT_SUPPRESSED> . I will only venture to note that Bill C-59 contained no declared purpose for sections 230 and 231 that amend the ERLA. Bill C-59 was simply entitled "An Act to implement certain provisions of the budget tabled in Parliament on April 21, 2015 and other measures". Although the purpose of Bill C-59 was to implement the Government's Budget, sections 230 and 231 would retroactively expunge the complainant's right to access government information and oust this Court's jurisdiction to decide the Application.
+[30]
+ <FRAGMENT_SUPPRESSED>  the Federal Court of Appeal urged judges seized of a motion for an interlocutory injunction not to go "beyond the bounds of necessity" in the context of the balance of convenience analysis (para 25). The Court was informed by applicant's counsel on June 22, 2015 that sections 230 and 231 of Bill C-59 would be constitutionally challenged as soon as Bill C-59 was enacted and would come into force. That said, the Court considered the public interest in light of the existing law and precedents. In
+RJR-Macdonald
+, the Supreme Court observed: " 'Public interest' includes both the concerns of society generally and the particular interests of identifiable groups" (at 344).  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], my colleague, Justice Simon Noël, states at paragraph 10: "Suffice to say that the Information Commissioner's mandate is one that should be taken with the utmost vigour and energy. Truly, the Information Commissioner is one of the custodians of our democracy."
+[31]
+Justice Noël further states in <FRAGMENT_SUPPRESSED> , at paragraph 215:
+Secondly, it is important to note there is no
+direct
+consideration of the "public interest" in disclosure of information, as is the case in the
+Canada Evidence Act
+and under some provincial statutes, namely Ontario's, which has been considered by the Supreme Court in
+Ontario (Public Safety and  <FRAGMENT_SUPPRESSED>  LAC's mandate of preserving and facilitating access to information as being contributory to our democratic life,
+there is an arguable implicit public interest in access to information requests
+. While not directly at play and not as a stand-alone argument to counter necessary exemptions, the public's right to know is always at the heart of any ATI request, not least because of the Act's quasi-constitutional nature. Further to this argument, the Act itself cannot be used to hide embarrassments or illegal acts (see para 131 of these reasons), thereby recognizing an inherent public interest in the application of the Act. [Emphasis added]
+[32]
+As an agent of Parliament, like his counterpart, the Privacy Commissioner, the Information Commissioner "is charged with carrying out impartial, independent and non-partisan investigations into the violation of, respectively, the right of access to information and privacy rights", and, as stated by the Supreme Court of Canada, both of them "benefit not only individuals who request access or object to disclosure, but also the Canadian public at large, by holding the government accountable for its information practices":
+ <FRAGMENT_SUPPRESSED> . It must be reiterated that in the present proceeding under section 42 of the Act, the Information Commissioner acts in the public interest. Accordingly, I have concluded that the public interest flowing from the exercise of any such rights of access and intervention by the Information Commissioner to enforce government accountability outweighs any public interest invoked by the Minister to pre-emptively destroy the records at issue before the matter is heard by the Court.
+[33]
+When costs are sought by private parties, they usually follow the result of the motion or proceeding. While the respondent has sought costs, the applicant's learned counsel elegantly advised the Court at the hearing that no costs were sought by his client in this matter. This was sound advice as both the Minister and the Information Commissioner represent the public interest.
+[34]
+As a final note to these reasons, further to the Order made on June 22, 2015, upon being advised that the hard drive had been delivered in person to the Registry of the Federal Court prior to 10:00 a.m. on June 23, 2015, the Court directed that the hard drive be kept in a secure area in the Designated Proceedings Section until the Court directs otherwise. On that day, Bill C-59 received Royal Assent (it was adopted in third lecture by the Senate in the evening of June 22, 2015) and is now in force in Canada:
+Economic Action Plan 2015 Act, No. 1
+, 2015, c 36. The constitutionality of sections 29 and 30 of the ELRA, as amended by sections 230 and 231 of the
+Economic Action Plan 2015 Act, No. 1
+is now pending before the Ontario Superior Court of Justice (Court File No. 15-64739). Whether such development constitutes proper ground or not for seeking a stay of the present proceeding under section 50 of the
+Federal Courts Act
+, RSC 1985, c F-7 is something that may have to be addressed by the Federal Court sometime in the future.
+Application granted.
+Editor: Angela E. McKay
+[End of document]

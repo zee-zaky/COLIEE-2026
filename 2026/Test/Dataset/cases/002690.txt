@@ -1,0 +1,540 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: On the 3rd of December, 2002, the Applicants, Bayer AG ("Bayer Germany") and Bayer Inc. ("Bayer Canada"), collectively ( <FRAGMENT_SUPPRESSED> ), filed an amended originating notice of motion seeking:
+"1. An order in accordance with section 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, prohibiting the Minister of Health ... from issuing a notice or notices of compliance under section C.08.004 of the
+Food and Drug Regulations
+(an 'NOC') to Apotex Inc. in connection with ... ciprofloxacin hydrochloride tablets of 100, 250, 500 and 750 mg strength for oral administration until after the expiration of Canadian Patent 1, 218, 067 (the ''067 patent');
+"2. A declaration that the letter dated October 4, 2001 is not a valid notice of allegation and is not in compliance with the
+Patented Medicines (Notice of Compliance) Regulations
+(the '
+Regulations
+');
+"3. An order prohibiting the Minister of Health from responding to or acting in respect of the Notice of Allegation of Apotex Inc. ('Apotex') dated October 4, 2001 and in respect of the '067 patent from issuing a Notice of Compliance ('NOC') for the medicine ciprofloxacin hydrochloride, including ciprofloxacin hydrochloride tablets 100 mg, 250 mg, 500 mg, and 750 mg, by reason of four previous Orders of Prohibition in Court File Nos. T-1192-93, T-468-95, T-35-96, and T-591-96 respecting the '067 patent and s. 7(1)(f) of the
+Regulations
+;
+"4. A declaration that the Minister of Health is prohibited by reason of the previous proceedings in [the previously identified four (4) files in this Court] and the Orders of Prohibition granted therefrom and by reason of estoppel, abuse of process, and/or the doctrine of merger of all previous causes of action, from responding to or acting in respect of the Notice of Allegation dated October 4, 2001 and from issuing an NOC for the medicine of ... [sic] ciprofloxacin hydrochloride, including ciprofloxacin hydrochloride tablets 100 mg, 250 mg, 500 mg, and 750 mg;
+"5. Costs against Apotex on a solicitor/client scale; and
+"6. For any other relief that this Honourable Court may deem just."
+[2]
+The amended originating notice of motion responded to a Notice of Allegation dated the 4th of October, 2001, sent or delivered by Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) to Bayer. As can be deduced from the reliefs being sought, as quoted above, this was not the first Notice of Allegation made by Apotex in respect of the drug ciprofloxacin hydrochloride ("ciprofloxacin"). In fact, it was the fifth and the third in which the validity of Canadian Patent 1,218,067 (the " '067 patent") was attacked. Nor is the Notice of Allegation here at issue the last made by Apotex with respect to the '067 patent, notwithstanding that the patent will expire in early February, 2004.
+[3]
+The Notice of Allegation giving rise to this proceeding alleges that claims 8 and 14 of the '067 patent, as they relate to ciprofloxacin, are invalid on the basis of obviousness; that there is nothing inventive in the process for preparing ciprofloxacin as described in claims 10, 11 and 12 of the '067 patent, since the process described merely incorporates obvious modifications of known processes for producing quinolone compounds, ciprofloxacin being a quinolone; and finally that Apotex' process for preparing ciprofloxacin will not infringe claim 14 of the '067 patent being a product by process claim. A substantial range of "prior art" documentation was cited in support of the allegations of obviousness.
+[4]
+At the close of the hearing of the application, the allegation of non-infringement was withdrawn. [see footnote 1]
+THE PARTIES
+[5]
+Bayer Germany is the owner of the '067 patent which contains process and product by process claims for the compound ciprofloxacin. Bayer Canada is a licensee from Bayer Germany in respect of the '067 patent and sells ciprofloxacin as a medicine in Canada under Notices of Compliance granted by the Minister of Health.
+[6]
+Apotex is a "generic drug company", that is to say, a manufacturer and marketer of drugs in Canada which, in the words of Justice Nadon in
+ <FRAGMENT_SUPPRESSED>  independently establish the safety and effectiveness of the drug ...". It seeks a Notice of Compliance from the Minister of Health to so enable it to market ciprofloxacin.
+[7]
+The Minister of Health is the Minister charged with the administration of the
+Patent Medicines (Notice of Compliance) Regulations
+[see footnote 3] (the "
+Regulations
+"). No material filed on behalf of the Minister was before me. Further, the Minister was not represented at the hearing.
+BACKGROUND
+[8]
+The priority filing date for the '067 patent is the 29th of October, 1981, although an earlier date of invention is alleged on behalf of Bayer in this proceeding, that date being the 20th of November, 1979. The subject matter of the patent is the process to produce the drug ciprofloxacin, and the drug itself by such process. Ciprofloxacin is an antibiotic that has apparently proved to be very effective in the systemic treatment of a wide range of both gram-positive and gram-negative bacterial infections including some that are generally regarded as hard-to-treat. In the result, it has proved to be a very profitable "block-buster" drug for Bayer.
+[9]
+The background to the invention of ciprofloxacin that follows is drawn rather closely from the decision of the United States District Court, Southern District of California decision  <FRAGMENT_SUPPRESSED>  AG, and  <FRAGMENT_SUPPRESSED>  much the same issues that are here in dispute. That being said, what follows also reflects the evidence that was before me.
+[10]
+In the 1960s, a primary antibacterial agent was nalidixic acid, a derivative of a napthyridine compound. It was effective on some strains of gram-negative bacteria, but was ineffective on the Pseudomonas aeruginosa strain and other hard-to-treat bacteria.
+[11]
+In March 1979, a U.S. patent issued on the antibacterial compound norfloxacin. Unlike nalidixic acid, norfloxacin is a derivative of a quinolone compound, as is ciprofloxacin. Norfloxacin's chemical structure contains an ethyl group at the 1-position, a piperazinyl group at the 7-position, and a fluorine at the 6-position. Norfloxacin is diagrammed as follows:
+[Diagram omitted - see printed version]
+In the above diagram, the 1-position is at the bottom of the right hand ring, the 7-position is at the lower left hand side of the left hand ring and has attached to it the "piperazinyl group" and the 6-position is just above the 7-position and has attached to it a fluorine designated by "F".
+[12]
+By contrast, ciprofloxacin can be diagrammed as follows:
+[Diagram omitted - see printed version]
+[13]
+The distinguishing feature is the substitution of a cyclopropyl for the ethyl group at the 1-position. Norfloxacin showed improvement on some gram-negative bacteria which are relatively easy to treat, such as E. coli, Klebsiella, and Salmonella. It was also active on some gram-positive bacteria, including Bacillus subtilis. Further, it showed some improvement on one of the most difficult bacteria to treat, and for which there was a long-felt treatment need, Pseudomonas aeruginosa. However, norfloxacin was not systemic and was primarily prescribed to treat urinary tract infections.
+[14]
+German patent application, DE 28 08 070 [see footnote 5] (the "070 publication") was published on the 30th of August, 1979. A Doctor Grohe, a named inventor in the 070 publication and in the '067 patent, was involved  <FRAGMENT_SUPPRESSED>  Germany's "Nalidixic Acid Program". The goal of the program was to find new syntheses of heterocyclic compounds that were related to nalidixic acid but possessed superior antibacterial activity. The 070 publication, in part, describes a process enabling production of improved compounds from the quinolone core groups, including napthyrdine, quinolone, and pyrido-pyrimidine. The publication also identified a generic formula, "Formula IX", with optimal substitutions. As a generic, Formula IX could be converted into a quinolone and covered thousands of possible compounds from combinations of core groups. The publication concluded that Formula IX was potentially more effective against certain bacteria than nalidixic acid.
+[15]
+Within the general scope of Formula IX was a specific compound from Example 19, known as "1-cyclopropyl-nalidixic acid", which has the same structure as nalidixic acid, but has a cyclopropyl group at the 1-position instead of an ethyl group. Ciprofloxacin has a cyclopropyl group at the 1-position. The 070 publication indicated that Example 19, when compared to nalidixic acid, "proved to be far superior in vitro and in vivo against Staphylococci, Escherichia coli, Proteus, Klebsiella, Pseudomonas, etc.," but no test data was included in the publication and no commercial drug was developed from it.
+[16]
+A European patent application equivalent to the 070 publication was published the 9th of October, 1979 and an equivalent U.S. Patent issued the 18th of August, 1981.
+[17]
+A Japanese counterpart to the 070 publication contained test data comparing the effectiveness of 1-cyclopropyl nalidixic acid to nalidixic acid. It disclosed no improvement against Pseudomonas aeruginosa and Staphylococcus aureus, bacteria of great concern.
+[18]
+A German patent publication known as the 850 publication, was published on the 7th of August, 1980. It disclosed a generic structure of a pyrido-pyrimidine. The publication indicated that example 7, which was 1-cyclopropyl pipemidic acid, was more effective against many types of bacteria compared to pipemidic acid and nalidixic acid.
+[19]
+Both the 070 and 850 publications, together with other "prior art" were relied on by Apotex in this proceeding. By contrast, Bayer emphasized Review Articles, particularly the "Albrecht" and "Koga" Review Articles [see footnote 6] only the latter of which was included in the prior art cited by Apotex in its Notice of Allegation.
+THE PATENT IN SUIT
+[20]
+The '067 patent was filed the 8th of August, 1982 claiming priority from the equivalent German patent application as of the 29th of October, 1981. It contains thirty-two (32) claims. Claims 1, 8, 10 to 12 and 14 of the '067 patent are earlier referred to in these reasons. Those claims are set out in full in a schedule to these reasons.
+[21]
+The "promise" of the '067 patent is rather modest in comparison with the impact that ciprofloxacin has proved to have in the systemic treatment of both gram-positive and gram-negative infections in humans. Its promise is reflected in the following two (2) extracts from the disclosure of the patent:
+"The compounds of the present invention have an antibacterial action superior to that of the known quinolone-carboxylic acids and azaquinolone-carboxylic acids. The compounds according to the invention exhibit their superior antibacterial activity against both gram positive and gram negative bacteria, including Pseudomonas aeruginosa.
+. . . . .
+"The compounds according to the invention are distinguished by a particularly good antibacterial action against gram positive and gram negative bacteria, in particular in comparison with the compounds of German Patent Application P 30 33 157.8 of 3.9.1980 and DE-05 (German Published Specification) 2,804,097, as can be seen from the table below."
+[Diagram omitted - see printed version]
+The compounds compared in the foregoing table are, from left to right, an unidentified Bayer invention, norfloxacin and ciprofloxacin.
+THE EXPERT WITNESSES
+[22]
+On behalf of Bayer, the following experts gave evidence by way of affidavit and were cross-examined on their evidence:
+1. Dr. Paul Actor, Research Professor in the Department of Microbiology and Immunology at Temple University School of Medicine and Adjunct Professor, Microbiology and Immunology at the University of Nebraska Medical Centre and President of Paul Actor Associates, a pharmaceutical consulting company founded in 1990. Dr. Actor's doctorate was obtained in Parasitology from Rutgers University in 1959.
+2. Dr. Ronald F. Grossman, Professor of Medicine, University of Toronto and Chief of Medicine, Credit Valley Hospital, Mississauga, Ontario who holds a Medical Degree from the University of Toronto which was obtained in 1973.
+3. Dr. Karl Georg Metzger, one of the inventors named in the patent in suit, currently retired but from September, 1963 until his retirement on the 1st of April, 1994, an employee of Bayer AG in Germany. From the mid-1970s until his retirement, Dr. Metzger was Head of the Laboratory for Basic Bacteriological Research, later the Institute for Chemotherapy, and Head of the Department of Basic Bacteriological Research within the Institute for Chemotherapy. Dr. Metzger's doctorate in microbiology was obtained in 1959 from the University of Frankfurt.
+4. Dr. Robin Cooper, President of Cooper Consulting Inc., a consulting business specializing in drug discovery and in particular the investigation and synthesis of new antibiotic chemical compounds. Prior to funding Cooper Consulting Inc. in 1997, Dr. Cooper was employed by Lilly Research Laboratories from 1965 to 1997 as a senior organic chemist. Dr. Cooper's doctorate was obtained in 1962 from Imperial College and Queen Mary College in London, England.
+5. Dr. Donald E. Low, Microbiologist-in-Chief at Mount Sinai Hospital and Chief of Toronto Medical Laboratories at that hospital, Department of Microbiology, Professor, Microbiology and Medicine at the University of Toronto, Professor at the Department of Medical Genetics and Microbiology at the Department of Medicine, at that University and Head of Microbiology Division, Department of Laboratory Medicine and Pathobiology at that University.
+6. Dr. James D. Wuest, Professor of Chemistry at the University of Montreal in Montreal, Quebec. Dr. Wuest received his doctorate in Organic Chemistry in 1973 from Harvard University.
+[23]
+The following experts gave evidence by way of affidavit on behalf of Apotex and were cross-examined on their affidavits:
+1. Dr. Robert Allan McClelland, Full Professor in the Department of Chemistry at the University of Toronto since 1983. Dr. McClelland obtained his doctorate in Chemistry from the University of Toronto in 1969.
+2. Dr. George A. Olah, Director of the Loker Hydrocarbon Research Institute and Distinguished Professor of Organic Chemistry at the University of Southern California, Los Angeles, since 1977. Dr. Olah was awarded the degree of Doctor of Philosophy in 1949 and the degree of Doctor of Sciences Honoris Causa in 1988, apparently from the Technical University of Budapest, Hungary. In addition, he has received ten (10) Honorary Doctor of Science Degrees from leading Universities in the United States, France, Germany, Hungary and Greece. In 1994, Dr. Olah was awarded the unshared Nobel Prize in Chemistry.
+3. Dr. Robert M. Williams, a tenured Professor of Chemistry at Colorado State University who has spent his entire career in the field of organic chemistry. Dr. Williams received his doctoral degree in organic chemistry from the Massachusetts Institute of Technology in 1979, following which he spent one (1) year as a post-doctoral fellow at Harvard University in the Laboratories of the Nobel Laureate, the late Professor Robert B. Woodward.
+[24]
+More will be said later in these reasons based on the evidence provided by certain of the expert witnesses and the record of their cross-examinations on their affidavits.
+THE ISSUES
+[25]
+Two preliminary issues were identified before the Court: first, whether certain of the affidavit evidence filed on behalf of Apotex should be struck as irrelevant or prejudicial in that it either contradicts or was not referred to  <FRAGMENT_SUPPRESSED> ' Notice of Allegation; and secondly, whether Apotex' Notice of Allegation should be declared invalid for non-compliance with the
+Regulations
+and, in consequence, the Minister should be prohibited from issuing a Notice of Compliance to Apotex for ciprofloxacin.
+[26]
+More substantively, the issues identified in the Bayer's Memorandum of Fact and Law are the following:
+- first, whether the product-by-process claims of the '067 patent, claims 8 and 14, would have been obvious at the priority date of the patent or, alternatively, an earlier date of invention;
+- secondly, whether Bayer's claims for the process described in claims 10 to 12 to make ciprofloxacin (the "MES process" or "malonic ester synthesis process") would have been obvious on the relevant date; and
+- thirdly, whether claim 14 (12) would be infringed by Apotex' claimed process for making ciprofloxacin (the "Apotex process").
+As earlier noted, the issue of non-infringement put forward by Apotex and responded to by Bayer was withdrawn by Apotex at the close of the hearing.
+[27]
+Additionally, counsel for the parties relied on different authorities on the issue of burden of proof on an application such as this.
+[28]
+Issues of estoppel, abuse of process and merger forecasted by the reliefs sought in the amended originating notice were not identified as issues  <FRAGMENT_SUPPRESSED> 's Memorandum of Fact and Law, nor were they argued before the Court.
+ANALYSIS
+1) Preliminary Issues
+a) Bayer's motion to strike certain of the affidavit evidence filed on behalf of Apotex as being irrelevant or prejudicial in that it either contradicts or was not referred to  <FRAGMENT_SUPPRESSED> 's Notice of Allegation
+[29]
+By notice of motion dated the 6th of March, 2002, Bayer sought to strike substantial portions of the expert affidavit evidence filed on behalf of Apotex. The grounds for the motion were stated to be, essentially, that the evidence sought to be struck is irrelevant, prejudicial, contradictory to the Notice of Allegation or simply not referred to in the Notice of Allegation. For reasons that need not be pursued here, the motion was not disposed of before the substance of Bayer's application came on for hearing. In a teleconference preparatory to the hearing, the Court indicated to counsel that its inclination was to dismiss Bayer's motion on the basis that it would give to the impugned evidence such weight as it considered appropriate in light of arguments made before it.
+[30]
+At the close of the hearing of Bayer's application, counsel for Bayer advised the Court:
+"The motion is withdrawn with respect to everything except tab 24 and it is withdrawn with respect to 24 except with respect to the portion to which we have referred on page 496." [see footnote 7]
+By reference to Bayer's application record, page 496 appears in Volume II of nineteen (19) volumes and is a portion of a Patent Owner's Statement in relation to U.S. patent 4,670,444. It includes the following paragraph which I am satisfied is the evidence to which counsel refers:
+"In 1980, Dr. Grohe had a series of illnesses, including a heart attack, and missed a considerable amount of work. In September, the quinolone research program was terminated. But, with the tacit approval of a few research managers and the encouragement of Drs. Zeiler and Metzger, Dr. Grohe later attempted the synthesis of one additional compound - the 1- cyclopropyl variation of norfloxacin (norfloxacin was one of the most promising quinolines at the time). On just his second attempt, Dr. Grohe successfully synthesized this compound, later named ciprofloxacin, on April 15, 1981. Initial microbiological testing showed that ciprofloxacin was surprisingly good against a wide variety of Gram-negative and Gram-positive bacteria, and was much better than norfloxacin. Enrofloxacin was synthesized shortly thereafter, and Bayer management took the necessary steps to develop ciprofloxacin and enrofloxacin into commercial antimicrobials." [see footnote 8]
+[31]
+In accordance with what the Court understand to be the agreement reached at the end of the hearing of this matter, it will give to the foregoing statement such weight as it consider it deserves which, the Court concludes, is very little, if any. It would appear to be a self-serving statement, made in a context quite distinct in nature from the nature of these proceedings, in circumstances where Dr. Grohe is simply not before the Court to testify as to the accuracy of the statement. The document in which it appears is signed on behalf on Bayer Germany by an Attorney for the Patent Owner and there is no indication whatsoever in the document that Dr. Grohe would agree with the passage in question.
+b) Bayer's Motion for a Declaration that Apotex' Notice of Allegation is Invalid
+[32]
+By notice of motion dated the 26th of August, 2003, essentially on the eve of the hearing of this matter, Bayer sought an order:
+- declaring that Apotex' Notice of Allegation is invalid for non-compliance with section 5 of the
+Regulations
+; and
+- prohibiting the Minister from issuing a Notice of Compliance to Apotex for the drug ciprofloxacin, until the expiry of the '067 Patent.
+[33]
+As earlier noted, the Notice of Allegation herein was provided by letter dated the 4th of October, 2001. Bayer responded with this application and sought disclosure under section 6(7) of the
+Regulations
+. Disclosure was provided by Apotex to Bayer on the 13th of December, 2001. The Minister verified Apotex' disclosure and indicated that, by letter dated the 3rd of January, 2002, Apotex had been notified that its submission for a Notice of Compliance had been rejected, without prejudice to re-filing, due to deficiencies. Prior to the filing of the motion in question, Bayer had not been advised that Apotex had re-filed to correct the identified deficiencies. Although not particularly relevant given the manner in which the Court proposes to dispose of the motion, there would appear to be a distinct difference of opinion as to the status before the Minister of any Notice of Compliance process relating directly to the Notice of Allegation herein and the sufficiency of disclosure made by Apotex to Bayer.
+[34]
+Bayer further alleges in its motion that it was served with Apotex' Notice of Allegation prior to the date of Apotex' submission for a related Notice of Compliance. In the result, Bayer alleges that Apotex' Notice of Allegation is void and of no effect for lack of compliance with subparagraph 5(3)(c)(i) of the
+Regulations
+.
+[35]
+Sections 5(1) and (1.1) and the relevant portions of section 5(3) of the
+Regulations
+read as follows:
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and compares that drug with, or makes reference to, another drug for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+"(1.1) Subject to subsection (1.2), where subsection (1) does not apply and where a person files or has filed a submission for a notice of compliance in respect of a drug that contains a medicine found in another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent included on the register in respect of the other drug containing the medicine, where the drug has the same route of administration and a comparable strength and dosage form,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+. . . . .
+"(3) Where a person makes an allegation pursuant to paragraph (1)(b) or (1.1)(b) or subsection (2), the person shall
+. . . . .
+(c) if the allegation is made under subparagraph (1)(b)(iv) or (1.1)(b)(iv),
+(i) serve on the first person a notice of the allegation relating to the submission filed under subsection (1) or ..."
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et la compare, ou fait référence, à une autre drogue pour en démontrer la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, cette autre drogue ayant été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+"(1.1) Sous réserve du paragraphe (1.2), lorsque le paragraphe (1) ne s'applique pas, la personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament que l'on trouve dans une autre drogue qui a été commercialisée au Canada par suite de la délivrance d'un avis de conformité à la première personne et à l'égard de laquelle une liste de brevets a été soumise doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre visant cette autre drogue contenant ce médicament, lorsque celle-ci présente la même voie d'administration et une forme posologique et une concentration comparables:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne soit pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+. . . . .
+"(3) Lorsqu'une personne fait une allégation visée aux alinéas (1)b) ou (1.1)b) ou au paragraphe (2), elle doit:
+. . . . .
+c) si l'allégation est faite aux termes des sous-alinéas (1)b)(iv) ou (1.1)b)(iv):
+(i) signifier à la première personne un avis de l'allégation relative à la demande déposée selon les paragraphes (1) ou (1.1), au moment où elle dépose la demande ou par la suite, ..."
+[36]
+In a responding motion record, Apotex provided an affidavit of Dr. Bernard Sherman, Chair of Apotex, in which he attested that the Notice of Allegation herein was sent by Apotex to Bayer by registered mail on the 5th of October, 2001, and that Apotex had responded to the Minister's satisfaction regarding deficiencies in its submission for a Notice of Compliance and further that its "... submission on file with the Minister ..." was, as of the date of his affidavit, "... approvable and on patent hold."
+[37]
+Dr. Sherman's affidavit and Apotex' responding motion record was served on counsel for Bayer at a time when there was essentially no opportunity left for Bayer to cross-examine Dr. Sherman before the commencement of the hearing of this matter. In the result, Bayer's motion was not argued at the opening of the hearing, time was provided during the course of the hearing for the conduct of cross-examination of Dr. Sherman and the matter came on for discussion at the close of the hearing. In the course of the discussion, the Court became concerned that, given late development of the issue, even the factual background to the issue was uncertain.
+[38]
+The Court proposed that the hearing be adjourned, that counsel make efforts to resolve the issue and that, if within two (2) weeks following the close of the hearing, the matter had not been resolved, the motion could then be dealt with in writing under Rule 369 or, if necessary, the hearing could be resumed.
+[39]
+Not surprisingly, the matter was not resolved within the two (2) weeks provided.
+[40]
+At the end of the two (2) week period, Bayer did not seek to have its motion dealt with under Rule 369, nor did it seek to have the hearing resumed. Rather, it submitted for filing a Supplementary Motion Record, substantially augmented over the original Motion Record. With some reluctance and uncertainty, the Court directed that the Supplementary Motion Record be filed. Additionally, the Court directed the Registry of the Court to enquire whether Apotex would be seeking to file further responding material, whether any success had been achieved in arriving at an agreed statement of facts to underlie the motion and whether Bayer intended that the motion be dealt with under Rule 369 or would be seeking to reopen the hearing.
+[41]
+In response, and not surprisingly, the Court was advised that no agreement had been reached on the underlying facts. Counsel for Bayer essentially demurred on the issue of whether or not the motion could be disposed of in writing while counsel for Apotex both filed a Supplementary Responding Motion Record and requested that the hearing be resumed. In the meantime, the twenty-four (24) month period provided in the
+Regulations
+for disposition of an application such as this was coming perilously close to its end.
+[42]
+In Bayer's latest material on the motion it alleged impropriety on the part of Apotex and Dr. Sherman and abuse of the process of this Court. At the same time, for its own part, the Court is satisfied that Bayer did not come to this Court on the motion with clean hands.
+[43]
+The issue that is the subject matter of the motion is not new in this proceeding. In the Amended Notice of Application filed the 3rd of December, 2002, the following new paragraphs appear:
+"Tenth, by Order of the Court dated January 2, 2002, resulting from a motion brought under s. 6(7) of the
+Regulations
+, Apotex has provided to Bayer its purported submission ('Submission') to the Minister for a Notice of Compliance, and the Minister has verified that the Submission produced to Bayer was the submission which was before the Minister. The Submission was received by the Minister on October 9, 2002, and was rejected by the Minister for deficiencies noted on screening on January 3, 2002. Accordingly, the Notice of Allegation is void for not being in compliance with s. 5(3)(c)(i) of the
+Regulations
+, due to its being served
+after
+the Submission was filed with the Minister.
+"Alternatively, the Notice of Allegation is not in compliance with the
+Regulations
+as it does not relate to the submission for a Notice of Compliance which is before the Minister, in conformance with s. 5(3)(c)(i) of the
+Regulations
+, for the following reasons:
+(a) The Submission was rejected by the Minister due to deficiencies noted on screening, and therefore the Submission was never a submission for a Notice of Compliance as defined in s. 5(1) of the
+Regulations
+." [see footnote 9] (underlining in original omitted and added under the word "after")
+The highlighted word "after" would appear to be in error and should read "before".
+[44]
+As a preliminary issue striking at the root of the these proceedings, it was open to Bayer to approach the Court with a view to having the issues as framed in the Amended Notice of Allegation dealt with on motion and early on in the proceeding with the potential result of substantial saving of time and resources for the parties and, from the Court's point of view, with the potential result of substantial saving of Court time and resources. Bayer chose not to follow that course. Indeed, within the time provided for filing evidence on the application, it filed no evidence in support of the allegations contained in the foregoing quoted paragraphs. Further, in May 2002, four (4) months after the expiry of the time for filing evidence, Bayer was denied leave to late-file evidence on the issue.
+[45]
+Bayer's Memorandum of Fact and Law filed on the application does not identify this issue as an issue to be considered on the application. Nonetheless, it provides limited argument on the issue in the closing paragraphs of its memorandum. It is thus not surprising that  <FRAGMENT_SUPPRESSED> ' responding memorandum, Apotex does not address the issue substantively.
+[46]
+Thus, the stage was set on the eve of the hearing of this application such that, if Bayer wished to persuasively argue the issue and indeed expand the issue as it has done, it was left with no alternative but to raise it as a "preliminary motion" in a separate motion record. The filing of that motion record on the eve of the hearing opened the opportunity for Apotex to file a responding motion record, including the affidavit of Dr. Sherman that is now impugned on behalf of Bayer.
+[47]
+ <FRAGMENT_SUPPRESSED>  307:
+"I agree that the earlier jurisprudence held that an NOA could be served before a NDS was filed, and that such jurisprudence is no longer directly relevant. The approach taken to the interpretation of the
+Regulations
+in those cases, however, is still relevant. I would characterize that approach as being that a Court should not be quick to interpret the
+Regulations
+in a narrow fashion that impedes the expeditious determination contemplated by the summary procedure provided in the
+Regulations
+."
+[48]
+For its part, Apotex , in its Supplementary Responding Motion Record on this issue, filed exactly one (1) month after the substantive hearing on the application was completed, provided the following conclusion:
+"... it is clear that Bayer has not established any basis for the invalidity of Apotex' NOA [Notice Of Allegation]. The NOA essentially alleges invalidity and, as such, is not subject to any requirement that it be served after an NDS [New Drug Submission] is filed. Even if the Court should accept that there is an allegation of non-infringement within Apotex' NOA to which subparagraph 5(3)(c)(i) of the
+Regulations
+applies, Apotex has withdrawn its non-infringement argument and so the issue of whether the non-infringement portion is a valid allegation is now moot, and the allegations of invalidity remain unaffected by any such requirements. Apotex had on file with the Minister an NDS long before service of the NOA. The screening deficiency notice has no relevance to the pre-existing submission since the screening deficiency has only to do with the non-infringing process set out in the NOA, which is now a moot question." [see footnote 11]
+[49]
+The manner in which Bayer has dealt with this issue has, the Court is satisfied, impeded the expeditious determination by the summary procedure provided in respect of applications such as this. That conclusion, combined with the belated withdrawal of the allegation of non-infringement and the conclusion that the Court reaches on the allegations of invalidity led the Court to conclude that the motion did not warrant further consideration.
+[50]
+In the result, the Court convened a teleconference with counsel for Bayer and for Apotex and advised counsel that this application would not be determined on the basis of the motion in question but rather on the substantive basis of validity or invalidity of the '067 patent and that therefore, in the Court's view, reconvening of the hearing to consider the motion on the basis of the very considerably differing positions of the parties was unwarranted. Following some discussion, counsel accepted the position of the Court. That being said, counsel for Bayer maintained the view that Bayer should be entitled to costs on an enhanced scale in light of late withdrawal of the allegation of non-infringement while counsel for Apotex urged that Apotex should be entitled to special costs considerations in light of the manner in which Bayer had dealt with the preliminary issue of validity or invalidity of Apotex' Notice of Allegation. The Court undertook to counsel to reexamine written submissions on costs. The result of that reexamination is reflected later in these reasons. At the close of the teleconference, it was agreed that the hearing of this application would not be reconvened and that the hearing was thus closed.
+[51]
+Based on all of the foregoing, Bayer's motion for a declaration that Apotex' Notice of Allegation is invalid will be dismissed without consideration on the merits.
+2) Invalidity of the '067 Patent
+[52]
+Given the withdrawal of the non-infringement issue, the remaining basis underlying the Notice of Allegation is invalidity and, more particularly, invalidity of the product-by-process claims of the '067 patent, claims 8 and 14, by reason of obviousness and invalidity of the process claimed in claims 10 to 12 to make ciprofloxacin by reason of its obviousness.
+a) The Burden of Proof with Respect to Patent Validity
+[53]
+At the relevant time for the purposes of this matter, section 47 of the
+Patent Act
+[see footnote 12] read as follows:
+"47. Every patent granted under this Act shall be issued under the signature of the Commissioner and the seal of the Patent Office; the patent shall bear on its face the date on which it is granted and issued and
+it shall thereafter be prima facie valid and avail the grantee and his legal representatives for the term mentioned therein
+, which term shall be as provided in and by sections 48 and 49." (emphasis added)
+"47. Tout brevet accordé conformément à la présente loi doit être délivré sous la signature du commissaire et le sceau du Bureau des brevets. Le brevet doit porter à sa face la date à laquelle il a été accordé et délivré, et
+il est par la suite prima facie valide et acquis au titulaire et à ses représentants légaux pour la période y mentionnée
+, laquelle doit être déterminée suivant les articles 48 et 49." (je souligne)
+[54]
+Based upon the prima facie validity of the '067 patent, Bayer urges that the burden of proof on the allegation of invalidity by reason of obviousness lies with Apotex. In support of this assertion, Bayer cites
+ <FRAGMENT_SUPPRESSED>  Campbell wrote at paragraph [23]:
+"Apotex argues that, in part, the purpose of the
+Regulations
+is to permit a patent owner to proceed summarily to protect its patent rights where the generic's allegations of non-infringement or invalidity have 'no merit'. I find that, certainly with respect to an attack of invalidity, Apotex's argument does not reflect the present state of the law."
+In support of the foregoing conclusion, Justice Campbell reviewed the state of the case law at some length. That review is repeated here:
+"Justice Stone at 210 to 211 of
+Hoffmann-La  <FRAGMENT_SUPPRESSED> , provides the following analysis specifically with respect [to] the NOC process with respect to allegations of infringement:
+'The initiator of a section 6 proceeding, being the person having the carriage of the litigation, bears "the initial burden of proof" which is a difficult burden because "it must be to disprove some or all of the allegations in the notice of allegation which, if left unchallenged, would have allowed the Minister to issue a notice of compliance".
+'This burden, known in a civil case as either the "persuasive burden" or the "legal burden", is the burden of establishing a case to the civil standard of proof.
+By contrast, the "evidential burden" consists of the burden of putting an issue in play and means that a party has the responsibility to ensure that there is sufficient evidence of the existence or non-existence of a fact or an issue on the record to pass the threshold for that particular fact or issue.
+'Where the notice of compliance [allegation?]of a second person alleges non-infringement, the court should start from the proposition that "the allegations of fact in the notice of allegation are true except to the extent that the contrary has been shown by the applicant".
+'In determining whether or not the allegations are "justified" "the court must then decide whether, on the basis of such facts as have been assumed or proven, the allegations would give rise in law to the conclusion that the patent would not be infringed by the respondent".
+'The Minister's decision of whether to issue a notice of compliance must turn on whether the allegations of the second person are "sufficiently substantiated to support a conclusion for administrative purposes ... that the applicant's patent would not be infringed if the generic's product is put on the market". [footnotes omitted] [Emphasis added].'
+"However, specifically with respect to allegations of patent invalidity, in
+ <FRAGMENT_SUPPRESSED>  the Appeal Division of this Court has clarified the evidential burden on Apotex in the present case. At paragraph 5, Justice Sharlow says as follows:
+'An application for a prohibition order under the Patent Medicines (Notice of Compliance)
+Regulations
+is like any other application for judicial review in the sense that the applicant has the burden of establishing its entitlement to the order sought. Bayer, in other words, had the burden of proving that the allegation of invalidity made by Apotex was not justified. The Motions Judge said as much in paragraph 15 of his reasons:
+"The substantive issue in this application is whether Bayer has discharged its burden in establishing that the Apotex allegation of invalidity is not justified."
+'In seeking to discharge its burden of proving the allegation to be unjustified, Bayer relied on the statutory presumption of the validity of its patent. Because that presumption exists, it may be said that Apotex, as the party responding to the application for a prohibition order, has a burden of proof in this sense: if Apotex had adduced no evidence that was capable of establishing the invalidity of the patent, Bayer could have succeeded on the basis of the statutory presumption alone. As the Motions Judge correctly said at paragraph 15:
+"A statutory presumption, for example, may assist Bayer and 'have the effect of displacing the burden of proof'."
+'The quotation is from
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), where Hugessen, J.A., said at 319:
+"As I understand the scheme of the [
+Patent Medicines (Notice of Compliance) Regulations
+], it is the party moving under s. 6, in this case Merck, which, as the initiator of the proceedings, has the carriage of the litigation and bears the initial burden of proof. That burden, as it seems to me, is a difficult one since it must be to disprove some or all of the allegations in the notice of allegation which, if left unchallenged, would allow the Minister to issue a notice of compliance. There may, of course, be some presumptions (such as for example the statutory presumption of validity of a patent) [...] which may help the moving party and have the effect of displacing the burden of proof."
+'However, in this case Apotex did adduce evidence, in the form of an affidavit, that the Motions Judge correctly accepted as going to the question of validity.
+'
+The operation of the statutory presumption in the face of evidence of invalidity depends upon the strength of the evidence. If the evidence proves on a balance of probabilities that the patent is invalid, the presumption is rebutted and is no longer relevant:  <FRAGMENT_SUPPRESSED>  where he said:
+'Nu-Pharm challenges the motions judge's approach to the presumption of validity under the
+Patent Act
+.  <FRAGMENT_SUPPRESSED>  (QL) at para. 9, Sharlow, J.A., stated:
+"The operation of the statutory presumption in the face of evidence of invalidity depends upon the strength of the evidence. If the evidence proves on a balance of probabilities that the patent is invalid, the presumption is rebutted and is no longer relevant:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 359."
+'Muldoon, J.'s, finding that Nu-Pharm's evidence was insufficient to displace the statutory presumption is a finding that, on a balance of probabilities, Nu-Pharm did not prove that the patent was invalid. We see no legal error in the approach of the learned judge.'
+"Therefore, the question is not whether Apotex's invalidity allegations have 'no merit'; the question to be answered in the present case is: Has Apotex proved, on a balance of probabilities by the evidence supporting its allegations in the NOA, that the 751 Patent is invalid?"
+[55]
+In turn, Apotex relied on
+ <FRAGMENT_SUPPRESSED>  colleague Justice Noël wrote at paragraph 15:
+"It has been established by the jurisprudence that the applicant, in this case, GlaxoSmithKline, bears the legal burden to demonstrate, on a balance of probabilities, that the allegations in the NOA are not justified. An allegation, in proceedings for an order of prohibition, is presumed to be true, except to the extent that the contrary has been shown: ... . Thus, GlaxoSmithKline has the burden to establish that Pharmascience's allegations are not justified." (citations omitted)
+[56]
+Pharmascience alleged invalidity.
+[57]
+The Court sees no significant distinction between the foregoing authorities. The Court also finds them to be consistent with the analysis and conclusion of this judge in
+ <FRAGMENT_SUPPRESSED>  Court is satisfied that the question to be answered in this matter is: while the legal burden rests with Bayer, has Apotex proved, on a balance of probabilities by the evidence supporting its allegations in its NOA, that the '067 patent is invalid by reason of obviousness?
+b) The test for Obviousness
+[58]
+The Court is satisfied that, in
+ <FRAGMENT_SUPPRESSED>  the test for invalidity on the ground of obviousness at paragraphs [101] to [111] of her reasons. Those paragraphs follow:
+"I turn first to the allegation of invalidity on the ground of obviousness in light of the comment of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  commonly cited articulation of the test for obviousness is that of Mr. Justice Hugessen in <FRAGMENT_SUPPRESSED> which is in the following terms ...:
+'The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.'
+"Put another way, the general question is whether the alleged invention required the exercise of inventive ingenuity:
+ <FRAGMENT_SUPPRESSED>  'scintilla of inventiveness' will do:
+ <FRAGMENT_SUPPRESSED>  given with the benefit of hindsight must be treated with extreme care: ...
+"Notwithstanding, as Mr. Justice Wetston noted in
+ <FRAGMENT_SUPPRESSED>  well-charted route using known techniques and processes involving known compositions unless the inventor encounters difficulties that could not have been reasonably expected by a person versed in the art or overcome by the application of ordinary skill'.
+"In the case before him, Justice Wetston was satisfied that the prior art 'would not have led an unimaginative skilled technician to the invention without undue experimentation' ... . This expression of the test was found to be without error by the Court of Appeal ... .
+"What then is the extent of experimentation or manipulation the unimaginative skilled technician, the paragon of deduction, is entitled to conduct?
+"Pfizer relies upon authority such as
+ <FRAGMENT_SUPPRESSED>  and that it is not enough for there to be clues which made the invention 'worth a try'.
+"In <FRAGMENT_SUPPRESSED> , Mr. Justice Lederman wrote ...:
+'There appears, however, to be a significant difference in the abilities of the English hypothetical skilled technician and the Canadian one. Indeed, making inquiries or testing, seems to be something outside the ken of the notional Canadian skilled technician. In
+Cabot Corp. v. 318602 Ontario Ltd.
+..., Rouleau, J., quoted H.G. Fox in
+Canadian Law and Practice Relating to Letters Patent for Inventions
+..., as stating in part:
+"In order that a thing shall be 'obvious', it must be something that would directly occur to someone who was searching for something novel, a new manufacture, or whatever it might be, without the necessity of his having to do any experimenting or serious thought, or research, whether the research be in the laboratory or amongst literature." (My emphasis.)
+'Thus, although one would normally imagine that this mythical person's laboratory is filled with mythical test tubes and Petri dishes and that his or her daily life is spent in experimentation, for the purposes of this legal exercise, no research of any kind can be contemplated. So, although it may have been logical to an actual skilled person at the time, based on the state of the art, to conduct certain testing, that is not open to the mythical skilled technician. The mythical researcher cannot have an inquiring or thinking mind which ultimately would lead him or her to the answer but rather he or she is expected to instantly and spontaneously exclaim, without more, "I already know the answer and it is obvious". Nor is it appropriate to say that there were significant telltales which pointed the way for the mythical expert or that there were sufficient clues which made the invention "worth a try". In
+Farbwerke Hoechst  <FRAGMENT_SUPPRESSED>  spectacles of hind-sight (a half borrowed phrase), it is easy to say that any experiment, if time and expense are unlimited ... is or was worth a try."'
+"However, notwithstanding that no research is to be conducted by the skilled technician, he or she is, as noted by Mr. Justice Hugessen in <FRAGMENT_SUPPRESSED> , a paragon of deduction and dexterity. He or she is also reasonably diligent in keeping up with advances in the field:
+ <FRAGMENT_SUPPRESSED>  the premise that the patent is directed to the skilled psychiatrist or someone knowledgeable in the treatment of anxiety-related disorders. The parties are agreed that because the '065 Patent claims a priority filing date of November 2, 1989, that is the relevant date on which to assess obviousness. As of that date was inventiveness required for a skilled psychiatrist to treat PD or OCD with sertraline? Or would the skilled psychiatrist plod directly and without difficulty to the use of sertraline to treat PD and OCD?" (citations omitted)
+[59]
+The Court adopts the foregoing analysis and statement of the issue as its own.
+c) The Relevant Date for Purposes of Assessing Obviousness
+[60]
+As urged on behalf of Bayer, the relevant date for the purposes of assessing the obviousness of the claims of the patent in suit is either the invention date, if proved, and the Court is satisfied that the burden in this regard lies with Bayer, or if not proved, then the priority filing date. The priority filing date of the '067 patent is the 29th of October, 1981.
+[61]
+In
+Apotex Inc. and  <FRAGMENT_SUPPRESSED>  inventor of an invention must be two things: (i) the person who first conceives of a new idea or discovers a new thing that is the invention;
+and
+(ii) the person that sets the conception or discovery into a practical shape.
+"Mere conception is thus not invention unless combined with the second element of setting the idea into practical shape which acts as proof that the mental act of invention occurred by a certain date. But, for the purposes of dating an invention, setting the idea into practical shape need not rise to the formality of a patent application. Instead, the date on which an invention is conceived or discovered is 'the date at which the inventor can prove he has first formulated, either in writing or verbally, a description which affords the means of making that which is invented'. In other words, the invention must be 'reduced to a definite and practical shape'." (emphasis in original, citation omitted).
+[62]
+In his affidavit filed herein sworn the 21st of December, 2001, Dr. Metzger, one of the inventors named in the '067 patent, attests:
+"During the life of the program [Bayer's 'nalidixic acid program' which commenced in the mid-seventies and was cancelled by management on the 18th of September, 1980], the compounds that were created and tested included quinolones, as well as other compounds. For example, attached to this affidavit as Exhibit 'B' is a page of a handwritten note of November 1979, which depicts the structure of the ciprofloxacin molecule on the first page. By November of 1979, I had known Dr. Grohe for several years, and I had seen many things that were written by him. To the best of my belief, Exhibit B was written by Dr. Grohe. Also, during November 1979, Dr. Grohe was the only chemist  <FRAGMENT_SUPPRESSED>  working on the synthesis of quinoline compounds, and Exhibit 'B' bears his name." [see footnote 18]
+While Exhibit "B" referred to in the foregoing paragraph, does bear Dr. Grohe's name and is dated "20,11.79", there is nothing in the Exhibit, other than Dr. Grohe's name, to connect it to Bayer.
+[63]
+Counsel for Bayer urged that I should exercise great caution in relying on the evidence of Dr. Metzger, a named inventor on the '067 patent. I accept counsel's concern given Dr. Metzger's personal interest in protecting the integrity of the '067 patent. That being said, the paragraph quoted from his affidavit sworn the 21st of December, 2001, serves more to establish facts of relevance than to represent expert testimony. In such circumstances, a distinction may be drawn [see footnote 19]. I find no basis for not giving full weight to the quoted paragraph.
+[64]
+In its Notice of Application commencing this proceeding and in an Amended Notice of Application subsequently filed, Bayer, under a heading "Ciprofloxacin is Inventive", notes:
+"ciprofloxacin was first invented at least as early as April, 1981, and in any event, Apotex admits that by default the invention date is the priority date of October, 1981;"
+No reference is made in the Notice of Application, as originally filed or as amended, to an invention date in November of 1979. No substantive evidence of an invention date in April of 1981 was before me.
+[65]
+Rule 301(e) of the
+Federal Court Rules, 1998
+requires that a Notice of Application set out a complete and concise statement of the grounds intended to be argued. The Notice of Application in this matter simply fails to do so in relation to the allegation of an invention date of the 20th of November, 1979 or any other date earlier than the priority date. I am satisfied that Apotex was severely prejudiced in its ability to respond to any such an allegation. [see footnote 20]
+[66]
+In the result, notwithstanding the evidence of Dr. Metzger which the Court does not find to be conclusive, the Court finds the relevant date for purposes of assessing the obviousness of the claims of the '067 patent to be the priority filing date identified in the patent, that date being the 29th of October, 1981.
+d) Person of Ordinary Skill in the Art
+[67]
+Not surprisingly, among the experts who provided opinions as to who would be persons skilled in the art here at issue, there was not much difference of view. Also not surprisingly, the experts set the standard for persons of ordinary skill in the art at a remarkably high threshold.
+[68]
+Dr. Donald E. Low, on behalf of Bayer, attested as follows:
+"When conducting my review, I have considered the qualifications of a 'person of ordinary skill in the art' in 1981 in the context of assessing the obviousness of ciprofloxacin in terms of evaluating its antimicrobial properties and their predictability based on Apotex' prior art references. I understand the term 'obvious' to mean that a person skilled in the art would have come directly and without difficulty to the solution taught by Bayer's patent for ciprofloxacin based on the information contained  <FRAGMENT_SUPPRESSED> ' prior art references as of the date of invention of ciprofloxacin, which I have been told to consider is October 29, 1981 (although I understand the date of invention may be earlier). I am further advised that such a person skilled in the art is someone who is said to lack intuition or imagination when considering the problem.
+"In that context, the person of ordinary skill in this field would have a Ph.D. in microbiology, or an MD degree with several years experience evaluating antibacterial compounds, or practical experience and training providing similar knowledge and understanding of the properties of antibacterial compounds. A person of ordinary skill would be familiar with common methods for measuring and evaluating the properties of antimicrobial agents, including MIC data [minimum inhibitory concentration data] ... and other measures of efficacy. Such a person would also know the other issues which are important in evaluating antibacterial compounds, such as toxicity, method of action and serum level concentrations.
+"A person of ordinary skill in this field would also have some knowledge of the study of structure-activity relationships. In particular, such a person would know that small changes in the structure of double ring compounds such as quinolones, naphthyridones and pyrido-pyrimidones often lead to significant differences in antibacterial properties, toxicity, absorption rate, and the like, and that the safety and efficacy of new antibacterial compounds are for that reason highly unpredictable." [see footnote 21]
+[69]
+Dr. Robin D. G. Cooper, also on behalf of Bayer, emphasized that the work experience of the person of ordinary skill in the art would be "... in the pharmaceutical industry, with an emphasis in drug development and evaluating new anti-bacterial compounds" [see footnote 22]. He also added that the notional person would have the ability to evaluate and search patent literature. Dr. Cooper attested:
+"Such a person of ordinary skill in the art, when considering structure-activity relationships would know that any change to a molecule's core structure can create an entirely new molecule with new and different structural, electronic and spatial properties. That person would also know that changes to the substituent groups to the same core structure can also lead to unpredictable properties exhibited by the new molecule. That person would also know that the properties of a molecule are dictated by the molecule's entire structure and not merely by its core structure or certain of its substituent groups." [see footnote 23]
+[70]
+Dr. Paul Actor, also on behalf of Bayer, attested that, in addition to familiarity with minimum inhibitory concentration data tests and other measures of testing efficacy, the notional person "... would also know the other issues that are important in evaluating antibacterial compounds, such as toxicity, spectrum of antimicrobial activity, serum level concentrations and mechanisms of action." [see footnote 24] He added:
+"A person of ordinary skill in this field would also have some knowledge of the study of ..., structure-activity relationships - how the structure of a molecule is related to its medicinal activity. In particular, such a person would know that small changes in the structure of a compound often lead to significant differences in antibacterial or other properties, and that the effectiveness and safety as a medicinal product of new chemical compounds are for that reason highly unpredictable." [see footnote 25]
+[71]
+He testified that a number of pharmaceutical research and development companies, in addition to Bayer, were "... heavily involved in synthesizing quinolone, naphthyridone and pyrido-pyrimidone compounds (e.g. Warner Lambert, Sterling Drug, Kyorin Pharmaceutical Co., Dainippon Pharmaceutical Co.) in the seventies and early eighties and none of the companies, all of whom employed highly trained expert synthetic chemists and microbiologists, synthesized ciprofloxacin." [see footnote 26]
+[72]
+On behalf of Apotex, Dr. Robert M. Williams testified to much the same effect [see footnote 27], as did Dr. Robert A. McClelland. [see footnote 28]
+[73]
+While none of the foregoing would appear consistent with the concept earlier quoted from the reasons of Justice Lederman of the "hypothetical skilled technician" [see footnote 29], the Court accepts the burden of the evidence before it and concludes that, for the purposes of this matter, the person of ordinary skill in the art is indeed a highly trained and experienced scientist. Against that concept of the person of ordinary skill in the art in 1981, the Court proceeds to the issues of obviousness of the product-by-process claims of the '067 patent and of the process claims, claims 10 to 12 of that patent.
+e) Obviousness of the Product-By-Process Claims, Claims 8 and 14
+i) No Motivation to Combine
+[74]
+ <FRAGMENT_SUPPRESSED>  technician were to set his or her mind to the problem, it may be that based on the prior art, he or she might predict the resulting products. There is, however, no apparent reason for undertaking the reactions claimed in the patents, unless a particular use were to have been in contemplation of the researchers. That is as much as to say that where the new substances produced have value, then the inventive spark may be found in the perceived use to which the substances may be put."
+Put another way, the Court takes the foregoing passage to stand for the proposition that, if a claimed invention demonstrates unexpected utility, that unexpected utility may in turn demonstrate "inventive spark".
+[75]
+Dr. Cooper, in his first affidavit filed on behalf of Bayer, attested as follows:
+"I am also of the opinion that none of Apotex' prior art references would have caused a person of ordinary skill to combine the alleged teachings  <FRAGMENT_SUPPRESSED> ' prior art documents to arrive at ciprofloxacin. As illustrated above, there were numerous other publications at the time that describe the superior qualities of other compounds. In addition, Albrecht and Koga reflected the conventional understanding that the 1-ethyl group was optimal at the 1-position. The unimaginative and uninventive person skilled in the art would not have combined the various teachings  <FRAGMENT_SUPPRESSED> ' varied and unrelated prior art references to displace this conventional wisdom.
+"None of the prior art molecules referred to by Apotex, apart from norfloxacin, were quinolones. Some were naphthyridones, such as nalidixic acid, some were pyrido-pyrimidones, such as pipedemic or piromidic acid. Both naphthyridones and pyrido-pyrimidones have different core structures as compared to quinolones. Therefore, the reported effect of a modification to these core structures would not lead a person of ordinary skill with the art to assume that such a modification to a different core structure, such as a quinolone, would have the same or predictable effect. This factor is all the more significant in the context of those prior art compounds referenced by Apotex which bear very little similarity to the quinolone core structure." [see footnote 31]
+[76]
+To the contrary, Dr. Williams on behalf of Apotex attested:
+"... The unimaginative skilled technician, who would have been aware of the norfloxacin structure, did not need to invent or invest energy in creative thought to perform the same cyclopropyl for ethyl substitution on the norfloxacin structure. One can hardly imagine more prominent road signs pointing directly to exercising this same cyclopropyl for ethyl substituent change on the norfloxacin structure and the obvious result expected is improved antibacterial activity. The logic and teachings of the literature prior to October 29, 1981 flow explicitly and unmistakably to the ciprofloxacin structure from norfloxacin.
+(Table omitted)
+"This comparison unambiguously identifies the N-1 cyclopropyl substituent as a pharmacologically active and superior functional group in the 4-pyridone-3-carboxylic acid nucleus and clearly leads the unimaginative technician skilled in the art, directly and without difficulty to the ciprofloxacin structure based on the known norfloxacin structure and antibiotic potency." [see footnote 32]
+[77]
+Both Dr. Cooper and Dr. Actor, in reply affidavits, refuted the position adopted by Dr.Williams in the foregoing passage. [see footnote 33]
+ii) The Prior Art Teaches Away
+[78]
+ <FRAGMENT_SUPPRESSED>  in the industry at the time of the invention in 1969 pointed away from the teaching of the patent and there was strong industry resistance to its acceptance. ...
+"'4. Since its acceptance, the machine has had an outstanding commercial success, to the point that, as the trial judge himself said, ..., it "is now almost universally adopted for use in the press section of paper-making machines".'
+"While none of these factors taken in isolation is necessarily determinative on the issue of obviousness, each of them argues more eloquently than any ex post facto analysis can ever do that the patent is inventive; cumulatively their effect is simply irresistible."
+[79]
+Clearly then, prior art that teaches away from the purported invention, like conventional wisdom that points away, is a relevant consideration.
+[80]
+On the issue of "teaching away" Dr. Cooper attested:
+"The major review article at the time [1981] was Albrecht, ... which is referred to in the Koga article introduced by Apotex ... Albrecht's comprehensive article summarized the known nalidixic acid type structures, including nalidixic acid, piromidic acid, and pipedemic acid and specifically reviewed the state of the knowledge at the time in respect of various substituents at the 1-position on these core ring structures. ... Albrecht stated: '[i]n a comparison of the activity of quinolone carboxylic acids having an alkyl group in the 1-position the effects achieved with smaller radicals always proved to be the best.
+As a rule, the best activity is obtained with the ethyl group
+.' ...
+"Albrecht's reference to smaller radicals at the 1 position having better effect is explained in his article. Substituents at the 1-position which were bulkier than ethyl ..., even a linear propyl group ..., had deleterious results on anti-bacterial activity of the modified compounds for piromidic and pipedemic acids. Accordingly, a person of ordinary skill in the art would not have expected that the bulkier cyclopropyl group would have a beneficial effect on such compounds." [see footnote 35] (citations and chemical formulae omitted, emphasis in the original)
+[81]
+Dr. Actor testified to the same effect [see footnote 36].
+[82]
+Dr. Williams, under cross-examination on certain of the prior art references, would appear to have indirectly conceded that those prior art references "teach away" from the purported invention. [see footnote 37]
+iii) Unexpectedly Improved Properties
+[83]
+As earlier noted, the disclosure of the '067 patent reflects a relatively modest promise of the patent. By contrast, the experience flowing from the testing, marketing and use of ciprofloxacin has demonstrated a success that exceeds the promise reflected in the patent.
+[84]
+Once again, in
+ <FRAGMENT_SUPPRESSED>  particular purpose, then the combined effect of new substances and unexpected usefulness will satisfy the requirements of inventive ingenuity."
+[85]
+That ciprofloxacin, a new substance, has, since its introduction into the market, demonstrated "unexpected usefulness" was essentially not in dispute before the Court.
+iv) Secondary considerations
+[86]
+As noted in an earlier quotation from
+ <FRAGMENT_SUPPRESSED>  of solving a long-felt need and of industry praise, while not itself necessarily determinative on the issue of obviousness, "... argues more eloquently than any ex-post facto analysis that the [purported invention claimed in a patent] is inventive ..."
+[87]
+Once again, that the experience since the introduction of ciprofloxacin into the market demonstrates that it solved a long-felt need, that it has been a commercial success and that it has commanded industry praise was essentially not in dispute.
+v) Hindsight Analysis
+[88]
+Counsel for Bayer urged that, when considering obviousness, hindsight analysis is prohibited. Expert testimony based on hindsight analysis must, he urged, be treated with extreme care since every invention is obvious after it has been made, especially to an expert in the field.
+[89]
+ <FRAGMENT_SUPPRESSED>  wrote at pages 155-6:
+"... Practically all research work is done by looking in directions where the 'state of the art' points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed the way. The discovery of penicillin was, of course, a major development, a great invention. After that, a number of workers went looking for other antibiotics methodically testing whole families of various micro-organisms other than penicillium notatum. ... I cannot imagine patents obtained for antibiotics and for various processes for their production being successfully challenged on the basis that the discovery of penicillin pointed the way and there was no inventive ingenuity in the search for other antibiotics and in the testing and the development of processes. ..."
+[90]
+Counsel for Bayer urged that the foregoing applies without modification if norfloxacin is substituted for penicillin, albeit that norfloxacin may not have been the "major development" and "great invention" that penicillin was. He further urged that much of the expert testimony on behalf of Apotex and on which Apotex' argument for invalidity of the product-by-process claims of the '067 patent is based amounts to "hindsight analysis". To a substantial degree, the Court is satisfied that this submission on behalf of Bayer is warranted. Much of the expert testimony presented on behalf of Apotex reflects hindsight analysis.
+[91]
+It is worthy of note that, as earlier noted in these reasons, this is far from the first attack on the '067 patent on behalf of Apotex. This particular attack was instituted more than thirteen (13) years after the '067 patent issued. The Court finds it difficult to conceive of this delay in commencing an attack on the basis of obviousness if that attack was based other than on hindsight analysis.
+[92]
+Finally on the issue of "hindsight analysis", the Court notes that the prohibition against an obviousness attack based on hindsight analysis should not be interpreted as prohibiting reliance on evidence that an alleged invention has solved a long-felt need and has met with commercial success and industry praise. As earlier noted, such evidence is a secondary consideration regarding non-obviousness that is not equivalent to mere "hindsight analysis".
+vi) Conclusion on the issue of obviousness of the product-by-process claims, claims 8 and 14 of the '067 patent
+[93]
+Based upon the foregoing analysis, the Court is satisfied that, bearing in mind the burden of proof with respect to patent validity, and the test for obviousness, both as earlier briefly reviewed in these reasons, Bayer has, on the totality of the evidence before the Court, successfully refuted the allegation that claims 8 and 14 of the '067 patent were obvious on the relevant date when viewed through the eyes of a person of ordinary skill in the relevant art.
+f) Obviousness of the MES or "Malonic Ester Synthesis Process" claimed in claims 10 to 12 of the '067 patent
+[94]
+Counsel for Bayer urged that if the Court determines that claims 8 and 14 of the '067 patent are valid as not being obvious, then by definition, the process for preparation of ciprofloxacin claimed in claims 10 to 12 is not obvious. In support of his submission, counsel cited
+ <FRAGMENT_SUPPRESSED>  page 227:
+"... The invention as claimed in claim 18 is one for a process which includes the reacting of certain known chemical substances with certain other known chemical substances in a well-known type of chemical reaction for the purpose of producing a result which any skilled chemist would have expected. All this is admitted in para. 1 of the agreed statement of facts and from it it follows, notwithstanding the further fact that no one had previously carried out the reaction using the particular starting substances, that there could have been no invention in the process unless it had been found to produce substances possessing utility which on the basis of previous knowledge could not have been expected of them. As mere new chemical substances they would not constitute inventions unless they were found to possess unexpected utility but if they were found to possess such utility, for example, as drugs or as paints or dyes, or for any practical purpose,
+they might both constitute inventions of new and useful substances and at the same time supply the utility necessary to elevate the well-known method as applied to the materials that would produce them to the status of an invention as well
+." (emphasis added)
+[95]
+Having found ciprofloxacin, the product-by-process substance, as produced by the MES process described in claims 10 to 12 to be a new and useful substance deserving of patent protection as not being obvious, ciprofloxacin, at the same time, supplies the utility necessary to elevate the MES process as applied to the materials used to produce ciprofloxacin to the status of an invention as well.
+[96]
+In light of the foregoing, the Court declines to go further to determine whether the MES process which consists of the reacting of certain known chemical substances with certain other known chemical substances, was, at the relevant date, in and of itself, an inventive process rather than a "well-known type of chemical reaction for the purpose of producing a result which any skilled chemists would have expected." Once again, and not surprisingly, the expert evidence before the Court was to some extent in conflict but the issue was not pursued at great length in argument before me in light of the passage from
+Rhone-Poulenc
+which the Court has just quoted.
+[97]
+The Court determines the MES process claimed in claims 10 to 12 of the '067, to be valid as not being obvious at the relevant date in that, in the context of the '067 patent, the process produced a new and useful substance, ciprofloxacin, which possessed utility that could not have been expected by a person of ordinary skill in the art at that date.
+SUMMARY OF CONCLUSIONS AND SUBSTANTIVE RELIEF
+[98]
+The following is a summary of the Court's conclusions on the various issues raised in this proceeding:
+- first, with respect to Bayer's motion requesting that certain of the affidavit evidence filed on behalf of Apotex should be struck as irrelevant or prejudicial in that it either contradicts or was not referred to  <FRAGMENT_SUPPRESSED> ' Notice of Allegation, that motion having been withdrawn in all respects except as it relates to a portion of the Patent Owner's Statement in relation to U.S. Patent 4,670,444, the Court determines to give to that portion of the Patent Owner's Statement such weight as it considers it deserves which, the Court further concludes, is very little, if any. Such portion of the statement played no role of any import in the Court's substantive determinations in this matter;
+- secondly, Bayer's motion for a declaration that Apotex' Notice of Allegation is invalid will be dismissed;
+- third, the Court determines that claims 8 and 14 of the '067 patent, being product-by-process claims, are not invalid by reason of obviousness at the relevant date; and
+- finally, and fourth, the Court determines the process claims, claims 10 to 12 of the '067 not to be invalid by reason of obviousness at the relevant date.
+[99]
+In the result, the following relief will be granted:
+1. An Order will go in accordance with section 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+prohibiting the Minister of Health from issuing a notice or notices of compliance under section C.08.004 of the
+Food and Drug Regulations
+to Apotex Inc. in connection with ciprofloxacin hydrochloride tablets of 100, 250, 500 and 750 mg strength for oral administration until after the expiration of Canadian Patent 1,218,067; and
+2. Finally, Orders will go dismissing Bayer's preliminary motion seeking a declaration of invalidity in respect of Apotex' Notice of Allegation herein and dismissing the portion of Bayer's motion to strike certain of the affidavit evidence filed on behalf of Apotex herein, except to the extent that it has previously been withdrawn.
+[100]
+As previously noted in these reasons, the hearing in this matter was adjourned on the 8th of September, 2003, rather than closed, to accommodate the possibility of a resumption of the hearing to deal with Bayer's motion for a declaration that Apotex' Notice of Allegation is invalid. In the event, and as earlier noted in these reasons, the hearing was not resumed. For greater certainty, a further Order herein will declare the hearing closed.
+COSTS
+[101]
+Just before the hearing of this matter was adjourned on the 8th of September, 2003, counsel expressed their agreement that costs should follow the event with such costs to be determined on the ordinary scale. In supplementary submissions filed regarding its motion for a declaration that Apotex' Notice of Allegation is invalid, counsel for Bayer amended their position to seek costs on an elevated scale throughout, and more particularly, on a solicitor-and-client scale in relation to that motion and Apotex' allegation of non-infringement that was withdrawn after substantive argument. In response, counsel for Apotex asserted a claim to costs on a solicitor-and-client scale, or at least on an elevated scale.
+[102]
+The parties' written submissions on augmented costs have again been reviewed in accordance with the undertaking given by the Court during a post-substantive hearing teleconference earlier referred to in these reasons. The Court finds those submissions not to be persuasive. As noted in these reasons, while counsel for Bayer made substantial allegations against Apotex and its Chairman in relation to the motion regarding invalidity of the Notice of Allegation, the Court is satisfied that, in that regard, Bayer did not itself come to the Court with clean hands. The late withdrawal of the claim to non-infringement was closely related to the late intensive pursuit of that motion. As earlier noted, the motion will be dismissed. The Court is not satisfied that the conduct of the parties in respect of that motion and the withdrawal of the allegation of non-infringement should impact the costs disposition.
+[103]
+In the result, Bayer having been substantively successful on this application, it will have its costs throughout against Apotex, unless otherwise earlier ordered in respect of any aspect of this proceeding, such costs to be taxed on the ordinary scale.
+[104]
+There will be no order as to costs in favour of or against the Minister of Health.
+Application allowed.
+Editor: Anick Ouellette-Levesque/pdk
+Footnotes
+1. Transcript, volume 5, page 805.
+2. (1997), 133 F.T.R. 184; 74 C.P.R.(3d) 307 (T.D.), at 314.
+3. S.O.R. 93-133, as amended.
+4. Applicant's Book of Authorities, volume I, Tab 4.
+5. Application Record of the Applicants, volume 2, Tab 7.
+6. Application Record of the Applicants, volume V, Tab 8B and volume II, Tab 3, respectively.
+7. Transcript. Volume 5, page 803.
+8. Application Record of the Applicants, volume II, Tab 3-24, page 496.
+9. Application Record of the Applicants, volume 1, Tab 1, pages 13 and 14.
+10. (1999), 86 C.P.R.(3d) 303 (F.C.T.D.).
+11. Apotex' Supplementary Responding Motion Record filed the 8th of October, 2003, Tab 1, page 10.
+12. R.S.C. 1970, c. P-4.
+13. [2003] F.T.R. Uned. 741; [2003] F.C.J. No. 994 (T.D.), Notice of Appeal filed, Federal Court of Appeal File No. A-345-03.
+14. [2003] F.C.J. No. 1151; 237 F.T.R. 218 (F.C.).
+15. (2001), 208 F.T.R. 105; 14 C.P.R.(4th) 76 (T.D.), affd. (2002), 291 N.R. 168; 21 C.P.R.(4th) 129 (F.C.A.).
+16. (2002), 225 F.T.R. 1; 22 C.P.R.(4th) 466 (T.D.).
+17. (2000), 262 N.R. 137; 10 C.P.R.(4th) 65 (F.C.A.), affd. (2002), 296 N.R. 130; 21 C.P.R.(4th) 499 (S.C.C.).
+18. Applicant's Record, volume IV, Tab 7, page 1105.
+19.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 489 (T.D.), pp. 503-4, paragraph 60.
+20.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 328 (T.D.) and
+AB Hassle and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 129 (T.D.), at 143.
+21. Application Record of the Applicants, volume VIII, Tab 14, page 1984-5.
+22. Application Record of the Applicants, volume V, Tab 8, page 1140.
+23. Application Record of the Applicants, volume V, Tab 8, page 1141.
+24. Application Record of the Applicants, volume III, Tab 4, page 581.
+25. Application Record of the Applicants, volume III, Tab 4, page 581-2.
+26. Application Record of the Applicants, volume III, Tab 4, page 587.
+27. Application Record of the Applicants, volume XI, Tab 23, pages 2890-1.
+28. Application Record of the Applicants, volume XI, Tab 19, pages 2747-8.
+29. Supra, page 29.
+30. (1991), 47 F.T.R. 81; 39 C.P.R.(3d) 289 (T.D.), varied (1995), 187 N.R. 284; 60 C.P.R.(3d) 135 (F.C.A.).
+31. Application Record of the Applicants, volume V, Tab 8, pages 1161 and 1162.
+32. Application Record of the Applicants, volume XI, Tab 23, pages 2908-9.
+33. Application Record of the Applicants, volume VI, Tab 9, pages 1334-5; volume III, Tab 4, pages 585-6; and volume IV, Tab 5, pages 900-02.
+34. (1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.).
+35. Application Record of the Applicants, volume V, Tab 8, pages 1144-5.
+36. Application Record of the Applicants, volume IV, Tab 5, page 902-04.
+37. Application Record of the Applicants, volume XVIII, Tab 36, page 4306.
+38. Supra, note 30.
+39. [1966] Ex. C.R. 59.
+40. Supra, note 34.
+41. (1979), 27 N.R. 582; 42 C.P.R.(2d) 145 (S.C.C.).
+42. (1968), 55 C.P.R. 207 (S.C.C.).
+SCHEDULE
+(paragraph [20])
+l. A process for preparing a 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-piperazino-quinoline-3-carboxylic acid of the general formula
+[Diagram omitted - see printed version]
+or a salt or hydrate thereof, in which
+R denotes hydrogen, methyl, ethyl or B-hydroxy-ethyl which comprises,
+(a) reacting 7-chloro-l-cyclopropyl-6-fluoro-1,4-dihydro 4-oxo-quinoline-3-carboxylic acid of the formula
+[Diagram omitted - see printed version]
+in which
+R1 denotes a hydrogen atom, with a piperazine or a piperazine derivative of the general formula
+[Diagram omitted - see printed version]
+. . . . .
+8. A 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-piperazino-quinoline-3-carboxylic acid of formula I as defined in claim 1 or a pharmaceutically acceptable salt or hydrate thereof when prepared by a process according to claim 1 or an obvious chemical equivalent thereof.
+. . . . .
+10. A process for preparing 1-cyclopropyl-6-fluoro-1,4 dihydro-4-oxo-7-piperazino-quinoline-3-carboxylic acid which comprises reacting 7-chloro-l-cyclopropyl-6-fluoro-1,4-dihydro--4-oxo-quinoline-3-carboxylic acid with piperazine.
+11. A process according to claim 10 wherein the 7-chloro-1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-quinoline-3-carboxylic acid is obtained by cyclising ethyl 2-(2,4-dichloro-5-fluoro--benzoyl)-3-cyclopropylamino-acrylate by reaction with sodium hydride in anhydrous dioxane.
+12. A process according to claim 11 wherein the ethyl 2-(2,4-dichloro-5-fluoro-benzoyl)-3-cyclopropylamino-acrylate is obtained by reacting ethyl 2-(2,4-dichloro-5-fluoro-benzoyl)-3--ethoxy-acrylate with cyclopropylamine.
+. . . . .
+14. The compound 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-piperazino-quinoline-3-carboxylic acid when prepared-by a process according to claim 10, 11 or 12 or an obvious chemical equivalent thereof.
+[End of document]

@@ -1,0 +1,650 @@
+ <FRAGMENT_SUPPRESSED>  judgment temporarily in rough form.
+ <FRAGMENT_SUPPRESSED>  2015.
+Counsel:
+Kenneth McKay and Andrew Jones, for the plaintiff;
+David Reive and Manav Singhla, for the defendants.
+Solicitors of Record:
+Sim Lowman Ashton & McKay, Toronto, Ontario, for the plaintiff;
+Miller Thomson, LLP, Toronto, Ontario, for the defendants.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+TABLE OF CONTENTS
+-
+Paragraph
+I. Background Facts
+2
+II. The Parties' Pleadings
+10
+III. The Evidence
+22
+--A. Venngo's Witness Evidence
+22
+---(1) Brent Stucke
+22
+---(2) Sharon Mitchell (Affidavit Evidence)
+40
+---(3) Elizabeth Kieffer
+44
+---(4) Kevin Hayashi
+45
+---(5) Douglas Garcia
+49
+---(6) Bradley Moyer
+53
+---(7) Sally Benn
+57
+--B. Venngo's Read-Ins from Discovery Pursuant to Rule 288
+61
+---(1) Discovery of Morgan Marlowe, as CCI's Corporate Representative, and in her Personal Capacity
+61
+---(2) Discovery of Richard Joynt, in his Personal Capacity
+70
+--C. Defendants' Evidence
+72
+---(1) Defendants' Read-ins from Discovery Pursuant to Rule 288
+75
+IV. Analysis
+76
+--A. Liability of Morgan Marlowe and Richard Joynt
+76
+--B. Subsection 7(c) of the Trade-marks Act
+80
+--C. Subsection 7(a) of the Trade-marks Act
+81
+--D. Section 22 of the Trade-marks Act - Depreciation of Goodwill
+85
+--E. Subsection 7(b) of the Trade-marks Act - Passing Off
+88
+--F. Sections 19 and 20 of the Trade-marks Act - Confusion
+95
+---(1) Section 19
+95
+---(2) Section 20
+98
+----(a) Section 6
+101
+-----(i) Degree of resemblance
+106
+-----(ii) Inherent Distinctiveness
+115
+-----(iii) The nature of the wares, services or business
+120
+-----(iv) The length of time the marks have been used
+121
+-----(v) Other Surrounding Circumstances
+122
+V. The Defendants' Counterclaim
+130
+VI. Costs
+131
+Annex "A"
+135
+[1]
+Manson, J.
+: In this action the Plaintiff, Venngo Inc. [ <FRAGMENT_SUPPRESSED> ], claims that Concierge Connection Inc. ["CCI"] and its directors, Ms. Morgan Marlowe and Mr. Richard Joynt (collectively "the Defendants") have infringed its rights in a family of registered Canadian trademarks ending in "PERKS" [the Venngo Trademarks] by using the registered trademark "PERKOPOLIS", pursuant to sections 19 and 20 of the
+Trade-marks Act
+, RSC, 1985, c T-13 [the Act]. Venngo further alleges that the Defendants have made false and misleading statements discrediting Venngo's business, committed the tort of passing off and depreciated their goodwill, contrary to subsections 7(a), 7(b), 7(c) and 22 of the Act. The relevant provisions of the Act are attached as Annex A hereto.
+I.
+Background Facts
+[2]
+Venngo and CCI are "Commercial Program Providers", a term used to describe their business of offering discount, benefit and incentive programs to Canadian companies and professional organizations [the customers]. The customers of Venngo and CCI sign contracts so they can offer these discounts on various products and services, including entertainment tickets, car rentals, fitness clubs, hotels, spas and more, to their employees as membership or employment benefits above and beyond salary or wages. The employees ["end-users"] access the benefits by registering with Venngo or CCI, either on a website specific to the particular customer (for Venngo) or on the company's website (for CCI).
+[3]
+Venngo was founded in 2000, and by 2005 it was providing Commercial Program Provider services to various prominent Canadian organizations. By 2007, Venngo had expanded its discount programs to offer a wide range of goods and services categories to its customers. That year Venngo adopted the WORKPERKS, MEMBERPERKS and ADPERKS marks to promote its discount programs, and in 2008 and 2009, Venngo filed applications based on proposed use for PARTNERPERKS, CLIENTPERKS and CUSTOMERPERKS. The following table sets out the filing and registration details for the Venngo Trademarks:
+Venngo Marks
+Registration Number
+Filing date
+Declaration of Use
+Registration date
+WORKPERKS
+TMA 747 589
+2007-05-04
+2009-08-17
+2009-09-15
+MEMBERPERKS
+TMA 791 745
+2007-05-04
+2011-01-18
+2011-02-28
+ADPERKS
+TMA 739 162
+2007-05-04
+2009-04-09
+2009-04-30
+PARTNERPERKS
+TMA 747 313
+2008-05-07
+2009-08-13
+2009-09-10
+CLIENTPERKS
+TMA 768 980
+2009-05-29
+2010-05-7
+2010-06-08
+CUSTOMERPERKS
+TMA 769 237
+2009-05-29
+2010-05-7
+2010-06-09
+[4]
+The wares and services listed in all of Venngo's registrations relate to Discount Programs and are essentially the same. Below is the actual description of wares and services for one of the Venngo Trademarks, WORKPERKS:
+WARES/MARCHANDISE:
+Computer software, namely internet software for portal applications, networking, business to business (B2B) communications, business to consumer (B2C) communications, marketing, product and service distribution
+SERVICES:
+Providing packaged employee saving and value added programs delivered online and through printed publications; Providing online facilities and printed publications to allow companies to advertise and market products and services; Providing services designing, creating, hosting, maintaining, operating, managing, advertising and marketing savings and value-added programs; Providing software interfaces available over the internet with multiple users access to a wide range of information
+[5]
+CCI was incorporated in 2001 and as of October 2006, it described itself as a "Toronto-based corporate concierge company" that offers an "Employee Discount Ticket and Attraction Program" to its customers. It used the word "perks" to describe its discounts as far back as 2002, as evinced on CCI's website from that year.
+[6]
+In 2006, 2007, 2009 and 2010, Venngo approached CCI to propose a vendor relationship, which CCI declined. Email exchanges in October 2007, between the parties revealed to CCI the WORKPERKS and ADPERKS marks, the Venngo system for managing Discount Programs, and the Venngo Customer Employee Groups and Association/Member-based Groups and corresponding number of end-users. Venngo claims this information was confidential, which CCI disputes.
+[7]
+As of June and July of 2008, CCI's promotional materials had expanded to offer entertainment tickets to theme parks, movie theatres, sporting events, zoos and hotel bookings.
+[8]
+On November 28, 2008, CCI applied for registration of the trademark PERKOPOLIS on the basis of proposed use in association with "Entertainment ticket sales and Hotel bookings services", which was registered on March 1, 2011, under TMA 792 711. At the time of filing, Venngo's applications for WORKPERKS, MEMBERPERKS, ADPERKS and PARTNERPERKS had been filed at the Canadian Trademarks Office.
+[9]
+In February of 2009, CCI began to use the PERKOPOLIS mark and trade name to promote its business, it launched its website, www.perkopolis.com, and by February 2011, Perkopolis had extended its services to 16 categories, providing a greater variety of discounts beyond the entertainment and hotel business.
+II.
+The Parties' Pleadings
+[10]
+Venngo alleges that as early as January 2010, it began to receive reports of actual confusion from its customers and end-users, which have continued to the present.
+[11]
+Venngo commenced two other actions in the Ontario Superior Court of Justice in June and December of 2013, which remain at the pleadings stage, alleging unauthorized disclosure of confidential information to CCI.
+[12]
+Venngo also asserts that Ms. Marlowe and Mr. Joynt were and are the controlling minds of CCI, who commanded its day to day activities, and knowingly directed CCI to adopt a confusingly similar trademark, trade name and domain name (PERKOPOLIS, Perkopolis and perkopolis.com, respectively) and to offer services nearly identical to those offered by Venngo. Ms. Marlowe and Mr. Joynt thereby wilfully and knowingly pursued a course of conduct likely to constitute trademark infringement and passing off, or reflected an indifference to the risk of such infringement and passing off.
+[13]
+With respect to the subsection 7(a) claim, Venngo alleges the Defendants made false and misleading statements to third parties intending to discredit Venngo's services, by stating that Venngo lacked the necessary infrastructure to provide customer support and or have adequate privacy and security for personal information of those third parties.
+[14]
+Finally, Venngo asserts that the CCI trademark registration for PERKOPOLIS, registration TMA 792,711, has always been invalid, being contrary to sections 18 and 57 of the Act for lacking distinctiveness (subsection 18(1)(a)) given that it was at all material times, before and after registration, confusingly similar to one or more of Venngo's family of trademarks.
+[15]
+The Defendants state that CCI has operated discount services since 1999. It adopted the Perkopolis trade name in early 2008, and registered the domain name, perkopolis.com, on April 25, 2008. It registered the PERKOPOLIS trademark on March 11, 2011, based on a declaration of use filed that date.
+[16]
+The Defendants further assert that no information provided by Venngo to the Defendants, as a result of unsolicited approaches by Venngo, was confidential.
+[17]
+Regarding Venngo's subsection 7(a) claim, the Defendants argue it is unconnected to any trademark alleged, and therefore beyond the jurisdiction of the Federal Court.
+[18]
+They deny any likelihood of confusion given that:
+i. "perk" is generic;
+ii. "perk" is commonly used by third parties and in third party trademarks;
+iii. the degree of resemblance between the Venngo trademarks and PERKOPOLIS is low in appearance, sound or ideas suggested;
+iv. the Perkopolis services and business are significantly different from Venngo's services and business;
+v. the nature of trade precludes any likelihood of confusion, given that clients and customers are sophisticated, and that well-educated executives are the relevant consumers of the services offered by both the Defendants in association with the PERKOPOLIS trademark and the Plaintiff in association with the Venngo Trademarks.
+[19]
+Moreover, the Defendants made numerous allegations that Venngo's registrations are invalid. At the hearing, they limited their validity attack on the Venngo Trademarks to subsections 18(1)(a) and 12(1)(d) of the Act, specifically, that the trademarks were not registrable at the date of registration on the basis they were confusing with previously registered trademarks.
+[20]
+The Defendants also argue that Venngo has failed to prove any valid cause of action under subsections 7(a), 7(b), 7(c) and 22 of the Act, which require proof of damages. Venngo has refused to produce information or documents that support any damages arising from the impugned activities of the Defendants, and thus cannot succeed with respect to these claims.
+[21]
+At the hearing, the parties jointly requested that a bifurcation order be issued with respect to the quantum of damages, to be determined once liability is decided, if necessary. The relief should have been sought well before trial and, in fact, before the parties embarked on discoveries. Notwithstanding, the belated request was granted in light of the parties' consent.
+III.
+The Evidence
+A.
+Venngo's Witness Evidence
+(1) Brent Stucke
+[22]
+Brent Stucke is chairman and founder of Venngo, which he describes as a fully out-sourced commercial program that provides discounts to over 1000 vender services to end-users, who are the employees and members of Venngo's customers, consisting of corporations and professional associations.
+[23]
+Venngo also has proprietary software solutions, such as ADPERKS and WORKPERKS, that they licence to their customers. ADPERKS is an internet-based program provider that offers a low-cost way for vendors to market to special end-users. It started in January 2000, and in 2005, Venngo developed novel software for new discount programs, which involved the adoption of the trademarks WORKPERKS, MEMBERPERKS and ADPERKS.
+[24]
+In 2007, Venngo was named 27th out of the fastest 50 growing tech companies (Deloitte award), and 208th out of the top 500 fastest growing tech companies in North America, in terms of revenues and profits growing.
+[25]
+WORKPERKS provides loyalty discount programs for customers, under which management and maintenance are fully outsourced. The WORKPERKS landing page from November 2007, provides the platform of connectivity between the vendors and suppliers of products and services and end-users.
+[26]
+In August and September of 2007, Mr. Stucke forged a business relationship with Microsoft, which resulted in Microsoft WORKPERKS, a webpage for end-users that provides access to different categories of suppliers. In 2007, Venngo's other clients included UPS and Hewlett-Packard, among many others.
+[27]
+Venngo used the ADPERKS and MEMBERPERKS marks in 2007 in advertisements to potential customers, specifically targeting Human Resources (HR) executives and decision-makers of program benefits for companies and associations. Between 2007 and 2015, emails to end-users grew from 100,000 to 1,000,000 per month. Venngo advertised using their trademarks in booths at various trade shows, including the Human Resources Professionals of Canada Tradeshow. Attending trade shows continues to be a main marketing avenue for Venngo, who annually attends numerous trade shows in major cities across Canada.
+[28]
+Mr. Stucke testified Venngo was the first to market fully out-sourced solutions of its kind in 2007, and he was not aware of any others at the time. He asserts that Venngo is part of a niche market, and today Venngo and CCI are the only suppliers of outsourced commercial programs of their kind. Mr. Stucke also opined that from 2005 to 2007, there was little use of the word "perk" in his business, and he qualifies that Venngo only objects to the use of "perk" or "perks" in their niche business market.
+[29]
+The marks CLIENTPERKS and PROGRAMPERKS have not been in use since 2009. The claims in respect of these trademarks are therefore abandoned in this action.
+[30]
+According to Mr. Stucke, WORKPERKS was marketed to all customers and their end-users on-line, in-house, at charity events, trade shows and through search engine optimization. Customers include, for example, national banks (CIBC, Scotiabank, HSBS), four large CPA groups, Telus, Purolator, FedEx, and the Ontario College of Teachers. MEMBERPERKS is similar but used for associations. ADPERKS clients include Apple, Toshiba, GM, Lenovo, Jack Astors, Goodlife, ClubLinks, Le Chateau, La Vie en Rose and Tommy Hilfiger, as well as many others. Apple's growth had been very good from 2008 to 2011, but has declined thereafter, which Mr. Stucke attributes to confusion caused by the Defendants' use of the PERKOPOLIS trademark, the Perkopolis trade name and the perkopolis.com domain name in the marketplace.
+[31]
+Venngo first became aware of Perkopolis in 2009, at which time it was a hotel and entertainment broker under CCI's name. Perkopolis provides discounts to customers and end-users from 265 vendors, 200 of which now fall outside the realm of hotels and entertainment, thus, making it a Commercial Program Provider in direct competition with Venngo.
+[32]
+In the spring of 2006, Mr. Stucke reached out to Ms. Marlowe (at CCI) in an attempt to sell Venngo marketing. He again contacted her in 2007, 2009 and 2010. He states he believed their conversations were confidential, and although he does not recall details of the discussions, he felt he disclosed confidential information regarding Venngo's business model and strategy to Ms. Marlowe in 2006 and 2007. For instance, a PowerPoint presentation he reviewed with her said "confidential" on each page. No other documents were shown or sent to her.
+[33]
+In March 2011, Mr. Stucke testified Venngo became aware of and concerned with the expanded services of Perkopolis. Between April 2009, and February 2011, CCI began to use the "PERKOPOLIS" trademark and Perkopolis trade name and expanded its services to overlap with Venngo services. Mr. Stucke states he realized Venngo's rights were being breached when he became aware of instances of confusion between the companies. The first instance of confusion between WORKPERKS and PERKOPOLIS came from HR professionals at Magna International.
+[34]
+Unlike Venngo, CCI does not indicate it is the source company in its advertising of Perkopolis services to customers. Mr. Stucke stated Perkopolis has benefited from the use of the PERKOPOLIS mark  <FRAGMENT_SUPPRESSED> 's niche market, causing them damage.
+[35]
+On cross-examination, Mr. Stucke agreed that Venngo typically aims to market to the most senior person in HR departments of a targeted company or association. This takes significant time and due diligence, and generally results in a longer sale cycle (1 year or more), although some sales cycles are significantly shorter.
+[36]
+Various examples of Venngo's marketing materials for ADPERKS, MEMBERPERKS and WORKPERKS to customers such as Telus, Ernst & Young, Scotiabank, Gowlings, Zurich, CIBC, and others, include the phrase "we call them perks" to describe their deals and discounts. Further, end-users may opt-in to monthly updates, which list the "perks" offered. Mr. Stucke acknowledged that Venngo's advertising materials show its use of the term "perk", including "over the past few weeks we've added lots of new perks ...", "want to see more perks - visit the site ...", and "the number of perks is constantly growing". Moreover, Venngo's template for customers contained phrases that show the generic use of "perk" as a noun, meaning a benefit offered to an employee, including "setting up your perk - in 10 easy steps", "Provide us a brief description of your company and your perk", "perk description", "perk details", and other uses of perk as a noun.
+[37]
+The cross-examination also revealed that when Mr. Stucke met with Ms. Marlowe in 2006, at no time did he mention the Venngo trademarks in issue. Further, emails from July 2006, and October 2007, from Mr. Stucke to Ms. Marlowe evinces there was no signed confidentiality agreement, no letter or email to confirm any discussions were confidential, and Mr. Stucke does not recall leaving the alleged confidential PowerPoint with Ms. Marlowe.
+[38]
+In January of 2011, Venngo tried to gain TD Bank as a client, with whom they had been corresponding for a number of months. TD Bank chose Perkopolis, which Mr. Stucke admits was on the basis that Venngo could not accept certain terms TD requested. Venngo also lost Canada Post, and Microsoft and RBC are no longer customers, as they now use Perkopolis.
+[39]
+Venngo claims the confusion stemming from CCI's adoption of the trademark PERKOPOLIS and the trade name Perkopolis had what amounts to a "springboard" effect, damaging Venngo's business and client base.
+(2) Sharon Mitchell (Affidavit Evidence)
+[40]
+The parties agreed at the outset of the hearing that the affidavit of Sharon Mitchell, sworn on August 1, 2012, and her cross-examination submitted at the summary judgment application heard by Justice de Montigny in this matter be admitted as evidence for use at trial, which I have agreed to admit.
+[41]
+Sharon Mitchell is the Chief Operating Officer of Gowling Lafleur Henderson LLP's Toronto office. In January 2011, Ms. Mitchell noticed an email from Perkopolis circulating among Gowlings staff, offering employees promotions for tickets to events. At that time Gowlings had already entered into a relationship with Venngo to supply WORKPERKS to Gowlings staff.
+[42]
+Ms. Mitchell spoke with the General Manager of Gowlings to ask if Perkopolis was part of WORKPERKS, given the similarity between the two words, and was advised they were not connected. On cross-examination, Ms. Mitchell admitted she did not look at any other employee benefit programs offering similar products.
+[43]
+Ms. Mitchell also acknowledged she had heard of the term "perk" used by HR professionals in connection with employee benefit programs, and agreed this has been the case for many years. She does not think PERKOPOLIS and WORKPERKS look the same, nor that they are similar in sound, but she "see[s] them as similar".
+(3) Elizabeth Kieffer
+[44]
+Ms. Kieffer is an independent witness who worked with TD Canada Trust. In July 2014, she phoned Venngo to open a Perkopolis account, thinking the Perkopolis and WORKPERKS programs emanated from the same company. She stated on cross-examination, she mistakenly "said the wrong word".
+(4) Kevin Hayashi
+[45]
+Mr. Hayashi was employed as food and beverage manager and then manager of sales and marketing at ClubLinks from 2011 to January 2015. In his position as sales manager, he managed sponsorships and advertising, and in this capacity became aware of ADPERKS.
+[46]
+ClubLinks used Venngo's services - MEMBERPERKS, ADPERKS and WORKPERKS. Mr. Hayashi was aware of Perkopolis, but admitted on cross-examination he was not responsible for ClubLinks participation in the Venngo program.
+[47]
+In late 2011, in a meeting with Brad Moyer from Venngo, Mr. Hayashi told Mr. Moyer that ClubLinks had the Venngo PERKOPOLIS program, to which Mr. Moyer informed him was not a Venngo program and was not the same as Venngo's programs.
+[48]
+On cross-examination, Mr. Hayashi testified he had not considered the idea suggested by the above-mentioned marks previously, however, he thinks PERKOPOLIS sounds and looks like ADPERKS, WORKPERKS and MEMBERPERKS, due to the common use of "PERKS". He further stated he would consider other third party marks, such as CAMPUSPERKS and QUESTPERKS, used in association with discount programs, as part of Venngo, given the use of the word "perks".
+(5) Douglas Garcia
+[49]
+Mr. Garcia is the Vice President of business development at Samba Rewards, an incentive program for sales people. As Vice-President, he deals with HR professionals.
+[50]
+Mr. Garcia has been aware of MEMBERPERKS, WORKPERKS, CUSTOMERPERKS and Venngo since 2008, through industry trade shows, and as well through google searches for perks and incentive programs.
+[51]
+He first became aware of PERKOPOLIS from McDonald's Canada, who was looking for an employee discount program. He was also aware of CCI, although he did not know that PERKOPOLIS and CCI were connected. Mr. Garcia thought PERKOPOLIS was another Venngo program until June 2012, when Mr. Stucke informed him it was not.
+[52]
+Mr. Garcia testified during cross-examination that the ideas suggested by the marks are as follows; WORKPERKS suggests a program providing employee perks, MEMBERPERKS suggests perks offered to members, and CUSTOMERPERKS suggests loyalty programs. PERKOPOLIS suggests perks provided to "big operations", due to the use of "opolis". He believed the above marks were connected due to the common characteristic between them, "PERK" or "PERKS".
+(6) Bradley Moyer
+[53]
+Mr. Moyer started out  <FRAGMENT_SUPPRESSED>  as account manager in 2009, and is currently Director of Sales. He sells all four Venngo products nationally to HR professionals and trained sales personnel.
+[54]
+Since 2010, Venngo has participated in three to nine HR trade shows per year, attended by HR VP's, managers, and directors from various companies and provincial associations. At these shows, Venngo's commercial WORKPERKS program is the major focus.
+[55]
+Mr. Moyer first heard of Perkopolis at a trade show in 2010, and was unaware it was owned by CCI. Mr. Moyer's evidence of confusion at these trade shows is hearsay, which I have not admitted on the basis it is neither reliable nor necessary.
+[56]
+During cross-examination, Mr. Moyer stated that Trillium Hospital Group thought Perkopolis was WORKPERKS. In fact, Venngo lost this client to Perkopolis based on cost; WORKPERKS was more expensive, as Perkopolis was offered to Trillium for free.
+(7) Sally Benn
+[57]
+Ms. Benn has been the Director of Key Accounts  <FRAGMENT_SUPPRESSED>  since November 2007. In her position, she speaks to employees and conducts lunch-and-learns to demonstrate how to use Venngo's sites and mobile apps and provides details of merchant programs.
+[58]
+Ms. Benn attends two to three trade shows across Canada per year, where she has been asked if Venngo owns or is associated with PERKOPOLIS. When people inquire about PERKOPOLIS, Ms. Benn explains they are not the same company.
+[59]
+The number of attendees at the trade shows varies; approximately 3000 HR professionals go to the Human Resources Professional Association tradeshow, whereas other shows generally reach around 300 attendees. At the shows, Venngo has booths to advertise their benefits, apps, out-sourced solutions and programs. They give out "swag", written brochures and flyers upon which the Venngo trademarks are identified, and are co-branded with the Venngo trade name.
+[60]
+In Ms. Benn's opinion, Perkopolis is Venngo's only competitor that offers a similar program in Canada. Ms. Benn agreed on cross-examination that in order for employees to access the Venngo website to use Venngo services associated with the Venngo trademarks, they had to use a unique URL that needs authentication (for example, CIBC.Venngo.com, or Scotiabank.Venngo.com).
+B.
+Venngo's Read-Ins from Discovery Pursuant to Rule 288
+(1) Discovery of Morgan Marlowe, as CCI's Corporate Representative, and in her Personal Capacity
+[61]
+The following is a summary of salient issues arising from the discovery read-ins of the Defendants' representative, Ms. Marlowe.
+[62]
+Ms. Marlowe is President and Founder of CCI and its corporate representative in this proceeding. She confirms she is the sole officer, director and shareholder of CCI and is also its owner, president and secretary. She has been with the company since its inception in 1999, which began as a corporate concierge service. Ms. Marlowe makes all operational and management decisions. CCI has only three employees.
+[63]
+Ms. Marlowe first visited Venngo's website in 2007 and has visited the site 6 times in total between then and the date of discovery.
+[64]
+Reid Manchester, a CCI employee, came up with the trademark PERKOPOLIS - which the company settled upon after considering various suggestions. Ms. Marlowe registered Perkopolis as a business name in early 2008 and Perkopolis' website, developed by Softfocus, went live in February of 2009, offering discount tickets and magazines.
+[65]
+Ms. Marlowe filed the trademark application for PERKOPOLIS, with no prior registrability search, for ticket sales and hotel booking services. As of the discovery, Perkopolis offered other services.
+[66]
+Venngo approached CCI to propose offering CCI services on Venngo's website. Ms. Marlowe had one face to face meeting with Mr. Stucke in 2005 or 2006, and communicated with him verbally thereafter. In July 2010, Mr. Stucke offered to partner with Ms. Marlowe, which she declined. They have had no contact since then.
+[67]
+Ms. Marlowe is not aware of searches or results of searches for trademarks using "PERKS", or how they are conducted, and she was not aware of pending applications for MEMBERPERKS or WORKPERKS at the time she filed for PERKOPOLIS. The first time she heard of the WORKPERKS trademark was at her first meeting with Mr. Stucke and she later became aware of MEMBERPERKS.
+[68]
+Ms. Marlowe opined that CCI's concierge service is a "perk". The business has expanded since 2005 due to requests from customers and clients to go beyond an employee discount benefit program.
+[69]
+Perkopolis advertises to customers, now constituting of around 300 companies, using emails, phone-calls, flyers, posters, a launch page, as well as through HR publications. Perkopolis makes revenue by selling products and services on their website to clients, and as well through some commissions. They are not paid by their vendors.
+(2) Discovery of Richard Joynt, in his Personal Capacity
+[70]
+Mr. Joynt is the business development and account manager of CCI, which he joined in May 2009. He is married to Ms. Marlowe. He is solely responsible for sales and does not make decisions for the company. He has no responsibility for Perkopolis' day-to-day operations - those decisions are Ms. Marlowe's.
+[71]
+At discovery, Mr. Joynt stated upon review of Exhibit 45 (the Venngo Business Plan he had seen portions of previously) he had not noticed it said "confidential" on every page.
+C.
+Defendants' Evidence
+[72]
+The Defendants did not call any witnesses at trial, and rely on the parties' discovery read-ins, the facts as evinced by Venngo's witnesses, certified copies of the prosecution file histories of registered trademarks asserted by Venngo, and the PERKOPOLIS registration and dictionary definitions of the words "perks" and "perquisites".
+[73]
+Venngo's applications for WORKPERKS, MEMBERPERKS, ADPERKS and PARTNERPERKS were all filed before CCI filed PERKOPOLIS, yet, the Trade-Marks Office did not cite any of Venngo's prior filed applications against the PERKOPOLIS application. As well, the PERKOPOLIS application was filed before Venngo filed applications for CUSTOMERPERKS and CLIENTPERKS. Again, the Trade-Marks Office did not cite PERKOPOLIS against Venngo's later filed applications.
+[74]
+The certified copy of the file history of PERKOPOLIS, CUSTOMERPERKS and CLIENTPERKS evinces that no third party trademarks were cited against any of these applications for registrations.
+(1) Defendants' Read-ins from Discovery Pursuant to Rule 288
+[75]
+At discovery, Venngo's representative, Mr. Weissman, indicated, despite the Defendants' request for financial information to support the claim for damages under subsections 7(b) and 7(c) of the Act, that no financial information would be provided.
+IV.
+Analysis
+A.
+Liability of Morgan Marlowe and Richard Joynt
+[76]
+Venngo withdrew its allegations of personal liability against Mr. Joynt at the outset of the hearing, and the action against him is dismissed.
+[77]
+With respect to Ms. Marlowe, the test for finding an officer or director of a corporation personally liable is set out in
+ <FRAGMENT_SUPPRESSED> :
+140 The Ontario Court of Appeal held in
+ <FRAGMENT_SUPPRESSED> , page 102:
+It is well established that the directing minds of corporations cannot be held civilly liable for the actions of the corporations they control and direct unless there is some conduct on the part of those directing minds that is either tortious in itself or exhibits a separate identity or interest from that of the corporations such as to make the acts or conduct complained of those of the directing minds: see
+ <FRAGMENT_SUPPRESSED>  at p. 491, 129 D.L.R. (4th) 711 (C.A.).
+141 Therefore, the mere fact of exercising control in a company is not sufficient to establish personal liability. What kind of conduct can trigger personal liability? Le Dain J.A. offers his views in
+ <FRAGMENT_SUPPRESSED> , (1978), 22 N.R. 161 (F.C.A.):
+What, however, is the kind of participation in the acts of the company that should give rise to personal liability? It is an elusive question. It would appear to be that degree and kind of personal involvement by which the director or officer makes the tortious act his own. It is obviously a question of fact to be decided on the circumstances of each case.[...]
+142 In my opinion, there must be circumstances from which it is reasonable to conclude that the purpose of the director or officer of a company is to deliberately, willfully and knowingly pursue a course of conduct that will incite infringement or an indifference to the risk of infringement. The precise formulation of the appropriate test is obviously a difficult one. Room must be left for a broad appreciation of the circumstances of each case to determine, if there is personal liability ( <FRAGMENT_SUPPRESSED> , supra, at pages 172-174).
+[78]
+As I stated in
+Red Label Vacations Inc (cob RedTag.ca) v 411 Travel Buys Ltd (cob 411TravelBuys.ca)
+, 2015 FC 19 at para 126:
+In cases where personal liability is found, there has been a knowing, deliberate, wilful quality to the participation of the corporate officer or director. As well, small or closely held corporations are not to be treated any differently:
+31 This principle applies not just to large corporations, but to small, closely held companies as well. As the Federal Court of Appeal noted in <FRAGMENT_SUPPRESSED> , at para. 24, there is no reason why small, one or two-person companies should not have the benefit of the same approach to personal liability as large corporations, merely because there is generally and necessarily a greater degree of direct and personal involvement in management on the part of its shareholders and directors.
+32 That is, the mere fact that individual defendants may be sole shareholders and directors of a company is not, by itself, enough to support an inference that the company was their agent or instrument in the commission of acts of infringement, or that they authorized such acts, so as to make themselves personally liable: <FRAGMENT_SUPPRESSED> , at para. 24.
+33 The necessary result of this is that not only will the particular direction or authorization required for personal liability not be inferred merely from the fact that a company is closely controlled: it will also not be inferred from the general direction which those in such control must necessarily impart to its affairs: <FRAGMENT_SUPPRESSED> , at para. 24.
+34 The Federal Court of Appeal concluded in <FRAGMENT_SUPPRESSED> that to attract personal liability on the part of a corporate director or officer:
+[T]here must be circumstances from which it is reasonable to conclude that the purpose of the director or officer was not the direction of the manufacturing and selling activity of the company in the ordinary course of his relationship to it but the deliberate, willful and knowing pursuit of a course of conduct that was likely to constitute infringement or reflected an indifference to the risk of it: at para. 28.
+ <FRAGMENT_SUPPRESSED> .
+[79]
+Likewise, in this case, I find no evidence to suggest that Ms. Marlowe acted in any way outside her normal course of duties as the sole officer and director of CCI, and therefore she is not personally liable for the impugned activities of the corporate defendant. The expansion of CCI's services beyond those covered in the PERKOPOLIS trademark registration over the course of a number of years is a reflection of customer and client requests and normal business practice. The facts surrounding the adoption of the PERKOPOLIS trademark by the Defendants also do not suggest any bad faith. The action against Ms. Marlowe is accordingly dismissed.
+B.
+Subsection 7(c) of the Trade-marks Act
+[80]
+Venngo also abandoned its claim under subsection 7(c) of the Act at the hearing. There was no substitution of the services of the Defendants as and for those ordered or requested from the Plaintiff.
+C.
+Subsection 7(a) of the Trade-marks Act
+[81]
+The essential elements of a subsection 7(a) action are:
+a) a false or misleading statement;
+b) tending to discredit the business, wares or services of a competitor; and
+c) resulting damage.
+ <FRAGMENT_SUPPRESSED> .
+[82]
+Venngo alleges the Defendants have disseminated false and misleading statements regarding Venngo's business and services tending to discredit Venngo, contrary to subsection 7(a) of the Act. None of the evidence before me supports this claim - while alleged, the evidence does not show statements made by CCI with respect to deficiencies  <FRAGMENT_SUPPRESSED> 's infrastructure to provide customer support or concerning insufficient privacy and security of personal information.
+[83]
+Further, there is no evidence of any connection of misleading or false statements made by the Defendants to potential or actual Venngo customers or clients in relation to the parties' trademarks in issue. Unless the alleged false and misleading statements are made in association with otherwise valid federal areas of competence - here, the trademarks in issue - the subsection 7(a) claim must fail. Moreover, no damage has been proven in respect of this cause of action.
+[84]
+This cause of action is accordingly dismissed.
+D.
+Section 22 of the Trade-marks Act - Depreciation of Goodwill
+[85]
+The Supreme Court of Canada has set out the requirements for a successful cause of action under section 22 of the Act:
+46 Section 22 of our Act has received surprisingly little judicial attention in the more than half century since its enactment. It seems that where marks are used in a confusing manner the preferred remedy is under s. 20. Equally, where there is no confusion, claimants may have felt it difficult to establish the likelihood that depreciation of the value of the goodwill would occur. Be that as it may, the two statutory causes of action are conceptually quite different. Section 22 has four elements. Firstly, that a claimant's registered trade-mark was used by the defendant in connection with wares or services - whether or not such wares and services are competitive with those of the claimant. Secondly, that the claimant's registered trade-mark is sufficiently well known to have significant goodwill attached to it. Section 22 does not require the mark to be well known or famous (in contrast to the analogous European and U.S. laws), but a defendant cannot depreciate the value of the goodwill that does not exist. Thirdly, the claimant's mark was used in a manner likely to have an effect on that goodwill (i.e. linkage) and fourthly that the likely effect would be to depreciate the value of its goodwill (i.e. damage). I will address each element in turn.
+ <FRAGMENT_SUPPRESSED> .
+[86]
+"Use" under section 22 requires use of a plaintiff's trademark, as registered. Venngo acknowledges that the only alleged "use" by the Defendants of any of the Venngo trademarks is the use of "Member Perks" on the Perkopolis website, as represented in Exhibits P16 and P17. That use is not use as a trademark for the purpose of distinguishing CCI's wares or services from others, and cannot constitute a basis for a valid section 22 claim (
+ <FRAGMENT_SUPPRESSED> ).
+[87]
+This cause of action is also dismissed.
+E.
+Subsection 7(b) of the Trade-marks Act - Passing Off
+[88]
+Subsection 7(b) provides that:
+7. No person shall
+(b) direct public attention to his goods, services or business in such a way as to cause or be likely to cause confusion in Canada, at the time he commenced so to direct attention to them, between his goods, services or business and the goods, services or business of another;
+[89]
+As stated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> .
+[90]
+I find that based on the evidence before me, including the advertising and use of Venngo's trademarks throughout Canada over the past five or six years, Venngo has established goodwill in the WORKPERKS, ADPERKS, MEMBERPERKS and CUSTOMERPERKS trademarks.
+[91]
+Venngo argues that notwithstanding its refusal to provide any financial information on discovery relating to damage caused by the Defendants' alleged passing off under subsection 7(b) of the Act, nevertheless the Court can find damage has been shown by virtue of:
+i. loss of control over use of Venngo's goodwill in its trademarks by virtue of the Defendants' use of the PERKOPOLIS trademark, the Perkopolis trade name and the perkopolis.com domain name, leading to inevitable confusion; and
+ii. the intentional extension of the services offered by the Defendants' beyond entertainment ticket sales and hotel booking services to services overlapping with Venngo's services as covered by the Venngo trademarks WORKPERKS, ADPERKS, CUSTOMERPERKS and MEMBERPERKS, causing confusion and inevitable resulting damage.
+[92]
+The Federal Court of Appeal has held that actual or potential damage is a necessary element in finding liability under subsection 7(b). Without evidence demonstrating actual or potential damages, and no finding of damages, the Court cannot conclude there is liability and the action for passing off under subsection 7(b) of the Act must fail. This is so notwithstanding a bifurcation order (as in this case) severing the issue of quantum of damages, and even if the first two elements - existence of goodwill and deception due to a misrepresentation - are proven (
+ <FRAGMENT_SUPPRESSED> ).
+[93]
+I find that the speculative nature of Venngo's evidence of damages is insufficient to support a valid cause of action under subsection 7(b) of the Act.
+[94]
+Moreover, for the reasons set out below with respect to the likelihood of confusion under section 20 of the Act, I also find there is no likelihood of deception through misrepresentation.
+F.
+Sections 19 and 20 of the Trade-marks Act - Confusion
+(1) Section 19
+[95]
+Section 19 of the Act has been construed differently than section 20 of the Act, in that section 19 prevents the unauthorized use by a defendant of essentially the identical trademark registered by a plaintiff.
+[96]
+If the Defendants' impugned trademark (PERKOPOLIS) is different than Venngo's registered trademark(s) (WORKPERKS, ADPERKS, MEMBERPERKS, CUSTOMERPERKS), or if it is used in association with wares or services different from those covered by the certificate of registration for the plaintiff's registered trademarks, a plaintiff cannot succeed in a claim under section 19 of the Act (
+ <FRAGMENT_SUPPRESSED> ).
+[97]
+Accordingly, in this case, section 19 does not apply and Venngo cannot succeed in its claim under this section. I must go on to consider whether Venngo succeeds in its action under section 20 of the Act.
+(2) Section 20
+[98]
+Section 20 of the Act is broader in scope than section 19, and prevents use by the Defendants of any trademark or trade name likely to be confusing with any of Venngo's registered trademarks. Section 20 is not limited to consideration of an identical trademark used by the Defendants, or by use of a likely confusing trademark covering the same wares or services as those covered in the certificates of registration for Venngo's registered trademarks.
+[99]
+Accordingly, any use by the Defendants of a trademark or trade name confusingly similar to any of Venngo's registered trademarks, as a trademark or trade name, is deemed to be an infringement under section 20, regardless of the wares, services or business of the Defendants, provided there is a likelihood of confusion.
+[100]
+In order to ascertain the likelihood of confusion between any of Venngo's registered trademarks and use by CCI of its PERKOPOLIS trademark and Perkopolis trade name under section 20, the Court must consider the factors and circumstances set out in section 6 of the Act, as of the relevant date, in this case, the date of the hearing.
+(a)
+Section 6
+[101]
+Section 6 of the Act, when read with section 2, sets out the various factors to be considered in assessing the issue of confusion. Subsection 6(5) of the Act specifies that in determining whether trademarks or trade names are confusing, the Court shall have regard to all the surrounding circumstances including:
+a. the inherent distinctiveness of the marks and the extent to which they have become known;
+b. the length of time the marks have been used;
+c. the nature of the wares, services or business;
+d. the nature of the trade; and
+e. the degree of resemblance between the marks in appearance or sound or in the ideas suggested by them.
+[102]
+The Supreme Court of Canada, in a trilogy of decisions, has helped clarify the analysis of likelihood confusion under section 20. In
+Mattel, Inc v 3894207 Canada Inc
+, 2006 SCC 22 at paragraphs 54-58, the Court states:
+54 Within the "all the surrounding circumstances" test, s. 6(5) of the Act lists five factors to be considered when making a determination as to whether or not a trade-mark is confusing. These are: [page803] "(a) the inherent distinctiveness of the trade-marks or trade-names and the extent to which they have become known; (b) the length of time the trade-marks or trade-names have been in use; (c) the nature of the wares, services or business; (d) the nature of the trade; and (e) the degree of resemblance between the trade-marks or trade-names in appearance or sound or in the ideas suggested by them". The list of circumstances is not exhaustive and different circumstances will be given different weight in a context-specific assessment.  <FRAGMENT_SUPPRESSED>  (F.C.T.D.) ...
+55 Evidence of actual confusion would be a relevant "surrounding circumstance" but is not necessary (
+Christian Dior
+, at para. 19) even where trade-marks are shown to have operated in the same market area for ten years:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) ...
+(1) The Casual Consumer Somewhat in a Hurry
+56 What, then, is the perspective from which the likelihood of a "mistaken inference" is to be measured? It is not that of the careful and diligent purchaser. Nor, on the other hand, is it the "moron in a hurry" so beloved by elements of the Passing off bar:
+ <FRAGMENT_SUPPRESSED>  (Ch. D.), at p. 117. It is rather a mythical consumer who stands somewhere in between, dubbed in a 1927 Ontario decision of Meredith C.J. as the "ordinary hurried purchasers":
+ <FRAGMENT_SUPPRESSED>  (Sup. Ct.), at p. 13. See also [page804]
+ <FRAGMENT_SUPPRESSED>  (T.M.O.B.), the Registrar stated at pp. 538-39:
+When assessing the issue of confusion, the trade marks at issue must be considered from the point of view of the average hurried consumer having an imperfect recollection of the opponent's mark who might encounter the trade mark of the applicant in association with the applicant's wares in the market-place.
+(...)
+57 Having repeated that, I fully agree with Linden J.A. in
+Pink Panther
+that in assessing the likelihood of confusion in the marketplace "we owe the average consumer a certain amount of credit" (para. 54). A similar idea was expressed in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at p. 263:
+... one must not proceed on the assumption that the prospective customers or members of the public generally are completely devoid of intelligence or of normal powers of recollection or are totally unaware or uninformed as to what goes on around them.
+58 A consumer does not of course approach every purchasing decision with the same attention, or lack of it. When buying a car or a refrigerator, more care will naturally be taken than when buying a doll or a mid-priced meal:
+ <FRAGMENT_SUPPRESSED>  ...However, if ordinary casual consumers somewhat in a hurry are likely to be deceived about the origin of the wares or services, then the statutory test is met.
+[103]
+ <FRAGMENT_SUPPRESSED> , 2006 SCC 22, [page840] released concurrently, the purpose of trade-marks is to function as a symbol of the source and quality of wares and services, to distinguish those of the merchant from those of another, and thereby to prevent "confusion" in the marketplace. Confusion is to be understood, however, in a special sense. Parliament states in s. 6(1) that confusion occurs
+if the use of the [appellant's] trade-mark or trade-name would cause confusion with the [respondents'] trade-mark or trade-name in the manner and circumstances described in this section.
+19 Such confusion occurs, we learn in s. 6(2)
+if the use of both trade-marks in the same area would be likely to lead to the inference that the wares or services associated with those trade-marks are manufactured, sold, leased, hired or performed by the same person, whether or not the wares or services are of the same general class.
+20 The test to be applied is a matter of first impression in the mind of a casual consumer somewhat in a hurry who sees the name Cliquot on the respondents' storefront or invoice, at a time when he or she has no more than an imperfect recollection of the VEUVE CLICQUOT trade-marks, and does not pause to give the matter any detailed consideration or scrutiny, nor to examine closely the similarities and differences between the marks. As stated by Pigeon J. in
+ <FRAGMENT_SUPPRESSED>  at p. 202:
+It is no doubt true that if one examines both marks carefully, he will readily distinguish them. However, this is not the basis on which one should decide whether there is any likelihood of confusion.
+... the marks will not normally be seen side by side and [the Court must] guard against the danger that a person seeing the new mark may think that it is the same as one he has seen before, or even that it [page841] is a new or associated mark of the proprietor of the former mark.
+(Citing in part
+Halsbury's Laws of England
+, 3rd ed., vol. 38, para. 989, at p. 590.)
+[104]
+ <FRAGMENT_SUPPRESSED> the Court states:
+49 In applying the s. 6(5) factors to the question of confusion, the trial judge conducted his analysis in the order of the criteria set forth in s. 6(5), concluding with a consideration of the resemblance between the marks. While it is no error of law to do so, the degree of resemblance, although the last factor listed in s. 6(5), is the statutory factor that is often likely to have the greatest effect on the confusion analysis (K. Gill and R. S. Jolliffe,
+Fox on Canadian Law of Trade-marks and Unfair Competition
+(4th ed. (loose-leaf)), at p. 8-54; R. T. Hughes and T. P. Ashton,
+Hughes on Trade Marks
+(2nd ed. (loose-leaf)), at s.74, p. 939). As Professor Vaver points out, if the marks or names do not resemble one another, it is unlikely that even a strong finding on the remaining factors would lead to a likelihood of confusion. The other factors become significant only once the marks are found to be identical or very similar (
+Vaver
+, at p. 532). As a result, it has been suggested that a consideration of resemblance is where most confusion analyses should start (
+ibid.
+).
+83 Neither an expert, nor a court, should tease out and analyze each portion of a mark alone. Rather, it should consider the mark as it is encountered by the consumer - as a whole, and as a matter of first impression.  <FRAGMENT_SUPPRESSED>  Spence J., in deciding whether the words "DANDRESS" and "RESDAN" for removal of dandruff were confusing, succinctly made the point, at pp. 737-38: "[T]he test to be applied is with the average person who goes into the market and not one skilled in semantics."
+84 However, considering a trade-mark as a whole does not mean that a dominant component in a mark which would affect the overall impression [page421] of an average consumer should be ignored: see
+esure  <FRAGMENT_SUPPRESSED>  at para. 45, per Arden L.J. This is because, while the consumer looks at the mark as a whole, some aspect of the mark may be particularly striking. That will be because that aspect is the most distinctive part of the whole trade-mark. In this case, contrary to the view of the expert, the most distinctive and dominant component of the marks in issue is in all cases the word "Masterpiece" because it provides the content and punch of the trade-mark. The word "Living" is bland by comparison.
+[105]
+A distillation of these three Supreme Court decisions and consideration of the subsection 6(5) factors of the Act results in the Court having to decide:
+i. As a matter of first impression, would the relevant public - primarily the HR decision makers of the parties' customers, but also end-users of the services offered by the parties, be confused or likely to be confused into thinking that the source of PERKOPOLIS services (CCI) is the same as or associated with the source of WORKPERKS, ADPERKS, CUSTOMERPERKS or MEMBERPERKS services (Venngo);
+ii. In determining the likelihood of confusion, as a first step the Court will consider the degree of resemblance between the marks in appearance or sound or in the ideas suggested by the marks - the subsection 6(5)(e) factor most likely to have the greatest effect on the confusion analysis (
+Masterpiece
+, above, at para 49);
+iii. The other section 6 factors and surrounding circumstances must then also be considered, including the evidence of actual confusion.
+(i) Degree of resemblance
+[106]
+Venngo asserts that given its family of trademarks - WORKPERKS, ADPERKS, MEMBERPERKS and CUSTOMERPERKS - use of PERKOPOLIS as a trademark and Perkopolis as a trade name by the Defendants in association with the parties' respective services and business is likely to cause confusion and has caused actual confusion.
+[107]
+The Court should not "tease out and analyse each portion of the mark alone", rather, it should consider the trademarks as a whole, as they are encountered by the relevant consumer as a matter of first impression (
+Masterpiece
+, above, at para 83).
+[108]
+At the same time, in considering the trademarks as a whole, the Court can and should have regard to a dominant component in a mark if that component is particularly striking, such that it affects the overall impression of the average consumer. While Venngo argues the word "PERK" or "PERKS" is the dominant component of the marks in issue, even if arguably "perk" or "perks" has an effect on the overall impression of the average consumer, for the reasons below I find that "perk" or "perks" as used in the Venngo trademarks is highly suggestive and hardly distinctive.
+[109]
+I agree with the Defendants that the Court should look at each of the Venngo marks and not collectively as a "family of marks", in assessing the degree of resemblance and likelihood of confusion with the Defendants' PERKOPOLIS trademark and trade name (
+Masterpiece,
+above, at paras 47, 48 and 64).
+[110]
+When one compares each of the Venngo trademarks with the Defendants' PERKOPOLIS trademark, it is readily apparent that:
+i. there is little resemblance in either appearance or sound;
+ii. there is also little resemblance in the ideas suggested by the marks.
+[111]
+Each of the Venngo marks suggests that perks are being offered to a specific group or in a specific circumstance. WORKPERKS suggests perks offered at work; MEMBERPERKS suggests perks offered to members; CUSTOMERPERKS suggests perks offered to customers; CLIENTPERKS suggests perks offered to clients; PARTNERPERKS suggests perks offered to partners; and ADPERKS suggests perks offered for advertising. Indeed, Venngo's perks are offered to these very groups or in these very circumstances. In contrast, PERKOPOLIS, plainly by using "perk" suggests a type of benefit program, but otherwise has little obvious suggestion as to whom or for what the perks are offered, and does not suggest any of the ideas associated with Venngo's trademarks.
+[112]
+Some of Venngo's witnesses did not think the CCI and Venngo trademarks looked or sounded alike. Those that did find resemblance indicated the use of the word "perk", a generic and defined dictionary term describing Venngo's business, was the common and only element causing them to associate the marks as similar.
+[113]
+While the Defendants rely on the state of the register as showing common adoption and use of "perk" or "perks" in trademarks, covering benefit and loyalty program services, which I agree is a relevant factor, I give that evidence limited weight, as there is no evidence that any of those marks are actually in use in Canada, or to what degree any such use has been made. In fact, a number of the marks were expunged or were the subject of applications based upon proposed use. Nevertheless, some limited weight can be attributed to the state of the register showing "perk" or "perks" is relatively commonly used in trademarks covering "benefits" and loyalty discount programs (
+ <FRAGMENT_SUPPRESSED>  at p 3, 4;
+ <FRAGMENT_SUPPRESSED> (FCA)).
+[114]
+I also take note of the dictionary definitions of "perk" and "perquisite" as further evidence of the generic meaning of the words to include employee "benefits, rewards and extras".
+(ii) Inherent Distinctiveness
+[115]
+Venngo's trademarks, WORKPERKS, ADPERKS, MEMBERPERKS and CUSTOMERPERKS, are coined trademarks. Yet each mark is also descriptive or highly suggestive of the services for which the mark is registered and used.
+[116]
+I agree with the Defendants that each of the Venngo trademarks is a combination of a particular class of end users and the work "perks":
+a) WORKPERKS suggests perks offered to workers;
+b) MEMBERPERKS suggests perks offered to members;
+c) CUSTOMERPERKS suggests perks offered to customers;
+d) ADPERKS suggests perks offered to advertisers.
+[117]
+The Venngo marks are at best highly suggestive, if not descriptive, of the benefits and loyalty discount services Venngo provides, and to whom. Although the Court should not dissect the trademarks into component parts, the Venngo marks lack distinction such that one cannot look at any of their marks without registering the two words of which they are comprised: member and perks, customer and perks, etc. The only common and contentious element between the Venngo and CCI marks is the word "perks", and there is nothing remarkable or unique about the use of "perk" in each of Venngo's trademarks, or its combination with the words indicating to whom the perks are offered.
+[118]
+What's more, Venngo further erodes any possible distinctiveness of their marks by employing generic use of "perk" and "perks" as a noun throughout their website and advertising materials.
+[119]
+As such, each of these trademarks has little inherent distinctiveness and are afforded a narrow ambit of protection (
+ <FRAGMENT_SUPPRESSED>  (FCA)).
+(iii) The nature of the wares, services or business
+[120]
+There is no question that the services and business of CCI and Venngo substantially overlap, as do their customers and clients. Both Venngo and the corporate Defendant are engaged in a similar business in the same geographic area. As stated by Justice de Montigny in his decision on summary judgment, and established by the evidence before me:
+Both the Plaintiff and the corporate Defendant are engaged in a similar business in the same geographic area. They offer discount programs (also called reward, benefit or loyalty programs) to companies and other organizations. These programs provide the employees of the companies or the members of the organizations access to discounts on movies and other forms of entertainment, hotels, car rentals, and many other items and services. Commercial program providers like the Plaintiff and the corporate Defendant provide discount or incentive programs to other employers or organizations (their "customers"), whereas non-commercial program providers are organizations or businesses providing benefits directly to their own members.
+This factor favours Venngo.
+(iv) The length of time the marks have been used
+[121]
+Again, Venngo's use of its trademarks ADPERKS, and WORKPERKS is longer than the Defendants' use of PERKOPOLIS by several years and this factor favours Venngo.
+(v) Other Surrounding Circumstances
+[122]
+A surrounding circumstance evincing the lack of confusion is the fact that the Trade-Marks Office did not consider that PERKOPOLIS and the prior, or subsequently filed Venngo marks were confusing. CCI's trademark application for PERKOPOLIS was registered without any citation of Venngo's prior-filed applications or any of the other state of the register trademarks previously registered using the word "perks" or "perks" as part of the mark(s) covering loyalty benefit services (for example, QUESTPERKS, CAMPUSPERKS, CLUBPERKS, BIZPERKS). This factor again favours the Defendants.
+[123]
+Venngo argues that the evidence of actual confusion by the witnesses Ms. Mitchell, Mr. Hayashi, Mr. Garcia and Ms. Kieffer, is sufficient to support an inference of likelihood of confusion, whatever the Defendants' evidence may be (
+ <FRAGMENT_SUPPRESSED> ).
+[124]
+However, the Court should be wary of providing broad protection to any trademark that uses descriptive or highly suggestive words as a basis for a claim of distinctiveness and alleged confusion between that mark and other trademarks or trade names ( <FRAGMENT_SUPPRESSED> , above, at paras 5, 6;
+ <FRAGMENT_SUPPRESSED>  at p 738).
+[125]
+As submitted by the Defendants, while actual confusion is a surrounding circumstance to be considered in the confusion analysis, actual confusion is not a "trump card" that should override the factors to be considered to determine a likelihood of confusion in subsection 6(5)(a)-(e) of the Act. The Court is to consider all relevant factors, and then "use their own common sense, excluding influences of their "own idiosyncratic knowledge or temperament", to determine whether the casual consumer would be likely to be confused" (
+Masterpiece
+, at para 92).
+[126]
+I have rejected Venngo's hearsay evidence of other alleged actual confusion as neither necessary nor reliable. Thus, Venngo provides only few instances of actual confusion, which do not, in my opinion, sufficiently negate or outweigh the other section 6 factors that favour the Defendants in finding there is no likelihood of confusion.
+[127]
+The witness evidence upon which Venngo relies to demonstrate confusion also illustrates the weakness of Venngo's marks. For instance, both Mr. Hayashi and Mr. Garcia testified to having thought PERKOPOLIS was connected to the Venngo marks due to the inclusion of the word "perk". Other witnesses testified the marks did not look or sound the same.
+[128]
+Moreover, Mr. Stucke in his evidence agreed that the nature of the trade is such that most customers are relatively sophisticated senior HR professionals, who take significant time and due diligence before deciding on a service provider such as Venngo or CCI. This further reduces any likelihood of confusion.
+[129]
+Although there was some limited evidence of confusion, it was insufficient to convince me that the casual consumer somewhat in a hurry would confuse the Venngo and CCI marks, other than simply on the basis that the parties engage in a relatively closed or "niche" market, and have chosen a generic term within their marks highly suggestive of their services, which is afforded a very narrow ambit of protection.
+V.
+The Defendants' Counterclaim
+[130]
+At the hearing, the Defendants' counsel indicated that the Court need only consider the subsection 18(1)(a) and subsection 12(1)(d) validity attack in the counterclaim if Venngo was successful. Given Venngo's claim has failed, I need not consider this sole remaining ground of invalidity relied on by the Defendants at trial. However, I do not find on the state of the register evidence provided by the Defendants nor in light of the Defendants' use of the PERKOPOLIS trademark or Perkopolis trade name that Venngo's registered trademarks are invalid.
+VI.
+Costs
+[131]
+In order to give effect to the above conclusions, it is necessary to apportion the costs of the proceeding between the main claim and the counterclaim.
+[132]
+So far as the costs of the Plaintiff's action, I am of the opinion that the Defendants are entitled to their costs given that the Plaintiff abandoned some claims prior to or during the trial and that the Defendants' were entirely successful in defending themselves against the remaining claims.
+[133]
+As for the counterclaim, the Defendants failed to establish that Venngo's registrations are invalid. I see no reason why costs of the counterclaim should not follow the event; however, in the particular case, in the exercise of my discretion, I decline to award costs  <FRAGMENT_SUPPRESSED> 's favour. I note that the Defendants' counterclaim was advanced as an alternative plea in the event Venngo was successful in establishing infringement by the Defendants. The issues raised in the counterclaim did not consume much time in discovery or at trial, nor was the counterclaim vigorously pursued at trial.
+[134]
+As for the quantum of costs, if the parties cannot agree on the amount, they will be determined following receipt of written submissions, to be served and filed within fifteen (15) days of the date of this judgment.
+JUDGMENT
+[135]
+THIS COURT'S JUDGMENT is that
+:
+1. The Plaintiff's claim is dismissed, with costs to the Defendants.
+2. The Defendants' counterclaim is dismissed, without costs;
+3. As for the quantum of costs, if the parties cannot agree on the amount, they will be determined following receipt of written submissions, to be served and filed within fifteen (15) days of the date of this judgment.
+Annex "A"
+Trade-marks Act
+(R.S.C., 1985, c. T-13)
+When mark or name confusing
+6. (1) For the purposes of this Act, a trade-mark or trade-name is confusing with another trade-mark or trade-name if the use of the first mentioned trade-mark or trade-name would cause confusion with the last mentioned trade-mark or trade-name in the manner and circumstances described in this section.
+Idem
+(2) The use of a trade-mark causes confusion with another trade-mark if the use of both trade-marks in the same area would be likely to lead to the inference that the goods or services associated with those trade-marks are manufactured, sold, leased, hired or performed by the same person, whether or not the goods or services are of the same general class.
+Idem
+(3) The use of a trade-mark causes confusion with a trade-name if the use of both the trade-mark and trade-name in the same area would be likely to lead to the inference that the goods or services associated with the trade-mark and those associated with the business carried on under the trade-name are manufactured, sold, leased, hired or performed by the same person, whether or not the goods or services are of the same general class.
+Idem
+(4) The use of a trade-name causes confusion with a trade-mark if the use of both the trade-name and trade-mark in the same area would be likely to lead to the inference that the goods or services associated with the business carried on under the trade-name and those associated with the trade-mark are manufactured, sold, leased, hired or performed by the same person, whether or not the goods or services are of the same general class.
+What to be considered
+(5) In determining whether trade-marks or trade-names are confusing, the court or the Registrar, as the case may be, shall have regard to all the surrounding circumstances including
+(a) the inherent distinctiveness of the trade-marks or trade-names and the extent to which they have become known;
+(b) the length of time the trade-marks or trade-names have been in use;
+(c) the nature of the goods, services or business;
+(d) the nature of the trade; and
+(e) the degree of resemblance between the trade-marks or trade-names in appearance or sound or in the ideas suggested by them.
+Prohibitions
+7. No person shall
+(a) make a false or misleading statement tending to discredit the business, goods or services of a competitor;
+(b) direct public attention to his goods, services or business in such a way as to cause or be likely to cause confusion in Canada, at the time he commenced so to direct attention to them, between his goods, services or business and the goods, services or business of another;
+(c) pass off other goods or services as and for those ordered or requested; or
+Rights conferred by registration
+19. Subject to sections 21, 32 and 67, the registration of a trade-mark in respect of any goods or services, unless shown to be invalid, gives to the owner of the trade-mark the exclusive right to the use throughout Canada of the trade-mark in respect of those goods or services.
+Infringement
+20. (1) The right of the owner of a registered trade-mark to its exclusive use is deemed to be infringed by any person who is not entitled to its use under this Act and who
+(a) sells, distributes or advertises any goods or services in association with a confusing trade-mark or trade-name;
+(b) manufactures, causes to be manufactured, possesses, imports, exports or attempts to export any goods in association with a confusing trade-mark or trade-name, for the purpose of their sale or distribution;
+(c) sells, offers for sale or distributes any label or packaging, in any form, bearing a trade-mark or trade-name, if
+(i) the person knows or ought to know that the label or packaging is intended to be associated with goods or services that are not those of the owner of the registered trade-mark, and
+(ii) the sale, distribution or advertisement of the goods or services in association with the label or packaging would be a sale, distribution or advertisement in association with a confusing trade-mark or trade-name; or
+(d) manufactures, causes to be manufactured, possesses, imports, exports or attempts to export any label or packaging, in any form, bearing a trade-mark or trade-name, for the purpose of its sale or distribution or for the purpose of the sale, distribution or advertisement of goods or services in association with it, if
+(i) the person knows or ought to know that the label or packaging is intended to be associated with goods or services that are not those of the owner of the registered trade-mark, and
+(ii) the sale, distribution or advertisement of the goods or services in association with the label or packaging would be a sale, distribution or advertisement in association with a confusing trade-mark or trade-name.
+Exception? - bona fide use
+(1.1) The registration of a trade-mark does not prevent a person from making, in a manner that is not likely to have the effect of depreciating the value of the goodwill attaching to the trade-mark,
+(a) any bona fide use of his or her personal name as a trade-name; or
+(b) any bona fide use, other than as a trade-mark, of the geographical name of his or her place of business or of any accurate description of the character or quality of his or her goods or services.
+Exception? - utilitarian feature
+(1.2) The registration of a trade-mark does not prevent a person from using any utilitarian feature embodied in the trade-mark.
+Exception
+(2) No registration of a trade-mark prevents a person from making any use of any of the indications mentioned in subsection 11.18(3) in association with a wine or any of the indications mentioned in subsection 11.18(4) in association with a spirit.
+Depreciation of goodwill
+22. (1) No person shall use a trade-mark registered by another person in a manner that is likely to have the effect of depreciating the value of the goodwill attaching thereto.
+Action in respect thereof
+(2) In any action in respect of a use of a trade-mark contrary to subsection (1), the court may decline to order the recovery of damages or profits and may permit the defendant to continue to sell goods marked with the trade-mark that were in his possession or under his control at the time notice was given to him that the owner of the registered trade-mark complained of the use of the trade-mark.
+Quand une marque ou un nom crée de la confusion
+6. (1) Pour l'application de la présente loi, une marque de commerce ou un nom commercial crée de la confusion avec une autre marque de commerce ou un autre nom commercial si l'emploi de la marque de commerce ou du nom commercial en premier lieu mentionnés cause de la confusion avec la marque de commerce ou le nom commercial en dernier lieu mentionnés, de la manière et dans les circonstances décrites au présent article.
+Idem
+(4) L'emploi d'un nom commercial crée de la confusion avec une marque de commerce, lorsque l'emploi des deux dans la même région serait susceptible de faire conclure que les produits liés à l'entreprise poursuivie sous ce nom et les produits liés à cette marque sont fabriqués, vendus, donnés à bail ou loués, ou que les services liés à l'entreprise poursuivie sous ce nom et les services liés à cette marque sont loués ou exécutés, par la même personne, que ces produits ou services soient ou non de la même catégorie générale.
+Idem
+(2) L'emploi d'une marque de commerce crée de la confusion avec une autre marque de commerce lorsque l'emploi des deux marques de commerce dans la même région serait susceptible de faire conclure que les produits liés à ces marques de commerce sont fabriqués, vendus, donnés à bail ou loués, ou que les services liés à ces marques sont loués ou exécutés, par la même personne, que ces produits ou ces services soient ou non de la même catégorie générale.
+Idem
+(3) L'emploi d'une marque de commerce crée de la confusion avec un nom commercial, lorsque l'emploi des deux dans la même région serait susceptible de faire conclure que les produits liés à cette marque et les produits liés à l'entreprise poursuivie sous ce nom sont fabriqués, vendus, donnés à bail ou loués, ou que les services liés à cette marque et les services liés à l'entreprise poursuivie sous ce nom sont loués ou exécutés, par la même personne, que ces produits ou services soient ou non de la même catégorie générale.
+Idem
+(4) L'emploi d'un nom commercial crée de la confusion avec une marque de commerce, lorsque l'emploi des deux dans la même région serait susceptible de faire conclure que les produits liés à l'entreprise poursuivie sous ce nom et les produits liés à cette marque sont fabriqués, vendus, donnés à bail ou loués, ou que les services liés à l'entreprise poursuivie sous ce nom et les services liés à cette marque sont loués ou exécutés, par la même personne, que ces produits ou services soient ou non de la même catégorie générale.
+Éléments d'appréciation
+(5) En décidant si des marques de commerce ou des noms commerciaux créent de la confusion, le tribunal ou le registraire, selon le cas, tient compte de toutes les circonstances de l'espèce, y compris:
+a) le caractère distinctif inhérent des marques de commerce ou noms commerciaux, et la mesure dans laquelle ils sont devenus connus;
+b) la période pendant laquelle les marques de commerce ou noms commerciaux ont été en usage;
+c) le genre de produits, services ou entreprises;
+d) la nature du commerce;
+e) le degré de ressemblance entre les marques de commerce ou les noms commerciaux dans la présentation ou le son, ou dans les idées qu'ils suggèrent.
+Interdictions
+7. Nul ne peut:
+a) faire une déclaration fausse ou trompeuse tendant à discréditer l'entreprise, les produits ou les services d'un concurrent;
+b) appeler l'attention du public sur ses produits, ses services ou son entreprise de manière à causer ou à vraisemblablement causer de la confusion au Canada, lorsqu'il a commencé à y appeler ainsi l'attention, entre ses produits, ses services ou son entreprise et ceux d'un autre;
+c) faire passer d'autres produits ou services pour ceux qui sont commandés ou demandés;
+Droits conférés par l'enregistrement
+19. Sous réserve des articles 21, 32 et 67, l'enregistrement d'une marque de commerce à l'égard de produits ou services, sauf si son invalidité est démontrée, donne au propriétaire le droit exclusif à l'emploi de celle-ci, dans tout le Canada, en ce qui concerne ces produits ou services.
+Violation
+20. (1) Le droit du propriétaire d'une marque de commerce déposée à l'emploi exclusif de cette dernière est réputé être violé par une personne qui est non admise à l'employer selon la présente loi et qui?:
+a) soit vend, distribue ou annonce des produits ou services en liaison avec une marque de commerce ou un nom commercial créant de la confusion;
+b) soit fabrique, fait fabriquer, a en sa possession, importe, exporte ou tente d'exporter des produits, en vue de leur vente ou de leur distribution et en liaison avec une marque de commerce ou un nom commercial créant de la confusion;
+c) soit vend, offre en vente ou distribue des étiquettes ou des emballages, quelle qu'en soit la forme, portant une marque de commerce ou un nom commercial alors que?:
+(i) d'une part, elle sait ou devrait savoir que les étiquettes ou les emballages sont destinés à être associés à des produits ou services qui ne sont pas ceux du propriétaire de la marque de commerce déposée,
+(ii) d'autre part, la vente, la distribution ou l'annonce des produits ou services en liaison avec les étiquettes ou les emballages constituerait une vente, une distribution ou une annonce en liaison avec une marque de commerce ou un nom commercial créant de la confusion;
+d) soit fabrique, fait fabriquer, a en sa possession, importe, exporte ou tente d'exporter des étiquettes ou des emballages, quelle qu'en soit la forme, portant une marque de commerce ou un nom commercial, en vue de leur vente ou de leur distribution ou en vue de la vente, de la distribution ou de l'annonce de produits ou services en liaison avec ceux-ci, alors que?:
+(i) d'une part, elle sait ou devrait savoir que les étiquettes ou les emballages sont destinés à être associés à des produits ou services qui ne sont pas ceux du propriétaire de la marque de commerce déposée,
+(ii) d'autre part, la vente, la distribution ou l'annonce des produits ou services en liaison avec les étiquettes ou les emballages constituerait une vente, une distribution ou une annonce en liaison avec une marque de commerce ou un nom commercial créant de la confusion.
+Exception? - emploi de bonne foi
+(1.1) L'enregistrement d'une marque de commerce n'a pas pour effet d'empêcher une personne d'employer les éléments ci-après de bonne foi et d'une manière non susceptible d'entraîner la diminution de la valeur de l'achalandage attaché à la marque de commerce?:
+a) son nom personnel comme nom commercial;
+b) le nom géographique de son siège d'affaires ou toute description exacte du genre ou de la qualité de ses produits ou services, sauf si elle les emploie à titre de marque de commerce.
+Exception - caractéristique utilitaire
+(1.2) L'enregistrement d'une marque de commerce n'a pas pour effet d'empêcher une personne d'utiliser toute caractéristique utilitaire incorporée dans la marque.
+Exception
+(2) L'enregistrement d'une marque de commerce n'a pas pour effet d'empêcher une personne d'employer les indications mentionnées au paragraphe 11.18(3) en liaison avec un vin ou les indications mentionnées au paragraphe 11.18(4) en liaison avec un spiritueux.
+Dépréciation de l'achalandage
+22. (1) Nul ne peut employer une marque de commerce déposée par une autre personne d'une manière susceptible d'entraîner la diminution de la valeur de l'achalandage attaché à cette marque de commerce.
+Action à cet égard
+(2) Dans toute action concernant un emploi contraire au paragraphe (1), le tribunal peut refuser d'ordonner le recouvrement de dommages-intérêts ou de profits, et permettre au défendeur de continuer à vendre tous produits revêtus de cette marque de commerce qui étaient en sa possession ou sous son contrôle lorsque avis lui a été donné que le propriétaire de la marque de commerce déposée se plaignait de cet emploi.
+[End of document]

@@ -1,0 +1,1566 @@
+TABLE OF CONTENTS
+(by paragraph numbers)
+I. Background
+3
+--A. Thomas Clement Douglas' Life
+3
+--B. The Applicable Law
+4-27
+--C. History of the Proceeding
+28-46
+--D. The Second Review of the Douglas File
+47-61
+--E. The Applicable Standards of Review
+62-82
+--F. Determinative Questions
+83-85
+II. Analysis
+86-109
+--A. Preliminary Matters
+86-109
+---(1) the completeness of the file before the Court
+86-109
+---(2) The Amicus Curiae Request
+110-114
+---(3) The Evidence in Support of Confidentiality
+115-122
+--B. Were the documents properly considered as section 15 exempted documents?
+123-139
+---(1) General Considerations
+123-139
+---(2) Current Operational Interest
+140-141
+---(3) Human Sources
+142-155
+---(4) Technical Sources
+156-158
+---5. Targets of "transitory nature"
+159-171
+---6. Identity of RCMP Officers
+172-177
+---7. "Incidental Reporting"
+178-189
+---RCMP's Assessment of T.C. Douglas
+190-193
+--C. Was the exercise of discretion reasonable in the circumstance?
+194-209
+--D. What factors are to be considered in the exercise of discretion?
+210-223
+III. Conclusion
+224-228
+IV. Annex
+page 223
+[1]
+Noël, J.
+: present Application is brought under section 41 of the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the Act), whereby the Federal Court is to review Library and Archives Canada's (LAC) refusal to disclose portions of the Royal Canadian Mounted Police's dossier on Tommy Clement Douglas, a Canadian politician, deceased on February 24, 1986. The Applicant, Jim Bronskill, is a journalist with the Canadian Press.
+[2]
+At issue is what portions, if any, of the 1,142-page of LAC's Douglas file should be made public, additionally to what had been initially disclosed by LAC after the access to information request (ATI request), and what has also emerged from the Application prior to this Court's judgment. It should be noted that the scope of the present Judgment and the underlying ATI request does not extend to the full record on T.C. Douglas. It only deals with the portions of the record which LAC deemed responsive to the ATI request (see Transcript of the Public Hearing of February 23, 2011, at p. 138).
+I. Background
+A. Thomas Clement Douglas' Life
+[3]
+Thomas Clement Douglas held the office of Premier of Saskatchewan from 1944 to 1961, when he led the first arguably social democratic government in North America. In 1961, he became the first leader of the newly formed New Democratic Party, a title which he held for close to ten years. Much can be said of his accomplishments both as a Member of Parliament and as a member of the Legislative Assembly of Saskatchewan. The Court mentions in passing Douglas' spearheading of the creation of the first provincial Medicare plan. It is clear that both History and Canadians from coast to coast have much to learn about Mr. Douglas, and this Application can be seen as contributing in this respect. It can also be said that access to information, whether the subject of the request is well-known or not, benefits all Canadians.
+B. The Applicable Law
+[4]
+The public's right to information detained by government is governed by the
+Access to Information Act
+and the
+Privacy Act
+, R.S.C. 1985, c. P-21. The purpose of the
+Access to Information Act
+is to enshrine an essential component of democracy: the public's right to government information (s. 2 of the Act). This right to government information is mandatory for both public scrutiny of government activities, as well as the full and meaningful participation in public debate and discussion. If the adage that information is power holds true, then our democracy depends on the broad and liberal interpretation of the Act, subject to valid concerns represented by the exemptions provided. The Act has been recognized as having a quasi-constitutional status by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> .
+[5]
+The Act itself is unambiguous as to its scope and purpose. Firstly, the Act's purpose is to
+extend
+the public's right to access to information, and that the Act was not meant to "limit in any way" access to government information (s 2 of the Act). Section 2 of the Act also requires that the exemptions to the right of access should be "limited and specific". This limited scope of the exemptions provided in the Act is essential to the Court's interpretation of any application brought forth, and Courts have consistently recognized this policy objective as being a core component of the review of refusals of disclosure:
+It also appears clearly from these two provisions that Parliament intended the Act to apply liberally and broadly with the citizen's right of access to such information being denied only in limited and specific exceptions (
+ <FRAGMENT_SUPPRESSED>  (FCA)).
+[6]
+The process for access to information begins with a written and sufficiently detailed request made to the institution that has the records sought (s 6 of the Act). In this case, the Applicant made a request directly to LAC. There is currently no direct process by which citizens may know which access requests are pending and the records sought after in these requests. The "head of a government institution", as defined by the Act, is responsible for responding accurately and completely to the ATI request (ss 4(2.1) of the Act). Furthermore, the Act instructs that the head of a government institution shall "subject to the regulations, provide timely access to the record" without regard to the identity of the person making the ATI request (ss 4(2.1) of the Act).
+[7]
+The head of a government institution may refuse access to the records sought:
+Where access is refused
+10. (1) Where the head of a government institution refuses to give access to a record requested under this Act or a part thereof, the head of the institution shall state in the notice given under paragraph 7(a)
+(a) that the record does not exist, or
+(b) the specific provision of this Act on which the refusal was based or, where the head of the institution does not indicate whether a record exists, the provision on which a refusal could reasonably be expected to be based if the record existed,
+and shall state in the notice that the person who made the request has a right to make a complaint to the Information Commissioner about the refusal.
+Existence of a record not required to be disclosed
+(2) The head of a government institution may but is not required to indicate under subsection (1) whether a record exists.
+Deemed refusal to give access
+(3) Where the head of a government institution fails to give access to a record requested under this Act or a part thereof within the time limits set out in this Act, the head of the institution shall, for the purposes of this Act, be deemed to have refused to give access.
+Refus de communication
+10. (1) En cas de refus de communication totale ou partielle d'un document demandé en vertu de la présente loi, l'avis prévu à l'alinéa 7a) doit mentionner, d'une part, le droit de la personne qui a fait la demande de déposer une plainte auprès du Commissaire à l'information et, d'autre part:
+a) soit le fait que le document n'existe pas;
+b) soit la disposition précise de la présente loi sur laquelle se fonde le refus ou, s'il n'est pas fait état de l'existence du document, la disposition sur laquelle il pourrait vraisemblablement se fonder si le document existait.
+Dispense de divulgation de l'existence d'un document
+(2) Le paragraphe (1) n'oblige pas le responsable de l'institution fédérale à faire état de l'existence du document demandé.
+Présomption de refus
+(3) Le défaut de communication totale ou partielle d'un document dans les délais prévus par la présente loi vaut décision de refus de communication.
+[8]
+For it to have sufficient traction, the Act enshrines the independent review of refusals of disclosure as another core principle (ss 2(1)). The Office of the Information Commissioner of Canada is statutorily mandated to review refusals of disclosure if a complaint is made in writing, and may initiate an investigation on its own behalf (s 30). Its investigative powers are clearly set out in the Act, and include the power to summon and enforce the appearance of persons (para 36(1)(a)); the power to administer oaths and evidence (para 36(1)(b) and para 36(1)(c)); and the power to access all government records, subject to security clearance of staff (para 36(1)(d) and ss 36(2)).
+[9]
+The Information Commissioner's investigative mandate is complemented by its obligation to report to the government institution if it finds a complaint to be well-founded, and must provide its findings in support (ss 37(1)). In this respect, the Information Commissioner may also make recommendations and make a request that notice be given of the steps taken or proposed to implement these recommendations, or alternatively, reasons why these are not implemented (ss 37(2) of the Act). Where, following the investigation of a complaint, the head of a government institution maintains the refusal of disclosure of the record, the Information Commissioner informs the complainant that a right of review before the Federal Court is available (ss 37(5) of the Act). However, the Court's review is of the decision of the head of the government institution to refuse disclosure, not the decision of the Information Commissioner (
+3430901  <FRAGMENT_SUPPRESSED>  [herein referred to as
+Telezone
+], at para 42).
+[10]
+It should also be noted that the Information Commissioner's mandate is broader than what is alluded to in the present reasons. Suffice to say that the Information Commissioner's mandate is one that should be taken with the utmost vigour and energy. Truly, the Information Commissioner is one of the custodians of our democracy.
+[11]
+Once the Information Commissioner's review is completed, and if the head of the government institution's refusal is maintained, the complainant may file an application before the Federal Court for a review of the refusal of disclosure (s. 41). The Information Commissioner may file this application as well, and even appear on behalf of the initial complainant (s. 42). The Court must be granted access to all the relevant documentation (s. 46), and ultimately, is responsible for not divulging any of the protected information during the process of the application (s. 47). The nature of the review undertaken by the Court will be discussed below.
+[12]
+In the case at bar, the exemption that was chiefly claimed is that of section 15 of the Act. Initially, LAC had refused access on the basis of section 19 as well. These provisions read as follows:
+International affairs and defence
+15. (1)
+The head of a government institution may refuse to disclose any record requested under this Act that contains information the disclosure of which could reasonably be expected to be injurious
+to the conduct of international affairs, the defence of Canada or any state allied or associated with Canada or the detection, prevention or suppression of subversive or hostile activities, including, without restricting the generality of the foregoing, any such information
+(a) relating to military tactics or strategy, or relating to military exercises or operations undertaken in preparation for hostilities or in connection with the detection, prevention or suppression of subversive or hostile activities;
+(b) relating to the quantity, characteristics, capabilities or deployment of weapons or other defence equipment or of anything being designed, developed, produced or considered for use as weapons or other defence equipment;
+(c) relating to the characteristics, capabilities, performance, potential, deployment, functions or role of any defence establishment, of any military force, unit or personnel or of any organization or person responsible for the detection, prevention or suppression of subversive or hostile activities;
+(d) obtained or prepared for the purpose of intelligence relating to
+(i) the defence of Canada or any state allied or associated with Canada, or
+(ii) the detection, prevention or suppression of subversive or hostile activities;
+(e) obtained or prepared for the purpose of intelligence respecting foreign states, international organizations of states or citizens of foreign states used by the Government of Canada in the process of deliberation and consultation or in the conduct of international affairs;
+(f) on methods of, and scientific or technical equipment for, collecting, assessing or handling information referred to in paragraph (d) or (e) or on sources of such information;
+(g) on the positions adopted or to be adopted by the Government of Canada, governments of foreign states or international organizations of states for the purpose of present or future international negotiations;
+(h) that constitutes diplomatic correspondence exchanged with foreign states or international organizations of states or official correspondence exchanged with Canadian diplomatic missions or consular posts abroad; or
+(i) relating to the communications or cryptographic systems of Canada or foreign states used
+(i) for the conduct of international affairs,
+(ii) for the defence of Canada or any state allied or associated with Canada, or
+(iii) in relation to the detection, prevention or suppression of subversive or hostile activities.
+Definitions
+(2) In this section,
+"defence of Canada or any state allied or associated with Canada"
+« défense du Canada ou d'États alliés ou associés avec le Canada »
+"defence of Canada or any state allied or associated with Canada" includes the efforts of Canada and of foreign states toward the detection, prevention or suppression of activities of any foreign state directed toward actual or potential attack or other acts of aggression against Canada or any state allied or associated with Canada;
+"subversive or hostile activities"
+« activités hostiles ou subversives »
+"subversive or hostile activities" means
+(a) espionage against Canada or any state allied or associated with Canada,
+(b) sabotage,
+(c) activities directed toward the commission of terrorist acts, including hijacking, in or against Canada or foreign states,
+(d) activities directed toward accomplishing government change within Canada or foreign states by the use of or the encouragement of the use of force, violence or any criminal means,
+(e) activities directed toward gathering information used for intelligence purposes that relates to Canada or any state allied or associated with Canada, and
+(f) activities directed toward threatening the safety of Canadians, employees of the Government of Canada or property of the Government of Canada outside Canada.
+Personal information
+19. (1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+Where disclosure authorized
+(2) The head of a government institution may disclose any record requested under this Act that contains personal information if
+(a) the individual to whom it relates consents to the disclosure;
+(b) the information is publicly available; or
+(c) the disclosure is in accordance with section 8 of the Privacy Act. [Emphasis added]
+Affaires internationales et défense
+15.(1)
+Le responsable d'une institution fédérale peut refuser la communication de documents contenant des renseignements dont la divulgation risquerait vraisemblablement de porter préjudice
+à la conduite des affaires internationales, à la défense du Canada ou d'États alliés ou associés avec le Canada ou à la détection, à la prévention ou à la répression d'activités hostiles ou subversives, notamment:
+a) des renseignements d'ordre tactique ou stratégique ou des renseignements relatifs aux manoeuvres et opérations destinées à la préparation d'hostilités ou entreprises dans le cadre de la détection, de la prévention ou de la répression d'activités hostiles ou subversives;
+b) des renseignements concernant la quantité, les caractéristiques, les capacités ou le déploiement des armes ou des matériels de défense, ou de tout ce qui est conçu, mis au point, produit ou prévu à ces fins;
+c) des renseignements concernant les caractéristiques, les capacités, le rendement, le potentiel, le déploiement, les fonctions ou le rôle des établissements de défense, des forces, unités ou personnels militaires ou des personnes ou organisations chargées de la détection, de la prévention ou de la répression d'activités hostiles ou subversives;
+d) des éléments d'information recueillis ou préparés aux fins du renseignement relatif à:
+(i) la défense du Canada ou d'États alliés ou associés avec le Canada,
+(ii) la détection, la prévention ou la répression d'activités hostiles ou subversives;
+e) des éléments d'information recueillis ou préparés aux fins du renseignement relatif aux États étrangers, aux organisations internationales d'États ou aux citoyens étrangers et utilisés par le gouvernement du Canada dans le cadre de délibérations ou consultations ou dans la conduite des affaires internationales;
+f) des renseignements concernant les méthodes et le matériel technique ou scientifique de collecte, d'analyse ou de traitement des éléments d'information visés aux alinéas d) et e), ainsi que des renseignements concernant leurs sources;
+g) des renseignements concernant les positions adoptées ou envisagées, dans le cadre de négociations internationales présentes ou futures, par le gouvernement du Canada, les gouvernements d'États étrangers ou les organisations internationales d'États;
+h) des renseignements contenus dans la correspondance diplomatique échangée avec des États étrangers ou des organisations internationales d'États, ou dans la correspondance officielle échangée avec des missions diplomatiques ou des postes consulaires canadiens;
+i) des renseignements relatifs à ceux des réseaux de communications et des procédés de cryptographie du Canada ou d'États étrangers qui sont utilisés dans les buts suivants:
+(i) la conduite des affaires internationales,
+(ii) la défense du Canada ou d'États alliés ou associés avec le Canada,
+(iii) la détection, la prévention ou la répression d'activités hostiles ou subversives.
+Définitions
+(2) Les définitions qui suivent s'appliquent au présent article.
+« activités hostiles ou subversives »
+" subversive or hostile activities"
+« activités hostiles ou subversives »
+a) L'espionnage dirigé contre le Canada ou des États alliés ou associés avec le Canada;
+b) le sabotage;
+c) les activités visant la perpétration d'actes de terrorisme, y compris les détournements de moyens de transport, contre le Canada ou un État étranger ou sur leur territoire;
+d) les activités visant un changement de gouvernement au Canada ou sur le territoire d'États étrangers par l'emploi de moyens criminels, dont la force ou la violence, ou par l'incitation à l'emploi de ces moyens;
+e) les activités visant à recueillir des éléments d'information aux fins du renseignement relatif au Canada ou aux États qui sont alliés ou associés avec lui;
+f) les activités destinées à menacer, à l'étranger, la sécurité des citoyens ou des fonctionnaires fédéraux canadiens ou à mettre en danger des biens fédéraux situés à l'étranger.
+« défense du Canada ou d'États alliés ou associés avec le Canada »
+" defence of Canada or any state allied or associated with Canada "
+« défense du Canada ou d'États alliés ou associés avec le Canada » Sont assimilés à la défense du Canada ou d'États alliés ou associés avec le Canada les efforts déployés par le Canada et des États étrangers pour détecter, prévenir ou réprimer les activités entreprises par des États étrangers en vue d'une attaque réelle ou éventuelle ou de la perpétration d'autres actes d'agression contre le Canada ou des États alliés ou associés avec le Canada.
+Renseignements personnels
+19.(1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la Loi sur la protection des renseignements personnels.
+Cas où la divulgation est autorisée
+(2) Le responsable d'une institution fédérale peut donner communication de documents contenant des renseignements personnels dans les cas où:
+a) l'individu qu'ils concernent y consent;
+b) le public y a accès;
+c) la communication est conforme à l'article 8 de la Loi sur la protection des renseignements personnels.
+[13]
+The exemptions laid out in the Act are to be considered in two aspects by the reviewing Court. Firstly, exemptions in the Act are either class-based or injury-based. Class-based exemptions are typically involved when the nature of the documentation sought is sensitive in and of itself. For example, the section 13 exemption is related to information obtained from foreign governments, which, by its nature, is a class-based exemption. Injury-based exemptions require that the decision-maker analyze whether the release of information could be prejudicial to the interests articulated in the exemption. Section 15 is an injury-based exemption: the head of the government institution must assess whether the disclosure of information could "be expected to be injurious to the conduct of international affairs, the defence of Canada or any state allied or associated with Canada or the detection, prevention or suppression of subversive or hostile activities".
+[14]
+In the case at bar, while LAC had custody of some of the sought after records, it was required by the Act and Treasury Board Policy to consult with the institution from which the records originated. In this case, the record originated from the RCMP's Security Intelligence Division. As this division was replaced by a civilian intelligence service, the Canadian Security Intelligence Service (CSIS), in 1984, LAC consulted with that organization as to the nature of the documentation and the applicability of the Act's exemptions.
+[15]
+The second component of the exemptions under the Act is to determine whether the exemption is mandatory or discretionary. In the case of mandatory exemptions, the provisions of the Act mandate that the decision-maker "shall refuse to disclose" the records when they fall under the exemption (see, inter alia, section 19). In the case of discretionary exemptions, the decision-maker "may refuse" to disclose the record. Section 15 is a discretionary exemption, the aspects of which will be considered at length in the present reasons.
+[16]
+The
+Library and Archives of Canada Act
+, SC 2004, c 11 is inextricably linked to the Act. The most obvious link in the present application is that LAC is the respondent to the ATI request, but over and above that, the
+Library and Archives of Canada Act
+should be considered in every review of an ATI request, regardless as to the department or decision-maker involved. The responsibilities conferred by section 12 of the
+Library and Archives of Canada Act
+to the Librarian and Archivist, the head of LAC support this contention:
+Destruction and disposal
+12.(1) No government or ministerial record, whether or not it is surplus property of a government institution, shall be disposed of, including by being destroyed, without the written consent of the Librarian and Archivist or of a person to whom the Librarian and Archivist has, in writing, delegated the power to give such consents.
+Élimination et aliénation
+12.(1) L'élimination ou l'aliénation des documents fédéraux ou ministériels, qu'il s'agisse ou non de biens de surplus, est subordonnée à l'autorisation écrite de l'administrateur général ou de la personne à qui il a délégué, par écrit, ce pouvoir.
+[17]
+Considering the broad definitions of "government or ministerial record" and "government institution" found within the
+Library and Archives of Canada Act
+, it can be said that the ultimate approval of destruction and retention of documentation is an integral part of LAC's mandate. Evidently, Parliament considers access to information in Canada and document retention as essential components of citizens' right to government information.
+[18]
+LAC's objectives are to be considered by any government institution assessing ATI requests as these objectives further compound the Act's objectives and reinforce the importance of access to government records. In all clarity, LAC's statutory mandate is defined as:
+Objects
+7. The objects of the Library and Archives of Canada are
+(a) to acquire and preserve the documentary heritage;
+(b) to make that heritage known to Canadians and to anyone with an interest in Canada and to facilitate access to it;
+(c) to be the permanent repository of publications of the Government of Canada and of government and ministerial records that are of historical or archival value;
+(d) to facilitate the management of information by government institutions;
+(e) to coordinate the library services of government institutions; and
+(f) to support the development of the library and archival communities.
+Mission
+7. Bibliothèque et Archives du Canada a pour mission:
+a) de constituer et de préserver le patrimoine documentaire;
+b) de faire connaître ce patrimoine aux Canadiens et à quiconque s'intéresse au Canada, et de le rendre accessible;
+c) d'être le dépositaire permanent des publications des institutions fédérales, ainsi que des documents fédéraux et ministériels qui ont un intérêt historique ou archivistique;
+d) de faciliter la gestion de l'information par les institutions fédérales;
+e) d'assurer la coordination des services de bibliothèque des institutions fédérales;
+f) d'appuyer les milieux des archives et des bibliothèques.
+[19]
+This mandate is not a passive one. LAC is instructed by Parliament to "acquire and preserve" the documentary heritage of Canadians. It is also instructed to "make that heritage known" as well as "facilitating access" to it. Insomuch as facilitating access to government documentation is the very objective of the Act, LAC's mandate is not only similar; it is the logical extension of the Act. The Preamble of the
+Library and Archives of Canada Act
+reinforces this synergy between the Act and LAC's mandate:
+HEREAS it is necessary that
+(a) the documentary heritage of Canada be preserved for the benefit of present and future generations;
+(b) Canada be served by an institution that is a source of enduring knowledge accessible to all, contributing to the cultural, social and economic advancement of Canada as a free and democratic society;
+(c) that institution facilitate in Canada cooperation among the communities involved in the acquisition, preservation and diffusion of knowledge; and
+(d) that institution serve as the continuing memory of the government of Canada and its institutions;
+Attendu qu'il est nécessaire:
+a) que le patrimoine documentaire du Canada soit préservé pour les générations présentes et futures;
+b) que le Canada se dote d'une institution qui soit une source de savoir permanent accessible à tous et qui contribue à l'épanouissement culturel, social et économique de la société libre et démocratique que constitue le Canada;
+c) que cette institution puisse faciliter au Canada la concertation des divers milieux intéressés à l'acquisition, à la préservation et à la diffusion du savoir;
+d) que cette institution soit la mémoire permanente de l'administration fédérale et de ses institutions,
+[20]
+The use of the preamble of an act to fully grasp its purpose is a method that is without controversy and a useful tool to understand LAC's mandate and the mission with which it was entrusted with by Parliament. Professor Ruth Sullivan has stated that preambles and purpose statements are "the most authoritative evidence of purpose" (Ruth Sullivan,
+Sullivan on the Construction of Statutes
+, 5th ed., Lexis Nexis, 2008, at p 271). Professor Côté offers the view that the caselaw has evolved in a manner such that the preamble is to be considered, unless the circumstances, such as the clarity of the dispositions to be interpreted, justify not considering the indicia of intent that the preamble offers (Pierre-André Côté, avec la collaboration de Stéphane Beaulac et Mathieu Devinat,
+Interprétation des lois
+, 4th ed., Les Éditions Thémis, 2009, at para 226).
+[21]
+The
+Library and Archives of Canada Act
+emphasizes the accessibility of documentation, as well as its contributory role to Canada's democracy ("enduring knowledge accessible to all, contributing to the cultural, social and economic advancement of Canada as a free and democratic society"). Again, LAC is mandated with a pragmatic mission: "acquisition, preservation and
+diffusion
+of knowledge" [emphasis added]. Ultimately, LAC is the custodian of our documentary heritage and the information contained therein ("continuing memory" or "
+mémoire permanente
+"). Whether or not the records are in LAC's possession or not is beside the point, all government institutions answer to the Librarian and Archivist and those with his delegated authority in terms of document retention. Any decision to dispose of these records thus falls to the Librarian and Archivist or those with his delegated authority (section 12 of the
+Library and Archives of Canada Act
+).
+[22]
+Not only do the principles of statutory interpretation allow for consideration of statutes adopted on similar issues, the coherence of the Canadian legal order requires that the inherent principles of statutes in similar matters be considered fully complementary, especially in an issue as important as access to information. It is clear that the complimentary purposes of the Act and the
+Library and Archives Act of Canada
+are such that they are inextricably linked, as would the aims of the
+Privacy Act
+if it was to be considered by the Court in the present application. Professor Sullivan offered a learned perspective on statutes on the same subject:
+The presumptions of coherence and consistent expression apply as if the provisions of these statutes were part of a single Act. Definitions in one statute are taken to apply in the others and
+any purpose statements in the statutes are read together
+. (Ruth Sullivan,
+Sullivan on the Construction of Statutes
+, 5th ed., Lexis Nexis, 2008, at p 412). [Emphasis added]
+[23]
+This approach is consistent with the approach of the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  in terms of interpreting statutes in similar matters.
+[24]
+It should be noted that Madam Justice Sharlow of the Federal Court of Appeal has stated in
+ <FRAGMENT_SUPPRESSED>  that "the Court should consider only the Act and the jurisprudence guiding its interpretation and application. Laws requiring disclosure in other legal proceedings cannot narrow or broaden the scope of disclosure required by the Access to Information Act." However, in
+Blank
+, the Court was asked to import the
+Stinchcombe
+standard of disclosure in criminal matters to the ATI requests. The Court distinguishes the
+Blank
+case with the present application and comments therein with regards to the
+Library and Archives of Canada Act
+. Again, the
+Library and Archives of Canada Act
+and the
+Access to information Act
+are statutes adopted in pari materia, and are thus not incompatible and do not have the same implications as importing the
+Stinchcombe
+standard of disclosure of criminal law to ATI requests.
+[25]
+Thus, the dynamic mandate and purpose of LAC, including the intrinsic value of documentary archives and access thereof, must be considered by any decision-maker when considering ATI requests, as these fully complement the objectives and spirit of the Act itself.
+[26]
+This Court is mandated with the important task of safeguarding the confidentiality of the information it is to assess and must take "every reasonable precaution" to protect it from disclosure (s 47 of the Act). The Federal Court is also mandated with a similar task in other national security matters. Under the
+Canada Evidence Act
+, RSC 1985, c C-5, section 38.12 and subsection 38.04(4) entrust the Court with the responsibility of protecting confidential information. Under the
+Immigration and Refugee Protection Act
+, SC 2001, c-27, paragraph 83(1)(d) confers to the Court the responsibility to protect the information submitted in the context of security certificates.
+[27]
+However, under the
+Canada Evidence Act
+and under the
+Immigration and Refugee Protection Act
+, the power to draft summaries of the information is clearly provided for by statute. This power has not been clearly given by Parliament to the Information Commissioner or the decision-maker. The summary accomplishes a balance between the protection of national security information and the right to know a case or to be provided with relevant information. In the context of access to information, the right to access to information in and of itself could be balanced with national security information by providing summaries. While the Court could consider the issuance of summaries under the broad powers of section 50, it should be noted that this is a lengthy and resource-intensive exercise. It can be anticipated that the present application could have proceeded more efficiently if the head of the government institution and the Information Commissioner had the power to issue summaries, which could then be reviewed by the Court.
+C. History of the Proceeding
+[28]
+Since the Applicant's original ATI request in November 2005, the request and subsequent proceedings have evolved in such a way that a general history is required to render a clear picture of the situation, as it may be illustrative of the dynamics of access to information in Canada. Applications under the Act are supposed to proceed in a summary way (s 45 of the Act). As will be seen, the nature and volume of the records were such that proceeding in a summary way was not possible. It would be expected that such a historical file would be processed more efficiently through all stages.
+[29]
+The Applicant's request was brought to LAC in November 2005 and stated the following:
+A copy of the RCMP Security Service File(s) on Thomas Clement (Tommy) Douglas. (see attached biography). The 20th anniversary of Mr. Douglas's death is February 24, 2006. I ask that you begin processing this request immediately as it will likely involve several weeks of preparation given the backlogs in handling applications under the Access to Information Act.
+[30]
+As indicated by the Public Affidavit of Nicole Jalbert, Access to Information and Privacy Coordinator for the Canadian Security Intelligence Service (CSIS), the Douglas dossier was to be retained "because of its historical significance". It was transferred to the National Archives of Canada, as it was then, in April 2000.
+[31]
+As the records were contained in the "RG146 - Records of the Canadian Security Intelligence Service" file, LAC proceeded to consult with CSIS. After this initial consultation, the Senior Analyst in charge of the file wrote to the Applicant on December 9, 2005, indicating that an extension of up to 390 days was required beyond the statutory 30 day limit, as a result of the required consultations with CSIS, as prescribed under 9(1)(b) of the Act.
+[32]
+By way of a letter from the Senior Analyst at LAC, CSIS was instructed as follows (Exhibit 1 to the Cross-Examination of Nicole Jalbert, March 2, 2010):
+If you wish us to withhold these records or portions thereof, please mark them accordingly. We require a detailed written rationale demonstrating that the information recommended for exemption falls under one or more provisions of the
+Access to Information Act
+. Other substantiating information you can produce which will help us to support an exemption would also be useful.
+[33]
+Citing concerns of administrative expediency, Nicole Jalbert indicated during her cross-examination that CSIS only relied upon "sort of an umbrella rationale", which gives an appreciation to LAC analysts about the general rationale behind exemptions, but not case-specific evidence (pp 40-41 of the Cross-Examination of Nicole Jalbert, January 21, 2010). The review undertaken by CSIS aimed to see if the documents properly fell within the section 15(1) exemption of the Act. On October 31, 2006, CSIS provided LAC with the redacted documents with an indication of what exemption was claimed over the portions of the record (Cross-Examination of Bill Wood, March 8, 2010).
+[34]
+The rationale document provided by CSIS was submitted in the public documentation, albeit in a redacted form. As will be seen later, as a result of the ex parte, in camera portion of the application, redacted portions of this document became public. The rationale document as well as the "Library and Archives (LAC) Consultations" document are now publicly available as a result of the present application.
+[35]
+The internal review of the record indicates that the Senior Analyst assigned to the review of CSIS' recommendations was given the file on December 5, 2006 ("Access to Information Request -A-2005-00450/MIC - Bronskill, Jim (Media)", Exhibit 2 to the Cross-Examination of Bill Wood, March 8, 2010).
+[36]
+On December 12, 2006, LAC's Senior Analyst wrote to the Applicant indicating that 456 records from the file could be disclosed, but that the others were to be withheld under the exemptions provided by sections 15 and 19 of the Act. It was indicated that section 10 was also relied upon, whereby the institution was refusing to confirm or deny the existence of the records. It was later indicated that the reference to section 10 was said to be inadvertent.
+[37]
+On January 17, 2007, the Applicant made a formal complaint to the Information Commissioner of Canada, protesting "the excessive number and scope of the exemptions applied to the records".
+[38]
+By way of a letter dated August 27, 2009, more than two years after this complaint was filed, the Information Commissioner found that the Applicant's complaint was not justified. Further, the Information Commissioner indicated that its office had reviewed the documents strictly under the prism of section 15(1) of the Act, and that it was not necessary to review the documents under section 19(1), as the documents were deemed to be properly withheld under section 15(1).
+[39]
+The Application for judicial review pursuant to section 41 of the Act was brought before this Court in October 2009. Pursuant to section 52 of the Act, Madam Prothonotary Aronovitch granted leave to the Respondent to file evidence on an ex parte basis by way of an Order dated December 9, 2009. The Respondent sought to strike two affidavits from the record, which were deemed irrelevant and opinion-based. While acquiescing that some of the portions of the Affidavits of Wesley Wark and Craig Heron were opinionated, Madam Prothonotary Tabib denied the Minister's motion to strike the affidavits by an Order dated February 11, 2010.
+[40]
+Pursuant to section 52 and the nature of the section 15 exemption claimed, Chief Justice Lutfy assigned this Court to hearing the Application, both for the in camera portion, as well as the public hearing (Order dated September 7, 2010).
+[41]
+The ex parte portion of the hearing took place in Ottawa on November 30, 2010. In light of the concerns highlighted by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  and Chief Justice Lutfy in
+ <FRAGMENT_SUPPRESSED>  and recently confirmed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  above, it was clear for all the Parties involved, including the Court, that the ex parte, in camera hearing of the Application was to be limited to the very minimum, so as to not adversely affect the open court principle as well as the Applicant's interests. As related by Associate Chief Justice Jerome in
+ <FRAGMENT_SUPPRESSED>  (CA), at page 942, the directions for proceeding on an ex parte, in camera basis "should be such as to safeguard the public interest in the administration of justice, and the rights of any parties not permitted to participate". The Court independently also reviewed the complete, unredacted record before proceeding to this ex parte, in camera hearing.
+[42]
+After an ex parte teleconference, a summary of the ex parte, in camera hearing was prepared by counsel for the Respondent at the request of the Court. It was approved by the Court and filed. Summarily, it related the process followed during the closed hearing, as well as the Court's concerns. The Summary indicates the following:
+i. Concerns addressed by the Court were:
+a. Whether additional information could be released in two of the documents previously released to the Applicant, entitled "Rationale Document for CSIS exemptions used by National Archives" and "Library and Archives (LAC) Consultations"
+b. To what extent is the mandate of Library and Archives Canada addressed in the evidence.
+c. How was the discretion under section 15 exercised by Library and Archives Canada?
+d. To what extent was that exercise of discretion reasonable?
+ii. Counsel for the Minister brought precision to the categories of information that had been protected by presenting the Court with a series of examples through specific reference to the documents.
+iii. Counsel for the Minister advised the Court of its intention, and undertook, to review a number of documents for possible release.
+iv. The Court presented counsel for the Minister with a number of documents that were of concern; the purpose of which was to examine the extent to which the mandate of Library and Archives Canada was considered during the exercise of discretion under section 15.
+[43]
+Due to extraneous circumstances, the public hearing which was to be held on December 14, 2010 was adjourned on consent and was to be rescheduled. In the meantime, counsel for the Minister submitted by way of a letter dated December 13, 2010 that the matter be adjourned for 90 days while the Respondent undertook a review of the documents in good faith in order to release more information further to the in camera hearing. Additional disclosure was to be made before March 31, 2011. At the time, counsel for the Applicant opposed this new review of documentation, as it was argued that the record should be evaluated as it was initially placed before the Court. It was nonetheless filed before the Court on February 16, 2011.
+[44]
+The Court indicated in a teleconference with the parties on December 17, 2010, that the present Application could proceed directly to judgment on the basis of the written representations of the Parties. However, counsel for the Parties instructed that the matter should proceed to a public hearing, as there were live issues to be debated in a public forum. The hearing was set for February 23, 2011, in Ottawa and went ahead as scheduled.
+[45]
+The public hearing allowed the Parties to make representations on the nature of the section 15(1) exemption of the Act, as well as other issues that will be dealt with in the present reasons. However, through a letter submitted on February 24, 2011, counsel for the Respondent clarified certain aspects of the representations made during the public hearing.
+[46]
+Apart from the considerations pertaining to the second review of the documentation, counsel for the Respondent clarified what was alluded to in terms of changes in policy within CSIS and LAC as a result of the proceedings. In the letter of February 24, 2011, it was said that "CSIS recommended the release of most of the records obtained through technical sources (intercepts and surveillance) when the subject of interest was transitory in nature. This recommendation will be applied to all CSIS files that were transferred to LAC, because of their historical importance, from this point forward". This was noted to be a "significant departure" in which historical records were reviewed by CSIS and LAC. However, what consists of a subject of interest of transitory nature remains to be defined with more precision.
+D. The Second Review of the Douglas File
+[47]
+As noted above, a second review of the Douglas file was undertaken by the Respondent and filed before the Court just before the public hearing.
+[48]
+Firstly, in the letter dated February 24, 2011 (see para 46 of these reasons), counsel for the Respondent clarified the three reasons why a second review of the documentation was undertaken by the Respondent. These three reasons alluded to were: more than five years had passed between the original request and the hearing of the application; the Respondent had acknowledged to the Court that there were inconsistencies in the withholding of information; and a number of comments during the in camera hearings were such that it "made it appropriate to conduct a further review".
+[49]
+Secondly, in the letter dated February 24, 2011, the rationale for the release of additional information was further detailed by counsel for the Respondent. In this letter, counsel for the Respondent also stated that the exemption of section 19(1) was no longer relied upon. During the review of the documentation, the Court found that section 19(1) concerns could still be found within the documents. However, as section 19 was not argued or relied upon, the analysis strictly deals with section 15(1).
+[50]
+In light of the second review of the litigated file, the Court was faced with an important question: what was the nature of this second review of the documents? Is it a de novo decision, which should proceed before the Information Commissioner before the Court can validly review them? At first glance, it could appear as though the requirements of section 41 imply that the matter be put to the Information Commissioner before being put before the Court. This is also the interpretation this section received recently in
+ <FRAGMENT_SUPPRESSED>  at para. 64.
+[51]
+This issue was raised during the public hearing, but was left open as the Parties required time to make supplementary submissions. In this respect, the Court also instructed the Parties to contact the Office of the Information Commissioner in the view of obtaining its position on whether the Court had jurisdiction to consider this second review of the Douglas dossier.
+[52]
+By consent of the Parties, the Information Commissioner brought a motion in writing to be granted intervener status for the jurisdictional issue. Leave was granted by the Court by an Order dated March 28, 2011 for the Information Commissioner to be granted status as an intervener in regards to the jurisdictional issue.
+[53]
+The Commissioner framed the jurisdictional issue as follows:
+Does the requirement in s. 41 of the ATIA that the Commissioner investigate a refusal to disclose records, or parts thereof, prior to the commencement of a s. 41 ATIA application for review remove the jurisdiction of the Federal Court to review the information released by LAC on February 16, 2011?
+[54]
+Relying on
+ <FRAGMENT_SUPPRESSED>  the Information Commissioner submitted that once the section 37(2) of the Act report was provided, the office was functus officio for the purpose of the application, absent a new complaint made to the Office of the Information Commissioner. Furthermore, as the same exemption was claimed in the new review of the documents, the Commissioner had thus examined the first release of documents and found the complaint not to be founded. Hence, no new exemptions were raised, and the documents at issue were the very same. As such, the Information Commissioner is argued to be functus officio for the Application.
+[55]
+By an Oral Direction dated April 5, 2011, the Court granted the Parties leave to file supplementary submissions to address the second review of documents more elaborately.
+[56]
+Counsel for the Applicant submitted further representations in regards to the supplementary disclosure. Counsel appropriately highlighted that the documents made public through the second review showed the flawed logic behind the Respondent's initial assessment of the records. Furthermore, counsel for the Applicant pointed out that portions of documents were missing from the record.
+[57]
+The essential question of the missing documentation and the fragmentation of the Douglas dossier will be dealt with in the present reasons, as it is a critical element of the application.
+[58]
+The Respondent has argued that disclosure was refused when information taken out of context could be unfair to Mr. Douglas. The Applicant submitted that this was unjustified and that it is a "patronizing approach".
+[59]
+Citing a precedent from the United Kingdom, the Applicant also suggested that an amicus curiae or a special advocate be appointed at the late stage in the application to conduct the review of the records. It is said that the nature and extent of the documents concerned were such that they could constitute a burden on the Court.
+[60]
+Counsel for the Respondent vigorously opposed this request for several reasons: firstly, it was said that all the issues have been fully presented to the Court; secondly, that it was for the Court to conduct a de novo review; thirdly, that appointing an amicus curiae would render the role of the Information Commissioner meaningless; and, lastly, that the authorities provided were to be distinguished as they arose in different legal contexts.
+[61]
+As the thorough history of this application has been dealt with, it is proper to address the question of the applicable standards of review in this application.
+E. The Applicable Standards of Review
+[62]
+As indicated, the Application was brought under section 41 of the Act. Moreover, the exemption claimed by LAC in this instance is the section 15 national security exemption. Section 50 calls upon the Court to determine if the head of the institution had "reasonable grounds on which to refuse" disclosure, full or partial, of the records in question.
+[63]
+At face value, the plain reading of section 50 indicates that the review proceeds on the assessment of the reasonableness of LAC's refusal of disclosure. Indeed, "reasonable grounds" for withholding the information is the standard provided by section 50. Furthermore, section 15 instructs that the head of the government institution may refuse disclosure if the disclosure could "reasonably be expected to be injurious" to the subject matters identified in section 15. On the basis of the plain reading of these sections, the Court could satisfy itself that the review of the refusal of disclosure should proceed on the assessment of a reasonableness standard.
+[64]
+Indeed, this Court has applied the reasonableness standard of review to the applications brought under section 50 (see, inter alia,
+ <FRAGMENT_SUPPRESSED> ;
+Canada (Prime Minister), X v. Canada (Minister of National Defence)
+, (1992) 58 FTR 93 (Strayer J.); <FRAGMENT_SUPPRESSED> , above). The pragmatic and functional analysis required to assess the standard of review could be resolved on the basis of the statute and the case law (
+ <FRAGMENT_SUPPRESSED> Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> ).
+[65]
+However, what decision is the Court to review? Should the Court proceed in a one-step analysis of the refusal to disclose under the grounds provided under section 15, or is there more under sections 15 and 50 that is required of the Court?
+[66]
+This Court has adopted different approaches to its powers of review provided by the Act under sections 49 and 50. Indeed, sections 49 and 50 remain distinct, and the assessment of the standards of review needs to adapt itself to the particular realities of these provisions of the Act. The determination of the standards of review under section 49 cannot be imported in the analysis under section 50. Likewise, the Court's analysis cannot subsume one exemption to another, even if the Court's power is derived from the same section, i.e. section 49 or section 50. The nature of the exemptions provided in the Act is such that the standard of review is not to be found in sections 49 or 50, but rather, in the wording of the exemption itself, in this case, section 15.
+[67]
+Section 49 gives the Court power to order disclosure or to make any order deemed appropriate arising from the refusal of disclosure under sections of the Act that are not referred to in section 50. Section 50 itself gives the Court power to intervene in matters arising from section 14 (federal-provincial affairs), section 15 of the Act (national security and international affairs), paragraph 16(1)(c) (enforcement of laws and conduct of an investigation), paragraph 16(1)(d) (security of penal institutions) and paragraph 18(d) (financial interests of government). What is common between the refusals reviewed under section 50 is that the head of the government institution refusing disclosure has the discretion to do so, and the exemptions are injury-based, not class-based.
+[68]
+This dichotomy between mandatory and discretionary exemptions as well as injury-based and class-based exemptions in the Act implies that the Court's review of refusals to disclose is highly contingent of the section under which the exemption was claimed. Class-based exemptions are provided when the nature of the information is such that it can be determined on the standard of correctness whether the exemption claimed under the Act applies or not (
+Telezone
+, above;
+ <FRAGMENT_SUPPRESSED>  (FC)). It is feasible for the Court to assess whether a document falls within a class-based exemption or another. For example, either information was obtained in confidence from a foreign government or it was not (paragraph 13(1)(a) of the Act). Either information is personal information under section 19 of the Act or it is not. The determination of a class-based exemption is indeed one that lends itself to a review on a correctness basis, as counsel for the Applicant noted during the public hearing; these exemptions are of a "binary" nature.
+[69]
+However, the applicability of the injury-based exemption of section 15 is to be determined on the standard of reasonableness. Firstly, this is what is instructed by section 50 and section 15 themselves ("reasonable grounds to refuse disclosure", "reasonably be expected to be injurious ..."). Secondly, this Court has proceeded with the reasonableness standard when dealing with section 15 exemptions (
+ <FRAGMENT_SUPPRESSED>  (FCA), at para 7;
+ <FRAGMENT_SUPPRESSED>  (FCTD)). Thirdly, the Court notes the nature of the information falling under section 15 is such that "a range of acceptable outcomes defensible in fact and in law" does exist in terms of what constitutes information injurious to the matters highlighted in section 15. Reasonable people can reasonably disagree as to what falls within section 15, and the present application is the perfect example of this.
+[70]
+Thus, for an application under section 50 contesting the application of the section 15 exemption, the first step is to assess whether the information could reasonably be expected to be injurious to the conduct of international affairs, the defence of Canada or any allied or associated state, or the detection, prevention or suppression of subversive or hostile activities, as defined by section 15. The standard of proof in this respect is that of the reasonable expectation of probable harm, as indicated in
+ <FRAGMENT_SUPPRESSED>  (FCA).
+[71]
+The assessment of the applicable standards of review also calls for the assessment of the other component of section 15: its discretionary nature. The dichotomy between mandatory and discretionary exemptions needs to be emphasized by the Court in the assessment of the review to be undertaken. If an exemption is mandatory, the first step, i.e. the evaluation of whether information falls within an exemption, will be sufficient. In these cases, as there is no discretion, the head of the government institution has an obligation to refuse to disclose if the exemption applies. Thus, there is only one decision to review: whether the application of the exemption is correct or reasonable, according to the exemption claimed.
+[72]
+When the Court is faced with a discretionary exemption, it must also review the exercise of the head of the institution's discretion in refusing disclosure. This was expressly discussed by Justice Rothstein, as he then was, in the case of
+ <FRAGMENT_SUPPRESSED>  exemptions, the only decision to be made is whether the record comes within the description that the Act requires be exempted from disclosure.
+In the case of discretionary exemptions such as that under section 14, two decisions are necessary: first, does the record come within the description that is contemplated by the statutory exemption invoked in a particular case; and second, if it does, should the record nevertheless be disclosed
+. [Emphasis added]
+[73]
+This two-step analysis for the refusal of disclosure under discretionary exemptions was confirmed by Justice Nadon, as he then was, in the case of
+ <FRAGMENT_SUPPRESSED>  (FCTD), at para 32, a judgment which was appealed on other grounds and confirmed by the Appeal Division of the Federal Court of Canada, as it then was (
+Do-Ky (CA)
+, above). Also, while this case dealt with the section 21(1)(a), the Federal Court of Appeal confirmed in
+Telezone
+, above, at para 47, that the exercise of discretion was also to be reviewed "on the grounds normally available in administrative law for the review of administrative discretion, including unreasonableness". The Federal Court of Appeal also adopted a two-step approach in
+ <FRAGMENT_SUPPRESSED> . More recently, although considering a provincial statute, the Supreme Court confirmed that not only is the qualification of the records to be reviewed, but also the exercise of discretion when an act confers it to the decision-maker (
+Ontario (Public Safety and  <FRAGMENT_SUPPRESSED> ).
+[74]
+It appears as though the two-step analysis for discretionary exemptions has not always been clearly and consistently applied by this Court. However, for the Act's objects and purpose to be given full meaning and breadth, the two-step analysis, where the exercise of discretion must also be reviewed on a reasonableness standard, must prevail.
+[75]
+Firstly, the Act clearly sets out that decisions on the disclosure of government information should be reviewed independently of government. It is the Office of the Information Commissioner that assumes part of this essential duty of independently reviewing refusals of disclosure under its statutory mandate. However, this statutory power falls short of ordering disclosure of documents. While the Commissioner has a crucial role to play in access to information requests, it is clear that the Commissioner's powers can only go so far, and whose recommendations are within the realm of political sanctions. It is the Federal Court that has the power to order disclosure, and to make any other orders as deemed appropriate, as per sections 49 and 50 of the Act. Thus, for the review to be truly independent of government, both the application of the exemption and the exercise of discretion, if applicable, are to be reviewed by the Court.
+[76]
+The two-step approach to the analysis and review of claimed exemptions under section 15 of the Act, under reasonableness for both issues, has recently been confirmed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  Act are more than a typical application for judicial review. This is supported by the fact that applications for review are brought directly under the Act and that broad remedies are available to the Court, implying that this is not a question of standards of review per se. The Court's role in the process is also broader: in camera hearings are conducted and submissions from Applicants can only argue
+in abstracto
+as to why refusals of disclosure are not justified (
+ <FRAGMENT_SUPPRESSED>  (FCA), at para 36;
+ <FRAGMENT_SUPPRESSED>  claimed, a decision-maker's discretion may be at play, calling for some or no deference from the Court.
+[78]
+ <FRAGMENT_SUPPRESSED>  the Supreme Court interpreted the scope and purpose of the Act, although this was done in the context of section 19, a class-based, mandatory exemption, pertaining to personal information. Justice Gonthier conducted a full pragmatic and functional analysis of the standard of review under section 19 of the Act. In this respect, Justice Gonthier emphasized the principle of independent review provided for by the Act, as well as the fact that applying exemptions of the Act imply legal analysis, something the RCMP Commissioner had no expertise in. This led the Supreme Court to conclude that there was a less deferential standard to be considered. More precisely, the following was noted in respect to the Act's objectives:
+In my opinion, this purpose is advanced by adopting a less deferential standard of review. Under the federal scheme, those responsible for answering access to information requests are agents of a government institution. This is unlike the situation under many provincial access to information statutes, where information requests are reviewed by an administrative tribunal independent from the executive (
+ <FRAGMENT_SUPPRESSED> , 2002 SCC 71). A less deferential standard of review thus advances the stated objective that decisions on the disclosure of government information be reviewed independently of government. Further, those charged with responding to requests under the federal Access Act might be inclined to interpret the exceptions to information disclosure in a liberal manner so as to favour their institution (
+3430901  <FRAGMENT_SUPPRESSED> , 2001 FCA 254, at para. 30). As such, the exercise of broad powers of review would also advance the stated purpose of providing a right of access to information in records under the control of a government institution in accordance with the principle that necessary exceptions to the right of access should be limited and specific.
+Finally, the nature of the issue before the Court also militates in favour of providing broad powers of review. The dispute requires the RCMP Commissioner to interpret s. 3(j), and in particular, the statement that personal information does not include "information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual . . .".
+Thus, the Commissioner is called upon to interpret the Access Act and the Privacy Act, taking into account the general principles underlying them. This is a question of law that does not turn on any finding of fact. It is also a question of a highly generalized nature, owing to the fact that the Access Act and the Privacy Act determine the disclosure obligations
+for each of the many institutions governed by the Access Act. These factors further indicate that courts ought not to be restrained in reviewing the Commissioner's decisions. [Emphasis added]
+[79]
+This Court cannot import the totality of the Supreme Court's learned reasoning in
+ <FRAGMENT_SUPPRESSED>  different. Furthermore, correctness cannot be adopted as the standard of review, namely because it runs counter to the plain-reading of section 15 of the Act and because the decision-maker retains some discretion in the decision to withhold information from disclosure.
+[80]
+However, some of the Supreme Court's findings give proper context to the underlying dynamics of access to information law in Canada. Firstly, as the Federal Court of Appeal noted in
+Telezone
+, above, which was cited approvingly by Justice Gonthier, institutions responding to access to information requests may tend to apply exemptions liberally so as to limit disclosure and scrutiny of their organization. Also, it remains true that decisions on access to information require an interpretation of the Act, which is inherently a legal question for which the reviewing Court is indeed the proper forum for such a determination.
+[81]
+It should also be noted that counsel for the Respondent indicated, while discussing another topic during the Cross-Examination of Nicole Jalbert, that "a judicial review application is a de novo review by the Federal Court and a judge of the Federal Court sees the records and makes their own determination on whether the claimed exemptions apply to the records" (Transcript of the Cross-Examination of Nicole Jalbert, March 2, 2010, p. 9).
+[82]
+Considering these elements, and for exemptions under the Act to be truly "limited and specific", as required by law, as well as the fact that the Act to be interpreted in a "purposive and liberal manner" (
+ <FRAGMENT_SUPPRESSED> ), it is clear that the Court reviewing refusals of disclosure under discretionary exemptions are to review 1) whether the documents fall within the exemption claimed and 2) whether discretion was exercised properly. However, the Act's objectives and their interpretation by the courts is such that this discretion is on the lower end of the spectrum, and that the Court is given ample jurisdiction and powers to review the exemptions claimed, as well as the exercise of discretion. This conclusion is necessary for the Act to be given its full meaning and breadth. As the Federal Court of Appeal noted in
+Telezone
+, above, at para 36, "if the Court were to confine its duty under section 41 to review ministerial refusals of access requests by deferring to ministerial interpretations and applications of the Act, it would, in effect, be putting the fox in charge of guarding the henhouse" (see also
+The Canadian Council for  <FRAGMENT_SUPPRESSED>  (FCTD)). Therefore, some deference has to be given, but not to the point of neutralizing the role of the judiciary as provided for by the legislation.
+F. Determinative Questions
+[83]
+The questions raised by the case at bar are as follows:
+1. Were the documents properly considered as section 15 exempted documents?
+2. What factors are to be considered in the exercise of discretion?
+3. Was the exercise of discretion reasonable in the circumstance?
+[84]
+The Court will consider both the documentation as it was reviewed initially, as well as the second exercise of discretion that is the second review. This is necessary in order to give the most representative analysis of this case as it proceeded before the Court. Furthermore, it should be noted that two of the reasons advanced by counsel for the Respondent for the second review result from the Court proceedings themselves: the passage of time and the Court's comments in the ex parte-, in camera hearings. It cannot be that the Respondent will be exempt from the Court's scrutiny and analysis by way of Judgment because discretion was exercised de novo during the proceedings.
+[85]
+After detailing general considerations applicable to the case at bar, the Court will review the withheld information as it was classified and submitted by the Respondent.
+II. Analysis
+A. Preliminary Matters
+(1) The completeness of the file before the Court
+[86]
+After the second release of the Douglas dossier, counsel for the Applicant appropriately submitted to the Court that the documentation submitted was not complete, and that sections of documents were absent from the file (for example, pp 199-202; pp 213-215; pp 238-242; pp 645-649; pp 750-754; pp 819-821; pp 832-836). As this was never brought to the attention of the Court, and the Court itself did not notice this, a further public hearing was held to address this important issue.
+[87]
+Typically, the missing pages are portions of intelligence reports on other targets where only some portions are found within the ATI documentation. Some of the sections pertaining to T.C. Douglas are still within the file, others are still within the file but do not address T.C. Douglas. As such, there are no indicia of what could be found in the missing portions of the report.
+[88]
+The Respondent addressed these concerns with additional submissions and affidavits. It was confirmed that what was transferred to the Applicant was the complete record as it was its LAC's possession. No copies of this file were kept by CSIS. However, the affidavits are silent as to whether there is more information in LAC's possession about T.C. Douglas, for example, if he would be mentioned or targeted by an RCMP program or anything of this nature. The initial referral to section 10 of the Act in LAC's initial response to the ATI request leaves the Court with doubts, if not concerns, about this issue. It has been stated on the public record that documents which could be covered under section 13 of the Act (Information obtained in confidence of a foreign government, international organization, provincial government, etc) remain with CSIS, and were not subject to the present application.
+[89]
+These doubts are further confirmed by counsel for LAC's submission that the Applicant's request "was not a request for access to all records related to Mr. Douglas in the possession or control of LAC". LAC interpreted the Applicant's ATI request literally. Indeed, what was requested was a "copy of the RCMP Security Service
+File(s)
+on Thomas Clement (Tommy) Douglas" [Emphasis added - it is plural]. Of course, the Applicant would be interested in all the documents detained by LAC transferred by the RCMP or CSIS concerning T.C. Douglas. The wording of his request specified "the RCMP Security Service File(s)", which could arguably include information on T.C. Douglas found in other files.
+[90]
+By way of example, counsel for the Applicant suggested that "if Mr Douglas' name turns up on a document titled, for example, "Security Panel: Plans for Internment of Dissenters", the public should know". Indeed, what has transpired from the Respondent's response is that such a document would
+not
+have been included in response to the Applicant's ATI request. Again, the initial mention of LAC's reliance on section 10 of the Act is perhaps not as inadvertent as indicated. Maybe the initial approach of referring to section 10 was replaced by a strictly literal interpretation of the ATI request, making the reference to section 10 unnecessary. Sadly, the content and scope of what information the government holds concerning T.C. Douglas was never addressed ex parte, as the Court was led to believe that there was only one "playing field", that which constitutes the documentation submitted in response to the ATI request, save from the information emanating from foreign sources, which remains with CSIS. There needs to be a balance in an institution's literal response to an ATI request and whether there would be more on the subject sought that is linked to the ATI request, more so when the institution is LAC, the custodian of Canada's history and documentary heritage.
+[91]
+As for the missing pages, Ms. Jalbert's affidavit referred and enclosed the relevant portions of an RCMP policy applicable during the time that the Douglas file was kept active (""I" Directorate Manual of Filing for Operation, Case and Policy Files", January 1st, 1959). Applying a process known as "extracting", the filing clerks would only incorporate into a file the relevant portions of a record with the first and last page of the original report. However, Ms. Jalbert could not address to what extent this was applied to the Douglas file. It appears likely that this policy was applied to the portions of the documentation with missing pages. However, documents comparable in length and subject did not miss pages. Hence, it remains unclear as to why there were missing pages.
+[92]
+More importantly, Ms. Jalbert attests the following: "When I reviewed the records contained in the Tommy Douglas file in January, 2010, and when the request was initially processed, I noticed that some pages were missing. (...) Because the issue of the missing pages was not raised by the applicant before April 18, 2011, and did not otherwise appear to be an issue, it was not addressed in the affidavit I swore in January 2010."
+[93]
+This is a troubling assertion. There is no wonder why the Applicant did not raise the issue: little to no access was given to these documents in response to the ATI request. It is only once the second review was done by the Respondent that the Applicant had access to many portions of the documentation. The Applicant raised the issue at the first reasonable opportunity given. Hence, the affiant's approach is disingenuous, and is further compounded by counsel's unsubstantiated assertion that "the purpose of the Act is to provide a right of access to information in records under the control of a government institution. The right of access is not to be confused with a right to the preservation of records".
+[94]
+It is worrisome that such is the approach taken by the Respondent, designated by law as responsible for (a) acquiring and preserving the documentary heritage of Canada; (b) making that heritage known to Canadians and to anyone with an interest in Canada and facilitating access to it; (c) being the permanent repository of publications of the Government of Canada and of government and ministerial records that are of historical or archival value (section 7 of the
+Library and Archives of Canada Act
+). Furthermore, this completely undermines what has been deemed "necessary" by the Preamble of the
+Library and Archives of Canada Act
+, namely:
+HEREAS it is
+necessary
+that
+(a)
+the documentary heritage of Canada be preserved
+for the benefit of present and future generations;
+(b) Canada be served by
+an institution that is a source of enduring knowledge
+accessible to all, contributing to the cultural, social and economic advancement of Canada as a free and democratic society;
+(c) that institution facilitate in Canada cooperation among the communities involved in the acquisition,
+preservation
+and diffusion of knowledge; and
+(d) that institution serve as the
+continuing memory
+of the government of Canada and its institutions;
+Attendu qu'il est
+nécessaire
+:
+a) que
+le patrimoine documentaire du Canada soit préservé
+pour les générations présentes et futures;
+b) que le Canada se dote d'une institution qui soit
+une source de savoir permanent
+accessible à tous et qui contribue à l'épanouissement culturel, social et économique de la société libre et démocratique que constitue le Canada;
+c) que cette institution puisse faciliter au Canada la concertation des divers milieux intéressés à l'acquisition, à
+la préservation
+et à la diffusion du savoir;
+d) que cette institution soit la
+mémoire permanente
+de l'administration fédérale et de ses institutions, [Emphasis added]
+[95]
+Contrary to what is submitted, there is an arguable right to the preservation of Canada's documentary heritage. For example, if an overzealous document-destruction policy were adopted, it would surely be reviewable by the Court. It is entirely within LAC's mandate to ensure an adequate preservation of Canada's documentary heritage, and it is troubling that the contrary was argued by LAC, the custodian of Canada's history, before this Court.
+[96]
+It is also worrisome that Bill Wood, Acting Director of the Access to Information, Privacy and Personnel Records Division at LAC, swears that "LAC neither verifies the completeness of the record, the content of the record nor does it do a page count of the record". Bill Wood attests that "the record that was before the Court was the same as the record that was in the care and control of LAC in the circumstances and that the hard-copy Tommy Douglas File from which the request was processed did not contain the missing pages". Additional missing pages were identified by LAC, and the Court thanks LAC for its efforts, albeit belated, to address these pressing issues. One has to wonder what would have happened had the Applicant not identified these missing pages in the context of this application. It is true the answers given are not entirely satisfactory, but the sworn information is such that LAC has gone as far as it can in respect to the issue of missing pages.
+[97]
+Ms. Jalbert was present during the ex parte hearing, as was Mr. Wood. As discussed above, and as is clear from the caselaw, ex parte submissions are to be made under a duty of utmost good faith (
+Ruby
+, above; see also para 41 of these reasons).
+[98]
+Not identifying missing pages, despite having knowledge of this issue, cannot be excused under the premise that "it was not addressed by the Applicant". In the context of the ex parte hearing, not alluding to other documents which would be of interest to the Applicant, or not explaining LAC's literal interpretation of the ATI request are of concern and may be associated to breaches of the duty of utmost good faith highlighted by the Supreme Court in
+Ruby
+, above. Or, simply, not telling the Court that LAC has more documents concerning T.C. Douglas in its possession could also be a breach of the duty of candor. In the interest of clarity, a discussion was held on the applicability of
+Ruby
+to the ex parte hearing, and counsel for the Respondent recognized on many occasions ex parte his duty as an officer of the Court of utmost good faith. Let it be clear: it is not counsel for the Respondent's conduct which is being reviewed, but rather, his client's and CSIS'.
+[99]
+As for remedies for this aspect of the case, it seems as though the Court has already done what it could in the circumstances by ordering an inquiry as to the completeness of the file. Unsatisfying answers were given, but it appears that LAC is content with this approach. During the last public hearing, the Court made it clear that it would be ready to consider involving CSIS in some way, but counsel for both parties declined. There is not much more a Court can do in such circumstance.
+[100]
+In this respect, as the ATI request identified that it was the RCMP Security Service record(s), with a clear indication of a possibility of a plurality of records that were sought, the Court is not entirely satisfied that LAC has meaningfully responded to the request. Nowhere is it sworn or stated that, for example, "all the information in LAC's possession pertaining or mentioning T.C. Douglas has been given". Rather, the focus is drawn on the intelligence file on T.C. Douglas itself. Counsel for the Respondent stated in writing that "it was not a request for access to all records related to Mr. Douglas in the possession or control of LAC". In this light, one can quote the case of
+ <FRAGMENT_SUPPRESSED>  (FCTD), at para 6, in support of the disclosure of relevant ancillary information, more so when this information could be seen as being not being "ancillary" at all, being encompassed by the ATI request:
+It seems to me that the Respondent is acting within the spirit of s.2 of the Act in making available to the Requesters not just the specific document requested but ancillary documentation or information which would facilitate the ability of the Requesters to understand the government information which they have requested. Indeed, I can envisage circumstances in which the Respondent could be properly criticized for withholding ancillary information of that sort once it has determined that the primary information should be released.
+[101]
+The Court finds that additional steps are to be taken by LAC, in light of the consistent characterization of the litigated records as the "responsive records". Counsel for the Respondent argues that "there is no judicial authority supporting the suggestion that the Court should order LAC to conduct a different search, one is broader than the applicant's own request." The Court is inclined to believe that LAC interpreted restrictively the ATI request as the "record" (singular) on T.C. Douglas, which would only be the intelligence file itself, and not whether more information, if not all, the information on the individual in LAC's control was sought. It was. It is reasonable to infer this from the request from the standardized ATI request form, which, it should be said, does not provide much space or envisage a dissertation as to the exact scope of the ATI request. It is an access to
+information
+request that was addressed to LAC, not a literal access to
+records
+request. Surely, reasonable inferences must be made by LAC to address whether it is meaningfully responding to the ATI request.
+[102]
+Evidently, there are concerns as to not creating a context where requestors under the Act would be able to make broad, imprecise ATI requests. However, these reasons should not be interpreted as condoning this and encouraging overbroad and imprecise ATI requests. Simply, in this case, the request was sufficiently clear and the Court is not satisfied that it has been meaningfully addressed.
+[103]
+It is true that the Court's powers under section 50 of the Act are remedial, implying that orders arise from a refusal of disclosure. Justice Strayer indeed indicated in
+X v. Canada (Minister of National Defence)
+, above, that "refusal of access is a condition precedent to an application" under sections 49 and 50 of the Act.
+[104]
+In this case, the Court takes the Respondent's possible restrictive interpretation of the ATI request as a possible refusal of disclosure in and of itself. Also, the breaches of the duty of utmost good faith arising from the ex parte portion of the application are such that the remedy under section 50 is justified.
+[105]
+Otherwise, there are refusals of disclosure in this case, and it is open for the Court to make an order under section 50. If the Court's jurisdiction to make the following order falls into question, one could also rely on the inherent jurisdiction of the Court to ensure compliance with the high standards set out in
+Ruby
+, above, which are applicable to these proceedings.
+[106]
+As will be seen, the remedy crafted is not onerous: either there are more records or there are not, or LAC has another explanation. If the Respondent relies upon section 10 of the Act, then it shall formally constitute a refusal for which the Court currently has no jurisdiction to evaluate.
+[107]
+Given that LAC's mandate is proactive, aims to
+facilitate
+access to government records, and that LAC must seek to make Canada's documentary heritage known, the Court orders, pursuant to section 50 of the Act, that LAC justify, in writing, to the Applicant whether it has more information on T.C. Douglas in its control, beyond what has already been disclosed within the present application, or if it relies on section 10 of the Act, or if any other response is warranted. Contrary to what counsel for the Respondent submits, it is not about
+expanding
+the ATI request. Rather, it is about ensuring that a restrictive interpretation of the ATI request has not prevailed.
+[108]
+Perhaps, if Canada proceeded as other democracies do, with a declassification process of dated records, many of these issues would arise in a more limited context. This would also make it easier for the Respondent to meet its evidentiary burden of providing specific and detailed evidence for documents or portions thereof still withheld despite declassification. It would also be less taxing for CSIS' resources, for LAC's resources, and indeed, for the Court's as well.
+[109]
+In respect to the completeness of the records and the compliance with the ATI request, the sole binding order aims to ensure that LAC has complied with the ATI request's spirit and intent, that is, to understand the RCMP's interest in T.C. Douglas.
+(2) The Amicus Curiae Request
+[110]
+As discussed above, the counsel for the Applicant had made a last minute request that the Court should avail itself of the broad powers provided by section 50 of the Act in order to appoint an amicus curiae in order to help the Court with its analysis and review of the documentation.
+[111]
+The power to appoint amicus curiae is not expressly provided for within the Act. Under the
+Canada Evidence Act
+, the appointment of an amicus has been done in more than one instance (see, for example,
+ <FRAGMENT_SUPPRESSED> ). In the security certificate context, special advocates are appointed and accomplish functions that are much broader than typical amici curiae. The Applicant has argued that the broad powers conferred by section 50 of the Act are such that the Court does indeed have the power to appoint amicus curiae. The Respondent argued that not only was the appointment of an amicus not necessary, but that such an order was not contemplated by the legislation.
+[112]
+In the context of access to information in
+ <FRAGMENT_SUPPRESSED> , Justice Rothstein, as he then was, refused a motion seeking to grant access to litigated documents by counsel for the applicant, subject to an undertaking of non-disclosure, an undertaking of obtaining proper security clearance and an undertaking of not using the documents for any other purpose.
+[113]
+For the purpose of this application, no amicus shall be appointed. Firstly, to involve an amicus at this late stage would require prolonging the case for at least another six months. The Court was aware that such a request could arise, and during the early stages of the application, at no time was this request brought to the Court. Hence, it did not arise in a timely manner, notably because it arose after lengthy reviews of the documentation by the Court. Secondly, the Court has reviewed for a second time all the claimed exemptions and the documentation submitted. To involve an amicus at this stage would not contribute anything more. Thirdly, because of the remedies provided by the present reasons, a review of the documentation with an amicus is not necessary.
+[114]
+Without deciding this issue, the Court assumes for the purposes of this file only that the appointment of an amicus could fall within the ambit of the broad powers of section 50 of the Act.
+(3) The Evidence in Support of Confidentiality
+[115]
+Apart from counsel's representations during the closed and public hearings, counsel for the Respondent submitted three affidavits. Two of them have public and confidential versions. The first is from Nicole Jalbert, the Access to Information and Privacy Coordinator for CSIS. As an exhibit to Ms. Jalbert's Public Affidavit, an "umbrella" document sets out the main grounds on which portions of the documentation were withheld. Summarily, the Public Affidavit sets out three grounds for which the information should not be disclosed. Firstly, disclosure could identify employees, internal procedures and administrative methodologies of CSIS. Secondly, the disclosure could identify or tend to identify CSIS' interest in individuals, groups or issues, including the existence or absence of past or present investigations, their intensity and degree of success. Thirdly, Ms. Jalbert contends that the information could tend to identify sources of information or the content of information provided by a source, technical or human. Ms. Jalbert's affidavit also included a brief history of CSIS and how it assumed the RCMP's Intelligence Branch's mandate upon its creation.
+[116]
+Ms. Jalbert's affidavits did not indicate the specific relation between disclosure of precise documents and the alleged injury: only general, class-based arguments were submitted about the nature of the documentation and the injury caused if released to the public. Also, no information was submitted as to whether discretion was exercised for the release of information, or whether if it was released because there was no injury resulting from its disclosure. In respect to discretion, no information was submitted as to whether historical interests were balanced with national security concerns.
+[117]
+As discussed, a second review of the documentation was undertaken by LAC, which undeniably proceeded with consultation with CSIS. As a result of the second review, it appears some of the grounds on which the Respondent relied to refuse disclosure were no longer relied upon with the same intensity, namely in regards to "transitional operational interests" and technical sources. Thus, Ms. Jalbert's affidavits must be taken into consideration in light of the second review, as it nuances the arguments brought forth initially in regards to the alleged injury resulting from disclosure.
+[118]
+The second set of affidavits on file is those of Bill Wood, Acting Director of the Access to Information, Privacy and Personnel Records Division of LAC. Mr. Wood clarified LAC's mandate and detailed the process followed for the assessment of Mr. Bronskill's ATI request.
+[119]
+The third affidavit is that of Heather Squires, an articling student employed with the Department of Justice. The affidavit presents what is otherwise known as a Vaughn Index. It is titled "Recommendations Sheet", and indicates what provision of the Act is used to justify whether records were withheld. However, as section 19(1) is no longer in play, it can be said that the Recommendations Sheet is not particularly useful, as all records are withheld under 15(1). The Recommendations Sheet does not detail what aspect of section 15(1) is contemplated. A more specific list was made available to the Court on an ex parte basis. This list basically correlates the grounds for refusal brought forth by Ms. Jalbert with the specific pages of the record. No such list was provided for the second review. The affidavit of Heather Squires also provides a redacted document entitled "Rationale Document for CSIS Exemptions Used by National Archives". The unredacted version was submitted on an ex parte hearing, and following this hearing, the Court advised the Respondent to consider whether more portions of this document could be disclosed. This was done by the Respondent, and it now falls within the public domain. This document details the rationales behind CSIS' interpretation of section 15, as well as other exemptions of the Act.
+[120]
+Also, during the course of the closed hearing, counsel for the Respondent made representations as to how injury could result from disclosure. This was also dealt with to a certain extent in the public context.
+[121]
+Information was submitted ex parte to classify documents under different headings to indicate which type of information was protected. This methodology was not followed for the second review, and so, the Court can only rely on the general argumentation submitted.
+[122]
+Such is the Respondent's evidence. In all candour, the Court can state that the enterprise of reviewing the documentation consisted mainly of deductions and reading into the Respondent's general submissions and evidence. Courts have consistently recognized the requirements of "specific and detailed" evidence as the Respondent's burden in an ATI case. The large volume of documents, spanning over forty years of RCMP activities, probably did not lend itself to the time-consuming enterprise of specifically and precisely detailing the alleged injury, but surely it is not for the Court to endeavour such an enterprise without more evidence from the Respondent. Considering the important interests at play when dealing with national security information, it was clear that the application could not be granted on the sole basis of the Respondent's incapacity to meet evidentiary requirements. However, it should be said that the Court's resources were considerably taxed during the course of the review of the documentation, as the evidence did not deal specifically with the documentation. Surely, the onus should not be on the Court to infer probable injury from over 1000 pages of documentation. More should be done on the Respondent's part to provide more specific information, especially as a result of the second review of the documentation.
+B. Were the documents properly considered as section 15 exempted documents?
+(1) General Considerations
+[123]
+As stated above, the present application deals with section 15 of the Act. In keeping with the two-step analysis, the first step consists in identifying whether the documents fall under the claimed exemption or not. Under section 15, disclosure of the documents must be found to be "reasonably expected to be injurious to the conduct of international affairs, the defence of Canada or any state allied or associated with Canada or the detection, prevention or suppression of subversive or hostile activities". As the grounds for injury are indicated generally, section 15 goes on to describe elements of what could constitute such injurious disclosure of information.
+[124]
+The Federal Court of Appeal has recently stated that the burden of proof under an application under the Act depends on the circumstance of the case (
+ <FRAGMENT_SUPPRESSED>  decided that within the context of the application brought under section 15, where ex parte hearings were held, and where the applicant had no precise knowledge, that "the appellant cannot be required in this case to bear the burden of establishing on a confidential record he cannot access that the respondent failed to give consideration to the exercise of discretion. The burden of proof is on the respondent to establish that the discretion was exercised in a reasonable manner" (
+ <FRAGMENT_SUPPRESSED>  application, due to the nature of the file, its volume and the particular position in which the Applicant is placed. Hence, it is for the Respondent to show that the discretion was reasonably exercised. The Respondent also bears the burden of establishing the applicability of the exemptions claimed.
+[125]
+The standard of proof to be met by the Respondent, as the party resisting disclosure, requires that a "reasonable expectation of probable harm" is to be shown (
+ <FRAGMENT_SUPPRESSED>  (FCA)).
+[126]
+Justice Rothstein, as he then was, articulated the standards which heads of government institutions refusing disclosure must meet in the seminal
+ <FRAGMENT_SUPPRESSED>  Justice Rothstein stated that the party seeking to maintain confidentiality must demonstrate its case "clearly and directly" and that a "general approach to justifying confidentiality is not envisaged" (
+ <FRAGMENT_SUPPRESSED>  required between the evidence adduced and the alleged injury, the latter which must also not be speculative (see, inter alia,
+Do-Ky (FCTD)
+, at paras 32-34).
+[127]
+The Court can do no better than to cite Justice Rothstein again in the case of
+ <FRAGMENT_SUPPRESSED>  possible harm, even in substantial detail, are insufficient in themselves. At the least, there must be a clear and direct linkage between the disclosure of specific information and the harm alleged. (...) The more specific and substantiated the evidence, the stronger the case for confidentiality. The more general the evidence, the more difficult it would be for a court to be satisfied as to the linkage between disclosure of particular documents and the harm alleged.
+[128]
+While the Court must rely in this case on the evidence before it by the party seeking to bar disclosure, it is clear that the evidence presented and the expertise underlying it must be "balanced against the primary purpose of the Act, namely, the provision of a public right of access to government records" (
+Telezone
+, above, at para 36).
+[129]
+The injury-based determination that must be undertaken by the Court is indeed one that balances the Act's aims and objectives, more precisely, that the Act's exceptions be interpreted restrictively. Again, Justice Rothstein provided ample guidance in the
+ <FRAGMENT_SUPPRESSED>  are reasonable expectations grounds for probable harm. Cited as a non-exhaustive list, these are noted as follows:
+1. The exceptions to access require a reasonable expectation of probable harm.
+2. The considered opinion of the Information Commissioner should not be ignored.
+3. Use of the information is to be assumed in assessing whether its disclosure would give rise to a reasonable expectation of probable harm.
+4. It is relevant to consider if the information sought to be kept confidential is available from sources otherwise available by the public or whether it could be obtained by observation or independent study by a member of the public acting on his or her own.
+5. Press coverage of a confidential record is relevant to the issue of expectation of probable harm from its disclosure.
+6. Evidence of the period of time between the date of the confidential record and its disclosure is relevant.
+7. Evidence that relates to consequences that could ensue from disclosure that describe the consequences in a general way falls short of meeting the burden of entitlement to an exemption from disclosure.
+8. Each distinct record must be considered on its own and in the context of all the documents requested for release, as the total contents of the release are bound to have considerable bearing on the reasonable consequences of its disclosure.
+9. Section 25 of the Act provides for the severance of material in a record that can be disclosed from that which is protected from disclosure under an exemption provision. The severance must be reasonable. To disclose a few lines out of context would be worthless.
+10. Exemptions from disclosure should be justified by affidavit evidence explaining clearly the rationale exempting each record.
+(
+ <FRAGMENT_SUPPRESSED>  the fact that a document is not directly linked to an ATI request does not necessarily constitute grounds for refusal of disclosure, it is not for the decision-maker to exclude what he or she determines as not relevant to the access request, so long as these documents constitute the record sought (
+X v. Canada
+, [1992] 1 CF 77, at para 44 (FCTD) (Denault J.)).
+[131]
+In addition, the Act's exemptions are not to be validated by the Court when used to prevent embarrassments or to hide illegal acts (
+ <FRAGMENT_SUPPRESSED> ; see also subsection 47(2) of the Act).
+[132]
+The Court must also assess whether the severance of the records sought, if any, was reasonably done (s 25 of the Act). Under the broad powers conferred by the Court under section 50, it is conceivable that the Court may undertake this exercise in severability in ordering that the documents be disclosed in part. However, the records themselves in the case at bar span over 1,000 pages, and surely the Court's expertise does not span to assessing the exact severance to be undertaken and all the interests at play. An exercise in severance of the records will not be undertaken by the Court in the context of the present application.
+[133]
+The assessment of the reasonable expectation of probable harm is one that must be consistent. It would be highly illogical, and run counter to the Act, if the head of a government institution would apply inconsistent standards between different documents, more so if the inconsistencies would be in the very same ATI request. Where the decision-maker must make a determination of the injury caused by disclosure, inconsistent redactions and assessments of the injury resulting from disclosure may constitute grounds for additional disclosure ordered by the Court.
+[134]
+This aspect of the case is not the same as in
+ <FRAGMENT_SUPPRESSED>  where the consistency of the severance undertaken was dealt with in respect to a class-based exemption, solicitor-client privilege under section 23 of the Act. The Federal Court of Appeal in
+Blank
+, 2007 FCA 147, relied upon
+ <FRAGMENT_SUPPRESSED>  to support its findings. In
+Babcock
+, the Supreme Court ruled that the doctrine of the Crown's waiver of privilege could not apply under section 39 of the
+Canada Evidence Act
+. However, section 39 deals with a class-based exemption, that of Cabinet confidence. Hence, in this case, it is the assessment of injury caused by disclosure that is relevant. Whether confidentiality was waived or not is not relevant as it is in cases where sections 20 or 23 of the Act are applied. Rather, when injury was deemed absent or not sufficient as to allow the disclosure of documents, the Court must also consider whether this evaluation is consistent throughout the litigated documentation.
+[135]
+In the case at bar, it was made abundantly clear by the Court to counsel for the Respondent in the ex parte, in camera hearing that the severance and disclosure made was inconsistent throughout the documentation. Counsel for the Respondent acknowledged as much, and recognized it to be one of the grounds for which the second review was undertaken. However, upon review of the second release of information, the Court finds that the documentation is still inconsistently redacted, as will be detailed below.
+[136]
+For the purpose of clarity, and before the second review of the documentation will be further discussed, it is appropriate for the Court to state that the information that was first withheld from the Applicant was clearly done in a manner than runs counter to the Act's principles, as well as the mandate of LAC. Furthermore, it can be said that LAC failed to exercise its residual discretion, once the documents had been seen to be covered by the section 15 exemption. The finding that the release of several documents would imply "reasonable expectation of probable harm" was flawed for a considerable portion of the documentation, as the subsequent disclosure resulting from this proceeding has shown. There was simply no exercise of the residual discretion for release, which is necessary for the realization of the Act's purpose, as well as LAC's mandate to preserve and diffuse Canada's history.
+[137]
+That said, this Court has to analyze the records as they now stand. The Court will analyze the categories of documents still withheld, as it follows counsel for the Respondent's argumentation and the logic applied by the Respondent in refusing disclosure. When applicable, the Court will add other categories of information still withheld. The Court reiterates that this is the first stage of the application: the assessment of reasonable expectation of probable harm under section 15 of the Act.
+[138]
+Again, the Court emphasizes that what is at issue does not constitute the full record currently held by the government on T.C. Douglas. Only the portion which was deemed "responsive" by LAC is dealt with, as the ATI request was addressed to LAC.
+[139]
+Furthermore, rather than deal with documents themselves within these reasons, an Annex is provided where a chart identifies improperly withheld documents, and highlights reasons why this is the case. The Annex also details how the chart is to be read and considered by the decision-maker.
+(2) Current Operational Interest
+[140]
+Counsel for the Respondent indicated the following during the course of the public hearing of February 23rd, 2011: "Records that could identify subjects of investigation that are still of concern to the service were not released" (Transcript of the Public Hearing of February 23rd, 2011, p 135). However, it should be said that the evidence provided did not indicate all the likely current operational interests found in the file. The Court undertook limited independent research to verify some elements, as a cautious approach is necessary in national security matters. More should be done on the Respondent's part so that the Court is not placed in such a position.
+[141]
+This kind of information is reasonably withheld from disclosure. The injury-test set out in section 15 is clearly met in regards to this information and LAC's decision in this respect is reasonable, unless redactions can be made or discretion properly exercised so that some historical information is released. The Annex highlights documents where this could be done.
+(3) Human Sources
+[142]
+The disclosure of information pertaining to human sources is directly anticipated as an exemption within the Act, at paragraph 15(1)(f).
+[143]
+The rationale document provided by CSIS to LAC states that "the most important tool of any security agency is a human source". The Respondent's position is such that the protection of human sources of CSIS and its predecessor must be absolute and that "there is no basis in law or in fact to support a temporal limitation on that privilege once it is recognized by the Court" (Transcript of the Public Hearing of February 23, 2011, p 129). The anonymity of human sources, past and present, is said to be paramount to the current work of sources, as well as for the recruitment of future sources.
+[144]
+This very Court has recognized the human source privilege in
+Harkat (Re)
+, 2009 FC 204. The question of whether CSIS informers benefit from a class-based privilege once the conditions for finding a common-law privilege are met has been certified for consideration by the Federal Court of Appeal. Evidently, the considerations in the
+Harkat
+case were different than the present, but the applicable principles should remain the same. The general approach in
+Harkat (Re)
+was followed in a case arising from section 38.04 of the
+Canada Evidence Act
+heard by my colleague Justice Mosley in
+ <FRAGMENT_SUPPRESSED>  (varied by 2011 FCA 199). Justice Mosley nuanced the approach and indicated that there were some limitations as to whether the privilege applies to only some informants for who confidentiality was assured. Evidently, further appellate guidance on this matter will prove to be timely and useful.
+[145]
+Human sources in intelligence matters should benefit from similar protection as police informers benefit under the current state of the law.
+[146]
+The privilege of anonymity has been recognized to police informers by the Supreme Court, save for the "innocent-at-stake" exception (see generally,
+ <FRAGMENT_SUPPRESSED> ).
+[147]
+The privilege of journalistic sources is less categorical, and applies within the evidentiary framework suggested by
+Wigmore on Evidence
+, as applied by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  and
+Globe and  <FRAGMENT_SUPPRESSED> . The four factors, cited as a "general framework", for a Court to consider when addressing if the identity of a journalist source should be revealed are:
+(1) the relationship must originate in a confidence that the source's identity will not be disclosed;
+(2) anonymity must be essential to the relationship in which the communication arises;
+(3) the relationship must be one that should be sedulously fostered in the public interest; and
+(4) the public interest served by protecting the identity of the informant must outweigh the public interest in getting at the truth.
+(
+ <FRAGMENT_SUPPRESSED> )
+[148]
+It should also be noted that the
+Wigmore
+framework had also been applied by this Court in
+Charkaoui (Re)
+, 2008 FC 61.
+[149]
+The records that are the object of the application were collected by the RCMP's Intelligence Service Division. The RCMP is defined as a "police force" by section 3 of the
+Royal Canadian Mounted Police Act
+, RSC 1985, c R-10. It could be argued that human sources under the RCMP's Intelligence Division were police-informers. Evidently, this argument would be in direct line with the controversies leading up to the
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, known as the MacDonald Commission. In sum, the convoluted nature of the RCMP's activities between police work and intelligence before the creation of CSIS in 1984 is such that former RCMP informers in intelligence matters cannot be readily qualified as police-informants.
+[150]
+The Court is of a mind that the identity of human sources must be protected and that it is well established that they are the essential to CSIS' operations. A form of triad should be expressly recognized with the three main informer-type privileges: police, intelligence, and to some extent journalistic sources. Again, the Court indicates that the power to provide summaries in other national security matters has proven to be a way to provide information while protecting the identity of sources. The power to reasonably sever records under section 25 can also be relevant to the protection of human sources.
+[151]
+Having said that, the Court notes that the public records as they now stand release considerable information pertaining to sources within RCMP investigations on T.C. Douglas. Evidently, for many documents, no source is readily identifiable within the records. Sometimes, the Respondent has released that "a reliable source" or "a source" has provided information. However, this has not been consistently done by the Respondent in the record as it was after the second round of disclosure. Again, consistency in the withholding of documents and information is a clear concern of the Court.
+[152]
+Proper perspective must be given to the protection of human sources within an ATI request. While the protection of sources is directly contemplated by paragraph 15(1)(f) of the Act, the exemption is not a class-based exemption. Information should not be withheld because it emanates from a human source. The head of the government institution, in this case LAC, in consultation with CSIS, must assess whether there is reasonable expectation of probable harm in disclosing the information. In the present records, LAC did release information pertaining to human sources, but did not do so in a consistent manner. In any event, no personal identifiers of human sources have been disclosed, such as there is no reasonable expectation of probable harm. A human source reasonably expects that the information provided will be used. It can be said that the "use" of this information also includes ATI requests pertaining to past investigations, so long as the source is not identifiable and that there is no reasonable expectation of probable harm in disclosure. Clearly, a class-based approach in regards to human sources had been followed in the original disclosure of documents, and to some extent, in the second review as well.
+[153]
+In regards to the second review of the Douglas dossier, the Annex provided with these reasons highlight documents where reasonable severance of the records can be done, so as to disclose the information within them, while protecting the identity of human sources.
+[154]
+As seen from the "Library and Archives (LAC) Consultations" document, a blanket policy was followed in regards to monitored meetings, which adopted an approach whereby the number of people present in a meeting and its date were a key factor to consider. However, it seems this very policy was not consistently followed for the second review of the documentation and as such, it cannot be seen as indicative of prejudice of disclosure of information in regards to human sources.
+[155]
+Counsel for the Respondent hinted at internal policies within CSIS that the protection of confidential sources was not timeless, despite what was argued in the pleadings and factums: "There is a timeframe with confidential sources" (p 198 of the Transcript of the Public Hearing of February 23, 2011). Perhaps this policy should be made public in order to clarify the underlying rationales to exemptions within the Act, and a public debate could ensue on the duration of the protection of human sources, something other democracies and our allies have long made public.
+(4) Technical Sources
+[156]
+LAC's first response to the applicant's ATI request was such that a class-based approach was adopted in regards to technical sources: CSIS and LAC reasoned that all identifiers of technical sources, in current use or not, were to be protected. Thus, the injury resulting from disclosure was presumed to be applicable to all the documents where technical sources were the source of the reporting.
+[157]
+During the course of the proceeding, and through the second review of the documentation, technical sources used for the constitution of the Douglas dossier were alluded to. The approach recommended by CSIS to LAC was to release "most of the records obtained through technical sources, intercepts and surveillance where the subject of interest was transitory in nature". This approach implies that it not so much the technical sources in and of themselves that are relevant to injury, but whether they relate to past interests or not.
+[158]
+As the decision-maker's approach indicates, the protection of technical sources is not absolute, as it is the information obtained through technical sources that is relevant under the Act. Again, the issuance of summaries could be beneficial to reveal information relevant under the ATI request, while protecting current technical sources. The Annex will not deal with information emanating from technical sources, as the Respondent's approach is reasonable in this respect.
+(5) Targets of "transitory nature"
+[159]
+The first response to the ATI request was grossly erroneous in respect to past targets of the RCMP's Intelligence Branch. There was no reasonable expectation of probable harm in disclosing most targets of a "transitory nature". This was made clear during the ex parte, in camera hearing. In support of this contention, it was emphasized that several of these targets were already publicly known. For example, it had been confirmed through the work of the MacDonald Commission that the New Democratic Party's (NDP) Waffle Group, the Communist Party of Canada and similar groups were of interest to the RCMP. The use of the MacDonald Commission reports is highly informative in the present matter. It is this Commission which gave rise to the creation of CSIS and inspired its mandate and its separation from the RCMP (see, for example,
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol. 1, p 422, for discussions on the role of a civilian security intelligence agency). The work of the MacDonald Commission was referred to ex parte, as well as during the public hearing.
+[160]
+In fact, the MacDonald Commission clarified the legitimate activities that an intelligence service may enterprise with groups that represent arguably "extreme" views, yet participate in the democratic process. The Commission clearly articulated the nuance between expressing views in a democratic process that may be considered extreme and what constitutes subversive activities. The Commission stated in all clarity the following:
+The importance to democracy of drawing the line correctly between legitimate dissent and subversion calls for sophisticated judgment and political understanding on the part of those who carry out security operations. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol. 1, p. 409)
+Strong dissent from the status quo is not a category of activity about which security intelligence should be collected; nor is the planning and carrying out of political demonstrations and processions, which, although may involve violations of local by-laws and confrontations with law enforcement officials, are not aimed at destroying fundamental elements of Canadian democracy. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol. 1, p. 417)
+All should be free to participate in discussions over the future of Canada and none should be the target of investigation by the security intelligence agency so long as they adhere to legal and democratic means of pursuing their aspirations. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol. 1, p. 466)
+[161]
+Clearly, limits were placed on the RCMP's monitoring of political parties in Canada. And as the Commission spurred the creation of CSIS, these limits can be said to be of considerable interest to CSIS as well. As such, no injury can be found in disclosing past activities that had already been made public and critiqued severely.
+[162]
+Considerable portions of the MacDonald Commission's report are relevant to the period at issue within the documentation. More precisely, and by way of example, the Commission clearly took issue with the wide scope of the investigation of the Waffle Group, a faction of the NDP in its early days as a political party:
+A non-violent political group's "extreme left posture" should provide no rationale whatsoever for a security intelligence agency to use intrusive intelligence-gathering techniques to collect information about the group's activities and intentions. Moreover, it is even more objectionable when such a rationale is used to justify the collection of information about an element of a legitimate political party which is in opposition to the party in power. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol. 1, p. 482)
+[163]
+An entire section of the Commission's report deals with the monitoring of elected members of Parliament and election candidates. Indeed, this review of the RCMP's activities provides an informative analysis of the categories of information collected and whether the information was necessary (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol.1, p 468, "
+(b) Members of Parliament, election candidates and surveillance of the Waffle
+"). One of the Commission's conclusions in respect to
+certain
+aspects of monitoring political activities reads as follows:
+Indeed the cases show that members of the Security Service have not understood the difference between legitimate political dissent, which is essential to our democratic system, and such political advocacy or action as would constitute a threat to the security of Canada. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol.1, p. 474)
+[164]
+This quote should not be taken wholly out of context, as the Commission's analysis is more nuanced in regards to the monitoring of political activities. However, it can be said that relevant guidance to the RCMP's activities has been provided by the MacDonald Commission. The Douglas dossier is illustrative of many of the conclusions drawn in respect to the overzealousness of the RCMP's Intelligence Division. Thus, the disclosure of targets of a transitory nature, especially when they relate to political parties and advocacy groups, has already been done in several instances. The reasons and rationale underlying the monitoring of these activities, and their inherent difficulties, have been discussed in public fora. Basically, a Royal Commission denounced some of the RCMP's activities. Today, under the Act, access to the first-hand source of information about the scope and purpose of these activities is refused. This is unacceptable.
+[165]
+The crux of the MacDonald Commission's work in regards to the RCMP's monitoring of political activities is articulated around the drawn-out definition of "subversive activity", as it was then defined by the RCMP. Commenting on the far-reaching nature of the definition, the Commission stated that:
+We find such a wide definition of subversion dangerous and unacceptable because it does not clearly distinguish radical dissent from genuine threats to Canada's security. (
+Royal Commission of Inquiry into Certain Activities of the RCMP
+, vol.1, p. 480)
+[166]
+It is also quite interesting to note that the MacDonald Commission reviewed the Douglas dossier in the course of its mandate, as evidenced by p1030 of the documentation.
+[167]
+It should be noted that section 15 of the Act contemplates whether the disclosure of information could hamper the monitoring of "hostile or subversive activities". As stated, the evidence on the record does not establish which aspect of section 15 is contemplated by LAC and CSIS in refusing disclosure. However, the MacDonald Commission expressed concerns over the broad definition of subversion. In the context of the present application, the Court can safely state that it shares similar concerns in regards to the use of an overbroad definition of "prevention and detection of subversive or hostile activities" in the context of section 15 of the Act.
+[168]
+Thus, there is no reasonable ground for injury preventing the release of these documents. History and Canadian democracy require that historical facts, like the monitoring of legitimate political activities, be known. Refusing disclosure under the Act of these historical events is unacceptable in most circumstances, more so when this is already made public through a Royal Commission initiated for the very purpose of investigating these activities.
+[169]
+Furthermore, the historical context in which the RCMP constituted the Douglas dossier is different from today's. The litigated files span from the end of the 1930s to the 1980s, a tumultuous historical period to say the least. The fears of socialism leading up to the Second World War, and the Cold War context that followed it do not constitute the threats with which Canada is confronted today. Surely, extremism, whatever the dogma it is attached to, is of worry when violent means are advocated. But there is no "reasonable cause for probable harm" when the perceived threats of the time have eroded and the "transitory targets" are made public. Furthermore, the Court finds that the disclosure of these targets is in fact positive: Canadians learn from this disclosure and it informs the historical context in which our country's intelligence community operated in and in which decisions were taken.
+[170]
+Thus, the approach followed in terms of targets of a "transitory nature" during the course of the second review is reasonable in most respect. Again, the Court laments the conduct of the first review of the documentation, especially in regards to targets already made public. The Court also stresses the fact that the approach followed must be consistent. As such, the Annex appended to these reasons shall highlight documents pertaining to "targets of a transitory nature" that should be disclosed.
+[171]
+Also, more is expected of the Respondent in defining what constitutes "targets of a transitory nature". As noted, this approach was only brought forth in the days prior to the public hearing of February 23, 2011, and was not clearly defined for the Court. From the documentation, it also appears as an approach which was inconsistently followed.
+(6) Identity of RCMP Officers
+[172]
+After the second review of the documentation, the exemption claimed by LAC over the records is that of section 15(1), not section 19(1). In fact, under section 19(1), the identity of RCMP officers would be disclosed, as the fact that people were employed by the RCMP does not constitute "personal information" under the Act, as per the definition provided in section 2 of the Privacy Act:
+But, for the purposes of sections 7, 8 and 26 and section 19 of the Access to Information Act,
+does not include
+(j) information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual including,
+(i) the fact that the individual is or was an officer or employee of the government institution,
+(ii) the title, business address and telephone number of the individual,
+(iii) the classification, salary range and responsibilities of the position held by the individual,
+(iv)
+the name of the individual on a document prepared by the individual in the course of employment
+, and
+(v) the personal opinions or views of the individual given in the course of employment (emphasis added)
+[173]
+The same could not be said if the documents dealt with the information dealt with covert CSIS operatives, due to the applicability of section 18 of the
+CSIS Act
+:
+Offence to disclose identity
+18. (1) Subject to subsection (2), no person shall disclose any information that the person obtained or to which the person had access in the course of the performance by that person of duties and functions under this Act or the participation by that person in the administration or enforcement of this Act and from which the identity of
+(a) any other person who is or was a confidential source of information or assistance to the Service, or
+(b) any person who is or was an employee engaged in covert operational activities of the Service can be inferred.
+Exceptions
+(2) A person may disclose information referred to in subsection (1) for the purposes of the performance of duties and functions under this Act or any other Act of Parliament or the administration or enforcement of this Act or as required by any other law or in the circumstances described in any of paragraphs 19(2)(a) to (d).
+Offence
+(3) Every one who contravenes subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction. 1984, c. 21, s. 18.
+Infraction
+18.(1) Sous réserve du paragraphe (2), nul ne peut communiquer des informations qu'il a acquises ou auxquelles il avait accès dans l'exercice des fonctions qui lui sont conférées en vertu de la présente loi ou lors de sa participation à l'exécution ou au contrôle d'application de cette loi et qui permettraient de découvrir l'identité:
+a) d'une autre personne qui fournit ou a fourni au Service des informations ou une aide à titre confidentiel;
+b) d'une personne qui est ou était un employé occupé à des activités opérationnelles cachées du Service.
+Exceptions
+(2) La communication visée au paragraphe (1) peut se faire dans l'exercice de fonctions conférées en vertu de la présente loi ou de toute autre loi fédérale ou pour l'exécution ou le contrôle d'application de la présente loi, si une autre règle de droit l'exige ou dans les circonstances visées aux alinéas 19(2)a) à d).
+Infraction
+(3) Quiconque contrevient au paragraphe (1) est coupable:
+a) soit d'un acte criminel et passible d'un emprisonnement maximal de cinq ans;
+b) soit d'une infraction punissable par procédure sommaire.
+1984, ch. 21, art. 18.
+[174]
+As for the identity of RCMP agents, LAC relied upon an umbrella rationale whereby the assessment made was one that involved the date of the report and the rank of the officer, so as to ensure that disclosure of reports from officers that could still be alive would not be released. This approach fetters the injury-assessment required by section 15. In fact, the redactions made in regards to the names of RCMP officers are completely inconsistent in regards to a section 15(1) injury assessment.
+[175]
+It could also be said that the burden of proof for showing injury from disclosure is higher when other sections of the Act or the
+Privacy Act
+require that such information be disclosed. This is so because a consistent interpretation of the Act is that reliance on one exemption bars the government from relying on another during the application before this Court (see, inter alia,  <FRAGMENT_SUPPRESSED> , at para 9 (FCA), citing approvingly
+Saint John Shipbuilding Ltd. (FCTD)
+, above).
+[176]
+Furthermore, it should be noted that the names of RCMP Officers do not fall under the scope of section 18 of the
+CSIS Act
+, whereby it is not permitted to disclose the name of CSIS employees engaged in covert operations, as the officers were not employees of CSIS.
+[177]
+The names of all the RCMP officers must be disclosed save for those involved in covert operations as infiltrators or sources. This is entirely consistent with the findings of the Supreme Court in
+ <FRAGMENT_SUPPRESSED> .
+(7) "Incidental Reporting"
+[178]
+The Respondent's approach, even within the second review of the documentation, was that documents where T.C. Douglas was only mentioned in passing were not disclosed. The reason behind this is that it would be "unfair" to Mr. Douglas should the information be taken out of context, and for this reason, entire documents were withheld.
+[179]
+This rationale is also entirely inconsistent with the Act. Firstly, it can be said that the assessment of T.C. Douglas' person, affiliations and career is one for History and Canadians to judge. Surely, LAC and CSIS cannot choose to pre-empt this judgment and substituting it with one of their own. Citizens and professionals will study the records, discuss them and ultimately, conflicting opinions may arise. But this whole exercise is positive in and of itself and should not be precluded by LAC. In fact, LAC's mandate not only enables it, but makes it responsible, for the diffusion of such historical documents. As discussed above, sole custodianship by LAC of government records is simply not enough: more should be done to
+facilitate
+access and be more responsive to the legislative mandate conferred by the
+Library and Archives of Canada Act
+.
+[180]
+Refusing disclosure of these documents is based on the premise that it does not relate to T.C. Douglas per se, and thus does not constitute the basis of the ATI request. As such, the mentions of Douglas' person are said to be "incidental reporting".
+[181]
+Justice Denault has stated clearly in
+X v. Canada
+, [1992] 1 CF 77, at para 44, that "the fact that information is not directly related to an access request is not a basis for exemption under the Act". As such, separating portions of a dossier under the premise that they are not related is an error in law. LAC, and all government institutions, must consider the documents sought under the Act as they are. They must not attempt to portion them off into categories based on relevance. Institutions are mandated under the Act to evaluate both whether an exemption exists, and if it is class-based or injury-based exemption. They must then consider their discretion to release the documents, despite the exemption. Nowhere in this analysis is "relevance" a factor.
+[182]
+The Respondent has argued that the purpose of the Act is "not met or advanced by providing access to isolated words or phrases that have no meaning in isolation or that do not provide "information" to the requestor" (citing
+ <FRAGMENT_SUPPRESSED> ). The <FRAGMENT_SUPPRESSED> case indeed arose in the context of the
+Privacy Act
+, but it remains informative.
+[183]
+However, the <FRAGMENT_SUPPRESSED> case is very different from the present, not because it arises in the context of the
+Privacy Act
+, but because the information withheld in that context did not relate at all to the request for information that was made. Mr. Murchison sought information as to why he was refused employment with Export Development Canada, and not all the information in or around the relevant portions of the government records addressed this request. In this case, the whole RCMP intelligence file on T.C. Douglas was sought. Provided that human source concerns and targeting issues are reasonably protected, the file is to be released
+as is
+, and not portioned off into what is deemed relevant (see also paras 153 and 158 of the present reasons).
+[184]
+It is also paramount to realize that the constitution of an intelligence file is in and of itself informative for intelligence purposes. What constitutes a file is indicative of many important considerations, such as a subject's influence, associations or network. If the Act was construed to accept relevance as a factor to withhold information, meaningful access to files such as T.C. Douglas' would be unduly portioned off. The nature and content of a file provides valuable information, and secluding documents which would only "directly" relate to the ATI request would hinder this process.
+[185]
+Accepting relevance as a consideration could also contribute to a situation where the number of access requests would dramatically rise. For example, if T.C. Douglas was mentioned in passing at a Communist Party of Canada meeting, and this is frequently the case in the records, it would be illogical for LAC to block access to the records on the basis that the ATI request did not ask for anything pertaining to the Communist Party of Canada. In that case, an applicant would be frustrated in his or her requests for information and would have to multiply access requests in order to get the full picture. This cannot be the intent and purpose of the Act.
+[186]
+Even if relevance was accepted, and again, the Court is strongly opposed to it, it can be said that all records pertaining to T.C. Douglas in government's possession are relevant. Mentioning Douglas' person, even in passing, is relevant to History. It shows who were interested in seeking his counsel, his help and critiqued his actions. In sum, "incidental reporting" constitutes relevant information on a person and his or her place in History.
+[187]
+Under the applicable standard of review, there are no reasonable grounds for probable injury in this disclosure. The reasoning applicable to "transitory targets" wholly applies in this case as well, and thus, no injury can be found in disclosing the RCMP's interest and monitoring of targets, subject to the conclusion of this Court on human sources and the like.
+[188]
+As section 19 of the Act is not relied upon, there is also no reasonable expectation of probable harm under section 15 resulting from the disclosure of opinions about T.C. Douglas emitted "incidentally" in records found in the Douglas dossier. The Respondent has clearly stated that it is not relying upon section 19 of the Act, and bears the consequence of this decision. It is also surprising, if not worrisome, that the Information Commissioner found that LAC's initial withholding of information could solely be justified under section 15 of the Act. Clearly, the scope of section 15 of the Act was exceeded in both reviews of the documentation, as well as in the Information Commissioner's review of the documents.
+[189]
+Thus, for documents were incidental reporting was the premise of the refusal of disclosure, the Court orders that these documents be made public. The Annex provided will identify examples where incidental reporting is a flawed premise for the withholding of information.
+(8) RCMP's Assessment of T.C. Douglas
+[190]
+Perhaps the documents pertaining to the RCMP's assessments of T.C. Douglas form the most valuable portions of the Douglas dossier. However, this is not relevant to the assessment of injury resulting from disclosure under section 15. Again, what is important and what the Court must be satisfied of is that there are "reasonable grounds for probable injury" if the information is disclosed.
+[191]
+The opinions of RCMP officers in regards to T.C. Douglas constitute "opinions made during the course of employment". These are stated by subparagraph 3(j)(v) of the
+Privacy Act
+as
+not
+being "personal information", which in turn, exempts it from the ambit of section 19 of the Act.
+[192]
+In the case of "investigator's comments" or any like documents found within the records, the Court orders that the documents be made public. There are no "reasonable grounds for injury" under section 15 resulting from disclosure. There may be cases for exceptional redactions to be made, considering some of the interests described in these reasons.
+[193]
+By way of example, during the course of the application and after the second review, a news article was referred to during the public hearing whereby a retired RCMP Officer was contacted for his comments in regards to T.C. Douglas. Surely, this cannot be the injury that LAC and CSIS refer to in regards to the opinions of RCMP officers. Again, subject to the findings in regards to human sources and technical intercepts, the documents pertaining to the RCMP's assessment of T.C. Douglas are to be disclosed. Examples of these documents are highlighted in the chart found in the Annex to these reasons.
+C. Was the exercise of discretion reasonable in the circumstance?
+[194]
+As discussed above, it is for the Respondent to prove that not only was there an exercise of discretion, but that it was reasonably done. As was the case in
+ <FRAGMENT_SUPPRESSED>  Court can infer from the subsequent release or non-release of information that the decision-maker considered [its] discretion to release information, notwithstanding that the information otherwise fell within subsection 15(1) of the Act" (para 31).
+[195]
+As was seen by the history of the proceedings, concerns were raised during the ex parte hearing in regards to the proper exercise of discretion and whether the required analysis under section 15 was meaningfully addressed by LAC. Pertaining to the first review of the documentation, these concerns were serious and there was nothing to suggest that discretion was considered in any respect. For example, some facts lead to the conclusion that LAC forwent the section 15 analysis due to deference to CSIS during the consultations. Further, the short amount of time taken by the LAC analyst (less than a week) is indicative that no reasonable assessment of discretion was made.
+[196]
+In addition, the evidence on the record, both public and confidential, does not establish that the Office of the Information Commissioner duly acquitted itself of its duties, namely in regards to discretion. Justice Kelen considered the record found in the
+ <FRAGMENT_SUPPRESSED>  (varied on other grounds in 2011 FCA 182) and commented it as follows:
+The confidential information on the record shows that the Information Commissioner performed a thorough investigation, asked a number of probing questions, and secured a number of further disclosures from the respondent. At that point, the Information Commissioner was satisfied that the documents disclosed with redactions, which are now before the Court, were in compliance with the ATIA.
+[197]
+No such inquiry is supported by the evidentiary record. Even more, and as stated above, the Office of the Information Commissioner did not even undertake the analysis of section 19 of the Act, deeming that all the records were properly withheld during the course of the first review of the documentation. In keeping with the principle of independent review in the Act, it is clear that the Commissioner has a determinative role to play. The Commissioner must not be dazzled by the claims made based on national security as a thorough and independent review must be undertaken with a critical mind, in keeping with the legislative objectives at play.
+[198]
+As for the second review of the documentation undertaken as a result of the ex parte hearing, it is paramount to address the reasons submitted by counsel for the Respondent indicating why his client undertook a second review of the documentation. As described above, the reasons for the second review were: more than five years had passed between the original request and the hearing of the application; the Respondent had acknowledged to the Court that there were inconsistencies in the withholding of information; and a number of comments during the in camera hearings were such that it "made it appropriate to conduct a further review". It does not appear that CSIS underwent an analysis as to whether there was additional discretion to disclose the documents, despite the applicability of the exemption during the course of the first review of the documentation (Cross-Examination of Nicole Jalbert, March 2, 2010, p 57).
+[199]
+In supplementary submissions, it was stated by the Respondent that "the release of less redacted records was the result of the exercise of discretion by the respondent". No further rationale as to what factors were considered in the alleged exercise of discretion was alluded to. No specific and detailed evidence was given in regards to this exercise of discretion, other than this general statement. The Court thus prefers the initial statement explaining the reasons for the second review, rather than the general statement that "discretion was exercised". Basically, the second review of documentation was the result of much more than the exercise of discretion, and as such, there is no indicium of discretion being considered, despite the generic statement to the contrary. The circumstance of the case and its evolution before this Court is such that the exercise of discretion cannot be inferred. The documents considered in the Annex where "historical significance" is indicated are examples of where disclosure could be made if discretion was reasonably exercised.
+[200]
+The Federal Court of Appeal recently offered guidance as to the evidentiary requirements to demonstrate the exercise of discretion.  <FRAGMENT_SUPPRESSED>  express evidence about the exercise of discretion is not determinative, the existence of a statement in a record that a discretion was exercised will not necessarily be determinative. To find such a statement to be conclusive of the inquiry would be to elevate form over substance, and encourage the recital of boilerplate statements in the record of the decision-maker. In every case involving the discretionary aspect of section 15 of the Act, the reviewing court must examine the totality of the evidence to determine whether it is satisfied, on a balance of probabilities, that the decision-maker understood that there was a discretion to disclose and then exercised that discretion. This may well require the reviewing court to infer from the content of the record that the decision-maker recognized the discretion and then balanced the competing interests for and against disclosure, as discussed by the Court in Telezone at paragraph 116.
+[201]
+On a balance of probability, the Court is not satisfied that discretion was exercised.
+[202]
+Initially, the reliance by LAC on a general "umbrella rationale" given by CSIS is clearly indicative of an extensive reliance on CSIS' assessment of the records (see para 33 of these reasons). It is unclear to what extent this general rationale prevailed during the course of the second review, or even if it was relied upon. In this respect, the reasons and rationale underlying the second review of the documentation are no clearer than the three reasons identified above.
+[203]
+This is the case because the Court does not accept that the second review is the sole result of the exercise of discretion. In fact, given the discrepancies and inconsistencies in the first review of documentation, it can be said that a portion of the documentation was released simply for the purposes of consistency in the injury assessment required by section 15. As discussed above, many documents did not meet the standard of proof where a "reasonable expectation of probable harm" was to be expected from disclosure. For example, targets disclosed under the MacDonald Commission, or threats which have disappeared from the intelligence landscape do not reasonably meet the injury-assessment of section 15, if the Act and the
+Library and Archives of Canada Act
+are to be given their full meaning and application. Hence, the release of these documents is not the result of the exercise of discretion, but is simply the fruit of the analysis which should have been undertaken in the first place.
+[204]
+This case is different from the <FRAGMENT_SUPPRESSED> case which was recently decided by the Federal Court of Appeal. Here, at least after the ex parte hearing where the Court drew the attention to its existence, it can be inferred that the decision-maker knew that the discretion existed. What cannot be inferred is that it was used reasonably, if at all. However, as was the case in <FRAGMENT_SUPPRESSED> , the statement provided in regards to the exercise of discretion is "generic in nature and by itself cannot satisfy the Court that the discretion conferred by subsection 15(1) of the Act was exercised" (para 29).
+[205]
+The factors guiding the exercise of discretion are discussed below and provide guidance as to the scope and nature of this discretion. The Court's review of the second release of information has not satisfied the need for a meaningful and reasonable exercise of discretion, if there even was an exercise of discretion. As detailed in the Annex, there are many examples of documents where, despite a considerable historical interest, a factor which shall be discussed below, they are still withheld, despite the fact that severance could be undertaken to protect the information which requires it, such as the identity of human sources and current operational interests.
+[206]
+For example, the interests safeguarded by the protection of human sources meet the injury assessment of section 15, if the jurisprudential standards for the recognition of the privilege are met. Thus, disclosing the identity of human sources is strongly indicative of prejudice. Yet, it is not a blanket approach to protection if the privilege is claimed under section 15, where an injury assessment must be made: discretion remains applicable if overriding factors apply.
+[207]
+The disclosure of past operational interests is arguably different to this example of the identity of human sources, more so when they have been previously known in public
+fora
+. Most of these simply do not meet the injury assessment under section 15. If they did, there would be a strong presumption in favour of disclosure, as the interests identified in section 15 are not meaningfully prejudiced by disclosure.
+[208]
+The sum total of the discussion on discretion is perfectly coherent with section 15 of the Act as an injury-based and discretionary exemption. If Parliament would have recognized the interests protected by section 15 as
+always
+being prejudiced by disclosure, even with the passage of time, institutional changes and the like, it would have adopted a class-based and non-discretionary exemption. It is also coherent with the fact that exemptions under the Act must be limited and specific.
+[209]
+In the case at bar, considering the reasons given for the second review, and considering the "generic" statement that discretion was exercised, the Court does not find that discretion was exercised. The second review was undertaken to ensure consistency and compliance with the section 15 injury-assessment. If discretion was found to have been exercised, it was not done in a reasonable manner.
+D. What factors are to be considered in the exercise of discretion?
+[210]
+The interests highlighted in the
+Library and Archives of Canada Act
+as well as those in the Act itself further compound the notion that the injury-assessment under section 15 and more importantly, the exercise of discretion for the disclosure of information, are to be taken seriously, with a presumption in favour of disclosure when exercising discretion. Surely, if the discretion is given, it must be meaningfully considered and done so in keeping with the objectives of the Act.
+[211]
+It can be said that even the initial qualification of records as exempt under section 15 of the Act is in and of itself an exercise of discretion. But given that the evidentiary requirements are such that "specific and detailed" evidence must be given, it can be said that the purpose of the Act is to limit the variance of this initial qualification. Secondly, it should also be restated that the prejudice alleged in disclosure must not be abstract or speculative, as recognize by the caselaw. If this exercise is meaningfully addressed by the decision-maker, then the residual discretion to disclose despite a "reasonable expectation of probable harm" can adequately be addressed to information which actually causes this reasonable expectation of probable harm, yet can be disclosed nonetheless. The conferral of discretion by the Act is the embodiment of a clear legislative intent that some information may well be disclosed despite an alleged injury.
+[212]
+No clear policy has been submitted in regards to the way LAC and CSIS assess historical records under the Act and how discretion is to be considered by decision-makers. As for the exercise of discretion, the new "policy" in regards to "targets of a transitory nature" is one that more adequately describes the process under the injury-assessment than the exercise of discretion.
+[213]
+As for the case at bar, the following factors are relevant in the assessment of whether discretion should be exercised.
+[214]
+Firstly, the principles and objectives of the Act and of the
+Library and Archives of Canada Act
+are in and of themselves factors to be considered by the decision-maker. Because these are the enabling statutes, surely they must be considered in their entirety in the course of the analysis of a section 15 exemption, which includes discretion. Thus, given the "limited and specific" nature of exemptions, and LAC's mandate to facilitate access to Canada's documentary heritage, it is clear that the decision-maker's discretion is guided by these important considerations. The quasi-constitutional nature of the Act further compounds this, as do the important ramifications of the principles of access to information, which have been discussed at length in these reasons.
+[215]
+Secondly, it is important to note there is no
+direct
+consideration of the "public interest" in disclosure of information, as is the case in the
+Canada Evidence Act
+and under some provincial statutes, namely Ontario's, which has been considered by the Supreme Court in
+Ontario (Public Safety and  <FRAGMENT_SUPPRESSED>  LAC's mandate of preserving and facilitating access to information as being contributory to our democratic life, there is an arguable implicit public interest in access to information requests. While not directly at play and not as a stand-alone argument to counter necessary exemptions, the public's right to know is always at the heart of any ATI request, not least because of the Act's quasi-constitutional nature. Further to this argument, the Act itself cannot be used to hide embarrassments or illegal acts (see para 131 of these reasons), thereby recognizing an inherent public interest in the application of the Act.
+[216]
+In its qualification of the residual discretion for disclosure of exempt information, the Supreme Court noted that the decision-maker "must go on to ask whether,
+having regard to all relevant interests
+, including the public interest in disclosure, disclosure should be made" (
+Ontario (Public Safety and  <FRAGMENT_SUPPRESSED>  a document. LAC has, or should have, the necessary resources to assess this, in keeping with its important mandate within our democracy. Historians are the experts in this type of assessment, and surely, their help can be summoned to help any institution in its assessment of whether documents are historically relevant. In the case at bar, the very reason that LAC had been transferred the documents was because of their "historical significance". To hold on to them, without any public access, goes against LAC's pragmatic mandate described above. As such, the historical value of a document, more so when LAC is the record-holder, is a factor to be considered in the exercise of discretion.
+[218]
+In line with the historical value of a document is the fact that the exercise of discretion shall consider the passage of time between the inception of the document and the ATI request. While the passage of time is to be considered in the assessment of the injury resulting from disclosure (
+ <FRAGMENT_SUPPRESSED>  should be exercised. This has been alluded to as
+obiter
+by Chief Justice Lutfy in <FRAGMENT_SUPPRESSED> , above, at para 40, in qualifying the Court's refusal to grant the ATI request: "It may be that the outcome would be different if the request were made some time after the CF are no longer engaged in Afghanistan. However, this decision is not one to be made today". As such, if injury is present, yet at a lower end of the spectrum, the passage of time may be an important factor. This is the case because as the times change, so do the bases of "reasonable expectation of probable harm", save for the protection of human sources, current operational interests and similar issues. Justice Strayer also commented on the passage of time in the case of
+X v. Canada (Minister of National Defence)
+, above, at para 8:
+"I can only say that it appears to me quite unreasonable to conclude that the information in these documents which all bear dates of 1941 or 1942 and relate to a time when Canada was engaged in a world war, could reveal anything pertinent to the conduct of Canada's international relations and its national defence over 50 years later in time of peace."
+[219]
+The passage of time is a factor, among others. It could well be that the passage of time in regards to the identity of human sources is different, as counsel has acknowledged publicly that there is a "timeframe for confidential sources". And so, indeed, as it is argued by the Respondent, there is no "magic number" for the passage of time, and section 15 provides no direct guidance as to what passage of time is sufficient. This highlights the importance of a considered and thorough analysis of the reasonable expectation of probable harm under section 15 as well as the residual discretion to disclose.
+[220]
+Furthermore, the Federal Court of Appeal has stated that the prior public disclosure of the information provides an "incentive for the exercise of discretion to release the information" in some cases (
+ <FRAGMENT_SUPPRESSED>  created a context where there was no reasonable expectation of probable harm in disclosure. Where there was, and it is worthy of repeating that the evidence is insufficient in many respect to establish this, the prior public disclosure of information is clearly a factor militating for disclosure, given the passage of time.
+[221]
+From the list of relevant factors discussed by Justice Rothstein, as he then was, in
+ <FRAGMENT_SUPPRESSED>  should be exercised in favour of disclosure:
+- Press coverage of a confidential record is relevant to the issue of expectation of probable harm from its disclosure. However, this factor cannot override the fact that access requests must be processed independently of who addresses them, as media has no priority within the ATI system (para 4(2.1) of the Act);
+- Each distinct document must be considered on its own and in the context of all the documents requested for release, as the total contents of the release are bound to have considerable bearing on the reasonable consequences of its disclosure;
+- Whether section 25 of the Act, providing the power to sever records, can be applied to protect the identity of human sources and other interests. It provides for the severance of material in a record that can be disclosed from that which is protected from disclosure under an exemption provision. The severance must be reasonable. In the Annex, examples of this are found within the "Source Concerns" column.
+[222]
+Recognizing the aforementioned factors as being essential to the exercise of LAC's, or any institutions', discretion under section 15 is necessary for the Act to be given its full scope and for its principles to be given their proper weight. Furthermore, as the decision-maker in this case was LAC, these considerations are furthered by LAC's mandate as the custodian of Canada's documentary heritage and its role to actively promote access to it.
+[223]
+In this case, there is no doubt that more should have been done before the application for judicial review on the Respondent's part to ensure it was acquitting itself of its all-too-important legislative mandate. It is disappointing that the Act's intent and LAC's mandate have been not been given their true scope, notably as this file concerns a prominent and influential Canadian, Mr. Thomas Clement Douglas, which was transferred to LAC because of its historical significance.
+III. Conclusion
+[224]
+In sum, the Court is not satisfied that the information still withheld is retained in a manner consistent with section 15 of the Act. More should be done on the Respondent's part to ensure consistency in disclosure, and many documents cannot be found to be consistently, and reasonably withheld under the grounds found in section 15. Furthermore, the exercise of discretion, or rather, the lack thereof, shall be considered with the factors described above.
+[225]
+The matter is to be sent for redetermination to LAC, with specific guidance to consider these reasons, their spirit as well as the examples found within the Annex. LAC is to conduct a new review within 90 days of this Judgment. Given the lack of evidence as to the exercise of discretion, and even for the assessment made under section 15, LAC would be wise to detail and evidence the steps and approach taken for this third review of the documentation, including how it exercised its discretion.
+[226]
+Furthermore, given the breach of the duty of candour and the considerations described in regards to the completeness of the information provided by LAC on T.C. Douglas, and pursuant to section 50 of the Act, the Court orders that LAC justify, in writing, to the Applicant whether it has more information on T.C. Douglas in its control, beyond what has already been disclosed within the present application, or if it relies on section 10 of the Act or for any other reasons. LAC has 30 days to comply with this Order.
+[227]
+It is clear that this decision should in no way be interpreted as downplaying concerns about the identification of human sources or important national security concerns such as current operational interests. Rather, this case addresses how the passage of time can assuage national security concerns. Furthermore, this case highlights the importance of transferring information to the public domain for the benefit of present and future Canadians, as well as our collective knowledge and memory as a country.
+[228]
+The parties have come to an agreement as to the costs of this application.
+JUDGMENT
+[229]
+THIS COURT'S JUDGMENT is that
+- The matter is to be sent for redetermination to LAC, with specific guidance to consider these reasons, their spirit as well as the examples found within the Annex. LAC is to conduct a new review within 90 days of this Judgment;
+- The Court orders that LAC justify, in writing, to the Applicant whether it has more information on T.C. Douglas in its control, beyond what has already been disclosed within the present application, or if it relies on section 10 of the Act, or if another response is applicable, within 30 days of this Judgment.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/vnh
+IV.
+Annex
+The following chart aims to highlight documents the Court has identified as inappropriately withheld or inappropriately severed. The chart should not be interpreted as being an exhaustive account of the improperly severed or withheld documents. Rather, it is the fruit of a time-consuming and thorough review by the Court of the documents. It is meant as a guide for the decision-maker in the new review that will be undertaken. Suffice to say that the Court's review of documents has proven to be an onerous task, especially with the lack of specific evidence justifying the withholding of information.
+The categories of information found in the chart are linked to the sections of the reasons where they are analyzed. The ratio of the reasons is to be complemented by the following examples.
+The "Source Concerns" column is linked to both human and technical sources. When it has been identified as a concern for a document, what is implied is that more information could be disclosed while protecting the appropriate concerns pertaining to sources.
+The "Incidental Reporting" column addresses documents where T.C. Douglas was only mentioned in passing. As addressed in the reasons, relevance of the information is not a criterion which is recognized by the Act. As such, these documents should be disclosed. Furthermore, LAC's approach to "incidental reporting" has proven inconsistent throughout the documentation, and the documents identified within the following chart are examples of this.
+The "Targets of a "transitory nature"" column aims to identify where LAC's approach undertaken under the second review of documentation was inconsistent. As the Court understands LAC's "new" approach, information found in documents where "targets of a transitory nature" were considered was to be disclosed. However, this was not the case for several documents. Again, the lack of specific evidence implied that the Court inferred that many targets were of a "transitory nature", save for those logically connected to important operational interests identified ex parte.
+The "RCMP's analysis of T.C. Douglas" column identifies documents were the assessments and opinions of RCMP officers were inappropriately withheld.
+The "Historical Component" column identifies documents where the decision-maker should have considered whether the residual discretion to disclose the information in light of the historical value of the information found within the documents could trump the alleged prejudice resulting from disclosure. Here, the Court singles out documents where clearly, the exercise of discretion could have reasonably resulted in disclosure of the information within these documents, while being consistent with human and technical source concerns.
+Again, the review of documentation undertaken by the Court was done with evidence that was not ideal. LAC's general evidence and approach to the section 15 analysis was such that the review of documentation needed to be done, and clear guidance needs to be given. This is especially the case as a second review was undertaken after the ex parte, in camera hearing, which resulted in a "different" approach taken by LAC. However, this approach has also proven to be inconsistent and flawed.
+This was not the case for all documents. In fact, it could well be that different analysts went through the documentation and made the second round of severances. The Court has to be fair and signal that not all the documentation was improperly withheld.
+For example, the following documents were released despite concerns the fact that the documents include "incidental reporting" about T.C. Douglas: pp. 969-972; pp. 960-963; pp. 1002-1003.
+Another example of the results of a consistent and serious analysis of section 15 concerns is the documents pertaining to "New Left Actions in Political Parties in Canada" (pp. 905-917). This is the perfect example of what should have been the result for most of the documents found in  the Douglas dossier. It should again be stressed that one of the Court's core concerns is that of the consistency of the severances made. As an example, there are several different documents pertaining to the McGill Moratorium Committee's protest of February 28, 1970. While there may well be source concerns, there are clear inconsistencies in the information that is still withheld. There are important inconsistencies in the redactions of identifiers such as "a reliable source" and the like, which are often released but inexplicably withheld in other circumstance.
+Again, the chart relates the Court's concerns for many, but not all the documents, found in the file. It cannot serve as a replacement or shortcut to a new and thorough review of the documentation which will consider the reasons and concerns highlighted therein.
+Page number of document
+Source Concerns
+Incidental Reporting
+Targets of a "transitory nature"
+RCMP's analysis of T.C. Douglas
+Historical Component
+p. 10
+X
+X
+-
+-
+-
+p. 20 (para. 6)
+-
+-
+X
+-
+-
+pp. 22-24
+-
+X
+X
+-
+-
+pp. 35-37
+-
+-
+X
+-
+-
+pp. 53-54
+-
+X
+X
+-
+X
+pp. 57-58
+-
+-
+-
+-
+X
+pp. 61-64
+-
+X
+-
+-
+X
+p. 68
+X
+-
+-
+-
+-
+p. 69
+-
+X
+X
+-
+-
+p. 92 (para. 2)
+X
+-
+-
+-
+-
+pp. 100-103
+-
+X
+X
+-
+-
+pp. 107-109
+-
+-
+-
+-
+X
+p. 110
+-
+-
+X
+-
+X
+p. 120
+X
+-
+-
+-
+X
+p. 126
+X
+-
+-
+-
+X
+p. 132
+X
+X
+X (see also pp. 368, 371)
+-
+-
+pp. 148-153
+-
+-
+X
+-
+X
+pp. 161-165
+-
+-
+-
+-
+X
+pp. 169
+-
+-
+-
+X
+X
+p. 180
+-
+-
+-
+-
+X
+p. 183
+-
+-
+-
+-
+X
+pp.188-189
+-
+-
+X
+-
+X
+pp. 195-196
+X
+-
+X
+-
+-
+pp. 217-218
+-
+-
+-
+-
+X
+pp. 236-237
+-
+-
+X
+X
+X
+p. 269
+X
+-
+X
+-
+X
+p. 272
+_
+-
+-
+-
+X
+pp. 273-274
+X
+-
+X
+-
+X
+pp. 284-287
+-
+X
+-
+-
+-
+pp. 291-292
+-
+X
+-
+-
+-
+pp. 297-299
+-
+X
+-
+-
+-
+pp. 305-306
+-
+X
+X
+-
+-
+pp. 334-335
+X
+X
+X
+-
+-
+pp. 337-340
+-
+-
+-
+-
+X
+pp. 354-356
+_
+X
+X
+-
+-
+pp. 359-36-
+-
+-
+-
+X
+X
+pp. 368-370
+-
+X
+X
+-
+-
+pp. 371-373
+-
+X
+X
+-
+-
+pp. 375-377
+-
+-
+-
+-
+X
+pp. 379-380
+-
+X
+X
+-
+-
+pp. 384-387
+-
+X
+X
+-
+-
+pp. 405-406
+-
+X
+X
+-
+-
+pp. 411-412
+-
+X
+X
+-
+-
+pp. 415-416
+-
+X
+X
+-
+-
+pp. 421-424
+-
+X
+X
+-
+-
+pp. 426-429
+-
+X
+X
+-
+-
+pp. 452-455 (para. 9)
+X
+-
+-
+-
+X
+p. 457
+-
+-
+-
+-
+X
+p. 476
+-
+-
+-
+-
+X
+p. 478
+-
+-
+-
+-
+X
+pp. 482-483
+X
+X
+X
+-
+-
+pp. 484-485
+X
+-
+-
+-
+-
+pp. 516-517
+X
+X
+X
+-
+-
+pp. 521-522
+X
+X
+X
+-
+-
+pp. 527-528
+-
+X
+X
+-
+-
+pp. 529-531
+X
+-
+-
+-
+-
+p. 565 (para. 11)
+-
+-
+-
+X
+X
+pp. 567-568
+-
+X
+X
+-
+-
+pp. 575-576
+-
+X
+X
+-
+-
+p. 586 (para. 8)
+-
+-
+-
+-
+X
+pp. 601-605
+-
+X
+-
+-
+X
+pp. 639-640
+X
+X
+-
+-
+-
+pp. 642-643
+-
+-
+-
+X
+X
+pp. 655-657
+-
+X
+X
+-
+-
+pp. 663-665
+-
+X
+X
+-
+-
+pp. 697-698
+-
+X
+X
+-
+-
+pp. 727-728
+X
+X
+X
+-
+-
+pp. 765-768
+-
+X
+X
+-
+-
+pp. 774-775 (paras. 9, 10, 11, 13)
+x
+-
+-
+-
+-
+pp. 777-781
+-
+X
+X
+X
+-
+pp. 787-789
+-
+X
+X
+-
+-
+pp. 801-802
+-
+X
+X
+-
+-
+pp. 828-830
+-
+-
+X
+-
+X
+pp. 837-843
+-
+X
+X
+-
+-
+pp. 891-893
+X
+-
+-
+-
+X
+pp. 923-924
+-
+-
+-
+-
+X
+pp. 989-993
+-
+X
+-
+-
+-
+p. 998
+X
+-
+-
+-
+-
+pp. 1009-1010
+-
+-
+-
+-
+X
+p. 1021
+-
+-
+-
+-
+X
+pp. 1023-1029
+-
+-
+-
+X
+X
+pp. 1035-1039
+-
+X
+-
+X
+X
+pp. 1040-1046
+X
+-
+-
+-
+X
+pp. 1049-1052
+-
+-
+Unknown (no evidentiary basis provided to the Court)
+-
+-
+p. 1087
+-
+-
+-
+-
+X
+pp. 1108-1109
+-
+-
+-
+-
+X
+[End of document]

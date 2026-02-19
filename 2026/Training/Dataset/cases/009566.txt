@@ -1,0 +1,461 @@
+[1]
+Barnes, J.
+: This application was commenced by Glaxosmithkline Inc. and the Wellcome Foundation Limited (collectively GSK) against the Minister of Health and Pharmascience Inc. (Pharmascience) under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 as amended (
+NOC Regulations
+). GSK seeks an order prohibiting the Minister from issuing a Notice of Compliance (NOC) to the Respondent, Pharmascience, until the expiry of Canadian Patent No. 1,340,083 (the 083 Patent). GSK asserts that the 083 Patent is a valid selection patent which will be infringed if Pharmascience is permitted to produce the antiviral compound valacyclovir (marketed as Valtrex). The 083 Patent was filed on August 12, 1998 and issued on October 13, 1998. It has a priority date of August 15, 1987 and it will expire on October 13, 2015. The earlier genus patent from which the selection of valacyclovir was drawn was GSK's European Patent No. 0,099,493 (the 493 Patent) for which the Canadian equivalent is Canadian Patent No. 1,208,637 (the 637 Patent). The 637 Patent expired on July 29, 2003.
+[2]
+Notwithstanding the summary nature of this proceeding, it is worth noting that the argument took place over four and a half days, that the Application Record is made up of 40 volumes containing over 11,000 pages and that the cross-examination transcripts of the five principal expert witnesses comprise over 1,700 pages. Counsel are, however, to be commended for having reduced the matters in issue to those which had arguable merit thereby avoiding the full litigation of a number of issues which would not have been determinative.
+I. Background
+[3]
+This is a case about selection. It is common ground that GSK's 493 Patent claimed a monopoly over a class or genus of compounds which included valacyclovir. Pharmascience wants to produce a generic version of GSK's drug Valtrex but in doing so it will admittedly infringe several claims in GSK's later 083 Patent for valacyclovir. Pharmascience asserted in its Notice of Allegation (NOA) that GSK's 083 Patent is invalid for anticipation, obviousness, non-utility, double patenting, lack of invention, insufficiency, disclosure, lack of sound prediction and because that patent does not contain or disclose a valid selection from GSK's earlier patent over valacyclovir (the EPA 493 Patent). Many of these allegations overlap and for present purposes it is unnecessary to deal with all of them in a discrete way.
+Burden of Proof
+[4]
+The parties are in agreement that the ultimate burden of proof on a balance of probabilities rests upon GSK subject to Pharmascience's intermediate or evidentiary burden to adduce sufficient evidence of invalidity to put its NOA allegations "in play".
+The Person Skilled in the Art and the Expert Witnesses
+[5]
+I can identify no material differences among the expert witnesses' opinions as to the attributes required of the person skilled in the art in mid-1987 to whom the 083 Patent would be addressed. Such a person would have a combination of specialized education and work experience in the areas of drug discovery and testing with particular exposure to the design, synthesis and evaluation of prodrugs. This would include a capacity to evaluate the drug-like properties (eg. bioavailability) of drug and prodrug candidates using standard in vitro and in vivo studies. The educational attributes of such a person could include a B.Sc. or M.Sc. or equivalent in the fields of pharmacy, chemistry, or an equivalent discipline coupled with considerable employment experience. Such a person might also hold a Ph.D. in a relevant field of expertise such as pharmaceutical chemistry, bioanalytical chemistry, synthetic organic chemistry or medicinal chemistry.
+[6]
+Subject to the obvious limitations presented by attempting to evaluate the credibility of any witness based on affidavits and cross-examination transcripts, I can identify nothing which would generally discredit any of the expert witnesses relied upon by the parties or which might cast doubt upon their qualifications to give evidence in the required fields of expertise. Indeed, all of these witnesses appear to be eminently qualified and generally objective in the provision of their opinion evidence. To the extent that I have formed any reservations about the expert evidence on particular points, I have attempted to state them in these reasons.
+Acyclovir and Its Prodrug Esters
+[7]
+Acyclovir is an antiviral drug which has been known for some time to be effective in the treatment of a variety of herpes and other viral infections. Although acyclovir is given orally, it presents problems of bioavailability such that only 15% to 20% of any given dosage is actually absorbed into the bloodstream. Acyclovir also has bioavailability limitations for use in aqueous dosage forms such as eye drops and injectable solutions. The primary problem for such aqueous uses was the low solubility of acyclovir. Essentially, not enough acyclovir can be dissolved to obtain a concentration capable of delivering the necessary dose in a formulation such as an eye-drop, which is inherently limited to a very small volume of liquid. These bioavailability limitations led researchers to search for more effective drugs.
+[8]
+One of the known methods for overcoming the bioavailability limitations of a drug like acyclovir was to link the molecule to another compound, referred to as a pro-moiety, (often an amino acid) and to thereby create a prodrug. Valacyclovir is a prodrug formed by the molecular combination of acyclovir with the amino acid, L-valine.
+[9]
+The intended mechanism of action of a prodrug is that the pro-moiety will help deliver the active medicine more effectively to the site of action. In 1987, the improved activity of a prodrug over its constituent medicine was generally attributed to its optimal or more balanced absorption properties. In a 1985 publication by Hans Bundgaard, [see footnote 1] the feasibility of designing prodrugs to obtain certain desirable absorption properties was canvassed at length including the following discussion about the potential development of prodrugs of acyclovir:
+"9.3 Enzyme-Specified Prodrugs of Acyclovir
+Acyclovir (150) is a clinically useful antiherpetic agent which exhibits great selectivity in its antiviral action through conversion to the active phosphorylated species by virtue of virus-specific thymidine kinase [423 - 425]. It suffers, however, from poor oral bioavailability, only 10 - 20 % of oral dose being absorbed in humans [426 - 429]. This can most probably be ascribed to the poor water-solubility and lipophilicity of the compound. The 6-deoxy-6-amino congener (151) of acyclovir has been studied as a prodrug in an attempt to improve the oral bioavailability [430]. It is deaminated to acyclovir by adenosine deaminase [431], but oral dosing of dogs and rats with the prodrug resulted in only modest increases in acyclovir plasma levels relative to those achieved with acyclovir itself [430]. A far better prodrug may be 6-deoxyacyclovir (152), recently developed by Krenitsky et al. [432]. This compound is 18 times more water-soluble than acyclovir and is oxidized rapidly in vivo by xanthine oxidase to the parent drug. Preliminary studies in rats and in human volunteers showed that 6-deoxyacyclovir is absorbed readily after oral administration (5 - 6 times greater bioavailability relative to acyclovir) [432, 432a]. The compound is also susceptible to oxidation by aldehyde oxidase, to give the inactive 8-hydroxy-6-deoxyacyclovir, but this non-activating oxidation apparently plays only a minor role in comparison to the activating oxidation by xanthine oxidase [432]."
+[10]
+Prodrugs are designed such that the pro-moiety (in this case, the amino acid ester) is hydrolyzed, or cleaved, from the active drug compound at an appropriate point after absorption into the body. The evidence before me suggests quite strongly that the prodrug strategy at the time usually employed one of the twenty naturally occurring proteinogenic amino acids as a pro-moiety because the human body was known to have enzymes which could recognize and cleave these amino acids and because the resulting amino acid, once cleaved, would be expected to be non-toxic in humans.
+[11]
+The use of prodrugs was thus known to be a potentially useful strategy for overcoming problems of solubility, stability and permeability associated with a parent compound. It was for the purpose of overcoming the solubility limitations of acyclovir that the amino acid esters of acyclovir were developed by GSK and claimed in its 493 Patent as prodrugs.
+493 Patent
+[12]
+The 493 Patent claimed a monopoly over a class of "new esters" of 9-(2-hydroxyethoxymethyl)guanine (i.e., acyclovir) of the general formula:
+[Diagram omitted - see printed version]
+Wherein X represents an oxygen or sulphur atom, R
+1
+represents a hydroxyl or amino group; R
+2
+represents a hydrogen atom or a group of formula -CH
+2
+OR
+3
+a
+; and R
+3
+and R
+3
+a
+, which may be the same or different, each represents an amino acid acyl radical.
+[13]
+The invention claimed compounds of the generic formula set out above and acceptable salts thereof "for use in the treatment or prophylaxis of a viral disease in an animal, e.g. a mammal such as man". The Patent specification further described the compounds as follows:
+"Preferred compounds according to the invention include those wherein R
+1
+represents a hydroxyl group, R
+2
+represents a hydrogen atom and X represents an oxygen atom, i.e. amino acid esters of acyclovir, and their pharmacologically acceptable salts.
+"With regard to the amino acid acyl radical(s) represented by R
+3
+and/or R
+3
+a
+, such radicals are preferably derived from an aliphatic amino acid, eg, glycine, α - or β alanine."
+[14]
+These new ester compounds were said to "surprisingly have an improved water solubility compared with acyclovir which enables the derivatives to be used to a greater extent than acyclovir in the formulation of aqueous preparations". This solubility characteristic was said to be an improvement over acyclovir which the inventor said "suffers from the disadvantage that it has only a limited solubility in water". The inventor further asserted that this advantageous increase in water solubility over acyclovir is not gained at the expense of antiviral potency. The claimed invention was thus not in finding new antiviral medicaments but in finding prodrug compounds of acyclovir which more effectively delivered acyclovir in aqueous solutions.
+[15]
+Although the 493 Patent describes new esters of acyclovir as being "particularly useful for the formulation of aqueous pharmaceutical preparations such as eye drops and injectable preparations", the specification included a teaching that "the active compounds may be administered by any route appropriate to the condition to be treated ... including oral, rectal, nasal, topical ..., vaginal and parenteral ..." For oral administration of the new ester compounds, the patent specification taught the following:
+"Formulations of the present invention suitable for oral administration may be presented as discrete units such as capsules, cachets or tablets each containing a predetermined amount of the active ingredient; as a powder or granules; as a solution or a suspension in an aqueous liquid or a non-aqueous liquid; or as an oil-in-water liquid emulsion or a water-in-oil liquid emulsion. The active ingredient may also be presented as a bolus, electuary or paste."
+083 Patent
+[16]
+GSK's 083 Patent claimed the compound valacyclovir (i.e., the L-valine ester of acyclovir) as a selection from the genus of aliphatic amino acids esters of acyclovir claimed in the 493 Patent. The discovery asserted by the 083 Patent was that valacyclovir "surprisingly has improved bioavailability after oral administration compared with alanine and glycine esters mentioned [in the 493 Patent]". The specification also stated that while acyclovir possessed a potent antiviral activity it was known to be poorly soluble in water and poorly absorbed in the gastrointestinal tract. The inventors acknowledged the utility of the 493 Patent in solving the solubility problem of acyclovir but, by inference at least, they maintained that its oral bioavailability limitations were still unresolved. The Patent specification goes on to offer the following additional inventive findings:
+"In tests in rats, measuring the urinary recovery as acyclovir (% dose administered) after oral administration, the compounds of the invention show a large increase in absorption from the gut compared with the other esters and compared with acyclovir. This enables less drug to be administered while still providing equivalent drug levels in the plasma after oral absorption. The L-valinate compound is especially preferred by virtue of its particularly good absorption from the gut.
+"In addition to the relatively high bioavailability, the compound according to the invention possess substantially the same antiviral effect as acyclovir in vitro. The advantageous increase in bioavailability of the compound is thus not gained at the expense of antiviral potency. Indeed, it has been found that in certain clinical applications, e.g. the treatment of stromal keratitis, certain amino acid esters have been found to provide a superior therapeutic effect to acyclovir (EP 99493).
+"The pharmaceutically acceptable salts of the compounds of formula (I) are preferably acid addition salts derived from an appropriate acid, e.g. hydrochloric, sulphuric, phosphoric, maleic, fumaric, citric, tartaric, lactic, acetic or p-toluenesulphonic acid. A particularly preferred salt is hydrochloride salt of the compound of formula (I).
+"In experiments in animals, it was discovered that the oral administration of the compounds of formula (I) above produced measurable levels of acyclovir in the plasma. Thus according to another aspect of the invention we provide a means of generating acyclovir in vivo by administration of a compound of formula (I) above or a pharmaceutically acceptable salt thereof to a mammal."
+The research data offered in the 083 Patent to support the oral bioavailability advantage of valacyclovir is set out in the following example from the specification:
+"
+Determination of Oral Bioavailability
+Long Evans Rats were administered the compound to be tested by gavage at a dose equivalent to 25mg/kg acyclovir. The urine was collected for 24 and 48 hours post-dose, ultrafiltered, and analysed by reverse-phase high-pressure liquid chromatography. The oral bioavailability of the compound was expressed as the percent of the dose excreted in the urine as acyclovir.
+Compound
+Urinary Recovery (% of dost) as acyclovir
+Example 1 [valacyclovir]
+63
+Acyclovir (ACV)
+15
+Glycly ester of ACV [glycine ester]
+30
+L-alanyl ester of ACV [alanine ester]
+34"
+[17]
+It is noteworthy that the 083 Patent makes no assertion that valacyclovir has, or could be predicted to have, surprising or unexpected bioavailability advantages over the compounds claimed in the 493 Patent beyond the glycine and alanine esters tested.
+II. Issue
+[18]
+Is the 083 Patent for valacyclovir a valid selection patent?
+III. Analysis
+What is the Scope of the 493 Patent Genus?
+[19]
+It is a well accepted principle of selection law that a selection can be made from a class of two or from a class of thousands. Accordingly, it is not necessary to precisely define the scope of the class of compounds captured by the 493 Patent because it is agreed by the parties that, whatever its size or composition, the 493 Patent covers valacyclovir. Nevertheless, the size of the class of compounds claimed in an originating patent is a factor to consider in determining whether a selection was obvious: see
+ <FRAGMENT_SUPPRESSED>  at para. 306. I would add that the size of the genus may also be relevant to the determination of whether an advantage identified in a compound selected from the genus was surprising or unexpected relative to the other members of the genus. In other words, it may be easier to predict that such an advantage will not be found in a substantial number of other members of the genus where the genus is relatively small and/or where a significant percentage of the genus has been tested. Conversely, a sound prediction may be more elusive where the genus is a large one.
+[20]
+GSK asserts that the class of compounds within the 493 Patent is virtually infinite because it includes all aliphatic amino acids, including synthetics. It says that the person skilled in the art would understand that this class can be expanded by systematically adding CH
+2
+groups to the simplest amino acid, glycine. Pharmascience says that the 493 Patent genus is limited to five naturally occurring amino acids (i.e. glycine, alanine, valine, isoleucine and leucine) which are aliphatic and which are used by the human body to make proteins and one other amino acid that is formed in vivo in humans, namely β-alanine.
+[21]
+I am persuaded that GSK is correct in its interpretation of the scope of the 493 Patent. Claim 1 of that patent refers to compounds of a general formula by which a molecule of acyclovir is linked at the R
+3
+position to "an amino acid acyl radical". This claim is not further qualified or limited. Upon a literal reading, the reference to "amino acid" would include any organic compound, natural or synthetic, having at least one amine group (-NH
+2
+) and at least one carboxylic acid group (-COOH). Although the patent specification describes a preference for derivatives from an "aliphatic amino acid, eg. glycine α- or β-alanine", I accept GSK's evidence that the reference to "aliphatic amino acid" did not connote only a subset of 5 of the 20 amino acids which are the building blocks for proteins in the human body, but rather would include any amino acid compound where carbon atoms are linked in open chains rather than rings.
+[22]
+While I agree that a person skilled in the art might be inclined to prefer the 20 human amino acids for use in the construction of a prodrug of acyclovir, the prior art nevertheless taught that effective prodrug strategies were not limited to the use of natural or human amino acids or entirely non-toxic pro-moieties.
+[23]
+There is another anomaly confronting the construction suggested by Pharmascience which arises from the β-alanine example given by the 493 Patent. While α-alanine is one of the 20 amino acids taken up by the human body to make proteins, β-alanine is not. Although β-alanine is used in the human body, it is just one of several hundred known non-proteinogenic amino acids and its inclusion in the list of patent examples is suggestive that the claimed invention was not limited to those aliphatic amino acids which are a sub-group of the 20 human proteinogenic amino acids. Although I accept that the five human aliphatic proteinogenic amino acids are often listed together as a homologous group for descriptive purposes, that practice does not explain the inclusion of β-alanine or the absence of qualifying language in the patent specification. If the inventor had intended to limit the class of compounds claimed by the 493 Patent, it would have been a rather simple drafting exercise to have obtained that result. It is perhaps noteworthy that when Drs. Mitra and Dordick attempted to restrict the class of compounds claimed by the 493 Patent they frequently resorted to qualifying terms such as "basic," "simple," "common," or "natural." My review of the relevant text book references submitted as evidence also discloses no consistent nomenclature or scheme of classification for aliphatic amino acids which would be sufficient to displace the unqualified language of claim 1 of the 493 Patent. On this issue, I accept Dr. Borchardt's reply evidence as set out below:
+"44. At paragraphs 159 to 162 of his affidavit, Dr. Mitra suggests that in addition to the α-amino acids, glycine, alanine, valine, isoleucine and leucine, there is a β-amino acid, β-alanine, found in the human body. Thus, Dr. Mitra suggests that the person skilled in the art would include this and only this β-amino acid with the 5 α-amino acids included in the 'aliphatic amino acid' group, as he defines it. Thus, Dr. Mitra concludes that the person skilled in the art would interpret the term 'aliphatic amino acid' as used in the EPA '493 as being limited to now 6 aliphatic amino acids, namely, glycine, alanine (α- and -β), valine, isoleucine and leucine.
+"45. Similarly, at paragraphs 72 to 77 and paragraphs 120 to 122, as well as Appendix A of his affidavit, Dr. Dordick offers the same rationale for now including β-alanine within the definition of 'aliphatic amino acid' referred to in the EPA '493.
+"46. There is no suggestion whatsoever in the EPA '493 that Dr. DeClercq intended to limit the preferred 'aliphatic amino acid' class to those which are found within the group of 20 naturally occurring amino acids which the body uses in the synthesis of proteins, much less to the 5 amino acids which PMS has identified in the NOA, namely, glycine, α-alanine, valine, leucine and isoleucine, or the 6 amino acids identified by Dr. Mitra and Dr. Dordick.
+"47. First, an amino acid by definition is simply a compound which includes both an amine group (-NH
+2
+) and a carboxylic acid group (-COOH). Amino acids can be prepared synthetically as well as naturally. In 1987 there were, for example, known to be approximately 350 aliphatic amino acids found naturally.
+"48. Further, even within the 20 naturally occurring amino acids used in the manufacture of proteins in the body, glycine, α-alanine, valine, leucine and isoleucine are not the only amino acids which are categorized as being 'aliphatic amino acids'. This is clear from many of the references attached as exhibits to Dr. Mitra's affidavit. For example, the new prior art reference at Tab B37 of Dr. Mitra's affidavit indicate that 15 of the 20 naturally occurring amino acids used by the body to manufacture proteins are considered to be 'aliphatic amino acids'. Furthermore, the reference at Tab B38 includes serine and threonine in the definition of aliphatic amino acids that are found in protein. Pages 90 and 91 of the reference at Tab B38 of the Mitra Affidavit are included at
+Exhibit 'G'
+of this Affidavit.
+"49. Dr. DeClercq clearly indicates that the term 'aliphatic amino acids' as used in the EPA '493 includes β-alanine. As Dr. Mitra and Dr. Dordick both concede, β-alanine is not among the 20 naturally occurring amino acids used by the body to manufacture proteins. Thus, it is illogical to suggest as both of them do that the term 'aliphatic amino acid' as used in the EPA '493 must be limited to glycine, α-alanine, valine, leucine and isoleucine (all of which are selected from the 20 naturally occurring amino acids used by the body to manufacture proteins) plus one β amino acid (β-alanine) which does not fall within this group. At the very least, the position being taken by both Dr. Mitra and Dr. Dordick is a concession that Dr. DeClercq intended 'aliphatic amino acid' to include more than the 20 naturally amino acids discussed at pages 2 and 3 of the NOA.
+"50. Thus, the person skilled in the art reading the EPA '493 would clearly understand the term 'aliphatic amino acid' as encompassing both natural and unnatural amino acids and certainly not just the 6 amino acids which PMS has arbitrarily selected to support its position."
+Obviousness and Anticipation
+[24]
+I am satisfied on the evidence presented that the bioavailability advantage that was asserted as the inventive selection of the 083 Patent was neither anticipated nor obvious.
+[25]
+Pharmascience contends that the 083 Patent was anticipated by the prior disclosure of the 493 Patent in which one could find all the information which, for practical purposes, is needed to produce valacyclovir and to appreciate its bioavailability advantage. Pharmascience also argues that the inventive selection of valacyclovir was obvious and that GSK's attempt to repatent a compound it had already monopolized constitutes double patenting or, as it is sometimes colloquially termed, "evergreening."
+[26]
+The legal tests for anticipation and obviousness are well-known in patent law. Suffice it to say that neither test is easily satisfied.
+[27]
+A frequent expression of the test for anticipation can be found in the following passage from
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.):
+"It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also, as appears from the passage of the statute quoted above, anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[28]
+A useful summary of the law dealing with obviousness can be found in the following passage from
+ <FRAGMENT_SUPPRESSED> :
+"23. The accepted legal test for obviousness is stated as follows in the leading case of
+ <FRAGMENT_SUPPRESSED>  for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.'
+"24. The inquiry mandated by the <FRAGMENT_SUPPRESSED> test is factual and functional, and must be guided by expert evidence about the relevant skills of the hypothetical person of ordinary skill in the art, and the state of the art at the relevant time. The expert evidence must be carefully assessed as to its credibility and reliability. The classic warning from <FRAGMENT_SUPPRESSED> about hindsight must always be borne in mind (at page 295, per Hugessen, J.A.):
+'Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, "I could have done that"; before the assertion can be given any weight, one must have a satisfactory answer to the question, "Why didn't you?"'
+"25. There is no single factual question or a set of questions that will determine every case, or any particular case. Justice Hughes, at paragraph 113 of his reasons, proposes a list of factors to be considered when the validity of patent is challenged on the basis of obviousness. The list is apparently derived from a survey of numerous cases from Canada, the United States and the United Kingdom. In my view, despite the continual debate as to whether the legal test for obviousness is the same in all of those countries, the list of factors proposed by Justice Hughes is helpful to guide the required factual inquiry, and as a framework for the factual analysis that must be undertaken. What follows is an edited version of his list:
+'Principal factors
+1. The invention
+What is in issue is the patent claim as construed by the Court.
+2. The hypothetical skilled person referred to in the Beloit quotation
+It is necessary to identify the skills possessed by the hypothetical person of ordinary skill in the art.
+3. The body of knowledge of the person of ordinary skill in the art
+The common knowledge of the hypothetical person of ordinary skill in the art includes what the person may reasonably be expected to know and to be able to find out. The hypothetical skilled person is assumed to be reasonably diligent in keeping up with advances in the field to which the patent relates (
+Whirlpool
+at paragraph 74). The presumed knowledge of the hypothetical skilled person undergoes continuous evolution and growth. Not all knowledge is found in print form. On the other hand, not all knowledge that has been written down becomes part of the knowledge that a person of ordinary skill in the art is expected to know or find.
+4. The climate in the relevant field at the time the alleged invention was made
+The general state of the art includes not only knowledge and information but also attitudes, trends, prejudices and expectations.
+5. The motivation in existence at the time the alleged invention to solve a recognized problem
+"Motivation" in this context may mean the reason why the claimed inventor made the claimed invention, or it may mean the reason why one might reasonably expect the hypothetical person of ordinary skill in the art to combine elements of the prior art to come up with the claimed invention. If within the relevant field there is a specific problem that everyone in the field is trying to solve (a general motivation), it may be more likely that the solution, once found, required inventive ingenuity. On the other hand, if there is a problem that only the claimed inventor is trying to solve (a unique or personal motivation), and no one else has a reason to address that problem, it may be more likely that the solution required inventive ingenuity. However, if commonplace thought and techniques can come up with a solution, there may be a reduced possibility that the solution required inventive ingenuity.
+6. The time and effort involved in the invention
+The length of time and expense involved in the invention may be indicators of inventive ingenuity, but they are not determinative because an invention may be the result of a lucky hit, or the uninventive application of routine techniques, however time consuming and expensive they may be. If the decisions made in arriving at the solution are few and commonplace, that may indicate that no inventive ingenuity was required to arrive at the solution. If the points for decision were many and choices abundant, there may be inventiveness in making the proper decisions and choices.
+Secondary factors
+These factors may be relevant but generally bear less weight because they relate to facts arising after the date of the alleged invention.
+7. Commercial success
+Was the subject of the invention quickly and anxiously received by relevant consumers? This may reflect a fact that many persons were motivated to fill the commercial market, which may suggest inventive ingenuity. However, it may also reflect things other than inventive ingenuity such as marketing skills, market power and features other than the invention.
+8. Meritorious awards
+Awards directed to the alleged invention may be recognition that the appropriate community of persons skilled in the art believed that activity to be something of merit. That may or may not say anything about inventive ingenuity.'
+. . . . .
+"27. I emphasize that this list is a useful tool, but no more. It is not a list of legal rules to be slavishly followed; nor is it an exhaustive list of the relevant factors. The task of the trial judge in each case is to determine, on the basis of the evidence, sound judgment and reason, the weight (if any) to be given to the listed factors and any additional factors that may be presented.
+"28. I would also repeat the caution of Justice Hughes that catchphrases derived from this list or from the jurisprudence are not to be treated as though they are rules of law. I agree with the following comment of Justice Hughes from paragraph 113 of his reasons:
+'In this regard phrases such as "worth a try" and "directly and without difficulty" and "routine testing" have been used by the courts. It is not useful to use such phrases as they tend to work their way into expressions of law or statements of expert witnesses. Sachs L.J. deprecated the coining of such phrases in
+ <FRAGMENT_SUPPRESSED>  at pages 211-12.'"
+[29]
+I have carefully reviewed the 493 Patent and I accept that it does not anticipate the selection of valacyclovir as a medicine that would have improved oral bioavailability.
+[30]
+The 493 Patent taught the use of various esters of acyclovir as prodrugs [see footnote 2] for achieving improved solubility for use principally in small volume aqueous formulations. Overcoming the solubility problems of acyclovir in such uses was the clear focus of the inventor's work and the solution taught by the 493 Patent.
+[31]
+On this issue, I accept the following interpretation of the 493 Patent offered by Dr. Borchardt which seems to me to be consistent with the overall position of the scientific evidence:
+"The strategy employed in EPA '493 to increase the aqueous solubility of acyclovir is identical to the strategy that other medicinal chemists were employing in the 1980s to increase the solubility of other water-insoluble drugs, including metronidazole (Bundgaard et. al., 1984 (NOA, Appendix A, Document 34); Bundgaard et. al., 1984 (NOA, Appendix A, Document 35); Cho and Haynes, 1985), corticosteroids (Kawamura et. al., 1971; Anderson et. al., 1985; Johnson et. al., 1985 (NOA, Appendix A, Document 50)), and paracetamol (Kovach et. al., 1981 (NOA, Appendix A, Document 23)). All of this work was focused on the potential use of esters in topical or injectable formulations, e.g., formulations for delivery by a route other than in or through the digestive system. Improving the aqueous solubility of acyclovir, as with these other water-insoluble drugs, in order to make aqueous formulations to inject or use as eye drops is vastly different from improving oral bioavailability of a drug."
+This interpretation was also borne out by Dr. Borchardt's cross-examination testimony in the following passage:
+"Q. But insofar as the modes of absorption that you've described here, when you're applying a topical treatment, would the same principles apply here that we see here in 84, some would go by way of transcellular diffusion, paracellular diffusion? Would that apply to the eye and the skin?
+A. Again, there are significant differences between these barriers in terms of, for example, the number of layers of cells, the lipid composition of those cells, the metabolic capability of those cells, the junctions, tight junctions associated with those cells.
+Q. Perhaps you can answer the question. I take it that when we look at applying a topical treatment that we would have the same issues that we see here in paragraph 84. We're going to have paracellular division, we're going to have fatty layers and water channels, correct?
+A. Again, I think there are very significant differences and one cannot generalize about the barrier properties of intestinal mucosa versus the skin."
+[32]
+While I accept that the 493 Patent also recognizes the use of the esters of acyclovir for oral use, there is nothing else to indicate to a person skilled in the art that those compounds would have improved oral bioavailability over acyclovir. To apply the current legal test, I do not accept that the 493 Patent contains so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the promise of improved oral bioavailability made by the 083 Patent.
+[33]
+Although they alleged it in their NOA, Pharmascience did not spend much time asserting that the Canada Patent No. 1,258,149 (the 149 Patent) was anticipatory or that it was relevant prior art. The 149 patent claimed a very broad class of compounds, but was not directed at prodrugs, let alone amino acid esters of acyclovir. While a person skilled in the art might, by chance, find valacyclovir among the thousands of compounds included in the 149 Patent genus, that patent offered nothing to such a reader about the prospects for improved oral bioavailability of valacyclovir. Needless to say, having come to the conclusion that the 493 Patent did not anticipate the claimed advantage of the 083 Patent, it follows that the 149 Patent does not assist Pharmascience. On this point, I agree with the evidence of Dr. Borchardt found at paras. 158 to 165 of his affidavit that the 149 patent did not disclose the subject matter of the 083 patent.
+[34]
+With respect to the issue of obviousness, the parties have adopted positions at opposite edges of interpretation of the prior art. Pharmascience says, as it must, that the prior art and common general knowledge would easily lead the person skilled in the art to the solution taught by the 083 Patent, that is, that valacyclovir would have improved oral bioavailability over the two other esters of acyclovir tested. GSK maintains the opposite view that the prior art and common general knowledge not only made the oral bioavailability benefits of valacyclovir unpredictable but actually taught away from such a prediction. As with many cases of this kind, the truth seems to me to lie somewhere between these positions.
+[35]
+The circumstances of this case are complicated somewhat by the fact that current scientific knowledge bearing on the issue of the oral bioavailability of valacyclovir disproves much of what was believed in the 1980s. In 1987, it was believed that the permeability of such molecules was dependant entirely upon passive transcellular and paracellular transport (i.e. diffusion through or between cells). However, it is now understood that the valacyclovir and a number of other drugs are actively transported through the cellular membrane of the intestine and do not rely upon passive transport. This change in scientific understanding placed all of the expert witnesses in the somewhat difficult position of describing the belief of a notional person skilled in the art who was later proven to be wrong. Needless to say, this current knowledge had the potential to permeate or colour the expert testimony from all of the witnesses and to some extent it did.
+[36]
+GSK argues that it would not have been obvious to a person skilled in the art to look at the amino acid esters of acyclovir to overcome the oral bioavailability limitations of acyclovir. It makes this assertion based on its characterization of those compounds as being known to be poor candidates for passive transport across the intestinal wall. GSK says that no one would be motivated to examine these compounds as the means of overcoming the poor absorption of acyclovir.
+[37]
+The evidence before me indicates, however, that there were some good reasons for GSK to look at the potential of valacyclovir and the other esters of acyclovir for improving the oral bioavailability of acyclovir. For instance, the 493 Patent disclosed that the amino acid esters of acyclovir would be more soluble than acyclovir and, at higher dosages, this property would have been expected to improve their ability to permeate the membranes of intestinal epithelial cells. Furthermore, the prodrug strategy was well understood as a method for overcoming solubility, stability or permeability limitations in a parent drug and the use of natural amino acid compounds in the furtherance of that strategy was an accepted means of avoiding toxicity problems in human use. It was also shown by at least 1982 that the esters of acyclovir exhibited good properties of hydrolyzation in topical applications: see Colla et al.,
+Synthesis and Antiviral Activity of Water-Soluble Esters of Acyclovir
+((1983) 26 J. Med. Chem. 603). GSK could also have expected that valine would be a better candidate than acyclovir and the two other amino acids it tested for improving permeability because of its higher partition co-efficient [see footnote 3]. A person skilled in the art would also have been
+somewhat
+encouraged by the apparent permeability of the prodrugs of acyclovir through the membrane of the eye as disclosed by the 493 Patent.
+[38]
+Although a person skilled in the art would also have expected that the pKa [see footnote 4] for the esters of acyclovir at 7.5 would represent a potential barrier to their absorption in the upper intestinal tract, that limitation would become less significant as the compounds moved through the intestine where pH levels are more conducive to absorption. The evidence also indicates that there is not a linear relationship between absorption and the increase in pH values through the intestine but rather that absorption rises dramatically at pH values of more than 6. This would have suggested at the time that these compounds would have an improved propensity for absorption as they moved through the intestine.
+[39]
+It is also noteworthy that, although acyclovir was known to have poor permeability characteristics, it was (and is) still being used for oral administration because it worked. Accordingly, the measure of the utility of any given prodrug of acyclovir was not to be found in its inherent oral bioavailability profile but in how that profile stacked up against that of acyclovir.
+[40]
+Notwithstanding the above indications for the potential utility of valacyclovir as a solution for the oral bioavailability limitations of acyclovir, I do not accept that the prior art bearing on this issue is sufficiently compelling to meet the rigorous test for obviousness. The best evidence indicates that the oral bioavailability of any given ester of acyclovir was still largely unpredictable. There were simply too many biological and chemical variables in play to allow anyone at that time to predict directly and without difficulty the oral bioavailability properties of valacyclovir either on its own or relative to the properties of other esters of acyclovir.
+[41]
+Dr. Borchardt's affidavit evidence appears to me to characterize fairly the problem of predictability facing a person skilled in the art in 1987:
+"91. There are many factors that can affect the oral bioavailability of a drug. The factors that would have been well-understood by the person skilled in the art in 1987 include the drug molecule's:
+- Chemical and enzymatic stability in the stomach and small intestines;
+- Aqueous solubility;
+- Interaction with food;
+- Absorption (permeability) - the ability to pass through the single layer of cells that separates the small intestine (or the 'intestinal mucosa') from the bloodstream; and
+- Propensity to be metabolized in the intestinal mucosa and liver (first-pass metabolism).
+(
+Pang and Gillette, 1980; Benet and Sheiner, 1985a
+).
+"92. However, in the 1980s, it would have been impossible for the person skilled in the art to know how each of these individual factors influenced the oral bioavailability of a drug candidate. This is because scientists trying to develop drugs at that time used a strategy that employed drug testing with live, 'whole animals' which could only tell them whether they succeeded (improved oral bioavailability) or failed (decreased or low oral bioavailability) - but not why.
+. . . . .
+"99. However, development of an ester pro-drug to enhance oral bioavailability is a very complex process (Beaumont et. al., 2003). As illustrated, the ester pro-drug must be stable at the different environments of both the stomach and the small intestine. It must be sufficiently water soluble to dissolve the entire dose of the drug in the intestine. It must be stable to enzymes [e.g., peptides and proteases (which primarily break peptide bonds) and esterases (which break ester bonds)] in the stomach and intestine that are present to digest proteins/peptides having peptide bonds and lipids having ester bonds. The pro-drug must be sufficiently permeable (lipid soluble) to allow absorption into the bloodstream. The pro-drug then must be rapidly converted to the parent drug. Medicinal chemists and pharmaceutical scientists were well aware of these problems in the 1980s, as illustrated by review articles published by Sinkula and Yalkowsky (1975), Stella et. al. (1985) and Higuchi (1987)."
+[42]
+A few examples of the uncertainty of the prediction will, I think, suffice:
+[43]
+Dr. Mitra acknowledged that a person skilled in the art would have understood that acyclovir would not be a good candidate for transcellular transport because of its low partition co-efficient. His affidavit stated that a partition co-efficient of 1.5 to 2.0 is required before there would be "appreciable absorption" by this mechanism. His affidavit confirmed this point in the following passage:
+"It was understood that acyclovir was absorbed by both transcellular and paracellular routes, with the paracellular route being a major contributor in both oral and topical formulations (very little amount of the drug went by the transcellular route)."
+This evidence would also apply to valacyclovir because it had a partition co-efficient that fell well below the stipulated range for meaningful passive transcellular absorption.
+[44]
+According to Dr. Mitra, the only other expected transport mechanism for acyclovir and valacyclovir would be by way of the paracellular route. Like Dr. Mitra, Dr. Borchardt gave evidence that this was the expectation for the method of absorption of
+acyclovir
+in 1986 (see page 58 of Dr. Borchardt's cross-examination transcript) but this, he said, was also a mechanism that was "highly restrictive". According to Dr. Borchardt the addition of valine to acyclovir to create valacyclovir would have the effect of further limiting paracellular transport because this would simply increase the already high molecular weight (and size) of acyclovir (see para. 212 of Dr. Borchardt's affidavit). Pharmascience's other expert witness, Dr. Dordick, offered the opinion that a person skilled in the art would have understood that acyclovir would not likely permeate the intestinal wall by the paracellular route because of its molecular size. It stands to reason that valacyclovir would be even less likely to permeate vis-à-vis the paracellular route for the same reason.
+[45]
+All of this evidence suggests to me that very little was actually understood about the transport of compounds through cellular membranes at the relevant time. The fact that the experts disagreed among themselves about the likely mechanism of transport of acyclovir and valacyclovir and the molecular properties that would either inhibit or facilitate that process indicates to me that permeability predictions for any particular compound were, at that time, highly suspect.
+[46]
+I would add to this that even the named inventor of the 493 Patent did not predict that the esters of acyclovir would have improved oral bioavailability over acyclovir when he wrote on the subject in 1985 and stated the following:
+"One of the limitations of ACV is low oral absorption (only about 20%). Upon oral administration, ACV may achieve plasma drug concentrations that are sufficient to block HSV, but not VZV, replication. Consequently, oral ACV has not been shown to be effective against VZV infections. The poor oral absorption of ACV can be overcome by using deoxy-ACV, a prodrug of ACV (3), which by itself is devoid of antiviral activity but very well absorbed orally and then converted by xanthine oxidase to ACV. Plasma ACV concentrations achieved with 50 mg deoxy-ACV are comparable to those produced by 400 mg ACV (4,5). Whether deoxy-ACV will be safe and effective in the oral treatment of VZV infections remains to be established."
+[47]
+Given the scientific uncertainties that the evidence in this case presents, I am satisfied that it would not have been obvious to a person skilled in the art that valacyclovir would have any oral bioavailability advantages over other esters of acyclovir.
+The Law of Selection and Utility
+[48]
+The general principles of Canadian selection law are substantially derived from the leading and often cited English case of
+I.G. Farbenindustrie A.G. Patents, Re
+(1930), 47 R.P.C. 283. That decision was one of the earliest to fully summarize the law dealing with selection patents. The decision sets out several principles that are required for a valid selection patent including the following:
+(a) the selection invention must "add something of a substantial character to existing knowledge";
+(b) the result achieved must not be obvious to persons skilled in the art;
+(c) a selection patent does not in its nature differ from any other patent and is open to attack on the usual grounds of want of subject-matter, want of utility, want of novelty and so forth;
+(d) a valid selection patent must be based on some substantial advantage to be secured (or disadvantage avoided) by the use of the selected members;
+(e) the whole of the selected members must possess the advantage asserted or the patent will fail for insufficiency and non-utility;
+(f) the selection must be in respect of a quality of a special character which is peculiar to the selected group or compound. This special characteristic must not be one which those skilled in the art would expect to find in a
+large
+number of the members of the genus;
+(g) it is necessary for the patentee to define in clear terms the nature of the characteristic which is asserted to be possessed by the selected compounds.
+[49]
+A helpful and more recent summary of the principles applicable to selection patents in the context of an NOC proceeding can be found in the decision of Justice Johanne Gauthier in
+ <FRAGMENT_SUPPRESSED>  Court of Appeal, it appears that the nature of selection which presupposes the existence of a class that encompasses the selected member(s) mandates a particular approach to determine whether the prior patent covering the class left the field open for someone to claim the selected compound(s) as new (see
+Du Pont
+, above, at p. 310-311). If the field is indeed open, the originating patent will not anticipate (see paragraphs 264-267 below) but the selected member(s) may still be anticipated by other publications and, in this respect, the usual principles apply. It is also clear that the inventive step in the selection lies in the discovery that the selected compound(s) of a known class of compounds (for example, the '687 Patent) possess(es) some special advantage that could not be predicted before the discovery was made. All selected compounds must have a 'substantial' advantage (this includes avoiding a disadvantage possessed by other members of the known class) and the said advantage must not be one that those skilled in the art expect to find in a large number of the previously disclosed genus or class.
+"89. Another special requirement of this class of patent is that its said advantage(s) must be specifically described in the disclosure of the patent. This requirement becomes particularly pertinent when the Court needs to determine if the patent is invalid on the basis of insufficiency.
+"90. Although selection patents possess certain distinguishing features, the analysis regarding their validity is largely the same as that which is carried out with respect to any other patent. Like any other patent, they benefit from the presumption that the invention (the selection) is novel, inventive and useful. Likewise, it is presumed that the disclosure is sufficient to enable a person skilled in the art to take full advantage of the benefit of the invention. There is no good reason to treat these patents differently when it comes to determining what a party must set in its NOA for the purposes of NOC proceedings." (Footnotes omitted)
+[50]
+I have no difficulty with the proposition that selection patents are subject generally to the same rules that apply to any other type of patent. Nevertheless, there is an obvious danger presented by the granting of a fresh monopoly over a compound already monopolized by the same party on the strength of the finding of a supposedly unexpected and useful advantage or property. That danger is well expressed in the following passage from
+Apotex Inc. and  <FRAGMENT_SUPPRESSED> :
+"80. In my view, with respect, Glaxo/Wellcome's proposition is consistent neither with the
+Act
+(which does not postpone the requirement of utility to the vagaries of when such proof might actually be [page191] demanded) nor with patent policy (which does not encourage the stockpiling of useless or misleading patent disclosures). Were the law to be otherwise, major pharmaceutical corporations could (subject to cost considerations) patent whole stables of chemical compounds for all sorts of desirable but unrealized purposes in a shot-gun approach hoping that, as in a lottery, a certain percentage of compounds will serendipitously turn out to be useful for the purposes claimed. Such a patent system would reward deep pockets and the ingenuity of patent agents rather than the ingenuity of true inventors."
+This point of caution must, of course, be balanced against the competing concern that the discovery of fresh advantages should not be stultified by an overly restrictive enforcement of an earlier patent monopoly: see
+E.I. DuPont De Demours & Co.
+, [1982] F.S.R. 303 (H.L.)
+[51]
+To establish that a compound has a peculiar advantage over the genus of compounds from which it was chosen requires that the advantage not be found or be predicted to be found in a large number of members of the genus. This point is made in
+Farbenindustrie
+, above, and confirmed in the following passage from
+Dreyfus et al., Re
+(1945), 62 R.P.C. 125 (H.L.), at p. 133:
+"... Invention, if invention there be, must involve at the least the discovery that the selected members possess qualities hitherto undiscovered, peculiar to themselves and not attributable to them by virtue merely of the fact of their belonging to a class specified by the earlier inventor."
+[52]
+This same point is made in the following passage from
+ <FRAGMENT_SUPPRESSED>  dealing with this issue in the context of utility:
+"31. To meet the statutory requirement in subsection 34(1) of the
+Patent Act
+, R.S.C. 1985, c. P-4 (old
+Act
+)
+that a patent be 'useful', the selected species must have an advantage over the class as a whole
+(see
+ <FRAGMENT_SUPPRESSED>  at pages 525-526). That case broadly defined the utility required for valid patent as discussed in
+Halsbury's Laws of England
+(3rd ed.), vol 29 at page 59:
+'... it is sufficient utility to support a patent that the invention gives either a new article, or a better article or a cheaper article, or affords the public a useful choice.'
+"However, there are no special legal requirements regarding what particular type of advantage is required. The test for advantage is understood to include a disadvantage to be avoided, as is the case here (see
+I.G. Farbenindustrie
+at page 322)." (Emphasis added)
+Although the selection was upheld as inventive by the Court of Appeal in the above decision, that finding was based on an uncontested set of facts and findings made by the Court below and was made in the context of an argument that had not been advanced in the second party's NOA. It was, accordingly, unnecessary for the Court of Appeal to comment on the evidentiary requirements for proving an advantage of the selected compound over the compounds from the genus from which it was chosen. I do not, therefore, interpret the finding of the Court of Appeal as saying that proof of a peculiar advantage over the genus claimed in a prior patent is not a requirement for validating a later selection. Indeed, in the recent decision by that Court in
+ <FRAGMENT_SUPPRESSED>  compounds covered by the genus patent is a requirement, at least with respect to establishing utility: see paras. 51 and 63.
+[53]
+The utility of valacyclovir and the other esters of acyclovir as antiviral prodrugs has already been asserted in the 493 Patent. The specific utility of valacyclovir had to be found, therefore, not in its antiviral properties or in improved solubility but in its supposedly better oral bioavailability profile over the other members of the class from which it was selected. That utility had to be established either by testing or by sound prediction or both. If the utility of valacyclovir for enhanced oral bioavailability over the genus compounds was not scientifically demonstrated or soundly predicted as of the Canadian filing date, the 083 Patent must fail for lack of utility (
+ <FRAGMENT_SUPPRESSED> ). The fact that later evidence may establish utility does not transform the earlier speculation into something inventive. This point is made in the following passage from
+ <FRAGMENT_SUPPRESSED>  reason to reject the proposition that bare speculation, even if it afterwards turns out to be correct, is sufficient. An applicant does not merit a patent on an almost-invention, where the public receives only a promise that a hypothesis might later prove useful; this would permit, and encourage, applicants to put placeholders on intriguing ideas to wait for the science to catch up and make it so. The patentee would enjoy the property right of excluding others from making, selling, using or improving that idea without the public's having derived anything useful in return."
+[54]
+The requirement that there be sufficient testing of genus compounds to support at least a sound prediction of a substantially unique or peculiar advantage for the selection made is apparent from a complete reading of the decision in
+Farbenindustrie
+, above. It is readily apparent from that decision that the Court had before it substantial scientific evidence comparing the properties of the selected substances to the unselected group. From that evidence, the Court concluded that no special advantage had been proven as can be seen from the following passages:
+"... The judgments of Dr. Oberlander and Dr. Goldsmith on all these numerous samples of dyeings and kier boilings were obtained in general terms from them, and they expressed the opinion that with the selected dyestuffs (the word 'selected' being used to indicate dyestuffs manufactured under the Patents in suit) on the whole the tests were satisfactory in that they indicated that they were fast to kier boiling, and a great number of exhibits were produced and carefully examined by me with the assistance of my Assessor.
+"I think the experiments or tests of the Respondents showed that the selected dyestuffs in general possessed a certain power to resistance to kier boiling in caustic soda. Thus a great number of them would not suffer change if so boiled for three hours, which is half the usual time, or for six hours at half the usual strength, which is not less than 4 grammes of caustic soda per litre. Whether this would be equally true as regards boiling in an ordinary kier under commercial conditions when the goods are exposed to pressure, I am not so sure; but this has not been tried.
+It has to be remembered, however, that nothing useful is really proved by the fact stated, unless the further step is taken of showing that the unselected dyestuffs as a class do not possess the same quality of a limited resistance to caustic soda.
+There was certainly evidence given which in my judgment proved that the introduction of what has been called the patented group improves to some extent and in many cases the resistance to kier boiling with caustic soda. In some cases, however, the difference was only small. In a large number of cases the introduction of the patented group did not give 'excellent' fastness. The fastness sometimes did not exist, for example, in regard to nitro compounds.
+The alleged advantage is in some cases, I think, merely a theoretical advantage; for both the selected and the unselected dyestuffs in those cases are not fast to even a mild kier boil. That there was in every case a practical advantage has not been established before me. The Respondents also endeavoured to prove that on a laboratory test the selected dyestuffs would in most cases resist what has been called Test 6, that is kier boiling for six hours with 4 grammes of caustic soda per litre, or at any rate would nearly resist that test. If this had been proved, no doubt the Respondents would have gone some way towards establishing the substantial truth of the promise; for the unselected dyestuffs as a class were known not to be fast to ordinary commercial caustic soda kier boiling
+.
+. . . . .
+"... I should add that it is apparent from p. 4 that the Petitioners set out to make a general comparison between the selected and the unselected dyestuffs as regards resistance to caustic soda kier boiling; and it is clear from R.22 that the Respondents paid much less attention to the unselected group. I cannot escape the conclusion that Dr. Oberlander and Dr. Goldsmith rather rashly jumped to the conclusion that the unselected dyestuffs were not in any degree fast to caustic soda. The 26 instances of the unselected shown on R.22 were by some mischance apparently judged more harshly than the selected dyestuffs shown on that chart. Not only do the judgments differ very widely from those of Professor Rowe, but it is a striking fact that when these dyeings were put ('unseen' in the sense already mentioned) to Mr. Trotman, his verdicts were much more favourable than theirs.
+"P.4, it will be remembered, deals with the comparison between the selected and unselected dyestuffs, excluding those which possess a nitro group in the azo component. I have come to the conclusion that p. 3 not unfairly represents the dyeing, and tests made in relation to the selected and unselected dyestuffs including the nitro group in the diazo component. It is apparent that in cases where the nitro groups are so included, there is really no advantage possessed by the selected over the unselected compounds. That there was no substantial advantage was hardly in dispute. Combining then the results of p. 3 and p. 4, and making some allowances in favour of the Respondents as regards p. 4, for there are certain corrections that had to be made (including those due to what I have said above as to the Particulars of Objections) which are in favour of the Respondents, I must find as a fact that there is no such advantage of the selected over the unselected dyestuffs in relation to kier boiling with caustic soda as would justify the promises made in the Specifications of the Patents in suit or any of them as construed by the Respondents. If we are to consider the matter from the standpoint of an ordinary commercial caustic soda boil, the results are striking. The Respondents gave no evidence under this head. The Petitioners proved in exhibits p. 17 (a) and (b) their experiments on these lines, and embodied the results in the charts p. 7 and p. 8. A mere glace at the charts is sufficient to show that to such a kier boiling not a single selected or unselected dyestuff is sufficiently resistant to satisfy the ordinary exigencies of trade.
+. . . . .
+"My conclusions on the three Patents must be as follow: - First as a matter of law, there may well be a selection patent; but it must be a selection for a useful, and special, characteristic or property indicated in clear terms by the Patentee. Secondly, on the construction which I have placed on the promises in relation to fastness to kier boiling (i.e. fastness to practical soda ash kier boil) the promises wholly fail. Thirdly, on the construction which the Respondents seek to place upon the promises, that is a greater fastness to caustic soda kier boil in comparison with other similar dyestuffs to a varying degree, the characteristic as established is too vague, too uncertain, and (nitro compounds being included) open to too many exceptions to enable the Patents to be supported." (Emphasis added)
+[55]
+In applying the above principles to the circumstances of this case, I have concluded that GSK has not met the burden of establishing a valid selection, at least in terms of utility. I have come to that conclusion because neither the 083 Patent nor the evidence of GSK's expert witnesses is sufficient to establish an advantage in the 083 Patent that fulfills the test for a valid selection from the compounds claimed by GSK's 493 Patent.
+[56]
+One of the allegations in Pharmascience's NOA was that the finding by GSK that valacyclovir had improved oral bioavailability over glycine and alanine was not new or surprising. This is an issue which can also be framed as one of utility - did the compound selected actually have a surprising or previously unrecognized advantage over the other members of the genus from which it was chosen. In Pharmascience's Memorandum of Fact and Law, this issue was framed in terms of both disclosure and utility as can be seen from the following passages:
+"75. The '083 Patent provides misleading and meaningless data comparing the valine esters with glycine and alanine esters that are specifically referred to in the DeClercq EP Patent. Despite the fact that the '083 Patent provides data against only 3 other compounds, GSK now says that the DeClercq Patents actually covers thousands of compounds. These thousands of other compounds are not discussed in the '083 Patent. There is no data to indicate whether the valine ester of acyclovir is better than any of these compounds. The '083 Patent even failed to provide comparison data for the other aliphatic amino acids that are taught by DeClercq.
+"76. There is also no evidence that it was soundly predictable that the valine ester of acyclovir would have the promised surprising improvement in bioavailability over the thousands of compounds. There are no tests done with such compounds and no articulable and sound line of reasoning in the '083 Patent to support the inventiveness of valacyclovir over these compounds. Thus, there is no disclosure of the promised superiority of the valine ester - i.e. no quid quo in exchange for allowing GSK to patent another compound from its previously disclosed aliphatic amino acid esters of acyclovir." (Footnotes omitted)
+[57]
+Presumably in response to Pharmascience's allegations, GSK had its experts address the selection/utility issue in their evidence.
+[58]
+The inherent weakness of GSK's evidence of a surprising or unexpected bioavailability finding offered by its expert witnesses seems to me to be the inevitable result of GSK's highly selective comparative analysis. GSK selected only three compounds from the genus of thousands of potential amino acid esters of acyclovir claimed by the 493 Patent and subjected those compounds to some largely undisclosed level of empirical analysis. From the data obtained, GSK asserted that valacyclovir "surprisingly has improved bioavailability after oral administration compared with the alanine and glycine esters mentioned [in the 493 Patent] ". [see footnote 5]
+[59]
+On a literal reading of this sentence, the inventor is asserting no more than a finding that valacyclovir was "surprisingly" more bioavailable than either the alanine or the glycine esters of acyclovir. There is no clear assertion that it was the stated quantitative bioavailability advantage in rats of valacyclovir over the other two esters that was the surprising finding. This is substantially borne out by Dr. Borchardt who readily acknowledged that the bioavailability data obtained from GSK's rat studies outlined in the 083 Patent would be expected to correlate in humans only to the extent of a rank ordering of the compounds tested. This, he said, was sufficient to allow for the choice of a compound to "take into development". His cross-examination testimony indicated, as well, that a reported two-fold increase in the measured bioavailability in the rat studies between the glycine ester and acyclovir was only a "slightly better" result:
+"Q. Let's go back to the first question. According to the patent, the glycine ester is two times better than acyclovir; right?
+A. Mm-hmm. I would - - -
+Q. Is that right?
+A. I would not use the terminology that you have chosen to use. I would say, based on this data, it would appear that the glycine ester is slightly better than acyclovir in terms of urinary recovery of acyclovir.
+Q. It's slightly better at - - -
+A. Right.
+Q. ... 15 per cent higher; is that right?
+A. I've given you the answer to my question.
+Q. Okay. And does that accurately predict the behaviour of glycine ester acyclovir in humans?
+A. We discussed some of this data yesterday that was in the Burroughs Wellcome letter, and I indicated at that time that there is a correlation between the data seen in rats and the data seen in those 'primate' studies, and that the rank ordering of those compounds are similar.
+But I also pointed out to you yesterday that the primate studies, there was no description of the experimental methods that were provided. So it's difficult for me to go much - - to go beyond where I have gone in terms of interpretation."
+Presumably the above evidence is equally applicable to the two-fold increase in the bioavailability of valacyclovir over the other two esters tested in rats as reported in the 083 Patent.
+[60]
+The affidavits sworn by Dr. Sinko and Dr. Borchardt both describe the bioavailability advantage promised by the 083 Patent as being relative only to the other two esters of acyclovir tested. This is borne out by the following passages from their affidavits:
+"
+Dr. Sinko
+"Based on the foregoing, the person skilled in the art would understand from reading the '083 Patent that the invention is the L-valine ester of acyclovir which has a surprisingly higher bioavailability after oral administration
+as compared to the glycine, α-alanine and β-alanine esters of acyclovir disclosed in EPA '493
+and the Colla paper, and compared to acyclovir itself. The surprisingly higher bioavailability of valacyclovir
+is a substantial advantage over the other compounds, specifically disclosed in EPA '493
+and the Colla paper, and this advantage could not have been expected before the discovery was made.
+. . . . .
+"Furthermore, the person skilled in the art in 1998 would thus understand
+that the invention disclosed in the '083 Patent is the L-valine ester of acyclovir (and its pharmaceutically acceptable salts) which provides the substantial advantage of improved bioavailability of acyclovir after oral administration (of the L-valine ester of acyclovir thereof) as compared to the glycine, α-alanine and β-alanine esters of acyclovir
+and acyclovir itself.
+"
+Dr. Borchardt
+"As set out in detail in Section VI, the '083 Patent discloses a single compound, namely, valacyclovir which is a L-valine ester of acyclovir, and its pharmaceutically acceptable salts.
+Valacyclovir has substantially improved oral bioavailability (as measured by urinary recovery of acyclovir) relative to other amino acid esters of acyclovir (i.e. the glycine and L-alanine esters)
+.
+"Valacyclovir as compared to the group of amino acid esters of acyclovir exemplified in EPA '493 has been shown to have substantially improved bioavailability versus acyclovir when administered orally." (Emphasis added)
+It seems to me that the above passages fairly characterize the limited promise of the 083 Patent - that is, that valacyclovir had a better oral bioavailability profile than either of the two other esters tested (i.e. glycine and alanine).
+[61]
+Both Dr. Sinko and Dr. Borchardt went on to assert in virtually identical language that valacyclovir had and has a unique bioavailability advantage over
+all
+of the ester compounds claimed by the 493 Patent because it is supposedly the only one of those compounds which has been shown to be actively transported by a peptide transporter. Dr. Sinko's evidence on this point was as follows:
+"Furthermore, to my knowledge the substantial advantage of improved bioavailability is peculiar to the L-valine ester of acyclovir (valacyclovir), and its salts,
+since they are the only members of the classes of compounds encompassed by the genus disclosed in EPA '493 and the '149 Patent, respectively, which are known to be actively transported by a peptide transporter.
+. . . . .
+"The claims of the '083 Patent, in contrast, are directed specifically to the L-valine ester of acyclovir, that is, valacyclovir (as well as its pharmaceutically acceptable salts and a process for making it) which provides the substantial advantage of improved bioavailability over other amino acid esters of acyclovir, as well as acyclovir.
+"
+To my knowledge, the substantial advantage of improved bioavailability is particular to valacyclovir and not to any of the other amino acid esters covered by the claims of CA '637.
+[the Canadian equivalent to the 493 Patent] Furthermore, for the reasons discussed above, in my opinion, the discovery that valacyclovir has the substantial advantage of improved bioavailability when administered orally, over the class of compounds covered by the claims of CA '637, and over acyclovir itself, could not have been predicted before the discovery was made." (Emphasis added)
+[62]
+To the same effect is the following passage from Dr. Borchardt's affidavit:
+"The '083 Patent is directed to improving the bioavailability of acyclovir after oral administration so that it can be formulated into pharmaceutical preparations for oral administration such as tablets. The only compound described and claimed in the '083 Patent is valacyclovir and its pharmaceutically acceptable salts.
+"Valacyclovir has substantially improved oral bioavailability (as measured by urinary recovery of acyclovir) relative to other amino acids of acyclovir (i.e. the glycine and L-alanine esters).
+"Valacyclovir, as compared to the amino acid esters of acyclovir exemplified in the '637 Patent, has been shown to have this substantially improved bioavailability versus acyclovir when administered orally.
+"
+A substantially improved oral bioavailability is peculiar to valacyclovir since, as I understand, valacyclovir is the only member of the class of amino acid esters of acyclovir encompassed in the '637 Patent which has been shown to be actively transported by a peptide transporter.
+"For all these reasons, the '083 Patent meet the criteria for a valid selection patent as I understand the test for selection patents explained to me by Ogilvy Renault and set out in Section IV (b) of my affidavit." (Emphasis added)
+It seems to me that the above evidence is disingenuous for at least three reasons. Firstly, there is no evidence produced by GSK to establish that the bioavailability advantage for valacyclovir asserted by the 083 Patent was then known or predicted to be substantially unique among the thousands of compounds claimed by the 493 Patent. For all I can tell from the evidence, valacyclovir was, at best, shown to have a qualitative bioavailability advantage over the other two esters tested but that finding says absolutely nothing about whether the same advantage would exist vis-à-vis a few, some, many, most or all of the other compounds claimed by the 493 Patent. This is hardly a sufficient basis to establish the legal requirement that a selection be of a special or peculiar character relative to the genus from which it was chosen: see
+Farbenindustrie
+, above, at page 232. Another way of putting this is that the selection of one compound with an unquantified advantage over two others does not add anything of a substantial character to the existing knowledge relative to the substantial pool of other esters of acyclovir claimed by the 493 Patent: see
+Farbenindustrie
+, above, at page 322. This is particularly obvious when one considers the evidence of Dr. Borchardt that GSK's research data permits only a rank or qualitative ordering of the compounds tested as among themselves in human application. On this point, I do not accept that a valid selection has been made where the inventor selects one compound out of thousands claimed by the genus patent, tests its characteristics against only two other genus compounds and declares only that the selected compound has unquantified special characteristics or unexpected advantages over the other two.
+[63]
+In this case the comparator compounds were the glycine ester and the alanine ester. No explanation is provided in the 083 Patent as to why those compounds were chosen or whether they would be expected to exhibit bioavailability properties commensurate with the thousands of other ester compounds claimed by the 493 Patent. The danger of such an approach is that an inventor may choose for comparison unrepresentative compounds which would serve to highlight the "unexpected" advantage of the chosen compound. Another problem which arises from such an approach is that there is no standard against which to assess a supposedly surprising or unexpected result vis-à-vis the other members of the genus. What we are left with here is a 3-compound comparison which offers no quantitative data about the compounds even compared among themselves let alone as against the genus.
+[64]
+The second problem with the evidence of Drs. Borchardt and Sinko is that there is absolutely no other evidence to support their common opinion that valacyclovir is,
+to their knowledge
+, the
+only
+amino acid ester of acyclovir which has been shown to be actively transported by a peptide transporter. Dr. Sinko's affidavit is particularly troubling on this point in the face of the following evidence he gave under cross-examination:
+"Q. And I guess with respect to these other prodrugs, what other prodrugs are people looking at that go through those transporters?
+A. Well, like I said, actually I have not - - -
+Q. Sorry. You're right.
+A. Once we went past that, we were actually done with that and I don't really follow it really that carefully. I mean, I see it in general. And, you know, we're looking for the next new thing.
+Q. Fair enough. That's where the money is. Any other esters of acyclovir that go through that transporter?
+A. I've not studied nor seen, you know, reports of that mechanism.
+. . . . .
+Q. Now, what about - - just going back to - - if we compare valacyclovir compared to the hundreds of compounds from De Clercq, I take it De Clercq's patent doesn't tell us anything about valacyclovir or bioavailability compared to the hundreds of compounds that De Clercq talks about; is that right?
+A. He doesn't talk about oral bioavailability of any compound.
+Q. And what about when we get to the '083 patent. Does that give us an indication of valacyclovir's superiority over the other hundreds of compounds that are covered by De Clercq?
+MS. BREMNER: Do you have the patent?
+MR. KIERANS: Yes.
+MS. BREMNER: Sure.
+BY MS. BREMNER:
+Q. My question was does the '083 patent tell us anything about the improvement in oral bioavailability of valacyclovir versus the hundreds of compounds that are covered by De Clercq's '493 patent?
+A. So it lists on page 20 at the top there, Example 1, which would be valacyclovir, acyclovir, glycyl ester and the L-alanyl ester of acyclovir. So it doesn't address the hundreds of compounds, but it addresses two of the compounds specifically mentioned by De Clercq.
+Q. So for example, proline, that was one of the ones - - the particular examples you gave me. Do I know if valacyclovir is any better than proleine for oral bioavailability?
+A.
+I've not seen any data.
+Are you talking about with respect to '083 patent?
+Q. With respect to the '083 patent or with respect to anything sitting here today.
+A.
+Not that I'm aware of.
+" (Emphasis added)
+The above passages suggest that when Dr. Sinko swore his affidavit he had no evidence or knowledge to support the opinion that the valacyclovir was the only such ester of acyclovir to be actively transported. Furthermore, if, as the evidence seems to suggest, no one has taken the trouble of looking at even a representative sample of the other esters of acyclovir, then no such opinion of uniqueness is sustainable.
+[65]
+The final problem with these opinions is that Dr. Sinko and Dr. Borchardt both rely upon evidence that did not become available to persons skilled in art until 1993. As noted previously, it is not appropriate to bootstrap a claim to an inventive selection based on after-acquired evidence.
+[66]
+In a pharmaceutical selection patent, the invention is the discovery of a surprising or unexpected advantage of the selection over the genus of compounds from which it was chosen. The utility of such a selection is not found in the fact that it works to successfully treat some human condition or ailment but rather that it works surprisingly better than the compounds monopolized by the genus patent. That is the inventive promise made and the inventive promise that must be established.
+[67]
+In this case, GSK's 493 Patent claimed a monopoly over several thousand ester compounds of acyclovir for the treatment of specified viral infections. In other words, GSK widely cast its net over thousands of ester compounds of acyclovir - including valacyclovir - as effective and useful prodrugs. To claim a further monopoly over valacyclovir it was incumbent upon GSK to establish that valacyclovir had surprising and unexpected utility over the 493 Patent genus compounds. It is not enough for GSK to establish that valacyclovir was useful as a prodrug because it worked better than acyclovir. That claim had already been asserted in the 493 Patent.
+[68]
+All that GSK did in this instance was select a likely compound from among the many compounds claimed by the 493 Patent and measure its oral bioavailability properties in rats against two other esters of acyclovir already exemplified in the 493 Patent. From that analysis GSK obtained data which, at most, allowed for a qualitative or rank ordering of the compounds tested for human use and which identified valacyclovir as the best of the three. There is no evidence to establish or to support a prediction that valacyclovir had a better oral bioavailability profile than any of the other compounds of the 493 Patent genus. This was, according to GSK, sufficient to support an inventive selection. As previously noted above, I do not agree.
+[69]
+I have therefore concluded that the 083 Patent is invalid because GSK has failed to establish an inventive selection by failing to prove a special advantage or utility vis-à-vis the genus from which valacyclovir was chosen. Therefore, the 083 patent fails for lack of utility.
+[70]
+I do not mean to suggest by this analysis that a patentee of a selection patent must test every compound in the genus but I do think that it requires sufficient representative testing that a person skilled in the art could soundly predict that the surprising characteristic would not be expected to be found in a large number of the other members of the genus. In some cases, it may be possible to make such a prediction on the basis of the prior art but the patentee must at least offer evidence of a line of sound reasoning to show that the asserted advantage is special or peculiar to the selection.
+Disclosure
+[71]
+Having regard to my finding with respect to utility, it is unnecessary to decide whether the 083 Patent meets the test for disclosure under section 27(3) of the
+Patent Act
+, R.S.C. 1985, c. P-4. However, I would add one point of observation with respect to this issue. The law in the area of disclosure has recently been clarified to a degree by the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  than the surprising and unexpected advantage of the selection. No data or other evidence to support that assertion is required to be published within the patent. Suffice it to say, though, that when a patentee is attempting to establish the utility of a selection by relying upon evidence of sound prediction, there may be an obligation to disclose in the patent the underlying facts and the line of reasoning which support the prediction: see
+ <FRAGMENT_SUPPRESSED>  of whether and why the asserted bioavailability advantage of valacyclovir would be predicted to be substantially unique among the other esters of acyclovir claimed by the 493 Patent. It seems to me that if a patentee is relying on sound prediction to establish that its selection has some unexpected advantage over the genus, it does have a heightened obligation to disclose in the patent its line of reasoning because that is part of the quid pro quo for the claimed monopoly over the selection.
+Costs
+[72]
+As I indicated at the conclusion of the hearing, I will allow the parties 10 days to make submissions in writing concerning costs. Those submissions should not exceed 5 pages in length.
+JUDGMENT
+[73]
+THIS COURT ADJUDGES that
+this application is dismissed.
+[74]
+THIS COURT FURTHER ADJUDGES that
+the matter of costs will be dealt with in a separate Order following the receipt of the further submissions by the parties.
+Application dismissed.
+Editor: Steven C. McMinniman/vnh
+Footnotes
+1.
+Design of Prodrugs
+(Amsterdam: Elsivier, 1985).
+2. I do not accept Dr. Sinko's attempt to characterize these esters as having potent antiviral activity in their own right and not as prodrugs. This point is inconsistent with much of the other evidence including Dr. Sinko's own evidence that prodrugs were used as a means of overcoming solubility problems of the active parent drug. This inconsistency can be seen in the following passage from Dr. Sinko's cross-examination:
+"Q. Just to give some context, the second sentence says:
+'Classical prodrugs are typically designed to overcome problems with
+solubility
+, stability or limited absorption.'
+I take it you agree with that?
+A. Yes." (Emphasis added)
+That Dr. Sinko was out on a limb on this issue is also reflected in the following affidavit evidence from Dr. Borchardt:
+"... A person skilled in the art in 1986 might therefore have understood that EPA '493 was directed to esters of acyclovir which were themselves active as anti-viral agents. However, a person skilled in the art at that time familiar with the work of Bundgaard et. al., 1984a,b, would likely have realised that the esters described in EPA '493 were prodrugs of acyclovir."
+It is perhaps not surprising that Dr. Borchardt attempted to distance his opinion from that of Dr. Sinko because the 493 Patent inventor, Eriq DeClercq, co-authored a paper in 1983 which clearly described his research as being directed at the development of prodrugs of acyclovir which were "readily hydrologized to release [acyclovir]".
+3. The partition co-efficient expresses the ratio of solubility in a hydrophobic environment to solubility in water, and is used to indicate the likelihood of a compound permeating a cellular membrane.
+4. pKa values express the extent of proton dissociation of a molecule in comparison to the pH scale: The pKa of a compound is the pH at which 50% of a sample will be charged and 50% will be uncharged. Since ionization affects passive transcellular movement, pKa values can help to predict the ability of a compound to cross the cell membrane at a given pH.
+5. In its Memorandum of Fact and Law, GSK slightly restated the nature of the invention as being "the surprisingly improved oral bioavailability of the L-valine ester of acyclovir compared to the alanine and glycine esters of acyclovir previously disclosed in the genus of compounds in EPA '493".
+[End of document]

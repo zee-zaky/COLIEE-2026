@@ -1,0 +1,19 @@
+{
+  "preset": "test_2026",
+  "cases_dir": "2026/Test/Dataset/cases",
+  "labels_file": null,
+  "labels_processed": false,
+  "output_clean_dir": "2026/Test/Dataset-Clean",
+  "metadata_file": "2026/Test/Dataset-Clean/processed_cases.json",
+  "cleaned_cases_dir": "2026/Test/Dataset-Clean/CleanedCorpus",
+  "duplicate_excel_file": "2026/Test/Dataset-Clean/duplicate_cases.xlsx",
+  "cleaned_labels_path": null,
+  "num_duplicates": 0,
+  "num_missing_case_files": 0,
+  "missing_case_files": [],
+  "duplicate_label_report": {
+    "duplicates": {},
+    "self_citations": [],
+    "duplicate_queries": []
+  }
+}

@@ -1,0 +1,555 @@
+[1]
+Joyal, J.
+: This court is seized with an action for patent infringement pursuant to the provisions of the
+Patent Act
+, R.S.C. 1985 c. P-4, as amended (the "
+Act
+"). At issue are claims 1, 2, 32, 33 and 46 of Canadian Letters Patent No. 1,180,764 (the "764 Patent") entitled Cochlear Implant with Rapidly Sequenced Biphasic Pulses to Multiple Sites, as issued to Telectronics Pty. Limited on January 8, 1985. Although the
+Act
+was amended in 1987, its earlier provisions will apply in view of the date of issuance of the patent at issue.
+Background:
+[2]
+The plaintiff company was incorporated under the laws of Delaware in the United States of America. The defendant corporation was incorporated under the laws of Québec. By reason of an assignment effective as of November 20, 1984, from Telectronics Pty. Limited to Cochlear Pty. Limited, and an assignment effective as of August 30, 1988, from Cochlear Pty. Limited to Cochlear Corporation ("Cochlear"), the plaintiff alleges that it has the exclusive right to make, use and sell the cochlear implant of the '764 Patent. The issue between the parties arises from a claim by the plaintiff that a similar cochlear implant developed by the defendant is, in its function, in breach of the relevant claims of the '764 Patent.
+Facts:
+[3]
+It is not always easy to understand the technical vocabulary of the '764 Patent and its medical utility without a brief overview of the anatomy and the functions of the cochlea.
+[4]
+In a normal hearing person, sound is transmitted through the internal ear canal to the ear drum and in turn to the middle ear where three small bones, called ossicles, vibrate a membrane at the opening of the inner ear where the cochlea is located, which in turn causes the auditory nerve to be stimulated.
+[5]
+Deafness in some people is caused by the absence or destruction of the hair cells in the cochlea which transduce acoustic signals into nerve impulses. These people are unable to benefit from a conventional hearing aid system. Essentially, a cochlear implant bypasses these hair cells in the cochlea by taking sound, analyzing it, encoding it through an array of electrodes and presenting direct electrical stimulation to the
+sensory nerve, leading to the perception of sound in the brain.
+The Patent:
+[6]
+The '764 patent at issue discloses an implantable tissue-stimulating prosthesis, fitted into a surgically-created cavity behind the ear, which strives for simplicity, reliability and flexibility in operation. Before dealing with the patent per se, it might be useful to summarize its physical embodiment in order to facilitate a better understanding of the claims.
+[7]
+The patent is described as a 15-channel receiver/stimulator capable of providing biphasic constant-amplitude, variable-width pulses at a rate of three channels/one millisecond. Power and data are coupled on the same carrier so that only a single coil is required. The receiver does not need to be operated during silent periods and the device returns to a reset state when the power supply voltage drops below a pre-set threshold.
+[8]
+Some 16 electrodes are required to provide 15 stimulation sites. Each channel has two stimulation phases: positive and negative. Moreover, as all electrodes are connected together, any residual charge is dissipated and thus, electrode polarization currents are minimized. According to the inventors, this technique of pairing electrodes has no counterpart in prior art.
+[9]
+According to its inventors, the device contemplated by the '764 Patent meets all of the following requirements, essential to any cochlear prosthesis.
+[10]
+First of all, 15 electrodes sites must be independently stimulated, although not necessarily simultaneously. The stimulation must nonetheless be within a short interval of less than one millisecond. In the invention, three channels at most require simultaneous stimulation. As stimulation is perceived as being simultaneous when three sites are energized sequentially in less than one millisecond, true simultaneous energizing of multiple electrode sites is not required.
+[11]
+In addition to the cochlear site, other parameters of electrical stimulation can be changed to alter the perceived pitch and intensity of sound. These include pulse repetition rate and pulse energy. Since stimulation thresholds range not only from patient to patient, but even from electrode to electrode, the implant must provide a wide range of pulse energy while also being able to control a number of perceived intensities from any given electrode.
+[12]
+The implant system must also be safe. In other words, it must prevent excessive stimulation. According to the inventors, biphasic stimulation is the safest way to achieve this purpose. Reliability of the implant is also better assured by having as few components as possible. As flexibility is also a concern, the implant system should allow variations in stimulation sequencing.
+The Parties' Submissions:
+[13]
+The plaintiff submits that the defendant, by its making, use and sale of the Cosem implant devices or threats to do so, has infringed or threatens to infringe Cochlear's exclusive rights under the patent-at-issue.
+[14]
+Accordingly, the plaintiff prays for the following relief: (a) a declaration that claims 1, 2, 32, 33 and 46 of the '764 Patent are valid and subsisting; (b) a declaration that the defendant has by the manufacture, use, sale or offer for sale of its aforementioned products, or threats to do so, infringed the ''764 Patent; (c) a permanent injunction, restraining the defendant from further infringing the plaintiff's rights, and; (d) costs of this action. In recognition, however, that the defendant has not yet commenced commercial sales at the time of trial, the plaintiff does not seek either damages or an accounting of profits at this time.
+[15]
+In reply, having limited its activities to research and development, the defendant denies having sold or having made offers of sale of a cochlear implant which has the characteristics of the patented device. In this regard, the defendant underlines what it considers to be numerous distinctions between the Cosem device and the cochlear implant claimed in the '764 patent.
+[16]
+Furthermore, the defendant submits that since the plaintiff's patent pertains to the cochlear implant itself, the patent excludes speech processing strategies. Furthermore, contrary to the Cosem device, the invention comprises a plurality of electrodes, pairs of which are associated with respective stimulation sites and also comprises a means of energizing only a single pair of electrodes at any instant of time. In light of these three major elements of the '764 Patent, the defendant submits that the cochlear implants at issue are very different.
+[17]
+It is also the defendant's contention that the patent per se is invalid since it was obvious in light of a number of patents and articles on the subject matter.
+Issues:
+[18]
+In light of both parties' submissions, the following issues must be determined:
+1. What is the proper construction of the Patent?
+2. Is Patent '764 valid? In other words, was the patent obvious in light of a number of U.S. patents and articles on the subject?
+3. Is there infringement of the '764 Patent by the defendant?
+4. If so, what are the remedies?
+The Patent Claims:
+[19]
+The '764 Patent claims at issue read as follows:
+"1. A cochlear prosthesis comprising a plurality of electrodes, pairs of which are associated with respective stimulation sites and with at least almost all of said electrodes being included in each of at least two different pairs, means for detecting a transmitted information signal which represents both stimulation sites and stimulation intensities required therefor, and means under control of said detecting means for energizing the pair of electrodes associated with a represented stimulation site with successive opposite-polarity current pulses in accordance with the respective represented stimulation intensity, said energizing means energizing only a single pair of electrodes at any instant of time and operating fast enough such that at least any two electrode pairs can be energized successively within the time interval that allows the respective site stimulation to be perceived as occurring simultaneously.
+"2. A cochlear prosthesis in accordance with claim 1 wherein said time interval is less than one millisecond.
+"32. An implantable tissue-stimulating prosthesis comprising a plurality of electrodes, pairs of which are associated with respective stimulation sites and with at least most of said electrodes being included in each of at least two different pairs, means for detecting a transmitted information signal which represents stimulation intensities required for said stimulation sites, and means under control of said detecting means for energizing said electrode pairs in accordance with the operation of said detecting means, said energizing only a single pair of electrodes at any instant of time and operating fast enough such that at least any two electrode pairs can be energized successively within the time interval that allows the site stimulation to be perceived as occurring simultaneously.
+"33. An implantable tissue-stimulating prosthesis in accordance with claim 32 wherein said time interval is less than one millisecond.
+"46. An implantable tissue-stimulating prosthesis in accordance with claim 32 further including means for deriving a source of power for said detecting and energizing means from the detected information signal."
+The Witnesses:
+[20]
+Four expert witnesses were called. Dr. Christopher van den Honert testified on behalf of the plaintiff. As for the defendant, it relied on the expert testimony given by Dr. Robert Mathews, Dr. Yvon Savaria, and Dr. François Duval. Other witnesses included Mr. Ronald West, President of Cochlear Corporation, Dr. Michael Samuel Hirshorn from Australia, and Mr. Patrick Marshall, a patient benefiting from a cochlear prosthesis.
+[21]
+Dr. van den Honert, a Princeton University graduate, received his Ph.D. in Biomedical Engineering at Case Western Reserve University in 1979. He is the author of numerous published articles and the inventor or co-inventor of eight United States patents, dealing with hearing and cochlear prostheses. Since 1990, he has been assistant medical research professor at Duke University Medical Center, in North Carolina. Dr. van den Honert has twenty years of research experience in the field of auditory prostheses.
+[22]
+Dr. Mathews is presently the vice-president of Engineering for Medical Multimedia, a company providing services in hospitals. He received a Ph.D. in Electrical Engineering from Stanford University.
+[23]
+Dr. Duval received his Ph.D. in Engineering at l'Université Scientifique et Médicale et Institut National Polytechnique de Grenoble in 1974. He has been a professor of electrical engineering at l'Université de Sherbrooke since 1980. The author of 57 articles and four patents, he is an active member of a multidisciplinary research group for the development of a Canadian cochlear implant.
+[24]
+As for Dr. Savaria, it is acknowledged that he is not a specialist in cochlear implants. He nevertheless holds a Ph.D. in engineering and has specialized in microelectronics. A professor at l'École Polytechnique de Montréal since 1985, he is the author of more than 115 scientific publications. Among his more recent projects, he has collaborated on research regarding source currents for implantable stimulators, i.e., the energy sources on which the implant depends for its stimulation properties.
+The Evidence:
+1. The Proper Construction
+Of The Patent:
+[25]
+On behalf of the defendant, Dr. Duval submits that the invention claimed in the '764 patent pertains only to an implantable prosthesis. In this regard, the witness notes that the inventors acknowledge that much investigative work is being done in the area of speech processing strategies and transmitter designs. As such, it was the inventors' intention to expressly limit the scope of claim 1 and to exclude speech processing strategies and transmitter designs from the scope of the patent.
+[26]
+Dr. Duval testified that the expression "energizing only a single pair of electrodes at any instant of time", as found in claim 1, signifies that the '764 device operates exclusively by energizing just one pair of electrodes at a time. In his interpretation, the term "only" acts to restrict the term "energizing".
+[27]
+In fact, says Dr. Duval, the inventors would not have mentioned the term "only" if it were not necessary. Each word must have its own significance. Since "only" is synonymous with "single", says the witness, the use of these terms is pleonastic. Consequently, the term "only" must have a restrictive meaning and is to be construed as signifying "exclusively".
+[28]
+The defendant also alleges that the essential element of the invention is its capacity to stimulate exclusively in a sequential manner.
+[29]
+On behalf of the plaintiff, Dr. van den Honert acknowledges that the patent does not pertain to speech processing strategies nor to transmitter designs. However, he does not agree that anything concerned with either speech processing strategies or transmitter design is outside the scope of this invention.
+[30]
+Dr. van den Honert believes that the intent of the inventors was to move the decision about speech processing to the external components in order to preserve flexibility and the ability to incorporate new speech processing strategies without surgical intervention. Also, if the implantable device cannot carry what the speech processing strategy requests, the implantable device is useless in that respect.
+[31]
+Finally, according to Dr. van den Honert, the expression "cochlear implant" is generally understood to mean an entire system, including the speech processor, the microphone, the transmitter and the implanted receiver stimulator.
+[32]
+According to Dr. van den Honert, "only a single pair of electrodes at any instant of time" should be interpreted to mean that the invention claimed operates by energizing only one pair of electrodes at a time. Accordingly, the term "only" acts to reinforce the term "single".
+[33]
+To suggest otherwise would necessitate repositioning the term
+only
+and/or inserting an additional
+only
+for that kind of reading to make grammatical sense. Furthermore, says Dr. van den Honert, it would make no sense for the inventors to restrict the implant to a single mode. This view is consonant with the earlier evidence of Dr. Hirshorn and Mr. West that Cochlear's commercial product operates in more than one mode.
+[34]
+According to Dr. van den Honert, the use of one mode does not preclude the use of another mode, since as evidenced by the language of the patent, the inventors strived for flexibility of the implants. In fact, the patent describes the inventive mode, but does not preclude additional modes, past or future which might be added to the invention. In support, the witness relies on independent claims, in particular, claims 73, 95, 110 and 122, which make no reference to any kind of electrode pairs. In his opinion, this demonstrates very clearly that there were ways, contemplated by the inventors, to define a site other than by pairs.
+2. Validity Of The Patent:
+(1) Novelty:
+[35]
+With regards to the validity of the patent, the defendant alleges that, in light of the prior art, the invention does not meet the requirement of novelty as being anticipated. In the case at hand, the defendant relies on U.S. patent 4,019,518 obtained by Maurer et al.
+[36]
+In particular, the defendant's witnesses suggest that the Maurer patent clearly discusses the notion of using pairs of electrodes to define stimulation sites and the stimulator's capacity for bipolar stimulation.
+Also, Maurer teaches the concept of sharing of electrodes, discusses the notions of "almost all" and "only a single pair" of electrodes and its receiver is sufficiently rapid to issue 3 impulses in less than a millisecond. Also, the receiver allowing the identification of the site and the intensity of stimulation was a practice well-known in the prior art of cochlear prostheses. As such, the claims of the '764 patent were obvious in light of the prior art.
+[37]
+In response, Dr. van den Honert discussed at great length the relevancy of the Maurer patent to the field of cochlear prostheses. Inter alia, he made the following statements:
+(a) The Maurer patent discloses:
+(i) an implantable tissue stimulating prosthesis; comprising a plurality of electrodes, pairs of which are associated with respective stimulation sites;
+(ii) means under control of said detecting means for energizing said electrodes pair;
+(iii) said energizing means energizing only a single pair of electrodes at any instant of time.
+(b) There are matters, however, which the Maurer patent does not cover:
+(i) Maurer does not meet the element of "most of said electrodes being included in each of at least two different pairs";
+(ii) the Maurer patent does not have a single transmitted information signal which combines both the means for detecting a transmitted information signal and for representing the stimulation intensities required;
+(iii) contrary to the '764 patent which calls for a plurality of intensities, the Maurer device transmits the same intensity repeatedly; as such, the Maurer device is useless as a sensory prosthesis because it would only provide a monotonous droning which would never vary in intensity and, thus, could not convey information to the user as to his or her environment;
+(iv) the Maurer device does not operate fast enough such that at least any two electrodes pairs can be energized successively within the time interval that allows the respective site stimulations to be perceived as occurring simultaneously;
+(v) although the Maurer patent shows a plurality of electrodes and demonstrates the ability to select among different, arbitrary combinations of electrodes, it does not teach as to why those particular combinations are of any utility. Also, Maurer teaches fundamentally different purposes for altering electrode combinations as evident when one compares the speed with which combinations are selected in the Patent (fast) and Maurer (slow).
+[38]
+Therefore, according to Dr. van den Honert, the Maurer patent has no utility as a cochlear implant and researchers did not anticipate its use as a sensory prosthesis.
+[39]
+In summary, the '764 Patent would not have been obvious in light of Maurer because: (a) the concept of sharing electrodes was at odds with contemporaneous doctrines of bipolar stimulation; and (b) Maurer taught fundamentally different purposes for selecting among electrode combinations.
+(2) Utility:
+[40]
+Evidence supporting the utility of the patent was given by Mr. Ronald West, president of Cochlear Corporation. According to Mr. West, a cochlear implant developed by 3M Corporation was the first implant made commercially available and was considered to be a breakthrough device. However, this device only assisted patients who could rely upon lipreading. According to Mr. West, with Cochlear's commercial product, open-set speech, i.e., understanding speech without lip reading, was achieved. Cochlear's device provided much better hearing and speech comprehension for patients. Consequently, the Cochlear implant became increasingly accepted as the operative prosthesis and 3M eventually exited the market. As evidence of their general acceptance and utility, over 11,000 Cochlear prostheses have been surgically implanted to date.
+[41]
+The practical effectiveness of the '764 device was also the subject of Mr. Patrick Marshall's testimony. Having received a 3M implant in the mid-1980's which allowed him to hear sounds but not to understand speech, Mr. Marshall later received a Cochlear implant. The improvement was dramatic. He is now able to hear and distinguish sounds such as the telephone, music, ringing, traffic noise, birds' chirping, etc. Also, since his initial Cochlear implant, Mr. Marshall has received a new speech processor with additional capabilities. Without any change in the implanted portion itself, the device now allows improved speech recognition.
+(3) The Inventive Step And Obviousness:
+[42]
+According to the defendant, the cochlear prosthesis as claimed did not constitute a novelty at the time of the invention in 1981. In fact, Dr. van den Honert acknowledged that all but one of the elements claimed in claims 1 and 32 of the '764 Patent were known at that time.
+[43]
+According to
+the defendant, the Cosem implant does not read on the claims at issue in light of the prior art, and in particular the articles published by White, Chouard, Gheewala, Mathews, Walker and the Stanford Prosthesis project in addition to the American patents issued to Maurer, Lenzkes, Glover and Susset.
+[44]
+The defendant also contends that claim 32 is broader than the invention, since the plaintiff seeks to limit the scope of the claim to sensorineural prostheses in order to avoid the application of prior art. On a final note, the defendant contends that claims 1 and 32 are void for ambiguity since the term "only" leads to confusion.
+[45]
+In response, Dr. Van Den Honert indicates that although he agrees that all of the elements of claims 1 and 32 were "individually" known at the time of the invention, except for the concept of sharing electrodes among pairs, none of the prior art relied upon by Cosem "combined" the known elements of claims 1 and 32. As such, claims 1 and 32 were novel, non-obvious and counter to contemporaneous teaching at the time of the invention.
+[46]
+In support, Dr. van den Honert submits that the combination of sequential stimulation and bipolar stimulation was not only novel, in his opinion, but in fact, antithetical to the teachings of the time with regard to bipolar stimulation.
+[47]
+Early prostheses adopted monopolar stimulation which resulted in numerous difficulties. In particular, it defeated the intention of localized stimulation and also resulted in overlapping currents, resulting in channel interactions and loudness.
+[48]
+In order to avoid such problems, researchers adopted sequential stimulation as a compromise. Thus, according to Dr. van den Honert, it would have been antithetical to bipolar practice, at the time, to introduce sequential stimulation since the latter concept was designed to deal with a problem which had been corrected. The sequential stimulation compromise was no longer necessary. It would have been a step backward.
+[49]
+The plaintiff submits that it is possible for an invention to extend beyond the matters in the specification or even objects constructed by the inventor himself as long as the claims made in the patent are sound predictions of what will happen when the claims are followed.
+3. The Infringement Issue:
+[50]
+Before embarking on this issue which is, of course, the main thrust of the plaintiff's case, the court should note that no three-dimensional model of the Cosem device was produced by the defendant. In consequence, therefore, the plaintiff's allegations of infringement rest on published material relating to the Cosem implant and, as it turned out in the course of the trial, on very extensive evidence given by the defendant's expert witnesses on the design and performance features of the impugned product.
+(1) The Case For The Plaintiff:
+[51]
+According to the evidence in chief of Dr. van den Honert, the Cosem device contains every element specified in each of the claims in question.
+Claim 1
+:
+(a)
+a cochlear prosthesis
+: although the Cosem device is described as "prothèse cochléaire", this term is synonymous with the term cochlear "prosthesis" or "implant".
+(b)
+comprising a plurality of electrodes
+: since the Cosem product comprises eight active electrodes, it meets this requirement.
+(c)
+pairs of which are associated with respective stimulation sites
+: the Cosem device utilizes an electrode array, comprised of eight individual bands, which permit the current to be passed from any of these electrodes to any other electrode. The device has 13 stimulation sites: seven primary electrode pairs (whose number differ by one) and six secondary electrode pairs (whose number differ by two). Including tertiary and higher order pairing (BP +2) of electrodes, the total number of possible pairs and sites is 28. As for sites, when a current flows from one electrode in a pair to the other, the current flows through some volume of nervous excitable tissue which constitutes the site. Hence, it may be said that defining a pair at the same time defines the site. The witness submits that the electrodes in the Cosem device are associated with stimulation sites.
+(d)
+and with at least almost all of said electrodes being included in each of at least two different pairs
+: according to Dr. Van Den Honert, the patent language "at least almost all" means N or more, and includes the case where some number of electrodes is included in each of at least two different pairs, such as the case in the Cosem device where every electrode is included in seven different pairs.
+(e)
+means for detecting a transmitted information signal
+: the witness explains that the Manchester Code, utilized in the Cosem device, represents a transmitted information signal. According to the witness, the Cosem device has a radio receiver which is able to detect modulations of the carrier. In fact, the Manchester encoded signal is a well known method of transmitting numeric information which uses only two digits.
+(f)
+which represents both stimulation sites and stimulation intensities required therefor
+: this claim deals with defining the site by identifying the pair. The device must also identify the intensity with which that pair should be energized. In this regard, the Cosem device transmits groups of numbers which are referred to as digital words, comprised of a series of ones and zeros ("bits"). A digital word has 24 bits. The Manchester encoding system makes a transition from strong to weak, and represents a one or a zero. So it transmits 24 ones and zeros and those are assembled internally into a word, which, in the Cosem device, has six fields. Hence, the transmitted information signal is able to identify an electrode which should be stimulated, a second electrode which should be its mate and the amount of current which should flow between them.
+(g)
+means under control of said detecting means for energizing the pair of electrodes associated with a represented stimulation site with successive opposite-polarity current pulses
+: Dr. van den Honert explains that a pulse is a momentary rise and fall in the amplitude, and current is the flow of electric charge. Therefore any momentary rise and fall in the flow of electric charge (current) constitutes a "current pulse". The second polarity pulse of the Cosem device thus constitutes a current pulse. Furthermore, he submits that the Cosem device contains this element when it is operated in "symmetrical mode" — during the first polarity pulse, one electrode is connected to a current source while another electrode is connected to the ground to serve as a return. During the following opposite polarity pulse, the electrodes' roles are reversed. The total amounts of charge are equal.
+(h)
+in accordance with the respective represented stimulation intensity
+: this is accomplished in the Cosem device by using a digital-to-analog converter which produces a voltage proportional to the binary number in the amplitude field (F) of the 24-bit command word. The voltage is stored and serves to control the current level of the corresponding current source.
+(i)
+said energizing means energizing only a single pair of electrodes at any instant of time
+: in the witness's opinion, the Cosem device's only method of operation involves sequential pulses where no two pairs are energized at any one moment. The Cosem device cannot simultaneously stimulate two bipolar pairs and must therefore operate them one at a time, as is referred to in this element of the claim.
+(j)
+and operating fast enough such that at least any two electrode pairs can be energized within the time interval that allows the respective site stimulations to be perceived as occurring simultaneously
+: the Cosem device is capable of delivering a biphasic pulse pair every 96 microseconds, corresponding to a rate of 10,400 electrode stimulations per second. Therefore, any two electrode pairs can be energized within 192 microseconds, between the beginning of stimulating one pair and the end of stimulating the second pair.
+Claim 32:
+(a)
+an implantable stimulating prosthesis
+: any cochlear prosthesis which acts by electrical stimulation of the auditory nerve is stimulating biological tissue. The defendants have admitted that this element of the claim is a component of the Cosem system.
+(b)
+comprising a plurality of electrodes
+: for the same reasons as specified with regards to claim 1, the Cosem device includes a plurality of electrodes.
+(c)
+pairs of which are associated with respective stimulation sites
+: in view of the identical language in claim 1, Dr. van den Honert reiterates his opinion with regards to this element of this claim.
+(d)
+with at least most of said electrodes being included in each of at least two different pairs
+: the language is slightly broader, thus allowing slightly fewer of the electrodes to be included in each of two pairs, but certainly more than half. Since all of the electrodes in the Cosem device are included in each of at least two pairs, the device meets the claim.
+(e)
+means for detecting a transmitted information signal
+: again, in light of the similarity of wording of this element with the corresponding element of claim 1, the previous analysis applies to this claim.
+(f)
+which represents stimulation intensities requires for said stimulation sites
+: It is necessary that the transmitted information signals indicate to their implant which sites should be stimulated and with what intensity. This element comprises the same components as the relevant element in claim 1.
+(g)
+and means under control of said detecting means for energizing said electrode pairs
+: contrary to claim 1, this element does not specifically constrain the invention to energize with successive opposite-polarity current pulses, so presumably other forms of energizing would be allowable or would be included in this element of the claim. According to Dr. van den Honert, the biphasic current pulses or successive opposite-polarity current pulses which are used to energize those electrode pairs in the Cosem device are means within the meaning of this element of the claim.
+(h)
+in accordance with the operation of said detecting means
+: in Dr. van den Honert's opinion, the electrodes must be energized in accordance with the information contained in the transmitted information signal, again referring to the sites and the intensities, the appropriate site stimulated with the appropriate intensity.
+(i)
+said energizing means energizing only a single pair of electrodes at any instant of time and operating fast enough such that at least any two electrode pairs can be energized successively within the time interval that allows the site stimulation to be perceived as occurring simultaneously
+: since the wording of these last elements are identical to the wording of claim 1, the same arguments apply.
+Claim 2
+:
+[52]
+The same analysis applies, since all this claim does is add the further constraint that the time between sequential stimulation of two successive pairs must be less than one millisecond. The Cosem device has the capability to stimulate with less than one-fifth of one millisecond between successive pairs.
+Claim 33:
+[53]
+The same analysis as in claim 2 applies in view of the nature of this claim.
+Claim 46:
+[54]
+Claim 46 is dependant on claim 32 but it adds an additional element, namely "means for deriving a source of power for said detecting and energizing means from detected information signal." This refers to the use of a single radio frequency signal (RF) to transmit both information and power to the implant. As such, the same transmitted signal is used both to convey information and power to the implant. According to the witness, the Cosem device uses the method of using a single transmitted information signal to convey both the power and the information to the implant.
+(2) The Case For The Defendant:
+[55]
+In the opinion of Dr. Robert Mathews, the Cosem device does not comprise the elements of base claims 1 and 32. In particular, this expert witness makes the following observations.
+[56]
+Sequential bipolar stimulation of pairs of electrodes forms the cornerstone of the '764 Patent. It treats its electrodes as a series of overlapping bipolar pairs and it clearly aims to stimulate successive local sites along the basilar membrane. The ''764 Patent therefore refines and simplifies Maurer by employing only bipolar stimulation. Dr. Mathews also explains that the '764 Patent describes a device that does not require blocking capacitors, thereby conferring some advantages in size and simplicity. Unlike most stimulators, the '764 device is capable of shorting its electrodes together.
+[57]
+As for Cosem's product, it can deliver stimulation through any number of simultaneously active electrodes and is neither monopolar nor bipolar. It optionally provides a ground electrode to ease its use for purely monopolar stimulation and relies on blocking capacitors. The device also delivers biphasic stimuli. In other words, during the first phase, some electrodes source currents, while others act as returns. During the second phase, selected electrodes act as returns to restore charge balance. It processes a command stream consisting of a series of commands for loading, activating, and resetting the stimulator. When it resets, it shorts together the internal side of specified electrode blocking capacitors and thus restores charge balance. It does not reset automatically, instead awaiting a reset command. Finally, it derives power from the incoming radio frequency (RF) signal, not from the detected data signal.
+[58]
+In Dr. Mathew's opinion, it is possible to differentiate Cosem's device from the '764 Patent. In claim 1, the patent specifies a device that delivers strictly bipolar stimulation, whereas Cosem's product can deliver either bipolar or more general stimulation, and it is thus more complex. Claim 1 also specifies a device in which pairs of electrodes define stimulation sites. The Cosem device allows, however, pairing of any two electrodes for a stimulus as well as more general stimulation patterns not specific to stimulation sites in accordance with the patent. Moreover, contrary to claim 1 where the command stream encodes stimuli in terms of explicit site identifiers, the Cosem device implements a command stream that encodes stimuli in terms of electrode pairs. Finally, claim 1 specifies a device that stimulates using opposite-polarity current pulses to achieve balanced biphasic stimulation, while the Cosem device uses a current-pulse initial phase and charge-pulse second phase, relying on blocking capacitors to achieve balanced biphasic stimulation.
+[59]
+The same comments, says Dr. Mathews, also apply to claim 32. Moreover, claim 32 specifies a device in which the command stream encodes stimuli in terms of implicit sites, while Cosem's product implements a command stream that encodes stimuli in terms of explicit electrode pairs.
+[60]
+Other expert evidence on behalf of the defendant is offered by Dr. François Duval. In his view, the Cosem device does not in any way infringe the '764 Patent. Dr. Duval describes the Cosem device as a hybrid electronic circuit, i.e., a small ceramic disc containing all the circuits in a titanium container. The device is a strong and flexible tool for research. In current conditions, the device is utilized for research purposes for clinical applications only. As for research funds, he underlines that Cosem benefits from 1.75 million dollars of public funds and 3.4 million dollars in total subsidies. The Cosem programme has evolved at the universities of Sherbrooke, Montreal, Laval, and many Québec hospitals.
+[61]
+In this regard, Dr. Duval explains that the Cosem device has currently only six clinical applications, two in France and four in Québec, all with good results. He also declares that a finding of infringement would jeopardize further research in the field of cochlear implants.
+[62]
+In essence, the Cosem device is a microprocessor which contains program functions related to nerve and tissue stimulation. No pairs of electrodes are involved as stimulation is accomplished by programmable sub-groups of electrodes. The device does not refer to pairs at all. In fact, pairs constitute a subgroup of 78 electrodes in over 6500 possible combinations. No outside ground is needed. Moreover, the Cosem device does not require a "detected information signal". According to Dr. Duval, capacitors are very important; otherwise, uninterrupted current unknown to the patient may cause irreversible damage to the cochlea, as opposed to the "direct coupling" which exists in the Cochlear device.
+[63]
+According to Dr. Duval, the Cosem device is superior to the Cochlear prosthesis since it may stimulate at will all the electrodes, whereas the Cochlear device is limited to "only" a single pair at any instant of time, the other electrodes being disabled. In fact, the '764 Patent cannot stimulate otherwise than sequentially by pairs, the circuit in the implant being unable to operate in any other way.
+[64]
+As for Cosem, the choice of stimulating the electrodes by pairs or by other sub-assemblies of eight electrodes is determined by the software and not by a circuit integrated to the device. It is, therefore, Dr. Duval's testimony that monopolar and/or bipolar stimulation is possible.
+[65]
+Dr. Duval also testified that a newly developed algorithm or programme in Sherbrooke, Quebec, is to be tested shortly, i.e., in one or two months. He reiterates that the true objective of Cosem is to carry out research and development in order to develop a better analyzer, i.e., a "phonem" or speech processor. The Cosem device can work with Dr. Duval's new processor, comprising a circuitry capable of encoding 20 different algorithms, i.e., 20 languages. At this time, however, Cosem is utilizing the Wilson strategies.
+[66]
+The Cosem device's pupose is versatility, flexibility with no functional limits, and is made foolproof with capacitors. Dr. Duval also states that with the current strategies, Cosem only uses 10% of its capacity.
+[67]
+However, Dr. Duval does admit that in its present configuration, i.e., in April 1995, the Cosem device operates 90% to 95% of the time by sequential stimulation, and 5% to 10% simultaneously.
+[68]
+That being said, Dr. Duval submits that the Cosem device does not infringe claim 1 since pairs of electrodes represent a subgroup of all other possible combinations of electrodes. In fact, the Cosem device attempts to create different sound perceptions by modifying the distribution of current, whereas the patent in suit strives to activate pairs of electrodes which are associated with respective stimulation sites. Furthermore, the Cosem device operates by a current impulse which is entirely different from the ones described in the '764 Patent. Also, contrary to the claim, the Cosem device does not contain means which ensure that stimulation will be done exclusively in a bipolar, sequential manner.
+[69]
+Dr. Duval reiterates the same analysis with regards to claim 32. In addition, he underlines that the choice of stimulation, whether sequential or simultaneous, by pairs or other combination, is ultimately determined by the speech processor or transmitter design rather than by the device itself.
+[70]
+Dr. Duval also contends that claim 46 is not infringed since the Cosem device does not derive its source from a detected information signal as provided for in the '764 Patent.
+[71]
+Dr. Duval's main contention, therefore, is that the '764 Patent is limited to pairs and that the Cosem device is not limited in that manner but is rather limited to subgroups or subsystems. Dr. Duval also submits that the '764 claims require that the sequential stimulation of bipolar pairs be done by the implantable stimulator itself.
+[72]
+The court notes here that the plaintiff objected to the entire testimony of another witness, Dr. Yvon Savaria, being accepted by the court. According to the plaintiff, the witness has no particular expertise in the field of cochlear implants. Although the witness may be an expert in integrated circuits, the plaintiff contends that there is nothing in his background or experience which qualifies him to give expert testimony on the particular issues of which the court is seized.
+[73]
+In reply, the witness asserts that he is an expert in microelectronics and has a vast experience in designing integrated circuits. Among his various projects is the conception of the design of current sources for implantable stimulators.
+[74]
+As stated during the trial, the testimony of this witness should be admissible within the narrow field of electronics rather than on the pathology and sensorineural elements of the human ear. However, the question of weight, relevancy or pertinence is altogether another question and his conclusions are to be considered with great care in order to ensure fairness to the parties.
+[75]
+According to Dr. Savaria, the Cosem device utilizes the technology advanced in part by Nadeau-Dostie and Gheewala. In his view, the Cosem device operates as follows. Initially, the capacitor is discharged in the biological tissue while the command tension of the current source is established. Subsequently, the source injects current into the tissue by way of the capacitor. The capacitor charges itself with the same quantity of charges as injected. The second phase of the stimulation then allows the relaxation of the charges of the capacitor, since the capacitor is discharged throughout the electrode. Accordingly, the Cosem device allows for true simultaneous stimulation in addition to sequential stimulation. In summary, it is Dr. Savaria's view that the Cosem device represents a combination of the elements established by prior art.
+[76]
+As for the '764 Patent, Dr. Savaria states that it describes a system of stimulation in which the novelty resides in the manner by which the inventors are able to balance current pulses despite the absence of capacitors. According to Dr. Savaria, another essential element of the patent in suit is the sequential stimulation of pairs of electrodes in such a rapid manner as to create the perception of simultaneity.
+[77]
+In comparison with claim 1 of the '764 Patent, the Cosem device does not, according to Dr. Savaria, explicitly proceed by pairs, although pairs of electrodes may be stimulated. This nuance is an essential one, since the '764 Patent cannot function if stimulation is not done by pairs. Also, the method of stimulation utilized by Cosem is explicitly described in the '764 Patent as prior art. Contrary to the '764 Patent, the Cosem device is also comprised of capacitors. Finally, the Cosem device was not conceived to stimulate only a single pair of electrodes at any instant in time.
+[78]
+With regards to claim 2, Dr. Savaria explains that the capacity to stimulate in a millisecond is compatible with the state of the art.
+[79]
+Dr. Savaria also testified that the Cosem device does not use certain elements of claim 33. In fact, he reiterates that the Cosem device does not explicitly stimulate by pairs. Furthermore, the way in which the '764 Patent teaches to stimulate bipolar current pulses is not used by Cosem. Finally, Cosem was not conceived to stimulate one stimulation site at any instant in time.
+Findings:
+A. The Construction Of The Patent:
+1. The Claims:
+[80]
+As already stated, claims No 1, 2, 32, 33 and 46 are at issue.
+"
+Claim No 1
+: The elements of this claim, in conformity with the evidentiary approach taken by counsel and the experts at trial, are as follows:
+a) A cochlear prosthesis
+b) comprising a plurality of electrodes,
+c) pairs of which are associated with respective stimulation sites
+d) and with at least almost all of said electrodes being included in each of at least two different pairs,
+e) means for detecting a transmitted information signal
+f) which represents both stimulation sites and stimulation intensities required therefor,
+g) and means under control of said detecting means for energizing the pair of electrodes associated with a represented stimulation site with successive opposite-polarity current pulses
+h) in accordance with the respective represented stimulation intensity,
+i) said energizing means energizing only a single pair of electrodes at any instant of time
+j) and operating fast enough such that at least any two electrode pairs can be energized successively within the time interval that allows the respective site stimulations to be perceived as occurring simultaneously.
+"
+Claim No 2:
+cochlear prosthesis in accordance with claim 1 wherein said time interval is less than one millisecond.
+"
+Claim No 32:
+An implantable tissue-stimulating prosthesis comprising a plurality of electrodes, pairs of which are associated with respective stimulation sites and with at least most of said electrodes being included in each of at least two different pairs, means for detecting a transmitted information signal which represents stimulation intensities required for said stimulation sites, and means under control of said detecting means for energizing said electrode pairs in accordance with the operation of said detecting means, said energizing means energizing only a single pair of electrodes at any instant of time and operating fast enough such that at least any two electrode pairs can be energized successively within the time interval that allows the site stimulation to be perceived as occurring simultaneously.
+"
+Claim No 33:
+An implantable tissue-stimulating prosthesis in accordance with claim 32 wherein said time interval is less than one millisecond.
+"
+Claim No 46
+: An implantable tissue-stimulating prosthesis in accordance with claim 32 further including means for deriving a source of power for said detecting and energizing means from the detected information signal."
+2. Rules Of Construction:
+[81]
+It is trite law that the first duty of the court is to construe the claims of the patent at issue. This is a question of law, as provided for in s. 36 (now 34) of the
+Patent Act
+which requires the applicant to fully describe his invention and to set out clearly the various steps in, inter alia, its making and construction, its principle, its sequence or steps as to distinguish it from other inventions as well as the particular improvement or combination which is claimed.
+[82]
+An overview of the jurisprudence also reveals certain guidelines with regards to the proper construction of a patent. In this regard, the leading case is
+ <FRAGMENT_SUPPRESSED> , where the Supreme Court of Canada held that patent specification is addressed not to the public in general, but to persons skilled in the particular art of the patent and having common knowledge in the art. In other words, regard must be given to the so-called "man skilled in the art". Furthermore, the task of understanding the claim is to be done "dispassionately", regardless of any attack of its validity. [See footnote 1].
+[83]
+More recently, in
+ <FRAGMENT_SUPPRESSED>  (T.D.), Madame Justice Tremblay-Lamer adopted the following guidelines with respect to the proper construction of patents:
+"(1) The relevant date for construction is the effective date of filing the patent application
+"(2) Construction is for the court, viewed through the spectacles of a person skilled in the art
+"(3) The specification must be construed as a whole
+"(4) A specification is construed without reference to other documents
+"(5) Construction must be purposive, neither benevolent nor harsh.
+a) What is 'essential' is a question of construction;
+b) the same principles of construction apply to all patent specifications;
+c) Where more than one construction may reasonably be reached, the court favours one that upholds the patent;
+d) Where possible, different meanings should be ascribed to different claims."
+[84]
+The principles of construction also dictate that the question of prior art is the starting point of any fair and reasonable construction of a patent since the nature of a claim may be considered a disclaimer for, as long recognized, "everything which is not claimed is disclaimed."
+3. The Scope Of The '764 Patent:
+[85]
+In light of these principles, the court understands the proper scope of the patent to be as follows. First of all, as appeared from the expert testimony adduced at trial, the crux of this matter is directed at claims 1 and 32 of the '764 Patent since the other claims have been recognized to be dependent on the aforementioned base claims. Accordingly, the construction of the latter claims will apply to the previous ones except for any particulars which I shall underline.
+[86]
+It must also be noted, in the context of cochlear implants, that the so-called person skilled in the art should be a very knowledgeable one, if not particularly imaginative. Before me, four experts testified in great length with regards to some or all of the relevant fields of study. The expertise of some was considered to be more valuable than others in view of their vast experience in the cochlear implant field per se, some of which dates back to the very early days of cochlear implant technology.
+[87]
+The pith and marrow of the invention claimed pertains to a implantable cochlear or tissue-stimulating prosthesis which allows for the rapid, sequential, bipolar stimulation of pairs of electrodes associated with stimulation sites. As expressly stated by the inventors, the particular electrode arrangement forms the cornerstone of this invention.
+[88]
+Most of the electrodes are capable of serving in more that one bipolar pair. Stimulation of the sites is achieved by sequential or non-simultaneous stimulation of electrodes by means of biphasic electrical current pulses. The stimulation is carried out rapidly enough for the patient to perceive the stimulation as being simultaneous. The prosthesis operates by energizing only a single pair of electrodes at any instant of time. However, the device need not operate exclusively in this mode although it is the most advantageous.
+[89]
+In view of the purposive approach to construing patents, I should find, in order to ensure what has been characterized as "judicial anxiety to support a really useful invention" [see footnote 2], that it was not the intention of the inventors to patent an invention incapable of working. Accordingly, with all due respect to other possible views in this regard, I construe this element of claim 1 to mean the cochlear system per se, including all means which must, by necessity, enable it to perform. In this regard, I also place emphasis on the inventor's intention to strive for flexibility and simplicity of the cochlear prosthesis.
+[90]
+In light of both of these interpretations regarding the term "only" and bearing in mind that more than one construction may reasonably be reached, I should find that the wording in dispute is not restrictive as is the defendant's belief. I should find that the language of the claim does not restrict the addition of other modes of operation in light of the language of the whole patent.
+B. The Validity Of The Patent:
+1. General Principles:
+[91]
+As defined by Gordon F. Henderson, Q.C., in
+Patent Law of Canada
+, (Scarborough: Carswell, 1994) at p. 7, a patent is a "temporary monopoly given by the State to make, use or vend a product, apparatus, or process that embodies an invention that meets the following requirements":
+(1)
+Novelty
+. The invention must not have been "anticipated" by another patent or a publication that would deem it to lack novelty under that statute.
+(2)
+Utility
+. The invention must be operative and have some commercial value.
+(3) It must fit in a recognized category, for not all subject-matter is patentable.
+(4) There must be an inventive step. This is question of fact and degree. The fact concerns the advance in the art whereas the degree entails that the advance is neither "obvious" nor merely a "workshop improvement".
+(5) To the foregoing may be added the statutory presumption of validity as stipulated in s. 47 (now s. 45) of the
+Act
+. As is reaffirmed by Décary, J.A., in
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), the onus is always on the party attacking the patent to prove, on the balance of probabilities, its invalidity.
+2. The Statutory Tests:
+(1) Novelty:
+[92]
+Section 27 of the
+Patent Act
+deals with the issue of anticipation. According to this provision, an inventor may only present a petition in order to obtain a patent if the invention was: (a) not known or used by any other before he/she invented it; (b) not described in any patent or in any publication either in Canada or elsewhere more than two years before the presentation of the petition, and; (c) not in public use or on sale in Canada for more than two years prior to his/her application in Canada.
+[93]
+As explained in
+Hughes and Woodley on Patents
+[see footnote 3], anticipation and obviousness are distinct concepts. Anticipation asserts that the invention is already known, whereas obviousness reflects on the lack of inventiveness. Furthermore, anticipation must be found in a single document which teaches a person skilled in the art on the means to construct the invention whereas with regards to obviousness, the cumulative effect of the prior art is considered. Both are a question of fact.
+[94]
+As stated by Hugessen, J.A., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), the particular single document must reveal all the information required for a person skilled in the art to produce the claimed invention without the exercise of any inventive skill.
+[95]
+Hughes and Woodley
+, supra, summarizes a series of tests which have been considered by the court and note that a finding of anticipation can be made if one meets any, rather than all, of these tests:
+"In order for there to be a finding of anticipation, the prior art must (1) give an exact prior description; (2) give directions which will inevitably result in something within the claims, (3) give clear and unmistakable directions; (4) give information which for the purpose of practical utility is equal to that given by the subject patent; (5) convey information so that a person grappling with the same problem must be able to say 'that gives me what I wish'; (6) give information to a person of ordinary knowledge so that he must at once perceive the invention; (7) in the absence of explicit directions, teach an 'inevitable result' which 'can only be proved by experiments', and (8) satisfy all these tests in a single document without making a mosaic."
+[96]
+In light of the expert evidence, I do not believe that the Maurer patent can be said to comprise all of the elements of the claims in suit. As succinctly stated in
+Re  <FRAGMENT_SUPPRESSED> :
+"Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+[97]
+While it is true that the Maurer patent may be relevant to a limited extent to the field of tissue-stimulating prosthesis, I am not convinced that a reading of the Patent would have enabled a person skilled in the art to produce the claimed invention without the exercise of any inventive skill.
+(2) Utility:
+[98]
+The utility of a patent may be proven by the reception received from the public, i.e., its commercial success. [See footnote 4]. Utility is also to be judged at the date of the making of the invention, in light of the knowledge existing at that time. [See footnote 5]. In light of its commercial success, there can be little doubt as to the utility of the Cochlear prosthesis.
+(3) Recognized Category:
+[99]
+This requirement is clearly not in dispute since a cochlear prosthesis is a patentable subject matter within the meaning of the
+Patent Act
+.
+(4) Inventive Step Or Obviousness:
+[100]
+While there is no specific section in the
+Patent Act
+referring to inventiveness, s. 2 defines "invention" as:
+"any new and useful art, process, machine, manufacture or composition of matter or any new and useful improvement in any art, machine, manufacture or composition of matter."
+[101]
+I should quote again the words of Hugessen, J.A., in
+Re  <FRAGMENT_SUPPRESSED> , at p. 294  <FRAGMENT_SUPPRESSED> , and which are particularly cogent and expressive in dealing with obviousness:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in light of the state of the art and common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[102]
+Mr. Justice Hugessen cautions, however, that while the expert testimony in this regard is properly admissible, it must be treated with extreme care since every invention is obvious after it has been made, and especially for an expert in the field. Put in a more colourful way, Hugessen, J.A., explains:
+"It is so easy, once the teaching of a patent is known, to say 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"
+[103]
+Mr. Justice Stone also states in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 180 (F.C.A.), that care must be taken against dangers inherent in hindsight analysis and notes that this danger was captured as early as 1667 in the following words:
+"The invention all admir'd, and each, how he To be the inventer miss'd; so easie it seemed Once found, which yet unfound most would have thought Impossible."
+[104]
+In general, validity of the patent will be upheld if, as Decary, J.A., explained at p. 365  <FRAGMENT_SUPPRESSED>  in
+Tye-Sil
+, supra, "there is a mere scintilla of invention".
+[105]
+Also, with regards to the test for obviousness, the key date is the date of the invention. [See footnote 6].
+[106]
+As discussed earlier, the unimaginative skilled technician constitutes the means whereby the court determines the validity of the patent with regards to obviousness. As stated by Mr. Justice Teitelbaum in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (T.D.), an objective test should be employed in determining whether this hypothetical skilled workperson could have been aware of the alleged prior art. As such, it is insufficient to assemble prior art and point to certain features in such art and leave it to the court to construct the patented device. Once the characteristics of this persona have been determined, it must be proven that he was ascribed with the relevant knowledge with regards to the patent.
+[107]
+The invention must also be arrived at directly and without difficulty, as stated by Hugessen, J.A., in <FRAGMENT_SUPPRESSED> , supra. The commercial success of the invention, the long-felt want, attempts by others to solve the problem and contemporaneous development by others may also be considered by the court. The simplification of apparatus or improved methods may also possess the required inventive ingenuity. [See footnote 7]. In this respect, the court takes note of the evidence of Dr. Hirshorn as to the several prolonged research and development programmes and studies undertaken in Australia, North America and Europe in the field of tissue stimulation prostheses.
+[108]
+After hearing and considering all of the evidence submitted by the several experts, I must, on balance, find for the plaintiff on the issue of validity. I find the evidence of Dr. van den Honert pretty persuasive when it describes the combination of bipolar and sequential stimulation as being non-obvious since it taught away from the prior art at the time of the invention. From my lay understanding of the evidence, I concur that in view of what was characterised as a compromise, regardless of the fact that most of the elements claimed in the patent may have been known at the time of the invention, their combination constituted a novelty in the sense of the law. [See footnote 8]. Also, I do not believe that the defendant has provided sufficient clear or convincing evidence to uphold a finding of invalidity. Therefore, in light of the presumption of validity, and despite counsel for the defendant's agile submissions, I should find that the patent meets the criteria as established by the relevant jurisprudence and that the defendant has not proven, on the balance of probabilities, its invalidity. I do not believe that the patent was obvious to the person skilled in the art at the time of the making of the invention.
+C. The Question Of Infringement:
+[109]
+In the absence of any statutory definition, patent infringement is defined by some as interference with the patentee's monopoly by in virtue of s. 42 of the
+Act
+. It is trite law that infringement is a mixed question of fact and law. The factual issue relates to what has been done by the alleged infringer, whereas the determination of the exact nature of the patented invention and the interpretation of the claims is a question of law.
+[110]
+As stated by Madame Justice Tremblay-Lamer in
+Hi- <FRAGMENT_SUPPRESSED> , the purposive approach to construing patents elaborated by Lord Diplock in
+ <FRAGMENT_SUPPRESSED> ; [1982] R.P.C. 237 (H.L.), has found favour in Canada. As such, the court has moved away from the twofold tests of textual infringement and infringement in substance.
+[111]
+In years past, the court was obliged to consider that twofold test. In the absence of literal or textual infringement, the variants introduced by a defendant which allowed it to avoid falling within the precise wording of the claims, had to be analyzed in order to determine whether they fell within the "substance of the patent" or the "pith and marrow" of the invention. This principle prevented "colourable" evasion of patents claims.
+[112]
+In
+Catnic Components Ltd
+, supra, Lord Diplock, adopting the purposive approach, formulated the question in the following manner:
+"The question in each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked."
+[113]
+Lord Diplock further states that the court must also consider whether the variant under scrutiny would in fact affect the way the invention worked.
+"The question of course does not arise where the variant would in fact have a material effect upon the way the invention worked. Nor does it arise unless at the date of publication of the specification, it would be obvious to the informed reader that this was so. Where it is not obvious, in the light of then-existing knowledge, the reader is entitled to assume that the patentee thought at the time of the specification that he had good reason for limiting his monopoly so strictly and had intended to do so, even though subsequent work by him or others in the field of the invention might show the limitation to have been unnecessary. It is to be answered in the negative only when it would be apparent to any reader skilled in the art that a particular descriptive word or phrased used in a claim cannot have been intended by a patentee, who was also skilled in the art, to exclude minor variants which, to the knowledge of both him and the readers to whom the patent was addressed, could have no material effect upon the way in which the invention worked."
+[114]
+As underlined by Madame Justice Tremblay-Lamer in
+Hi- <FRAGMENT_SUPPRESSED> , this approach was first applied by the Federal Court of Appeal in
+Eli Lilly & Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), which has become a leading authority in Canada. In this case, the Federal Court of Appeal stated the issue in the manner which it presumed Lord Diplock would have expressed and which might, for purposes of the case at hand, be expressed as follows: would the claim language make it obvious to a reader skilled in the art that the cochlear implant could not have been intended to exclude cochlear implants in which stimulation could be carried out by other modes of operation in addition to bipolar sequential stimulation of pairs of electrodes perceived as occurring simultaneously?
+[115]
+The Court of Appeal further stated that in interpreting the patent's claim in order to determine the answers to these types of questions, the court is merely attempting to ascertain the "intention" of the inventor in a legal sense.
+[116]
+Accordingly, when an inventor claims that a particular element of his invention is necessary, if that element is different in subsequent inventions, no infringement has occurred regardless of whether the element is truly necessary since the inventor is confined to his patent claims. In this regard, the intention of the inventor is essential.
+[117]
+As stated by Tremblay-Lamer, J., in
+Hi- <FRAGMENT_SUPPRESSED> , the judgment of Madame Justice Reed in
+ <FRAGMENT_SUPPRESSED>  C.I.P.R. 116; 26 C.P.R.(3d) 238 (T.D.), provides a good review of the guiding principles as the law currently stands:
+"1. In construing a patent one must adopt a purposive construction and not engage in overclose parsing of the words;
+"2. The question that must always be asked is whether the 'pith and marrow' or the substance of the plaintiff's invention, has been taken;
+"3. If a variant of an aspect of a claim has not material effect on the way the invention works, there is a presumption that the patent is infringed and that the patentee intended that the variant falls within the scope of the claim;
+"4. The question which must always be asked, however, is whether the patentee intended to include or exclude equivalents (variants) from the scope of the invention claimed;
+"5. The patentee's intention in this regard is not his actual intention, if that could in any event be ascertained with any degree of certainty, but it is the intention of the patentee as expressed in the text of the patent, read in the light of surrounding circumstances, specifically the knowledge of those skilled in the art."
+[118]
+George Francis Takach in
+Patents: A Canadian Compendium of Law and Practice
+, (Edmonton: Juriliber, 1993), has preferred to reduce the jurisprudence to three basic questions, based on the <FRAGMENT_SUPPRESSED> approach:
+"1. Do the defendant's variants have a material effect on the workings of the plaintiff's device? If not, there is no infringement and the inquiry ends.
+"2. If there is not material effect, did the inventor consider the variants essential to the invention, i.e., were they material to its working and described as such? If not, there is no infringement and the inquiry ends.
+"3. If an ordinary person skilled in the art would say that the inventor cannot have intended to exclude the defendant's variants from the patent, there is infringement."
+[119]
+With respect to the issue of infringement, the parties made the following submissions.
+[120]
+According to the plaintiff, infringement is committed when one, without licence from the patentee, either directly or indirectly, makes use of or puts into practice the invention, or any part of the invention, that is embraced by the claims. [See footnote 9]. In support, the plaintiff relies on
+ <FRAGMENT_SUPPRESSED>  at 56, where the court held that:
+"... if the pith and marrow of the invention is taken, it is no excuse to say that you have added something, or omitted something, even if the addition or omission be useful and valuable. The superadding of ingenuity to a robbery does not make the operation justifiable."
+[121]
+In particular, the plaintiff cites numerous cases where the court found infringement in the context where the defendant's device infringes the claim at issue in its normal operation although not all of the time. [See footnote 10]. Accordingly, if a device is operated in an infringing mode, it infringes the patent even though it is also operated in a non-infringing mode. [See footnote 11]. According to the plaintiff, the fact that a process or operation may be more complex in the device does not detract from the fact that the essential steps or elements of the patent are being infringed. [See footnote 12].
+[122]
+In reply, the defendant submits that the Cosem implant is not inherently constructed in a manner which allows exclusively the energizing of only a single pair of electrodes at any instant of time. According to the defendant, each electrode has its own independent source of current and may be stimulated with each of the others due to its inherent circuitry. Since the speech processing strategies are excluded from the scope of the patent, the use of the particular mode of function does not constitute infringement. Moreover, even with the use of the speech processing strategy known as the Wilson strategies, the Cosem prosthesis does not exclusively energize a single pair of electrodes at any instant of time, since the evidence shows that the device operates by way of simultaneous stimulation in at least 5% to 10% of the time.
+[123]
+The defendant also submits that all comparison with the Cosem implant must also be done at the stationary state. The defendant submits that it would be unfair to compare the Cosem device in its dynamic state when the claims in suit are defined in their nonoperational mode. Accordingly, the Cosem device does not comprise the following element of the claims in suit.
+[124]
+First of all, the Cosem device does not energize pairs of electrodes which are associated with respective stimulation sites. On the contrary, the defendant's prosthesis stimulates electrodes individually rather than by pairs. There is therefore no respective stimulation sites associated with any pair of electrodes. Furthermore, the Cosem implant, at the stationary stage, does not comprise means for energizing the pair of electrodes associated with a represented stimulation site. In this context, the concept of "respective stimulation sites" and "represented stimulation site" is completely irrelevant to the Cosem implant since it can stimulate its electrodes individually, by pair, or three, five, or seven at a time without constraint. The stimulation may be either simultaneous or sequential.
+[125]
+With respect, I must disagree. The issue raised by the defendant is a semantic one. The essential fact, in my view, is the admission that the Cosem device, as currently used, operates 90% to 95% of the time by way of sequential stimulation of bipolar pairs of electrodes.
+[126]
+In
+Xerox of Canada
+, supra, Mr. Justice Collier held that there is infringement where the practical result of the normal operation of the device is the same as the result of the apparatus it infringes.
+[127]
+In the present case, the practical result of the normal operation of the Cosem device is the sequential stimulation of bipolar pairs of electrodes within such a rapid interval as to create perceived simultaneity of stimulation. The Cosem device therefore, in its operation, infringes the claims in suit since the pith and marrow of the invention described is taken.
+[128]
+The defendant adds, however, that the Cosem device does not operate in such a way all of the time. In fact, according to the evidence adduced at trial, the Cosem prosthesis operates in other modes for 5% to 10% of the time.
+[129]
+American case law has dealt with this issue in
+ <FRAGMENT_SUPPRESSED>  (Fed. Cir.), at 944-945 where the court held the following:
+"The addition of features does not avoid infringement, if all the elements of the patent claims have been adopted.
+ <FRAGMENT_SUPPRESSED> , 848, 221 USPQ 657, 663-64 (Fed. Cir.), cert denied, 469, U.S. 831, 105, S Ct. 119, 83 L.Ed. 2d 62 (1984). Nor is infringement avoided if a claimed feature performs not only as shown in the patent, but also perform an additional function. Id. 731 F. 2d at 848, 221 USPQ at 664."
+[130]
+In Canada, a similar approach was taken by Madame Justice Reed in
+ <FRAGMENT_SUPPRESSED> , where she held, at p. 130, that regardless of the fact that the defendant's processes were more complex than the ones claimed in the patent, the essential elements of the patent were taken and the patent was therefore infringed. Therefore, if the defendant appropriates the substance of the invention, the court may find infringement.
+[131]
+I must therefore rule that in the sense of the function I have described, the case for infringement by the defendant of the '764 Patent has been made.
+Disposition Of The Action:
+[132]
+If I have gone to some length in narrating the evidence adduced by all witnesses and indeed, if some of that evidence is repeated here and there, it is in an effort to avoid ambiguity in the text of this judgment. As the record discloses, the proceedings in court were substantially bilingual, requiring at most times simultaneous (if I can use that word) interpretation from one language to the other. The fear, of course, is that especially in the jargon used by experts in the field of electronic circuitry or algorithms or strategies or microprocessors or electrodes or capacitors, there is no available lexicon of which I am aware to which credible reference could be made to ensure complete accuracy in translation.
+[133]
+I should here refer to certain objections made by counsel in the course of the trial and which I took under reserve. As I now view the evidence and the findings I have made on it, all of the objections, except one, no longer require a ruling. The remaining one relates to the filing by the defendants of the file wrapper relating to the corresponding U.S. Patent No. 4,408,608 ("U.S. '608 Patent") and on which later argument by the defendants was founded.
+[134]
+Counsel for the plaintiff objected to this on grounds that such evidence is inadmissible. At first blush, I was of the same view, yet I was concerned that the prior filing by the plaintiff of the corresponding U.S. '608 Patent itself, without objections, might perhaps open the door to the production of the U.S. file wrapper.
+[135]
+I have since analyzed some of the jurisprudence on this, and I should quote now some of the more relevant ones.
+[136]
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), President Thorson of the Exchequer Court held that the record of a corresponding U.S. patent prosecution proceedings was inadmissible, since any evidence from this could not affect the validity or invalidity of the claims in Canadian patent. Thorson, P., gave the same ruling one year later in
+ <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada reinstated a paragraph in the defendant's statement of defence that reference would be made at the trial of the action to U.S. Patent Office proceedings. The court stated that the question of admissibility of the evidence concerning the prosecution of patent applications in both Canada and the United States was a matter to be left for the decision of the trial judge.
+[138]
+Later, when the trial came to be heard, who but President Thorson heard it (see (1962), 41 C.P.R. 18), and as might be expected, he gave an unqualified ruling that the evidence was not admissible.
+[139]
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), Strayer, J., as he then was, ruled that the construction of a patent was a matter of law to be based on the patent itself, and that any extraneous evidence to enlarge or narrow the scope of a patent was inadmissible.
+[140]
+This was also the view taken by my colleague Pinard, J., in
+Eli Lilly & Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 342 (T.D.), where he said at p. 367  <FRAGMENT_SUPPRESSED> :
+"Indeed, I consider that there is no basis in Canadian law whereby a Canadian or foreign patent application file relating to the patent in issue can be admitted into evidence for the purpose of limiting the construction put on the clauses or establishing misrepresentation or otherwise."
+[141]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 35 (T.D.), Reed, J., observed that information contained in file wrappers, either domestic or foreign, may be relevant for some purposes on some occasions. It is for the trial judge to make the determination in the context of the case as presented. I note in this respect that Her Ladyship speaks of such evidence as might be relevant or irrelevant and, with respect, I am not sure that admissibility and relevancy are synonymous. Furthermore, the issue before Her Ladyship was at the discovery and not the trial stage, and it was her view that a negative ruling at discoveries on information contained in file wrappers would be premature.
+[142]
+I should conclude that having now heard the evidence and on the strength of the jurisprudence I have cited, none of the evidence in U.S. Patent '608 and in the prosecution proceedings thereon is admissible. No evidence to either may be found in these Reasons.
+[143]
+At trial, counsel for the parties acknowledged that should the court find for the plaintiff on the infringement issue, damages were not warranted and were not being claimed. This follows, of course, from the fact that the Cosem device is still in the experimental or research stage of its ultimate development.  <FRAGMENT_SUPPRESSED>  approval the dictum of Jessel, M.R., in
+ <FRAGMENT_SUPPRESSED>  exercising their talents in a fair way. But if there be neither using nor vending of the invention for profit, the mere making for the purpose of experiment, and not for a fraudulent purpose, ought not to be considered within the prohibition and, if it were, it is certainly not the subject for an injunction."
+[144]
+It is clear from the evidence before me, especially the evidence of Dr. Duval, that if the Cochlear implant is an early breakthrough in providing a safe, stable, flexible and medically successful cochlear prosthesis, more recent developments in the field of circuitry, microprocessors, computers and microchips open the door to far more sophisticated and complex processors of cochlear stimulation, enabling the development of some algorithms speaking in some 20 languages.
+[145]
+It is also clear from the evidence on the Cosem circuitry that it lends itself to a multitude of concurrent or alternate functions. It is so flexible that it might take some time before new strategies or algorithms are developed to exploit the circuitry to its limits.
+[146]
+Until Cosem, at some stage of its product development, should decide to give a fix to a particular model and take steps to manufacture, promote and sell it, its current use of a paired, bipolar and sequential mode of stimulation does not constitute an infringement of the patent in suit. The case, nevertheless, calls for a declaratory judgment in favour of the plaintiff.
+[147]
+The court must now deal with the terms of a formal judgment. There is no problem with respect to damages as no damages are claimed. There is no problem in dealing with the subject patent's validity, or with a declaration that the Cosem device, in its normal paired, bipolar and sequential mode of operation would constitute an infringement of the plaintiff's patent.
+[148]
+For the reasons given, however, the current mode of Cosem's implant, which is admittedly at the research and development stage, is protected from any mandatory and unqualified injunctive order. I should think that what is warranted in this respect is some relief by way of a "quia timet" order which would not inhibit continuing development of the Cosem device, and which at the same time would avoid the possibility of the whole issue between the parties having to be retried and reargued.
+[149]
+I would therefore ask counsel for the parties, if possible, to agree on the terms of a formal judgment and prepare a draft, incorporating the foregoing rulings. Counsel may also wish to speak on the issues of cost and of security.
+[150]
+As to any issue on which counsel cannot come to terms, I may of course be spoken to, and I should be pleased to meet personally with counsel if such is required. In the meantime, I remain seized of the case.
+Order accordingly.
+Editor: Angela E. McKay/clh
+Footnotes
+1.
+ <FRAGMENT_SUPPRESSED> , at 521  <FRAGMENT_SUPPRESSED> .
+3. R.T. Hughes, J.H. Woodley et al. (Markham: Butterworths, 1984), p. 349.
+4.
+Wright and  <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 51 (S.C.C.), pp. 62-63 [D.L.R.].
+7. See for example,
+Baxter Travenol Laboratories of Canada Ltd., Travenol Laboratories Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 179, at 191  <FRAGMENT_SUPPRESSED>  (F.C.A.), leave to appeal refused (1983), 51 N.R. 238; 72 C.P.R.(2d) 287 (S.C.C.).
+8.
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.).
+9.
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1993), p. 270.
+10.
+ <FRAGMENT_SUPPRESSED> , p. 66.
+11.
+ <FRAGMENT_SUPPRESSED>  (Fed. Cir.), p. 945.
+12.
+ <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> .

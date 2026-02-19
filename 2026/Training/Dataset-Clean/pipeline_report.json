@@ -1,0 +1,19 @@
+{
+  "preset": "train_2026",
+  "cases_dir": "2026/Training/Dataset/cases",
+  "labels_file": "2026/Training/Dataset/clean_task1_train_labels_2026.json",
+  "labels_processed": true,
+  "output_clean_dir": "2026/Training/Dataset-Clean",
+  "metadata_file": "2026/Training/Dataset-Clean/processed_cases.json",
+  "cleaned_cases_dir": "2026/Training/Dataset-Clean/CleanedCorpus",
+  "duplicate_excel_file": "2026/Training/Dataset-Clean/duplicate_cases.xlsx",
+  "cleaned_labels_path": "2026/Training/Dataset-Clean/cleaned_labels.json",
+  "num_duplicates": 0,
+  "num_missing_case_files": 0,
+  "missing_case_files": [],
+  "duplicate_label_report": {
+    "duplicates": {},
+    "self_citations": [],
+    "duplicate_queries": []
+  }
+}

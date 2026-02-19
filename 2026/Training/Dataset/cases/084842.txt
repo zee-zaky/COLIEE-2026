@@ -1,0 +1,485 @@
+[1]
+Kelen, J.
+: This is an application under s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 as amended (the "
+Regulations
+"), for an order prohibiting the Minister of Health from issuing a Notice of Compliance ("NOC") under s. C.08.004 of the
+Food and Drug Regulations
+, C.R.C. c. 870, to the respondent Apotex Inc. for the drug paroxetine hydrochloride until after the expiry of Canadian Letters Patent 2,214,575 (the "'575 patent").
+[2]
+A predecessor of the applicant GlaxoSmithKline Inc. included the '575 patent in patent lists submitted pursuant to s. 4(1) of the
+Regulations
+in connection with an NOC issued to it for tablets of its Paxil brand of the drug paroxetine. SmithKline Beecham p.l.c. is the owner of the '575 patent and was joined as a party to the application in accordance with s. 6(4) of the
+Regulations
+. The applicants will be jointly referred to as  <FRAGMENT_SUPPRESSED>  throughout these reasons.
+[3]
+This application was brought in response to a Notice of Allegation ("NOA") filed by Apotex. Apotex alleges that no claim for the medicine itself and no claim for use of the medicine would be infringed by its plans to manufacture and sell tablets containing paroxetine hydrochloride. The issue in this application is whether the allegations set out  <FRAGMENT_SUPPRESSED> ' NOA are justified.
+[4]
+The Minister of Health filed no materials in response to the application and did not appear at the hearing.
+FACTS
+1. Background
+[5]
+This application concerns the formulation process for tablets of the anti-depressant medication paroxetine, which GSK markets under the trade name Paxil. Paroxetine is in a class of drugs known as selective serotonin reuptake inhibitors. Serotonin is a neurotransmitter that allows nerves in the brain to communicate with one another. Paroxetine prevents serotonin from being taken up by the nerves from which it was released. It is believed the chemical imbalance that results from the "reuptake" of serotonin is responsible for depression. Paxil is also used to treat anorexia, bulimia, migraines and senile dementia. The various patents held by GSK that protect its monopoly over paroxetine have been the subject of extensive litigation, both here in Canada and in the United States. This case is merely the latest battle in the war over paroxetine that rages between these two parties.
+[6]
+The active ingredient in the drug paroxetine is the compound paroxetine hydrochloride. Two articles were published in 1988 that detail the relevant properties of paroxetine hydrochloride. It is necessary to briefly review these two articles to provide some background information on the chemical processes involved in this case. The two articles are:
+(a) P.C. Buxton, I.R. Lynch & J.M. Roe, "Solid-state forms of paroxetine hydrochloride" (1988) 41 Int. J. of Pharmaceutics 135; and
+(b) I.R. Lynch, P.C. Buxton & J.M. Roe, "Infrared Spectroscopic Studies of the Solid State Forms of Paroxetine Hydrochloride" (1988) 25 Analytical Proceedings 305.
+As will be seen later, Apotex claims the '575 patent was anticipated by these two articles. The articles will be referred throughout these reasons as the "Buxton articles".
+[7]
+The Buxton articles identified the existence of two solid-state forms of paroxetine hydrochloride that are differentiated by their degrees of hydration. Form I is a non-hygroscopic
+hemihydrate
+form that contains a half-mole of water for every mole of paroxetine hydrochloride bound in the crystal structure. Form II is a hygroscopic
+anhydrate
+form (meaning that it attracts and absorbs moisture), which does not have any water bound in the crystal structure and whose moisture content is controlled by the prevailing humidity. The Buxton articles reveal that the anhydrate form of paroxetine hydrochloride converts to the more thermodynamically stable hemihydrate form if subjected to conditions of elevated heat and humidity. The authors also discovered that the anhydrate form will convert to a hemihydrate form if subjected to extreme pressure by means of mechanical compression.
+[8]
+The authors concluded the two forms of paroxetine hydrochloride would be expected to be bioequivalents and that the choice of the preferred form was one of physical convenience. In their view, the non-hygroscopic nature of the hemihydrate form was advantageous in that complications of moisture uptake during processing or analysis would be avoided.
+2. The Four Relevant Patents
+(a) U.S. Patent No. 4,007,196
+[9]
+The original patent dealing with the medicine paroxetine was U.S. Patent, No. 4,007,196 (the "'196 US patent"). It was issued to a British company called Ferrosan on February 8, 1977 for a set of compounds that has come to be known as paroxetine. The patent discloses that the compound paroxetine is useful for its anti-depressant qualities. This patent expired in 1992.
+(b) Canadian Letters Patent 1, 287,060
+[10]
+As Ferrosan was not a manufacturer of pharmaceutical drugs, it licensed the patent to GSK. GSK initially began experimenting with the anhydrate form of paroxetine hydrochloride (the only form known to exist at that time), but experienced difficulties during the manufacturing process due to its instability. Upon the discovery of the more stable hemihydrate form in the early 1980s, GSK shifted its focus. This discovery also led to the issuance of Canadian Letters Patent 1, 287,060 (the "'060 patent") to GSK on July 30, 1991 and the corresponding European Patent, No. EP 0 223 403B1 and U.S. Patent, No. 4,721,723.
+[11]
+The abstract of the '060 patent states:
+"The invention provides crystalline paroxetine hydrochloride hemihydrate, processes for its preparation, compositions containing the same and its therapeutic use."
+The disclosure accompanying the patent included the following statements:
+"The present invention also provides a pharmaceutical composition comprising crystalline paroxetine hydrochloride hemihydrate and a pharmaceutically acceptable carrier.
+. . . . .
+"The composition of this invention may be formulated by conventional methods of admixture such as blending, filling and compressing.
+. . . . .
+"Suitable carriers for use in this invention include a diluent, a binder, a disintegrant, a colouring agent, a flavouring agent and/or a preservative. These agents may be utilized in [a] conventional manner, for example in a manner similar to that already used for clinically used anti-depressant agents."
+(c) Canadian Letters Patent 2,178,637
+[12]
+GSK states that it encountered production problems when it decided to introduce paroxetine tablets to the American market in 1991 and 1992. During the build-up of its inventory GSK noticed that some of its tablets had unexpectedly developed a pink hue. The hue developed intermittently and the degree of discolouration varied. This was perceived as a serious problem because the product was unable to meet the specification for the colour of the uncoated tablet. As a result, batches that developed the pink hue had to be rejected and destroyed. GSK was also concerned that the pink hue problem would lead to a prohibition on further sales until a satisfactory explanation for the discolouration was provided to the regulatory authorities.
+[13]
+What was causing the tablets to intermittently develop a pink hue was not known to GSK and it set out to find the source of the problem and devise a solution. At the time, GSK was using a wet granulation process as part of the tablets' formulation. GSK discovered that by switching to a dry formulation process, such as direct compression or dry granulation, the likelihood of the intermittent discolouration was reduced.
+[14]
+For this application, it is important to understand the differences between the three formulation processes mentioned in the previous paragraph. In the wet granulation process, the powdered drug and the excipient materials (the non-drug components of the formulation) are first blended together, wetted and massed by a granulating agent. This mixture is then pressed through a screen to produce granules of agglomerated powder particles that are compressed into tablets. In contrast, during the dry granulation process, the agglomerates are produced by a dry compaction process involving heavy-duty tablet machines that produce sheets or large tablets referred to as "slugs". Unlike the wet and dry granulation process, the direct compression process does not involve granulation or agglomeration of the components before the tablet compaction process. Rather, the drug and any excipients are simply mixed and then compressed directly into a tablet. A direct compression formulation process can be either wet or dry.
+[15]
+Based on its discovery, GSK concluded that water played a role in causing the intermittent pink hue problem and shifted to the dry formulation processes for production. GSK then claimed the dry formulation process for tableting paroxetine with Canadian Letters Patent 2,178,637 (the "'637 patent"), which was filed on December 14, 1994 and issued on December 23, 1997. The claims of the '637 patent state:
+"1. A paroxetine formulation which is prepared on a commercial scale into tablets using a formulation process in which water is absent.
+2. A formulation according to claim 1 in which the process is a dry direct compression of paroxetine followed by compression into tablets or a dry granulation of paroxetine.
+3. A formulation according to claim 1 or 2 in which the process for preparing it comprises the step of admixing paroxetine with dry excipients.
+4. A formulation according to any one of claims 1 to 3 in which the paroxetine used in the process is in the form of the hydrochloride hemihydrate."
+(d) Canadian Letters Patent 2,214,575
+[16]
+Through its testing process, GSK also discovered that "particularly good results are obtained when microcrystalline cellulose is absent from the formulation". This led to the '575 patent that is at issue in this application. Microcrystalline cellulose (also known by its brand name Avicel) is a commonly used excipient in direct compression formulations. The '575 patent was filed as a divisional application of the '637 patent on September 25, 1997 and like the '637 patent, it also concerns the dry formulation process for tableting paroxetine. The additional claim made by the '575 patent is a dry formulation process wherein microcrystalline cellulose is absent. The patent was issued on December 7, 1999 and its claims read as follows:
+"1. A paroxetine formulation which is prepared on a commercial scale into tablets using a formulation process in which water is absent
+and wherein microcrystalline cellulose is absent from the said tablets
+.
+2. A formulation according to claim 1 in which the process is dry direct compression of paroxetine or a dry granulation of paroxetine followed by compression into tablets." (Emphasis added)
+[17]
+The disclosure accompanying the two patents is identical. Lines 30-32 of the disclosure state:
+"It should be appreciated that the term 'dry' means substantially 'dry' as opposed to the wholesale addition of water which was previously employed in the wet granulation process."
+3. Apotex' Proposal for a Generic Version of Paroxetine
+[18]
+Apotex is seeking approval to manufacture and sell a generic bioequivalent of Paxil. Whereas GSK uses paroxetine hydrochloride
+hemihydrate
+in its tablets, Apotex proposes to distinguish its product by using paroxetine hydrochloride
+anhydrate
+. It is Apotex' view that the use of the anhydrate form of paroxetine hydrochloride places its tablets outside of the claim in the '060 patent (and its American and European counterparts) that covers the composition of the drug. However, the anhydrate form's instability in the presence of moisture presented Apotex with two problems.
+[19]
+First, there is the possibility that the anhydrate will convert to the hemihydrate during the formulation process. Second, there is a concern that tablets made with the anhydrate will absorb moisture from the environment over time and convert. If either were to occur, then Apotex' generic could infringe the claims of the '060 patent.
+4. Litigation Concerning the '060 Patent
+[20]
+GSK took the legal position that the potential conversion of paroxetine hydrochloride anhydrate to the hemihydrate form brought Apotex' product within the scope of the '060 patent. Apotex won a key court battle when the Federal Court of Appeal affirmed McGillis, J.'s, ruling that there was "no more than a possibility" that Apotex' generic version of paroxetine would infringe upon the '060 patent, see
+ <FRAGMENT_SUPPRESSED>  (T.D.), affd. (2001), 267 N.R. 101 (F.C.A.). McGillis, J., stated at paragraph. 35 that "absent any conversion, Apotex's anhydrate tablets would not fall within the claims of the '060 patent." GSK argued that over time the anhydrate form would inevitably covert to the hemihydrate form by absorbing moisture from the surrounding environment, but McGillis, J., found the expert evidence supporting that position unconvincing. She concluded at paragraph. 40:
+"I have therefore concluded that Apotex should not be prevented from taking its anhydrate tablets to market on the basis of a potential conversion to hemihydrate at some undisclosed and imprecise time in the future. In the event that Apotex's anhydrate tablets do convert to hemihydrate, in whole or in part, it will face 'very grave' consequences at that point in time."
+[21]
+Four years later on March 3, 2002, in a US Federal Court proceeding involving the same parties, United Stated District Court Judge Posner ruled that Apotex' formulation of paroxetine does not infringe upon U.S. Patent, No. 4,721,723 (the American equivalent of the '060 patent) even though it will likely contain small quantities of hemihydrate produced during the formulation process, see
+ <FRAGMENT_SUPPRESSED>  crystalline paroxetine hydrochloride hemihydrate in "any commercially significant quantity." As GSK could not show that Apotex' anhydrate product contained a "commercially significant quantity" of hemihydrate, it followed that there would be no infringement of GSK's patent if Apotex went ahead with its plans to produce a generic bioequivalent to Paxil.
+[22]
+However, GSK has obtained additional patents with respect to its formulation process: the '637 patent, the '575 patent and at the hearing, the parties advised the Court that GSK has three other patents applicable to its paroxetine formulation process. These three patents are the subject of other Federal Court proceedings.
+5. Litigation Concerning the '637 Patent
+[23]
+The '637 patent has been the subject of two separate applications to this Court.
+[24]
+Apotex first sought judicial review of the decision of the Minister to add the '637 patent to the patent Register. Apotex alleged the '637 patent was ineligible for addition to the Register because the filing of the patent application post-dated the filing of the new drug submission ("NDS") for Paxil, which Apotex alleged was a violation of s. 4(5) of the
+Regulations
+. The application was denied by McGillis, J., see
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 271 (T.D.), affd. [2001] N.R. Uned. 25; 11 C.P.R.(4th) 538 (F.C.A.). She found that the expression "submission for a notice of compliance" as used in ss. 4 and 5 of the
+Regulations
+include a supplement to an NDS. As GSK had filed supplements to its NDS after the date of filing for the '637 patent and submitted an amendment to the patent list within the relevant time period, the '637 patent was properly included on the patent Register.
+[25]
+Apotex then brought an NOA concerning the '637 patent, alleging non-infringement, invalidity, and ineligibility. The allegations resulted in litigation between these parties under s. 6(1) of the
+Regulations
+, see
+ <FRAGMENT_SUPPRESSED>  (T.D.). The case was heard by Gibson, J., who found that the allegations of non- infringement and ineligibility were not justified. However, Gibson, J., declined to give GSK the order it sought as he determined the allegation of invalidity was justified. It was his view that the invention of the '637 patent was anticipated by the '060 patent. He based his decision on the premise that the "conventional methods" of formulation referred to in the disclosure accompanying '060 patent would be understood by persons skilled in the art to include wet granulation, dry granulation and direct compression. Gibson, J., stated at page 546  <FRAGMENT_SUPPRESSED> :
+"Having determined that a wet formulation of paroxetine tablets gives rise to a 'pink hue problem', a problem of significant enough magnitude to cause a skilled person to seek out at least a partial solution to the problem, I am satisfied that a logical first step for a person skilled in the art would be to turn to the alternative formulation methods disclosed by the '060 patent and to determine whether each or any of those alternative formulation methods would solve, or at least partially solve, the problem. Such an enquiry would, I am satisfied, involve no inventive step or skill. It would simply involve application of the invention taught by the '060 patent."
+[26]
+He went on to find at page 547  <FRAGMENT_SUPPRESSED>  "that a person skilled in the art, on the basis of the cited prior art, namely the '060 patent, and the existing common knowledge at the relevant time, would, in every case and without possibility of error, have arrived at the formulation claimed in the '637 patent." As a result, Gibson, J., concluded that GSK had failed to establish that the allegation of invalidity was not justified.
+[27]
+The decision of Gibson, J., was affirmed on appeal: [2003] 1 F.C. 118; 291 N.R. 168; 2002 FCA 216 (F.C.A.). In doing so, Linden, J.A., stated at page 129  <FRAGMENT_SUPPRESSED>  that the "instructions for arriving at the formulation claimed by the '637 patent are ... clearly and unmistakeably present in the '060 patent." An application for leave to the Supreme Court of Canada was dismissed without reasons on March 20, 2003: [2002] S.C.C.A. No. 324 (QL).
+THE NOTICE OF ALLEGATION
+[28]
+In a letter dated May 1, 2001, Apotex provided GSK with an NOA pursuant to paragraph 5(3)(b) of the
+Regulations
+with respect to '575 patent. Apotex again made three allegations: non-infringement, invalidity, and ineligibility. The allegation of ineligibility was dropped at the hearing. The other two allegations have undergone some reformulation and have been presented to the Court in the following manner.
+[29]
+Apotex alleges non-infringement because the claims of '575 patent do not encompass the formulation process used for paroxetine hydrochloride anhydrate. Apotex also alleges the '575 patent is invalid for the following reasons.
+"(a) The formulations claimed in the '575 patent were anticipated by:
+(i) the teachings of '060 patent;
+(ii) the teachings contained in the Buxton articles;
+(iii) the teachings of International Application No. PCT/GB91/02062 published under International Publication No. WO-92/09281 (the "'9281 application"); and
+(iv) European Patent No. 0 269 303 A2 (Application No. 87309906.3) (the "'303 European patent").
+"(b) The claimed invention of the '575 patent was obvious.
+"(c) The '575 patent is void on account of double patenting and on account of an improper divisional application.
+"(d) The disclosure and claims of the '575 patent do not comply with the disclosure requirements of s. 27(3) of the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended (the '
+Act
+').
+"(e) The subject matter of the claims of the '575 patent is broader than any invention made and disclosed and includes embodiments which have no utility and which are inoperable."
+ISSUES
+[30]
+I will analyse Apotex' allegations by categorizing them into the following five issues.
+1. What is the proper construction of the claims of the '575 patent? (Under this issue I will analyse the allegations referred to above in subparagraphs 29(d) and (e).)
+2. Is the allegation that Apotex will not infringe upon the claims of the '575 patent justified?
+3. Are the claims of the '575 patent anticipated by the '060 patent, the Buxton articles, '9281 Application or the '303 European patent?
+4. Are the claims of the '575 patent obvious?
+5. Is the '575 patent void on account of double patenting or on account of an improper divisional application?
+BURDEN OF PROOF
+[31]
+In the earlier litigation between these parties concerning the '637 patent, Gibson, J., set out the scope of an application under s. 6 of the
+Regulations
+and the appropriate burdens of proof placed on each party at pages 533-4  <FRAGMENT_SUPPRESSED> :
+"
+I conclude that while an 'evidential burden' lies on Apotex to put each of the issues raised in its notice of allegation 'in play', if it is successful in doing so, the 'persuasive burden' or 'legal burden' then lies with SmithKline.
+Assuming Apotex to be successful in putting the issue of validity of the '637 patent 'in play', SmithKline is entitled to rely on the presumption of validity of the patent created by s. 43(2) of the
+Act
+.
+. . . . .
+"Thus, the burden on SmithKline is only to disprove the allegations in the notice of allegation, not to justify declarations of validity and infringement or conversely to negative claims for declarations of invalidity and non-infringement." (Emphasis added)
+[32]
+As the parties have not taken issue with Gibson, J.'s, characterization of the burden of proof, I will adopt his approach in this case.
+ANALYSIS
+1. Construction of the Claims
+(a) The Law Relating to Claim Construction
+[33]
+The first step in reaching a determination with respect to Apotex' allegations of non-infringement and invalidity is to construe the claims made in the '575 patent in order to identify "what the inventor considered to be the "essential" elements of his invention", see
+ <FRAGMENT_SUPPRESSED>  at paragraph. 45. The principles of patent claims construction were discussed by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  and
+Whirlpool
+, supra. The judgment of the Court in both of these cases was delivered by Binnie, J., and confirmed that a "purposive" approach to the construction of claim language, as enunciated by Lord Diplock in
+ <FRAGMENT_SUPPRESSED> ; [1982] R.P.C. 183 (H.L.), should be made.
+[34]
+In
+Free World Trust
+at paragraph 31, Binnie, J., provided a list of principles that guide the purposive approach to the construction of a claim:
+"(a) The
+Patent Act
+promotes adherence to the language of the claims.
+"(b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+"(c) The claim language must, however, be read in an informed and purposive way.
+"(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+"(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+(v) without, however, resort to extrinsic evidence of the inventor's intention.
+"(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted."
+[35]
+The decisions in
+Free World Trust
+and
+Whirlpool
+clearly place an emphasis on interpreting claims in light of the specification of a patent (the claims and the accompanying disclosure). When using the purposive approach to interpret the words or phrases in a claim, the Court should stay within the "four corners of the specification" and limit itself to the words of the claim interpreted in the context of the specification as a whole, avoiding the use of extrinsic evidence of intent, see
+Whirlpool
+at paragraph. 49. Expert evidence is admissible, but only to assist the Court so it is able to interpret the claims in a knowledgeable way, see
+Whirlpool
+at paragraph. 57.
+(b) The '575 Patent
+[36]
+The claims of the '575 patent are reproduced here for ease of reference:
+"1. A paroxetine formulation which is prepared on a commercial scale into tablets using a formulation process in which water is absent and wherein microcrystalline cellulose is absent from the said tablets.
+2. A formulation according to claim 1 in which the process is dry direct compression of paroxetine or a dry granulation of paroxetine followed by compression into tablets."
+[37]
+The parties are in dispute over the meanings of the terms "paroxetine" and "paroxetine formulation". Neither of these terms is defined in the disclosure, nor is their meaning immediately apparent from the patent specification. The disclosure includes a diagram of the free base form of paroxetine and two examples of formulations utilizing paroxetine hydrochloride hemihydrate. It is apparent that the claims cover at least these two forms of paroxetine. But no mention is made anywhere in the patent specification of paroxetine hydrochloride anhydrate and the disclosure does not provide an example of a formulation involving the anhydrate form.
+[38]
+The parties have presented two alternatives for construing the patent. GSK argues in favour of a broad interpretation of "paroxetine" that encompasses not only its free base or hydrochloride hemihydrate forms, but also any salt or crystal form, including paroxetine hydrochloride anhydrate. GSK contends that those skilled in the field would understand the reference to "paroxetine" as also including its salts and hydrochlorides. Apotex argues in favour of a narrow interpretation of the expression that includes only the free base and hemihydrate forms mentioned in the disclosure. As an alternative position, Apotex argues that the terms "paroxetine" and paroxetine forumulation" are avoidably ambiguous and render the patent invalid.
+[39]
+Both parties rely heavily upon expert evidence to support their respective interpretations of the claims. For the reasons that follow, I award greater weight to the expert evidence tendered by Apotex and find the proper interpretation of the terms "paroxetine" and "paroxetine formulation" does not include the anhydrate form of paroxetine hydrochloride. As meaning can be given to the claims of the '575 patent, there is no need to address Apotex' argument that they are avoidably ambiguous.
+[40]
+First, the expert evidence GSK presented on this issue is of a general nature and does not address the meaning of the terms in the context of the '575 patent. GSK claims that in the field of chemistry, a reference to a general term of a chemical also includes its salts and other forms. Expert evidence to support this view came from Dr. Gerald Brenner, who deposed at paragraph 13 of his affidavit:
+"The term 'paroxetine,' which appears in the claims of the '575 patent is a clear reference to all salts or other forms of paroxetine. In chemistry, a particular chemical moiety can often exist in a number of different forms, such as various salts, hydrates or polymorphs. When a specific salt is mentioned it is clear that that salt is being referenced. When only the general term is used, then this reference includes the various salts or other forms. For instance, the entry in the [
+The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals
+] for 'paroxetine' includes more specific references to the hydrochloride, the hydrochloride hemihydrate and the maleate forms of paroxetine."
+[41]
+While evidence of this nature is of assistance to the Court in gaining an understanding of how language is used in the field of chemistry, it is of limited weight with respect to the ultimate issue of interpretation. Dictionary definitions, such as those found in
+The Merck Index
+, are not determinative. In
+Whirlpool
+at paragraphs 52-53, Binnie, J., expressly rejected the "dictionary" approach to constructing patent claims, stating that the proper place to look for the meaning of a word was to the claims and the accompanying disclosure, not the dictionary. See also
+ <FRAGMENT_SUPPRESSED>  at page 572. Consequently, while the evidence of GSK's experts on this matter has been taken into consideration, it has been awarded limited weight.
+[42]
+Second, if the claims of the '575 patent were to be as broadly interpreted as GSK contends, the result would protect more than what was invented. The essence of the invention claimed by the '575 patent is a solution to the intermittent pink hue problem that afflicts formulations of paroxetine. While the patent specification demonstrates that the problem affects the hemihydrate form, it does not disclose whether the problem afflicts formulations of paroxetine using the anhydrate form. This discrepancy was noted by Apotex' experts.
+[43]
+The following statement of Dr. Gilbert S. Banker at paragraph 26 of his affidavit provides a good example of the testimony of Apotex' experts:
+"[T]he patentee does not teach or provide a basis for teaching the tablet formulation of paroxetine hydrochloride anhydrate and the suitable excipients and the problems associated with the tableting of such anhydrate hydrochloride tablet formulations. Therefore, in my opinion either the patentee did not teach tablet formulations of paroxetine hydrochloride anhydrate and did not know whether there exists a pink hue problem with paroxetine hydrochloride anhydrate tablets, and that paroxetine means only the compound paroxetine and not other form thereof and therefore the claims do not cover the hydrochloride anhydrate form or, if the claims do include the said tablet formulations containing paroxetine hydrochloride anhydrate, the claims are broader than any invention because the patentee does not address such formulations and their manufacture and whether there is even an issue of the pink hue problem using paroxetine hydrochloride anhydrate."
+He also stated at paragraph 72 of his affidavit:
+"Conspicuously absent from the teaching of the '575 patent and the '637 patent is any teaching of how to formulate paroxetine hydrochloride anhydrate which, in my opinion, should have been discussed by the inventors if the claims are meant to include such form.
+Therefore, the '575 and '637 patents fail to teach its use and the tableting conditions and even if paroxetine hydrochloride anhydrate formulations are subject to a pink hue problem.
+" (Emphasis added)
+[44]
+Dr. Banker also gave informative testimony on this point under cross-examination (pages 2298-2299 of the Application Record):
+"The other point I would like to make, if I may, is the pink color formation that occurs with the hemihydrate or is alleged to occur with the hemihydrate is problematical. It occurs is some cases and it doesn't occur in other cases. I understand more about the conversion. I know the anhydrate converts to the hemihydrate if there is some seed crystals. I know some of those factors. I know the anhydrate is very prone to conversion and it has less thermodynamic stability than the hemihydrate. But where the pink hue color formation occurs, where it doesn't, what it is due to, the causes of the pink hue color formation are nowhere apparent to me in these documents, your documents. Whether it has anything whatever to do with chemical degradation I fail to see."
+[45]
+In response, GSK relies upon evidence from Peter Lawton who states at paragraph 14(a) of his affidavit "[t]he intermittent pink hue problem can arise in respect of the anhydrate as well." However, little weight can be afforded to Mr. Lawton's evidence. As Mr. Lawton is the in-house Senior Patent Counsel for GSK and not an outside expert, his evidence cannot be awarded equal weight to that of the outside experts, see Gibson, J.'s, comments  <FRAGMENT_SUPPRESSED>  Beecham
+(F.C.T.D.), supra at paragraph. 25. Further, with respect to the company in which he finds himself, Mr. Lawton does not have the qualifications to be considered an expert. Apotex' evidence on this point comes from individuals with graduate degrees in fields related to pharmacy or chemical engineering, who also possess distinguished academic careers. In contrast, Mr. Lawton is a patent agent who holds a B.Sc. in applied chemistry. Finally, Mr. Lawton provided no support for his assertion that the "intermittent pink hue problem can arise in respect of the anhydrate as well." This statement stands naked in his affidavit, without being clothed by reference to any experimental or other evidence.
+[46]
+Therefore, acceding to GSK's interpretation would mean granting it a monopoly over the purported solution to a problem whose existence it has been unable to document with an anhydrate formulation. Such an interpretation would be overly broad and inconsistent with the purposive approach. The aim of the purposive approach is to give meaning to a patent's claims, and claims that exceed the scope of the invention or the description in the patent's specification are invalid:
+ <FRAGMENT_SUPPRESSED> .
+[47]
+This leads to a third concern that I have with GSK's submission. Patents that lack utility are invalid (see
+French's  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 176 (F.C.A.)), and construing the '575 patent to cover the anhydrate form would protect an invention that has no utility. Regardless of the teachings of the '637 or '575 patents, no skilled formulator wishing to produce tablets containing the anhydrate form would utilize a wet formulation process or add microcrystalline cellulose due to the anhydrate's instability in the presence of water, see the affidavits of Drs. R.S. Langer, Joseph R. Robinson and Banker, and the comments of Dr. Eli Shefter under cross-examination. Simply put, if they did so, the anhydrate would absorb moisture and either convert to the hemihydrate or degrade into other compounds. As the conversion or degradation of the anhydrate might effect the safety or effectiveness of the drug, it is something that a skilled formulator would take steps to prevent. By taking such steps, a skilled formulator would also avoid the pink hue problem (assuming that it affects the anhydrate). This means that the pink hue problem is not something a skilled formulator would encounter in practice. For that reason, a skilled formulator wanting to produce an anhydrate formulation would find nothing of use in the teachings of the '575 patent. GSK's interpretation should be rejected as it would lead to an invalid patent due to lack of utility, a result that is inconsistent with the aims of the purposive approach.
+[48]
+Finally, it should be noted the case at bar is fundamentally different from cases where a patent was granted when an old compound was put to a new use, as was the case in
+ <FRAGMENT_SUPPRESSED> . GSK has not found a new use for an existing invention. Rather, with its interpretation of the '575 patent, GSK asserts a monopoly over a process that is already in use for reasons other than those disclosed by its patent. Whereas in Shell the inventor created something new and useful, the claims of the '575 patent, when applied to the anhydrate form, provide nothing that is either new or useful.
+[49]
+In order to avoid finding the '575 patent invalid for over breath and lack of utility, the scope of the '575 patent should be limited to formulations involving the free base and hydrochloride hemihydrate forms of paroxetine.
+2. Non-infringement
+[50]
+Apotex' allegation of non-infringement can be distilled into the following proposition: the definition of "paroxetine" in the '575 patent does not encompass paroxetine hydrochloride anhydrate, which Apotex proposes to use in its tablets. In his decision on the '637 patent, Gibson, J., dismissed an allegation of non-infringement made by Apotex based on its plan to use water to add a film-coating to their tablets. Gibson, J., found this was an immaterial difference. He stated at paragraph 61:
+"It is no excuse to add something, in this case a film-coating made using water as the solvent for the film-coating. The taking of the pith and marrow of the alleged invention would nonetheless remain a 'robbery'. The superadding of ingenuity in the form of a film-coating would not 'make the operation justifiable'."
+[51]
+Apotex is not alleging non-infringement on the same ground in this case. Hence, the same question has not been decided.
+[52]
+Based on the construction of the '575 patent adopted above, it follows that Apotex' allegation of non-infringement is justified. By shifting production to the anhydrate form, Apotex has altered an essential element of the invention claimed by the '575 patent. In the event that my conclusion with respect to non-infringement is incorrect, I will proceed to analyse Apotex' allegation of invalidity.
+3. Anticipation
+(a) The Law Relating to Anticipation
+[53]
+In order for a patent to be valid, the invention it claims must not have been disclosed by the applicant or by a person who obtained knowledge from the applicant, directly or indirectly, more than one year before the filing date. This is set out in paragraph 28.2(1)(a) of the
+Act
+, which reads as follows:
+"
+Subject-matter of claim must not be previously disclosed
+"28.2(1) The subject-matter defined by a claim in an application for a patent in Canada (the 'pending application') must not have been disclosed
+(a) more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant, in such a manner that the subject-matter became available to the public in Canada or elsewhere;"
+[54]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), at page 294 [C.P.R.], Hugessen, J.A. (as he then was), defined the test for anticipation in the following terms:
+"It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also ... anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory."
+Hugessen, J.A.'s, construction of the test for anticipation was cited with approval by Binnie, J., in
+Free World Trust
+, supra at paragraph 26.
+[55]
+As set out in paragraph 28.2(1)(a), the relevant date for determining anticipation is one year prior to the filing date by the applicant. As the '575 patent is a divisional application of the '637 patent, it shares the same filing date of December 14, 1994. Paragraph 28.4(1) allows an applicant to request priority in respect of an application based on one or more previously filed applications:
+"
+Request for priority
+"28.4(1) For the purposes of sections 28.1, 28.2 and 78.3, an applicant for a patent in Canada may request priority in respect of the application on the basis of one or more previously regularly filed applications."
+The '575 patent has a priority date of December 15, 1993 based on a filing in the United Kingdom. In order to support an allegation of anticipation, a document must have been published prior to December 15, 1992.
+[56]
+Since both parties devoted a substantial part of the hearing to this issue, I will review the evidence in some detail.
+(b) The '060 patent
+[57]
+GSK submits the '575 patent is not anticipated by the '060 patent as the latter does not include instructions which would teach a skilled worker to select a dry formulation process and provides no teaching as to the inclusion or exclusion of microcrystalline cellulose. Therefore, it cannot be said the '060 patent provides clear and unmistakable directions which inevitably lead to the claimed formulation of the '575 patent. GSK has cited evidence given by Dr. James McGinity to make its case. At page 11 of his affidavit, he deposed:
+"
+Microcrystalline Cellulose Is Absent from the Tablets:
+to the extent that the '060 Patent relates to tablets, it is silent as to the presence or absence of microcrystalline cellulose and therefore may relate to formulations including microcrystalline cellulose and formulations not including microcrystalline cellulose.
+"In light of the possible options that are different than the formulation claimed in the '575 Patent ... the '060 Patent does not provide clear and unmistakable directions which inevitably lead to the claimed formulation of the '575 Patent." (Emphasis in original)
+[58]
+In response, Apotex argues the disclosure of the '060 patent anticipates the claimed formulation of the '575 patent as it discloses a paroxetine formulation made by "conventional methods" containing "suitable carriers" utilized in a "conventional manner." This statement is derived from he following statements found in the disclosure accompanying the '060 patent:
+"The present invention also provides a pharmaceutical composition comprising crystalline paroxetine hydrochloride hemihydrate and a
+pharmaceutically acceptable carrier
+.
+. . . . .
+"The composition of this invention may be formulated by
+conventional methods
+of admixture such as blending, filling and compressing.
+. . . . .
+"
+Suitable carriers
+for use in this invention include a diluent, a binder, a disintegrant, a colouring agent, a flavouring agent and/or a preservative. These agents may be utilized in [a]
+conventional manner
+, for example in a manner similar to that already used for clinically used anti-depressant agents." (Emphasis added)
+Apotex claims a skilled formulator would understand that tablet formulations prepared using dry formulation techniques with suitable carriers other than microcrystalline cellulose is one of the alternative formulation methods disclosed by the '060 patent.
+[59]
+Whether the '060 patent teaches the use of dry formulation techniques was also at issue before Gibson, J. He determined the '637 patent was anticipated by the '060 patent and that there was no innovative step disclosed by the '637 patent. The decision was predicated on Gibson, J.'s, finding that the "conventional methods of admixture" referred to in the '060 patent would be understood by persons skilled in the art to mean tablets made by dry granulation or direct compression as well as wet granulation. Gibson, J., noted that all of the experts identified formulation in the presence of water as one of the likely causes of the pink hue problem. In light of this, he concluded that turning to a dry formulation process was a logical first step in dealing with the pink hue problem. As the use of an alternate method of formulation was merely an application of the invention taught by the '060 patent, there was no inventive step required to produce the invention claimed by the '637 patent . Given the similarities between the '637 patent and the '575 patent, Gibson, J.'s, analysis is equally applicable to the case at the bar. I am also satisfied that the expert evidence tendered in this case supports Gibson, J.'s, conclusion.
+[60]
+The second sub-issue raised here is whether the '060 patent also teaches the formulation of paroxetine in the absence of microcrystalline cellulose. The '060 patent is silent on the inclusion of microcrystalline cellulose in paroxetine and it does not appear to be in dispute that the reference to a "suitable carrier" could be understood by skilled persons to mean an excipient other than microcrystalline cellulose. The evidence shows that microcrystalline cellulose is not essential to paroxetine tablets produced via direct compression or dry granulation and is only one of the suitable carriers available for use as an excipient in paroxetine formulations. Illustrative of this is the second example given in the disclosure that accompanied the '637 patent. Notably absent from the list of ingredients is microcrystalline cellulose.
+[61]
+The parties' positions diverge on whether the '060 patent contains clear and unmistakable directions that would lead a skilled person to exclude microcrystalline cellulose from the formulation. As mentioned above, microcrystalline cellulose is highly hygroscopic excipient that contains comparatively high levels of loosely bound water. Apotex has demonstrated that a skilled formulator would avoid the use of microcrystalline cellulose upon realizing that the presence of water was a likely cause of the pink hue problem. In his affidavit, Dr. Langer reviewed a number of scientific articles which discussed the properties of microcrystalline cellulose and concluded at paragraph 66:
+"Thus, well prior to the priority filing date of the '637 patent, it was well known that microcrystalline cellulose is a hygroscopic material and absorbs increasing amounts of water at increasing humidities.
+In my opinion, given the results with respect to the appearance of a pink hue in paroxetine hydrochloride hemihydrate formulations made via wet granulation, a skilled formulator utilizing dry formulation processes to circumvent this problem would also have avoided the use of excipients such as microcrystalline cellulose due to problems associated with its hygroscopicity and elevated water content.
+In addition, in my opinion a skilled formulator would also have avoided the use of hygroscopic excipients or excipients with loosely bound water for tablet formulations containing other forms of paroxetine." (Emphasis added)
+See also the affidavit of Dr. Shefter at paragraph 28.
+[62]
+Under cross-examination Dr. Banker gave the following evidence on the properties of microcrystalline at page 2288 of the Application Record:
+"A. It would be a better formulation not to include microcrystalline cellulose in a paroxetine formulation.
+Q. Now, in Paragraph 78 - -
+A. Because microcrystalline cellulose is hydroscopic [sic]. It's described as hydroscopic [sic]. And, to further clarify my answer, as reported in the literature, in the handbook of pharmaceutical recipients, other references, microcrystalline cellulose in a human environment
+quickly releases liquid moisture content of about 15 percent, which is quite wet and will be very deleterious to a moisture sensitive drug
+. And people skilled in the art know that." (Emphasis added)
+[63]
+GSK has failed to refute the assertions of Apotex' experts. I am satisfied that a person of ordinary skill and knowledge in the field would be able to find in the '060 patent all of the information necessary to produce the invention of the '575 patent without any exercise of inventive skill. Like the decision to use a dry formulation process, it was a logical step to turn to an alternative excipient that was less hygroscopic and contained a lower level of loosely bound water in response to the pink hue problem. This decision did not require an inventive step, but merely an application of one of the alternatives taught by the '060 patent. GSK has failed to establish that Apotex' allegation of anticipation due to the '060 patent is not justified.
+(c) The Buxton Articles
+[64]
+Apotex alleges the Buxton articles anticipate the claims of the '575 patent because each of the articles discloses paroxetine compacts formulated in the absence of water and utilizing excipients other than microcrystalline cellulose. The authors used direct compression to prepare compacts containing a mixture of paroxetine hydrochloride, magnesium stearate and sodium chloride.
+[65]
+GSK submits the Buxton articles are not applicable because the experiments discussed by the authors involved compacts containing sodium chloride. While sodium chloride is used to prepare paroxetine samples for infra-red analysis, GSK claims it is not used as an excipient in pharmaceutical formulations for patients. GSK has supported it claims with statements from Dr. McGinity and Dr. Christopher T. Rhodes.
+[66]
+Apotex has responded by labelling GSK's claim "plainly incorrect". In support of its position, Apotex relies upon statements contained in the affidavits of Drs. Langer, Shefter and Banker, indicating that sodium chloride can and has been used as an excipient in pharmaceutical formulations for patients. Apotex has also relied heavily upon the following three documentary sources:
+(a) Y. Hammouda et. al.,
+The Use of Sodium Chloride as a Directly Compressible Filler
+(1978), 40 Pharm. Ind. 987;
+(b) G.S. Banker & C.T. Rhodes, eds.,
+Modern Pharmaceutics
+(New York: Marcel Dekker, Inc., 1979) at pages 227-262 and 359-427; and
+(c) A.R. Gennaro, ed.,
+Remington's Pharmaceutical Sciences
+, 18th Ed. (Easton, PA: Mack Publishing Company, 1990) at pages 1633-1665.
+Each of these sources identified sodium chloride as one of a number of acceptable excipients that can be used in pharmaceutical formulations for patients.
+[67]
+It appears that the truth lies somewhere between the positions charted out by the parties. The evidence shows that while sodium chloride was once considered an acceptable excipient in pharmaceutical formulations for patients and could be used, it is no longer used in a significant quantity for this purpose. Under cross-examination, experts from both sides indicated that for a number of years sodium chloride's use in pharmaceuticals has been restricted to cases where it is the active ingredient. When questioned on this point, Apotex' expert Dr. Robinson stated "these specific high sodium chloride tablets" were not made for ingestion (at page 2491 of the Application Record). Another of Apotex' experts, Dr. Schefter, agreed that sodium chloride is generally avoided as an excipient in pharmaceutical formulations and went to state at page 2143:
+"I'm not aware specifically of a current product on the market except for sodium chloride tablets that are utilizing its properties for tabletting."
+[68]
+One of GSK's experts, Dr. Rhodes, gave similar evidence under cross-examination at pages 1823 and 1824:
+"Q. Okay. You're aware that others have written that sodium chloride is a suitable excipient in the manufacturing of a compressed tablet?
+A. I'm aware that there are references to its possible use in some of the older literature. But the point I'm making is that in practical terms, and I believe Dr. Scheafter [sic] would agree with me on this, there is no commercial tablet that I know of on the market to be swallowed by a patient in which sodium chloride is an excipient rather than the active. And of course, that's a very specialized case. People suffering from heat stoke [sic]. Certainly, within the last fifteen years, the concern about hypertension would, in my opinion, make it very difficult indeed for FDA to approve such a product."
+[69]
+I prefer this evidence to the documentary sources relied upon by Apotex. Two of those sources, the article from Hammouda and the cited chapters from Banker and Rhode's book, pre-date the relevant date for anticipation by well over a decade. And while the excerpt from
+Remington's Pharmaceutical Sciences
+is more recent, it only mentions sodium chloride as a potential excipient in passing. Whether sodium chloride is suitable for use in formulations for patients or simply for experimental purposes only is not discussed in the cited passage. I conclude the Buxton articles teach a formulation of paroxetine that is acceptable for research purposes, but not necessarily for use with patients. Inventiveness and experimentation would be required to select a suitable excipient other than sodium chloride for use in commercial tablets.
+[70]
+Accordingly, the Buxton articles did not provide clear and unmistakable directions that would have led a skilled formulator to the '575 patent. The compacts used by the authors were designed solely for research purposes and do not teach a skilled formulator how to turn the compacts into commercial tablets. There are simply too many steps between the process outlined in the Buxton articles and the production of commercial tablets to find that a skilled formulator would necessarily have produced the invention claimed by the '575 patent based on the information contained in the articles.
+(d) The '9281 application
+[71]
+The '9281 application is entitled "USE OF PAROXETINE FOR THE TREATMENT OF SENILE DEMENTIA, BULIMIA, MIGRAINE OR ANOREXIA" and was filed with the World Intellectual Property Organization ("WIPO") under the Patent Cooperation Treaty and assigned International Application No. PCT/GB91/02062. The application was published by WIPO on June 11, 1992 as International Publication No. WO-92/09281 and can be considered prior art.
+[72]
+Much of the language contained in the disclosure accompanying the '9281 application is similar to that of the '060 patent. The disclosure accompanying the application contains the following statements:
+"The medicaments, for example, those suitable for oral administration, may contain
+conventional excipients
+, such as ...
+microcrystalline cellulose
+...
+"Solid medicaments may be obtained by
+conventional methods of blending, filling, tabletting or the like
+. Repeated blending operations may be used to distribute paroxetine or a salt thereof throughout those medicaments employing large quantities of fillers. When the medicament is in the form of a tablet, powder, or lozenge,
+any carrier suitable for formulating solid pharmaceutical compositions may be used
+, examples being magnesium stearate, starch, glucose, lactose, sucrose, rice flour and chalk." (Emphasis added)
+[73]
+It is submitted by Apotex that the '9281 application anticipates the claimed formulation of the '575 patent by disclosing tablet formulations containing paroxetine made via "conventional methods" utilizing "conventional excipients" of which microcrystalline cellulose is merely one option. Apotex claims that the example given to illustrate the invention claimed by the '9281 application found in the accompanying disclosure teaches the claims of the '575 patent. The example details the formulation of paroxetine without microcrystalline cellulose using the following formulation process:
+"The [ingredients] were mixed together in a conventional manner and compressed into a tablet in a conventional manner."
+[74]
+Apotex claims this language describes the direct compression process and as such discloses all of the necessary steps for the invention claimed by the '575 patent. Apotex supports this claim by pointing to the language of the second example given in the disclosure accompanying the '575 patent. The first step called for in example 2 is for the ingredients to be "mixed together". The second step then instructs the reader to "compress" the mixture into a tablet.
+[75]
+Apotex has also tendered expert evidence to support its position. The experts deposed that while the process described in the example given in the '9281 application could describe the wet granulation process, it is most likely a description of direct compression for two reasons. First, while mixture and compression are steps involved in wet granulation processes, the description leaves out a number of other key steps required for granulation and does not mention the addition of water. Second, one of the ingredients listed in the formulation is hydroxypropylmethylcellulose ("HPMC"), a compound that is most commonly used as an excipient for direct compression and dry granulation.
+[76]
+In response, GSK has distinguished the teachings of the '9281 application from '575 patent on two grounds. First, GSK argues that the '9281 application relates to a wide range of dosage forms other than tablets and as such, it does not contain a clear direction to make a tablet. Second, GSK claims the process described in the example given in the '9281 application is a wet granulation process. GSK has supported its position with evidence from Dr. McGinity who, at paragraphs 21 and 48 of his affidavit, states that the inclusion of HPMC in the formulation is an indication of a wet granulation process.
+[77]
+My conclusions with respect to the '9281 application mirror those stated above when analysing the '060 patent. While the experts disagree over the specific process outlined in the example given in the '9281 application, a common theme emerged from their evidence. The reference to "conventional methods of blending, filling, tabletting or the like" in the '9281 application could be understood by a skilled formulator to include both wet and dry formulation. Gibson, J., reached essentially the same conclusion in his decision dealing with similar language contained in the '060 patent. Moreover, it is apparent the '9281 application refers to microcrystalline cellulose as only one of a number of acceptable excipients and provides an example of a formulation made without microcrystalline cellulose. For the reasons outlined above, I am convinced that a skilled formulator would find in the '9281 application all of the steps needed to create the invention claimed by the '575 patent. Therefore, the claims of the '575 patent were anticipated by the '9281 application.
+(e) The '303 European patent
+[78]
+The '303 European patent relates to the use of paroxetine as an analgesic and was published on June 1, 1988. The language used in disclosure accompanying the '303 European patent describing the formulation of paroxetine mirrors the language used in the '9281 application. The passages from the disclosure of the '9281 application cited above are also contained in the disclosure of the '303 European patent. The arguments made by the parties regarding the '303 European patent are essentially the same as those made with respect to the '9281 application. Accordingly, my finding that the '9281 application anticipated the '575 patent applies equally to the '303 European patent.
+4. Obviousness
+[79]
+Section 28.3 of the
+Act
+establishes that a patent claim must not have been obvious on the claim date. The section reads as follows:
+"
+Invention must not be obvious
+"28.3 The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(a) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(b) information disclosed before the claim date by a person not mentioned in paragraph (a) in such a manner that the information became available to the public in Canada or elsewhere."
+[80]
+The test for obviousness was set out by Hugessen, J.A. (as he then was), in
+Beloi
+t, supra at page 294 [C.P.R.]:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[81]
+Apotex also raised an allegation of obviousness in the earlier litigation between these parties concerning the '637 patent. Gibson, J., held at page 551  <FRAGMENT_SUPPRESSED> :
+"While, as previously noted, I am satisfied that the allegation that the '060 patent anticipated the '637 patent was justified, I am satisfied that SmithKline met the burden on it to establish that the allegation that the invention disclosed by the '637 patent was obvious was not justified."
+[82]
+In support of his conclusion, he quoted extensively from an affidavit sworn by Dr. McGinity that has also been put before the Court in the case at bar. Paragraphs 28 and 29 of the affidavit provide a concise summary of Dr. McGinity's findings:
+"In summary, therefore, it is my opinion that considerable time and effort would be required to solve this problem. Based on the three patents referred to above as well as my experience and common general knowledge in pharmaceutical technology, I was unable to identify the cause or suggest a solution to the intermittent pink hue problem. In order to try to solve the problem, a number of carefully designed experiments would have to be conducted.
+"Therefore, in trying to solve the problem ... without the benefit of hindsight, I was unable to come directly and without difficulty to the solution of the intermittent pink hue problem. I honestly could not have come directly to the solution to this problem as there are a number of possible causes. Without knowing the cause of the problem, the solution is far from clear or plain."
+[83]
+In reviewing Gibson, J.'s, decision on the '637 patent, Linden, J.A., writing for the Federal Court of Appeal, touched upon Gibson, J.'s, findings on obviousness at page 131  <FRAGMENT_SUPPRESSED> :
+"SmithKline also alludes to the ostensible inconsistency in the Applications Judge's determination that the '637 patent is anticipated yet not obvious. This result does seem curious at first glance. However, given that the '637 patent was anticipated, if SmithKline is indeed correct that an invention cannot be both anticipated and not obvious, then the only possible inference could be that it was obvious. Not surprisingly, SmithKline does not challenge the Applications Judge's finding that the invention was not obvious. Consequently, this Court need not resolve the issue ..."
+[84]
+In light of Gibson, J.'s, finding that using a dry formulation process to solve the pink hue problem was not obvious, Apotex' allegation that the '575 patent is invalid due to obviousness must fail.
+5. Double Patenting/Improper Divisional Application
+[85]
+The application for the '575 patent was filed as a divisional application of the '637 patent. Section 36 of the
+Act
+governs the filing of divisional applications and issuance of a patent based on a divisional application. The '575 patent was filed as a divisional application of the '637 patent on September 25, 1997. At that date, s. 36 read as follows:
+"
+Patent for one invention only
+"36(1) A patent shall be granted for one invention only but in an action or other proceeding a patent shall not be deemed to be invalid by reason only that it has been granted for more than one invention.
+"
+Limitation of claims by applicant
+"(2) Where an application (the 'original application') describes more than one invention, the applicant may limit the claims to one invention only, and any other invention disclosed may be made the subject of a divisional application, if the divisional application is filed before the issue of a patent on the original application.
+"
+Limitation of claims on direction of Commissioner
+"(2.1) Where an application (the 'original application') describes and claims more than one invention, the applicant shall, on the direction of the Commissioner, limit the claims to one invention only, and any other invention disclosed may be made the subject of a divisional application, if the divisional application is filed before the issue of a patent on the original application.
+"
+Original application abandoned
+"(3) If an original application mentioned in subsection (2) or (2.1) becomes abandoned, the time for filing a divisional application terminates with the expiration of the time for reinstating the original application under this Act.
+"
+Separate applications
+"(4) A divisional application shall be deemed to be a separate and distinct application under this Act, to which its provisions apply as fully as may be, and separate fees shall be paid on the divisional application and it shall have the same filing date as the original application."
+[86]
+In accordance with s. 36(2), where an application for a patent describes more than one invention, a divisional application may be filed and a separate patent issued. The issuance of two patents for a single invention has traditionally been prohibited in Canada. The prohibition against double patenting has two branches, see
+Whirlpool
+, supra at paragraphs 62-67. The second branch of the prohibition against double patenting is referred to as "obviousness" double patenting and is relevant to this application. This branch was described in the following terms by Binnie, J., in
+Whirlpool
+at paragraphs 66-67:
+"There is, however, a second branch of the prohibition which is sometimes called 'obviousness' double patenting. This is a more flexible and less literal test that prohibits the issuance of a second patent with claims that are not 'patentably distinct' from those of the earlier patent.  <FRAGMENT_SUPPRESSED>  C.P.R. 9, the issue was whether Farbwerke Hoechst could obtain a patent for a medicine that was a diluted version of a medicine for which it had already obtained a patent. The claims were neither identical nor conterminous. Judson, J., nevertheless held the subsequent patent to be invalid, explaining at p. 53:
+'A person is entitled to a patent for a new, useful and inventive medicinal substance but to dilute that new substance once its medical uses are established does not result in further invention. The diluted and undiluted substance are but two aspects of exactly the same invention. In this case, the addition of an inert carrier, which is a common expedient to increase bulk, and so facilitate measurement and administration, is nothing more than dilution
+and does not result in a further invention over and above that of the medicinal itself
+.' [Emphasis added.]
+"In [
+ <FRAGMENT_SUPPRESSED> ] Dickson, J., referred to
+Farbwerke Hoechst
+as 'the main authority on double patenting' (p. 536) which stood for the proposition that a second patent could not be justified unless the claims exhibited 'novelty or ingenuity' over the first patent:
+'Judson, J., for the Court said that the second process involved no novelty or ingenuity, and hence the second patent was unwarranted.'"
+[87]
+Counsel for GSK argued at the hearing that under the post-1989 provisions of the
+Act
+, a patent made as a divisional application cannot be found invalid on account of double patenting. The reason, to use the words of counsel, is that "the sin of double patenting" was removed by the 1989 amendments. Under the pre-1989 provisions, patent protection ran from the date of issue, meaning that the issuance of a second patent would grant the holder a renewed protection period. This practice is commonly referred to as "evergreening" and has been cited as the rationale for preventing double patenting, see
+Whirlpool
+at paragraph 63 (the decision dealt with the pre-1989 version of the
+Act
+). As a result of the 1989 amendments to the
+Act
+, patent protection now runs from the date of filing, not the date of issue. Divisional applications share the same filing date under s. 36(4) and no additional protection is gained by the existence of the second patent. GSK drew an analogy to American patent law, where a second patent is not invalid for double patenting if the patent holder gives up the period of additional protection by making a terminal disclaimer, see
+Bowers, In Re
+(1966), 53 C.C.P.A. 15; 359 F.2d 886,
+Plank, In Re
+(1968), 55 C.C.P.A. 1400; 399 F.2d 241 and
+Kaplan, In Re
+(1986), 789 F.2d 1574 (Fed. Cir.).
+[88]
+I cannot agree with GSK that "the sin of double patenting" has evaporated. GSK has overlooked the impact that a second patent can have under the
+Regulations
+. Under paragraph 7(1)(e) of the
+Regulations
+, the Minister is prohibited from issuing the requested NOC for 24 months once the owner of a patent has applied for an order under s. 6(1). The effect of this provision is to put in place a mandatory injunction that remains in force until either the case is disposed of or the 24-month period expires. The existence of additional patents allows the patent-holder to bring additional applications, thereby obtaining multiple injunctive periods. There is no need to look further than the case at bar for an excellent example of this practice. Even though Apotex successfully invalidated the '637 patent in 2001, the filing of this application by GSK has prohibited Apotex from bringing its product to market for the past two years.
+[89]
+Furthermore, regardless of whether "the sin of double patenting" still exists, a patent holder should not be able to receive additional patents for the same invention. Support for this position can be found in the decision of Lutfy, J. (as he then was), in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 359 (T.D.), affd. (2000), 258 N.R. 238; 6 C.P.R.(4th) 285 (F.C.A.). Bayer had two patents, filed as divisional applications, that covered the same invention. The period of patent protection ran from the date of issue and the term of the second patent ran for an additional eighty months after the expiry of the initial patent. Bayer later made a terminal disclaimer that brought the expiry date of the second patent in line with that of the first. Bayer argued that the second patent was not invalid for double patenting because the terminal disclaimer had removed the harm of double patenting. The argument was rejected by Lufty, J., who held that inventive ingenuity was still needed to support the second patent. I agree. As Binnie, J., noted in
+Whirlpool
+at paragraph 63, s. 36(1) of the
+Act
+states that an inventor is only entitled to "a" patent for each invention. The logical extension of this is that two inventions are required to support two patents. This is confirmed by the wording of s. 36(2).
+[90]
+I now turn to the substantive arguments made by the parties with respect to double patenting. Apotex submits the '575 patent is a violation of the second branch of the prohibition as the formulation is an obvious variant from the claims of the '637 patent and does not disclose an inventive step. GSK argues Apotex has not put forward enough evidence to support its allegation of double patenting. Rather, what is claimed by the '575 patent is different as it includes the additional claim that the tablets must be made in the absence of microcrystalline cellulose.
+[91]
+Apotex should prevail on this point. Once the skilled formulator realized that the use of a dry formulation process was the solution to the pink hue problem, the decision to use an excipient that was less hygroscopic and contained a lower level of loosely bound water than microcrystalline cellulose was apparent. For this reason, the claims of the '575 patent display no novelty or ingenuity over the claims of the '637 patent, and GSK has failed to refute Apotex' allegation of double patenting.
+CONCLUSIONS
+[92]
+I conclude that Apotex' allegations of non-infringement and invalidity are justified for the following reasons.
+1. The proper construction of the '575 patent does not encompass a dry formulation process wherein microcrystalline cellulose is absent for the tableting of paroxetine hydrochloride
+anhydrate
+.
+2. Apotex' proposal to formulate paroxetine hydrochloride anhydrate using a dry formulation process wherein microcrystalline cellulose is absent does not infringe upon the claims of the '575 patent.
+3. The claims of the '575 patent were anticipated by the '060 patent, '9281 application and the '303 European patent. The claims of the '575 patent were not anticipated by the teaching of the Buxton articles.
+4. The invention disclosed by the claims of the '575 patent was not obvious for the reasons of this Court in a previous matter.
+5. The '575 patent was an improper divisional application of the '637 patent and is invalid on account of double patenting.
+[93]
+Accordingly, this application must be dismissed with costs.
+Application dismissed.
+Editor: Giovanni A. Merlini/gs
+[End of document]

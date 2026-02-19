@@ -1,0 +1,390 @@
+[1]
+Harrington, J.
+: Réal Vallée is a good man; a decent man; an honest man - a fisherman. However he did a very stupid thing. He cut the plaintiffs' submarine fibre optic cable in two. It cost them almost $1,000,000 to repair it.
+[2]
+In October 1999, after having obtained all necessary federal and Québec approvals, Le Groupe QuébecTel Inc. (now the plaintiff Telus and hereinafter referred to under that name) had two submarine fibre optic cables laid across the St. Lawrence river: the first running from Point-au-Père on the south shore to Baie-Comeau on the north. This cable, known as the Sunoque I, is the one that was cut. In large measure, the cable was simply laid down on the riverbed. The other cable runs from Bic on the south shore to Forrestville on the north. All went well until June 2006 when remote monitoring controls indicated that the Sunoque I parted about 8.9 km off Baie-Comeau.
+[3]
+Mr. Vallée, the master of the fishing vessel
+Realice
+, was engaged in snow crab and whelk fishing. The
+Realice
+is owned by Peracomo Inc. Mr. Vallée is its president and sole shareholder. Strings of cages were laid on the river bottom, secured at both ends by small anchors, which are attached to buoys. One of these anchors got hooked onto the cable. The anchor with the cable attached was hauled out of the water. Mr. Vallée freed the anchor by cutting the cable with an electric saw. A few days later the same thing happened and he cut the cable again.
+[4]
+Details of the fishing vessel
+Realice
+, a catamaran, manned by four, are as follows:
+a. Port of registry: Gaspé;
+b. Gross tonnage: 44;
+c. Net registered tonnage: 33;
+d. Length: 13.22 metres;
+e. Breath: 6.04 metres; and
+f. Depth: 2.74 metres.
+[5]
+Despite Québec government notices of consultation published before the installation of the cable, notices published in local newspapers by Telus, various notices to mariners and notices to shipping from the Department of Fisheries and Oceans, and amendments to other marine publications and to the two applicable marine charts, Mr. Vallée believed the cable was not in use.
+[6]
+Telus, its co-owner of the cable, Hydro-Québec, and Bell Canada, which had no ownership interest therein but a right of use, shared the cost of repair in accordance with a pre-existing contract among them. They took action in personam against Peracomo and Mr. Vallée and in rem against the ship. In turn, the defendants instituted third party proceedings against their underwriters, Royal and Sun Alliance Insurance Company of Canada, who denied coverage.
+[7]
+The first issue is whether the defendants are liable. Their defence is that Mr. Vallée should have been given notice by Telus of the cable's existence, and furthermore that it was not properly installed. It should have been buried. They deny liability, but as a fallback position claim, at the very least, there is contributory negligence on Telus' part.
+[8]
+The second issue is the quantum of damages. The amount claimed, as modified at trial, is now $980,433.54. The defendants and third party underwriters admit damages in the amount of $892,395.32. What remains in dispute is an administrative charge of $88,038.22.
+[9]
+The third issue is whether, if liable, the defendants are entitled to limit their liability. Given the nature of the loss (no death or personal injury) and the tonnage of the
+Realice
+, section 29 of the
+Marine Liability Act
+limits their liability to the principal amount of $500,000. However, that right to limit is lost in accordance with article 4 of the
+Convention on Limitation of Liability for Maritime Claims, 1976
+, as amended by the 1996 Protocol, Schedule I to the said Act, in the following circumstances:
+A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
+[10]
+The fourth issue is whether the defendants have lost their insurance cover as alleged by the underwriters. Section 53(2) of the
+Marine Insurance Act
+provides:
+[...] an insurer is not liable for any loss attributable to the wilful misconduct of the insured [...]
+[11]
+The  fifth  and  last  issue  is that of interest and costs in the principal action and costs in the third party proceedings. If insurance cover has not been lost, the defendants claim their costs of defence on a solicitor/own client basis. However it was agreed at a trial management conference that this issue be left in abeyance pending the outcome of the other issues.
+TABLE OF CONTENTS
+[12]
+The case may be broken down into the following topics:
+-
+Paragraphs
+Laying out of the cable and notice thereof
+13-38
+Réal Vallée and the cable
+39-45
+The cause of loss
+46-48
+Liability of the defendants
+49-54
+Damages
+55-57
+Limitation of liability
+58-88
+Liability of underwriters
+89-92
+Interest
+93-95
+Costs
+95-96
+Language
+97
+LAYING OUT OF THE CABLE AND NOTICE THEREOF
+[13]
+Telus realized there was a real need to improve telecommunication service between the north and south shores of the lower St. Lawrence River. As it had no in-house expertise with submarine cables and as it knew it would have to obtain various federal and Québec approvals, it retained two outside firms, TeleGlobe and ÉEM Inc.
+[14]
+Although the defendants focused a great deal on this process, I need only summarize it as such shortcoming there may have been on Telus' part did not, in my opinion, cause or contribute in any way to the damage suffered by the Sunoque I. The ÉEM reports dealt with environmental issues and there were undertakings by Telus therein to the government authorities to consult with various entities, including fishermen who may be affected.
+[15]
+The prime witness as to the installation of the Sunoque I, and its subsequent repair, was Mike Kennah, who joined TeleGlobe in 1977 in their marine group, which was well known in the industry for maintaining submarine cables and planning routes. Due to corporate reorganization, this group was being disbanded so that he and others formed a separate corporation, IT-International Telecom. Although the first report came on TeleGlobe letterhead, the work was actually done by Mr. Kennah and his IT group.
+[16]
+The normal approach, and the one taken in this case, is that once the needs of the customer are assessed, there is a feasibility or desk top study followed by a hydrographical survey, route engineering, and then the purchase of and installation of the cable. This can take from six months up to five years. In this case roughly three years elapsed from the issuance of the desk top study to the installation.
+[17]
+The defendants make much of a portion of the desk top study which stated it was essential that the cable be buried where feasible. However, Mr. Kennah explained that once the hydrographical study came out, it was realized that except for a few areas, the riverbed was very soft so there was no need to bury the cable, a single armour variety, in deep water. In the area where the incident occurred, the water was about 95 metres deep. In Mr. Kennah's experience, the normal way to bury a cable is by a plowing operation. This would not work because the river bottom was too soft, and the plow would topple over.
+[18]
+Apart from burying a cable that way, which the experts agree was not feasible given the soft bottom, one might use a remotely operated vehicle with a high-pressure water jetting system. This is what Mr. Duplantie, an expert called by the defendants, suggested at trial. Mr. Kennah, although obviously an expert, but not testifying as such, had not given thought to that possibility, as it is simply not done. Mr. Harrison, an expert called on behalf of the plaintiffs, stated that because of the relatively slow burial speed and high cost, remotely operated vehicles are generally used only to bury short segments of cable, less than 10 km in length. This particular cable was over 100 km, although not all of it ran through popular fishing areas.
+[19]
+Both Mr. Duplantie and Mr. Harrison were of the view that the anchors used to maintain crab cages in place could not damage the cable, and indeed that is the case here. The cable could be torn apart if a large ship had to anchor in the area due to heavy weather, engine breakdown or other reasons. All agree that a cable, even if buried a metre or so deep, could not withstand the drag of a large anchor. Furthermore, the cable was in a tidal area and there was certainly no guarantee, according to Mr. Harrison, that over time the cable, even if buried, would not, in any event, become exposed due to tidal action. His conclusion was that it was not necessary to bury the cable, which would sink a little bit into the soft soil. Mr. Duplantie also suggested that the cable could have been covered with rock, but had made no calculations whatsoever as to the cost thereof.
+[20]
+I prefer the evidence of Mr. Harrison. Although Mr. Duplantie has a wealth of experience, some at TeleGlobe at the same time as Mr. Kennah, he was on the "dry side" not the "wet side." He personally was not involved in desk top studies, but would give approval. I do not consider his suggestions to be viable alternatives.
+[21]
+I find as a fact that the hoisting of a hooked anchor to the surface would not damage the cable. As is customary, for every 100 metres of length 102 metres of cable were laid out, to enable the cable to conform to the river bottom. In fact, the danger was that a small fishing vessel could capsize. This was a concern expressed by Mr. Vallée when he hooked on to the same cable in 2005. It is fairly common for these crab-cage anchors to hook onto debris on the river bottom such as ship lines which may have parted and been abandoned. Indeed, Mr. Soucy, a fishing boat captain called by the defendants with respect to marine charts, testified the risk of capsizing was a real concern. His winches are not as powerful as those on the
+Realice
+so that often he would hook onto something but could not pull what ever it was up to the surface of the water.
+[22]
+Turning now to the alleged lack of notice, prior to the installation the Québec government published Notice of Public Consultation meetings in various papers, but nothing came of it.
+[23]
+At a joint meeting Telus had with Québec and federal government officials, it undertook to notify various fishing associations. It obtained a list of some 43 from the Department of Fisheries and Oceans, and over a period of a few years wrote several times to these associations. No one ever responded. I do not accept the defendants' position that there is no reliable evidence that these letters were actually mailed, albeit by ordinary mail.
+[24]
+The letters were sent at the direction of Gaétan Rousseau, currently a Telus vice-president, who testified at trial and by Christian Bérubé. There was an agreed statement filed to the effect that if he had been called as a witness, he would have said the same thing as Mr. Rousseau. The secretaries who would have seen to the mailing of the letters were not called. These letters were sent in the normal course of business, were properly documented internally, copies were mailed to the Department of Fisheries and Oceans and received. I find, on the balance of probabilities, that they were also mailed to the associations.
+[25]
+Some of these letters had a drawing roughly tracing the route of the two cables.
+[26]
+As to Mr. Vallée's lack of actual notice, as it turns out the list of fishing associations provided by the Department of Fisheries and Oceans did not include the
+Association des pêcheurs de crabe de la zone 17
+, the group to which Mr. Vallée belonged, and the zone in which the incident occurred. This omission has not been explained, even by the officials of the Department who testified at trial. Nor did the list contain telephone numbers. Telus did not attempt to reach anyone by telephone; nor did it send anyone to the docks in the various ports within Zone 17, including Baie-Comeau, where Mr. Vallée was based, to hand out marine charts or to otherwise make absolutely sure that the fishermen were aware of the existence and location of the submarine cable.
+[27]
+The Federal government, however, published notices time and time again. It was Mr. Vallée's duty to be aware of them. The Canadian government publishes notices to mariners, notices to shipping, radio-navigational warnings, hydrographic charts, sailing directions and other documents.
+[28]
+During the installation of the cable in October 1999, radio warnings were issued. However, the fishing season was over and Mr. Vallée was not in the area. This was followed up by written notices, weekly, and then annually. The marine charts were amended to show the cable. Had he but once consulted any of these documents over a six and a half year period, he would have been aware of the cable and that it had not been abandoned, as a different symbol is used for such a cable. Indeed, the annual edition of the Notice to Mariners, Notice 16, specifically deals with submarine cables, and warns that they may constitute a danger for navigators, and that if one does hook onto such a cable, one should try to disengage by normal methods. If one cannot, one must abandon the anchor or other gear without cutting the cable. Furthermore, if it can establish that an anchor or other gear was sacrificed, the owner would be indemnified by the cable owners. In this particular case, if Mr. Vallée had abandoned his anchor, the line and the buoy, his loss would have been approximately $250.
+[29]
+Mr. Duplantie, who has had worldwide experience in reviewing and approving plans for the laying of cables, was very much of the view that one should not assume that marine charts and other publications will come to the attention of fishermen. Indeed, in his experience, they seem to take a very casual attitude about navigational matters. Telus should have sent people to the docks. He also stated, however, that in another country where fishermen were aware of a submarine cable, they deliberately fished along it. All that can be said is that if Mr. Vallée knew Sunoque I was a cable in use, he would not have cut it.
+[30]
+However, Mr. Vallée's defence is that there was no obligation on his part to carry charts and other marine publications onboard, or to be aware of the cable's existence. All these publications are required to be carried onboard Canadian ships in virtue of
+The Charts and Nautical Publications Regulations, 1995
+. However there is a conditional exception pursuant to section 4(2) thereof:
+The master and owner of a ship of less than 100 tons are not required to have on board the charts, documents and publications referred to in subsection (1) if the person in charge of navigation has sufficient knowledge of the following information, such that safe and efficient navigation in the area where the ship is to be navigated is not compromised:
+(a) the location and character of charted
+(i) shipping routes,
+(ii) lights, buoys and marks, and
+(iii) navigational hazards; and
+(b) the prevailing navigational conditions, taking into account such factors as tides, currents, ice and weather patterns.
+[31]
+Mr. Vallée's position is that the cable did not constitute a hazard to navigation, although it might constitute a hazard while fishing, as opposed to navigating. I do not accept this distinction. The
+Realice
+was not herself at anchor. She was in navigation hauling up the cages in a string which might run 2 km from the anchor at one end to the anchor at the other. Two marine experts were called, one by the plaintiffs and the other by the third party. They both noted that the
+Realice
+had onboard an out-of-date paper marine chart and an unapproved electronic chart, both of which predated the installation of the cable.
+[32]
+Captain Louis Rhéaume, called by the plaintiffs, was of the view that Mr. Vallée could have put his life and that of his crewmembers at risk. Although the charts draw a distinction between abandoned and active cables, they do not draw a distinction between telephone cables and electric cables. Had the cable in question been an electric cable, he could well have electrocuted himself. The ordinary practice of seamen would be to communicate with marine traffic control to make inquiries as to the nature and use of the cable, by using one of the VHF radios which was onboard.
+[33]
+Captain Jean-Louis Pinsonnault, called by the underwriters, added that fishing in the same area for years, and having hooked on the cable before, constituted a danger for the ship and the crew. There was a lack of elementary prudence.
+[34]
+I accept their evidence. I find that the cable was a navigational hazard, that it was Mr. Vallée's duty to know of its existence, and that he failed miserably in that regard.
+[35]
+Mr. Vallée called two witnesses on this point, Jacques Soucy, another fishing boat captain, and Carol Fournier, an agent with the Department of Fisheries and Oceans. Both were unaware of the existence of the Sunoque I.
+[36]
+Mr. Soucy is a licensed captain and had taken a navigation course. He certainly should have known better.
+[37]
+Mr. Fournier is not a navigator but was often out on the waters in Zone 17. When he was on Coast Guard vessels, he noticed that they had charts and publications on the bridge. He did not notice such things on smaller fishing vessels. He sometimes navigated small crafts himself. There was an electronic chart onboard, but he kept it at such a scale that he was not aware of the cable. After learning of the incident, he changed the scale and realized the cable was marked.
+[38]
+If these witnesses were called to establish a custom that one might be forgiven for not knowing the law, or for failure to follow the law, it failed. As stated by Lord Atkins in
+ <FRAGMENT_SUPPRESSED>  (HL) at page 479:
+The fact is that there is not and never has been a presumption that every one knows the law. There is the rule that ignorance of the law does not excuse, a maxim of very different scope and application.
+RÉAL VALLÉE AND THE CABLE
+[39]
+Mr. Vallée was 57 years of age when this incident occurred. He had been fishing since he was 15. He has had no formal training as a fisherman or as a navigator, and none was required at the time, although the regulations have since been changed. Having tried his hand at several types of fishing, over the past several years he has fished for snow crab and occasionally for whelk. Although the season may vary, in recent years snow crab fishing in Zone 17 has been allowed from April through June. Each fisherman finds his favourite spot and lays out several strings of about 10 crab cages each. He would leave Baie-Comeau in the morning, navigate by eye to his cages, haul them out, unload the catch and return to Baie-Comeau at night. He used his plotter simply to mark his fishing spots and Baie-Comeau. He knew buoys were replaced seasonally and knew the tides. He was aware of the areas in which he could only navigate at high tide. It must be borne in mind that the
+Realice
+only draws some four and a half to five feet (or 13.716 to 15.24 decimetres).
+[40]
+He had been fishing in the same general area within Zone 17 since at least 2002, and on a number of occasions hooked his anchors. Until 2005, he always managed to free them, and never once brought whatever was interfering with them to the surface. He testified, as did Mr. Soucy, that there are all kinds of debris on the river bottom such as crab cages which have been lost, ship lines, anchors and other items which have been abandoned. In 2005, however, he managed to pull up the Sunoque I. He did not know what it was but managed to free his anchor. After the fishing season, he was visiting Église Saint-George, a deconsecrated church in Baie-Comeau, which is now a museum. He saw there a chart with a line drawn across the river in the area where he usually fished. The word "abandonné" was written thereon by hand. Without giving it a second thought, he concluded that this was what he was hooking with his anchor. He only glanced at it for a matter of seconds and cannot recall whether it was a marine chart, a topographical chart, or indeed what type of map it was at all.
+[41]
+The next year, he again hooked an anchor on the Sunoque I. This time he was able to haul it out of the water and secure it on deck. He made no effort to free it. He deliberately cut the cable in two with an electric saw. A few days later the same thing happened. This time it was much easier to haul the cable out, and he cut it again.
+[42]
+Some weeks later, after the fishing season, while on the dock at Baie-Comeau he noticed a strange looking ship in the area where he usually fished. Later, he saw a photo of the ship in the local newspaper. The accompanying article stated that the cable had been deliberately cut and a search was on for the culprit.
+[43]
+Mortified at what he had done, he consulted a lawyer, notified his underwriters, who promptly denied coverage, and made a voluntary statement to the police. He was later charged with committing mischief by wilfully damaging property, the value of which exceeded $5,000. He was acquitted.
+[44]
+The
+Realice
+was arrested by the plaintiffs, and remains under arrest as bail was never posted. Telus had brought on a motion to have the ship sold, which motion was adjourned sine die as the defendants undertook to maintain the vessel so that she would not become a wasting asset, and it was so ordered.
+[45]
+In the meantime, Mr. Vallée continues to fish. He has chartered a fishing vessel from his nephew. As he does not know how to update charts, he buys a fresh up-to-date chart every year and then follows radio messages during the fishing season. He could have easily have done this previously. He regularly had to bring in life rafts for servicing and to renew fishing gear. The shops in question all sold marine charts.
+THE CAUSE OF THE LOSS
+[46]
+According to Francis Bacon,
+Collection of Some Principal Rules and Maxims of the Common Law
+(1630):
+If it were infinite for the law to consider the causes of causes, and their impulsions one of another; therefore it contenteth itself with the immediate cause, and judgeth of acts by that, without looking into any further degree.
+[47]
+The cause of the loss was not lack of notice on Telus' part. The cause of loss was not the fact that the cable was not buried. The cause of loss was not that the cable was hooked by a snow crab anchor. The loss was caused because Mr. Vallée intentionally and deliberately cut the cable in two with an electric saw.
+LIABILITY OF THE DEFENDANTS
+[48]
+This case falls to be determined by Canadian maritime law. That law includes the English common law of negligence as applied in the English admiralty courts before 1934 (
+ <FRAGMENT_SUPPRESSED> ).
+[49]
+Mr. Vallée owed a duty of care to the plaintiffs. He was in breach thereof, and so is liable for the resulting damage. The meaning of the duty of care was beautifully laid down by Lord Atkin in
+ <FRAGMENT_SUPPRESSED>  at page 580:
+The rule that you are to love your neighbour becomes in law, you must not injure your neighbour; and the lawyer's question, Who is my neighbour? receives a restricted reply. [...] Who, then, in law is my neighbour? The answer seems to be - persons who are so closely and directly affected by my act that I ought reasonably to have them in contemplation as being so affected when I am directing my mind to the acts or omissions which are called in question.
+Mr. Vallée's neighbours were both on and below the water line.
+[50]
+The owner of the
+Realice
+, Peracomo Inc., is liable for Mr. Vallée's actions, not only vicariously, but also personally. Peracomo Inc. is a one-man company. Mr. Vallée was its directing mind or
+alter ego
+(
+ <FRAGMENT_SUPPRESSED> , 19 DLR (4th) 314). His act or omission is the corporation's act or omission.
+[51]
+The ship is also liable in rem as this is a claim in virtue of Canadian maritime law in accordance with section 22 of the
+Federal Courts Act
+. More specifically, this is a claim for damage caused by a ship within the meaning of section 22(2)(d) as Mr. Vallée's act was in the management, or the mismanagement, of the ship.
+[52]
+The plaintiffs invite me to declare that they enjoy a maritime lien over the ship. This is based on a reading of sections 22 and 43 of the
+Federal Courts Act
+. A claim in rem for damage caused by a ship survives even if the ship be sold before proceedings are instituted. Although collision damage carries with it a maritime lien, there is no need for me to make any such finding in this case. Ownership of the
+Realice
+has never changed. Indeed, the Certificate of Registry, filed as an exhibit, which was issued some three years ago, indicates she is under mortgage. The status of that mortgage, if it still exists, was not discussed in court. However, should the ship have to be sold in execution of judgement, a priorities contest might ensue as a maritime lien outranks a mortgage, and a mortgage outranks an ordinary action in rem. Any holding on my part would be ex parte and not binding on the mortgage creditor.
+[53]
+I find there was no contributory negligence on the part of Telus. Although it is unfortunate that notice was not given to the president of Zone 17, and even assuming that he, in turn, would have informed Mr. Vallée of the cable's existence, the failure to inform the
+Association des pêcheurs de crabe de la zone 17
+was not causative.
+[54]
+It was submitted that Telus deliberately ran a risk, in that the statistics in the reports given it indicated that such cables are torn up once every 19.5 years. That may well be true. However, the cable was not parted by a dragging anchor. The statistics did not contemplate that the cable would be deliberately cut in two with an electric saw.
+DAMAGES
+[55]
+The defendants rightly did not contest Bell's claim, even though it might be considered as a claim in tort for pure economic loss. It was in a common venture with Telus and Hydro Québec and so falls well within the exceptions to the remoteness rule discussed in
+ <FRAGMENT_SUPPRESSED> .
+[56]
+Under its contract with Hydro Québec and Bell, Telus was entitled to charge an administration fee of 15 percent on all repairs. The claim, as finalized, is for only 10 percent. The plaintiffs, of course, are not entitled to recover a contractual administrative charge as such. They are, however, entitled to recover reasonable overhead. Nevertheless, since the purpose of damages is to put the aggrieved person in the position he would have been in, a profit is not permitted (
+ <FRAGMENT_SUPPRESSED>  (Québec CA); and
+ <FRAGMENT_SUPPRESSED>  (QL)).
+[57]
+Expenses in the nature of superintendence and overhead are natural consequences of a loss. Although he had not made the claim calculations himself, Telus' vice-president, Gaétan Rousseau, was well-aware of the work which was done monitoring and testing the cable during the course of repairs. I am satisfied that a mark up of 10 percent is more than reasonable. As Lord Justice Winn said in
+ <FRAGMENT_SUPPRESSED>  already sufficient evidentiary material available to enable this court to make a jury assessment in round figures. It would be wrong and indeed an intolerable expenditure of judicial time and money of the parties to embark on any detailed consideration of isolated items in the account on which a balance must be struck.
+LIMITATION OF LIABILITY
+[58]
+As stated above, the defendants are entitled to limit their liability to the principal amount of $500,000, unless the plaintiffs prove, the burden being on them, that the loss resulted from their "personal act or omission committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result", the whole in accordance with article 4 of the 1976 Limitation Convention and the 1996 Protocol.
+[59]
+The privilege of limiting liability derives from statute. Although one can readily understand the policy behind limiting the liability of those engaged in commercial shipping and aviation, the language is such that the owners and operators of pleasure craft may also limit liability (
+ <FRAGMENT_SUPPRESSED> ). Both Peracomo as owner of the
+Realice
+and Mr. Vallée, the master, are eligible to limit liability, since both shipowners and persons for whose act, neglect or default the shipowner is responsible are eligible to limit in accordance with article 1 of the Convention. That limitation extends to an action
+in rem
+against the ship herself.
+[60]
+For many years, both in Canada and elsewhere, the right to limit was based upon the
+International Convention relating to the Limitation of the Liability of Owners of Sea-Going Ships, 1957
+or its predecessors. As set forth in sections 575 and following of the
+Canada Shipping Act
+, RSC 1985, c S-9, now repealed, shipowners and others were entitled to limit liability with respect to events occurring without their "actual fault or privity," "faute ou complicité réelle." If those sections of the
+Canada Shipping Act
+were still in force today, the limitation fund would be just over $30,000.00.
+[61]
+It is common knowledge that the 1976 Limitation Convention reflects a trade-off: higher limits, but which are more difficult to break. Furthermore, the burden is now on the claimant, not the shipowner.
+[62]
+As far as counsel and the Court are aware, this is the first time article 4 of the 1976 Limitation Convention has come up for decision in Canada. Thus it is important to put the article in context, keeping in mind that this is an international convention drawn up in several languages. As stated by Lord Macmillan in
+ <FRAGMENT_SUPPRESSED>  at page 350, in speaking of the
+Hague Rules
+:
+It is important to remember that the Act of 1924 was the outcome of an International Conference and that the rules in the Schedule have an international currency. As these rules must come under the consideration of foreign Courts it is desirable in the interests of uniformity that their interpretation should not be rigidly controlled by domestic precedents of antecedent date, but rather that the language of the rules should be construed on broad principles of general acceptation.
+[63]
+Under the 1957 Convention, as incorporated into Canadian law, "actual fault or privity" to use the words of Mr. Justice Iacobucci in
+ <FRAGMENT_SUPPRESSED> , at paragraph 25 "were found to denote something personal and blameworthy to a shipowner as opposed to a constructive fault rising from the doctrine of
+respondeat superior
+." Nowadays it is not enough that there be something personal and blameworthy, there must also be an intention to cause such loss or reckless conduct with knowledge that such loss would probably result.
+[64]
+Article 4 of the 1976 Limitation Convention is both similar to and differs in language from other conventions also annexed as schedules to the
+Marine Liability Act
+. It speaks to "such loss/tel dommage."
+[65]
+In the
+Athens Convention relating to the Carriage of Passengers and their Luggage by Sea
+, 1974, as amended, Schedule 2 of the
+Marine Liability Act
+, the carrier is not entitled to limit liability "if it is proved that the damage resulted from an act or omission of the carrier done with the intent to cause such damage, or recklessly and with knowledge that such damage would probably result." ("ces dommages")
+[66]
+Under the
+Hague-Visby Rules
+, Schedule 3, which limit liability with respect to cargo carried by sea under a bill of lading, liability is lost "if it proved that the damage resulted from an act or omission of the carrier done with intent to cause damage, or recklessly and with knowledge that damage would probably result." ("un dommage")
+[67]
+Under the
+Hamburg Rules
+, Schedule 4, which have been enacted in Canada but not proclaimed in force, liability is lost "if it is proved that the loss, damage or delay in delivery resulted from an act or omission of the carrier done with the intent to cause such loss, damage or delay, or recklessly and with knowledge that such loss, damage, or delay would probably result." ("cette perte, ce dommage ou ce retard")
+[68]
+Under the
+International Convention on Civil Liability for Oil Pollution Damage
+, 1992, as amended, Schedule 5, no claim may be made against the shipowner other than in accordance with the Convention "unless the damage resulted from their personal act or omission, committed with the intent to cause such damage, or recklessly and with knowledge that such damage would probably result." ("un tel dommage")
+[69]
+The
+Carriage by Air Act
+implements the
+Convention for the Unification of Certain Rules Relating to International Carriage by Air
+(Warsaw, 1929), as amended by the Hague Protocol of 1955. Under the original Convention the right to limit was lost by "wilful misconduct." Now that right is lost "if it is proved that the damage resulted from an act or omission of the carrier, his servants or agents, done with intent to cause damage or recklessly and with knowledge that damage would probably result." ("le dommage")
+[70]
+As can be noted, the Conventions are not entirely consistent in their use of language. The 1976 Convention refers to "loss" in English and "dommage" in French, while the Athens Convention speaks of "damage" in English and "dommages" in French. The Hamburg Rules deal with "loss, damage, or delay." In that context one can certainly distinguish between loss and damage. "Loss" would mean that the cargo was not delivered at all while "damage" means the cargo was delivered in a damaged condition. I am satisfied that "loss" in the 1976 Convention certainly includes physical damage.
+[71]
+However it is not enough that there be a "loss" ("dommage") at large. Restrictions apply.
+[72]
+Telus naturally argued that the defendants were not entitled to limit. The defendants were of the view that they were not liable at all, a position which I have rejected. The third party underwriters who refused to take up the defendants' defence could not very well argue that the defendants were not liable. If they took that position, they would run the risk of being found in breach of their obligation to defend. However to hedge their position they argued that the defendants were entitled to limit their liability.
+[73]
+Although article 4 of the 1976 Limitation Convention has not been previously considered in Canada, it has in both England and in France. A number of English cases, as well as a French one, are referred to in Griggs, Williams and Farr,
+Limitation of Liability for Maritime Claims
+, 4th ed, (London: Lloyd's of London Press, 2005).
+[74]
+I must say that I did not find the decisions of the French courts in
+The
+Heidberg
+, both in first instance (1993 DMF 731 (Tribunal de Commerce de Bordeaux)) and in appeal (2005 DMF 839 (Cour d'appel de Bordeaux (2e Ch.)) helpful. Neither analyzed the actual language of the Convention. They were of the view that the shipowner had deliberately undermanned the ship as a cost-saving measure, for commercial gain, and so had committed a "faute lourde, grave, impardonable." Certainly Mr. Vallée committed a "faute lourde" but as the language of the Convention dictates and the English cases show, something more is required. However, the English cases must also be approached with caution as they deal with reckless conduct, not intentional conduct. In this case Mr. Vallée intended to cut the cable.
+[75]
+He did not think there would be much, if any, damage because he thought the cable was useless. The situation is akin to battery. One might push another out of the way not intending to cause harm. The person might slip and fall and become seriously injured or die. In that case, the loss arose from a personal act or omission with the intent to cause the battery, even though the consequences were not intended.
+[76]
+Unlike in an ordinary negligence action, in order to succeed under Article 4 of the 1976 Convention, the plaintiff must prove that the defendant's personal act or omission was committed either
+a. with intent to cause such loss; or
+b. recklessly and with knowledge that such loss would probably result.
+[77]
+The personal act or omission of both Mr. Vallée and Peracomo, as Mr. Vallée is its alter-ego, has clearly been established, as has been their intentional act. It also appears to me that "such loss" was caused intentionally. The loss is the diminution in value of the cable, not the cost of repair. Telus was under no obligation to repair the cable, but was under an obligation to mitigate its damages, which it did by effecting repairs, by putting the cable back together. Mr. Vallée intended the very damage, he just didn't think the cable would be repaired because he thought it had no value. Although probably not relevant, no claim for loss of use has been advanced, should it have been open to the defendants to allege that although they intentionally cut the cable they did not intend to disrupt telecommunication service.
+[78]
+However should I be wrong with respect to the intention requirement, I turn now to reckless conduct.
+[79]
+The underwriters, and through them the defendants, rely upon the decision of Mr. Justice Steel in
+ <FRAGMENT_SUPPRESSED>  [t]he authorities make it plain that, absent, as in the present case, any allegation of intent, the person challenging the right to limit must establish both reckless conduct
+and
+knowledge that the relevant loss would probably result.
+[80]
+In his opinion knowledge meant actual knowledge, not constructive knowledge. He relied upon the decision of the English Court of Appeal in
+ <FRAGMENT_SUPPRESSED> , which dealt with the Warsaw Convention and Protocol. In <FRAGMENT_SUPPRESSED> , Lord Justice Eveleigh said at page 1194:
+I appreciate that, when introducing an English version to coincide with a French text, there is naturally an inclination to follow the pattern of that text and where possible to avoid a free translation. Even so, I cannot believe that lawyers who intended to convey the meaning of the well-known phrase "when he knew or ought to have known" would have adopted "with knowledge."
+[81]
+Mr. Justice Steel also relied on another Warsaw Convention case heard by the English Court of Appeal,
+Nugent and  <FRAGMENT_SUPPRESSED>  not accept the distinction that he seeks to draw between imputed knowledge and background knowledge, the latter, but not the former, counting as actual knowledge for the purpose. Putting the two notions into separate compartments is difficult both logically and in a factual application to the exercise of determining a man's state of mind. [...] In my judgment, the additional ingredient is actual knowledge, in the sense of appreciation or awareness at the time of the conduct in question, that it will probably result in the type of damage cause. Nothing less will do.
+In the same decision, Lord Justice Pill was somewhat more nuanced but was of the view at page 231 that Article 25 "does not in my view permit the actor to say that his knowledge is no longer his knowledge because he has made a conscious decision to put it out of his mind." Thus in Mr. Justice Steel's view the "turning a blind eye" knowledge made famous by Lord Denning was no longer applicable.
+[82]
+ <FRAGMENT_SUPPRESSED>  171, the issue was whether a shipowner lost benefit of insurance under the UK
+Marine Insurance Act
+, 1906, on the basis that the ship was sent to sea in an unseaworthy state "with the privity of the assured." Lord Denning said at page 179:
+To disentitle the shipowner, he must, I think, have knowledge not only of the facts constituting the unseaworthiness but also knowledge that those facts rendered the ship unseaworthy, that is, not reasonably fit to encounter the ordinary perils of the sea. And, when I speak of knowledge, I mean not only positive knowledge but also the sort of knowledge expressed in the phrase "turning a blind eye". If a man, suspicious of the truth, turns a blind eye to it, and refrains from inquiry - so that he should not know it for certain - then he is to be regarded as knowing the truth. This "turning a blind eye" is far more blameworthy than mere negligence. Negligence in not knowing the truth is not equivalent to knowledge of it.
+[83]
+The 1976 Limitation Convention was written in the English, French, Russian and Spanish languages, each text being equally authentic. Keeping in mind Lord Macmillan's cautionary words  <FRAGMENT_SUPPRESSED> , Mango
+, above, I cannot agree that because the well-known English drafting phrase "knew or ought to have known" was not used, knowledge does not include "blind eye" knowledge. In this case, not only did Mr. Vallée not make himself aware of the dangers to navigation off Baie-Comeau, as was his duty, but he turned his eye to a chart of one sort or another, the details of which escape him other than that a line was drawn across the river accompanied by the word "abandoné." There is not, and there never was, such a marine chart.
+[84]
+If recklessness is in issue, and I think it is not, Mr. Vallée was reckless in the extreme.
+[85]
+Recklessness connotes a mental attitude or indifference to the existence of the risk ( <FRAGMENT_SUPPRESSED> and
+The Rosa M
+, above,
+Schiffahrtsgeseelschaft MS "Merkur Sky" mbH & Co. KG .v MS Leerort NTH Schiffahrts GmbH & Co. KG (The "Leerort")
+, [2001] 2 Lloyd's Rep 291, and
+Margolle and  <FRAGMENT_SUPPRESSED>  203).
+[86]
+"Such loss" was considered by the English Court of Appeal in
+The
+Leerort
+, above. Lord Phillips M.R. of Worth Matravers, M.R., pointed out that such loss refers to the loss that actually resulted and which is a subject matter of the claim. He said at page 295:
+It seems to me that where the loss in respect of which a claim is made resulted from a collision between ship A and ship B, the owners of ship A, or cargo in ship A, will only defeat the right to limit liability on the owner of ship B if they can prove that the owner of ship B intended that it should collide with ship A, or acted recklessly with the knowledge that it was likely to do so.
+The alternative, which is perhaps arguable, is that the claimant merely has to prove that the owner of ship B intended that his ship should collide with another ship, or acted recklessly with the knowledge that it was likely to do so.
+On the facts of this case it is not necessary to decide which alternative is correct. [...]
+[87]
+In this case, Mr. Vallée's act was reckless and no matter how fine a point one would put on "such loss" was committed with knowledge that the loss which actually occurred would likely result. In fact the loss was a certainty.
+[88]
+I find that the defendants are not entitled to limit liability.
+LIABILITY OF UNDERWRITERS
+[89]
+On this point, the plaintiffs and underwriters reversed roles. The plaintiffs, hopeful of collecting on their judgment, submit that there was no wilful misconduct of the insured within the meaning of section 53(2) of the
+Marine Insurance Act
+, while the underwriters submit that there was.
+[90]
+Although in
+The
+Eurythenses
+, above, Lord Denning was dealing with another section of the English Act which spoke of "privity," in my view his words are equally applicable to wilful misconduct. In my opinion there was wilful misconduct.
+[91]
+There is a considerable amount of Canadian jurisprudence conveniently set out in Strathy (now Mr. Justice) and Moore,
+The Law and Practice of Marine Insurance in Canada
+, (Markham: Lexis Nexis Butterworths, 2003) at page 108 and following. "Wilful misconduct" is more than mere negligence, as negligence is usually covered, and is covered in this policy. The learned authors state that the word "wilful" implies either a deliberate act intended to cause the harm, or such blind and uncaring conduct that one could say that the person was heedless of the consequences. One of the cases the authors cite and one which is often cited, is
+ <FRAGMENT_SUPPRESSED> , where Chief Justice Duff said at page 145:
+All these phrases, gross negligence, wilful misconduct, wanton misconduct, imply conduct in which, if there is not conscious wrong doing, there is a very marked departure from the standards by which responsible and competent people in charge of motor cars habitually govern themselves.
+[92]
+Mr. Vallée's conduct was in marked departure from the norm and so the assureds have lost benefit of the policy. The
+Marine Insurance Act
+, unlike other statutes, does not permit a third party to claim against an underwriter, an underwriter who is precluded from raising as a defence the conduct of the assured.
+INTEREST
+[93]
+In admiralty cases pre-judgment interest is actually an item of damages, and the Court has broad discretion (
+Federal Courts Act
+, section 36 (7)) and
+ <FRAGMENT_SUPPRESSED> .
+[94]
+All things being equal, interest runs at a commercial rate from the date of loss. As commercial rates have been low I grant simple interest at the annual rate of 5 percent as set out in the
+Interest Act
+. To simplify matters, I take the date of loss as being 27 July 2006, the date on which IT-International Telecom's repair invoices were settled. I am not prepared to award compound interest as requested by the plaintiffs as they have led no evidence that such interest is necessary for them to be fairly compensated (
+ <FRAGMENT_SUPPRESSED>  (QL)).
+COSTS
+[95]
+There is no reason why costs should not follow the event.
+[96]
+Both the plaintiffs and the third party are entitled to their costs from the defendants. Should any party wish to seek directions, rule 403 is available.
+LANGUAGE
+[97]
+These reasons and judgment are being made available simultaneously in both official languages in accordance with section 20(1)(a) of the
+Official Languages Act
+.
+JUDGMENT
+[98]
+FOR REASONS GIVEN;
+[99]
+THIS COURT'S JUDGMENT is that
+:
+1. The plaintiffs' action is maintained against the defendants jointly and severely in the principal amount of $980,433.54;
+2. Together with pre-judgment interest thereon from 27 July 2006 in the amount of $232,886.53 and post-judgment interest calculated from 27 April 2011 at the rate of 5% per annum on the sum of $1,213,320.07.
+3. The defendants' third party action is dismissed.
+4. With costs in favour of the plaintiffs and the third party against the defendants.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/vnh

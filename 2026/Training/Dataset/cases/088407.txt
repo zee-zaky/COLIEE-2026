@@ -1,0 +1,649 @@
+[1]
+Barnes, J.
+: This is an application by AstraZeneca AB, AB Hassle and AstraZeneca Canada Inc. seeking an order of prohibition under the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133 to prevent the Respondent, the Minister of Health (Minister), from issuing a Notice of Compliance (NOC) to the Respondent, Apotex Inc. (Apotex), for the production of omeprazole for use in a combination therapy to treat Helicobacter pylori (Hp) infections. As can be seen from the following citations, this proceeding is one of a long line of Canadian cases which have considered omeprazole patents: see, for example,
+ <FRAGMENT_SUPPRESSED>  affg. (2005), 271 F.T.R. 30; 38 C.P.R.(4th) 216 ( <FRAGMENT_SUPPRESSED>  affg. (2004), 254 F.T.R. 250; 34 C.P.R.(4th) 450; 2004 FC 647;
+ <FRAGMENT_SUPPRESSED>  revg. (2004), 263 F.T.R. 161; 36 C.P.R.(4th) 519; 2004 FC 1277, revd. (2006), 354 N.R. 88; 52 C.P.R.(4th) 145; 2006 SCC 49;
+ <FRAGMENT_SUPPRESSED>  affg. (2004), 245 F.T.R. 196; 33 C.P.R.(4th) 125; 2004 FC 44;
+ <FRAGMENT_SUPPRESSED>  affg. (2004), 259 F.T.R. 294; 36 C.P.R.(4th) 141; 2004 FC 1278, leave to appeal to S.C.C. refused [2005] S.C.C.A. No. 255;
+ <FRAGMENT_SUPPRESSED> ; 312 N.R. 288 (F.C.A.), affg. (2002), 223 F.T.R. 43; 21 C.P.R.(4th) 173 (F.C.), leave to appeal to S.C.C. refused March 25, 2004, S.C.C. Bulletin, 2004, page 471;
+ <FRAGMENT_SUPPRESSED>  affg. (2001), 213 F.T.R. 161; 16 C.P.R.(4th) 21; 2001 FCT 1264, leave to appeal to S.C.C. refused [2002] S.C.C.A. No. 531; 313 N.R. 199.
+[2]
+The Applicants (collectively referred to hereafter as AstraZeneca) are the owners of Canadian Patents 2,025,668 ('668) and 2,133,762 ('762). This proceeding was commenced by AstraZeneca in response to a Notice of Allegation (NOA) from Apotex dated February 8, 2005. Apotex's NOA alleged both non-infringement and invalidity with the respect to the '668 and '762 patents. Its position is summarized in the following passages from its Memorandum of Fact and Law:
+"5. Apotex has already obtained an NOC to market and sell its Apo-omeprazole capsules for non-Hp indications, namely, to treat ulcers by simply suppressing gastric acid and therefore heal the ulcer, rather than killing the bacteria that cause the ulcer. Apotex now seeks approval to sell its omeprazole capsules as part of the triple therapy regimen currently approved by Health Canada for the eradication of
+Hp
+. This triple therapy regimen consists of a combination of the acid suppressant omeprazole and two antibiotics, namely, clarithromycin and either amoxicillin or metronidazole. Omeprazole alone is approved by Health Canada to treat an ulcer (by healing the ulcer), but is not approved as a single therapy to eradicate the bacteria.
+"6. Apotex filed a Notice of Allegation ('NOA') dated February 8, 2005, in which Apotex alleged that, with respect to the '668 Patent, its Apo-omeprazole capsules will not infringe any of its claims, since its capsules will not be marketed or include an indication for the eradication of
+Hp
+by the use of omeprazole alone as a single drug therapy (rather than as a multiple drug therapy). The NOA further alleged invalidity of the '668 Patent on the basis of anticipation, inutility, no sound basis to predict and ambiguity. With respect to the '762 Patent, Apotex alleged that its Apo-omeprazole capsules will not infringe certain claims thereof since Apotex's triple therapy regimen includes the use of omeprazole as an acid suppressant, clarithromycin as an acid degradable antibacterial, and an antibacterial compound that is other than an acid degradable antibacterial compound, namely, amoxicillin or metronidazole. Further, the Apotex NOA alleged invalidity of the '762 Patent on the bases of anticipation, ambiguity, obviousness, inutility, lack of sound prediction and on the basis of s. 53(1) of the
+Patent Act
+. In response, Astra initiated the within proceeding."
+Issues
+[3]
+The parties have raised numerous issues of construction and validity but in view of my findings that the '668 Patent is invalid on the ground of anticipation and that the '762 Patent is invalid on the grounds of anticipation and obviousness it is unnecessary to deal with several additional allegations of invalidity raised by Apotex. The issues which I have resolved are the following:
+1. Is Apotex precluded from challenging the subject patents on the ground of abuse of process?
+2. What are the appropriate burdens of proof resting upon the parties and have they been met?
+3. Should the '668 Patent be construed as proposing the use of omeprazole as a single or multiple drug therapy?
+4. Was the '668 Patent anticipated by prior art teachings and to what extent are those teachings citable?
+5. How should the term "bioavailability" be construed in the '762 Patent?
+6. Was the '762 Patent anticipated by prior art teachings and to what extent are those teachings citable?
+7. Is the '762 Patent invalid for obviousness?
+8. Is the '762 Patent eligible for inclusion on the Patent Register?
+9. Costs?
+Analysis
+Abuse of Process
+[4]
+As a preliminary matter, AstraZeneca contends that its application for an order of prohibition should be allowed because Apotex's prior judicial conduct constitutes an abuse of process which precludes any right to challenge the subject patents. It is, accordingly, necessary to deal with this issue before dealing with the substantive issues of non-infringement and invalidity.
+[5]
+AstraZeneca's argument is based on the prior history of litigation between these parties regarding the same patents that are the subject of this application. AstraZeneca argues that Apotex should not be permitted to litigate new issues of non-infringement and invalidity in this proceeding which it could have raised in those earlier proceedings. It says that the substantive issues raised by this application are necessarily bound up in the prior allegation of non-infringement and, by implication, the failure by Apotex in the earlier proceedings to mount a comprehensive challenge to the subject patents constitutes an acceptance of their validity.
+[6]
+While there are certainly situations where subsequent litigation or re-litigation in this type of proceeding may be an abuse of process, that principle does not arise in the circumstances of this case. Indeed, there is nothing about the conduct of Apotex in the advancement of its legal interests either in this proceeding or in the earlier proceedings which can be fairly impugned.
+[7]
+In the two earlier proceedings, Apotex alleged only that it would not infringe either of AstraZeneca's patents because Apotex would not market or sell its omeprazole product to treat Hp infections or as part of a combination treatment regimen: see
+ <FRAGMENT_SUPPRESSED>  C.P.R. 4th) 21 (T.D.), affd. (2002), 298 N.R. 323; 22 C.P.R.(4th) 1 (F.C.A.) (
+AB Hassle #1
+) and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 97 (F.C.) (
+AstraZeneca AB
+). At that earlier point, Apotex was content to enter the market in a limited way solely for the provision of omeprazole as an anti-acid therapy - that being an old and permitted use for the medicine. Apotex did not attempt to challenge the validity of either patent or to mount an argument of non-infringement based on contested points of patent construction. Instead, it simply advised AstraZeneca that what it intended to do would not infringe either of its patents. AstraZeneca then opposed the issuance of a NOC to Apotex based on an argument that infringement by third parties would necessarily occur if Apotex entered the omeprazole market even in a limited and ostensibly permissible way. In an appeal from the decision in
+AB Hassle #1
+Justice Edgar Sexton upheld the finding of non-infringement of the '668 Patent. He also noted the limited scope of that patent and Apotex's narrow claim to the use of omeprazole in the following passages at paras. 6 and 7:
+"[6] Omeprazole was a known or existing compound. The patent held by Hassle only relates to the new use of omeprazole. Therefore, the '668 patent only reserves exclusive rights to omeprazole that are somehow related to the treatment of Campylobacter infections; it does not contain any claims for the compound omeprazole itself.
+"[7] The Appellants received Apotex' Notice of Allegation ('NOA') in a letter dated October 4, 1999. The NOA stated in part:
+'With respect to patent 2025668, we allege that no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by us of capsules for oral administration containing omeprazole in strengths 10 mg, 20 mg, and 40 mg.
+'The legal and factual basis for the aforesaid allegation is as follows:
+"The claims of this patent relate to the use and treatment of Campylobacter infections. Our product will not be made, used or sold for the treatment of Campylobacter infections and, more particularly, we are not seeking approval for such use and no such use will be included in our product monograph."'"
+The Court went on to hold that, absent inducement, the likelihood of third party downstream patent infringement (by patients, physicians and pharmacists) was not a legal basis for claiming infringement by Apotex of a new use patent. Such a claim, the Court held, would allow the patent holder to control not only the new uses for an old, unprotected compound but also the compound itself (see para. 57).
+[8]
+The same result was obtained  <FRAGMENT_SUPPRESSED>  AB
+, above, where the subject of the proceeding was the '762 Patent and where AstraZeneca similarly challenged Apotex's allegation of non-infringement. In finding for Apotex, Justice John O'Keefe defined the issue before him as follows:
+"[74] AstraZeneca can only succeed on the facts of this case, if the references to concomitant use, increases in bioavailability and the other impugned product monograph references (pp. 16 and 17) establish that Apotex is seeking approval to make use of Apo-Omeprazole concomitantly with antibiotic substances to increase bioavailability, that is to use Apo-Omeprazole with an antibiotic such as clarithromycin to achieve better treatment."
+[9]
+Justice O'Keefe then concluded by finding that the use sought to be approved by Apotex was limited to the old approved use for reducing gastric acid secretion and, in the result, AstraZeneca had failed to establish infringement of the '762 Patent.
+[10]
+When considered in the context of the above judicial history, AstraZeneca's complaint about abuse of process is incongruous. Its arguments that Apotex was "lying in the weeds" and had, by serving a new NOA, "conveniently" retracted its earlier position of non-infringement are also unmeritorious.
+[11]
+There is nothing inherently objectionable about a generic manufacturer attempting to move into the market with a product that is no longer protected by a patent. Apotex was entitled to limit the scope of its allegations to an issue of non-infringement so long as it was prepared to accept the commercial trade-off of gaining only a partial entry to the marketplace for omeprazole. The other obvious disadvantage to Apotex by adopting a two-stage approach for the use of omeprazole is that it subjected itself to the burden of two separate statutory stays for the issuance of a NOC.
+[12]
+The complaint by AstraZeneca that Apotex's incremental challenge to its patents is somewhat wasteful of judicial resources ignores the fact that AstraZeneca was the unsuccessful instigator of the previous litigation. AstraZeneca had the option of allowing a NOC to be issued to Apotex for its limited use claim. By not getting out of the way, AstraZeneca obtained the benefit of a 2-year, and arguably unjustified, stay of the issuance of a NOC to Apotex. That may well have been an acceptable litigation strategy but AstraZeneca cannot then use its own unmeritorious challenge as the foundation for an abuse of process argument alleging juridical inefficiency.
+[13]
+This is not a situation where Apotex was attempting to split its case around an issue of patent validity or to avoid some earlier unfavourable judicial disposition by bringing new allegations forward. There are situations where a party is expected to put its best and strongest case forward in the first instance and where subsequent litigation will not be permitted. A good example of this can be found in
+ <FRAGMENT_SUPPRESSED>  affd. (2006), 350 N.R. 219; 47 C.P.R.(4th) 329; 2006 FCA 51 (
+AB Hassle #2
+) - a decision heavily relied upon here by AstraZeneca. The circumstances there, however, were markedly distinct from the facts of this case. There, Apotex was attempting to re-litigate a point which had been determined in an earlier proceeding. Justice Carolyn Layden-Stevenson described the nature of the problem before her as follows:
+"[80] It seems to me that Apotex's submission begs the question. It did, in the previous proceeding, allege non-infringement. Thus, it put the issue of 'infringement' into play. It does not advance any explanation for its failure to put its best foot forward in the previous proceeding. To accept its submission, in my view, is tantamount to allowing it to split its case. It enables Apotex to test the waters on the construction of the patent and then, if unsuccessful (as it was), to [page 244] recast its case and get a second bite at the cherry. While I would not go so far as to say (using the words of Mr. Justice Evans in
+P & G
+, supra), that Apotex has hidden in the weeds, holding back a defence for use in subsequent litigation, it certainly put all its eggs in one basket. This omission is not of a procedural or technical nature; it is substantive. Apotex has not persuaded me that the conditions for issue estoppel have not been met regarding the issue of 'infringement'."
+Justice Layden-Stevenson went on to say that by limiting its allegations in the first proceeding, Apotex was implicitly accepting the validity of the patent and was, therefore, estopped from subsequently asserting invalidity.
+[14]
+On appeal, Justice Karen Sharlow upheld the abuse of process finding but did so with a caveat that it was justified "in the particular circumstances of this case". The Court went on to observe that there will be situations where a generic manufacturer will be allowed to submit more than one NOA in relation to a certain patent in respect to the same generic product (see para. 24) and some examples were noted (see para. 25).
+[15]
+In the recent decision in
+ <FRAGMENT_SUPPRESSED> ; (2007), 362 N.R. 91; 2007 FCA 140, affing. (2006), 289 F.T.R. 139; 2006 FC 341, the Federal Court of Appeal closely examined many of the previous authorities which had considered issue estoppel and abuse of process in the context of multiple NOA proceedings. There the Court upheld the decision of Justice O'Keefe where he had applied issue estoppel to bar the generic manufacturer from advancing a second NOA which brought forward new allegations of patent invalidity. On appeal, Justice Sexton held that multiple NOA's from the generic manufacturer concerning the same product and alleging invalidity of a particular patent will generally not be permitted even where different grounds are advanced for establishing invalidity (see para. 41). However, the Court also recognized that there is a valid distinction to be made between cases which raise validity issues and those which allege only non-infringement. For example, in the context of a non-infringement NOA, the generic is entitled to raise new allegations based on new formulations of its proposed product. The Court summed up the distinction in the following passage at para. 47:
+"... As has already been explained, the situation of NOAs directed to non-infringement is distinguishable from the situation of NOAs directed to invalidity. Because infringement is a factual circumstance that varies depending on the formulation of the drug made by the generic and the process used by the generic for making the drug, among other things,
+multiple non-infringement NOAs may be permitted. Multiple NOAs alleging invalidity, on the other hand, will rarely be acceptable
+." (Emphasis added)
+[16]
+A case which is more closely comparable to this one is
+ <FRAGMENT_SUPPRESSED> . There, too, Apotex had initially alleged in a NOA that it would not infringe the subject patent. The only argument of invalidity made in the first proceeding was raised on a conditional basis in response to an anticipated counter-argument on a point of claim construction. That invalidity issue was not pursued by either party. When Apotex served a second NOA raising issues of invalidity due to anticipation, obviousness and double patenting, it was met with an abuse of process argument based on the conclusion reached in
+AB Hassle #2
+, above. While Justice Danièle Tremblay-Lamer observed that multiple challenges to a patent may not enhance the efficiency of the judicial system, she found that the regulatory scheme contemplates a sequential approach provided that the underlying legal and factual bases were separate and distinct (see para. 41). She also declined to accept that a generic challenger would be deemed to have accepted the validity of a patent by not putting validity in issue in the context of an earlier proceeding which raised only the issue of non-infringement (see para. 39). She rejected the abuse of process argument, in part, for the following reasons:
+"[47] Thus, Apotex was entitled to serve the second NOA because the second allegation is separate and distinct from the first one. While the first dealt with non-infringement, the second alleges that the patents are invalid based on anticipation, obviousness and double-patenting. The issue of invalidity of the '457 patent is therefore properly before this Court and does not give rise to the doctrine of abuse of process."
+While some of Justice Tremblay-Lamer's comments in <FRAGMENT_SUPPRESSED> , above, have been called into question by the Federal Court of Appeal decision in
+ <FRAGMENT_SUPPRESSED>  non-infringement and those which raise issues of validity was accepted by the Federal Court of Appeal in the following passage at para. 48:
+"[48] In addition, Pharmascience points to
+ <FRAGMENT_SUPPRESSED>  in which Tremblay-Lamer, J., refused to find a second NOA alleging invalidity of a patent to be an abuse of process on that basis that a previous NOA alleging non-infringement had proceeded to a decision. That case is of no assistance here, however, where both NOAs alleged invalidity."
+[17]
+I accept Justice Tremblay-Lamer's conclusion that a generic challenger should not be deemed to accept the validity of a patent by not putting that issue in play in the first instance, particularly where infringement is the only issue raised. In appropriate cases the abuse of process or issue estoppel doctrines are sufficient to deal with the problem without resorting to an evidentiary presumption of this sort.
+[18]
+Here, Apotex had a legitimate basis for limiting its initial allegations to a single issue of non-infringement. Presumably its commercial interest at that time was limited to a partial entry to the market and the subsequent litigation with AstraZeneca was joined on that basis. Such an approach did not prejudice AstraZeneca's competing commercial interests because it continued to enjoy a monopoly for the uses of omeprazole which were arguably protected by its new use patents. It has since had the benefit of a second statutory stay to prevent the issuance of a NOC to Apotex as a consequence of this proceeding. It has also offered no evidence of actual prejudice to its legal or commercial interests and, in the absence of established harm, its abuse of process argument must fail: see
+ <FRAGMENT_SUPPRESSED>  at para. 79.
+Burden of Proof
+[19]
+The parties spent considerable time debating the finer points of the burden of proof in this proceeding and each of them was able to marshal considerable authority in support of its position. Suffice it to say that the ultimate burden in this proceeding clearly rests upon AstraZeneca to disprove Apotex's allegation of invalidity on a balance of probabilities and it has failed to meet that burden. Although there continues to be some controversy around the intermediate burden resting on the second party challenger (see
+ <FRAGMENT_SUPPRESSED>  at paras. 9 and 10 and
+ <FRAGMENT_SUPPRESSED>  at paras. 109 and 110), I am satisfied that Apotex led sufficient evidence to rebut the presumption of validity on a balance of probabilities and that AstraZeneca, in turn, has failed to meet its burden of showing that the Apotex allegations of invalidity are unjustified.
+The '668 Patent Claims
+[20]
+The '668 Patent is titled "Use of Omeprazole as an Antimicrobial Agent". It claimed to be a new use patent based on the inventors' discovery that omeprazole had antimicrobial activity and could, therefore, be used effectively in the treatment of Hp. Omeprazole had been previously used in the treatment of ulcers caused by Hp but only because of its known anti-acid or antisecretory effects and it was understood that it was not a cure.
+[21]
+The '668 Patent contains the following three claims:
+(a) Use of omeprazole or a pharmaceutically acceptable salt thereof for the manufacture of a medicament for the treatment of
+Campylobacter
+(ie. Hp) infections.
+(b) Use of omeprazole or a pharmaceutically acceptable salt thereof for the treatment of
+Campylobacter
+infections.
+(c) A pharmaceutical preparation for use in the treatment of
+Campylobacter
+infections wherein the active ingredient is omeprazole or a pharmaceutically acceptable salt thereof.
+Construction of the '668 Patent
+[22]
+It is agreed by the parties that the '668 Patent must be construed as of its publication date on August 19, 1990. There is also no obvious disagreement about the general principles of patent construction, including the point that a patent must be construed before any issues of invalidity are addressed. With respect to all of the construction issues arising in this proceeding, I have applied the principles expressed by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  and in
+Free World Trust v. Électro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150; 2000 SCC 66; [2000] S.C.J. No. 67, which are fairly summarized by Justice Layden-Stevenson in
+ <FRAGMENT_SUPPRESSED> ; 223 F.T.R. 189; 2002 FCT 969, at paras. 30-34:
+"30 Claims construction is antecedent to consideration of both validity and infringement issues. Claims construction is a matter of law. Whether the [respondent's] activities fall within the scope of the monopoly is a question of fact. It is the claims that define the monopoly:
+ <FRAGMENT_SUPPRESSED>  patent monopoly to include a specification which sets out a correct and full disclosure of the invention. The disclosure is followed by a claim or claims stating distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege. It is the invention thus claimed to which the patentee receives the exclusive right, privilege and liberty of exploitation:
+Free World Trust v. Électro Santé Inc.
+(2000), 9 C.P.R.(4th) 168 (S.C.C.).
+"32 The disclosure is the quid provided by an inventor in exchange for the quo of a monopoly on the exploitation of the invention. It is important to know what is prohibited and where it is safe to go while the patent is still in existence. The public notice function is performed by the claims that conclude the specification. An inventor is not obliged to claim a monopoly on everything new, ingenious and useful disclosed in the specification. The usual rule is that what is not claimed is considered disclaimed:
+Whirlpool Corp.
+, supra.
+"33 There is a high economic cost attached to uncertainty and it is the proper policy of patent law to keep it to a minimum. Predictability is achieved by tying the patentee to its claims; fairness is achieved by interpreting those claims in an informed and purposive way. A purely literal application of the text of the claims would allow a person skilled in the art to make minor and inconsequential variations and appropriate the substance of the invention with a copycat while staying just outside of the monopoly. A broader interpretation risks conferring on the patentee the benefit of inventions that he had not in fact made but which could be deemed with hindsight to be equivalent to what in fact was invented. This would be unfair to the public and unfair to competitors:
+Free World Trust
+, supra.
+"34 In
+Free World Trust
+, supra, Binnie, J., identified the principles to be applied to resolve the tension between 'literal infringement' and 'substantive infringement' to achieve a fair and predictable result. The principles are:
+(a) The
+Patent Act
+promotes adherence to the language of the claims.
+(b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+(c) The claims language must, however, be read in an informed and purposive way.
+(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while other are non essential.
+(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non essential elements are substituted or omitted."
+[23]
+One of the construction issues raised by the parties is whether the '668 Patent should be read as relating to the use of omeprazole as a form of monotherapy to treat Hp or as a combination therapy to be used in conjunction with antibiotics.
+[24]
+Apotex alleged in its NOA that the '668 Patent should be construed as though it claimed only the use of omeprazole as a single drug therapy for the treatment of Hp infections. It then asserted that its proposed use of omeprazole would be in combination with antimicrobial medicines and, as such, there would be no infringement of any of the claims of the '668 Patent. If Apotex is correct on this issue, the resolution of its invalidity arguments becomes unnecessary.
+[25]
+It is clear enough that the Patent claims referenced above say nothing explicit about the use of omeprazole either as a single drug therapy or as a constituent part of a combination therapy program involving other medicines. Apotex says that, in the absence of any reference to the use of omeprazole in combination with other medicines, it should be assumed that what was intended by the inventors was the use of omeprazole alone to treat Hp infections. It says that this construction is supported by the language of the claims including the reference in claim 3 to "a pharmaceutical preparation for the use in the treatment of [Hp] infections wherein
+the
+active ingredient is [omeprazole]". If the claims were intended to cover the use of omeprazole in combination with other "active" medicaments, presumably the claims would have said so and, in the absence of clarity, the claims should be narrowly construed.
+[26]
+Apotex also relies upon the language of the patent disclosure which it says clarifies what the inventors intended. It points to references which seem to indicate that the inventors were claiming the use of omeprazole alone to treat Hp infections. Those references include assertions that omeprazole is particularly efficacious in the treatment of Hp infections and was "surprisingly" found to have "excellent antimicrobial activity". The only reference to other medications is a statement that commonly used antibiotics have been found to have "insufficient effect" in treating Hp infections. Apotex says that these statements are testimonials to the utility of omeprazole to treat Hp infections as a new gold standard or "wonder drug" for monotherapy use.
+[27]
+Apotex also relies upon several references in the disclosure to pharmaceutical preparations and dosages which contain no reference to the use of other active medicines in association with omeprazole, but only to inert substances.
+[28]
+On this issue, AstraZeneca relied upon the evidence of Dr. Richard Hunt, a professor of medicine at McMaster University in Hamilton, Ontario. He has taught gastroenterology at McMaster since 1982. Dr. Hunt expressed the view that because the '668 Patent contains no limitations on the use of omeprazole either alone or in combination with other medicines, it should be read without any limitation. In other words, all that the patent was claiming was that omeprazole had a beneficial antibacterial effect. According to Dr. Hunt, a person skilled in the art would know that omeprazole would need to be administered as part of a combination therapy because single drug therapy had been shown to be ineffective in most cases for eradicating Hp infections. Notwithstanding the promises contained in the patent disclosure of the supposed excellent antibacterial properties of omeprazole, it would still be seen as an adjunct to effective treatment and not, on its own, as a cure.
+[29]
+Apotex relied upon the evidence given by Dr. David Graham, a professor of medicine and molecular virology and microbiology at Baylor College of Medicine in Houston, Texas. Dr. Graham appears to agree with Dr. Hunt that omeprazole would not have been viewed in 1990 as being efficacious as a stand-alone treatment for Hp. In his affidavit at para. 30, he stated:
+"30. Additionally, as at August 10, 1990, the skilled reader would be aware that one would not obtain 'substantially the same result' when comparing omeprazole therapy to the multiple drug therapy. As stated above, omeprazole therapy was disclosed in the Unge Abstract as producing only transient reduction with no eradication, and my aforesaid 1989 publication entitled
+In Vivo Susceptibility of Campylobacter pylori
+(Exhibit F) disclosed
+H. pylori
+infection as being not susceptible to omeprazole. In contrast, the prior art taught that multiple drug therapy consisting of omeprazole and amoxicillin would result in eradication of the infection in some patients. As discussed further below, eradication of the infection was (and still is) viewed as being the only relevant outcome when treating
+H. pylori
+infection. As such, the skilled person would have understood that the use of a multiple drug therapy would have had a material change in the way the claimed invention worked."
+The above passage seems to indicate that although omeprazole might suppress the Hp bacteria, it was unlikely to eradicate the infection. Nevertheless, Dr. Graham stated elsewhere in his affidavit that the "skilled reader would understand the patent to be teaching that omeprazole was sufficient on its own to eradicate Hp". That statement not only seems to exceed the scope of Apotex's NOA which accepted that the term "treatment" in the '668 Patent could include a reduction in the level of infection, but it also contradicts what was known about omeprazole at the time.
+[30]
+The idea that treatment with omeprazole was known to be unlikely to eradicate Hp teaches away from a construction of the patent that limits its scope to single use therapy. In my view, the skilled person construing a pharmaceutical patent must bring to bear the accepted wisdom in the scientific art supported by the application of commercial commonsense. This point is made by the English Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at paras. 19-21, in the following passages:
+"[19] I do not accept this. Overshadowing everything is the fact that the skilled reader would know that the R,R-enantiomer was the form which had all or by far the preponderance of the pharmaceutical activity. He would expect the patentee to know that too. And he would know that the patent claim was drafted by someone who knew what its function was - to 'demarcate the invention' (per Lord Hoffmann in
+Kirin
+at p. 185). There simply is no rational basis for supposing that the patentee would want to exclude the pure enantiomer which he would have known was the substance which really mattered.
+"[20] Mr Waugh's suggestions as to why the patentee would want to limit the monopoly to the racemate simply do not stand up - they are merely reasons why he would want to cover the racemate too. True it is that 'a patent may, for one reason or another, claim less than it teaches or enables' (per Lord Hoffmann at p 186) but that is not a reason for interpreting the claim in the context of the patent in a way that no rational patentee would have intended.
+"[21] Lord Diplock said in the
+Antaios
+case [1985] AC 191, 201:
+'I take this opportunity of re-stating that if detailed and semantic analysis of words in a commercial contract is going to lead to a conclusion that flouts business commonsense, it must be made to yield to business commonsense'
+Lord Hoffmann made it clear in
+Kirin
+at 31 that this applies equally to the construction of patent claims. It applies here."
+[31]
+In this case, the better view was expressed by Dr. Hunt where he testified that the expectation of a skilled practitioner would be that effective Hp treatment would require the use of omeprazole in combination with other drugs and not on its own. This point was given both in his testimony and in his affidavit where he stated:
+"23. The term 'antimicrobial' would have been understood by a skilled person to refer to inhibitory activity against the bacterium, either bacteriostatic (inhibiting growth) or bacteriocidal (killing). 'Antimicrobial agent' would thus have been understood to include an agent capable of inhibiting or retarding the growth or multiplication of the bacterium. Therefore, I agree with Apotex' understanding that the term 'treatment' as used in the ‘668 patent claims includes reduction of infections.
+"24. I do not agree with Apotex, however that the claims are limited to either single drug or multiple drug therapy. As discussed above, the invention is predicated on the finding that omeprazole is useful as an antibacterial agent. Provided omeprazole is so used, alone or as part of multiple drug therapy directed to treating
+H. pylori
+infection, the skilled person would understand that use to be use of omeprazole in an antibacterial treatment of
+H. pylori
+. Further, the skilled person, as of August 10, 1990, having reviewed the entirety of the patent would also understand that the patent does not preclude the use of omeprazole in combination with another active ingredient, such as an antibiotic, to treat
+H. pylori
+. To the contrary, in this infection, it was understood from early experience that multiple drug therapy was necessary to achieve a higher eradication rate. For example, bismuth, metronidazole and tetracycline, three antibacterial agents, were used as a combination therapy for treating
+H. pylori
+."
+[32]
+There is no doubt that the problem of construing the '668 Patent presented by this case could have been avoided by one or two simple clarifying phrases. Nevertheless, it is open to being construed and I accept the position advanced by AstraZeneca, that is, that the patent is not limited to the use of omeprazole as a single drug therapy. It contemplates a use for omeprazole as an antibacterial agent in the treatment of Hp infections whether used in combination with other medicines or not. It is the intended use of the medicine as an antibacterial agent that is advanced by the patent and not whether it will be used alone or in combination. The fact that the patent disclosure statements indicated that omeprazole was found to be highly efficacious in the treatment of Hp does not lead logically to a conclusion that the invention was intended to be limited to monotherapy use. I accept, as well, that the patent does not promise eradication and should not construed as though it does.
+[33]
+On this point, I also find support in the decision by Justice Konrad von Finckenstein in
+ <FRAGMENT_SUPPRESSED> ; 304 F.T.R. 104; 2006 FC 1411, where a markedly similar issue of patent construction was raised and resolved as follows:
+"25 As to point b) I see nothing in either claim that imports a limitation that Lansoprazole has to be used alone. We know from
+Whirlpool
+, supra, as quoted in
+Biovail
+, supra, that:
+'The claim portion of the patent specification takes precedence over the disclosure portion in the sense that the disclosure is read to understand what was meant by a word in the claims "but not to enlarge or contract the scope of the claim as written and thus understood"' (
+Whirlpool
+, paragraph 52 [61]).
+"26 Thus, even if there was a limitation implicit or explicit in the disclosure, it could not be imported into the claims. Drugs often are not administered in a pure state but mixed with an excipient or other drugs and the use of such drugs would be highly restricted if the mention of a use of a drug would be read as implying it has to be used alone. Unless the use claimed specifically employs such words as 'alone' or 'not in conjunction with other compounds' it would be improper to read such a limitation into the claim ..."
+To the extent that Apotex's allegation of inutility was premised on its construction that the patent promised eradication of Hp as a result of the stand-alone use of omeprazole, that argument, too, must fail.
+The '668 Patent - Anticipation
+[34]
+On the issue of anticipation, I would adopt the test described by Justice Roger Hughes in
+ <FRAGMENT_SUPPRESSED> ; 2000 SCC 66 outlined the test for anticipation is in Canada. The Court said at paragraph 26:
+'...
+The legal question is whether the Solov'eva article contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, "the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill" ... In other words, was the information given by Solov'eva for [the] purpose of practical utility, equal to that given in the patents in suit"?: ... as was memorably put in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at p. 486:
+"
+A signpost, however clear, upon the road to the patentee's invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.
+"
+'
+The test for anticipation is difficult to meet:
+"
+One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention." [
+ <FRAGMENT_SUPPRESSED>  para. 19 (Lexis); [2006] 1 All. E.R. 685; [2006] RPC 10, has put the matter succinctly: there are two requirements for anticipation, enablement and disclosure.
+"107 The Defendant argues that the phrases 'purely by mechanical skill' and 'produce the claimed invention without the exercise of any inventive skill' mean that if an ordinary person skilled in the art could bring to bear on the publication the understanding of the day and routine techniques of the day, from which the invention as claimed would result, there is anticipation. This is not the correct interpretation of the test for anticipation as set out by the Supreme Court of Canada.
+"108 The Supreme Court test requires that the 'flag' be planted at the point of the claimed invention and that the direction as to how to arrive at that point must be so clear such that an ordinary person skilled in the art would in every case, without possibility of error, be led to that point. No such flag is planted and no such direction is given in either the '840 patent or the Daiichi publication. There is no anticipation of what is claimed in claim 4 of the Patent."
+[35]
+Apotex alleged in its NOA that each of the claims of the '668 Patent is invalid on the basis of anticipation. To support that allegation, it relied upon an abstract titled "Does Omeprazole, 40 mg o.m., Improve Antimicrobial Therapy Directed Towards Gastric
+Campylobacter pylori
+in Patients with Antral Gastritis?" (the Unge Abstract) published in November 1988 and the Application for Canadian Patent 1,330,759 (the '759 Application) filed in Canada on October 12, 1988.
+[36]
+With respect to the Unge Abstract, Apotex asserted that it anticipated both the use of omeprazole alone and in combination with other antibacterial medicines to treat Hp. It further alleged that the ‘759 Application anticipated the use of omeprazole as a combination therapy to treat Hp. AstraZeneca disputes that the Unge Abstract or the ‘759 Application anticipated the claims of the '668 Patent. With respect to the Unge Abstract, it says that the person skilled in the art would not have understood that omeprazole was being used by Unge as an antimicrobial agent to treat Hp. Such a person would have understood that Unge was investigating omeprazole only for its anti-acid properties.
+[37]
+AstraZeneca also discounts the value of the Unge study by describing it as a small pilot study with insignificant or inconclusive results.
+[38]
+AstraZeneca argues, in addition, that the Unge Abstract disclosed nothing about the usefulness of omeprazole as an antimicrobial agent and, thus, gave insufficient information to enable the skilled person to understand the invention.
+[39]
+With respect to the ‘759 Application, AstraZeneca argues that Apotex's NOA is insufficient to put it on notice that it intended to rely upon the Application document for the '759 Patent as anticipatory rather than the '759 Patent itself. It argues that this distinction is important because the '759 Patent was published in 1994, well after the relevant anticipation date in 1989 and is, therefore, not citable art. With respect to the substance of the ‘759 Application, AstraZeneca says that it did not anticipate the claims of the '668 Patent because it disclosed only the use of omeprazole as an acid suppressant for ulcer treatment and did not disclose any antimicrobial properties. The use of omeprazole in combination with other drugs to treat Hp will not, therefore, be an inevitable consequence of following the teaching of the '759 Application.
+The Unge Abstract
+[40]
+The Unge Abstract is quite brief and I have set it out below:
+"Does Omeprazole, 40 mg o.m., Improve Antimicrobial Therapy Directed Towards Gastric Campylobacter pylori in Patients with Antral Gastritis?
+"Gastric infections with
+Campylobacter pylori
+are difficult to eliminate with antibiotic therapy. This small double-blind pilot study was undertaken in order to investigate the effect of amoxicillin and pronounced inhibition of gastric acid secretion, against
+C. pylori
+and/or
+Campylobacter
+-like organisms (CLOs). A total of 24 patients were included in the study, all of whom were culture positive for
+C. pylori
+and/or CLO positive by histology within 2 weeks of start of treatment. The patients were randomly assigned to 14 days of treatment in one of three therapy groups: Group 1, omeprazole, 40 mg o.m., plus amoxicillin, 750 mg b.d. (9 patients); Group 2, omeprazole, 40 mg o.m. (8 patients); Group 3, amoxicillin, 750 mg b.d. (7 patients). Gastroscopy, with biopsy for culture and histology was performed pre-entry, after 2 weeks' treatment and 4 weeks after stopping therapy.
+"Immediately after treatment 7 (7/8), 1 (1/8) and 5 (5/7) patients were negative by culture and/or histology in treatment groups 1, 2 and 3 respectively. Four weeks after stopping treatment, 5 out of 8 patients in the group receiving omeprazole and amoxicillin in combination were still negative by culture and/or histology. Whereas, in the amoxicillin and the omeprazole groups, 1 (1/7) and zero (0/8) respectively, of the patients, were negative. Except for one patient (Group 1), withdrawn on Day 5 because of severe diarrhoea, only minor adverse events occurred. Thus, antibiotic treatment might be improved by effective inhibition of gastric acid secretion. Further and extended study appears to be justified."
+[41]
+Dr. Hunt was of the opinion that Unge was using omeprazole in his experiment as a control substance and not to assess its value as an antimicrobial agent. It was on this point that he sought to distinguish Unge. His evidence on this was as follows:
+"The objective of the study is to look at the effect of the two together [omeprazole and amoxicillin]. The other two arms are there as controls, not given with any expectation in the case of omeprazole that it would have any effect."
+[42]
+Whether Unge was expecting the outcome that he obtained is not, to my thinking, the issue. What is important is what Unge found and he clearly found that omeprazole had antibacterial properties when it was used on its own in patients with Hp. Unge's results established that omeprazole, when used on its own, had significant suppressant effects on Hp which, according to Dr. Hunt's affidavit, would fulfill his definition of an antimicrobial agent used in the treatment of Hp. At para. 23 of his affidavit, Dr. Hunt described the patent claims as follows:
+"23. The term 'antimicrobial' would have been understood by a skilled person to refer to inhibitory activity against the bacterium, either bacteriostatic (inhibiting growth) or bacteriocidal (killing). 'Antimicrobial agent' would thus have been understood to include an agent capable of inhibiting or retarding the growth or multiplication of the bacterium. Therefore, I agree with Apotex' understanding that the term 'treatment' as used in the '668 patent claims includes reduction of infections."
+[43]
+It is noteworthy that Dr. Hunt's affidavit focuses on Unge's longer term results of using omeprazole (after four weeks) and ignores the clear evidence of the short term suppression of Hp from omeprazole therapy. Those early results contradict Dr. Hunt's conclusion that a skilled person would read Unge as addressing only omeprazole's anti-acid properties.
+[44]
+On this point, I prefer the evidence of Dr. Graham which is summarized in the following passage from his affidavit:
+"66. As previously stated, a skilled person reading and following the directions of the Unge Abstract would be repeating Unge's work and, therefore, his treatment regimen. The skilled person is therefore directed to administer the combination of amoxicillin, 750 mg (bd) and omeprazole, 40 mg (om), for 14 days to patients infected with
+H. pylori
+. At the end of the 14 days of treatment the skilled person is directed to examine the patient for evidence of
+H. pylori
+infection. A follow-up examination is then conducted 4 weeks later.
+"67. By following these directions the skilled person would inevitably be doing what the '668 Patent generally claims - the use of omeprazole (including as part of a multiple drug therapy) to treat
+H. pylori
+infections.
+"68. Therefore, assuming the multiple drug treatment interpretation of the claims, the Unge Abstract would be an anticipating disclosure of each of the claims.
+"69. Although Dr. Hunt suggests that the '668 Patent is distinguishable from the Unge Abstract on the basis that the in vitro MIC test result provided the inventors with a theory as to the mechanism by which omeprazole could act against
+H. pylori
+infections, for the practical purpose of carrying out the claimed invention such a theory adds nothing to the directions or results contained in the Unge Abstract which, when followed, will inevitably result in what the inventors have claimed as their invention.
+"70. In my opinion the Abstract teaches the skilled person that omeprazole has a direct or indirect antimicrobial effect against
+H. pylori
+since Unge observed a transient reduction against
+H. pylori
+infection.
+"71. Although the Unge Abstract does not measure the MIC value of omeprazole against H. pylori 8005, as was done by the inventors, said in vitro information is of no practical consequence to the in vivo use of omeprazole against
+H. pylori
+infections, but merely serves to verify Unge's observation of transient reduction with omeprazole treatment. The in vivo effect of omeprazole against H. pylori infections when used in accordance with the directions of the '668 Patent was already disclosed by Unge. A subsequent measurement of its in vitro activity against
+H. pylori
+8005 has no significance to the manner in which the claimed invention is practiced.
+"72. Additionally, Dr. Hunt's, at paragraph 71 of his affidavit, acknowledges that the underlying theories as to how or why omeprazole works against an
+H. pylori
+infection are of no practical consequence when following a prior teaching that described the use of omeprazole to treat an
+H. pylori
+infection. Dr. Hunt states that subsequent to the filing of the '668 Patent the belief as to why or how omeprazole exerts its effects against
+H. pylori
+in vivo has been debated, with opinions varying from omeprazole having an antibacterial effect in vivo to having an effect by changing the gastric milieu. The etiologic theories may change over time, however, the practical application of the prior art teachings do not.
+"73. Therefore, under either interpretation of the claims, the Unge Abstract anticipates each of the claims of the '668 Patent."
+I am, accordingly, satisfied that Unge anticipated the '668 Patent claim that omeprazole had antibacterial properties.
+[45]
+Support for this conclusion can also be found in the decision of the United States District Court in
+ <FRAGMENT_SUPPRESSED> d 423 (S.D.N.Y.), affd. (2003), 84 Fed. App'x. 76 (Fed. Cir.) (in Re Omeprazole litigation) (hereafter referred to as
+Astra Aktiebolag
+) which was rendered in 2002 following a 52-day patent infringement trial in New York. One of the infringement questions in that case was whether
+Astra Aktiebolag's
+U.S. Patent '342, which also claimed for the use of omeprazole as an antimicrobial agent in treating Hp, was anticipated by the Unge study. The Court concluded that it was. The decision dealt with the argument relied upon in this case by AstraZeneca that Unge was looking at the antisecretory effects of omeprazole and not at its potential value as an antimicrobial agent. That argument was soundly rejected in the following passage:
+"... Although Dr. Czinn repeatedly insisted that Dr. Unge was only interested in 'what omeprazole as an acid secretory agent does' (see, e.g., Czinn Tr. 6065:14-18, 6066:25-6067:5), he offered no explanation as to why, if that was what Dr. Unge was interested in, Dr. Unge never tested how well the omeprazole suppressed acid secretion but rather tested only for the effect of omeprazole on the Group 2 patients' H. pylori infections."
+[46]
+In this case AstraZeneca has not advanced the unmeritorious argument raised  <FRAGMENT_SUPPRESSED>  Aktiebolag
+that omeprazole was being used by Unge as a placebo. Clearly omeprazole is not an inert substance and would never be reasonably seen as a placebo for experimental purposes. AstraZeneca says, though, that Unge was using omeprazole as a control to be compared to the efficacy of the combination therapy. That may be so, but it does not take anything away from the fact that Unge was using omeprazole on its own for treating Hp infections and found that it had a suppressant effect. The findings of the '668 Patent add nothing of significance to what Unge had already established about the potential value of omeprazole as an antimicrobial agent particularly when used in combination therapies.
+[47]
+In
+Astra  <FRAGMENT_SUPPRESSED> , the Court concluded its decision on the issue of anticipation in the following passage:
+"... In the treatment described in the Unge Abstract, it is undisputed that all medication is being prescribed to treat the H. Pylori infection itself. Whether Unge may have speculated that omeprazole would treat the H. pylori infection or facilitate that treatment through its affect on the bioavailability of the antibiotic through the mechanism of its acid suppressant effect is irrelevant - Unge was treating H. pylori infections, and the disclosure of Group 2 treatment in the Unge Abstract demonstrates an actual antimicrobial effect by omeprazole itself. For the foregoing reasons, the court finds that Defendants have proven through clear and convincing evidence that claim 1 of the '342 patent is invalid as anticipated."
+[48]
+Even though I am not bound to follow
+Astra  <FRAGMENT_SUPPRESSED> , I find its reasoning on the issue of anticipation to be persuasive and strongly supportive of my own view.
+The '759 Application
+[49]
+On the preliminary issue of the sufficiency of Apotex's NOA, AstraZeneca contends that it described the '759 Patent and not the '759 Patent application as the anticipatory reference and, since the '759 Patent was not published until 1994, it is not citable art. AstraZeneca's argument has no merit. The NOA makes it very clear that what Apotex was asserting was the earlier application for the '759 Patent:
+"The '759 Patent was filed in Canada on October 12, 1988
+as Application No. 580,114. This filing date is before the claim date for the '668 Patent
+(February 9, 1989). The '759 Patent lists Exomed Australia Pty. Ltd, Ostapat Pty. Limited, Gastro Services Pty. Limited, and Capability Services Pty. Limited as applicants of the '759 Patent." (Emphasis added)
+The above disclosure could not have left AstraZeneca with any doubt about the document being referred to and the NOA provided it with "sufficient understanding of the case it had to meet" on this issue: see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at para. 14.
+[50]
+AstraZeneca goes on to argue that the ‘759 Application was not anticipatory because it did not describe the use of antisecretory agents like omeprazole in a combination therapy for any purpose other than its buffering effects. Since the ‘759 Application did not ascribe any antimicrobial value to omeprazole, it did not anticipate.
+[51]
+The problem with AstraZeneca's position on this issue is that the ‘759 Application proposed omeprazole for use as an effective adjunct to the treatment of Hp with antibiotics. It was therefore recognized in the prior art as a medicament for the synergistic treatment of Hp and its supposed antimicrobial effects were inherent in that prior use. If AstraZeneca's position was correct, Apotex would be prevented from using omeprazole as part of a combination therapy to treat Hp for its obvious and previously known value as an acid suppressant in accordance with the teaching of the '759 Application because to do so would inevitably infringe the '668 Patent.
+[52]
+On this issue, I agree completely with Apotex's Memorandum of Law where it was stated:
+"Where the mechanism of action is inherent, it is irrelevant whether that mechanism of action was precisely disclosed in the prior art."
+The same point is convincingly addressed in Dr. Graham's affidavit where he stated:
+"81. For the practical purpose of carrying out the directions of the '759 Patent with respect to the use of omeprazole as part of a multiple drug therapy in the treatment of
+H. pylori
+infections, the hypothetical unimaginative skilled reader does not need to know how or why that therapy works in order to carry it out when he is told said treatment is useful for that purpose. Knowing that omeprazole has antimicrobial activity against
+H. pylori
+in vitro is of no practical consequence when following the directions of either the '759 Patent or the '668 Patent for the purpose of using omeprazole as part of a multiple drug regimen for the treatment of
+H. pylori
+infection. It will neither change the purpose to which the treatment is directed, the manner in which the treatment works or the manner in which the treatment is administered. As such, following the directions of the '759 Patent would 'inevitable result in something within the claims'; 'give clear and unmistakable directions'; and 'give information which for the purpose of practical utility is equal to that given by the subject patent'."
+[53]
+What the ‘759 Application teaches is precisely the form of therapy that Apotex now proposes to utilize and that proposed use cannot be blocked simply because AstraZeneca has identified some previously unknown property of one of the therapeutic constituents. In short, no new use for omeprazole is proposed by the '668 Patent beyond the use that was previously recognized. If omeprazole was, in fact, an excellent antimicrobial agent presumably it would be used alone for that effect, but even Dr. Hunt conceded that no rational clinician would ever use it that way. Its true value was and remains as an acid suppressant which enhances the effects of the co-administered antibiotics. Presumably AstraZeneca intends to continue to use omeprazole in the same old way to achieve the well-known therapeutic effects for treating Hp, but it cannot extend its monopoly by now asserting its dubious value as an antimicrobial agent. To my thinking, the '668 Patent is a classic case of evergreening and it is invalid.
+The '762 Patent Claims
+[54]
+The '762 Patent is titled "Synergistic Combination of a Substance with Gastric Acid Secretion Inhibiting Effect and an Acid Degradable Antibiotic". The Patent Abstract described the invention as follows:
+"The invention consists of a combination of a substance that increases the intragastric pH and
+an acid degradable antibacterial compound
+. By this combined product regimen
+it will be possible to obtain maximal local antibacterial effect of acid degradable antibiotics as well as enhanced bioavailability of the active antibiotic, thus resulting in higher amounts of the active compound in the gastric mucosa due to secretion of weak bases
+. Both pharmacological effects contribute to drastically increased antimicrobial capacity of acid degradable antibiotics to be used against local infections in the gastrointestinal tract causing gastritis and/or peptic ulcer. The invention also selects to the use of said combination and a process for the preparation thereof." (Emphasis added)
+[55]
+In discussing the relevant prior art, the Patent acknowledged the following:
+"Proton inhibitors e.g. omeprazole and its pharmaceutically acceptable salts, which are used in accordance with the invention, are known compounds, e.g. from EP 5129 and EP 124495 and can be produced by known processes. From US 5093342 it is also know that omeprazole can be used in the treatment of Helicobacter infections. Further it has earlier been proposed in WO 92/04898 to use a specific antibiotic, amoxycillin, which is stable in gastric acid, in combination with pantoprazole in the treatment of duodenal ulcers. No specific test data are included in said document. It has also been described earlier by the Applicant to use amoxycillin in combination with omeprazole in the treatment of duodenal ulcers.
+"From e.g. Science, March 22, 1946, p. 359-361 it is known that if acid degradable penicillins are administered orally they will be destroyed by the acid content in the stomach.
+"Further it is described in Eur. J. Clin. Microbiol. Infect. Dis, August 1988, p. 566-569 that some acid degradable antibiotics are active in vitro against Helicobacter pylori."
+[56]
+The "unexpected" finding of the inventors was supposedly that the combined use of acid-suppressant compounds like omeprazole with an acid degradable antibiotic led to an increase in the
+bioavailability
+of the antibiotic.
+[57]
+It is accepted by the parties that only Claims 68 to 77 of the '762 Patent are in issue on this application. Those claims speak to the issue of the increased bioavailability of acid-degradable antibiotics when used in combination with either a histamine-H2 receptor blocking compound or a proton pump inhibitor (both acid inhibitors). Those claims assert:
+"68. Use of a histamine-H2 receptor blocking compound or of a proton pump inhibitor for increasing the bioavailability of an acid degradable antibacterial compound.
+"69. Use according to claim 68 of omeprazole or a pharmaceutically acceptable salt thereof.
+"70. Use according to claim 68 of lansoprazole or a pharmaceutically acceptable salt thereof.
+"71. Use according to claim 68, 69 or 70 for increasing the bioavailability of a weak base antibiotic.
+"72. Use according to claim 68, 69 or 70 for increasing the bioavailability of a microlide.
+"73. Use according to claim 68, 69 or 70 for increasing the bioavailability of a penicillin.
+"74. Use according to claim 68, 69 or 70 for increasing the bioavailability of benzyl penicillin.
+"75. Use according to claim 68, 69 or 70 for increasing the bioavailability of erythromycin.
+"76. Use according to claim 68, 69 or 70 for increasing the bioavailability of clarithromycin.
+"77. Use of omeprazole for increasing the bioavailability of erythromycin."
+[58]
+Apotex says that its proposed treatment regime will combine omeprazole (a proton pump inhibitor), clarithromycin (an acid degradable antibiotic) and either amoxycillin or metronidazole (neither being an acid-degradable antibiotic). In the result, it says that only claims 68, 69, 71, 72 and 76 would arguable be infringed by its proposed drug product.
+[59]
+Apotex's NOA challenged the validity of the '762 Patent on the grounds of anticipation, obviousness, ambiguity, misrepresentation, misleading and failure to disclose. Needless to say, AstraZeneca takes issue with all of Apotex's assertions of invalidity.
+[60]
+On the issue of anticipation, Apotex relies upon two prior art publications, the first being an abstract authored by Petrino and others entitled "Omeprazole and Clarithromycin, Treatment of Helicobacter Pylori Associated Duadenal Ulcer" (Petrino) and the second being a letter by Logan and others published on July 25, 1992 in the Lancet entitled "Clarithromycin and Omeprazole for Helicobacter Pylori" (Logan).
+Is Logan Prior Citable Art?
+[61]
+Because the publication date of the Logan letter falls between two potentially relevant priority filing dates for the '762 Patent, it is necessary, as a preliminary matter, to determine which of those filing dates is operative before determining whether Logan is prior citable art. Apotex says that the operative filing date was June 8, 1993 so that Logan is citable. AstraZeneca says that the operative filing date was April 24, 1992 and, therefore, Logan is not citable. Logan is potentially important because it disclosed the results of a clinical trial involving the combination of omeprazole and clarithromycin for the treatment of Hp.
+[62]
+On this issue, Apotex relies upon s. 28.1 of the
+Patent Act
+, R.S.C. 1985, c. P-4, which creates a presumption that the claim date for a patent is the Canadian filing date unless the subject matter defined by the claim was previously disclosed. In
+ <FRAGMENT_SUPPRESSED> ; 296 F.T.R. 254; 2007 FC 81, Justice Hughes held that the priority application must disclose "the same invention as claimed in the ultimate patent" [see footnote 1]. AstraZeneca contends that the "subject matter" of its patent was reasonably inferable from the first priority application made in Sweden on April 24, 1992 so that the same invention was disclosed.
+[63]
+The specific issue is whether the first Swedish priority application disclosed the use of omeprazole and clarithromycin as a combination therapy. If it did not, then Logan is clearly citable art.
+[64]
+The first Swedish priority application makes no specific mention of clarithromycin. Instead it refers to the "antibiotic used in the combination is one with a very narrow spectrum such as benzylpenicillin or an antimicrobial weak base such as erythromycin base". It is noteworthy that the second Swedish priority application quite explicitly referred to clarithromycin in both the outline of the invention and in Claim 7.
+[65]
+It is necessary, then, to determine whether the language of the first Swedish priority application was sufficient to support an inference that it included clarithromycin. In my view, it was not.
+[66]
+The teaching of the subject patent is the use of an acid suppressant with an acid degradable antibiotic. Erythromycin, which is expressly referred to in the first Swedish priority application, is more acid unstable than clarithromycin. I accept the argument by Apotex that, in referring to erythromycin as the exemplar antibiotic, it does not obviously follow that a more acid stable antibiotic like clarithromycin was intended to be included within the patent claim. The fact that the inventors expressly included clarithromycin in the second Swedish priority application also adds support to this construction; otherwise this reference in the second application adds only redundancy.
+[67]
+Although Apotex adduced some expert evidence on this construction issue, I am not disposed to give it any weight because it was based on a grammatical analysis. That is a task that the Court is well able to carry out without relying on expert opinion. I do, however, think it significant that counsel for Apotex was prevented from questioning AstraZeneca's expert witness, Dr. Piquette-Miller, on the construction issues that had a scientific aspect. I can identify no valid reason in the transcript for that refusal to answer and I do draw an adverse inference that Dr. Piquette-Miller's answers on this issue would have been unfavourable to AstraZeneca.
+[68]
+For the above reasons, I accept Apotex's argument that the operative filing date is that pertaining to the second Swedish priority application and, therefore, Logan is citable art.
+What Is the Meaning of "Bioavailability"?
+[69]
+Having determined that Logan is citable art, it is necessary to determine whether that article and the Petrino abstract anticipated the '762 Patent. However, before embarking on that exercise, it is necessary to resolve a construction issue with respect to the term "bioavailability" as it is used in the Patent. AstraZeneca argues that the term was used by the inventors in the narrow sense of referring only to increases in the blood concentration of the referenced antibiotic. Apotex says that it includes an increase in the concentration of the antibiotic anywhere in the body (particularly at the site of action within the stomach mucosa). This question is arguably important because some of the prior art publications with respect to the issues of anticipation and obviousness refer, at least implicitly, to bioavailability effects. Thus the equivalency of those prior art references to the language of the Patent must be assessed.
+[70]
+AstraZeneca's expert, Dr. Piquette-Miller, offered a definition of bioavailability in her affidavit.
+[71]
+Dr. Piquette-Miller is an Associate Professor of Pharmacokinetics at the University of Toronto with a research field in pharmacokinetics and molecular pharmacology. In 1994, she was awarded a doctoral degree in pharmaceutical science (pharmacokinetics). Pharmacokinetics involves the study of the absorption, distribution, metabolism and excretion of chemical compounds in the human body. Dr. Piquette-Miller is not a physician and, as of the time she testified, she had not worked with omeprazole.
+[72]
+Dr. Piquette-Miller was asked by AstraZeneca to review claims 68 to 77 of the '762 Patent and to answer the following three questions:
+(a) whether claims 68 to 77 would have been understood by the skilled person to claim use of a gastric acid inhibitor, such as omeprazole, for increasing blood levels (bioavailability) of an acid degradable antibacterial compound;
+(b) whether the documents relied on by Apotex would not be understood by the skilled person to teach the use of a gastric acid inhibitor, such as omeprazole, for increasing the bioavailability of an acid degradable antibacterial compound; and
+(c) whether the skilled person would not have been led directly and without difficulty to use a gastric acid inhibitor, such as omeprazole, for increasing the bioavailability of an acid degradable antibacterial compound.
+[73]
+Dr. Piquette-Miller defined the concept of bioavailability as the rate and extent to which a drug enters the blood circulation so that an increase in bioavailability is generally described as an increase in the amount of the drug in a patient's blood measured over time. She said, however, that bioavailability does not include an increase in the local effect of the drug. She also opined that the bioavailability of a compound after oral administration can be difficult to predict because it can be influenced by a number of variables. For instance, the combination of compounds intended to achieve and enhance local effects or pharmaceutical synergies may lead to actual decreases in bioavailability from the interaction of the compounds. Thus, an increase in bioavailability cannot always be assumed from the increased efficacy of such a combination. Dr. Piquette-Miller offered the following conclusion about the scope of the subject patent claims at paras. 29-30 of her affidavit:
+"29. In my opinion, as of November 11, 1993, the skilled person would have understood claims 68 to 77 to claim the use of a gastric acid inhibitor, such as omeprazole
+for increasing the blood levels
+of the antibiotic specified therein. The claims are specific to increasing bioavailability
+such that the claims would not be understood to be directed to other effects described above, namely, increased local effect (as descried in (i)) or increased efficacy of the antibiotic
+(as described in (iii) and distinct from what could be attributed to increased bioavailability.
+"30. Indeed, in my opinion, a skilled person would have understood that the '762 patent disclosed a novel finding that use of a gastric acid inhibitor to increase gastric pH increases the amount of antibiotic
+that is available for absorption into systemic circulation
+. The bioavailability of the antibiotic is thus increased with consequent advantages related to optimization of therapy. The patent therefore claims such use (claims 68 to 77) and an optimized combination for use to treat gastritis and peptic-ulcer including those caused by
+H. pylori
+infections." (Emphasis added)
+[74]
+Dr. Mayersohn gave evidence on behalf of Apotex. He was of the opinion that bioavailability is a term which deals with the rate and extent to which a drug becomes available at the site of action. He observed that not all drugs reach the site of action through the blood system albeit that blood concentrations are often used as a surrogate for measuring bioavailability. He also stated that a skilled person would know that orally administered antibiotics have both local and systemic effects. At para. 26 of his affidavit he drew support for this broader interpretation from the following language of the '762 Patent:
+"By reducing the acidity in the stomach it is possible
+to markedly increase the bioavailability of acid degradable antibiotics thus leaving more of a given dose of the compound available for local antibacterial effect as well as for absorption
+."
+[75]
+Dr. Graham's affidavit offered an opinion of bioavailability that was similar to Dr. Mayersohn. His affidavit evidence on this issue was as follows:
+"142. The term 'bioavailability' as it appears in claims 68-77 of the '762 Patent would be understood by the skilled person to mean the degree to which a drug (in this case the antibiotic) becomes available at the site of physiological activity (in this case the stomach wall where
+H. pylori
+resides) after administration. In the context of the claims of the '762 Patent, where the antibiotic exerts its effects topically or locally as well as systemically, the term bioavailability is not limited to the degree to which a drug (in this case the antibiotic) is absorbed into blood.
+"143. The patent describes three means by which the availability of the antibiotic increases at the active site: (i) a local effect resulting from a decrease in the degradation of the antibiotic occurring in the stomach; (ii) via increased absorption into the blood as a result of the decreased degradation, and therefore by implication there is an increased delivery of the antibiotic back to the stomach wall; and (iii) in the case of weak base antibiotics, the transportation of said antibiotics to the gastric mucosa becomes enhanced, therefore allowing for its accumulation at that site. See page 4b, line 12:
+'By reducing the acidity in the stomach it is possible to markedly increase the bioavailability of acid degradable antibiotics thus leaving more of a given dose of the compound available for local antibacterial effect as well as for absorption.'
+"And page 7, line 8:
+'... The high plasma concentrations of antibiotics after reduction of gastric acid secretion is evidence for a great reduction of the degradation in the stomach of the antibiotics used. This results in an increased amount of the active antibiotic in the gastric lumen, thus resulting in increased local antimicrobial effect. It also leads to a larger amount of antibiotic available for absorption, thus resulting in increased plasma and tissue levels of antibiotic (increased bioavailability) ...'
+"And page 21, third paragraph:
+'By reducing the gastric acid secretion or acid neutralization in the stomach the pH increases. Due to the less acidic milieu the orally administered acid degradable antibiotic will be less catabolised and thus locally exerting its antimicrobial effect. Another advantage is that increased amounts of the antibiotic will pass into the small intestine where it will be absorbed in biologically active form.'
+"And at page 4b, line 18:
+'... Due to known physico-chemical properties in general of weak bases like for instance omeprazole, the selection of weak bases e.g. erythromycin favours an increased accumulation of the antibiotic in the stomach wall and gastric crypts where the microbs [sic] e.g. Helicobacter pylori resides.'
+"And at page 21, last paragraph:
+'Those antibiotics which are weak bases e.g. macrolides will be excreted via the stomach wall due to its physico-chemical properties in congruence with other known weak bases i.e. nicotine aminopurine and omeprazole (Larsson et al., Scand. J. Gastroenterol., 1983, 85-900-7). Thus, the antibiotic weak base will be biologically concentrated in the stomach wall, where the bacetias (e.g. helicobacter pylori) reside.'
+"144. Therefore, in my opinion, claims 68-77 of the '762 Patent, which claim the use of an acid reducing agent for increasing the bioavailability of acid degradable antibiotics, would be understood to mean the use of an acid reducing agent for increasing the availability of said antibiotics at the site of physiological activity (in this case the stomach wall where
+H. pylori
+resides) after administration. The claims would include any means by which the availability of the antibiotic was increased at this site."
+[76]
+Although both Dr. Mayersohn and Dr. Piquette-Miller were cross-examined extensively on references in the medical literature to definitions for bioavailability which differed from their own use of that term, the impression that was left is that its meaning is highly dependant upon the context in which it is used. Simply put, it does not have a universally applied meaning in the medical or scientific community.
+[77]
+On this issue, I would adopt the opinions of Drs. Mayersohn and Graham. The patent disclosure does not purport to limit the scope of the claim to increased bioavailability to systemic or bloodstream concentration of the antibiotic. In fact, it seems to indicate that the term was intended to include increases in the concentration of the antibiotic at the site of action (ie. the stomach wall). This is evident from the passages quoted by Dr. Mayersohn and Dr. Graham in their respective affidavits as noted above. It is very clear that the Patent did not equate increased bioavailability only with increases in plasma concentration. Within the Patent disclosure the inventors expressly refer to higher plasma concentrations of the antibiotic. This suggests that they were using the term bioavailability in a different and broader sense.
+[78]
+Given Dr. Piquette-Miller's acknowledgement that bioavailability has more than one accepted meaning in the art and, in the absence of specificity in the patent claims, I agree with Apotex that the term ought to be construed in its broadest sense - that is, to include an increased concentration of the antibiotic at the site of action as well as in the patient's bloodstream. If the inventors had a more restrictive meaning of the term in mind than is often applied to it in the medical community, they should, and presumably would, have said so.
+[79]
+I also do not accept Dr. Piquette-Miller's assertion that bioavailability should be defined by how drug concentrations are typically measured. The fact that concentrations of a drug are most often measured by blood assay is nothing more than an acknowledgment that measurement at the site of action is a profoundly more difficult exercise. It does not logically lead to a conclusion that an increase in antibiotic concentration may not be occurring elsewhere in the body. Indeed, Dr. Piquette-Miller conceded that "we have to measure something" to determine bioavailability and that testing blood is a "surrogate" for assessing the bioavailability of a drug. Such acknowledgements do not lend support to her narrow construction of the term bioavailability.
+The '762 Patent - Anticipation
+[80]
+I now turn to the prior art publications relied upon by Apotex. The Logan publication had previously described an experiment involving 25 patients with Hp who were each administered a combination of omeprazole and clarithromycin. The experiment resulted in an 80% eradication rate for the Hp. The authors then postulated that the therapy was effective for the following reasons:
+"Omeprazole, a proton pump inhibitor, has been proposed as a suitable adjunct to
+H pylori
+treatment because it directly suppresses
+H pylori
+and may increase the antibacterial effectiveness of an antibiotic (eg. amoxycillin) by lowering the gastric pH towards its pK
+or by increasing the gastric mucosal concentration
+." (Emphasis added)
+The article concluded with the following recommendation:
+"These results suggest that new dual-treatment regimens containing neither bismuth nor metronidazole may be effective in eradicating
+H pylori
+. Further studies are needed to optimise the doses and duration of clarithromycin with an appropriate antisecretagogue."
+[81]
+The Petrino abstract did not speak to the issue of increased bioavailability but it did recognize that the use of omeprazole and clarithromycin could be an effective and well-tolerated therapy and it clearly anticipated the use of that combination to treat Hp.
+[82]
+AstraZeneca argues that Logan and Petrino both failed to anticipate that omeprazole increased the bioavailability of clarithromycin which was the central aspect of the invention claimed by the '762 Patent. Apotex says that Logan did anticipate the enhanced bioavailability of clarithromycin in the phrase "increasing the gastric mucosal concentration" of the antibiotic. In the alternative, it says that anticipation is established as soon as Logan and Petrino identified a synergistic effect from the use of these two drugs in combination, whatever the effective mechanisms may have been. Those effects are inherent and inevitable from the use of the combination and, therefore, anyone following prior art teachings in attempting to treat Hp would necessarily infringe the '762 Patent.
+[83]
+There seems to be no disagreement among the expert witnesses that Logan and Petrino anticipated the synergistic value of combining omeprazole and clarithromycin or that the claimed bioavailability effects of that combination were inherent and inevitable. These points are convincingly covered in Dr. Graham's and Dr. Mayersohn's affidavits and were not seriously challenged by AstraZeneca's expert, Dr. Piquette-Miller. Dr. Piquette-Miller essentially accepted these points in the following passages from her testimony when she was being questioned about prior art teachings:
+"Q. ... The patent says that any combinations coming within it, and you have told me this is one such combination, will have an increased bioavailability in the antibiotic, correct?
+A. Yes.
+Q. This is such a combination; therefore, this combination has an increased bioavailability in the antibiotic by definition, yes?
+A. It is what I would expect. I would anticipate that there had been an increased bioavailability.
+Q. Not just you would expect.
+A. The patent --
+Q. Unless the patent is invalid, it must have had an increase, because that is the premise of the patent, correct?
+A. That is correct.
+. . . . .
+Q. Okay. Then they go on to say in the super-additive sense, and I take it in your paragraph 53 you understood that expression, 'super-additive sense' - - maybe it is not your understanding.
+Would you understand the super-additive sense to mean synergistic sense, two plus two equals five sense?
+A. Yes, I would.
+Q. What they are expressing in this paragraph, boiling it all down, is that in the treatment of Helicobacter pylori, you can get a synergy when you combine the proton pump inhibitor with an antibiotic?
+A. Yes."
+[84]
+The only difference between Dr. Piquette-Miller's evidence and that offered by the Apotex witnesses was her view that Petrino and Logan failed to discuss the bioavailability effects of the omeprazole/clarithromycin combination and that her definition of bioavailability was much narrower than that of the other witnesses. On the latter point, she interpreted bioavailability to be limited to increases in the antibiotic concentrations in a patient's blood which allowed her to distinguish the reference in Logan to increases in the gastric mucosal concentration of clarithromycin.
+[85]
+The issue of enhanced bioavailability is also important to AstraZeneca because that is the only arguable aspect of the '762 Patent which takes it outside of what was already well known in the art about the synergistic value of combining omeprazole with acid degradable antibiotics.
+[86]
+In my view, Logan not only anticipated the use of omeprazole and clarithromycin as an effective and synergistic combination (as did Petrino) but it also anticipated that this combination worked because of omeprazole's value in enhancing the bioavailability of clarithromycin. Here, I accept Dr. Mayersohn's view as expressed at para. 66, 75 and 76 of his affidavit:
+"66. In my opinion, the above passage in
+Logan et al.
+, therefore, discloses that omeprazole would increase the concentration of a weak base antibiotic, such as clarithromycin, at the gastric mucosa (i.e., increase the bioavailability of clarithromycin).
+. . . . .
+"75.
+Logan et al.
+provides the skilled reader with all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill.
+"76.
+Logan et al.
+anticipates claim 76 of the '762 Patent. As discussed in paragraph 66 above, this document provides an exact prior description of the use of omeprazole to increase the bioavailability of clarithromycin by increasing the concentration of clarithromycin in the gastric mucosa."
+[87]
+Furthermore, I accept Apotex's argument that Logan and Petrino anticipated the treatment value of using omeprazole and clarithromycin in combination and it does not matter whether they were able to identify the precise mechanisms of action of that combination. Anyone following their teachings would inevitably create the bioavailability effect and thereby run afoul of the principle that "what would infringe if later, anticipates if earlier". This principle is well explained by Justice Karen Sharlow in
+ <FRAGMENT_SUPPRESSED>  where she described the anticipation issue in the following passage:
+"[24] The relevant question, in relation to the claim of the 274 patent for Form 0, is this: Is Form 0 formed in the process of making Form I or Form II? That is a question of fact, to which the undisputed answer is yes. A skilled practitioner who makes Form I or II following the teaching of the prior art inevitably would make Form 0, even if no steps are taken to stabilize it. The Form 0 might not be recognized, but that does not matter: see
+Smithkline Beecham PLC's (Paroxetine Methanesulfonate) Patent
+, [2005] UKHL 59, per Lord Hoffman, at paragraph 22:
+'[...] the matter relied upon as prior art must disclose subject-matter which, if performed, would necessarily result in an infringement of the patent. That may be because the prior art discloses the same invention. In that case there will be no question that performance of the earlier invention would infringe and usually it will be apparent to someone who is aware of both the prior art and the patent that it will do so. But patent infringement does not require that one should be aware that one is infringing: "whether or not a person is working [an] ... invention is an objective fact independent of what he knows or thinks about what he is doing":
+ <FRAGMENT_SUPPRESSED> . It follows that, whether or not it would be apparent to anyone at the time, whenever subject-matter described in the prior disclosure is capable of being performed and is such that, if performed, it must result in the patent being infringed, the disclosure condition is satisfied. The flag has been planted, even though the author or maker of the prior art was not aware that he was doing so.'
+"[25] Because a person who makes Form I or Form II following the teaching of the prior art inevitably would make Form 0, that person would infringe the 274 patent as surely as Ratiopharm would infringe it by making the Form II for its product, as it proposes to do, by a method that results in the creation of Form 0. The situation is aptly described by the learned authors of
+Hughes and Woodley on Patents
+(2nd Edition), at page 134 (paraphrasing Rinfret, J., in
+ <FRAGMENT_SUPPRESSED>  at page 381):
+'[...] what would infringe if later, anticipates if earlier.'
+The same thought is expressed as follows by Jacob, L.J., in
+Technic France S.A.'s Patent
+, [2004] R.P.C. 919, at paragraph 77:
+'And yet another way of looking at the problem is to ask whether what is disclosed [in the prior art] falls within the claim - if it had been later would it infringe?'
+"[26] In my view, the only reasonable conclusion on the evidence in this case is that the Ratiopharm's allegation of invalidity due to anticipation is justified."
+[88]
+It follows from all of the above the '762 Patent is invalid on the ground of anticipation.
+The '762 Patent - Obviousness
+[89]
+In the recent decision in
+ <FRAGMENT_SUPPRESSED> ; 366 N.R. 290; 2007 FCA 217, Federal Court of Appeal restated the test for obviousness in the following passage:
+"23 The accepted legal test for obviousness is stated as follows in the leading case of
+ <FRAGMENT_SUPPRESSED>  for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.'
+"24 The inquiry mandated by the <FRAGMENT_SUPPRESSED> test is factual and functional, and must be guided by expert evidence about the relevant skills of the hypothetical person of ordinary skill in the art, and the state of the art at the relevant time. The expert evidence must be carefully assessed as to its credibility and reliability. The classic warning from <FRAGMENT_SUPPRESSED> about hindsight must always be borne in mind (at page 295, per Hugessen, J.A.):
+'Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, "I could have done that"; before the assertion can be given any weight, one must have a satisfactory answer to the question, "Why didn't you?"'
+"25 There is no single factual question or a set of questions that will determine every case, or any particular case. Justice Hughes, at paragraph 113 of his reasons, proposes a list of factors to be considered when the validity of patent is challenged on the basis of obviousness. The list is apparently derived from a survey of numerous cases from Canada, the United States and the United Kingdom. In my view, despite the continual debate as to whether the legal test for obviousness is the same in all of those countries, the list of factors proposed by Justice Hughes is helpful to guide the required factual inquiry, and as a framework for the factual analysis that must be undertaken. What follows is an edited version of his list:
+Principal factors
+1. The invention
+What is in issue is the patent claim as construed by the Court.
+2. The hypothetical skilled person referred to in the <FRAGMENT_SUPPRESSED> quotation
+It is necessary to identify the skills possessed by the hypothetical person of ordinary skill in the art.
+3. The body of knowledge of the person of ordinary skill in the art
+The common knowledge of the hypothetical person of ordinary skill in the art includes what the person may reasonably be expected to know and to be able to find out. The hypothetical skilled person is assumed to be reasonably diligent in keeping up with advances in the field to which the patent relates (
+Whirlpool
+at paragraph 74). The presumed knowledge of the hypothetical skilled person undergoes continuous evolution and growth. Not all knowledge is found in print form. On the other hand, not all knowledge that has been written down becomes part of the knowledge that a person of ordinary skill in the art is expected to know or find.
+4. The climate in the relevant field at the time the alleged invention was made
+The general state of the art includes not only knowledge and information but also attitudes, trends, prejudices and expectations.
+5. The motivation in existence at the time the alleged invention to solve a recognized problem
+'Motivation' in this context may mean the reason why the claimed inventor made the claimed invention, or it may mean the reason why one might reasonably expect the hypothetical person of ordinary skill in the art to combine elements of the prior art to come up with the claimed invention. If within the relevant field there is a specific problem that everyone in the field is trying to solve (a general motivation), it may be more likely that the solution, once found, required inventive ingenuity. On the other hand, if there is a problem that only the claimed inventor is trying to solve (a unique or personal motivation), and no one else has a reason to address that problem, it may be more likely that the solution required inventive ingenuity. However, if commonplace thought and techniques can come up with a solution, there may be a reduced possibility that the solution required inventive ingenuity.
+6. The time and effort involved in the invention
+The length of time and expense involved in the invention may be indicators of inventive ingenuity, but they are not determinative because an invention may be the result of a lucky hit, or the uninventive application of routine techniques, however time consuming and expensive they may be. If the decisions made in arriving at the solution are few and commonplace, that may indicate that no inventive ingenuity was required to arrive at the solution. If the points for decision were many and choices abundant, there may be inventiveness in making the proper decisions and choices.
+Secondary factors
+These factors may be relevant but generally bear less weight because they relate to facts arising after the date of the alleged invention.
+7. Commercial success
+Was the subject of the invention quickly and anxiously received by relevant consumers? This may reflect a fact that many persons were motivated to fill the commercial market, which may suggest inventive ingenuity. However, it may also reflect things other than inventive ingenuity such as marketing skills, market power and features other than the invention.
+8. Meritorious awards
+Awards directed to the alleged invention may be recognition that the appropriate community of persons skilled in the art believed that activity to be something of merit. That may or may not say anything about inventive ingenuity.
+. . . . .
+"27 I emphasize that this list is a useful tool, but no more. It is not a list of legal rules to be slavishly followed; nor is it an exhaustive list of the relevant factors. The task of the trial judge in each case is to determine, on the basis of the evidence, sound judgment and reason, the weight (if any) to be given to the listed factors and any additional factors that may be presented.
+"28 I would also repeat the caution of Justice Hughes that catchphrases derived from this list or from the jurisprudence are not to be treated as though they are rules of law. I agree with the following comment of Justice Hughes from paragraph 113 of his reasons:
+'In this regard phrases such as "worth a try" and "directly and without difficulty" and "routine testing" have been used by the courts. It is not useful to use such phrases as they tend to work their way into expressions of law or statements of expert witnesses. Sachs, L.J., deprecated the coining of such phrases in
+ <FRAGMENT_SUPPRESSED>  at pages 211-12.'"
+In reaching my conclusion that the '762 Patent is invalid for obviousness, I have applied the above principles.
+[90]
+Apotex's case for obviousness is compelling. Dr. Mayersohn's affidavit contains a thorough survey of prior art publications which established without a doubt that the treatment efficacy of acid degradable antibiotics for treating Hp was known to be enhanced by combining them with acid suppressants.
+[91]
+Contrary to Dr. Piquette-Miller's views, some of the prior art publications also postulate that the reason for the enhanced efficacy of the combination therapy was the increased bioavailability of the antibiotic. For example, Westblom and others in a 1991 publication entitled "Enhancement of Antibiotic Concentrations in Gastric Mucosal by H2 - Receptor Antagonist - Implications for Treatment of Hp Infections" described an experiment "to test the hypothesis that local pH changes at the mucosal level would influence the transport of antibiotics into the stomach when the therapy was combined with an acid suppressant". The authors went on to opine that omeprazole would likely affect the concentration of antibiotics in the stomach.
+[92]
+Presumably the focus of much of the identified experimentation around this question had more to do with whether and to what extent these combination therapies worked and less to do with identifying the exact mechanisms for why they worked. But in any event, according to Dr. McClelland the issue of "why" was also well understood at least in the general sense of increased bioavailability:
+"57. The Apotex documents show that histamine-H2-blockers and proton pump inhibitors increase the pH of gastric juice. This was especially true of the proton pump inhibitors such as omeprazole where the increase was quite significant - several pH units. Since pH is a log scale, this corresponds to several orders of magnitude decrease in acidity.
+"58. Seeing this, the skilled Medicinal Chemist would immediately recognize that the combination of an acid degradable drug and a substance with an inhibiting effect on gastric acid secretion would lead to less degradation of the acid degradable drug in gastric juice. Because of the greater stability (and less degradation), the skilled Medicinal Chemistry would know that there is increased bioavailability. In order words, it would be obvious to the skilled Medicinal Chemist that the combination of an acid degradable drug and a substance that raised the pH of gastric juice would lead to increased bioavailability of the former."
+[93]
+Dr. Graham also disagreed with Dr. Piquette-Miller on the issue of obviousness and noted that the '762 Patent itself recognized the problem of acid degradable antibiotics being introduced to the acidic environment of the stomach:
+"213. Therefore, I disagree with Dr. Piquette-Miller's opinion that the skilled person was not aware that the co-administration of an acid suppressant such as omeprazole and an acid degradable antibiotic would result in an increase of the bioavailability of said antibiotic.
+"214. Dr. Piquette-Miller analysis has overlooked the problem the inventors were attempting to solve - how to prevent the degradation of acid degradable antibiotics caused by gastric acid in order to allow for their use against
+H. pylori
+infection; see page 1 line 19:
+'Helicobacter pylori is affected by certain antibiotic compounds e.g. macrolides and penicillins as has been shown in vitro and in vivo. However, these products are degraded into nonantibacterial metabolites in the presence of gastric acid, which drastically reduces their antibacterial efficacy.'
+"And at page 2, line 19:
+'From e.g. Science, March 22, 1946, p. 359-361 it is known that if acid degradable penicillins are administered orally they will be destroyed by the acid content in the stomach.'
+"And at page 4C, first paragraph:
+'The new combination is especially directed to the treatment of gastropathies e.g. induced by Helicobacter pylori infections. Helicobacter pylori is a gram-negative spirilliform bacterium which colonises in the gastric mucosa. Treatment with commonly used acid degradable antibiotics alone has given insufficient effect.'
+"215. This problem had already been recognized in the prior art. And so was its solution."
+[94]
+Dr. Mayersohn also agreed with Drs. Graham and McClelland. His extensive review of the prior art literature disclosed a number of instances where the increased bioavailability of an acid degradable antibiotic was recognized as a mechanism of action for these combination therapies. He then offered the following summary of his findings:
+"118. In conclusion, I have reached the opinion that the purported invention of claims 68 to 77 of the '762 Patent was anticipated and made obvious by the prior art literature discussed in this affidavit. It is on this basis that I find incredulous the following statement made by the inventors of the '762 Patent:
+(pages 2, line 27 to page 3, line 5)
+'It has now
+unexpectedly been found
+that a combination of a substance with inhibiting effect on gastric acid secretion, thus a substance which increases the intragastric pH (e.g. proton pump inhibitors, histamine-H2-blockers, and one or more antibacterial compounds which is acid degradable give high plasma concentration of the antibiotic following oral administration.'
+This observation is not novel, new or unexpected. It is completely consistent with what one of ordinary skill in the art knew or was capable of predicting, based upon basic principles of chemistry and the prior art.
+"119. Therefore, one of ordinary skill in the art would have been able to reach the purported invention directly and with no difficulty. Furthermore, the inventors of the '762 Patent have conducted no inventive experiments; but rather routine, typical and commonplace testing, which anyone of ordinary skill could simply have conducted; there is no inventive ingenuity in obtaining plasma samples and assaying for the presence of antibiotic. The authors of the '762 Patent have conducted simple, straightforward experiments, which at best provided a validation for what was known in the prior art by one of ordinary skill."
+[95]
+Dr. Piquette-Miller's position on obviousness was, of course, different from the evidence of Apotex's three experts. She again focussed on the issue of bioavailability. She opined that the prior art publications were insufficient to establish that a skilled person would have been led directly and without difficulty to the use of omeprazole for increasing the bioavailability of an acid degradable antibiotic like clarithromycin. Although Dr. Piquette-Miller conceded in her testimony that an increase in the bioavailability of these combination was inherent in the prior treatment models, her affidavit dismissed the significance of the prior art teachings in the following passages:
+"76. Quite simply, the documents do not, in any way, mention, propose, discuss or establish bioavailability. A skilled person would not know and there was no suggestion that, in view of the documents, that a gastric acid inhibitor could be used for increasing the bioavailability of an acid degradable antibacterial compound.
+"77. I therefore disagree with Apotex' statement that the use of a substance that inhibits gastric acid secretion and thus increases intragastric pH, to increase the bioavailability of an acid degradable antibacterial compound was known."
+[96]
+There is also a rather telling and lengthy exchange between Dr. Piquette-Miller and counsel for Apotex which shows her to be somewhat less than an objective analyst of the patent claims and of the prior art disclosures. When she was asked the rather obvious question about whether a prior art publication disclosed that the stability of amoxycillin was shown to be improved in the presence of omeprazole, she disputed the point by suggesting that the publication did not refer specifically to omeprazole. However, the publication made it very clear that the stability of amoxycillin had been shown to be improved in a more neutral pH environment. She also conceded that omeprazole reduces the acidic levels in the stomach leading to increased pH levels. Nevertheless, she refused to admit the obvious and rather weakly contended that the publication lacked the necessary parameters to support counsel's suggestion. This was only one of a number of similar exchanges.
+[97]
+On the issue of obviousness, Dr. Piquette-Miller's definition of bioavailability continued to be limited to increases in blood plasma concentrations of the antibiotic. This allowed her to distinguish the prior art publications which spoke of increased antibiotic concentrations in the stomach mucosa. For the reasons previously given, I do not accept Dr. Piquette-Miller's definition of bioavailability as that term is used in the Patent. I, therefore, reject her evidence insofar as it rests upon her definition of that term. I also reject her interpretation of the Jones publication which identified an increase in the blood serum concentration of benzylpenicillin in one of five patients tested and wherein the authors described this as a "side effect" of the combination therapy. Dr. Piquette-Miller was of the view that a skilled reader would not interpret this article as having equated a side effect with an increase in bioavailability. She also discounted the value of the study because it was limited in scope and preliminary. She took issue with the significance of several of the other prior art studies on similar grounds of insufficient methodology or analysis. In a number of exchanges with counsel, Dr. Piquette-Miller discounted the significance of prior art studies by arguing that the postulations of the authors were unproven in the scientific sense. At one point she described a publication as "meaningless" because it did not contain "a meaningful statistical analysis". She made essentially the same point in the following subsequent exchange with counsel:
+"Q. Let me put it to you this way. The idea, the idea, of combining omeprazole and an antibacterial like amoxicillin to increase gastric mucosal concentration, that idea was floated by this paper, by this abstract or this letter. That much you have to agree with me on. Someone reading this woundn't be able to claim, I came up with that idea after reading this, because the idea is already set out in the letter, isn't that so?
+A. They have also proposed a number of different things.
+Q. Try to answer my question, please. Someone who has read this abstract or letter could not in good conscience say, I have come up with a new idea that no one else has thought of before. I am going to give omeprazole with amoxicillin, and I am going to have, as a result, increased gastric mucosal concentration.
+They couldn't say they that, because Logan has already said it, correct?
+A. It is stated in this abstract.
+Q. So someone reading this couldn't in good conscience say, I have come up with a brand new idea that no one else has thought of before, correct, because Logan thought of it, and perhaps Westblom before Logan, correct?
+A. You are saying it would increase the antibacterial effectiveness?
+Q. I am not saying what the effect is. I am just talking about some person coming along, after they have read this and after they read Logan, you would have to agree with me they couldn't in good conscience say, I have a brainstorm, I have a brand new idea that no one else has ever thought of or written about; namely, I am going to put omeprazole together with an antibiotic like amoxicillin and I am going to get increased gastric mucosal concentration. That is my brand new idea.
+It can't be brand new, because someone else has written about it already, correct?
+A. Scientists always write so much. They propose so many different things, and so if I said that every single issue in science would have already been solved because someone has already mentioned it in one of their papers or discussions and proposed it as a potential mechanism, this has been one thing that they have proposed, and it has not been proven. It has been proposed."
+Only later did she acknowledge that the prior art publications in question had at least proposed the idea that the Patent had later claimed to have tested and proven. This point was somewhat reluctantly conceded in the following response:
+"A. The idea I guess would have been out there. It is not tested. There are a lot of ideas, a lot of different types of combinations that were proposed for a lot of different types of reasons, and they have stated that it was proposed."
+[98]
+I do not accept that, for the purposes of establishing obviousness, the prior art should be approached or interpreted with the rigour required to prove a scientific hypothesis. This is particularly true of a patent which identifies a supposed new property of a known drug therapy. The fact that many of these studies were looking at issues of efficacy and did not look closely at mechanisms of action may be a reflection of the absence of any scientific interest in pursuing something that had no apparent utility or because it was so obvious that the issue did not need verification. The issue as I see it is whether a person skilled in the art would come directly and without difficulty to the solution that the combination of an acid suppressant like omeprazole with an acid degradable antibiotic like clarithromycin would increase bioavailability of the antibiotic for the treatment of Hp.
+[99]
+I do not accept Dr. Piquette-Miller's rationalizations for distinguishing the prior art publications relied upon by Apotex. They were not the sort of "unsuccessful or inconclusive" experimental references that were of concern to the Court in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). I prefer the evidence from Drs. Mayersohn, Graham and McClelland on this issue.
+[100]
+Furthermore, if the only thing that the '762 Patent teaches is a partial mechanism of action for a previously known and utilized combination drug therapy, it has described nothing inventive. It does not describe a new use for the known therapy. It is simply a description of an experiment looking at the properties of well-known and previously used medications. On this point, I accept Dr. Mayersohn's description of the supposed discovery as stated in para. 119 of his affidavit:
+"Therefore, one of ordinary skill in the art would have been able to reach the purported invention directly with no difficulty. Furthermore, the inventors of the '762 Patent have conducted no inventive experiments, but rather routine, typical and commonplace testing, which anyone of ordinary skill could simply have conducted; there is no inventive ingenuity in obtaining plasma samples and assaying for the presence of antibiotic. The authors of the '762 Patent have conducted simple, straightforward experiments, which at best provided a validation for what was known in the prior art by one of ordinary skill."
+[101]
+Dr. Graham similarly dealt with the issue of inventiveness in the following passage from his affidavit:
+"225. The antibiotic serum level testing conducted by the inventors of the '762 Patent did not involve inventive ingenuity - particularly with respect to the combination of omeprazole and clarithromycin since this combination was already known. The inventors' work over Petrino et al. or Logan et al. merely involved measuring the blood levels of the same combination of drugs to quantify a pharmacological property of said combination."
+[102]
+Dr. Piquette-Miller attempted to isolate the inventive new use in terms of the bioavailability teachings of the Patent and her affidavit described the supposedly inventive aspect of the Patent in those terms. AstraZeneca's Memorandum also attempted to link the discovered bioavailability effect with the issue of treatment in the following way:
+"35. The advantage of the combination of a compound that increases intragastric pH, such as omeprazole, and an acid degradable antibiotic, is that the bioavailability of the antibiotic will increase resulting in sufficient plasma levels for therapeutic effects. It appears that the inventors believed that by increasing oral bioavailability,
+higher plasma levels can be achieved, resulting in greater amounts of drug being distributed
+or excreted to the site of action (such as the stomach wall)." (Emphasis added)
+The problem with the above analysis is that the discovered increase in plasma levels in the antibiotic was an inherent property of the prior therapy and it did not constitute a new use or a new form of treatment. The increase in plasma levels of the antibiotic had already been achieved by the use of omeprazole in combination therapies. The supposed greater distribution of the antibiotic at the site of action was what it was, and the Patent taught nothing about how higher plasma levels or better distribution of the antibiotic could be achieved.
+[103]
+The difficulty with Dr. Piquette-Miller's analysis is that she can only fairly assert that the supposed new use disclosed by the Patent is the discovery of a mechanism of action and not a new therapy. To my mind, a new use is not satisfied by identifying an inherent effect of a known therapy - in this case by identifying a bioavailability effect. Dr. Piquette-Miller incorrectly conflates those concepts. Although the fact that omeprazole was shown to increase bioavailability of an antibiotic is interesting, it is not inventive and it is not a claim for the use of a medicine for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state as contemplated by s. 7(2) of the
+NOC Regulations
+. Dr. Piquette-Miller's affidavit seems to have acknowledged this inherent problem in her position when she conceded that the subject patent claims did not claim any use for the treatment of Hp. Her affidavit stated:
+"These claims, as discussed, do not claim use for the treatment of H. pylori infections. These claims claim use of H2 blocking compound or a proton pump inhibitor, of which omeprazole is an example, to increase bioavailability of an acid degradable antibacterial compound."
+[104]
+Dr. Mayersohn picked up on this point and stated the following in his affidavit:
+"40. I agree with Dr. Piquette-Miller in that these claims do not claim the use of the combinations for the treatment of Hp. The claims do not claim the use of the combination for any diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms of thereof."
+[105]
+After reviewing the evidence of the expert witness on the issue of obviousness, I accept the opinions of Drs. Graham, Mayersohn and McClelland and reject that of Dr. Piquette-Miller. It follows that the '762 Patent is also invalid on the ground of obviousness.
+[106]
+Quite apart from the issues of invalidity discussed above, the fact that the Patent claims relied upon by AstraZeneca do not contain any therapeutic aspects also establishes that the '762 Patent is ineligible for inclusion on the Patent Register: see
+ <FRAGMENT_SUPPRESSED> ; 307 F.T.R. 271; 2006 FC 1558, affd. (2007), 370 N.R. 109; 2007 FCA 187; [2007] F.C.J. No. 686.
+Conclusion
+[107]
+In conclusion, the Court finds that AstraZeneca has not demonstrated that Apotex's allegations of invalidity are not justified and, for that reason, this application is dismissed.
+[108]
+I will award costs to Apotex but will invite submissions from the parties as to quantum. Those submissions shall not exceed five pages in length and are to be made within fourteen days of the date of judgment.
+JUDGMENT
+[109]
+THIS COURT ADJUDGES that
+this application is dismissed with costs payable to the Respondent; the parties shall make submissions with respect to costs within fourteen days of the date of this judgment.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+Footnotes
+1. This decision was reversed on appeal but on different grounds.
+[End of document]
