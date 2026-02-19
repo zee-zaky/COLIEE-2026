@@ -3,11 +3,11 @@
 # ================================================================================================
 # Example Command to submit the job array (adjust the array range and preset as needed):
 # ================================================================================================
-sbatch \
-  --time=00:30:00 \
-  --array=0-1 \
-  --export=PRESET=test_2026,CASES_PER_TASK=1 \
-  slurm/job_array_run.sh \
+# sbatch \
+#   --time=00:30:00 \
+#   --array=0-1 \
+#   --export=PRESET=test_2026,CASES_PER_TASK=1 \
+#   slurm/job_array_run.sh \
 #   --hf-token hf_xxx
 #
 # Alternative (token from environment instead of CLI argument):
@@ -21,7 +21,7 @@ sbatch \
 #SBATCH --time=0:30:00
 #SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
-#SBATCH --gpus-per-node=H100
+#SBATCH --gpus-per-node=H100:1
 #SBATCH --array=0-99
 #SBATCH --output=logs/slurm_%A_%a.out
 #SBATCH --error=logs/slurm_%A_%a.err
