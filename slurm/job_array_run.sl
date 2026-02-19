@@ -25,6 +25,7 @@
 #SBATCH --array=0-99
 #SBATCH --output=logs/slurm_%A_%a.out
 #SBATCH --error=logs/slurm_%A_%a.err
+#SBATCH --account uoa04665
 
 
 
