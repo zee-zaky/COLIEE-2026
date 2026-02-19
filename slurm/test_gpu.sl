@@ -4,7 +4,7 @@
 #SBATCH --time=00-00:10:00  # Walltime (DD-HH:MM:SS)
 
 #SBATCH --cpus-per-task=2   # number of CPUs per task (1 by default)
-#SBATCH --gpus-per-node=A100:1
+#SBATCH --gpus-per-node=H100:1
 
 #SBATCH --output=/nesi/project/uoa04665/COLIEE-2026/logs/GPUJob-%j.out
 #SBATCH --error=/nesi/project/uoa04665/COLIEE-2026/logs/GPUJob-%j.err
