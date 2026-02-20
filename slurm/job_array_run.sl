@@ -17,9 +17,9 @@
 
 
 #SBATCH --job-name=gemma_cases
-#SBATCH --partition=milan             
+#SBATCH --partition=milan
 #SBATCH --time=0:30:00
-#SBATCH --mem=64G
+#SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
 #SBATCH --gpus-per-node=A100:1
 #SBATCH --array=0-99
