@@ -224,6 +224,13 @@ except Exception as e:
 #──────────────────────────────────
 ASPECT_SPECS = [
     (
+    "judge",
+    '["list of judge name(s) exactly as written in the case text; empty list if not found"]',
+    "Extract the name(s) of the presiding judge(s) or decision-maker(s) if explicitly stated in the case text. "
+    "Return the judge name(s) exactly as written in the case text. "
+    "If no judge name is present, return an empty list."
+    ),
+    (
         "statutes", 
         "[list of extracted statutes from the case text (including mentioned year and sections in one item together)]", 
         #"[list of extracted statutes from the case text (strcuture it to include name, year and list of mentioned sections)]", 
@@ -327,6 +334,7 @@ ASPECT_INSTRUCTIONS = {
 
 GROUP_KEYS = {
      "group1": [
+         "judge",
          "statutes", 
          #"citations",
          "legal_issues", 
@@ -340,7 +348,8 @@ GROUP_KEYS = {
          ]     
  }
 
-ORDERED_KEYS = [
+ORDERED_KEYS = [    
+    "judge",
     "statutes",
     "legal_issues",
     #"citations",
