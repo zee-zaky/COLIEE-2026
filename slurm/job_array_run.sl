@@ -17,11 +17,11 @@
 
 
 #SBATCH --job-name=gemma_cases
-#SBATCH --partition=genoa
+#SBATCH --partition=milan
 #SBATCH --time=0:30:00
 #SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
-#SBATCH --gpus-per-node=H100:1
+#SBATCH --gpus-per-node=A100:1
 #SBATCH --array=0-99
 #SBATCH --output=logs/slurm_%A_%a.out
 #SBATCH --error=logs/slurm_%A_%a.err
