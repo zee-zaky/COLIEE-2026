@@ -227,7 +227,8 @@ ASPECT_SPECS = [
     "judge",
     '["list of judge name(s) exactly as written in the case text; empty list if not found"]',
     "Extract the name(s) of the presiding judge(s) or decision-maker(s) if explicitly stated in the case text. "
-    "Return the judge name(s) exactly as written in the case text. "
+    "Do NOT return names of judges mentioned only in cited/previous cases. "    
+    "Return the judge name(s) exactly as written in the case text who issued the decision on this case not the previous cited ones. "
     "If no judge name is present, return an empty list."
     ),
     (
