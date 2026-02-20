@@ -17,7 +17,7 @@
 
 
 #SBATCH --job-name=gemma_cases
-#SBATCH --partition=milan
+#SBATCH --partition=genoa
 #SBATCH --time=0:30:00
 #SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
