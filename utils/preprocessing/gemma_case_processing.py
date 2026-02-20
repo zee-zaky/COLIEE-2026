@@ -83,9 +83,9 @@ def configure_hf_cache(cache_dir: Path) -> None:
 
 def build_prompt(aspect_key: str, format_snippet: str, instruction: str) -> str:
     return f"""You are a legal metadata expert. {instruction} and return:
-{{
+{{{{
   "{aspect_key}": {format_snippet}
-}}
+}}}}
 (no extra keys or commentary)
 
 =======================
@@ -96,13 +96,13 @@ CASE TEXT STARTS
 CASE TEXT ENDS
 =======================
 Remember, you need to {instruction} and return the information in a structured JSON object with the following format:
-{{
+{{{{
   "{aspect_key}": {format_snippet}
-}}
+}}}}
 (no extra keys or commentary)
 """
 
-
+# Create PROMPTS dict automatically
 PROMPTS: Dict[str, str] = {
     aspect_key: build_prompt(aspect_key, format_snippet, instruction)
     for (aspect_key, format_snippet, instruction) in ASPECT_SPECS
@@ -241,6 +241,9 @@ def query_aspect(
                 f"❌ Fallback parsing also failed for `{aspect}`: {ast_e}\n\nRaw:\n{raw}"
             )
 
+def _normalize_key(k: str) -> str:
+    # strips whitespace and also strips wrapping quotes if the model included them as text
+    return k.strip().strip('"').strip("'")
 
 def process_case(text: str, case_id: str, model, processor, output_enhanced_dir: Path) -> dict:
     log_dir = output_enhanced_dir / "logs"
@@ -248,12 +251,24 @@ def process_case(text: str, case_id: str, model, processor, output_enhanced_dir:
     logging.info(f"\n\n🗂️ Processing case ID: {case_id}")
 
     aggregated = {}
-    for aspect, tmpl in PROMPTS.items():
+    for aspect, tmpl in PROMPTS.items():        
         piece = query_aspect(aspect, tmpl, text, model, processor)
-        if aspect == "key_arguments":
-            aggregated["key_arguments"] = piece["key_arguments"]
+
+        # normalize keys
+        if isinstance(piece, dict):
+            piece_norm = {_normalize_key(k): v for k, v in piece.items()}
         else:
-            aggregated[aspect] = piece[aspect]
+            raise ValueError(f"Model returned non-dict for {aspect}: {type(piece)}")
+        
+        if aspect == "key_arguments":
+            if "key_arguments" not in piece_norm:
+                raise KeyError(f"Missing key_arguments in output keys={list(piece_norm.keys())}")
+            aggregated["key_arguments"] = piece_norm["key_arguments"]
+        else:
+            if aspect not in piece_norm:
+                raise KeyError(f"Missing {aspect} in output keys={list(piece_norm.keys())}")
+            aggregated[aspect] = piece_norm[aspect]
+
     return aggregated
 
 
