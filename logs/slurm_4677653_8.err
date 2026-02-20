@@ -1,0 +1,3 @@
+Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+Fetching 12 files:   0%|          | 0/12 [00:00<?, ?it/s]/var/spool/slurmd/job4679728/slurm_script: line 93: 1977471 Killed                  "${CMD[@]}"
+[2026-02-20T12:25:19.176] error: Detected 1 oom_kill event in StepId=4679728.batch. Some of the step tasks have been OOM Killed.

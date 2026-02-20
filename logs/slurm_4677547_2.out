@@ -1,0 +1,5 @@
+🧮 SLURM_ARRAY_TASK_ID=2
+📦 Processing cases 2 to 2
+📁 PRESET=test_2026
+📊 CASES_PER_TASK=1
+🔐 HF token provided via script parameter

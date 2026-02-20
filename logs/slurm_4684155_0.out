@@ -1,0 +1,140 @@
+🧮 SLURM_ARRAY_TASK_ID=0
+📦 Processing cases 0 to 0
+📁 PRESET=test_2026
+📊 CASES_PER_TASK=1
+ℹ️ No HF token parameter provided; relying on env vars in runtime
+Sat Feb 21 10:25:44 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.105.08             Driver Version: 580.105.08     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-80GB          Off |   00000000:85:00.0 Off |                    0 |
+| N/A   30C    P0             60W /  400W |       0MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+🧮 start=0, end=0, num=1
+📁 preset=test_2026
+📄 input metadata=2026/Test/Dataset-Clean/processed_cases_en.json
+📦 enhanced output dir=2026/Test/Dataset-Enhanced
+💾 hf cache dir=/nesi/nobackup/uoa04665/mzak071/hf_cache
+🖥️  GPU status via nvidia-smi:
+GPU 0: free 80726 MiB / total 81152 MiB
+|===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Active memory         |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Requested memory      |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Allocations           |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Active allocs         |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+📖 Loaded 1848 case records
+{0: 51056895590, 'cpu': 214748364800}
+🔍 After model load, GPU memory summary:
+GPU 0: NVIDIA A100-SXM4-80GB
+→ Free: 30434 MiB / Total: 81152 MiB
+|===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  47598 MiB |  50286 MiB |  97884 MiB |  50286 MiB |
+|       from large pool |  47594 MiB |  50286 MiB |  97881 MiB |  50286 MiB |
+|       from small pool |      3 MiB |      3 MiB |      3 MiB |      0 MiB |
+|---------------------------------------------------------------------------|
+| Active memory         |  47598 MiB |  50286 MiB |  97884 MiB |  50286 MiB |
+|       from large pool |  47594 MiB |  50286 MiB |  97881 MiB |  50286 MiB |
+|       from small pool |      3 MiB |      3 MiB |      3 MiB |      0 MiB |
+|---------------------------------------------------------------------------|
+| Requested memory      |  47597 MiB |  50286 MiB |  97884 MiB |  50286 MiB |
+|       from large pool |  47594 MiB |  50286 MiB |  97881 MiB |  50286 MiB |
+|       from small pool |      3 MiB |      3 MiB |      3 MiB |      0 MiB |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  50292 MiB |  50292 MiB |  50292 MiB |      0 B   |
+|       from large pool |  50288 MiB |  50288 MiB |  50288 MiB |      0 B   |
+|       from small pool |      4 MiB |      4 MiB |      4 MiB |      0 B   |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |   2693 MiB |  47601 MiB |  47604 MiB |  44910 MiB |
+|       from large pool |   2693 MiB |  47599 MiB |  47600 MiB |  44907 MiB |
+|       from small pool |      0 MiB |      1 MiB |      3 MiB |      3 MiB |
+|---------------------------------------------------------------------------|
+| Allocations           |    1172    |    1172    |    1173    |       1    |
+|       from large pool |     558    |     558    |     559    |       1    |
+|       from small pool |     614    |     614    |     614    |       0    |
+|---------------------------------------------------------------------------|
+| Active allocs         |    1172    |    1172    |    1173    |       1    |
+|       from large pool |     558    |     558    |     559    |       1    |
+|       from small pool |     614    |     614    |     614    |       0    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |       3    |       3    |       3    |       0    |
+|       from large pool |       1    |       1    |       1    |       0    |
+|       from small pool |       2    |       2    |       2    |       0    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |       2    |       3    |       4    |       2    |
+|       from large pool |       1    |       1    |       2    |       1    |
+|       from small pool |       1    |       2    |       2    |       1    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+
+📍 Device map used by HuggingFace model:
+{'model.vision_tower': 0, 'model.multi_modal_projector': 0, 'model.language_model.embed_tokens': 0, 'lm_head': 0, 'model.language_model.layers.0': 0, 'model.language_model.layers.1': 0, 'model.language_model.layers.2': 0, 'model.language_model.layers.3': 0, 'model.language_model.layers.4': 0, 'model.language_model.layers.5': 0, 'model.language_model.layers.6': 0, 'model.language_model.layers.7': 0, 'model.language_model.layers.8': 0, 'model.language_model.layers.9': 0, 'model.language_model.layers.10': 0, 'model.language_model.layers.11': 0, 'model.language_model.layers.12': 0, 'model.language_model.layers.13': 0, 'model.language_model.layers.14': 0, 'model.language_model.layers.15': 0, 'model.language_model.layers.16': 0, 'model.language_model.layers.17': 0, 'model.language_model.layers.18': 0, 'model.language_model.layers.19': 0, 'model.language_model.layers.20': 0, 'model.language_model.layers.21': 0, 'model.language_model.layers.22': 0, 'model.language_model.layers.23': 0, 'model.language_model.layers.24': 0, 'model.language_model.layers.25': 0, 'model.language_model.layers.26': 0, 'model.language_model.layers.27': 0, 'model.language_model.layers.28': 0, 'model.language_model.layers.29': 0, 'model.language_model.layers.30': 0, 'model.language_model.layers.31': 0, 'model.language_model.layers.32': 0, 'model.language_model.layers.33': 0, 'model.language_model.layers.34': 0, 'model.language_model.layers.35': 0, 'model.language_model.layers.36': 0, 'model.language_model.layers.37': 0, 'model.language_model.layers.38': 0, 'model.language_model.layers.39': 0, 'model.language_model.layers.40': 0, 'model.language_model.layers.41': 0, 'model.language_model.layers.42': 0, 'model.language_model.layers.43': 0, 'model.language_model.layers.44': 0, 'model.language_model.layers.45': 0, 'model.language_model.layers.46': 0, 'model.language_model.layers.47': 0, 'model.language_model.layers.48': 0, 'model.language_model.layers.49': 0, 'model.language_model.layers.50': 0, 'model.language_model.layers.51': 0, 'model.language_model.layers.52': 0, 'model.language_model.layers.53': 0, 'model.language_model.layers.54': 0, 'model.language_model.layers.55': 0, 'model.language_model.layers.56': 'cpu', 'model.language_model.layers.57': 'cpu', 'model.language_model.layers.58': 'cpu', 'model.language_model.layers.59': 'cpu', 'model.language_model.layers.60': 'cpu', 'model.language_model.layers.61': 'cpu', 'model.language_model.norm': 'cpu', 'model.language_model.rotary_emb': 'cpu', 'model.language_model.rotary_emb_local': 'cpu'}
+🆕 No previous file found — starting fresh.
+🧠 Previously processed: 0 cases
+2026/Test/Dataset-Enhanced/enhanced_cases_gemma-3-27b-it_start_at_index_0.json
+⚠️  000065 failed: '\n                "Applicants"'

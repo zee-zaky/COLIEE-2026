@@ -1,0 +1,82 @@
+🧮 SLURM_ARRAY_TASK_ID=8
+📦 Processing cases 8 to 8
+📁 PRESET=test_2026
+📊 CASES_PER_TASK=1
+ℹ️ No HF token parameter provided; relying on env vars in runtime
+Sat Feb 21 01:25:04 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.95.05              Driver Version: 580.95.05      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-80GB          Off |   00000000:07:00.0 Off |                    0 |
+| N/A   29C    P0             63W /  400W |       0MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+🧮 start=8, end=8, num=1
+📁 preset=test_2026
+📄 input metadata=2026/Test/Dataset-Clean/processed_cases_en.json
+📦 enhanced output dir=2026/Test/Dataset-Enhanced
+💾 hf cache dir=/nesi/nobackup/uoa04665/mzak071/hf_cache
+🖥️  GPU status via nvidia-smi:
+GPU 0: free 80726 MiB / total 81152 MiB
+|===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Active memory         |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Requested memory      |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Non-releasable memory |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from large pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|       from small pool |      0 B   |      0 B   |      0 B   |      0 B   |
+|---------------------------------------------------------------------------|
+| Allocations           |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Active allocs         |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |       0    |       0    |       0    |       0    |
+|       from large pool |       0    |       0    |       0    |       0    |
+|       from small pool |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+📖 Loaded 1848 case records
+{0: 51056895590, 'cpu': 214748364800}
