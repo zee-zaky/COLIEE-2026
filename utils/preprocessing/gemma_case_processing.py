@@ -108,18 +108,21 @@ PROMPTS: Dict[str, str] = {
     for (aspect_key, format_snippet, instruction) in ASPECT_SPECS
 }
 
-
-def setup_logger(case_id: str, log_dir: Path) -> None:
+def setup_logger(case_id: str, log_dir: Path):
+    """Configure a dedicated logger for a single case."""
     log_dir.mkdir(parents=True, exist_ok=True)
     log_path = log_dir / f"{case_id}.log"
+
+    # Remove any existing handlers to avoid duplication
     for handler in logging.root.handlers[:]:
         logging.root.removeHandler(handler)
+
     logging.basicConfig(
         filename=log_path,
         level=logging.INFO,
         format="%(asctime)s | %(levelname)s | %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
-        force=True,
+        force=True  # overrides any previous config
     )
 
 
@@ -148,12 +151,14 @@ def load_model(model_id: str, cache_directory: Path):
             "Missing dependencies for model load. Install torch + transformers in runtime env."
         )
     max_memory = {}
+    
     for i in range(torch.cuda.device_count()):
         total_mem = torch.cuda.get_device_properties(i).total_memory
-        max_memory[i] = int(total_mem * 0.6)
-    max_memory["cpu"] = 200 * 1024**3
+        max_memory[i] = int(total_mem * 0.8)  # Use only 80% of VRAM
+    
+    max_memory["cpu"] = 64 * 1024 ** 3  # 64GB in bytes
     print(max_memory)
-
+    
     try:
         model = Gemma3ForConditionalGeneration.from_pretrained(
             model_id,
@@ -194,36 +199,52 @@ def query_aspect(
     )
     logging.info(f"\n\n🟦 Aspect: {aspect}\n--- Prompt ---\n{prompt}")
 
+    # 1. Format messages in Gemma expected format
     messages = [
-        {"role": "system", "content": [{"type": "text", "text": "You are a legal metadata expert."}]},
-        {"role": "user", "content": [{"type": "text", "text": prompt}]},
+        {
+            "role": "system",
+            "content": [{"type": "text", "text": "You are a legal metadata expert."}]
+        },
+        {
+            "role": "user",
+            "content": [{"type": "text", "text": prompt}]
+        }
     ]
 
+
+    # 2. Prepare inputs with processor
     inputs = processor.apply_chat_template(
         messages,
         add_generation_prompt=True,
         tokenize=True,
         return_dict=True,
-        return_tensors="pt",
+        return_tensors="pt"
     ).to(model.device, dtype=torch.bfloat16)
+   
     input_len = inputs["input_ids"].shape[-1]
 
+    # 3. Generate output
     with torch.inference_mode():
         output = model.generate(
-            **inputs,
-            max_new_tokens=4096,
+            **inputs, 
+            max_new_tokens=4096, 
             do_sample=False,
-            top_p=None,
-            top_k=None,
+            top_p=None,  # explicitly disable if injected
+            top_k=None
         )
         output_ids = output[0][input_len:]
 
+    
+    # 4. Decode
     raw = processor.decode(output_ids, skip_special_tokens=True)
     logging.info(f"--- Raw output for `{aspect}` ---\n{raw}")
 
+    # 5. Extract JSON from output (same logic as before)
     first, last = raw.find("{"), raw.rfind("}")
     if first == -1 or last == -1:
-        raise ValueError(f"Couldn’t find JSON in output for `{aspect}`:\n{raw}")
+        error_msg = f"Couldn’t find JSON in output for `{aspect}`:\n{raw}"
+        logging.error(error_msg)
+        raise ValueError(error_msg)
     json_str = raw[first : last + 1]
 
     try:
@@ -233,43 +254,37 @@ def query_aspect(
     except json.JSONDecodeError as e:
         logging.warning(f"Standard JSON parsing failed: {e}\nTrying ast.literal_eval fallback...")
         try:
+            # Use ast.literal_eval as a fallback (safe for dicts/lists with single quotes)
             parsed = ast.literal_eval(json_str)
             logging.info(f"--- Parsed with ast.literal_eval for `{aspect}` ---\n{parsed}")
             return parsed
         except Exception as ast_e:
-            raise ValueError(
-                f"❌ Fallback parsing also failed for `{aspect}`: {ast_e}\n\nRaw:\n{raw}"
-            )
-
-def _normalize_key(k: str) -> str:
-    # strips whitespace and also strips wrapping quotes if the model included them as text
-    return k.strip().strip('"').strip("'")
+            error_msg = f"❌ Fallback parsing also failed for `{aspect}`: {ast_e}\n\nRaw:\n{raw}"
+            logging.error(error_msg)
+            raise ValueError(error_msg)    
 
 def process_case(text: str, case_id: str, model, processor, output_enhanced_dir: Path) -> dict:
+    """Run all aspect prompts, merge the fragments."""
+    # Setup case-specific log
     log_dir = output_enhanced_dir / "logs"
     setup_logger(case_id, log_dir)
     logging.info(f"\n\n🗂️ Processing case ID: {case_id}")
 
+    
     aggregated = {}
-    for aspect, tmpl in PROMPTS.items():        
-        piece = query_aspect(aspect, tmpl, text, model, processor)
-
-        # normalize keys
-        if isinstance(piece, dict):
-            piece_norm = {_normalize_key(k): v for k, v in piece.items()}
-        else:
-            raise ValueError(f"Model returned non-dict for {aspect}: {type(piece)}")
-        
-        if aspect == "key_arguments":
-            if "key_arguments" not in piece_norm:
-                raise KeyError(f"Missing key_arguments in output keys={list(piece_norm.keys())}")
-            aggregated["key_arguments"] = piece_norm["key_arguments"]
-        else:
-            if aspect not in piece_norm:
-                raise KeyError(f"Missing {aspect} in output keys={list(piece_norm.keys())}")
-            aggregated[aspect] = piece_norm[aspect]
-
+    for aspect, tmpl in PROMPTS.items():
+        try:
+            piece = query_aspect(aspect, tmpl, text, model, processor)
+            if aspect == "key_arguments":
+                aggregated["key_arguments"] = piece["key_arguments"]
+            else:
+                aggregated[aspect] = piece[aspect]
+        except Exception as e:
+            error_msg = f"⚠️ Skipped `{aspect}` in case `{case_id}` due to: {e}"
+            logging.error(error_msg)
+            raise ValueError(error_msg)
     return aggregated
+
 
 
 def run_case_enhancement_slice(

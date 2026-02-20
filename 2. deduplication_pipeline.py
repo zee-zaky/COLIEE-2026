@@ -88,6 +88,7 @@ def resolve_config(args: argparse.Namespace) -> PipelineConfig:
         enhanced_cases_dir=cfg.enhanced_cases_dir,
         enhanced_logs_dir=cfg.enhanced_logs_dir,
         ma_metadata_dir=cfg.ma_metadata_dir,
+        enhanced_metadata_prefix=cfg.enhanced_metadata_prefix,
         hf_cache_dir=cfg.hf_cache_dir,
         no_labels_file=cfg.no_labels_file,
     )

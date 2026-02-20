@@ -8,7 +8,7 @@ from __future__ import annotations
 #   --num "${CASES_PER_TASK}"
 #
 # Local run example:
-# python 5.process_cases.py --preset test_2026 --start 0 --num 20 --hf-cache-dir /tmp/hf_cache --model-id google/gemma-3-4b-it --model-name gemma-3-4b-it
+# python 5.process_cases.py --preset test_2026 --start 0 --num 20
 
 import argparse
 import os
@@ -38,13 +38,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--model-id",
         type=str,
-        default="google/gemma-3-27b-it",        
+        default="google/gemma-3-27b-it",
         help="Hugging Face model id.",
     )
     parser.add_argument(
         "--model-name",
         type=str,
-        default="gemma-3-27b-it",        
+        default="gemma-3-27b-it",
         help="Name suffix for saved case files.",
     )
     parser.add_argument(
@@ -81,9 +81,9 @@ def main() -> None:
     print_gpu_status()
 
     enhanced_metadata_file = (
-        cfg.output_enhanced_dir / f"enhanced_cases_{args.model_name.replace(':', '_')}.json"
+        cfg.output_enhanced_dir
+        / f"{cfg.enhanced_metadata_prefix}_{args.model_name.replace(':', '_')}.json"
     )
-
     hf_token = (
         args.hf_token
         or os.environ.get("HF_TOKEN")

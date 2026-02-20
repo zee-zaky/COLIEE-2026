@@ -20,6 +20,7 @@ DEFAULT_OUTPUT_ENHANCED_DIR = "Dataset-Enhanced"
 DEFAULT_ENHANCED_CASES_DIR = f"{DEFAULT_OUTPUT_ENHANCED_DIR}/Cases"
 DEFAULT_ENHANCED_LOGS_DIR = f"{DEFAULT_OUTPUT_ENHANCED_DIR}/logs"
 DEFAULT_MA_METADATA_DIR = f"{DEFAULT_OUTPUT_ENHANCED_DIR}/MA_enhanced_cases"
+DEFAULT_ENHANCED_METADATA_PREFIX = "enhanced_cases"
 DEFAULT_HF_CACHE_DIR = "/nesi/nobackup/uoa04665/mzak071/hf_cache"
 
 
@@ -39,6 +40,7 @@ class PipelineConfig:
     enhanced_cases_dir: Path
     enhanced_logs_dir: Path
     ma_metadata_dir: Path
+    enhanced_metadata_prefix: str
     hf_cache_dir: Path
     no_labels_file: Optional[Path] = None
 
@@ -59,6 +61,7 @@ def _preset(
     enhanced_cases_dir: str = DEFAULT_ENHANCED_CASES_DIR,
     enhanced_logs_dir: str = DEFAULT_ENHANCED_LOGS_DIR,
     ma_metadata_dir: str = DEFAULT_MA_METADATA_DIR,
+    enhanced_metadata_prefix: str = DEFAULT_ENHANCED_METADATA_PREFIX,
     hf_cache_dir: str = DEFAULT_HF_CACHE_DIR,
     no_labels_file: Optional[str] = None,
 ) -> PipelineConfig:
@@ -81,6 +84,7 @@ def _preset(
         enhanced_cases_dir=base / enhanced_cases_dir,
         enhanced_logs_dir=base / enhanced_logs_dir,
         ma_metadata_dir=base / ma_metadata_dir,
+        enhanced_metadata_prefix=enhanced_metadata_prefix,
         hf_cache_dir=hf_cache,
         no_labels_file=(base / no_labels_file) if no_labels_file else None,
     )
