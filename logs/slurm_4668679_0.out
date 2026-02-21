@@ -1,5 +1,0 @@
-🧮 SLURM_ARRAY_TASK_ID=0
-📦 Processing cases 0 to 0
-📁 PRESET=test_2026
-📊 CASES_PER_TASK=1
-ℹ️ No HF token parameter provided; relying on env vars in runtime
